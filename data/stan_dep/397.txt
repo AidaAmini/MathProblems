@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Sunshine) (NNP Car) (NNPS Rentals))
+    (VP
+      (VBZ rents)
+      (NP
+        (NP
+          (NP (DT a) (JJ basic) (NN car))
+          (PP
+            (IN at)
+            (NP
+              (NP (DT a) (JJ daily) (NN rate))
+              (PP (IN of) (NP (CD 17.99) (NNS dollars))))))
+        (CC plus)
+        (NP (NP (CD 0.18)) (PP (IN per) (NP (NN mile))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP City) (NNPS Rentals))
+    (VP
+      (VBZ rents)
+      (NP
+        (NP
+          (NP (DT a) (JJ basic) (NN car))
+          (PP (IN at) (NP (CD 18.95) (NNS dollars))))
+        (CC plus)
+        (NP (NP (CD 0.16)) (PP (IN per) (NP (NN mile))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHPP (IN For) (WHNP (WDT what) (NN mileage)))
+    (SQ (VBZ is) (NP (DT the) (NN cost) (NP (DT the) (JJ same))))
+    (. ?)))

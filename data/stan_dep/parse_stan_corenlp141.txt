@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT A) (NN chemist))
+    (VP
+      (VBZ needs)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB make)
+            (NP
+              (NP (CD 30) (NNS ounces))
+              (PP
+                (IN of)
+                (NP
+                  (DT a)
+                  (ADJP (CD 25) (NN %))
+                  (NN alcohol)
+                  (NN solution))))
+            (PP
+              (IN by)
+              (S
+                (VP
+                  (VBG mixing)
+                  (PRT (RB together))
+                  (NP
+                    (NP
+                      (DT a)
+                      (ADJP (CD 15) (NN %))
+                      (NN alcohol)
+                      (NN solution))
+                    (PP
+                      (IN with)
+                      (NP
+                        (DT a)
+                        (ADJP (CD 40) (NN %))
+                        (NN alcohol)
+                        (NN solution)))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS ounces))
+      (PP (IN of) (NP (DT the) (ADJP (CD 15) (NN %)) (NN solution))))
+    (SQ (MD should) (NP (PRP he)) (VP (VB use)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS ounces))
+    (PP (IN of) (NP (DT the) (ADJP (CD 40) (NN %)) (NN solution)))
+    (. ?)))

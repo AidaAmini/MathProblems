@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (CD Two) (NNS airplanes))
+    (VP
+      (VBD left)
+      (NP
+        (NP (DT the) (JJ same) (NN airport))
+        (VP
+          (VBG traveling)
+          (PP (IN in) (NP (JJ opposite) (NNS directions))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (PP
+      (IN If)
+      (NP
+        (NP
+          (NP (CD one) (NN airplane) (NNS averages))
+          (PP (NP (CD 400) (NNS miles)) (IN per) (NP (NN hour))))
+        (CC and)
+        (NP
+          (NP (DT the) (JJ other) (CD 250) (NNS miles))
+          (PP (IN per) (NP (NN hour))))))
+    (, ,)
+    (WHNP (WHADJP (WRB how) (JJ many)) (NNS hours))
+    (SQ
+      (MD will)
+      (NP (PRP it))
+      (VP
+        (VB take)
+        (PP
+          (IN for)
+          (NP
+            (NP (DT the) (NN distance))
+            (PP (IN between) (NP (PRP them)))))
+        (S (VP (VB be) (NP (CD 1625) (NNS miles))))))
+    (. ?)))

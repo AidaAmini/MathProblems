@@ -1,0 +1,17 @@
+base LOC On a test containing 120 questions
+contain ARG0 a test containing 120 questions
+contain ARG1 120 questions
+base ARG1 the final score
+base ARG2 1 point for each correct answer and 0.25 of a point subtracted for each incorrect answer.
+subtract ARG1 and 0.25 of a point subtracted for each incorrect answer.
+subtract ARG2 each incorrect answer.
+
+receive ARG0 Allan
+answer ARG0 Allan
+answer ARG1 all of the questions
+receive ARG1 a final score of 100 points
+
+answer ARG1 questions
+answer ARG0 Allan
+answer MNR correctly
+

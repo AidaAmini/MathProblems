@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (NNP Mary))
+    (VP
+      (VBD began)
+      (S
+        (VP
+          (VBG walking)
+          (NP (NN home))
+          (PP (IN from) (NP (NN school)))))
+      (, ,)
+      (S
+        (VP
+          (VBG heading)
+          (ADVP (RB south))
+          (PP
+            (IN at)
+            (NP
+              (NP (DT a) (NN rate))
+              (PP
+                (IN of)
+                (NP
+                  (NP (CD 4) (NNS miles))
+                  (PP (IN per) (NP (NN hour))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Sharon))
+    (VP
+      (VBD left)
+      (NP (NN school))
+      (PP
+        (IN at)
+        (NP
+          (NP (DT the) (JJ same) (NN time))
+          (VP
+            (VBG heading)
+            (ADVP
+              (RB north)
+              (PP
+                (IN at)
+                (NP
+                  (NP (CD 6) (NNS miles))
+                  (PP (IN per) (NP (NN hour))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (RB long))
+    (SQ
+      (MD will)
+      (NP (PRP it))
+      (VP
+        (VB take)
+        (SBAR
+          (IN for)
+          (S
+            (NP (PRP them))
+            (VP
+              (TO to)
+              (VP (VB be) (ADVP (NP (CD 3) (NNS miles)) (RB apart))))))))
+    (. ?)))

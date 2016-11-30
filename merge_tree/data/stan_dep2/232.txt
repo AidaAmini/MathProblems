@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ high) (NN school))
+    (VP (VBD sold) (NP (NN gift) (NN wrap)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN gift) (NN wrap))
+      (PP (IN in) (NP (JJ solid) (NNS colors))))
+    (VP
+      (VBN sold)
+      (PP
+        (IN for)
+        (NP
+          (NP
+            (NP (CD 4.00) (NNS dollars))
+            (PP (IN per) (NP (NN roll))))
+          (CC and)
+          (NP
+            (NP (DT the) (NN print) (NN gift) (NN wrap))
+            (VP
+              (VBN sold)
+              (PP
+                (IN for)
+                (NP
+                  (NP (CD 6.00) (NNS dollars))
+                  (PP (IN per) (NP (NN roll))))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ total) (NN number))
+        (PP (IN of) (NP (NP (NNS rolls)) (VP (VBN sold)))))
+      (VP (VBD was) (NP (CD 480) (NNS rolls))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (JJ total) (NN amount))
+        (PP (IN of) (NP (NP (NN money)) (VP (VBN collected)))))
+      (VP (VBD was) (NP (CD 2,340.00) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (ADJP (JJ solid)) (NNS rolls))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NN print)) (NP (NNS rolls))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

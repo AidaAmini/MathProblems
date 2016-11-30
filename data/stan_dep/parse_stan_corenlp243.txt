@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN length))
+      (PP (IN of) (NP (DT a) (JJ rectangular) (NN field))))
+    (VP (VBZ is) (NP (CD 24) (NNS meters)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT This))
+    (VP
+      (VBZ is)
+      (ADJP
+        (ADJP (NP (CD 3) (NNS meters)) (JJR less))
+        (PP (IN than) (NP (RB twice) (DT the) (NN width)))))
+    (. .)))
+(ROOT (S (VP (VB Find) (NP (DT the) (NN width))) (. .)))

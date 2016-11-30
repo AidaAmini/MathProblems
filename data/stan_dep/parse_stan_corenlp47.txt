@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ 68-foot) (NN pipe))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN cut)
+        (PP
+          (IN into)
+          (NP
+            (NP (CD 2) (NNS pieces))
+            (, ,)
+            (SBAR
+              (WHNP (CD one) (WHPP (IN of) (WHNP (WDT which))))
+              (S
+                (VP
+                  (VBZ is)
+                  (ADJP
+                    (NP (CD 12) (NNS feet))
+                    (JJR less)
+                    (PP (IN than) (NP (DT the) (JJ other)))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN length))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT the) (JJR shorter) (NN piece))
+            (PP (IN in) (NP (NNS feet)))))))
+    (. ?)))

@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (NP (NNP E-Chem) (NNP Testing))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT a) (NN solution))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP
+              (VBZ is)
+              (NP
+                (NP (ADJP (CD 80) (NN %)) (NN base))
+                (CC and)
+                (NP
+                  (NP (DT another))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP
+                        (VBZ is)
+                        (NP (ADJP (CD 30) (NN %)) (NN base))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT A) (NN technician))
+    (VP
+      (VBZ needs)
+      (NP
+        (NP (CD 150) (NNS liters))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT a) (NN solution))
+            (SBAR
+              (WHNP (WDT that))
+              (S (VP (VBZ is) (ADJP (NP (CD 62) (NN %)) (NN base)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (CD 150) (NNS liters))
+    (VP
+      (MD will)
+      (VP
+        (VB be)
+        (VP
+          (VBN prepared)
+          (PP
+            (IN by)
+            (S
+              (VP
+                (VBG mixing)
+                (NP
+                  (NP (DT the) (CD two) (NNS solutions))
+                  (PP (IN on) (NP (NN hand))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WRB How) (RB much))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (ADJP (CD 80) (NN %)) (NN base))
+          (CC and)
+          (NP (DT the) (ADJP (CD 30) (NN %)) (NN base)))))
+    (SQ (VP (MD should) (VP (VB be) (VP (VBN used)))))
+    (. ?)))

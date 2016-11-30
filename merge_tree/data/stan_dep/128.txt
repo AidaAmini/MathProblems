@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (NP (DT A) (NN plumber) (NN contractor))
+    (VP
+      (VBZ decides)
+      (S
+        (VP
+          (TO to)
+          (VP (VB field-test) (NP (CD two) (JJ new) (NNS pumps))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (CD One))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN rated)
+        (PP
+          (IN at)
+          (NP
+            (NP
+              (NP (CD 180) (NNS gallons))
+              (PP (IN per) (NP (NN hour))))
+            (CC and)
+            (NP
+              (NP (DT the) (JJ other))
+              (PP
+                (IN at)
+                (NP
+                  (NP (CD 250) (NNS gallons))
+                  (PP (IN per) (NP (NN hour))))))))))
+    (. .)))
+(ROOT
+  (FRAG
+    (PP
+      (IN Over)
+      (NP
+        (NP (DT a) (NN period))
+        (PP (IN of) (NP (CD 6) (NNS hours)))))
+    (, ,)
+    (NP
+      (NP (PRP she) (NNS pumps))
+      (NP (QP (DT a) (NN total) (IN of) (CD 1325)) (NNS gallons)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS hours))
+    (SQ
+      (VBD were)
+      (VP
+        (VBN used)
+        (PP
+          (IN by)
+          (NP
+            (NP (DT the) (CD 180) (NNS gallons))
+            (PP (IN per) (NP (NN hour) (NN pump)))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS hours))
+    (SQ
+      (VBD were)
+      (VP
+        (VBN used)
+        (PP
+          (IN by)
+          (NP
+            (NP (DT the) (CD 250) (NNS gallons))
+            (PP (IN per) (NP (NN hour) (NN pump)))))))
+    (. ?)))

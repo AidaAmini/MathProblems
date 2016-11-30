@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Booster) (NNP Club))
+    (VP
+      (VBD voted)
+      (PP
+        (IN on)
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP they))
+            (VP
+              (MD would)
+              (VP
+                (VB go)
+                (PP (IN for) (NP (PRP$ their) (JJ annual) (NN trip)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN majority))
+      (PP (IN of) (NP (DT the) (NN club))))
+    (VP
+      (VBD voted)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB go)
+            (PP (TO to) (NP (DT a) (NN baseball) (NN game)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD bought) (NP (CD 29) (NNS tickets)))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (NNS tickets))))
+      (VP
+        (VBP are)
+        (NP (NP (CD 7) (NNS dollars)) (PP (IN per) (NP (NN ticket))))))
+    (CC and)
+    (S
+      (NP (DT some))
+      (VP
+        (VBP are)
+        (NP (NP (CD 9) (NNS dollars)) (PP (IN per) (NP (NN ticket))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NP (DT All)) (PP (IN of) (NP (DT the) (NNS tickets))))
+    (VP (VBP are) (NP (CD 225) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 7-dollar))
+      (NNS tickets))
+    (SQ (VBD did) (NP (PRP they)) (VP (VB buy)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 9-dollar))
+      (NNS tickets))
+    (SQ (VBD did) (NP (PRP they)) (VP (VB buy)))
+    (. ?)))

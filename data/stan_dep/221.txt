@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (NNP Mrs.) (NNP Naidu))
+    (VP
+      (VBD bought)
+      (NP (CD 155) (NNS dollars))
+      (PP (IN in) (NP (NNS groceries))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VBD paid)
+      (NP (PRP$ her) (NN bill))
+      (PP
+        (IN with)
+        (NP
+          (NP (JJ 5-dollar) (NNS notes))
+          (CC and)
+          (NP (JJ 20-dollar) (NNS notes))))
+      (S
+        (VP
+          (VBG using)
+          (NP
+            (NP (DT a) (NN total))
+            (PP (IN of) (NP (CD 13) (NNS notes)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 5-dollar))
+      (NNS notes))
+    (SQ (VBD were) (VP (VBN used)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 20-dollar))
+      (NNS notes))
+    (SQ (VBD were) (VP (VBN used)))
+    (. ?)))

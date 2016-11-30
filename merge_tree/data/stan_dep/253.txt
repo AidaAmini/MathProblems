@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN building))
+      (PP (IN with) (NP (CD 12) (NNS units))))
+    (VP
+      (VBZ consists)
+      (PP
+        (IN of)
+        (NP
+          (NP (CD 1) (NNS bedrooms))
+          (VP
+            (VBG costing)
+            (S
+              (NP
+                (NP (CD 360) (NNS dollars))
+                (CC and)
+                (NP (CD 2) (NNS bedrooms)))
+              (VP
+                (VBG costing)
+                (NP (CD 450) (NNS dollars))
+                (ADVP (RB respectively))))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S (NP (DT all) (NNS units)) (VP (VBP are) (ADJP (JJ full)))))
+    (NP (DT the) (NN total))
+    (VP (VBZ is) (NP (CD 4950) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD 2) (NN bedroom)) (NP (NNS units))))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

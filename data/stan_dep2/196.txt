@@ -1,0 +1,86 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ small) (NN publishing) (NN company))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG planning)
+        (S
+          (VP
+            (TO to)
+            (VP (VB publish) (NP (DT a) (JJ new) (NN book)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN production) (NNS costs))
+    (VP
+      (MD will)
+      (VP
+        (VB include)
+        (NP
+          (NP (JJ one-time) (JJ fixed) (NNS costs))
+          (CC and)
+          (NP (JJ variable) (NNS costs)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ one-time) (JJ fixed) (NNS costs))
+    (VP
+      (MD will)
+      (VP (VB amount) (PP (TO to) (NP (CD 35,630) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ variable) (NNS costs))
+    (VP
+      (MD will)
+      (VP
+        (VB be)
+        (NP
+          (NP (CD 11.50) (NNS dollars))
+          (PP (IN per) (NP (NN book))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN publisher))
+    (VP
+      (MD will)
+      (VP
+        (VB sell)
+        (NP (DT the) (VBN finished) (NN product))
+        (PP
+          (TO to)
+          (NP
+            (NP (NNS bookstores))
+            (PP
+              (IN at)
+              (NP
+                (NP (DT a) (NN price))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (CD 20.25) (NNS dollars))
+                    (PP (IN per) (NP (NN book)))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS books))
+    (SQ
+      (MD must)
+      (NP (DT the) (NN publisher) (NN print))
+      (VP
+        (ADVP (CC and))
+        (VB sell)
+        (SBAR
+          (RB so)
+          (IN that)
+          (S
+            (NP (DT the) (NN production) (NNS costs))
+            (VP
+              (MD will)
+              (VP
+                (VB equal)
+                (NP
+                  (NP (DT the) (NN money))
+                  (VP (VBN obtained) (PP (IN from) (NP (NNS sales)))))))))))
+    (. ?)))

@@ -1,0 +1,8 @@
+travels arg0 a plane
+travel TMP at 325 mile per hour
+travels arg1 due east
+travel arg0 another plane
+travels arg2 275 mile per hour
+travels arg1 due west
+leave arg0 they
+leave TMP at the same time

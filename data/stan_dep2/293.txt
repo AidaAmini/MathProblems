@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT A) (NN girl))
+    (VP
+      (VBZ saves)
+      (NP
+        (NP (JJ 1-dollar) (NNS coins))
+        (CC and)
+        (NP (JJ 2-dollar) (NNS coins))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (PRP She))
+      (VP
+        (VBZ takes)
+        (NP (PRP it))
+        (PP (TO to) (NP (DT a) (NN bank)))))
+    (, ,)
+    (NP (PRP she))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 180) (NNS coins))
+        (PP (IN in) (NP (NN total)))
+        (SBAR
+          (WHNP (WDT that))
+          (S (VP (VBZ equals) (NP (CD 260) (NNS dollars)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (JJ 1-dollar) (NNS coins))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 2-dollar))
+      (NNS coins))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

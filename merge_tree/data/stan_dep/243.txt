@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNP Didi))
+    (VP
+      (VBD invested)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 12,000) (NNS dollars))))
+      (PP
+        (IN in)
+        (NP
+          (NP (CD two) (NNS accounts))
+          (VP
+            (VBG paying)
+            (NP
+              (ADJP
+                (NP (CD 7.5) (NN %) (CC and) (CD 6) (NN %))
+                (JJ simple))
+              (NN interest))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (PRP$ her) (JJ total) (NN return))
+          (PP
+            (IN at)
+            (NP
+              (NP (DT the) (NN end))
+              (PP (IN of) (NP (DT the) (JJ first) (NN year))))))
+        (VP (VBD was) (NP (CD 840) (NNS dollars)))))
+    (, ,)
+    (WHNP (WRB how) (JJ much))
+    (SQ
+      (VBD did)
+      (NP (PRP she))
+      (VP (VB invest) (PP (IN in) (NP (DT each) (NN account)))))
+    (. ?)))

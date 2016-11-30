@@ -1,0 +1,39 @@
+(ROOT
+  (NP
+    (NP (NNS Tickets))
+    (PP
+      (TO to)
+      (NP
+        (NP (DT the) (NN school) (POS 's))
+        (NN dinner)
+        (NN theatre)
+        (NN cost)))
+    (PP
+      (NP (CD 6) (NNS dollars))
+      (IN for)
+      (NP (NP (NNS children)) (CC and) (NP (CD 9) (NNS dollars))))
+    (PP (IN for) (NP (NNS adults)))
+    (. .)))
+(ROOT
+  (S
+    (NP (CD 225) (NNS tickets))
+    (VP
+      (VBD were)
+      (VP
+        (VBN sold)
+        (PP
+          (IN for)
+          (NP
+            (NP (DT a) (NN total))
+            (PP (IN of) (NP (CD 1875) (NNS dollars)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS children))
+    (SQ (VP (VBN attended)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS adults))
+    (SQ (VP (VBN attended)))
+    (. ?)))

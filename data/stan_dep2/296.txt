@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJR larger))
+      (PP (IN of) (NP (CD two) (NNS numbers))))
+    (VP
+      (VBZ is)
+      (ADVP
+        (ADVP (NP (CD 23)) (JJR less))
+        (PP (IN than) (ADVP (RB twice))))
+      (NP (DT the) (JJR smaller)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN sum))
+      (PP (IN of) (NP (DT the) (CD two) (NNS numbers))))
+    (VP (VBZ is) (NP (CD 70)))
+    (. .)))
+(ROOT (S (VP (VB Find) (NP (DT the) (CD two) (NNS numbers))) (. .)))

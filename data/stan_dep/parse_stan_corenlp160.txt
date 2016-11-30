@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNS Purses))
+    (VP (VBD cost) (NP (CD 7) (NNS dollars)) (NP (DT each)))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Scarves))
+    (VP (VBD cost) (NP (CD 8) (NNS dollars)) (NP (DT each)))
+    (. .)))
+(ROOT
+  (S
+    (NP (CD 17) (JJ combined) (NNS items))
+    (VP
+      (VBD sold)
+      (SBAR
+        (S
+          (S (VP (VBG costing) (NP (CD 130) (NNS dollars))))
+          (VP (VBP total)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS purses))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S (NP (NNS scarves)) (VP (VBD were) (VP (VBN sold))))
+    (. ?)))

@@ -1,0 +1,15 @@
+travel ARG0 A freight train and an express train
+leave ARG0 A freight train and an express train
+leave ARG2 390 kilometers apart
+leave ARG1 towns
+travel ARG1 one another
+
+travels ARG0 The freight train
+travels ARG1 30 kilometers per hour slower than the express train
+
+pass ARG0 They
+pass TMP another 3 hours later
+pass ARG1 one
+
+
+

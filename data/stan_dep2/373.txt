@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (DT A) (NN car))
+    (VP
+      (VBD traveled)
+      (NP (CD 715) (NNS kilometers))
+      (PP (IN in) (NP (CD 11) (NNS hours))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBD was) (NP (PRP$ its) (JJ average) (NN speed)))
+    (. ?)))

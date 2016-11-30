@@ -1,0 +1,24 @@
+convert ARG0 Snookers Lumber
+convert MOD can
+convert ARG2 either lumber or plywood
+convert ARG1 logs
+
+turn_out LOC In a given day
+give ARG1 a given day
+turn_out ARG0 the mill
+turn_out ARG1 as many units of plywood as lumber
+turn_out TMP three times
+
+make ARG0 It
+make ARG1 a profit of 30 dollars on a unit of lumber and 50 dollars on a unit of plywood
+
+make ARG0 Snookers lumber
+sell ARG0 Snookers lumber
+produce ARG0 Snookers lumber
+produce MOD must
+sell MOD must
+produce ARG1 a profit of 18360 dollars
+make ARG1 a profit of 18360 dollars
+sell PNC to make
+sell ARG1 ___ units of lumber and ___ units of plywood
+

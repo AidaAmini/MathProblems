@@ -1,0 +1,9 @@
+student	dollar
+dollar	non-student
+non-student	dollar
+dollar	ticket
+ticket	dollar
+dollar	non-student ticket
+non-student ticket	dollar
+dollar	student ticket
+student ticket	dollar

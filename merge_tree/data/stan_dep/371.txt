@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VB Find)
+        (NP
+          (NP (CD two) (NNS numbers))
+          (SBAR
+            (WHNP (WP$ whose) (NN sum))
+            (S (VP (VBZ is) (NP (CD 147) (CC and) (CD one))))))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (CD 4) (NN greather))
+        (PP (IN than) (NP (CD 0.375)))
+        (PP (IN of) (NP (DT the) (JJ other)))))
+    (. .)))

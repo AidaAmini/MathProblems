@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (JJS Best) (NNS Rentals))
+    (VP
+      (VBZ charges)
+      (NP
+        (NP (DT a) (JJ daily) (NN fee))
+        (PP (CC plus) (NP (DT a) (NN mileage) (NN fee))))
+      (PP (IN for) (S (VP (VBG renting) (NP (PRP$ its) (NNS cars))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Barney))
+    (VP
+      (VBD was)
+      (VP
+        (VBN charged)
+        (NP
+          (NP (CD 69) (NNS dollars))
+          (PP
+            (IN for)
+            (NP
+              (NP (CD 3) (NNS days))
+              (CC and)
+              (NP (CD 300) (NNS miles)))))
+        (, ,)
+        (SBAR
+          (IN while)
+          (S
+            (NP (NNP Mary))
+            (VP
+              (VBD was)
+              (VP
+                (VBN charged)
+                (NP
+                  (NP (CD 123) (NNS dollars))
+                  (PP
+                    (IN for)
+                    (NP
+                      (NP (CD 5) (NNS days))
+                      (CC and)
+                      (NP (CD 600) (NNS miles)))))))))))
+    (. .)))
+(ROOT
+  (SQ
+    (VP
+      (VP (VB Find) (NP (DT the) (JJ daily) (NN fee)))
+      (CC and)
+      (VP (VB find) (NP (DT the) (NN mileage) (NN charge))))
+    (. ?)))

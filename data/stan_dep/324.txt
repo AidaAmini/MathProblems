@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT Each) (NN unit))
+        (PP (IN of) (NP (NN grain) (NN A))))
+      (VP
+        (VBZ contains)
+        (NP
+          (NP (CD 2) (NNS grams))
+          (PP
+            (IN of)
+            (NP (NP (JJ fat)) (CC and) (NP (CD 80) (NNS calories)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NN unit) (NN B))
+      (VP
+        (VBZ has)
+        (NP
+          (NP (CD 3) (NNS grams))
+          (PP
+            (IN of)
+            (NP (NP (JJ fat)) (CC and) (NP (CD 60) (NNS calories)))))))
+    (. .)))
+(ROOT
+  (FRAG
+    (SBAR
+      (IN If)
+      (S
+        (NP (DT the) (JJ final) (NN product))
+        (VP
+          (VBZ is)
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB provide)
+                (NP
+                  (NP (CD 18) (NNS grams))
+                  (PP
+                    (IN of)
+                    (NP
+                      (NP (JJ fat) (CC and) (CD 480) (NNS calories))
+                      (, ,)
+                      (SBAR
+                        (WHNP (WRB how) (JJ much))
+                        (S
+                          (UCP
+                            (PP (IN of) (NP (NN grain) (NN A)))
+                            (CC and)
+                            (SBAR
+                              (WHNP
+                                (WHNP (WRB how) (JJ much))
+                                (PP (IN of) (NP (NN grain) (NN B))))
+                              (S
+                                (VP
+                                  (MD should)
+                                  (VP (VB be) (VP (VBN used))))))))))))))))))
+    (. .)))

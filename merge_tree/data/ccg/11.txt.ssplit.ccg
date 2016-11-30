@@ -1,0 +1,10 @@
+ID=1
+(<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS Purses N/N>) (<T N 1 2> (<L N/N POS POS cost N/N>) (<T N 1 2> (<L N/N POS POS 7 N/N>) (<L N POS POS dollars N>) ) ) ) ) (<T NP\NP 0 2> (<L NP\NP POS POS each NP\NP>) (<L . POS POS . .>) ) ) 
+ID=2
+(<T S[dcl] 1 2> (<T NP 0 1> (<L N POS POS Scarves N>) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP POS POS cost (S[dcl]\NP)/NP>) (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS 8 N/N>) (<L N POS POS dollars N>) ) ) (<T NP\NP 0 2> (<L NP\NP POS POS each NP\NP>) (<L . POS POS . .>) ) ) ) ) 
+ID=3
+(<T NP 0 2> (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS 17 N/N>) (<T N 1 2> (<L N/N POS POS combined N/N>) (<L N POS POS items N>) ) ) ) (<T NP\NP 0 1> (<L S[pss]\NP POS POS sold S[pss]\NP>) ) ) (<T NP\NP 0 1> (<T S[ng]\NP 0 2> (<L (S[ng]\NP)/NP POS POS costing (S[ng]\NP)/NP>) (<T (S[X]\NP)\((S[X]\NP)/NP) 0 1> (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS 130 N/N>) (<L N POS POS dollars N>) ) ) (<T NP\NP 0 2> (<L NP\NP POS POS total NP\NP>) (<L . POS POS . .>) ) ) ) ) ) ) 
+ID=4
+(<T S[qem] 0 2> (<T S[qem]/(S[dcl]\NP) 0 2> (<T (S[qem]/(S[dcl]\NP))/N 0 2> (<L ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) POS POS How ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP)>) (<L S[adj]\NP POS POS many S[adj]\NP>) ) (<L N POS POS purses N>) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/(S[pss]\NP) POS POS were (S[dcl]\NP)/(S[pss]\NP)>) (<T S[pss]\NP 0 2> (<L S[pss]\NP POS POS sold S[pss]\NP>) (<L . POS POS ? .>) ) ) ) 
+ID=5
+(<T S[qem] 0 2> (<T S[qem]/(S[dcl]\NP) 0 2> (<T (S[qem]/(S[dcl]\NP))/N 0 2> (<L ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP) POS POS How ((S[qem]/(S[dcl]\NP))/N)/(S[adj]\NP)>) (<L S[adj]\NP POS POS many S[adj]\NP>) ) (<L N POS POS scarves N>) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/(S[pss]\NP) POS POS were (S[dcl]\NP)/(S[pss]\NP)>) (<T S[pss]\NP 0 2> (<L S[pss]\NP POS POS sold S[pss]\NP>) (<L . POS POS ? .>) ) ) ) 

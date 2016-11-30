@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP Post) (NN card) (NNS stamps))
+    (VP (VBP are) (NP (NP (CD 0.20) (NNS dollars)) (NP (DT each))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Letter) (NNS stamps))
+    (VP (VBD cost) (NP (CD 0.33) (NNS dollars)) (NP (DT each)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP you))
+        (VP
+          (VBP have)
+          (NP
+            (NP (CD 50) (NNS stamps))
+            (ADJP (JJ worth) (NP (CD 12.60) (NNS dollars)))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (JJ post)
+      (NN card)
+      (NNS stamps))
+    (SQ (VBP do) (NP (PRP you)) (VP (VB have)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (SBARQ
+      (WHNP (WHADJP (WRB How) (JJ many)) (NN letter) (NNS stamps))
+      (. ?))))

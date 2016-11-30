@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (DT some) (JJ 2-dollar) (NNS coins))
+        (CC and)
+        (NP (DT some) (JJ 5-dollar) (NNS coins))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 40) (NNS coins))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP
+              (VBP give)
+              (NP
+                (NP (DT a) (JJ total) (NN amount))
+                (PP (IN of) (NP (CD 125) (NNS dollars)))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 2-dollar))
+      (NNS coins))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 5-dollar))
+      (NNS coins))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

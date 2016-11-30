@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (S
+      (S
+        (VP
+          (TO To)
+          (VP
+            (VB make)
+            (NP
+              (NP (DT a) (JJ weak) (NN solution))
+              (PP
+                (IN of)
+                (NP
+                  (NP (CD 24) (NNS liters))
+                  (PP (IN of) (NP (ADJP (CD 4) (NN %)) (NN acid)))))))))
+      (, ,)
+      (NP (DT a) (NN lab) (NN technician))
+      (VP
+        (MD will)
+        (VP (VB use) (NP (DT some) (JJ premixed) (NNS solutions)))))
+    (: :)
+    (S
+      (S
+        (NP (CD one))
+        (VP (VBZ is) (NP (ADJP (CD 2) (NN %)) (NN acid))))
+      (CC and)
+      (S
+        (NP (DT the) (JJ other))
+        (VP (VBZ is) (NP (ADJP (CD 5) (NN %)) (NN acid)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS liters))
+      (PP
+        (IN of)
+        (NP (NP (DT each)) (, ,) (ADVP (RB respectively)) (, ,))))
+    (SQ
+      (MD should)
+      (NP (PRP he))
+      (VP
+        (VB use)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB obtain)
+              (NP (DT the) (VBN desired) (NN solution)))))))
+    (. ?)))

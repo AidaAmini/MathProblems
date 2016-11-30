@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNP Manuel))
+    (VP
+      (VBD opened)
+      (NP (DT a) (NN savings) (NN account))
+      (PP
+        (IN with)
+        (NP
+          (NP (DT an) (JJ initial) (NN deposit))
+          (PP (IN of) (NP (CD 177) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBZ wants)
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB save)
+                (NP (CD 500) (NNS dollars))
+                (PP
+                  (IN during)
+                  (NP (DT the) (JJ next) (CD 19) (NNS weeks)))))))))
+    (, ,)
+    (WHNP (WRB how) (JJ much))
+    (SQ
+      (MD must)
+      (NP (PRP he))
+      (VP
+        (VB save)
+        (NP-TMP (DT each) (NN week))
+        (, ,)
+        (PP (IN in) (NP (NNS dollars)))))
+    (. ?)))

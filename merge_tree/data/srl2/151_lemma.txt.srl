@@ -1,0 +1,11 @@
+carry arg1 the maximum load that a horizontal beam can carry
+carry arg0 a horizontal beam
+carry MOD can
+find ADV if a beam 1.5 inch wide can support a load of 250 pound
+support arg0 a beam 1.5 inch wide
+support mod can
+support arg1 a load of 250 pound
+find arg1 the load that a beam of the same type can support if its width be 3.5
+support arg0 a beam of the same type
+support mod can
+support adv if its width be 3.5

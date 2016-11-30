@@ -1,0 +1,15 @@
+invest ARG0 A woman
+invest ARG2 2 accounts , one earning 6.5 % annual interest and the other earning 8 % annual interest.
+invest ARG1 a total of 9,000 dollars
+earn ARG0 , one earning 6.5 % annual interest and the other earning 8 % annual interest.
+earn ARG1 6.5 % annual interest
+
+be TMP After 1 year
+
+invest ARG1 much
+invest ARG0 she
+invest ARG2 the account paying 8 % interest , in dollars
+pay ARG1 the account paying 8 % interest , in dollars
+pay MNR in dollars
+pay ARG1 8 % interest
+

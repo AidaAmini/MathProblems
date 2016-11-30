@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NP (NNP Class) (NNP A)) (CC and) (NP (NN class) (NN B)))
+    (VP
+      (VBD donated)
+      (NP (PRP$ their) (NN class) (NN fund))
+      (S
+        (VP
+          (VBG totaling)
+          (NP (CD 127) (NNS dollars))
+          (PP (TO to) (NP (DT an) (NN orphanage))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (NN amount))
+          (VP (VBN donated) (PP (IN by) (NP (NN class) (NN A)))))
+        (VP
+          (VBZ is)
+          (ADJP
+            (NP (CD 7) (NNS dollars))
+            (JJ short)
+            (PP
+              (IN of)
+              (NP
+                (NP (CD 0.6667))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (DT the) (NN amount))
+                    (VP
+                      (VBN donated)
+                      (PP (IN by) (NP (NN class) (NNP B.))))))))))))
+    (WHNP (WRB How) (JJ much))
+    (SQ (VP (VBD did) (S (NP (NNP Class) (NNP A)) (VP (VB Donate)))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WRB How) (JJ much))
+      (PP (TO to) (NP (NN class) (NN B))))
+    (SQ (VP (VB donate)))
+    (. ?)))

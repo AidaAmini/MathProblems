@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (CD Nine) (NNS books))
+    (VP
+      (VBP are)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB be)
+            (VP (VBN bought) (PP (IN by) (NP (DT a) (NN student))))))))
+    (. .)))
+(ROOT
+  (NP
+    (NP (DT Some) (NN cost))
+    (NP
+      (NP (NP (CD 6) (NNS dollars)) (NP (DT each)))
+      (CC and)
+      (NP (DT the) (NN remainder) (NN cost)))
+    (NP (NP (CD 6.50) (NNS dollars)) (NP (DT each)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ total) (NN amount))
+    (VP
+      (VBD spent)
+      (SBAR (S (VP (VBD was) (NP (CD 56) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (JJ 6-dollar) (NNS books))
+      (VP (VBD were) (VP (VBN sold))))
+    (. ?)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (JJ 6.50-dollar) (NNS books))
+      (VP (VBD were) (VP (VBN sold))))
+    (. ?)))

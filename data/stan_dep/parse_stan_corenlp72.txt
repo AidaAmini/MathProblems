@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP (CD 2) (NNS numbers))
+      (SBAR
+        (SBAR
+          (WHNP (WP$ whose) (NN sum))
+          (S (VP (VBZ is) (NP (CD 64)))))
+        (CC and)
+        (SBAR
+          (WHNP (WP$ whose) (NN difference))
+          (S (VP (VBZ is) (NP (CD 4)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VP (VBZ is) (NP (DT the) (JJR smaller) (NN number))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is) (NP (DT the) (ADJP (JJR larger)) (NN number)))
+    (. ?)))

@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJS tallest) (NN player))
+      (PP (IN on) (NP (DT the) (NN basketball) (NN team))))
+    (VP (VBZ is) (ADJP (NP (CD 77.75) (NNS inches)) (JJ tall)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT This))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (NP (CD 9.5) (NNS inches)) (JJR taller))
+        (PP (IN than) (NP (DT the) (JJS shortest) (NN player)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ tall))
+    (SQ (VBZ is) (NP (DT the) (JJS shortest) (NN player)))
+    (, ,)
+    (FRAG (X (IN in)) (NP (NNS inches)))
+    (. ?)))

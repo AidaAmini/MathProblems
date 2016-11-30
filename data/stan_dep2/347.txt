@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT A) (NN vendor))
+    (VP
+      (VBD sold)
+      (NP (CD 200) (NNS tickets))
+      (PP (IN for) (NP (DT an) (JJ upcoming) (NN rock) (NN concert))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (NN Floor) (NNS seats))
+      (VP (VBD were) (NP (CD 36) (NNS dollars))))
+    (CC and)
+    (S
+      (NP (NN stadium) (NNS seats))
+      (VP (VBD were) (NP (CD 28) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN vendor))
+    (VP
+      (VBD sold)
+      (NP (CD 6080) (NNS dollars))
+      (PP (IN in) (NP (NNS tickets))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 36-dollar))
+      (NNS tickets))
+    (SQ (VBD did) (NP (DT the) (NN vendor)) (VP (VB sell)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 28-dollar))
+      (NNS tickets))
+    (SQ (VBD did) (NP (DT the) (NN vendor)) (VP (VB sell)))
+    (. ?)))

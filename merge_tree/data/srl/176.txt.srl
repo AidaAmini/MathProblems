@@ -1,0 +1,13 @@
+have ARG0 A cosmetologist
+have ARG1 a bottle of 7 % hydrogen peroxide solution and a bottle of 4 % hydrogen peroxide solution
+
+need ARG0 The cosmetologist
+need ARG1 300 milliliters of a 5 % hydrogen peroxide solution
+
+Find ARG1 how many milliliters of each solution the cosmetologist needs to mix together
+mix ARG1 to mix together
+mix ARG0 the cosmetologist
+need ARG0 the cosmetologist
+need ARG1 to mix together
+mix MNR together
+

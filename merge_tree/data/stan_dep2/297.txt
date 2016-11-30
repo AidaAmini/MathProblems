@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN garden) (NN table))
+      (CC and)
+      (NP (DT a) (NN bench)))
+    (VP (VBP are) (NP (NP (CD 750)) (VP (VBN combined))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN price))
+      (PP (IN of) (NP (DT the) (NN garden) (NN table))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (QP (CD two) (NNS times)) (DT the) (NN price))
+        (PP (IN of) (NP (DT the) (NN bench)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP (IN of) (NP (DT the) (NN bench)))))
+    (. ?)))

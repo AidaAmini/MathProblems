@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ mechanic))
+    (VP
+      (JJ charged)
+      (NP
+        (NP (NP (CD 45) (NNS dollars)) (NP (DT an) (NN hour)))
+        (, ,)
+        (CC plus)
+        (NP
+          (NP (CD 225) (NNS dollars))
+          (PP (IN for) (NP (DT the) (NNS parts))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (DT the) (JJ total) (NN bill))
+        (VP (VBD was) (NP (CD 450) (NNS dollars)))))
+    (, ,)
+    (WHADVP (WRB how) (NP (NN man) (NNS hours)))
+    (SQ (VBD did) (NP (DT the) (NN job)) (VP (VB take)))
+    (. ?)))

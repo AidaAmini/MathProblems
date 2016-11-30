@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (CD 193) (NNS tickets))
+    (VP
+      (VBD were)
+      (VP
+        (VBN sold)
+        (PP
+          (IN for)
+          (NP
+            (NP (DT the) (NN Class))
+            (PP
+              (IN of)
+              (NP (CD 2003) (NN ice) (NN cream) (NN picnic)))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (DT Each) (NN student) (NN ticket))
+      (VP (VBZ is) (NP (NP (CD 0.50) (NNS dollars)) (NP (DT each)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT each) (JJ non-student) (NN ticket))
+      (VP (VBZ is) (NP (NP (CD 1.50) (NNS dollars)) (NP (DT each)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN total))
+      (PP (IN of) (NP (CD 206.50) (NNS dollars))))
+    (VP (VBD was) (VP (VBN collected)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NN student)) (NP (NNS tickets))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

@@ -1,0 +1,33 @@
+(ROOT
+  (NP
+    (NP (DT A) (NN car) (VBN rented))
+    (PP
+      (IN for)
+      (NP
+        (NP (CD 29) (NNS dollars))
+        (PP
+          (IN per)
+          (NP
+            (NP (NN day))
+            (PP
+              (CC plus)
+              (NP
+                (NP (CD 0.08) (NNS dollars))
+                (PP (IN per) (NP (NN mile)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Julia))
+    (VP
+      (VBD paid)
+      (NP (CD 46.12) (NNS dollars))
+      (PP (IN for) (NP (DT a) (JJ 1-day) (NN rental))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB far))
+    (SQ
+      (VBD did)
+      (NP (PRP she))
+      (VP (VB drive) (, ,) (PP (IN in) (NP (NNS miles)))))
+    (. ?)))

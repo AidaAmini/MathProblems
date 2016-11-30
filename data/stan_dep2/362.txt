@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (CD 2) (NNS snails))
+    (VP (VBP are) (ADVP (NP (CD 264) (NNS centimeters)) (RB apart)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VBP craw)
+      (PP (IN toward) (NP (DT each) (JJ other)))
+      (PP
+        (IN at)
+        (NP
+          (NP (NNS rates))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP
+                (VBP differ)
+                (PP
+                  (IN by)
+                  (NP
+                    (NP (CD 6) (NNS centimeters))
+                    (PP (IN per) (NP (NN minute)))))))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN After) (NP (CD 22) (NNS minutes)))
+    (NP (PRP they))
+    (VP (VBP meet))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ fast))
+    (SQ (VBZ is) (NP (DT each) (NN snail)) (VP (VBG crawling)))
+    (. ?)))

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP University) (NNP Theater))
+    (VP
+      (VBD sold)
+      (NP (CD 510) (NNS tickets))
+      (PP (IN for) (NP (DT a) (NN play))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNS Tickets))
+    (VP
+      (VBD cost)
+      (NP
+        (NP (NP (CD 21) (NNS dollars)) (PP (IN per) (NP (NN adult))))
+        (CC and)
+        (NP
+          (NP (CD 15) (NNS dollars))
+          (PP (IN per) (NP (JJ senior) (NN citizen))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (JJ total) (NNS receipts))
+        (VP (VBD were) (NP (CD 8748) (NNS dollars)))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (JJ senior) (NN citizen)) (NP (NNS tickets))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

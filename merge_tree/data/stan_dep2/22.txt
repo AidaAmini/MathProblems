@@ -1,0 +1,84 @@
+(ROOT
+  (S
+    (NP (DT A) (NN department) (NN store))
+    (VP
+      (VBD held)
+      (NP
+        (DT a)
+        (NN sale)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB sell)
+              (NP
+                (NP (DT all))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (DT the) (CD 214) (NN winter) (NNS jackets))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP
+                          (VBD remained)
+                          (SBAR
+                            (IN after)
+                            (S
+                              (NP (DT the) (NN season))
+                              (VP (VBD ended)))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN Until) (NP (NN noon)))
+    (, ,)
+    (NP
+      (NP (DT each) (NN jacket))
+      (PP (IN in) (NP (DT the) (NN store))))
+    (VP
+      (VBD was)
+      (VP (VBN priced) (PP (IN at) (NP (CD 31.95) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN At) (NP (NN noon)))
+    (, ,)
+    (NP
+      (NP (DT the) (NN price))
+      (PP (IN of) (NP (DT the) (NNS jackets))))
+    (VP
+      (VBD was)
+      (ADVP (RBR further))
+      (VP (VBN reduced) (PP (TO to) (NP (CD 18.95) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN After)
+      (S
+        (NP (DT the) (JJ last) (NN jacket))
+        (VP (VBD was) (VP (VBN sold)))))
+    (, ,)
+    (NP
+      (NP (DT the) (JJ total) (NNS receipts))
+      (PP (IN for) (NP (DT the) (NN clearance) (NN sale))))
+    (VP (VBD were) (NP (CD 5108.30) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS jackets))
+    (SQ
+      (VBD were)
+      (VP
+        (VBN sold)
+        (UCP
+          (PP (IN before) (NP (NN noon)))
+          (CC and)
+          (SBAR
+            (WHADJP (WRB how) (JJ many))
+            (S
+              (NP (NNS jackets))
+              (VP
+                (VBD were)
+                (VP (VBN sold) (PP (IN after) (NP (NN noon))))))))))
+    (. ?)))

@@ -1,0 +1,210 @@
+import sys
+
+def find_the_number_completely_correct(ans_dir, ans_suffix, start_index, end_index, score_file_name):
+	count = 0
+	count_wrong = 0
+	detailed_wrong = []
+	detailed_coorect = []
+	for i in range(start_index, end_index):
+		correct_words = []
+		wrong_words = []
+		seen_np = []
+		input_file = open(ans_dir + str(i) + ans_suffix , 'r')
+		ans_list = []
+		ans_check_list = []
+		for line in input_file:
+			ans_list.append(line[:-1].lower())
+			ans_check_list.append(False)
+		np_input_file = open('data/np/' + str(i) + '_lemma.txt.ssplit.ccg.nps', 'r')
+		test_fv_file  = open(score_file_name, 'r')
+		test_line = test_fv_file.readline()
+		for np in np_input_file:
+			
+			if np[-2] == ',' or np[-2] == '.' or np[-2] == '!' or np[-2] == '?':
+				np = np[:-3].lower()
+			else:
+				np = np[:-1].lower()
+			continue_flag = True
+			for seen_noun in seen_np:				
+				if  seen_noun  == np:
+					continue_flag = False
+					break
+			if continue_flag == False:
+				continue
+			seen_np.append(np)
+			for ans in ans_list:
+				if np == ans:
+					print np
+					print ans_list
+					if test_line.startswith('1'):
+						correct_words.append(np)
+						ans_check_list[ans_list.index(np)] = True
+					else:
+						wrong_words.append(np)
+							
+			test_line = test_fv_file.readline()
+		print 'i ::::::'
+		print i
+		print correct_words
+		print  wrong_words
+		
+		flag = True
+		count_wrong_item = 0
+		count_correct_item = 0
+		for check_flag in ans_check_list:
+			if check_flag == False:
+				flag = False
+				count_wrong_item = count_wrong_item + 1
+			else:
+				count_correct_item = count_correct_item + 1	
+				
+		detailed_wrong.append(count_wrong_item)
+		detailed_coorect.append(count_correct_item)
+		if flag == True:
+			count = count +1
+			print i
+			print ans_list
+		else:
+			count_wrong = count_wrong + 1
+			
+	print count_wrong
+	print count
+	print detailed_wrong
+	print detailed_coorect
+				
+			
+
+def find_the_pair_words_for_disjoint():
+	output_file = open("disjoint.txt", 'w')
+	for i in range(35, 50):
+		question_strings_np = []
+		if i == 17 or i == 30 or i == 33:
+			continue
+		input_file = open("data/np_classifier/" + str(i) + '.txt.ssplit.ccg.nps','r')
+		for np in input_file:
+			if np[-2] == ',' or np[-2] == '.' or np[-2] == '!' or np[-2] == '?':
+				question_strings_np.append(np[:-3].lower())
+			else:
+				question_strings_np.append(np[:-1].lower())
+		for np1 in question_strings_np:
+			for np2 in question_strings_np:
+				if np1 == np2:
+					continue
+				output_file.write(np1 + '\t' + np2 + '\n')
+
+def find_the_relevant_noun_phrases():
+	output_file = open("np.txt", 'w')
+	for i in range(0, 50):
+		question_strings_np = []
+		if i == 17 or i == 30 or i == 33 or i == 70:
+			continue
+		input_file = open("data/np_no_article/" + str(i) + '_lemma.txt.ssplit.ccg.nps','r')
+		for np in input_file:
+			if np[-2] == ',' or np[-2] == '.' or np[-2] == '!' or np[-2] == '?':
+				question_strings_np.append(np[:-3].lower())
+			else:
+				question_strings_np.append(np[:-1].lower())
+		for np1 in question_strings_np:	
+			output_file.write(np1 + '\n')
+			
+def visualize(score_file_name, test_file_name):
+	print visualize
+	output_file = open("data_in_1_entity.txt", "w")
+	input_file_np = open('np_visual.txt','r')
+	input_file_fv = open(test_file_name, 'r')
+	input_file_score = open(score_file_name, 'r')
+	fv = input_file_fv.readline()
+	nps = input_file_np.read()
+	np = nps.split('\n')
+	i =0
+	for score in input_file_score:
+#		print i
+		output_file.write("np : " + np[i] + '\n')
+		output_file.write("score : " + score )
+		output_file.write("fv : " + fv + '\n') 
+		fv = input_file_fv.readline()
+#		if i == len(np)-1:
+#			break
+#		else:
+		i = i+1
+		
+
+
+#find_the_pair_words_for_disjoint()
+find_the_relevant_noun_phrases()
+seen_list = []
+score_file_name = str(sys.argv[1])
+test_file_name = str(sys.argv[2])
+find_the_relevant_noun_phrases()
+visualize(score_file_name, test_file_name)
+find_the_pair_words_for_disjoint()
+print 'here'
+find_the_number_completely_correct("data/entities_preprocessed/", "_lemma.ent", 0, 50, score_file_name)
+
+res_file = open(score_file_name, 'r')
+noun_phrases_list = open('disjoint.txt', 'r')
+test_file = open(test_file_name, 'r')
+tp_array = []
+tn_array = []
+fp_array = []
+fn_array = []
+tp = 0
+tn = 0
+fp = 0
+fn = 0
+index=0
+for line in res_file:
+	index = index + 1
+	# print line
+	np_line = noun_phrases_list.readline()
+	# if np_line in seen_list:
+	# 	continue
+	# seen_list.append(np_line)
+	np_line = np_line[:-1]
+	test_line = test_file.readline()
+	if line.startswith("1") or line.startswith('2'):
+		if test_line.startswith("1") or test_line.startswith('2'):
+			if np_line in tp_array:
+				continue
+			tp = tp + 1
+			tp_array.append(np_line)
+		else:
+			if np_line in fp_array:
+				continue
+			fp = fp + 1
+			fp_array.append(np_line)
+	else: 
+		if test_line.startswith("1") or test_line.startswith('2'):
+			if np_line =='plum':
+				print index
+			if np_line in fn_array:
+				continue
+			fn = fn + 1
+			fn_array.append(np_line)
+		else:
+			if np_line in tn_array:
+				continue
+			tn = tn + 1
+			tn_array.append(np_line)
+	
+
+output_file = open("visualization_data.txt", 'w')
+output_file.write("tp_array\n")
+for word in tp_array:
+	output_file.write(word + '\n')
+output_file.write("tn_array\n")
+for word in tn_array:
+	output_file.write(word + '\n')
+output_file.write("fp_array\n")
+for word in fp_array:
+	output_file.write(word + '\n')
+output_file.write("fn_array\n")
+for word in fn_array:
+	output_file.write(word + '\n')
+print tp
+print fn
+print tn
+print fp
+print 'accuracy::' + str((tn + tp + 0.0) / (tn + tp + fp + fn + 0.0))
+print 'precision:'+str((tp + 0.0) / (tp + fp + 0.0))
+print 'recall: '+str((tp + 0.0) / (tp + fn +0.0))

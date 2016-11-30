@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (NNP Kay))
+    (VP
+      (VBZ spends)
+      (NP
+        (NP (CD 250) (NNS minutes))
+        (PP (IN per) (NP (NN week) (VBG exercising)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Her) (NN ratio))
+      (PP
+        (IN of)
+        (NP
+          (NP (NN time))
+          (VP
+            (VBN spent)
+            (PP (IN on) (NP (NN aerobics)))
+            (PP (TO to) (NP (NN time)))))))
+    (VP
+      (VBD spent)
+      (PP
+        (IN on)
+        (NP
+          (NP (NN weight) (NN training))
+          (SBAR (S (VP (VBZ is) (NP (QP (CD 3) (TO to) (CD 2)))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS minutes))
+      (PP (IN per) (NP (NN week))))
+    (SQ
+      (VBZ does)
+      (NP (PRP she))
+      (VP (VB spend) (PP (IN on) (NP (NNS aerobics)))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS minutes))
+      (PP (IN per) (NP (NN week))))
+    (SQ
+      (VBZ does)
+      (NP (PRP she))
+      (VP (VB spend) (PP (IN on) (NP (NN weight) (NN training)))))
+    (. ?)))

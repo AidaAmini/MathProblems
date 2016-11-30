@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP
+      (IN In)
+      (NP (DT the) (CD 2000-2001) (NN baseball) (NN season)))
+    (, ,)
+    (NP (DT the) (NNP Seattle) (NNP Mariners))
+    (VP
+      (VBD tied)
+      (NP
+        (NP (DT a) (NN league) (NN record))
+        (VP
+          (VBN set)
+          (PP
+            (IN by)
+            (NP
+              (NP (DT the) (CD 1906) (NNP Chicago) (NNP Cubs))
+              (PP (IN for) (NP (JJS most) (NNS wins)))))
+          (PP (IN in) (NP (DT a) (NN season))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NNPS Mainers))
+    (VP
+      (VBD won)
+      (NP (QP (CD 24) (JJR more)))
+      (PP
+        (IN than)
+        (NP (QP (RB twice) (RB as) (JJ many)) (NNS games)))
+      (SBAR (IN as) (S (NP (PRP they)) (VP (VBD lost)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VBD played)
+      (NP (CD 162) (JJ regular) (NN season) (NNS games)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNS wins)) (CC and) (NP (NNS losses))))
+    (SQ (VBD did) (NP (DT the) (NNS mariners)) (VP (VB have)))
+    (. ?)))

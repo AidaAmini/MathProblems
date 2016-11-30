@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VBZ takes)
+      (S
+        (NP (NP (DT a) (NN boat)) (NP-TMP (CD 4) (NNS hours)))
+        (VP
+          (TO to)
+          (VP
+            (VB travel)
+            (NP
+              (NP
+                (ADVP (NP (CD 24) (NNS miles)) (RB down))
+                (DT a)
+                (NN river))
+              (CC and)
+              (NP (CD 6) (NNS hours)))
+            (S
+              (VP
+                (TO to)
+                (VP
+                  (VB return)
+                  (NP (JJ upstream))
+                  (PP
+                    (TO to)
+                    (NP (PRP$ its) (VBG starting) (NN point))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN rate))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT the) (JJ current))
+            (PP (IN in) (NP (DT the) (NN river)))))))
+    (. ?)))

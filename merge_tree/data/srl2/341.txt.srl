@@ -1,0 +1,12 @@
+sell ADV For a certain event
+sell ARG1 821 tickets
+sell PNC for a total of 1933 dollars
+
+sell ADV If students paid 2 dollars per ticket and nonstudents paid 3 dollars per ticket
+pay ARG0 students
+pay ARG1 ticket
+pay ARG1 2 dollars
+pay ARG0 nonstudents
+pay ARG1 3 dollars per ticket
+sell ARG1 how many student tickets
+

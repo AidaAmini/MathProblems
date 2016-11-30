@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NNP Jack))
+    (VP
+      (VBZ collects)
+      (NP (NN baseball) (CC and) (NN football) (NNS cards)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBZ has)
+      (NP (NP (CD 125) (NNS cards)) (SBAR (S (VP (VBP total))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN number))
+      (PP
+        (IN of)
+        (NP
+          (NP (NN baseball) (NNS cards))
+          (SBAR (S (NP (PRP he)) (VP (VBZ has)))))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP
+          (NP (CD five))
+          (NP
+            (QP (JJR more) (IN than) (CD three) (NNS times))
+            (DT the)
+            (NN number)))
+        (PP (IN of) (NP (NN football) (NNS cards)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NN baseball)) (CC and) (NP (NN football) (NNS cards))))
+    (SQ (VBZ does) (NP (PRP he)) (VP (VB have)))
+    (. ?)))

@@ -1,0 +1,15 @@
+sell ARG3 2.00 dollars a pound.
+sell ARG3 2.00 dollars a pound.
+sell ARG0 Cashews
+sell ARG1 5.00 dollars a pound
+sell ARG1 peanuts
+
+use ARG1 pounds of peanuts and cashews
+make ARG0 you
+use ARG0 you
+use MOD would you
+use PNC to make 25 pounds of a mixture that sells for 92 dollars
+make ARG1 25 pounds of a mixture that sells for 92 dollars
+sell ARG1 a mixture that sells for 92 dollars
+sell ARG3 92 dollars
+

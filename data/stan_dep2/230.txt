@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (NP (NNP Eldora) (CC and) (NNP Finn))
+    (VP
+      (VBD went)
+      (PP (TO to) (NP (DT an) (NN office) (NN supply) (NN store)))
+      (ADVP (RB together)))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Eldora))
+    (VP
+      (VBD bought)
+      (NP
+        (NP
+          (NP (CD 15) (NNS boxes))
+          (PP (IN of) (NP (NN paper) (NNS clips))))
+        (CC and)
+        (NP
+          (NP (CD 7) (NNS packages))
+          (PP (IN of) (NP (NN index) (NNS cards)))))
+      (PP
+        (IN for)
+        (NP
+          (NP (DT a) (JJ total) (NN cost))
+          (PP (IN of) (NP (CD 55.40) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Finn))
+    (VP
+      (VBD bought)
+      (NP
+        (NP
+          (NP (CD 12) (NNS boxes))
+          (PP (IN of) (NP (NN paper) (NNS clips))))
+        (CC and)
+        (NP
+          (NP (CD 10) (NNS packages))
+          (PP (IN of) (NP (NN index) (NNS cards)))))
+      (PP
+        (IN for)
+        (NP
+          (NP (DT a) (JJ total) (NN cost))
+          (PP (IN of) (NP (CD 61.70) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP
+          (IN of)
+          (NP
+            (NP
+              (NP (CD one) (NN box))
+              (PP (IN of) (NP (NN paper) (NNS clips))))
+            (CC and)
+            (NP
+              (NP (DT the) (NN cost))
+              (PP
+                (IN of)
+                (NP
+                  (NP (CD one) (NN package))
+                  (PP (IN of) (NP (NN index) (NNS cards))))))))))
+    (. .)))

@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (NP (CD One) (NN number))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (QP (CD 3) (JJR less)))
+        (PP (IN than) (NP (QP (RB twice) (DT another))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S (NP (PRP$ their) (NN sum)) (VP (VBZ is) (NP (CD 39)))))
+    (, ,)
+    (VP (VB find) (NP (DT the) (NNS numbers)))
+    (. .)))

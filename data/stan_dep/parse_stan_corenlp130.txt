@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP (NNP Ilida))
+    (VP
+      (VBD went)
+      (PP
+        (TO to)
+        (NP
+          (NP
+            (NP (NNP Minewaska) (NNP Sate) (NNP Park))
+            (NP (PRP one)))
+          (NP-TMP (NN day))))
+      (NP-TMP (DT this) (NN summer)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT All))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (NNS people))
+          (PP (IN at) (NP (DT the) (NN park))))))
+    (VP
+      (VBD were)
+      (RB either)
+      (NP (NP (VBG hiking) (CC or) (NN bike)) (VP (VBG riding))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBD were)
+      (NP (QP (CD 178) (JJR more)) (NNS hikers))
+      (PP (IN than) (NP (NN bike) (NNS riders))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (EX there))
+        (VP
+          (VBD were)
+          (NP
+            (NP (DT a) (NN total))
+            (PP
+              (IN of)
+              (NP
+                (NP (CD 676) (NNS people))
+                (PP (IN at) (NP (DT the) (NN park)))))))))
+    (, ,)
+    (WHNP (WRB how) (JJ many))
+    (SQ (VP (VBD were) (VP (VBG hiking))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ many))
+    (SQ (VBD were) (VP (VBG riding) (NP (PRP$ their) (NNS bikes))))
+    (. ?)))

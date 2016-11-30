@@ -1,0 +1,39 @@
+(ROOT
+  (NP
+    (NP (DT A) (NN car))
+    (NP
+      (NP
+        (NP (NNS rents))
+        (PP
+          (IN for)
+          (NP (NP (CD 50) (NNS dollars)) (NP (DT a) (NN day)))))
+      (CC plus)
+      (NP (NP (CD 20) (NNS cents)) (NP (DT a) (NN mile))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP are)
+      (PP
+        (IN on)
+        (NP
+          (NP (DT a) (JJ daily) (NN budget))
+          (PP (IN of) (NP (CD 88) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WDT What) (NP (NP (NN maximum)) (NP (NN mileage))))
+    (SQ
+      (VP
+        (MD will)
+        (VP
+          (VB allow)
+          (S
+            (NP (PRP you))
+            (VP
+              (TO to)
+              (VP
+                (VB stay)
+                (PP (IN within) (NP (PRP$ your) (NN budget)))))))))
+    (. ?)))

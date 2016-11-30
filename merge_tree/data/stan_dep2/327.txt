@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NNP Jill))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 3.50) (NNS dollars))
+        (PP (IN in) (NP (NNS nickels) (CC and) (NNS dimes)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S (NP (PRP she)) (VP (VBZ has) (NP (CD 50) (NNS coins)))))
+    (, ,)
+    (WHADVP (WRB how) (NP (JJ many) (NNS nickels)))
+    (SQ (VBZ does) (NP (PRP she)) (VP (VB have)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (SBARQ (WHNP (WHADJP (WRB How) (JJ many)) (NNS dimes)) (. ?))))

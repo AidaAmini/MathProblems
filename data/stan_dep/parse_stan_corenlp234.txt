@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD 2) (JJ similar) (NNS tables))
+      (CC and)
+      (NP (CD 6) (JJ similar) (NNS chairs)))
+    (VP (VBD cost) (NP (CD 6600) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (PP
+      (IN If)
+      (NP
+        (NP (DT the) (NN table) (NN cost))
+        (PP
+          (ADVP (NP (CD 500) (NNS dollars)) (RBR more))
+          (IN than)
+          (NP (DT a) (NN chair)))))
+    (, ,)
+    (WHNP (WP what))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP
+          (NP (DT the) (NN cost))
+          (, ,)
+          (PP (IN in) (NP (NNS dollars)))
+          (, ,))
+        (PP (IN of) (NP (DT the) (NN table)))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP (IN of) (NP (DT the) (NN chair)))))
+    (. ?)))

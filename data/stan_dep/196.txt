@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN total))
+      (PP (IN of) (NP (CD 10,000) (NNS dollars))))
+    (VP
+      (VBD was)
+      (VP
+        (VBN invested)
+        (PP
+          (IN in)
+          (NP
+            (NP (CD two) (NN bond) (JJ mutual) (NNS funds))
+            (, ,)
+            (NP (DT a) (NN junk) (NN bond) (NN fund))
+            (CC and)
+            (NP (DT a) (NN government) (NN bond) (NN fund))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN junk) (NN fund))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (NP (JJ risky)) (CC and) (NP (NNS yields)))
+        (ADJP (CD 11) (NN %))
+        (NN interest)))
+    (. .)))
+(ROOT
+  (NP
+    (NP (DT The) (JJR safer) (NN government) (NN bond))
+    (NP
+      (NP (NN fund) (NNS yields))
+      (NP (QP (RB only) (CD 5)) (NN %)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (NP (DT The) (NN year) (POS 's)) (JJ total) (NN income))
+      (PP (IN from) (NP (DT the) (CD two) (NNS investments))))
+    (VP (VBD was) (NP (CD 740) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VBD was)
+      (VP (VBN invested) (PP (IN in) (NP (DT each) (NN fund)))))
+    (. ?)))

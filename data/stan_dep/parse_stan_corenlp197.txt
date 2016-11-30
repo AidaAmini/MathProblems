@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN difference))
+      (PP (IN between) (NP (CD two) (NNS numbers))))
+    (VP (VBZ is) (NP (CD 6)))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP you))
+        (VP (VBP double) (NP (DT both) (NNS numbers)))))
+    (, ,)
+    (NP (DT the) (NN sum))
+    (VP (VBZ is) (NP (CD 36)))
+    (. .)))
+(ROOT (S (VP (VB Find) (NP (DT the) (CD two) (NNS numbers))) (. .)))

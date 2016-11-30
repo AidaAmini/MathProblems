@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (DT A) (NN motorist))
+    (VP
+      (VBD drove)
+      (NP (CD 2) (NNS hours))
+      (PP
+        (IN at)
+        (NP (NP (CD one) (NN speed)) (CC and) (NP (RB then))))
+      (PP
+        (IN for)
+        (NP
+          (NP (CD 3) (NNS hours))
+          (PP (IN at) (NP (DT another) (NN speed))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBD covered)
+      (NP
+        (NP (DT a) (NN distance))
+        (PP (IN of) (NP (CD 252) (NNS kilometers)))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBD had)
+          (VP
+            (VBN travelled)
+            (NP
+              (NP (CD 4) (NNS hours))
+              (PP
+                (IN at)
+                (NP
+                  (NP (DT the) (JJ first) (NN speed))
+                  (CC and)
+                  (NP (CD 1) (NN hour)))))
+            (PP (IN at) (NP (DT the) (JJ second) (NN speed)))))))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (MD would)
+      (VP
+        (VB have)
+        (VP (VBN covered) (NP (CD 244) (NNS kilometers)))))
+    (. .)))
+(ROOT (SQ (VP (VB Find) (NP (CD two) (NNS speeds))) (. ?)))

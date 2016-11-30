@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (NNP Kerry))
+    (VP
+      (VBD asked)
+      (NP (DT a) (NN bank) (NN teller))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB cash)
+            (SBAR
+              (S
+                (NP (DT a) (CD 390) (NNS dollars))
+                (VP
+                  (VBP check)
+                  (S
+                    (VP
+                      (VBG using)
+                      (NP
+                        (NP (JJ 20-dollar) (NNS bills))
+                        (CC and)
+                        (NP (JJ 50-dollar) (NNS bills))))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (DT the) (NN teller))
+        (VP
+          (VBD gave)
+          (NP (PRP her))
+          (NP
+            (NP (DT a) (NN total))
+            (PP (IN of) (NP (CD 15) (NNS bills)))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (JJ 20-dollar)) (NP (NNS bills))))
+    (SQ (VBD did) (NP (PRP she)) (VP (VB get)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHADVP (WRB How) (JJ many))
+    (NP (JJ 50-dollar) (NNS bills))
+    (. ?)))

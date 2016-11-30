@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 24) (NNS kids))
+        (PP
+          (IN in)
+          (NP (NP (NNP Mrs) (NNP Jones) (POS ')) (NN class)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (QP (RB twice) (RB as) (JJ many)) (NNS girls))
+        (PP (IN as) (NP (NNS boys)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNS boys)) (CC and) (NP (NNS girls))))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

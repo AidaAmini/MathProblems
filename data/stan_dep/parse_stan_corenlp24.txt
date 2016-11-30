@@ -1,0 +1,70 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP are)
+      (VP (VBG running) (NP (DT a) (NN concession) (NN stand))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP are)
+      (VP
+        (VBG selling)
+        (NP (NP (JJ hot) (NNS dogs)) (CC and) (NP (NN soda)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT Each) (JJ hot) (NN dog) (NNS costs))
+        (NP (CD 1.50) (NNS dollars)))
+      (CC and)
+      (NP (DT each) (NN soda)))
+    (VP (VBZ costs) (NP (CD 0.50) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBD made)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 78.50) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBD sold)
+      (NP
+        (NP (DT a) (NN total))
+        (PP
+          (IN of)
+          (NP
+            (NP (CD 87) (JJ hot) (NNS dogs) (CC and) (NNS sodas))
+            (VP (VBN combined))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (MD must)
+      (VP
+        (VB report)
+        (NP
+          (NP (DT the) (NN number))
+          (PP
+            (IN of)
+            (NP
+              (NP (JJ hot) (NNS dogs) (CC and) (NNS sodas))
+              (VP (VBN sold)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (JJ hot) (NNS dogs)) (CC and) (NP (NNS sodas))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

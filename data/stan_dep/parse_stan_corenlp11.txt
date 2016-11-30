@@ -1,0 +1,53 @@
+(ROOT
+  (NP
+    (NP (DT An) (NN ice) (NN skating) (NN rink) (NNS charges))
+    (PP
+      (NP (CD 5) (NNS dollars))
+      (IN for)
+      (NP (NP (NN admission)) (CC and) (NP (CD 2.50) (NNS dollars))))
+    (S (VP (TO to) (VP (VB rent) (NP (NNS skates)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Jill))
+    (VP
+      (MD can)
+      (VP
+        (VB purchase)
+        (NP
+          (NP (DT a) (JJ new) (NN pair))
+          (PP
+            (IN of)
+            (NP
+              (NP (NNS skates))
+              (PP (IN for) (NP (CD 65) (NNS dollars))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS times))
+    (SQ
+      (MD would)
+      (NP (PRP she))
+      (VP
+        (VB need)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB go)
+              (NP
+                (DT the)
+                (NN rink)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB justify)
+                      (S
+                        (VP
+                          (VP
+                            (VBG buying)
+                            (NP (DT the) (NNS skates)))
+                          (CONJP (RB rather) (IN than))
+                          (VP (VBG renting) (NP (DT a) (NN pair))))))))))))))
+    (. ?)))

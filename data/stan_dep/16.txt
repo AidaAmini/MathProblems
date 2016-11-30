@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Red) (NNP Rose) (NNP Theatre))
+    (VP
+      (VBZ sells)
+      (NP
+        (NP (NNS tickets))
+        (PP
+          (IN for)
+          (NP
+            (NP (CD 4.50) (NNS dollars))
+            (CC and)
+            (NP (CD 6.00) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN total))
+      (PP (IN of) (NP (CD 380) (NNS tickets))))
+    (VP
+      (VBD were)
+      (VP
+        (VBN sold)
+        (PP
+          (IN for)
+          (NP
+            (NP (PRP$ their) (JJ last) (NN performance))
+            (PP
+              (IN of)
+              (`` ``)
+              (NP (NNP Mickey) (DT the) (NN Mouse))
+              ('' ''))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (NNS sales))
+          (PP (IN for) (NP (DT the) (NN performance))))
+        (VP (VBD totaled) (NP (CD 1972.50) (NNS dollars)))))
+    (, ,)
+    (WHNP (WHADJP (WRB how) (JJ many)) (NNS tickets))
+    (SQ
+      (VBD were)
+      (VP (VBN sold) (PP (IN for) (NP (CD 6.00) (NNS dollars)))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS tickets))
+    (SQ
+      (VBD were)
+      (VP (VBN sold) (PP (IN for) (NP (CD 4.50) (NNS dollars)))))
+    (. ?)))

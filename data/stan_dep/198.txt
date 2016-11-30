@@ -1,0 +1,29 @@
+(ROOT
+  (NP
+    (NP (DT A) (CD 200) (NN seat) (NN theater) (NNS charges))
+    (NP
+      (NP
+        (NP (CD 3.00) (NNS dollars))
+        (PP (IN for) (NP (NNS adults))))
+      (CC and)
+      (NP
+        (NP (CD 1.50) (NNS dollars))
+        (PP (IN for) (NP (NNS children)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (S
+          (NP (DT all) (NNS seats))
+          (VP (VBD were) (VP (VBN filled))))
+        (CC and)
+        (S
+          (NP (DT the) (JJ total) (NN ticket) (NN income))
+          (VP (VBD was) (NP (CD 510) (NNS dollars))))))
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (NNS adults)) (CC and) (NP (NNS children))))
+    (SQ (VP (VBD were) (PP (IN in) (NP (DT the) (NN audience)))))
+    (. ?)))

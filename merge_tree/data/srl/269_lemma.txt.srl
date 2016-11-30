@@ -1,0 +1,8 @@
+do MNR how
+do ADV if 4 apple and 2 orange equal 1 dollar and 2 apple and 3 orange equal 0.70 dollar , how
+equal arg1 4 apple and 2 orange
+equal arg2 1 dollar and 2 apple
+equal arg1 3 orange
+equal arg2 0.70 dollar
+do arg0 much
+do arg1 each apple and each orange cost .

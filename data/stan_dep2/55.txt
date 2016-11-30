@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (JJ Adult) (NNS tickets))
+        (PP (IN for) (NP (DT a) (NN play))))
+      (VP (VBP are) (NP (CD 11) (NNS dollars))))
+    (CC and)
+    (S
+      (NP (DT the) (NN child) (NNS tickets))
+      (VP (VBP are) (NP (CD 10) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (EX there))
+        (VP
+          (VBD were)
+          (ADVP
+            (NP (CD 23) (NNS people))
+            (IN at)
+            (NP
+              (NP (DT a) (NN performance))
+              (CC and)
+              (NP (DT the) (NN theater))))
+          (VP
+            (VBN collected)
+            (NP (CD 246) (NNS dollars))
+            (PP (IN from) (NP (NNS tickets) (NNS sales)))))))
+    (, ,)
+    (WHNP (WHADJP (WRB how) (JJ many)) (NNS children))
+    (SQ (VP (VBD attended) (NP (DT the) (NN play))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS adults))
+    (SQ (VP (VBD attended) (NP (DT the) (NN play))))
+    (. ?)))

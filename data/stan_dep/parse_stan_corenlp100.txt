@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT The) (NNPS Lakers))
+    (VP
+      (VBD scored)
+      (NP
+        (NP (DT a) (NN total))
+        (PP
+          (IN of)
+          (NP
+            (NP (CD 80) (NNS points))
+            (PP (IN in) (NP (DT a) (NN basketball) (NN game))))))
+      (PP (IN against) (NP (DT the) (NNPS Bulls))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NNPS Lakers))
+    (VP
+      (VBD made)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 37) (NNS baskets))))
+      (, ,)
+      (S
+        (VP
+          (VBG consisting)
+          (PP
+            (IN of)
+            (NP
+              (NP (CD 2) (NN point) (NNS baskets))
+              (CC and)
+              (NP (CD 3) (NN point) (NNS baskets)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD 2) (NN point)) (NP (NNS baskets))))
+    (SQ (VBD did) (NP (DT the) (NNPS Lakers)) (VP (VB make)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD 3) (NN point)) (NP (NNS baskets))))
+    (SQ (VBD did) (NP (DT the) (NNPS Lakers)) (VP (VB make)))
+    (. ?)))

@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (NNP Jane))
+    (VP (VBZ has) (NP (DT a) (NN dress) (NN shop)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VBZ has)
+      (NP (NP (NN space)) (PP (IN for) (NP (CD 200) (NNS dresses)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VBZ sells)
+      (NP
+        (NP (RB only) (JJ red))
+        (CC and)
+        (NP (JJ blue) (NNS dresses))))
+    (. .)))
+(ROOT
+  (S
+    (PP
+      (IN After)
+      (S
+        (VP
+          (VBG reading)
+          (NP (JJ several) (NN fashion) (NNS magazines)))))
+    (NP (PRP she))
+    (VP
+      (VBZ decides)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB stock)
+            (NP (PRP$ her) (NNS shelves))
+            (PP
+              (IN with)
+              (NP
+                (NP (CD 34) (JJR more) (JJ blue) (NNS dresses))
+                (PP (IN than) (NP (JJ red) (NNS dresses)))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (JJ blue) (NNS dresses))
+        (CC and)
+        (NP (JJ red) (NNS dresses))))
+    (SQ (MD should) (NP (PRP she)) (VP (VB stock)))
+    (. ?)))

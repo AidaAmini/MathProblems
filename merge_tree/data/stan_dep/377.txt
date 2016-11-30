@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN number))
+      (PP
+        (IN of)
+        (NP (NP (NNS boys)) (PP (IN in) (NP (JJ eighth) (NN grade))))))
+    (VP
+      (VBZ is)
+      (ADJP
+        (ADJP (NP (CD 16)) (JJR less))
+        (PP
+          (IN than)
+          (NP
+            (NP (RB twice) (DT the) (NN number))
+            (PP (IN of) (NP (NNS girls)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 68) (NNS students))
+        (PP (IN in) (NP (JJ eighth) (NN grade)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ many))
+    (SQ (VBP are) (NP (NNS girls)))
+    (. ?)))

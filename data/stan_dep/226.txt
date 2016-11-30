@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT A) (NN woman))
+    (VP
+      (VBD invested)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 9,000) (NNS dollars))))
+      (PP
+        (IN in)
+        (NP
+          (NP (CD 2) (NNS accounts))
+          (, ,)
+          (NP
+            (NP (CD one))
+            (VP
+              (VBG earning)
+              (NP (CD 6.5) (NN %))
+              (NP (JJ annual) (NN interest))))
+          (CC and)
+          (NP
+            (NP (DT the) (JJ other))
+            (VP
+              (VBG earning)
+              (NP (CD 8) (NN %))
+              (NP (JJ annual) (NN interest)))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN After) (NP (CD 1)))
+    (NP-TMP (NN year))
+    (, ,)
+    (NP (PRP$ her) (JJ combined) (NN interest))
+    (VP (VBD was) (NP (CD 678.87) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VBD did)
+      (NP (PRP she))
+      (VP
+        (VB invest)
+        (PP
+          (IN in)
+          (NP
+            (NP (DT the) (NN account))
+            (VP (VBG paying) (NP (ADJP (CD 8) (NN %)) (NN interest)))))
+        (, ,)
+        (PP (IN in) (NP (NNS dollars)))))
+    (. ?)))

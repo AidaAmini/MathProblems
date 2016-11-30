@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP
+      (IN In)
+      (NP
+        (NP (DT a) (NN class))
+        (PP (IN of) (NP (CD 35) (NNS students)))))
+    (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS girls))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (CD 0.4))
+        (PP
+          (IN of)
+          (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS boys)))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN number))
+        (PP
+          (IN of)
+          (NP (NP (NNS girls)) (PP (IN in) (NP (DT the) (NN class)))))))
+    (. .)))

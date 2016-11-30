@@ -1,0 +1,81 @@
+(ROOT
+  (S
+    (PP
+      (IN During)
+      (NP
+        (DT a)
+        (ADJP (JJ 4th) (PP (IN of) (NP (NNP July))))
+        (NN weekend)))
+    (, ,)
+    (NP (CD 32) (NNS vehicles))
+    (VP
+      (VBD became)
+      (ADJP
+        (VBN trapped)
+        (PP
+          (IN on)
+          (NP (DT the) (NNP Sunshine) (NNP Skyway) (NNP Bridge))))
+      (SBAR
+        (IN while)
+        (S
+          (NP (PRP it))
+          (VP (VBD was) (VP (VBG being) (VP (VBN repaved)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT A) (JJ recent) (NN city) (NN ordinance))
+    (VP
+      (VBD decreed)
+      (SBAR
+        (IN that)
+        (S
+          (NP
+            (NP (RB only) (NNS cars))
+            (PP
+              (IN with)
+              (NP
+                (NP (CD 4) (NNS wheels) (CC and) (NNS trucks))
+                (PP (IN with) (NP (CD six) (NNS wheels))))))
+          (VP
+            (MD could)
+            (VP
+              (VB be)
+              (PP (IN on) (NP (DT the) (NN bridge)))
+              (PP (IN at) (NP (DT any) (VBN given) (NN time))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (EX there))
+        (VP
+          (VBD were)
+          (NP
+            (NP (CD 148) (NNS tires))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP
+                  (VBD needed)
+                  (S
+                    (VP
+                      (TO to)
+                      (VP
+                        (VB be)
+                        (VP
+                          (VBN replaced)
+                          (S
+                            (VP
+                              (TO to)
+                              (VP
+                                (ADJP (JJ due))
+                                (PP (TO to) (NP (NN damage)))))))))))))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (NNS cars)) (CC and) (NP (NNS trucks))))
+    (SQ
+      (VBD were)
+      (VP (VBN involved) (PP (IN in) (NP (DT the) (NN incident)))))
+    (. ?)))

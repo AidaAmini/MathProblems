@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP (NNP Harold))
+    (VP
+      (VBD had)
+      (NP
+        (NP (DT a) (NN summer) (NN lemonade))
+        (SBAR
+          (S
+            (VP
+              (VBP stand)
+              (SBAR
+                (WHADVP (WRB where))
+                (S
+                  (NP (PRP he))
+                  (VP
+                    (VBD sold)
+                    (NP
+                      (NP (JJ small) (NNS cups))
+                      (PP (IN of) (NP (NN lemonade))))
+                    (PP
+                      (IN for)
+                      (NP
+                        (NP (CD 1.25) (NNS dollars))
+                        (CC and)
+                        (NP (JJ large) (NNS cups))))
+                    (PP (IN for) (NP (CD 2.50) (NNS dollars)))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (NNP Harold))
+        (VP
+          (VP
+            (VBD sold)
+            (NP
+              (NP (DT a) (NN total))
+              (PP
+                (IN of)
+                (NP
+                  (NP (CD 155) (NNS cups))
+                  (PP (IN of) (NP (NN lemonade)))))))
+          (CC and)
+          (VP
+            (VBN collected)
+            (NP
+              (NP (DT a) (NN total))
+              (PP (IN of) (NP (CD 265) (NNS dollars))))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP
+        (NP (JJ small) (NNS cups))
+        (CC and)
+        (NP (JJ large) (NNS cups))))
+    (SQ (VBD did) (NP (PRP he)) (VP (VB sell)))
+    (. ?)))

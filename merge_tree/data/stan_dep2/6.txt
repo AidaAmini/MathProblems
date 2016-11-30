@@ -1,0 +1,60 @@
+(ROOT
+  (S
+    (NP (NNP John))
+    (VP (VBZ is) (VP (VBG writing) (NP (DT an) (NN article))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN article))
+    (VP
+      (VBZ is)
+      (VP (VBN limited) (PP (TO to) (NP (CD 48,000) (NNS words)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBZ decides)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB use)
+            (NP
+              (NP (CD two) (NNS types))
+              (PP (IN of) (NP (NN font))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (JJ Large) (NN font))
+      (VP
+        (VBZ is)
+        (NP (NP (CD 1,800) (NNS words)) (PP (IN per) (NP (NN page))))))
+    (, ,)
+    (NP (JJ small) (NN font))
+    (VP
+      (VBZ is)
+      (NP (NP (CD 2,400) (NNS words)) (PP (IN per) (NP (NN page)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN allowed)
+        (NP
+          (NP (CD 21) (NNS pages))
+          (PP (IN for) (NP (DT this) (NN article))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS pages))
+    (SQ (VBP are) (PP (IN in) (NP (JJ small) (NN font))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS pages))
+    (SQ (VBP are) (PP (IN in) (NP (JJ large) (NN font))))
+    (. ?)))

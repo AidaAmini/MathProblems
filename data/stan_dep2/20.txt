@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (NNP Paul))
+    (VP (VBZ has) (NP (CD 30) (NNS postcards)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBZ has)
+      (NP
+        (NP
+          (QP (CD 4) (NNS times) (IN as) (JJ many))
+          (JJ large)
+          (NNS postcards))
+        (PP (IN as) (NP (JJ small) (NNS postcards)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ small))
+      (NNS postcards))
+    (SQ (VBZ does) (NP (PRP he)) (VP (VB have)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (SBARQ
+      (WHNP (WHADJP (WRB How) (JJ many)) (JJ large) (NNS postcards))
+      (. ?))))

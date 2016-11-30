@@ -1,0 +1,8 @@
+ID=1
+(<T S[dcl] 1 2> (<T NP 0 1> (<L N POS POS Paul N>) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP POS POS has (S[dcl]\NP)/NP>) (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS 30 N/N>) (<L N POS POS postcards N>) ) ) (<L . POS POS . .>) ) ) ) 
+ID=2
+(<T S[dcl] 1 2> (<L NP POS POS He NP>) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP POS POS has (S[dcl]\NP)/NP>) (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS 4 N/N>) (<L N POS POS times N>) ) ) (<T NP\NP 0 2> (<L (NP\NP)/NP POS POS as (NP\NP)/NP>) (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS many N/N>) (<T N 1 2> (<L N/N POS POS large N/N>) (<L N POS POS postcards N>) ) ) ) (<T NP\NP 0 2> (<L (NP\NP)/NP POS POS as (NP\NP)/NP>) (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS small N/N>) (<L N POS POS postcards N>) ) ) (<L . POS POS . .>) ) ) ) ) ) ) ) 
+ID=3
+(<T S[q] 1 2> (<T S/S 0 2> (<L (S/S)/NP POS POS How (S/S)/NP>) (<T NP 0 1> (<T N 1 2> (<L N/N POS POS many N/N>) (<T N 1 2> (<L N/N POS POS small N/N>) (<L N POS POS postcards N>) ) ) ) ) (<T S[q] 0 2> (<T S[q]/(S[b]\NP) 0 2> (<L (S[q]/(S[b]\NP))/NP POS POS does (S[q]/(S[b]\NP))/NP>) (<L NP POS POS he NP>) ) (<T S[b]\NP 0 2> (<L S[b]\NP POS POS have S[b]\NP>) (<L . POS POS ? .>) ) ) ) 
+ID=4
+(<T NP 1 2> (<T NP/NP 0 2> (<L (NP/NP)/(S[adj]\NP) POS POS How (NP/NP)/(S[adj]\NP)>) (<L S[adj]\NP POS POS many S[adj]\NP>) ) (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS large N/N>) (<L N POS POS postcards N>) ) ) (<L . POS POS ? .>) ) ) 

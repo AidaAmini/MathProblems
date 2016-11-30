@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (DT A) (NN student))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG pricing)
+        (NP (CD 2) (JJ different) (NN picture) (NNS packages))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NP (NNP John) (POS 's)) (NNP Photo) (NNP World))
+    (VP
+      (VBZ charges)
+      (NP
+        (NP
+          (NP (CD 2.75) (NNS dollars))
+          (PP (IN per) (NP (NN sheet))))
+        (CC and)
+        (NP
+          (NP (DT a) (CD one) (NN time))
+          (VP
+            (VBG sitting)
+            (NP
+              (NP (NN fee))
+              (PP (IN of) (NP (CD 125) (NNS dollars))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NP (NNP Sam) (POS 's)) (NNP Picture) (NNP Emporium))
+    (VP
+      (VBZ charges)
+      (NP
+        (NP
+          (NP (CD 1.50) (NNS dollars))
+          (PP (IN per) (NP (NN sheet))))
+        (CC and)
+        (NP
+          (NP (DT a) (CD one) (NN time))
+          (VP
+            (VBG sitting)
+            (NP
+              (NP (NN fee))
+              (PP (IN of) (NP (CD 140) (NNS dollars))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHPP
+      (IN For)
+      (WHNP
+        (WHNP (WHADJP (WRB how) (JJ many)) (NNS sheets))
+        (PP (IN of) (NP (NNS pictures)))))
+    (SQ
+      (VBP do)
+      (NP (DT the) (CD 2) (NNS companies))
+      (VP (VBP charge) (NP (DT the) (JJ same) (NN amount))))
+    (. ?)))

@@ -1,0 +1,33 @@
+(ROOT
+  (NP
+    (NP (DT A) (NN bottle))
+    (PP (IN of) (NP (NN wine)))
+    (PP
+      (IN with)
+      (NP
+        (NP (DT a) (NN cork) (NN cost))
+        (NP (CD 2.10) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN bottle))
+      (PP
+        (IN of)
+        (NP (NP (NN wine)) (PP (IN without) (NP (DT a) (NN cork))))))
+    (VP
+      (VBZ costs)
+      (PP
+        (ADVP (NP (CD 2.00) (NNS dollars)) (RBR more))
+        (IN than)
+        (NP (DT the) (NN cork))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN price))
+        (PP (IN of) (NP (DT the) (NN cork)))))
+    (. ?)))

@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNS Tickets))
+      (PP (TO to) (NP (DT a) (JJ local) (NN movie))))
+    (VP
+      (VBD were)
+      (VP
+        (VBN sold)
+        (PP
+          (IN at)
+          (NP
+            (NP
+              (NP (CD 4) (NNS dollars))
+              (PP (IN for) (NP (NNS adults))))
+            (CC and)
+            (NP
+              (NP (CD 2.50) (NNS dollars))
+              (PP (IN for) (NP (NNS students))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (CD 59) (NNS tickets))
+        (VP
+          (VBD were)
+          (VP
+            (VBN sold)
+            (PP
+              (IN for)
+              (NP
+                (NP (DT a) (NN total))
+                (PP (IN of) (NP (CD 222.50) (NNS dollars)))))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (NN student)) (NP (NNS tickets))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

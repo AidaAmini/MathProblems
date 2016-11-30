@@ -1,0 +1,13 @@
+count arg0 the owner of the most amazing Circus
+count arg2 one day 's ticket sale
+count arg1 the money
+know arg0 he
+know arg1 that a total of 522 ticket be sell
+sell arg1 a total of 522 ticket
+cost arg2 8 dollar each
+cost arg3 8 dollar each
+cost arg1 adult ticket
+cost arg2 15 dollar each
+cost arg1 child 's ticket
+sell . ADV if the total receipt for the day be 5086.00 dollar
+sell . arg1 many adult ticket

@@ -1,0 +1,7 @@
+pay ARG0 Milan
+pay ARG1 a 2 dollars monthly fee plus 12 cents per minute
+
+be TMP Last month
+
+bill_for ARG1 Milan
+

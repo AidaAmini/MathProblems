@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT A) (NN truck) (CC and) (NN trailer))
+    (ADVP (RB together))
+    (VP (VBP weigh) (NP (CD 7,000) (NNS pounds)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN trailer))
+    (VP
+      (VBZ weighs)
+      (NP (CD 200) (NNS pounds) (QP (JJR less) (IN than) (CD 0.5)))
+      (ADVP (RB as) (RB much))
+      (PP (IN as) (NP (DT the) (NN truck))))
+    (. .)))
+(ROOT
+  (S
+    (VP (VB Find) (NP (NP (DT the) (NN truck) (POS 's)) (NN weight)))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP (NP (DT the) (NN trailer) (POS 's)) (NN weight)))
+    (. .)))

@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (NNP Wal-Mart))
+    (VP
+      (VBZ sells)
+      (NP
+        (NP (NNS thermometers))
+        (PP
+          (IN for)
+          (NP
+            (NP (QP (CD 2) (NNS dollars)))
+            (, ,)
+            (CC and)
+            (NP
+              (NP (JJ hot-water) (NNS bottles))
+              (PP (IN for) (NP (CD 6) (NNS dollars))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (JJ Total) (NNS sales))
+      (PP
+        (IN for)
+        (NP
+          (NP (DT these) (CD 2) (NNS items))
+          (PP
+            (IN during)
+            (NP
+              (NP (DT the) (NN month))
+              (PP (IN of) (NP (NNP January))))))))
+    (VP (VBD was) (NP (CD 1,200) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBD were)
+      (NP
+        (QP (CD 7) (NNS times) (IN as) (JJ many))
+        (NNS thermometers))
+      (PP
+        (IN as)
+        (NP (NP (JJ hot-water) (NNS bottles)) (VP (VBN sold)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS thermometers))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (SBARQ
+      (WHNP
+        (WHADJP (WRB How) (JJ many))
+        (ADJP (JJ hot-water))
+        (NNS bottles))
+      (. ?))))

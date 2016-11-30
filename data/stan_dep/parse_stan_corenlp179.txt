@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN At) (NP (PRP$ its) (NNP Grand) (NNP Opening)))
+    (, ,)
+    (NP (DT the) (NNP Guthrie) (NNP Market))
+    (VP
+      (VBD distributed)
+      (NP
+        (NP (CD two) (JJ different) (NNS types))
+        (PP (IN of) (NP (NNS souvenirs)))))
+    (. .)))
+(ROOT
+  (NP
+    (NP (CD One) (NN type) (NN cost))
+    (NP
+      (NP (NP (CD 20) (NNS cents)) (NP (DT each)))
+      (, ,)
+      (CC and)
+      (NP (DT the) (JJ other) (NN type) (NN cost)))
+    (NP (NP (CD 25) (NNS cents)) (NP (DT each)))
+    (. .)))
+(ROOT
+  (S
+    (NP (CD One) (CD thousand) (NNS souvenirs))
+    (VP (VBD were) (VP (VBN distributed) (PP (IN in) (NP (DT all)))))
+    (. .)))
+(ROOT
+  (FRAG
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (NN cost))
+          (PP (IN of) (NP (DT these) (NNS souvenirs))))
+        (VP (VBD was) (NP (CD 220) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (PP
+        (IN of)
+        (NP
+          (NP (CD 20) (NNS cents))
+          (CC and)
+          (NP (CD 25) (NNS cents) (NNS souveniers)))))
+    (SQ (VBD were) (VP (VBN distributed)))
+    (. ?)))

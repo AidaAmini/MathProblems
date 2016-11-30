@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT A) (NN grocer))
+    (VP
+      (VBD bought)
+      (NP
+        (NP (CD 12) (NNS bushels))
+        (PP
+          (IN of)
+          (NP (NNP Baldwin) (CC and) (NNP McInotosh) (NNS apples)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (NNS Baldwins) (NNS costs))
+      (ADJP
+        (ADJP (NP (CD 95) (NNS cents)) (NP (DT a) (NN bushel)))
+        (, ,)
+        (CC but)
+        (ADJP (NNP McIntosh))))
+    (VP
+      (VBD cost)
+      (NP
+        (NP (QP (RB only) (CD 90) (NNS cents)))
+        (NP (DT a) (NN bushel))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBD paid)
+          (NP (CD 11.00) (NNS dollars))
+          (PP (IN for) (NP (DT the) (NN lot))))))
+    (, ,)
+    (WHNP
+      (WHNP (WHADJP (WRB how) (JJ many)) (NNS bushels))
+      (PP (IN of) (NP (NNS Baldwins))))
+    (SQ (VBD did) (NP (PRP he)) (VP (VB get)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS bushels))
+    (PP (IN of) (NP (NNP McIntosh)))
+    (. ?)))

@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Freeport) (NNP McMoran) (NNS projects))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (PP (IN in) (NP (CD 2010)))
+          (NP (DT the) (NN world) (NN grain) (NN supply))
+          (VP
+            (MD will)
+            (VP
+              (VB be)
+              (NP
+                (NP (CD 1800000) (JJ metric) (NNS tons))
+                (CC and)
+                (NP (DT the) (NN supply))))))))
+    (VP
+      (MD will)
+      (VP
+        (VB be)
+        (NP
+          (NP (RB only) (CD 0.75))
+          (PP
+            (IN of)
+            (NP (DT the) (NN world) (NN grain) (NN demand))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (MD will)
+      (NP (DT the) (NN world) (NN grain) (NN demand))
+      (VP (VB be) (PP (IN in) (NP (CD 2010)))))
+    (. ?)))

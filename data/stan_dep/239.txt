@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (DT A) (NN washer-dryer) (NN combination))
+    (VP (VBZ is) (NP (CD 1,200) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (DT the) (NN washer))
+        (VP
+          (VBZ is)
+          (ADJP
+            (NP (CD 220) (NNS dollars))
+            (RBR more)
+            (PP (IN than) (NP (DT the) (NN dryer)))))))
+    (, ,)
+    (WHNP (WP what))
+    (SQ (VBZ does) (NP (DT the) (NN washer) (NN cost)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ (VP (VBZ does) (NP (DT the) (NN dryer) (NN cost))))
+    (. ?)))

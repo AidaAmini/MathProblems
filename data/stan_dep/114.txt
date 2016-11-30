@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP (DT a) (NN number))
+      (SBAR
+        (IN so)
+        (IN that)
+        (S
+          (NP
+            (NP
+              (NP (CD 10))
+              (NP (QP (JJR less) (IN than) (CD 0.6667))))
+            (NP (DT the) (NN number)))
+          (VP (VBZ is) (NP (NP (CD 0.25)) (NP (DT the) (NN number)))))))
+    (. .)))

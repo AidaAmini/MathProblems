@@ -1,0 +1,12 @@
+use ARG0 A plane
+use ARG2 the rate of 9.5 gallons per hour
+use ARG1 fuel
+have ARG0 it
+leave ARG1 6.3333 gallons
+have ARG1 6.3333 gallons
+leave LOC in its tank.
+
+fly ARG1 the plane
+continue ARG1 the plane
+continue MOD can the plane
+

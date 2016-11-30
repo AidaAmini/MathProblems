@@ -1,0 +1,18 @@
+have ARG0 A baseball team
+have LOC on Wednesday and Saturday
+have ARG1 home games
+
+earn ARG0 The two games
+earn TMP for the team.
+earn ADV together
+earn ARG1 5,182.50 dollars
+
+generate ARG0 Wednesdays game
+generate ARG1 142.50 dollars less than Saturdays game.
+
+take_in ARG1 much money
+take_in TMP at Wednesday 's game
+
+take_in ARG1 much money
+take_in TMP at Saturday 's game
+

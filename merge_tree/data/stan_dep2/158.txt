@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (NNP Trenton))
+    (VP (VBZ sells) (NP (JJ electronic) (NNS supplies)))
+    (. .)))
+(ROOT
+  (S
+    (NP-TMP (DT Each) (NN week))
+    (NP (PRP he))
+    (VP
+      (VBZ earns)
+      (S
+        (NP
+          (NP (CD 190) (NNS dollars))
+          (PP (CC plus) (NP (NN commission))))
+        (ADJP
+          (JJ equal)
+          (PP
+            (TO to)
+            (NP
+              (NP (CD 4) (NN %))
+              (PP (IN of) (NP (PRP$ his) (NNS sales))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP-TMP (DT This) (NN week))
+    (NP (PRP$ his) (NN goal))
+    (VP
+      (VBZ is)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB earn)
+            (NP
+              (QP (DT no) (JJR less) (IN than) (CD 500))
+              (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (VP
+        (VB Write)
+        (CC and)
+        (VB solve)
+        (NP (DT an) (NN inequality))
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB find)
+              (NP
+                (NP (DT the) (NN amount))
+                (PP (IN of) (NP (NNS sales)))))))))
+    (NP (PRP he))
+    (VP
+      (MD must)
+      (VP
+        (VB make)
+        (S (VP (TO to) (VP (VB reach) (NP (PRP$ his) (NN goal)))))))
+    (. .)))

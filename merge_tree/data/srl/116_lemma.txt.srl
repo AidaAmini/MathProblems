@@ -1,0 +1,7 @@
+receive arg0 the manager of a discount clothing store
+receive arg1 2 shipment of fall clothing
+contain arg0 the cost of the first shipment which contain 10 identical sweater and 20 identical jacket
+contain arg1 10 identical sweater and 20 identical jacket
+contain arg0 the second shipment at the same price
+contain arg1 5 of the same sweater and 15 of the same jacket
+find arg1 the cost of 1 jacket , in dollar

@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (NP (DT A) (NN company) (POS 's)) (NN profit))
+      (PP
+        (IN for)
+        (NP
+          (NP (DT the) (JJ first) (NN half))
+          (PP (IN of) (NP (DT the) (NN year))))))
+    (VP
+      (VBZ is)
+      (ADJP
+        (ADJP (NP (CD 2,750,000) (NNS dollars)) (JJR greater))
+        (PP
+          (IN than)
+          (NP
+            (NP (DT the) (NN profit))
+            (PP (IN for) (NP (DT the) (JJ second) (NN half)))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP (DT the) (JJ total) (JJ annual) (NN profit))
+        (VP (VBZ is) (NP (CD 3,635,000) (NNS dollars)))))
+    (, ,)
+    (VP
+      (VB find)
+      (NP (DT the) (NN profit))
+      (PP
+        (IN for)
+        (NP
+          (NP (DT the) (JJ first) (NN half-year))
+          (CC and)
+          (NP (DT the) (JJ second) (NN half-year)))))
+    (. .)))

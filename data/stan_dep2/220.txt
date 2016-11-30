@@ -1,0 +1,35 @@
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS liters))
+      (PP
+        (IN of)
+        (NP (DT a) (ADJP (CD 60) (NN %)) (NN acid) (NN solution))))
+    (SQ
+      (VP
+        (MD must)
+        (VP
+          (VB be)
+          (ADJP
+            (VBN mixed)
+            (PP
+              (IN with)
+              (NP
+                (DT a)
+                (ADJP (CD 75) (NN %))
+                (NN acid)
+                (NN solution)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB get)
+                      (NP
+                        (NP (CD 20) (NNS liters))
+                        (PP
+                          (IN of)
+                          (NP
+                            (DT a)
+                            (ADJP (CD 72) (NN %))
+                            (NN solution)))))))))))))
+    (. ?)))

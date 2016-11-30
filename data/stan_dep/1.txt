@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (PP
+      (IN In)
+      (NP
+        (NP (DT a) (NN test))
+        (PP (IN of) (NP (CD 30) (NNS questions)))))
+    (, ,)
+    (NP
+      (NP (CD 20) (NNS points))
+      (SBAR
+        (S
+          (VP
+            (VBP are)
+            (VP
+              (VBN given)
+              (PP
+                (IN for)
+                (NP
+                  (NP (DT each) (JJ correct) (NN answer))
+                  (CC and)
+                  (NP (CD 5) (NNS points)))))))))
+    (VP
+      (VBP are)
+      (VP
+        (VBN deducted)
+        (PP
+          (IN for)
+          (NP
+            (NP (DT each) (CD one))
+            (VP (VBN answered) (ADVP (RB incorrectly)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (NNP Maria))
+        (VP
+          (VP
+            (VBD answered)
+            (NP
+              (NP (DT all))
+              (PP (IN of) (NP (DT the) (NNS questions)))))
+          (CC and)
+          (VP
+            (VBD got)
+            (NP (NP (DT a) (NN score)) (PP (IN of) (NP (CD 325))))))))
+    (, ,)
+    (WHNP (WRB how) (JJ many))
+    (SQ (VBD did) (NP (PRP she)) (VP (VB get) (VP (VB correct))))
+    (. ?)))

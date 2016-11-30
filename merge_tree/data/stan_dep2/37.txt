@@ -1,0 +1,25 @@
+(ROOT
+  (S
+    (NP (DT The) (NN shoe) (NN store))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (QP (RB twice) (RB as) (JJ many)) (JJ black) (NNS shoes))
+        (SBAR
+          (IN as)
+          (S
+            (NP (PRP it))
+            (VP (VBZ does) (NP (JJ brown) (NNS shoes)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ total) (NN number))
+      (PP (IN of) (NP (NNS shoes))))
+    (VP (VBZ is) (NP (CD 66)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (JJ brown) (NNS shoes))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

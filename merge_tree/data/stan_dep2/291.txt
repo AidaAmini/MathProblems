@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (CD Two) (NNS rainstorms))
+    (VP
+      (VBD occurred)
+      (PP (IN in) (NP (CD one)))
+      (NP-TMP (NN week))
+      (PP (IN in) (NP (DT a) (JJ certain) (NN area))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (PP (IN In) (NP (DT the) (JJ first) (NN storm)))
+      (NP (NP (CD 30) (NNS milliliters)) (PP (IN of) (NP (NN rain))))
+      (VP (VBD fell) (PP (IN per) (NP (NN hour)))))
+    (, ,)
+    (CC and)
+    (S
+      (PP (IN in) (NP (DT the) (JJ second) (NN storm)))
+      (NP (NP (CD 15) (NNS milliliters)) (PP (IN of) (NP (NN rain))))
+      (VP (VBD fell) (PP (IN per) (NP (NN hour)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NN Rain))
+    (VP
+      (VBD fell)
+      (NP-TMP (DT that) (NN week))
+      (PP
+        (IN for)
+        (NP
+          (NP (DT a) (NN total))
+          (PP (IN of) (NP (CD 45) (NNS hours)))))
+      (, ,)
+      (PP
+        (IN for)
+        (NP
+          (NP (DT a) (JJ total) (NNS rainfall))
+          (PP (IN of) (NP (CD 975) (NNS milliliters))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS hours))
+    (SQ
+      (VBD was)
+      (NP
+        (NP (DT the) (JJ first) (NN storm))
+        (CC and)
+        (NP (DT the) (JJ second) (NN storm))))
+    (. .)))

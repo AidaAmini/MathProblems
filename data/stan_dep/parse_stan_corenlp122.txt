@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (S
+      (NP (DT A) (NN manufacturer))
+      (VP
+        (VBZ produces)
+        (NP
+          (NP (CD two) (NNS models))
+          (PP (IN of) (NP (DT the) (JJ same) (NN toy))))))
+    (, ,)
+    (NP
+      (NNP Model)
+      (NNP A)
+      (CC and)
+      (NNP Model)
+      (NNP B.)
+      (NNP Model)
+      (NNP A))
+    (VP
+      (VBZ takes)
+      (NP
+        (NP
+          (NP (CD 4) (NNS hours))
+          (SBAR (S (VP (TO to) (VP (VB produce))))))
+        (CC and)
+        (NP
+          (NP (NNS costs))
+          (NP (NP (CD 8) (NNS dollars)) (NP (DT each))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Model) (NNP B))
+    (VP
+      (VBZ takes)
+      (NP
+        (NP
+          (NP (CD 3) (NNS hours))
+          (SBAR (S (VP (TO to) (VP (VB produce))))))
+        (CC and)
+        (NP
+          (NP (NNS costs))
+          (NP (NP (CD 7) (NNS dollars)) (NP (DT each))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (DT the) (NN manufacturer))
+        (VP
+          (VBZ allots)
+          (NP
+            (NP
+              (NP (DT a) (NN total))
+              (PP (IN of) (NP (CD 5800) (NNS hours))))
+            (CC and)
+            (NP
+              (NP (CD 12,600) (NNS dollars))
+              (PP (IN for) (NP (NN production)))))
+          (NP-TMP (DT each) (NN week)))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (PP (IN of) (NP (DT each) (NN model))))
+    (SQ (VP (MD will) (VP (VB be) (VP (VBN produced)))))
+    (. ?)))

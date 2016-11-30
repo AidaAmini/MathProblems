@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (PP
+      (IN For)
+      (NP (PRP$ his) (JJ long) (NN distance) (NN phone) (NN service)))
+    (NP (NNP Milan))
+    (VP
+      (VBZ pays)
+      (NP
+        (NP
+          (DT a)
+          (ADJP (QP (CD 2) (NNS dollars)))
+          (JJ monthly)
+          (NN fee))
+        (PP
+          (CC plus)
+          (NP
+            (NP (CD 12) (NNS cents))
+            (PP (IN per) (NP (NN minute)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP-TMP (JJ Last) (NN month))
+    (, ,)
+    (NP (NP (NNP Milan) (POS 's)) (JJ long) (NN distance) (NN bill))
+    (VP (VBD was) (NP (CD 23.36) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHPP (IN For) (WHNP (WHADJP (WRB how) (JJ many)) (NNS minutes)))
+    (SQ
+      (VBD was)
+      (NP
+        (NP (NNP Milan))
+        (SBAR (S (VP (VBD billed) (PP (IN for)))))))
+    (. ?)))

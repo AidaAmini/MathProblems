@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT A) (NN farmer))
+    (VP
+      (VBZ grows)
+      (NP
+        (NP (RB only) (NNS sunflowers))
+        (CC and)
+        (NP
+          (NP (NN flax))
+          (PP (IN on) (NP (PRP$ his) (CD 240) (NN acre) (NN farm))))))
+    (. .)))
+(ROOT
+  (S
+    (NP-TMP (DT This) (NN year))
+    (NP (PRP he))
+    (VP
+      (VBZ wants)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB plant)
+            (NP
+              (NP (CD 80) (JJR more) (NNS acres))
+              (PP (IN of) (NP (NNS sunflowers))))
+            (PP (IN than) (NP (NN flax)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS acres))
+      (PP (IN of) (NP (NNS sunflowers))))
+    (SQ
+      (VP
+        (VBZ does)
+        (S
+          (NP (DT the) (NN farmer) (NN need))
+          (VP (TO to) (VP (VB plant))))))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS acres))
+    (PP (IN of) (NP (NN flax)))
+    (. ?)))

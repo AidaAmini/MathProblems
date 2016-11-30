@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT A) (NN piggy) (NN bank))
+    (VP (VBZ has) (NP (CD 50) (NNS coins)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NNS coins))
+    (VP (VBP are) (NP (CC either) (NNS nickels) (CC or) (NNS dimes)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN bank))
+    (VP
+      (VBZ has)
+      (NP (NP (CD 4.55) (NNS dollars)) (PP (IN in) (NP (NN total)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS coins))
+    (SQ (VBP are) (NP (NNS nickels)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ many))
+    (SQ (VBP are) (NP (NNS dimes)))
+    (. ?)))

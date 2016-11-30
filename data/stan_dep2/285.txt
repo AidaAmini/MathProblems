@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ 6th) (NNS graders))
+      (PP (IN from) (NP (DT an) (JJ elementary) (NN school))))
+    (VP
+      (VBP are)
+      (VP
+        (VBG going)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB celebrate)
+              (NP
+                (NP (DT the) (NN end))
+                (PP (IN of) (NP (DT the) (NN year))))
+              (PP
+                (IN by)
+                (S
+                  (VP
+                    (VBG going)
+                    (PP
+                      (TO to)
+                      (NP (DT the) (JJ local) (NN pizza) (NN parlor)))))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP
+        (VBP are)
+        (NP
+          (NP (CD 120))
+          (PP (IN in) (NP (DT the) (JJ whole) (NN group))))))
+    (CC and)
+    (S
+      (NP (EX there))
+      (VP
+        (VBP are)
+        (NP
+          (NP (QP (RB twice) (RB as) (JJ many)) (NNS children))
+          (PP
+            (IN as)
+            (NP
+              (NP (NNS adults))
+              (PP (IN in) (NP (DT the) (NN group))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS children))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

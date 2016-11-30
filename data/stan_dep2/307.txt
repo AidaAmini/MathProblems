@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (DT A) (NN chemistry) (NN lab))
+    (VP
+      (MD can)
+      (VP
+        (VB be)
+        (VP
+          (VBN used)
+          (PP
+            (IN by)
+            (NP
+              (NP (CD 38) (NNS students))
+              (PP (IN at) (NP (CD one) (NN time))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN lab))
+    (VP (VBZ has) (NP (CD 16) (NNS work-stations)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT Some))
+      (VP
+        (VBN set)
+        (PRT (RP up))
+        (PP
+          (IN for)
+          (NP
+            (NP (CD 2) (NNS students))
+            (CC and)
+            (NP (DT the) (NNS others))))))
+    (VP
+      (VBD set)
+      (PRT (RP up))
+      (PP (IN for) (NP (CD 3) (NNS students))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ many))
+    (SQ
+      (NP (NNS work-stations))
+      (VP (VBP accommodate) (NP (CD 2) (NNS students))))
+    (. ?)))

@@ -1,0 +1,69 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Willey) (NNP Farm) (NNP Collective))
+      (, ,)
+      (VP
+        (VBN farmed)
+        (PP
+          (IN by)
+          (NP
+            (NP (JJ several) (NNS branches))
+            (PP (IN of) (NP (DT the) (NNPS Willeys))))))
+      (, ,))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 4500) (NNS acres))
+        (PP
+          (IN of)
+          (NP
+            (NP (NN land))
+            (ADJP
+              (JJ available)
+              (PP
+                (IN for)
+                (S
+                  (VP
+                    (VBG raising)
+                    (NP (NN corn) (CC and) (NN wheat))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN cost))
+      (PP (IN of) (S (VP (VBG raising) (NP (NN corn))))))
+    (VP
+      (VBZ is)
+      (NP (NP (CD 42) (NNS dollars)) (NP (DT an) (NN acre)))
+      (, ,)
+      (SBAR
+        (IN while)
+        (S
+          (NP (NP (DT the) (NN cost)) (PP (IN of) (NP (NN wheat))))
+          (VP
+            (VBZ is)
+            (NP (NP (CD 35) (NNS dollars)) (NP (DT an) (NN acre)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Collective) (POS 's))
+      (JJ available)
+      (NN capital))
+    (VP (VBZ is) (NP (CD 165,200) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS acres))
+      (PP (IN of) (NP (NN corn))))
+    (SINV (VP (MD should)) (NP (DT the) (NNP Collective) (NN plant)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS acres))
+      (PP (IN of) (NP (NN wheat))))
+    (SINV (VP (MD should)) (NP (DT the) (JJ collective) (NN plant)))
+    (. ?)))

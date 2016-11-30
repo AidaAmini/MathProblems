@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (PP (IN At) (NP (DT a) (NN movie) (NN theater)))
+    (, ,)
+    (NP (NNS tickets))
+    (VP
+      (VBD cost)
+      (NP (CD 9.50) (NNS dollars))
+      (PP
+        (IN for)
+        (NP (NP (NNS adults)) (CC and) (NP (CD 6.50) (NNS dollars))))
+      (PP (IN for) (NP (NNS children))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN group))
+      (PP (IN of) (NP (CD 7) (NNS moviegoers))))
+    (VP
+      (VBZ pays)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 54.50) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNS adults)) (CC and) (NP (NNS children))))
+    (SQ (VP (VBD were) (PP (IN in) (NP (DT the) (NN group)))))
+    (. ?)))

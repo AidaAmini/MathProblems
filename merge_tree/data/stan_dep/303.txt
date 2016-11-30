@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ total) (NN cost))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT a) (NN pair))
+          (PP
+            (IN of)
+            (NP (NP (NNS pants)) (CC and) (NP (DT a) (NN belt)))))))
+    (VP (VBD was) (NP (CD 70.93) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (NN price))
+          (PP
+            (IN of)
+            (NP
+              (NP (DT the) (NN pair))
+              (PP (IN of) (NP (NNS pants))))))
+        (VP
+          (VBD was)
+          (ADJP
+            (ADJP (NP (CD 2.93) (NNS dollars)) (JJR less))
+            (PP (IN than) (NP (DT the) (NN belt)))))))
+    (, ,)
+    (WHNP (WP what))
+    (SQ
+      (VBD was)
+      (NP
+        (NP (DT the) (NN price))
+        (PP
+          (IN of)
+          (NP (NP (DT the) (NN pair)) (PP (IN of) (NP (NNS pants)))))))
+    (. ?)))

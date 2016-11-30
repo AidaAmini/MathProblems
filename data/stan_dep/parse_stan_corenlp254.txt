@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (DT An) (NN auditorium))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 500) (NN balcony) (NNS seats))
+        (CC and)
+        (NP (CD 1800) (JJ main-level) (NNS seats))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (NNS tickets))
+          (PP (IN for) (NP (NN balcony) (NNS seats))))
+        (VP
+          (MD will)
+          (VP
+            (VB cost)
+            (NP (CD 15) (NNS dollars))
+            (NP (QP (JJR less) (IN than) (NP (NNS tickets))))
+            (PP (IN for) (NP (JJ main-level) (NNS seats)))))))
+    (, ,)
+    (WHNP (WP what))
+    (SQ
+      (MD should)
+      (NP (DT the) (NNS prices))
+      (VP
+        (VB be)
+        (PP
+          (IN for)
+          (NP
+            (NP
+              (DT the)
+              (JJ main-level)
+              (NNS seats)
+              (CC and)
+              (NNS prices))
+            (PP (IN for) (NP (DT the) (NN balcony) (NNS seats)))))
+        (, ,)
+        (SBAR
+          (RB so)
+          (IN that)
+          (S
+            (NP
+              (NP (DT the) (JJ total) (NN revenue))
+              (PP
+                (IN from)
+                (NP (DT a) (NN sellout) (NN performance))))
+            (VP (MD will) (VP (VB be) (NP (CD 84,500))))))))
+    (. ?)))

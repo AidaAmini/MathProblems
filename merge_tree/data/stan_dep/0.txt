@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNS Pencils))
+    (VP
+      (VBP are)
+      (NP (NP (CD 25) (NNS cents)) (NP (DT a) (NN piece))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNS Pens))
+    (VP
+      (VBP are)
+      (NP (NP (CD 80) (NNS cents)) (NP (DT a) (NN piece))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Susan))
+    (VP
+      (VBD spent)
+      (NP (CD 20) (NNS dollars))
+      (PP
+        (IN for)
+        (NP
+          (NP (DT a) (NN total))
+          (PP
+            (IN of)
+            (NP (NP (CD 36) (NNS pens)) (CC and) (NP (NNS pencils)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS pencils))
+    (SQ (VBD did) (NP (PRP she)) (VP (VB buy)))
+    (. ?)))

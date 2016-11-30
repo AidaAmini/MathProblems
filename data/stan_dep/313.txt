@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN freight) (NN train))
+      (CC and)
+      (NP (DT an) (ADJP (JJ express)) (NN train)))
+    (VP
+      (VBP leave)
+      (NP (NNS towns))
+      (ADVP (NP (CD 390) (NNS kilometers)) (RB apart))
+      (, ,)
+      (S
+        (VP
+          (VBG traveling)
+          (PP (IN toward) (NP (CD one) (DT another))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN freight) (NN train))
+    (VP
+      (VBZ travels)
+      (ADJP
+        (ADJP
+          (NP
+            (NP (CD 30) (NNS kilometers))
+            (PP (IN per) (NP (NN hour))))
+          (JJR slower))
+        (PP (IN than) (NP (DT the) (JJ express) (NN train)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VBP pass)
+      (NP (CD one))
+      (ADVP (NP (QP (DT another) (CD 3)) (NNS hours)) (RB later)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ fast))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN freight) (NN train) (, ,))
+        (PP
+          (IN in)
+          (NP (NP (NNS miles)) (PP (IN per) (NP (NN hour)))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ fast))
+    (SQ (VBZ is) (NP (DT the) (JJ express) (NN train)))
+    (. ?)))

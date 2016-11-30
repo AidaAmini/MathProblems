@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT A) (NN discount) (NN store))
+    (VP
+      (VBD sold)
+      (NP (JJ plastic) (NNS cups))
+      (PP
+        (IN for)
+        (NP
+          (NP (NP (CD 3.25) (NNS dollars)) (NP (DT each)))
+          (CC and)
+          (NP
+            (NP (JJ ceramic) (NNS cups))
+            (PP
+              (IN for)
+              (NP (NP (CD 4.50) (NNS dollars)) (NP (DT each))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (CD 500) (NNS cups))
+        (VP
+          (VBD were)
+          (VP
+            (VBN sold)
+            (PP
+              (IN for)
+              (NP
+                (NP (DT a) (NN total))
+                (PP (IN of) (NP (CD 2090) (NNS dollars)))))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP
+        (NP (JJ plastic) (NNS cups))
+        (CC and)
+        (NP (JJ ceramic) (NNS cups))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

@@ -1,0 +1,68 @@
+(ROOT
+  (S
+    (NP (NNP Stefans) (NN school))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG selling)
+        (NP (NNS tickets))
+        (PP (TO to) (NP (DT a) (JJ choral) (NN performance)))))
+    (. .)))
+(ROOT
+  (S
+    (PP
+      (IN On)
+      (NP
+        (NP (DT the) (JJ first) (NN day))
+        (PP (IN of) (NP (NN ticket) (NNS sales)))))
+    (NP (DT the) (NN school))
+    (VP
+      (VBD sold)
+      (NP
+        (CD 4)
+        (JJ senior)
+        (NN citizen)
+        (NNS tickets)
+        (CC and)
+        (CD 3)
+        (NN student)
+        (NNS tickets))
+      (PP (IN for) (NP (CD 79) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN school))
+    (VP
+      (VBD took)
+      (NP (CD 246) (NNS dollars))
+      (PP (IN on) (NP (DT the) (JJ second) (NN day)))
+      (PP
+        (IN by)
+        (S
+          (VP
+            (VBG selling)
+            (NP
+              (CD 12)
+              (JJ senior)
+              (NN citizen)
+              (NNS tickets)
+              (CC and)
+              (CD 10)
+              (NN student)
+              (NNS tickets))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP
+          (NP (DT the) (NN price))
+          (PP
+            (IN of)
+            (NP (DT a) (JJ senior) (NN citizen) (NN ticket))))
+        (CC and)
+        (NP
+          (NP (DT the) (NN price))
+          (PP (IN of) (NP (DT a) (NN student) (NN ticket))))))
+    (. .)))

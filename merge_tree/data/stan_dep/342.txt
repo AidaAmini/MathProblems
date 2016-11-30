@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP
+      (IN On)
+      (NP
+        (NP (DT a) (JJ certain) (JJ hot) (NN summer) (POS 's))
+        (NN day)))
+    (, ,)
+    (NP (CD 754) (NNS people))
+    (VP
+      (VBD used)
+      (NP (DT the) (NX (JJ public) (NN swimming) (NN pool))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ daily) (NNS prices))
+    (VP
+      (VBP are)
+      (NP
+        (NP
+          (NP (CD 1.50) (NNS dollars))
+          (PP (IN for) (NP (NNS children))))
+        (CC and)
+        (NP
+          (NP (CD 2.25) (NNS dollars))
+          (PP (IN for) (NP (NNS adults))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS receipts))
+      (PP (IN for) (NP (NN admission))))
+    (VP (VBD totaled) (NP (CD 1422.00) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNS children)) (CC and) (NP (NNS adults))))
+    (SQ
+      (VP
+        (VBD swam)
+        (PP
+          (IN at)
+          (NP
+            (NP (DT the) (JJ public) (NN pool))
+            (NP (DT that) (NN day))))))
+    (. ?)))

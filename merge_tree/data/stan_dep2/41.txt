@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (CD Two) (NNS mechanics))
+    (VP (VBD worked) (PP (IN on) (NP (DT a) (NN car))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ first) (NN mechanic))
+      (VP
+        (VBD charged)
+        (NP (NP (CD 45) (NNS dollars)) (PP (IN per) (NP (NN hour))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ second) (NN mechanic))
+      (VP
+        (VBD charged)
+        (NP (NP (CD 85) (NNS dollars)) (PP (IN per) (NP (NN hour))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS mechanics))
+      (VP
+        (VBD worked)
+        (PP
+          (IN for)
+          (NP
+            (NP (DT a) (JJ combined) (NN total))
+            (PP (IN of) (NP (CD 20) (NNS hours)))))))
+    (, ,)
+    (CC and)
+    (S
+      (ADVP (RB together))
+      (NP (PRP they))
+      (VP
+        (VBD charged)
+        (NP
+          (NP (DT a) (NN total))
+          (PP (IN of) (NP (CD 1100) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB long))
+    (SQ
+      (VP
+        (VBD did)
+        (NP
+          (DT the)
+          (JJ first)
+          (NN mechanic)
+          (CC and)
+          (JJ second)
+          (NN mechanic)
+          (NN work))))
+    (. ?)))

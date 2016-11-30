@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (TO To)
+        (VP
+          (VB buy)
+          (NP
+            (CC both)
+            (NP (DT a) (JJ new) (NN car))
+            (CC and)
+            (NP (DT a) (JJ new) (NN house))))))
+    (, ,)
+    (NP (NNP Tina))
+    (VP
+      (VBD sought)
+      (NP
+        (NP (CD two) (NNS loans))
+        (VP (VBG totaling) (NP (CD 318,338) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ simple) (NN interest) (NN rate))
+      (PP (IN on) (NP (DT the) (JJ first) (NN loan))))
+    (VP
+      (VBD was)
+      (NP (CD 2.4) (NN %))
+      (, ,)
+      (SBAR
+        (IN while)
+        (S
+          (NP
+            (NP (DT the) (JJ simple) (NN interest) (NN rate))
+            (PP (IN on) (NP (DT the) (JJ second) (NN loan))))
+          (VP (VBD was) (NP (CD 4.7) (NN %))))))
+    (. .)))
+(ROOT
+  (S
+    (PP
+      (IN At)
+      (NP
+        (NP (DT the) (NN end))
+        (PP (IN of) (NP (DT the) (JJ first) (NN year)))))
+    (, ,)
+    (NP (NNP Tina))
+    (VP
+      (VBD paid)
+      (NP
+        (NP (DT a) (JJ combined) (NN interest) (NN payment))
+        (PP (IN of) (NP (CD 14,761.81) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBD were)
+      (NP
+        (NP (DT the) (NNS amounts))
+        (PP (IN of) (NP (DT the) (CD two) (NNS loans)))))
+    (. ?)))

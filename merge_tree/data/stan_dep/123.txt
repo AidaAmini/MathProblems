@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (NP (NNP Goran))
+    (VP
+      (MD will)
+      (VP
+        (VB rent)
+        (NP
+          (NP (DT a) (NN car))
+          (PP (IN for) (NP (DT the) (NN weekend))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (MD can)
+      (VP
+        (VB choose)
+        (NP (NP (CD 1)) (PP (IN of) (NP (CD 2) (NNS plans))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ first) (NN plan))
+    (VP
+      (VP
+        (VBZ has)
+        (NP
+          (NP (DT an) (JJ initial) (NN fee))
+          (PP (IN of) (NP (CD 65) (NNS dollars)))))
+      (CC and)
+      (VP
+        (VBZ costs)
+        (NP
+          (NP (DT an) (JJ additional) (CD 0.40) (NNS dollars))
+          (PP (IN per) (NP (NP (NN mile)) (VP (VBN driven)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ second) (NN plan))
+    (VP
+      (VBZ has)
+      (NP (DT no) (JJ initial) (NN fee))
+      (PRN
+        (CC but)
+        (NP
+          (NP (NNS costs))
+          (PP (NP (CD 0.60) (NNS dollars)) (IN per) (NP (NN mile)))
+          (VP (VBN driven)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS miles))
+    (SQ
+      (MD would)
+      (NP (NNP Goran))
+      (VP
+        (VB need)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB drive)
+              (PP (IN for) (NP (DT the) (CD 2) (NNS plans)))
+              (S (VP (TO to) (VP (VB cost) (NP (DT the) (JJ same))))))))))
+    (. ?)))

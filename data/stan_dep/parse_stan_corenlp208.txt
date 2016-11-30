@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP Pedro))
+    (VP
+      (VP (VBZ goes) (PP (TO to) (NP (DT the) (NN market))))
+      (CC and)
+      (VP
+        (VBZ buys)
+        (NP
+          (NP (DT a) (NN total))
+          (PP
+            (IN of)
+            (NP
+              (NP (CD 32) (NNS plums) (CC and) (NNS peaches))
+              (PP (IN for) (NP (CD 52) (NNS dollars))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT A) (NN plum))
+    (VP
+      (VBZ costs)
+      (SBAR
+        (S
+          (NP
+            (NP (CD 2) (NNS dollars))
+            (CC and)
+            (NP (DT a) (NN peach)))
+          (VP (VBZ costs) (NP (CD 1) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (NP (JJ many) (NNS plums)))
+    (SQ (VBD did) (NP (NNP Pedro)) (VP (VB buy)))
+    (. ?)))

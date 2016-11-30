@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP he))
+    (NP (NNP Drama) (NNP Club))
+    (VP
+      (VBD sold)
+      (NP (CD 1,500) (NNS tickets))
+      (PP (IN for) (NP (DT the) (NN end-of-year-performance))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NN Admission) (NNS prices))
+    (VP
+      (VBD were)
+      (NP
+        (NP
+          (NP (CD 12) (NNS dollars))
+          (PP (IN for) (NP (NNS adults))))
+        (CC and)
+        (NP
+          (NP (CD 6) (NNS dollars))
+          (PP (IN for) (NP (NNS students))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ total) (NN amount))
+      (VP
+        (VBN collected)
+        (PP (IN at) (NP (DT the) (NN box) (NN office)))))
+    (VP (VBD was) (NP (CD 16,200) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS students))
+    (SQ (VP (VBD attended) (NP (DT the) (NN play))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ many))
+    (SQ (NP (JJ adult)) (VP (VBD attended) (NP (DT the) (NN play))))
+    (. ?)))

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP-TMP (CD One) (NN year))
+    (NP (NNP Walt))
+    (VP (VBD invested) (NP (CD 12,000) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBD invested)
+      (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN money))))
+      (PP
+        (IN at)
+        (NP (NP (CD 7) (NN %)) (CC and) (NP (DT the) (NN rest))))
+      (PP (IN at) (NP (CD 9) (NN %))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBD made)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 970) (NNS dollars))))
+      (PP (IN in) (NP (NN interest))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VBD was)
+      (VP (VBN invested) (PP (IN at) (NP (CD 7) (NN %)))))
+    (. ?)))

@@ -1,0 +1,18 @@
+sell ARG1 1 blend of coffee
+sell ARG3 9.00 dollars per pound blend
+sell ARG1 another blend
+sell ARG3 8.00 dollars per pound.
+
+want ARG0 You
+make ARG0 You
+want ARG1 to make a 20 pound blend that sells for 8.40 dollars per pound.
+make ARG1 a 20 pound blend that sells for 8.40 dollars per pound.
+sell ARG1 a 20 pound blend that sells for 8.40 dollars per pound.
+sell ARG3 8.40 dollars per pound.
+
+need ARG1 many pounds of the 8
+need ARG0 you
+
+need ARG1 many pounds of the 9
+need ARG0 you
+

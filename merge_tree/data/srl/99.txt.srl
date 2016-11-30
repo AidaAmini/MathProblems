@@ -1,0 +1,12 @@
+charge ARG0 The Coffee Counter
+charge ARG3 Kenyan French Roast coffee and 8.00 dollars per pound for Sumatran coffee.
+charge ARG1 9.00 dollars per pound
+
+use ARG1 many pounds of Kenyan French Roast and Sumatran
+make ARG0 many pounds of Kenyan French Roast and Sumatran
+use MOD should
+use ARG2 to make a 20-pound blend that sells for 8.40 dollars per pound.
+make ARG1 a 20-pound blend that sells for 8.40 dollars per pound.
+sell ARG1 a 20-pound blend that sells for 8.40 dollars per pound.
+sell ARG3 8.40 dollars per pound.
+

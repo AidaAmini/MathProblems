@@ -1,0 +1,1 @@
+python FeatureFinder_usefull_np.py 50 90 "train_fv.txt"

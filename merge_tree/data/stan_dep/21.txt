@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP US) (NNP Senate))
+    (VP
+      (VBD had)
+      (NP
+        (NP (DT a) (NN total))
+        (PP
+          (IN of)
+          (NP
+            (QP (CD 99))
+            (NNPS Democrats)
+            (CC and)
+            (NNPS Republicans)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBD were)
+      (NP
+        (NP (CD 11) (JJR more) (NNS Republicans))
+        (PP (IN than) (NP (NNPS Democrats)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNPS Democrats)) (CC and) (NP (NNPS Republicans))))
+    (SQ
+      (VBD were)
+      (NP (EX there))
+      (PP (IN in) (NP (DT the) (NNP Senate))))
+    (. ?)))

@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ semi) (NN truck))
+    (VP
+      (VBZ travels)
+      (PP
+        (IN on)
+        (NP
+          (NP (DT a) (JJ paved) (NN road))
+          (PP
+            (IN for)
+            (NP
+              (NP (CD 2) (NNS hours))
+              (PP (IN at) (NP (DT an) (JJ average) (NN speed)))))
+          (PP
+            (IN of)
+            (NP
+              (NP (CD 20) (NNS miles))
+              (PP (IN per) (NP (NN hour)))))
+          (ADVP
+            (ADVP (RBR faster))
+            (SBAR
+              (IN than)
+              (S
+                (NP (PRP it))
+                (VP
+                  (VBZ travels)
+                  (PP (IN on) (NP (DT a) (NN dirt) (NN road))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN time))
+      (VP (VBN spent) (PP (IN on) (NP (DT the) (NN dirt)))))
+    (VP (VBZ is) (NP (CD 3) (NNS hours)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (DT the) (JJ entire) (NN trip))
+        (VP (VBZ is) (NP (CD 200) (NNS miles)))))
+    (, ,)
+    (WHADVP (WRB how) (JJ fast))
+    (SQ
+      (VBZ is)
+      (NP (DT the) (NN truck))
+      (VP
+        (VBG traveling)
+        (PP (IN on) (NP (DT the) (NN dirt) (NN road)))))
+    (. ?)))

@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Safety) (NNP Rent-a-Car))
+    (VP
+      (VBZ rents)
+      (NP
+        (NP
+          (NP (DT an) (JJ intermediate-size) (NN car))
+          (PP
+            (IN at)
+            (NP
+              (NP (DT a) (JJ daily) (NN rate))
+              (PP (IN of) (NP (CD 21.95) (NNS dollars))))))
+        (CC plus)
+        (NP (NP (CD 0.19)) (PP (IN per) (NP (NN mile))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP City) (NNPS Rentals))
+    (VP
+      (VB rent)
+      (NP
+        (NP
+          (NP (DT an) (JJ intermediate-size) (NN car))
+          (PP (IN for) (NP (CD 18.95) (NNS dollars))))
+        (CC plus)
+        (NP (NP (CD 0.21)) (PP (IN per) (NP (NN mile))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHPP (IN For) (WHNP (WDT what) (NP (NN milage))))
+    (SQ (VBZ is) (NP (DT the) (NN cost) (NP (DT the) (JJ same))))
+    (. ?)))

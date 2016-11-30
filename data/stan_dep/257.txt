@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (NNP Mrs.Martin))
+    (VP
+      (VP
+        (VBD bought)
+        (NP
+          (NP (CD 3) (NNS cups))
+          (PP
+            (IN of)
+            (NP (NP (NN coffee)) (CC and) (NP (CD 2) (NNS bagels))))))
+      (CC and)
+      (VP (VBD spent) (NP (CD 12.75) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Mr.Martin))
+    (VP
+      (VP
+        (VBD bought)
+        (NP
+          (NP (CD 2) (NNS cups))
+          (PP
+            (IN of)
+            (NP (NP (NN coffee)) (CC and) (NP (CD 5) (NNS bagels))))))
+      (CC and)
+      (VP (VBD spent) (NP (CD 14.00) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP
+          (IN of)
+          (NP
+            (NP (NP (CD one) (NN cup)) (PP (IN of) (NP (NN coffee))))
+            (CC and)
+            (NP
+              (NP (DT the) (NN cost))
+              (PP (IN of) (NP (CD one) (NN bagel))))))))
+    (. .)))

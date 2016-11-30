@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP (DT A) (NN student))
+    (VP (VBZ works) (NP (CD 2) (JJ part-time) (NNS jobs)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBZ earns)
+      (NP
+        (NP (NP (CD 8.00) (NNS dollars)) (NP (DT an) (NN hour)))
+        (VP
+          (VBG working)
+          (PP
+            (IN at)
+            (NP
+              (NP (DT the) (NN college) (NN library))
+              (CC and)
+              (NP
+                (NP (CD 15.00) (NNS dollars))
+                (NP (DT an) (NN hour)))))
+          (PP (IN for) (NP (NN construction) (NN work))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (TO To))
+    (VP
+      (VP (VB save) (NP (NN time)) (PP (IN for) (NP (NN study))))
+      (, ,)
+      (VP (VB be) (NP (NNS limits)))
+      (NP (PRP$ his) (NN work))
+      (PP
+        (TO to)
+        (NP (NP (CD 25) (NNS hours)) (NP (DT a) (NN week)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBZ enjoys)
+          (NP (DT the) (NN work))
+          (PP (IN at) (ADVP (NP (DT the) (NN library)) (RBR more))))))
+    (, ,)
+    (WHNP (WHADJP (WRB how) (JJ many)) (NNS hours))
+    (SQ
+      (MD can)
+      (NP (PRP he))
+      (VP
+        (VP (VB work) (PP (IN at) (NP (DT the) (NN library))))
+        (CC and)
+        (VP
+          (ADVP (RB still))
+          (VB earn)
+          (NP-TMP
+            (ADVP (IN at) (NP (CD 300) (NNS dollars)))
+            (DT a)
+            (NN week)))))
+    (. ?)))

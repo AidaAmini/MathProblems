@@ -1,0 +1,19 @@
+What happens to the features:
+
+Basic Features:
+1. Noun phrases with counts: If both sides of a relation have some valued count, it will be probable for the pair to have some kind of realtion. So I changed the feature to this:
+		(has_number(np1) or in_question(np1)) and (has_number(np2) or in_question(np2))
+
+	This assure that each entity that knwon as counted is the one with known or unkown count.
+
+2- Has number before: omitted
+3- noun_phrase in question: This is not a useful feature. So I erased it.
+4- 
+
+
+relation basic features:
+1- if np1 is used in plural
+2- is np2 is used in plural
+ 	2 possible solution for changing this feature. First is to delete the feature for both np1 and np2. Second is to use the nand of the two features. Since it will be no realtion if both of them are not used as plural. For now I just delete it.
+
+ 3-

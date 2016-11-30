@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD One))
+      (PP
+        (NP (QP (CD thousand) (NNS quarts)))
+        (IN of)
+        (NP
+          (NP (NN milk) (NN testing))
+          (NP (ADJP (CD 4) (NN %)) (NN butterfat)))))
+    (VP
+      (VBP are)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB be)
+            (VP (VBN reduced) (PP (TO to) (NP (CD 3) (NN %))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS quarts))
+      (PP
+        (IN of)
+        (NP
+          (NP (NN cream) (NN testing))
+          (NP (ADJP (CD 23) (NN %)) (NN butterfat)))))
+    (SQ
+      (VP
+        (MD must)
+        (VP
+          (VB be)
+          (VP
+            (VBN separated)
+            (PP (IN from) (NP (DT the) (NN milk)))
+            (S
+              (VP
+                (TO to)
+                (VP
+                  (VB produce)
+                  (NP (DT the) (JJ required) (NN result)))))))))
+    (. ?)))

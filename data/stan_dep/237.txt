@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 21) (NNS animals) (JJ total))
+        (, ,)
+        (NP (DT all) (NN sheep))
+        (CC and)
+        (NP (NNS chickens))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (EX there))
+        (VP (VBP are) (ADJP (NP (CD 56) (NNS legs)) (JJ total)))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many) (PP (IN of) (NP (DT the) (CD 21))))
+      (NNS animals))
+    (SQ (VBP are) (NP (NN sheep)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ many))
+    (SQ (VBP are) (NP (NNS chickens)))
+    (. ?)))

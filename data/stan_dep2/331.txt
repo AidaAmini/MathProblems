@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (DT A) (NN farmer))
+    (VP (VBZ has) (NP (NNS cows) (CC and) (NNS chickens)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (ADVP (RB only))
+    (VP
+      (VBZ sees)
+      (NP (NP (CD 50) (NNS legs)) (CC and) (NP (CD 18) (NNS heads))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBARQ
+      (WHADJP (WRB How) (JJ many))
+      (SQ (VBP are) (NP (NNS cows))))
+    (CC and)
+    (SBARQ
+      (WHADJP (WRB how) (JJ many))
+      (SQ (VBP are) (NP (NNS chickens)))
+      (. ?))))

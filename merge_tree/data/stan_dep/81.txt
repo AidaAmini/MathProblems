@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (DT A) (NN concert))
+    (VP
+      (VBZ sells)
+      (PRT (RP out))
+      (NP (DT a) (CD 20,000) (NN seat) (NN arena)))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Main) (NN seat) (NNS tickets))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 55) (NNS dollars))
+        (, ,)
+        (CC and)
+        (ADVP (RB back))
+        (NP
+          (NP (NN seat) (NNS tickets))
+          (PP (IN for) (NP (CD 45) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN concert))
+    (VP (VBD made) (NP (CD 955,000) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (JJ main) (NN seat) (NNS tickets))
+        (CC and)
+        (NP (JJ back) (NN seat) (NNS tickets))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

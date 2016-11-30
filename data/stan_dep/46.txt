@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VP (VBP make) (NP (NNS candles)))
+      (CC and)
+      (VP
+        (VB sell)
+        (NP (PRP them))
+        (PP (IN for) (NP (NP (CD 15) (NNS dollars)) (NP (DT each))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (DT The)
+      (NN material)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB make)
+            (PRT (RP up))
+            (PP (TO to) (NP (CD 20) (NNS candles)))))))
+    (VP (VBZ costs) (NP (CD 20) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS candles))
+    (SQ
+      (MD must)
+      (NP (PRP you))
+      (VP
+        (VB sell)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB have)
+              (NP
+                (NP (DT a) (NN profit))
+                (PP (IN of) (NP (CD 85) (NNS dollars)))))))))
+    (. ?)))

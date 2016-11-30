@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP (CD two) (NNS numbers))
+      (SBAR
+        (SBAR
+          (WHNP (WP$ whose) (NN sum))
+          (S (VP (VBZ is) (NP (CD 106)))))
+        (CC and)
+        (SBAR
+          (WHNP (WP$ whose) (NN difference))
+          (S (VP (VBZ is) (NP (CD 64)))))))
+    (. .)))

@@ -1,0 +1,59 @@
+(ROOT
+  (S
+    (NP (NNP Sara) (CC and) (NNP Jim))
+    (ADVP (CC both))
+    (VP
+      (VBD decided)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB save)
+            (NP (DT some) (NN money))
+            (NP-TMP (DT each) (NN week))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (NNP Sara))
+      (VP
+        (VBZ has)
+        (ADVP (RB already))
+        (VP (VBN saved) (NP (CD 4100) (NNS dollars)))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP she))
+      (VP
+        (VBZ plans)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB save)
+              (NP (CD 10) (NNS dollars))
+              (NP-TMP (DT a) (NN week)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Jim))
+    (VP
+      (VBZ plans)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB save)
+            (NP (CD 15) (NNS dollars))
+            (NP-TMP (DT a) (NN week))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHPP (IN In) (WHNP (WHADJP (WRB how) (JJ many)) (NNS weeks)))
+    (SQ
+      (MD will)
+      (NP (NNP Jim) (CC and) (NNP Sara))
+      (VP
+        (VBP have)
+        (VP (VBN saved) (NP (DT the) (JJ same) (NN amount)))))
+    (. ?)))

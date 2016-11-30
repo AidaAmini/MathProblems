@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP (DT The) (NNPS Lakers))
+    (VP
+      (VBD scored)
+      (NP (CD 43) (NNS points))
+      (PP
+        (IN on)
+        (NP
+          (NP (DT a) (NN combination))
+          (PP
+            (IN of)
+            (NP
+              (NP (QP (CD 20) (CD two)) (NN point) (NNS baskets))
+              (CC and)
+              (NP (CD three) (NN point) (NNS baskets)))))))
+    (. .)))
+(ROOT
+  (UCP
+    (FRAG
+      (WHNP
+        (WHNP (WHADJP (WRB How) (JJ many)) (NNS shots))
+        (PP (IN of) (NP (CD two) (NN point) (NNS baskets)))))
+    (CC and)
+    (SBAR
+      (WHNP
+        (WHNP (WHADJP (WRB how) (JJ many)) (NNS shots))
+        (PP (IN of) (NP (CD three) (NN point) (NNS baskets))))
+      (S (VP (VBD were) (VP (VBN made))))
+      (. ?))))

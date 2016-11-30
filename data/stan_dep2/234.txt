@@ -1,0 +1,65 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ special) (NN tea) (S (VP (VB blend))))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN made)
+        (PP
+          (IN from)
+          (NP
+            (NP (CD two) (NNS varieties))
+            (PP
+              (IN of)
+              (NP
+                (NP (JJ herbal) (NN tea))
+                (, ,)
+                (NP
+                  (NP (CD one))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP
+                        (VBZ is)
+                        (NP
+                          (NP
+                            (NP (CD 4.00) (NNS dollars))
+                            (PP (IN per) (NP (NN kilogram))))
+                          (CC and)
+                          (NP
+                            (NP (DT another))
+                            (SBAR
+                              (WHNP (WDT that))
+                              (S
+                                (VP
+                                  (VBZ is)
+                                  (NP
+                                    (NP (CD 2.00) (NNS dollars))
+                                    (PP (IN per) (NP (NN kilogram)))))))))))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS kilograms))
+      (PP (IN of) (NP (DT each) (NN type))))
+    (SQ
+      (VBP are)
+      (VP
+        (VBN needed)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB make)
+              (S
+                (NP
+                  (NP (CD 20) (NNS kilograms))
+                  (PP (IN of) (NP (DT a))))
+                (VP
+                  (VB blend)
+                  (VP
+                    (VBP are)
+                    (NP
+                      (NP (CD 2.50) (NNS dollars))
+                      (PP (IN per) (NP (NN kilogram))))))))))))
+    (. ?)))

@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (PRP$ Your) (NN science) (NN test))
+    (VP
+      (VP (VBZ is) (ADJP (JJ worth) (NP (CD 100) (NNS points))))
+      (CC and)
+      (VP (VBZ contains) (NP (CD 38) (NNS questions))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (JJ two-point) (CC and) (JJ five-point) (NNS questions))
+        (PP (IN on) (NP (DT the) (NN test)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (JJ two-point) (NNS questions))
+        (CC and)
+        (NP (JJ five-point) (NNS questions))))
+    (SQ (VBP are) (PP (IN on) (NP (DT the) (NN test))))
+    (. ?)))

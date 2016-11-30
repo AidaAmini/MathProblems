@@ -1,0 +1,12 @@
+receive ARG0 The manager of a discount clothing store
+receive ARG1 2 shipments of Fall clothing
+
+contain ARG0 The cost of the first shipment which contained 10 identical sweaters and 20 identical jackets
+contain ARG1 10 identical sweaters and 20 identical jackets
+
+contain ARG0 The second shipment at the same prices
+contain ARG1 5 of the same sweaters and 15 of the same jackets
+
+
+Find ARG1 the cost of 1 jacket , in dollars
+

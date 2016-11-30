@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP (DT A) (NN garage) (NN owner))
+    (VP
+      (VBZ wants)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB fill)
+            (SBAR
+              (S
+                (NP (DT a) (CD 55) (NN gallon))
+                (VP
+                  (VBP drum)
+                  (PP
+                    (IN with)
+                    (NP
+                      (NP
+                        (DT a)
+                        (CD 20)
+                        (NN percent)
+                        (NN winter)
+                        (NN mixture))
+                      (PP
+                        (IN of)
+                        (NP
+                          (NP (NN antifreeze))
+                          (PP
+                            (IN for)
+                            (NP (PRP$ his) (NNS customers))))))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS gallons))
+      (PP (IN of) (NP (CD 100) (NN percent) (NN antifreeze))))
+    (SQ
+      (MD should)
+      (NP (PRP he))
+      (VP
+        (VB mix)
+        (PP
+          (IN with)
+          (NP
+            (DT some)
+            (CD 10)
+            (NN percent)
+            (NN antifreeze)
+            (NN mixture)))
+        (SBAR
+          (IN in)
+          (NN order)
+          (S
+            (VP
+              (TO to)
+              (VP (VB fill) (S (NP (DT the)) (VP (VB drum)))))))))
+    (. ?)))

@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (QP (CD 3) (NNS times)) (DT a) (NN number))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN added)
+        (PP (TO to) (NP (QP (CD 5) (NNS times))))
+        (NP
+          (DT a)
+          (NN number)
+          (S (VP (TO to) (VP (VB get) (NP (CD 54))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ second) (NN number))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (QP (CD 2) (JJR less)))
+        (PP (IN than) (NP (DT the) (JJ first)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VP (VBZ is) (NP (DT the) (JJR smaller) (NN number))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is) (NP (DT the) (ADJP (JJR larger)) (NN number)))
+    (. ?)))

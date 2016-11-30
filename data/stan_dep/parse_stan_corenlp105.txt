@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN weight))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT an) (NN object))
+          (PP (IN on) (NP (DT the) (NN moon))))))
+    (VP
+      (VBZ varies)
+      (ADVP (RB directly))
+      (PP
+        (TO to)
+        (NP (NP (PRP$ its) (NN weight)) (PP (IN on) (NP (NN earth))))))
+    (. .)))
+(ROOT
+  (NP
+    (DT A)
+    (NN person)
+    (SBAR
+      (WHNP (WP who) (NNS weights))
+      (S
+        (NP (NP (CD 133) (NNS pounds)) (PP (IN on) (NP (NN earth))))
+        (VP
+          (VBZ weighs)
+          (NP
+            (NP (CD 26.6) (NNS pounds))
+            (PP (IN on) (NP (DT the) (NN moon)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS pounds))
+    (SQ
+      (MD would)
+      (NP (DT a) (JJ 136-pound) (NN person))
+      (VP (VB weigh) (PP (IN on) (NP (DT the) (NN moon)))))
+    (. ?)))

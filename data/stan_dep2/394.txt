@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (NNP Rita))
+    (VP
+      (VBD received)
+      (NP
+        (DT a)
+        (ADJP (QP (CD 70) (NNS dollars)))
+        (NN gift)
+        (NN card))
+      (PP (IN for) (NP (DT a) (NN coffee) (NN store))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VBD used)
+      (NP (PRP it))
+      (PP
+        (IN in)
+        (S
+          (VP
+            (VBG buying)
+            (NP
+              (NP (DT some) (NN coffee))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP
+                    (VBD cost)
+                    (NP
+                      (NP (CD 8.58) (NNS dollars))
+                      (PP (IN per) (NP (NN pound))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN After) (S (VP (VBG buying) (NP (DT the) (NN coffee)))))
+    (, ,)
+    (NP (PRP she))
+    (VP
+      (VBD had)
+      (NP (CD 35.68) (NNS dollars))
+      (VP (VBD left) (PP (IN on) (NP (PRP$ her) (NN card)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS pounds))
+      (PP (IN of) (NP (NN coffee))))
+    (SQ (VBD did) (NP (PRP she)) (VP (VB buy)))
+    (. ?)))

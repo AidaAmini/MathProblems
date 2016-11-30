@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Rocket) (NNP Coaster))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 15) (NNS cars))
+        (, ,)
+        (NP
+          (NP (DT some))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP
+                (VBP hold)
+                (NP
+                  (NP (CD 4) (NNS people))
+                  (CC and)
+                  (NP
+                    (NP (DT some))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S (VP (VBP hold) (NP (CD 6) (NNS people)))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBZ is)
+      (NP (NP (NN room)) (PP (IN for) (NP (CD 72) (NNS people))))
+      (ADVP (RB altogether)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD 4) (NN passenger)) (NP (NNS cars))))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD 6) (NN passenger)) (NP (NNS cars))))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

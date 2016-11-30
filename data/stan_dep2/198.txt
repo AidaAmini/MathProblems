@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT An) (NN employment) (NN agency))
+      (VP
+        (VBG specializing)
+        (PP (IN in) (NP (JJ temporary) (NN construction) (NN help)))))
+    (VP
+      (VBZ pays)
+      (NP (JJ heavy) (NN equipment) (NNS operators))
+      (NP
+        (NP (NP (CD 140) (NNS dollars)) (PP (IN per) (NP (NN day))))
+        (CC and)
+        (NP
+          (NP (JJ general) (NNS laborers))
+          (PP (NP (CD 90) (NNS dollars)) (IN per) (NP (NN day))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (S
+          (NP (CD 35) (NNS people))
+          (VP (VBD were) (VP (VBN hired))))
+        (CC and)
+        (S
+          (NP (DT the) (NN payroll))
+          (VP (VBD was) (NP (CD 3950) (NNS dollars))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (JJ heavy) (NN equipment)) (NP (NNS operators))))
+    (SQ (VBD were) (VP (VBN employed)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS laborers))
+    (SQ (VBD were) (VP (VBN employed)))
+    (. ?)))

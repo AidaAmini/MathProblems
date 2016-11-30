@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (DT A) (NN chemist))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD one) (NN solution))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP
+              (VBZ is)
+              (NP
+                (NP (ADJP (CD 15) (NN %)) (NN acid))
+                (CC and)
+                (NP
+                  (NP (DT a) (JJ second))
+                  (SBAR
+                    (WHNP (DT that))
+                    (S
+                      (VP
+                        (VBZ is)
+                        (NP (ADJP (CD 25) (NN %)) (NN acid))))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS liters))
+      (PP (IN of) (NP (DT each))))
+    (SQ
+      (VP
+        (MD should)
+        (VP
+          (VB be)
+          (VP
+            (VBN mixed)
+            (ADVP (RB together))
+            (S
+              (VP
+                (TO to)
+                (VP
+                  (VB get)
+                  (NP
+                    (NP (CD 100) (NNS liters))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP
+                          (VBZ is)
+                          (NP (ADJP (CD 18) (NN %)) (NN acid)))))))))))))
+    (. ?)))

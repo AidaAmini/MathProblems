@@ -1,0 +1,5841 @@
+tp_array_disjoint
+fp_array_disjoint
+stan	%
+
+dollar	milan bill for
+
+year	old
+
+cornmeal	mixed
+
+child 's ticket	ticket
+
+post card stamp	dollar
+
+first car	gas consumption
+
+gift wrap	dollar
+
+
+fn_array_disjoint
+matinee	movie theater
+
+adult ticket sell	adult ticket
+
+problem: 115
+
+laker	point
+
+point	point basket
+
+concert	seat arena
+
+problem: 140
+
+mrsmartin	cup
+
+mrsmartin	coffee
+
+bagel	dollar
+
+night	double room
+
+book	single room
+
+meter	long
+
+table	kind
+
+jacket	clearance sale
+
+manufacturer	same toy
+
+model b	hour
+
+model b	dollar each
+
+inch tall	tall
+
+taller	inch
+
+player	inch
+
+problem: 168
+
+movie theater	ticket
+
+dollar	adult
+
+dollar	night
+
+dollar	adult ticket
+
+week	drive
+
+week	gas consumption
+
+gallon	gallon car
+
+second car	gas consumption
+
+bean	peruvian bean
+
+peruvian bean	use
+
+cover	patio
+
+cover	material
+
+dollar	adult 's plate
+
+dollar	serve
+
+pound	french roast coffee
+
+steve	determine
+
+mark 's community barbecue	serve
+
+dollar	junk bond fund
+
+fund	% interest
+
+government bond fund	risky
+
+risky	%
+
+yield	% interest
+
+yield	safer government bond fund yield
+
+yield	%
+
+ilida	hiker
+
+day	hike
+
+people	hike
+
+problem: 221
+
+local bus tour	ticket
+
+local bus tour	dollar
+
+problem: 232
+
+theater	play
+
+theater	dollar
+
+theater	balcony seat
+
+dollar	sell
+
+petroleum company	% hydrocarbon
+
+crude oil	source
+
+first source	second one
+
+type	all
+
+problem: 239
+
+nickel	dollar
+
+chicken	there
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tp_array_subset
+matinee	dollar
+
+matinee	child
+
+laker	laker make
+
+basket	laker make
+
+problem: 141
+
+room	book
+
+room	single room
+
+single room	double room
+
+ticket	adult
+
+furniture dealer	there
+
+problem: 150
+
+cater company	people
+
+different type	type
+
+different type	other type
+
+souvenir	type
+
+souvenir	cent souvenier
+
+jacket	price
+
+last jacket	clearance sale
+
+child 's ticket	adult ticket
+
+first car	gallon car
+
+problem: 173
+
+high school	amount
+
+coffee counter	kenyan french roast
+
+pound	sumatran coffee
+
+steve	even
+
+circus production	performance
+
+sunflower	acre
+
+flax	acre farm
+
+dollar	tuesday melinda
+
+test	question
+
+remainder	rate
+
+pair	dollar
+
+mark 's community barbecue	dollar
+
+bond mutual fund	junk fund
+
+minewaska sate park	people
+
+summer	bike rider
+
+dollar	interest
+
+interest	year
+
+play	theater
+
+ticket	child
+
+problem: 230
+
+republican	senate
+
+balcony seat	receipt
+
+balcony seat	sell
+
+receipt	sell
+
+different source	source
+
+crude oil	second one
+
+second one	gallon
+
+wine	price
+
+compact disc	disc
+
+cent each	all
+
+cent each	distribute
+
+leg altogether	there
+
+dollar	film premiere
+
+pencil	specific number
+
+start point	rate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fp_array_subset
+problem: 100
+
+dollar	fund
+
+dollar	%
+
+dollar	% annual interest
+
+dollar	interest
+
+dollar	annual interest
+
+fund	%
+
+fund	% annual interest
+
+fund	interest
+
+fund	annual interest
+
+%	% annual interest
+
+%	interest
+
+%	annual interest
+
+% annual interest	interest
+
+% annual interest	annual interest
+
+interest	annual interest
+
+problem: 101
+
+mechanic	car
+
+mechanic	first mechanic
+
+mechanic	dollar
+
+mechanic	hour
+
+mechanic	second mechanic
+
+mechanic	second mechanic work
+
+car	dollar
+
+car	hour
+
+first mechanic	dollar
+
+first mechanic	hour
+
+first mechanic	second mechanic
+
+first mechanic	second mechanic work
+
+dollar	hour
+
+dollar	second mechanic
+
+dollar	second mechanic work
+
+hour	second mechanic
+
+hour	second mechanic work
+
+second mechanic	second mechanic work
+
+problem: 102
+
+problem: 103
+
+stan	dollar
+
+stan	part
+
+stan	year
+
+dollar	part
+
+dollar	%
+
+dollar	interest
+
+dollar	year
+
+part	%
+
+part	year
+
+%	year
+
+interest	year
+
+problem: 104
+
+problem: 105
+
+car rent	dollar
+
+car rent	day
+
+car rent	julia
+
+dollar	day
+
+dollar	mile
+
+dollar	julia
+
+day	mile
+
+day	julia
+
+mile	julia
+
+problem: 106
+
+jane	dress shop
+
+jane	red dress
+
+space	red
+
+space	blue dress
+
+space	several fashion magazine
+
+space	shelf
+
+space	red dress
+
+dress	several fashion magazine
+
+dress	shelf
+
+red	several fashion magazine
+
+blue dress	several fashion magazine
+
+blue dress	shelf
+
+blue dress	red dress
+
+several fashion magazine	shelf
+
+several fashion magazine	red dress
+
+shelf	red dress
+
+problem: 108
+
+colombian coffee bean	dollar
+
+colombian coffee bean	bean
+
+colombian coffee bean	peruvian bean
+
+colombian coffee bean	use
+
+dollar	bean
+
+dollar	peruvian coffee bean
+
+dollar	pound
+
+dollar	columbian bean
+
+dollar	peruvian bean
+
+dollar	use
+
+bean	peruvian coffee bean
+
+bean	pound
+
+bean	peruvian bean
+
+pound	peruvian bean
+
+pound	use
+
+columbian bean	peruvian bean
+
+problem: 109
+
+sum	difference
+
+sum	other one
+
+difference	other one
+
+problem: 110
+
+% acid solution	liter
+
+% acid solution	solution
+
+% acid solution	% solution
+
+liter	solution
+
+liter	% solution
+
+solution	% solution
+
+problem: 111
+
+long distance phone service milan	dollar monthly fee
+
+long distance phone service milan	minute
+
+long distance phone service milan	last month
+
+long distance phone service milan	dollar
+
+long distance phone service milan	milan bill for
+
+dollar monthly fee	last month
+
+dollar monthly fee	dollar
+
+dollar monthly fee	milan bill for
+
+cent	minute
+
+cent	last month
+
+cent	milan 's long distance bill
+
+cent	dollar
+
+cent	milan bill for
+
+minute	last month
+
+minute	milan 's long distance bill
+
+minute	dollar
+
+minute	milan bill for
+
+last month	dollar
+
+milan 's long distance bill	dollar
+
+milan 's long distance bill	milan bill for
+
+problem: 112
+
+tallest player	inch tall
+
+tallest player	taller
+
+tallest player	player
+
+tallest player	shortest player
+
+tallest player	tall
+
+basketball team	inch tall
+
+basketball team	player
+
+basketball team	shortest player
+
+basketball team	inch
+
+inch tall	taller
+
+inch tall	player
+
+inch tall	shortest player
+
+inch tall	inch
+
+taller	player
+
+taller	shortest player
+
+taller	tall
+
+taller	inch
+
+player	shortest player
+
+player	tall
+
+player	inch
+
+shortest player	tall
+
+shortest player	inch
+
+tall	inch
+
+problem: 113
+
+matinee	movie theater
+
+matinee	today 's matinee
+
+matinee	receipt
+
+movie theater	dollar
+
+movie theater	today 's matinee
+
+movie theater	receipt
+
+dollar	child
+
+dollar	adult
+
+dollar	today 's matinee
+
+dollar	receipt
+
+child	today 's matinee
+
+adult	today 's matinee
+
+adult	receipt
+
+today 's matinee	receipt
+
+problem: 114
+
+ticket	school play
+
+ticket	student ticket
+
+ticket	adult ticket sell
+
+school play	adult ticket sell
+
+school play	adult ticket
+
+school play	sell
+
+student ticket	adult ticket
+
+student ticket	sell
+
+adult ticket sell	adult ticket
+
+adult ticket sell	sell
+
+adult ticket	sell
+
+problem: 115
+
+laker	point
+
+laker	basketball game
+
+laker	bull
+
+laker	basket
+
+laker	point basket
+
+point	basketball game
+
+point	bull
+
+point	point basket
+
+point	laker make
+
+basketball game	point basket
+
+bull	point basket
+
+basket	point basket
+
+point basket	laker make
+
+problem: 116
+
+concert	seat arena
+
+concert	main seat ticket
+
+concert	dollar
+
+concert	ticket
+
+concert	sell
+
+seat arena	ticket
+
+seat arena	back seat ticket
+
+seat arena	sell
+
+main seat ticket	dollar
+
+main seat ticket	ticket
+
+main seat ticket	back seat ticket
+
+main seat ticket	sell
+
+dollar	ticket
+
+dollar	back seat ticket
+
+dollar	sell
+
+ticket	back seat ticket
+
+ticket	sell
+
+problem: 117
+
+year walt	rest
+
+year walt	interest
+
+dollar	part
+
+dollar	money
+
+dollar	%
+
+dollar	rest
+
+dollar	interest
+
+part	money
+
+part	rest
+
+part	interest
+
+money	rest
+
+%	rest
+
+problem: 118
+
+sum	other
+
+other	smaller number
+
+other	number
+
+other	larger number
+
+smaller number	number
+
+smaller number	larger number
+
+number	larger number
+
+problem: 119
+
+shoe store	black shoe
+
+shoe store	number
+
+shoe store	there
+
+black shoe	number
+
+brown shoe	there
+
+number	there
+
+problem: 120
+
+mary	rose
+
+mary	daisy
+
+mary	flower shop
+
+mary	dollar
+
+rose	daisy
+
+rose	flower shop
+
+rose	dollar
+
+daisy	flower shop
+
+daisy	dollar
+
+flower shop	dollar
+
+problem: 121
+
+ron	kathy
+
+ron	ticket-seller
+
+ron	ron handling student ticket
+
+ron	dollar
+
+ron	ticket
+
+ron	dollar each
+
+ron	income
+
+kathy	ticket-seller
+
+kathy	ron handling student ticket
+
+kathy	dollar
+
+kathy	ticket
+
+kathy	ron sell
+
+ticket-seller	ron handling student ticket
+
+ticket-seller	dollar
+
+ticket-seller	ticket
+
+ticket-seller	income
+
+ticket-seller	ron sell
+
+ron handling student ticket	ticket
+
+ron handling student ticket	adult ticket
+
+ron handling student ticket	dollar each
+
+ron handling student ticket	income
+
+ron handling student ticket	ron sell
+
+dollar	ticket
+
+dollar	adult ticket
+
+dollar	dollar each
+
+dollar	income
+
+dollar	ron sell
+
+ticket	income
+
+adult ticket	income
+
+adult ticket	ron sell
+
+dollar each	income
+
+dollar each	ron sell
+
+income	ron sell
+
+problem: 122
+
+pedro	market
+
+pedro	plum
+
+pedro	peach
+
+pedro	dollar
+
+pedro	pedro buy
+
+market	plum
+
+market	dollar
+
+market	pedro buy
+
+plum	dollar
+
+peach	dollar
+
+peach	pedro buy
+
+dollar	pedro buy
+
+problem: 123
+
+employment agency	temporary construction help
+
+employment agency	heavy equipment operator
+
+employment agency	dollar
+
+employment agency	people
+
+employment agency	payroll
+
+employment agency	laborer
+
+employment agency	employ
+
+temporary construction help	heavy equipment operator
+
+temporary construction help	dollar
+
+temporary construction help	people
+
+temporary construction help	payroll
+
+temporary construction help	laborer
+
+temporary construction help	employ
+
+heavy equipment operator	dollar
+
+heavy equipment operator	people
+
+heavy equipment operator	payroll
+
+heavy equipment operator	laborer
+
+heavy equipment operator	employ
+
+dollar	day
+
+dollar	general laborer
+
+dollar	people
+
+dollar	payroll
+
+dollar	laborer
+
+dollar	employ
+
+day	general laborer
+
+day	people
+
+day	payroll
+
+general laborer	people
+
+general laborer	payroll
+
+general laborer	laborer
+
+payroll	laborer
+
+payroll	employ
+
+laborer	employ
+
+problem: 124
+
+4th	july weekend
+
+4th	vehicle
+
+4th	wheel
+
+4th	damage
+
+4th	incident
+
+july weekend	vehicle
+
+july weekend	wheel
+
+july weekend	damage
+
+july weekend	incident
+
+vehicle	wheel
+
+vehicle	damage
+
+trap	wheel
+
+sunshine skyway bridge	wheel
+
+sunshine skyway bridge	damage
+
+sunshine skyway bridge	incident
+
+recent city ordinance	car
+
+recent city ordinance	damage
+
+recent city ordinance	incident
+
+car	wheel
+
+car	damage
+
+car	incident
+
+wheel	damage
+
+bridge	damage
+
+bridge	incident
+
+tire	due
+
+tire	damage
+
+tire	incident
+
+due	damage
+
+due	incident
+
+problem: 125
+
+river jo 's seafood diner	order
+
+river jo 's seafood diner	popcorn shrimp
+
+river jo 's seafood diner	river joe
+
+dollar	catfish dinner
+
+dollar	order
+
+dollar	popcorn shrimp
+
+dollar	river joe
+
+catfish dinner	order
+
+catfish dinner	popcorn shrimp
+
+catfish dinner	river joe
+
+order	popcorn shrimp
+
+order	river joe
+
+popcorn shrimp	river joe
+
+problem: 126
+
+bob	dollar
+
+bob	fund
+
+bob	%
+
+bob	% simple interest
+
+bob	interest
+
+bob	year
+
+dollar	fund
+
+dollar	%
+
+dollar	% simple interest
+
+dollar	interest
+
+dollar	year
+
+fund	%
+
+fund	% simple interest
+
+fund	interest
+
+fund	year
+
+%	% simple interest
+
+%	interest
+
+%	year
+
+% simple interest	interest
+
+interest	year
+
+problem: 127
+
+sum	smaller number
+
+sum	larger number
+
+first number	second number
+
+first number	smaller number
+
+first number	larger number
+
+number	second number
+
+number	larger number
+
+second number	larger number
+
+smaller number	larger number
+
+problem: 128
+
+adult ticket	play
+
+adult ticket	dollar
+
+adult ticket	theater
+
+adult ticket	ticket sale
+
+adult ticket	child
+
+adult ticket	adult
+
+play	dollar
+
+play	theater
+
+play	ticket sale
+
+play	child
+
+play	adult
+
+dollar	ticket
+
+dollar	child ticket
+
+dollar	people
+
+dollar	theater
+
+dollar	ticket sale
+
+dollar	child
+
+ticket	people
+
+ticket	theater
+
+ticket	ticket sale
+
+child ticket	theater
+
+child ticket	ticket sale
+
+child ticket	child
+
+child ticket	adult
+
+people	child
+
+ticket sale	child
+
+child	adult
+
+problem: 129
+
+concession stand	soda sell
+
+concession stand	sell
+
+hot dog	dollar
+
+hot dog	soda
+
+hot dog	soda sell
+
+hot dog	sell
+
+dollar	soda
+
+dollar	soda sell
+
+dollar	sell
+
+soda	soda sell
+
+soda	sell
+
+soda sell	sell
+
+problem: 130
+
+class a	class b
+
+class a	class fund
+
+class a	dollar
+
+class a	orphanage
+
+class a	dollar short
+
+class a	class a donate
+
+class a	donate
+
+class a	class b donate
+
+class b	class fund
+
+class b	dollar
+
+class b	dollar short
+
+class b	class a donate
+
+class b	donate
+
+class b	class b donate
+
+class fund	dollar
+
+class fund	dollar short
+
+class fund	class a donate
+
+class fund	donate
+
+class fund	class b donate
+
+dollar	orphanage
+
+dollar	dollar short
+
+dollar	class a donate
+
+dollar	donate
+
+orphanage	dollar short
+
+orphanage	class a donate
+
+orphanage	donate
+
+orphanage	class b donate
+
+dollar short	class a donate
+
+dollar short	donate
+
+class a donate	donate
+
+class a donate	class b donate
+
+donate	class b donate
+
+problem: 131
+
+mary	home
+
+mary	school
+
+mary	mile
+
+mary	same time
+
+mary	long
+
+mary	mile apart
+
+home	school
+
+home	same time
+
+home	long
+
+home	mile apart
+
+school	same time
+
+school	long
+
+school	mile apart
+
+mile	hour
+
+mile	sharon
+
+mile	same time
+
+mile	long
+
+mile	mile apart
+
+hour	sharon
+
+hour	same time
+
+hour	long
+
+sharon	same time
+
+sharon	mile apart
+
+same time	long
+
+same time	mile apart
+
+long	mile apart
+
+problem: 132
+
+problem: 133
+
+difference	sum
+
+problem: 134
+
+problem: 135
+
+problem: 136
+
+week	music store
+
+week	violin
+
+week	dollar
+
+week	different type
+
+week	other
+
+music store	dollar
+
+music store	sell
+
+violin	dollar
+
+violin	different type
+
+violin	sell
+
+dollar	other
+
+sell	other
+
+problem: 137
+
+theater	open night
+
+theater	child ticket
+
+seat	open night
+
+seat	dollar
+
+seat	ticket
+
+seat	child ticket
+
+seat	dollar each
+
+seat	sell
+
+open night	adult ticket
+
+open night	dollar
+
+open night	ticket
+
+open night	child ticket
+
+open night	dollar each
+
+open night	sell
+
+adult ticket	dollar
+
+adult ticket	ticket
+
+adult ticket	child ticket
+
+adult ticket	dollar each
+
+adult ticket	sell
+
+dollar	ticket
+
+dollar	child ticket
+
+dollar	dollar each
+
+dollar	sell
+
+ticket	child ticket
+
+ticket	dollar each
+
+ticket	sell
+
+child ticket	dollar each
+
+problem: 139
+
+small publishing company	publisher
+
+small publishing company	finish product
+
+new book	publisher
+
+new book	finish product
+
+new book	bookstore
+
+new book	money
+
+new book	sale
+
+dollar	book
+
+dollar	publisher
+
+dollar	bookstore
+
+book	publisher
+
+book	finish product
+
+book	sale
+
+finish product	bookstore
+
+bookstore	sale
+
+money	sale
+
+problem: 140
+
+mrsmartin	cup
+
+mrsmartin	coffee
+
+mrsmartin	mrmartin
+
+mrsmartin	dollar
+
+cup	bagel
+
+cup	dollar
+
+coffee	bagel
+
+coffee	mrmartin
+
+coffee	dollar
+
+bagel	mrmartin
+
+bagel	dollar
+
+mrmartin	dollar
+
+night	room
+
+night	book
+
+night	single room
+
+night	double room
+
+night	dollar
+
+room	double room
+
+room	dollar
+
+book	single room
+
+book	double room
+
+book	dollar
+
+single room	dollar
+
+double room	dollar
+
+problem: 142
+
+adult ticket	show
+
+adult ticket	ticket
+
+adult ticket	child 's ticket
+
+adult ticket	adult
+
+adult ticket	child
+
+adult ticket	receipt
+
+show	ticket
+
+show	child 's ticket
+
+show	adult
+
+show	child
+
+show	receipt
+
+dollar	ticket
+
+dollar	child 's ticket
+
+dollar	adult
+
+dollar	receipt
+
+ticket	child 's ticket
+
+ticket	child
+
+child 's ticket	child
+
+child 's ticket	receipt
+
+adult	child
+
+problem: 143
+
+teacher	test
+
+teacher	point
+
+teacher	question
+
+teacher	point question
+
+teacher	there
+
+test	point
+
+test	question
+
+test	point question
+
+test	there
+
+point	question
+
+point	point question
+
+point	there
+
+question	point question
+
+question	there
+
+problem: 144
+
+adult ticket	ticket
+
+adult ticket	child ticket
+
+adult ticket	people
+
+adult ticket	theater
+
+adult ticket	ticket sale
+
+play	ticket
+
+play	child ticket
+
+play	people
+
+play	theater
+
+play	ticket sale
+
+play	child
+
+play	adult
+
+dollar	ticket
+
+dollar	child ticket
+
+dollar	people
+
+dollar	child
+
+dollar	adult
+
+ticket	child ticket
+
+ticket	child
+
+child ticket	people
+
+child ticket	theater
+
+child ticket	adult
+
+theater	ticket sale
+
+theater	adult
+
+ticket sale	child
+
+ticket sale	adult
+
+problem: 145
+
+coin	amount
+
+coin	dollar
+
+coin	there
+
+amount	dollar
+
+amount	there
+
+dollar	there
+
+problem: 146
+
+problem: 147
+
+piece	rope
+
+piece	meter
+
+piece	longest piece
+
+piece	long
+
+piece	shorter piece
+
+rope	meter
+
+rope	longest piece
+
+rope	long
+
+rope	shorter piece
+
+meter	longest piece
+
+meter	long
+
+longest piece	long
+
+longest piece	shorter piece
+
+problem: 148
+
+state market	orange
+
+state market	together
+
+orange	apple
+
+together	market
+
+problem: 149
+
+furniture dealer	leg
+
+furniture dealer	kind
+
+furniture dealer	legged table
+
+table	leg
+
+table	kind
+
+table	legged table
+
+table	there
+
+leg	kind
+
+leg	legged table
+
+legged table	there
+
+shop	metal
+
+shop	acid solution supplies
+
+shop	mixed
+
+shop	need
+
+metal	acid solution supplies
+
+metal	exist solution
+
+metal	mixed
+
+metal	need
+
+acid solution	owner
+
+acid solution	certain job
+
+acid solution	job supervisor
+
+acid solution	acid solution supplies
+
+acid solution	supervisor
+
+acid solution	% acid solution
+
+acid solution	exist solution
+
+acid solution	mixed
+
+owner	certain job
+
+owner	job supervisor
+
+owner	ounce
+
+owner	solution
+
+owner	% solution
+
+owner	acid solution supplies
+
+owner	supervisor
+
+owner	exist solution
+
+owner	need
+
+certain job	ounce
+
+certain job	solution
+
+certain job	% solution
+
+certain job	acid solution supplies
+
+certain job	% acid solution
+
+certain job	mixed
+
+job supervisor	ounce
+
+job supervisor	solution
+
+job supervisor	% solution
+
+job supervisor	acid solution supplies
+
+job supervisor	supervisor
+
+job supervisor	% acid solution
+
+job supervisor	exist solution
+
+job supervisor	mixed
+
+job supervisor	need
+
+ounce	solution
+
+ounce	% solution
+
+ounce	acid solution supplies
+
+ounce	supervisor
+
+ounce	% acid solution
+
+ounce	exist solution
+
+ounce	mixed
+
+solution	supervisor
+
+solution	exist solution
+
+solution	mixed
+
+solution	need
+
+% solution	acid solution supplies
+
+% solution	supervisor
+
+% solution	exist solution
+
+% solution	mixed
+
+% solution	need
+
+acid solution supplies	supervisor
+
+acid solution supplies	% acid solution
+
+acid solution supplies	exist solution
+
+acid solution supplies	need
+
+supervisor	% acid solution
+
+supervisor	exist solution
+
+supervisor	need
+
+% acid solution	exist solution
+
+% acid solution	mixed
+
+exist solution	need
+
+problem: 151
+
+king	loss
+
+king	team have
+
+game	win
+
+game	loss
+
+loss	team have
+
+problem: 153
+
+cater company	table
+
+cater company	big event
+
+cater company	fork
+
+cater company	child
+
+cater company	adult
+
+cater company	company
+
+cater company	event
+
+table	big event
+
+table	adult
+
+table	company
+
+big event	child
+
+big event	adult
+
+big event	company
+
+big event	event
+
+people	fork
+
+people	child
+
+people	adult
+
+people	company
+
+people	event
+
+fork	child
+
+fork	adult
+
+fork	company
+
+fork	event
+
+child	adult
+
+child	company
+
+adult	event
+
+problem: 154
+
+wal-mart	dollar
+
+wal-mart	hot-water bottle
+
+wal-mart	sale
+
+wal-mart	january
+
+thermometer	dollar
+
+thermometer	hot-water bottle
+
+thermometer	sale
+
+thermometer	item
+
+thermometer	month
+
+thermometer	january
+
+thermometer	hot-water bottle sell
+
+thermometer	hot-water
+
+dollar	item
+
+dollar	january
+
+dollar	hot-water bottle sell
+
+dollar	hot-water
+
+hot-water bottle	sale
+
+hot-water bottle	item
+
+hot-water bottle	hot-water bottle sell
+
+hot-water bottle	hot-water
+
+sale	january
+
+sale	hot-water bottle sell
+
+sale	hot-water
+
+item	hot-water bottle sell
+
+item	hot-water
+
+month	january
+
+month	hot-water bottle sell
+
+problem: 155
+
+trenton	dollar
+
+trenton	commission equal
+
+electronic supplies	dollar
+
+electronic supplies	commission equal
+
+electronic supplies	%
+
+electronic supplies	sale
+
+electronic supplies	goal
+
+electronic supplies	write
+
+electronic supplies	inequality
+
+week	dollar
+
+week	commission equal
+
+week	%
+
+week	sale
+
+week	goal
+
+week	write
+
+week	inequality
+
+dollar	commission equal
+
+dollar	sale
+
+dollar	goal
+
+dollar	write
+
+commission equal	%
+
+commission equal	sale
+
+commission equal	goal
+
+commission equal	write
+
+commission equal	inequality
+
+%	write
+
+%	inequality
+
+sale	write
+
+problem: 156
+
+problem: 157
+
+people	adult
+
+people	child
+
+people	admission receipt
+
+play	dollar
+
+play	adult
+
+play	child
+
+play	admission receipt
+
+admission price	child
+
+dollar	adult
+
+dollar	child
+
+dollar	admission receipt
+
+adult	admission receipt
+
+child	admission receipt
+
+problem: 158
+
+piece	length
+
+piece	other
+
+problem: 159
+
+world 's oldest bride	yr older
+
+world 's oldest bride	groom
+
+world 's oldest bride	age
+
+world 's oldest bride	old
+
+world 's oldest bride	bride
+
+yr older	groom
+
+yr older	age
+
+yr older	bride
+
+groom	age
+
+groom	year
+
+groom	old
+
+groom	bride
+
+age	bride
+
+problem: 160
+
+soybean meal	cornmeal
+
+soybean meal	pound
+
+soybean meal	mixed
+
+% protein	cornmeal
+
+% protein	pound
+
+% protein	mixed
+
+problem: 161
+
+grand opening	guthrie market
+
+grand opening	different type
+
+grand opening	souvenir
+
+grand opening	type
+
+grand opening	cent
+
+grand opening	other type
+
+grand opening	all
+
+grand opening	distribute
+
+guthrie market	different type
+
+guthrie market	souvenir
+
+guthrie market	type
+
+guthrie market	cent
+
+guthrie market	other type
+
+guthrie market	cent each
+
+guthrie market	cent souvenier
+
+guthrie market	distribute
+
+different type	souvenir
+
+different type	all
+
+different type	cent souvenier
+
+different type	distribute
+
+souvenir	cent
+
+souvenir	cent each
+
+souvenir	all
+
+souvenir	distribute
+
+type	cent
+
+type	other type
+
+type	cent each
+
+type	all
+
+type	distribute
+
+cent	cent each
+
+cent	all
+
+cent	cent souvenier
+
+cent	distribute
+
+other type	all
+
+other type	cent souvenier
+
+other type	distribute
+
+cent each	all
+
+all	distribute
+
+cent souvenier	distribute
+
+problem: 162
+
+student	part-time job
+
+student	dollar
+
+student	study
+
+student	work
+
+student	week
+
+part-time job	dollar
+
+part-time job	hour
+
+part-time job	college library
+
+part-time job	construction work
+
+part-time job	study
+
+part-time job	work
+
+part-time job	week
+
+dollar	hour
+
+dollar	college library
+
+dollar	construction work
+
+dollar	study
+
+hour	college library
+
+hour	study
+
+hour	work
+
+college library	construction work
+
+college library	study
+
+college library	work
+
+college library	week
+
+construction work	study
+
+construction work	work
+
+construction work	week
+
+problem: 163
+
+department store	winter jacket
+
+department store	season
+
+department store	jacket
+
+department store	dollar
+
+department store	price
+
+department store	clearance sale
+
+sale	winter jacket
+
+sale	season
+
+sale	jacket
+
+sale	price
+
+sale	clearance sale
+
+winter jacket	season
+
+winter jacket	receipt
+
+winter jacket	clearance sale
+
+season	jacket
+
+season	last jacket
+
+season	receipt
+
+season	clearance sale
+
+jacket	dollar
+
+jacket	last jacket
+
+jacket	receipt
+
+jacket	clearance sale
+
+dollar	price
+
+dollar	last jacket
+
+dollar	receipt
+
+dollar	clearance sale
+
+price	last jacket
+
+price	receipt
+
+price	clearance sale
+
+last jacket	receipt
+
+receipt	clearance sale
+
+problem: 164
+
+manufacturer	same toy
+
+manufacturer	model a
+
+manufacturer	model b
+
+manufacturer	hour
+
+manufacturer	dollar each
+
+manufacturer	dollar eachproduce
+
+manufacturer	dollar
+
+manufacturer	production
+
+manufacturer	week
+
+model	same toy
+
+model	model a
+
+model	model b
+
+model	hour
+
+model	dollar each
+
+model	dollar eachproduce
+
+model	dollar
+
+model	production
+
+model	produce
+
+same toy	model a
+
+same toy	model b
+
+same toy	hour
+
+same toy	dollar each
+
+same toy	dollar eachproduce
+
+same toy	dollar
+
+same toy	week
+
+same toy	produce
+
+model a	model b
+
+model a	hour
+
+model a	dollar each
+
+model a	dollar eachproduce
+
+model a	production
+
+model a	week
+
+model a	produce
+
+model b	hour
+
+model b	dollar each
+
+model b	dollar eachproduce
+
+model b	dollar
+
+model b	production
+
+model b	week
+
+model b	produce
+
+hour	dollar each
+
+hour	dollar eachproduce
+
+hour	dollar
+
+hour	production
+
+hour	week
+
+hour	produce
+
+dollar each	dollar eachproduce
+
+dollar each	dollar
+
+dollar each	production
+
+dollar each	week
+
+dollar each	produce
+
+dollar eachproduce	production
+
+dollar eachproduce	week
+
+dollar eachproduce	produce
+
+dollar	production
+
+dollar	week
+
+dollar	produce
+
+problem: 165
+
+unit	whole wheat flour
+
+unit	gram
+
+unit	protein
+
+unit	fat
+
+unit	dough
+
+whole wheat flour	gram
+
+whole wheat flour	protein
+
+whole wheat flour	mixed
+
+whole wheat flour	dough
+
+gram	nearest tenth
+
+protein	nearest tenth
+
+protein	dough
+
+fat	whole milk
+
+fat	nearest tenth
+
+fat	mixed
+
+fat	dough
+
+whole milk	nearest tenth
+
+whole milk	mixed
+
+whole milk	dough
+
+nearest tenth	mixed
+
+nearest tenth	dough
+
+mixed	dough
+
+problem: 166
+
+science test	question
+
+science test	test
+
+point	question
+
+point	test
+
+question	test
+
+problem: 167
+
+tallest player	inch tall
+
+tallest player	player
+
+tallest player	shortest player
+
+tallest player	inch
+
+basketball team	inch tall
+
+basketball team	taller
+
+basketball team	player
+
+basketball team	tall
+
+basketball team	inch
+
+inch tall	taller
+
+inch tall	player
+
+inch tall	shortest player
+
+inch tall	tall
+
+inch tall	inch
+
+taller	player
+
+taller	shortest player
+
+taller	tall
+
+taller	inch
+
+player	shortest player
+
+player	inch
+
+tall	inch
+
+problem: 168
+
+movie theater	dollar
+
+movie theater	adult
+
+movie theater	child 's ticket
+
+movie theater	night
+
+movie theater	ticket
+
+movie theater	adult ticket
+
+dollar	adult
+
+dollar	child 's ticket
+
+dollar	night
+
+dollar	adult ticket
+
+adult	child 's ticket
+
+adult	adult ticket
+
+adult	sell
+
+child 's ticket	night
+
+child 's ticket	sell
+
+night	ticket
+
+night	adult ticket
+
+night	sell
+
+ticket	adult ticket
+
+ticket	sell
+
+adult ticket	sell
+
+problem: 169
+
+washer	dryer
+
+washer	dollar 
+
+washer	price
+
+dryer	dollar 
+
+dryer	price
+
+dollar 	price
+
+problem: 170
+
+post card stamp	dollar each
+
+post card stamp	stamp
+
+post card stamp	letter stamp
+
+post card stamp	letter
+
+dollar each	stamp
+
+dollar each	letter stamp
+
+dollar each	dollar
+
+dollar each	letter
+
+stamp	dollar
+
+stamp	letter
+
+letter stamp	dollar
+
+problem: 171
+
+problem: 172
+
+car	week
+
+car	first car
+
+car	average
+
+car	mile
+
+car	gallon
+
+car	second car
+
+car	drive
+
+car	gas consumption
+
+car	gallon car
+
+week	first car
+
+week	average
+
+week	mile
+
+week	drive
+
+week	gas consumption
+
+week	gallon car
+
+first car	average
+
+first car	second car
+
+first car	drive
+
+average	mile
+
+average	gallon
+
+average	second car
+
+average	gas consumption
+
+average	gallon car
+
+mile	drive
+
+mile	gas consumption
+
+gallon	drive
+
+gallon	gallon car
+
+second car	gas consumption
+
+high school	dollar
+
+high school	wrap
+
+high school	print gift wrap
+
+high school	number
+
+gift wrap	roll
+
+gift wrap	wrap
+
+gift wrap	number
+
+gift wrap	print roll
+
+gift wrap	sell
+
+solid color	roll
+
+solid color	wrap
+
+solid color	print gift wrap
+
+solid color	number
+
+solid color	amount
+
+solid color	money
+
+solid color	solid roll
+
+solid color	print roll
+
+solid color	sell
+
+dollar	roll
+
+dollar	wrap
+
+dollar	money
+
+dollar	solid roll
+
+dollar	print roll
+
+dollar	sell
+
+roll	solid roll
+
+wrap	number
+
+wrap	amount
+
+wrap	solid roll
+
+wrap	print roll
+
+print gift wrap	number
+
+print gift wrap	money
+
+print gift wrap	print roll
+
+number	money
+
+number	print roll
+
+amount	solid roll
+
+amount	print roll
+
+amount	sell
+
+money	solid roll
+
+solid roll	sell
+
+problem: 174
+
+walt	extra
+
+walt	dollar last year
+
+walt	part-time job
+
+walt	rest
+
+walt	interest
+
+extra	dollar last year
+
+extra	part-time job
+
+extra	part
+
+extra	money
+
+extra	%
+
+extra	rest
+
+extra	dollar
+
+dollar last year	money
+
+dollar last year	dollar
+
+dollar last year	interest
+
+part-time job	part
+
+part-time job	%
+
+part-time job	rest
+
+part-time job	dollar
+
+part	money
+
+part	%
+
+part	dollar
+
+part	interest
+
+money	%
+
+money	rest
+
+money	dollar
+
+money	interest
+
+%	rest
+
+%	dollar
+
+%	interest
+
+rest	dollar
+
+rest	interest
+
+dollar	interest
+
+problem: 175
+
+kerry	bank teller
+
+kerry	dollar
+
+kerry	teller
+
+kerry	bill
+
+bank teller	dollar
+
+bank teller	teller
+
+bank teller	bill
+
+dollar	teller
+
+dollar	bill
+
+teller	bill
+
+problem: 176
+
+worker	cent
+
+worker	hour
+
+worker	ordinary time
+
+worker	overtime
+
+worker	dollar
+
+worker	hour week
+
+cent	hour
+
+cent	ordinary time
+
+cent	overtime
+
+cent	dollar
+
+cent	hour week
+
+hour	ordinary time
+
+hour	overtime
+
+hour	dollar
+
+hour	hour week
+
+ordinary time	overtime
+
+ordinary time	hour week
+
+overtime	hour week
+
+dollar	hour week
+
+problem: 177
+
+ticket	high school play
+
+ticket	student ticket
+
+ticket	dollar
+
+ticket	general admission ticket
+
+student ticket	general admission ticket
+
+dollar	general admission ticket
+
+problem: 178
+
+hockey team	championship
+
+win	tie
+
+win	championship
+
+win	wildcat have
+
+tie	wild cat
+
+tie	championship
+
+tie	game
+
+tie	wildcat have
+
+wild cat	championship
+
+wild cat	game
+
+wild cat	wildcat have
+
+championship	game
+
+championship	wildcat have
+
+game	wildcat have
+
+problem: 179
+
+problem: 180
+
+kerry	bank teller
+
+kerry	dollar
+
+kerry	teller
+
+kerry	bill
+
+bank teller	dollar
+
+bank teller	bill
+
+dollar	teller
+
+dollar	bill
+
+teller	bill
+
+problem: 181
+
+monday	doughnut
+
+monday	large coffee
+
+monday	office staff
+
+monday	tuesday melinda
+
+harold	doughnut
+
+harold	office staff
+
+harold	tuesday melinda
+
+doughnut	large coffee
+
+doughnut	dollar
+
+large coffee	tuesday melinda
+
+office staff	dollar
+
+problem: 182
+
+math test	point
+
+math test	there
+
+problem	worth
+
+problem	point
+
+problem	point problem
+
+problem	there
+
+point	point problem
+
+point	there
+
+point problem	there
+
+problem: 183
+
+colombian coffee bean	dollar
+
+colombian coffee bean	bean
+
+colombian coffee bean	peruvian coffee bean
+
+colombian coffee bean	pound
+
+colombian coffee bean	columbian bean
+
+colombian coffee bean	peruvian bean
+
+colombian coffee bean	use
+
+dollar	peruvian coffee bean
+
+bean	columbian bean
+
+bean	peruvian bean
+
+bean	use
+
+peruvian coffee bean	pound
+
+peruvian coffee bean	columbian bean
+
+peruvian coffee bean	peruvian bean
+
+peruvian coffee bean	use
+
+pound	use
+
+columbian bean	use
+
+peruvian bean	use
+
+problem: 184
+
+carpenter	estimate
+
+carpenter	patio
+
+carpenter	material
+
+carpenter	hour
+
+carpenter	job take
+
+estimate	dollar
+
+estimate	cover
+
+estimate	patio
+
+estimate	hourly rate
+
+estimate	job take
+
+dollar	material
+
+dollar	job take
+
+cover	patio
+
+cover	material
+
+cover	job take
+
+patio	hourly rate
+
+patio	material
+
+patio	hour
+
+patio	job take
+
+hourly rate	material
+
+hourly rate	hour
+
+hourly rate	job take
+
+material	hour
+
+material	job take
+
+hour	job take
+
+problem: 185
+
+kevin	muffin
+
+kevin	juice
+
+muffin	juice
+
+bottle	juice
+
+bottle	dollar
+
+juice	dollar
+
+problem: 186
+
+sum	difference
+
+sum	number
+
+difference	smaller number
+
+difference	number
+
+difference	larger number
+
+smaller number	larger number
+
+problem: 187
+
+can juice drink	mixed
+
+can juice drink	liter
+
+% orange juice	mixed
+
+mixed	liter
+
+problem: 188
+
+hockey team	team
+
+hockey team	championship
+
+hockey team	tie
+
+point	championship
+
+point	tie
+
+point	team have
+
+season	team
+
+season	tie
+
+team	win
+
+championship	game
+
+championship	win
+
+game	tie
+
+tie	team have
+
+problem: 189
+
+chemist	% pure acid
+
+acid solution	solution
+
+acid solution	% pure acid
+
+acid solution	square-centimeter
+
+solution	square-centimeter
+
+% pure acid	other
+
+other	square-centimeter
+
+problem: 190
+
+st	child 's plate
+
+st	plate
+
+mark 's community barbecue	dinner
+
+mark 's community barbecue	child 's plate
+
+mark 's community barbecue	dollar
+
+mark 's community barbecue	plate
+
+mark 's community barbecue	adult 's plate
+
+mark 's community barbecue	serve
+
+dinner	child 's plate
+
+dinner	dollar
+
+dinner	plate
+
+dinner	adult 's plate
+
+dinner	serve
+
+child 's plate	dollar
+
+child 's plate	plate
+
+child 's plate	adult 's plate
+
+child 's plate	serve
+
+dollar	plate
+
+dollar	adult 's plate
+
+dollar	serve
+
+plate	adult 's plate
+
+plate	serve
+
+adult 's plate	serve
+
+problem: 191
+
+coffee counter	dollar
+
+coffee counter	pound
+
+coffee counter	french roast coffee
+
+coffee counter	coffee
+
+coffee counter	sumatran coffee
+
+coffee counter	sumatran
+
+dollar	pound
+
+dollar	french roast coffee
+
+dollar	coffee
+
+dollar	sumatran coffee
+
+dollar	kenyan french roast
+
+dollar	sumatran
+
+pound	french roast coffee
+
+pound	coffee
+
+pound	kenyan french roast
+
+pound	sumatran
+
+french roast coffee	coffee
+
+french roast coffee	sumatran
+
+problem: 192
+
+steve	circus production
+
+steve	sold-out performance
+
+steve	determine
+
+circus production	sold-out performance
+
+coast	dollar
+
+coast	performance
+
+coast	sold-out performance
+
+coast	determine
+
+coast	even
+
+overhead	sold-out performance
+
+overhead	determine
+
+overhead	even
+
+dollar	performance
+
+dollar	sold-out performance
+
+dollar	determine
+
+performance	determine
+
+performance	even
+
+sold-out performance	determine
+
+problem: 193
+
+advance ticket	ticket
+
+advance ticket	receipt
+
+show	same-day ticket
+
+show	number
+
+show	receipt
+
+show	sell
+
+ticket	same-day ticket
+
+ticket	number
+
+ticket	receipt
+
+same-day ticket	receipt
+
+same-day ticket	sell
+
+number	receipt
+
+number	sell
+
+receipt	sell
+
+problem: 194
+
+pencil	specific number
+
+dollar	carton
+
+dollar	eraser
+
+dollar	order
+
+dollar	specific number
+
+carton	eraser
+
+carton	order
+
+carton	specific number
+
+eraser	order
+
+eraser	specific number
+
+order	specific number
+
+problem: 195
+
+customer	player
+
+customer	set
+
+customer	headphone
+
+customer	2nd customer
+
+electronics store	player
+
+electronics store	headphone
+
+electronics store	2nd customer
+
+player	headphone
+
+player	dollar
+
+player	2nd customer
+
+set	headphone
+
+set	dollar
+
+set	2nd customer
+
+headphone	dollar
+
+headphone	2nd customer
+
+dollar	2nd customer
+
+problem: 196
+
+student	professor number
+
+problem: 197
+
+farmer	sunflower
+
+farmer	flax
+
+farmer	acre farm
+
+farmer	year
+
+farmer	acre
+
+sunflower	flax
+
+sunflower	acre farm
+
+sunflower	year
+
+flax	acre
+
+acre farm	year
+
+acre farm	acre
+
+year	acre
+
+problem: 198
+
+monday	doughnut
+
+monday	large coffee
+
+monday	office staff
+
+monday	tuesday melinda
+
+harold	doughnut
+
+harold	office staff
+
+harold	tuesday melinda
+
+doughnut	large coffee
+
+doughnut	office staff
+
+doughnut	dollar
+
+large coffee	dollar
+
+large coffee	tuesday melinda
+
+office staff	dollar
+
+office staff	tuesday melinda
+
+problem: 199
+
+teacher	test
+
+teacher	point
+
+teacher	question
+
+teacher	point question
+
+teacher	there
+
+test	point
+
+test	there
+
+point	point question
+
+point	there
+
+question	there
+
+problem: 200
+
+book	student
+
+book	dollar
+
+book	remainder
+
+book	dollar each
+
+book	amount
+
+student	dollar
+
+student	remainder
+
+student	dollar each
+
+student	sell
+
+dollar	amount
+
+dollar	sell
+
+remainder	dollar each
+
+remainder	amount
+
+dollar each	sell
+
+amount	sell
+
+problem: 202
+
+pat	dollar
+
+pat	part
+
+pat	money
+
+pat	percent interest
+
+pat	year
+
+pat	rest
+
+pat	interest
+
+pat	yearly interest
+
+pat	investment
+
+pat	percent
+
+dollar	part
+
+dollar	money
+
+dollar	percent interest
+
+dollar	interest
+
+dollar	yearly interest
+
+dollar	investment
+
+dollar	percent
+
+part	money
+
+part	rest
+
+part	interest
+
+part	yearly interest
+
+part	investment
+
+part	percent
+
+money	year
+
+money	rest
+
+money	interest
+
+money	yearly interest
+
+money	investment
+
+money	percent
+
+percent interest	year
+
+percent interest	rest
+
+percent interest	yearly interest
+
+percent interest	investment
+
+year	rest
+
+year	interest
+
+year	yearly interest
+
+year	investment
+
+year	percent
+
+rest	interest
+
+rest	yearly interest
+
+rest	investment
+
+rest	percent
+
+interest	yearly interest
+
+interest	investment
+
+interest	percent
+
+yearly interest	investment
+
+yearly interest	percent
+
+investment	percent
+
+problem: 203
+
+gallon container	full
+
+gallon container	% alcohol solution
+
+gallon container	gallon
+
+full	% alcohol solution
+
+% alcohol solution	gallon
+
+problem: 204
+
+ticket	local movie
+
+ticket	dollar
+
+ticket	adult
+
+ticket	student
+
+ticket	student ticket
+
+local movie	dollar
+
+local movie	adult
+
+local movie	student
+
+local movie	sell
+
+dollar	adult
+
+dollar	student
+
+dollar	student ticket
+
+dollar	sell
+
+adult	student
+
+adult	student ticket
+
+adult	sell
+
+student	student ticket
+
+student	sell
+
+student ticket	sell
+
+problem: 205
+
+color copy	cent
+
+color copy	copy
+
+color copy	white copy
+
+color copy	dollar
+
+cent	rest white
+
+cent	bill
+
+cent	dollar
+
+copy	white copy
+
+copy	rest white
+
+copy	bill
+
+white copy	sandy
+
+white copy	bill
+
+white copy	dollar
+
+sandy	rest white
+
+sandy	bill
+
+sandy	dollar
+
+rest white	bill
+
+rest white	dollar
+
+bill	dollar
+
+problem: 206
+
+sum	larger number
+
+sum	number
+
+sum	smaller number
+
+larger number	number
+
+larger number	smaller number
+
+number	smaller number
+
+problem: 207
+
+discount store	plastic cup
+
+discount store	dollar
+
+discount store	cup
+
+discount store	ceramic cup
+
+discount store	dollar each
+
+discount store	sell
+
+plastic cup	dollar
+
+plastic cup	cup
+
+plastic cup	ceramic cup
+
+plastic cup	dollar each
+
+plastic cup	sell
+
+dollar	cup
+
+dollar	ceramic cup
+
+ceramic cup	dollar each
+
+ceramic cup	sell
+
+problem: 208
+
+donna	money
+
+donna	%
+
+donna	remainder
+
+donna	rate
+
+dollar bonus	dollar
+
+dollar bonus	year
+
+dollar bonus	part
+
+dollar bonus	money
+
+dollar bonus	%
+
+dollar bonus	remainder
+
+dollar bonus	rate
+
+dollar	year
+
+dollar	part
+
+dollar	money
+
+dollar	%
+
+dollar	remainder
+
+dollar	rate
+
+year	part
+
+year	money
+
+year	%
+
+year	remainder
+
+year	rate
+
+part	money
+
+part	%
+
+part	remainder
+
+part	rate
+
+money	%
+
+money	remainder
+
+money	rate
+
+%	remainder
+
+%	rate
+
+problem: 209
+
+pair	pants
+
+pair	belt
+
+pair	price
+
+pants	dollar
+
+pants	price
+
+pants	dollar less
+
+belt	dollar
+
+belt	price
+
+belt	dollar less
+
+dollar	price
+
+dollar	dollar less
+
+price	dollar less
+
+problem: 210
+
+stefan school	ticket
+
+stefan school	choral performance
+
+stefan school	first day
+
+stefan school	ticket sale
+
+stefan school	school
+
+stefan school	senior citizen ticket
+
+stefan school	student ticket
+
+stefan school	dollar
+
+stefan school	day
+
+stefan school	second day
+
+stefan school	price
+
+ticket	first day
+
+ticket	senior citizen ticket
+
+ticket	student ticket
+
+ticket	dollar
+
+ticket	second day
+
+ticket	price
+
+choral performance	first day
+
+choral performance	ticket sale
+
+choral performance	school
+
+choral performance	senior citizen ticket
+
+choral performance	student ticket
+
+choral performance	dollar
+
+choral performance	second day
+
+choral performance	price
+
+first day	ticket sale
+
+first day	school
+
+first day	senior citizen ticket
+
+first day	student ticket
+
+first day	dollar
+
+first day	day
+
+first day	second day
+
+first day	price
+
+ticket sale	school
+
+ticket sale	senior citizen ticket
+
+ticket sale	student ticket
+
+ticket sale	dollar
+
+ticket sale	day
+
+ticket sale	second day
+
+ticket sale	price
+
+school	senior citizen ticket
+
+school	student ticket
+
+school	dollar
+
+school	day
+
+school	second day
+
+school	price
+
+senior citizen ticket	student ticket
+
+senior citizen ticket	dollar
+
+senior citizen ticket	day
+
+senior citizen ticket	second day
+
+student ticket	day
+
+student ticket	price
+
+dollar	second day
+
+dollar	price
+
+day	second day
+
+second day	price
+
+problem: 211
+
+sheep	chicken
+
+sheep	leg 
+
+sheep	animal
+
+chicken	leg 
+
+chicken	animal
+
+leg 	animal
+
+problem: 212
+
+student ticket	dollar
+
+student ticket	ticket
+
+student ticket	general admission ticket
+
+dollar	ticket
+
+dollar	general admission ticket
+
+ticket	general admission ticket
+
+problem: 213
+
+weak solution	liter
+
+weak solution	% acid
+
+weak solution	lab technician
+
+weak solution	solution
+
+weak solution	premixed solution
+
+weak solution	other
+
+liter	% acid
+
+liter	lab technician
+
+liter	solution
+
+liter	premixed solution
+
+liter	other
+
+% acid	lab technician
+
+% acid	solution
+
+% acid	premixed solution
+
+solution	other
+
+premixed solution	other
+
+problem: 214
+
+baseball team	home game
+
+baseball team	saturday game
+
+baseball team	money
+
+baseball team	wednesday 's game
+
+baseball team	saturday 's game
+
+home game	game
+
+home game	dollar
+
+home game	team
+
+home game	wednesday game
+
+home game	saturday game
+
+home game	money
+
+home game	wednesday 's game
+
+home game	saturday 's game
+
+game	dollar
+
+game	team
+
+game	money
+
+dollar	team
+
+dollar	saturday game
+
+dollar	money
+
+dollar	wednesday 's game
+
+dollar	saturday 's game
+
+team	wednesday game
+
+team	saturday game
+
+team	saturday 's game
+
+wednesday game	saturday game
+
+wednesday game	wednesday 's game
+
+saturday game	wednesday 's game
+
+saturday game	saturday 's game
+
+money	saturday 's game
+
+problem: 215
+
+st	mark 's community barbecue
+
+st	child 's plate
+
+st	adult 's plate
+
+st	serve
+
+mark 's community barbecue	dinner
+
+mark 's community barbecue	child 's plate
+
+mark 's community barbecue	plate
+
+mark 's community barbecue	adult 's plate
+
+mark 's community barbecue	serve
+
+dinner	child 's plate
+
+dinner	dollar
+
+dinner	plate
+
+dinner	adult 's plate
+
+dinner	serve
+
+child 's plate	dollar
+
+child 's plate	plate
+
+child 's plate	adult 's plate
+
+child 's plate	serve
+
+dollar	plate
+
+dollar	adult 's plate
+
+dollar	serve
+
+plate	adult 's plate
+
+plate	serve
+
+adult 's plate	serve
+
+problem: 217
+
+dollar	bond mutual fund
+
+dollar	fund
+
+dollar	junk bond fund
+
+dollar	%
+
+dollar	investment
+
+bond mutual fund	fund
+
+bond mutual fund	junk bond fund
+
+bond mutual fund	yield
+
+bond mutual fund	% interest
+
+bond mutual fund	safer government bond fund yield
+
+bond mutual fund	year 's total income
+
+fund	% interest
+
+fund	investment
+
+junk bond fund	junk fund
+
+junk bond fund	risky
+
+junk bond fund	yield
+
+junk bond fund	safer government bond fund yield
+
+junk bond fund	%
+
+junk bond fund	year 's total income
+
+government bond fund	junk fund
+
+government bond fund	risky
+
+government bond fund	yield
+
+government bond fund	% interest
+
+government bond fund	safer government bond fund yield
+
+government bond fund	year 's total income
+
+government bond fund	investment
+
+junk fund	risky
+
+junk fund	yield
+
+junk fund	% interest
+
+junk fund	safer government bond fund yield
+
+junk fund	%
+
+junk fund	year 's total income
+
+risky	yield
+
+risky	% interest
+
+risky	safer government bond fund yield
+
+risky	%
+
+risky	year 's total income
+
+yield	% interest
+
+yield	safer government bond fund yield
+
+yield	%
+
+yield	year 's total income
+
+yield	investment
+
+% interest	safer government bond fund yield
+
+% interest	%
+
+% interest	year 's total income
+
+% interest	investment
+
+safer government bond fund yield	%
+
+safer government bond fund yield	year 's total income
+
+%	year 's total income
+
+problem: 218
+
+jeans	shirt
+
+shirt	dollar
+
+problem: 219
+
+drama club	box office
+
+ticket	adult
+
+ticket	amount
+
+ticket	play
+
+end-of-year-performance	admission price
+
+end-of-year-performance	dollar
+
+end-of-year-performance	adult
+
+end-of-year-performance	amount
+
+end-of-year-performance	box office
+
+end-of-year-performance	student
+
+admission price	adult
+
+admission price	amount
+
+admission price	box office
+
+dollar	box office
+
+dollar	student
+
+dollar	play
+
+adult	amount
+
+box office	student
+
+box office	play
+
+ilida	bike ride
+
+ilida	hiker
+
+ilida	bike rider
+
+ilida	bike
+
+minewaska sate park	day
+
+minewaska sate park	summer
+
+day	people
+
+day	hike
+
+day	bike rider
+
+day	bike
+
+summer	people
+
+summer	bike
+
+people	hike
+
+people	bike ride
+
+people	hiker
+
+people	bike rider
+
+hike	bike ride
+
+hike	bike
+
+bike ride	hiker
+
+bike ride	bike rider
+
+bike ride	bike
+
+hiker	bike
+
+bike rider	bike
+
+problem: 221
+
+local bus tour	ticket
+
+local bus tour	dollar
+
+local bus tour	regular ticket
+
+local bus tour	sale
+
+local bus tour	sell
+
+ticket	dollar
+
+ticket	sale
+
+ticket	sell
+
+senior citizen ticket	dollar
+
+senior citizen ticket	regular ticket
+
+senior citizen ticket	sale
+
+dollar	regular ticket
+
+dollar	sell
+
+regular ticket	sale
+
+regular ticket	sell
+
+sale	sell
+
+problem: 222
+
+problem: 223
+
+dollar	part
+
+dollar	%
+
+dollar	year
+
+%	interest
+
+%	year
+
+problem: 224
+
+student	girl
+
+problem: 225
+
+adult ticket	dollar
+
+adult ticket	ticket
+
+adult ticket	child ticket
+
+adult ticket	people
+
+adult ticket	theater
+
+adult ticket	ticket sale
+
+adult ticket	child
+
+play	dollar
+
+play	people
+
+dollar	child ticket
+
+dollar	people
+
+dollar	theater
+
+dollar	child
+
+ticket	theater
+
+ticket	ticket sale
+
+child ticket	people
+
+child ticket	theater
+
+people	theater
+
+people	ticket sale
+
+people	child
+
+theater	ticket sale
+
+theater	child
+
+ticket sale	child
+
+problem: 226
+
+solution	chemistry class
+
+solution	% copper solution
+
+solution	% solution
+
+solution	mix
+
+chemistry class	% copper solution
+
+chemistry class	% solution
+
+chemistry class	mix
+
+% copper solution	mix
+
+% solution	milliliter
+
+mix	milliliter
+
+problem: 227
+
+piece	length
+
+piece	shorter piece
+
+foot less	shorter piece
+
+other	length
+
+other	shorter piece
+
+length	shorter piece
+
+length	foot
+
+problem: 228
+
+rocket coaster	car
+
+rocket coaster	people
+
+rocket coaster	passenger car
+
+rocket coaster	there
+
+car	people
+
+car	passenger car
+
+people	passenger car
+
+people	there
+
+room	passenger car
+
+room	there
+
+passenger car	there
+
+problem: 229
+
+coin	amount
+
+coin	dollar
+
+coin	there
+
+amount	dollar
+
+dollar	there
+
+we senate	democrat
+
+we senate	republican
+
+we senate	senate
+
+democrat	republican
+
+problem: 231
+
+fly	wind
+
+fly	bird
+
+fly	able
+
+fly	hour
+
+fly	strong
+
+fly	velocity
+
+wind	kilometer
+
+wind	hour
+
+wind	strong
+
+wind	velocity
+
+bird	able
+
+bird	hour
+
+bird	strong
+
+able	kilometer
+
+able	velocity
+
+kilometer	strong
+
+kilometer	velocity
+
+hour	velocity
+
+problem: 232
+
+theater	play
+
+theater	dollar
+
+theater	balcony seat
+
+theater	sell
+
+ticket	floor seat
+
+ticket	dollar
+
+ticket	seat
+
+ticket	balcony seat
+
+ticket	dollar each
+
+ticket	sell
+
+play	floor seat
+
+play	dollar
+
+play	seat
+
+play	balcony seat
+
+play	dollar each
+
+play	receipt
+
+play	sell
+
+floor seat	seat
+
+floor seat	balcony seat
+
+floor seat	receipt
+
+floor seat	sell
+
+dollar	seat
+
+dollar	dollar each
+
+dollar	receipt
+
+dollar	sell
+
+seat	sell
+
+balcony seat	dollar each
+
+problem: 233
+
+petroleum company	different source
+
+petroleum company	source
+
+petroleum company	% hydrocarbon
+
+petroleum company	second one
+
+petroleum company	gallon
+
+different source	first source
+
+different source	% hydrocarbon
+
+different source	second one
+
+different source	gallon
+
+crude oil	source
+
+crude oil	first source
+
+crude oil	% hydrocarbon
+
+crude oil	gallon
+
+source	first source
+
+source	second one
+
+source	gallon
+
+first source	% hydrocarbon
+
+first source	second one
+
+first source	gallon
+
+% hydrocarbon	gallon
+
+problem: 234
+
+theater	child 's ticket
+
+theater	dollar
+
+theater	ticket
+
+theater	adult ticket
+
+theater	night 575 ticket
+
+theater	sell
+
+theater	child
+
+child 's ticket	dollar
+
+child 's ticket	ticket
+
+child 's ticket	adult ticket
+
+child 's ticket	night 575 ticket
+
+child 's ticket	sell
+
+dollar	adult ticket
+
+dollar	night 575 ticket
+
+dollar	sell
+
+ticket	adult ticket
+
+ticket	child
+
+adult ticket	night 575 ticket
+
+adult ticket	sell
+
+adult ticket	child
+
+night 575 ticket	sell
+
+night 575 ticket	child
+
+sell	child
+
+problem: 235
+
+safety rent a truck	dollar
+
+safety rent a truck	mile
+
+dollar	city rental
+
+dollar	truck
+
+dollar	mileage
+
+dollar	same
+
+mile	truck
+
+mile	mileage
+
+city rental	truck
+
+city rental	same
+
+truck	mileage
+
+truck	same
+
+mileage	same
+
+problem: 236
+
+bottle	wine
+
+bottle	cork
+
+bottle	dollar
+
+bottle	price
+
+wine	cork
+
+wine	dollar
+
+cork	dollar
+
+dollar	price
+
+problem: 237
+
+store	dollar
+
+store	disc
+
+compact disc	dollar
+
+dollar	disc
+
+problem: 238
+
+grand opening	guthrie market
+
+grand opening	souvenir
+
+grand opening	cent
+
+grand opening	other type
+
+grand opening	cent each
+
+grand opening	all
+
+grand opening	cent souvenier
+
+grand opening	distribute
+
+guthrie market	different type
+
+guthrie market	type
+
+guthrie market	cent
+
+guthrie market	other type
+
+guthrie market	cent each
+
+guthrie market	cent souvenier
+
+different type	souvenir
+
+different type	type
+
+different type	cent
+
+different type	other type
+
+different type	cent each
+
+different type	cent souvenier
+
+different type	distribute
+
+souvenir	type
+
+souvenir	cent
+
+souvenir	other type
+
+souvenir	cent each
+
+souvenir	all
+
+souvenir	cent souvenier
+
+type	cent
+
+type	cent each
+
+type	all
+
+type	cent souvenier
+
+type	distribute
+
+cent	cent each
+
+cent	all
+
+cent	cent souvenier
+
+cent	distribute
+
+other type	all
+
+other type	cent souvenier
+
+other type	distribute
+
+all	cent souvenier
+
+all	distribute
+
+cent souvenier	distribute
+
+problem: 239
+
+steve	coin
+
+steve	dime
+
+steve	nickel
+
+steve	value
+
+steve	dollar
+
+steve	have
+
+coin	nickel
+
+coin	value
+
+coin	dollar
+
+coin	have
+
+dime	value
+
+dime	dollar
+
+dime	have
+
+nickel	dollar
+
+nickel	have
+
+value	have
+
+problem: 240
+
+animal	farm
+
+animal	chicken
+
+animal	leg altogether
+
+animal	there
+
+farm	pig
+
+farm	chicken
+
+chicken	leg altogether
+
+chicken	there
+
+problem: 241
+
+dollar	ticket sale
+
+adult	child
+
+adult	ticket sale
+
+adult	film premiere
+
+problem: 242
+
+pencil	carton
+
+pencil	eraser
+
+pencil	order
+
+dollar	carton
+
+dollar	eraser
+
+dollar	order
+
+dollar	specific number
+
+carton	eraser
+
+carton	order
+
+carton	specific number
+
+eraser	order
+
+eraser	specific number
+
+order	specific number
+
+problem: 243
+
+pen	dollar
+
+problem: 244
+
+gallon container	full
+
+gallon container	% alcohol solution
+
+gallon container	gallon
+
+full	% alcohol solution
+
+full	gallon
+
+% alcohol solution	gallon
+
+problem: 245
+
+boat	hour
+
+boat	mile
+
+boat	river
+
+hour	river
+
+hour	start point
+
+mile	start point
+
+mile	rate
+
+mile	current
+
+river	start point
+
+river	rate
+
+river	current
+
+start point	current
+
+problem: 246
+
+problem: 247
+
+paul	small postcard
+
+postcard	large postcard
+
+large postcard	large
+
+problem: 248
+
+e-chem testing	% base
+
+e-chem testing	liter
+
+e-chem testing	hand
+
+e-chem testing	use
+
+solution	technician
+
+solution	liter
+
+solution	hand
+
+% base	technician
+
+% base	liter
+
+% base	hand
+
+% base	use
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fn_array_subset
+problem: 220
+
+summer	bike ride
+
+tn_array
+

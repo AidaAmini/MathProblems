@@ -1,0 +1,10 @@
+use arg0 a plane
+use arg2 the rate of 9.5 gallon per hour
+use arg1 fuel
+have arg0 it
+leave arg1 6.3333 gallon
+have arg1 6.3333 gallon
+leave LOC in its tank .
+fly arg1 the plane
+continue arg1 the plane
+continue MOD can the plane

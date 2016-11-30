@@ -1,0 +1,1 @@
+80 points	37 baskets

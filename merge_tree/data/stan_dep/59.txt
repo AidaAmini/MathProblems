@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (NNP Donna))
+    (VP
+      (VP
+        (VBD invested)
+        (NP (PRP$ her) (CD 33,000) (NNS dollars) (NN bonus)))
+      (CC and)
+      (VP
+        (VBD received)
+        (NP
+          (NP (DT a) (NN total))
+          (PP
+            (IN of)
+            (NP
+              (NP (CD 970) (NNS dollars))
+              (PP (IN in) (NP (NN interest))))))
+        (PP (IN after) (NP (CD one)))
+        (NP-TMP (NN year))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (NP (NN part)) (PP (IN of) (NP (DT the) (NN money))))
+        (VP
+          (VBD returned)
+          (NP
+            (NP (CD 4) (NN %))
+            (CC and)
+            (NP (DT the) (NN remainder) (CD 2.25) (NN %)))
+          (ADVP (RB then)))))
+    (WHNP (WRB how) (JJ much))
+    (SQ
+      (VP
+        (VBD did)
+        (S
+          (NP (PRP she))
+          (VP (VB invest) (PP (IN at) (NP (DT each) (NN rate)))))))
+    (. ?)))

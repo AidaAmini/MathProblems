@@ -1,0 +1,84 @@
+(ROOT
+  (S
+    (NP (NNP Snookers) (NNP Lumber))
+    (VP
+      (MD can)
+      (VP
+        (VB convert)
+        (NP (NNS logs))
+        (PP
+          (IN into)
+          (NP (CC either) (NP (NN lumber)) (CC or) (NP (NN plywood))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN In) (NP (DT a) (VBN given) (NN day)))
+    (, ,)
+    (NP (DT the) (NN mill))
+    (VP
+      (VBZ turns)
+      (PRT (RP out))
+      (NP
+        (NP
+          (QP (CD three) (NNS times) (IN as) (JJ many))
+          (NNS units))
+        (PP
+          (IN of)
+          (NP (NP (NN plywood)) (PP (IN as) (NP (NN lumber)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VBZ makes)
+      (NP
+        (NP (DT a) (NN profit))
+        (PP
+          (IN of)
+          (NP
+            (NP (CD 30) (NNS dollars))
+            (PP
+              (IN on)
+              (NP
+                (NP
+                  (NP (DT a) (NN unit))
+                  (PP (IN of) (NP (NN lumber))))
+                (CC and)
+                (NP
+                  (NP (CD 50) (NNS dollars))
+                  (PP
+                    (IN on)
+                    (NP
+                      (NP (DT a) (NN unit))
+                      (PP (IN of) (NP (NN plywood))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNS Snookers))
+    (VP
+      (VBP lumber)
+      (SBAR
+        (S
+          (VP
+            (MD must)
+            (VP
+              (VB produce)
+              (CC and)
+              (VB sell)
+              (NP
+                (NP
+                  (NP (CD ___) (NNS units))
+                  (PP (IN of) (NP (NN lumber))))
+                (CC and)
+                (NP
+                  (NP (CD ___) (NNS units))
+                  (PP (IN of) (NP (NN plywood)))))
+              (S
+                (VP
+                  (TO to)
+                  (VP
+                    (VB make)
+                    (NP
+                      (NP (DT a) (NN profit))
+                      (PP (IN of) (NP (CD 18360) (NNS dollars))))))))))))
+    (. ?)))

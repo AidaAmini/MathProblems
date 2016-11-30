@@ -1,0 +1,12 @@
+want arg0 a merchant
+combine arg0 a merchant
+form arg0 a merchant
+want arg1 to combine peanut sell 2.40 dollar per pound and a selling for 6.00 dollar per pound
+combine arg1 peanut sell 2.40 dollar per pound and a selling for 6.00 dollar per pound
+sell arg1 2.40 dollar per pound and a selling for 6.00 dollar per pound
+form arg1 60 pound which will sell at 3.00 dollar per pound .
+sell arg1 60 pound which will sell at 3.00 dollar per pound .
+sell MOD will
+sell arg3 3.00 dollar per pound .
+use arg1 amount of peanut
+use mod must

@@ -1,0 +1,40 @@
+(ROOT
+  (NP
+    (NP (DT The) (JJ first) (NN agency) (NNS charges))
+    (NP
+      (NP (NP (CD 20.25) (NNS dollars)) (PP (IN per) (NP (NN day))))
+      (CC and)
+      (NP (NP (CD 0.14) (NNS dollars)) (PP (IN per) (NP (NN mile)))))
+    (. .)))
+(ROOT
+  (NP
+    (NP (DT The) (JJ second) (NN agency) (NNS charges))
+    (NP
+      (NP (NP (CD 18.25) (NNS dollars)) (PP (IN per) (NP (NN day))))
+      (CC and)
+      (NP (NP (CD 0.22) (NNS dollars)) (PP (IN per) (NP (NN mile)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS miles))
+    (SQ
+      (MD would)
+      (NP (PRP you))
+      (VP
+        (VB have)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB drive)
+              (SBAR
+                (IN before)
+                (S
+                  (NP (DT the) (JJ first) (NN agency))
+                  (VP
+                    (VBZ is)
+                    (ADJP
+                      (RBR less)
+                      (JJ expensive)
+                      (PP (IN than) (NP (DT the) (JJ second))))))))))))
+    (. ?)))

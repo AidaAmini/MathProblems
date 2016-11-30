@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP St.) (NNP Mark) (POS 's))
+      (NNP Community)
+      (NNP Barbecue))
+    (VP (VBD served) (NP (CD 250) (NNS dinners)))
+    (. .)))
+(ROOT
+  (NP
+    (NP (NP (DT A) (NN child) (POS 's)) (NN plate) (NN cost))
+    (NP
+      (NP (CD 3.50) (NNS dollars))
+      (CC and)
+      (NP
+        (NP (NP (DT an) (NN adult) (POS 's)) (NN plate) (NN cost))
+        (NP (CD 7.00) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN total))
+      (PP (IN of) (NP (CD 1347.50) (NNS dollars))))
+    (VP (VBD was) (VP (VBN collected)))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (NP (NN child) (POS 's)) (NNS plates))
+      (VP (VBD were) (VP (VBN served))))
+    (. ?)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (NP (NN adult) (POS 's)) (NNS plates))
+      (VP (VBD were) (VP (VBN served))))
+    (. ?)))

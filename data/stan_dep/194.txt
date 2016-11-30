@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NNP Arthur))
+    (VP
+      (VBD bought)
+      (NP
+        (NP (CD 3) (NNS hamburgers))
+        (CC and)
+        (NP (CD 4) (JJ hot) (NNS dogs)))
+      (PP (IN for) (NP (CD 10) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP-TMP (DT The) (JJ next) (NN day))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VBD bought)
+      (NP
+        (NP (CD 2) (NNS hamburgers))
+        (CC and)
+        (NP (CD 3) (JJ hot) (NNS dogs)))
+      (PP (IN for) (NP (CD 7) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ (VBZ does) (NP (DT a) (JJ hot) (NN dog) (NN cost)))
+    (. ?)))

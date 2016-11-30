@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBD were)
+      (NP
+        (NP (CD 610) (NNS people))
+        (PP (IN at) (NP (DT a) (NN play)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN admission) (NN price))
+    (VP
+      (VBD was)
+      (NP
+        (NP
+          (NP (CD 2) (NNS dollars))
+          (PP (IN for) (NP (NNS adults))))
+        (CC and)
+        (NP
+          (NP (CD 1) (NNS dollars))
+          (PP (IN for) (NP (NNS children))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN admission) (NNS receipts))
+    (VP (VBD were) (NP (CD 960) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNS adults)) (CC and) (NP (NNS children))))
+    (SQ (VP (VBN attended)))
+    (. ?)))

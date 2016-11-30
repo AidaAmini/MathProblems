@@ -1,0 +1,16 @@
+charge ARG0 Best Rentals
+charge ARG1 a daily fee plus a mileage fee for renting its cars
+rent ARG0 renting its cars
+rent ARG1 its cars
+
+charge ARG1 Barney
+charge TMP while Mary was charged 123 dollars for 5 days and 600 miles
+charge TMP for 3 days and 300 miles
+charge ARG2 69 dollars
+charge ARG1 Mary
+charge TMP for 5 days and 600 miles
+charge ARG1 123 dollars
+
+Find ARG1 the daily fee
+find ARG1 the mileage charge
+

@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP
+      (NP
+        (LST (LS 3))
+        (NP (NNPS Pairs))
+        (PP (IN of) (NP (NNS jeans))))
+      (CC and)
+      (NP (CD 6) (NNS shirts)))
+    (VP (VBZ is) (NP (CD 104.25) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN cost))
+      (PP
+        (IN of)
+        (NP
+          (NP (CD 4) (NNS jeans))
+          (CC and)
+          (NP (CD 5) (NNS shirts)))))
+    (VP (VBZ is) (NP (CD 112.15) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT each) (NN pair))
+            (PP
+              (IN of)
+              (NP
+                (NP (NNS jeans))
+                (CC and)
+                (NP (DT each) (NN shirt))))))))
+    (. .)))

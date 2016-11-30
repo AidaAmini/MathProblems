@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (DT A) (NN furniture) (NN dealer))
+    (VP (VBZ has) (NP (CD 36) (NNS tables)))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT Some) (NNS tables))
+        (VP (VBP have) (NP (CD 4) (NNS legs))))
+      (CC and)
+      (S (NP (DT some)) (VP (VBP have) (NP (CD 3) (NNS legs)))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP she))
+      (VP
+        (VBZ does)
+        (RB n't)
+        (VP
+          (VB know)
+          (SBAR
+            (WHADJP
+              (WRB how)
+              (JJ many)
+              (PP (IN of) (NP (DT each) (NN kind))))
+            (S (NP (EX there)) (VP (VBP are)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VBZ has)
+      (VP
+        (VBN counted)
+        (NP (NP (CD 124) (NNS legs)) (PP (IN in) (NP (NN total))))))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (CD 4))
+      (VP
+        (VBD legged)
+        (SBAR (S (NP (NNS tables)) (VP (VBP are) (NP (EX there)))))))
+    (. ?)))

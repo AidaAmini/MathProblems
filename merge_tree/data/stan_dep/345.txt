@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT A) (NN baseball) (NN team))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (NN home) (NNS games))
+        (PP (IN on) (NP (NNP Wednesday) (CC and) (NNP Saturday)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (CD two) (NNS games))
+    (ADVP (RB together))
+    (VP
+      (VBP earn)
+      (NP
+        (NP (CD 5,182.50) (NNS dollars))
+        (PP (IN for) (NP (DT the) (NN team)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNS Wednesdays) (NN game))
+    (VP
+      (VBZ generates)
+      (ADJP
+        (ADJP (NP (CD 142.50) (NNS dollars)) (JJR less))
+        (PP (IN than) (NP (NNP Saturdays) (NN game)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ much)) (NN money))
+    (SQ
+      (VBD was)
+      (VP
+        (VBN taken)
+        (PP
+          (IN in)
+          (PP (IN at) (NP (NP (NNP Wednesday) (POS 's)) (NN game))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ much)) (NN money))
+    (SQ
+      (VBD was)
+      (VP
+        (VBN taken)
+        (PP
+          (IN in)
+          (PP (IN at) (NP (NP (NNP Saturday) (POS 's)) (NN game))))))
+    (. ?)))

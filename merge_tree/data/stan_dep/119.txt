@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (NP (DT A) (NN piece)) (PP (IN of) (NP (NN rope))))
+    (ADVP (NP (CD 60) (NNS meters)) (RB long))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN cut)
+        (PP (IN into) (NP (CD two) (NNS pieces)))
+        (SBAR
+          (IN so)
+          (IN that)
+          (S
+            (NP (DT the) (JJS longest) (NN piece))
+            (VP
+              (VBZ is)
+              (ADVP (RB twice))
+              (ADJP
+                (RB as)
+                (JJ long)
+                (PP (IN as) (NP (DT the) (JJR shorter) (NN piece)))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (RB long))
+    (SQ (VBP are) (NP (DT the) (CD two) (NNS pieces)))
+    (. ?)))

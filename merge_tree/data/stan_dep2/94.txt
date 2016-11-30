@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (NP (DT A) (NN cosmetologist))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT a) (NN bottle))
+        (PP
+          (IN of)
+          (NP
+            (NP
+              (NP (ADJP (CD 7) (NN %)) (NN hydrogen))
+              (NP (NN peroxide) (NN solution)))
+            (CC and)
+            (NP
+              (NP
+                (NP (DT a) (NN bottle))
+                (PP (IN of) (NP (CD 4) (NN %))))
+              (NP (NN hydrogen) (NN peroxide) (NN solution)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN cosmetologist))
+    (VP
+      (VBZ needs)
+      (NP
+        (NP (CD 300) (NNS milliliters))
+        (PP
+          (IN of)
+          (NP
+            (DT a)
+            (ADJP (CD 5) (NN %))
+            (NN hydrogen)
+            (NN peroxide)
+            (NN solution)))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (SBAR
+        (WHADJP (WRB how) (JJ many))
+        (S
+          (NP
+            (NP (NNS milliliters))
+            (PP
+              (IN of)
+              (NP
+                (NP (DT each) (NN solution))
+                (NP (DT the) (NN cosmetologist)))))
+          (VP
+            (VBZ needs)
+            (S (VP (TO to) (VP (VB mix) (ADVP (RB together)))))))))
+    (. .)))

@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Coffee) (NNP Counter))
+    (VP
+      (VBZ charges)
+      (NP
+        (NP (CD 9.00) (NNS dollars))
+        (PP
+          (IN per)
+          (NP
+            (NP
+              (NP (NN pound))
+              (PP
+                (IN for)
+                (NP (JJ Kenyan) (JJ French) (NN Roast) (NN coffee))))
+            (CC and)
+            (NP
+              (NP (CD 8.00) (NNS dollars))
+              (PP
+                (IN per)
+                (NP
+                  (NP (NN pound))
+                  (PP (IN for) (NP (NNP Sumatran) (NN coffee))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS pounds))
+      (PP
+        (IN of)
+        (NP
+          (NP (JJ Kenyan) (JJ French) (NN Roast))
+          (CC and)
+          (NP (NNP Sumatran)))))
+    (SQ
+      (VP
+        (MD should)
+        (VP
+          (VB be)
+          (VP
+            (VBN used)
+            (S
+              (VP
+                (TO to)
+                (VP
+                  (VB make)
+                  (S
+                    (NP (DT a) (JJ 20-pound))
+                    (VP
+                      (VB blend)
+                      (SBAR
+                        (IN that)
+                        (S
+                          (VP
+                            (VBZ sells)
+                            (PP
+                              (IN for)
+                              (NP
+                                (NP (CD 8.40) (NNS dollars))
+                                (PP (IN per) (NP (NN pound)))))))))))))))))
+    (. ?)))

@@ -1,0 +1,10 @@
+ID=1
+(<T S[dcl] 1 2> (<T NP[nb] 0 2> (<L NP[nb]/N POS POS a NP[nb]/N>) (<L N POS POS theater N>) ) (<T S[dcl]\NP 0 2> (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP POS POS sell (S[dcl]\NP)/NP>) (<T NP 0 1> (<T N 1 2> (<L N/N POS POS 900 N/N>) (<L N POS POS ticket N>) ) ) ) (<T (S\NP)\(S\NP) 0 2> (<L ((S\NP)\(S\NP))/NP POS POS to ((S\NP)\(S\NP))/NP>) (<T NP[nb] 0 2> (<T NP[nb] 0 2> (<L NP[nb]/N POS POS a NP[nb]/N>) (<L N POS POS play N>) ) (<L . POS POS . .>) ) ) ) ) 
+ID=2
+(<T S[dcl] 1 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS floor N/N>) (<L N POS POS seat N>) ) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP POS POS be (S[dcl]\NP)/NP>) (<T (S[X]\NP)\((S[X]\NP)/NP) 0 1> (<T NP 0 2> (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS 12 N/N>) (<L N POS POS dollar N>) ) ) (<L NP\NP POS POS each NP\NP>) ) (<T NP\NP 1 2> (<L conj POS POS and conj>) (<T NP 0 2> (<T NP 0 2> (<T NP 0 1> (<T N 0 2> (<T N 1 2> (<L N/N POS POS balcony N/N>) (<L N POS POS seat N>) ) (<L N\N POS POS 10 N\N>) ) ) (<L NP\NP POS POS dollar NP\NP>) ) (<T NP\NP 0 2> (<L NP\NP POS POS each NP\NP>) (<L . POS POS . .>) ) ) ) ) ) ) ) 
+ID=3
+(<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS total N/N>) (<T N 1 2> (<L N/N POS POS receipt N/N>) (<T N 1 2> (<T N/N 1 2> (<L (N/N)/(N/N) POS POS be (N/N)/(N/N)>) (<L N/N POS POS 9,780 N/N>) ) (<L N POS POS dollar N>) ) ) ) ) (<L . POS POS . .>) ) 
+ID=4
+(<T S[qem] 0 2> (<L S[qem]/S[dcl] POS POS how S[qem]/S[dcl]>) (<T S[dcl] 1 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS many N/N>) (<T N 1 2> (<L N/N POS POS floor N/N>) (<L N POS POS seat N>) ) ) ) (<T S[dcl]\NP 1 2> (<L (S\NP)/(S\NP) POS POS be (S\NP)/(S\NP)>) (<T S[dcl]\NP 0 2> (<L S[dcl]\NP POS POS sell S[dcl]\NP>) (<L . POS POS ? .>) ) ) ) ) 
+ID=5
+(<T S[qem] 0 2> (<L S[qem]/S[dcl] POS POS how S[qem]/S[dcl]>) (<T S[dcl] 1 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS many N/N>) (<T N 1 2> (<L N/N POS POS balcony N/N>) (<L N POS POS seat N>) ) ) ) (<T S[dcl]\NP 1 2> (<L (S\NP)/(S\NP) POS POS be (S\NP)/(S\NP)>) (<T S[dcl]\NP 0 2> (<L S[dcl]\NP POS POS sell S[dcl]\NP>) (<L . POS POS ? .>) ) ) ) ) 

@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN sum))
+      (PP (IN of) (NP (CD 2) (NNS numbers))))
+    (VP (VBZ is) (NP (CD 84)))
+    (. .)))
+(ROOT
+  (S
+    (NP (CD One) (NN number))
+    (VP
+      (VBZ is)
+      (NP-TMP (CD 3) (NNS times))
+      (NP (DT the) (JJ other)))
+    (. .)))
+(ROOT
+  (S (VP (VB Find) (NP (DT the) (JJR smaller) (NN number))) (. .)))
+(ROOT
+  (S (VP (VB Find) (NP (DT the) (JJR larger) (NN number))) (. .)))

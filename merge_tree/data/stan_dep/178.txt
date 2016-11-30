@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN sum))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (NNS numbers))
+          (PP
+            (IN of)
+            (NP
+              (NP (NNS boys) (CC and) (NNS girls))
+              (PP (IN in) (NP (DT a) (NN class))))))))
+    (VP (VBZ is) (NP (CD 36)))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (RB twice) (DT the) (NN number))
+          (PP (IN of) (NP (NNS girls))))
+        (VP
+          (VBZ exceeds)
+          (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS boys))))
+          (PP (IN by) (NP (CD 12))))))
+    (, ,)
+    (VP
+      (VB find)
+      (NP
+        (NP (DT the) (NN number))
+        (PP
+          (IN of)
+          (NP (NP (NNS girls)) (PP (IN in) (NP (DT the) (NN class)))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP (NP (DT the) (NN number)) (PP (IN of) (NP (NNS boys)))))
+    (. .)))

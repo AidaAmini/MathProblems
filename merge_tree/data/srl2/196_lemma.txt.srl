@@ -1,0 +1,25 @@
+plan arg0 a small publishing company
+publish arg0 a small publishing company
+plan arg1 to publish a new book
+publish arg1 a new book
+include arg2 the production cost
+include MOD will
+include arg1 one-time fixed cost and variable cost
+amount arg1 the one-time fixed cost
+amount mod will
+amount arg2 35,630 dollar
+sell ARG0 the publisher
+sell MOD will
+sell arg3 a price of 20.25 dollar per book .
+sell arg2 bookstore
+sell arg1 the finish product
+sell arg1 book
+print arg1 book
+sell arg0 the publisher
+print arg0 the publisher
+sell PNC so that the production cost will equal the money obtain from sale
+equal arg1 the production cost
+equal MOD will
+equal arg2 the money obtain from sale
+obtain arg1 the money obtain from sale
+obtain arg2 sale

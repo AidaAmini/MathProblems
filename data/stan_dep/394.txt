@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Jerome))
+    (VP (VBD bought) (NP (CD 12) (NNS CDs)))
+    (. .)))
+(ROOT (S (NP (DT Some)) (VP (VBP are) (NP (CD 7.50) (NN ea))) (. .)))
+(ROOT
+  (S
+    (CC and)
+    (NP (DT the) (NN rest))
+    (VP (VBP are) (NP (NP (CD 6.50)) (NP (DT each))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS CDs))
+    (SQ
+      (VBD were)
+      (VP
+        (VBN bought)
+        (PP (IN at) (NP (DT each) (NN price)))
+        (SBAR
+          (IN if)
+          (S
+            (NP (PRP he))
+            (VP (VBD spent) (NP (CD 82) (NNS dollars)))))))
+    (. ?)))

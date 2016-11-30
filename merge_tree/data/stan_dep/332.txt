@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Marco))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 150) (NNS coins))
+        (, ,)
+        (NP (DT all) (NNS nickels))
+        (CC and)
+        (NP (NNS dimes))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 12) (JJR more) (NNS dimes))
+        (PP (IN than) (NP (NNS nickels)))))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP
+        (UCP
+          (NP (NNS nickels))
+          (CC and)
+          (ADJP (WHADVP (WRB how)) (JJ many)))
+        (NNS dimes))
+      (VP (VBZ does) (S (NP (PRP he)) (VP (VB have)))))
+    (. ?)))

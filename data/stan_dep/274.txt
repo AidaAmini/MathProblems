@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP are)
+      (VP
+        (VBG making)
+        (NP
+          (NP (CD 10) (NNS tons))
+          (PP (IN of) (NP (NN concrete)))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP
+                (VBZ is)
+                (NP
+                  (NP (CD 62) (NN %) (NN cement))
+                  (PP
+                    (IN by)
+                    (S
+                      (VP
+                        (VBG mixing)
+                        (NP
+                          (NP
+                            (DT a)
+                            (ADJP (CD 20) (NN %))
+                            (NN cement)
+                            (NN mixture))
+                          (PP
+                            (IN with)
+                            (NP
+                              (DT a)
+                              (ADJP (CD 80) (NN %))
+                              (NN cement)
+                              (NN mixture))))))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WRB How) (RB much))
+      (PP
+        (IN of)
+        (NP (DT the) (ADJP (CD 80) (NN %)) (NN cement) (NN mixture))))
+    (SQ (MD must) (NP (PRP you)) (VP (VB use)))
+    (. ?)))
+(ROOT
+  (NP
+    (NP (NN Answer))
+    (PP (IN in) (NP (NNS units)))
+    (PP (IN of) (NP (NNS tons)))
+    (. .)))

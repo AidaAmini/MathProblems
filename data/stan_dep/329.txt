@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (PP
+      (IN For)
+      (NP
+        (NP (NNP Monday) (NN morning) (POS 's))
+        (NN staff)
+        (NN meeting)))
+    (, ,)
+    (NP (NNP Jim))
+    (VP
+      (VP
+        (VBD bought)
+        (NP
+          (NP (NP (CD 2) (NNS bags)) (PP (IN of) (NP (NNS bagels))))
+          (CC and)
+          (NP
+            (NP (CD 3) (NNS packages))
+            (PP (IN of) (NP (NN cream) (NN cheese))))))
+      (CC and)
+      (VP (VBD paid) (NP (CD 12.00) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN For) (NP (NP (NNP Friday) (POS 's)) (NN meeting)))
+    (, ,)
+    (NP (PRP he))
+    (VP
+      (VP
+        (VBD bought)
+        (NP
+          (NP (NP (CD 4) (NNS bags)) (PP (IN of) (NP (NNS bagels))))
+          (CC and)
+          (NP
+            (NP (CD 2) (NNS packages))
+            (PP (IN of) (NP (NN cream) (NN cheese))))))
+      (CC and)
+      (VP (VBD paid) (NP (CD 14.00) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VBZ does)
+      (NP
+        (NP (DT a) (NN bag))
+        (PP
+          (IN of)
+          (NP
+            (NP (NNS bagels))
+            (CC and)
+            (NP
+              (NP (DT a) (NN package))
+              (PP (IN of) (NP (NN cream) (NN cheese) (NN cost)))))))
+      (, ,)
+      (PP (IN in) (NP (NNS dollars))))
+    (. ?)))

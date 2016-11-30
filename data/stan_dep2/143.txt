@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (NP (PRP$ Your) (NN teacher))
+    (VP
+      (VBZ is)
+      (VP
+        (VP
+          (VBG giving)
+          (NP (PRP you))
+          (NP
+            (NP (DT a) (NN test))
+            (SBAR (S (VP (VBP are) (NP (CD 100) (NNS points)))))))
+        (CC and)
+        (VP (VBG containing) (NP (CD 40) (NNS questions)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP
+          (CD 2)
+          (NN point)
+          (CC and)
+          (CD 4)
+          (NN point)
+          (NNS questions))
+        (PP (IN on) (NP (DT the) (NN test)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD two) (NN point)) (NP (NNS questions))))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (SBARQ
+      (WHNP
+        (WHADJP (WRB How) (JJ many))
+        (ADJP (CD 4) (NN point))
+        (NNS questions))
+      (. ?))))

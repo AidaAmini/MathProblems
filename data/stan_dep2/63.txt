@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (DT A) (NN bank) (NN teller))
+    (VP
+      (VBZ has)
+      (NP
+        (NP
+          (CD 54)
+          (NN 5-dollar)
+          (CC and)
+          (JJ 20-dollar)
+          (NNS bills))
+        (PP (IN in) (NP (PRP$ her) (NN cash) (NN drawer)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN value))
+      (PP (IN of) (NP (DT the) (NNS bills))))
+    (VP (VBZ is) (NP (QP (CD 780) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD 5) (NNS dollars)) (NP (NNS bills))))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

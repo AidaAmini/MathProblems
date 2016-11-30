@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ Adult) (NNS tickets))
+      (PP (IN for) (NP (DT a) (NN show))))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 5.50) (NNS dollars))
+        (SBAR
+          (IN while)
+          (S
+            (NP (NP (NNS children) (POS 's)) (NNS tickets))
+            (VP (VBP are) (NP (CD 2.50) (NNS dollars)))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP (EX there))
+        (VP
+          (VBD were)
+          (NP (QP (RB twice) (RB as) (JJ many)) (NNS adults))
+          (PP
+            (IN as)
+            (NP
+              (NP (NNS children))
+              (CC and)
+              (NP
+                (NP (DT the) (JJ total) (NNS receipts))
+                (PP (IN for) (NP (DT the) (NN show)))))))))
+    (VP (VBD were) (NP (CD 1026) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS adults))
+    (SQ (VP (VBD were) (PP (IN at) (NP (DT the) (NN show)))))
+    (. ?)))

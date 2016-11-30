@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT An) (NN airplane))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 387) (NNS seats)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN number))
+      (PP (IN of) (NP (NN coach) (NN class) (NNS seats))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP
+          (NP (CD 2))
+          (NP
+            (QP (JJR more) (IN than) (CD 4) (NNS times))
+            (DT the)
+            (NN number)))
+        (PP (IN of) (NP (JJ first-class) (NNS seats)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (JJ first) (NN class))
+        (CC and)
+        (NP (NN coach) (NN class) (NNS seats))))
+    (SQ
+      (VBP are)
+      (NP (EX there))
+      (PP (IN on) (NP (DT the) (NN plane))))
+    (. ?)))

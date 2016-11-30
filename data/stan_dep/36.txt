@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (NNP Steve))
+    (VP
+      (VBZ invests)
+      (PP (IN in) (NP (DT a) (NN circus) (NN production))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN coast))
+    (VP
+      (VBZ includes)
+      (NP
+        (NP
+          (NP (DT an) (NN overhead))
+          (PP (IN of) (NP (CD 81,000) (NNS dollars))))
+        (, ,)
+        (CC plus)
+        (NP
+          (NP (NN production) (NNS costs))
+          (PP
+            (IN of)
+            (NP
+              (NP (CD 7,000) (NNS dollars))
+              (PP (IN per) (NP (NN performance))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT A) (JJ sold-out) (NN performance))
+    (VP
+      (VBZ brings)
+      (PP (IN in) (NP (CD 16,000) (NNS dollars)))
+      (, ,)
+      (S
+        (VP
+          (VB Determine)
+          (NP
+            (NP (DT the) (NN number))
+            (PP
+              (IN of)
+              (NP
+                (NP (JJ sold-out) (NNS performances))
+                (, ,)
+                (NP (NN x))
+                (, ,)
+                (VP
+                  (VBN needed)
+                  (S (VP (TO to) (VP (VB break) (ADVP (RB even))))))))))))
+    (. .)))

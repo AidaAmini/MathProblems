@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VP (VBP have) (NP (CD 160) (NNS dollars)))
+      (CC and)
+      (VP
+        (VB save)
+        (NP (NP (CD 7) (NNS dollars)) (PP (IN per) (NP (NN week))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP$ Your) (NN friend))
+    (VP
+      (VP (VBZ has) (NP (CD 210) (NNS dollars)))
+      (CC and)
+      (VP
+        (VBZ saves)
+        (NP (NP (CD 5) (NNS dollars)) (PP (IN per) (NP (NN week))))))
+    (. .)))
+(ROOT
+  (S
+    (PP
+      (IN After)
+      (SBAR
+        (WHADJP (WRB how) (JJ many))
+        (S (NP (NNS weeks)) (VP (MD will)))))
+    (NP (NP (DT each)) (PP (IN of) (NP (PRP you))))
+    (VP
+      (VBP have)
+      (VP
+        (VBN saved)
+        (NP
+          (NP (DT the) (JJ same) (NN amount))
+          (PP (IN of) (NP (NN money))))))
+    (. ?)))

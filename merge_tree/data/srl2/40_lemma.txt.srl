@@ -1,0 +1,14 @@
+sell ARG0 Stefans school
+sell arg2 a choral performance
+sell arg1 ticket
+sell TMP on the first day of ticket sale
+sell arg0 the school
+sell arg3 79 dollar
+sell arg1 4 senior citizen ticket and 3 student ticket
+take arg0 the school
+sell ARG0 the school
+take mnr by sell 12 senior citizen ticket and 10 student ticket
+take TMP on the second day
+take arg1 246 dollar
+sell arg1 12 senior citizen ticket and 10 student ticket
+find arg1 the price of a senior citizen ticket and the price of a student ticket

@@ -1,0 +1,30 @@
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (S
+          (NP
+            (NP (CD 4) (NNS apples))
+            (CC and)
+            (NP (CD 2) (NNS oranges)))
+          (VP
+            (VBZ equals)
+            (NP
+              (NP (CD 1) (NNS dollars))
+              (CC and)
+              (NP (CD 2) (NNS apples)))))
+        (CC and)
+        (S
+          (NP (CD 3) (NN orange))
+          (VP (VBZ equals) (NP (CD 0.70) (NNS dollars))))))
+    (, ,)
+    (WHNP (WRB how) (RB much))
+    (SQ
+      (VP
+        (VBZ does)
+        (NP
+          (NP (DT each) (NN apple))
+          (CC and)
+          (NP (DT each) (NN orange) (NN cost)))))
+    (. ?)))

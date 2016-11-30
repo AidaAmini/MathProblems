@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (NN kevin))
+    (VP
+      (VBD bought)
+      (NP
+        (NP (CD 3) (NNS muffins))
+        (CC and)
+        (NP
+          (NP (DT a) (NN bottle))
+          (PP (IN of) (NP (NN juice)))
+          (SBAR
+            (WHNP (WDT that))
+            (S (VP (VBD cost) (NP (CD 1.45) (NNS dollars))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBD paid)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 3.70) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ (VP (VBD did) (NP (DT each) (NN muffin) (NN cost))))
+    (. ?)))

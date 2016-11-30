@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT A) (NN carpenter))
+    (VP
+      (VBD gave)
+      (NP
+        (NP (DT an) (NN estimate))
+        (PP (IN of) (NP (QP (CD 980) (NNS dollars)))))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB build)
+            (NP
+              (NP (DT a) (NN cover))
+              (PP (IN over) (NP (DT a) (NN patio))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (PRP$ His) (JJ hourly) (NN rate))
+      (VP (VBZ is) (NP (CD 28) (NNS dollars))))
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP
+        (VBZ expects)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB need)
+              (NP
+                (NP (CD 560) (NNS dollars))
+                (PP (IN in) (NP (NNS materials)))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS hours))
+    (SQ (MD will) (NP (DT the) (NN job)) (VP (VB take)))
+    (. ?)))

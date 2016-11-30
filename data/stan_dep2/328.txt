@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP
+        (VBP are)
+        (NP (CD 3))
+        (NP (JJR more) (NNS girls))
+        (PP
+          (IN than)
+          (NP
+            (NP (NNS boys))
+            (PP (IN in) (NP (NP (NNP Tom) (POS 's)) (NN class)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN sum))
+        (PP (IN of) (NP (NNS girls) (CC and) (NNS boys))))
+      (VP (VBZ is) (NP (CD 41))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS boys))
+    (SQ (VBP are) (PP (IN in) (NP (DT the) (NN class))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS girls))
+    (SQ (VBP are) (PP (IN in) (NP (DT the) (NN class))))
+    (. ?)))

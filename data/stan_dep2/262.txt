@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (ADVP (RB Together))
+    (, ,)
+    (NP (NNP Jane) (CC and) (NNP Jill))
+    (VP (VBP have) (NP (CD 32) (NNS dolls)))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Jill))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 6) (JJR more) (NNS dolls))
+        (SBAR (IN than) (S (NP (NNP Jane)) (VP (VBZ does))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS dolls))
+    (SQ (VBZ does) (NP (NNP Jane)) (VP (VB have)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ many))
+    (SQ (VBZ does) (NP (NNP Jill)) (VP (VB have)))
+    (. ?)))

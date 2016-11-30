@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (NNP Mary))
+    (VP
+      (MD can)
+      (VP
+        (VB purchase)
+        (NP (NNS roses) (CC and) (NNS daisies))
+        (PP (IN from) (NP (DT a) (NN flower) (NN shop)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (MD can)
+      (VP
+        (VB buy)
+        (NP
+          (NP (CD four) (NNS roses))
+          (CC and)
+          (NP (CD five) (NNS daisies)))
+        (PP
+          (IN for)
+          (NP
+            (NP
+              (NP (CD 7.90) (NNS dollars))
+              (CC or)
+              (NP (CD two) (NNS roses)))
+            (CC and)
+            (NP
+              (NP (CD six) (NNS daisies))
+              (PP (IN for) (NP (CD 5.70) (NNS dollars))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (JJ individual) (NN cost))
+        (PP
+          (IN for)
+          (NP
+            (NP (NP (DT each)) (SBAR (S (VP (VBD rose)))))
+            (CC and)
+            (NP (NN daisy))))))
+    (. ?)))

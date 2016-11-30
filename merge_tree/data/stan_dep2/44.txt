@@ -1,0 +1,21 @@
+(ROOT
+  (S
+    (NP (NP (CD 4) (NNS pencils)) (CC and) (NP (CD 5) (NNS pens)))
+    (VP (VBP are) (NP (CD 2.00) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (NP (NP (CD 3) (NNS pencils)) (CC and) (NP (CD 4) (NNS pens)))
+    (VP (VBP are) (NP (CD 1.58) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP
+          (NP (DT the) (NN cost))
+          (PP (IN of) (NP (DT a) (NN pencil))))
+        (CC and)
+        (NP (NP (DT a) (NN pen)) (PP (IN in) (NP (NNS dollars))))))
+    (. .)))

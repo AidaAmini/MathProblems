@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (NNP Jerry) (NNP Weller))
+    (VP
+      (VBD received)
+      (NP (CD 20,196) (JJR more) (NNS votes))
+      (PP (IN than) (NP (NN opponent) (NNP John) (NNP Pavich))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (JJ total) (NN number))
+          (PP (IN of) (NP (NNS votes))))
+        (VP (VBD was) (NP (CD 196,554)))))
+    (, ,)
+    (VP
+      (VB find)
+      (NP
+        (NP (DT the) (NN number))
+        (PP
+          (IN of)
+          (NP (NP (NNS votes)) (PP (IN for) (NP (NNP Jerry)))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN number))
+        (PP
+          (IN of)
+          (NP (NP (NNS votes)) (PP (IN for) (NP (NNP John)))))))
+    (. .)))

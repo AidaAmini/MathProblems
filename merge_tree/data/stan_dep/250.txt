@@ -1,0 +1,16 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN sum))
+        (PP (IN of) (NP (CD two) (NNS numbers))))
+      (VP (VBZ is) (NP (CD 52))))
+    (, ,)
+    (CC and)
+    (S (NP (PRP$ their) (NN difference)) (VP (VBZ is) (NP (CD 6))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBP are) (NP (DT the) (NNS numbers)))
+    (. ?)))

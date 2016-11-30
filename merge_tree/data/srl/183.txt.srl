@@ -1,0 +1,31 @@
+plan ARG0 A small publishing company
+publish ARG0 A small publishing company
+plan ARG1 to publish a new book
+publish ARG1 a new book
+
+include ARG2 The production costs
+include MOD will
+include ARG1 one-time fixed costs and variable costs
+
+amount ARG1 The one-time fixed costs
+amount MOD will
+amount ARG2 35,630 dollars
+
+
+sell ARG0 The publisher
+sell MOD will
+sell ARG3 a price of 20.25 dollars per book.
+sell ARG2 bookstores
+sell ARG1 the finished product
+
+sell ARG1 books
+print ARG1 books
+sell ARG0 the publisher
+print ARG0 the publisher
+sell PNC so that the production costs will equal the money obtained from sales
+equal ARG1 the production costs
+equal MOD will
+equal ARG2 the money obtained from sales
+obtain ARG1 the money obtained from sales
+obtain ARG2 sales
+

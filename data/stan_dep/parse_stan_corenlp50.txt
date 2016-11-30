@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN amount))
+        (PP
+          (IN of)
+          (NP
+            (NP (CD 6) (NN percent) (NN acid) (NN solution))
+            (CC and)
+            (NP
+              (NP (DT the) (NN amount))
+              (PP
+                (IN of)
+                (NP
+                  (DT a)
+                  (CD 14)
+                  (JJ percent)
+                  (NN acid)
+                  (NN solution)))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (NP (NNP Pat))
+                  (VP
+                    (MD should)
+                    (VP
+                      (VB combine)
+                      (S
+                        (VP
+                          (TO to)
+                          (VP
+                            (VB prepare)
+                            (NP
+                              (NP (CD 50) (NNS cubic-centimeters))
+                              (PP
+                                (IN of)
+                                (NP
+                                  (CD 12)
+                                  (NN percent)
+                                  (NN solution))))))))))))))))
+    (. .)))

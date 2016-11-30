@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (S
+      (NP (DT A) (NN plane))
+      (VP
+        (VBZ is)
+        (VP
+          (VBG using)
+          (NP (NN fuel))
+          (PP
+            (IN at)
+            (NP
+              (NP (DT the) (NN rate))
+              (PP
+                (IN of)
+                (NP
+                  (NP (CD 9.5) (NNS gallons))
+                  (PP (IN per) (NP (NN hour))))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP
+        (VBZ has)
+        (NP
+          (NP (CD 6.3333) (NNS gallons))
+          (VP (VBN left) (PP (IN in) (NP (PRP$ its) (NN tank)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (RB long))
+    (SQ
+      (MD can)
+      (NP (DT the) (NN plane))
+      (VP (VBP continue) (S (VP (TO to) (VP (VB fly))))))
+    (. ?)))

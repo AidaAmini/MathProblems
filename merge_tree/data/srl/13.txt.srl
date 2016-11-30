@@ -1,0 +1,21 @@
+run ARG0 You
+run ARG1 a concession stand
+
+sell ARG0 You
+sell ARG1 hot dogs and soda
+
+
+make ARG0 You
+make ARG1 a total of 78.50 dollars.
+
+sell ARG0 You
+sell ARG1 a total of 87 hot dogs and sodas combined
+combine ARG1 and sodas combined
+
+report ARG0 You
+report MOD must
+report ARG1 the number of hot dogs and sodas sold
+sell ARG1 and sodas sold
+
+sell ARG1 many hot dogs and sodas
+

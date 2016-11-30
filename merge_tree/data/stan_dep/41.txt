@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (CD 2) (NNS investments))
+    (VP
+      (VBP are)
+      (VP
+        (VBN made)
+        (S (VP (VBG totaling) (NP (CD 8800) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN For) (NP (DT a) (JJ certain) (NN year)))
+    (, ,)
+    (NP (DT these) (NNS investments))
+    (VP
+      (VBP yield)
+      (NP
+        (NP (CD 1326) (NNS dollars))
+        (PP (IN in) (NP (JJ simple) (NN interest)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (NN Part))
+      (PP (IN of) (NP (DT the) (CD 8800) (NNS dollars))))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN invested)
+        (PP (IN at) (NP (NP (CD 16) (NN %)) (CC and) (NP (NN part))))
+        (PP (IN at) (NP (CD 14) (NN %)))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN amount))
+        (VP
+          (VBN invested)
+          (PP
+            (IN at)
+            (NP (NP (CD 16) (NN %)) (CC and) (NP (CD 14) (NN %)))))))
+    (. .)))

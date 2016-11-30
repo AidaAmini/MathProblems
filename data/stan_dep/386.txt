@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (NNP Ron) (CC and) (NNP Kathy))
+    (VP
+      (VBP are)
+      (NP
+        (NP (NNS ticket-sellers))
+        (, ,)
+        (NP
+          (NP (NNP Ron))
+          (VP
+            (VBG handling)
+            (NP
+              (NP (NN student) (NNS tickets))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP
+                    (VBP sell)
+                    (PP
+                      (IN for)
+                      (NP
+                        (NP
+                          (NP (CD 2.00) (NNS dollars))
+                          (NP (DT each)))
+                        (CC and)
+                        (NP
+                          (NP (NNP Kathy))
+                          (VP
+                            (VBG selling)
+                            (NP (JJ adult) (NNS tickets))
+                            (PP
+                              (IN for)
+                              (NP
+                                (NP (CD 4.50) (NNS dollars))
+                                (NP (DT each))))))))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (PRP$ their) (JJ total) (NN income))
+          (PP (IN for) (NP (CD 20) (NNS tickets))))
+        (VP (VBD was) (NP (CD 60.00) (NNS dollars)))))
+    (, ,)
+    (WHNP (WRB how) (JJ many))
+    (SQ (VBD did) (NP (NNP Ron)) (VP (VB sell)))
+    (. ?)))

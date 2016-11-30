@@ -1,0 +1,72 @@
+(ROOT
+  (NP
+    (NP (NNP Norman) (CC and) (NNP Suzanne) (NNP Scarpulla) (JJ own))
+    (NP
+      (NP
+        (NP (CD 35) (NNS shares))
+        (PP (IN of) (NP (NP (NNP Mcdonald) (POS 's)) (NNS stocks))))
+      (CC and)
+      (NP
+        (NP (CD 69) (NNS shares))
+        (PP
+          (IN of)
+          (NP (DT the) (NNP Ohio) (NNP Art) (NNP Company) (NN stock)))))
+    (. .)))
+(ROOT
+  (S
+    (PP
+      (IN On)
+      (NP
+        (NP (DT a) (JJ particular) (NN day))
+        (PP (IN in) (NP (CD 2011)))))
+    (, ,)
+    (NP
+      (NP (PRP$ their) (NN stock) (NN portfolio))
+      (VP
+        (VBG consisting)
+        (PP
+          (IN of)
+          (NP (NP (DT these) (CD two) (NNS stocks)) (VP (VBD was))))))
+    (VP (VBP are) (NP (CD 2,814) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NNP Mcdonalds) (NN stock))
+    (VP
+      (VBD was)
+      (ADJP
+        (NP (CD 70) (NNS dollars))
+        (RBR more)
+        (PP (IN per) (NP (NN share))))
+      (PP
+        (IN than)
+        (NP (DT the) (NNP Ohio) (NNP Art) (NNP Company) (NN stock))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBD was)
+      (NP
+        (NP (DT the) (NN price))
+        (PP (IN of) (NP (NNP McDonalds) (NN stock))))
+      (PP (IN on) (NP (DT that) (NN day))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBD was)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP
+          (IN of)
+          (NP
+            (NP
+              (DT the)
+              (NNP Ohio)
+              (NNP Art)
+              (NNP Company)
+              (NN stock))
+            (PP (IN on) (NP (DT that) (NN day)))))))
+    (. ?)))

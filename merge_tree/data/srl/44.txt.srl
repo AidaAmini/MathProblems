@@ -1,0 +1,25 @@
+etch ARG0 An embossing shop
+etch ARG1 metal with acid solutions
+
+discuss ARG0 The owner
+discuss ARG2 the job supervisor
+discuss ARG1 a certain job
+decide ARG0 they
+use ARG0 they
+decide ARG1 to use 30 ounces of a 40 % solution
+use ARG1 30 ounces of a 40 % solution
+
+check ARG0 checking the acid solution supplies
+check ARG1 the acid solution supplies
+find ARG0 the supervisor
+find ARG1 some 25 % acid solution and some 50 % acid solution
+
+explain ARG0 The owner
+explain ARG2 the supervisor how the two existing solutions can be mixed to obtain a 40 % acid solution
+mix ARG1 the two existing solutions
+obtain ARG0 the two existing solutions
+mix PNC to obtain a 40 % acid solution
+obtain ARG1 a 40 % acid solution
+
+need ARG1 much of each solution
+

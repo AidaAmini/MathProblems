@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NP (NNS Tickets)) (PP (IN for) (NP (DT a) (NN concert))))
+    (VP
+      (VBD were)
+      (VP
+        (VBN priced)
+        (PP
+          (IN at)
+          (NP
+            (NP
+              (NP (CD 9) (NNS dollars))
+              (PP (IN for) (NP (NNS students))))
+            (CC and)
+            (NP
+              (NP (CD 11) (NNS dollars))
+              (PP (IN for) (NP (NNS non-students))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBD were)
+      (NP
+        (NP (CD 2,000) (NNS tickets))
+        (VP
+          (VBN sold)
+          (PP
+            (IN for)
+            (NP
+              (NP (DT a) (NN total))
+              (PP (IN of) (NP (CD 20,960) (NNS dollars))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NN student)) (NP (NN ticket))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

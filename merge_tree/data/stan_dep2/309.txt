@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN bricklayer))
+      (CC and)
+      (NP (DT an) (NN electrician)))
+    (ADVP (RB together))
+    (VP
+      (VBP spend)
+      (NP
+        (NP (CD 90) (NNS hours))
+        (VP
+          (VBG working)
+          (PP (IN on) (NP (DT a) (JJ new) (NN house))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (S
+      (S
+        (SBAR
+          (IN If)
+          (S
+            (NP (DT the) (NN bricklayer))
+            (VP
+              (VBZ earns)
+              (NP
+                (NP (CD 12) (NNS dollars))
+                (PP (IN per) (NP (NN hour)))))))
+        (, ,)
+        (NP (DT the) (NN electrician))
+        (VP
+          (VBZ earns)
+          (NP (NP (CD 16) (NNS dollars)) (NP (DT an) (NN hour)))))
+      (, ,)
+      (CC and)
+      (S
+        (NP (DT the) (NN owner))
+        (VP
+          (VBZ pays)
+          (NP (PRP them))
+          (NP
+            (NP (DT a) (NN total))
+            (PP
+              (IN of)
+              (NP
+                (NP (CD 1350) (NNS dollars))
+                (PP (IN for) (NP (PRP$ their) (NN work)))))))))
+    (, ,)
+    (WHNP (WHADJP (WRB how) (JJ many)) (NNS hours))
+    (SQ (VP (VBZ does) (NP (DT the) (NN bricklayer) (NN work))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS hours))
+    (SQ (VP (VBZ does) (NP (DT the) (NN electrician) (NN work))))
+    (. ?)))

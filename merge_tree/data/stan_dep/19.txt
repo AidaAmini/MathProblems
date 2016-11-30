@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT A) (ADJP (CD 40) (NN %)) (NN sugar) (NN solution))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN added)
+        (PP
+          (TO to)
+          (NP (DT an) (ADJP (CD 85) (NN %)) (NN sugar) (NN solution)))
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB create)
+              (NP
+                (NP (CD 1800) (NNS milliliters))
+                (PP
+                  (IN of)
+                  (NP (DT a) (ADJP (CD 60) (NN %)) (NN solution)))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (NNS milliliters))
+        (PP
+          (IN of)
+          (NP (DT the) (ADJP (CD 40) (NN %)) (NN solution)))))
+    (SQ (VP (MD should) (VP (VB be) (VP (VBN used)))))
+    (. ?)))
+(ROOT
+  (FRAG
+    (SBARQ
+      (WHNP
+        (WHADJP (WRB How) (JJ many))
+        (NP
+          (NP (NNS millileters))
+          (PP
+            (IN of)
+            (NP (DT the) (ADJP (CD 85) (NN %)) (NN solution)))))
+      (. ?))))

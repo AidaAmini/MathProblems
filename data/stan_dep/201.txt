@@ -1,0 +1,15 @@
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (CD 120) (NNS lollipops))
+        (VP (VBD cost) (NP (CD 90) (NNS dollars)))))
+    (, ,)
+    (WHNP (WRB how) (RB much))
+    (SQ
+      (VBZ does)
+      (NP (NP (CD 1) (NN lollipop)) (NP (NN cost)))
+      (, ,)
+      (PP (IN in) (NP (NNS dollars))))
+    (. ?)))

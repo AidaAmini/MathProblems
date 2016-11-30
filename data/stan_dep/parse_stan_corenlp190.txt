@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (DT A) (NN worker))
+    (VP
+      (VBZ gets)
+      (ADVP
+        (ADVP
+          (NP (CD 60) (NNS cents))
+          (NP
+            (NP (DT an) (NN hour))
+            (PP (IN for) (NP (JJ ordinary) (NN time)))))
+        (CC and)
+        (ADVP
+          (NP (CD 90) (NNS cents))
+          (NP
+            (NP (DT an) (NN hour))
+            (PP (IN for) (NP (NN overtime)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP she))
+        (VP
+          (VBZ gets)
+          (NP
+            (NP (CD 32.40) (NNS dollars))
+            (PP (IN for) (NP (DT a) (CD 50) (NN hour) (NN week)))))))
+    (, ,)
+    (WHNP (WHADJP (WRB how) (JJ many)) (NNS hours))
+    (SQ (VBP are) (NP (RB overtime)))
+    (. ?)))

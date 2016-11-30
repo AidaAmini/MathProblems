@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NP (DT A) (NN math) (NN test)) (VP (VBZ is)))
+    (VP
+      (VP (VBP are) (NP (CD 100) (NNS points)))
+      (CC and)
+      (VP (VBZ has) (NP (CD 30) (NNS problems))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT Each) (NN problem))
+    (VP
+      (VBZ is)
+      (ADJP (JJ worth))
+      (PP
+        (CC either)
+        (NP
+          (NP (CD 3) (NNS points))
+          (CC or)
+          (NP (CD 4) (NNS points)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD 4) (NN point)) (NP (NNS problems))))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

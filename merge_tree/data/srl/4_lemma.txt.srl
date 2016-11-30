@@ -1,0 +1,8 @@
+pay ADV if you gross pay be 450 dollar , while you net pay be 315 dollar
+pay arg1 much
+pay arg0 you
+pay mnr in tax
+assume arg1 that all tax dollar be not include in net pay
+include arg1 all tax dollar
+include NEG not
+include arg2 net pay

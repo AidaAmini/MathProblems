@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (DT A) (NN grain) (NN storage) (NN warehouse))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 30) (NNS bins)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT Some))
+    (VP
+      (VBP hold)
+      (NP
+        (NP (CD 20) (NNS tons))
+        (PP (IN of) (NP (NP (NN grain)) (NP (DT each))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN rest))
+    (VP (VBP hold) (NP (NP (CD 15) (NNS tons)) (NP (DT each))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN capacity))
+      (PP (IN of) (NP (DT the) (NN warehouse))))
+    (VP (VBZ is) (NP (CD 510) (NNS tons)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (CD 20) (NN ton)) (NP (NNS bins))))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (SBARQ
+      (WHNP
+        (WHADJP (WRB How) (JJ many))
+        (NP (NP (CD 15) (NN ton)) (NP (NNS bins))))
+      (. ?))))

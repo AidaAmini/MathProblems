@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (CD 12) (NN ounce))
+      (SBAR (S (VP (MD can))))
+      (PP (IN of) (NP (NN cranberry) (NN juice))))
+    (VP (VBZ sells) (PP (IN for) (NP (CD 84) (NNS cents))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Give)
+      (NP (DT the) (NN unit))
+      (NP
+        (NP (NN cost))
+        (PP
+          (IN in)
+          (NP (NP (NNS cents)) (PP (IN per) (NP (NN ounce)))))))
+    (. .)))

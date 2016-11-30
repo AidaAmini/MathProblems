@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (VP
+      (NP
+        (DT A)
+        (S
+          (S (VP (VBP swim) (NP (NN team))))
+          (VP
+            (VBZ has)
+            (NP
+              (NP
+                (QP (CD 5) (NNS times) (IN as) (JJ many))
+                (NNS girls))
+              (PP (IN as) (NP (NNS boys))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (DT a) (NN total))
+        (PP
+          (IN of)
+          (NP
+            (NP (CD 96) (NNS people))
+            (PP (IN on) (NP (DT the) (S (VP (VBP swim))) (NN team)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNS girls)) (CC and) (NP (NNS boys))))
+    (SQ
+      (VBP are)
+      (NP (PRP$ their))
+      (PP (IN on) (NP (DT the) (NN team))))
+    (. ?)))

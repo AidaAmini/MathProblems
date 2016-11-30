@@ -1,0 +1,61 @@
+(ROOT
+  (S
+    (NP (JJ Colombian) (NN coffee) (NNS beans))
+    (VP
+      (VBP are)
+      (NP (NP (CD 5.50) (NNS dollars)) (PP (IN per) (NP (NN pound))))
+      (, ,)
+      (SBAR
+        (IN while)
+        (S
+          (NP (JJ Peruvian) (NN coffee) (NNS beans))
+          (VP
+            (VBP are)
+            (NP
+              (NP (CD 4.25) (NNS dollars))
+              (PP (IN per) (NP (NN pound))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP
+      (VBP want)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB mix)
+            (NP (DT the) (NNS beans))
+            (ADVP
+              (ADVP (RB together) (RB so))
+              (SBAR
+                (IN as)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB produce)
+                      (NP (DT a) (JJ 40-pound) (NN bag)))))))
+            (, ,)
+            (S
+              (VP
+                (VBG costing)
+                (NP
+                  (NP (CD 4.60) (NNS dollars))
+                  (PP (IN per) (NP (NN pound))))))))))
+    (. .)))
+(ROOT
+  (UCP
+    (FRAG
+      (WHNP
+        (WHNP (WHADJP (WRB How) (JJ many)) (NNS pounds))
+        (PP (IN of) (NP (JJ Columbian) (NNS beans)))))
+    (CC and)
+    (SBAR
+      (WHADJP (WRB how) (JJ many))
+      (S
+        (NP
+          (NP (NNS pounds))
+          (PP (IN of) (NP (JJ Peruvian) (NNS beans))))
+        (VP (MD should) (VP (VB be) (VP (VBN used)))))
+      (. ?))))

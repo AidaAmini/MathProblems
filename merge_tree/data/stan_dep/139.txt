@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (DT A) (NN plane))
+    (VP
+      (VBZ flies)
+      (NP (CD 900) (NNS miles))
+      (PP
+        (IN with)
+        (NP
+          (NP (DT a) (NN tail) (NN wind))
+          (PP (IN in) (NP (CD 3) (NNS hours))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ same) (NN plane))
+    (VP
+      (VBZ takes)
+      (NP (CD 4) (NNS hours))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB make)
+            (NP (DT the) (NN return) (NN trip))
+            (PP (IN against) (NP (DT the) (NN wind)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN speed))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT the) (NN plane))
+            (PP (IN in) (NP (RB still) (NN air)))))))
+    (. ?)))

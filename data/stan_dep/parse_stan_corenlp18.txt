@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ total) (NN number))
+      (PP
+        (IN of)
+        (NP
+          (NP (NNPS Democrats) (CC and) (NNPS Republicans))
+          (PP
+            (IN in)
+            (NP
+              (NP (DT the) (NNP House))
+              (PP (IN of) (NP (NNP Representatives))))))))
+    (VP (VBD was) (NP (CD 434)))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBD were)
+      (NP (QP (CD 30) (JJR more)) (NNPS Republicans))
+      (PP (RB then) (NP (NNPS Democrats))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNPS Democrats)) (CC and) (NP (NNPS Republicans))))
+    (SQ
+      (VBD were)
+      (NP (EX there))
+      (PP (IN in) (NP (DT the) (NNP Senate))))
+    (. ?)))

@@ -1,0 +1,10 @@
+sell ADV for a certain event
+sell arg1 821 ticket
+sell PNC for a total of 1933 dollar
+sell ADV if student pay 2 dollar per ticket and nonstudent pay 3 dollar per ticket
+pay arg0 student
+pay arg1 ticket
+pay arg1 2 dollar
+pay arg0 nonstudent
+pay arg1 3 dollar per ticket
+sell arg1 how many student ticket

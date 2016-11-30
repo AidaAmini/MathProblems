@@ -1,0 +1,40 @@
+(ROOT
+  (S
+    (NP (NNS Pencils))
+    (VP
+      (VBD cost)
+      (NP
+        (NP (CD 6) (NNS dollars))
+        (PP
+          (IN per)
+          (NP (NP (NN carton)) (CC and) (NP (NNS erasers) (NN cost)))))
+      (NP (NP (CD 3) (NNS dollars)) (PP (IN per) (NP (NN carton)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (DT an) (NN order))
+        (VP
+          (VBZ comes)
+          (PP
+            (IN in)
+            (IN for)
+            (NP
+              (NP (DT a) (NN total))
+              (PP
+                (IN of)
+                (NP
+                  (NP (CD 100) (NNS cartons))
+                  (PP (IN for) (NP (CD 360) (NNS dollars))))))))))
+    (, ,)
+    (WHNP (WP what))
+    (SQ
+      (VBD was)
+      (NP
+        (NP (DT the) (JJ specific) (NN number))
+        (PP
+          (IN of)
+          (NP (NP (NNS cartons)) (PP (IN of) (NP (NNS pencils)))))))
+    (. ?)))

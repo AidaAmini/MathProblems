@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Rhapsody) (NNP Theater))
+    (VP (VBD sold) (NP (CD 800) (JJ total) (NNS tickets)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT An) (JJ advanced) (NN ticket) (NNS costs))
+        (NP (CD 14.50) (NNS dollars)))
+      (CC and)
+      (NP
+        (NP (DT a) (NN ticket))
+        (PP (IN at) (NP (DT the) (NN door)))))
+    (VP (VBZ costs) (NP (CD 22.00) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN In) (NP (DT all)))
+    (, ,)
+    (NP (CD 16,640) (NNS dollars))
+    (VP (VBD was) (VP (VBN taken) (PP (IN in))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS tickets))
+    (SQ
+      (VBD were)
+      (VP (VBN sold) (PP (IN at) (NP (DT the) (NN door)))))
+    (. ?)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (JJ advanced) (NNS tickets))
+      (VP (VBD were) (VP (VBN sold))))
+    (. ?)))

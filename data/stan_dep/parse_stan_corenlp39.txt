@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD Six) (NNS apples))
+      (CC and)
+      (NP (CD three) (NNS oranges)))
+    (VP (VBD cost) (NP (QP (CD 1.77) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (CD Two) (NNS apples))
+      (CC and)
+      (NP (CD five) (NNS oranges)))
+    (VP (VBD cost) (NP (CD 1.27) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP
+          (NP (DT the) (NN cost))
+          (PP (IN of) (NP (DT each) (NN apple))))
+        (CC and)
+        (NP
+          (NP (DT the) (NN cost))
+          (PP (IN of) (NP (DT an) (NN orange))))))
+    (. .)))

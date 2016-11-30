@@ -1,0 +1,22 @@
+(ROOT
+  (S
+    (NP (DT The) (NN state) (NN market))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 27) (JJR more) (NNS apples))
+        (PP (IN than) (NP (NNS oranges)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP (CD 301) (NNS apples) (CC and) (NNS oranges))
+      (ADVP (DT all) (RB together)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS apples))
+    (SQ (VBP are) (PP (IN in) (NP (DT the) (NN market))))
+    (. ?)))

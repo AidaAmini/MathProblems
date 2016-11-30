@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 7066) (JJ known) (JJ nesting) (NNS pairs))
+        (PP
+          (IN of)
+          (NP
+            (NP (JJ bald) (NNS eagles))
+            (PP
+              (IN in)
+              (NP (DT the) (JJR lower) (CD 48) (NNS states)))
+            (NP-TMP (NN today))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT This))
+    (VP
+      (VBZ is)
+      (ADVP (NP (QP (CD 6649) (JJR more)) (NNS pairs)) (IN than))
+      (PP (IN in) (NP (CD 1963))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (JJ nesting) (NNS pairs))
+      (PP (IN of) (NP (JJ bald) (NNS eagles))))
+    (SQ
+      (VBD were)
+      (NP (EX there))
+      (PP
+        (PP (IN in) (NP (DT the) (JJR lower) (CD 48) (NNS states)))
+        (PP (IN in) (NP (CD 1963)))))
+    (. ?)))

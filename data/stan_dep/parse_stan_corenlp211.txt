@@ -1,0 +1,73 @@
+(ROOT
+  (S
+    (NP (DT A) (NN petroleum) (NN company))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD two) (JJ different) (NNS sources))
+        (PP (IN of) (NP (JJ crude) (NN oil)))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ first) (NN source))
+      (VP
+        (VBZ provides)
+        (NP
+          (NP (JJ crude) (NN oil))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP
+                (VBZ is)
+                (NP (ADJP (CD 25) (NN %)) (NNS hydrocarbons))))))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ second) (CD one))
+      (VP
+        (VBZ provides)
+        (NP
+          (NP (JJ crude) (NN oil))
+          (SBAR
+            (WHNP (WDT that))
+            (S
+              (VP
+                (VBZ is)
+                (NP (ADJP (CD 75) (NN %)) (NNS hydrocarbons))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN In)
+      (NN order)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB obtain)
+            (NP
+              (NP (CD 50) (NNS gallons))
+              (PP (IN of) (NP (JJ crude) (NN oil)))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP
+                    (VBZ is)
+                    (NP (ADJP (CD 55) (NN %)) (NNS hydrocarbons))))))))))
+    (, ,)
+    (WHNP
+      (WHNP (WHADJP (WRB how) (JJ many)) (NNS gallons))
+      (PP (IN of) (NP (JJ crude) (NN oil))))
+    (SQ
+      (VP
+        (MD must)
+        (VP
+          (VB be)
+          (VP
+            (VBN used)
+            (PP
+              (IN from)
+              (NP
+                (NP (DT each))
+                (PP (IN of) (NP (DT the) (CD two) (NNS sources)))))))))
+    (. ?)))

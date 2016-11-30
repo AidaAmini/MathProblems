@@ -1,0 +1,1 @@
+15 bills	390 dollars check

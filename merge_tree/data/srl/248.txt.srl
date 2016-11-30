@@ -1,0 +1,16 @@
+deduct LOC In a test of 30 questions , 20 points are given for
+give ARG0 a test of 30 questions , 20 points are given for
+give ARG1 20 points
+deduct ARG1 each correct answer and 5 points
+deduct PNC for each one answered incorrectly
+answer ARG1 each one answered incorrectly
+answer MNR incorrectly
+
+get ADV If Maria answered all of the questions and got a score of 325
+answer ARG0 Maria
+get ARG0 Maria
+answer ARG1 all of the questions
+get ARG1 a score of 325
+get ARG1 she
+get ARG2 correct
+

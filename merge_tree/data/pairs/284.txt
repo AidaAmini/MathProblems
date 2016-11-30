@@ -1,0 +1,27 @@
+semi truck	truck
+pave road	road
+pave road	dirt road
+road	dirt road
+2 hour	hour
+2 hour	3 hour
+hour	3 hour
+20 mile	mile
+20 mile	200 mile
+mile	200 mile
+average speed	semi truck
+average speed	pave road
+average speed	hour
+average speed	mile
+dirt	semi truck
+dirt	pave road
+dirt	hour
+dirt	mile
+entire trip	semi truck
+entire trip	pave road
+entire trip	hour
+entire trip	mile
+fast	semi truck
+fast	pave road
+fast	hour
+fast	mile
+2 hour	20 mile

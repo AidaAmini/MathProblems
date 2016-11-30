@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (PP
+      (IN During)
+      (NP
+        (DT the)
+        (CD 1998-1999)
+        (NNP Little)
+        (NNP League)
+        (NN season)))
+    (, ,)
+    (NP (DT the) (NNP Tigers))
+    (VP (VBD played) (NP (CD 57) (NNS games)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VBD lost)
+      (NP-TMP (QP (CD 21) (JJR more)) (NNS games))
+      (SBAR (IN than) (S (NP (PRP they)) (VP (VBD won)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD did) (RB n't) (VP (VB tie) (NP (DT any))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS games))
+    (SQ
+      (VBD did)
+      (NP (PRP they))
+      (VP (VBP win) (PP (IN that) (NP (NN season)))))
+    (. ?)))

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (JJ Red) (NNS cards))
+    (VP
+      (VBP are)
+      (ADJP (JJ worth) (NP (CD 3) (NNS credits)))
+      (, ,)
+      (SBAR
+        (IN while)
+        (S
+          (NP (JJ blue) (NNS cards))
+          (VP (VBP are) (ADJP (JJ worth) (NP (CD 5) (NNS credits)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP need)
+      (S
+        (NP
+          (NP (DT any) (NN combination))
+          (PP (IN of) (NP (CD 20) (NNS cards))))
+        (VP (TO to) (VP (VB play) (NP (DT a) (NN game))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN With)
+      (S
+        (NP (CD 84) (NNS credits))
+        (VP (TO to) (VP (VB buy) (NP (NNS cards))))))
+    (, ,)
+    (WHNP (WHADJP (WRB how) (JJ many)) (ADJP (JJ blue)) (NNS cards))
+    (SQ
+      (MD will)
+      (NP (PRP you))
+      (VP
+        (VB have)
+        (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VB play))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB how) (JJ many)) (JJ red) (NNS cards))
+    (SQ
+      (MD will)
+      (NP (PRP you))
+      (VP
+        (VB have)
+        (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VB play))))))
+    (. ?)))

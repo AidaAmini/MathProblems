@@ -1,0 +1,71 @@
+(ROOT
+  (S
+    (NP (DT A) (VBG catering) (NN company))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG setting)
+        (PRT (RP up))
+        (NP (NNS tables))
+        (PP
+          (IN for)
+          (NP
+            (NP (DT a) (JJ big) (NN event))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP
+                  (MD will)
+                  (VP (VB host) (NP (CD 764) (NNS people))))))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When))
+      (S
+        (NP (PRP they))
+        (VP (VBD set) (PRT (RP up)) (NP (DT the) (NNS tables)))))
+    (NP (PRP they))
+    (VP
+      (VBP need)
+      (NP
+        (NP
+          (NP (CD 2) (NNS forks))
+          (PP (IN for) (NP (DT each) (NN child))))
+        (CC and)
+        (NP
+          (NP (CD 5) (NNS forks))
+          (PP (IN for) (NP (DT each) (NN adult))))))
+    (. .)))
+(ROOT
+  (SBAR
+    (IN If)
+    (S
+      (NP (DT the) (NN company))
+      (VP
+        (VBD ordered)
+        (NP
+          (NP (DT a) (NN total))
+          (PP
+            (IN of)
+            (NP
+              (NP (CD 2992) (NNS forks))
+              (, ,)
+              (SBAR
+                (WHNP (WRB how) (JJ many))
+                (S
+                  (UCP
+                    (NP (NNS adults))
+                    (CC and)
+                    (SBAR
+                      (WHADJP (WRB how) (JJ many))
+                      (S
+                        (NP (NNS children))
+                        (VP
+                          (MD will)
+                          (VP
+                            (VB be)
+                            (VP
+                              (VBG attending)
+                              (NP (DT the) (NN event))))))
+                      (. ?))))))))))))
