@@ -25,13 +25,21 @@ class Merge_chain_alg:
 		print "chain2"
 		print chain2
 		print ''
-		result.append(self.problem_data.calc_merge_count_feature(chain1, chain2))
-		result.append(self.problem_data.calc_merge_unit_features(chain1, chain2))
-		result.append(self.problem_data.calc_merge_max_cosigne(chain1, chain2))
-		result.append(self.problem_data.calc_merge_ave_dist(chain1, chain2))
+		feature_list = []
+		feature_names_list = []
+		feature_list, feature_names_list = self.problem_data.calc_merge_count_feature(feature_list, feature_names_list, chain1, chain2)
+		feature_list, feature_names_list = self.problem_data.calc_merge_unit_features(feature_list, feature_names_list, chain1, chain2)
+		feature_list, feature_names_list = self.problem_data.calc_merge_max_cosigne(feature_list, feature_names_list, chain1, chain2)
+		feature_list, feature_names_list = self.problem_data.calc_merge_ave_dist(feature_list, feature_names_list, chain1, chain2)
+		feature_list, feature_names_list = self.problem_data.calc_merge_repeated_np(feature_list, feature_names_list, chain1, chain2)
+		
+		# result.append(self.problem_data.calc_merge_count_feature(chain1, chain2))
+		# result.append(self.problem_data.calc_merge_unit_features(chain1, chain2))
+		# result.append(self.problem_data.calc_merge_max_cosigne(chain1, chain2))
+		# result.append(self.problem_data.calc_merge_ave_dist(chain1, chain2))
 		# result.append(self.problem_data.calc_merge_count_feature(chain1, chain2))
 
-		return result
+		return (feature_list, feature_names_list)
 
 	def read_data_by_problem_index(self, problem_index):
 		self.problem_data.find_related_words_with_conjunction(self.file_path_refrence.stan_parse_file_path+str(problem_index)+ self.file_suffix)
@@ -58,7 +66,7 @@ class Merge_chain_alg:
 
 	def write_features_for_classification_train(self, start_index, end_index):
 		output_file = open('train.txt', 'w')
-		self.problem_data.find_word_list(self.file_path_refrence.synonym_list_path, self.file_path_refrence.num_of_dimentions)
+		# self.problem_data.find_word_list(self.file_path_refrence.synonym_list_path, self.file_path_refrence.num_of_dimentions)
 
 		for i in range(start_index, end_index):
 			print "problem:::  " + str(i)
@@ -68,6 +76,8 @@ class Merge_chain_alg:
 			self.read_data_by_problem_index(i)
 			# print self.problem_data.gold_chain_list
 			for chain in self.problem_data.gold_chain_list:
+				print 'chaaaaaaaiiiiiiiiiiiiiiiinnnnnnnnnnnnnn'
+				print chain
 				for i in range(0, len(chain)):
 					chain1 = []
 					chain2 = []
@@ -78,8 +88,8 @@ class Merge_chain_alg:
 						for k in range(0, len(str_bin_format)):
 							if str_bin_format[k] == '1' and k != i:
 								chain2.append(chain[k])
-						if chain1 != [] and chain2 != []:
-							fv_list = self.find_merge_feature_vector(chain1, chain2)
+						if chain1 != [] and chain2 != [] and chain1 != chain2:
+							fv_list, fv_name_list = self.find_merge_feature_vector(chain1, chain2)
 							output_file.write('1')
 							for p in range(0, len(fv_list)):
 								output_file.write(' ' + str(p) + ':' + str(fv_list[p]))
@@ -94,8 +104,8 @@ class Merge_chain_alg:
 						chain2 = []
 						for np2 in self.problem_data.gold_chain_list[n]:
 							chain2.append(np2)
-						if chain1 != [] and chain2 != []:
-							fv_list = self.find_merge_feature_vector(chain1, chain2)
+						if chain1 != [] and chain2 != [] and chain1 != chain2:
+							fv_list, fv_name_list = self.find_merge_feature_vector(chain1, chain2)
 							output_file.write('0')
 							for p in range(0, len(fv_list)):
 								output_file.write(' ' + str(p) + ':' + str(fv_list[p]))
@@ -105,8 +115,8 @@ class Merge_chain_alg:
 					for n in range(0, len(self.problem_data.unchained_np_list)):
 						chain2 = []
 						chain2.append(self.problem_data.unchained_np_list[n])
-					if chain1 != [] and chain2 != []:
-						fv_list = self.find_merge_feature_vector(chain1, chain2)
+					if chain1 != [] and chain2 != [] and chain1 != chain2:
+						fv_list, fv_name_list = self.find_merge_feature_vector(chain1, chain2)
 						output_file.write('0')
 						for p in range(0, len(fv_list)):
 							output_file.write(' ' + str(p) + ':' + str(fv_list[p]))
@@ -131,8 +141,8 @@ class Merge_chain_alg:
 							for l in range(0, len(rand_smpl)):
 								if rand_smpl[l] == '1':
 									chain2.append(self.problem_data.gold_chain_list[n][l])
-							if chain1 != [] and chain2 != []:
-								fv_list = self.find_merge_feature_vector(chain1, chain2)
+							if chain1 != [] and chain2 != [] and chain1 != chain2:
+								fv_list, fv_name_list = self.find_merge_feature_vector(chain1, chain2)
 								output_file.write('0')
 								for p in range(0, len(fv_list)):
 									output_file.write(' ' + str(p) + ':' + str(fv_list[p]))
@@ -152,8 +162,8 @@ class Merge_chain_alg:
 						for l in range(0, len(rand_smpl)):
 							if rand_smpl[l] == '1':
 								chain2.append(self.problem_data.unchained_np_list[l])
-						if chain1 != [] and chain2 != []:
-							fv_list = self.find_merge_feature_vector(chain1, chain2)
+						if chain1 != [] and chain2 != [] and chain1 != chain2:
+							fv_list, fv_name_list = self.find_merge_feature_vector(chain1, chain2)
 							output_file.write('0')
 							for p in range(0, len(fv_list)):
 								output_file.write(' ' + str(p) + ':' + str(fv_list[p]))
@@ -166,8 +176,8 @@ class Merge_chain_alg:
 					chain2 = []
 					chain1.append(np1)
 					chain2.append(np2)
-					if chain1 != [] and chain2 != []:
-						fv_list = self.find_merge_feature_vector(chain1, chain2)
+					if chain1 != [] and chain2 != [] and chain1 != chain2:
+						fv_list, fv_name_list = self.find_merge_feature_vector(chain1, chain2)
 						output_file.write('0')
 						for p in range(0, len(fv_list)):
 							output_file.write(' ' + str(p) + ':' + str(fv_list[p]))

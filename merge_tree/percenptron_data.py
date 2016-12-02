@@ -15,11 +15,13 @@ class percenptron_data:
 	noun_phrase_with_counts_with_count = []
 	word_vector = [[]]
 	word_list = []
+	repeated_noun_phrases = []
 	whole_question = ''
 	equivalence_relation_word_list = ['per', 'cost', 'equals', 'be', 'costs', 'equal', 'is', 'was', 'were', 'are', 'spend', 'spent', 'spends', 'for', 'a']
 
 	def __init(self):
 		self.noun_phrase_list = []
+		self.repeated_noun_phrases = []
 		self.unchained_np_list = []
 		self.gold_chain_list = []
 		self.gold_subset_list =[]
@@ -35,6 +37,7 @@ class percenptron_data:
 
 	def destruct(self):
 		self.noun_phrase_list = []
+		self.repeated_noun_phrases = []
 		self.unchained_np_list = []
 		self.gold_chain_list = []
 		self.gold_subset_list =[]
@@ -68,6 +71,8 @@ class percenptron_data:
 			if line[:-1] == ' ':
 				line = line[:-1]
 			parts = line.split('	')
+			if parts[0] == '' or parts[1] ==  '':
+				continue
 			self.gold_disjoint_list.append(parts[0].lower())
 			self.gold_disjoint_list.append(parts[1].lower())
 
@@ -80,6 +85,8 @@ class percenptron_data:
 			if line[:-1] == ' ':
 				line = line[:-1]
 			parts = line.split('	')
+			if parts[0] == '' or parts[1] ==  '':
+				continue
 			self.gold_subset_list.append(parts[0].lower())
 			self.gold_subset_list.append(parts[1].lower())
 
@@ -131,6 +138,12 @@ class percenptron_data:
 			if is_in_chains == False:
 				self.unchained_np_list.append(np)
 
+	def find_repeated_noun_phrases(self):
+		for noun_phrase in self.question_strings_np:
+			found_index = self.whole_question.find(noun_phrase) + 1
+			if self.whole_question.find(noun_phrase, found_index) > -1:
+				if noun_phrase not in self.repeated_noun_phrases:
+					self.repeated_noun_phrases.append(noun_phrase)
 
 	def find_count_noun_stanford(self, file_name):
 		noun_phrase_with_counts = []
@@ -282,7 +295,7 @@ class percenptron_data:
 			index = index + 1
 
 
-	def find_nps_min_distance(self, np1, np2):
+	def find_nps_min_distance(self, np1, np2): # Should I do this for the heads as well
 		np1_index = self.whole_question.find(np1)
 		np2_index = self.whole_question.find(np2)
 		min_distance = 999999
@@ -305,7 +318,7 @@ class percenptron_data:
 		self.whole_question = input_file.readline().lower()
 
 
-	def find_if_any_equivalence_word_in_between(self, np1, np2):
+	def find_if_any_equivalence_word_in_between(self, np1, np2): #Should consider the case of the heads
 		np1_index = self.whole_question.find(np1)
 		np2_index = self.whole_question.find(np2)
 		while np1_index >= 0 and np2_index >= 0 and abs(np2_index - np2_index) <= 10:
@@ -323,63 +336,181 @@ class percenptron_data:
 				np1_index = self.whole_question.find(np1, np1_index + 1)
 		return 0
 
-	def calc_merge_count_feature(self, chain1, chain2):
-		chain1_has_counts = False
+	def calc_merge_count_feature(self, feature_list, feature_name_list, chain1, chain2):
+		chain1_num_of_counts = 0
 		for np1 in chain1:
 			if np1 in self.noun_phrase_with_counts:
-				chain1_has_counts = True
-				break
-		chain2_has_counts = False
+				chain1_num_of_counts = chain1_num_of_counts + 1
+				
+		chain2_num_of_counts = 0
 		for np2 in chain2:
 			if np2 in self.noun_phrase_with_counts:
-				chain2_has_counts = True
-				break
-		if chain1_has_counts == True and chain2_has_counts == True:
-			return 1
+				chain2_num_of_counts = chain2_num_of_counts + 1
+				
+		if chain1_num_of_counts > 0 and chain2_num_of_counts > 0:
+			feature_list.append(1)
 		else:
-			return 0
+			feature_list.append(0)
+		feature_name_list.append("chain 1 has counts and chain 2 has counts")
+		if chain1_num_of_counts > 0 or chain2_num_of_counts > 0:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 has counts or chain 2 has counts")
+		if chain1_num_of_counts > 2 and chain2_num_of_counts > 2:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 and chain 2 has counts more than 2")
+		if chain1_num_of_counts > 2 or chain2_num_of_counts > 2:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 or chain 2 has counts more than 2")
+		return (feature_list, feature_name_list)
 
-	def calc_merge_unit_features(self, chain1, chain2):
+	def calc_merge_unit_features(self, feature_list, feature_name_list, chain1, chain2):
+		chain1_all_unit = True
 		chain1_has_unit = False
 		for np1 in chain1:
 			if math_modifiers.check_for_unit(np1) != '000':
 				chain1_has_unit = True
-				break
+			else:
+				chain1_all_unit = False
 		chain2_has_unit = False
+		chain2_all_unit = True
 		for np2 in chain2:
 			if math_modifiers.check_for_unit(np2) != '000':
 				chain2_has_unit = True
-				break
+			else:
+				chain2_all_unit = False
 		if chain1_has_unit == True and chain2_has_unit == True:
-			return 1
+			feature_list.append(1)
 		else:
-			return 0
+			feature_list.append(0)
+		feature_name_list.append("chain 1 has unit and chain 2 has unit")
+		if chain1_has_unit == True or chain2_has_unit == True:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 has unit or chain 2 has unit")
+		if chain1_all_unit == True and chain2_all_unit == True:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 is all units and chain 2 is all units")
+		if chain1_all_unit == True or chain2_all_unit == True:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 is all units or chain2 is all units")
+		return (feature_list, feature_name_list)
 
-	def calc_merge_max_cosigne(self, chain1, chain2):
-		max_cosigne = 0.0
+	def calc_merge_max_cosigne(self,feature_list, feature_name_list, chain1, chain2):
+		cosigne_sum = 0.0
+		cosignes = []
+		count = 0
+		seen_pairs = []
 		for np1 in chain1: 
 			for np2 in chain2:
-				cosigne = self.find_the_cosinge(np1, np2, 300)
-				if cosigne > max_cosigne:
-					max_cosigne = cosigne
-		return max_cosigne
+				if np1+np2 not in seen_pairs and np1 != np2:
+					seen_pairs.append(np1+np2)
+					seen_pairs.append(np2+np1)
+					cosigne = self.find_the_cosinge(np1, np2, 300)
+					cosigne_sum = cosigne_sum + cosigne
+					count = count + 1
+					cosignes.append(cosigne)
+		print chain1
+		print chain2
+		print count
+		feature_list.append((cosigne_sum + 0.0) / count)
+		feature_name_list.append("ave cosigne for nps in chains")
+		cosignes.sort()
+		feature_list.append(cosignes[0])
+		feature_name_list.append("min cosigne between words of 2 chains")
+		feature_list.append(cosignes[len(cosignes) - 1])
+		feature_name_list.append("max distance between words of 2 chains")
+		feature_list.append(cosignes[len(cosignes) / 2])
+		feature_name_list.append("median distance between words of 2 chains")
+		feature_list.append(cosignes[len(cosignes) / 4])
+		feature_name_list.append("quarter distance between words of 2 chains")
+		feature_list.append(cosignes[3 * (len(cosignes) / 4)])
+		feature_name_list.append("3rd quarter distance between words of 2 chains")
+		return (feature_list, feature_name_list)
 
-	def calc_merge_ave_dist(self, chain1, chain2):
+
+	def calc_merge_ave_dist(self, feature_list, feature_name_list, chain1, chain2): # changed to report more statistics
 		dist_sum = 0
 		count = 0
 		seen_pairs = []
+		distances = []
 		for np1 in chain1:
 			for np2 in chain2:
-				if np1+np2 not in seen_pairs:
+				if np1+np2 not in seen_pairs and np1 != np2:
 					seen_pairs.append(np1+np2)
 					seen_pairs.append(np2+np1)
-					dist_sum = dist_sum + self.find_nps_min_distance(np1, np2)
+					dist = self.find_nps_min_distance(np1, np2)
+					distances.append(dist)
+					dist_sum = dist_sum + dist
 					count = count + 1
+		feature_list.append((dist_sum + 0.0) / count)
+		feature_name_list.append("ave distance for nps in chains")
+		distances.sort()
+		feature_list.append(distances[0])
+		feature_name_list.append("min distance between words of 2 chains")
+		feature_list.append(distances[len(distances) - 1])
+		feature_name_list.append("max distance between words of 2 chains")
+		feature_list.append(distances[len(distances) / 2])
+		feature_name_list.append("median distance between words of 2 chains")
+		feature_list.append(distances[len(distances) / 4])
+		feature_name_list.append("quarter distance between words of 2 chains")
+		feature_list.append(distances[3 * (len(distances) / 4)])
+		feature_name_list.append("3rd quarter distance between words of 2 chains")
+		return (feature_list, feature_name_list)
 
-		return (dist_sum + 0.0) / count
+	def calc_merge_repeated_np(self, feature_list, feature_name_list, chain1, chain2):
+		chain1_repeats_count = 0
+		chain1_repeated_with_num_count = 0
+		chain2_repeats_count = 0
+		chain2_repeated_with_num_count = 0
 
+		for np1 in chain1 :
+			if np1 in self.repeated_noun_phrases:
+				chain1_repeats_count = chain1_repeats_count + 1
+				if np1 in self.noun_phrase_with_counts:
+					chain1_repeated_with_num_count = chain1_repeated_with_num_count + 1
+		for np2 in chain2:
+			if np2 in self.repeated_noun_phrases:
+				chain2_repeats_count = chain2_repeats_count + 1
+				if np2 in self.noun_phrase_with_counts:
+					chain1_repeated_with_num_count = chain2_repeated_with_num_count + 1
 
+		if chain1_repeats_count > 0 and chain2_repeats_count > 0:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("any np repeated in chain1 and any np repeated in chain2")
+		if chain1_repeats_count > 0 or chain2_repeats_count > 0:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("any np repeated in chain1 or any np repeated in chain2")
+		feature_list.append(chain1_repeats_count)
+		feature_name_list.append("chain1 num of repeats")
+		feature_list.append(chain2_repeats_count)
+		feature_name_list.append("chain2 num of repeats")
+		if chain1_repeated_with_num_count > 0 and chain2_repeated_with_num_count > 0:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("any np repeated with count in chain1 and any np repeated with count in chain2")
+		if chain1_repeated_with_num_count > 0 or chain2_repeated_with_num_count > 0:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("any np repeated with count in chain1 or any np repeated with count in chain2")
 
+		return (feature_list, feature_name_list)
 
 
 
