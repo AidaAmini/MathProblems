@@ -1,10 +1,11 @@
 from math_modifiers import math_modifiers
-
+import math
 
 
 class percenptron_data:
 	noun_phrase_list = []
 	unchained_np_list = []
+	driven_unchained_np_list = []
 	gold_chain_list = []
 	gold_disjoint_list = []
 	gold_subset_list = []
@@ -16,13 +17,17 @@ class percenptron_data:
 	word_vector = [[]]
 	word_list = []
 	repeated_noun_phrases = []
+	noun_phrases_in_question = []
 	whole_question = ''
+	question_strings = []
 	equivalence_relation_word_list = ['per', 'cost', 'equals', 'be', 'costs', 'equal', 'is', 'was', 'were', 'are', 'spend', 'spent', 'spends', 'for', 'a']
 
 	def __init(self):
 		self.noun_phrase_list = []
 		self.repeated_noun_phrases = []
+		self.noun_phrases_in_question = []
 		self.unchained_np_list = []
+		self.driven_unchained_np_list =[]
 		self.gold_chain_list = []
 		self.gold_subset_list =[]
 		self.gold_disjoint_list = []
@@ -31,14 +36,15 @@ class percenptron_data:
 		self.noun_phrase_with_counts = []
 		self.noun_phrase_with_counts_with_count = []
 		self.count_type_noun_phrase = []
-		self.word_vector = [[]]
-		self.word_list = []
 		self.whole_question = ''
+		self.question_strings = []
 
 	def destruct(self):
 		self.noun_phrase_list = []
+		self.noun_phrases_in_question = []
 		self.repeated_noun_phrases = []
 		self.unchained_np_list = []
+		self.driven_unchained_np_list = []
 		self.gold_chain_list = []
 		self.gold_subset_list =[]
 		self.gold_disjoint_list = []
@@ -47,9 +53,8 @@ class percenptron_data:
 		self.noun_phrase_with_counts = []
 		self.noun_phrase_with_counts_with_count = []
 		self.count_type_noun_phrase = []
-		self.word_vector = [[]]
-		self.word_list = []
 		self.whole_question = ''
+		self.question_strings = []
 
 
 	def read_noun_phrases(self, file_paht):
@@ -137,13 +142,52 @@ class percenptron_data:
 					break
 			if is_in_chains == False:
 				self.unchained_np_list.append(np)
+		self.driven_unchained_np_list = self.noun_phrase_list
 
 	def find_repeated_noun_phrases(self):
-		for noun_phrase in self.question_strings_np:
+		for noun_phrase in self.noun_phrase_list:
 			found_index = self.whole_question.find(noun_phrase) + 1
 			if self.whole_question.find(noun_phrase, found_index) > -1:
 				if noun_phrase not in self.repeated_noun_phrases:
 					self.repeated_noun_phrases.append(noun_phrase)
+
+	def find_noun_phrases_in_question(self, pos_file_name):
+		pos_file = open(pos_file_name, 'r')
+		pos_list = []
+		word_list = []
+		for line in pos_file:
+			parts = line[:-1].split('/')
+			pos_list.append(parts[1].lower())
+			word_list.append(parts[0].lower())
+		index = -1
+		if 'wrb' in pos_list:
+			index = pos_list.index('wrb')
+		while index > -1:
+			word_index = index + 1
+			new_word = ''
+			while word_index < len(pos_list) and pos_list[word_index] != 'nns':
+				if pos_list[word_index].startswith('nn'):
+					new_word = new_word + word_list[word_index] + ' '
+				word_index = word_index + 1
+			if word_index != len(pos_list):
+				new_word = new_word + word_list[word_index]
+			if new_word.endswith(' '):
+				new_word = new_word[:-1]
+			self.noun_phrases_in_question.append(new_word)
+			if 'wrb' in pos_list[index+1:]:
+				index = pos_list.index('wrb', index+1)
+			else:
+				index = -1
+
+		if len(self.noun_phrases_in_question) > 0:
+			return 	
+		for i in range (0, len(self.question_strings)):
+			sentence = self.question_strings[i].lower()
+			if '?' in sentence or (i == len(self.question_strings) -1):
+				for noun_phrase in self.noun_phrase_list:
+					if sentence.find(noun_phrase) > -1:
+						if noun_phrase not in self.noun_phrases_in_question:
+							self.noun_phrases_in_question.append(noun_phrase.lower())
 
 	def find_count_noun_stanford(self, file_name):
 		noun_phrase_with_counts = []
@@ -282,7 +326,7 @@ class percenptron_data:
 
 	def find_word_list(self, file_name, num_of_dimentions):
 		embedding_file = open(file_name, 'r')
-		for line in embedding_file:	
+		for line in embedding_file:
 			parts = line.split(' ')
 			self.word_list.append(parts[0])
 		self.word_vector = [[0.0]*num_of_dimentions for x in range(len(self.word_list))]
@@ -293,7 +337,6 @@ class percenptron_data:
 			for i in range(1, num_of_dimentions + 1):
 				self.word_vector[index][i-1] = float(parts[i])
 			index = index + 1
-
 
 	def find_nps_min_distance(self, np1, np2): # Should I do this for the heads as well
 		np1_index = self.whole_question.find(np1)
@@ -317,6 +360,10 @@ class percenptron_data:
 		input_file = open(file_name, 'r')
 		self.whole_question = input_file.readline().lower()
 
+	def read_question_strings(self, file_name): #checked
+		input_file = open(file_name, 'r')
+		for line in input_file:
+				self.question_strings.append(line.lower())
 
 	def find_if_any_equivalence_word_in_between(self, np1, np2): #Should consider the case of the heads
 		np1_index = self.whole_question.find(np1)
@@ -420,9 +467,9 @@ class percenptron_data:
 					cosigne_sum = cosigne_sum + cosigne
 					count = count + 1
 					cosignes.append(cosigne)
-		print chain1
-		print chain2
-		print count
+		# print chain1
+		# print chain2
+		# print count
 		feature_list.append((cosigne_sum + 0.0) / count)
 		feature_name_list.append("ave cosigne for nps in chains")
 		cosignes.sort()
@@ -467,6 +514,10 @@ class percenptron_data:
 		feature_list.append(distances[3 * (len(distances) / 4)])
 		feature_name_list.append("3rd quarter distance between words of 2 chains")
 		return (feature_list, feature_name_list)
+
+	def calc_merge_in_question(self, feature_list, feature_name_list, chain1, chain2):
+		chain1_has_in_question = False
+		chain2_has_in_question = False
 
 	def calc_merge_repeated_np(self, feature_list, feature_name_list, chain1, chain2):
 		chain1_repeats_count = 0
