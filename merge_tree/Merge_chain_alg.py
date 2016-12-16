@@ -2,7 +2,8 @@ from percenptron_data import percenptron_data
 from file_refrence import file_refrence
 from random import randint
 from scikit_test import scikit_module
-
+#area under persicion recall
+#maxF1
 class Merge_chain_alg:
 	train_problem_data = percenptron_data()
 	test_problem_data = percenptron_data()
@@ -42,6 +43,8 @@ class Merge_chain_alg:
 		feature_list, feature_names_list = self.train_problem_data.calc_merge_max_cosigne(feature_list, feature_names_list, chain1, chain2)
 		feature_list, feature_names_list = self.train_problem_data.calc_merge_ave_dist(feature_list, feature_names_list, chain1, chain2)
 		feature_list, feature_names_list = self.train_problem_data.calc_merge_repeated_np(feature_list, feature_names_list, chain1, chain2)
+		feature_list, feature_names_list = self.train_problem_data.calc_merge_same_head_feature(feature_list, feature_names_list, chain1, chain2)
+		feature_list, feature_names_list = self.train_problem_data.calc_merge_in_question(feature_list, feature_names_list, chain1, chain2)
 		
 		# result.append(self.train_problem_data.calc_merge_count_feature(chain1, chain2))
 		# result.append(self.train_problem_data.calc_merge_unit_features(chain1, chain2))
@@ -52,20 +55,20 @@ class Merge_chain_alg:
 		return (feature_list, feature_names_list)
 
 	def read_data_by_problem_index(self, problem_index, percenptron_data_structure):
+		percenptron_data_structure.read_whole_question(self.file_path_refrence.whole_question_path + str(problem_index) + self.file_lemma_suffix)
 		percenptron_data_structure.find_related_words_with_conjunction(self.file_path_refrence.stan_parse_file_path+str(problem_index)+ self.file_suffix)
 		percenptron_data_structure.read_noun_phrases(self.file_path_refrence.np_pos_path_entity + str(problem_index) + self.file_lemma_suffix)
 		percenptron_data_structure.read_question_strings(self.file_path_refrence.question_strings_path + str(problem_index) + self.file_lemma_suffix)
 		percenptron_data_structure.read_subsets(self.file_path_refrence.gold_subset_pair_paths + str(problem_index) + self.file_lemma_suffix)
 		percenptron_data_structure.read_disjoints(self.file_path_refrence.gold_disjoint_pair_path + str(problem_index) + self.file_lemma_suffix)
 		# self.question_prop.read_equvalence(self.file_path_refrence.gold_equivalence_pair_path + str(problem_index) + self.file_lemma_suffix)
+		percenptron_data_structure.find_noun_phrases_in_question(self.file_path_refrence.pos_tagging_file_path + str(problem_index) + self.file_lemma_suffix)
+		percenptron_data_structure.find_count_noun_stanford(self.file_path_refrence.pos_tagging_file_path+str(problem_index)+ self.file_lemma_suffix)
+		# self.train_problem_data.find_related_words_with_conjunction(self.file_path_refrence.stan_parse_file_path+str(problem_index)+ self.file_suffix)
+		percenptron_data_structure.find_repeated_noun_phrases()
 		percenptron_data_structure.find_gold_chains()
 		percenptron_data_structure.find_unchained_nps()
-		percenptron_data_structure.find_count_noun_stanford(self.file_path_refrence.stan_parse_file_path+str(problem_index)+ self.file_suffix)
-		# self.train_problem_data.find_related_words_with_conjunction(self.file_path_refrence.stan_parse_file_path+str(problem_index)+ self.file_suffix)
-		percenptron_data_structure.read_whole_question(self.file_path_refrence.whole_question_path + str(problem_index) + self.file_lemma_suffix)
-		percenptron_data_structure.find_repeated_noun_phrases()
-		percenptron_data_structure.find_noun_phrases_in_question(self.file_path_refrence.pos_tagging_file_path + str(problem_index) + self.file_lemma_suffix)
-		
+
 	# def do_the_inferences(self, problem_index, percenptron_data_structure):
 
 	# def merge_chains(self, i, j):
@@ -79,20 +82,29 @@ class Merge_chain_alg:
 		return sum
 
 	def write_features_for_classification_train(self, start_index, end_index, additional_train_pair, additional_train_pair_indexes):
+		self.log_file.write("train procedure started.\n")
 		x_train = []
 		y_train = []
 		train_chain_pairs = []
 		train_chain_pair_prob_index = []
 		output_file = open('train.txt', 'w')
 		for i in range(start_index, end_index):
+			self.log_file.write("processing problem: " + str(i) + "\n")
 			addidional_pairs_for_prob_index = []
 			for k in range(0, len(additional_train_pair_indexes)):
 				if additional_train_pair_indexes[k] == i:
 					addidional_pairs_for_prob_index.append(additional_train_pair[k])
+			self.log_file.write("additional pairs for problem " + str(i) + " is " + str(addidional_pairs_for_prob_index) + "\n")
 			self.train_problem_data.destruct()
 			if i in self.file_path_refrence.problematic_indexes:
 				continue
 			self.read_data_by_problem_index(i, self.train_problem_data)
+			self.log_file.write("problem text is " + str(self.train_problem_data.whole_question) + "\n")
+			self.log_file.write("problem noun_phrases are " + str(self.train_problem_data.noun_phrase_list) + "\n")
+			self.log_file.write("problem disjoints are " + str(self.train_problem_data.gold_disjoint_list) + "\n")
+			self.log_file.write("problem subsets are " + str(self.train_problem_data.gold_subset_list) + "\n")
+			self.log_file.write("problem chians are " + str(self.train_problem_data.gold_chain_list) + "\n")
+			self.log_file.write("problem unchained nps are " + str(self.train_problem_data.unchained_np_list) + "\n")
 			for i in range(0 , len(addidional_pairs_for_prob_index), 2):
 				chain1 = addidional_pairs_for_prob_index[i]
 				chain2 = addidional_pairs_for_prob_index[i+ 1]
@@ -254,23 +266,32 @@ class Merge_chain_alg:
 			self.log_file.write(str(j) + '  ' + self.feature_names_list[j] + '\n')	
 		for l in range(0, len(y_train)):
 			self.log_file.write(str(y_train[l]) + ' ')
-		self.log_file.write(' end \n')		
+		self.log_file.write(' end \n')
+		self.log_file.write("train chain pairs are :\n")
+		self.log_file.write(str(train_chain_pairs) + "\n")
 		return (x_train, y_train, train_chain_pairs, train_chain_pair_prob_index)
 
-	def train_procedure(self, problem_index):
-		num_of_iters = 0
-		self.read_data(problem_index)
-		while len(self.train_problem_data.driven_chains) > 2 and num_of_iters < 10:
-			for i in range (0, len(self.train_problem_data.driven_chains)):
-				for j in range (i + 1, len(self.train_problem_data.driven_chains)):
-					merge_features = self.find_merge_feature_vector()
-					score = self.dot_product(merge_features, self.merge_weight_vector)
-					if score >= self.merge_th:
-						self.merge_chains(i, j)
-			num_of_iters = num_of_iters + 1
+	# def train_procedure(self, problem_index):
+	# 	num_of_iters = 0
+	# 	self.read_data(problem_index)
+	# 	while len(self.train_problem_data.driven_chains) > 2 and num_of_iters < 10:
+	# 		for i in range (0, len(self.train_problem_data.driven_chains)):
+	# 			for j in range (i + 1, len(self.train_problem_data.driven_chains)):
+	# 				merge_features = self.find_merge_feature_vector()
+	# 				score = self.dot_product(merge_features, self.merge_weight_vector)
+	# 				if score >= self.merge_th:
+	# 					self.merge_chains(i, j)
+	# 		num_of_iters = num_of_iters + 1
 
 	def find_label(self, problem_data, chain1, chain2):
+		self.log_file.write("find_label is called.\n")
+		# self.log_file.write("problem string is " + str(problem_data.whole_question) + "\n")
+		self.log_file.write("chain 1 is " + str(chain1) + "\n")
+		self.log_file.write("chain 2 is " + str(chain2) + "\n")
 		merged_chain = []
+		if len(chain1) == 1 and len(chain2) == 1 and (chain1[0] in chain2[0] or chain2[0] in chain1[0]):
+			self.log_file.write("found label due to substrig in 1.\n")
+			return 1
 		for np1 in chain1:
 			merged_chain.append(np1)
 		for np2 in chain2:
@@ -282,23 +303,30 @@ class Merge_chain_alg:
 					flag = False
 					break
 			if flag == True:
+				self.log_file.write("found label is 1.\n")	
 				return 1
+		self.log_file.write("found label is 0.\n")
 		return 0
 
-	def choose_hard_pos_neg(self, y_classified, y_test, y_probs, chain_pair_list):
-		additional_train_pair = []
-		for i in range(0, len(y_test)):
-			if y_test[i] == 1 and y_classified[i] == 0:
-				if y_probs[i][0] > self.pos_th:
-					additional_train_pair.append(chain_pair_list[2*i])
-					additional_train_pair.append(chain_pair_list[2*i + 1])
-			if y_test[i] == 0 and y_classified[i] == 1:
-				if y_probs[i][1] > self.neg_th:
-					additional_train_pair.append(chain_pair_list[2*i])
-					additional_train_pair.append(chain_pair_list[2*i + 1])
-		return additional_train_pair
+	# def choose_hard_pos_neg(self, y_classified, y_test, y_probs, chain_pair_list):
+	# 	additional_train_pair = []
+	# 	for i in range(0, len(y_test)):
+	# 		if y_test[i] == 1 and y_classified[i] == 0:
+	# 			if y_probs[i][0] > self.pos_th:
+	# 				additional_train_pair.append(chain_pair_list[2*i])
+	# 				additional_train_pair.append(chain_pair_list[2*i + 1])
+	# 		if y_test[i] == 0 and y_classified[i] == 1:
+	# 			if y_probs[i][1] > self.neg_th:
+	# 				additional_train_pair.append(chain_pair_list[2*i])
+	# 				additional_train_pair.append(chain_pair_list[2*i + 1])
+	# 	return additional_train_pair
 
 	def merge_two_chains(self, problem_data, chain1, chain2):
+		self.log_file.write("merging 2 chains starts.\n")
+		self.log_file.write("problem driven chains are: " +  str(problem_data.driven_chains) + '\n')
+		self.log_file.write("problem driven unchained nps are: " +  str(problem_data.driven_unchained_np_list) + '\n')
+		self.log_file.write("chain 1 is: " + str(chain1) + "\n")
+		self.log_file.write("chain 2 is: " + str(chain2) + "\n")
 		if len(chain1) == 1:
 			if chain1[0] in problem_data.driven_unchained_np_list:
 				problem_data.driven_unchained_np_list.remove(chain1[0])
@@ -320,24 +348,41 @@ class Merge_chain_alg:
 		else:  # len(chain 1 == 1 and len chain2 > 1)
 			chain2_index = problem_data.driven_chains.index(chain2)
 			problem_data.driven_chains[chain2_index].append(chain1[0])
+		self.log_file.write("problem driven chains after merging are: " +  str(problem_data.driven_chains) + '\n')
+		self.log_file.write("problem driven unchained nps after merging are: " +  str(problem_data.driven_unchained_np_list) + '\n')
+		
 
-	def update_stats(self, y_test,y_classified ,tp, fp, tn, fn):
-		print y_test
-		print y_classified
-		for i in range(0, len(y_test)):
-			if y_test[i] == 0:
-				if y_classified[i] == 0:
-					tn = tn + 1
+	def update_stats(self, y_test,y_classified, y_probs, ths, tp, fp, tn, fn):
+		y_classes = []
+		for i in range(0, len(y_classified)):
+			y_classes.append(0)
+		self.log_file.write("updaing stats started.\n")
+		self.log_file.write("stats until now are tp : "  + str(tp) + " fp: " + str(fp) + " tn: " + str(tn) + " fn: " + str(fn) + "\n")
+		self.log_file.write("y_test is : " + str(y_test) + "\n")
+		self.log_file.write("y_classified is : " + str(y_classified) + "\n")
+		for j in range(0, len(ths)):
+			for i in range(0, len(y_classes)):
+				if y_probs[i][1] >= ths[j]:
+					y_classes[i] = 1
 				else:
-					fp = fp + 1
-			else:
-				if y_classified[i] == 1:
-					tp = tp + 1
+					y_classes[i] = 0
+			for i in range(0, len(y_test)):	
+				if y_test[i] == 0:
+					if y_classes[i] == 0:
+						tn[j] = tn[j] + 1
+					else:
+						fp[j] = fp[j] + 1
 				else:
-					fn = fn + 1
+					if y_classes[i] == 1:
+						tp[j] = tp[j] + 1
+					else:
+						fn[j] = fn[j] + 1
+		self.log_file.write("updated stats are tp : "  + str(tp) + " fp: " + str(fp) + " tn: " + str(tn) + " fn: " + str(fn) + "\n")
 		return (tp, fp, tn, fn)
 
-	def update_status_calc_measurements(self, problem_data, chain_pair_list, y_test, y_classified, y_probs, tp, fp, tn, fn):
+	def update_status_calc_measurements(self, problem_data, chain_pair_list, y_test, y_classified, y_probs, ths, tp, fp, tn, fn):
+		self.log_file.write("in update status function.\n")
+		self.log_file.write("stats until now are tp : "  + str(tp) + " fp: " + str(fp) + " tn: " + str(tn) + " fn: " + str(fn) + "\n")
 		additional_pairs = []
 		num_of_changes = 0
 		no_change_needed = True
@@ -346,6 +391,7 @@ class Merge_chain_alg:
 				no_change_needed = False
 				break
 		if no_change_needed == True:
+			self.log_file.write("no change needed.\n")
 			return (tp, fp, tn, fn, num_of_changes, [])
 		# no_change_detected = True
 		# for i in range(0, len(y_classified)):
@@ -360,6 +406,7 @@ class Merge_chain_alg:
 		for l in range(0, len(y_probs)):
 			merge_probs.append(y_probs[l][1])
 		max_index = merge_probs.index(max(merge_probs))
+
 		while(y_test[max_index] != 1):
 			#print 'while'
 			#print max_index
@@ -388,24 +435,27 @@ class Merge_chain_alg:
 		# 		if y_classified[i] == 1:
 		# 			self.merge_two_chains(problem_data, chain_pair_list[2*i], chain_pair_list[2*i +1])
 		# 			num_of_changes = num_of_changes + 1
-		tp, fp, tn, fn = self.update_stats(y_test,y_classified ,tp, fp, tn, fn)
+		tp, fp, tn, fn = self.update_stats(y_test,y_classified, y_probs, ths, tp, fp, tn, fn)
 		return (tp, fp, tn, fn, num_of_changes, additional_pairs)
 
-	def test_procedure_for_one_problem(self, problem_index, tp, tn, fp, fn):
+	def test_procedure_for_one_problem(self, problem_index, ths, tp, tn, fp, fn):
+		self.log_file.write("test procedure for problem " + str(problem_index) + " starts.\n")
+		self.log_file.write("stats until now are tp : "  + str(tp) + " fp: " + str(fp) + " tn: " + str(tn) + " fn: " + str(fn) + "\n")
 		self.test_problem_data.destruct()
 		if problem_index in self.file_path_refrence.problematic_indexes:
 			return (tp, fp, tn, fn, [])
 		self.read_data_by_problem_index(problem_index, self.test_problem_data)
-		#print "aaaaaaaaaaaa"
-		# #print 'akjhakhskajdlaksldkajlksjdaklhsfkjabvjb,alknlcamlkamnflajl'
-		# #print self.test_problem_data.noun_phrase_list
-		# #print self.test_problem_data.driven_unchained_np_list
+		self.log_file.write("problem text is " + str(self.test_problem_data.whole_question) + "\n")
+		self.log_file.write("problem noun_phrases are " + str(self.test_problem_data.noun_phrase_list) + "\n")
+		self.log_file.write("problem disjoints are " + str(self.test_problem_data.gold_disjoint_list) + "\n")
+		self.log_file.write("problem subsets are " + str(self.test_problem_data.gold_subset_list) + "\n")
+		self.log_file.write("problem chians are " + str(self.test_problem_data.gold_chain_list) + "\n")
+		self.log_file.write("problem unchained nps are " + str(self.test_problem_data.unchained_np_list) + "\n")
+		self.log_file.write("problem driven chains are " + str(self.test_problem_data.driven_unchained_np_list) + "\n")
+		self.log_file.write("problem driven unchained nps are " + str(self.test_problem_data.driven_unchained_np_list) + "\n")
 		num_of_changes = -1
 		while num_of_changes != 0:
-			#print "num_of_changes"
-			#print num_of_changes
-			#print self.test_problem_data.driven_chains
-			#print self.test_problem_data.driven_unchained_np_list
+			self.log_file.write("in while num_of_changes is " + str(num_of_changes) + "\n")
 			num_of_changes = 0
 			y_test = []
 			x_test = []
@@ -418,11 +468,9 @@ class Merge_chain_alg:
 						chain_pair_list.append(chain1)
 						chain_pair_list.append(chain2)
 						y_test.append(self.find_label(self.test_problem_data ,chain1 , chain2))
-			#print "aaaaaaaaaaaaa1111"
 			for l in range(0, len(y_test)):
 				self.log_file.write(str(y_test[l]) + ' ')
 			self.log_file.write(' end \n')
-			#print "aaaaaaaaaaaaa2222"
 			
 			for chain1 in self.test_problem_data.driven_chains:
 				for np in self.test_problem_data.driven_unchained_np_list:
@@ -434,7 +482,6 @@ class Merge_chain_alg:
 						chain_pair_list.append(chain1)
 						chain_pair_list.append(chain2)
 						y_test.append(self.find_label(self.test_problem_data ,chain1 , chain2))
-			#print "aaaaaaaaaaaaa3333"
 
 			for np1 in self.test_problem_data.driven_unchained_np_list:
 				for np2 in self.test_problem_data.driven_unchained_np_list:
@@ -448,35 +495,57 @@ class Merge_chain_alg:
 						chain_pair_list.append(chain1)
 						chain_pair_list.append(chain2)
 						y_test.append(self.find_label(self.test_problem_data ,chain1 , chain2))
+
 			#print "aaaaaaaaaaaaa44444"
 			y_classified, y_probs = self.scikit_train_module.random_forest_predict_by_prob(x_test)
+			self.log_file.write("pairs and feature lists are :\n")
+			for k in range(0, len(x_test)):
+				self.log_file.write("the pair is: " + str(chain_pair_list[2*k]) + "  ...  " + str(chain_pair_list[2*k +1]) + "\n")
+				self.log_file.write("x_test for pair is : " + str(x_test[k]) + "\n")
+				self.log_file.write("y_test for pair is : " + str(y_test[k]) + "\n")
+				self.log_file.write("y_classified for pair is : " + str(y_classified[k]) + '\n')
+				self.log_file.write("y_probs for pair is : " + str(y_probs[k]) + '\n')
 			#print "aaaaaaaaaaaaa5555"
 			# additional_train_pair = self.choose_hard_pos_neg(y_classified, y_test, y_probs, chain_pair_list)     
 			#print "aaaaaaaaaaaaa6666"
-			tp, fp, tn, fn, num_of_changes, additional_train_pair = self.update_status_calc_measurements(self.test_problem_data, chain_pair_list, y_test, y_classified, y_probs, tp, fp, tn, fn)
+			tp, fp, tn, fn, num_of_changes, additional_train_pair = self.update_status_calc_measurements(self.test_problem_data, chain_pair_list, y_test, y_classified, y_probs, ths, tp, fp, tn, fn)
+			self.log_file.write("additional pairs founded are : " + str(additional_train_pair) + "\n")
 			#print "aaaaaaaaaaaaa777777"
 			
 		return (tp, fp, tn, fn, additional_train_pair)
 
-	def report_measurements(self, tp, tn, fp, fn, iteration_num):
-		recall = (tp + 0.0)/(tp+fn)
-		percision = (tp + 0.0)/(tp+fp)
-		f1_score = 2* (((percision * recall)+ 0.0)/(recall + percision))
-		print "Recal for iteration number " + str(iteration_num) + " is: " + str(recall)
-		print "precision for iteration number " + str(iteration_num) + " is: " + str(percision)
-		print "F1 Score for iteration number " + str(iteration_num) + " is: " + str(f1_score)
+	def report_measurements(self, ths, tp, fp, tn, fn, iteration_num):
+		for i in range(0, len(ths)):
+			recall = (tp[i] + 0.0)/(tp[i]+fn[i])
+			percision = (tp[i] + 0.0)/(tp[i]+fp[i])
+			f1_score = 2* (((percision * recall)+ 0.0)/(recall + percision + 0.0001))
+			print "for th equal to " + str(ths[i])
+			print tp[i]
+			print fp[i]
+			print tn[i]
+			print fn[i]
+			print "Recal for iteration number " + str(iteration_num) + " is: " + str(recall)
+			print "precision for iteration number " + str(iteration_num) + " is: " + str(percision)
+			print "F1 Score for iteration number " + str(iteration_num) + " is: " + str(f1_score)
 
 
 	def iterative_train_procedure(self):
 		additional_train_pair = []
 		additional_train_pair_indexes = []
-		for i in range(0, 10):
+		for i in range(0, 2):
 			print i
 			self.log_file.write('iteration number ' + str(i) + '\n')
-			tp = 0
-			fp = 0
-			tn = 0
-			fn = 0
+			ths = []
+			tp = []
+			fp = []
+			tn = []
+			fn = []
+			for k in range(0, 100, 10):
+				tp.append(0)
+				fp.append(0)
+				tn.append(0)
+				fn.append(0)
+				ths.append((k+0.0) / 100)
 			start_index_train = 0
 			end_index_train = 0
 			start_index_test = 0
@@ -497,22 +566,26 @@ class Merge_chain_alg:
 			x_train, y_train, pair_list_train, prob_indexes_train = self.write_features_for_classification_train(start_index_train, end_index_train, additional_train_pair, additional_train_pair_indexes)
 			print 'step2'
 			self.scikit_train_module.random_forest_train(x_train, y_train)
+			self.log_file.write(str(self.scikit_train_module.random_forest_get_feature_importrance()) + "\n")
 			print 'step3'
+
 			for k in range(start_index_test, end_index_test):
 				#print 'k' + str(k)
-				tp, fp, tn, fn, adding_pairs = self.test_procedure_for_one_problem(k, tp, fp, tn, fn)
+				tp, fp, tn, fn, adding_pairs = self.test_procedure_for_one_problem(k, ths , tp, fp, tn, fn)
 				#print "11111"
 				self.log_file.write("After Test procedure" + str(k) + '\n')
-				self.log_file.write("tp" + str(tp) + '\n')
-				self.log_file.write("fp" + str(fp) + '\n')
-				self.log_file.write("tn" + str(tn) + '\n')
-				self.log_file.write("fn" + str(fn) + '\n')
+				for l in range(0, len(ths)):
+					self.log_file.write("for th of " + str(ths[l]) + " :\n")
+					self.log_file.write("tp" + str(tp[l]) + '\n')
+					self.log_file.write("fp" + str(fp[l]) + '\n')
+					self.log_file.write("tn" + str(tn[l]) + '\n')
+					self.log_file.write("fn" + str(fn[l]) + '\n')
 				for pair in adding_pairs:
 					#print "22222"
 					additional_train_pair.append(pair)
 					additional_train_pair_indexes.append(k)
 
-			self.report_measurements(tp, tn, fp, fn, i)
+			self.report_measurements(ths, tp, tn, fp, fn, i)
 
 
 

@@ -21,7 +21,7 @@ class scikit_module():
 		labels = self.random_forest_classifier.predict(X_test)
 		return (labels, probs)
 
-	def random_forest_get_feature_importrance():
+	def random_forest_get_feature_importrance(self):
 		return self.random_forest_classifier.feature_importances_
 
 # rng = np.random.RandomState(0)

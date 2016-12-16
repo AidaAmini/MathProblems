@@ -190,30 +190,36 @@ class percenptron_data:
 							self.noun_phrases_in_question.append(noun_phrase.lower())
 
 	def find_count_noun_stanford(self, file_name):
-		noun_phrase_with_counts = []
-		res_parsing_mode = []
 		input_file = open(file_name, 'r')
-		parse_text = input_file.readline()
-		index = parse_text.find('(CD');
-		while index >=0 :
-			parse_result = self.find_parsing_mode(file_name, index)
-			parantese_index = parse_text.find('(', index + 1)
-			if parse_result == 0:
-				if parse_text[parantese_index+5: parse_text.find(')', parantese_index+1)] not in self.noun_phrase_with_counts:
-					self.noun_phrase_with_counts.append(parse_text[parse_text.find(' ',parantese_index+5): parse_text.find(')', parantese_index+1)].lower())
-					self.count_type_noun_phrase.append(parse_result)
-					self.noun_phrase_with_counts_with_count.append(parse_text[parantese_index+5: parse_text.find(')', parantese_index+1)].lower())
-			elif parse_result == 1:
-				if parse_text[parantese_index+4: parse_text.find(')', parantese_index+1)] not in self.noun_phrase_with_counts:
-					self.noun_phrase_with_counts.append((parse_text[parse_text.find(' ',index +4): parse_text.find(')', index)]+" "+parse_text[parantese_index+4: parse_text.find(')', parantese_index+1)]).lower())
-					self.count_type_noun_phrase.append(parse_result)
-					self.noun_phrase_with_counts_with_count.append((parse_text[index +4: parse_text.find(')', index)]+" "+parse_text[parantese_index+4: parse_text.find(')', parantese_index+1)]).lower())
-			index = parse_text.find('(CD', index+1);
-		for i in range(0, len(self.noun_phrase_with_counts)):
-			if self.noun_phrase_with_counts[i].startswith(' '):
-				self.noun_phrase_with_counts[i] = self.noun_phrase_with_counts[i][1:]
+		words = []
+		pos_tags = []
+		#parsing input file 
+		for line in input_file:
+			line2 = line[:-1].lower().replace(' ', '').replace('?', '').replace('!', '')
+			parts = line2.split('/')
+			if parts[0].endswith('.'):
+				parts[0] = parts[0][:-1]
+			words.append(parts[0])
+			pos_tags.append(parts[1])
+			if '. ' in line or '? 'in line or '! ' in line:
+				words.append('.')
+				pos_tags.append('endOfSent')
 
-		return (noun_phrase_with_counts, res_parsing_mode)
+		for i in range(0, len(pos_tags)):
+			if pos_tags[i] == 'cd':
+				rest_noun = ''
+				i = i+1
+				while pos_tags[i].startswith('nn') or pos_tags[i].startswith('jj') or pos_tags[i] == 'pos' or pos_tags[i] == 'cd' or pos_tags[i] == 'cc' or words[i] in math_modifiers.modifier_element_list:
+					if words[i] not in math_modifiers.modifier_element_list:
+						rest_noun = words[i] + " "
+					i = i+ 1
+				rest_noun = rest_noun[:-1]
+				if rest_noun != '' and rest_noun not in self.noun_phrase_with_counts:
+					self.noun_phrase_with_counts.append(rest_noun)
+
+
+		# print self.whole_question
+		# print self.noun_phrase_with_counts
 
 	def find_parsing_mode(self, file_name, index):
 		parse_file = open(file_name, 'r')
@@ -353,7 +359,7 @@ class percenptron_data:
 				np1_index = self.whole_question.find(np1, np1_index + 1)
 		if min_distance > 7:
 			min_distance = 7
-		return min_distance
+		return (min_distance +0.0) / 7
 
 
 	def read_whole_question(self, file_name): #checked
@@ -383,16 +389,36 @@ class percenptron_data:
 				np1_index = self.whole_question.find(np1, np1_index + 1)
 		return 0
 
+	def parse_np(self, noun_phrase):
+		parts = noun_phrase.split(' ')
+		rest_parts = ''
+		head = parts[len(parts) - 1]
+		for i in range(0, len(parts)-1):
+			rest_parts = rest_parts + parts[i] + ' '
+		return (head, rest_parts[:-1])
+
 	def calc_merge_count_feature(self, feature_list, feature_name_list, chain1, chain2):
 		chain1_num_of_counts = 0
 		for np1 in chain1:
 			if np1 in self.noun_phrase_with_counts:
 				chain1_num_of_counts = chain1_num_of_counts + 1
+			if ' ' in np1:
+				parts = np1.split(' ')
+				if math_modifiers.is_word_number(parts[0]) ==  True:
+					rest_nount = np1[np1.index(' '):]
+					if rest_nount in self.noun_phrase_with_counts:
+						chain1_num_of_counts = chain1_num_of_counts + 1
 				
 		chain2_num_of_counts = 0
 		for np2 in chain2:
 			if np2 in self.noun_phrase_with_counts:
 				chain2_num_of_counts = chain2_num_of_counts + 1
+			if ' ' in np2:
+				parts = np2.split(' ')
+				if math_modifiers.is_word_number(parts[0]) ==  True:
+					rest_nount = np2[np2.index(' '):]
+					if rest_nount in self.noun_phrase_with_counts:
+						chain2_num_of_counts = chain2_num_of_counts + 1
 				
 		if chain1_num_of_counts > 0 and chain2_num_of_counts > 0:
 			feature_list.append(1)
@@ -414,6 +440,80 @@ class percenptron_data:
 		else:
 			feature_list.append(0)
 		feature_name_list.append("chain 1 or chain 2 has counts more than 2")
+		return (feature_list, feature_name_list)
+
+	def calc_merge_same_head_feature(self, feature_list, feature_name_list, chain1, chain2):
+		chain1_all_same_head = True
+		chain2_all_same_head = True
+		chain1np_chain2_share_head = False
+		chain2np_chain1_share_head = False
+		chain1_chain2_share_head = False
+		head_list_chain1 = []
+		head_list_chain2 = []
+		for np1 in chain1:
+			head_np1, modifier_np1 = self.parse_np(np1)
+			head_list_chain1.append(head_np1)
+		for np2 in chain2:
+			head_np2, modifier_np2 = self.parse_np(np2)
+			head_list_chain2.append(head_np2)
+		for i in range(0, len(head_list_chain1) - 1):
+			if head_list_chain1[i] != head_list_chain1[i+1]:
+				chain1_all_same_head = False
+				break
+		for i in range(0, len(head_list_chain2) - 1):
+			if head_list_chain2[i] != head_list_chain2[i+1]:
+				chain2_all_same_head = False
+				break
+		for head1 in head_list_chain1:
+			flag = True
+			for head2 in head_list_chain2:
+				if head1 != head2:
+					flag = False
+					break
+			if flag == True:
+				chain1np_chain2_share_head = True
+				break
+		for head2 in head_list_chain2:
+			flag = True
+			for head1 in head_list_chain1:
+				if head1 != head2:
+					flag = False
+					break
+			if flag == True:
+				chain2np_chain1_share_head = True
+				break
+		for head1 in head_list_chain1:
+			if chain1_chain2_share_head == True:
+				break
+			for head2 in head_list_chain2:
+				if head1 == head2:
+					chain1_chain2_share_head = True
+					break
+		if chain1_all_same_head == True or chain2_all_same_head == True:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 is all same head or chain2 is all same head")
+		if chain1_all_same_head == True and chain2_all_same_head == True:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 is all same head and chain2 is all same head")
+		if chain1np_chain2_share_head == True or chain2np_chain1_share_head:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 has a np that has same head with all chain 2 or vv.")
+		if chain1np_chain2_share_head == True and chain2np_chain1_share_head:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain 1 has a np that has same head with all chain 2 and vv.")
+		if chain1_chain2_share_head == True:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("chain1 and chain2 has some nps with same head")
 		return (feature_list, feature_name_list)
 
 	def calc_merge_unit_features(self, feature_list, feature_name_list, chain1, chain2):
@@ -518,6 +618,23 @@ class percenptron_data:
 	def calc_merge_in_question(self, feature_list, feature_name_list, chain1, chain2):
 		chain1_has_in_question = False
 		chain2_has_in_question = False
+		for np1 in chain1:
+			if np1 in self.noun_phrases_in_question:
+				chain1_has_in_question = True
+		for np2 in chain2 :
+			if np2 in self.noun_phrases_in_question:
+				chain2_has_in_question = True
+		if chain1_has_in_question == True and chain2_has_in_question == True:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("any np in chain 1 in question or any np in chain2 in question")
+		if chain1_has_in_question == True and chain2_has_in_question == True:
+			feature_list.append(1)
+		else:
+			feature_list.append(0)
+		feature_name_list.append("any np in chain 1 in question and any np in chain2 in question")
+		return (feature_list, feature_name_list)
 
 	def calc_merge_repeated_np(self, feature_list, feature_name_list, chain1, chain2):
 		chain1_repeats_count = 0
