@@ -95,6 +95,25 @@ class percenptron_data:
 			self.gold_subset_list.append(parts[0].lower())
 			self.gold_subset_list.append(parts[1].lower())
 
+	def read_gold_chains(self, file_name):
+		input_file = open(file_name, 'r')
+		for line in input_file:
+			line = line[:-1]
+			if '	' in line:
+				parts = line.split('	')
+				temp_chain = []
+				for part in parts:
+					temp_chain.append(part)
+				self.gold_chain_list.append(temp_chain)
+		# print self.gold_chain_list
+
+	def write_file_gold_chains(self, file_name):
+		output_file = open(file_name, 'w')
+		for chain in self.gold_chain_list:
+			for i in range(0, len(chain)-1):
+				output_file.write(chain[i]+ '	')
+			output_file.write(chain[len(chain) - 1] + '\n')
+
 	def find_gold_chains(self):
 		for i in range(0, len(self.gold_disjoint_list), 2):
 			np1 = self.gold_disjoint_list[i]
@@ -570,7 +589,7 @@ class percenptron_data:
 		# print chain1
 		# print chain2
 		# print count
-		feature_list.append((cosigne_sum + 0.0) / count)
+		feature_list.append((cosigne_sum + 0.0) / (count + 0.00001))
 		feature_name_list.append("ave cosigne for nps in chains")
 		cosignes.sort()
 		feature_list.append(cosignes[0])

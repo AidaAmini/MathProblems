@@ -10,6 +10,7 @@ class file_refrence:
 	ccg_parse_path = 'data/ccg_preprocessed/'
 	gold_entity_path = 'data/entities_preprocessed/'
 	gold_type_path = 'data/ans_preprocessed/'
+	gold_chian_path = 'data/chains/'
 	np_pos_path = 'data/np_pos/'
 	np_pos_path_entity = 'data/np_pos_entity/'
 	question_string_nps_relevant_np_type_path = 'data/np_preprocessed_no_article/'
