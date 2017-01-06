@@ -23,7 +23,11 @@ def read_names():
 
 def omit_names(question_strings_np, names_list):
 	result_list = []
+	print 'susan' in names_list
 	for np in question_strings_np:
+		print np
+		print np not in names_list
+
 		if np not in names_list and np not in result_list:
 			result_list.append(np)
 	return result_list
@@ -380,6 +384,9 @@ if __name__ =="__main__":
 		question_strings = find_question_strings(i)
 		input_file = open("data/np_pos_entity/" + str(i) + '.txt','r')
 		for np in input_file:
+			np = np.lstrip()
+			if np == '':
+				continue
 			if np[-2] == ',' or np[-2] == '.' or np[-2] == '!' or np[-2] == '?':
 				question_strings_nps.append(np[:-3].lower())
 			else:
@@ -404,6 +411,7 @@ if __name__ =="__main__":
 
 		# res_cost_omitted = omit_cost(res_q_string)
 		res_no_names = omit_names(res_no_ban_word, names_list)
+		print res_no_names
 		res_no_math_modifier = omit_math_modifiers(res_no_names)
 		res_no_modifier_in_end = omit_modifiers_from_the_end(res_no_math_modifier)
 		# res_no_number_in_beginning = omit_number_beginning_expect_question(res_no_modifier_in_end)
