@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (NN Hockey) (NNS teams))
+    (VP
+      (VBP receive)
+      (NP
+        (NP
+          (NP (CD 2) (NNS points))
+          (SBAR
+            (WHADVP (WRB when))
+            (S (NP (PRP they)) (VP (VBP win)))))
+        (CC and)
+        (NP
+          (NP (CD 1) (NN point))
+          (SBAR
+            (WHADVP (WRB when))
+            (S (NP (PRP they)) (VP (VBP tie)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP-TMP (CD 1) (NN season))
+    (, ,)
+    (NP (DT a) (NN team))
+    (VP
+      (VBD won)
+      (NP (DT a) (NN championship))
+      (PP (IN with) (NP (CD 60) (NNS points))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VBD won)
+      (ADVP (NP (CD 12) (NNS games)) (RBR more))
+      (SBAR (IN than) (S (NP (PRP they)) (VP (VBD tied)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNS wins)) (CC and) (NP (NNS ties))))
+    (SQ (VBD did) (NP (DT the) (NN team)) (VP (VB have)))
+    (. ?)))

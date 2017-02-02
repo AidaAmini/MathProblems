@@ -1,0 +1,16 @@
+1
+[['job', '-', 'hour', '-', '-', 'dollar', '416'], ['office', '2*x1', 'hour', 'dollar', '10', '-', '-'], ['tractor', 'x1', 'hour', 'dollar', '12', '-', '-']]
+-1
+[['job', '-', 'hour', '-', '-', 'x1', '416'], ['office', '2*x1', 'hour', 'dollar', '10', '-', '-'], ['tractor', 'x1', 'job', 'dollar', '12', '416', '-']]
+-1
+[['x1', '-', 'hour', '-', 'tractor', 'dollar', '12'], ['office', '2*x1', 'hour', 'dollar', '10', '-', '-'], ['tractor', 'x1', 'hour', 'dollar', '12', '-', '-']]
+-1
+[['job', 'hour', '12', '-', 'tractor', 'dollar', 'x1'], ['office', '2*x1', 'hour', 'dollar', '10', '-', '-'], ['tractor', 'x1', 'job', 'dollar', '12', '-', '-']]
+-1
+[['job', 'hour', 'tractor', 'x1', '-', 'dollar', '416'], ['office', '2*x1', 'hour', 'dollar', '10', '-', '-'], ['tractor', 'x1', 'hour', 'dollar', '12', '416', '-']]
+-1
+[['12', '-', 'hour', 'job', '-', 'dollar', '416'], ['office', '2*x1', 'hour', 'dollar', '10', '-', '-'], ['416', 'x1', 'hour', 'dollar', '12', 'job', '-']]
+-1
+[['job', '-', 'hour', '12', '-', 'dollar', '416'], ['office', '2*x1', 'hour', 'dollar', '10', '-', '-'], ['tractor', 'x1', 'hour', 'dollar', '12', '-', '-']]
+-1
+[['12', 'x1', 'hour', '-', 'tractor', 'dollar', '416'], ['office', '2*x1', 'hour', 'dollar', '10', '-', '-'], ['tractor', 'x1', 'hour', 'job', '12', 'dollar', '-']]

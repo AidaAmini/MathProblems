@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 27) (NNS students))
+        (PP (IN in) (NP (DT an) (NNP Algebra) (CD 1) (NN class)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 5) (JJR fewer) (NNS girls))
+        (PP (IN than) (NP (NNS boys)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS girls))
+    (SQ (VBP are) (PP (IN in) (NP (DT the) (NN class))))
+    (. ?)))

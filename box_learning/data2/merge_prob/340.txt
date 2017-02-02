@@ -1,0 +1,1383 @@
+['juan and peter', 'shopping center', 'opposite direction', 'direction', 'bike and travels', '3 mile', 'hour', 'skateboard', '1.5 hour', 'mile', '19.5 mile', 'peter travel']
+['juan and peter']	['shopping center']	0.0988755105172
+['juan and peter']	['opposite direction']	0.0988755105172
+['juan and peter']	['direction']	0.0865519868472
+['juan and peter']	['bike and travels']	0.107526100904
+['juan and peter']	['3 mile']	0.0988755105172
+['juan and peter']	['hour']	0.00920098131694
+['juan and peter']	['skateboard']	0.0888261649569
+['juan and peter']	['1.5 hour']	0.0988755105172
+['juan and peter']	['mile']	0.012852508684
+['juan and peter']	['19.5 mile']	0.0988755105172
+['juan and peter']	['peter travel']	0.0988755105172
+['shopping center']	['opposite direction']	0.0901100077042
+['shopping center']	['direction']	0.076067179124
+['shopping center']	['bike and travels']	0.102910980826
+['shopping center']	['3 mile']	0.0901100077042
+['shopping center']	['hour']	0.00424649792755
+['shopping center']	['skateboard']	0.0744376594044
+['shopping center']	['1.5 hour']	0.0901100077042
+['shopping center']	['mile']	0.0132263547461
+['shopping center']	['19.5 mile']	0.0901100077042
+['shopping center']	['peter travel']	0.0827346205535
+['opposite direction']	['bike and travels']	0.096515242987
+['opposite direction']	['3 mile']	0.0827346205535
+['opposite direction']	['hour']	0.00424649792755
+['opposite direction']	['skateboard']	0.0777864840342
+['opposite direction']	['1.5 hour']	0.0901100077042
+['opposite direction']	['mile']	0.0143499502517
+['opposite direction']	['19.5 mile']	0.0901100077042
+['opposite direction']	['peter travel']	0.0800317642921
+['direction']	['bike and travels']	0.100862937951
+['direction']	['3 mile']	0.0793857959237
+['direction']	['hour']	0.0162282525636
+['direction']	['skateboard']	0.148803899434
+['direction']	['1.5 hour']	0.0854147342737
+['direction']	['mile']	0.0348865190937
+['direction']	['19.5 mile']	0.0793857959237
+['direction']	['peter travel']	0.0800317642921
+['bike and travels']	['3 mile']	0.0988755105172
+['bike and travels']	['hour']	0.0138938978606
+['bike and travels']	['skateboard']	0.19618077388
+['bike and travels']	['1.5 hour']	0.0988755105172
+['bike and travels']	['mile']	0.0175454252276
+['bike and travels']	['19.5 mile']	0.0988755105172
+['bike and travels']	['peter travel']	0.0915001233665
+['3 mile']	['hour']	0.00424649792755
+['3 mile']	['skateboard']	0.0854506877194
+['3 mile']	['1.5 hour']	0.0901100077042
+['3 mile']	['19.5 mile']	0.643440930505
+['3 mile']	['peter travel']	0.0827346205535
+['hour']	['skateboard']	0.0185362789452
+['hour']	['mile']	0.135096264125
+['hour']	['19.5 mile']	0.00424565569655
+['hour']	['peter travel']	0.00424565569655
+['skateboard']	['1.5 hour']	0.0901100077042
+['skateboard']	['mile']	0.0348865190937
+['skateboard']	['19.5 mile']	0.0901100077042
+['skateboard']	['peter travel']	0.190477210406
+['1.5 hour']	['mile']	0.0152046511064
+['1.5 hour']	['19.5 mile']	0.0901100077042
+['1.5 hour']	['peter travel']	0.0901100077042
+['mile']	['peter travel']	0.0160076877108
+['19.5 mile']	['peter travel']	0.0901100077042
+['shopping center', 'juan and peter']	['opposite direction']	0.15961386663
+['shopping center', 'juan and peter']	['direction']	0.14394151833
+['shopping center', 'juan and peter']	['bike and travels']	0.162290995256
+['shopping center', 'juan and peter']	['3 mile']	0.15961386663
+['shopping center', 'juan and peter']	['hour']	0.00636410188432
+['shopping center', 'juan and peter']	['skateboard']	0.14394151833
+['shopping center', 'juan and peter']	['1.5 hour']	0.15961386663
+['shopping center', 'juan and peter']	['mile']	0.012852508684
+['shopping center', 'juan and peter']	['19.5 mile']	0.15961386663
+['shopping center', 'juan and peter']	['peter travel']	0.152238479479
+['opposite direction', 'juan and peter']	['shopping center']	0.152238479479
+['opposite direction', 'juan and peter']	['direction']	0.682165552944
+['opposite direction', 'juan and peter']	['bike and travels']	0.156579181386
+['opposite direction', 'juan and peter']	['3 mile']	0.152238479479
+['opposite direction', 'juan and peter']	['hour']	0.00636410188432
+['opposite direction', 'juan and peter']	['skateboard']	0.14729034296
+['opposite direction', 'juan and peter']	['1.5 hour']	0.15961386663
+['opposite direction', 'juan and peter']	['mile']	0.012852508684
+['opposite direction', 'juan and peter']	['19.5 mile']	0.15961386663
+['opposite direction', 'juan and peter']	['peter travel']	0.152884447848
+['direction', 'juan and peter']	['shopping center']	0.0833805889219
+['direction', 'juan and peter']	['opposite direction']	0.662166898088
+['direction', 'juan and peter']	['bike and travels']	0.096515242987
+['direction', 'juan and peter']	['3 mile']	0.0827346205535
+['direction', 'juan and peter']	['hour']	0.196566782805
+['direction', 'juan and peter']	['skateboard']	0.707544503257
+['direction', 'juan and peter']	['1.5 hour']	0.0871340391838
+['direction', 'juan and peter']	['mile']	0.344498263365
+['direction', 'juan and peter']	['19.5 mile']	0.0827346205535
+['direction', 'juan and peter']	['peter travel']	0.0833805889219
+['bike and travels', 'juan and peter']	['shopping center']	0.0921460917349
+['bike and travels', 'juan and peter']	['opposite direction']	0.0988755105172
+['bike and travels', 'juan and peter']	['direction']	0.0847746021728
+['bike and travels', 'juan and peter']	['3 mile']	0.0988755105172
+['bike and travels', 'juan and peter']	['hour']	0.00920098131694
+['bike and travels', 'juan and peter']	['skateboard']	0.22399132044
+['bike and travels', 'juan and peter']	['1.5 hour']	0.0988755105172
+['bike and travels', 'juan and peter']	['mile']	0.012852508684
+['bike and travels', 'juan and peter']	['19.5 mile']	0.0988755105172
+['bike and travels', 'juan and peter']	['peter travel']	0.0915001233665
+['3 mile', 'juan and peter']	['shopping center']	0.152238479479
+['3 mile', 'juan and peter']	['opposite direction']	0.152238479479
+['3 mile', 'juan and peter']	['direction']	0.14394151833
+['3 mile', 'juan and peter']	['bike and travels']	0.156579181386
+['3 mile', 'juan and peter']	['hour']	0.00636410188432
+['3 mile', 'juan and peter']	['skateboard']	0.14956452107
+['3 mile', 'juan and peter']	['1.5 hour']	0.15961386663
+['3 mile', 'juan and peter']	['mile']	0.486690197903
+['3 mile', 'juan and peter']	['19.5 mile']	0.653642048458
+['3 mile', 'juan and peter']	['peter travel']	0.152238479479
+['hour', 'juan and peter']	['shopping center']	0.015360451052
+['hour', 'juan and peter']	['opposite direction']	0.0154105889865
+['hour', 'juan and peter']	['direction']	0.241171873018
+['hour', 'juan and peter']	['bike and travels']	0.0186336624133
+['hour', 'juan and peter']	['3 mile']	0.0160064194205
+['hour', 'juan and peter']	['skateboard']	0.271463827652
+['hour', 'juan and peter']	['1.5 hour']	0.320264223186
+['hour', 'juan and peter']	['mile']	0.372998066748
+['hour', 'juan and peter']	['19.5 mile']	0.0160064194205
+['hour', 'juan and peter']	['peter travel']	0.015360451052
+['skateboard', 'juan and peter']	['shopping center']	0.0901100077042
+['skateboard', 'juan and peter']	['opposite direction']	0.0827346205535
+['skateboard', 'juan and peter']	['direction']	0.695921359376
+['skateboard', 'juan and peter']	['bike and travels']	0.217670826063
+['skateboard', 'juan and peter']	['3 mile']	0.0901100077042
+['skateboard', 'juan and peter']	['hour']	0.196566782805
+['skateboard', 'juan and peter']	['1.5 hour']	0.0901100077042
+['skateboard', 'juan and peter']	['mile']	0.339195233062
+['skateboard', 'juan and peter']	['19.5 mile']	0.0901100077042
+['skateboard', 'juan and peter']	['peter travel']	0.205231825396
+['1.5 hour', 'juan and peter']	['shopping center']	0.15961386663
+['1.5 hour', 'juan and peter']	['opposite direction']	0.15961386663
+['1.5 hour', 'juan and peter']	['direction']	0.157524317915
+['1.5 hour', 'juan and peter']	['bike and travels']	0.161708668161
+['1.5 hour', 'juan and peter']	['3 mile']	0.15961386663
+['1.5 hour', 'juan and peter']	['hour']	0.356853044081
+['1.5 hour', 'juan and peter']	['skateboard']	0.14956452107
+['1.5 hour', 'juan and peter']	['mile']	0.0139761041896
+['1.5 hour', 'juan and peter']	['19.5 mile']	0.15961386663
+['1.5 hour', 'juan and peter']	['peter travel']	0.15961386663
+['mile', 'juan and peter']	['shopping center']	0.0351005911342
+['mile', 'juan and peter']	['opposite direction']	0.0351005911342
+['mile', 'juan and peter']	['direction']	0.441324878239
+['mile', 'juan and peter']	['bike and travels']	0.0420694982328
+['mile', 'juan and peter']	['3 mile']	0.377435922145
+['mile', 'juan and peter']	['hour']	0.372998066748
+['mile', 'juan and peter']	['skateboard']	0.457581745154
+['mile', 'juan and peter']	['1.5 hour']	0.0357465595026
+['mile', 'juan and peter']	['19.5 mile']	0.417204941051
+['mile', 'juan and peter']	['peter travel']	0.0351005911342
+['19.5 mile', 'juan and peter']	['shopping center']	0.15961386663
+['19.5 mile', 'juan and peter']	['opposite direction']	0.15961386663
+['19.5 mile', 'juan and peter']	['direction']	0.14394151833
+['19.5 mile', 'juan and peter']	['bike and travels']	0.161708668161
+['19.5 mile', 'juan and peter']	['3 mile']	0.653642048458
+['19.5 mile', 'juan and peter']	['hour']	0.00636410188432
+['19.5 mile', 'juan and peter']	['skateboard']	0.14956452107
+['19.5 mile', 'juan and peter']	['1.5 hour']	0.15961386663
+['19.5 mile', 'juan and peter']	['mile']	0.470339591612
+['19.5 mile', 'juan and peter']	['peter travel']	0.15961386663
+['peter travel', 'juan and peter']	['shopping center']	0.152238479479
+['peter travel', 'juan and peter']	['opposite direction']	0.152884447848
+['peter travel', 'juan and peter']	['direction']	0.14394151833
+['peter travel', 'juan and peter']	['bike and travels']	0.156579181386
+['peter travel', 'juan and peter']	['3 mile']	0.152238479479
+['peter travel', 'juan and peter']	['hour']	0.00636410188432
+['peter travel', 'juan and peter']	['skateboard']	0.284729676552
+['peter travel', 'juan and peter']	['1.5 hour']	0.15961386663
+['peter travel', 'juan and peter']	['mile']	0.012852508684
+['peter travel', 'juan and peter']	['19.5 mile']	0.15961386663
+['juan and peter', 'shopping center']	['opposite direction']	0.15961386663
+['juan and peter', 'shopping center']	['direction']	0.14394151833
+['juan and peter', 'shopping center']	['bike and travels']	0.162290995256
+['juan and peter', 'shopping center']	['3 mile']	0.15961386663
+['juan and peter', 'shopping center']	['hour']	0.00636410188432
+['juan and peter', 'shopping center']	['skateboard']	0.14394151833
+['juan and peter', 'shopping center']	['1.5 hour']	0.15961386663
+['juan and peter', 'shopping center']	['mile']	0.012852508684
+['juan and peter', 'shopping center']	['19.5 mile']	0.15961386663
+['juan and peter', 'shopping center']	['peter travel']	0.152238479479
+['opposite direction', 'shopping center']	['juan and peter']	0.0941266761548
+['opposite direction', 'shopping center']	['direction']	0.689644934024
+['opposite direction', 'shopping center']	['bike and travels']	0.102910980826
+['opposite direction', 'shopping center']	['3 mile']	0.0827346205535
+['opposite direction', 'shopping center']	['hour']	0.00424649792755
+['opposite direction', 'shopping center']	['skateboard']	0.0744376594044
+['opposite direction', 'shopping center']	['1.5 hour']	0.0901100077042
+['opposite direction', 'shopping center']	['mile']	0.0143499502517
+['opposite direction', 'shopping center']	['19.5 mile']	0.0901100077042
+['opposite direction', 'shopping center']	['peter travel']	0.0800317642921
+['direction', 'shopping center']	['juan and peter']	0.0887553862424
+['direction', 'shopping center']	['opposite direction']	0.707594685938
+['direction', 'shopping center']	['bike and travels']	0.100862937951
+['direction', 'shopping center']	['3 mile']	0.0827346205535
+['direction', 'shopping center']	['hour']	0.21019112143
+['direction', 'shopping center']	['skateboard']	0.688363780537
+['direction', 'shopping center']	['1.5 hour']	0.0871340391838
+['direction', 'shopping center']	['mile']	0.325845606684
+['direction', 'shopping center']	['19.5 mile']	0.0827346205535
+['direction', 'shopping center']	['peter travel']	0.0800317642921
+['bike and travels', 'shopping center']	['juan and peter']	0.161708668161
+['bike and travels', 'shopping center']	['opposite direction']	0.15961386663
+['bike and travels', 'shopping center']	['direction']	0.148895610151
+['bike and travels', 'shopping center']	['3 mile']	0.15961386663
+['bike and travels', 'shopping center']	['hour']	0.00636410188432
+['bike and travels', 'shopping center']	['skateboard']	0.318400959459
+['bike and travels', 'shopping center']	['1.5 hour']	0.15961386663
+['bike and travels', 'shopping center']	['mile']	0.012852508684
+['bike and travels', 'shopping center']	['19.5 mile']	0.15961386663
+['bike and travels', 'shopping center']	['peter travel']	0.152238479479
+['3 mile', 'shopping center']	['juan and peter']	0.0941266761548
+['3 mile', 'shopping center']	['opposite direction']	0.0827346205535
+['3 mile', 'shopping center']	['direction']	0.0755560742463
+['3 mile', 'shopping center']	['bike and travels']	0.096515242987
+['3 mile', 'shopping center']	['hour']	0.00424649792755
+['3 mile', 'shopping center']	['skateboard']	0.0764053905195
+['3 mile', 'shopping center']	['1.5 hour']	0.0901100077042
+['3 mile', 'shopping center']	['mile']	0.402169535939
+['3 mile', 'shopping center']	['19.5 mile']	0.584269096576
+['3 mile', 'shopping center']	['peter travel']	0.0827346205535
+['hour', 'shopping center']	['juan and peter']	0.0163189992404
+['hour', 'shopping center']	['opposite direction']	0.0154105889865
+['hour', 'shopping center']	['direction']	0.313645193797
+['hour', 'shopping center']	['bike and travels']	0.0208571041899
+['hour', 'shopping center']	['3 mile']	0.0160064194205
+['hour', 'shopping center']	['skateboard']	0.274662480851
+['hour', 'shopping center']	['1.5 hour']	0.318744074959
+['hour', 'shopping center']	['mile']	0.353289072039
+['hour', 'shopping center']	['19.5 mile']	0.0160064194205
+['hour', 'shopping center']	['peter travel']	0.015360451052
+['skateboard', 'shopping center']	['juan and peter']	0.0887553862424
+['skateboard', 'shopping center']	['opposite direction']	0.0827346205535
+['skateboard', 'shopping center']	['direction']	0.706518723742
+['skateboard', 'shopping center']	['bike and travels']	0.213647622631
+['skateboard', 'shopping center']	['3 mile']	0.0901100077042
+['skateboard', 'shopping center']	['hour']	0.21019112143
+['skateboard', 'shopping center']	['1.5 hour']	0.0901100077042
+['skateboard', 'shopping center']	['mile']	0.320542576381
+['skateboard', 'shopping center']	['19.5 mile']	0.0901100077042
+['skateboard', 'shopping center']	['peter travel']	0.220910610128
+['1.5 hour', 'shopping center']	['juan and peter']	0.0941266761548
+['1.5 hour', 'shopping center']	['opposite direction']	0.0901100077042
+['1.5 hour', 'shopping center']	['direction']	0.0896499787083
+['1.5 hour', 'shopping center']	['bike and travels']	0.096515242987
+['1.5 hour', 'shopping center']	['3 mile']	0.0901100077042
+['1.5 hour', 'shopping center']	['hour']	0.244630235131
+['1.5 hour', 'shopping center']	['skateboard']	0.0744376594044
+['1.5 hour', 'shopping center']	['mile']	0.0143499502517
+['1.5 hour', 'shopping center']	['19.5 mile']	0.0901100077042
+['1.5 hour', 'shopping center']	['peter travel']	0.0827346205535
+['mile', 'shopping center']	['juan and peter']	0.0410777933861
+['mile', 'shopping center']	['opposite direction']	0.0361569291624
+['mile', 'shopping center']	['direction']	0.516898486402
+['mile', 'shopping center']	['bike and travels']	0.0468568647332
+['mile', 'shopping center']	['3 mile']	0.397268490074
+['mile', 'shopping center']	['hour']	0.386622405372
+['mile', 'shopping center']	['skateboard']	0.461903993858
+['mile', 'shopping center']	['1.5 hour']	0.0368028975308
+['mile', 'shopping center']	['19.5 mile']	0.442012633359
+['mile', 'shopping center']	['peter travel']	0.0361569291624
+['19.5 mile', 'shopping center']	['juan and peter']	0.0941266761548
+['19.5 mile', 'shopping center']	['opposite direction']	0.0901100077042
+['19.5 mile', 'shopping center']	['direction']	0.0755560742463
+['19.5 mile', 'shopping center']	['bike and travels']	0.096515242987
+['19.5 mile', 'shopping center']	['3 mile']	0.584269096576
+['19.5 mile', 'shopping center']	['hour']	0.00424649792755
+['19.5 mile', 'shopping center']	['skateboard']	0.0764053905195
+['19.5 mile', 'shopping center']	['1.5 hour']	0.0901100077042
+['19.5 mile', 'shopping center']	['mile']	0.500847544769
+['19.5 mile', 'shopping center']	['peter travel']	0.0827346205535
+['peter travel', 'shopping center']	['juan and peter']	0.0941266761548
+['peter travel', 'shopping center']	['opposite direction']	0.0833805889219
+['peter travel', 'shopping center']	['direction']	0.0829886173223
+['peter travel', 'shopping center']	['bike and travels']	0.0951341494723
+['peter travel', 'shopping center']	['3 mile']	0.0827346205535
+['peter travel', 'shopping center']	['hour']	0.00424649792755
+['peter travel', 'shopping center']	['skateboard']	0.240133114847
+['peter travel', 'shopping center']	['1.5 hour']	0.0901100077042
+['peter travel', 'shopping center']	['mile']	0.0132263547461
+['peter travel', 'shopping center']	['19.5 mile']	0.0901100077042
+['juan and peter', 'opposite direction']	['shopping center']	0.152238479479
+['juan and peter', 'opposite direction']	['direction']	0.682165552944
+['juan and peter', 'opposite direction']	['bike and travels']	0.156579181386
+['juan and peter', 'opposite direction']	['3 mile']	0.152238479479
+['juan and peter', 'opposite direction']	['hour']	0.00636410188432
+['juan and peter', 'opposite direction']	['skateboard']	0.14729034296
+['juan and peter', 'opposite direction']	['1.5 hour']	0.15961386663
+['juan and peter', 'opposite direction']	['mile']	0.012852508684
+['juan and peter', 'opposite direction']	['19.5 mile']	0.15961386663
+['juan and peter', 'opposite direction']	['peter travel']	0.152884447848
+['shopping center', 'opposite direction']	['juan and peter']	0.0941266761548
+['shopping center', 'opposite direction']	['direction']	0.689644934024
+['shopping center', 'opposite direction']	['bike and travels']	0.102910980826
+['shopping center', 'opposite direction']	['3 mile']	0.0827346205535
+['shopping center', 'opposite direction']	['hour']	0.00424649792755
+['shopping center', 'opposite direction']	['skateboard']	0.0744376594044
+['shopping center', 'opposite direction']	['1.5 hour']	0.0901100077042
+['shopping center', 'opposite direction']	['mile']	0.0143499502517
+['shopping center', 'opposite direction']	['19.5 mile']	0.0901100077042
+['shopping center', 'opposite direction']	['peter travel']	0.0800317642921
+['direction', 'opposite direction']	['juan and peter']	0.304368981852
+['direction', 'opposite direction']	['shopping center']	0.235828704155
+['direction', 'opposite direction']	['bike and travels']	0.418449519329
+['direction', 'opposite direction']	['3 mile']	0.241577755594
+['direction', 'opposite direction']	['hour']	0.452038163277
+['direction', 'opposite direction']	['skateboard']	0.733406136323
+['direction', 'opposite direction']	['1.5 hour']	0.235702673466
+['direction', 'opposite direction']	['mile']	0.446476662307
+['direction', 'opposite direction']	['19.5 mile']	0.237223524492
+['direction', 'opposite direction']	['peter travel']	0.221793616436
+['bike and travels', 'opposite direction']	['juan and peter']	0.161708668161
+['bike and travels', 'opposite direction']	['shopping center']	0.149535623218
+['bike and travels', 'opposite direction']	['direction']	0.684948358374
+['bike and travels', 'opposite direction']	['3 mile']	0.152238479479
+['bike and travels', 'opposite direction']	['hour']	0.00636410188432
+['bike and travels', 'opposite direction']	['skateboard']	0.325322397657
+['bike and travels', 'opposite direction']	['1.5 hour']	0.15961386663
+['bike and travels', 'opposite direction']	['mile']	0.012852508684
+['bike and travels', 'opposite direction']	['19.5 mile']	0.15961386663
+['bike and travels', 'opposite direction']	['peter travel']	0.151503354333
+['3 mile', 'opposite direction']	['juan and peter']	0.0941266761548
+['3 mile', 'opposite direction']	['shopping center']	0.0827346205535
+['3 mile', 'opposite direction']	['direction']	0.612081485761
+['3 mile', 'opposite direction']	['bike and travels']	0.0908034291173
+['3 mile', 'opposite direction']	['hour']	0.00424649792755
+['3 mile', 'opposite direction']	['skateboard']	0.0777864840342
+['3 mile', 'opposite direction']	['1.5 hour']	0.0901100077042
+['3 mile', 'opposite direction']	['mile']	0.402169535939
+['3 mile', 'opposite direction']	['19.5 mile']	0.584269096576
+['3 mile', 'opposite direction']	['peter travel']	0.0833805889219
+['hour', 'opposite direction']	['juan and peter']	0.0163189992404
+['hour', 'opposite direction']	['shopping center']	0.015360451052
+['hour', 'opposite direction']	['direction']	0.45686296046
+['hour', 'opposite direction']	['bike and travels']	0.0208571041899
+['hour', 'opposite direction']	['3 mile']	0.0160064194205
+['hour', 'opposite direction']	['skateboard']	0.245537901727
+['hour', 'opposite direction']	['1.5 hour']	0.318744074959
+['hour', 'opposite direction']	['mile']	0.386622405372
+['hour', 'opposite direction']	['19.5 mile']	0.0160064194205
+['hour', 'opposite direction']	['peter travel']	0.0160064194205
+['skateboard', 'opposite direction']	['juan and peter']	0.0887553862424
+['skateboard', 'opposite direction']	['shopping center']	0.0827346205535
+['skateboard', 'opposite direction']	['direction']	0.823959497837
+['skateboard', 'opposite direction']	['bike and travels']	0.245535691511
+['skateboard', 'opposite direction']	['3 mile']	0.0827346205535
+['skateboard', 'opposite direction']	['hour']	0.278048264287
+['skateboard', 'opposite direction']	['1.5 hour']	0.0901100077042
+['skateboard', 'opposite direction']	['mile']	0.353943167192
+['skateboard', 'opposite direction']	['19.5 mile']	0.0901100077042
+['skateboard', 'opposite direction']	['peter travel']	0.215434436382
+['1.5 hour', 'opposite direction']	['juan and peter']	0.0941266761548
+['1.5 hour', 'opposite direction']	['shopping center']	0.0827346205535
+['1.5 hour', 'opposite direction']	['direction']	0.689644934024
+['1.5 hour', 'opposite direction']	['bike and travels']	0.0908034291173
+['1.5 hour', 'opposite direction']	['3 mile']	0.0827346205535
+['1.5 hour', 'opposite direction']	['hour']	0.265842356343
+['1.5 hour', 'opposite direction']	['skateboard']	0.0777864840342
+['1.5 hour', 'opposite direction']	['mile']	0.0143499502517
+['1.5 hour', 'opposite direction']	['19.5 mile']	0.0901100077042
+['1.5 hour', 'opposite direction']	['peter travel']	0.0833805889219
+['mile', 'opposite direction']	['juan and peter']	0.0410777933861
+['mile', 'opposite direction']	['shopping center']	0.0362241866398
+['mile', 'opposite direction']	['direction']	0.551982702418
+['mile', 'opposite direction']	['bike and travels']	0.0467896072558
+['mile', 'opposite direction']	['3 mile']	0.397268490074
+['mile', 'opposite direction']	['hour']	0.487812881563
+['mile', 'opposite direction']	['skateboard']	0.432712157256
+['mile', 'opposite direction']	['1.5 hour']	0.0368028975308
+['mile', 'opposite direction']	['19.5 mile']	0.442012633359
+['mile', 'opposite direction']	['peter travel']	0.0368701550083
+['19.5 mile', 'opposite direction']	['juan and peter']	0.0941266761548
+['19.5 mile', 'opposite direction']	['shopping center']	0.0827346205535
+['19.5 mile', 'opposite direction']	['direction']	0.612081485761
+['19.5 mile', 'opposite direction']	['bike and travels']	0.0908034291173
+['19.5 mile', 'opposite direction']	['3 mile']	0.549852778125
+['19.5 mile', 'opposite direction']	['hour']	0.00424649792755
+['19.5 mile', 'opposite direction']	['skateboard']	0.0777864840342
+['19.5 mile', 'opposite direction']	['1.5 hour']	0.0901100077042
+['19.5 mile', 'opposite direction']	['mile']	0.500847544769
+['19.5 mile', 'opposite direction']	['peter travel']	0.0833805889219
+['peter travel', 'opposite direction']	['juan and peter']	0.0941266761548
+['peter travel', 'opposite direction']	['shopping center']	0.0827346205535
+['peter travel', 'opposite direction']	['direction']	0.619446836723
+['peter travel', 'opposite direction']	['bike and travels']	0.0908034291173
+['peter travel', 'opposite direction']	['3 mile']	0.0827346205535
+['peter travel', 'opposite direction']	['hour']	0.00424649792755
+['peter travel', 'opposite direction']	['skateboard']	0.247054553045
+['peter travel', 'opposite direction']	['1.5 hour']	0.0901100077042
+['peter travel', 'opposite direction']	['mile']	0.0132263547461
+['peter travel', 'opposite direction']	['19.5 mile']	0.0901100077042
+['juan and peter', 'direction']	['shopping center']	0.0833805889219
+['juan and peter', 'direction']	['opposite direction']	0.662166898088
+['juan and peter', 'direction']	['bike and travels']	0.096515242987
+['juan and peter', 'direction']	['3 mile']	0.0827346205535
+['juan and peter', 'direction']	['hour']	0.196566782805
+['juan and peter', 'direction']	['skateboard']	0.707544503257
+['juan and peter', 'direction']	['1.5 hour']	0.0871340391838
+['juan and peter', 'direction']	['mile']	0.344498263365
+['juan and peter', 'direction']	['19.5 mile']	0.0827346205535
+['juan and peter', 'direction']	['peter travel']	0.0833805889219
+['shopping center', 'direction']	['juan and peter']	0.0887553862424
+['shopping center', 'direction']	['opposite direction']	0.707594685938
+['shopping center', 'direction']	['bike and travels']	0.100862937951
+['shopping center', 'direction']	['3 mile']	0.0827346205535
+['shopping center', 'direction']	['hour']	0.21019112143
+['shopping center', 'direction']	['skateboard']	0.688363780537
+['shopping center', 'direction']	['1.5 hour']	0.0871340391838
+['shopping center', 'direction']	['mile']	0.325845606684
+['shopping center', 'direction']	['19.5 mile']	0.0827346205535
+['shopping center', 'direction']	['peter travel']	0.0800317642921
+['opposite direction', 'direction']	['juan and peter']	0.304368981852
+['opposite direction', 'direction']	['shopping center']	0.235828704155
+['opposite direction', 'direction']	['bike and travels']	0.418449519329
+['opposite direction', 'direction']	['3 mile']	0.241577755594
+['opposite direction', 'direction']	['hour']	0.452038163277
+['opposite direction', 'direction']	['skateboard']	0.733406136323
+['opposite direction', 'direction']	['1.5 hour']	0.235702673466
+['opposite direction', 'direction']	['mile']	0.446476662307
+['opposite direction', 'direction']	['19.5 mile']	0.237223524492
+['opposite direction', 'direction']	['peter travel']	0.221793616436
+['bike and travels', 'direction']	['juan and peter']	0.0908034291173
+['bike and travels', 'direction']	['shopping center']	0.0885827222101
+['bike and travels', 'direction']	['opposite direction']	0.662166898088
+['bike and travels', 'direction']	['3 mile']	0.0827346205535
+['bike and travels', 'direction']	['hour']	0.175333773423
+['bike and travels', 'direction']	['skateboard']	0.838525370333
+['bike and travels', 'direction']	['1.5 hour']	0.0871340391838
+['bike and travels', 'direction']	['mile']	0.323265253982
+['bike and travels', 'direction']	['19.5 mile']	0.0827346205535
+['bike and travels', 'direction']	['peter travel']	0.0819994954072
+['3 mile', 'direction']	['juan and peter']	0.0887553862424
+['3 mile', 'direction']	['shopping center']	0.0800317642921
+['3 mile', 'direction']	['opposite direction']	0.71455110167
+['3 mile', 'direction']	['bike and travels']	0.094467200112
+['3 mile', 'direction']	['hour']	0.278048264287
+['3 mile', 'direction']	['skateboard']	0.712934528833
+['3 mile', 'direction']	['1.5 hour']	0.0871340391838
+['3 mile', 'direction']	['mile']	0.66456886122
+['3 mile', 'direction']	['19.5 mile']	0.538007739106
+['3 mile', 'direction']	['peter travel']	0.0833805889219
+['hour', 'direction']	['juan and peter']	0.0208571041899
+['hour', 'direction']	['shopping center']	0.0160064194205
+['hour', 'direction']	['opposite direction']	0.328825920404
+['hour', 'direction']	['bike and travels']	0.0208571041899
+['hour', 'direction']	['3 mile']	0.0160064194205
+['hour', 'direction']	['skateboard']	0.0353227750986
+['hour', 'direction']	['1.5 hour']	0.347992479429
+['hour', 'direction']	['mile']	0.182422153961
+['hour', 'direction']	['19.5 mile']	0.0160064194205
+['hour', 'direction']	['peter travel']	0.0160064194205
+['skateboard', 'direction']	['juan and peter']	0.094467200112
+['skateboard', 'direction']	['shopping center']	0.0833805889219
+['skateboard', 'direction']	['opposite direction']	0.698405976017
+['skateboard', 'direction']	['bike and travels']	0.213647622631
+['skateboard', 'direction']	['3 mile']	0.0827346205535
+['skateboard', 'direction']	['hour']	0.0162282525636
+['skateboard', 'direction']	['1.5 hour']	0.0871340391838
+['skateboard', 'direction']	['mile']	0.0348865190937
+['skateboard', 'direction']	['19.5 mile']	0.0827346205535
+['skateboard', 'direction']	['peter travel']	0.215434436382
+['1.5 hour', 'direction']	['juan and peter']	0.0887553862424
+['1.5 hour', 'direction']	['shopping center']	0.0833805889219
+['1.5 hour', 'direction']	['opposite direction']	0.707594685938
+['1.5 hour', 'direction']	['bike and travels']	0.094467200112
+['1.5 hour', 'direction']	['3 mile']	0.0827346205535
+['1.5 hour', 'direction']	['hour']	0.425800167956
+['1.5 hour', 'direction']	['skateboard']	0.707544503257
+['1.5 hour', 'direction']	['mile']	0.402764242757
+['1.5 hour', 'direction']	['19.5 mile']	0.0827346205535
+['1.5 hour', 'direction']	['peter travel']	0.0833805889219
+['mile', 'direction']	['juan and peter']	0.0467896072558
+['mile', 'direction']	['shopping center']	0.0368701550083
+['mile', 'direction']	['opposite direction']	0.345399931471
+['mile', 'direction']	['bike and travels']	0.0468568647332
+['mile', 'direction']	['3 mile']	0.434039776604
+['mile', 'direction']	['hour']	0.182422153961
+['mile', 'direction']	['skateboard']	0.0798045481052
+['mile', 'direction']	['1.5 hour']	0.0435359471856
+['mile', 'direction']	['19.5 mile']	0.553297612561
+['mile', 'direction']	['peter travel']	0.0368701550083
+['19.5 mile', 'direction']	['juan and peter']	0.0887553862424
+['19.5 mile', 'direction']	['shopping center']	0.0833805889219
+['19.5 mile', 'direction']	['opposite direction']	0.707594685938
+['19.5 mile', 'direction']	['bike and travels']	0.094467200112
+['19.5 mile', 'direction']	['3 mile']	0.538007739106
+['19.5 mile', 'direction']	['hour']	0.278048264287
+['19.5 mile', 'direction']	['skateboard']	0.712934528833
+['19.5 mile', 'direction']	['1.5 hour']	0.0871340391838
+['19.5 mile', 'direction']	['mile']	0.728894452255
+['19.5 mile', 'direction']	['peter travel']	0.0833805889219
+['peter travel', 'direction']	['juan and peter']	0.0887553862424
+['peter travel', 'direction']	['shopping center']	0.0800317642921
+['peter travel', 'direction']	['opposite direction']	0.730517361641
+['peter travel', 'direction']	['bike and travels']	0.0930861065974
+['peter travel', 'direction']	['3 mile']	0.0827346205535
+['peter travel', 'direction']	['hour']	0.175333773423
+['peter travel', 'direction']	['skateboard']	0.866020062478
+['peter travel', 'direction']	['1.5 hour']	0.0871340391838
+['peter travel', 'direction']	['mile']	0.324321592011
+['peter travel', 'direction']	['19.5 mile']	0.0827346205535
+['juan and peter', 'bike and travels']	['shopping center']	0.0921460917349
+['juan and peter', 'bike and travels']	['opposite direction']	0.0988755105172
+['juan and peter', 'bike and travels']	['direction']	0.0847746021728
+['juan and peter', 'bike and travels']	['3 mile']	0.0988755105172
+['juan and peter', 'bike and travels']	['hour']	0.00920098131694
+['juan and peter', 'bike and travels']	['skateboard']	0.22399132044
+['juan and peter', 'bike and travels']	['1.5 hour']	0.0988755105172
+['juan and peter', 'bike and travels']	['mile']	0.012852508684
+['juan and peter', 'bike and travels']	['19.5 mile']	0.0988755105172
+['juan and peter', 'bike and travels']	['peter travel']	0.0915001233665
+['shopping center', 'bike and travels']	['juan and peter']	0.161708668161
+['shopping center', 'bike and travels']	['opposite direction']	0.15961386663
+['shopping center', 'bike and travels']	['direction']	0.148895610151
+['shopping center', 'bike and travels']	['3 mile']	0.15961386663
+['shopping center', 'bike and travels']	['hour']	0.00636410188432
+['shopping center', 'bike and travels']	['skateboard']	0.318400959459
+['shopping center', 'bike and travels']	['1.5 hour']	0.15961386663
+['shopping center', 'bike and travels']	['mile']	0.012852508684
+['shopping center', 'bike and travels']	['19.5 mile']	0.15961386663
+['shopping center', 'bike and travels']	['peter travel']	0.152238479479
+['opposite direction', 'bike and travels']	['juan and peter']	0.161708668161
+['opposite direction', 'bike and travels']	['shopping center']	0.149535623218
+['opposite direction', 'bike and travels']	['direction']	0.684948358374
+['opposite direction', 'bike and travels']	['3 mile']	0.152238479479
+['opposite direction', 'bike and travels']	['hour']	0.00636410188432
+['opposite direction', 'bike and travels']	['skateboard']	0.325322397657
+['opposite direction', 'bike and travels']	['1.5 hour']	0.15961386663
+['opposite direction', 'bike and travels']	['mile']	0.012852508684
+['opposite direction', 'bike and travels']	['19.5 mile']	0.15961386663
+['opposite direction', 'bike and travels']	['peter travel']	0.151503354333
+['direction', 'bike and travels']	['juan and peter']	0.0908034291173
+['direction', 'bike and travels']	['shopping center']	0.0885827222101
+['direction', 'bike and travels']	['opposite direction']	0.662166898088
+['direction', 'bike and travels']	['3 mile']	0.0827346205535
+['direction', 'bike and travels']	['hour']	0.175333773423
+['direction', 'bike and travels']	['skateboard']	0.838525370333
+['direction', 'bike and travels']	['1.5 hour']	0.0871340391838
+['direction', 'bike and travels']	['mile']	0.323265253982
+['direction', 'bike and travels']	['19.5 mile']	0.0827346205535
+['direction', 'bike and travels']	['peter travel']	0.0819994954072
+['3 mile', 'bike and travels']	['juan and peter']	0.161708668161
+['3 mile', 'bike and travels']	['shopping center']	0.152884447848
+['3 mile', 'bike and travels']	['opposite direction']	0.152238479479
+['3 mile', 'bike and travels']	['direction']	0.14394151833
+['3 mile', 'bike and travels']	['hour']	0.00636410188432
+['3 mile', 'bike and travels']	['skateboard']	0.284729676552
+['3 mile', 'bike and travels']	['1.5 hour']	0.15961386663
+['3 mile', 'bike and travels']	['mile']	0.453356864569
+['3 mile', 'bike and travels']	['19.5 mile']	0.653642048458
+['3 mile', 'bike and travels']	['peter travel']	0.152238479479
+['hour', 'bike and travels']	['juan and peter']	0.0198073713335
+['hour', 'bike and travels']	['shopping center']	0.0160064194205
+['hour', 'bike and travels']	['opposite direction']	0.0154105889865
+['hour', 'bike and travels']	['direction']	0.270296452143
+['hour', 'bike and travels']	['3 mile']	0.0160064194205
+['hour', 'bike and travels']	['skateboard']	0.43632534236
+['hour', 'bike and travels']	['1.5 hour']	0.320264223186
+['hour', 'bike and travels']	['mile']	0.324529405779
+['hour', 'bike and travels']	['19.5 mile']	0.0160064194205
+['hour', 'bike and travels']	['peter travel']	0.015360451052
+['skateboard', 'bike and travels']	['juan and peter']	0.0908034291173
+['skateboard', 'bike and travels']	['shopping center']	0.0833805889219
+['skateboard', 'bike and travels']	['opposite direction']	0.0827346205535
+['skateboard', 'bike and travels']	['direction']	0.688363780537
+['skateboard', 'bike and travels']	['3 mile']	0.0901100077042
+['skateboard', 'bike and travels']	['hour']	0.175333773423
+['skateboard', 'bike and travels']	['1.5 hour']	0.0901100077042
+['skateboard', 'bike and travels']	['mile']	0.317962223679
+['skateboard', 'bike and travels']	['19.5 mile']	0.0901100077042
+['skateboard', 'bike and travels']	['peter travel']	0.205231825396
+['1.5 hour', 'bike and travels']	['juan and peter']	0.161708668161
+['1.5 hour', 'bike and travels']	['shopping center']	0.152884447848
+['1.5 hour', 'bike and travels']	['opposite direction']	0.15961386663
+['1.5 hour', 'bike and travels']	['direction']	0.162478409736
+['1.5 hour', 'bike and travels']	['3 mile']	0.15961386663
+['1.5 hour', 'bike and travels']	['hour']	0.338927307845
+['1.5 hour', 'bike and travels']	['skateboard']	0.284729676552
+['1.5 hour', 'bike and travels']	['mile']	0.012852508684
+['1.5 hour', 'bike and travels']	['19.5 mile']	0.15961386663
+['1.5 hour', 'bike and travels']	['peter travel']	0.152238479479
+['mile', 'bike and travels']	['juan and peter']	0.0420694982328
+['mile', 'bike and travels']	['shopping center']	0.0368701550083
+['mile', 'bike and travels']	['opposite direction']	0.0351005911342
+['mile', 'bike and travels']	['direction']	0.471573052869
+['mile', 'bike and travels']	['3 mile']	0.377435922145
+['mile', 'bike and travels']	['hour']	0.324529405779
+['mile', 'bike and travels']	['skateboard']	0.555840431985
+['mile', 'bike and travels']	['1.5 hour']	0.0357465595026
+['mile', 'bike and travels']	['19.5 mile']	0.417204941051
+['mile', 'bike and travels']	['peter travel']	0.0351005911342
+['19.5 mile', 'bike and travels']	['juan and peter']	0.161708668161
+['19.5 mile', 'bike and travels']	['shopping center']	0.152884447848
+['19.5 mile', 'bike and travels']	['opposite direction']	0.15961386663
+['19.5 mile', 'bike and travels']	['direction']	0.14394151833
+['19.5 mile', 'bike and travels']	['3 mile']	0.653642048458
+['19.5 mile', 'bike and travels']	['hour']	0.00636410188432
+['19.5 mile', 'bike and travels']	['skateboard']	0.284729676552
+['19.5 mile', 'bike and travels']	['1.5 hour']	0.15961386663
+['19.5 mile', 'bike and travels']	['mile']	0.437006258279
+['19.5 mile', 'bike and travels']	['peter travel']	0.152238479479
+['peter travel', 'bike and travels']	['juan and peter']	0.161708668161
+['peter travel', 'bike and travels']	['shopping center']	0.149535623218
+['peter travel', 'bike and travels']	['opposite direction']	0.152884447848
+['peter travel', 'bike and travels']	['direction']	0.14394151833
+['peter travel', 'bike and travels']	['3 mile']	0.152238479479
+['peter travel', 'bike and travels']	['hour']	0.011057018428
+['peter travel', 'bike and travels']	['skateboard']	0.242414353723
+['peter travel', 'bike and travels']	['1.5 hour']	0.15961386663
+['peter travel', 'bike and travels']	['mile']	0.0175454252276
+['peter travel', 'bike and travels']	['19.5 mile']	0.15961386663
+['juan and peter', '3 mile']	['shopping center']	0.152238479479
+['juan and peter', '3 mile']	['opposite direction']	0.152238479479
+['juan and peter', '3 mile']	['direction']	0.14394151833
+['juan and peter', '3 mile']	['bike and travels']	0.156579181386
+['juan and peter', '3 mile']	['hour']	0.00636410188432
+['juan and peter', '3 mile']	['skateboard']	0.14956452107
+['juan and peter', '3 mile']	['1.5 hour']	0.15961386663
+['juan and peter', '3 mile']	['mile']	0.486690197903
+['juan and peter', '3 mile']	['19.5 mile']	0.653642048458
+['juan and peter', '3 mile']	['peter travel']	0.152238479479
+['shopping center', '3 mile']	['juan and peter']	0.0941266761548
+['shopping center', '3 mile']	['opposite direction']	0.0827346205535
+['shopping center', '3 mile']	['direction']	0.0755560742463
+['shopping center', '3 mile']	['bike and travels']	0.096515242987
+['shopping center', '3 mile']	['hour']	0.00424649792755
+['shopping center', '3 mile']	['skateboard']	0.0764053905195
+['shopping center', '3 mile']	['1.5 hour']	0.0901100077042
+['shopping center', '3 mile']	['mile']	0.402169535939
+['shopping center', '3 mile']	['19.5 mile']	0.584269096576
+['shopping center', '3 mile']	['peter travel']	0.0827346205535
+['opposite direction', '3 mile']	['juan and peter']	0.0941266761548
+['opposite direction', '3 mile']	['shopping center']	0.0827346205535
+['opposite direction', '3 mile']	['direction']	0.612081485761
+['opposite direction', '3 mile']	['bike and travels']	0.0908034291173
+['opposite direction', '3 mile']	['hour']	0.00424649792755
+['opposite direction', '3 mile']	['skateboard']	0.0777864840342
+['opposite direction', '3 mile']	['1.5 hour']	0.0901100077042
+['opposite direction', '3 mile']	['mile']	0.402169535939
+['opposite direction', '3 mile']	['19.5 mile']	0.584269096576
+['opposite direction', '3 mile']	['peter travel']	0.0833805889219
+['direction', '3 mile']	['juan and peter']	0.0887553862424
+['direction', '3 mile']	['shopping center']	0.0800317642921
+['direction', '3 mile']	['opposite direction']	0.71455110167
+['direction', '3 mile']	['bike and travels']	0.094467200112
+['direction', '3 mile']	['hour']	0.278048264287
+['direction', '3 mile']	['skateboard']	0.712934528833
+['direction', '3 mile']	['1.5 hour']	0.0871340391838
+['direction', '3 mile']	['mile']	0.66456886122
+['direction', '3 mile']	['19.5 mile']	0.538007739106
+['direction', '3 mile']	['peter travel']	0.0833805889219
+['bike and travels', '3 mile']	['juan and peter']	0.161708668161
+['bike and travels', '3 mile']	['shopping center']	0.152884447848
+['bike and travels', '3 mile']	['opposite direction']	0.152238479479
+['bike and travels', '3 mile']	['direction']	0.14394151833
+['bike and travels', '3 mile']	['hour']	0.00636410188432
+['bike and travels', '3 mile']	['skateboard']	0.284729676552
+['bike and travels', '3 mile']	['1.5 hour']	0.15961386663
+['bike and travels', '3 mile']	['mile']	0.453356864569
+['bike and travels', '3 mile']	['19.5 mile']	0.653642048458
+['bike and travels', '3 mile']	['peter travel']	0.152238479479
+['hour', '3 mile']	['juan and peter']	0.0163189992404
+['hour', '3 mile']	['shopping center']	0.015360451052
+['hour', '3 mile']	['opposite direction']	0.0154105889865
+['hour', '3 mile']	['direction']	0.275166582013
+['hour', '3 mile']	['bike and travels']	0.0208571041899
+['hour', '3 mile']	['skateboard']	0.271463827652
+['hour', '3 mile']	['1.5 hour']	0.318744074959
+['hour', '3 mile']	['mile']	0.57487993061
+['hour', '3 mile']	['19.5 mile']	0.0852471420558
+['hour', '3 mile']	['peter travel']	0.015360451052
+['skateboard', '3 mile']	['juan and peter']	0.0887553862424
+['skateboard', '3 mile']	['shopping center']	0.0827346205535
+['skateboard', '3 mile']	['opposite direction']	0.0827346205535
+['skateboard', '3 mile']	['direction']	0.693233910408
+['skateboard', '3 mile']	['bike and travels']	0.220445314053
+['skateboard', '3 mile']	['hour']	0.278048264287
+['skateboard', '3 mile']	['1.5 hour']	0.0901100077042
+['skateboard', '3 mile']	['mile']	0.669330765982
+['skateboard', '3 mile']	['19.5 mile']	0.584269096576
+['skateboard', '3 mile']	['peter travel']	0.21005435626
+['1.5 hour', '3 mile']	['juan and peter']	0.0941266761548
+['1.5 hour', '3 mile']	['shopping center']	0.0827346205535
+['1.5 hour', '3 mile']	['opposite direction']	0.0827346205535
+['1.5 hour', '3 mile']	['direction']	0.0891388738307
+['1.5 hour', '3 mile']	['bike and travels']	0.0908034291173
+['1.5 hour', '3 mile']	['hour']	0.244630235131
+['1.5 hour', '3 mile']	['skateboard']	0.0800606621439
+['1.5 hour', '3 mile']	['mile']	0.49182029566
+['1.5 hour', '3 mile']	['19.5 mile']	0.584269096576
+['1.5 hour', '3 mile']	['peter travel']	0.0827346205535
+['mile', '3 mile']	['juan and peter']	0.299623528004
+['mile', '3 mile']	['shopping center']	0.150377262293
+['mile', '3 mile']	['opposite direction']	0.183265110295
+['mile', '3 mile']	['direction']	0.552459748245
+['mile', '3 mile']	['bike and travels']	0.304861088797
+['mile', '3 mile']	['hour']	0.578571428571
+['mile', '3 mile']	['skateboard']	0.557219504257
+['mile', '3 mile']	['1.5 hour']	0.177448801378
+['mile', '3 mile']	['19.5 mile']	0.676555862245
+['mile', '3 mile']	['peter travel']	0.0968024870635
+['19.5 mile', '3 mile']	['juan and peter']	0.297805101442
+['19.5 mile', '3 mile']	['shopping center']	0.14589133531
+['19.5 mile', '3 mile']	['opposite direction']	0.176486909159
+['19.5 mile', '3 mile']	['direction']	0.360804929274
+['19.5 mile', '3 mile']	['bike and travels']	0.272155795496
+['19.5 mile', '3 mile']	['hour']	0.156901862603
+['19.5 mile', '3 mile']	['skateboard']	0.339720112713
+['19.5 mile', '3 mile']	['1.5 hour']	0.139258682248
+['19.5 mile', '3 mile']	['mile']	0.766295816382
+['19.5 mile', '3 mile']	['peter travel']	0.14589133531
+['peter travel', '3 mile']	['juan and peter']	0.0941266761548
+['peter travel', '3 mile']	['shopping center']	0.0827346205535
+['peter travel', '3 mile']	['opposite direction']	0.0800317642921
+['peter travel', '3 mile']	['direction']	0.0744376594044
+['peter travel', '3 mile']	['bike and travels']	0.0908034291173
+['peter travel', '3 mile']	['hour']	0.00424649792755
+['peter travel', '3 mile']	['skateboard']	0.236198299177
+['peter travel', '3 mile']	['1.5 hour']	0.0901100077042
+['peter travel', '3 mile']	['mile']	0.344442191904
+['peter travel', '3 mile']	['19.5 mile']	0.584269096576
+['juan and peter', 'hour']	['shopping center']	0.015360451052
+['juan and peter', 'hour']	['opposite direction']	0.0154105889865
+['juan and peter', 'hour']	['direction']	0.241171873018
+['juan and peter', 'hour']	['bike and travels']	0.0186336624133
+['juan and peter', 'hour']	['3 mile']	0.0160064194205
+['juan and peter', 'hour']	['skateboard']	0.271463827652
+['juan and peter', 'hour']	['1.5 hour']	0.320264223186
+['juan and peter', 'hour']	['mile']	0.372998066748
+['juan and peter', 'hour']	['19.5 mile']	0.0160064194205
+['juan and peter', 'hour']	['peter travel']	0.015360451052
+['shopping center', 'hour']	['juan and peter']	0.0163189992404
+['shopping center', 'hour']	['opposite direction']	0.0154105889865
+['shopping center', 'hour']	['direction']	0.313645193797
+['shopping center', 'hour']	['bike and travels']	0.0208571041899
+['shopping center', 'hour']	['3 mile']	0.0160064194205
+['shopping center', 'hour']	['skateboard']	0.274662480851
+['shopping center', 'hour']	['1.5 hour']	0.318744074959
+['shopping center', 'hour']	['mile']	0.353289072039
+['shopping center', 'hour']	['19.5 mile']	0.0160064194205
+['shopping center', 'hour']	['peter travel']	0.015360451052
+['opposite direction', 'hour']	['juan and peter']	0.0163189992404
+['opposite direction', 'hour']	['shopping center']	0.015360451052
+['opposite direction', 'hour']	['direction']	0.45686296046
+['opposite direction', 'hour']	['bike and travels']	0.0208571041899
+['opposite direction', 'hour']	['3 mile']	0.0160064194205
+['opposite direction', 'hour']	['skateboard']	0.245537901727
+['opposite direction', 'hour']	['1.5 hour']	0.318744074959
+['opposite direction', 'hour']	['mile']	0.386622405372
+['opposite direction', 'hour']	['19.5 mile']	0.0160064194205
+['opposite direction', 'hour']	['peter travel']	0.0160064194205
+['direction', 'hour']	['juan and peter']	0.0208571041899
+['direction', 'hour']	['shopping center']	0.0160064194205
+['direction', 'hour']	['opposite direction']	0.328825920404
+['direction', 'hour']	['bike and travels']	0.0208571041899
+['direction', 'hour']	['3 mile']	0.0160064194205
+['direction', 'hour']	['skateboard']	0.0353227750986
+['direction', 'hour']	['1.5 hour']	0.347992479429
+['direction', 'hour']	['mile']	0.182422153961
+['direction', 'hour']	['19.5 mile']	0.0160064194205
+['direction', 'hour']	['peter travel']	0.0160064194205
+['bike and travels', 'hour']	['juan and peter']	0.0198073713335
+['bike and travels', 'hour']	['shopping center']	0.0160064194205
+['bike and travels', 'hour']	['opposite direction']	0.0154105889865
+['bike and travels', 'hour']	['direction']	0.270296452143
+['bike and travels', 'hour']	['3 mile']	0.0160064194205
+['bike and travels', 'hour']	['skateboard']	0.43632534236
+['bike and travels', 'hour']	['1.5 hour']	0.320264223186
+['bike and travels', 'hour']	['mile']	0.324529405779
+['bike and travels', 'hour']	['19.5 mile']	0.0160064194205
+['bike and travels', 'hour']	['peter travel']	0.015360451052
+['3 mile', 'hour']	['juan and peter']	0.0163189992404
+['3 mile', 'hour']	['shopping center']	0.015360451052
+['3 mile', 'hour']	['opposite direction']	0.0154105889865
+['3 mile', 'hour']	['direction']	0.275166582013
+['3 mile', 'hour']	['bike and travels']	0.0208571041899
+['3 mile', 'hour']	['skateboard']	0.271463827652
+['3 mile', 'hour']	['1.5 hour']	0.318744074959
+['3 mile', 'hour']	['mile']	0.57487993061
+['3 mile', 'hour']	['19.5 mile']	0.0852471420558
+['3 mile', 'hour']	['peter travel']	0.015360451052
+['skateboard', 'hour']	['juan and peter']	0.0163189992404
+['skateboard', 'hour']	['shopping center']	0.015360451052
+['skateboard', 'hour']	['opposite direction']	0.0154105889865
+['skateboard', 'hour']	['direction']	0.0309567463904
+['skateboard', 'hour']	['bike and travels']	0.0378385671327
+['skateboard', 'hour']	['3 mile']	0.0160064194205
+['skateboard', 'hour']	['1.5 hour']	0.318744074959
+['skateboard', 'hour']	['mile']	0.182422153961
+['skateboard', 'hour']	['19.5 mile']	0.0160064194205
+['skateboard', 'hour']	['peter travel']	0.0379026662811
+['1.5 hour', 'hour']	['juan and peter']	0.198882138174
+['1.5 hour', 'hour']	['shopping center']	0.11034390648
+['1.5 hour', 'hour']	['opposite direction']	0.106914960192
+['1.5 hour', 'hour']	['direction']	0.491582676734
+['1.5 hour', 'hour']	['bike and travels']	0.201519460286
+['1.5 hour', 'hour']	['3 mile']	0.125024962568
+['1.5 hour', 'hour']	['skateboard']	0.420473878373
+['1.5 hour', 'hour']	['mile']	0.578571428571
+['1.5 hour', 'hour']	['19.5 mile']	0.125024962568
+['1.5 hour', 'hour']	['peter travel']	0.11034390648
+['mile', 'hour']	['juan and peter']	0.0760088196142
+['mile', 'hour']	['shopping center']	0.0701566548569
+['mile', 'hour']	['opposite direction']	0.0701566548569
+['mile', 'hour']	['direction']	0.0799161064667
+['mile', 'hour']	['bike and travels']	0.071865252538
+['mile', 'hour']	['3 mile']	0.326361734695
+['mile', 'hour']	['skateboard']	0.0846780112287
+['mile', 'hour']	['1.5 hour']	0.291403432684
+['mile', 'hour']	['19.5 mile']	0.397746056993
+['mile', 'hour']	['peter travel']	0.0701566548569
+['19.5 mile', 'hour']	['juan and peter']	0.0163189992404
+['19.5 mile', 'hour']	['shopping center']	0.015360451052
+['19.5 mile', 'hour']	['opposite direction']	0.0154105889865
+['19.5 mile', 'hour']	['direction']	0.275166582013
+['19.5 mile', 'hour']	['bike and travels']	0.0151452903202
+['19.5 mile', 'hour']	['3 mile']	0.0852471420558
+['19.5 mile', 'hour']	['skateboard']	0.271463827652
+['19.5 mile', 'hour']	['1.5 hour']	0.318744074959
+['19.5 mile', 'hour']	['mile']	0.538610968519
+['19.5 mile', 'hour']	['peter travel']	0.015360451052
+['peter travel', 'hour']	['juan and peter']	0.0163189992404
+['peter travel', 'hour']	['shopping center']	0.015360451052
+['peter travel', 'hour']	['opposite direction']	0.0243896682455
+['peter travel', 'hour']	['direction']	0.270296452143
+['peter travel', 'hour']	['bike and travels']	0.0208571041899
+['peter travel', 'hour']	['3 mile']	0.0160064194205
+['peter travel', 'hour']	['skateboard']	0.43632534236
+['peter travel', 'hour']	['1.5 hour']	0.318744074959
+['peter travel', 'hour']	['mile']	0.324529405779
+['peter travel', 'hour']	['19.5 mile']	0.0160064194205
+['juan and peter', 'skateboard']	['shopping center']	0.0901100077042
+['juan and peter', 'skateboard']	['opposite direction']	0.0827346205535
+['juan and peter', 'skateboard']	['direction']	0.695921359376
+['juan and peter', 'skateboard']	['bike and travels']	0.217670826063
+['juan and peter', 'skateboard']	['3 mile']	0.0901100077042
+['juan and peter', 'skateboard']	['hour']	0.196566782805
+['juan and peter', 'skateboard']	['1.5 hour']	0.0901100077042
+['juan and peter', 'skateboard']	['mile']	0.339195233062
+['juan and peter', 'skateboard']	['19.5 mile']	0.0901100077042
+['juan and peter', 'skateboard']	['peter travel']	0.205231825396
+['shopping center', 'skateboard']	['juan and peter']	0.0887553862424
+['shopping center', 'skateboard']	['opposite direction']	0.0827346205535
+['shopping center', 'skateboard']	['direction']	0.706518723742
+['shopping center', 'skateboard']	['bike and travels']	0.213647622631
+['shopping center', 'skateboard']	['3 mile']	0.0901100077042
+['shopping center', 'skateboard']	['hour']	0.21019112143
+['shopping center', 'skateboard']	['1.5 hour']	0.0901100077042
+['shopping center', 'skateboard']	['mile']	0.320542576381
+['shopping center', 'skateboard']	['19.5 mile']	0.0901100077042
+['shopping center', 'skateboard']	['peter travel']	0.220910610128
+['opposite direction', 'skateboard']	['juan and peter']	0.0887553862424
+['opposite direction', 'skateboard']	['shopping center']	0.0827346205535
+['opposite direction', 'skateboard']	['direction']	0.823959497837
+['opposite direction', 'skateboard']	['bike and travels']	0.245535691511
+['opposite direction', 'skateboard']	['3 mile']	0.0827346205535
+['opposite direction', 'skateboard']	['hour']	0.278048264287
+['opposite direction', 'skateboard']	['1.5 hour']	0.0901100077042
+['opposite direction', 'skateboard']	['mile']	0.353943167192
+['opposite direction', 'skateboard']	['19.5 mile']	0.0901100077042
+['opposite direction', 'skateboard']	['peter travel']	0.215434436382
+['direction', 'skateboard']	['juan and peter']	0.094467200112
+['direction', 'skateboard']	['shopping center']	0.0833805889219
+['direction', 'skateboard']	['opposite direction']	0.698405976017
+['direction', 'skateboard']	['bike and travels']	0.213647622631
+['direction', 'skateboard']	['3 mile']	0.0827346205535
+['direction', 'skateboard']	['hour']	0.0162282525636
+['direction', 'skateboard']	['1.5 hour']	0.0871340391838
+['direction', 'skateboard']	['mile']	0.0348865190937
+['direction', 'skateboard']	['19.5 mile']	0.0827346205535
+['direction', 'skateboard']	['peter travel']	0.215434436382
+['bike and travels', 'skateboard']	['juan and peter']	0.0908034291173
+['bike and travels', 'skateboard']	['shopping center']	0.0833805889219
+['bike and travels', 'skateboard']	['opposite direction']	0.0827346205535
+['bike and travels', 'skateboard']	['direction']	0.688363780537
+['bike and travels', 'skateboard']	['3 mile']	0.0901100077042
+['bike and travels', 'skateboard']	['hour']	0.175333773423
+['bike and travels', 'skateboard']	['1.5 hour']	0.0901100077042
+['bike and travels', 'skateboard']	['mile']	0.317962223679
+['bike and travels', 'skateboard']	['19.5 mile']	0.0901100077042
+['bike and travels', 'skateboard']	['peter travel']	0.205231825396
+['3 mile', 'skateboard']	['juan and peter']	0.0887553862424
+['3 mile', 'skateboard']	['shopping center']	0.0827346205535
+['3 mile', 'skateboard']	['opposite direction']	0.0827346205535
+['3 mile', 'skateboard']	['direction']	0.693233910408
+['3 mile', 'skateboard']	['bike and travels']	0.220445314053
+['3 mile', 'skateboard']	['hour']	0.278048264287
+['3 mile', 'skateboard']	['1.5 hour']	0.0901100077042
+['3 mile', 'skateboard']	['mile']	0.669330765982
+['3 mile', 'skateboard']	['19.5 mile']	0.584269096576
+['3 mile', 'skateboard']	['peter travel']	0.21005435626
+['hour', 'skateboard']	['juan and peter']	0.0163189992404
+['hour', 'skateboard']	['shopping center']	0.015360451052
+['hour', 'skateboard']	['opposite direction']	0.0154105889865
+['hour', 'skateboard']	['direction']	0.0309567463904
+['hour', 'skateboard']	['bike and travels']	0.0378385671327
+['hour', 'skateboard']	['3 mile']	0.0160064194205
+['hour', 'skateboard']	['1.5 hour']	0.318744074959
+['hour', 'skateboard']	['mile']	0.182422153961
+['hour', 'skateboard']	['19.5 mile']	0.0160064194205
+['hour', 'skateboard']	['peter travel']	0.0379026662811
+['1.5 hour', 'skateboard']	['juan and peter']	0.0887553862424
+['1.5 hour', 'skateboard']	['shopping center']	0.0901100077042
+['1.5 hour', 'skateboard']	['opposite direction']	0.0827346205535
+['1.5 hour', 'skateboard']	['direction']	0.737200541923
+['1.5 hour', 'skateboard']	['bike and travels']	0.220445314053
+['1.5 hour', 'skateboard']	['3 mile']	0.0901100077042
+['1.5 hour', 'skateboard']	['hour']	0.425800167956
+['1.5 hour', 'skateboard']	['mile']	0.397461212454
+['1.5 hour', 'skateboard']	['19.5 mile']	0.0901100077042
+['1.5 hour', 'skateboard']	['peter travel']	0.21005435626
+['mile', 'skateboard']	['juan and peter']	0.0410777933861
+['mile', 'skateboard']	['shopping center']	0.0361569291624
+['mile', 'skateboard']	['opposite direction']	0.0362241866398
+['mile', 'skateboard']	['direction']	0.0841705768134
+['mile', 'skateboard']	['bike and travels']	0.134942673078
+['mile', 'skateboard']	['3 mile']	0.397268490074
+['mile', 'skateboard']	['hour']	0.182422153961
+['mile', 'skateboard']	['1.5 hour']	0.0368028975308
+['mile', 'skateboard']	['19.5 mile']	0.442012633359
+['mile', 'skateboard']	['peter travel']	0.0962884163941
+['19.5 mile', 'skateboard']	['juan and peter']	0.0887553862424
+['19.5 mile', 'skateboard']	['shopping center']	0.0901100077042
+['19.5 mile', 'skateboard']	['opposite direction']	0.0827346205535
+['19.5 mile', 'skateboard']	['direction']	0.693233910408
+['19.5 mile', 'skateboard']	['bike and travels']	0.220445314053
+['19.5 mile', 'skateboard']	['3 mile']	0.584269096576
+['19.5 mile', 'skateboard']	['hour']	0.278048264287
+['19.5 mile', 'skateboard']	['1.5 hour']	0.0901100077042
+['19.5 mile', 'skateboard']	['mile']	0.733656357017
+['19.5 mile', 'skateboard']	['peter travel']	0.21005435626
+['peter travel', 'skateboard']	['juan and peter']	0.0887553862424
+['peter travel', 'skateboard']	['shopping center']	0.0827346205535
+['peter travel', 'skateboard']	['opposite direction']	0.0800317642921
+['peter travel', 'skateboard']	['direction']	0.688363780537
+['peter travel', 'skateboard']	['bike and travels']	0.220445314053
+['peter travel', 'skateboard']	['3 mile']	0.0827346205535
+['peter travel', 'skateboard']	['hour']	0.175333773423
+['peter travel', 'skateboard']	['1.5 hour']	0.0901100077042
+['peter travel', 'skateboard']	['mile']	0.319018561708
+['peter travel', 'skateboard']	['19.5 mile']	0.0901100077042
+['juan and peter', '1.5 hour']	['shopping center']	0.15961386663
+['juan and peter', '1.5 hour']	['opposite direction']	0.15961386663
+['juan and peter', '1.5 hour']	['direction']	0.157524317915
+['juan and peter', '1.5 hour']	['bike and travels']	0.161708668161
+['juan and peter', '1.5 hour']	['3 mile']	0.15961386663
+['juan and peter', '1.5 hour']	['hour']	0.356853044081
+['juan and peter', '1.5 hour']	['skateboard']	0.14956452107
+['juan and peter', '1.5 hour']	['mile']	0.0139761041896
+['juan and peter', '1.5 hour']	['19.5 mile']	0.15961386663
+['juan and peter', '1.5 hour']	['peter travel']	0.15961386663
+['shopping center', '1.5 hour']	['juan and peter']	0.0941266761548
+['shopping center', '1.5 hour']	['opposite direction']	0.0901100077042
+['shopping center', '1.5 hour']	['direction']	0.0896499787083
+['shopping center', '1.5 hour']	['bike and travels']	0.096515242987
+['shopping center', '1.5 hour']	['3 mile']	0.0901100077042
+['shopping center', '1.5 hour']	['hour']	0.244630235131
+['shopping center', '1.5 hour']	['skateboard']	0.0744376594044
+['shopping center', '1.5 hour']	['mile']	0.0143499502517
+['shopping center', '1.5 hour']	['19.5 mile']	0.0901100077042
+['shopping center', '1.5 hour']	['peter travel']	0.0827346205535
+['opposite direction', '1.5 hour']	['juan and peter']	0.0941266761548
+['opposite direction', '1.5 hour']	['shopping center']	0.0827346205535
+['opposite direction', '1.5 hour']	['direction']	0.689644934024
+['opposite direction', '1.5 hour']	['bike and travels']	0.0908034291173
+['opposite direction', '1.5 hour']	['3 mile']	0.0827346205535
+['opposite direction', '1.5 hour']	['hour']	0.265842356343
+['opposite direction', '1.5 hour']	['skateboard']	0.0777864840342
+['opposite direction', '1.5 hour']	['mile']	0.0143499502517
+['opposite direction', '1.5 hour']	['19.5 mile']	0.0901100077042
+['opposite direction', '1.5 hour']	['peter travel']	0.0833805889219
+['direction', '1.5 hour']	['juan and peter']	0.0887553862424
+['direction', '1.5 hour']	['shopping center']	0.0833805889219
+['direction', '1.5 hour']	['opposite direction']	0.707594685938
+['direction', '1.5 hour']	['bike and travels']	0.094467200112
+['direction', '1.5 hour']	['3 mile']	0.0827346205535
+['direction', '1.5 hour']	['hour']	0.425800167956
+['direction', '1.5 hour']	['skateboard']	0.707544503257
+['direction', '1.5 hour']	['mile']	0.402764242757
+['direction', '1.5 hour']	['19.5 mile']	0.0827346205535
+['direction', '1.5 hour']	['peter travel']	0.0833805889219
+['bike and travels', '1.5 hour']	['juan and peter']	0.161708668161
+['bike and travels', '1.5 hour']	['shopping center']	0.152884447848
+['bike and travels', '1.5 hour']	['opposite direction']	0.15961386663
+['bike and travels', '1.5 hour']	['direction']	0.162478409736
+['bike and travels', '1.5 hour']	['3 mile']	0.15961386663
+['bike and travels', '1.5 hour']	['hour']	0.338927307845
+['bike and travels', '1.5 hour']	['skateboard']	0.284729676552
+['bike and travels', '1.5 hour']	['mile']	0.012852508684
+['bike and travels', '1.5 hour']	['19.5 mile']	0.15961386663
+['bike and travels', '1.5 hour']	['peter travel']	0.152238479479
+['3 mile', '1.5 hour']	['juan and peter']	0.0941266761548
+['3 mile', '1.5 hour']	['shopping center']	0.0827346205535
+['3 mile', '1.5 hour']	['opposite direction']	0.0827346205535
+['3 mile', '1.5 hour']	['direction']	0.0891388738307
+['3 mile', '1.5 hour']	['bike and travels']	0.0908034291173
+['3 mile', '1.5 hour']	['hour']	0.244630235131
+['3 mile', '1.5 hour']	['skateboard']	0.0800606621439
+['3 mile', '1.5 hour']	['mile']	0.49182029566
+['3 mile', '1.5 hour']	['19.5 mile']	0.584269096576
+['3 mile', '1.5 hour']	['peter travel']	0.0827346205535
+['hour', '1.5 hour']	['juan and peter']	0.198882138174
+['hour', '1.5 hour']	['shopping center']	0.11034390648
+['hour', '1.5 hour']	['opposite direction']	0.106914960192
+['hour', '1.5 hour']	['direction']	0.491582676734
+['hour', '1.5 hour']	['bike and travels']	0.201519460286
+['hour', '1.5 hour']	['3 mile']	0.125024962568
+['hour', '1.5 hour']	['skateboard']	0.420473878373
+['hour', '1.5 hour']	['mile']	0.578571428571
+['hour', '1.5 hour']	['19.5 mile']	0.125024962568
+['hour', '1.5 hour']	['peter travel']	0.11034390648
+['skateboard', '1.5 hour']	['juan and peter']	0.0887553862424
+['skateboard', '1.5 hour']	['shopping center']	0.0901100077042
+['skateboard', '1.5 hour']	['opposite direction']	0.0827346205535
+['skateboard', '1.5 hour']	['direction']	0.737200541923
+['skateboard', '1.5 hour']	['bike and travels']	0.220445314053
+['skateboard', '1.5 hour']	['3 mile']	0.0901100077042
+['skateboard', '1.5 hour']	['hour']	0.425800167956
+['skateboard', '1.5 hour']	['mile']	0.397461212454
+['skateboard', '1.5 hour']	['19.5 mile']	0.0901100077042
+['skateboard', '1.5 hour']	['peter travel']	0.21005435626
+['mile', '1.5 hour']	['juan and peter']	0.0410777933861
+['mile', '1.5 hour']	['shopping center']	0.0361569291624
+['mile', '1.5 hour']	['opposite direction']	0.0361569291624
+['mile', '1.5 hour']	['direction']	0.516898486402
+['mile', '1.5 hour']	['bike and travels']	0.0410777933861
+['mile', '1.5 hour']	['3 mile']	0.397268490074
+['mile', '1.5 hour']	['hour']	0.516160812213
+['mile', '1.5 hour']	['skateboard']	0.458638083182
+['mile', '1.5 hour']	['19.5 mile']	0.442012633359
+['mile', '1.5 hour']	['peter travel']	0.0361569291624
+['19.5 mile', '1.5 hour']	['juan and peter']	0.0941266761548
+['19.5 mile', '1.5 hour']	['shopping center']	0.0901100077042
+['19.5 mile', '1.5 hour']	['opposite direction']	0.0901100077042
+['19.5 mile', '1.5 hour']	['direction']	0.0891388738307
+['19.5 mile', '1.5 hour']	['bike and travels']	0.0941266761548
+['19.5 mile', '1.5 hour']	['3 mile']	0.584269096576
+['19.5 mile', '1.5 hour']	['hour']	0.244630235131
+['19.5 mile', '1.5 hour']	['skateboard']	0.0800606621439
+['19.5 mile', '1.5 hour']	['mile']	0.521949235874
+['19.5 mile', '1.5 hour']	['peter travel']	0.0901100077042
+['peter travel', '1.5 hour']	['juan and peter']	0.0941266761548
+['peter travel', '1.5 hour']	['shopping center']	0.0827346205535
+['peter travel', '1.5 hour']	['opposite direction']	0.0833805889219
+['peter travel', '1.5 hour']	['direction']	0.0965714169067
+['peter travel', '1.5 hour']	['bike and travels']	0.0908034291173
+['peter travel', '1.5 hour']	['3 mile']	0.0827346205535
+['peter travel', '1.5 hour']	['hour']	0.202037569148
+['peter travel', '1.5 hour']	['skateboard']	0.236198299177
+['peter travel', '1.5 hour']	['mile']	0.0132263547461
+['peter travel', '1.5 hour']	['19.5 mile']	0.0901100077042
+['juan and peter', 'mile']	['shopping center']	0.0351005911342
+['juan and peter', 'mile']	['opposite direction']	0.0351005911342
+['juan and peter', 'mile']	['direction']	0.441324878239
+['juan and peter', 'mile']	['bike and travels']	0.0420694982328
+['juan and peter', 'mile']	['3 mile']	0.377435922145
+['juan and peter', 'mile']	['hour']	0.372998066748
+['juan and peter', 'mile']	['skateboard']	0.457581745154
+['juan and peter', 'mile']	['1.5 hour']	0.0357465595026
+['juan and peter', 'mile']	['19.5 mile']	0.417204941051
+['juan and peter', 'mile']	['peter travel']	0.0351005911342
+['shopping center', 'mile']	['juan and peter']	0.0410777933861
+['shopping center', 'mile']	['opposite direction']	0.0361569291624
+['shopping center', 'mile']	['direction']	0.516898486402
+['shopping center', 'mile']	['bike and travels']	0.0468568647332
+['shopping center', 'mile']	['3 mile']	0.397268490074
+['shopping center', 'mile']	['hour']	0.386622405372
+['shopping center', 'mile']	['skateboard']	0.461903993858
+['shopping center', 'mile']	['1.5 hour']	0.0368028975308
+['shopping center', 'mile']	['19.5 mile']	0.442012633359
+['shopping center', 'mile']	['peter travel']	0.0361569291624
+['opposite direction', 'mile']	['juan and peter']	0.0410777933861
+['opposite direction', 'mile']	['shopping center']	0.0362241866398
+['opposite direction', 'mile']	['direction']	0.551982702418
+['opposite direction', 'mile']	['bike and travels']	0.0467896072558
+['opposite direction', 'mile']	['3 mile']	0.397268490074
+['opposite direction', 'mile']	['hour']	0.487812881563
+['opposite direction', 'mile']	['skateboard']	0.432712157256
+['opposite direction', 'mile']	['1.5 hour']	0.0368028975308
+['opposite direction', 'mile']	['19.5 mile']	0.442012633359
+['opposite direction', 'mile']	['peter travel']	0.0368701550083
+['direction', 'mile']	['juan and peter']	0.0467896072558
+['direction', 'mile']	['shopping center']	0.0368701550083
+['direction', 'mile']	['opposite direction']	0.345399931471
+['direction', 'mile']	['bike and travels']	0.0468568647332
+['direction', 'mile']	['3 mile']	0.434039776604
+['direction', 'mile']	['hour']	0.182422153961
+['direction', 'mile']	['skateboard']	0.0798045481052
+['direction', 'mile']	['1.5 hour']	0.0435359471856
+['direction', 'mile']	['19.5 mile']	0.553297612561
+['direction', 'mile']	['peter travel']	0.0368701550083
+['bike and travels', 'mile']	['juan and peter']	0.0420694982328
+['bike and travels', 'mile']	['shopping center']	0.0368701550083
+['bike and travels', 'mile']	['opposite direction']	0.0351005911342
+['bike and travels', 'mile']	['direction']	0.471573052869
+['bike and travels', 'mile']	['3 mile']	0.377435922145
+['bike and travels', 'mile']	['hour']	0.324529405779
+['bike and travels', 'mile']	['skateboard']	0.555840431985
+['bike and travels', 'mile']	['1.5 hour']	0.0357465595026
+['bike and travels', 'mile']	['19.5 mile']	0.417204941051
+['bike and travels', 'mile']	['peter travel']	0.0351005911342
+['3 mile', 'mile']	['juan and peter']	0.299623528004
+['3 mile', 'mile']	['shopping center']	0.150377262293
+['3 mile', 'mile']	['opposite direction']	0.183265110295
+['3 mile', 'mile']	['direction']	0.552459748245
+['3 mile', 'mile']	['bike and travels']	0.304861088797
+['3 mile', 'mile']	['hour']	0.578571428571
+['3 mile', 'mile']	['skateboard']	0.557219504257
+['3 mile', 'mile']	['1.5 hour']	0.177448801378
+['3 mile', 'mile']	['19.5 mile']	0.676555862245
+['3 mile', 'mile']	['peter travel']	0.0968024870635
+['hour', 'mile']	['juan and peter']	0.0760088196142
+['hour', 'mile']	['shopping center']	0.0701566548569
+['hour', 'mile']	['opposite direction']	0.0701566548569
+['hour', 'mile']	['direction']	0.0799161064667
+['hour', 'mile']	['bike and travels']	0.071865252538
+['hour', 'mile']	['3 mile']	0.326361734695
+['hour', 'mile']	['skateboard']	0.0846780112287
+['hour', 'mile']	['1.5 hour']	0.291403432684
+['hour', 'mile']	['19.5 mile']	0.397746056993
+['hour', 'mile']	['peter travel']	0.0701566548569
+['skateboard', 'mile']	['juan and peter']	0.0410777933861
+['skateboard', 'mile']	['shopping center']	0.0361569291624
+['skateboard', 'mile']	['opposite direction']	0.0362241866398
+['skateboard', 'mile']	['direction']	0.0841705768134
+['skateboard', 'mile']	['bike and travels']	0.134942673078
+['skateboard', 'mile']	['3 mile']	0.397268490074
+['skateboard', 'mile']	['hour']	0.182422153961
+['skateboard', 'mile']	['1.5 hour']	0.0368028975308
+['skateboard', 'mile']	['19.5 mile']	0.442012633359
+['skateboard', 'mile']	['peter travel']	0.0962884163941
+['1.5 hour', 'mile']	['juan and peter']	0.0410777933861
+['1.5 hour', 'mile']	['shopping center']	0.0361569291624
+['1.5 hour', 'mile']	['opposite direction']	0.0361569291624
+['1.5 hour', 'mile']	['direction']	0.516898486402
+['1.5 hour', 'mile']	['bike and travels']	0.0410777933861
+['1.5 hour', 'mile']	['3 mile']	0.397268490074
+['1.5 hour', 'mile']	['hour']	0.516160812213
+['1.5 hour', 'mile']	['skateboard']	0.458638083182
+['1.5 hour', 'mile']	['19.5 mile']	0.442012633359
+['1.5 hour', 'mile']	['peter travel']	0.0361569291624
+['19.5 mile', 'mile']	['juan and peter']	0.299623528004
+['19.5 mile', 'mile']	['shopping center']	0.150377262293
+['19.5 mile', 'mile']	['opposite direction']	0.183197852817
+['19.5 mile', 'mile']	['direction']	0.552459748245
+['19.5 mile', 'mile']	['bike and travels']	0.299623528004
+['19.5 mile', 'mile']	['3 mile']	0.689544863391
+['19.5 mile', 'mile']	['hour']	0.578571428571
+['19.5 mile', 'mile']	['skateboard']	0.557219504257
+['19.5 mile', 'mile']	['1.5 hour']	0.177448801378
+['19.5 mile', 'mile']	['peter travel']	0.0968024870635
+['peter travel', 'mile']	['juan and peter']	0.0410777933861
+['peter travel', 'mile']	['shopping center']	0.0361569291624
+['peter travel', 'mile']	['opposite direction']	0.0368701550083
+['peter travel', 'mile']	['direction']	0.471573052869
+['peter travel', 'mile']	['bike and travels']	0.0467896072558
+['peter travel', 'mile']	['3 mile']	0.397268490074
+['peter travel', 'mile']	['hour']	0.324529405779
+['peter travel', 'mile']	['skateboard']	0.583335124129
+['peter travel', 'mile']	['1.5 hour']	0.0368028975308
+['peter travel', 'mile']	['19.5 mile']	0.442012633359
+['juan and peter', '19.5 mile']	['shopping center']	0.15961386663
+['juan and peter', '19.5 mile']	['opposite direction']	0.15961386663
+['juan and peter', '19.5 mile']	['direction']	0.14394151833
+['juan and peter', '19.5 mile']	['bike and travels']	0.161708668161
+['juan and peter', '19.5 mile']	['3 mile']	0.653642048458
+['juan and peter', '19.5 mile']	['hour']	0.00636410188432
+['juan and peter', '19.5 mile']	['skateboard']	0.14956452107
+['juan and peter', '19.5 mile']	['1.5 hour']	0.15961386663
+['juan and peter', '19.5 mile']	['mile']	0.470339591612
+['juan and peter', '19.5 mile']	['peter travel']	0.15961386663
+['shopping center', '19.5 mile']	['juan and peter']	0.0941266761548
+['shopping center', '19.5 mile']	['opposite direction']	0.0901100077042
+['shopping center', '19.5 mile']	['direction']	0.0755560742463
+['shopping center', '19.5 mile']	['bike and travels']	0.096515242987
+['shopping center', '19.5 mile']	['3 mile']	0.584269096576
+['shopping center', '19.5 mile']	['hour']	0.00424649792755
+['shopping center', '19.5 mile']	['skateboard']	0.0764053905195
+['shopping center', '19.5 mile']	['1.5 hour']	0.0901100077042
+['shopping center', '19.5 mile']	['mile']	0.500847544769
+['shopping center', '19.5 mile']	['peter travel']	0.0827346205535
+['opposite direction', '19.5 mile']	['juan and peter']	0.0941266761548
+['opposite direction', '19.5 mile']	['shopping center']	0.0827346205535
+['opposite direction', '19.5 mile']	['direction']	0.612081485761
+['opposite direction', '19.5 mile']	['bike and travels']	0.0908034291173
+['opposite direction', '19.5 mile']	['3 mile']	0.549852778125
+['opposite direction', '19.5 mile']	['hour']	0.00424649792755
+['opposite direction', '19.5 mile']	['skateboard']	0.0777864840342
+['opposite direction', '19.5 mile']	['1.5 hour']	0.0901100077042
+['opposite direction', '19.5 mile']	['mile']	0.500847544769
+['opposite direction', '19.5 mile']	['peter travel']	0.0833805889219
+['direction', '19.5 mile']	['juan and peter']	0.0887553862424
+['direction', '19.5 mile']	['shopping center']	0.0833805889219
+['direction', '19.5 mile']	['opposite direction']	0.707594685938
+['direction', '19.5 mile']	['bike and travels']	0.094467200112
+['direction', '19.5 mile']	['3 mile']	0.538007739106
+['direction', '19.5 mile']	['hour']	0.278048264287
+['direction', '19.5 mile']	['skateboard']	0.712934528833
+['direction', '19.5 mile']	['1.5 hour']	0.0871340391838
+['direction', '19.5 mile']	['mile']	0.728894452255
+['direction', '19.5 mile']	['peter travel']	0.0833805889219
+['bike and travels', '19.5 mile']	['juan and peter']	0.161708668161
+['bike and travels', '19.5 mile']	['shopping center']	0.152884447848
+['bike and travels', '19.5 mile']	['opposite direction']	0.15961386663
+['bike and travels', '19.5 mile']	['direction']	0.14394151833
+['bike and travels', '19.5 mile']	['3 mile']	0.653642048458
+['bike and travels', '19.5 mile']	['hour']	0.00636410188432
+['bike and travels', '19.5 mile']	['skateboard']	0.284729676552
+['bike and travels', '19.5 mile']	['1.5 hour']	0.15961386663
+['bike and travels', '19.5 mile']	['mile']	0.437006258279
+['bike and travels', '19.5 mile']	['peter travel']	0.152238479479
+['3 mile', '19.5 mile']	['juan and peter']	0.297805101442
+['3 mile', '19.5 mile']	['shopping center']	0.14589133531
+['3 mile', '19.5 mile']	['opposite direction']	0.176486909159
+['3 mile', '19.5 mile']	['direction']	0.360804929274
+['3 mile', '19.5 mile']	['bike and travels']	0.272155795496
+['3 mile', '19.5 mile']	['hour']	0.156901862603
+['3 mile', '19.5 mile']	['skateboard']	0.339720112713
+['3 mile', '19.5 mile']	['1.5 hour']	0.139258682248
+['3 mile', '19.5 mile']	['mile']	0.766295816382
+['3 mile', '19.5 mile']	['peter travel']	0.14589133531
+['hour', '19.5 mile']	['juan and peter']	0.0163189992404
+['hour', '19.5 mile']	['shopping center']	0.015360451052
+['hour', '19.5 mile']	['opposite direction']	0.0154105889865
+['hour', '19.5 mile']	['direction']	0.275166582013
+['hour', '19.5 mile']	['bike and travels']	0.0151452903202
+['hour', '19.5 mile']	['3 mile']	0.0852471420558
+['hour', '19.5 mile']	['skateboard']	0.271463827652
+['hour', '19.5 mile']	['1.5 hour']	0.318744074959
+['hour', '19.5 mile']	['mile']	0.538610968519
+['hour', '19.5 mile']	['peter travel']	0.015360451052
+['skateboard', '19.5 mile']	['juan and peter']	0.0887553862424
+['skateboard', '19.5 mile']	['shopping center']	0.0901100077042
+['skateboard', '19.5 mile']	['opposite direction']	0.0827346205535
+['skateboard', '19.5 mile']	['direction']	0.693233910408
+['skateboard', '19.5 mile']	['bike and travels']	0.220445314053
+['skateboard', '19.5 mile']	['3 mile']	0.584269096576
+['skateboard', '19.5 mile']	['hour']	0.278048264287
+['skateboard', '19.5 mile']	['1.5 hour']	0.0901100077042
+['skateboard', '19.5 mile']	['mile']	0.733656357017
+['skateboard', '19.5 mile']	['peter travel']	0.21005435626
+['1.5 hour', '19.5 mile']	['juan and peter']	0.0941266761548
+['1.5 hour', '19.5 mile']	['shopping center']	0.0901100077042
+['1.5 hour', '19.5 mile']	['opposite direction']	0.0901100077042
+['1.5 hour', '19.5 mile']	['direction']	0.0891388738307
+['1.5 hour', '19.5 mile']	['bike and travels']	0.0941266761548
+['1.5 hour', '19.5 mile']	['3 mile']	0.584269096576
+['1.5 hour', '19.5 mile']	['hour']	0.244630235131
+['1.5 hour', '19.5 mile']	['skateboard']	0.0800606621439
+['1.5 hour', '19.5 mile']	['mile']	0.521949235874
+['1.5 hour', '19.5 mile']	['peter travel']	0.0901100077042
+['mile', '19.5 mile']	['juan and peter']	0.299623528004
+['mile', '19.5 mile']	['shopping center']	0.150377262293
+['mile', '19.5 mile']	['opposite direction']	0.183197852817
+['mile', '19.5 mile']	['direction']	0.552459748245
+['mile', '19.5 mile']	['bike and travels']	0.299623528004
+['mile', '19.5 mile']	['3 mile']	0.689544863391
+['mile', '19.5 mile']	['hour']	0.578571428571
+['mile', '19.5 mile']	['skateboard']	0.557219504257
+['mile', '19.5 mile']	['1.5 hour']	0.177448801378
+['mile', '19.5 mile']	['peter travel']	0.0968024870635
+['peter travel', '19.5 mile']	['juan and peter']	0.0941266761548
+['peter travel', '19.5 mile']	['shopping center']	0.0827346205535
+['peter travel', '19.5 mile']	['opposite direction']	0.0833805889219
+['peter travel', '19.5 mile']	['direction']	0.0744376594044
+['peter travel', '19.5 mile']	['bike and travels']	0.0908034291173
+['peter travel', '19.5 mile']	['3 mile']	0.573408386835
+['peter travel', '19.5 mile']	['hour']	0.00424649792755
+['peter travel', '19.5 mile']	['skateboard']	0.236198299177
+['peter travel', '19.5 mile']	['1.5 hour']	0.0901100077042
+['peter travel', '19.5 mile']	['mile']	0.351161209422
+['juan and peter', 'peter travel']	['shopping center']	0.152238479479
+['juan and peter', 'peter travel']	['opposite direction']	0.152884447848
+['juan and peter', 'peter travel']	['direction']	0.14394151833
+['juan and peter', 'peter travel']	['bike and travels']	0.156579181386
+['juan and peter', 'peter travel']	['3 mile']	0.152238479479
+['juan and peter', 'peter travel']	['hour']	0.00636410188432
+['juan and peter', 'peter travel']	['skateboard']	0.284729676552
+['juan and peter', 'peter travel']	['1.5 hour']	0.15961386663
+['juan and peter', 'peter travel']	['mile']	0.012852508684
+['juan and peter', 'peter travel']	['19.5 mile']	0.15961386663
+['shopping center', 'peter travel']	['juan and peter']	0.0941266761548
+['shopping center', 'peter travel']	['opposite direction']	0.0833805889219
+['shopping center', 'peter travel']	['direction']	0.0829886173223
+['shopping center', 'peter travel']	['bike and travels']	0.0951341494723
+['shopping center', 'peter travel']	['3 mile']	0.0827346205535
+['shopping center', 'peter travel']	['hour']	0.00424649792755
+['shopping center', 'peter travel']	['skateboard']	0.240133114847
+['shopping center', 'peter travel']	['1.5 hour']	0.0901100077042
+['shopping center', 'peter travel']	['mile']	0.0132263547461
+['shopping center', 'peter travel']	['19.5 mile']	0.0901100077042
+['opposite direction', 'peter travel']	['juan and peter']	0.0941266761548
+['opposite direction', 'peter travel']	['shopping center']	0.0827346205535
+['opposite direction', 'peter travel']	['direction']	0.619446836723
+['opposite direction', 'peter travel']	['bike and travels']	0.0908034291173
+['opposite direction', 'peter travel']	['3 mile']	0.0827346205535
+['opposite direction', 'peter travel']	['hour']	0.00424649792755
+['opposite direction', 'peter travel']	['skateboard']	0.247054553045
+['opposite direction', 'peter travel']	['1.5 hour']	0.0901100077042
+['opposite direction', 'peter travel']	['mile']	0.0132263547461
+['opposite direction', 'peter travel']	['19.5 mile']	0.0901100077042
+['direction', 'peter travel']	['juan and peter']	0.0887553862424
+['direction', 'peter travel']	['shopping center']	0.0800317642921
+['direction', 'peter travel']	['opposite direction']	0.730517361641
+['direction', 'peter travel']	['bike and travels']	0.0930861065974
+['direction', 'peter travel']	['3 mile']	0.0827346205535
+['direction', 'peter travel']	['hour']	0.175333773423
+['direction', 'peter travel']	['skateboard']	0.866020062478
+['direction', 'peter travel']	['1.5 hour']	0.0871340391838
+['direction', 'peter travel']	['mile']	0.324321592011
+['direction', 'peter travel']	['19.5 mile']	0.0827346205535
+['bike and travels', 'peter travel']	['juan and peter']	0.161708668161
+['bike and travels', 'peter travel']	['shopping center']	0.149535623218
+['bike and travels', 'peter travel']	['opposite direction']	0.152884447848
+['bike and travels', 'peter travel']	['direction']	0.14394151833
+['bike and travels', 'peter travel']	['3 mile']	0.152238479479
+['bike and travels', 'peter travel']	['hour']	0.011057018428
+['bike and travels', 'peter travel']	['skateboard']	0.242414353723
+['bike and travels', 'peter travel']	['1.5 hour']	0.15961386663
+['bike and travels', 'peter travel']	['mile']	0.0175454252276
+['bike and travels', 'peter travel']	['19.5 mile']	0.15961386663
+['3 mile', 'peter travel']	['juan and peter']	0.0941266761548
+['3 mile', 'peter travel']	['shopping center']	0.0827346205535
+['3 mile', 'peter travel']	['opposite direction']	0.0800317642921
+['3 mile', 'peter travel']	['direction']	0.0744376594044
+['3 mile', 'peter travel']	['bike and travels']	0.0908034291173
+['3 mile', 'peter travel']	['hour']	0.00424649792755
+['3 mile', 'peter travel']	['skateboard']	0.236198299177
+['3 mile', 'peter travel']	['1.5 hour']	0.0901100077042
+['3 mile', 'peter travel']	['mile']	0.344442191904
+['3 mile', 'peter travel']	['19.5 mile']	0.584269096576
+['hour', 'peter travel']	['juan and peter']	0.0163189992404
+['hour', 'peter travel']	['shopping center']	0.015360451052
+['hour', 'peter travel']	['opposite direction']	0.0243896682455
+['hour', 'peter travel']	['direction']	0.270296452143
+['hour', 'peter travel']	['bike and travels']	0.0208571041899
+['hour', 'peter travel']	['3 mile']	0.0160064194205
+['hour', 'peter travel']	['skateboard']	0.43632534236
+['hour', 'peter travel']	['1.5 hour']	0.318744074959
+['hour', 'peter travel']	['mile']	0.324529405779
+['hour', 'peter travel']	['19.5 mile']	0.0160064194205
+['skateboard', 'peter travel']	['juan and peter']	0.0887553862424
+['skateboard', 'peter travel']	['shopping center']	0.0827346205535
+['skateboard', 'peter travel']	['opposite direction']	0.0800317642921
+['skateboard', 'peter travel']	['direction']	0.688363780537
+['skateboard', 'peter travel']	['bike and travels']	0.220445314053
+['skateboard', 'peter travel']	['3 mile']	0.0827346205535
+['skateboard', 'peter travel']	['hour']	0.175333773423
+['skateboard', 'peter travel']	['1.5 hour']	0.0901100077042
+['skateboard', 'peter travel']	['mile']	0.319018561708
+['skateboard', 'peter travel']	['19.5 mile']	0.0901100077042
+['1.5 hour', 'peter travel']	['juan and peter']	0.0941266761548
+['1.5 hour', 'peter travel']	['shopping center']	0.0827346205535
+['1.5 hour', 'peter travel']	['opposite direction']	0.0833805889219
+['1.5 hour', 'peter travel']	['direction']	0.0965714169067
+['1.5 hour', 'peter travel']	['bike and travels']	0.0908034291173
+['1.5 hour', 'peter travel']	['3 mile']	0.0827346205535
+['1.5 hour', 'peter travel']	['hour']	0.202037569148
+['1.5 hour', 'peter travel']	['skateboard']	0.236198299177
+['1.5 hour', 'peter travel']	['mile']	0.0132263547461
+['1.5 hour', 'peter travel']	['19.5 mile']	0.0901100077042
+['mile', 'peter travel']	['juan and peter']	0.0410777933861
+['mile', 'peter travel']	['shopping center']	0.0361569291624
+['mile', 'peter travel']	['opposite direction']	0.0368701550083
+['mile', 'peter travel']	['direction']	0.471573052869
+['mile', 'peter travel']	['bike and travels']	0.0467896072558
+['mile', 'peter travel']	['3 mile']	0.397268490074
+['mile', 'peter travel']	['hour']	0.324529405779
+['mile', 'peter travel']	['skateboard']	0.583335124129
+['mile', 'peter travel']	['1.5 hour']	0.0368028975308
+['mile', 'peter travel']	['19.5 mile']	0.442012633359
+['19.5 mile', 'peter travel']	['juan and peter']	0.0941266761548
+['19.5 mile', 'peter travel']	['shopping center']	0.0827346205535
+['19.5 mile', 'peter travel']	['opposite direction']	0.0833805889219
+['19.5 mile', 'peter travel']	['direction']	0.0744376594044
+['19.5 mile', 'peter travel']	['bike and travels']	0.0908034291173
+['19.5 mile', 'peter travel']	['3 mile']	0.573408386835
+['19.5 mile', 'peter travel']	['hour']	0.00424649792755
+['19.5 mile', 'peter travel']	['skateboard']	0.236198299177
+['19.5 mile', 'peter travel']	['1.5 hour']	0.0901100077042
+['19.5 mile', 'peter travel']	['mile']	0.351161209422

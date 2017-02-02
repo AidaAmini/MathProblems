@@ -1,0 +1,1382 @@
+['hockey team', '2 point', '1 point', 'tie', 'wild cat', 'cat', 'championship', 'point', '60 point', '9 more game', 'wildcat have', 'have']
+['hockey team']	['2 point']	0.0827346205535
+['hockey team']	['1 point']	0.0827346205535
+['hockey team']	['tie']	0.0713754979226
+['hockey team']	['wild cat']	0.0827346205535
+['hockey team']	['cat']	0.0831172035382
+['hockey team']	['championship']	0.0777864840342
+['hockey team']	['point']	0.050052963724
+['hockey team']	['60 point']	0.0827346205535
+['hockey team']	['9 more game']	0.0908034291173
+['hockey team']	['wildcat have']	0.0827346205535
+['hockey team']	['have']	0.150291470448
+['2 point']	['1 point']	0.828768839235
+['2 point']	['tie']	0.153846998834
+['2 point']	['wild cat']	0.0827346205535
+['2 point']	['cat']	0.0831172035382
+['2 point']	['championship']	0.150291470448
+['2 point']	['60 point']	0.669829166534
+['2 point']	['9 more game']	0.379457278768
+['2 point']	['wildcat have']	0.0827346205535
+['2 point']	['have']	0.0888375395985
+['1 point']	['tie']	0.153846998834
+['1 point']	['wild cat']	0.0827346205535
+['1 point']	['cat']	0.0831172035382
+['1 point']	['championship']	0.150291470448
+['1 point']	['60 point']	0.669829166534
+['1 point']	['9 more game']	0.379457278768
+['1 point']	['wildcat have']	0.0827346205535
+['1 point']	['have']	0.0888375395985
+['tie']	['wild cat']	0.0737139440912
+['tie']	['cat']	0.0908262014664
+['tie']	['championship']	0.139635642922
+['tie']	['point']	0.0844098052714
+['tie']	['60 point']	0.150647383891
+['tie']	['9 more game']	0.0807707659053
+['tie']	['wildcat have']	0.0737139440912
+['tie']	['have']	0.0725183024459
+['wild cat']	['championship']	0.0777864840342
+['wild cat']	['point']	0.0575843031668
+['wild cat']	['60 point']	0.0827346205535
+['wild cat']	['9 more game']	0.096515242987
+['wild cat']	['wildcat have']	0.0827346205535
+['wild cat']	['have']	0.137541824024
+['cat']	['championship']	0.0834098541484
+['cat']	['point']	0.0624461512164
+['cat']	['60 point']	0.0737139440912
+['cat']	['9 more game']	0.0807707659053
+['cat']	['wildcat have']	0.13401742854
+['cat']	['have']	0.0853445385883
+['championship']	['point']	0.0760236969154
+['championship']	['60 point']	0.121375168769
+['championship']	['9 more game']	0.336092295447
+['championship']	['wildcat have']	0.0827346205535
+['championship']	['have']	0.0922858731158
+['point']	['9 more game']	0.120493788506
+['point']	['wildcat have']	0.0429586976843
+['point']	['have']	0.0428520175287
+['60 point']	['9 more game']	0.154200044182
+['60 point']	['wildcat have']	0.0827346205535
+['60 point']	['have']	0.0888375395985
+['9 more game']	['wildcat have']	0.0915001233665
+['9 more game']	['have']	0.151857895788
+['2 point', 'hockey team']	['1 point']	0.754360422532
+['2 point', 'hockey team']	['tie']	0.170700713028
+['2 point', 'hockey team']	['wild cat']	0.0827346205535
+['2 point', 'hockey team']	['cat']	0.0831172035382
+['2 point', 'hockey team']	['championship']	0.177092701503
+['2 point', 'hockey team']	['point']	0.626530910949
+['2 point', 'hockey team']	['60 point']	0.587641685872
+['2 point', 'hockey team']	['9 more game']	0.365426502964
+['2 point', 'hockey team']	['wildcat have']	0.0827346205535
+['2 point', 'hockey team']	['have']	0.15456816635
+['1 point', 'hockey team']	['2 point']	0.754360422532
+['1 point', 'hockey team']	['tie']	0.170700713028
+['1 point', 'hockey team']	['wild cat']	0.0827346205535
+['1 point', 'hockey team']	['cat']	0.0831172035382
+['1 point', 'hockey team']	['championship']	0.177092701503
+['1 point', 'hockey team']	['point']	0.626530910949
+['1 point', 'hockey team']	['60 point']	0.587641685872
+['1 point', 'hockey team']	['9 more game']	0.365426502964
+['1 point', 'hockey team']	['wildcat have']	0.0827346205535
+['1 point', 'hockey team']	['have']	0.15456816635
+['tie', 'hockey team']	['2 point']	0.14431437866
+['tie', 'hockey team']	['1 point']	0.14431437866
+['tie', 'hockey team']	['wild cat']	0.0696933362217
+['tie', 'hockey team']	['cat']	0.152111677623
+['tie', 'hockey team']	['championship']	0.230902147551
+['tie', 'hockey team']	['point']	0.493901750999
+['tie', 'hockey team']	['60 point']	0.14431437866
+['tie', 'hockey team']	['9 more game']	0.080802298149
+['tie', 'hockey team']	['wildcat have']	0.0696933362217
+['tie', 'hockey team']	['have']	0.186402276405
+['wild cat', 'hockey team']	['2 point']	0.0827346205535
+['wild cat', 'hockey team']	['1 point']	0.0827346205535
+['wild cat', 'hockey team']	['tie']	0.0774561735493
+['wild cat', 'hockey team']	['cat']	0.656845903701
+['wild cat', 'hockey team']	['championship']	0.0777864840342
+['wild cat', 'hockey team']	['point']	0.0523274735279
+['wild cat', 'hockey team']	['60 point']	0.0827346205535
+['wild cat', 'hockey team']	['9 more game']	0.096515242987
+['wild cat', 'hockey team']	['wildcat have']	0.0827346205535
+['wild cat', 'hockey team']	['have']	0.185271473246
+['cat', 'hockey team']	['2 point']	0.0696933362217
+['cat', 'hockey team']	['1 point']	0.0696933362217
+['cat', 'hockey team']	['tie']	0.181629075321
+['cat', 'hockey team']	['wild cat']	0.663903269648
+['cat', 'hockey team']	['championship']	0.284191304073
+['cat', 'hockey team']	['point']	0.332259564385
+['cat', 'hockey team']	['60 point']	0.0696933362217
+['cat', 'hockey team']	['9 more game']	0.080802298149
+['cat', 'hockey team']	['wildcat have']	0.183395737641
+['cat', 'hockey team']	['have']	0.26872594253
+['championship', 'hockey team']	['2 point']	0.138180177454
+['championship', 'hockey team']	['1 point']	0.138180177454
+['championship', 'hockey team']	['tie']	0.309100487934
+['championship', 'hockey team']	['wild cat']	0.0827346205535
+['championship', 'hockey team']	['cat']	0.294729371111
+['championship', 'hockey team']	['point']	0.566710019956
+['championship', 'hockey team']	['60 point']	0.138180177454
+['championship', 'hockey team']	['9 more game']	0.342617727231
+['championship', 'hockey team']	['wildcat have']	0.0827346205535
+['championship', 'hockey team']	['have']	0.211769268505
+['point', 'hockey team']	['2 point']	0.575468874693
+['point', 'hockey team']	['1 point']	0.575468874693
+['point', 'hockey team']	['tie']	0.537250492653
+['point', 'hockey team']	['wild cat']	0.0465787639079
+['point', 'hockey team']	['cat']	0.27480736927
+['point', 'hockey team']	['championship']	0.549215784848
+['point', 'hockey team']	['60 point']	0.621222272711
+['point', 'hockey team']	['9 more game']	0.129753322872
+['point', 'hockey team']	['wildcat have']	0.0465787639079
+['point', 'hockey team']	['have']	0.142607728068
+['60 point', 'hockey team']	['2 point']	0.587641685872
+['60 point', 'hockey team']	['1 point']	0.587641685872
+['60 point', 'hockey team']	['tie']	0.170700713028
+['60 point', 'hockey team']	['wild cat']	0.0827346205535
+['60 point', 'hockey team']	['cat']	0.0831172035382
+['60 point', 'hockey team']	['championship']	0.177092701503
+['60 point', 'hockey team']	['point']	0.629348064245
+['60 point', 'hockey team']	['9 more game']	0.167831903668
+['60 point', 'hockey team']	['wildcat have']	0.0827346205535
+['60 point', 'hockey team']	['have']	0.15456816635
+['9 more game', 'hockey team']	['2 point']	0.481561194969
+['9 more game', 'hockey team']	['1 point']	0.481561194969
+['9 more game', 'hockey team']	['tie']	0.143777280446
+['9 more game', 'hockey team']	['wild cat']	0.152238479479
+['9 more game', 'hockey team']	['cat']	0.146533383972
+['9 more game', 'hockey team']	['championship']	0.476032739949
+['9 more game', 'hockey team']	['point']	0.196405573398
+['9 more game', 'hockey team']	['60 point']	0.197610942174
+['9 more game', 'hockey team']	['wildcat have']	0.152238479479
+['9 more game', 'hockey team']	['have']	0.205961529218
+['wildcat have', 'hockey team']	['2 point']	0.0827346205535
+['wildcat have', 'hockey team']	['1 point']	0.0827346205535
+['wildcat have', 'hockey team']	['tie']	0.0774561735493
+['wildcat have', 'hockey team']	['wild cat']	0.0827346205535
+['wildcat have', 'hockey team']	['cat']	0.162123355899
+['wildcat have', 'hockey team']	['championship']	0.0777864840342
+['wildcat have', 'hockey team']	['point']	0.0523274735279
+['wildcat have', 'hockey team']	['60 point']	0.0827346205535
+['wildcat have', 'hockey team']	['9 more game']	0.0908034291173
+['wildcat have', 'hockey team']	['have']	0.68241481741
+['have', 'hockey team']	['2 point']	0.0827346205535
+['have', 'hockey team']	['1 point']	0.0827346205535
+['have', 'hockey team']	['tie']	0.103943647133
+['have', 'hockey team']	['wild cat']	0.167780840851
+['have', 'hockey team']	['cat']	0.205246340331
+['have', 'hockey team']	['championship']	0.110354633245
+['have', 'hockey team']	['point']	0.0826211129349
+['have', 'hockey team']	['60 point']	0.0827346205535
+['have', 'hockey team']	['9 more game']	0.0887553862424
+['have', 'hockey team']	['wildcat have']	0.688306617346
+['hockey team', '2 point']	['1 point']	0.754360422532
+['hockey team', '2 point']	['tie']	0.170700713028
+['hockey team', '2 point']	['wild cat']	0.0827346205535
+['hockey team', '2 point']	['cat']	0.0831172035382
+['hockey team', '2 point']	['championship']	0.177092701503
+['hockey team', '2 point']	['point']	0.626530910949
+['hockey team', '2 point']	['60 point']	0.587641685872
+['hockey team', '2 point']	['9 more game']	0.365426502964
+['hockey team', '2 point']	['wildcat have']	0.0827346205535
+['hockey team', '2 point']	['have']	0.15456816635
+['1 point', '2 point']	['hockey team']	0.153587928078
+['1 point', '2 point']	['tie']	0.518758089275
+['1 point', '2 point']	['wild cat']	0.184995399404
+['1 point', '2 point']	['cat']	0.322323177041
+['1 point', '2 point']	['championship']	0.444828773282
+['1 point', '2 point']	['point']	0.803701581411
+['1 point', '2 point']	['60 point']	0.849613862614
+['1 point', '2 point']	['9 more game']	0.7450841911
+['1 point', '2 point']	['wildcat have']	0.153587928078
+['1 point', '2 point']	['have']	0.325390866884
+['tie', '2 point']	['hockey team']	0.0669904799604
+['tie', '2 point']	['1 point']	0.795744287633
+['tie', '2 point']	['wild cat']	0.0696933362217
+['tie', '2 point']	['cat']	0.152111677623
+['tie', '2 point']	['championship']	0.303704048605
+['tie', '2 point']	['point']	0.753760436994
+['tie', '2 point']	['60 point']	0.541547997037
+['tie', '2 point']	['9 more game']	0.273189578515
+['tie', '2 point']	['wildcat have']	0.0696933362217
+['tie', '2 point']	['have']	0.0993639400298
+['wild cat', '2 point']	['hockey team']	0.0827346205535
+['wild cat', '2 point']	['1 point']	0.754360422532
+['wild cat', '2 point']	['tie']	0.134019865814
+['wild cat', '2 point']	['cat']	0.656845903701
+['wild cat', '2 point']	['championship']	0.177092701503
+['wild cat', '2 point']	['point']	0.475468129066
+['wild cat', '2 point']	['60 point']	0.594573661836
+['wild cat', '2 point']	['9 more game']	0.392130216429
+['wild cat', '2 point']	['wildcat have']	0.0827346205535
+['wild cat', '2 point']	['have']	0.201216450434
+['cat', '2 point']	['hockey team']	0.0696933362217
+['cat', '2 point']	['1 point']	0.736313764211
+['cat', '2 point']	['tie']	0.251698926678
+['cat', '2 point']	['wild cat']	0.778818182768
+['cat', '2 point']	['championship']	0.528162240829
+['cat', '2 point']	['point']	0.681645052378
+['cat', '2 point']	['60 point']	0.525526174317
+['cat', '2 point']	['9 more game']	0.273189578515
+['cat', '2 point']	['wildcat have']	0.183395737641
+['cat', '2 point']	['have']	0.234818540683
+['championship', '2 point']	['hockey team']	0.0827346205535
+['championship', '2 point']	['1 point']	0.806579200849
+['championship', '2 point']	['tie']	0.334771514165
+['championship', '2 point']	['wild cat']	0.0827346205535
+['championship', '2 point']	['cat']	0.294729371111
+['championship', '2 point']	['point']	0.755788028967
+['championship', '2 point']	['60 point']	0.646146253414
+['championship', '2 point']	['9 more game']	0.379457278768
+['championship', '2 point']	['wildcat have']	0.0827346205535
+['championship', '2 point']	['have']	0.1191315107
+['point', '2 point']	['hockey team']	0.176424014536
+['point', '2 point']	['1 point']	0.897746033891
+['point', '2 point']	['tie']	0.837045276194
+['point', '2 point']	['wild cat']	0.124829049051
+['point', '2 point']	['cat']	0.422554462668
+['point', '2 point']	['championship']	0.753484794842
+['point', '2 point']	['60 point']	0.897929299464
+['point', '2 point']	['9 more game']	0.680362778967
+['point', '2 point']	['wildcat have']	0.124609221473
+['point', '2 point']	['have']	0.264731227956
+['60 point', '2 point']	['hockey team']	0.153587928078
+['60 point', '2 point']	['1 point']	0.845821569933
+['60 point', '2 point']	['tie']	0.518758089275
+['60 point', '2 point']	['wild cat']	0.184995399404
+['60 point', '2 point']	['cat']	0.322323177041
+['60 point', '2 point']	['championship']	0.444828773282
+['60 point', '2 point']	['point']	0.807034914745
+['60 point', '2 point']	['9 more game']	0.746337521102
+['60 point', '2 point']	['wildcat have']	0.153587928078
+['60 point', '2 point']	['have']	0.325390866884
+['9 more game', '2 point']	['hockey team']	0.152238479479
+['9 more game', '2 point']	['1 point']	0.861862481018
+['9 more game', '2 point']	['tie']	0.250826439053
+['9 more game', '2 point']	['wild cat']	0.152238479479
+['9 more game', '2 point']	['cat']	0.146533383972
+['9 more game', '2 point']	['championship']	0.448186346902
+['9 more game', '2 point']	['point']	0.755181949516
+['9 more game', '2 point']	['60 point']	0.743380388481
+['9 more game', '2 point']	['wildcat have']	0.152238479479
+['9 more game', '2 point']	['have']	0.211529795267
+['wildcat have', '2 point']	['hockey team']	0.0827346205535
+['wildcat have', '2 point']	['1 point']	0.754360422532
+['wildcat have', '2 point']	['tie']	0.134019865814
+['wildcat have', '2 point']	['wild cat']	0.0827346205535
+['wildcat have', '2 point']	['cat']	0.162123355899
+['wildcat have', '2 point']	['championship']	0.15456816635
+['wildcat have', '2 point']	['point']	0.475468129066
+['wildcat have', '2 point']	['60 point']	0.587641685872
+['wildcat have', '2 point']	['9 more game']	0.365426502964
+['wildcat have', '2 point']	['have']	0.648874086783
+['have', '2 point']	['hockey team']	0.138180177454
+['have', '2 point']	['1 point']	0.760386850763
+['have', '2 point']	['tie']	0.205786135423
+['have', '2 point']	['wild cat']	0.178637094719
+['have', '2 point']	['cat']	0.205246340331
+['have', '2 point']	['championship']	0.211769268505
+['have', '2 point']	['point']	0.715290200357
+['have', '2 point']	['60 point']	0.61033478077
+['have', '2 point']	['9 more game']	0.33845188701
+['have', '2 point']	['wildcat have']	0.688306617346
+['hockey team', '1 point']	['2 point']	0.754360422532
+['hockey team', '1 point']	['tie']	0.170700713028
+['hockey team', '1 point']	['wild cat']	0.0827346205535
+['hockey team', '1 point']	['cat']	0.0831172035382
+['hockey team', '1 point']	['championship']	0.177092701503
+['hockey team', '1 point']	['point']	0.626530910949
+['hockey team', '1 point']	['60 point']	0.587641685872
+['hockey team', '1 point']	['9 more game']	0.365426502964
+['hockey team', '1 point']	['wildcat have']	0.0827346205535
+['hockey team', '1 point']	['have']	0.15456816635
+['2 point', '1 point']	['hockey team']	0.153587928078
+['2 point', '1 point']	['tie']	0.518758089275
+['2 point', '1 point']	['wild cat']	0.184995399404
+['2 point', '1 point']	['cat']	0.322323177041
+['2 point', '1 point']	['championship']	0.444828773282
+['2 point', '1 point']	['point']	0.803701581411
+['2 point', '1 point']	['60 point']	0.849613862614
+['2 point', '1 point']	['9 more game']	0.7450841911
+['2 point', '1 point']	['wildcat have']	0.153587928078
+['2 point', '1 point']	['have']	0.325390866884
+['tie', '1 point']	['hockey team']	0.0669904799604
+['tie', '1 point']	['2 point']	0.795744287633
+['tie', '1 point']	['wild cat']	0.0696933362217
+['tie', '1 point']	['cat']	0.152111677623
+['tie', '1 point']	['championship']	0.303704048605
+['tie', '1 point']	['point']	0.753760436994
+['tie', '1 point']	['60 point']	0.541547997037
+['tie', '1 point']	['9 more game']	0.273189578515
+['tie', '1 point']	['wildcat have']	0.0696933362217
+['tie', '1 point']	['have']	0.0993639400298
+['wild cat', '1 point']	['hockey team']	0.0827346205535
+['wild cat', '1 point']	['2 point']	0.754360422532
+['wild cat', '1 point']	['tie']	0.134019865814
+['wild cat', '1 point']	['cat']	0.656845903701
+['wild cat', '1 point']	['championship']	0.177092701503
+['wild cat', '1 point']	['point']	0.475468129066
+['wild cat', '1 point']	['60 point']	0.594573661836
+['wild cat', '1 point']	['9 more game']	0.392130216429
+['wild cat', '1 point']	['wildcat have']	0.0827346205535
+['wild cat', '1 point']	['have']	0.201216450434
+['cat', '1 point']	['hockey team']	0.0696933362217
+['cat', '1 point']	['2 point']	0.736313764211
+['cat', '1 point']	['tie']	0.251698926678
+['cat', '1 point']	['wild cat']	0.778818182768
+['cat', '1 point']	['championship']	0.528162240829
+['cat', '1 point']	['point']	0.681645052378
+['cat', '1 point']	['60 point']	0.525526174317
+['cat', '1 point']	['9 more game']	0.273189578515
+['cat', '1 point']	['wildcat have']	0.183395737641
+['cat', '1 point']	['have']	0.234818540683
+['championship', '1 point']	['hockey team']	0.0827346205535
+['championship', '1 point']	['2 point']	0.806579200849
+['championship', '1 point']	['tie']	0.334771514165
+['championship', '1 point']	['wild cat']	0.0827346205535
+['championship', '1 point']	['cat']	0.294729371111
+['championship', '1 point']	['point']	0.755788028967
+['championship', '1 point']	['60 point']	0.646146253414
+['championship', '1 point']	['9 more game']	0.379457278768
+['championship', '1 point']	['wildcat have']	0.0827346205535
+['championship', '1 point']	['have']	0.1191315107
+['point', '1 point']	['hockey team']	0.176424014536
+['point', '1 point']	['2 point']	0.897746033891
+['point', '1 point']	['tie']	0.837045276194
+['point', '1 point']	['wild cat']	0.124829049051
+['point', '1 point']	['cat']	0.422554462668
+['point', '1 point']	['championship']	0.753484794842
+['point', '1 point']	['60 point']	0.897929299464
+['point', '1 point']	['9 more game']	0.680362778967
+['point', '1 point']	['wildcat have']	0.124609221473
+['point', '1 point']	['have']	0.264731227956
+['60 point', '1 point']	['hockey team']	0.153587928078
+['60 point', '1 point']	['2 point']	0.845821569933
+['60 point', '1 point']	['tie']	0.518758089275
+['60 point', '1 point']	['wild cat']	0.184995399404
+['60 point', '1 point']	['cat']	0.322323177041
+['60 point', '1 point']	['championship']	0.444828773282
+['60 point', '1 point']	['point']	0.807034914745
+['60 point', '1 point']	['9 more game']	0.746337521102
+['60 point', '1 point']	['wildcat have']	0.153587928078
+['60 point', '1 point']	['have']	0.325390866884
+['9 more game', '1 point']	['hockey team']	0.152238479479
+['9 more game', '1 point']	['2 point']	0.861862481018
+['9 more game', '1 point']	['tie']	0.250826439053
+['9 more game', '1 point']	['wild cat']	0.152238479479
+['9 more game', '1 point']	['cat']	0.146533383972
+['9 more game', '1 point']	['championship']	0.448186346902
+['9 more game', '1 point']	['point']	0.755181949516
+['9 more game', '1 point']	['60 point']	0.743380388481
+['9 more game', '1 point']	['wildcat have']	0.152238479479
+['9 more game', '1 point']	['have']	0.211529795267
+['wildcat have', '1 point']	['hockey team']	0.0827346205535
+['wildcat have', '1 point']	['2 point']	0.754360422532
+['wildcat have', '1 point']	['tie']	0.134019865814
+['wildcat have', '1 point']	['wild cat']	0.0827346205535
+['wildcat have', '1 point']	['cat']	0.162123355899
+['wildcat have', '1 point']	['championship']	0.15456816635
+['wildcat have', '1 point']	['point']	0.475468129066
+['wildcat have', '1 point']	['60 point']	0.587641685872
+['wildcat have', '1 point']	['9 more game']	0.365426502964
+['wildcat have', '1 point']	['have']	0.648874086783
+['have', '1 point']	['hockey team']	0.138180177454
+['have', '1 point']	['2 point']	0.760386850763
+['have', '1 point']	['tie']	0.205786135423
+['have', '1 point']	['wild cat']	0.178637094719
+['have', '1 point']	['cat']	0.205246340331
+['have', '1 point']	['championship']	0.211769268505
+['have', '1 point']	['point']	0.715290200357
+['have', '1 point']	['60 point']	0.61033478077
+['have', '1 point']	['9 more game']	0.33845188701
+['have', '1 point']	['wildcat have']	0.688306617346
+['hockey team', 'tie']	['2 point']	0.14431437866
+['hockey team', 'tie']	['1 point']	0.14431437866
+['hockey team', 'tie']	['wild cat']	0.0696933362217
+['hockey team', 'tie']	['cat']	0.152111677623
+['hockey team', 'tie']	['championship']	0.230902147551
+['hockey team', 'tie']	['point']	0.493901750999
+['hockey team', 'tie']	['60 point']	0.14431437866
+['hockey team', 'tie']	['9 more game']	0.080802298149
+['hockey team', 'tie']	['wildcat have']	0.0696933362217
+['hockey team', 'tie']	['have']	0.186402276405
+['2 point', 'tie']	['hockey team']	0.0669904799604
+['2 point', 'tie']	['1 point']	0.795744287633
+['2 point', 'tie']	['wild cat']	0.0696933362217
+['2 point', 'tie']	['cat']	0.152111677623
+['2 point', 'tie']	['championship']	0.303704048605
+['2 point', 'tie']	['point']	0.753760436994
+['2 point', 'tie']	['60 point']	0.541547997037
+['2 point', 'tie']	['9 more game']	0.273189578515
+['2 point', 'tie']	['wildcat have']	0.0696933362217
+['2 point', 'tie']	['have']	0.0993639400298
+['1 point', 'tie']	['hockey team']	0.0669904799604
+['1 point', 'tie']	['2 point']	0.795744287633
+['1 point', 'tie']	['wild cat']	0.0696933362217
+['1 point', 'tie']	['cat']	0.152111677623
+['1 point', 'tie']	['championship']	0.303704048605
+['1 point', 'tie']	['point']	0.753760436994
+['1 point', 'tie']	['60 point']	0.541547997037
+['1 point', 'tie']	['9 more game']	0.273189578515
+['1 point', 'tie']	['wildcat have']	0.0696933362217
+['1 point', 'tie']	['have']	0.0993639400298
+['wild cat', 'tie']	['hockey team']	0.0669904799604
+['wild cat', 'tie']	['2 point']	0.164802867164
+['wild cat', 'tie']	['1 point']	0.164802867164
+['wild cat', 'tie']	['cat']	0.725335912162
+['wild cat', 'tie']	['championship']	0.230902147551
+['wild cat', 'tie']	['point']	0.517331959024
+['wild cat', 'tie']	['60 point']	0.164802867164
+['wild cat', 'tie']	['9 more game']	0.080802298149
+['wild cat', 'tie']	['wildcat have']	0.0696933362217
+['wild cat', 'tie']	['have']	0.195807300452
+['cat', 'tie']	['hockey team']	0.132417152272
+['cat', 'tie']	['2 point']	0.186698956661
+['cat', 'tie']	['1 point']	0.186698956661
+['cat', 'tie']	['wild cat']	0.673139503356
+['cat', 'tie']	['championship']	0.360719983824
+['cat', 'tie']	['point']	0.289777973266
+['cat', 'tie']	['60 point']	0.186698956661
+['cat', 'tie']	['9 more game']	0.142848613587
+['cat', 'tie']	['wildcat have']	0.221226425472
+['cat', 'tie']	['have']	0.239244942304
+['championship', 'tie']	['hockey team']	0.0669904799604
+['championship', 'tie']	['2 point']	0.150647383891
+['championship', 'tie']	['1 point']	0.150647383891
+['championship', 'tie']	['wild cat']	0.0696933362217
+['championship', 'tie']	['cat']	0.136504272706
+['championship', 'tie']	['point']	0.0700642022194
+['championship', 'tie']	['60 point']	0.150647383891
+['championship', 'tie']	['9 more game']	0.277449580695
+['championship', 'tie']	['wildcat have']	0.0696933362217
+['championship', 'tie']	['have']	0.0725183024459
+['point', 'tie']	['hockey team']	0.115031174105
+['point', 'tie']	['2 point']	0.758318811428
+['point', 'tie']	['1 point']	0.758318811428
+['point', 'tie']	['wild cat']	0.105036545366
+['point', 'tie']	['cat']	0.142422392939
+['point', 'tie']	['championship']	0.50759991248
+['point', 'tie']	['60 point']	0.753728557316
+['point', 'tie']	['9 more game']	0.143204892219
+['point', 'tie']	['wildcat have']	0.105036545366
+['point', 'tie']	['have']	0.104929865211
+['60 point', 'tie']	['hockey team']	0.0669904799604
+['60 point', 'tie']	['2 point']	0.541547997037
+['60 point', 'tie']	['1 point']	0.541547997037
+['60 point', 'tie']	['wild cat']	0.0696933362217
+['60 point', 'tie']	['cat']	0.152111677623
+['60 point', 'tie']	['championship']	0.303704048605
+['60 point', 'tie']	['point']	0.756688364922
+['60 point', 'tie']	['9 more game']	0.123700929967
+['60 point', 'tie']	['wildcat have']	0.0696933362217
+['60 point', 'tie']	['have']	0.0993639400298
+['9 more game', 'tie']	['hockey team']	0.0669904799604
+['9 more game', 'tie']	['2 point']	0.355901388508
+['9 more game', 'tie']	['1 point']	0.355901388508
+['9 more game', 'tie']	['wild cat']	0.0696933362217
+['9 more game', 'tie']	['cat']	0.131627345199
+['9 more game', 'tie']	['championship']	0.378578608766
+['9 more game', 'tie']	['point']	0.640997247509
+['9 more game', 'tie']	['60 point']	0.150647383891
+['9 more game', 'tie']	['wildcat have']	0.0696933362217
+['9 more game', 'tie']	['have']	0.110747054358
+['wildcat have', 'tie']	['hockey team']	0.0669904799604
+['wildcat have', 'tie']	['2 point']	0.130048808393
+['wildcat have', 'tie']	['1 point']	0.130048808393
+['wildcat have', 'tie']	['wild cat']	0.0696933362217
+['wildcat have', 'tie']	['cat']	0.327810725388
+['wildcat have', 'tie']	['championship']	0.230934220149
+['wildcat have', 'tie']	['point']	0.517331959024
+['wildcat have', 'tie']	['60 point']	0.130048808393
+['wildcat have', 'tie']	['9 more game']	0.080802298149
+['wildcat have', 'tie']	['have']	0.670184280237
+['have', 'tie']	['hockey team']	0.105345478515
+['have', 'tie']	['2 point']	0.130048808393
+['have', 'tie']	['1 point']	0.130048808393
+['have', 'tie']	['wild cat']	0.119730948965
+['have', 'tie']	['cat']	0.251098528649
+['have', 'tie']	['championship']	0.204088582565
+['have', 'tie']	['point']	0.46057458941
+['have', 'tie']	['60 point']	0.130048808393
+['have', 'tie']	['9 more game']	0.0807707659053
+['have', 'tie']	['wildcat have']	0.649177216702
+['hockey team', 'wild cat']	['2 point']	0.0827346205535
+['hockey team', 'wild cat']	['1 point']	0.0827346205535
+['hockey team', 'wild cat']	['tie']	0.0774561735493
+['hockey team', 'wild cat']	['cat']	0.656845903701
+['hockey team', 'wild cat']	['championship']	0.0777864840342
+['hockey team', 'wild cat']	['point']	0.0523274735279
+['hockey team', 'wild cat']	['60 point']	0.0827346205535
+['hockey team', 'wild cat']	['9 more game']	0.096515242987
+['hockey team', 'wild cat']	['wildcat have']	0.0827346205535
+['hockey team', 'wild cat']	['have']	0.185271473246
+['2 point', 'wild cat']	['hockey team']	0.0827346205535
+['2 point', 'wild cat']	['1 point']	0.754360422532
+['2 point', 'wild cat']	['tie']	0.134019865814
+['2 point', 'wild cat']	['cat']	0.656845903701
+['2 point', 'wild cat']	['championship']	0.177092701503
+['2 point', 'wild cat']	['point']	0.475468129066
+['2 point', 'wild cat']	['60 point']	0.594573661836
+['2 point', 'wild cat']	['9 more game']	0.392130216429
+['2 point', 'wild cat']	['wildcat have']	0.0827346205535
+['2 point', 'wild cat']	['have']	0.201216450434
+['1 point', 'wild cat']	['hockey team']	0.0827346205535
+['1 point', 'wild cat']	['2 point']	0.754360422532
+['1 point', 'wild cat']	['tie']	0.134019865814
+['1 point', 'wild cat']	['cat']	0.656845903701
+['1 point', 'wild cat']	['championship']	0.177092701503
+['1 point', 'wild cat']	['point']	0.475468129066
+['1 point', 'wild cat']	['60 point']	0.594573661836
+['1 point', 'wild cat']	['9 more game']	0.392130216429
+['1 point', 'wild cat']	['wildcat have']	0.0827346205535
+['1 point', 'wild cat']	['have']	0.201216450434
+['tie', 'wild cat']	['hockey team']	0.0669904799604
+['tie', 'wild cat']	['2 point']	0.164802867164
+['tie', 'wild cat']	['1 point']	0.164802867164
+['tie', 'wild cat']	['cat']	0.725335912162
+['tie', 'wild cat']	['championship']	0.230902147551
+['tie', 'wild cat']	['point']	0.517331959024
+['tie', 'wild cat']	['60 point']	0.164802867164
+['tie', 'wild cat']	['9 more game']	0.080802298149
+['tie', 'wild cat']	['wildcat have']	0.0696933362217
+['tie', 'wild cat']	['have']	0.195807300452
+['cat', 'wild cat']	['hockey team']	0.144528281371
+['cat', 'wild cat']	['2 point']	0.167427262452
+['cat', 'wild cat']	['1 point']	0.167427262452
+['cat', 'wild cat']	['tie']	0.514101957907
+['cat', 'wild cat']	['championship']	0.530965483053
+['cat', 'wild cat']	['point']	0.422554462668
+['cat', 'wild cat']	['60 point']	0.167427262452
+['cat', 'wild cat']	['9 more game']	0.369715536262
+['cat', 'wild cat']	['wildcat have']	0.419926380719
+['cat', 'wild cat']	['have']	0.534162371418
+['championship', 'wild cat']	['hockey team']	0.0827346205535
+['championship', 'wild cat']	['2 point']	0.146731135372
+['championship', 'wild cat']	['1 point']	0.146731135372
+['championship', 'wild cat']	['tie']	0.285721838028
+['championship', 'wild cat']	['cat']	0.844874966261
+['championship', 'wild cat']	['point']	0.5489418413
+['championship', 'wild cat']	['60 point']	0.146731135372
+['championship', 'wild cat']	['9 more game']	0.344062991684
+['championship', 'wild cat']	['wildcat have']	0.0827346205535
+['championship', 'wild cat']	['have']	0.195765682835
+['point', 'wild cat']	['hockey team']	0.0453544228225
+['point', 'wild cat']	['2 point']	0.63865392335
+['point', 'wild cat']	['1 point']	0.63865392335
+['point', 'wild cat']	['tie']	0.517331959024
+['point', 'wild cat']	['cat']	0.682019116672
+['point', 'wild cat']	['championship']	0.549215784848
+['point', 'wild cat']	['60 point']	0.663536679483
+['point', 'wild cat']	['9 more game']	0.0964199895384
+['point', 'wild cat']	['wildcat have']	0.0465787639079
+['point', 'wild cat']	['have']	0.17343026128
+['60 point', 'wild cat']	['hockey team']	0.0827346205535
+['60 point', 'wild cat']	['2 point']	0.594573661836
+['60 point', 'wild cat']	['1 point']	0.594573661836
+['60 point', 'wild cat']	['tie']	0.134019865814
+['60 point', 'wild cat']	['cat']	0.656845903701
+['60 point', 'wild cat']	['championship']	0.177092701503
+['60 point', 'wild cat']	['point']	0.491955654068
+['60 point', 'wild cat']	['9 more game']	0.192922281126
+['60 point', 'wild cat']	['wildcat have']	0.0827346205535
+['60 point', 'wild cat']	['have']	0.201216450434
+['9 more game', 'wild cat']	['hockey team']	0.152238479479
+['9 more game', 'wild cat']	['2 point']	0.508264908435
+['9 more game', 'wild cat']	['1 point']	0.508264908435
+['9 more game', 'wild cat']	['tie']	0.146533383972
+['9 more game', 'wild cat']	['cat']	0.84188959754
+['9 more game', 'wild cat']	['championship']	0.476032739949
+['9 more game', 'wild cat']	['point']	0.115677899527
+['9 more game', 'wild cat']	['60 point']	0.175133862709
+['9 more game', 'wild cat']	['wildcat have']	0.152238479479
+['9 more game', 'wild cat']	['have']	0.215215010456
+['wildcat have', 'wild cat']	['hockey team']	0.0827346205535
+['wildcat have', 'wild cat']	['2 point']	0.0827346205535
+['wildcat have', 'wild cat']	['1 point']	0.0827346205535
+['wildcat have', 'wild cat']	['tie']	0.0831172035382
+['wildcat have', 'wild cat']	['cat']	0.789515625834
+['wildcat have', 'wild cat']	['championship']	0.0777864840342
+['wildcat have', 'wild cat']	['point']	0.0575843031668
+['wildcat have', 'wild cat']	['60 point']	0.0827346205535
+['wildcat have', 'wild cat']	['9 more game']	0.0908034291173
+['wildcat have', 'wild cat']	['have']	0.684375601723
+['have', 'wild cat']	['hockey team']	0.138180177454
+['have', 'wild cat']	['2 point']	0.0827346205535
+['have', 'wild cat']	['1 point']	0.0827346205535
+['have', 'wild cat']	['tie']	0.113411174639
+['have', 'wild cat']	['cat']	0.748719724544
+['have', 'wild cat']	['championship']	0.110354633245
+['have', 'wild cat']	['point']	0.0878782742679
+['have', 'wild cat']	['60 point']	0.0827346205535
+['have', 'wild cat']	['9 more game']	0.0887553862424
+['have', 'wild cat']	['wildcat have']	0.71050767883
+['hockey team', 'cat']	['2 point']	0.0696933362217
+['hockey team', 'cat']	['1 point']	0.0696933362217
+['hockey team', 'cat']	['tie']	0.181629075321
+['hockey team', 'cat']	['wild cat']	0.663903269648
+['hockey team', 'cat']	['championship']	0.284191304073
+['hockey team', 'cat']	['point']	0.332259564385
+['hockey team', 'cat']	['60 point']	0.0696933362217
+['hockey team', 'cat']	['9 more game']	0.080802298149
+['hockey team', 'cat']	['wildcat have']	0.183395737641
+['hockey team', 'cat']	['have']	0.26872594253
+['2 point', 'cat']	['hockey team']	0.0696933362217
+['2 point', 'cat']	['1 point']	0.736313764211
+['2 point', 'cat']	['tie']	0.251698926678
+['2 point', 'cat']	['wild cat']	0.778818182768
+['2 point', 'cat']	['championship']	0.528162240829
+['2 point', 'cat']	['point']	0.681645052378
+['2 point', 'cat']	['60 point']	0.525526174317
+['2 point', 'cat']	['9 more game']	0.273189578515
+['2 point', 'cat']	['wildcat have']	0.183395737641
+['2 point', 'cat']	['have']	0.234818540683
+['1 point', 'cat']	['hockey team']	0.0696933362217
+['1 point', 'cat']	['2 point']	0.736313764211
+['1 point', 'cat']	['tie']	0.251698926678
+['1 point', 'cat']	['wild cat']	0.778818182768
+['1 point', 'cat']	['championship']	0.528162240829
+['1 point', 'cat']	['point']	0.681645052378
+['1 point', 'cat']	['60 point']	0.525526174317
+['1 point', 'cat']	['9 more game']	0.273189578515
+['1 point', 'cat']	['wildcat have']	0.183395737641
+['1 point', 'cat']	['have']	0.234818540683
+['tie', 'cat']	['hockey team']	0.132417152272
+['tie', 'cat']	['2 point']	0.186698956661
+['tie', 'cat']	['1 point']	0.186698956661
+['tie', 'cat']	['wild cat']	0.673139503356
+['tie', 'cat']	['championship']	0.360719983824
+['tie', 'cat']	['point']	0.289777973266
+['tie', 'cat']	['60 point']	0.186698956661
+['tie', 'cat']	['9 more game']	0.142848613587
+['tie', 'cat']	['wildcat have']	0.221226425472
+['tie', 'cat']	['have']	0.239244942304
+['wild cat', 'cat']	['hockey team']	0.144528281371
+['wild cat', 'cat']	['2 point']	0.167427262452
+['wild cat', 'cat']	['1 point']	0.167427262452
+['wild cat', 'cat']	['tie']	0.514101957907
+['wild cat', 'cat']	['championship']	0.530965483053
+['wild cat', 'cat']	['point']	0.422554462668
+['wild cat', 'cat']	['60 point']	0.167427262452
+['wild cat', 'cat']	['9 more game']	0.369715536262
+['wild cat', 'cat']	['wildcat have']	0.419926380719
+['wild cat', 'cat']	['have']	0.534162371418
+['championship', 'cat']	['hockey team']	0.0696933362217
+['championship', 'cat']	['2 point']	0.103222748661
+['championship', 'cat']	['1 point']	0.103222748661
+['championship', 'cat']	['tie']	0.105747397519
+['championship', 'cat']	['wild cat']	0.775892587953
+['championship', 'cat']	['point']	0.276760731886
+['championship', 'cat']	['60 point']	0.103222748661
+['championship', 'cat']	['9 more game']	0.277449580695
+['championship', 'cat']	['wildcat have']	0.195300499546
+['championship', 'cat']	['have']	0.207891316963
+['point', 'cat']	['hockey team']	0.109706780308
+['point', 'cat']	['2 point']	0.562373787446
+['point', 'cat']	['1 point']	0.562373787446
+['point', 'cat']	['tie']	0.294163729506
+['point', 'cat']	['wild cat']	0.553741812118
+['point', 'cat']	['championship']	0.325689566988
+['point', 'cat']	['60 point']	0.587227714565
+['point', 'cat']	['9 more game']	0.143204892219
+['point', 'cat']	['wildcat have']	0.121672159604
+['point', 'cat']	['have']	0.170615817802
+['60 point', 'cat']	['hockey team']	0.0696933362217
+['60 point', 'cat']	['2 point']	0.525526174317
+['60 point', 'cat']	['1 point']	0.525526174317
+['60 point', 'cat']	['tie']	0.251698926678
+['60 point', 'cat']	['wild cat']	0.778818182768
+['60 point', 'cat']	['championship']	0.528162240829
+['60 point', 'cat']	['point']	0.684572980306
+['60 point', 'cat']	['9 more game']	0.123700929967
+['60 point', 'cat']	['wildcat have']	0.183395737641
+['60 point', 'cat']	['have']	0.234818540683
+['9 more game', 'cat']	['hockey team']	0.0696933362217
+['9 more game', 'cat']	['2 point']	0.274556493975
+['9 more game', 'cat']	['1 point']	0.274556493975
+['9 more game', 'cat']	['tie']	0.131627345199
+['9 more game', 'cat']	['wild cat']	0.769972028922
+['9 more game', 'cat']	['championship']	0.607442125834
+['9 more game', 'cat']	['point']	0.472295438314
+['9 more game', 'cat']	['60 point']	0.105691884463
+['9 more game', 'cat']	['wildcat have']	0.185864873443
+['9 more game', 'cat']	['have']	0.224263381034
+['wildcat have', 'cat']	['hockey team']	0.0696933362217
+['wildcat have', 'cat']	['2 point']	0.0696933362217
+['wildcat have', 'cat']	['1 point']	0.0696933362217
+['wildcat have', 'cat']	['tie']	0.152111677623
+['wildcat have', 'cat']	['wild cat']	0.663903269648
+['wildcat have', 'cat']	['championship']	0.285428736401
+['wildcat have', 'cat']	['point']	0.27480736927
+['wildcat have', 'cat']	['60 point']	0.0696933362217
+['wildcat have', 'cat']	['9 more game']	0.080802298149
+['wildcat have', 'cat']	['have']	0.78174479174
+['have', 'cat']	['hockey team']	0.103222748661
+['have', 'cat']	['2 point']	0.0737139440912
+['have', 'cat']	['1 point']	0.0737139440912
+['have', 'cat']	['tie']	0.119853613107
+['have', 'cat']	['wild cat']	0.824406536985
+['have', 'cat']	['championship']	0.224614349243
+['have', 'cat']	['point']	0.218049999655
+['have', 'cat']	['60 point']	0.0737139440912
+['have', 'cat']	['9 more game']	0.0807707659053
+['have', 'cat']	['wildcat have']	0.775985630968
+['hockey team', 'championship']	['2 point']	0.138180177454
+['hockey team', 'championship']	['1 point']	0.138180177454
+['hockey team', 'championship']	['tie']	0.309100487934
+['hockey team', 'championship']	['wild cat']	0.0827346205535
+['hockey team', 'championship']	['cat']	0.294729371111
+['hockey team', 'championship']	['point']	0.566710019956
+['hockey team', 'championship']	['60 point']	0.138180177454
+['hockey team', 'championship']	['9 more game']	0.342617727231
+['hockey team', 'championship']	['wildcat have']	0.0827346205535
+['hockey team', 'championship']	['have']	0.211769268505
+['2 point', 'championship']	['hockey team']	0.0827346205535
+['2 point', 'championship']	['1 point']	0.806579200849
+['2 point', 'championship']	['tie']	0.334771514165
+['2 point', 'championship']	['wild cat']	0.0827346205535
+['2 point', 'championship']	['cat']	0.294729371111
+['2 point', 'championship']	['point']	0.755788028967
+['2 point', 'championship']	['60 point']	0.646146253414
+['2 point', 'championship']	['9 more game']	0.379457278768
+['2 point', 'championship']	['wildcat have']	0.0827346205535
+['2 point', 'championship']	['have']	0.1191315107
+['1 point', 'championship']	['hockey team']	0.0827346205535
+['1 point', 'championship']	['2 point']	0.806579200849
+['1 point', 'championship']	['tie']	0.334771514165
+['1 point', 'championship']	['wild cat']	0.0827346205535
+['1 point', 'championship']	['cat']	0.294729371111
+['1 point', 'championship']	['point']	0.755788028967
+['1 point', 'championship']	['60 point']	0.646146253414
+['1 point', 'championship']	['9 more game']	0.379457278768
+['1 point', 'championship']	['wildcat have']	0.0827346205535
+['1 point', 'championship']	['have']	0.1191315107
+['tie', 'championship']	['hockey team']	0.0669904799604
+['tie', 'championship']	['2 point']	0.150647383891
+['tie', 'championship']	['1 point']	0.150647383891
+['tie', 'championship']	['wild cat']	0.0696933362217
+['tie', 'championship']	['cat']	0.136504272706
+['tie', 'championship']	['point']	0.0700642022194
+['tie', 'championship']	['60 point']	0.150647383891
+['tie', 'championship']	['9 more game']	0.277449580695
+['tie', 'championship']	['wildcat have']	0.0696933362217
+['tie', 'championship']	['have']	0.0725183024459
+['wild cat', 'championship']	['hockey team']	0.0827346205535
+['wild cat', 'championship']	['2 point']	0.146731135372
+['wild cat', 'championship']	['1 point']	0.146731135372
+['wild cat', 'championship']	['tie']	0.285721838028
+['wild cat', 'championship']	['cat']	0.844874966261
+['wild cat', 'championship']	['point']	0.5489418413
+['wild cat', 'championship']	['60 point']	0.146731135372
+['wild cat', 'championship']	['9 more game']	0.344062991684
+['wild cat', 'championship']	['wildcat have']	0.0827346205535
+['wild cat', 'championship']	['have']	0.195765682835
+['cat', 'championship']	['hockey team']	0.0696933362217
+['cat', 'championship']	['2 point']	0.103222748661
+['cat', 'championship']	['1 point']	0.103222748661
+['cat', 'championship']	['tie']	0.105747397519
+['cat', 'championship']	['wild cat']	0.775892587953
+['cat', 'championship']	['point']	0.276760731886
+['cat', 'championship']	['60 point']	0.103222748661
+['cat', 'championship']	['9 more game']	0.277449580695
+['cat', 'championship']	['wildcat have']	0.195300499546
+['cat', 'championship']	['have']	0.207891316963
+['point', 'championship']	['hockey team']	0.0453544228225
+['point', 'championship']	['2 point']	0.742265144992
+['point', 'championship']	['1 point']	0.742265144992
+['point', 'championship']	['tie']	0.51895766463
+['point', 'championship']	['wild cat']	0.0454050549877
+['point', 'championship']	['cat']	0.0624461512164
+['point', 'championship']	['60 point']	0.737674890881
+['point', 'championship']	['9 more game']	0.273575217071
+['point', 'championship']	['wildcat have']	0.0465787639079
+['point', 'championship']	['have']	0.0428520175287
+['60 point', 'championship']	['hockey team']	0.0827346205535
+['60 point', 'championship']	['2 point']	0.646146253414
+['60 point', 'championship']	['1 point']	0.646146253414
+['60 point', 'championship']	['tie']	0.334771514165
+['60 point', 'championship']	['wild cat']	0.0827346205535
+['60 point', 'championship']	['cat']	0.294729371111
+['60 point', 'championship']	['point']	0.763844162023
+['60 point', 'championship']	['9 more game']	0.358191803874
+['60 point', 'championship']	['wildcat have']	0.0827346205535
+['60 point', 'championship']	['have']	0.1191315107
+['9 more game', 'championship']	['hockey team']	0.0827346205535
+['9 more game', 'championship']	['2 point']	0.423364656264
+['9 more game', 'championship']	['1 point']	0.423364656264
+['9 more game', 'championship']	['tie']	0.265294416803
+['9 more game', 'championship']	['wild cat']	0.0827346205535
+['9 more game', 'championship']	['cat']	0.347394395478
+['9 more game', 'championship']	['point']	0.672853534508
+['9 more game', 'championship']	['60 point']	0.126149600522
+['9 more game', 'championship']	['wildcat have']	0.0827346205535
+['9 more game', 'championship']	['have']	0.152419020503
+['wildcat have', 'championship']	['hockey team']	0.0827346205535
+['wildcat have', 'championship']	['2 point']	0.138180177454
+['wildcat have', 'championship']	['1 point']	0.138180177454
+['wildcat have', 'championship']	['tie']	0.285721838028
+['wildcat have', 'championship']	['wild cat']	0.0827346205535
+['wildcat have', 'championship']	['cat']	0.5217185337
+['wildcat have', 'championship']	['point']	0.5489418413
+['wildcat have', 'championship']	['60 point']	0.138180177454
+['wildcat have', 'championship']	['9 more game']	0.342617727231
+['wildcat have', 'championship']	['have']	0.68070795531
+['have', 'championship']	['hockey team']	0.138180177454
+['have', 'championship']	['2 point']	0.124206600218
+['have', 'championship']	['1 point']	0.124206600218
+['have', 'championship']	['tie']	0.258876200444
+['have', 'championship']	['wild cat']	0.178637094719
+['have', 'championship']	['cat']	0.240274818754
+['have', 'championship']	['point']	0.516324319932
+['have', 'championship']	['60 point']	0.124206600218
+['have', 'championship']	['9 more game']	0.331189544847
+['have', 'championship']	['wildcat have']	0.694362553178
+['hockey team', 'point']	['2 point']	0.575468874693
+['hockey team', 'point']	['1 point']	0.575468874693
+['hockey team', 'point']	['tie']	0.537250492653
+['hockey team', 'point']	['wild cat']	0.0465787639079
+['hockey team', 'point']	['cat']	0.27480736927
+['hockey team', 'point']	['championship']	0.549215784848
+['hockey team', 'point']	['60 point']	0.621222272711
+['hockey team', 'point']	['9 more game']	0.129753322872
+['hockey team', 'point']	['wildcat have']	0.0465787639079
+['hockey team', 'point']	['have']	0.142607728068
+['2 point', 'point']	['hockey team']	0.176424014536
+['2 point', 'point']	['1 point']	0.897746033891
+['2 point', 'point']	['tie']	0.837045276194
+['2 point', 'point']	['wild cat']	0.124829049051
+['2 point', 'point']	['cat']	0.422554462668
+['2 point', 'point']	['championship']	0.753484794842
+['2 point', 'point']	['60 point']	0.897929299464
+['2 point', 'point']	['9 more game']	0.680362778967
+['2 point', 'point']	['wildcat have']	0.124609221473
+['2 point', 'point']	['have']	0.264731227956
+['1 point', 'point']	['hockey team']	0.176424014536
+['1 point', 'point']	['2 point']	0.897746033891
+['1 point', 'point']	['tie']	0.837045276194
+['1 point', 'point']	['wild cat']	0.124829049051
+['1 point', 'point']	['cat']	0.422554462668
+['1 point', 'point']	['championship']	0.753484794842
+['1 point', 'point']	['60 point']	0.897929299464
+['1 point', 'point']	['9 more game']	0.680362778967
+['1 point', 'point']	['wildcat have']	0.124609221473
+['1 point', 'point']	['have']	0.264731227956
+['tie', 'point']	['hockey team']	0.115031174105
+['tie', 'point']	['2 point']	0.758318811428
+['tie', 'point']	['1 point']	0.758318811428
+['tie', 'point']	['wild cat']	0.105036545366
+['tie', 'point']	['cat']	0.142422392939
+['tie', 'point']	['championship']	0.50759991248
+['tie', 'point']	['60 point']	0.753728557316
+['tie', 'point']	['9 more game']	0.143204892219
+['tie', 'point']	['wildcat have']	0.105036545366
+['tie', 'point']	['have']	0.104929865211
+['wild cat', 'point']	['hockey team']	0.0453544228225
+['wild cat', 'point']	['2 point']	0.63865392335
+['wild cat', 'point']	['1 point']	0.63865392335
+['wild cat', 'point']	['tie']	0.517331959024
+['wild cat', 'point']	['cat']	0.682019116672
+['wild cat', 'point']	['championship']	0.549215784848
+['wild cat', 'point']	['60 point']	0.663536679483
+['wild cat', 'point']	['9 more game']	0.0964199895384
+['wild cat', 'point']	['wildcat have']	0.0465787639079
+['wild cat', 'point']	['have']	0.17343026128
+['cat', 'point']	['hockey team']	0.109706780308
+['cat', 'point']	['2 point']	0.562373787446
+['cat', 'point']	['1 point']	0.562373787446
+['cat', 'point']	['tie']	0.294163729506
+['cat', 'point']	['wild cat']	0.553741812118
+['cat', 'point']	['championship']	0.325689566988
+['cat', 'point']	['60 point']	0.587227714565
+['cat', 'point']	['9 more game']	0.143204892219
+['cat', 'point']	['wildcat have']	0.121672159604
+['cat', 'point']	['have']	0.170615817802
+['championship', 'point']	['hockey team']	0.0453544228225
+['championship', 'point']	['2 point']	0.742265144992
+['championship', 'point']	['1 point']	0.742265144992
+['championship', 'point']	['tie']	0.51895766463
+['championship', 'point']	['wild cat']	0.0454050549877
+['championship', 'point']	['cat']	0.0624461512164
+['championship', 'point']	['60 point']	0.737674890881
+['championship', 'point']	['9 more game']	0.273575217071
+['championship', 'point']	['wildcat have']	0.0465787639079
+['championship', 'point']	['have']	0.0428520175287
+['60 point', 'point']	['hockey team']	0.176424014536
+['60 point', 'point']	['2 point']	0.897253423053
+['60 point', 'point']	['1 point']	0.897253423053
+['60 point', 'point']	['tie']	0.837045276194
+['60 point', 'point']	['wild cat']	0.124829049051
+['60 point', 'point']	['cat']	0.422554462668
+['60 point', 'point']	['championship']	0.753484794842
+['60 point', 'point']	['9 more game']	0.470423992833
+['60 point', 'point']	['wildcat have']	0.124609221473
+['60 point', 'point']	['have']	0.264731227956
+['9 more game', 'point']	['hockey team']	0.0476289326264
+['9 more game', 'point']	['2 point']	0.756146019223
+['9 more game', 'point']	['1 point']	0.756146019223
+['9 more game', 'point']	['tie']	0.489252628192
+['9 more game', 'point']	['wild cat']	0.0454050549877
+['9 more game', 'point']	['cat']	0.327610441578
+['9 more game', 'point']	['championship']	0.722840824136
+['9 more game', 'point']	['60 point']	0.752315816607
+['9 more game', 'point']	['wildcat have']	0.0465787639079
+['9 more game', 'point']	['have']	0.0750570811848
+['wildcat have', 'point']	['hockey team']	0.0476289326264
+['wildcat have', 'point']	['2 point']	0.563299713372
+['wildcat have', 'point']	['1 point']	0.563299713372
+['wildcat have', 'point']	['tie']	0.517331959024
+['wildcat have', 'point']	['wild cat']	0.0465787639079
+['wildcat have', 'point']	['cat']	0.42677401795
+['wildcat have', 'point']	['championship']	0.527165118453
+['wildcat have', 'point']	['60 point']	0.587227714565
+['wildcat have', 'point']	['9 more game']	0.129753322872
+['wildcat have', 'point']	['have']	0.594466402547
+['have', 'point']	['hockey team']	0.0570714379727
+['have', 'point']	['2 point']	0.562373787446
+['have', 'point']	['1 point']	0.562373787446
+['have', 'point']	['tie']	0.46057458941
+['have', 'point']	['wild cat']	0.0749793033755
+['have', 'point']	['cat']	0.169518652437
+['have', 'point']	['championship']	0.489157748839
+['have', 'point']	['60 point']	0.587227714565
+['have', 'point']	['9 more game']	0.0865547439517
+['have', 'point']	['wildcat have']	0.580461323506
+['hockey team', '60 point']	['2 point']	0.587641685872
+['hockey team', '60 point']	['1 point']	0.587641685872
+['hockey team', '60 point']	['tie']	0.170700713028
+['hockey team', '60 point']	['wild cat']	0.0827346205535
+['hockey team', '60 point']	['cat']	0.0831172035382
+['hockey team', '60 point']	['championship']	0.177092701503
+['hockey team', '60 point']	['point']	0.629348064245
+['hockey team', '60 point']	['9 more game']	0.167831903668
+['hockey team', '60 point']	['wildcat have']	0.0827346205535
+['hockey team', '60 point']	['have']	0.15456816635
+['2 point', '60 point']	['hockey team']	0.153587928078
+['2 point', '60 point']	['1 point']	0.845821569933
+['2 point', '60 point']	['tie']	0.518758089275
+['2 point', '60 point']	['wild cat']	0.184995399404
+['2 point', '60 point']	['cat']	0.322323177041
+['2 point', '60 point']	['championship']	0.444828773282
+['2 point', '60 point']	['point']	0.807034914745
+['2 point', '60 point']	['9 more game']	0.746337521102
+['2 point', '60 point']	['wildcat have']	0.153587928078
+['2 point', '60 point']	['have']	0.325390866884
+['1 point', '60 point']	['hockey team']	0.153587928078
+['1 point', '60 point']	['2 point']	0.845821569933
+['1 point', '60 point']	['tie']	0.518758089275
+['1 point', '60 point']	['wild cat']	0.184995399404
+['1 point', '60 point']	['cat']	0.322323177041
+['1 point', '60 point']	['championship']	0.444828773282
+['1 point', '60 point']	['point']	0.807034914745
+['1 point', '60 point']	['9 more game']	0.746337521102
+['1 point', '60 point']	['wildcat have']	0.153587928078
+['1 point', '60 point']	['have']	0.325390866884
+['tie', '60 point']	['hockey team']	0.0669904799604
+['tie', '60 point']	['2 point']	0.541547997037
+['tie', '60 point']	['1 point']	0.541547997037
+['tie', '60 point']	['wild cat']	0.0696933362217
+['tie', '60 point']	['cat']	0.152111677623
+['tie', '60 point']	['championship']	0.303704048605
+['tie', '60 point']	['point']	0.756688364922
+['tie', '60 point']	['9 more game']	0.123700929967
+['tie', '60 point']	['wildcat have']	0.0696933362217
+['tie', '60 point']	['have']	0.0993639400298
+['wild cat', '60 point']	['hockey team']	0.0827346205535
+['wild cat', '60 point']	['2 point']	0.594573661836
+['wild cat', '60 point']	['1 point']	0.594573661836
+['wild cat', '60 point']	['tie']	0.134019865814
+['wild cat', '60 point']	['cat']	0.656845903701
+['wild cat', '60 point']	['championship']	0.177092701503
+['wild cat', '60 point']	['point']	0.491955654068
+['wild cat', '60 point']	['9 more game']	0.192922281126
+['wild cat', '60 point']	['wildcat have']	0.0827346205535
+['wild cat', '60 point']	['have']	0.201216450434
+['cat', '60 point']	['hockey team']	0.0696933362217
+['cat', '60 point']	['2 point']	0.525526174317
+['cat', '60 point']	['1 point']	0.525526174317
+['cat', '60 point']	['tie']	0.251698926678
+['cat', '60 point']	['wild cat']	0.778818182768
+['cat', '60 point']	['championship']	0.528162240829
+['cat', '60 point']	['point']	0.684572980306
+['cat', '60 point']	['9 more game']	0.123700929967
+['cat', '60 point']	['wildcat have']	0.183395737641
+['cat', '60 point']	['have']	0.234818540683
+['championship', '60 point']	['hockey team']	0.0827346205535
+['championship', '60 point']	['2 point']	0.646146253414
+['championship', '60 point']	['1 point']	0.646146253414
+['championship', '60 point']	['tie']	0.334771514165
+['championship', '60 point']	['wild cat']	0.0827346205535
+['championship', '60 point']	['cat']	0.294729371111
+['championship', '60 point']	['point']	0.763844162023
+['championship', '60 point']	['9 more game']	0.358191803874
+['championship', '60 point']	['wildcat have']	0.0827346205535
+['championship', '60 point']	['have']	0.1191315107
+['point', '60 point']	['hockey team']	0.176424014536
+['point', '60 point']	['2 point']	0.897253423053
+['point', '60 point']	['1 point']	0.897253423053
+['point', '60 point']	['tie']	0.837045276194
+['point', '60 point']	['wild cat']	0.124829049051
+['point', '60 point']	['cat']	0.422554462668
+['point', '60 point']	['championship']	0.753484794842
+['point', '60 point']	['9 more game']	0.470423992833
+['point', '60 point']	['wildcat have']	0.124609221473
+['point', '60 point']	['have']	0.264731227956
+['9 more game', '60 point']	['hockey team']	0.152238479479
+['9 more game', '60 point']	['2 point']	0.857455104652
+['9 more game', '60 point']	['1 point']	0.857455104652
+['9 more game', '60 point']	['tie']	0.250826439053
+['9 more game', '60 point']	['wild cat']	0.152238479479
+['9 more game', '60 point']	['cat']	0.146533383972
+['9 more game', '60 point']	['championship']	0.448186346902
+['9 more game', '60 point']	['point']	0.759685080233
+['9 more game', '60 point']	['wildcat have']	0.152238479479
+['9 more game', '60 point']	['have']	0.211529795267
+['wildcat have', '60 point']	['hockey team']	0.0827346205535
+['wildcat have', '60 point']	['2 point']	0.587641685872
+['wildcat have', '60 point']	['1 point']	0.587641685872
+['wildcat have', '60 point']	['tie']	0.134019865814
+['wildcat have', '60 point']	['wild cat']	0.0827346205535
+['wildcat have', '60 point']	['cat']	0.162123355899
+['wildcat have', '60 point']	['championship']	0.15456816635
+['wildcat have', '60 point']	['point']	0.491955654068
+['wildcat have', '60 point']	['9 more game']	0.167831903668
+['wildcat have', '60 point']	['have']	0.648874086783
+['have', '60 point']	['hockey team']	0.138180177454
+['have', '60 point']	['2 point']	0.61033478077
+['have', '60 point']	['1 point']	0.61033478077
+['have', '60 point']	['tie']	0.205786135423
+['have', '60 point']	['wild cat']	0.178637094719
+['have', '60 point']	['cat']	0.205246340331
+['have', '60 point']	['championship']	0.211769268505
+['have', '60 point']	['point']	0.725198185265
+['have', '60 point']	['9 more game']	0.149341147754
+['have', '60 point']	['wildcat have']	0.688306617346
+['hockey team', '9 more game']	['2 point']	0.481561194969
+['hockey team', '9 more game']	['1 point']	0.481561194969
+['hockey team', '9 more game']	['tie']	0.143777280446
+['hockey team', '9 more game']	['wild cat']	0.152238479479
+['hockey team', '9 more game']	['cat']	0.146533383972
+['hockey team', '9 more game']	['championship']	0.476032739949
+['hockey team', '9 more game']	['point']	0.196405573398
+['hockey team', '9 more game']	['60 point']	0.197610942174
+['hockey team', '9 more game']	['wildcat have']	0.152238479479
+['hockey team', '9 more game']	['have']	0.205961529218
+['2 point', '9 more game']	['hockey team']	0.152238479479
+['2 point', '9 more game']	['1 point']	0.861862481018
+['2 point', '9 more game']	['tie']	0.250826439053
+['2 point', '9 more game']	['wild cat']	0.152238479479
+['2 point', '9 more game']	['cat']	0.146533383972
+['2 point', '9 more game']	['championship']	0.448186346902
+['2 point', '9 more game']	['point']	0.755181949516
+['2 point', '9 more game']	['60 point']	0.743380388481
+['2 point', '9 more game']	['wildcat have']	0.152238479479
+['2 point', '9 more game']	['have']	0.211529795267
+['1 point', '9 more game']	['hockey team']	0.152238479479
+['1 point', '9 more game']	['2 point']	0.861862481018
+['1 point', '9 more game']	['tie']	0.250826439053
+['1 point', '9 more game']	['wild cat']	0.152238479479
+['1 point', '9 more game']	['cat']	0.146533383972
+['1 point', '9 more game']	['championship']	0.448186346902
+['1 point', '9 more game']	['point']	0.755181949516
+['1 point', '9 more game']	['60 point']	0.743380388481
+['1 point', '9 more game']	['wildcat have']	0.152238479479
+['1 point', '9 more game']	['have']	0.211529795267
+['tie', '9 more game']	['hockey team']	0.0669904799604
+['tie', '9 more game']	['2 point']	0.355901388508
+['tie', '9 more game']	['1 point']	0.355901388508
+['tie', '9 more game']	['wild cat']	0.0696933362217
+['tie', '9 more game']	['cat']	0.131627345199
+['tie', '9 more game']	['championship']	0.378578608766
+['tie', '9 more game']	['point']	0.640997247509
+['tie', '9 more game']	['60 point']	0.150647383891
+['tie', '9 more game']	['wildcat have']	0.0696933362217
+['tie', '9 more game']	['have']	0.110747054358
+['wild cat', '9 more game']	['hockey team']	0.152238479479
+['wild cat', '9 more game']	['2 point']	0.508264908435
+['wild cat', '9 more game']	['1 point']	0.508264908435
+['wild cat', '9 more game']	['tie']	0.146533383972
+['wild cat', '9 more game']	['cat']	0.84188959754
+['wild cat', '9 more game']	['championship']	0.476032739949
+['wild cat', '9 more game']	['point']	0.115677899527
+['wild cat', '9 more game']	['60 point']	0.175133862709
+['wild cat', '9 more game']	['wildcat have']	0.152238479479
+['wild cat', '9 more game']	['have']	0.215215010456
+['cat', '9 more game']	['hockey team']	0.0696933362217
+['cat', '9 more game']	['2 point']	0.274556493975
+['cat', '9 more game']	['1 point']	0.274556493975
+['cat', '9 more game']	['tie']	0.131627345199
+['cat', '9 more game']	['wild cat']	0.769972028922
+['cat', '9 more game']	['championship']	0.607442125834
+['cat', '9 more game']	['point']	0.472295438314
+['cat', '9 more game']	['60 point']	0.105691884463
+['cat', '9 more game']	['wildcat have']	0.185864873443
+['cat', '9 more game']	['have']	0.224263381034
+['championship', '9 more game']	['hockey team']	0.0827346205535
+['championship', '9 more game']	['2 point']	0.423364656264
+['championship', '9 more game']	['1 point']	0.423364656264
+['championship', '9 more game']	['tie']	0.265294416803
+['championship', '9 more game']	['wild cat']	0.0827346205535
+['championship', '9 more game']	['cat']	0.347394395478
+['championship', '9 more game']	['point']	0.672853534508
+['championship', '9 more game']	['60 point']	0.126149600522
+['championship', '9 more game']	['wildcat have']	0.0827346205535
+['championship', '9 more game']	['have']	0.152419020503
+['point', '9 more game']	['hockey team']	0.0476289326264
+['point', '9 more game']	['2 point']	0.756146019223
+['point', '9 more game']	['1 point']	0.756146019223
+['point', '9 more game']	['tie']	0.489252628192
+['point', '9 more game']	['wild cat']	0.0454050549877
+['point', '9 more game']	['cat']	0.327610441578
+['point', '9 more game']	['championship']	0.722840824136
+['point', '9 more game']	['60 point']	0.752315816607
+['point', '9 more game']	['wildcat have']	0.0465787639079
+['point', '9 more game']	['have']	0.0750570811848
+['60 point', '9 more game']	['hockey team']	0.152238479479
+['60 point', '9 more game']	['2 point']	0.857455104652
+['60 point', '9 more game']	['1 point']	0.857455104652
+['60 point', '9 more game']	['tie']	0.250826439053
+['60 point', '9 more game']	['wild cat']	0.152238479479
+['60 point', '9 more game']	['cat']	0.146533383972
+['60 point', '9 more game']	['championship']	0.448186346902
+['60 point', '9 more game']	['point']	0.759685080233
+['60 point', '9 more game']	['wildcat have']	0.152238479479
+['60 point', '9 more game']	['have']	0.211529795267
+['wildcat have', '9 more game']	['hockey team']	0.152238479479
+['wildcat have', '9 more game']	['2 point']	0.481561194969
+['wildcat have', '9 more game']	['1 point']	0.481561194969
+['wildcat have', '9 more game']	['tie']	0.146533383972
+['wildcat have', '9 more game']	['wild cat']	0.152238479479
+['wildcat have', '9 more game']	['cat']	0.21260238602
+['wildcat have', '9 more game']	['championship']	0.476032739949
+['wildcat have', '9 more game']	['point']	0.115677899527
+['wildcat have', '9 more game']	['60 point']	0.197610942174
+['wildcat have', '9 more game']	['have']	0.793141238196
+['have', '9 more game']	['hockey team']	0.140649313257
+['have', '9 more game']	['2 point']	0.362256416006
+['have', '9 more game']	['1 point']	0.362256416006
+['have', '9 more game']	['tie']	0.0741073489195
+['have', '9 more game']	['wild cat']	0.181106230521
+['have', '9 more game']	['cat']	0.141155369736
+['have', '9 more game']	['championship']	0.336465236749
+['have', '9 more game']	['point']	0.0831083379243
+['have', '9 more game']	['60 point']	0.126675736021
+['have', '9 more game']	['wildcat have']	0.623176322982
+['hockey team', 'wildcat have']	['2 point']	0.0827346205535
+['hockey team', 'wildcat have']	['1 point']	0.0827346205535
+['hockey team', 'wildcat have']	['tie']	0.0774561735493
+['hockey team', 'wildcat have']	['wild cat']	0.0827346205535
+['hockey team', 'wildcat have']	['cat']	0.162123355899
+['hockey team', 'wildcat have']	['championship']	0.0777864840342
+['hockey team', 'wildcat have']	['point']	0.0523274735279
+['hockey team', 'wildcat have']	['60 point']	0.0827346205535
+['hockey team', 'wildcat have']	['9 more game']	0.0908034291173
+['hockey team', 'wildcat have']	['have']	0.68241481741
+['2 point', 'wildcat have']	['hockey team']	0.0827346205535
+['2 point', 'wildcat have']	['1 point']	0.754360422532
+['2 point', 'wildcat have']	['tie']	0.134019865814
+['2 point', 'wildcat have']	['wild cat']	0.0827346205535
+['2 point', 'wildcat have']	['cat']	0.162123355899
+['2 point', 'wildcat have']	['championship']	0.15456816635
+['2 point', 'wildcat have']	['point']	0.475468129066
+['2 point', 'wildcat have']	['60 point']	0.587641685872
+['2 point', 'wildcat have']	['9 more game']	0.365426502964
+['2 point', 'wildcat have']	['have']	0.648874086783
+['1 point', 'wildcat have']	['hockey team']	0.0827346205535
+['1 point', 'wildcat have']	['2 point']	0.754360422532
+['1 point', 'wildcat have']	['tie']	0.134019865814
+['1 point', 'wildcat have']	['wild cat']	0.0827346205535
+['1 point', 'wildcat have']	['cat']	0.162123355899
+['1 point', 'wildcat have']	['championship']	0.15456816635
+['1 point', 'wildcat have']	['point']	0.475468129066
+['1 point', 'wildcat have']	['60 point']	0.587641685872
+['1 point', 'wildcat have']	['9 more game']	0.365426502964
+['1 point', 'wildcat have']	['have']	0.648874086783
+['tie', 'wildcat have']	['hockey team']	0.0669904799604
+['tie', 'wildcat have']	['2 point']	0.130048808393
+['tie', 'wildcat have']	['1 point']	0.130048808393
+['tie', 'wildcat have']	['wild cat']	0.0696933362217
+['tie', 'wildcat have']	['cat']	0.327810725388
+['tie', 'wildcat have']	['championship']	0.230934220149
+['tie', 'wildcat have']	['point']	0.517331959024
+['tie', 'wildcat have']	['60 point']	0.130048808393
+['tie', 'wildcat have']	['9 more game']	0.080802298149
+['tie', 'wildcat have']	['have']	0.670184280237
+['wild cat', 'wildcat have']	['hockey team']	0.0827346205535
+['wild cat', 'wildcat have']	['2 point']	0.0827346205535
+['wild cat', 'wildcat have']	['1 point']	0.0827346205535
+['wild cat', 'wildcat have']	['tie']	0.0831172035382
+['wild cat', 'wildcat have']	['cat']	0.789515625834
+['wild cat', 'wildcat have']	['championship']	0.0777864840342
+['wild cat', 'wildcat have']	['point']	0.0575843031668
+['wild cat', 'wildcat have']	['60 point']	0.0827346205535
+['wild cat', 'wildcat have']	['9 more game']	0.0908034291173
+['wild cat', 'wildcat have']	['have']	0.684375601723
+['cat', 'wildcat have']	['hockey team']	0.0696933362217
+['cat', 'wildcat have']	['2 point']	0.0696933362217
+['cat', 'wildcat have']	['1 point']	0.0696933362217
+['cat', 'wildcat have']	['tie']	0.152111677623
+['cat', 'wildcat have']	['wild cat']	0.663903269648
+['cat', 'wildcat have']	['championship']	0.285428736401
+['cat', 'wildcat have']	['point']	0.27480736927
+['cat', 'wildcat have']	['60 point']	0.0696933362217
+['cat', 'wildcat have']	['9 more game']	0.080802298149
+['cat', 'wildcat have']	['have']	0.78174479174
+['championship', 'wildcat have']	['hockey team']	0.0827346205535
+['championship', 'wildcat have']	['2 point']	0.138180177454
+['championship', 'wildcat have']	['1 point']	0.138180177454
+['championship', 'wildcat have']	['tie']	0.285721838028
+['championship', 'wildcat have']	['wild cat']	0.0827346205535
+['championship', 'wildcat have']	['cat']	0.5217185337
+['championship', 'wildcat have']	['point']	0.5489418413
+['championship', 'wildcat have']	['60 point']	0.138180177454
+['championship', 'wildcat have']	['9 more game']	0.342617727231
+['championship', 'wildcat have']	['have']	0.68070795531
+['point', 'wildcat have']	['hockey team']	0.0476289326264
+['point', 'wildcat have']	['2 point']	0.563299713372
+['point', 'wildcat have']	['1 point']	0.563299713372
+['point', 'wildcat have']	['tie']	0.517331959024
+['point', 'wildcat have']	['wild cat']	0.0465787639079
+['point', 'wildcat have']	['cat']	0.42677401795
+['point', 'wildcat have']	['championship']	0.527165118453
+['point', 'wildcat have']	['60 point']	0.587227714565
+['point', 'wildcat have']	['9 more game']	0.129753322872
+['point', 'wildcat have']	['have']	0.594466402547
+['60 point', 'wildcat have']	['hockey team']	0.0827346205535
+['60 point', 'wildcat have']	['2 point']	0.587641685872
+['60 point', 'wildcat have']	['1 point']	0.587641685872
+['60 point', 'wildcat have']	['tie']	0.134019865814
+['60 point', 'wildcat have']	['wild cat']	0.0827346205535
+['60 point', 'wildcat have']	['cat']	0.162123355899
+['60 point', 'wildcat have']	['championship']	0.15456816635
+['60 point', 'wildcat have']	['point']	0.491955654068
+['60 point', 'wildcat have']	['9 more game']	0.167831903668
+['60 point', 'wildcat have']	['have']	0.648874086783
+['9 more game', 'wildcat have']	['hockey team']	0.152238479479
+['9 more game', 'wildcat have']	['2 point']	0.481561194969
+['9 more game', 'wildcat have']	['1 point']	0.481561194969
+['9 more game', 'wildcat have']	['tie']	0.146533383972
+['9 more game', 'wildcat have']	['wild cat']	0.152238479479
+['9 more game', 'wildcat have']	['cat']	0.21260238602
+['9 more game', 'wildcat have']	['championship']	0.476032739949
+['9 more game', 'wildcat have']	['point']	0.115677899527
+['9 more game', 'wildcat have']	['60 point']	0.197610942174
+['9 more game', 'wildcat have']	['have']	0.793141238196
+['have', 'wildcat have']	['hockey team']	0.264907405557
+['have', 'wildcat have']	['2 point']	0.14589133531
+['have', 'wildcat have']	['1 point']	0.14589133531
+['have', 'wildcat have']	['tie']	0.331383164672
+['have', 'wildcat have']	['wild cat']	0.339965307808
+['have', 'wildcat have']	['cat']	0.449491439312
+['have', 'wildcat have']	['championship']	0.334450854515
+['have', 'wildcat have']	['point']	0.265794843825
+['have', 'wildcat have']	['60 point']	0.14589133531
+['have', 'wildcat have']	['9 more game']	0.282940109221
+['hockey team', 'have']	['2 point']	0.0827346205535
+['hockey team', 'have']	['1 point']	0.0827346205535
+['hockey team', 'have']	['tie']	0.103943647133
+['hockey team', 'have']	['wild cat']	0.167780840851
+['hockey team', 'have']	['cat']	0.205246340331
+['hockey team', 'have']	['championship']	0.110354633245
+['hockey team', 'have']	['point']	0.0826211129349
+['hockey team', 'have']	['60 point']	0.0827346205535
+['hockey team', 'have']	['9 more game']	0.0887553862424
+['hockey team', 'have']	['wildcat have']	0.688306617346
+['2 point', 'have']	['hockey team']	0.138180177454
+['2 point', 'have']	['1 point']	0.760386850763
+['2 point', 'have']	['tie']	0.205786135423
+['2 point', 'have']	['wild cat']	0.178637094719
+['2 point', 'have']	['cat']	0.205246340331
+['2 point', 'have']	['championship']	0.211769268505
+['2 point', 'have']	['point']	0.715290200357
+['2 point', 'have']	['60 point']	0.61033478077
+['2 point', 'have']	['9 more game']	0.33845188701
+['2 point', 'have']	['wildcat have']	0.688306617346
+['1 point', 'have']	['hockey team']	0.138180177454
+['1 point', 'have']	['2 point']	0.760386850763
+['1 point', 'have']	['tie']	0.205786135423
+['1 point', 'have']	['wild cat']	0.178637094719
+['1 point', 'have']	['cat']	0.205246340331
+['1 point', 'have']	['championship']	0.211769268505
+['1 point', 'have']	['point']	0.715290200357
+['1 point', 'have']	['60 point']	0.61033478077
+['1 point', 'have']	['9 more game']	0.33845188701
+['1 point', 'have']	['wildcat have']	0.688306617346
+['tie', 'have']	['hockey team']	0.105345478515
+['tie', 'have']	['2 point']	0.130048808393
+['tie', 'have']	['1 point']	0.130048808393
+['tie', 'have']	['wild cat']	0.119730948965
+['tie', 'have']	['cat']	0.251098528649
+['tie', 'have']	['championship']	0.204088582565
+['tie', 'have']	['point']	0.46057458941
+['tie', 'have']	['60 point']	0.130048808393
+['tie', 'have']	['9 more game']	0.0807707659053
+['tie', 'have']	['wildcat have']	0.649177216702
+['wild cat', 'have']	['hockey team']	0.138180177454
+['wild cat', 'have']	['2 point']	0.0827346205535
+['wild cat', 'have']	['1 point']	0.0827346205535
+['wild cat', 'have']	['tie']	0.113411174639
+['wild cat', 'have']	['cat']	0.748719724544
+['wild cat', 'have']	['championship']	0.110354633245
+['wild cat', 'have']	['point']	0.0878782742679
+['wild cat', 'have']	['60 point']	0.0827346205535
+['wild cat', 'have']	['9 more game']	0.0887553862424
+['wild cat', 'have']	['wildcat have']	0.71050767883
+['cat', 'have']	['hockey team']	0.103222748661
+['cat', 'have']	['2 point']	0.0737139440912
+['cat', 'have']	['1 point']	0.0737139440912
+['cat', 'have']	['tie']	0.119853613107
+['cat', 'have']	['wild cat']	0.824406536985
+['cat', 'have']	['championship']	0.224614349243
+['cat', 'have']	['point']	0.218049999655
+['cat', 'have']	['60 point']	0.0737139440912
+['cat', 'have']	['9 more game']	0.0807707659053
+['cat', 'have']	['wildcat have']	0.775985630968
+['championship', 'have']	['hockey team']	0.138180177454
+['championship', 'have']	['2 point']	0.124206600218
+['championship', 'have']	['1 point']	0.124206600218
+['championship', 'have']	['tie']	0.258876200444
+['championship', 'have']	['wild cat']	0.178637094719
+['championship', 'have']	['cat']	0.240274818754
+['championship', 'have']	['point']	0.516324319932
+['championship', 'have']	['60 point']	0.124206600218
+['championship', 'have']	['9 more game']	0.331189544847
+['championship', 'have']	['wildcat have']	0.694362553178
+['point', 'have']	['hockey team']	0.0570714379727
+['point', 'have']	['2 point']	0.562373787446
+['point', 'have']	['1 point']	0.562373787446
+['point', 'have']	['tie']	0.46057458941
+['point', 'have']	['wild cat']	0.0749793033755
+['point', 'have']	['cat']	0.169518652437
+['point', 'have']	['championship']	0.489157748839
+['point', 'have']	['60 point']	0.587227714565
+['point', 'have']	['9 more game']	0.0865547439517
+['point', 'have']	['wildcat have']	0.580461323506
+['60 point', 'have']	['hockey team']	0.138180177454
+['60 point', 'have']	['2 point']	0.61033478077
+['60 point', 'have']	['1 point']	0.61033478077
+['60 point', 'have']	['tie']	0.205786135423
+['60 point', 'have']	['wild cat']	0.178637094719
+['60 point', 'have']	['cat']	0.205246340331
+['60 point', 'have']	['championship']	0.211769268505
+['60 point', 'have']	['point']	0.725198185265
+['60 point', 'have']	['9 more game']	0.149341147754
+['60 point', 'have']	['wildcat have']	0.688306617346
+['9 more game', 'have']	['hockey team']	0.140649313257
+['9 more game', 'have']	['2 point']	0.362256416006
+['9 more game', 'have']	['1 point']	0.362256416006
+['9 more game', 'have']	['tie']	0.0741073489195
+['9 more game', 'have']	['wild cat']	0.181106230521
+['9 more game', 'have']	['cat']	0.141155369736
+['9 more game', 'have']	['championship']	0.336465236749
+['9 more game', 'have']	['point']	0.0831083379243
+['9 more game', 'have']	['60 point']	0.126675736021
+['9 more game', 'have']	['wildcat have']	0.623176322982
+['wildcat have', 'have']	['hockey team']	0.264907405557
+['wildcat have', 'have']	['2 point']	0.14589133531
+['wildcat have', 'have']	['1 point']	0.14589133531
+['wildcat have', 'have']	['tie']	0.331383164672
+['wildcat have', 'have']	['wild cat']	0.339965307808
+['wildcat have', 'have']	['cat']	0.449491439312
+['wildcat have', 'have']	['championship']	0.334450854515
+['wildcat have', 'have']	['point']	0.265794843825
+['wildcat have', 'have']	['60 point']	0.14589133531
+['wildcat have', 'have']	['9 more game']	0.282940109221

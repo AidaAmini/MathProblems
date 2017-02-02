@@ -1,0 +1,16 @@
+1
+[['candy', '25', 'box', '-', '-', 'dollar', '28'], ['pepermint', 'x1', 'box', 'dollar', '1', '-', '-'], ['candy cane', 'x2', 'box', 'dollar', '1.3', '-', '-']]
+-1
+[['candy', '25', 'box', '-', 'x2', 'dollar', '28'], ['pepermint', 'x1', 'box', 'dollar', '1', '-', '-'], ['candy cane', '28', 'box', 'dollar', 'candy', 'x2', '-']]
+-1
+[['candy', '25', 'box', 'x2', '-', 'candy cane', '28'], ['pepermint', 'x1', 'box', 'dollar', '1', '-', '-'], ['candy cane', '25', 'box', 'dollar', 'candy', '-', '-']]
+-1
+[['candy', '25', 'candy cane', 'x2', '-', 'dollar', '1.3'], ['pepermint', 'x1', 'box', 'dollar', '1', '-', '-'], ['candy cane', 'x2', '25', 'dollar', '1.3', '-', 'candy']]
+-1
+[['candy', 'x2', 'box', '-', 'candy cane', 'dollar', '28'], ['pepermint', 'x1', 'box', 'dollar', '1', '-', '-'], ['candy cane', 'x2', 'dollar', 'candy', '1.3', '28', '-']]
+-1
+[['candy', 'candy cane', 'box', '-', '-', 'dollar', 'x2'], ['pepermint', 'x1', 'box', 'dollar', '1', '-', '-'], ['candy cane', 'x2', 'box', 'dollar', 'candy', '-', '-']]
+-1
+[['candy', '25', 'x2', '-', '-', 'dollar', '28'], ['pepermint', 'x1', 'box', 'dollar', '1', '-', '-'], ['candy cane', '25', 'box', '28', '1.3', '-', 'candy']]
+-1
+[['1.3', '25', 'box', '-', 'candy cane', 'dollar', '28'], ['pepermint', 'x1', 'box', 'dollar', '1', '-', '-'], ['candy cane', 'x2', 'box', 'dollar', '1.3', '-', '25']]

@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (NNP Safety) (NNP Rent) (NNP A) (NNP Truck))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (CD 41.95) (NNS dollars))
+        (PP
+          (CC plus)
+          (NP
+            (NP (CD 0.29) (NNS dollars))
+            (PP (IN per) (NP (NN mile)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP City) (NNPS Rentals))
+    (VP
+      (VBZ rents)
+      (NP
+        (NP
+          (NP (DT the) (NN truck))
+          (PP (IN for) (NP (CD 38.95) (NNS dollars))))
+        (CC plus)
+        (NP
+          (NP (CD 0.31) (NNS dollars))
+          (PP (IN per) (NP (NN mile))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHPP (IN For) (WHNP (WDT what) (NN mileage)))
+    (SQ
+      (VBP are)
+      (NP (NP (DT the) (NNS costs)) (NP (DT the) (JJ same))))
+    (. ?)))

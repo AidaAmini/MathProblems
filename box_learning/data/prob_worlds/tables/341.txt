@@ -1,0 +1,12 @@
+1
+[['ticket', '60', 'ticket', '-', '-', '-', '6'], ['advance ticket', 'x1', '-', '-', '20', '-', '-'], ['same-day ticket', 'x2', '-', '-', '30', '-', '-']]
+-1
+[['30', '60', 'ticket', '-', '-', '-', '6'], ['advance ticket', 'x1', '-', '-', '20', '-', '-'], ['60', 'ticket', '-', '6', '30', '-', '-']]
+-1
+[['ticket', '60', 'ticket', 'same-day ticket', '30', '-', '6'], ['advance ticket', 'x1', '-', '-', '20', '-', '-'], ['same-day ticket', '60', '-', '6', '30', '-', 'ticket']]
+-1
+[['ticket', '30', 'ticket', '-', '-', 'same-day ticket', '6'], ['advance ticket', 'x1', '-', '-', '20', '-', '-'], ['same-day ticket', 'x2', '-', '-', '30', '-', 'ticket']]
+-1
+[['ticket', '30', 'ticket', '-', '-', '-', '6'], ['advance ticket', 'x1', '-', '-', '20', '-', '-'], ['same-day ticket', 'x2', '-', 'ticket', '30', '-', '6']]
+-1
+[['x2', '60', 'same-day ticket', '-', '-', '-', '6'], ['advance ticket', 'x1', '-', '-', '20', '-', '-'], ['60', 'x2', '-', '-', '6', '-', '-']]

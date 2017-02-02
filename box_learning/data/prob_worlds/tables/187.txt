@@ -1,0 +1,16 @@
+1
+[['bricklayer and a electrician', '90', 'hour', '-', '-', 'dollar', '1350'], ['bricklayer', 'x1', 'hour', 'dollar', '12', '-', '-'], ['electrician', 'x2', 'hour', 'dollar', '16', '-', '-']]
+-1
+[['bricklayer and a electrician', 'dollar', 'hour', '-', '-', '16', '1350'], ['bricklayer', 'x1', 'hour', 'dollar', '12', '-', '-'], ['electrician', '1350', 'hour', 'dollar', '16', 'bricklayer and a electrician', '-']]
+-1
+[['16', '90', 'x2', '-', '-', 'dollar', '1350'], ['bricklayer', 'x1', 'hour', 'dollar', '12', '-', '-'], ['90', 'x2', '1350', 'dollar', '16', '-', '-']]
+-1
+[['bricklayer and a electrician', '16', '1350', '-', '-', 'dollar', '90'], ['bricklayer', 'x1', 'hour', 'dollar', '12', '-', '-'], ['bricklayer and a electrician', '1350', 'hour', 'dollar', '16', '90', '-']]
+-1
+[['electrician', '90', 'hour', '-', '-', 'dollar', '1350'], ['bricklayer', 'x1', 'hour', 'dollar', '12', '-', '-'], ['electrician', 'x2', 'dollar', '1350', '16', '-', '-']]
+-1
+[['bricklayer and a electrician', '90', 'hour', '16', '-', 'x2', 'dollar'], ['bricklayer', 'x1', 'hour', 'dollar', '12', '-', '-'], ['electrician', 'x2', '90', 'dollar', '16', 'hour', '-']]
+-1
+[['bricklayer and a electrician', '90', 'hour', 'x2', '-', 'dollar', '1350'], ['bricklayer', 'x1', 'hour', 'dollar', '12', '-', '-'], ['bricklayer and a electrician', '90', 'hour', 'dollar', '16', 'electrician', '-']]
+-1
+[['bricklayer and a electrician', 'x2', '1350', '-', '-', 'dollar', 'electrician'], ['bricklayer', 'x1', 'hour', 'dollar', '12', '-', '-'], ['electrician', 'x2', 'hour', 'dollar', '16', '-', '1350']]

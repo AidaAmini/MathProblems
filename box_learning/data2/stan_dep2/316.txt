@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP (DT A) (NN farmhouse))
+    (VP (VBZ has) (NP (CD 15) (NNS animals)))
+    (. .)))
+(ROOT
+  (S
+    (S (NP (DT Some)) (VP (VBP are) (NP (NNS goats))))
+    (CC and)
+    (S (NP (DT some)) (VP (VBP are) (NP (NNS ducks))))
+    (. .)))
+(ROOT
+  (S
+    (ADVP (RB Altogether))
+    (NP (EX there))
+    (VP (VBP are) (NP (CD 48) (NNS legs)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many) (PP (IN of) (NP (DT each))))
+      (NN animal))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

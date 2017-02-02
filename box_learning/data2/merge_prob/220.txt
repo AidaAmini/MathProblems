@@ -1,0 +1,535 @@
+['chemist', '30 ounce', '25 % alcohol solution', 'solution', '15 % alcohol solution', '40 % alcohol solution', 'ounce', '15 % solution', '40 % solution']
+['chemist']	['30 ounce']	0.0827346205535
+['chemist']	['25 % alcohol solution']	0.0911183754822
+['chemist']	['solution']	0.0640601780793
+['chemist']	['15 % alcohol solution']	0.0911183754822
+['chemist']	['40 % alcohol solution']	0.0911183754822
+['chemist']	['ounce']	0.0255251483302
+['chemist']	['15 % solution']	0.0911183754822
+['chemist']	['40 % solution']	0.0911183754822
+['30 ounce']	['25 % alcohol solution']	0.345657820569
+['30 ounce']	['solution']	0.050052963724
+['30 ounce']	['15 % alcohol solution']	0.345657820569
+['30 ounce']	['40 % alcohol solution']	0.345657820569
+['30 ounce']	['15 % solution']	0.379457278768
+['30 ounce']	['40 % solution']	0.379457278768
+['25 % alcohol solution']	['15 % alcohol solution']	0.803082245678
+['25 % alcohol solution']	['40 % alcohol solution']	0.803082245678
+['25 % alcohol solution']	['ounce']	0.015547544145
+['25 % alcohol solution']	['15 % solution']	0.812688645742
+['25 % alcohol solution']	['40 % solution']	0.812688645742
+['solution']	['ounce']	0.0114434646684
+['15 % alcohol solution']	['40 % alcohol solution']	0.803082245678
+['15 % alcohol solution']	['ounce']	0.015547544145
+['15 % alcohol solution']	['15 % solution']	0.355830437672
+['15 % alcohol solution']	['40 % solution']	0.812688645742
+['40 % alcohol solution']	['ounce']	0.015547544145
+['40 % alcohol solution']	['15 % solution']	0.812688645742
+['40 % alcohol solution']	['40 % solution']	0.355830437672
+['ounce']	['15 % solution']	0.0229195678247
+['ounce']	['40 % solution']	0.0229195678247
+['15 % solution']	['40 % solution']	0.811753586716
+['30 ounce', 'chemist']	['25 % alcohol solution']	0.381390718405
+['30 ounce', 'chemist']	['solution']	0.201650401496
+['30 ounce', 'chemist']	['15 % alcohol solution']	0.381390718405
+['30 ounce', 'chemist']	['40 % alcohol solution']	0.381390718405
+['30 ounce', 'chemist']	['ounce']	0.638470885122
+['30 ounce', 'chemist']	['15 % solution']	0.394904704419
+['30 ounce', 'chemist']	['40 % solution']	0.394904704419
+['25 % alcohol solution', 'chemist']	['30 ounce']	0.508264908435
+['25 % alcohol solution', 'chemist']	['solution']	0.699891134341
+['25 % alcohol solution', 'chemist']	['15 % alcohol solution']	0.829397916175
+['25 % alcohol solution', 'chemist']	['40 % alcohol solution']	0.829397916175
+['25 % alcohol solution', 'chemist']	['ounce']	0.234967990614
+['25 % alcohol solution', 'chemist']	['15 % solution']	0.824752035523
+['25 % alcohol solution', 'chemist']	['40 % solution']	0.824752035523
+['solution', 'chemist']	['30 ounce']	0.046982964258
+['solution', 'chemist']	['25 % alcohol solution']	0.619050995303
+['solution', 'chemist']	['15 % alcohol solution']	0.619050995303
+['solution', 'chemist']	['40 % alcohol solution']	0.619050995303
+['solution', 'chemist']	['ounce']	0.0434292404498
+['solution', 'chemist']	['15 % solution']	0.750923514478
+['solution', 'chemist']	['40 % solution']	0.750923514478
+['15 % alcohol solution', 'chemist']	['30 ounce']	0.508264908435
+['15 % alcohol solution', 'chemist']	['25 % alcohol solution']	0.829397916175
+['15 % alcohol solution', 'chemist']	['solution']	0.699891134341
+['15 % alcohol solution', 'chemist']	['40 % alcohol solution']	0.829397916175
+['15 % alcohol solution', 'chemist']	['ounce']	0.234967990614
+['15 % alcohol solution', 'chemist']	['15 % solution']	0.785461391954
+['15 % alcohol solution', 'chemist']	['40 % solution']	0.824752035523
+['40 % alcohol solution', 'chemist']	['30 ounce']	0.508264908435
+['40 % alcohol solution', 'chemist']	['25 % alcohol solution']	0.829397916175
+['40 % alcohol solution', 'chemist']	['solution']	0.699891134341
+['40 % alcohol solution', 'chemist']	['15 % alcohol solution']	0.829397916175
+['40 % alcohol solution', 'chemist']	['ounce']	0.234967990614
+['40 % alcohol solution', 'chemist']	['15 % solution']	0.824752035523
+['40 % alcohol solution', 'chemist']	['40 % solution']	0.785461391954
+['ounce', 'chemist']	['30 ounce']	0.415721551815
+['ounce', 'chemist']	['25 % alcohol solution']	0.0502226046843
+['ounce', 'chemist']	['solution']	0.0173047111215
+['ounce', 'chemist']	['15 % alcohol solution']	0.0502226046843
+['ounce', 'chemist']	['40 % alcohol solution']	0.0502226046843
+['ounce', 'chemist']	['15 % solution']	0.0468568647332
+['ounce', 'chemist']	['40 % solution']	0.0468568647332
+['15 % solution', 'chemist']	['30 ounce']	0.417194081899
+['15 % solution', 'chemist']	['25 % alcohol solution']	0.675218156013
+['15 % solution', 'chemist']	['solution']	0.837207549174
+['15 % solution', 'chemist']	['15 % alcohol solution']	0.613006341191
+['15 % solution', 'chemist']	['40 % alcohol solution']	0.675218156013
+['15 % solution', 'chemist']	['ounce']	0.235341836676
+['15 % solution', 'chemist']	['40 % solution']	0.716899463012
+['40 % solution', 'chemist']	['30 ounce']	0.417194081899
+['40 % solution', 'chemist']	['25 % alcohol solution']	0.675218156013
+['40 % solution', 'chemist']	['solution']	0.837207549174
+['40 % solution', 'chemist']	['15 % alcohol solution']	0.675218156013
+['40 % solution', 'chemist']	['40 % alcohol solution']	0.613006341191
+['40 % solution', 'chemist']	['ounce']	0.235341836676
+['40 % solution', 'chemist']	['15 % solution']	0.716899463012
+['chemist', '30 ounce']	['25 % alcohol solution']	0.381390718405
+['chemist', '30 ounce']	['solution']	0.201650401496
+['chemist', '30 ounce']	['15 % alcohol solution']	0.381390718405
+['chemist', '30 ounce']	['40 % alcohol solution']	0.381390718405
+['chemist', '30 ounce']	['ounce']	0.638470885122
+['chemist', '30 ounce']	['15 % solution']	0.394904704419
+['chemist', '30 ounce']	['40 % solution']	0.394904704419
+['25 % alcohol solution', '30 ounce']	['chemist']	0.0865519868472
+['25 % alcohol solution', '30 ounce']	['solution']	0.620253282372
+['25 % alcohol solution', '30 ounce']	['15 % alcohol solution']	0.835795180648
+['25 % alcohol solution', '30 ounce']	['40 % alcohol solution']	0.835795180648
+['25 % alcohol solution', '30 ounce']	['ounce']	0.411379705915
+['25 % alcohol solution', '30 ounce']	['15 % solution']	0.834454514341
+['25 % alcohol solution', '30 ounce']	['40 % solution']	0.834454514341
+['solution', '30 ounce']	['chemist']	0.134743847553
+['solution', '30 ounce']	['25 % alcohol solution']	0.654442934795
+['solution', '30 ounce']	['15 % alcohol solution']	0.654442934795
+['solution', '30 ounce']	['40 % alcohol solution']	0.654442934795
+['solution', '30 ounce']	['ounce']	0.517294800362
+['solution', '30 ounce']	['15 % solution']	0.76844741954
+['solution', '30 ounce']	['40 % solution']	0.76844741954
+['15 % alcohol solution', '30 ounce']	['chemist']	0.0865519868472
+['15 % alcohol solution', '30 ounce']	['25 % alcohol solution']	0.835795180648
+['15 % alcohol solution', '30 ounce']	['solution']	0.620253282372
+['15 % alcohol solution', '30 ounce']	['40 % alcohol solution']	0.835795180648
+['15 % alcohol solution', '30 ounce']	['ounce']	0.411379705915
+['15 % alcohol solution', '30 ounce']	['15 % solution']	0.643862886731
+['15 % alcohol solution', '30 ounce']	['40 % solution']	0.834454514341
+['40 % alcohol solution', '30 ounce']	['chemist']	0.0865519868472
+['40 % alcohol solution', '30 ounce']	['25 % alcohol solution']	0.835795180648
+['40 % alcohol solution', '30 ounce']	['solution']	0.620253282372
+['40 % alcohol solution', '30 ounce']	['15 % alcohol solution']	0.835795180648
+['40 % alcohol solution', '30 ounce']	['ounce']	0.411379705915
+['40 % alcohol solution', '30 ounce']	['15 % solution']	0.834454514341
+['40 % alcohol solution', '30 ounce']	['40 % solution']	0.643862886731
+['ounce', '30 ounce']	['chemist']	0.394037249774
+['ounce', '30 ounce']	['25 % alcohol solution']	0.577901851166
+['ounce', '30 ounce']	['solution']	0.275335569328
+['ounce', '30 ounce']	['15 % alcohol solution']	0.577901851166
+['ounce', '30 ounce']	['40 % alcohol solution']	0.577901851166
+['ounce', '30 ounce']	['15 % solution']	0.57831258241
+['ounce', '30 ounce']	['40 % solution']	0.57831258241
+['15 % solution', '30 ounce']	['chemist']	0.14729034296
+['15 % solution', '30 ounce']	['25 % alcohol solution']	0.882801226127
+['15 % solution', '30 ounce']	['solution']	0.818998895236
+['15 % solution', '30 ounce']	['15 % alcohol solution']	0.697996480758
+['15 % solution', '30 ounce']	['40 % alcohol solution']	0.882801226127
+['15 % solution', '30 ounce']	['ounce']	0.448416742952
+['15 % solution', '30 ounce']	['40 % solution']	0.88146055982
+['40 % solution', '30 ounce']	['chemist']	0.14729034296
+['40 % solution', '30 ounce']	['25 % alcohol solution']	0.882801226127
+['40 % solution', '30 ounce']	['solution']	0.818998895236
+['40 % solution', '30 ounce']	['15 % alcohol solution']	0.882801226127
+['40 % solution', '30 ounce']	['40 % alcohol solution']	0.697996480758
+['40 % solution', '30 ounce']	['ounce']	0.448416742952
+['40 % solution', '30 ounce']	['15 % solution']	0.88146055982
+['chemist', '25 % alcohol solution']	['30 ounce']	0.508264908435
+['chemist', '25 % alcohol solution']	['solution']	0.699891134341
+['chemist', '25 % alcohol solution']	['15 % alcohol solution']	0.829397916175
+['chemist', '25 % alcohol solution']	['40 % alcohol solution']	0.829397916175
+['chemist', '25 % alcohol solution']	['ounce']	0.234967990614
+['chemist', '25 % alcohol solution']	['15 % solution']	0.824752035523
+['chemist', '25 % alcohol solution']	['40 % solution']	0.824752035523
+['30 ounce', '25 % alcohol solution']	['chemist']	0.0865519868472
+['30 ounce', '25 % alcohol solution']	['solution']	0.620253282372
+['30 ounce', '25 % alcohol solution']	['15 % alcohol solution']	0.835795180648
+['30 ounce', '25 % alcohol solution']	['40 % alcohol solution']	0.835795180648
+['30 ounce', '25 % alcohol solution']	['ounce']	0.411379705915
+['30 ounce', '25 % alcohol solution']	['15 % solution']	0.834454514341
+['30 ounce', '25 % alcohol solution']	['40 % solution']	0.834454514341
+['solution', '25 % alcohol solution']	['chemist']	0.396144342282
+['solution', '25 % alcohol solution']	['30 ounce']	0.612431298936
+['solution', '25 % alcohol solution']	['15 % alcohol solution']	0.668137175049
+['solution', '25 % alcohol solution']	['40 % alcohol solution']	0.668137175049
+['solution', '25 % alcohol solution']	['ounce']	0.194545520817
+['solution', '25 % alcohol solution']	['15 % solution']	0.832607754681
+['solution', '25 % alcohol solution']	['40 % solution']	0.832607754681
+['15 % alcohol solution', '25 % alcohol solution']	['chemist']	0.31309334945
+['15 % alcohol solution', '25 % alcohol solution']	['30 ounce']	0.687791572343
+['15 % alcohol solution', '25 % alcohol solution']	['solution']	0.740418830509
+['15 % alcohol solution', '25 % alcohol solution']	['40 % alcohol solution']	0.857938536236
+['15 % alcohol solution', '25 % alcohol solution']	['ounce']	0.159887342775
+['15 % alcohol solution', '25 % alcohol solution']	['15 % solution']	0.342173582697
+['15 % alcohol solution', '25 % alcohol solution']	['40 % solution']	0.861428431445
+['40 % alcohol solution', '25 % alcohol solution']	['chemist']	0.31309334945
+['40 % alcohol solution', '25 % alcohol solution']	['30 ounce']	0.687791572343
+['40 % alcohol solution', '25 % alcohol solution']	['solution']	0.740418830509
+['40 % alcohol solution', '25 % alcohol solution']	['15 % alcohol solution']	0.857938536236
+['40 % alcohol solution', '25 % alcohol solution']	['ounce']	0.159887342775
+['40 % alcohol solution', '25 % alcohol solution']	['15 % solution']	0.861428431445
+['40 % alcohol solution', '25 % alcohol solution']	['40 % solution']	0.342173582697
+['ounce', '25 % alcohol solution']	['chemist']	0.338287205862
+['ounce', '25 % alcohol solution']	['30 ounce']	0.568163126162
+['ounce', '25 % alcohol solution']	['solution']	0.346426267523
+['ounce', '25 % alcohol solution']	['15 % alcohol solution']	0.270891877978
+['ounce', '25 % alcohol solution']	['40 % alcohol solution']	0.270891877978
+['ounce', '25 % alcohol solution']	['15 % solution']	0.266245997325
+['ounce', '25 % alcohol solution']	['40 % solution']	0.266245997325
+['15 % solution', '25 % alcohol solution']	['chemist']	0.31309334945
+['15 % solution', '25 % alcohol solution']	['30 ounce']	0.713011373664
+['15 % solution', '25 % alcohol solution']	['solution']	0.851621924645
+['15 % solution', '25 % alcohol solution']	['15 % alcohol solution']	0.307729581633
+['15 % solution', '25 % alcohol solution']	['40 % alcohol solution']	0.867467749457
+['15 % solution', '25 % alcohol solution']	['ounce']	0.159887342775
+['15 % solution', '25 % alcohol solution']	['40 % solution']	0.866270144667
+['40 % solution', '25 % alcohol solution']	['chemist']	0.31309334945
+['40 % solution', '25 % alcohol solution']	['30 ounce']	0.713011373664
+['40 % solution', '25 % alcohol solution']	['solution']	0.851621924645
+['40 % solution', '25 % alcohol solution']	['15 % alcohol solution']	0.867467749457
+['40 % solution', '25 % alcohol solution']	['40 % alcohol solution']	0.307729581633
+['40 % solution', '25 % alcohol solution']	['ounce']	0.159887342775
+['40 % solution', '25 % alcohol solution']	['15 % solution']	0.866270144667
+['chemist', 'solution']	['30 ounce']	0.046982964258
+['chemist', 'solution']	['25 % alcohol solution']	0.619050995303
+['chemist', 'solution']	['15 % alcohol solution']	0.619050995303
+['chemist', 'solution']	['40 % alcohol solution']	0.619050995303
+['chemist', 'solution']	['ounce']	0.0434292404498
+['chemist', 'solution']	['15 % solution']	0.750923514478
+['chemist', 'solution']	['40 % solution']	0.750923514478
+['30 ounce', 'solution']	['chemist']	0.134743847553
+['30 ounce', 'solution']	['25 % alcohol solution']	0.654442934795
+['30 ounce', 'solution']	['15 % alcohol solution']	0.654442934795
+['30 ounce', 'solution']	['40 % alcohol solution']	0.654442934795
+['30 ounce', 'solution']	['ounce']	0.517294800362
+['30 ounce', 'solution']	['15 % solution']	0.76844741954
+['30 ounce', 'solution']	['40 % solution']	0.76844741954
+['25 % alcohol solution', 'solution']	['chemist']	0.396144342282
+['25 % alcohol solution', 'solution']	['30 ounce']	0.612431298936
+['25 % alcohol solution', 'solution']	['15 % alcohol solution']	0.668137175049
+['25 % alcohol solution', 'solution']	['40 % alcohol solution']	0.668137175049
+['25 % alcohol solution', 'solution']	['ounce']	0.194545520817
+['25 % alcohol solution', 'solution']	['15 % solution']	0.832607754681
+['25 % alcohol solution', 'solution']	['40 % solution']	0.832607754681
+['15 % alcohol solution', 'solution']	['chemist']	0.396144342282
+['15 % alcohol solution', 'solution']	['30 ounce']	0.612431298936
+['15 % alcohol solution', 'solution']	['25 % alcohol solution']	0.668137175049
+['15 % alcohol solution', 'solution']	['40 % alcohol solution']	0.668137175049
+['15 % alcohol solution', 'solution']	['ounce']	0.194545520817
+['15 % alcohol solution', 'solution']	['15 % solution']	0.750896905909
+['15 % alcohol solution', 'solution']	['40 % solution']	0.832607754681
+['40 % alcohol solution', 'solution']	['chemist']	0.396144342282
+['40 % alcohol solution', 'solution']	['30 ounce']	0.612431298936
+['40 % alcohol solution', 'solution']	['25 % alcohol solution']	0.668137175049
+['40 % alcohol solution', 'solution']	['15 % alcohol solution']	0.668137175049
+['40 % alcohol solution', 'solution']	['ounce']	0.194545520817
+['40 % alcohol solution', 'solution']	['15 % solution']	0.832607754681
+['40 % alcohol solution', 'solution']	['40 % solution']	0.750896905909
+['ounce', 'solution']	['chemist']	0.124344107469
+['ounce', 'solution']	['30 ounce']	0.289651787779
+['ounce', 'solution']	['25 % alcohol solution']	0.327233151348
+['ounce', 'solution']	['15 % alcohol solution']	0.327233151348
+['ounce', 'solution']	['40 % alcohol solution']	0.327233151348
+['ounce', 'solution']	['15 % solution']	0.39204374255
+['ounce', 'solution']	['40 % solution']	0.39204374255
+['15 % solution', 'solution']	['chemist']	0.371063211682
+['15 % solution', 'solution']	['30 ounce']	0.550754248875
+['15 % solution', 'solution']	['25 % alcohol solution']	0.62789600137
+['15 % solution', 'solution']	['15 % alcohol solution']	0.573201404691
+['15 % solution', 'solution']	['40 % alcohol solution']	0.62789600137
+['15 % solution', 'solution']	['ounce']	0.199307425579
+['15 % solution', 'solution']	['40 % solution']	0.813196890782
+['40 % solution', 'solution']	['chemist']	0.371063211682
+['40 % solution', 'solution']	['30 ounce']	0.550754248875
+['40 % solution', 'solution']	['25 % alcohol solution']	0.62789600137
+['40 % solution', 'solution']	['15 % alcohol solution']	0.62789600137
+['40 % solution', 'solution']	['40 % alcohol solution']	0.573201404691
+['40 % solution', 'solution']	['ounce']	0.199307425579
+['40 % solution', 'solution']	['15 % solution']	0.813196890782
+['chemist', '15 % alcohol solution']	['30 ounce']	0.508264908435
+['chemist', '15 % alcohol solution']	['25 % alcohol solution']	0.829397916175
+['chemist', '15 % alcohol solution']	['solution']	0.699891134341
+['chemist', '15 % alcohol solution']	['40 % alcohol solution']	0.829397916175
+['chemist', '15 % alcohol solution']	['ounce']	0.234967990614
+['chemist', '15 % alcohol solution']	['15 % solution']	0.785461391954
+['chemist', '15 % alcohol solution']	['40 % solution']	0.824752035523
+['30 ounce', '15 % alcohol solution']	['chemist']	0.0865519868472
+['30 ounce', '15 % alcohol solution']	['25 % alcohol solution']	0.835795180648
+['30 ounce', '15 % alcohol solution']	['solution']	0.620253282372
+['30 ounce', '15 % alcohol solution']	['40 % alcohol solution']	0.835795180648
+['30 ounce', '15 % alcohol solution']	['ounce']	0.411379705915
+['30 ounce', '15 % alcohol solution']	['15 % solution']	0.643862886731
+['30 ounce', '15 % alcohol solution']	['40 % solution']	0.834454514341
+['25 % alcohol solution', '15 % alcohol solution']	['chemist']	0.31309334945
+['25 % alcohol solution', '15 % alcohol solution']	['30 ounce']	0.687791572343
+['25 % alcohol solution', '15 % alcohol solution']	['solution']	0.740418830509
+['25 % alcohol solution', '15 % alcohol solution']	['40 % alcohol solution']	0.857938536236
+['25 % alcohol solution', '15 % alcohol solution']	['ounce']	0.159887342775
+['25 % alcohol solution', '15 % alcohol solution']	['15 % solution']	0.342173582697
+['25 % alcohol solution', '15 % alcohol solution']	['40 % solution']	0.861428431445
+['solution', '15 % alcohol solution']	['chemist']	0.396144342282
+['solution', '15 % alcohol solution']	['30 ounce']	0.612431298936
+['solution', '15 % alcohol solution']	['25 % alcohol solution']	0.668137175049
+['solution', '15 % alcohol solution']	['40 % alcohol solution']	0.668137175049
+['solution', '15 % alcohol solution']	['ounce']	0.194545520817
+['solution', '15 % alcohol solution']	['15 % solution']	0.750896905909
+['solution', '15 % alcohol solution']	['40 % solution']	0.832607754681
+['40 % alcohol solution', '15 % alcohol solution']	['chemist']	0.31309334945
+['40 % alcohol solution', '15 % alcohol solution']	['30 ounce']	0.687791572343
+['40 % alcohol solution', '15 % alcohol solution']	['25 % alcohol solution']	0.857938536236
+['40 % alcohol solution', '15 % alcohol solution']	['solution']	0.740418830509
+['40 % alcohol solution', '15 % alcohol solution']	['ounce']	0.159887342775
+['40 % alcohol solution', '15 % alcohol solution']	['15 % solution']	0.342173582697
+['40 % alcohol solution', '15 % alcohol solution']	['40 % solution']	0.342173582697
+['ounce', '15 % alcohol solution']	['chemist']	0.338287205862
+['ounce', '15 % alcohol solution']	['30 ounce']	0.568163126162
+['ounce', '15 % alcohol solution']	['25 % alcohol solution']	0.270891877978
+['ounce', '15 % alcohol solution']	['solution']	0.346426267523
+['ounce', '15 % alcohol solution']	['40 % alcohol solution']	0.270891877978
+['ounce', '15 % alcohol solution']	['15 % solution']	0.256227593946
+['ounce', '15 % alcohol solution']	['40 % solution']	0.266245997325
+['15 % solution', '15 % alcohol solution']	['chemist']	0.31309334945
+['15 % solution', '15 % alcohol solution']	['30 ounce']	0.713011373664
+['15 % solution', '15 % alcohol solution']	['25 % alcohol solution']	0.867467749457
+['15 % solution', '15 % alcohol solution']	['solution']	0.851621924645
+['15 % solution', '15 % alcohol solution']	['40 % alcohol solution']	0.867467749457
+['15 % solution', '15 % alcohol solution']	['ounce']	0.159887342775
+['15 % solution', '15 % alcohol solution']	['40 % solution']	0.866270144667
+['40 % solution', '15 % alcohol solution']	['chemist']	0.31309334945
+['40 % solution', '15 % alcohol solution']	['30 ounce']	0.713011373664
+['40 % solution', '15 % alcohol solution']	['25 % alcohol solution']	0.867467749457
+['40 % solution', '15 % alcohol solution']	['solution']	0.851621924645
+['40 % solution', '15 % alcohol solution']	['40 % alcohol solution']	0.307729581633
+['40 % solution', '15 % alcohol solution']	['ounce']	0.159887342775
+['40 % solution', '15 % alcohol solution']	['15 % solution']	0.313840692744
+['chemist', '40 % alcohol solution']	['30 ounce']	0.508264908435
+['chemist', '40 % alcohol solution']	['25 % alcohol solution']	0.829397916175
+['chemist', '40 % alcohol solution']	['solution']	0.699891134341
+['chemist', '40 % alcohol solution']	['15 % alcohol solution']	0.829397916175
+['chemist', '40 % alcohol solution']	['ounce']	0.234967990614
+['chemist', '40 % alcohol solution']	['15 % solution']	0.824752035523
+['chemist', '40 % alcohol solution']	['40 % solution']	0.785461391954
+['30 ounce', '40 % alcohol solution']	['chemist']	0.0865519868472
+['30 ounce', '40 % alcohol solution']	['25 % alcohol solution']	0.835795180648
+['30 ounce', '40 % alcohol solution']	['solution']	0.620253282372
+['30 ounce', '40 % alcohol solution']	['15 % alcohol solution']	0.835795180648
+['30 ounce', '40 % alcohol solution']	['ounce']	0.411379705915
+['30 ounce', '40 % alcohol solution']	['15 % solution']	0.834454514341
+['30 ounce', '40 % alcohol solution']	['40 % solution']	0.643862886731
+['25 % alcohol solution', '40 % alcohol solution']	['chemist']	0.31309334945
+['25 % alcohol solution', '40 % alcohol solution']	['30 ounce']	0.687791572343
+['25 % alcohol solution', '40 % alcohol solution']	['solution']	0.740418830509
+['25 % alcohol solution', '40 % alcohol solution']	['15 % alcohol solution']	0.857938536236
+['25 % alcohol solution', '40 % alcohol solution']	['ounce']	0.159887342775
+['25 % alcohol solution', '40 % alcohol solution']	['15 % solution']	0.861428431445
+['25 % alcohol solution', '40 % alcohol solution']	['40 % solution']	0.342173582697
+['solution', '40 % alcohol solution']	['chemist']	0.396144342282
+['solution', '40 % alcohol solution']	['30 ounce']	0.612431298936
+['solution', '40 % alcohol solution']	['25 % alcohol solution']	0.668137175049
+['solution', '40 % alcohol solution']	['15 % alcohol solution']	0.668137175049
+['solution', '40 % alcohol solution']	['ounce']	0.194545520817
+['solution', '40 % alcohol solution']	['15 % solution']	0.832607754681
+['solution', '40 % alcohol solution']	['40 % solution']	0.750896905909
+['15 % alcohol solution', '40 % alcohol solution']	['chemist']	0.31309334945
+['15 % alcohol solution', '40 % alcohol solution']	['30 ounce']	0.687791572343
+['15 % alcohol solution', '40 % alcohol solution']	['25 % alcohol solution']	0.857938536236
+['15 % alcohol solution', '40 % alcohol solution']	['solution']	0.740418830509
+['15 % alcohol solution', '40 % alcohol solution']	['ounce']	0.159887342775
+['15 % alcohol solution', '40 % alcohol solution']	['15 % solution']	0.342173582697
+['15 % alcohol solution', '40 % alcohol solution']	['40 % solution']	0.342173582697
+['ounce', '40 % alcohol solution']	['chemist']	0.338287205862
+['ounce', '40 % alcohol solution']	['30 ounce']	0.568163126162
+['ounce', '40 % alcohol solution']	['25 % alcohol solution']	0.270891877978
+['ounce', '40 % alcohol solution']	['solution']	0.346426267523
+['ounce', '40 % alcohol solution']	['15 % alcohol solution']	0.270891877978
+['ounce', '40 % alcohol solution']	['15 % solution']	0.266245997325
+['ounce', '40 % alcohol solution']	['40 % solution']	0.256227593946
+['15 % solution', '40 % alcohol solution']	['chemist']	0.31309334945
+['15 % solution', '40 % alcohol solution']	['30 ounce']	0.713011373664
+['15 % solution', '40 % alcohol solution']	['25 % alcohol solution']	0.867467749457
+['15 % solution', '40 % alcohol solution']	['solution']	0.851621924645
+['15 % solution', '40 % alcohol solution']	['15 % alcohol solution']	0.307729581633
+['15 % solution', '40 % alcohol solution']	['ounce']	0.159887342775
+['15 % solution', '40 % alcohol solution']	['40 % solution']	0.313840692744
+['40 % solution', '40 % alcohol solution']	['chemist']	0.31309334945
+['40 % solution', '40 % alcohol solution']	['30 ounce']	0.713011373664
+['40 % solution', '40 % alcohol solution']	['25 % alcohol solution']	0.867467749457
+['40 % solution', '40 % alcohol solution']	['solution']	0.851621924645
+['40 % solution', '40 % alcohol solution']	['15 % alcohol solution']	0.867467749457
+['40 % solution', '40 % alcohol solution']	['ounce']	0.159887342775
+['40 % solution', '40 % alcohol solution']	['15 % solution']	0.866270144667
+['chemist', 'ounce']	['30 ounce']	0.415721551815
+['chemist', 'ounce']	['25 % alcohol solution']	0.0502226046843
+['chemist', 'ounce']	['solution']	0.0173047111215
+['chemist', 'ounce']	['15 % alcohol solution']	0.0502226046843
+['chemist', 'ounce']	['40 % alcohol solution']	0.0502226046843
+['chemist', 'ounce']	['15 % solution']	0.0468568647332
+['chemist', 'ounce']	['40 % solution']	0.0468568647332
+['30 ounce', 'ounce']	['chemist']	0.394037249774
+['30 ounce', 'ounce']	['25 % alcohol solution']	0.577901851166
+['30 ounce', 'ounce']	['solution']	0.275335569328
+['30 ounce', 'ounce']	['15 % alcohol solution']	0.577901851166
+['30 ounce', 'ounce']	['40 % alcohol solution']	0.577901851166
+['30 ounce', 'ounce']	['15 % solution']	0.57831258241
+['30 ounce', 'ounce']	['40 % solution']	0.57831258241
+['25 % alcohol solution', 'ounce']	['chemist']	0.338287205862
+['25 % alcohol solution', 'ounce']	['30 ounce']	0.568163126162
+['25 % alcohol solution', 'ounce']	['solution']	0.346426267523
+['25 % alcohol solution', 'ounce']	['15 % alcohol solution']	0.270891877978
+['25 % alcohol solution', 'ounce']	['40 % alcohol solution']	0.270891877978
+['25 % alcohol solution', 'ounce']	['15 % solution']	0.266245997325
+['25 % alcohol solution', 'ounce']	['40 % solution']	0.266245997325
+['solution', 'ounce']	['chemist']	0.124344107469
+['solution', 'ounce']	['30 ounce']	0.289651787779
+['solution', 'ounce']	['25 % alcohol solution']	0.327233151348
+['solution', 'ounce']	['15 % alcohol solution']	0.327233151348
+['solution', 'ounce']	['40 % alcohol solution']	0.327233151348
+['solution', 'ounce']	['15 % solution']	0.39204374255
+['solution', 'ounce']	['40 % solution']	0.39204374255
+['15 % alcohol solution', 'ounce']	['chemist']	0.338287205862
+['15 % alcohol solution', 'ounce']	['30 ounce']	0.568163126162
+['15 % alcohol solution', 'ounce']	['25 % alcohol solution']	0.270891877978
+['15 % alcohol solution', 'ounce']	['solution']	0.346426267523
+['15 % alcohol solution', 'ounce']	['40 % alcohol solution']	0.270891877978
+['15 % alcohol solution', 'ounce']	['15 % solution']	0.256227593946
+['15 % alcohol solution', 'ounce']	['40 % solution']	0.266245997325
+['40 % alcohol solution', 'ounce']	['chemist']	0.338287205862
+['40 % alcohol solution', 'ounce']	['30 ounce']	0.568163126162
+['40 % alcohol solution', 'ounce']	['25 % alcohol solution']	0.270891877978
+['40 % alcohol solution', 'ounce']	['solution']	0.346426267523
+['40 % alcohol solution', 'ounce']	['15 % alcohol solution']	0.270891877978
+['40 % alcohol solution', 'ounce']	['15 % solution']	0.266245997325
+['40 % alcohol solution', 'ounce']	['40 % solution']	0.256227593946
+['15 % solution', 'ounce']	['chemist']	0.308208327484
+['15 % solution', 'ounce']	['30 ounce']	0.546880430424
+['15 % solution', 'ounce']	['25 % alcohol solution']	0.282755694504
+['15 % solution', 'ounce']	['solution']	0.481058541613
+['15 % solution', 'ounce']	['15 % alcohol solution']	0.295266090076
+['15 % solution', 'ounce']	['40 % alcohol solution']	0.282755694504
+['15 % solution', 'ounce']	['40 % solution']	0.298907534649
+['40 % solution', 'ounce']	['chemist']	0.308208327484
+['40 % solution', 'ounce']	['30 ounce']	0.546880430424
+['40 % solution', 'ounce']	['25 % alcohol solution']	0.282755694504
+['40 % solution', 'ounce']	['solution']	0.481058541613
+['40 % solution', 'ounce']	['15 % alcohol solution']	0.282755694504
+['40 % solution', 'ounce']	['40 % alcohol solution']	0.295266090076
+['40 % solution', 'ounce']	['15 % solution']	0.298907534649
+['chemist', '15 % solution']	['30 ounce']	0.417194081899
+['chemist', '15 % solution']	['25 % alcohol solution']	0.675218156013
+['chemist', '15 % solution']	['solution']	0.837207549174
+['chemist', '15 % solution']	['15 % alcohol solution']	0.613006341191
+['chemist', '15 % solution']	['40 % alcohol solution']	0.675218156013
+['chemist', '15 % solution']	['ounce']	0.235341836676
+['chemist', '15 % solution']	['40 % solution']	0.716899463012
+['30 ounce', '15 % solution']	['chemist']	0.14729034296
+['30 ounce', '15 % solution']	['25 % alcohol solution']	0.882801226127
+['30 ounce', '15 % solution']	['solution']	0.818998895236
+['30 ounce', '15 % solution']	['15 % alcohol solution']	0.697996480758
+['30 ounce', '15 % solution']	['40 % alcohol solution']	0.882801226127
+['30 ounce', '15 % solution']	['ounce']	0.448416742952
+['30 ounce', '15 % solution']	['40 % solution']	0.88146055982
+['25 % alcohol solution', '15 % solution']	['chemist']	0.31309334945
+['25 % alcohol solution', '15 % solution']	['30 ounce']	0.713011373664
+['25 % alcohol solution', '15 % solution']	['solution']	0.851621924645
+['25 % alcohol solution', '15 % solution']	['15 % alcohol solution']	0.307729581633
+['25 % alcohol solution', '15 % solution']	['40 % alcohol solution']	0.867467749457
+['25 % alcohol solution', '15 % solution']	['ounce']	0.159887342775
+['25 % alcohol solution', '15 % solution']	['40 % solution']	0.866270144667
+['solution', '15 % solution']	['chemist']	0.371063211682
+['solution', '15 % solution']	['30 ounce']	0.550754248875
+['solution', '15 % solution']	['25 % alcohol solution']	0.62789600137
+['solution', '15 % solution']	['15 % alcohol solution']	0.573201404691
+['solution', '15 % solution']	['40 % alcohol solution']	0.62789600137
+['solution', '15 % solution']	['ounce']	0.199307425579
+['solution', '15 % solution']	['40 % solution']	0.813196890782
+['15 % alcohol solution', '15 % solution']	['chemist']	0.31309334945
+['15 % alcohol solution', '15 % solution']	['30 ounce']	0.713011373664
+['15 % alcohol solution', '15 % solution']	['25 % alcohol solution']	0.867467749457
+['15 % alcohol solution', '15 % solution']	['solution']	0.851621924645
+['15 % alcohol solution', '15 % solution']	['40 % alcohol solution']	0.867467749457
+['15 % alcohol solution', '15 % solution']	['ounce']	0.159887342775
+['15 % alcohol solution', '15 % solution']	['40 % solution']	0.866270144667
+['40 % alcohol solution', '15 % solution']	['chemist']	0.31309334945
+['40 % alcohol solution', '15 % solution']	['30 ounce']	0.713011373664
+['40 % alcohol solution', '15 % solution']	['25 % alcohol solution']	0.867467749457
+['40 % alcohol solution', '15 % solution']	['solution']	0.851621924645
+['40 % alcohol solution', '15 % solution']	['15 % alcohol solution']	0.307729581633
+['40 % alcohol solution', '15 % solution']	['ounce']	0.159887342775
+['40 % alcohol solution', '15 % solution']	['40 % solution']	0.313840692744
+['ounce', '15 % solution']	['chemist']	0.308208327484
+['ounce', '15 % solution']	['30 ounce']	0.546880430424
+['ounce', '15 % solution']	['25 % alcohol solution']	0.282755694504
+['ounce', '15 % solution']	['solution']	0.481058541613
+['ounce', '15 % solution']	['15 % alcohol solution']	0.295266090076
+['ounce', '15 % solution']	['40 % alcohol solution']	0.282755694504
+['ounce', '15 % solution']	['40 % solution']	0.298907534649
+['40 % solution', '15 % solution']	['chemist']	0.31309334945
+['40 % solution', '15 % solution']	['30 ounce']	0.71455458354
+['40 % solution', '15 % solution']	['25 % alcohol solution']	0.837837978293
+['40 % solution', '15 % solution']	['solution']	0.8377815632
+['40 % solution', '15 % solution']	['15 % alcohol solution']	0.28686679577
+['40 % solution', '15 % solution']	['40 % alcohol solution']	0.28686679577
+['40 % solution', '15 % solution']	['ounce']	0.159887342775
+['chemist', '40 % solution']	['30 ounce']	0.417194081899
+['chemist', '40 % solution']	['25 % alcohol solution']	0.675218156013
+['chemist', '40 % solution']	['solution']	0.837207549174
+['chemist', '40 % solution']	['15 % alcohol solution']	0.675218156013
+['chemist', '40 % solution']	['40 % alcohol solution']	0.613006341191
+['chemist', '40 % solution']	['ounce']	0.235341836676
+['chemist', '40 % solution']	['15 % solution']	0.716899463012
+['30 ounce', '40 % solution']	['chemist']	0.14729034296
+['30 ounce', '40 % solution']	['25 % alcohol solution']	0.882801226127
+['30 ounce', '40 % solution']	['solution']	0.818998895236
+['30 ounce', '40 % solution']	['15 % alcohol solution']	0.882801226127
+['30 ounce', '40 % solution']	['40 % alcohol solution']	0.697996480758
+['30 ounce', '40 % solution']	['ounce']	0.448416742952
+['30 ounce', '40 % solution']	['15 % solution']	0.88146055982
+['25 % alcohol solution', '40 % solution']	['chemist']	0.31309334945
+['25 % alcohol solution', '40 % solution']	['30 ounce']	0.713011373664
+['25 % alcohol solution', '40 % solution']	['solution']	0.851621924645
+['25 % alcohol solution', '40 % solution']	['15 % alcohol solution']	0.867467749457
+['25 % alcohol solution', '40 % solution']	['40 % alcohol solution']	0.307729581633
+['25 % alcohol solution', '40 % solution']	['ounce']	0.159887342775
+['25 % alcohol solution', '40 % solution']	['15 % solution']	0.866270144667
+['solution', '40 % solution']	['chemist']	0.371063211682
+['solution', '40 % solution']	['30 ounce']	0.550754248875
+['solution', '40 % solution']	['25 % alcohol solution']	0.62789600137
+['solution', '40 % solution']	['15 % alcohol solution']	0.62789600137
+['solution', '40 % solution']	['40 % alcohol solution']	0.573201404691
+['solution', '40 % solution']	['ounce']	0.199307425579
+['solution', '40 % solution']	['15 % solution']	0.813196890782
+['15 % alcohol solution', '40 % solution']	['chemist']	0.31309334945
+['15 % alcohol solution', '40 % solution']	['30 ounce']	0.713011373664
+['15 % alcohol solution', '40 % solution']	['25 % alcohol solution']	0.867467749457
+['15 % alcohol solution', '40 % solution']	['solution']	0.851621924645
+['15 % alcohol solution', '40 % solution']	['40 % alcohol solution']	0.307729581633
+['15 % alcohol solution', '40 % solution']	['ounce']	0.159887342775
+['15 % alcohol solution', '40 % solution']	['15 % solution']	0.313840692744
+['40 % alcohol solution', '40 % solution']	['chemist']	0.31309334945
+['40 % alcohol solution', '40 % solution']	['30 ounce']	0.713011373664
+['40 % alcohol solution', '40 % solution']	['25 % alcohol solution']	0.867467749457
+['40 % alcohol solution', '40 % solution']	['solution']	0.851621924645
+['40 % alcohol solution', '40 % solution']	['15 % alcohol solution']	0.867467749457
+['40 % alcohol solution', '40 % solution']	['ounce']	0.159887342775
+['40 % alcohol solution', '40 % solution']	['15 % solution']	0.866270144667
+['ounce', '40 % solution']	['chemist']	0.308208327484
+['ounce', '40 % solution']	['30 ounce']	0.546880430424
+['ounce', '40 % solution']	['25 % alcohol solution']	0.282755694504
+['ounce', '40 % solution']	['solution']	0.481058541613
+['ounce', '40 % solution']	['15 % alcohol solution']	0.282755694504
+['ounce', '40 % solution']	['40 % alcohol solution']	0.295266090076
+['ounce', '40 % solution']	['15 % solution']	0.298907534649
+['15 % solution', '40 % solution']	['chemist']	0.31309334945
+['15 % solution', '40 % solution']	['30 ounce']	0.71455458354
+['15 % solution', '40 % solution']	['25 % alcohol solution']	0.837837978293
+['15 % solution', '40 % solution']	['solution']	0.8377815632
+['15 % solution', '40 % solution']	['15 % alcohol solution']	0.28686679577
+['15 % solution', '40 % solution']	['40 % alcohol solution']	0.28686679577
+['15 % solution', '40 % solution']	['ounce']	0.159887342775

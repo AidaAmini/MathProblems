@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (PP (IN At) (NP (DT a) (NN hotel)))
+    (NP-TMP (CD one) (NN night))
+    (, ,)
+    (NP (CD 260) (NNS rooms))
+    (VP (VBD were) (VP (VBN booked)))
+    (. .)))
+(ROOT
+  (S
+    (S (NP (DT Some)) (VP (VBD were) (NP (JJ single) (NNS rooms))))
+    (CC and)
+    (S (NP (DT some)) (VP (VBD were) (NP (JJ double) (NNS rooms))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ single) (NNS rooms))
+      (VP (VBD cost) (NP (CD 35) (NNS dollars)) (NP (DT each))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ double) (NNS rooms))
+      (VP (VBD cost) (NP (CD 60) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN hotel))
+    (VP
+      (VBD made)
+      (NP (NP (CD 14000) (NNS dollars)) (SBAR (WHNP (WDT that))))
+      (NP-TMP (NN night)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (JJ single) (NNS rooms))
+        (CC and)
+        (NP (JJ double) (NNS rooms))))
+    (SQ (VBD were) (VP (VBN booked)))
+    (. ?)))

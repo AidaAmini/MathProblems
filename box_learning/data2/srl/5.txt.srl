@@ -1,0 +1,18 @@
+walk ARG0 Mary
+begin ARG0 Mary
+head ARG0 Mary
+begin ARG1 walking home from school , heading south at a rate of 4 miles per hour
+walk ARG1 a rate of 4 miles per hour
+head ARG2 a rate of 4 miles per hour
+walk DIR from school
+walk DIR home
+head ARG1 south
+
+leave ARG0 Sharon
+leave TMP at the same time heading north
+leave ARG1 school
+head ARG1 north
+
+will ARG2 will it take for them to be
+take ARG0 it
+

@@ -1,0 +1,535 @@
+['ticket', 'concert', '9 dollar', 'student', 'dollar', '11 dollar', '2,000 ticket', '20,960 dollar', 'student ticket']
+['ticket']	['concert']	0.550378165238
+['ticket']	['9 dollar']	0.10873615468
+['ticket']	['student']	0.0857954633961
+['ticket']	['dollar']	0.00388540021915
+['ticket']	['11 dollar']	0.10873615468
+['ticket']	['20,960 dollar']	0.10873615468
+['concert']	['9 dollar']	0.0827346205535
+['concert']	['student']	0.0927104888583
+['concert']	['dollar']	0.0114890909589
+['concert']	['11 dollar']	0.0827346205535
+['concert']	['2,000 ticket']	0.0901100077042
+['concert']	['20,960 dollar']	0.0827346205535
+['concert']	['student ticket']	0.0901100077042
+['9 dollar']	['student']	0.079730351659
+['9 dollar']	['11 dollar']	0.669829166534
+['9 dollar']	['2,000 ticket']	0.0901100077042
+['9 dollar']	['20,960 dollar']	0.643440930505
+['9 dollar']	['student ticket']	0.0827346205535
+['student']	['dollar']	0.0130093318431
+['student']	['11 dollar']	0.0696933362217
+['student']	['2,000 ticket']	0.0696933362217
+['student']	['20,960 dollar']	0.0696933362217
+['dollar']	['2,000 ticket']	0.0239234741198
+['dollar']	['student ticket']	0.0239234741198
+['11 dollar']	['2,000 ticket']	0.0901100077042
+['11 dollar']	['20,960 dollar']	0.643440930505
+['11 dollar']	['student ticket']	0.0827346205535
+['2,000 ticket']	['20,960 dollar']	0.0901100077042
+['2,000 ticket']	['student ticket']	0.643440930505
+['20,960 dollar']	['student ticket']	0.0901100077042
+['concert', 'ticket']	['9 dollar']	0.103222748661
+['concert', 'ticket']	['student']	0.291626873776
+['concert', 'ticket']	['dollar']	0.00388540021915
+['concert', 'ticket']	['11 dollar']	0.103222748661
+['concert', 'ticket']	['2,000 ticket']	0.722227658089
+['concert', 'ticket']	['20,960 dollar']	0.103222748661
+['concert', 'ticket']	['student ticket']	0.649177216702
+['9 dollar', 'ticket']	['concert']	0.874872259245
+['9 dollar', 'ticket']	['student']	0.133541536773
+['9 dollar', 'ticket']	['dollar']	0.473923787948
+['9 dollar', 'ticket']	['11 dollar']	0.567067802557
+['9 dollar', 'ticket']	['2,000 ticket']	0.722227658089
+['9 dollar', 'ticket']	['20,960 dollar']	0.525526174317
+['9 dollar', 'ticket']	['student ticket']	0.663762722369
+['student', 'ticket']	['concert']	0.73513178769
+['student', 'ticket']	['9 dollar']	0.159872896928
+['student', 'ticket']	['dollar']	0.103129732713
+['student', 'ticket']	['11 dollar']	0.159872896928
+['student', 'ticket']	['2,000 ticket']	0.751760536674
+['student', 'ticket']	['20,960 dollar']	0.159872896928
+['student', 'ticket']	['student ticket']	0.690161615711
+['dollar', 'ticket']	['concert']	0.393093160613
+['dollar', 'ticket']	['9 dollar']	0.369503868875
+['dollar', 'ticket']	['student']	0.0987199803855
+['dollar', 'ticket']	['11 dollar']	0.35305011239
+['dollar', 'ticket']	['2,000 ticket']	0.457006253285
+['dollar', 'ticket']	['20,960 dollar']	0.334222745801
+['dollar', 'ticket']	['student ticket']	0.305876289108
+['11 dollar', 'ticket']	['concert']	0.874872259245
+['11 dollar', 'ticket']	['9 dollar']	0.567067802557
+['11 dollar', 'ticket']	['student']	0.133541536773
+['11 dollar', 'ticket']	['dollar']	0.466339520364
+['11 dollar', 'ticket']	['2,000 ticket']	0.722227658089
+['11 dollar', 'ticket']	['20,960 dollar']	0.525526174317
+['11 dollar', 'ticket']	['student ticket']	0.663762722369
+['2,000 ticket', 'ticket']	['concert']	0.778663920785
+['2,000 ticket', 'ticket']	['9 dollar']	0.247627320934
+['2,000 ticket', 'ticket']	['student']	0.381504447044
+['2,000 ticket', 'ticket']	['dollar']	0.210708137696
+['2,000 ticket', 'ticket']	['11 dollar']	0.247627320934
+['2,000 ticket', 'ticket']	['20,960 dollar']	0.247627320934
+['2,000 ticket', 'ticket']	['student ticket']	0.722622429839
+['20,960 dollar', 'ticket']	['concert']	0.874872259245
+['20,960 dollar', 'ticket']	['9 dollar']	0.525526174317
+['20,960 dollar', 'ticket']	['student']	0.133541536773
+['20,960 dollar', 'ticket']	['dollar']	0.394283127021
+['20,960 dollar', 'ticket']	['11 dollar']	0.525526174317
+['20,960 dollar', 'ticket']	['2,000 ticket']	0.722227658089
+['20,960 dollar', 'ticket']	['student ticket']	0.659403281276
+['student ticket', 'ticket']	['concert']	0.778663920785
+['student ticket', 'ticket']	['9 dollar']	0.247627320934
+['student ticket', 'ticket']	['student']	0.682164431146
+['student ticket', 'ticket']	['dollar']	0.210708137696
+['student ticket', 'ticket']	['11 dollar']	0.247627320934
+['student ticket', 'ticket']	['2,000 ticket']	0.853987545748
+['student ticket', 'ticket']	['20,960 dollar']	0.247627320934
+['ticket', 'concert']	['9 dollar']	0.103222748661
+['ticket', 'concert']	['student']	0.291626873776
+['ticket', 'concert']	['dollar']	0.00388540021915
+['ticket', 'concert']	['11 dollar']	0.103222748661
+['ticket', 'concert']	['2,000 ticket']	0.722227658089
+['ticket', 'concert']	['20,960 dollar']	0.103222748661
+['ticket', 'concert']	['student ticket']	0.649177216702
+['9 dollar', 'concert']	['ticket']	0.914953159373
+['9 dollar', 'concert']	['student']	0.372364672201
+['9 dollar', 'concert']	['dollar']	0.440590454615
+['9 dollar', 'concert']	['11 dollar']	0.593668114103
+['9 dollar', 'concert']	['2,000 ticket']	0.0901100077042
+['9 dollar', 'concert']	['20,960 dollar']	0.549852778125
+['9 dollar', 'concert']	['student ticket']	0.0827346205535
+['student', 'concert']	['ticket']	0.741815202284
+['student', 'concert']	['9 dollar']	0.0696933362217
+['student', 'concert']	['dollar']	0.00388540021915
+['student', 'concert']	['11 dollar']	0.0696933362217
+['student', 'concert']	['2,000 ticket']	0.0696933362217
+['student', 'concert']	['20,960 dollar']	0.0696933362217
+['student', 'concert']	['student ticket']	0.183174448825
+['dollar', 'concert']	['ticket']	0.326071884017
+['dollar', 'concert']	['9 dollar']	0.278797016241
+['dollar', 'concert']	['student']	0.213321165901
+['dollar', 'concert']	['11 dollar']	0.309408862593
+['dollar', 'concert']	['2,000 ticket']	0.0221369896995
+['dollar', 'concert']	['20,960 dollar']	0.32092543129
+['dollar', 'concert']	['student ticket']	0.0221369896995
+['11 dollar', 'concert']	['ticket']	0.914953159373
+['11 dollar', 'concert']	['9 dollar']	0.593668114103
+['11 dollar', 'concert']	['student']	0.372364672201
+['11 dollar', 'concert']	['dollar']	0.433006187031
+['11 dollar', 'concert']	['2,000 ticket']	0.0901100077042
+['11 dollar', 'concert']	['20,960 dollar']	0.549852778125
+['11 dollar', 'concert']	['student ticket']	0.0827346205535
+['2,000 ticket', 'concert']	['ticket']	0.803855323226
+['2,000 ticket', 'concert']	['9 dollar']	0.0827346205535
+['2,000 ticket', 'concert']	['student']	0.372364672201
+['2,000 ticket', 'concert']	['dollar']	0.0517870372429
+['2,000 ticket', 'concert']	['11 dollar']	0.0827346205535
+['2,000 ticket', 'concert']	['20,960 dollar']	0.0827346205535
+['2,000 ticket', 'concert']	['student ticket']	0.584269096576
+['20,960 dollar', 'concert']	['ticket']	0.914953159373
+['20,960 dollar', 'concert']	['9 dollar']	0.549852778125
+['20,960 dollar', 'concert']	['student']	0.372364672201
+['20,960 dollar', 'concert']	['dollar']	0.394183920671
+['20,960 dollar', 'concert']	['11 dollar']	0.549852778125
+['20,960 dollar', 'concert']	['2,000 ticket']	0.0901100077042
+['20,960 dollar', 'concert']	['student ticket']	0.0901100077042
+['student ticket', 'concert']	['ticket']	0.835660970052
+['student ticket', 'concert']	['9 dollar']	0.0827346205535
+['student ticket', 'concert']	['student']	0.493573681741
+['student ticket', 'concert']	['dollar']	0.0517870372429
+['student ticket', 'concert']	['11 dollar']	0.0827346205535
+['student ticket', 'concert']	['2,000 ticket']	0.584269096576
+['student ticket', 'concert']	['20,960 dollar']	0.0827346205535
+['ticket', '9 dollar']	['concert']	0.874872259245
+['ticket', '9 dollar']	['student']	0.133541536773
+['ticket', '9 dollar']	['dollar']	0.473923787948
+['ticket', '9 dollar']	['11 dollar']	0.567067802557
+['ticket', '9 dollar']	['2,000 ticket']	0.722227658089
+['ticket', '9 dollar']	['20,960 dollar']	0.525526174317
+['ticket', '9 dollar']	['student ticket']	0.663762722369
+['concert', '9 dollar']	['ticket']	0.914953159373
+['concert', '9 dollar']	['student']	0.372364672201
+['concert', '9 dollar']	['dollar']	0.440590454615
+['concert', '9 dollar']	['11 dollar']	0.593668114103
+['concert', '9 dollar']	['2,000 ticket']	0.0901100077042
+['concert', '9 dollar']	['20,960 dollar']	0.549852778125
+['concert', '9 dollar']	['student ticket']	0.0827346205535
+['student', '9 dollar']	['ticket']	0.225875981738
+['student', '9 dollar']	['concert']	0.371974372328
+['student', '9 dollar']	['dollar']	0.473923787948
+['student', '9 dollar']	['11 dollar']	0.50885950765
+['student', '9 dollar']	['2,000 ticket']	0.0696933362217
+['student', '9 dollar']	['20,960 dollar']	0.510461204301
+['student', '9 dollar']	['student ticket']	0.395955227301
+['dollar', '9 dollar']	['ticket']	0.264652724916
+['dollar', '9 dollar']	['concert']	0.225366520387
+['dollar', '9 dollar']	['student']	0.255863407766
+['dollar', '9 dollar']	['11 dollar']	0.643335478233
+['dollar', '9 dollar']	['2,000 ticket']	0.108213661491
+['dollar', '9 dollar']	['20,960 dollar']	0.536838778921
+['dollar', '9 dollar']	['student ticket']	0.108213661491
+['11 dollar', '9 dollar']	['ticket']	0.51323626183
+['11 dollar', '9 dollar']	['concert']	0.334330087138
+['11 dollar', '9 dollar']	['student']	0.33665242287
+['11 dollar', '9 dollar']	['dollar']	0.820044571461
+['11 dollar', '9 dollar']	['2,000 ticket']	0.139258682248
+['11 dollar', '9 dollar']	['20,960 dollar']	0.637144068101
+['11 dollar', '9 dollar']	['student ticket']	0.153587928078
+['2,000 ticket', '9 dollar']	['ticket']	0.700846684836
+['2,000 ticket', '9 dollar']	['concert']	0.0800606621439
+['2,000 ticket', '9 dollar']	['student']	0.079730351659
+['2,000 ticket', '9 dollar']	['dollar']	0.332980520024
+['2,000 ticket', '9 dollar']	['11 dollar']	0.604308352538
+['2,000 ticket', '9 dollar']	['20,960 dollar']	0.584269096576
+['2,000 ticket', '9 dollar']	['student ticket']	0.573408386835
+['20,960 dollar', '9 dollar']	['ticket']	0.51323626183
+['20,960 dollar', '9 dollar']	['concert']	0.334330087138
+['20,960 dollar', '9 dollar']	['student']	0.33665242287
+['20,960 dollar', '9 dollar']	['dollar']	0.766235203844
+['20,960 dollar', '9 dollar']	['11 dollar']	0.784325248763
+['20,960 dollar', '9 dollar']	['2,000 ticket']	0.139258682248
+['20,960 dollar', '9 dollar']	['student ticket']	0.14589133531
+['student ticket', '9 dollar']	['ticket']	0.707398287968
+['student ticket', '9 dollar']	['concert']	0.0800606621439
+['student ticket', '9 dollar']	['student']	0.532272855801
+['student ticket', '9 dollar']	['dollar']	0.332980520024
+['student ticket', '9 dollar']	['11 dollar']	0.587641685872
+['student ticket', '9 dollar']	['2,000 ticket']	0.584269096576
+['student ticket', '9 dollar']	['20,960 dollar']	0.584269096576
+['ticket', 'student']	['concert']	0.73513178769
+['ticket', 'student']	['9 dollar']	0.159872896928
+['ticket', 'student']	['dollar']	0.103129732713
+['ticket', 'student']	['11 dollar']	0.159872896928
+['ticket', 'student']	['2,000 ticket']	0.751760536674
+['ticket', 'student']	['20,960 dollar']	0.159872896928
+['ticket', 'student']	['student ticket']	0.690161615711
+['concert', 'student']	['ticket']	0.741815202284
+['concert', 'student']	['9 dollar']	0.0696933362217
+['concert', 'student']	['dollar']	0.00388540021915
+['concert', 'student']	['11 dollar']	0.0696933362217
+['concert', 'student']	['2,000 ticket']	0.0696933362217
+['concert', 'student']	['20,960 dollar']	0.0696933362217
+['concert', 'student']	['student ticket']	0.183174448825
+['9 dollar', 'student']	['ticket']	0.225875981738
+['9 dollar', 'student']	['concert']	0.371974372328
+['9 dollar', 'student']	['dollar']	0.473923787948
+['9 dollar', 'student']	['11 dollar']	0.50885950765
+['9 dollar', 'student']	['2,000 ticket']	0.0696933362217
+['9 dollar', 'student']	['20,960 dollar']	0.510461204301
+['9 dollar', 'student']	['student ticket']	0.395955227301
+['dollar', 'student']	['ticket']	0.0962627154283
+['dollar', 'student']	['concert']	0.105070612367
+['dollar', 'student']	['9 dollar']	0.278797016241
+['dollar', 'student']	['11 dollar']	0.309408862593
+['dollar', 'student']	['2,000 ticket']	0.0787871379671
+['dollar', 'student']	['20,960 dollar']	0.326322256687
+['dollar', 'student']	['student ticket']	0.316588855003
+['11 dollar', 'student']	['ticket']	0.225875981738
+['11 dollar', 'student']	['concert']	0.371974372328
+['11 dollar', 'student']	['9 dollar']	0.50885950765
+['11 dollar', 'student']	['dollar']	0.466339520364
+['11 dollar', 'student']	['2,000 ticket']	0.0696933362217
+['11 dollar', 'student']	['20,960 dollar']	0.510461204301
+['11 dollar', 'student']	['student ticket']	0.395955227301
+['2,000 ticket', 'student']	['ticket']	0.626382830683
+['2,000 ticket', 'student']	['concert']	0.339878471323
+['2,000 ticket', 'student']	['9 dollar']	0.0696933362217
+['2,000 ticket', 'student']	['dollar']	0.0778712897656
+['2,000 ticket', 'student']	['11 dollar']	0.0696933362217
+['2,000 ticket', 'student']	['20,960 dollar']	0.0696933362217
+['2,000 ticket', 'student']	['student ticket']	0.844414774284
+['20,960 dollar', 'student']	['ticket']	0.225875981738
+['20,960 dollar', 'student']	['concert']	0.371974372328
+['20,960 dollar', 'student']	['9 dollar']	0.510461204301
+['20,960 dollar', 'student']	['dollar']	0.394283127021
+['20,960 dollar', 'student']	['11 dollar']	0.510461204301
+['20,960 dollar', 'student']	['2,000 ticket']	0.0696933362217
+['20,960 dollar', 'student']	['student ticket']	0.279800024479
+['student ticket', 'student']	['ticket']	0.611250601266
+['student ticket', 'student']	['concert']	0.339878471323
+['student ticket', 'student']	['9 dollar']	0.0696933362217
+['student ticket', 'student']	['dollar']	0.0778712897656
+['student ticket', 'student']	['11 dollar']	0.0696933362217
+['student ticket', 'student']	['2,000 ticket']	0.525944474896
+['student ticket', 'student']	['20,960 dollar']	0.0696933362217
+['ticket', 'dollar']	['concert']	0.393093160613
+['ticket', 'dollar']	['9 dollar']	0.369503868875
+['ticket', 'dollar']	['student']	0.0987199803855
+['ticket', 'dollar']	['11 dollar']	0.35305011239
+['ticket', 'dollar']	['2,000 ticket']	0.457006253285
+['ticket', 'dollar']	['20,960 dollar']	0.334222745801
+['ticket', 'dollar']	['student ticket']	0.305876289108
+['concert', 'dollar']	['ticket']	0.326071884017
+['concert', 'dollar']	['9 dollar']	0.278797016241
+['concert', 'dollar']	['student']	0.213321165901
+['concert', 'dollar']	['11 dollar']	0.309408862593
+['concert', 'dollar']	['2,000 ticket']	0.0221369896995
+['concert', 'dollar']	['20,960 dollar']	0.32092543129
+['concert', 'dollar']	['student ticket']	0.0221369896995
+['9 dollar', 'dollar']	['ticket']	0.264652724916
+['9 dollar', 'dollar']	['concert']	0.225366520387
+['9 dollar', 'dollar']	['student']	0.255863407766
+['9 dollar', 'dollar']	['11 dollar']	0.643335478233
+['9 dollar', 'dollar']	['2,000 ticket']	0.108213661491
+['9 dollar', 'dollar']	['20,960 dollar']	0.536838778921
+['9 dollar', 'dollar']	['student ticket']	0.108213661491
+['student', 'dollar']	['ticket']	0.0962627154283
+['student', 'dollar']	['concert']	0.105070612367
+['student', 'dollar']	['9 dollar']	0.278797016241
+['student', 'dollar']	['11 dollar']	0.309408862593
+['student', 'dollar']	['2,000 ticket']	0.0787871379671
+['student', 'dollar']	['20,960 dollar']	0.326322256687
+['student', 'dollar']	['student ticket']	0.316588855003
+['11 dollar', 'dollar']	['ticket']	0.264652724916
+['11 dollar', 'dollar']	['concert']	0.225366520387
+['11 dollar', 'dollar']	['9 dollar']	0.733607587895
+['11 dollar', 'dollar']	['student']	0.255863407766
+['11 dollar', 'dollar']	['2,000 ticket']	0.108213661491
+['11 dollar', 'dollar']	['20,960 dollar']	0.536838778921
+['11 dollar', 'dollar']	['student ticket']	0.108213661491
+['2,000 ticket', 'dollar']	['ticket']	0.456356610774
+['2,000 ticket', 'dollar']	['concert']	0.0420647362788
+['2,000 ticket', 'dollar']	['9 dollar']	0.293611831056
+['2,000 ticket', 'dollar']	['student']	0.0401288657365
+['2,000 ticket', 'dollar']	['11 dollar']	0.302398280583
+['2,000 ticket', 'dollar']	['20,960 dollar']	0.354123828896
+['2,000 ticket', 'dollar']	['student ticket']	0.132615563108
+['20,960 dollar', 'dollar']	['ticket']	0.264652724916
+['20,960 dollar', 'dollar']	['concert']	0.225366520387
+['20,960 dollar', 'dollar']	['9 dollar']	0.765654046966
+['20,960 dollar', 'dollar']	['student']	0.255863407766
+['20,960 dollar', 'dollar']	['11 dollar']	0.693984630908
+['20,960 dollar', 'dollar']	['2,000 ticket']	0.108213661491
+['20,960 dollar', 'dollar']	['student ticket']	0.108213661491
+['student ticket', 'dollar']	['ticket']	0.350552054943
+['student ticket', 'dollar']	['concert']	0.0420647362788
+['student ticket', 'dollar']	['9 dollar']	0.278797016241
+['student ticket', 'dollar']	['student']	0.267263440484
+['student ticket', 'dollar']	['11 dollar']	0.309408862593
+['student ticket', 'dollar']	['2,000 ticket']	0.132615563108
+['student ticket', 'dollar']	['20,960 dollar']	0.354123828896
+['ticket', '11 dollar']	['concert']	0.874872259245
+['ticket', '11 dollar']	['9 dollar']	0.567067802557
+['ticket', '11 dollar']	['student']	0.133541536773
+['ticket', '11 dollar']	['dollar']	0.466339520364
+['ticket', '11 dollar']	['2,000 ticket']	0.722227658089
+['ticket', '11 dollar']	['20,960 dollar']	0.525526174317
+['ticket', '11 dollar']	['student ticket']	0.663762722369
+['concert', '11 dollar']	['ticket']	0.914953159373
+['concert', '11 dollar']	['9 dollar']	0.593668114103
+['concert', '11 dollar']	['student']	0.372364672201
+['concert', '11 dollar']	['dollar']	0.433006187031
+['concert', '11 dollar']	['2,000 ticket']	0.0901100077042
+['concert', '11 dollar']	['20,960 dollar']	0.549852778125
+['concert', '11 dollar']	['student ticket']	0.0827346205535
+['9 dollar', '11 dollar']	['ticket']	0.51323626183
+['9 dollar', '11 dollar']	['concert']	0.334330087138
+['9 dollar', '11 dollar']	['student']	0.33665242287
+['9 dollar', '11 dollar']	['dollar']	0.820044571461
+['9 dollar', '11 dollar']	['2,000 ticket']	0.139258682248
+['9 dollar', '11 dollar']	['20,960 dollar']	0.637144068101
+['9 dollar', '11 dollar']	['student ticket']	0.153587928078
+['student', '11 dollar']	['ticket']	0.225875981738
+['student', '11 dollar']	['concert']	0.371974372328
+['student', '11 dollar']	['9 dollar']	0.50885950765
+['student', '11 dollar']	['dollar']	0.466339520364
+['student', '11 dollar']	['2,000 ticket']	0.0696933362217
+['student', '11 dollar']	['20,960 dollar']	0.510461204301
+['student', '11 dollar']	['student ticket']	0.395955227301
+['dollar', '11 dollar']	['ticket']	0.264652724916
+['dollar', '11 dollar']	['concert']	0.225366520387
+['dollar', '11 dollar']	['9 dollar']	0.733607587895
+['dollar', '11 dollar']	['student']	0.255863407766
+['dollar', '11 dollar']	['2,000 ticket']	0.108213661491
+['dollar', '11 dollar']	['20,960 dollar']	0.536838778921
+['dollar', '11 dollar']	['student ticket']	0.108213661491
+['2,000 ticket', '11 dollar']	['ticket']	0.700846684836
+['2,000 ticket', '11 dollar']	['concert']	0.0800606621439
+['2,000 ticket', '11 dollar']	['9 dollar']	0.604308352538
+['2,000 ticket', '11 dollar']	['student']	0.079730351659
+['2,000 ticket', '11 dollar']	['dollar']	0.285506575528
+['2,000 ticket', '11 dollar']	['20,960 dollar']	0.584269096576
+['2,000 ticket', '11 dollar']	['student ticket']	0.573408386835
+['20,960 dollar', '11 dollar']	['ticket']	0.51323626183
+['20,960 dollar', '11 dollar']	['concert']	0.334330087138
+['20,960 dollar', '11 dollar']	['9 dollar']	0.784325248763
+['20,960 dollar', '11 dollar']	['student']	0.33665242287
+['20,960 dollar', '11 dollar']	['dollar']	0.67545036168
+['20,960 dollar', '11 dollar']	['2,000 ticket']	0.139258682248
+['20,960 dollar', '11 dollar']	['student ticket']	0.14589133531
+['student ticket', '11 dollar']	['ticket']	0.707398287968
+['student ticket', '11 dollar']	['concert']	0.0800606621439
+['student ticket', '11 dollar']	['9 dollar']	0.587641685872
+['student ticket', '11 dollar']	['student']	0.532272855801
+['student ticket', '11 dollar']	['dollar']	0.285506575528
+['student ticket', '11 dollar']	['2,000 ticket']	0.584269096576
+['student ticket', '11 dollar']	['20,960 dollar']	0.584269096576
+['ticket', '2,000 ticket']	['concert']	0.778663920785
+['ticket', '2,000 ticket']	['9 dollar']	0.247627320934
+['ticket', '2,000 ticket']	['student']	0.381504447044
+['ticket', '2,000 ticket']	['dollar']	0.210708137696
+['ticket', '2,000 ticket']	['11 dollar']	0.247627320934
+['ticket', '2,000 ticket']	['20,960 dollar']	0.247627320934
+['ticket', '2,000 ticket']	['student ticket']	0.722622429839
+['concert', '2,000 ticket']	['ticket']	0.803855323226
+['concert', '2,000 ticket']	['9 dollar']	0.0827346205535
+['concert', '2,000 ticket']	['student']	0.372364672201
+['concert', '2,000 ticket']	['dollar']	0.0517870372429
+['concert', '2,000 ticket']	['11 dollar']	0.0827346205535
+['concert', '2,000 ticket']	['20,960 dollar']	0.0827346205535
+['concert', '2,000 ticket']	['student ticket']	0.584269096576
+['9 dollar', '2,000 ticket']	['ticket']	0.700846684836
+['9 dollar', '2,000 ticket']	['concert']	0.0800606621439
+['9 dollar', '2,000 ticket']	['student']	0.079730351659
+['9 dollar', '2,000 ticket']	['dollar']	0.332980520024
+['9 dollar', '2,000 ticket']	['11 dollar']	0.604308352538
+['9 dollar', '2,000 ticket']	['20,960 dollar']	0.584269096576
+['9 dollar', '2,000 ticket']	['student ticket']	0.573408386835
+['student', '2,000 ticket']	['ticket']	0.626382830683
+['student', '2,000 ticket']	['concert']	0.339878471323
+['student', '2,000 ticket']	['9 dollar']	0.0696933362217
+['student', '2,000 ticket']	['dollar']	0.0778712897656
+['student', '2,000 ticket']	['11 dollar']	0.0696933362217
+['student', '2,000 ticket']	['20,960 dollar']	0.0696933362217
+['student', '2,000 ticket']	['student ticket']	0.844414774284
+['dollar', '2,000 ticket']	['ticket']	0.456356610774
+['dollar', '2,000 ticket']	['concert']	0.0420647362788
+['dollar', '2,000 ticket']	['9 dollar']	0.293611831056
+['dollar', '2,000 ticket']	['student']	0.0401288657365
+['dollar', '2,000 ticket']	['11 dollar']	0.302398280583
+['dollar', '2,000 ticket']	['20,960 dollar']	0.354123828896
+['dollar', '2,000 ticket']	['student ticket']	0.132615563108
+['11 dollar', '2,000 ticket']	['ticket']	0.700846684836
+['11 dollar', '2,000 ticket']	['concert']	0.0800606621439
+['11 dollar', '2,000 ticket']	['9 dollar']	0.604308352538
+['11 dollar', '2,000 ticket']	['student']	0.079730351659
+['11 dollar', '2,000 ticket']	['dollar']	0.285506575528
+['11 dollar', '2,000 ticket']	['20,960 dollar']	0.584269096576
+['11 dollar', '2,000 ticket']	['student ticket']	0.573408386835
+['20,960 dollar', '2,000 ticket']	['ticket']	0.700846684836
+['20,960 dollar', '2,000 ticket']	['concert']	0.0800606621439
+['20,960 dollar', '2,000 ticket']	['9 dollar']	0.584269096576
+['20,960 dollar', '2,000 ticket']	['student']	0.079730351659
+['20,960 dollar', '2,000 ticket']	['dollar']	0.291988710732
+['20,960 dollar', '2,000 ticket']	['11 dollar']	0.584269096576
+['20,960 dollar', '2,000 ticket']	['student ticket']	0.584269096576
+['student ticket', '2,000 ticket']	['ticket']	0.773123291919
+['student ticket', '2,000 ticket']	['concert']	0.325390866884
+['student ticket', '2,000 ticket']	['9 dollar']	0.14589133531
+['student ticket', '2,000 ticket']	['student']	0.689089315197
+['student ticket', '2,000 ticket']	['dollar']	0.210419668337
+['student ticket', '2,000 ticket']	['11 dollar']	0.14589133531
+['student ticket', '2,000 ticket']	['20,960 dollar']	0.139258682248
+['ticket', '20,960 dollar']	['concert']	0.874872259245
+['ticket', '20,960 dollar']	['9 dollar']	0.525526174317
+['ticket', '20,960 dollar']	['student']	0.133541536773
+['ticket', '20,960 dollar']	['dollar']	0.394283127021
+['ticket', '20,960 dollar']	['11 dollar']	0.525526174317
+['ticket', '20,960 dollar']	['2,000 ticket']	0.722227658089
+['ticket', '20,960 dollar']	['student ticket']	0.659403281276
+['concert', '20,960 dollar']	['ticket']	0.914953159373
+['concert', '20,960 dollar']	['9 dollar']	0.549852778125
+['concert', '20,960 dollar']	['student']	0.372364672201
+['concert', '20,960 dollar']	['dollar']	0.394183920671
+['concert', '20,960 dollar']	['11 dollar']	0.549852778125
+['concert', '20,960 dollar']	['2,000 ticket']	0.0901100077042
+['concert', '20,960 dollar']	['student ticket']	0.0901100077042
+['9 dollar', '20,960 dollar']	['ticket']	0.51323626183
+['9 dollar', '20,960 dollar']	['concert']	0.334330087138
+['9 dollar', '20,960 dollar']	['student']	0.33665242287
+['9 dollar', '20,960 dollar']	['dollar']	0.766235203844
+['9 dollar', '20,960 dollar']	['11 dollar']	0.784325248763
+['9 dollar', '20,960 dollar']	['2,000 ticket']	0.139258682248
+['9 dollar', '20,960 dollar']	['student ticket']	0.14589133531
+['student', '20,960 dollar']	['ticket']	0.225875981738
+['student', '20,960 dollar']	['concert']	0.371974372328
+['student', '20,960 dollar']	['9 dollar']	0.510461204301
+['student', '20,960 dollar']	['dollar']	0.394283127021
+['student', '20,960 dollar']	['11 dollar']	0.510461204301
+['student', '20,960 dollar']	['2,000 ticket']	0.0696933362217
+['student', '20,960 dollar']	['student ticket']	0.279800024479
+['dollar', '20,960 dollar']	['ticket']	0.264652724916
+['dollar', '20,960 dollar']	['concert']	0.225366520387
+['dollar', '20,960 dollar']	['9 dollar']	0.765654046966
+['dollar', '20,960 dollar']	['student']	0.255863407766
+['dollar', '20,960 dollar']	['11 dollar']	0.693984630908
+['dollar', '20,960 dollar']	['2,000 ticket']	0.108213661491
+['dollar', '20,960 dollar']	['student ticket']	0.108213661491
+['11 dollar', '20,960 dollar']	['ticket']	0.51323626183
+['11 dollar', '20,960 dollar']	['concert']	0.334330087138
+['11 dollar', '20,960 dollar']	['9 dollar']	0.784325248763
+['11 dollar', '20,960 dollar']	['student']	0.33665242287
+['11 dollar', '20,960 dollar']	['dollar']	0.67545036168
+['11 dollar', '20,960 dollar']	['2,000 ticket']	0.139258682248
+['11 dollar', '20,960 dollar']	['student ticket']	0.14589133531
+['2,000 ticket', '20,960 dollar']	['ticket']	0.700846684836
+['2,000 ticket', '20,960 dollar']	['concert']	0.0800606621439
+['2,000 ticket', '20,960 dollar']	['9 dollar']	0.584269096576
+['2,000 ticket', '20,960 dollar']	['student']	0.079730351659
+['2,000 ticket', '20,960 dollar']	['dollar']	0.291988710732
+['2,000 ticket', '20,960 dollar']	['11 dollar']	0.584269096576
+['2,000 ticket', '20,960 dollar']	['student ticket']	0.584269096576
+['student ticket', '20,960 dollar']	['ticket']	0.707398287968
+['student ticket', '20,960 dollar']	['concert']	0.0800606621439
+['student ticket', '20,960 dollar']	['9 dollar']	0.573408386835
+['student ticket', '20,960 dollar']	['student']	0.532272855801
+['student ticket', '20,960 dollar']	['dollar']	0.291988710732
+['student ticket', '20,960 dollar']	['11 dollar']	0.573408386835
+['student ticket', '20,960 dollar']	['2,000 ticket']	0.584269096576
+['ticket', 'student ticket']	['concert']	0.778663920785
+['ticket', 'student ticket']	['9 dollar']	0.247627320934
+['ticket', 'student ticket']	['student']	0.682164431146
+['ticket', 'student ticket']	['dollar']	0.210708137696
+['ticket', 'student ticket']	['11 dollar']	0.247627320934
+['ticket', 'student ticket']	['2,000 ticket']	0.853987545748
+['ticket', 'student ticket']	['20,960 dollar']	0.247627320934
+['concert', 'student ticket']	['ticket']	0.835660970052
+['concert', 'student ticket']	['9 dollar']	0.0827346205535
+['concert', 'student ticket']	['student']	0.493573681741
+['concert', 'student ticket']	['dollar']	0.0517870372429
+['concert', 'student ticket']	['11 dollar']	0.0827346205535
+['concert', 'student ticket']	['2,000 ticket']	0.584269096576
+['concert', 'student ticket']	['20,960 dollar']	0.0827346205535
+['9 dollar', 'student ticket']	['ticket']	0.707398287968
+['9 dollar', 'student ticket']	['concert']	0.0800606621439
+['9 dollar', 'student ticket']	['student']	0.532272855801
+['9 dollar', 'student ticket']	['dollar']	0.332980520024
+['9 dollar', 'student ticket']	['11 dollar']	0.587641685872
+['9 dollar', 'student ticket']	['2,000 ticket']	0.584269096576
+['9 dollar', 'student ticket']	['20,960 dollar']	0.584269096576
+['student', 'student ticket']	['ticket']	0.611250601266
+['student', 'student ticket']	['concert']	0.339878471323
+['student', 'student ticket']	['9 dollar']	0.0696933362217
+['student', 'student ticket']	['dollar']	0.0778712897656
+['student', 'student ticket']	['11 dollar']	0.0696933362217
+['student', 'student ticket']	['2,000 ticket']	0.525944474896
+['student', 'student ticket']	['20,960 dollar']	0.0696933362217
+['dollar', 'student ticket']	['ticket']	0.350552054943
+['dollar', 'student ticket']	['concert']	0.0420647362788
+['dollar', 'student ticket']	['9 dollar']	0.278797016241
+['dollar', 'student ticket']	['student']	0.267263440484
+['dollar', 'student ticket']	['11 dollar']	0.309408862593
+['dollar', 'student ticket']	['2,000 ticket']	0.132615563108
+['dollar', 'student ticket']	['20,960 dollar']	0.354123828896
+['11 dollar', 'student ticket']	['ticket']	0.707398287968
+['11 dollar', 'student ticket']	['concert']	0.0800606621439
+['11 dollar', 'student ticket']	['9 dollar']	0.587641685872
+['11 dollar', 'student ticket']	['student']	0.532272855801
+['11 dollar', 'student ticket']	['dollar']	0.285506575528
+['11 dollar', 'student ticket']	['2,000 ticket']	0.584269096576
+['11 dollar', 'student ticket']	['20,960 dollar']	0.584269096576
+['2,000 ticket', 'student ticket']	['ticket']	0.773123291919
+['2,000 ticket', 'student ticket']	['concert']	0.325390866884
+['2,000 ticket', 'student ticket']	['9 dollar']	0.14589133531
+['2,000 ticket', 'student ticket']	['student']	0.689089315197
+['2,000 ticket', 'student ticket']	['dollar']	0.210419668337
+['2,000 ticket', 'student ticket']	['11 dollar']	0.14589133531
+['2,000 ticket', 'student ticket']	['20,960 dollar']	0.139258682248
+['20,960 dollar', 'student ticket']	['ticket']	0.707398287968
+['20,960 dollar', 'student ticket']	['concert']	0.0800606621439
+['20,960 dollar', 'student ticket']	['9 dollar']	0.573408386835
+['20,960 dollar', 'student ticket']	['student']	0.532272855801
+['20,960 dollar', 'student ticket']	['dollar']	0.291988710732
+['20,960 dollar', 'student ticket']	['11 dollar']	0.573408386835
+['20,960 dollar', 'student ticket']	['2,000 ticket']	0.584269096576

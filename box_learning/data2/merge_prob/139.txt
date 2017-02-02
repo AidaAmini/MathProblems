@@ -1,0 +1,231 @@
+['plane', '900 mile', 'tail wind', '3 hour', 'same plane', '4 hour', 'return trip']
+['plane']	['plane']	0.0726311745998
+['plane']	['plane']	0.0726311745998
+['plane']	['plane']	0.0726311745998
+['plane']	['plane']	0.0726311745998
+['plane']	['plane']	0.0573294956278
+['900 mile']	['900 mile']	0.0690143673113
+['900 mile']	['900 mile']	0.0690143673113
+['900 mile']	['900 mile']	0.0690143673113
+['900 mile']	['900 mile']	0.0690143673113
+['900 mile']	['900 mile']	0.0690143673113
+['tail wind']	['tail wind']	0.0690143673113
+['tail wind']	['tail wind']	0.0690143673113
+['tail wind']	['tail wind']	0.0690143673113
+['tail wind']	['tail wind']	0.0827370855696
+['3 hour']	['3 hour']	0.0749559916178
+['3 hour']	['3 hour']	0.65022495873
+['3 hour']	['3 hour']	0.0812225587764
+['same plane']	['same plane']	0.0749559916178
+['same plane']	['same plane']	0.0881648050122
+['4 hour']	['4 hour']	0.0812225587764
+['900 mile', 'plane']	['900 mile', 'plane']	0.0601666557079
+['900 mile', 'plane']	['900 mile', 'plane']	0.0606369672893
+['900 mile', 'plane']	['900 mile', 'plane']	0.0352808424159
+['900 mile', 'plane']	['900 mile', 'plane']	0.0606369672893
+['900 mile', 'plane']	['900 mile', 'plane']	0.0395247252484
+['tail wind', 'plane']	['tail wind', 'plane']	0.0606369672893
+['tail wind', 'plane']	['tail wind', 'plane']	0.0606369672893
+['tail wind', 'plane']	['tail wind', 'plane']	0.0352808424159
+['tail wind', 'plane']	['tail wind', 'plane']	0.0606369672893
+['tail wind', 'plane']	['tail wind', 'plane']	0.0601666557079
+['3 hour', 'plane']	['3 hour', 'plane']	0.0606369672893
+['3 hour', 'plane']	['3 hour', 'plane']	0.0601666557079
+['3 hour', 'plane']	['3 hour', 'plane']	0.0352808424159
+['3 hour', 'plane']	['3 hour', 'plane']	0.117688730286
+['3 hour', 'plane']	['3 hour', 'plane']	0.059936371761
+['same plane', 'plane']	['same plane', 'plane']	0.0696674662101
+['same plane', 'plane']	['same plane', 'plane']	0.0922815977102
+['same plane', 'plane']	['same plane', 'plane']	0.0696674662101
+['same plane', 'plane']	['same plane', 'plane']	0.0696674662101
+['same plane', 'plane']	['same plane', 'plane']	0.0737510161429
+['4 hour', 'plane']	['4 hour', 'plane']	0.0606369672893
+['4 hour', 'plane']	['4 hour', 'plane']	0.0601666557079
+['4 hour', 'plane']	['4 hour', 'plane']	0.117688730286
+['4 hour', 'plane']	['4 hour', 'plane']	0.0352808424159
+['4 hour', 'plane']	['4 hour', 'plane']	0.059936371761
+['return trip', 'plane']	['return trip', 'plane']	0.0606369672893
+['return trip', 'plane']	['return trip', 'plane']	0.0611733859012
+['return trip', 'plane']	['return trip', 'plane']	0.0606369672893
+['return trip', 'plane']	['return trip', 'plane']	0.0352808424159
+['return trip', 'plane']	['return trip', 'plane']	0.0606369672893
+['plane', '900 mile']	['plane', '900 mile']	0.0601666557079
+['plane', '900 mile']	['plane', '900 mile']	0.0606369672893
+['plane', '900 mile']	['plane', '900 mile']	0.0352808424159
+['plane', '900 mile']	['plane', '900 mile']	0.0606369672893
+['plane', '900 mile']	['plane', '900 mile']	0.0395247252484
+['tail wind', '900 mile']	['tail wind', '900 mile']	0.0585905397909
+['tail wind', '900 mile']	['tail wind', '900 mile']	0.0690143673113
+['tail wind', '900 mile']	['tail wind', '900 mile']	0.0690143673113
+['tail wind', '900 mile']	['tail wind', '900 mile']	0.0690143673113
+['tail wind', '900 mile']	['tail wind', '900 mile']	0.082416450476
+['3 hour', '900 mile']	['3 hour', '900 mile']	0.0585905397909
+['3 hour', '900 mile']	['3 hour', '900 mile']	0.0812225587764
+['3 hour', '900 mile']	['3 hour', '900 mile']	0.0767768048648
+['3 hour', '900 mile']	['3 hour', '900 mile']	0.255189051606
+['3 hour', '900 mile']	['3 hour', '900 mile']	0.0812225587764
+['same plane', '900 mile']	['same plane', '900 mile']	0.0277057682878
+['same plane', '900 mile']	['same plane', '900 mile']	0.0812225587764
+['same plane', '900 mile']	['same plane', '900 mile']	0.0767768048648
+['same plane', '900 mile']	['same plane', '900 mile']	0.0767768048648
+['same plane', '900 mile']	['same plane', '900 mile']	0.0881648050122
+['4 hour', '900 mile']	['4 hour', '900 mile']	0.0585905397909
+['4 hour', '900 mile']	['4 hour', '900 mile']	0.0812225587764
+['4 hour', '900 mile']	['4 hour', '900 mile']	0.255189051606
+['4 hour', '900 mile']	['4 hour', '900 mile']	0.0767768048648
+['4 hour', '900 mile']	['4 hour', '900 mile']	0.0812225587764
+['return trip', '900 mile']	['return trip', '900 mile']	0.0585905397909
+['return trip', '900 mile']	['return trip', '900 mile']	0.082416450476
+['return trip', '900 mile']	['return trip', '900 mile']	0.0690143673113
+['return trip', '900 mile']	['return trip', '900 mile']	0.0690143673113
+['return trip', '900 mile']	['return trip', '900 mile']	0.0690143673113
+['plane', 'tail wind']	['plane', 'tail wind']	0.0606369672893
+['plane', 'tail wind']	['plane', 'tail wind']	0.0606369672893
+['plane', 'tail wind']	['plane', 'tail wind']	0.0352808424159
+['plane', 'tail wind']	['plane', 'tail wind']	0.0606369672893
+['plane', 'tail wind']	['plane', 'tail wind']	0.0601666557079
+['900 mile', 'tail wind']	['900 mile', 'tail wind']	0.0585905397909
+['900 mile', 'tail wind']	['900 mile', 'tail wind']	0.0690143673113
+['900 mile', 'tail wind']	['900 mile', 'tail wind']	0.0690143673113
+['900 mile', 'tail wind']	['900 mile', 'tail wind']	0.0690143673113
+['900 mile', 'tail wind']	['900 mile', 'tail wind']	0.082416450476
+['3 hour', 'tail wind']	['3 hour', 'tail wind']	0.0585905397909
+['3 hour', 'tail wind']	['3 hour', 'tail wind']	0.0690143673113
+['3 hour', 'tail wind']	['3 hour', 'tail wind']	0.0767768048648
+['3 hour', 'tail wind']	['3 hour', 'tail wind']	0.255189051606
+['3 hour', 'tail wind']	['3 hour', 'tail wind']	0.082416450476
+['same plane', 'tail wind']	['same plane', 'tail wind']	0.033748637534
+['same plane', 'tail wind']	['same plane', 'tail wind']	0.0690143673113
+['same plane', 'tail wind']	['same plane', 'tail wind']	0.0767768048648
+['same plane', 'tail wind']	['same plane', 'tail wind']	0.0767768048648
+['same plane', 'tail wind']	['same plane', 'tail wind']	0.082416450476
+['4 hour', 'tail wind']	['4 hour', 'tail wind']	0.0585905397909
+['4 hour', 'tail wind']	['4 hour', 'tail wind']	0.0690143673113
+['4 hour', 'tail wind']	['4 hour', 'tail wind']	0.255189051606
+['4 hour', 'tail wind']	['4 hour', 'tail wind']	0.0767768048648
+['4 hour', 'tail wind']	['4 hour', 'tail wind']	0.082416450476
+['return trip', 'tail wind']	['return trip', 'tail wind']	0.0585905397909
+['return trip', 'tail wind']	['return trip', 'tail wind']	0.0690143673113
+['return trip', 'tail wind']	['return trip', 'tail wind']	0.0690143673113
+['return trip', 'tail wind']	['return trip', 'tail wind']	0.0690143673113
+['return trip', 'tail wind']	['return trip', 'tail wind']	0.0690143673113
+['plane', '3 hour']	['plane', '3 hour']	0.0606369672893
+['plane', '3 hour']	['plane', '3 hour']	0.0601666557079
+['plane', '3 hour']	['plane', '3 hour']	0.0352808424159
+['plane', '3 hour']	['plane', '3 hour']	0.117688730286
+['plane', '3 hour']	['plane', '3 hour']	0.059936371761
+['900 mile', '3 hour']	['900 mile', '3 hour']	0.0585905397909
+['900 mile', '3 hour']	['900 mile', '3 hour']	0.0812225587764
+['900 mile', '3 hour']	['900 mile', '3 hour']	0.0767768048648
+['900 mile', '3 hour']	['900 mile', '3 hour']	0.255189051606
+['900 mile', '3 hour']	['900 mile', '3 hour']	0.0812225587764
+['tail wind', '3 hour']	['tail wind', '3 hour']	0.0585905397909
+['tail wind', '3 hour']	['tail wind', '3 hour']	0.0690143673113
+['tail wind', '3 hour']	['tail wind', '3 hour']	0.0767768048648
+['tail wind', '3 hour']	['tail wind', '3 hour']	0.255189051606
+['tail wind', '3 hour']	['tail wind', '3 hour']	0.082416450476
+['same plane', '3 hour']	['same plane', '3 hour']	0.0309982579209
+['same plane', '3 hour']	['same plane', '3 hour']	0.0690143673113
+['same plane', '3 hour']	['same plane', '3 hour']	0.082416450476
+['same plane', '3 hour']	['same plane', '3 hour']	0.238449871234
+['same plane', '3 hour']	['same plane', '3 hour']	0.0812225587764
+['4 hour', '3 hour']	['4 hour', '3 hour']	0.0872480951896
+['4 hour', '3 hour']	['4 hour', '3 hour']	0.0922575126852
+['4 hour', '3 hour']	['4 hour', '3 hour']	0.144637604357
+['4 hour', '3 hour']	['4 hour', '3 hour']	0.124264719088
+['4 hour', '3 hour']	['4 hour', '3 hour']	0.144637604357
+['return trip', '3 hour']	['return trip', '3 hour']	0.0585905397909
+['return trip', '3 hour']	['return trip', '3 hour']	0.0690143673113
+['return trip', '3 hour']	['return trip', '3 hour']	0.082416450476
+['return trip', '3 hour']	['return trip', '3 hour']	0.0767768048648
+['return trip', '3 hour']	['return trip', '3 hour']	0.255189051606
+['plane', 'same plane']	['plane', 'same plane']	0.0696674662101
+['plane', 'same plane']	['plane', 'same plane']	0.0922815977102
+['plane', 'same plane']	['plane', 'same plane']	0.0696674662101
+['plane', 'same plane']	['plane', 'same plane']	0.0696674662101
+['plane', 'same plane']	['plane', 'same plane']	0.0737510161429
+['900 mile', 'same plane']	['900 mile', 'same plane']	0.0277057682878
+['900 mile', 'same plane']	['900 mile', 'same plane']	0.0812225587764
+['900 mile', 'same plane']	['900 mile', 'same plane']	0.0767768048648
+['900 mile', 'same plane']	['900 mile', 'same plane']	0.0767768048648
+['900 mile', 'same plane']	['900 mile', 'same plane']	0.0881648050122
+['tail wind', 'same plane']	['tail wind', 'same plane']	0.033748637534
+['tail wind', 'same plane']	['tail wind', 'same plane']	0.0690143673113
+['tail wind', 'same plane']	['tail wind', 'same plane']	0.0767768048648
+['tail wind', 'same plane']	['tail wind', 'same plane']	0.0767768048648
+['tail wind', 'same plane']	['tail wind', 'same plane']	0.082416450476
+['3 hour', 'same plane']	['3 hour', 'same plane']	0.0309982579209
+['3 hour', 'same plane']	['3 hour', 'same plane']	0.0690143673113
+['3 hour', 'same plane']	['3 hour', 'same plane']	0.082416450476
+['3 hour', 'same plane']	['3 hour', 'same plane']	0.238449871234
+['3 hour', 'same plane']	['3 hour', 'same plane']	0.0812225587764
+['4 hour', 'same plane']	['4 hour', 'same plane']	0.0309982579209
+['4 hour', 'same plane']	['4 hour', 'same plane']	0.0690143673113
+['4 hour', 'same plane']	['4 hour', 'same plane']	0.082416450476
+['4 hour', 'same plane']	['4 hour', 'same plane']	0.238449871234
+['4 hour', 'same plane']	['4 hour', 'same plane']	0.0812225587764
+['return trip', 'same plane']	['return trip', 'same plane']	0.0274469269647
+['return trip', 'same plane']	['return trip', 'same plane']	0.0690143673113
+['return trip', 'same plane']	['return trip', 'same plane']	0.082416450476
+['return trip', 'same plane']	['return trip', 'same plane']	0.0767768048648
+['return trip', 'same plane']	['return trip', 'same plane']	0.0767768048648
+['plane', '4 hour']	['plane', '4 hour']	0.0606369672893
+['plane', '4 hour']	['plane', '4 hour']	0.0601666557079
+['plane', '4 hour']	['plane', '4 hour']	0.117688730286
+['plane', '4 hour']	['plane', '4 hour']	0.0352808424159
+['plane', '4 hour']	['plane', '4 hour']	0.059936371761
+['900 mile', '4 hour']	['900 mile', '4 hour']	0.0585905397909
+['900 mile', '4 hour']	['900 mile', '4 hour']	0.0812225587764
+['900 mile', '4 hour']	['900 mile', '4 hour']	0.255189051606
+['900 mile', '4 hour']	['900 mile', '4 hour']	0.0767768048648
+['900 mile', '4 hour']	['900 mile', '4 hour']	0.0812225587764
+['tail wind', '4 hour']	['tail wind', '4 hour']	0.0585905397909
+['tail wind', '4 hour']	['tail wind', '4 hour']	0.0690143673113
+['tail wind', '4 hour']	['tail wind', '4 hour']	0.255189051606
+['tail wind', '4 hour']	['tail wind', '4 hour']	0.0767768048648
+['tail wind', '4 hour']	['tail wind', '4 hour']	0.082416450476
+['3 hour', '4 hour']	['3 hour', '4 hour']	0.0872480951896
+['3 hour', '4 hour']	['3 hour', '4 hour']	0.0922575126852
+['3 hour', '4 hour']	['3 hour', '4 hour']	0.144637604357
+['3 hour', '4 hour']	['3 hour', '4 hour']	0.124264719088
+['3 hour', '4 hour']	['3 hour', '4 hour']	0.144637604357
+['same plane', '4 hour']	['same plane', '4 hour']	0.0309982579209
+['same plane', '4 hour']	['same plane', '4 hour']	0.0690143673113
+['same plane', '4 hour']	['same plane', '4 hour']	0.082416450476
+['same plane', '4 hour']	['same plane', '4 hour']	0.238449871234
+['same plane', '4 hour']	['same plane', '4 hour']	0.0812225587764
+['return trip', '4 hour']	['return trip', '4 hour']	0.0585905397909
+['return trip', '4 hour']	['return trip', '4 hour']	0.0690143673113
+['return trip', '4 hour']	['return trip', '4 hour']	0.082416450476
+['return trip', '4 hour']	['return trip', '4 hour']	0.255189051606
+['return trip', '4 hour']	['return trip', '4 hour']	0.0767768048648
+['plane', 'return trip']	['plane', 'return trip']	0.0606369672893
+['plane', 'return trip']	['plane', 'return trip']	0.0611733859012
+['plane', 'return trip']	['plane', 'return trip']	0.0606369672893
+['plane', 'return trip']	['plane', 'return trip']	0.0352808424159
+['plane', 'return trip']	['plane', 'return trip']	0.0606369672893
+['900 mile', 'return trip']	['900 mile', 'return trip']	0.0585905397909
+['900 mile', 'return trip']	['900 mile', 'return trip']	0.082416450476
+['900 mile', 'return trip']	['900 mile', 'return trip']	0.0690143673113
+['900 mile', 'return trip']	['900 mile', 'return trip']	0.0690143673113
+['900 mile', 'return trip']	['900 mile', 'return trip']	0.0690143673113
+['tail wind', 'return trip']	['tail wind', 'return trip']	0.0585905397909
+['tail wind', 'return trip']	['tail wind', 'return trip']	0.0690143673113
+['tail wind', 'return trip']	['tail wind', 'return trip']	0.0690143673113
+['tail wind', 'return trip']	['tail wind', 'return trip']	0.0690143673113
+['tail wind', 'return trip']	['tail wind', 'return trip']	0.0690143673113
+['3 hour', 'return trip']	['3 hour', 'return trip']	0.0585905397909
+['3 hour', 'return trip']	['3 hour', 'return trip']	0.0690143673113
+['3 hour', 'return trip']	['3 hour', 'return trip']	0.082416450476
+['3 hour', 'return trip']	['3 hour', 'return trip']	0.0767768048648
+['3 hour', 'return trip']	['3 hour', 'return trip']	0.255189051606
+['same plane', 'return trip']	['same plane', 'return trip']	0.0274469269647
+['same plane', 'return trip']	['same plane', 'return trip']	0.0690143673113
+['same plane', 'return trip']	['same plane', 'return trip']	0.082416450476
+['same plane', 'return trip']	['same plane', 'return trip']	0.0767768048648
+['same plane', 'return trip']	['same plane', 'return trip']	0.0767768048648
+['4 hour', 'return trip']	['4 hour', 'return trip']	0.0585905397909
+['4 hour', 'return trip']	['4 hour', 'return trip']	0.0690143673113
+['4 hour', 'return trip']	['4 hour', 'return trip']	0.082416450476
+['4 hour', 'return trip']	['4 hour', 'return trip']	0.255189051606
+['4 hour', 'return trip']	['4 hour', 'return trip']	0.0767768048648

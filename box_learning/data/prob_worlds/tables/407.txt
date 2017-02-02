@@ -1,0 +1,8 @@
+1
+[['democrat and republican', '99', '-', '-', '-', '-', '-'], ['democrat', 'x1', '-', '-', '-', '-', '-'], ['republican', 'x1+11', '-', '-', '-', '-', '-']]
+-1
+[['democrat and republican', '99', '-', '-', '-', 'republican', 'x1+11'], ['democrat', 'x1', '-', '-', '-', '-', '-'], ['republican', 'x1+11', '-', '-', '-', '-', '-']]
+-1
+[['democrat and republican', 'republican', '-', '-', '-', '-', '-'], ['democrat', 'x1', '-', '-', '-', '-', '-'], ['republican', 'x1+11', '-', '-', '-', '-', 'democrat and republican']]
+-1
+[['democrat and republican', '99', '-', '-', '-', 'x1+11', '-'], ['democrat', 'x1', '-', '-', '-', '-', '-'], ['republican', 'x1+11', '-', '-', '99', '-', 'democrat and republican']]

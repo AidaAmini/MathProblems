@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP have)
+      (NP
+        (NP (CD 30) (JJ total) (NNS items))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP
+              (VBP consist)
+              (PP (IN of) (NP (NNS hats) (CC and) (NNS boots))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ total) (NN cost))
+    (VP (VBZ is) (NP (CD 190.00) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (S (NP (NNP Boots)) (VP (VBP are) (NP (CD 9.00) (NNS dollars))))
+    (CC and)
+    (S (NP (NNS hats)) (VP (VBP are) (NP (CD 5.00) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS boots))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))
+(ROOT (FRAG (WHADVP (WRB How)) (NP (JJ many) (NNS hats)) (. ?)))

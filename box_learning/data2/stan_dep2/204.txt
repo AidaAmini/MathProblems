@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ local) (NN bus) (NN tour))
+    (VP (VBD sold) (NP (CD 65) (NNS tickets)))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (JJ Senior) (NN citizen) (NNS tickets))
+      (VP (VBP are) (NP (CD 10) (NNS dollars))))
+    (CC and)
+    (S
+      (NP (JJ regular) (NNS tickets))
+      (VP (VBP are) (NP (CD 15) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ total) (NNS sales))
+    (VP (VBD were) (NP (QP (CD 855) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (JJ senior) (NN citizen)) (NP (NNS tickets))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (JJ regular) (NNS tickets))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

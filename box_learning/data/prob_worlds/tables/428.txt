@@ -1,0 +1,14 @@
+1
+[['-', '1800', 'milliliter', '% sugar solution', '60', '-', '-'], ['-', 'x1', 'milliliter', '% sugar solution', '40', '-', '-'], ['-', 'x2', 'milliliter', '% sugar solution', '85', '-', '-']]
+-1
+[['-', '1800', 'milliliter', '% sugar solution', '60', '-', '-'], ['-', 'x1', 'milliliter', '% sugar solution', '40', '-', '-'], ['-', 'x2', '60', '1800', '85', '-', '-']]
+-1
+[['-', '1800', 'milliliter', '85', '60', '-', 'x2'], ['-', 'x1', 'milliliter', '% sugar solution', '40', '-', '-'], ['-', 'x2', 'milliliter', '% sugar solution', '85', '-', '-']]
+-1
+[['-', 'x2', 'milliliter', '% sugar solution', '60', '-', '-'], ['-', 'x1', 'milliliter', '% sugar solution', '40', '-', '-'], ['-', 'x2', 'milliliter', '60', '85', '-', '-']]
+-1
+[['-', '% sugar solution', 'x2', '85', '60', '-', '-'], ['-', 'x1', 'milliliter', '% sugar solution', '40', '-', '-'], ['-', 'x2', '60', '% sugar solution', '85', '-', '1800']]
+-1
+[['-', '85', 'milliliter', '% sugar solution', '60', '-', '-'], ['-', 'x1', 'milliliter', '% sugar solution', '40', '-', '-'], ['-', '60', 'milliliter', '% sugar solution', '85', '-', '-']]
+-1
+[['x2', '1800', '85', '% sugar solution', '60', '-', '-'], ['-', 'x1', 'milliliter', '% sugar solution', '40', '-', '-'], ['-', 'x2', 'milliliter', '% sugar solution', '85', '60', '-']]

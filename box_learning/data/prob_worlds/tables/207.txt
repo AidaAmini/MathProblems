@@ -1,0 +1,16 @@
+1
+[['automobile', '5', 'hour', '-', '-', 'kilometer', '600'], ['west', '5', 'hour', 'kilometer', 'x1', '-', '-'], ['east', '5', 'hour', 'kilometer', 'x1 + 10', '-', '-']]
+-1
+[['automobile', '600', 'hour', '-', '-', 'kilometer', 'east'], ['west', '5', 'hour', 'kilometer', 'x1', '-', '-'], ['east', '600', 'hour', 'kilometer', 'automobile', '-', '-']]
+-1
+[['automobile', 'x1 + 10', 'hour', 'kilometer', '-', '5', '600'], ['west', '5', 'hour', 'kilometer', 'x1', '-', '-'], ['east', '5', 'automobile', 'kilometer', 'hour', '600', '-']]
+-1
+[['automobile', '5', 'hour', '-', 'east', 'kilometer', 'x1 + 10'], ['west', '5', 'hour', 'kilometer', 'x1', '-', '-'], ['east', '5', 'hour', 'kilometer', 'x1 + 10', '-', '-']]
+-1
+[['east', '5', 'hour', '-', '-', 'kilometer', '600'], ['west', '5', 'hour', 'kilometer', 'x1', '-', '-'], ['600', '5', 'hour', 'kilometer', 'x1 + 10', '-', '-']]
+-1
+[['x1 + 10', '5', 'hour', '-', '-', 'kilometer', '600'], ['west', '5', 'hour', 'kilometer', 'x1', '-', '-'], ['east', '5', 'hour', 'kilometer', 'x1 + 10', '-', '600']]
+-1
+[['automobile', '5', 'hour', '-', '-', 'kilometer', '600'], ['west', '5', 'hour', 'kilometer', 'x1', '-', '-'], ['600', '5', 'hour', 'kilometer', 'x1 + 10', '-', '-']]
+-1
+[['automobile', '5', 'hour', '-', '-', 'kilometer', '600'], ['west', '5', 'hour', 'kilometer', 'x1', '-', '-'], ['automobile', '5', 'hour', 'kilometer', '600', '-', '-']]

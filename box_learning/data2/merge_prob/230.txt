@@ -1,0 +1,362 @@
+['laker', '43 point', 'combination', 'two point basket', 'three point basket', 'shot', 'two', 'basket']
+['laker']	['43 point']	0.0901100077042
+['laker']	['combination']	0.104660021814
+['laker']	['two point basket']	0.0994179567344
+['laker']	['three point basket']	0.0994179567344
+['laker']	['shot']	0.0767389297906
+['laker']	['two']	0.108745508027
+['laker']	['basket']	0.162239127466
+['43 point']	['combination']	0.076067179124
+['43 point']	['two point basket']	0.101465999609
+['43 point']	['three point basket']	0.101465999609
+['43 point']	['shot']	0.0831172035382
+['43 point']	['two']	0.0831172035382
+['43 point']	['basket']	0.0568482879172
+['combination']	['two point basket']	0.0984576989368
+['combination']	['three point basket']	0.0984576989368
+['combination']	['shot']	0.0827245724072
+['combination']	['two']	0.0927104888583
+['combination']	['basket']	0.0702095599165
+['two point basket']	['three point basket']	0.817621286182
+['two point basket']	['shot']	0.132959596782
+['three point basket']	['shot']	0.132959596782
+['three point basket']	['two']	0.0650965419898
+['shot']	['two']	0.0908262014664
+['shot']	['basket']	0.0569770414881
+['two']	['basket']	0.0887758339795
+['43 point', 'laker']	['combination']	0.35357706335
+['43 point', 'laker']	['two point basket']	0.0994179567344
+['43 point', 'laker']	['three point basket']	0.0994179567344
+['43 point', 'laker']	['shot']	0.19603525097
+['43 point', 'laker']	['two']	0.1689733537
+['43 point', 'laker']	['basket']	0.255896399965
+['combination', 'laker']	['43 point']	0.0833805889219
+['combination', 'laker']	['two point basket']	0.101806523567
+['combination', 'laker']	['three point basket']	0.101806523567
+['combination', 'laker']	['shot']	0.127659373429
+['combination', 'laker']	['two']	0.136715289184
+['combination', 'laker']	['basket']	0.292981602244
+['two point basket', 'laker']	['43 point']	0.0737139440912
+['two point basket', 'laker']	['combination']	0.34631866992
+['two point basket', 'laker']	['three point basket']	0.698740710328
+['two point basket', 'laker']	['shot']	0.282278967873
+['two point basket', 'laker']	['two']	0.522060286065
+['two point basket', 'laker']	['basket']	0.64687755091
+['three point basket', 'laker']	['43 point']	0.0737139440912
+['three point basket', 'laker']	['combination']	0.34631866992
+['three point basket', 'laker']	['two point basket']	0.698740710328
+['three point basket', 'laker']	['shot']	0.282278967873
+['three point basket', 'laker']	['two']	0.131627345199
+['three point basket', 'laker']	['basket']	0.64687755091
+['shot', 'laker']	['43 point']	0.103222748661
+['shot', 'laker']	['combination']	0.0734239376973
+['shot', 'laker']	['two point basket']	0.168666624131
+['shot', 'laker']	['three point basket']	0.168666624131
+['shot', 'laker']	['two']	0.0908262014664
+['shot', 'laker']	['basket']	0.271643203989
+['two', 'laker']	['43 point']	0.0703393045902
+['two', 'laker']	['combination']	0.0834098541484
+['two', 'laker']	['two point basket']	0.459372597635
+['two', 'laker']	['three point basket']	0.0899301185571
+['two', 'laker']	['shot']	0.186850996761
+['two', 'laker']	['basket']	0.502111572126
+['basket', 'laker']	['43 point']	0.0563939725707
+['basket', 'laker']	['combination']	0.0625390764177
+['basket', 'laker']	['two point basket']	0.517873286655
+['basket', 'laker']	['three point basket']	0.517873286655
+['basket', 'laker']	['shot']	0.0958349848071
+['basket', 'laker']	['two']	0.285512516835
+['laker', '43 point']	['combination']	0.35357706335
+['laker', '43 point']	['two point basket']	0.0994179567344
+['laker', '43 point']	['three point basket']	0.0994179567344
+['laker', '43 point']	['shot']	0.19603525097
+['laker', '43 point']	['two']	0.1689733537
+['laker', '43 point']	['basket']	0.255896399965
+['combination', '43 point']	['laker']	0.276494422148
+['combination', '43 point']	['two point basket']	0.101806523567
+['combination', '43 point']	['three point basket']	0.101806523567
+['combination', '43 point']	['shot']	0.19603525097
+['combination', '43 point']	['two']	0.294729371111
+['combination', '43 point']	['basket']	0.478074546666
+['two point basket', '43 point']	['laker']	0.124233173145
+['two point basket', '43 point']	['combination']	0.118578097808
+['two point basket', '43 point']	['three point basket']	0.799503279128
+['two point basket', '43 point']	['shot']	0.177844532969
+['two point basket', '43 point']	['two']	0.632754390269
+['two point basket', '43 point']	['basket']	0.700157319022
+['three point basket', '43 point']	['laker']	0.124233173145
+['three point basket', '43 point']	['combination']	0.118578097808
+['three point basket', '43 point']	['two point basket']	0.799503279128
+['three point basket', '43 point']	['shot']	0.177844532969
+['three point basket', '43 point']	['two']	0.127612282777
+['three point basket', '43 point']	['basket']	0.700157319022
+['shot', '43 point']	['laker']	0.182762001964
+['shot', '43 point']	['combination']	0.213391903471
+['shot', '43 point']	['two point basket']	0.168666624131
+['shot', '43 point']	['three point basket']	0.168666624131
+['shot', '43 point']	['two']	0.18834991029
+['shot', '43 point']	['basket']	0.263364692828
+['two', '43 point']	['laker']	0.149484959546
+['two', '43 point']	['combination']	0.370304128142
+['two', '43 point']	['two point basket']	0.484067342065
+['two', '43 point']	['three point basket']	0.0899301185571
+['two', '43 point']	['shot']	0.18834991029
+['two', '43 point']	['basket']	0.662575167977
+['basket', '43 point']	['laker']	0.186120780387
+['basket', '43 point']	['combination']	0.358303603759
+['basket', '43 point']	['two point basket']	0.528099351229
+['basket', '43 point']	['three point basket']	0.528099351229
+['basket', '43 point']	['shot']	0.138857127109
+['basket', '43 point']	['two']	0.521697987732
+['laker', 'combination']	['43 point']	0.0833805889219
+['laker', 'combination']	['two point basket']	0.101806523567
+['laker', 'combination']	['three point basket']	0.101806523567
+['laker', 'combination']	['shot']	0.127659373429
+['laker', 'combination']	['two']	0.136715289184
+['laker', 'combination']	['basket']	0.292981602244
+['43 point', 'combination']	['laker']	0.276494422148
+['43 point', 'combination']	['two point basket']	0.101806523567
+['43 point', 'combination']	['three point basket']	0.101806523567
+['43 point', 'combination']	['shot']	0.19603525097
+['43 point', 'combination']	['two']	0.294729371111
+['43 point', 'combination']	['basket']	0.478074546666
+['two point basket', 'combination']	['laker']	0.285428736401
+['two point basket', 'combination']	['43 point']	0.0703393045902
+['two point basket', 'combination']	['three point basket']	0.740594784268
+['two point basket', 'combination']	['shot']	0.336421907061
+['two point basket', 'combination']	['two']	0.626305554145
+['two point basket', 'combination']	['basket']	0.624781549583
+['three point basket', 'combination']	['laker']	0.285428736401
+['three point basket', 'combination']	['43 point']	0.0703393045902
+['three point basket', 'combination']	['two point basket']	0.740594784268
+['three point basket', 'combination']	['shot']	0.336421907061
+['three point basket', 'combination']	['two']	0.344650875118
+['three point basket', 'combination']	['basket']	0.624781549583
+['shot', 'combination']	['laker']	0.16567663238
+['shot', 'combination']	['43 point']	0.105345478515
+['shot', 'combination']	['two point basket']	0.208147569972
+['shot', 'combination']	['three point basket']	0.208147569972
+['shot', 'combination']	['two']	0.256866872809
+['shot', 'combination']	['basket']	0.112864722647
+['two', 'combination']	['laker']	0.11722689503
+['two', 'combination']	['43 point']	0.0745893835607
+['two', 'combination']	['two point basket']	0.458644776791
+['two', 'combination']	['three point basket']	0.092293107797
+['two', 'combination']	['shot']	0.186850996761
+['two', 'combination']	['basket']	0.281126760595
+['basket', 'combination']	['laker']	0.247740568459
+['basket', 'combination']	['43 point']	0.0613764810231
+['basket', 'combination']	['two point basket']	0.600901011907
+['basket', 'combination']	['three point basket']	0.600901011907
+['basket', 'combination']	['shot']	0.0569770414881
+['basket', 'combination']	['two']	0.281126760595
+['laker', 'two point basket']	['43 point']	0.0737139440912
+['laker', 'two point basket']	['combination']	0.34631866992
+['laker', 'two point basket']	['three point basket']	0.698740710328
+['laker', 'two point basket']	['shot']	0.282278967873
+['laker', 'two point basket']	['two']	0.522060286065
+['laker', 'two point basket']	['basket']	0.64687755091
+['43 point', 'two point basket']	['laker']	0.124233173145
+['43 point', 'two point basket']	['combination']	0.118578097808
+['43 point', 'two point basket']	['three point basket']	0.799503279128
+['43 point', 'two point basket']	['shot']	0.177844532969
+['43 point', 'two point basket']	['two']	0.632754390269
+['43 point', 'two point basket']	['basket']	0.700157319022
+['combination', 'two point basket']	['laker']	0.285428736401
+['combination', 'two point basket']	['43 point']	0.0703393045902
+['combination', 'two point basket']	['three point basket']	0.740594784268
+['combination', 'two point basket']	['shot']	0.336421907061
+['combination', 'two point basket']	['two']	0.626305554145
+['combination', 'two point basket']	['basket']	0.624781549583
+['three point basket', 'two point basket']	['laker']	0.318561559751
+['three point basket', 'two point basket']	['43 point']	0.133912151336
+['three point basket', 'two point basket']	['combination']	0.336376005635
+['three point basket', 'two point basket']	['shot']	0.468537034948
+['three point basket', 'two point basket']	['two']	0.777034478209
+['three point basket', 'two point basket']	['basket']	0.695732267072
+['shot', 'two point basket']	['laker']	0.244839849646
+['shot', 'two point basket']	['43 point']	0.159872896928
+['shot', 'two point basket']	['combination']	0.273601809561
+['shot', 'two point basket']	['three point basket']	0.752961124159
+['shot', 'two point basket']	['two']	0.571818267716
+['shot', 'two point basket']	['basket']	0.680147716668
+['two', 'two point basket']	['laker']	0.176530197867
+['two', 'two point basket']	['43 point']	0.132417152272
+['two', 'two point basket']	['combination']	0.408396517602
+['two', 'two point basket']	['three point basket']	0.719638064825
+['two', 'two point basket']	['shot']	0.291421461074
+['two', 'two point basket']	['basket']	0.749749990962
+['basket', 'two point basket']	['laker']	0.526792599199
+['basket', 'two point basket']	['43 point']	0.215378247734
+['basket', 'two point basket']	['combination']	0.519117653592
+['basket', 'two point basket']	['three point basket']	0.560202203642
+['basket', 'two point basket']	['shot']	0.601685512709
+['basket', 'two point basket']	['two']	0.876435252132
+['laker', 'three point basket']	['43 point']	0.0737139440912
+['laker', 'three point basket']	['combination']	0.34631866992
+['laker', 'three point basket']	['two point basket']	0.698740710328
+['laker', 'three point basket']	['shot']	0.282278967873
+['laker', 'three point basket']	['two']	0.131627345199
+['laker', 'three point basket']	['basket']	0.64687755091
+['43 point', 'three point basket']	['laker']	0.124233173145
+['43 point', 'three point basket']	['combination']	0.118578097808
+['43 point', 'three point basket']	['two point basket']	0.799503279128
+['43 point', 'three point basket']	['shot']	0.177844532969
+['43 point', 'three point basket']	['two']	0.127612282777
+['43 point', 'three point basket']	['basket']	0.700157319022
+['combination', 'three point basket']	['laker']	0.285428736401
+['combination', 'three point basket']	['43 point']	0.0703393045902
+['combination', 'three point basket']	['two point basket']	0.740594784268
+['combination', 'three point basket']	['shot']	0.336421907061
+['combination', 'three point basket']	['two']	0.344650875118
+['combination', 'three point basket']	['basket']	0.624781549583
+['two point basket', 'three point basket']	['laker']	0.318561559751
+['two point basket', 'three point basket']	['43 point']	0.133912151336
+['two point basket', 'three point basket']	['combination']	0.336376005635
+['two point basket', 'three point basket']	['shot']	0.468537034948
+['two point basket', 'three point basket']	['two']	0.777034478209
+['two point basket', 'three point basket']	['basket']	0.695732267072
+['shot', 'three point basket']	['laker']	0.244839849646
+['shot', 'three point basket']	['43 point']	0.159872896928
+['shot', 'three point basket']	['combination']	0.273601809561
+['shot', 'three point basket']	['two point basket']	0.752961124159
+['shot', 'three point basket']	['two']	0.225204787288
+['shot', 'three point basket']	['basket']	0.680147716668
+['two', 'three point basket']	['laker']	0.176530197867
+['two', 'three point basket']	['43 point']	0.132417152272
+['two', 'three point basket']	['combination']	0.408396517602
+['two', 'three point basket']	['two point basket']	0.804814735609
+['two', 'three point basket']	['shot']	0.291421461074
+['two', 'three point basket']	['basket']	0.749749990962
+['basket', 'three point basket']	['laker']	0.526792599199
+['basket', 'three point basket']	['43 point']	0.215378247734
+['basket', 'three point basket']	['combination']	0.519117653592
+['basket', 'three point basket']	['two point basket']	0.560202203642
+['basket', 'three point basket']	['shot']	0.601685512709
+['basket', 'three point basket']	['two']	0.612158666408
+['laker', 'shot']	['43 point']	0.103222748661
+['laker', 'shot']	['combination']	0.0734239376973
+['laker', 'shot']	['two point basket']	0.168666624131
+['laker', 'shot']	['three point basket']	0.168666624131
+['laker', 'shot']	['two']	0.0908262014664
+['laker', 'shot']	['basket']	0.271643203989
+['43 point', 'shot']	['laker']	0.182762001964
+['43 point', 'shot']	['combination']	0.213391903471
+['43 point', 'shot']	['two point basket']	0.168666624131
+['43 point', 'shot']	['three point basket']	0.168666624131
+['43 point', 'shot']	['two']	0.18834991029
+['43 point', 'shot']	['basket']	0.263364692828
+['combination', 'shot']	['laker']	0.16567663238
+['combination', 'shot']	['43 point']	0.105345478515
+['combination', 'shot']	['two point basket']	0.208147569972
+['combination', 'shot']	['three point basket']	0.208147569972
+['combination', 'shot']	['two']	0.256866872809
+['combination', 'shot']	['basket']	0.112864722647
+['two point basket', 'shot']	['laker']	0.244839849646
+['two point basket', 'shot']	['43 point']	0.159872896928
+['two point basket', 'shot']	['combination']	0.273601809561
+['two point basket', 'shot']	['three point basket']	0.752961124159
+['two point basket', 'shot']	['two']	0.571818267716
+['two point basket', 'shot']	['basket']	0.680147716668
+['three point basket', 'shot']	['laker']	0.244839849646
+['three point basket', 'shot']	['43 point']	0.159872896928
+['three point basket', 'shot']	['combination']	0.273601809561
+['three point basket', 'shot']	['two point basket']	0.752961124159
+['three point basket', 'shot']	['two']	0.225204787288
+['three point basket', 'shot']	['basket']	0.680147716668
+['two', 'shot']	['laker']	0.174566104452
+['two', 'shot']	['43 point']	0.16055036233
+['two', 'shot']	['combination']	0.135501785379
+['two', 'shot']	['two point basket']	0.414613786746
+['two', 'shot']	['three point basket']	0.24898673179
+['two', 'shot']	['basket']	0.358319018073
+['basket', 'shot']	['laker']	0.210126656475
+['basket', 'shot']	['43 point']	0.118026629291
+['basket', 'shot']	['combination']	0.174355223422
+['basket', 'shot']	['two point basket']	0.685617533418
+['basket', 'shot']	['three point basket']	0.685617533418
+['basket', 'shot']	['two']	0.512671548548
+['laker', 'two']	['43 point']	0.0703393045902
+['laker', 'two']	['combination']	0.0834098541484
+['laker', 'two']	['two point basket']	0.459372597635
+['laker', 'two']	['three point basket']	0.0899301185571
+['laker', 'two']	['shot']	0.186850996761
+['laker', 'two']	['basket']	0.502111572126
+['43 point', 'two']	['laker']	0.149484959546
+['43 point', 'two']	['combination']	0.370304128142
+['43 point', 'two']	['two point basket']	0.484067342065
+['43 point', 'two']	['three point basket']	0.0899301185571
+['43 point', 'two']	['shot']	0.18834991029
+['43 point', 'two']	['basket']	0.662575167977
+['combination', 'two']	['laker']	0.11722689503
+['combination', 'two']	['43 point']	0.0745893835607
+['combination', 'two']	['two point basket']	0.458644776791
+['combination', 'two']	['three point basket']	0.092293107797
+['combination', 'two']	['shot']	0.186850996761
+['combination', 'two']	['basket']	0.281126760595
+['two point basket', 'two']	['laker']	0.176530197867
+['two point basket', 'two']	['43 point']	0.132417152272
+['two point basket', 'two']	['combination']	0.408396517602
+['two point basket', 'two']	['three point basket']	0.719638064825
+['two point basket', 'two']	['shot']	0.291421461074
+['two point basket', 'two']	['basket']	0.749749990962
+['three point basket', 'two']	['laker']	0.176530197867
+['three point basket', 'two']	['43 point']	0.132417152272
+['three point basket', 'two']	['combination']	0.408396517602
+['three point basket', 'two']	['two point basket']	0.804814735609
+['three point basket', 'two']	['shot']	0.291421461074
+['three point basket', 'two']	['basket']	0.749749990962
+['shot', 'two']	['laker']	0.174566104452
+['shot', 'two']	['43 point']	0.16055036233
+['shot', 'two']	['combination']	0.135501785379
+['shot', 'two']	['two point basket']	0.414613786746
+['shot', 'two']	['three point basket']	0.24898673179
+['shot', 'two']	['basket']	0.358319018073
+['basket', 'two']	['laker']	0.161132123456
+['basket', 'two']	['43 point']	0.11372158624
+['basket', 'two']	['combination']	0.1246169241
+['basket', 'two']	['two point basket']	0.562605708444
+['basket', 'two']	['three point basket']	0.616350747356
+['basket', 'two']	['shot']	0.192769116995
+['laker', 'basket']	['43 point']	0.0563939725707
+['laker', 'basket']	['combination']	0.0625390764177
+['laker', 'basket']	['two point basket']	0.517873286655
+['laker', 'basket']	['three point basket']	0.517873286655
+['laker', 'basket']	['shot']	0.0958349848071
+['laker', 'basket']	['two']	0.285512516835
+['43 point', 'basket']	['laker']	0.186120780387
+['43 point', 'basket']	['combination']	0.358303603759
+['43 point', 'basket']	['two point basket']	0.528099351229
+['43 point', 'basket']	['three point basket']	0.528099351229
+['43 point', 'basket']	['shot']	0.138857127109
+['43 point', 'basket']	['two']	0.521697987732
+['combination', 'basket']	['laker']	0.247740568459
+['combination', 'basket']	['43 point']	0.0613764810231
+['combination', 'basket']	['two point basket']	0.600901011907
+['combination', 'basket']	['three point basket']	0.600901011907
+['combination', 'basket']	['shot']	0.0569770414881
+['combination', 'basket']	['two']	0.281126760595
+['two point basket', 'basket']	['laker']	0.526792599199
+['two point basket', 'basket']	['43 point']	0.215378247734
+['two point basket', 'basket']	['combination']	0.519117653592
+['two point basket', 'basket']	['three point basket']	0.560202203642
+['two point basket', 'basket']	['shot']	0.601685512709
+['two point basket', 'basket']	['two']	0.876435252132
+['three point basket', 'basket']	['laker']	0.526792599199
+['three point basket', 'basket']	['43 point']	0.215378247734
+['three point basket', 'basket']	['combination']	0.519117653592
+['three point basket', 'basket']	['two point basket']	0.560202203642
+['three point basket', 'basket']	['shot']	0.601685512709
+['three point basket', 'basket']	['two']	0.612158666408
+['shot', 'basket']	['laker']	0.210126656475
+['shot', 'basket']	['43 point']	0.118026629291
+['shot', 'basket']	['combination']	0.174355223422
+['shot', 'basket']	['two point basket']	0.685617533418
+['shot', 'basket']	['three point basket']	0.685617533418
+['shot', 'basket']	['two']	0.512671548548
+['two', 'basket']	['laker']	0.161132123456
+['two', 'basket']	['43 point']	0.11372158624
+['two', 'basket']	['combination']	0.1246169241
+['two', 'basket']	['two point basket']	0.562605708444
+['two', 'basket']	['three point basket']	0.616350747356
+['two', 'basket']	['shot']	0.192769116995

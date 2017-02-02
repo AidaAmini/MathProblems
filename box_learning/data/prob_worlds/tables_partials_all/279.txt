@@ -1,0 +1,298 @@
+1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['people', '-', '-', '-'], ['child', '-', '-', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['adult', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['adult', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['adult', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['child', '-', '-', '-'], ['adult', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['adult', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['child', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['child', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', 'adult', 'dollar'], ['people', '-', 'dollar', '-'], ['adult', '-', 'dollar', 'people']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'people', 'dollar'], ['people', '-', 'dollar', '-']]
+-1
+[['child', '-', '-', 'dollar'], ['child', '-', 'adult', '-'], ['adult', '-', 'dollar', 'child']]
+-1
+[['dollar', '-', '-', 'adult'], ['child', 'adult', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'adult', '-'], ['adult', '-', 'people', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', 'child and adult'], ['adult', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', 'adult', '-'], ['adult', '-', 'child', '-']]
+-1
+[['adult', 'child', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['child', '-', '-', 'dollar'], ['child', '-', 'adult', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['-', '-', 'child', 'dollar'], ['child', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'child'], ['child', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', 'admission fee']]
+-1
+[['people', '-', 'adult', '-'], ['child', '-', 'dollar', '-'], ['adult', 'child', 'dollar', '-']]
+-1
+[['people', '-', '-', '-'], ['child', 'people', 'dollar', '-'], ['adult', '-', 'dollar', 'people']]
+-1
+[['people', '-', '-', 'adult'], ['adult', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', 'people'], ['child', '-', 'dollar', '-']]
+-1
+[['people', '-', 'adult', '-'], ['people', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', '-'], ['child and adult', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', 'people'], ['people', '-', 'dollar', '-']]
+-1
+[['adult', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', 'adult', 'dollar'], ['-', '-', 'dollar', 'adult'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['adult', '-', 'dollar', 'people']]
+-1
+[['people', '-', '-', 'adult'], ['-', 'people', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', 'certain day', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'people', 'dollar'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['people', 'child', 'dollar', '-']]
+-1
+[['people', 'child', 'adult', 'dollar'], ['child', '-', '-', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', '-', '-'], ['adult', '-', 'people', '-']]
+-1
+[['people', 'adult', '-', 'dollar'], ['child', '-', '-', '-'], ['adult', 'people', 'dollar', '-']]
+-1
+[['child and adult', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', 'child', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['child', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['people', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['child', '-', 'dollar', 'people']]
+-1
+[['child', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', '-', 'dollar', 'child']]
+-1
+[['people', '-', '-', 'dollar'], ['child', 'people', 'dollar', '-'], ['-', 'people', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['certain day', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'child'], ['child', '-', 'dollar', '-'], ['adult', 'child', '-', '-']]
+-1
+[['people', '-', 'child', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', 'people']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', 'dollar', 'adult'], ['adult', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', 'people', 'dollar', '-'], ['people', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'child', 'dollar']]
+-1
+[['people', '-', '-', 'child and adult'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+-1
+[['child', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+-1
+[['-', '-', 'child', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'child', '-']]
+-1
+[['-', 'child', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', 'child']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['dollar', 'child', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', 'child']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', 'certain day', '-', '-']]
+-1
+[['dollar', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['people', '-', '-', 'child']]
+-1
+[['people', 'child', '-', '-'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', 'dollar']]
+-1
+[['people', '-', 'dollar', '-'], ['child', '-', 'dollar', 'people'], ['adult', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['people', '-', 'dollar', '-']]
+-1
+[['people', 'amusement park', '-', '-'], ['child', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['adult', '-', '-', 'people']]
+-1
+[['people', '-', 'adult', 'dollar'], ['adult', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+-1
+[['people', '-', '-', 'adult'], ['-', '-', 'dollar', '-'], ['adult', '-', '-', 'dollar']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'adult', '-'], ['adult', 'dollar', '-', '-']]
+-1
+[['people', '-', 'adult', 'dollar'], ['-', 'adult', 'dollar', '-'], ['adult', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['adult', 'admission fee', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', 'people'], ['adult', '-', 'people', '-']]
+-1
+[['people', '-', '-', 'child'], ['child', '-', '-', '-'], ['adult', 'dollar', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', 'adult', '-', '-'], ['adult', '-', '-', 'people']]
+-1
+[['people', '-', '-', 'adult'], ['child', '-', '-', 'people'], ['adult', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['adult', '-', 'people', 'dollar']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['adult', '-', 'child and adult', '-']]
+-1
+[['people', '-', 'child', 'dollar'], ['child', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['people', 'child', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', 'child', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', 'people', 'dollar', '-'], ['-', '-', '-', 'people']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', 'dollar', 'child', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', '-', 'admit', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', '-', '-', 'child']]
+-1
+[['-', '-', 'child', 'dollar'], ['child', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'child'], ['child', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['child', 'people', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', 'child', '-'], ['child', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', 'dollar', '-'], ['-', '-', 'people', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', 'people', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['people', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'people', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['people', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', 'dollar'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['child', '-', '-', '-']]
+-1
+[['-', 'child', '-', 'dollar'], ['child', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['-', '-', 'child', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['-', 'child', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', '-', '-'], ['-', '-', 'child', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', '-', '-'], ['-', '-', 'people', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', '-', 'people'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['child', '-', '-', '-'], ['-', 'people', '-', '-']]
+-1
+[['people', '-', 'child', '-'], ['child', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'people', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', 'people'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'people', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['dollar', '-', '-', '-']]

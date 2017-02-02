@@ -1,0 +1,1787 @@
+['bricklayer', 'electrician', '90 hour', 'new house', '12 dollar', 'hour', 'dollar', '16 dollar', 'owner', '1350 dollar', 'bricklayer work', 'work', 'electrician work']
+['bricklayer']	['electrician']	0.360823686959
+['bricklayer']	['90 hour']	0.0696933362217
+['bricklayer']	['new house']	0.0696933362217
+['bricklayer']	['12 dollar']	0.0696933362217
+['bricklayer']	['hour']	0.00388540021915
+['bricklayer']	['dollar']	0.0240886330375
+['bricklayer']	['16 dollar']	0.0696933362217
+['bricklayer']	['owner']	0.0959782855234
+['bricklayer']	['1350 dollar']	0.0696933362217
+['bricklayer']	['work']	0.143836803557
+['bricklayer']	['electrician work']	0.0696933362217
+['electrician']	['90 hour']	0.0696933362217
+['electrician']	['new house']	0.0696933362217
+['electrician']	['12 dollar']	0.0696933362217
+['electrician']	['hour']	0.00388540021915
+['electrician']	['dollar']	0.0172895385241
+['electrician']	['16 dollar']	0.0696933362217
+['electrician']	['owner']	0.566221212149
+['electrician']	['1350 dollar']	0.0696933362217
+['electrician']	['bricklayer work']	0.0696933362217
+['electrician']	['work']	0.111091081699
+['90 hour']	['new house']	0.0901100077042
+['90 hour']	['12 dollar']	0.387929093691
+['90 hour']	['dollar']	0.0143499502517
+['90 hour']	['16 dollar']	0.387929093691
+['90 hour']	['owner']	0.0764053905195
+['90 hour']	['1350 dollar']	0.0901100077042
+['90 hour']	['bricklayer work']	0.0827346205535
+['90 hour']	['work']	0.0741073489195
+['90 hour']	['electrician work']	0.0827346205535
+['new house']	['12 dollar']	0.0901100077042
+['new house']	['hour']	0.0101131233914
+['new house']	['dollar']	0.0179192712897
+['new house']	['16 dollar']	0.0901100077042
+['new house']	['owner']	0.0744376594044
+['new house']	['1350 dollar']	0.0901100077042
+['new house']	['bricklayer work']	0.0901100077042
+['new house']	['work']	0.0831172035382
+['new house']	['electrician work']	0.0901100077042
+['12 dollar']	['hour']	0.00424649792755
+['12 dollar']	['16 dollar']	0.828768839235
+['12 dollar']	['owner']	0.0777864840342
+['12 dollar']	['1350 dollar']	0.643440930505
+['12 dollar']	['bricklayer work']	0.0827346205535
+['12 dollar']	['work']	0.0774561735493
+['12 dollar']	['electrician work']	0.0827346205535
+['hour']	['dollar']	0.00848197012891
+['hour']	['16 dollar']	0.00424565569655
+['hour']	['owner']	0.0146259451673
+['hour']	['1350 dollar']	0.00424565569655
+['hour']	['bricklayer work']	0.00424565569655
+['hour']	['work']	0.0171501411766
+['hour']	['electrician work']	0.00424565569655
+['dollar']	['owner']	0.232463281749
+['dollar']	['bricklayer work']	0.0160076877108
+['dollar']	['work']	0.0293075380015
+['dollar']	['electrician work']	0.0160076877108
+['16 dollar']	['owner']	0.0777864840342
+['16 dollar']	['1350 dollar']	0.643440930505
+['16 dollar']	['bricklayer work']	0.0827346205535
+['16 dollar']	['work']	0.0774561735493
+['16 dollar']	['electrician work']	0.0827346205535
+['owner']	['1350 dollar']	0.0827346205535
+['owner']	['bricklayer work']	0.0793857959237
+['owner']	['work']	0.0827245724072
+['owner']	['electrician work']	0.0793857959237
+['1350 dollar']	['bricklayer work']	0.0901100077042
+['1350 dollar']	['work']	0.0774561735493
+['1350 dollar']	['electrician work']	0.0901100077042
+['bricklayer work']	['electrician work']	0.525104950945
+['electrician', 'bricklayer']	['90 hour']	0.131771183904
+['electrician', 'bricklayer']	['new house']	0.131771183904
+['electrician', 'bricklayer']	['12 dollar']	0.131771183904
+['electrician', 'bricklayer']	['hour']	0.0697963993795
+['electrician', 'bricklayer']	['dollar']	0.149075050141
+['electrician', 'bricklayer']	['16 dollar']	0.131771183904
+['electrician', 'bricklayer']	['owner']	0.604447474652
+['electrician', 'bricklayer']	['1350 dollar']	0.131771183904
+['electrician', 'bricklayer']	['bricklayer work']	0.596124400218
+['electrician', 'bricklayer']	['work']	0.604138922262
+['electrician', 'bricklayer']	['electrician work']	0.596124400218
+['90 hour', 'bricklayer']	['electrician']	0.827149219634
+['90 hour', 'bricklayer']	['new house']	0.0696933362217
+['90 hour', 'bricklayer']	['12 dollar']	0.330128589866
+['90 hour', 'bricklayer']	['hour']	0.461510460535
+['90 hour', 'bricklayer']	['dollar']	0.0996401804851
+['90 hour', 'bricklayer']	['16 dollar']	0.330128589866
+['90 hour', 'bricklayer']	['owner']	0.308646061762
+['90 hour', 'bricklayer']	['1350 dollar']	0.0696933362217
+['90 hour', 'bricklayer']	['bricklayer work']	0.392145703491
+['90 hour', 'bricklayer']	['work']	0.224064331366
+['90 hour', 'bricklayer']	['electrician work']	0.0696933362217
+['new house', 'bricklayer']	['electrician']	0.801223293708
+['new house', 'bricklayer']	['90 hour']	0.0696933362217
+['new house', 'bricklayer']	['12 dollar']	0.0696933362217
+['new house', 'bricklayer']	['hour']	0.0241916360859
+['new house', 'bricklayer']	['dollar']	0.0831640509808
+['new house', 'bricklayer']	['16 dollar']	0.0696933362217
+['new house', 'bricklayer']	['owner']	0.306678330646
+['new house', 'bricklayer']	['1350 dollar']	0.0696933362217
+['new house', 'bricklayer']	['bricklayer work']	0.279800024479
+['new house', 'bricklayer']	['work']	0.209788656728
+['new house', 'bricklayer']	['electrician work']	0.0696933362217
+['12 dollar', 'bricklayer']	['electrician']	0.827149219634
+['12 dollar', 'bricklayer']	['90 hour']	0.330128589866
+['12 dollar', 'bricklayer']	['new house']	0.0696933362217
+['12 dollar', 'bricklayer']	['hour']	0.0432392551335
+['12 dollar', 'bricklayer']	['dollar']	0.679196039815
+['12 dollar', 'bricklayer']	['16 dollar']	0.736313764211
+['12 dollar', 'bricklayer']	['owner']	0.2445509648
+['12 dollar', 'bricklayer']	['1350 dollar']	0.525944474896
+['12 dollar', 'bricklayer']	['bricklayer work']	0.392145703491
+['12 dollar', 'bricklayer']	['work']	0.208536751501
+['12 dollar', 'bricklayer']	['electrician work']	0.0696933362217
+['hour', 'bricklayer']	['electrician']	0.487182995128
+['hour', 'bricklayer']	['90 hour']	0.306959563174
+['hour', 'bricklayer']	['new house']	0.0774382987339
+['hour', 'bricklayer']	['12 dollar']	0.0780842671024
+['hour', 'bricklayer']	['dollar']	0.25329508933
+['hour', 'bricklayer']	['16 dollar']	0.0780842671024
+['hour', 'bricklayer']	['owner']	0.179483780303
+['hour', 'bricklayer']	['1350 dollar']	0.0780842671024
+['hour', 'bricklayer']	['bricklayer work']	0.434194246688
+['hour', 'bricklayer']	['work']	0.230201201693
+['hour', 'bricklayer']	['electrician work']	0.0774382987339
+['dollar', 'bricklayer']	['electrician']	0.738087980578
+['dollar', 'bricklayer']	['90 hour']	0.0989480026901
+['dollar', 'bricklayer']	['new house']	0.0982347768443
+['dollar', 'bricklayer']	['12 dollar']	0.391516700063
+['dollar', 'bricklayer']	['hour']	0.219961755996
+['dollar', 'bricklayer']	['16 dollar']	0.391516700063
+['dollar', 'bricklayer']	['owner']	0.106436077651
+['dollar', 'bricklayer']	['1350 dollar']	0.447673452072
+['dollar', 'bricklayer']	['bricklayer work']	0.50260355993
+['dollar', 'bricklayer']	['work']	0.40995618522
+['dollar', 'bricklayer']	['electrician work']	0.0982347768443
+['16 dollar', 'bricklayer']	['electrician']	0.827149219634
+['16 dollar', 'bricklayer']	['90 hour']	0.330128589866
+['16 dollar', 'bricklayer']	['new house']	0.0696933362217
+['16 dollar', 'bricklayer']	['12 dollar']	0.736313764211
+['16 dollar', 'bricklayer']	['hour']	0.0432392551335
+['16 dollar', 'bricklayer']	['dollar']	0.679196039815
+['16 dollar', 'bricklayer']	['owner']	0.2445509648
+['16 dollar', 'bricklayer']	['1350 dollar']	0.525944474896
+['16 dollar', 'bricklayer']	['bricklayer work']	0.392145703491
+['16 dollar', 'bricklayer']	['work']	0.208536751501
+['16 dollar', 'bricklayer']	['electrician work']	0.0696933362217
+['owner', 'bricklayer']	['electrician']	0.552005125756
+['owner', 'bricklayer']	['90 hour']	0.0696933362217
+['owner', 'bricklayer']	['new house']	0.0696933362217
+['owner', 'bricklayer']	['12 dollar']	0.0696933362217
+['owner', 'bricklayer']	['hour']	0.00388540021915
+['owner', 'bricklayer']	['dollar']	0.116219606536
+['owner', 'bricklayer']	['16 dollar']	0.0696933362217
+['owner', 'bricklayer']	['1350 dollar']	0.0696933362217
+['owner', 'bricklayer']	['bricklayer work']	0.561956922064
+['owner', 'bricklayer']	['work']	0.2082897432
+['owner', 'bricklayer']	['electrician work']	0.0696933362217
+['1350 dollar', 'bricklayer']	['electrician']	0.827149219634
+['1350 dollar', 'bricklayer']	['90 hour']	0.0696933362217
+['1350 dollar', 'bricklayer']	['new house']	0.0696933362217
+['1350 dollar', 'bricklayer']	['12 dollar']	0.525944474896
+['1350 dollar', 'bricklayer']	['hour']	0.0432392551335
+['1350 dollar', 'bricklayer']	['dollar']	0.690340515548
+['1350 dollar', 'bricklayer']	['16 dollar']	0.525944474896
+['1350 dollar', 'bricklayer']	['owner']	0.2445509648
+['1350 dollar', 'bricklayer']	['bricklayer work']	0.279800024479
+['1350 dollar', 'bricklayer']	['work']	0.208536751501
+['1350 dollar', 'bricklayer']	['electrician work']	0.0696933362217
+['bricklayer work', 'bricklayer']	['electrician']	0.820347225332
+['bricklayer work', 'bricklayer']	['90 hour']	0.0696933362217
+['bricklayer work', 'bricklayer']	['new house']	0.0696933362217
+['bricklayer work', 'bricklayer']	['12 dollar']	0.0696933362217
+['bricklayer work', 'bricklayer']	['hour']	0.0241916360859
+['bricklayer work', 'bricklayer']	['dollar']	0.0831640509808
+['bricklayer work', 'bricklayer']	['16 dollar']	0.0696933362217
+['bricklayer work', 'bricklayer']	['owner']	0.245788397128
+['bricklayer work', 'bricklayer']	['1350 dollar']	0.0696933362217
+['bricklayer work', 'bricklayer']	['work']	0.652868363776
+['bricklayer work', 'bricklayer']	['electrician work']	0.499027945865
+['work', 'bricklayer']	['electrician']	0.530802196075
+['work', 'bricklayer']	['90 hour']	0.131771183904
+['work', 'bricklayer']	['new house']	0.131771183904
+['work', 'bricklayer']	['12 dollar']	0.131771183904
+['work', 'bricklayer']	['hour']	0.142898548433
+['work', 'bricklayer']	['dollar']	0.327432584521
+['work', 'bricklayer']	['16 dollar']	0.131771183904
+['work', 'bricklayer']	['owner']	0.135501785379
+['work', 'bricklayer']	['1350 dollar']	0.131771183904
+['work', 'bricklayer']	['bricklayer work']	0.681647907198
+['work', 'bricklayer']	['electrician work']	0.695866451325
+['electrician work', 'bricklayer']	['electrician']	0.628698184241
+['electrician work', 'bricklayer']	['90 hour']	0.0696933362217
+['electrician work', 'bricklayer']	['new house']	0.0696933362217
+['electrician work', 'bricklayer']	['12 dollar']	0.0696933362217
+['electrician work', 'bricklayer']	['hour']	0.0241916360859
+['electrician work', 'bricklayer']	['dollar']	0.0831640509808
+['electrician work', 'bricklayer']	['16 dollar']	0.0696933362217
+['electrician work', 'bricklayer']	['owner']	0.245788397128
+['electrician work', 'bricklayer']	['1350 dollar']	0.0696933362217
+['electrician work', 'bricklayer']	['bricklayer work']	0.69714995355
+['electrician work', 'bricklayer']	['work']	0.652868363776
+['bricklayer', 'electrician']	['90 hour']	0.131771183904
+['bricklayer', 'electrician']	['new house']	0.131771183904
+['bricklayer', 'electrician']	['12 dollar']	0.131771183904
+['bricklayer', 'electrician']	['hour']	0.0697963993795
+['bricklayer', 'electrician']	['dollar']	0.149075050141
+['bricklayer', 'electrician']	['16 dollar']	0.131771183904
+['bricklayer', 'electrician']	['owner']	0.604447474652
+['bricklayer', 'electrician']	['1350 dollar']	0.131771183904
+['bricklayer', 'electrician']	['bricklayer work']	0.596124400218
+['bricklayer', 'electrician']	['work']	0.604138922262
+['bricklayer', 'electrician']	['electrician work']	0.596124400218
+['90 hour', 'electrician']	['bricklayer']	0.827149219634
+['90 hour', 'electrician']	['new house']	0.0696933362217
+['90 hour', 'electrician']	['12 dollar']	0.330128589866
+['90 hour', 'electrician']	['hour']	0.461510460535
+['90 hour', 'electrician']	['dollar']	0.129225877866
+['90 hour', 'electrician']	['16 dollar']	0.330128589866
+['90 hour', 'electrician']	['owner']	0.832851028612
+['90 hour', 'electrician']	['1350 dollar']	0.0696933362217
+['90 hour', 'electrician']	['bricklayer work']	0.0696933362217
+['90 hour', 'electrician']	['work']	0.738039106618
+['90 hour', 'electrician']	['electrician work']	0.571373888716
+['new house', 'electrician']	['bricklayer']	0.827149219634
+['new house', 'electrician']	['90 hour']	0.0696933362217
+['new house', 'electrician']	['12 dollar']	0.0696933362217
+['new house', 'electrician']	['hour']	0.0241916360859
+['new house', 'electrician']	['dollar']	0.105959014523
+['new house', 'electrician']	['16 dollar']	0.0696933362217
+['new house', 'electrician']	['owner']	0.866184361945
+['new house', 'electrician']	['1350 dollar']	0.0696933362217
+['new house', 'electrician']	['bricklayer work']	0.0696933362217
+['new house', 'electrician']	['work']	0.710084742203
+['new house', 'electrician']	['electrician work']	0.549663130339
+['12 dollar', 'electrician']	['bricklayer']	0.827149219634
+['12 dollar', 'electrician']	['90 hour']	0.344494311863
+['12 dollar', 'electrician']	['new house']	0.0696933362217
+['12 dollar', 'electrician']	['hour']	0.0432392551335
+['12 dollar', 'electrician']	['dollar']	0.687600829927
+['12 dollar', 'electrician']	['16 dollar']	0.736313764211
+['12 dollar', 'electrician']	['owner']	0.833570746465
+['12 dollar', 'electrician']	['1350 dollar']	0.488722073866
+['12 dollar', 'electrician']	['bricklayer work']	0.0696933362217
+['12 dollar', 'electrician']	['work']	0.735171000031
+['12 dollar', 'electrician']	['electrician work']	0.571373888716
+['hour', 'electrician']	['bricklayer']	0.487182995128
+['hour', 'electrician']	['90 hour']	0.32878496
+['hour', 'electrician']	['new house']	0.0774382987339
+['hour', 'electrician']	['12 dollar']	0.0780842671024
+['hour', 'electrician']	['dollar']	0.0972440041563
+['hour', 'electrician']	['16 dollar']	0.0780842671024
+['hour', 'electrician']	['owner']	0.347228120973
+['hour', 'electrician']	['1350 dollar']	0.0780842671024
+['hour', 'electrician']	['bricklayer work']	0.0774382987339
+['hour', 'electrician']	['work']	0.100417179812
+['hour', 'electrician']	['electrician work']	0.434194246688
+['dollar', 'electrician']	['bricklayer']	0.712442612683
+['dollar', 'electrician']	['90 hour']	0.0989480026901
+['dollar', 'electrician']	['new house']	0.0982347768443
+['dollar', 'electrician']	['12 dollar']	0.391516700063
+['dollar', 'electrician']	['hour']	0.25329508933
+['dollar', 'electrician']	['16 dollar']	0.391516700063
+['dollar', 'electrician']	['owner']	0.481810864661
+['dollar', 'electrician']	['1350 dollar']	0.447673452072
+['dollar', 'electrician']	['bricklayer work']	0.0982347768443
+['dollar', 'electrician']	['work']	0.139506612182
+['dollar', 'electrician']	['electrician work']	0.50260355993
+['16 dollar', 'electrician']	['bricklayer']	0.827149219634
+['16 dollar', 'electrician']	['90 hour']	0.344494311863
+['16 dollar', 'electrician']	['new house']	0.0696933362217
+['16 dollar', 'electrician']	['12 dollar']	0.736313764211
+['16 dollar', 'electrician']	['hour']	0.0432392551335
+['16 dollar', 'electrician']	['dollar']	0.687600829927
+['16 dollar', 'electrician']	['owner']	0.833570746465
+['16 dollar', 'electrician']	['1350 dollar']	0.488722073866
+['16 dollar', 'electrician']	['bricklayer work']	0.0696933362217
+['16 dollar', 'electrician']	['work']	0.735171000031
+['16 dollar', 'electrician']	['electrician work']	0.571373888716
+['owner', 'electrician']	['bricklayer']	0.667510283117
+['owner', 'electrician']	['90 hour']	0.0696933362217
+['owner', 'electrician']	['new house']	0.0663445115919
+['owner', 'electrician']	['12 dollar']	0.0696933362217
+['owner', 'electrician']	['hour']	0.00388540021915
+['owner', 'electrician']	['dollar']	0.0809113865666
+['owner', 'electrician']	['16 dollar']	0.0696933362217
+['owner', 'electrician']	['1350 dollar']	0.0696933362217
+['owner', 'electrician']	['bricklayer work']	0.0696933362217
+['owner', 'electrician']	['work']	0.445211283706
+['owner', 'electrician']	['electrician work']	0.561956922064
+['1350 dollar', 'electrician']	['bricklayer']	0.827149219634
+['1350 dollar', 'electrician']	['90 hour']	0.0696933362217
+['1350 dollar', 'electrician']	['new house']	0.0696933362217
+['1350 dollar', 'electrician']	['12 dollar']	0.488722073866
+['1350 dollar', 'electrician']	['hour']	0.0432392551335
+['1350 dollar', 'electrician']	['dollar']	0.705340414376
+['1350 dollar', 'electrician']	['16 dollar']	0.488722073866
+['1350 dollar', 'electrician']	['owner']	0.833570746465
+['1350 dollar', 'electrician']	['bricklayer work']	0.0696933362217
+['1350 dollar', 'electrician']	['work']	0.735171000031
+['1350 dollar', 'electrician']	['electrician work']	0.549663130339
+['bricklayer work', 'electrician']	['bricklayer']	0.628698184241
+['bricklayer work', 'electrician']	['90 hour']	0.0696933362217
+['bricklayer work', 'electrician']	['new house']	0.0696933362217
+['bricklayer work', 'electrician']	['12 dollar']	0.0696933362217
+['bricklayer work', 'electrician']	['hour']	0.0241916360859
+['bricklayer work', 'electrician']	['dollar']	0.105959014523
+['bricklayer work', 'electrician']	['16 dollar']	0.0696933362217
+['bricklayer work', 'electrician']	['owner']	0.824622993608
+['bricklayer work', 'electrician']	['1350 dollar']	0.0696933362217
+['bricklayer work', 'electrician']	['work']	0.761276547679
+['bricklayer work', 'electrician']	['electrician work']	0.725259283595
+['work', 'electrician']	['bricklayer']	0.770777907476
+['work', 'electrician']	['90 hour']	0.131771183904
+['work', 'electrician']	['new house']	0.131771183904
+['work', 'electrician']	['12 dollar']	0.131771183904
+['work', 'electrician']	['hour']	0.1987515006
+['work', 'electrician']	['dollar']	0.207874949591
+['work', 'electrician']	['16 dollar']	0.131771183904
+['work', 'electrician']	['owner']	0.604447474652
+['work', 'electrician']	['1350 dollar']	0.131771183904
+['work', 'electrician']	['bricklayer work']	0.702167129668
+['work', 'electrician']	['electrician work']	0.672185147735
+['electrician work', 'electrician']	['bricklayer']	0.820347225332
+['electrician work', 'electrician']	['90 hour']	0.0696933362217
+['electrician work', 'electrician']	['new house']	0.0696933362217
+['electrician work', 'electrician']	['12 dollar']	0.0696933362217
+['electrician work', 'electrician']	['hour']	0.0241916360859
+['electrician work', 'electrician']	['dollar']	0.105959014523
+['electrician work', 'electrician']	['16 dollar']	0.0696933362217
+['electrician work', 'electrician']	['owner']	0.824622993608
+['electrician work', 'electrician']	['1350 dollar']	0.0696933362217
+['electrician work', 'electrician']	['bricklayer work']	0.521255982425
+['electrician work', 'electrician']	['work']	0.761276547679
+['bricklayer', '90 hour']	['electrician']	0.827149219634
+['bricklayer', '90 hour']	['new house']	0.0696933362217
+['bricklayer', '90 hour']	['12 dollar']	0.330128589866
+['bricklayer', '90 hour']	['hour']	0.461510460535
+['bricklayer', '90 hour']	['dollar']	0.0996401804851
+['bricklayer', '90 hour']	['16 dollar']	0.330128589866
+['bricklayer', '90 hour']	['owner']	0.308646061762
+['bricklayer', '90 hour']	['1350 dollar']	0.0696933362217
+['bricklayer', '90 hour']	['bricklayer work']	0.392145703491
+['bricklayer', '90 hour']	['work']	0.224064331366
+['bricklayer', '90 hour']	['electrician work']	0.0696933362217
+['electrician', '90 hour']	['bricklayer']	0.827149219634
+['electrician', '90 hour']	['new house']	0.0696933362217
+['electrician', '90 hour']	['12 dollar']	0.330128589866
+['electrician', '90 hour']	['hour']	0.461510460535
+['electrician', '90 hour']	['dollar']	0.129225877866
+['electrician', '90 hour']	['16 dollar']	0.330128589866
+['electrician', '90 hour']	['owner']	0.832851028612
+['electrician', '90 hour']	['1350 dollar']	0.0696933362217
+['electrician', '90 hour']	['bricklayer work']	0.0696933362217
+['electrician', '90 hour']	['work']	0.738039106618
+['electrician', '90 hour']	['electrician work']	0.571373888716
+['new house', '90 hour']	['bricklayer']	0.079730351659
+['new house', '90 hour']	['electrician']	0.0774561735493
+['new house', '90 hour']	['12 dollar']	0.362256416006
+['new house', '90 hour']	['hour']	0.205067872178
+['new house', '90 hour']	['dollar']	0.0132263547461
+['new house', '90 hour']	['16 dollar']	0.362256416006
+['new house', '90 hour']	['owner']	0.0744376594044
+['new house', '90 hour']	['1350 dollar']	0.0901100077042
+['new house', '90 hour']	['bricklayer work']	0.0827346205535
+['new house', '90 hour']	['work']	0.0774561735493
+['new house', '90 hour']	['electrician work']	0.0827346205535
+['12 dollar', '90 hour']	['bricklayer']	0.079730351659
+['12 dollar', '90 hour']	['electrician']	0.0774561735493
+['12 dollar', '90 hour']	['new house']	0.0901100077042
+['12 dollar', '90 hour']	['hour']	0.221317293508
+['12 dollar', '90 hour']	['dollar']	0.388108272712
+['12 dollar', '90 hour']	['16 dollar']	0.837596040951
+['12 dollar', '90 hour']	['owner']	0.0777864840342
+['12 dollar', '90 hour']	['1350 dollar']	0.584269096576
+['12 dollar', '90 hour']	['bricklayer work']	0.0827346205535
+['12 dollar', '90 hour']	['work']	0.0774561735493
+['12 dollar', '90 hour']	['electrician work']	0.0827346205535
+['hour', '90 hour']	['bricklayer']	0.222530074433
+['hour', '90 hour']	['electrician']	0.222530074433
+['hour', '90 hour']	['new house']	0.11034390648
+['hour', '90 hour']	['12 dollar']	0.422859392162
+['hour', '90 hour']	['dollar']	0.323988655023
+['hour', '90 hour']	['16 dollar']	0.422859392162
+['hour', '90 hour']	['owner']	0.262510884751
+['hour', '90 hour']	['1350 dollar']	0.125024962568
+['hour', '90 hour']	['bricklayer work']	0.11034390648
+['hour', '90 hour']	['work']	0.394750566893
+['hour', '90 hour']	['electrician work']	0.11034390648
+['dollar', '90 hour']	['bricklayer']	0.11086262958
+['dollar', '90 hour']	['electrician']	0.127039565523
+['dollar', '90 hour']	['new house']	0.0361569291624
+['dollar', '90 hour']	['12 dollar']	0.565841479934
+['dollar', '90 hour']	['hour']	0.568148837629
+['dollar', '90 hour']	['16 dollar']	0.565841479934
+['dollar', '90 hour']	['owner']	0.218615069598
+['dollar', '90 hour']	['1350 dollar']	0.442012633359
+['dollar', '90 hour']	['bricklayer work']	0.0361569291624
+['dollar', '90 hour']	['work']	0.446177202474
+['dollar', '90 hour']	['electrician work']	0.0361569291624
+['16 dollar', '90 hour']	['bricklayer']	0.079730351659
+['16 dollar', '90 hour']	['electrician']	0.0774561735493
+['16 dollar', '90 hour']	['new house']	0.0901100077042
+['16 dollar', '90 hour']	['12 dollar']	0.837596040951
+['16 dollar', '90 hour']	['hour']	0.221317293508
+['16 dollar', '90 hour']	['dollar']	0.388108272712
+['16 dollar', '90 hour']	['owner']	0.0777864840342
+['16 dollar', '90 hour']	['1350 dollar']	0.584269096576
+['16 dollar', '90 hour']	['bricklayer work']	0.0827346205535
+['16 dollar', '90 hour']	['work']	0.0774561735493
+['16 dollar', '90 hour']	['electrician work']	0.0827346205535
+['owner', '90 hour']	['bricklayer']	0.252619893256
+['owner', '90 hour']	['electrician']	0.850796462747
+['owner', '90 hour']	['new house']	0.0827346205535
+['owner', '90 hour']	['12 dollar']	0.422016612763
+['owner', '90 hour']	['hour']	0.428177127202
+['owner', '90 hour']	['dollar']	0.172742085802
+['owner', '90 hour']	['16 dollar']	0.422016612763
+['owner', '90 hour']	['1350 dollar']	0.0827346205535
+['owner', '90 hour']	['bricklayer work']	0.0827346205535
+['owner', '90 hour']	['work']	0.221442431604
+['owner', '90 hour']	['electrician work']	0.0827346205535
+['1350 dollar', '90 hour']	['bricklayer']	0.079730351659
+['1350 dollar', '90 hour']	['electrician']	0.0774561735493
+['1350 dollar', '90 hour']	['new house']	0.0901100077042
+['1350 dollar', '90 hour']	['12 dollar']	0.754360422532
+['1350 dollar', '90 hour']	['hour']	0.221317293508
+['1350 dollar', '90 hour']	['dollar']	0.500847544769
+['1350 dollar', '90 hour']	['16 dollar']	0.754360422532
+['1350 dollar', '90 hour']	['owner']	0.0777864840342
+['1350 dollar', '90 hour']	['bricklayer work']	0.0827346205535
+['1350 dollar', '90 hour']	['work']	0.0774561735493
+['1350 dollar', '90 hour']	['electrician work']	0.0827346205535
+['bricklayer work', '90 hour']	['bricklayer']	0.285714531579
+['bricklayer work', '90 hour']	['electrician']	0.0774561735493
+['bricklayer work', '90 hour']	['new house']	0.0901100077042
+['bricklayer work', '90 hour']	['12 dollar']	0.390490368434
+['bricklayer work', '90 hour']	['hour']	0.205067872178
+['bricklayer work', '90 hour']	['dollar']	0.0132263547461
+['bricklayer work', '90 hour']	['16 dollar']	0.390490368434
+['bricklayer work', '90 hour']	['owner']	0.0777864840342
+['bricklayer work', '90 hour']	['1350 dollar']	0.0901100077042
+['bricklayer work', '90 hour']	['work']	0.653738463029
+['bricklayer work', '90 hour']	['electrician work']	0.552490398312
+['work', '90 hour']	['bricklayer']	0.208536751501
+['work', '90 hour']	['electrician']	0.746794143912
+['work', '90 hour']	['new house']	0.0737139440912
+['work', '90 hour']	['12 dollar']	0.291118889704
+['work', '90 hour']	['hour']	0.502264746745
+['work', '90 hour']	['dollar']	0.354376067625
+['work', '90 hour']	['16 dollar']	0.291118889704
+['work', '90 hour']	['owner']	0.213491692994
+['work', '90 hour']	['1350 dollar']	0.0737139440912
+['work', '90 hour']	['bricklayer work']	0.687529833909
+['work', '90 hour']	['electrician work']	0.687529833909
+['electrician work', '90 hour']	['bricklayer']	0.079730351659
+['electrician work', '90 hour']	['electrician']	0.465562097424
+['electrician work', '90 hour']	['new house']	0.0901100077042
+['electrician work', '90 hour']	['12 dollar']	0.390490368434
+['electrician work', '90 hour']	['hour']	0.205067872178
+['electrician work', '90 hour']	['dollar']	0.0132263547461
+['electrician work', '90 hour']	['16 dollar']	0.390490368434
+['electrician work', '90 hour']	['owner']	0.0777864840342
+['electrician work', '90 hour']	['1350 dollar']	0.0901100077042
+['electrician work', '90 hour']	['bricklayer work']	0.552490398312
+['electrician work', '90 hour']	['work']	0.653738463029
+['bricklayer', 'new house']	['electrician']	0.801223293708
+['bricklayer', 'new house']	['90 hour']	0.0696933362217
+['bricklayer', 'new house']	['12 dollar']	0.0696933362217
+['bricklayer', 'new house']	['hour']	0.0241916360859
+['bricklayer', 'new house']	['dollar']	0.0831640509808
+['bricklayer', 'new house']	['16 dollar']	0.0696933362217
+['bricklayer', 'new house']	['owner']	0.306678330646
+['bricklayer', 'new house']	['1350 dollar']	0.0696933362217
+['bricklayer', 'new house']	['bricklayer work']	0.279800024479
+['bricklayer', 'new house']	['work']	0.209788656728
+['bricklayer', 'new house']	['electrician work']	0.0696933362217
+['electrician', 'new house']	['bricklayer']	0.827149219634
+['electrician', 'new house']	['90 hour']	0.0696933362217
+['electrician', 'new house']	['12 dollar']	0.0696933362217
+['electrician', 'new house']	['hour']	0.0241916360859
+['electrician', 'new house']	['dollar']	0.105959014523
+['electrician', 'new house']	['16 dollar']	0.0696933362217
+['electrician', 'new house']	['owner']	0.866184361945
+['electrician', 'new house']	['1350 dollar']	0.0696933362217
+['electrician', 'new house']	['bricklayer work']	0.0696933362217
+['electrician', 'new house']	['work']	0.710084742203
+['electrician', 'new house']	['electrician work']	0.549663130339
+['90 hour', 'new house']	['bricklayer']	0.079730351659
+['90 hour', 'new house']	['electrician']	0.0774561735493
+['90 hour', 'new house']	['12 dollar']	0.362256416006
+['90 hour', 'new house']	['hour']	0.205067872178
+['90 hour', 'new house']	['dollar']	0.0132263547461
+['90 hour', 'new house']	['16 dollar']	0.362256416006
+['90 hour', 'new house']	['owner']	0.0744376594044
+['90 hour', 'new house']	['1350 dollar']	0.0901100077042
+['90 hour', 'new house']	['bricklayer work']	0.0827346205535
+['90 hour', 'new house']	['work']	0.0774561735493
+['90 hour', 'new house']	['electrician work']	0.0827346205535
+['12 dollar', 'new house']	['bricklayer']	0.079730351659
+['12 dollar', 'new house']	['electrician']	0.0774561735493
+['12 dollar', 'new house']	['90 hour']	0.362256416006
+['12 dollar', 'new house']	['hour']	0.00424649792755
+['12 dollar', 'new house']	['dollar']	0.306370088568
+['12 dollar', 'new house']	['16 dollar']	0.754360422532
+['12 dollar', 'new house']	['owner']	0.0744376594044
+['12 dollar', 'new house']	['1350 dollar']	0.584269096576
+['12 dollar', 'new house']	['bricklayer work']	0.0827346205535
+['12 dollar', 'new house']	['work']	0.0774561735493
+['12 dollar', 'new house']	['electrician work']	0.0827346205535
+['hour', 'new house']	['bricklayer']	0.0401288657365
+['hour', 'new house']	['electrician']	0.0401288657365
+['hour', 'new house']	['90 hour']	0.321774377989
+['hour', 'new house']	['12 dollar']	0.0160064194205
+['hour', 'new house']	['dollar']	0.205654674189
+['hour', 'new house']	['16 dollar']	0.0160064194205
+['hour', 'new house']	['owner']	0.0629154860797
+['hour', 'new house']	['1350 dollar']	0.0160064194205
+['hour', 'new house']	['bricklayer work']	0.015360451052
+['hour', 'new house']	['work']	0.180887959529
+['hour', 'new house']	['electrician work']	0.015360451052
+['dollar', 'new house']	['bricklayer']	0.11086262958
+['dollar', 'new house']	['electrician']	0.127039565523
+['dollar', 'new house']	['90 hour']	0.0368028975308
+['dollar', 'new house']	['12 dollar']	0.391516700063
+['dollar', 'new house']	['hour']	0.205654674189
+['dollar', 'new house']	['16 dollar']	0.391516700063
+['dollar', 'new house']	['owner']	0.218682327076
+['dollar', 'new house']	['1350 dollar']	0.442012633359
+['dollar', 'new house']	['bricklayer work']	0.0361569291624
+['dollar', 'new house']	['work']	0.442350278736
+['dollar', 'new house']	['electrician work']	0.0361569291624
+['16 dollar', 'new house']	['bricklayer']	0.079730351659
+['16 dollar', 'new house']	['electrician']	0.0774561735493
+['16 dollar', 'new house']	['90 hour']	0.362256416006
+['16 dollar', 'new house']	['12 dollar']	0.754360422532
+['16 dollar', 'new house']	['hour']	0.00424649792755
+['16 dollar', 'new house']	['dollar']	0.306370088568
+['16 dollar', 'new house']	['owner']	0.0744376594044
+['16 dollar', 'new house']	['1350 dollar']	0.584269096576
+['16 dollar', 'new house']	['bricklayer work']	0.0827346205535
+['16 dollar', 'new house']	['work']	0.0774561735493
+['16 dollar', 'new house']	['electrician work']	0.0827346205535
+['owner', 'new house']	['bricklayer']	0.252619893256
+['owner', 'new house']	['electrician']	0.824870536821
+['owner', 'new house']	['90 hour']	0.0827346205535
+['owner', 'new house']	['12 dollar']	0.0827346205535
+['owner', 'new house']	['hour']	0.0360329285057
+['owner', 'new house']	['dollar']	0.151610169111
+['owner', 'new house']	['16 dollar']	0.0827346205535
+['owner', 'new house']	['1350 dollar']	0.0827346205535
+['owner', 'new house']	['bricklayer work']	0.0827346205535
+['owner', 'new house']	['work']	0.19603525097
+['owner', 'new house']	['electrician work']	0.0827346205535
+['1350 dollar', 'new house']	['bricklayer']	0.079730351659
+['1350 dollar', 'new house']	['electrician']	0.0774561735493
+['1350 dollar', 'new house']	['90 hour']	0.0901100077042
+['1350 dollar', 'new house']	['12 dollar']	0.584269096576
+['1350 dollar', 'new house']	['hour']	0.00424649792755
+['1350 dollar', 'new house']	['dollar']	0.351161209422
+['1350 dollar', 'new house']	['16 dollar']	0.584269096576
+['1350 dollar', 'new house']	['owner']	0.0744376594044
+['1350 dollar', 'new house']	['bricklayer work']	0.0901100077042
+['1350 dollar', 'new house']	['work']	0.0774561735493
+['1350 dollar', 'new house']	['electrician work']	0.0901100077042
+['bricklayer work', 'new house']	['bricklayer']	0.465562097424
+['bricklayer work', 'new house']	['electrician']	0.0774561735493
+['bricklayer work', 'new house']	['90 hour']	0.0827346205535
+['bricklayer work', 'new house']	['12 dollar']	0.0827346205535
+['bricklayer work', 'new house']	['hour']	0.0101131233914
+['bricklayer work', 'new house']	['dollar']	0.0179192712897
+['bricklayer work', 'new house']	['16 dollar']	0.0827346205535
+['bricklayer work', 'new house']	['owner']	0.0777864840342
+['bricklayer work', 'new house']	['1350 dollar']	0.0901100077042
+['bricklayer work', 'new house']	['work']	0.648240712829
+['bricklayer work', 'new house']	['electrician work']	0.578891755681
+['work', 'new house']	['bricklayer']	0.208536751501
+['work', 'new house']	['electrician']	0.735171000031
+['work', 'new house']	['90 hour']	0.0737139440912
+['work', 'new house']	['12 dollar']	0.0737139440912
+['work', 'new house']	['hour']	0.1079586666
+['work', 'new house']	['dollar']	0.322186645359
+['work', 'new house']	['16 dollar']	0.0737139440912
+['work', 'new house']	['owner']	0.211523961879
+['work', 'new house']	['1350 dollar']	0.0737139440912
+['work', 'new house']	['bricklayer work']	0.68687409652
+['work', 'new house']	['electrician work']	0.68687409652
+['electrician work', 'new house']	['bricklayer']	0.079730351659
+['electrician work', 'new house']	['electrician']	0.483463331992
+['electrician work', 'new house']	['90 hour']	0.0827346205535
+['electrician work', 'new house']	['12 dollar']	0.0827346205535
+['electrician work', 'new house']	['hour']	0.0101131233914
+['electrician work', 'new house']	['dollar']	0.0179192712897
+['electrician work', 'new house']	['16 dollar']	0.0827346205535
+['electrician work', 'new house']	['owner']	0.0777864840342
+['electrician work', 'new house']	['1350 dollar']	0.0901100077042
+['electrician work', 'new house']	['bricklayer work']	0.578891755681
+['electrician work', 'new house']	['work']	0.648240712829
+['bricklayer', '12 dollar']	['electrician']	0.827149219634
+['bricklayer', '12 dollar']	['90 hour']	0.330128589866
+['bricklayer', '12 dollar']	['new house']	0.0696933362217
+['bricklayer', '12 dollar']	['hour']	0.0432392551335
+['bricklayer', '12 dollar']	['dollar']	0.679196039815
+['bricklayer', '12 dollar']	['16 dollar']	0.736313764211
+['bricklayer', '12 dollar']	['owner']	0.2445509648
+['bricklayer', '12 dollar']	['1350 dollar']	0.525944474896
+['bricklayer', '12 dollar']	['bricklayer work']	0.392145703491
+['bricklayer', '12 dollar']	['work']	0.208536751501
+['bricklayer', '12 dollar']	['electrician work']	0.0696933362217
+['electrician', '12 dollar']	['bricklayer']	0.827149219634
+['electrician', '12 dollar']	['90 hour']	0.344494311863
+['electrician', '12 dollar']	['new house']	0.0696933362217
+['electrician', '12 dollar']	['hour']	0.0432392551335
+['electrician', '12 dollar']	['dollar']	0.687600829927
+['electrician', '12 dollar']	['16 dollar']	0.736313764211
+['electrician', '12 dollar']	['owner']	0.833570746465
+['electrician', '12 dollar']	['1350 dollar']	0.488722073866
+['electrician', '12 dollar']	['bricklayer work']	0.0696933362217
+['electrician', '12 dollar']	['work']	0.735171000031
+['electrician', '12 dollar']	['electrician work']	0.571373888716
+['90 hour', '12 dollar']	['bricklayer']	0.079730351659
+['90 hour', '12 dollar']	['electrician']	0.0774561735493
+['90 hour', '12 dollar']	['new house']	0.0901100077042
+['90 hour', '12 dollar']	['hour']	0.221317293508
+['90 hour', '12 dollar']	['dollar']	0.388108272712
+['90 hour', '12 dollar']	['16 dollar']	0.837596040951
+['90 hour', '12 dollar']	['owner']	0.0777864840342
+['90 hour', '12 dollar']	['1350 dollar']	0.584269096576
+['90 hour', '12 dollar']	['bricklayer work']	0.0827346205535
+['90 hour', '12 dollar']	['work']	0.0774561735493
+['90 hour', '12 dollar']	['electrician work']	0.0827346205535
+['new house', '12 dollar']	['bricklayer']	0.079730351659
+['new house', '12 dollar']	['electrician']	0.0774561735493
+['new house', '12 dollar']	['90 hour']	0.362256416006
+['new house', '12 dollar']	['hour']	0.00424649792755
+['new house', '12 dollar']	['dollar']	0.306370088568
+['new house', '12 dollar']	['16 dollar']	0.754360422532
+['new house', '12 dollar']	['owner']	0.0744376594044
+['new house', '12 dollar']	['1350 dollar']	0.584269096576
+['new house', '12 dollar']	['bricklayer work']	0.0827346205535
+['new house', '12 dollar']	['work']	0.0774561735493
+['new house', '12 dollar']	['electrician work']	0.0827346205535
+['hour', '12 dollar']	['bricklayer']	0.0401288657365
+['hour', '12 dollar']	['electrician']	0.0401288657365
+['hour', '12 dollar']	['90 hour']	0.360979763274
+['hour', '12 dollar']	['new house']	0.015360451052
+['hour', '12 dollar']	['dollar']	0.584815504296
+['hour', '12 dollar']	['16 dollar']	0.403884837601
+['hour', '12 dollar']	['owner']	0.0429154860797
+['hour', '12 dollar']	['1350 dollar']	0.0852471420558
+['hour', '12 dollar']	['bricklayer work']	0.015360451052
+['hour', '12 dollar']	['work']	0.206150278293
+['hour', '12 dollar']	['electrician work']	0.015360451052
+['dollar', '12 dollar']	['bricklayer']	0.298546746969
+['dollar', '12 dollar']	['electrician']	0.319456954889
+['dollar', '12 dollar']	['90 hour']	0.556009941538
+['dollar', '12 dollar']	['new house']	0.0968024870635
+['dollar', '12 dollar']	['hour']	0.323988655023
+['dollar', '12 dollar']	['16 dollar']	0.667149997161
+['dollar', '12 dollar']	['owner']	0.357155367588
+['dollar', '12 dollar']	['1350 dollar']	0.676555862245
+['dollar', '12 dollar']	['bricklayer work']	0.0968024870635
+['dollar', '12 dollar']	['work']	0.501675973714
+['dollar', '12 dollar']	['electrician work']	0.0968024870635
+['16 dollar', '12 dollar']	['bricklayer']	0.33665242287
+['16 dollar', '12 dollar']	['electrician']	0.33665242287
+['16 dollar', '12 dollar']	['90 hour']	0.679208007308
+['16 dollar', '12 dollar']	['new house']	0.139258682248
+['16 dollar', '12 dollar']	['hour']	0.156901862603
+['16 dollar', '12 dollar']	['dollar']	0.693038862582
+['16 dollar', '12 dollar']	['owner']	0.327028499836
+['16 dollar', '12 dollar']	['1350 dollar']	0.637144068101
+['16 dollar', '12 dollar']	['bricklayer work']	0.153587928078
+['16 dollar', '12 dollar']	['work']	0.345269105941
+['16 dollar', '12 dollar']	['electrician work']	0.153587928078
+['owner', '12 dollar']	['bricklayer']	0.252619893256
+['owner', '12 dollar']	['electrician']	0.850796462747
+['owner', '12 dollar']	['90 hour']	0.422016612763
+['owner', '12 dollar']	['new house']	0.0827346205535
+['owner', '12 dollar']	['hour']	0.0504883359442
+['owner', '12 dollar']	['dollar']	0.656586827151
+['owner', '12 dollar']	['16 dollar']	0.760386850763
+['owner', '12 dollar']	['1350 dollar']	0.549852778125
+['owner', '12 dollar']	['bricklayer work']	0.0827346205535
+['owner', '12 dollar']	['work']	0.192648399091
+['owner', '12 dollar']	['electrician work']	0.0827346205535
+['1350 dollar', '12 dollar']	['bricklayer']	0.33665242287
+['1350 dollar', '12 dollar']	['electrician']	0.33665242287
+['1350 dollar', '12 dollar']	['90 hour']	0.59564157713
+['1350 dollar', '12 dollar']	['new house']	0.139258682248
+['1350 dollar', '12 dollar']	['hour']	0.156901862603
+['1350 dollar', '12 dollar']	['dollar']	0.67956664036
+['1350 dollar', '12 dollar']	['16 dollar']	0.862138942741
+['1350 dollar', '12 dollar']	['owner']	0.327028499836
+['1350 dollar', '12 dollar']	['bricklayer work']	0.14589133531
+['1350 dollar', '12 dollar']	['work']	0.345269105941
+['1350 dollar', '12 dollar']	['electrician work']	0.14589133531
+['bricklayer work', '12 dollar']	['bricklayer']	0.225714531579
+['bricklayer work', '12 dollar']	['electrician']	0.079730351659
+['bricklayer work', '12 dollar']	['90 hour']	0.390490368434
+['bricklayer work', '12 dollar']	['new house']	0.0901100077042
+['bricklayer work', '12 dollar']	['hour']	0.00424649792755
+['bricklayer work', '12 dollar']	['dollar']	0.306370088568
+['bricklayer work', '12 dollar']	['16 dollar']	0.754360422532
+['bricklayer work', '12 dollar']	['owner']	0.0777864840342
+['bricklayer work', '12 dollar']	['1350 dollar']	0.584269096576
+['bricklayer work', '12 dollar']	['work']	0.650955657599
+['bricklayer work', '12 dollar']	['electrician work']	0.552490398312
+['work', '12 dollar']	['bricklayer']	0.208536751501
+['work', '12 dollar']	['electrician']	0.746794143912
+['work', '12 dollar']	['90 hour']	0.291118889704
+['work', '12 dollar']	['new house']	0.0737139440912
+['work', '12 dollar']	['hour']	0.0880195201624
+['work', '12 dollar']	['dollar']	0.718359346772
+['work', '12 dollar']	['16 dollar']	0.736313764211
+['work', '12 dollar']	['owner']	0.182729929366
+['work', '12 dollar']	['1350 dollar']	0.522652815483
+['work', '12 dollar']	['bricklayer work']	0.687529833909
+['work', '12 dollar']	['electrician work']	0.687529833909
+['electrician work', '12 dollar']	['bricklayer']	0.079730351659
+['electrician work', '12 dollar']	['electrician']	0.285714531579
+['electrician work', '12 dollar']	['90 hour']	0.390490368434
+['electrician work', '12 dollar']	['new house']	0.0901100077042
+['electrician work', '12 dollar']	['hour']	0.00424649792755
+['electrician work', '12 dollar']	['dollar']	0.306370088568
+['electrician work', '12 dollar']	['16 dollar']	0.754360422532
+['electrician work', '12 dollar']	['owner']	0.0777864840342
+['electrician work', '12 dollar']	['1350 dollar']	0.584269096576
+['electrician work', '12 dollar']	['bricklayer work']	0.552490398312
+['electrician work', '12 dollar']	['work']	0.650955657599
+['bricklayer', 'hour']	['electrician']	0.487182995128
+['bricklayer', 'hour']	['90 hour']	0.306959563174
+['bricklayer', 'hour']	['new house']	0.0774382987339
+['bricklayer', 'hour']	['12 dollar']	0.0780842671024
+['bricklayer', 'hour']	['dollar']	0.25329508933
+['bricklayer', 'hour']	['16 dollar']	0.0780842671024
+['bricklayer', 'hour']	['owner']	0.179483780303
+['bricklayer', 'hour']	['1350 dollar']	0.0780842671024
+['bricklayer', 'hour']	['bricklayer work']	0.434194246688
+['bricklayer', 'hour']	['work']	0.230201201693
+['bricklayer', 'hour']	['electrician work']	0.0774382987339
+['electrician', 'hour']	['bricklayer']	0.487182995128
+['electrician', 'hour']	['90 hour']	0.32878496
+['electrician', 'hour']	['new house']	0.0774382987339
+['electrician', 'hour']	['12 dollar']	0.0780842671024
+['electrician', 'hour']	['dollar']	0.0972440041563
+['electrician', 'hour']	['16 dollar']	0.0780842671024
+['electrician', 'hour']	['owner']	0.347228120973
+['electrician', 'hour']	['1350 dollar']	0.0780842671024
+['electrician', 'hour']	['bricklayer work']	0.0774382987339
+['electrician', 'hour']	['work']	0.100417179812
+['electrician', 'hour']	['electrician work']	0.434194246688
+['90 hour', 'hour']	['bricklayer']	0.222530074433
+['90 hour', 'hour']	['electrician']	0.222530074433
+['90 hour', 'hour']	['new house']	0.11034390648
+['90 hour', 'hour']	['12 dollar']	0.422859392162
+['90 hour', 'hour']	['dollar']	0.323988655023
+['90 hour', 'hour']	['16 dollar']	0.422859392162
+['90 hour', 'hour']	['owner']	0.262510884751
+['90 hour', 'hour']	['1350 dollar']	0.125024962568
+['90 hour', 'hour']	['bricklayer work']	0.11034390648
+['90 hour', 'hour']	['work']	0.394750566893
+['90 hour', 'hour']	['electrician work']	0.11034390648
+['new house', 'hour']	['bricklayer']	0.0401288657365
+['new house', 'hour']	['electrician']	0.0401288657365
+['new house', 'hour']	['90 hour']	0.321774377989
+['new house', 'hour']	['12 dollar']	0.0160064194205
+['new house', 'hour']	['dollar']	0.205654674189
+['new house', 'hour']	['16 dollar']	0.0160064194205
+['new house', 'hour']	['owner']	0.0629154860797
+['new house', 'hour']	['1350 dollar']	0.0160064194205
+['new house', 'hour']	['bricklayer work']	0.015360451052
+['new house', 'hour']	['work']	0.180887959529
+['new house', 'hour']	['electrician work']	0.015360451052
+['12 dollar', 'hour']	['bricklayer']	0.0401288657365
+['12 dollar', 'hour']	['electrician']	0.0401288657365
+['12 dollar', 'hour']	['90 hour']	0.360979763274
+['12 dollar', 'hour']	['new house']	0.015360451052
+['12 dollar', 'hour']	['dollar']	0.584815504296
+['12 dollar', 'hour']	['16 dollar']	0.403884837601
+['12 dollar', 'hour']	['owner']	0.0429154860797
+['12 dollar', 'hour']	['1350 dollar']	0.0852471420558
+['12 dollar', 'hour']	['bricklayer work']	0.015360451052
+['12 dollar', 'hour']	['work']	0.206150278293
+['12 dollar', 'hour']	['electrician work']	0.015360451052
+['dollar', 'hour']	['bricklayer']	0.0697963993795
+['dollar', 'hour']	['electrician']	0.0901026352463
+['dollar', 'hour']	['90 hour']	0.268090491062
+['dollar', 'hour']	['new house']	0.0701566548569
+['dollar', 'hour']	['12 dollar']	0.272919550891
+['dollar', 'hour']	['16 dollar']	0.272919550891
+['dollar', 'hour']	['owner']	0.0997933545841
+['dollar', 'hour']	['1350 dollar']	0.408636417552
+['dollar', 'hour']	['bricklayer work']	0.0701566548569
+['dollar', 'hour']	['work']	0.109679176442
+['dollar', 'hour']	['electrician work']	0.0701566548569
+['16 dollar', 'hour']	['bricklayer']	0.0401288657365
+['16 dollar', 'hour']	['electrician']	0.0401288657365
+['16 dollar', 'hour']	['90 hour']	0.360979763274
+['16 dollar', 'hour']	['new house']	0.015360451052
+['16 dollar', 'hour']	['12 dollar']	0.403884837601
+['16 dollar', 'hour']	['dollar']	0.584815504296
+['16 dollar', 'hour']	['owner']	0.0429154860797
+['16 dollar', 'hour']	['1350 dollar']	0.0852471420558
+['16 dollar', 'hour']	['bricklayer work']	0.015360451052
+['16 dollar', 'hour']	['work']	0.206150278293
+['16 dollar', 'hour']	['electrician work']	0.015360451052
+['owner', 'hour']	['bricklayer']	0.0444790615621
+['owner', 'hour']	['electrician']	0.27892276121
+['owner', 'hour']	['90 hour']	0.32878496
+['owner', 'hour']	['new house']	0.015360451052
+['owner', 'hour']	['12 dollar']	0.0160064194205
+['owner', 'hour']	['dollar']	0.0644356052061
+['owner', 'hour']	['16 dollar']	0.0160064194205
+['owner', 'hour']	['1350 dollar']	0.0160064194205
+['owner', 'hour']	['bricklayer work']	0.015360451052
+['owner', 'hour']	['work']	0.100574106218
+['owner', 'hour']	['electrician work']	0.015360451052
+['1350 dollar', 'hour']	['bricklayer']	0.0401288657365
+['1350 dollar', 'hour']	['electrician']	0.0401288657365
+['1350 dollar', 'hour']	['90 hour']	0.321774377989
+['1350 dollar', 'hour']	['new house']	0.015360451052
+['1350 dollar', 'hour']	['12 dollar']	0.0852471420558
+['1350 dollar', 'hour']	['dollar']	0.524860968519
+['1350 dollar', 'hour']	['16 dollar']	0.0852471420558
+['1350 dollar', 'hour']	['owner']	0.0429154860797
+['1350 dollar', 'hour']	['bricklayer work']	0.015360451052
+['1350 dollar', 'hour']	['work']	0.206150278293
+['1350 dollar', 'hour']	['electrician work']	0.015360451052
+['bricklayer work', 'hour']	['bricklayer']	0.210676138897
+['bricklayer work', 'hour']	['electrician']	0.0389235060065
+['bricklayer work', 'hour']	['90 hour']	0.306959563174
+['bricklayer work', 'hour']	['new house']	0.015360451052
+['bricklayer work', 'hour']	['12 dollar']	0.0160064194205
+['bricklayer work', 'hour']	['dollar']	0.205654674189
+['bricklayer work', 'hour']	['16 dollar']	0.0160064194205
+['bricklayer work', 'hour']	['owner']	0.0429475586777
+['bricklayer work', 'hour']	['1350 dollar']	0.0160064194205
+['bricklayer work', 'hour']	['work']	0.449430565589
+['bricklayer work', 'hour']	['electrician work']	0.1652320591
+['work', 'hour']	['bricklayer']	0.0923359383272
+['work', 'hour']	['electrician']	0.250283703216
+['work', 'hour']	['90 hour']	0.321774377989
+['work', 'hour']	['new house']	0.0774382987339
+['work', 'hour']	['12 dollar']	0.0780842671024
+['work', 'hour']	['dollar']	0.0746237024124
+['work', 'hour']	['16 dollar']	0.0780842671024
+['work', 'hour']	['owner']	0.105953434766
+['work', 'hour']	['1350 dollar']	0.0780842671024
+['work', 'hour']	['bricklayer work']	0.326322256687
+['work', 'hour']	['electrician work']	0.326322256687
+['electrician work', 'hour']	['bricklayer']	0.0389235060065
+['electrician work', 'hour']	['electrician']	0.210676138897
+['electrician work', 'hour']	['90 hour']	0.306959563174
+['electrician work', 'hour']	['new house']	0.015360451052
+['electrician work', 'hour']	['12 dollar']	0.0160064194205
+['electrician work', 'hour']	['dollar']	0.205654674189
+['electrician work', 'hour']	['16 dollar']	0.0160064194205
+['electrician work', 'hour']	['owner']	0.0429475586777
+['electrician work', 'hour']	['1350 dollar']	0.0160064194205
+['electrician work', 'hour']	['bricklayer work']	0.1652320591
+['electrician work', 'hour']	['work']	0.449430565589
+['bricklayer', 'dollar']	['electrician']	0.738087980578
+['bricklayer', 'dollar']	['90 hour']	0.0989480026901
+['bricklayer', 'dollar']	['new house']	0.0982347768443
+['bricklayer', 'dollar']	['12 dollar']	0.391516700063
+['bricklayer', 'dollar']	['hour']	0.219961755996
+['bricklayer', 'dollar']	['16 dollar']	0.391516700063
+['bricklayer', 'dollar']	['owner']	0.106436077651
+['bricklayer', 'dollar']	['1350 dollar']	0.447673452072
+['bricklayer', 'dollar']	['bricklayer work']	0.50260355993
+['bricklayer', 'dollar']	['work']	0.40995618522
+['bricklayer', 'dollar']	['electrician work']	0.0982347768443
+['electrician', 'dollar']	['bricklayer']	0.712442612683
+['electrician', 'dollar']	['90 hour']	0.0989480026901
+['electrician', 'dollar']	['new house']	0.0982347768443
+['electrician', 'dollar']	['12 dollar']	0.391516700063
+['electrician', 'dollar']	['hour']	0.25329508933
+['electrician', 'dollar']	['16 dollar']	0.391516700063
+['electrician', 'dollar']	['owner']	0.481810864661
+['electrician', 'dollar']	['1350 dollar']	0.447673452072
+['electrician', 'dollar']	['bricklayer work']	0.0982347768443
+['electrician', 'dollar']	['work']	0.139506612182
+['electrician', 'dollar']	['electrician work']	0.50260355993
+['90 hour', 'dollar']	['bricklayer']	0.11086262958
+['90 hour', 'dollar']	['electrician']	0.127039565523
+['90 hour', 'dollar']	['new house']	0.0361569291624
+['90 hour', 'dollar']	['12 dollar']	0.565841479934
+['90 hour', 'dollar']	['hour']	0.568148837629
+['90 hour', 'dollar']	['16 dollar']	0.565841479934
+['90 hour', 'dollar']	['owner']	0.218615069598
+['90 hour', 'dollar']	['1350 dollar']	0.442012633359
+['90 hour', 'dollar']	['bricklayer work']	0.0361569291624
+['90 hour', 'dollar']	['work']	0.446177202474
+['90 hour', 'dollar']	['electrician work']	0.0361569291624
+['new house', 'dollar']	['bricklayer']	0.11086262958
+['new house', 'dollar']	['electrician']	0.127039565523
+['new house', 'dollar']	['90 hour']	0.0368028975308
+['new house', 'dollar']	['12 dollar']	0.391516700063
+['new house', 'dollar']	['hour']	0.205654674189
+['new house', 'dollar']	['16 dollar']	0.391516700063
+['new house', 'dollar']	['owner']	0.218682327076
+['new house', 'dollar']	['1350 dollar']	0.442012633359
+['new house', 'dollar']	['bricklayer work']	0.0361569291624
+['new house', 'dollar']	['work']	0.442350278736
+['new house', 'dollar']	['electrician work']	0.0361569291624
+['12 dollar', 'dollar']	['bricklayer']	0.298546746969
+['12 dollar', 'dollar']	['electrician']	0.319456954889
+['12 dollar', 'dollar']	['90 hour']	0.556009941538
+['12 dollar', 'dollar']	['new house']	0.0968024870635
+['12 dollar', 'dollar']	['hour']	0.323988655023
+['12 dollar', 'dollar']	['16 dollar']	0.667149997161
+['12 dollar', 'dollar']	['owner']	0.357155367588
+['12 dollar', 'dollar']	['1350 dollar']	0.676555862245
+['12 dollar', 'dollar']	['bricklayer work']	0.0968024870635
+['12 dollar', 'dollar']	['work']	0.501675973714
+['12 dollar', 'dollar']	['electrician work']	0.0968024870635
+['hour', 'dollar']	['bricklayer']	0.0697963993795
+['hour', 'dollar']	['electrician']	0.0901026352463
+['hour', 'dollar']	['90 hour']	0.268090491062
+['hour', 'dollar']	['new house']	0.0701566548569
+['hour', 'dollar']	['12 dollar']	0.272919550891
+['hour', 'dollar']	['16 dollar']	0.272919550891
+['hour', 'dollar']	['owner']	0.0997933545841
+['hour', 'dollar']	['1350 dollar']	0.408636417552
+['hour', 'dollar']	['bricklayer work']	0.0701566548569
+['hour', 'dollar']	['work']	0.109679176442
+['hour', 'dollar']	['electrician work']	0.0701566548569
+['16 dollar', 'dollar']	['bricklayer']	0.298546746969
+['16 dollar', 'dollar']	['electrician']	0.319456954889
+['16 dollar', 'dollar']	['90 hour']	0.556009941538
+['16 dollar', 'dollar']	['new house']	0.0968024870635
+['16 dollar', 'dollar']	['12 dollar']	0.667149997161
+['16 dollar', 'dollar']	['hour']	0.323988655023
+['16 dollar', 'dollar']	['owner']	0.357155367588
+['16 dollar', 'dollar']	['1350 dollar']	0.676555862245
+['16 dollar', 'dollar']	['bricklayer work']	0.0968024870635
+['16 dollar', 'dollar']	['work']	0.501675973714
+['16 dollar', 'dollar']	['electrician work']	0.0968024870635
+['owner', 'dollar']	['bricklayer']	0.109379492073
+['owner', 'dollar']	['electrician']	0.401927303526
+['owner', 'dollar']	['90 hour']	0.0368701550083
+['owner', 'dollar']	['new house']	0.0362241866398
+['owner', 'dollar']	['12 dollar']	0.391516700063
+['owner', 'dollar']	['hour']	0.222419020954
+['owner', 'dollar']	['16 dollar']	0.391516700063
+['owner', 'dollar']	['1350 dollar']	0.447673452072
+['owner', 'dollar']	['bricklayer work']	0.0361569291624
+['owner', 'dollar']	['work']	0.204341165975
+['owner', 'dollar']	['electrician work']	0.0361569291624
+['1350 dollar', 'dollar']	['bricklayer']	0.298546746969
+['1350 dollar', 'dollar']	['electrician']	0.319456954889
+['1350 dollar', 'dollar']	['90 hour']	0.177448801378
+['1350 dollar', 'dollar']	['new house']	0.0968024870635
+['1350 dollar', 'dollar']	['12 dollar']	0.638178477636
+['1350 dollar', 'dollar']	['hour']	0.323988655023
+['1350 dollar', 'dollar']	['16 dollar']	0.638178477636
+['1350 dollar', 'dollar']	['owner']	0.357155367588
+['1350 dollar', 'dollar']	['bricklayer work']	0.0968024870635
+['1350 dollar', 'dollar']	['work']	0.501675973714
+['1350 dollar', 'dollar']	['electrician work']	0.0968024870635
+['bricklayer work', 'dollar']	['bricklayer']	0.275119273082
+['bricklayer work', 'dollar']	['electrician']	0.129806622265
+['bricklayer work', 'dollar']	['90 hour']	0.0368028975308
+['bricklayer work', 'dollar']	['new house']	0.0361569291624
+['bricklayer work', 'dollar']	['12 dollar']	0.391516700063
+['bricklayer work', 'dollar']	['hour']	0.205654674189
+['bricklayer work', 'dollar']	['16 dollar']	0.391516700063
+['bricklayer work', 'dollar']	['owner']	0.188813087362
+['bricklayer work', 'dollar']	['1350 dollar']	0.442012633359
+['bricklayer work', 'dollar']	['work']	0.551347781783
+['bricklayer work', 'dollar']	['electrician work']	0.180835845373
+['work', 'dollar']	['bricklayer']	0.12581567161
+['work', 'dollar']	['electrician']	0.274113972241
+['work', 'dollar']	['90 hour']	0.0988807452127
+['work', 'dollar']	['new house']	0.0982347768443
+['work', 'dollar']	['12 dollar']	0.391516700063
+['work', 'dollar']	['hour']	0.141795964763
+['work', 'dollar']	['16 dollar']	0.391516700063
+['work', 'dollar']	['owner']	0.193936077651
+['work', 'dollar']	['1350 dollar']	0.442012633359
+['work', 'dollar']	['bricklayer work']	0.359760932789
+['work', 'dollar']	['electrician work']	0.359760932789
+['electrician work', 'dollar']	['bricklayer']	0.111172421365
+['electrician work', 'dollar']	['electrician']	0.246374155355
+['electrician work', 'dollar']	['90 hour']	0.0368028975308
+['electrician work', 'dollar']	['new house']	0.0361569291624
+['electrician work', 'dollar']	['12 dollar']	0.391516700063
+['electrician work', 'dollar']	['hour']	0.205654674189
+['electrician work', 'dollar']	['16 dollar']	0.391516700063
+['electrician work', 'dollar']	['owner']	0.188813087362
+['electrician work', 'dollar']	['1350 dollar']	0.442012633359
+['electrician work', 'dollar']	['bricklayer work']	0.180835845373
+['electrician work', 'dollar']	['work']	0.551347781783
+['bricklayer', '16 dollar']	['electrician']	0.827149219634
+['bricklayer', '16 dollar']	['90 hour']	0.330128589866
+['bricklayer', '16 dollar']	['new house']	0.0696933362217
+['bricklayer', '16 dollar']	['12 dollar']	0.736313764211
+['bricklayer', '16 dollar']	['hour']	0.0432392551335
+['bricklayer', '16 dollar']	['dollar']	0.679196039815
+['bricklayer', '16 dollar']	['owner']	0.2445509648
+['bricklayer', '16 dollar']	['1350 dollar']	0.525944474896
+['bricklayer', '16 dollar']	['bricklayer work']	0.392145703491
+['bricklayer', '16 dollar']	['work']	0.208536751501
+['bricklayer', '16 dollar']	['electrician work']	0.0696933362217
+['electrician', '16 dollar']	['bricklayer']	0.827149219634
+['electrician', '16 dollar']	['90 hour']	0.344494311863
+['electrician', '16 dollar']	['new house']	0.0696933362217
+['electrician', '16 dollar']	['12 dollar']	0.736313764211
+['electrician', '16 dollar']	['hour']	0.0432392551335
+['electrician', '16 dollar']	['dollar']	0.687600829927
+['electrician', '16 dollar']	['owner']	0.833570746465
+['electrician', '16 dollar']	['1350 dollar']	0.488722073866
+['electrician', '16 dollar']	['bricklayer work']	0.0696933362217
+['electrician', '16 dollar']	['work']	0.735171000031
+['electrician', '16 dollar']	['electrician work']	0.571373888716
+['90 hour', '16 dollar']	['bricklayer']	0.079730351659
+['90 hour', '16 dollar']	['electrician']	0.0774561735493
+['90 hour', '16 dollar']	['new house']	0.0901100077042
+['90 hour', '16 dollar']	['12 dollar']	0.837596040951
+['90 hour', '16 dollar']	['hour']	0.221317293508
+['90 hour', '16 dollar']	['dollar']	0.388108272712
+['90 hour', '16 dollar']	['owner']	0.0777864840342
+['90 hour', '16 dollar']	['1350 dollar']	0.584269096576
+['90 hour', '16 dollar']	['bricklayer work']	0.0827346205535
+['90 hour', '16 dollar']	['work']	0.0774561735493
+['90 hour', '16 dollar']	['electrician work']	0.0827346205535
+['new house', '16 dollar']	['bricklayer']	0.079730351659
+['new house', '16 dollar']	['electrician']	0.0774561735493
+['new house', '16 dollar']	['90 hour']	0.362256416006
+['new house', '16 dollar']	['12 dollar']	0.754360422532
+['new house', '16 dollar']	['hour']	0.00424649792755
+['new house', '16 dollar']	['dollar']	0.306370088568
+['new house', '16 dollar']	['owner']	0.0744376594044
+['new house', '16 dollar']	['1350 dollar']	0.584269096576
+['new house', '16 dollar']	['bricklayer work']	0.0827346205535
+['new house', '16 dollar']	['work']	0.0774561735493
+['new house', '16 dollar']	['electrician work']	0.0827346205535
+['12 dollar', '16 dollar']	['bricklayer']	0.33665242287
+['12 dollar', '16 dollar']	['electrician']	0.33665242287
+['12 dollar', '16 dollar']	['90 hour']	0.679208007308
+['12 dollar', '16 dollar']	['new house']	0.139258682248
+['12 dollar', '16 dollar']	['hour']	0.156901862603
+['12 dollar', '16 dollar']	['dollar']	0.693038862582
+['12 dollar', '16 dollar']	['owner']	0.327028499836
+['12 dollar', '16 dollar']	['1350 dollar']	0.637144068101
+['12 dollar', '16 dollar']	['bricklayer work']	0.153587928078
+['12 dollar', '16 dollar']	['work']	0.345269105941
+['12 dollar', '16 dollar']	['electrician work']	0.153587928078
+['hour', '16 dollar']	['bricklayer']	0.0401288657365
+['hour', '16 dollar']	['electrician']	0.0401288657365
+['hour', '16 dollar']	['90 hour']	0.360979763274
+['hour', '16 dollar']	['new house']	0.015360451052
+['hour', '16 dollar']	['12 dollar']	0.403884837601
+['hour', '16 dollar']	['dollar']	0.584815504296
+['hour', '16 dollar']	['owner']	0.0429154860797
+['hour', '16 dollar']	['1350 dollar']	0.0852471420558
+['hour', '16 dollar']	['bricklayer work']	0.015360451052
+['hour', '16 dollar']	['work']	0.206150278293
+['hour', '16 dollar']	['electrician work']	0.015360451052
+['dollar', '16 dollar']	['bricklayer']	0.298546746969
+['dollar', '16 dollar']	['electrician']	0.319456954889
+['dollar', '16 dollar']	['90 hour']	0.556009941538
+['dollar', '16 dollar']	['new house']	0.0968024870635
+['dollar', '16 dollar']	['12 dollar']	0.667149997161
+['dollar', '16 dollar']	['hour']	0.323988655023
+['dollar', '16 dollar']	['owner']	0.357155367588
+['dollar', '16 dollar']	['1350 dollar']	0.676555862245
+['dollar', '16 dollar']	['bricklayer work']	0.0968024870635
+['dollar', '16 dollar']	['work']	0.501675973714
+['dollar', '16 dollar']	['electrician work']	0.0968024870635
+['owner', '16 dollar']	['bricklayer']	0.252619893256
+['owner', '16 dollar']	['electrician']	0.850796462747
+['owner', '16 dollar']	['90 hour']	0.422016612763
+['owner', '16 dollar']	['new house']	0.0827346205535
+['owner', '16 dollar']	['12 dollar']	0.760386850763
+['owner', '16 dollar']	['hour']	0.0504883359442
+['owner', '16 dollar']	['dollar']	0.656586827151
+['owner', '16 dollar']	['1350 dollar']	0.549852778125
+['owner', '16 dollar']	['bricklayer work']	0.0827346205535
+['owner', '16 dollar']	['work']	0.192648399091
+['owner', '16 dollar']	['electrician work']	0.0827346205535
+['1350 dollar', '16 dollar']	['bricklayer']	0.33665242287
+['1350 dollar', '16 dollar']	['electrician']	0.33665242287
+['1350 dollar', '16 dollar']	['90 hour']	0.59564157713
+['1350 dollar', '16 dollar']	['new house']	0.139258682248
+['1350 dollar', '16 dollar']	['12 dollar']	0.862138942741
+['1350 dollar', '16 dollar']	['hour']	0.156901862603
+['1350 dollar', '16 dollar']	['dollar']	0.67956664036
+['1350 dollar', '16 dollar']	['owner']	0.327028499836
+['1350 dollar', '16 dollar']	['bricklayer work']	0.14589133531
+['1350 dollar', '16 dollar']	['work']	0.345269105941
+['1350 dollar', '16 dollar']	['electrician work']	0.14589133531
+['bricklayer work', '16 dollar']	['bricklayer']	0.225714531579
+['bricklayer work', '16 dollar']	['electrician']	0.079730351659
+['bricklayer work', '16 dollar']	['90 hour']	0.390490368434
+['bricklayer work', '16 dollar']	['new house']	0.0901100077042
+['bricklayer work', '16 dollar']	['12 dollar']	0.754360422532
+['bricklayer work', '16 dollar']	['hour']	0.00424649792755
+['bricklayer work', '16 dollar']	['dollar']	0.306370088568
+['bricklayer work', '16 dollar']	['owner']	0.0777864840342
+['bricklayer work', '16 dollar']	['1350 dollar']	0.584269096576
+['bricklayer work', '16 dollar']	['work']	0.650955657599
+['bricklayer work', '16 dollar']	['electrician work']	0.552490398312
+['work', '16 dollar']	['bricklayer']	0.208536751501
+['work', '16 dollar']	['electrician']	0.746794143912
+['work', '16 dollar']	['90 hour']	0.291118889704
+['work', '16 dollar']	['new house']	0.0737139440912
+['work', '16 dollar']	['12 dollar']	0.736313764211
+['work', '16 dollar']	['hour']	0.0880195201624
+['work', '16 dollar']	['dollar']	0.718359346772
+['work', '16 dollar']	['owner']	0.182729929366
+['work', '16 dollar']	['1350 dollar']	0.522652815483
+['work', '16 dollar']	['bricklayer work']	0.687529833909
+['work', '16 dollar']	['electrician work']	0.687529833909
+['electrician work', '16 dollar']	['bricklayer']	0.079730351659
+['electrician work', '16 dollar']	['electrician']	0.285714531579
+['electrician work', '16 dollar']	['90 hour']	0.390490368434
+['electrician work', '16 dollar']	['new house']	0.0901100077042
+['electrician work', '16 dollar']	['12 dollar']	0.754360422532
+['electrician work', '16 dollar']	['hour']	0.00424649792755
+['electrician work', '16 dollar']	['dollar']	0.306370088568
+['electrician work', '16 dollar']	['owner']	0.0777864840342
+['electrician work', '16 dollar']	['1350 dollar']	0.584269096576
+['electrician work', '16 dollar']	['bricklayer work']	0.552490398312
+['electrician work', '16 dollar']	['work']	0.650955657599
+['bricklayer', 'owner']	['electrician']	0.552005125756
+['bricklayer', 'owner']	['90 hour']	0.0696933362217
+['bricklayer', 'owner']	['new house']	0.0696933362217
+['bricklayer', 'owner']	['12 dollar']	0.0696933362217
+['bricklayer', 'owner']	['hour']	0.00388540021915
+['bricklayer', 'owner']	['dollar']	0.116219606536
+['bricklayer', 'owner']	['16 dollar']	0.0696933362217
+['bricklayer', 'owner']	['1350 dollar']	0.0696933362217
+['bricklayer', 'owner']	['bricklayer work']	0.561956922064
+['bricklayer', 'owner']	['work']	0.2082897432
+['bricklayer', 'owner']	['electrician work']	0.0696933362217
+['electrician', 'owner']	['bricklayer']	0.667510283117
+['electrician', 'owner']	['90 hour']	0.0696933362217
+['electrician', 'owner']	['new house']	0.0663445115919
+['electrician', 'owner']	['12 dollar']	0.0696933362217
+['electrician', 'owner']	['hour']	0.00388540021915
+['electrician', 'owner']	['dollar']	0.0809113865666
+['electrician', 'owner']	['16 dollar']	0.0696933362217
+['electrician', 'owner']	['1350 dollar']	0.0696933362217
+['electrician', 'owner']	['bricklayer work']	0.0696933362217
+['electrician', 'owner']	['work']	0.445211283706
+['electrician', 'owner']	['electrician work']	0.561956922064
+['90 hour', 'owner']	['bricklayer']	0.252619893256
+['90 hour', 'owner']	['electrician']	0.850796462747
+['90 hour', 'owner']	['new house']	0.0827346205535
+['90 hour', 'owner']	['12 dollar']	0.422016612763
+['90 hour', 'owner']	['hour']	0.428177127202
+['90 hour', 'owner']	['dollar']	0.172742085802
+['90 hour', 'owner']	['16 dollar']	0.422016612763
+['90 hour', 'owner']	['1350 dollar']	0.0827346205535
+['90 hour', 'owner']	['bricklayer work']	0.0827346205535
+['90 hour', 'owner']	['work']	0.221442431604
+['90 hour', 'owner']	['electrician work']	0.0827346205535
+['new house', 'owner']	['bricklayer']	0.252619893256
+['new house', 'owner']	['electrician']	0.824870536821
+['new house', 'owner']	['90 hour']	0.0827346205535
+['new house', 'owner']	['12 dollar']	0.0827346205535
+['new house', 'owner']	['hour']	0.0360329285057
+['new house', 'owner']	['dollar']	0.151610169111
+['new house', 'owner']	['16 dollar']	0.0827346205535
+['new house', 'owner']	['1350 dollar']	0.0827346205535
+['new house', 'owner']	['bricklayer work']	0.0827346205535
+['new house', 'owner']	['work']	0.19603525097
+['new house', 'owner']	['electrician work']	0.0827346205535
+['12 dollar', 'owner']	['bricklayer']	0.252619893256
+['12 dollar', 'owner']	['electrician']	0.850796462747
+['12 dollar', 'owner']	['90 hour']	0.422016612763
+['12 dollar', 'owner']	['new house']	0.0827346205535
+['12 dollar', 'owner']	['hour']	0.0504883359442
+['12 dollar', 'owner']	['dollar']	0.656586827151
+['12 dollar', 'owner']	['16 dollar']	0.760386850763
+['12 dollar', 'owner']	['1350 dollar']	0.549852778125
+['12 dollar', 'owner']	['bricklayer work']	0.0827346205535
+['12 dollar', 'owner']	['work']	0.192648399091
+['12 dollar', 'owner']	['electrician work']	0.0827346205535
+['hour', 'owner']	['bricklayer']	0.0444790615621
+['hour', 'owner']	['electrician']	0.27892276121
+['hour', 'owner']	['90 hour']	0.32878496
+['hour', 'owner']	['new house']	0.015360451052
+['hour', 'owner']	['12 dollar']	0.0160064194205
+['hour', 'owner']	['dollar']	0.0644356052061
+['hour', 'owner']	['16 dollar']	0.0160064194205
+['hour', 'owner']	['1350 dollar']	0.0160064194205
+['hour', 'owner']	['bricklayer work']	0.015360451052
+['hour', 'owner']	['work']	0.100574106218
+['hour', 'owner']	['electrician work']	0.015360451052
+['dollar', 'owner']	['bricklayer']	0.109379492073
+['dollar', 'owner']	['electrician']	0.401927303526
+['dollar', 'owner']	['90 hour']	0.0368701550083
+['dollar', 'owner']	['new house']	0.0362241866398
+['dollar', 'owner']	['12 dollar']	0.391516700063
+['dollar', 'owner']	['hour']	0.222419020954
+['dollar', 'owner']	['16 dollar']	0.391516700063
+['dollar', 'owner']	['1350 dollar']	0.447673452072
+['dollar', 'owner']	['bricklayer work']	0.0361569291624
+['dollar', 'owner']	['work']	0.204341165975
+['dollar', 'owner']	['electrician work']	0.0361569291624
+['16 dollar', 'owner']	['bricklayer']	0.252619893256
+['16 dollar', 'owner']	['electrician']	0.850796462747
+['16 dollar', 'owner']	['90 hour']	0.422016612763
+['16 dollar', 'owner']	['new house']	0.0827346205535
+['16 dollar', 'owner']	['12 dollar']	0.760386850763
+['16 dollar', 'owner']	['hour']	0.0504883359442
+['16 dollar', 'owner']	['dollar']	0.656586827151
+['16 dollar', 'owner']	['1350 dollar']	0.549852778125
+['16 dollar', 'owner']	['bricklayer work']	0.0827346205535
+['16 dollar', 'owner']	['work']	0.192648399091
+['16 dollar', 'owner']	['electrician work']	0.0827346205535
+['1350 dollar', 'owner']	['bricklayer']	0.252619893256
+['1350 dollar', 'owner']	['electrician']	0.850796462747
+['1350 dollar', 'owner']	['90 hour']	0.0827346205535
+['1350 dollar', 'owner']	['new house']	0.0827346205535
+['1350 dollar', 'owner']	['12 dollar']	0.549852778125
+['1350 dollar', 'owner']	['hour']	0.0504883359442
+['1350 dollar', 'owner']	['dollar']	0.707659744934
+['1350 dollar', 'owner']	['16 dollar']	0.549852778125
+['1350 dollar', 'owner']	['bricklayer work']	0.0827346205535
+['1350 dollar', 'owner']	['work']	0.192648399091
+['1350 dollar', 'owner']	['electrician work']	0.0827346205535
+['bricklayer work', 'owner']	['bricklayer']	0.334118730336
+['bricklayer work', 'owner']	['electrician']	0.819277563245
+['bricklayer work', 'owner']	['90 hour']	0.0827346205535
+['bricklayer work', 'owner']	['new house']	0.0827346205535
+['bricklayer work', 'owner']	['12 dollar']	0.0827346205535
+['bricklayer work', 'owner']	['hour']	0.0360329285057
+['bricklayer work', 'owner']	['dollar']	0.151610169111
+['bricklayer work', 'owner']	['16 dollar']	0.0827346205535
+['bricklayer work', 'owner']	['1350 dollar']	0.0827346205535
+['bricklayer work', 'owner']	['work']	0.675070781902
+['bricklayer work', 'owner']	['electrician work']	0.5752094673
+['work', 'owner']	['bricklayer']	0.278305619248
+['work', 'owner']	['electrician']	0.364725924268
+['work', 'owner']	['90 hour']	0.0696933362217
+['work', 'owner']	['new house']	0.0696933362217
+['work', 'owner']	['12 dollar']	0.0696933362217
+['work', 'owner']	['hour']	0.165418167267
+['work', 'owner']	['dollar']	0.117636924875
+['work', 'owner']	['16 dollar']	0.0696933362217
+['work', 'owner']	['1350 dollar']	0.0696933362217
+['work', 'owner']	['bricklayer work']	0.692205356686
+['work', 'owner']	['electrician work']	0.692205356686
+['electrician work', 'owner']	['bricklayer']	0.257212104865
+['electrician work', 'owner']	['electrician']	0.583569979112
+['electrician work', 'owner']	['90 hour']	0.0827346205535
+['electrician work', 'owner']	['new house']	0.0827346205535
+['electrician work', 'owner']	['12 dollar']	0.0827346205535
+['electrician work', 'owner']	['hour']	0.0360329285057
+['electrician work', 'owner']	['dollar']	0.151610169111
+['electrician work', 'owner']	['16 dollar']	0.0827346205535
+['electrician work', 'owner']	['1350 dollar']	0.0827346205535
+['electrician work', 'owner']	['bricklayer work']	0.5752094673
+['electrician work', 'owner']	['work']	0.675070781902
+['bricklayer', '1350 dollar']	['electrician']	0.827149219634
+['bricklayer', '1350 dollar']	['90 hour']	0.0696933362217
+['bricklayer', '1350 dollar']	['new house']	0.0696933362217
+['bricklayer', '1350 dollar']	['12 dollar']	0.525944474896
+['bricklayer', '1350 dollar']	['hour']	0.0432392551335
+['bricklayer', '1350 dollar']	['dollar']	0.690340515548
+['bricklayer', '1350 dollar']	['16 dollar']	0.525944474896
+['bricklayer', '1350 dollar']	['owner']	0.2445509648
+['bricklayer', '1350 dollar']	['bricklayer work']	0.279800024479
+['bricklayer', '1350 dollar']	['work']	0.208536751501
+['bricklayer', '1350 dollar']	['electrician work']	0.0696933362217
+['electrician', '1350 dollar']	['bricklayer']	0.827149219634
+['electrician', '1350 dollar']	['90 hour']	0.0696933362217
+['electrician', '1350 dollar']	['new house']	0.0696933362217
+['electrician', '1350 dollar']	['12 dollar']	0.488722073866
+['electrician', '1350 dollar']	['hour']	0.0432392551335
+['electrician', '1350 dollar']	['dollar']	0.705340414376
+['electrician', '1350 dollar']	['16 dollar']	0.488722073866
+['electrician', '1350 dollar']	['owner']	0.833570746465
+['electrician', '1350 dollar']	['bricklayer work']	0.0696933362217
+['electrician', '1350 dollar']	['work']	0.735171000031
+['electrician', '1350 dollar']	['electrician work']	0.549663130339
+['90 hour', '1350 dollar']	['bricklayer']	0.079730351659
+['90 hour', '1350 dollar']	['electrician']	0.0774561735493
+['90 hour', '1350 dollar']	['new house']	0.0901100077042
+['90 hour', '1350 dollar']	['12 dollar']	0.754360422532
+['90 hour', '1350 dollar']	['hour']	0.221317293508
+['90 hour', '1350 dollar']	['dollar']	0.500847544769
+['90 hour', '1350 dollar']	['16 dollar']	0.754360422532
+['90 hour', '1350 dollar']	['owner']	0.0777864840342
+['90 hour', '1350 dollar']	['bricklayer work']	0.0827346205535
+['90 hour', '1350 dollar']	['work']	0.0774561735493
+['90 hour', '1350 dollar']	['electrician work']	0.0827346205535
+['new house', '1350 dollar']	['bricklayer']	0.079730351659
+['new house', '1350 dollar']	['electrician']	0.0774561735493
+['new house', '1350 dollar']	['90 hour']	0.0901100077042
+['new house', '1350 dollar']	['12 dollar']	0.584269096576
+['new house', '1350 dollar']	['hour']	0.00424649792755
+['new house', '1350 dollar']	['dollar']	0.351161209422
+['new house', '1350 dollar']	['16 dollar']	0.584269096576
+['new house', '1350 dollar']	['owner']	0.0744376594044
+['new house', '1350 dollar']	['bricklayer work']	0.0901100077042
+['new house', '1350 dollar']	['work']	0.0774561735493
+['new house', '1350 dollar']	['electrician work']	0.0901100077042
+['12 dollar', '1350 dollar']	['bricklayer']	0.33665242287
+['12 dollar', '1350 dollar']	['electrician']	0.33665242287
+['12 dollar', '1350 dollar']	['90 hour']	0.59564157713
+['12 dollar', '1350 dollar']	['new house']	0.139258682248
+['12 dollar', '1350 dollar']	['hour']	0.156901862603
+['12 dollar', '1350 dollar']	['dollar']	0.67956664036
+['12 dollar', '1350 dollar']	['16 dollar']	0.862138942741
+['12 dollar', '1350 dollar']	['owner']	0.327028499836
+['12 dollar', '1350 dollar']	['bricklayer work']	0.14589133531
+['12 dollar', '1350 dollar']	['work']	0.345269105941
+['12 dollar', '1350 dollar']	['electrician work']	0.14589133531
+['hour', '1350 dollar']	['bricklayer']	0.0401288657365
+['hour', '1350 dollar']	['electrician']	0.0401288657365
+['hour', '1350 dollar']	['90 hour']	0.321774377989
+['hour', '1350 dollar']	['new house']	0.015360451052
+['hour', '1350 dollar']	['12 dollar']	0.0852471420558
+['hour', '1350 dollar']	['dollar']	0.524860968519
+['hour', '1350 dollar']	['16 dollar']	0.0852471420558
+['hour', '1350 dollar']	['owner']	0.0429154860797
+['hour', '1350 dollar']	['bricklayer work']	0.015360451052
+['hour', '1350 dollar']	['work']	0.206150278293
+['hour', '1350 dollar']	['electrician work']	0.015360451052
+['dollar', '1350 dollar']	['bricklayer']	0.298546746969
+['dollar', '1350 dollar']	['electrician']	0.319456954889
+['dollar', '1350 dollar']	['90 hour']	0.177448801378
+['dollar', '1350 dollar']	['new house']	0.0968024870635
+['dollar', '1350 dollar']	['12 dollar']	0.638178477636
+['dollar', '1350 dollar']	['hour']	0.323988655023
+['dollar', '1350 dollar']	['16 dollar']	0.638178477636
+['dollar', '1350 dollar']	['owner']	0.357155367588
+['dollar', '1350 dollar']	['bricklayer work']	0.0968024870635
+['dollar', '1350 dollar']	['work']	0.501675973714
+['dollar', '1350 dollar']	['electrician work']	0.0968024870635
+['16 dollar', '1350 dollar']	['bricklayer']	0.33665242287
+['16 dollar', '1350 dollar']	['electrician']	0.33665242287
+['16 dollar', '1350 dollar']	['90 hour']	0.59564157713
+['16 dollar', '1350 dollar']	['new house']	0.139258682248
+['16 dollar', '1350 dollar']	['12 dollar']	0.862138942741
+['16 dollar', '1350 dollar']	['hour']	0.156901862603
+['16 dollar', '1350 dollar']	['dollar']	0.67956664036
+['16 dollar', '1350 dollar']	['owner']	0.327028499836
+['16 dollar', '1350 dollar']	['bricklayer work']	0.14589133531
+['16 dollar', '1350 dollar']	['work']	0.345269105941
+['16 dollar', '1350 dollar']	['electrician work']	0.14589133531
+['owner', '1350 dollar']	['bricklayer']	0.252619893256
+['owner', '1350 dollar']	['electrician']	0.850796462747
+['owner', '1350 dollar']	['90 hour']	0.0827346205535
+['owner', '1350 dollar']	['new house']	0.0827346205535
+['owner', '1350 dollar']	['12 dollar']	0.549852778125
+['owner', '1350 dollar']	['hour']	0.0504883359442
+['owner', '1350 dollar']	['dollar']	0.707659744934
+['owner', '1350 dollar']	['16 dollar']	0.549852778125
+['owner', '1350 dollar']	['bricklayer work']	0.0827346205535
+['owner', '1350 dollar']	['work']	0.192648399091
+['owner', '1350 dollar']	['electrician work']	0.0827346205535
+['bricklayer work', '1350 dollar']	['bricklayer']	0.225714531579
+['bricklayer work', '1350 dollar']	['electrician']	0.079730351659
+['bricklayer work', '1350 dollar']	['90 hour']	0.0827346205535
+['bricklayer work', '1350 dollar']	['new house']	0.0901100077042
+['bricklayer work', '1350 dollar']	['12 dollar']	0.573408386835
+['bricklayer work', '1350 dollar']	['hour']	0.00424649792755
+['bricklayer work', '1350 dollar']	['dollar']	0.351161209422
+['bricklayer work', '1350 dollar']	['16 dollar']	0.573408386835
+['bricklayer work', '1350 dollar']	['owner']	0.0777864840342
+['bricklayer work', '1350 dollar']	['work']	0.650955657599
+['bricklayer work', '1350 dollar']	['electrician work']	0.578891755681
+['work', '1350 dollar']	['bricklayer']	0.208536751501
+['work', '1350 dollar']	['electrician']	0.746794143912
+['work', '1350 dollar']	['90 hour']	0.0737139440912
+['work', '1350 dollar']	['new house']	0.0737139440912
+['work', '1350 dollar']	['12 dollar']	0.522652815483
+['work', '1350 dollar']	['hour']	0.0880195201624
+['work', '1350 dollar']	['dollar']	0.726575121697
+['work', '1350 dollar']	['16 dollar']	0.522652815483
+['work', '1350 dollar']	['owner']	0.182729929366
+['work', '1350 dollar']	['bricklayer work']	0.68687409652
+['work', '1350 dollar']	['electrician work']	0.68687409652
+['electrician work', '1350 dollar']	['bricklayer']	0.079730351659
+['electrician work', '1350 dollar']	['electrician']	0.285714531579
+['electrician work', '1350 dollar']	['90 hour']	0.0827346205535
+['electrician work', '1350 dollar']	['new house']	0.0901100077042
+['electrician work', '1350 dollar']	['12 dollar']	0.573408386835
+['electrician work', '1350 dollar']	['hour']	0.00424649792755
+['electrician work', '1350 dollar']	['dollar']	0.351161209422
+['electrician work', '1350 dollar']	['16 dollar']	0.573408386835
+['electrician work', '1350 dollar']	['owner']	0.0777864840342
+['electrician work', '1350 dollar']	['bricklayer work']	0.578891755681
+['electrician work', '1350 dollar']	['work']	0.650955657599
+['bricklayer', 'bricklayer work']	['electrician']	0.820347225332
+['bricklayer', 'bricklayer work']	['90 hour']	0.0696933362217
+['bricklayer', 'bricklayer work']	['new house']	0.0696933362217
+['bricklayer', 'bricklayer work']	['12 dollar']	0.0696933362217
+['bricklayer', 'bricklayer work']	['hour']	0.0241916360859
+['bricklayer', 'bricklayer work']	['dollar']	0.0831640509808
+['bricklayer', 'bricklayer work']	['16 dollar']	0.0696933362217
+['bricklayer', 'bricklayer work']	['owner']	0.245788397128
+['bricklayer', 'bricklayer work']	['1350 dollar']	0.0696933362217
+['bricklayer', 'bricklayer work']	['work']	0.652868363776
+['bricklayer', 'bricklayer work']	['electrician work']	0.499027945865
+['electrician', 'bricklayer work']	['bricklayer']	0.628698184241
+['electrician', 'bricklayer work']	['90 hour']	0.0696933362217
+['electrician', 'bricklayer work']	['new house']	0.0696933362217
+['electrician', 'bricklayer work']	['12 dollar']	0.0696933362217
+['electrician', 'bricklayer work']	['hour']	0.0241916360859
+['electrician', 'bricklayer work']	['dollar']	0.105959014523
+['electrician', 'bricklayer work']	['16 dollar']	0.0696933362217
+['electrician', 'bricklayer work']	['owner']	0.824622993608
+['electrician', 'bricklayer work']	['1350 dollar']	0.0696933362217
+['electrician', 'bricklayer work']	['work']	0.761276547679
+['electrician', 'bricklayer work']	['electrician work']	0.725259283595
+['90 hour', 'bricklayer work']	['bricklayer']	0.285714531579
+['90 hour', 'bricklayer work']	['electrician']	0.0774561735493
+['90 hour', 'bricklayer work']	['new house']	0.0901100077042
+['90 hour', 'bricklayer work']	['12 dollar']	0.390490368434
+['90 hour', 'bricklayer work']	['hour']	0.205067872178
+['90 hour', 'bricklayer work']	['dollar']	0.0132263547461
+['90 hour', 'bricklayer work']	['16 dollar']	0.390490368434
+['90 hour', 'bricklayer work']	['owner']	0.0777864840342
+['90 hour', 'bricklayer work']	['1350 dollar']	0.0901100077042
+['90 hour', 'bricklayer work']	['work']	0.653738463029
+['90 hour', 'bricklayer work']	['electrician work']	0.552490398312
+['new house', 'bricklayer work']	['bricklayer']	0.465562097424
+['new house', 'bricklayer work']	['electrician']	0.0774561735493
+['new house', 'bricklayer work']	['90 hour']	0.0827346205535
+['new house', 'bricklayer work']	['12 dollar']	0.0827346205535
+['new house', 'bricklayer work']	['hour']	0.0101131233914
+['new house', 'bricklayer work']	['dollar']	0.0179192712897
+['new house', 'bricklayer work']	['16 dollar']	0.0827346205535
+['new house', 'bricklayer work']	['owner']	0.0777864840342
+['new house', 'bricklayer work']	['1350 dollar']	0.0901100077042
+['new house', 'bricklayer work']	['work']	0.648240712829
+['new house', 'bricklayer work']	['electrician work']	0.578891755681
+['12 dollar', 'bricklayer work']	['bricklayer']	0.225714531579
+['12 dollar', 'bricklayer work']	['electrician']	0.079730351659
+['12 dollar', 'bricklayer work']	['90 hour']	0.390490368434
+['12 dollar', 'bricklayer work']	['new house']	0.0901100077042
+['12 dollar', 'bricklayer work']	['hour']	0.00424649792755
+['12 dollar', 'bricklayer work']	['dollar']	0.306370088568
+['12 dollar', 'bricklayer work']	['16 dollar']	0.754360422532
+['12 dollar', 'bricklayer work']	['owner']	0.0777864840342
+['12 dollar', 'bricklayer work']	['1350 dollar']	0.584269096576
+['12 dollar', 'bricklayer work']	['work']	0.650955657599
+['12 dollar', 'bricklayer work']	['electrician work']	0.552490398312
+['hour', 'bricklayer work']	['bricklayer']	0.210676138897
+['hour', 'bricklayer work']	['electrician']	0.0389235060065
+['hour', 'bricklayer work']	['90 hour']	0.306959563174
+['hour', 'bricklayer work']	['new house']	0.015360451052
+['hour', 'bricklayer work']	['12 dollar']	0.0160064194205
+['hour', 'bricklayer work']	['dollar']	0.205654674189
+['hour', 'bricklayer work']	['16 dollar']	0.0160064194205
+['hour', 'bricklayer work']	['owner']	0.0429475586777
+['hour', 'bricklayer work']	['1350 dollar']	0.0160064194205
+['hour', 'bricklayer work']	['work']	0.449430565589
+['hour', 'bricklayer work']	['electrician work']	0.1652320591
+['dollar', 'bricklayer work']	['bricklayer']	0.275119273082
+['dollar', 'bricklayer work']	['electrician']	0.129806622265
+['dollar', 'bricklayer work']	['90 hour']	0.0368028975308
+['dollar', 'bricklayer work']	['new house']	0.0361569291624
+['dollar', 'bricklayer work']	['12 dollar']	0.391516700063
+['dollar', 'bricklayer work']	['hour']	0.205654674189
+['dollar', 'bricklayer work']	['16 dollar']	0.391516700063
+['dollar', 'bricklayer work']	['owner']	0.188813087362
+['dollar', 'bricklayer work']	['1350 dollar']	0.442012633359
+['dollar', 'bricklayer work']	['work']	0.551347781783
+['dollar', 'bricklayer work']	['electrician work']	0.180835845373
+['16 dollar', 'bricklayer work']	['bricklayer']	0.225714531579
+['16 dollar', 'bricklayer work']	['electrician']	0.079730351659
+['16 dollar', 'bricklayer work']	['90 hour']	0.390490368434
+['16 dollar', 'bricklayer work']	['new house']	0.0901100077042
+['16 dollar', 'bricklayer work']	['12 dollar']	0.754360422532
+['16 dollar', 'bricklayer work']	['hour']	0.00424649792755
+['16 dollar', 'bricklayer work']	['dollar']	0.306370088568
+['16 dollar', 'bricklayer work']	['owner']	0.0777864840342
+['16 dollar', 'bricklayer work']	['1350 dollar']	0.584269096576
+['16 dollar', 'bricklayer work']	['work']	0.650955657599
+['16 dollar', 'bricklayer work']	['electrician work']	0.552490398312
+['owner', 'bricklayer work']	['bricklayer']	0.334118730336
+['owner', 'bricklayer work']	['electrician']	0.819277563245
+['owner', 'bricklayer work']	['90 hour']	0.0827346205535
+['owner', 'bricklayer work']	['new house']	0.0827346205535
+['owner', 'bricklayer work']	['12 dollar']	0.0827346205535
+['owner', 'bricklayer work']	['hour']	0.0360329285057
+['owner', 'bricklayer work']	['dollar']	0.151610169111
+['owner', 'bricklayer work']	['16 dollar']	0.0827346205535
+['owner', 'bricklayer work']	['1350 dollar']	0.0827346205535
+['owner', 'bricklayer work']	['work']	0.675070781902
+['owner', 'bricklayer work']	['electrician work']	0.5752094673
+['1350 dollar', 'bricklayer work']	['bricklayer']	0.225714531579
+['1350 dollar', 'bricklayer work']	['electrician']	0.079730351659
+['1350 dollar', 'bricklayer work']	['90 hour']	0.0827346205535
+['1350 dollar', 'bricklayer work']	['new house']	0.0901100077042
+['1350 dollar', 'bricklayer work']	['12 dollar']	0.573408386835
+['1350 dollar', 'bricklayer work']	['hour']	0.00424649792755
+['1350 dollar', 'bricklayer work']	['dollar']	0.351161209422
+['1350 dollar', 'bricklayer work']	['16 dollar']	0.573408386835
+['1350 dollar', 'bricklayer work']	['owner']	0.0777864840342
+['1350 dollar', 'bricklayer work']	['work']	0.650955657599
+['1350 dollar', 'bricklayer work']	['electrician work']	0.578891755681
+['work', 'bricklayer work']	['bricklayer']	0.663185061459
+['work', 'bricklayer work']	['electrician']	0.653514031207
+['work', 'bricklayer work']	['90 hour']	0.136831688603
+['work', 'bricklayer work']	['new house']	0.139259023173
+['work', 'bricklayer work']	['12 dollar']	0.136831688603
+['work', 'bricklayer work']	['hour']	0.243535867177
+['work', 'bricklayer work']	['dollar']	0.370613217529
+['work', 'bricklayer work']	['16 dollar']	0.136831688603
+['work', 'bricklayer work']	['owner']	0.38844537072
+['work', 'bricklayer work']	['1350 dollar']	0.139259023173
+['work', 'bricklayer work']	['electrician work']	0.733274611974
+['electrician work', 'bricklayer work']	['bricklayer']	0.581516055124
+['electrician work', 'bricklayer work']	['electrician']	0.581516055124
+['electrician work', 'bricklayer work']	['90 hour']	0.153587928078
+['electrician work', 'bricklayer work']	['new house']	0.139258682248
+['electrician work', 'bricklayer work']	['12 dollar']	0.153587928078
+['electrician work', 'bricklayer work']	['hour']	0.11966446724
+['electrician work', 'bricklayer work']	['dollar']	0.17729368921
+['electrician work', 'bricklayer work']	['16 dollar']	0.153587928078
+['electrician work', 'bricklayer work']	['owner']	0.325390866884
+['electrician work', 'bricklayer work']	['1350 dollar']	0.139258682248
+['electrician work', 'bricklayer work']	['work']	0.613548810701
+['bricklayer', 'work']	['electrician']	0.530802196075
+['bricklayer', 'work']	['90 hour']	0.131771183904
+['bricklayer', 'work']	['new house']	0.131771183904
+['bricklayer', 'work']	['12 dollar']	0.131771183904
+['bricklayer', 'work']	['hour']	0.142898548433
+['bricklayer', 'work']	['dollar']	0.327432584521
+['bricklayer', 'work']	['16 dollar']	0.131771183904
+['bricklayer', 'work']	['owner']	0.135501785379
+['bricklayer', 'work']	['1350 dollar']	0.131771183904
+['bricklayer', 'work']	['bricklayer work']	0.681647907198
+['bricklayer', 'work']	['electrician work']	0.695866451325
+['electrician', 'work']	['bricklayer']	0.770777907476
+['electrician', 'work']	['90 hour']	0.131771183904
+['electrician', 'work']	['new house']	0.131771183904
+['electrician', 'work']	['12 dollar']	0.131771183904
+['electrician', 'work']	['hour']	0.1987515006
+['electrician', 'work']	['dollar']	0.207874949591
+['electrician', 'work']	['16 dollar']	0.131771183904
+['electrician', 'work']	['owner']	0.604447474652
+['electrician', 'work']	['1350 dollar']	0.131771183904
+['electrician', 'work']	['bricklayer work']	0.702167129668
+['electrician', 'work']	['electrician work']	0.672185147735
+['90 hour', 'work']	['bricklayer']	0.208536751501
+['90 hour', 'work']	['electrician']	0.746794143912
+['90 hour', 'work']	['new house']	0.0737139440912
+['90 hour', 'work']	['12 dollar']	0.291118889704
+['90 hour', 'work']	['hour']	0.502264746745
+['90 hour', 'work']	['dollar']	0.354376067625
+['90 hour', 'work']	['16 dollar']	0.291118889704
+['90 hour', 'work']	['owner']	0.213491692994
+['90 hour', 'work']	['1350 dollar']	0.0737139440912
+['90 hour', 'work']	['bricklayer work']	0.687529833909
+['90 hour', 'work']	['electrician work']	0.687529833909
+['new house', 'work']	['bricklayer']	0.208536751501
+['new house', 'work']	['electrician']	0.735171000031
+['new house', 'work']	['90 hour']	0.0737139440912
+['new house', 'work']	['12 dollar']	0.0737139440912
+['new house', 'work']	['hour']	0.1079586666
+['new house', 'work']	['dollar']	0.322186645359
+['new house', 'work']	['16 dollar']	0.0737139440912
+['new house', 'work']	['owner']	0.211523961879
+['new house', 'work']	['1350 dollar']	0.0737139440912
+['new house', 'work']	['bricklayer work']	0.68687409652
+['new house', 'work']	['electrician work']	0.68687409652
+['12 dollar', 'work']	['bricklayer']	0.208536751501
+['12 dollar', 'work']	['electrician']	0.746794143912
+['12 dollar', 'work']	['90 hour']	0.291118889704
+['12 dollar', 'work']	['new house']	0.0737139440912
+['12 dollar', 'work']	['hour']	0.0880195201624
+['12 dollar', 'work']	['dollar']	0.718359346772
+['12 dollar', 'work']	['16 dollar']	0.736313764211
+['12 dollar', 'work']	['owner']	0.182729929366
+['12 dollar', 'work']	['1350 dollar']	0.522652815483
+['12 dollar', 'work']	['bricklayer work']	0.687529833909
+['12 dollar', 'work']	['electrician work']	0.687529833909
+['hour', 'work']	['bricklayer']	0.0923359383272
+['hour', 'work']	['electrician']	0.250283703216
+['hour', 'work']	['90 hour']	0.321774377989
+['hour', 'work']	['new house']	0.0774382987339
+['hour', 'work']	['12 dollar']	0.0780842671024
+['hour', 'work']	['dollar']	0.0746237024124
+['hour', 'work']	['16 dollar']	0.0780842671024
+['hour', 'work']	['owner']	0.105953434766
+['hour', 'work']	['1350 dollar']	0.0780842671024
+['hour', 'work']	['bricklayer work']	0.326322256687
+['hour', 'work']	['electrician work']	0.326322256687
+['dollar', 'work']	['bricklayer']	0.12581567161
+['dollar', 'work']	['electrician']	0.274113972241
+['dollar', 'work']	['90 hour']	0.0988807452127
+['dollar', 'work']	['new house']	0.0982347768443
+['dollar', 'work']	['12 dollar']	0.391516700063
+['dollar', 'work']	['hour']	0.141795964763
+['dollar', 'work']	['16 dollar']	0.391516700063
+['dollar', 'work']	['owner']	0.193936077651
+['dollar', 'work']	['1350 dollar']	0.442012633359
+['dollar', 'work']	['bricklayer work']	0.359760932789
+['dollar', 'work']	['electrician work']	0.359760932789
+['16 dollar', 'work']	['bricklayer']	0.208536751501
+['16 dollar', 'work']	['electrician']	0.746794143912
+['16 dollar', 'work']	['90 hour']	0.291118889704
+['16 dollar', 'work']	['new house']	0.0737139440912
+['16 dollar', 'work']	['12 dollar']	0.736313764211
+['16 dollar', 'work']	['hour']	0.0880195201624
+['16 dollar', 'work']	['dollar']	0.718359346772
+['16 dollar', 'work']	['owner']	0.182729929366
+['16 dollar', 'work']	['1350 dollar']	0.522652815483
+['16 dollar', 'work']	['bricklayer work']	0.687529833909
+['16 dollar', 'work']	['electrician work']	0.687529833909
+['owner', 'work']	['bricklayer']	0.278305619248
+['owner', 'work']	['electrician']	0.364725924268
+['owner', 'work']	['90 hour']	0.0696933362217
+['owner', 'work']	['new house']	0.0696933362217
+['owner', 'work']	['12 dollar']	0.0696933362217
+['owner', 'work']	['hour']	0.165418167267
+['owner', 'work']	['dollar']	0.117636924875
+['owner', 'work']	['16 dollar']	0.0696933362217
+['owner', 'work']	['1350 dollar']	0.0696933362217
+['owner', 'work']	['bricklayer work']	0.692205356686
+['owner', 'work']	['electrician work']	0.692205356686
+['1350 dollar', 'work']	['bricklayer']	0.208536751501
+['1350 dollar', 'work']	['electrician']	0.746794143912
+['1350 dollar', 'work']	['90 hour']	0.0737139440912
+['1350 dollar', 'work']	['new house']	0.0737139440912
+['1350 dollar', 'work']	['12 dollar']	0.522652815483
+['1350 dollar', 'work']	['hour']	0.0880195201624
+['1350 dollar', 'work']	['dollar']	0.726575121697
+['1350 dollar', 'work']	['16 dollar']	0.522652815483
+['1350 dollar', 'work']	['owner']	0.182729929366
+['1350 dollar', 'work']	['bricklayer work']	0.68687409652
+['1350 dollar', 'work']	['electrician work']	0.68687409652
+['bricklayer work', 'work']	['bricklayer']	0.663185061459
+['bricklayer work', 'work']	['electrician']	0.653514031207
+['bricklayer work', 'work']	['90 hour']	0.136831688603
+['bricklayer work', 'work']	['new house']	0.139259023173
+['bricklayer work', 'work']	['12 dollar']	0.136831688603
+['bricklayer work', 'work']	['hour']	0.243535867177
+['bricklayer work', 'work']	['dollar']	0.370613217529
+['bricklayer work', 'work']	['16 dollar']	0.136831688603
+['bricklayer work', 'work']	['owner']	0.38844537072
+['bricklayer work', 'work']	['1350 dollar']	0.139259023173
+['bricklayer work', 'work']	['electrician work']	0.733274611974
+['electrician work', 'work']	['bricklayer']	0.580768624573
+['electrician work', 'work']	['electrician']	0.674867953437
+['electrician work', 'work']	['90 hour']	0.136831688603
+['electrician work', 'work']	['new house']	0.139259023173
+['electrician work', 'work']	['12 dollar']	0.136831688603
+['electrician work', 'work']	['hour']	0.243535867177
+['electrician work', 'work']	['dollar']	0.370613217529
+['electrician work', 'work']	['16 dollar']	0.136831688603
+['electrician work', 'work']	['owner']	0.38844537072
+['electrician work', 'work']	['1350 dollar']	0.139259023173
+['electrician work', 'work']	['bricklayer work']	0.733274611974
+['bricklayer', 'electrician work']	['electrician']	0.628698184241
+['bricklayer', 'electrician work']	['90 hour']	0.0696933362217
+['bricklayer', 'electrician work']	['new house']	0.0696933362217
+['bricklayer', 'electrician work']	['12 dollar']	0.0696933362217
+['bricklayer', 'electrician work']	['hour']	0.0241916360859
+['bricklayer', 'electrician work']	['dollar']	0.0831640509808
+['bricklayer', 'electrician work']	['16 dollar']	0.0696933362217
+['bricklayer', 'electrician work']	['owner']	0.245788397128
+['bricklayer', 'electrician work']	['1350 dollar']	0.0696933362217
+['bricklayer', 'electrician work']	['bricklayer work']	0.69714995355
+['bricklayer', 'electrician work']	['work']	0.652868363776
+['electrician', 'electrician work']	['bricklayer']	0.820347225332
+['electrician', 'electrician work']	['90 hour']	0.0696933362217
+['electrician', 'electrician work']	['new house']	0.0696933362217
+['electrician', 'electrician work']	['12 dollar']	0.0696933362217
+['electrician', 'electrician work']	['hour']	0.0241916360859
+['electrician', 'electrician work']	['dollar']	0.105959014523
+['electrician', 'electrician work']	['16 dollar']	0.0696933362217
+['electrician', 'electrician work']	['owner']	0.824622993608
+['electrician', 'electrician work']	['1350 dollar']	0.0696933362217
+['electrician', 'electrician work']	['bricklayer work']	0.521255982425
+['electrician', 'electrician work']	['work']	0.761276547679
+['90 hour', 'electrician work']	['bricklayer']	0.079730351659
+['90 hour', 'electrician work']	['electrician']	0.465562097424
+['90 hour', 'electrician work']	['new house']	0.0901100077042
+['90 hour', 'electrician work']	['12 dollar']	0.390490368434
+['90 hour', 'electrician work']	['hour']	0.205067872178
+['90 hour', 'electrician work']	['dollar']	0.0132263547461
+['90 hour', 'electrician work']	['16 dollar']	0.390490368434
+['90 hour', 'electrician work']	['owner']	0.0777864840342
+['90 hour', 'electrician work']	['1350 dollar']	0.0901100077042
+['90 hour', 'electrician work']	['bricklayer work']	0.552490398312
+['90 hour', 'electrician work']	['work']	0.653738463029
+['new house', 'electrician work']	['bricklayer']	0.079730351659
+['new house', 'electrician work']	['electrician']	0.483463331992
+['new house', 'electrician work']	['90 hour']	0.0827346205535
+['new house', 'electrician work']	['12 dollar']	0.0827346205535
+['new house', 'electrician work']	['hour']	0.0101131233914
+['new house', 'electrician work']	['dollar']	0.0179192712897
+['new house', 'electrician work']	['16 dollar']	0.0827346205535
+['new house', 'electrician work']	['owner']	0.0777864840342
+['new house', 'electrician work']	['1350 dollar']	0.0901100077042
+['new house', 'electrician work']	['bricklayer work']	0.578891755681
+['new house', 'electrician work']	['work']	0.648240712829
+['12 dollar', 'electrician work']	['bricklayer']	0.079730351659
+['12 dollar', 'electrician work']	['electrician']	0.285714531579
+['12 dollar', 'electrician work']	['90 hour']	0.390490368434
+['12 dollar', 'electrician work']	['new house']	0.0901100077042
+['12 dollar', 'electrician work']	['hour']	0.00424649792755
+['12 dollar', 'electrician work']	['dollar']	0.306370088568
+['12 dollar', 'electrician work']	['16 dollar']	0.754360422532
+['12 dollar', 'electrician work']	['owner']	0.0777864840342
+['12 dollar', 'electrician work']	['1350 dollar']	0.584269096576
+['12 dollar', 'electrician work']	['bricklayer work']	0.552490398312
+['12 dollar', 'electrician work']	['work']	0.650955657599
+['hour', 'electrician work']	['bricklayer']	0.0389235060065
+['hour', 'electrician work']	['electrician']	0.210676138897
+['hour', 'electrician work']	['90 hour']	0.306959563174
+['hour', 'electrician work']	['new house']	0.015360451052
+['hour', 'electrician work']	['12 dollar']	0.0160064194205
+['hour', 'electrician work']	['dollar']	0.205654674189
+['hour', 'electrician work']	['16 dollar']	0.0160064194205
+['hour', 'electrician work']	['owner']	0.0429475586777
+['hour', 'electrician work']	['1350 dollar']	0.0160064194205
+['hour', 'electrician work']	['bricklayer work']	0.1652320591
+['hour', 'electrician work']	['work']	0.449430565589
+['dollar', 'electrician work']	['bricklayer']	0.111172421365
+['dollar', 'electrician work']	['electrician']	0.246374155355
+['dollar', 'electrician work']	['90 hour']	0.0368028975308
+['dollar', 'electrician work']	['new house']	0.0361569291624
+['dollar', 'electrician work']	['12 dollar']	0.391516700063
+['dollar', 'electrician work']	['hour']	0.205654674189
+['dollar', 'electrician work']	['16 dollar']	0.391516700063
+['dollar', 'electrician work']	['owner']	0.188813087362
+['dollar', 'electrician work']	['1350 dollar']	0.442012633359
+['dollar', 'electrician work']	['bricklayer work']	0.180835845373
+['dollar', 'electrician work']	['work']	0.551347781783
+['16 dollar', 'electrician work']	['bricklayer']	0.079730351659
+['16 dollar', 'electrician work']	['electrician']	0.285714531579
+['16 dollar', 'electrician work']	['90 hour']	0.390490368434
+['16 dollar', 'electrician work']	['new house']	0.0901100077042
+['16 dollar', 'electrician work']	['12 dollar']	0.754360422532
+['16 dollar', 'electrician work']	['hour']	0.00424649792755
+['16 dollar', 'electrician work']	['dollar']	0.306370088568
+['16 dollar', 'electrician work']	['owner']	0.0777864840342
+['16 dollar', 'electrician work']	['1350 dollar']	0.584269096576
+['16 dollar', 'electrician work']	['bricklayer work']	0.552490398312
+['16 dollar', 'electrician work']	['work']	0.650955657599
+['owner', 'electrician work']	['bricklayer']	0.257212104865
+['owner', 'electrician work']	['electrician']	0.583569979112
+['owner', 'electrician work']	['90 hour']	0.0827346205535
+['owner', 'electrician work']	['new house']	0.0827346205535
+['owner', 'electrician work']	['12 dollar']	0.0827346205535
+['owner', 'electrician work']	['hour']	0.0360329285057
+['owner', 'electrician work']	['dollar']	0.151610169111
+['owner', 'electrician work']	['16 dollar']	0.0827346205535
+['owner', 'electrician work']	['1350 dollar']	0.0827346205535
+['owner', 'electrician work']	['bricklayer work']	0.5752094673
+['owner', 'electrician work']	['work']	0.675070781902
+['1350 dollar', 'electrician work']	['bricklayer']	0.079730351659
+['1350 dollar', 'electrician work']	['electrician']	0.285714531579
+['1350 dollar', 'electrician work']	['90 hour']	0.0827346205535
+['1350 dollar', 'electrician work']	['new house']	0.0901100077042
+['1350 dollar', 'electrician work']	['12 dollar']	0.573408386835
+['1350 dollar', 'electrician work']	['hour']	0.00424649792755
+['1350 dollar', 'electrician work']	['dollar']	0.351161209422
+['1350 dollar', 'electrician work']	['16 dollar']	0.573408386835
+['1350 dollar', 'electrician work']	['owner']	0.0777864840342
+['1350 dollar', 'electrician work']	['bricklayer work']	0.578891755681
+['1350 dollar', 'electrician work']	['work']	0.650955657599
+['bricklayer work', 'electrician work']	['bricklayer']	0.581516055124
+['bricklayer work', 'electrician work']	['electrician']	0.581516055124
+['bricklayer work', 'electrician work']	['90 hour']	0.153587928078
+['bricklayer work', 'electrician work']	['new house']	0.139258682248
+['bricklayer work', 'electrician work']	['12 dollar']	0.153587928078
+['bricklayer work', 'electrician work']	['hour']	0.11966446724
+['bricklayer work', 'electrician work']	['dollar']	0.17729368921
+['bricklayer work', 'electrician work']	['16 dollar']	0.153587928078
+['bricklayer work', 'electrician work']	['owner']	0.325390866884
+['bricklayer work', 'electrician work']	['1350 dollar']	0.139258682248
+['bricklayer work', 'electrician work']	['work']	0.613548810701
+['work', 'electrician work']	['bricklayer']	0.580768624573
+['work', 'electrician work']	['electrician']	0.674867953437
+['work', 'electrician work']	['90 hour']	0.136831688603
+['work', 'electrician work']	['new house']	0.139259023173
+['work', 'electrician work']	['12 dollar']	0.136831688603
+['work', 'electrician work']	['hour']	0.243535867177
+['work', 'electrician work']	['dollar']	0.370613217529
+['work', 'electrician work']	['16 dollar']	0.136831688603
+['work', 'electrician work']	['owner']	0.38844537072
+['work', 'electrician work']	['1350 dollar']	0.139259023173
+['work', 'electrician work']	['bricklayer work']	0.733274611974

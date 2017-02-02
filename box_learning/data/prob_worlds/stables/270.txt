@@ -1,0 +1,16 @@
+1
+[['lemonade', '155', 'cup', '-', '-', 'dollar', '265'], ['large cup', 'x1', 'cup', 'dollar', '2.5', '-', '-'], ['small cup', 'x2', 'cup', 'dollar', '1.25', '-', '-']]
+-1
+[['lemonade', 'x2', 'small cup', '-', '-', '1.25', '265'], ['large cup', 'x1', 'cup', 'dollar', '2.5', '-', '-'], ['small cup', 'x2', 'cup', '155', '1.25', 'lemonade', '-']]
+-1
+[['lemonade', '155', 'cup', '-', 'x2', 'dollar', 'small cup'], ['large cup', 'x1', 'cup', 'dollar', '2.5', '-', '-'], ['small cup', 'x2', 'cup', 'dollar', '265', 'lemonade', '-']]
+-1
+[['lemonade', '155', 'cup', '-', '-', 'dollar', 'small cup'], ['large cup', 'x1', 'cup', 'dollar', '2.5', '-', '-'], ['small cup', '155', 'cup', 'dollar', 'lemonade', '-', '-']]
+-1
+[['lemonade', '155', 'cup', 'x2', 'small cup', '-', '265'], ['large cup', 'x1', 'cup', 'dollar', '2.5', '-', '-'], ['small cup', '155', 'cup', 'dollar', '265', 'lemonade', '-']]
+-1
+[['lemonade', '155', 'cup', '-', '-', 'small cup', '1.25'], ['large cup', 'x1', 'cup', 'dollar', '2.5', '-', '-'], ['cup', 'x2', '155', 'lemonade', '1.25', '-', '-']]
+-1
+[['lemonade', '155', 'cup', '-', '-', 'dollar', 'small cup'], ['large cup', 'x1', 'cup', 'dollar', '2.5', '-', '-'], ['small cup', '265', 'cup', 'dollar', 'lemonade', '155', '-']]
+-1
+[['lemonade', '155', 'cup', '1.25', '-', 'dollar', '265'], ['large cup', 'x1', 'cup', 'dollar', '2.5', '-', '-'], ['155', 'x2', '265', 'dollar', '1.25', '-', '-']]

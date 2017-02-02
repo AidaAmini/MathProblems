@@ -1,0 +1,53 @@
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP
+        (VBP are)
+        (VP
+          (VBG taking)
+          (NP
+            (NP (DT a) (NN test))
+            (SBAR
+              (WHPP (IN in) (WHNP (WDT which)))
+              (S
+                (NP (JJ multiple) (NN choice) (NNS questions))
+                (VP
+                  (VBP are)
+                  (ADJP (JJ worth) (NP (CD 9) (NNS points))))))))))
+    (CC and)
+    (S
+      (NP (NN essay) (NNS questions))
+      (VP (VBP are) (ADJP (JJ worth) (NP (CD 12) (NNS points)))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (PRP You))
+      (VP
+        (VBP answer)
+        (NP (CD 16) (NNS questions))
+        (ADVP (RB correctly))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP$ your) (NN score))
+      (VP (VBD was) (NP (CD 162) (NNS points))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (SBAR
+        (WHADJP (WRB how) (JJ many))
+        (S
+          (NP
+            (NP (JJ multiple) (NN choice) (NNS questions))
+            (NP (PRP you)))
+          (VP (VBD got) (ADVP (RB right))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NN essay) (NNS questions))
+    (SQ (VBD did) (NP (PRP you)) (VP (VB get) (ADVP (RB right))))
+    (. ?)))

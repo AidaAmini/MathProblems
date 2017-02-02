@@ -1,0 +1,13 @@
+freight train	train
+freight train	express train
+train	express train
+town 390 kilometer	kilometer
+town 390 kilometer	30 kilometer
+kilometer	30 kilometer
+another	freight train
+another	town 390 kilometer
+hour slower	freight train
+hour slower	town 390 kilometer
+3 hour later	30 kilometer
+fast	freight train
+fast	town 390 kilometer

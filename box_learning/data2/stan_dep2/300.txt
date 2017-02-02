@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN cashier))
+      (PP (IN at) (NP (NNP Apex) (NNP Parts))))
+    (VP
+      (VBD received)
+      (NP (DT a) (NN check))
+      (PP (IN for) (NP (CD 2380) (NNS dollars)))
+      (PP (IN for) (NP (CD 59) (NNS parts))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT Some) (NNS parts))
+    (VP
+      (VBD cost)
+      (SBAR
+        (S
+          (NP
+            (NP (CD 20) (NNS dollars))
+            (PP
+              (IN per)
+              (NP (NN part) (CC and) (JJ other) (NNS parts))))
+          (VP
+            (VBP cost)
+            (NP
+              (NP (CD 50) (NNS dollars))
+              (PP (IN per) (NP (NN part))))))))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (JJ 20-dollar) (NNS parts))
+      (VP (VBP are) (PP (IN in) (NP (DT the) (NN order)))))
+    (. ?)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (JJ 50-dollar) (NNS parts))
+      (VP (VBP are) (PP (IN in) (NP (DT the) (NN order)))))
+    (. ?)))

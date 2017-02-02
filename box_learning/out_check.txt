@@ -1,0 +1,1302 @@
+1
+[['ticket', 'ticket', '-', 'dollar'], ['student ticket', 'ticket', 'dollar', '-'], ['general admission ticket', 'ticket', 'dollar', '-']]
+['ticket', 'high school play', 'student ticket', '4 dollar', 'general admission ticket', '6 dollar', '525 ticket', '2876 dollar', 'dollar']
+['4', '6', '525', '2876']
+['ticket', 'high school play', 'student ticket', 'dollar', 'general admission ticket']
+
+
+2
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+['store', 'compact disc', '10.50 dollar', '8.50 dollar', '10 disc', '93 dollar', '10.50', 'dollar', 'disc']
+['10.50', '8.50', '10', '93', '10.50']
+['store', 'compact disc', 'dollar', 'disc']
+
+
+3
+[['fund', 'dollar', '-', 'dollar'], ['7 %', '-', '%', '-'], ['6 %', '-', '%', '-']]
+['6100 dollar', '2 fund', '7 %', '6 % simple interest', 'interest', 'fund', '405 dollar', 'year', 'dollar', '%', '% simple interest']
+['6100', '2', '7', '6', '405']
+['dollar', 'fund', '%', '% simple interest', 'interest', 'year']
+
+
+4
+[['question', 'question', '-', 'point'], ['2 point question', 'question', 'point', '-'], ['4 point question', 'question', 'point', '-']]
+['teacher', 'test worth', '100 point', '40 question', '2 point', '4 point question', 'two point question', '4 point', 'question', 'point question']
+['100', '40', '2', '4', 'two', '4']
+['teacher', 'test worth', 'point', 'question', 'point question']
+
+
+6
+[['ticket', 'seat', '-', 'dollar'], ['adult ticket', '-', 'dollar', '-'], ['child ticket', '-', 'dollar', '-']]
+['theater', '80 seat', 'open night', 'adult ticket', '12 dollar', 'child ticket', '5 dollar', '519 dollar', 'dollar']
+['80', '12', '5', '519']
+['theater', 'seat', 'open night', 'adult ticket', 'dollar', 'child ticket']
+
+
+9
+[['mix', 'pound', 'dollar', '-'], ['peruvian coffee bean', 'pound', 'dollar', '-'], ['colombian coffee bean', 'pound', 'dollar', '-']]
+['colombian coffee bean', '5.50 dollar', 'poun', 'peruvian coffee bean', '4.25 dollar', '40-pound bag', '4.60 dollar', 'pound of columbian bean', 'pound of peruvian bean', 'use', 'dollar', 'bag']
+['5.50', '4.25', '4.60']
+['colombian coffee bean', 'dollar', 'poun', 'peruvian coffee bean', '40-pound bag', 'pound of columbian bean', 'pound of peruvian bean', 'use', 'bag']
+
+
+10
+[['fund', 'dollar', '-', '-'], ['5 %', '-', '%', '-'], ['7 %', '-', '%', '-']]
+['10,000 dollar', '2 fund', '5 %', '7 % annual interest', 'annual interest', '630 dollar', 'dollar', 'fund', '%', '% annual interest']
+['10,000', '2', '5', '7', '630']
+['dollar', 'fund', '%', '% annual interest', 'annual interest']
+
+
+13
+[['25 % alcohol', 'ounce', '% alcohol', '-'], ['15 % alcohol', '-', '% alcohol', '-'], ['45 % alcohol', '-', '% alcohol', '-']]
+['chemist', '30 ounce', '25 % alcohol solution', '15 % alcohol solution', '40 % alcohol solution', 'ounce', '15 % solution', '40 % solution', '% alcohol solution', '% solution']
+['30', '25', '15', '40', '15', '40']
+['chemist', 'ounce', '% alcohol solution', '% solution']
+
+
+15
+[['45 % solution', 'milliliter', '%', '-'], ['25 % copper solution', 'milliliter', '%', '-'], ['50 % copper solution', 'milliliter', '%', '-']]
+['solution', 'chemistry class', '25 % copper solution', '50 % copper solution', 'milliliter', '25 % solution', '50 % solution', '1000 milliliter', '45 % solution', '% copper solution', '% solution']
+['25', '50', '25', '50', '1000', '45']
+['solution', 'chemistry class', '% copper solution', 'milliliter', '% solution']
+
+
+19
+[['12 percent solution', 'cubic-centimeter', 'percent solution', '-'], ['6 percent acid solution', '-', 'percent acid solution', '-'], ['14 percent acid solution', '-', 'percent acid solution', '-']]
+['6 percent acid solution', '14 percent acid solution', '50 cubic-centimeter', '12 percent solution', 'percent acid solution', 'cubic-centimeter', 'percent solution', 'centimeter']
+['6', '14', '50', '12']
+['percent acid solution', 'cubic-centimeter', 'percent solution', 'centimeter']
+
+
+20
+[['corn and wheat', 'acre', '-', 'dollar'], ['wheat', 'acre', 'dollar', '-'], ['corn', 'acre', 'dollar', '-']]
+['johnson farm', '500 acre of land', 'corn and wheat', '42 dollar', '30 dollar', 'mr', 'mr.johnson', '18,600 dollar available', 'crop', 'land and entire budget', 'acre of wheat', 'acre of land', 'dollar', 'dollar available']
+['500', '42', '30', '18,600']
+['johnson farm', 'acre of land', 'corn and wheat', 'dollar', 'mr', 'mr.johnson', 'dollar available', 'crop', 'land and entire budget', 'acre of wheat']
+
+
+21
+[['-', '-', '-', 'dollar'], ['commision', '%', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+['trenton', 'electronic supplies', 'week', '190 dollar', 'commission equal', '4 %', 'goal', '500 dollar', 'write', 'inequality', 'of sale', 'dollar', '%']
+['190', '4', '500']
+['trenton', 'electronic supplies', 'week', 'dollar', 'commission equal', '%', 'goal', 'write', 'inequality', 'of sale']
+
+
+23
+[['24.9 % copper', 'ounce', '% copper', '-'], ['20 % alloy', 'ounce', '% alloy', '-'], ['27 % alloy', 'ounce', '% alloy', '-']]
+['anne and nancy', 'metal alloy', '24.9 % copper', 'jewelry', 'ounce', '20 % alloy', '27 % alloy', '100 ounce', 'alloy', '% copper', '% alloy']
+['24.9', '20', '27', '100']
+['anne and nancy', 'metal alloy', '% copper', 'jewelry', 'ounce', '% alloy', 'alloy']
+
+
+24
+[['book', 'book', '-', 'dollar'], ['6-dollar book', '-', 'dollar', '-'], ['6.50-dollar book', '-', 'dollar', '-']]
+['nine book', '6 dollar', '6.50 dollar', '56 dollar', '6-dollar book', '6.50-dollar book', 'dollar']
+['nine', '6', '6.50', '56']
+['book', 'dollar', '6-dollar book', '6.50-dollar book']
+
+
+25
+[['ticket', 'ticket', '-', 'dollar'], ['7-dollar ticket', '-', 'dollar', '-'], ['9-dollar ticket', '-', 'dollar', '-']]
+['booster club', 'annual trip', 'majority', 'club', 'baseball game', '29 ticket', 'ticket', '7 dollar', '9 dollar', '225 dollar', '7-dollar ticket', '9-dollar ticket', 'dollar']
+['29', '7', '9', '225']
+['booster club', 'annual trip', 'majority', 'club', 'baseball game', 'ticket', 'dollar', '7-dollar ticket', '9-dollar ticket']
+
+
+28
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+['concession stand', 'hot dog', 'hot dog cost', '1.50 dollar', '0.50 dollar', '78.50 dollar', '87 hot dog', 'soda', 'hot dog and soda', 'dollar']
+['1.50', '0.50', '78.50', '87']
+['concession stand', 'hot dog', 'hot dog cost', 'dollar', 'soda', 'hot dog and soda']
+
+
+30
+[['-', '-', '-', 'dollar'], ['doughnut', '-', 'dollar', '-'], ['large coffee', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['doughnut', '-', 'dollar', '-'], ['large coffee', '-', 'dollar', '-']]
+['three doughnut', 'four large coffee', 'office staff', '4.91 dollar', 'tuesday melinda', 'five doughnut', 'six large coffee', '7.59 dollar', 'doughnut', 'large coffee']
+['three', 'four', '4.91', 'five', 'six', '7.59']
+['doughnut', 'large coffee', 'office staff', 'dollar', 'tuesday melinda']
+
+
+37
+[['5-dollar and 20-dollar bill', 'bill', '-', 'dollar'], ['5-dollar bill', 'bill', 'dollar', '-'], ['20-dollar bill', 'bill', 'dollar', '-']]
+['bank teller', '54 5-dollar', '20-dollar bill', 'cash drawer', 'value', '5 dollar bill', '5-dollar', 'dollar bill']
+['54', '5']
+['bank teller', '5-dollar', '20-dollar bill', 'cash drawer', 'value', 'dollar bill']
+
+
+38
+[['fund', 'dollar', '-', 'dollar'], ['junk bond fund', '-', '% interest', '-'], ['government bond fund', '-', '% interest', '-']]
+['10,000 dollar', 'two bond mutual fund', 'junk bond fund', 'government bond fund', 'junk fund', 'risky', 'yield', '11 % interest', 'safer government bond fund yield', '5 %', 'year', 'income', 'two investment', '740 dollar', 'fund', 'dollar', '% interest', '%']
+['10,000', 'two', '11', '5', 'two', '740']
+['dollar', 'bond mutual fund', 'junk bond fund', 'government bond fund', 'junk fund', 'risky', 'yield', '% interest', 'safer government bond fund yield', '%', 'year', 'income', 'investment', 'fund']
+
+
+45
+[['ticket', 'ticket', '-', 'dollar'], ['child ticket', '-', 'dollar', '-'], ['adult ticket', '-', 'dollar', '-']]
+['ticket', 'admission', 'school', '104 dollar', 'admission price', '6 dollar', 'adult', '4 dollar', '21 ticket', 'adult ticket', 'child ticket', 'dollar']
+['104', '6', '4', '21']
+['ticket', 'admission', 'school', 'dollar', 'admission price', 'adult', 'adult ticket', 'child ticket']
+
+
+46
+[['work', 'hour', '-', 'dollar'], ['ordinary time', 'hour', 'cent', '-'], ['overtime', 'hour', 'cent', '-']]
+['worker', '60 cent', 'hour', 'ordinary time', '90 cent', 'overtime', '32.40 dollar', '50 hour', 'cent', 'dollar']
+['60', '90', '32.40', '50']
+['worker', 'cent', 'hour', 'ordinary time', 'overtime', 'dollar']
+
+
+47
+[['part-time job', 'hour', '-', 'dollar'], ['college library', 'hour', 'dollar', '-'], ['construction work', 'hour', 'dollar', '-']]
+['2 part-time job', '8.00 dollar', 'hour', 'college library', '15.00 dollar', 'construction work', '25 hour', 'week', '300 dollar', 'part-time job', 'dollar', 'job']
+['2', '8.00', '15.00', '25', '300']
+['part-time job', 'dollar', 'hour', 'college library', 'construction work', 'week', 'job']
+
+
+48
+[['coin', 'coin', '-', 'dollar'], ['5-dollar coin', '-', 'dollar', '-'], ['2-dollar coin', '-', 'dollar', '-']]
+['2-dollar coin', '5-dollar coin', '40 coin', '125 dollar', 'coin']
+['40', '125']
+['2-dollar coin', '5-dollar coin', 'coin', 'dollar']
+
+
+49
+[['room', 'room', '-', 'dollar'], ['single room', '-', 'dollar', '-'], ['double room', '-', 'dollar', '-']]
+['night', '260 room', 'single room', 'double room', '35 dollar', '60 dollar', '14000 dollar', 'single room and double room', 'room', 'dollar']
+['260', '35', '60', '14000']
+['night', 'room', 'single room', 'double room', 'dollar', 'single room and double room']
+
+
+51
+[['65 % alcohol solution', 'gallon', '% alcohol solution', '-'], ['75 % alcohol solution', 'gallon', '% alcohol solution', '-'], ['50 % alcohol solution', 'gallon', '% alcohol solution', '-']]
+['75 % alcohol solution', '50 % alcohol solution', '65 % alcohol solution', '% alcohol solution']
+['75', '50', '65']
+['% alcohol solution']
+
+
+52
+[['-', 'dollar', '-', 'dollar'], ['4 %', '-', '% annual simple 4', '-'], ['3 %', '-', '%', '-']]
+['investor', '15000 dollar', '2 account', '4 % annual simple interest', '3 %', '550 dollar annual interest', '4 %', 'dollar', 'account', '% annual simple interest', '%', 'dollar annual interest']
+['15000', '2', '4', '3', '550', '4']
+['investor', 'dollar', 'account', '% annual simple interest', '%', 'dollar annual interest']
+
+
+54
+[['card', 'card', '-', 'credit'], ['red card', 'card', 'credit', '-'], ['blue card', 'card', 'credit', '-']]
+['card', '3 credit', 'blue card', '5 credit', 'combination', '20 card', '84 credit', 'red card', 'credit']
+['3', '5', '20', '84']
+['card', 'credit', 'blue card', 'combination', 'red card']
+
+
+55
+[['ticket', 'ticket', '-', 'dollar'], ['student ticket', 'ticket', 'dollar', '-'], ['adult ticket', 'ticket', 'dollar', '-']]
+['ron and kathy', 'ticket-seller', 'ron handling student ticket', '2.00 dollar', 'adult ticket', '4.50 dollar', 'income', '20 ticket', '60.00 dollar', 'ron', 'dollar', 'ticket']
+['2.00', '4.50', '20', '60.00']
+['ron and kathy', 'ticket-seller', 'ron handling student ticket', 'dollar', 'adult ticket', 'income', 'ticket', 'ron']
+
+
+58
+[['', 'carton', '-', 'dollar'], ['pencil', 'carton', 'dollar', '-'], ['eraser', 'carton', 'dollar', '-']]
+['6 dollar', 'carton and eraser', '3 dollar', 'order', '100 carton', '360 dollar', 'dollar', 'carton']
+['6', '3', '100', '360']
+['dollar', 'carton and eraser', 'order', 'carton']
+
+
+60
+[['-', 'dollar', '-', 'dollar'], ['9 %', '-', '%', '-'], ['8 %', '-', '%', '-']]
+['extra', '9000 dollar last year', 'part-time job', '9 %', 'rest', '%', '770 dollar', 'interest', 'dollar last year', 'job', 'dollar']
+['9000', '9', '770']
+['extra', 'dollar last year', 'part-time job', '%', 'rest', 'dollar', 'interest', 'job']
+
+
+64
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+['employment agency', 'temporary construction help', 'heavy equipment operator', '140 dollar', '90 dollar', '35 people', '3950 dollar', 'laborer', 'employ', 'dollar', 'people']
+['140', '90', '35', '3950']
+['employment agency', 'temporary construction help', 'heavy equipment operator', 'dollar', 'people', 'laborer', 'employ']
+
+
+69
+[['adult and child', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+['7 dollar', 'adult', '5 dollar', '127 adult', 'child', '839 dollar', 'ticket sale', 'child and adult', 'film premiere', 'dollar']
+['7', '5', '127', '839']
+['dollar', 'adult', 'child', 'ticket sale', 'child and adult', 'film premiere']
+
+
+76
+[['copy', 'copy', '-', 'dollar'], ['color copy', '-', 'cent', '-'], ['white copy', '-', 'cent', '-']]
+['color copy', '10 cent', 'copy and white copy', '5 cent', 'copy', '400 copy', 'rest white', '22.50 dollar', 'cent']
+['10', '5', '400', '22.50']
+['color copy', 'cent', 'copy and white copy', 'copy', 'rest white', 'dollar']
+
+
+78
+[['souvenir', 'souvenir', '-', 'dollar'], ['20 cent souvenier', 'souvenir', 'cent', '-'], ['25 cent souvenier', 'souvenir', 'cent', '-']]
+['grand opening', 'guthrie market', 'two different type of souvenir', '20 cent', 'type', '25 cent', 'thousand souvenir', 'souvenir', '220 dollar', '25 cent souvenier', 'distribute', 'cent', 'cent souvenier']
+['two', '20', '25', 'thousand', '220', '25']
+['grand opening', 'guthrie market', 'different type of souvenir', 'cent', 'type', 'souvenir', 'dollar', 'cent souvenier', 'distribute']
+
+
+79
+[['ticket', 'ticket', '-', 'dollar'], ['student ticket', 'ticket', 'dollar', '-'], ['non-student ticket', 'ticket', 'dollar', '-']]
+['193 ticket', '2003 ice cream picnic', 'student ticket', '0.50 dollar', 'non-student ticket', '1.50 dollar', '206.50 dollar', 'ticket', 'ice cream picnic', 'dollar']
+['193', '2003', '0.50', '1.50', '206.50']
+['ticket', 'ice cream picnic', 'student ticket', 'dollar', 'non-student ticket']
+
+
+81
+[['ticket', 'ticket', '-', 'dollar'], ['adult', 'adult ticket', 'dollar', '-'], ['student', 'student ticket', 'dollar', '-']]
+['ticket', 'ballet performance', '14 dollar', 'adult', '12 dollar', 'receipt', '605 ticket', '8,390.00 dollar', 'adult ticket', 'student ticket', 'dollar']
+['14', '12', '605', '8,390.00']
+['ticket', 'ballet performance', 'dollar', 'adult', 'receipt', 'adult ticket', 'student ticket']
+
+
+82
+[['fruit', 'pound', '-', 'dollar'], ['apple', 'pound', 'dollar', '-'], ['grape', 'pound', 'dollar', '-']]
+['apple', '0.60 dollar', 'pound and grape', '1.00 dollar', '12 pound of fruit', '10.00 dollar', 'pound of apple', 'pound of grape', 'dollar', 'pound of fruit']
+['0.60', '1.00', '12', '10.00']
+['apple', 'dollar', 'pound and grape', 'pound of fruit', 'pound of apple', 'pound of grape']
+
+
+88
+[['72 % solution', 'liter', '%', '-'], ['60 % acid solution', '-', '%', '-'], ['75 % acid solution', '-', '%', '-']]
+['liter', '60 % acid solution', '75 % acid solution', '20 liter', '72 % solution', '% acid solution', '% solution']
+['60', '75', '20', '72']
+['liter', '% acid solution', '% solution']
+
+
+90
+[['people', 'ticket', '-', 'dollar'], ['child', 'child ticket', 'dollar', '-'], ['adult', 'adult ticket', 'dollar', '-']]
+['amusement park', '2 kind of ticket', 'ticket', 'child', '1.50 dollar', 'adult ticket', '4 dollar', 'certain day', '278 people', 'same day', 'admission fee', '792 dollar', 'adult', 'admit', 'kind of ticket', 'people']
+['2', '1.50', '4', '278', '792']
+['amusement park', 'kind of ticket', 'ticket', 'child', 'dollar', 'adult ticket', 'certain day', 'people', 'same day', 'admission fee', 'adult', 'admit']
+
+
+91
+[['stamp', 'stamp', '-', 'dollar'], ['post card stamp', 'stamp', 'dollar', '-'], ['letter stamp', 'stamp', 'dollar', '-']]
+['post card stamp', '0.20 dollar', 'letter stamp', '0.33 dollar', '50 stamp worth 12.60 dollar', 'letter', 'dollar', 'stamp worth 12.60 dollar']
+['0.20', '0.33', '50']
+['post card stamp', 'dollar', 'letter stamp', 'stamp worth 12.60 dollar', 'letter']
+
+
+92
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+['river jo seafood diner', '6.00 dollar', 'catfish dinner', '3.50 dollar', 'order of popcorn shrimp', '26 order', 'river joe', '133.50 dollar', 'dollar']
+['6.00', '3.50', '26', '133.50']
+['river jo seafood diner', 'dollar', 'catfish dinner', 'order of popcorn shrimp', 'order', 'river joe']
+
+
+95
+[['bill', 'bill', '-', 'dollar'], ['20-dollar bill', 'bill', 'dollar', '-'], ['50-dollar bill', 'bill', 'dollar', '-']]
+['bank teller', '390 dollar', '20-dollar bill and 50-dollar bill', '15 bill', '20-dollar bill', '50-dollar', 'dollar', 'bill and 50-dollar bill', 'dollar bill']
+['390', '15']
+['bank teller', 'dollar', '20-dollar bill and 50-dollar bill', 'bill', '20-dollar bill', '50-dollar', 'bill and 50-dollar bill', 'dollar bill']
+
+
+96
+[['ticket', 'ticket', '-', 'dollar'], ['balcony seat', '-', 'dollar', '-'], ['floor seat', '-', 'dollar', '-']]
+['theater', '900 ticket', 'play', '12 dollar', 'balcony seat', '10 dollar', 'receipt', '9,780 dollar', 'floor seat', 'ticket', 'dollar']
+['900', '12', '10', '9,780']
+['theater', 'ticket', 'play', 'dollar', 'balcony seat', 'receipt', 'floor seat']
+
+
+97
+[['ticket', 'ticket', '-', 'dollar'], ['adult ticket', '-', 'dollar', '-'], ['child ticket', '-', 'dollar', '-']]
+['movie theater', '7 dollar', 'adult', '4 dollar', 'child ticket', 'night', '900 ticket', '5,100 dollar', 'adult ticket', 'dollar', 'ticket']
+['7', '4', '900', '5,100']
+['movie theater', 'dollar', 'adult', 'child ticket', 'night', 'ticket', 'adult ticket']
+
+
+98
+[['-', '-', '-', 'dollar'], ['paper clip', 'box', 'dollar', '-'], ['index card', 'package', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['paper clip', 'box', 'dollar', '-'], ['index card', 'package', 'dollar', '-']]
+['eldora and finn', 'office supply store together', '15 box of paper clip', '7 package of index card', '55.40 dollar', '12 box of paper clip', '10 package of index card', '61.70 dollar', 'box of paper clip', 'package of index card']
+['15', '7', '55.40', '12', '10', '61.70']
+['eldora and finn', 'office supply store together', 'box of paper clip', 'package of index card', 'dollar']
+
+
+100
+[['gift wrap', 'roll', '-', 'dollar'], ['solid color', 'roll', 'dollar', '-'], ['print gift wrap', 'roll', 'dollar', '-']]
+['high school', 'gift wrap', 'solid color', '4.00 dollar', 'print gift wrap', '6.00 dollar', 'of roll', '480 roll', 'of money', '2,340.00 dollar', 'solid roll', 'print roll', 'dollar']
+['4.00', '6.00', '480', '2,340.00']
+['high school', 'gift wrap', 'solid color', 'dollar', 'print gift wrap', 'of roll', 'roll', 'of money', 'solid roll', 'print roll']
+
+
+101
+[['40 % solution', 'ounce', '% acid solution', '-'], ['25 % acid solution', '-', '% acid solution', '-'], ['50 % acid solution', '-', '% acid solution', '-']]
+['shop', 'metal', 'acid solution', 'owner', 'certain job', 'job supervisor', '30 ounce', '40 % solution', 'acid solution supplies', 'supervisor', '25 % acid solution', '50 % acid solution', '40 % acid solution', 'two exist solution', 'mixed', 'solution', 'need', 'ounce', '% solution', '% acid solution']
+['30', '40', '25', '50', '40', 'two']
+['shop', 'metal', 'acid solution', 'owner', 'certain job', 'job supervisor', 'ounce', '% solution', 'acid solution supplies', 'supervisor', '% acid solution', 'exist solution', 'mixed', 'solution', 'need']
+
+
+103
+[['2.50 dollar per kilogram', 'dollar', '2.5', '-'], ['4.00 dollar per kilogram', 'dollar', '4', '-'], ['2.00 dollar per kilogram', 'dollar', '2', '-']]
+['special tea blend', 'two variety of herbal tea', '4.00 dollar', 'kilogram', '2.00 dollar', 'type', '20 kilogram', '2.50 dollar', 'dollar']
+['two', '4.00', '2.00', '20', '2.50']
+['special tea blend', 'variety of herbal tea', 'dollar', 'kilogram', 'type']
+
+
+105
+[['violin', 'violin', '-', 'dollar'], ['200-dollar violin', 'violin', 'dollar', '-'], ['300-dollar violin', 'violin', 'dollar', '-']]
+['1 week', 'music store', '7 violin', '1600 dollar', '2 different type', '200 dollar', '300 dollar', '200-dollar violin', '300-dollar violin', 'week', 'violin', 'different type', 'dollar']
+['1', '7', '1600', '2', '200', '300']
+['week', 'music store', 'violin', 'dollar', 'different type', '200-dollar violin', '300-dollar violin']
+
+
+106
+[['-', '-', '-', 'dollar'], ['daily rate', 'day', 'dollar', '-'], ['-', 'mile', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['daily rate', 'day', 'dollar', '-'], ['-', 'mile', 'dollar', '-']]
+['sunshine car rental', 'basic car', 'daily rate', '17.99 dollar', '0.18', 'mile', 'city rental', '18.95 dollar', '0.16', 'mileage', 'dollar']
+['17.99', '0.18', '18.95', '0.16']
+['sunshine car rental', 'basic car', 'daily rate', 'dollar', 'mile', 'city rental', 'mileage']
+
+
+110
+[['-', 'dollar', '', 'dollar'], ['-', '-', 'percent interest', '-'], ['-', '-', 'percent interest', '-']]
+['3,000 dollar', '10 percent interest', 'year', 'rest', '8 percent interest', 'yearly interest', 'investment', '256 dollar', '10 percent', '8 percent', 'percent interest', 'dollar', 'percent']
+['3,000', '10', '8', '256', '10', '8']
+['dollar', 'percent interest', 'year', 'rest', 'yearly interest', 'investment', 'percent']
+
+
+115
+[['people', 'ticket', '-', 'dollar'], ['child', 'adult ticket', 'dollar', '-'], ['adult', 'child ticket', 'dollar', '-']]
+['adult ticket', 'play', '8 dollar', 'child ticket', '1 dollar', '22 people', 'theater', '50 dollar', 'ticket sale', 'child', 'dollar', 'people']
+['8', '1', '22', '50']
+['adult ticket', 'play', 'dollar', 'child ticket', 'people', 'theater', 'ticket sale', 'child']
+
+
+117
+[['8.40 dollar per pound', 'pound', 'dollar', '-'], ['9.00 dollar per pound', 'pound', 'dollar', '-'], ['8.00 dollar per pound', 'pound', 'dollar', '-']]
+['1 blend of coffee', '9.00 dollar', '8.00 dollar', '20 pound blend', '8.40 dollar', '8 dollar', 'pound coffee', '9 dollar', 'need', 'blend of coffee', 'dollar', 'pound blend']
+['1', '9.00', '8.00', '20', '8.40', '8', '9']
+['blend of coffee', 'dollar', 'pound blend', 'pound coffee', 'need']
+
+
+122
+[['-', '-', '-', 'dollar'], ['apple', '-', 'dollar', '-'], ['orange', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['apple', '-', 'dollar', '-'], ['orange', '-', 'dollar', '-']]
+['4 apple', '2 orange', '1 dollar', '2 apple', '3 orange', '0.70 dollar', 'apple', 'orange', 'dollar']
+['4', '2', '1', '2', '3', '0.70']
+['apple', 'orange', 'dollar']
+
+
+128
+[['10 % orange juice', 'liter', '% orange juice', '-'], ['5 % orange juice', 'liter', '% orange juice', '-'], ['30 % orange juice', 'liter', '% orange juice', '-']]
+['can juice drink', '30 % orange juice', '5 % orange juice', 'liter', 'mixed', '25 liter', '10 % orange juice', '% orange juice']
+['30', '5', '25', '10']
+['can juice drink', '% orange juice', 'liter', 'mixed']
+
+
+131
+[['hat and boot', 'item', '-', 'dollar'], ['hat', '-', 'dollar', '-'], ['boot', '-', 'dollar', '-']]
+['item', 'hat and boot', '190.00 dollar', '9.00 dollar', 'hat', '5.00 dollar', 'dollar']
+['190.00', '9.00', '5.00']
+['item', 'hat and boot', 'dollar', 'hat']
+
+
+133
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+['pencil', '25 cent', 'piece', 'pen', '80 cent', '20 dollar', '36 pen', 'cent', 'dollar']
+['25', '80', '20', '36']
+['pencil', 'cent', 'piece', 'pen', 'dollar']
+
+
+134
+[['-', '-', '-', 'dollar'], ['daily rate', 'day', 'dollar', '-'], ['-', 'mile', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['daily rate', 'day', 'dollar', '-'], ['-', 'mile', 'dollar', '-']]
+['safety rent-a-car', 'intermediate-size car', 'daily rate', '21.95 dollar', '0.19', 'mile', 'city rental', '18.95 dollar', '0.21', 'milage', 'a-car', 'size car', 'dollar']
+['21.95', '0.19', '18.95', '0.21']
+['safety rent-a-car', 'intermediate-size car', 'daily rate', 'dollar', 'mile', 'city rental', 'milage', 'a-car', 'size car']
+
+
+135
+[['-', 'dollar', '-', 'dollar'], ['3 %', '-', '%', '-'], ['5 %', '-', '%', '-']]
+['18,000 dollar', '3 %', '5 %', 'interest', 'year', '660 dollar', '%', 'dollar']
+['18,000', '3', '5', '660']
+['dollar', '%', 'interest', 'year']
+
+
+138
+[['shot', 'shot', '-', 'point'], ['3-point shot', 'shot', 'point', '-'], ['2-point shot', 'shot', 'point', '-']]
+['basketball game', '26 point', '3-point shot and 2-point shot', '11 shot', '3-point shot', '2-point shot', 'shot and 2-point shot', 'shot', 'point shot']
+['26', '11']
+['basketball game', 'point', '3-point shot and 2-point shot', 'shot', '3-point shot', '2-point shot', 'shot and 2-point shot', 'point shot']
+
+
+140
+[['-', '-', '-', 'dollar'], ['new compact disk', '-', '-', '-'], ['use compact disk', '-', '-', '-'], ['-', '-', '-', 'dollar'], ['new compact disk', '-', '-', '-'], ['use compact disk', '-', '-', '-']]
+['lakota', '6 new compact disk', 'compact disk', '127.92 dollar', 'same price', '3 new compact disk', '8 use compact disk', '133.89 dollar', 'single use compact disk', 'new compact disk', 'use compact disk']
+['6', '127.92', '3', '8', '133.89']
+['lakota', 'new compact disk', 'compact disk', 'dollar', 'same price', 'use compact disk', 'single use compact disk']
+
+
+145
+[['ticket', 'ticket', '-', 'dollar'], ['student ticket', '-', 'dollar', '-'], ['non-student ticket', '-', 'dollar', '-']]
+['ticket', 'concert', '7 dollar', 'student', '10 dollar', '2000 ticket', '17,339 dollar', 'student ticket', 'non-student', 'dollar']
+['7', '10', '2000', '17,339']
+['ticket', 'concert', 'dollar', 'student', 'student ticket', 'non-student']
+
+
+148
+[['problem', 'problem', '-', 'point'], ['3 point problem', '-', 'point', '-'], ['4 point problem', '-', 'point', '-']]
+['math test', '100 point', '30 problem', 'problem', '3 point', '4 point', '4 point problem', 'point problem']
+['100', '30', '3', '4', '4']
+['math test', 'point', 'problem', 'point problem']
+
+
+149
+[['-', 'dollar', '-', 'dollar'], ['-', '-', '%', '-'], ['-', '-', '%', '-']]
+['two investment', 'annual income', 'investment', 'annual simple interest rate', '8.5 %', '6.4', '%', '8000 dollar']
+['two', '8.5', '6.4', '8000']
+['investment', 'annual income', 'annual simple interest rate', '%', 'dollar']
+
+
+150
+[['seat', 'seat', '-', 'dollar'], ['adult', 'seat', 'dollar', '-'], ['child', 'seat', 'dollar', '-']]
+['200 seat theater', '3.00 dollar', 'adult', '1.50 dollar', 'ticket income', '510 dollar', 'adult and child', 'audience', 'seat theater', 'dollar']
+['200', '3.00', '1.50', '510']
+['seat theater', 'dollar', 'adult', 'ticket income', 'adult and child', 'audience']
+
+
+153
+[['candy', 'box', '-', 'dollar'], ['pepermint', 'box', 'dollar', '-'], ['candy cane', 'box', 'dollar', '-']]
+['25 box of candy', '28.00', 'box of peppermint', '1.00 dollar', 'box and candy cane', '1.30 dollar', 'box of candy', 'dollar']
+['25', '28.00', '1.00', '1.30']
+['box of candy', 'box of peppermint', 'dollar', 'box and candy cane']
+
+
+157
+[['-', '-', '-', 'dollar'], ['rise', '-', 'dollar', '-'], ['daisy', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['rise', '-', 'dollar', '-'], ['daisy', '-', 'dollar', '-']]
+['rose and daisy', 'flower shop', 'four rose', 'five daisy', '7.90 dollar', 'two rose', 'six daisy', '5.70 dollar', 'individual', 'dollar']
+['four', 'five', '7.90', 'two', 'six', '5.70']
+['rose and daisy', 'flower shop', 'rose', 'daisy', 'dollar', 'individual']
+
+
+158
+[['17 % protein', 'pound', '% protein', '-'], ['18 % protein', 'pound', '% protein', '-'], ['9 % protein', 'pound', '% protein', '-']]
+['soybean meal', '18 % protein', 'cornmeal', '9 % protein', 'soybean', 'pound of cornmeal', 'mixed', '360-pound mixture', '17 % protein', '% protein', 'mixture']
+['18', '9', '17']
+['soybean meal', '% protein', 'cornmeal', 'soybean', 'pound of cornmeal', 'mixed', '360-pound mixture', 'mixture']
+
+
+159
+[['2.2 dollar', 'pound', 'dollar', '-'], ['2-dollar candy', 'pound', 'dollar', '-'], ['3-dollar candy', 'pound', 'dollar', '-']]
+['dealer', 'hard candy', '2.00 dollar', '3.00 dollar', 'mixture', '80 pound', '2.20 dollar', 'pound of 2-dollar candy', 'pound of 3-dollar candy', 'need', 'dollar', 'dollar candy']
+['2.00', '3.00', '80', '2.20']
+['dealer', 'hard candy', 'dollar', 'mixture', 'pound', 'pound of 2-dollar candy', 'pound of 3-dollar candy', 'need', 'dollar candy']
+
+
+160
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+['college entrance exam', 'correct answer', '1 point', 'raw score', 'unanswered question', 'nothing', 'incorrect answer', '0.25 point', '85 question', 'question', 'correctly']
+['1', '0.25', '85']
+['college entrance exam', 'correct answer', 'point', 'raw score', 'unanswered question', 'nothing', 'incorrect answer', 'question', 'correctly']
+
+
+161
+[['question', 'question', '-', 'point'], ['two-point question', '-', 'point', '-'], ['five-point question', '-', 'point', '-']]
+['science test', '100 point', '38 question', 'two-point', 'five-point question', 'two-point question and five-point question', 'question', 'point question', 'point question and five-point question']
+['100', '38']
+['science test', 'point', 'question', 'two-point', 'five-point question', 'two-point question and five-point question', 'point question', 'point question and five-point question']
+
+
+166
+[['-', 'quart', '%', '-'], ['-', '-', '%', '-'], ['-', '-', '%', '-']]
+['thousand quart of milk', '4 % butterfat', '%', 'quart of cream', '23 % butterfat', 'milk', 'result', '% butterfat']
+['thousand', '4', '23']
+['quart of milk', '% butterfat', '%', 'quart of cream', 'milk', 'result']
+
+
+168
+[['rainstorm', 'hour', '-', 'milliliter'], ['first storm', 'hour', 'milliliter', '-'], ['second storm', 'hour', 'milliliter', '-']]
+['two rainstorm', 'certain area', 'first storm', '30 milliliter of rain', 'hour', '15 milliliter of rain', 'week', '45 hour', 'rainfall', '975 milliliter', 'milliliter of rain', 'milliliter']
+['two', '30', '15', '45', '975']
+['rainstorm', 'certain area', 'first storm', 'milliliter of rain', 'hour', 'week', 'rainfall', 'milliliter']
+
+
+170
+[['-', 'cd', '-', 'dollar'], ['7.50 ea', '-', '-', '-'], ['6.50 ea', '-', '-', '-']]
+['cd', '7.50 ea', 'rest', '6.50', 'ea']
+['7.50', '6.50']
+['cd', 'ea', 'rest']
+
+
+171
+[['coin', 'coin', '-', 'dollar'], ['1-dollar coin', '-', 'dollar', '-'], ['2-dollar coin', '-', 'dollar', '-']]
+['girl', '1-dollar coin and 2-dollar coin', '180 coin', '260 dollar', '1-dollar coin', '2-dollar coin', 'coin and 2-dollar coin', 'coin', 'dollar coin']
+['180', '260']
+['girl', '1-dollar coin and 2-dollar coin', 'coin', 'dollar', '1-dollar coin', '2-dollar coin', 'coin and 2-dollar coin', 'dollar coin']
+
+
+173
+[['question', 'question', '-', 'point'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+['120 question', 'final score', '1 point', 'correct answer', '0.25', 'incorrect answer', 'question', '100 point', 'allan answer correctly']
+['120', '1', '0.25', '100']
+['question', 'final score', 'point', 'correct answer', 'incorrect answer', 'allan answer correctly']
+
+
+177
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+['586 people', 'banquet', 'resident', '12.95 dollar', 'non-resident', '17.95 dollar', '9423.70 dollar', 'ticket sale', 'event', 'resident and non-resident', 'people', 'dollar']
+['586', '12.95', '17.95', '9423.70']
+['people', 'banquet', 'resident', 'dollar', 'non-resident', 'ticket sale', 'event', 'resident and non-resident']
+
+
+178
+[['part', 'part', '-', 'dollar'], ['50-dollar part', '-', 'dollar', '-'], ['20-dollar part', '-', 'dollar', '-']]
+['cashier', 'apex part', '2380 dollar', '59 part', 'part', '20 dollar', 'part and other part', '50 dollar', '20-dollar part', 'order', '50-dollar part', 'dollar']
+['2380', '59', '20', '50']
+['cashier', 'apex part', 'dollar', 'part', 'part and other part', '20-dollar part', 'order', '50-dollar part']
+
+
+180
+[['Barney', '-', '-', 'dollar'], ['daily fee', 'day', 'dollar', '-'], ['mileage fee', 'mile', 'dollar', '-'], ['Mary', '-', '-', 'dollar'], ['daily fee', 'day', 'dollar', '-'], ['mileage fee', 'mile', 'dollar', '-']]
+['best rental', 'daily fee', 'mileage fee', '69 dollar', '3 day', '300 mile', '123 dollar', '5 day', '600 mile', 'mileage charge', 'dollar', 'mile']
+['69', '3', '300', '123', '5', '600']
+['best rental', 'daily fee', 'mileage fee', 'dollar', 'day', 'mile', 'mileage charge']
+
+
+181
+[['-', 'liter', '% acid', '-'], ['-', 'liter', '% acid', '-'], ['-', 'liter', '% acid', '-']]
+['chemist', 'solution', '15 % acid', 'second', '25 % acid', 'liter', 'mixed', '100 liter', '18 % acid', '% acid']
+['15', '25', '100', '18']
+['chemist', 'solution', '% acid', 'second', 'liter', 'mixed']
+
+
+185
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+['chemistry lab', '38 student', '16 work-station', 'set', '2 student', 'other', '3 student', 'work-station', 'student', 'station']
+['38', '16', '2', '3']
+['chemistry lab', 'student', 'work-station', 'set', 'other', 'station']
+
+
+186
+[['2.2 dollar', 'pound', 'dollar', '-'], ['2 dollar', 'pound', 'dollar', '-'], ['3 dollar', 'pound', 'dollar', '-']]
+['dealer', 'hard candy', '2 dollar', '3 dollar', 'mixture', '80 pound', '2.20 dollar', 'dollar']
+['2', '3', '80', '2.20']
+['dealer', 'hard candy', 'dollar', 'mixture', 'pound']
+
+
+187
+[['bricklayer and a electrician', 'hour', '-', 'dollar'], ['bricklayer', 'hour', 'dollar', '-'], ['electrician', 'hour', 'dollar', '-']]
+['bricklayer', 'electrician', '90 hour', 'new house', '12 dollar', 'hour', '16 dollar', 'owner', '1350 dollar', 'bricklayer work', 'electrician work', 'dollar']
+['90', '12', '16', '1350']
+['bricklayer', 'electrician', 'hour', 'new house', 'dollar', 'owner', 'bricklayer work', 'electrician work']
+
+
+188
+[['ticket', 'ticket', '-', 'dollar'], ['20-dollar ticket', 'ticket', 'dollar', '-'], ['30-dollar ticket', 'ticket', 'dollar', '-']]
+['jazz concert', '191,000 dollar', '7400 ticket', 'ticket', '20 dollar', '30 dollar', '20-dollar ticket', '30-dollar', 'dollar']
+['191,000', '7400', '20', '30']
+['jazz concert', 'dollar', 'ticket', '20-dollar ticket', '30-dollar']
+
+
+190
+[['8.25 dollar per pound', 'pound', 'dollar', '-'], ['9 dollar per pound', '-', 'dollar', '-'], ['4 dollar per pound', '-', 'dollar', '-']]
+['9 dollar', 'pound and coffee', '4 dollar', '9 dollar coffee', '4 dollar coffee', 'mixed', '20 pound of coffee', '8.25 dollar', 'dollar', 'dollar coffee', 'pound of coffee']
+['9', '4', '9', '4', '20', '8.25']
+['dollar', 'pound and coffee', 'dollar coffee', 'mixed', 'pound of coffee']
+
+
+191
+[['ticket', 'people', '-', 'dollar'], ['before the rally', '-', 'dollar', '-'], ['door', '-', 'dollar', '-']]
+['attendance', 'people', 'ticket', '2 dollar', '2.75 dollar', 'receipt', '1706.25 dollar', 'dollar']
+['2', '2.75', '1706.25']
+['attendance', 'people', 'ticket', 'dollar', 'receipt']
+
+
+193
+[['ticket', 'ticket', '-', 'dollar'], ['adult ticket', '-', 'dollar', '-'], ['child ticket', '-', 'dollar', '-']]
+['school', 'ticket', 'performance', 'adult and child ticket', 'adult ticket', '5 dollar', 'child ticket', '3 dollar', 'end', 'week', '178 dollar', '42 ticket', 'dollar']
+['5', '3', '178', '42']
+['school', 'ticket', 'performance', 'adult and child ticket', 'adult ticket', 'dollar', 'child ticket', 'end', 'week']
+
+
+195
+[['people', '-', '-', 'dollar'], ['heavy operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+['employment agency', 'temporary help', 'heavy operator', '129 dollar', '82 dollar', '31 people', '3952 dollar', 'employ', 'dollar', 'people']
+['129', '82', '31', '3952']
+['employment agency', 'temporary help', 'heavy operator', 'dollar', 'people', 'employ']
+
+
+196
+[['bill', 'bill', '-', 'dollar'], ['5-dollar bill', 'bill', 'dollar', '-'], ['10-dollar bill', 'bill', 'dollar', '-']]
+['cashier', '126 bill', '5-dollar bill and 10-dollar bill', 'value', '840 dollar', '5-dollar bill', 'have', '10-dollar bill', 'bill and 10-dollar bill', 'dollar bill']
+['126', '840']
+['cashier', 'bill', '5-dollar bill and 10-dollar bill', 'value', 'dollar', '5-dollar bill', 'have', '10-dollar bill', 'bill and 10-dollar bill', 'dollar bill']
+
+
+197
+[['pumpkin', 'pumpkin', '-', 'dollar'], ['jumbo pumpkin', '-', 'dollar', '-'], ['regular pumpkin', '-', 'dollar', '-']]
+['pumpkin', 'jumbo pumpkin', '9.00 dollar', 'regular pumpkin', '4.00 dollar', '80 pumpkin', '395.00 dollar', 'jumbo pumpkin and regular pumpkin', 'dollar']
+['9.00', '4.00', '80', '395.00']
+['pumpkin', 'jumbo pumpkin', 'dollar', 'regular pumpkin', 'jumbo pumpkin and regular pumpkin']
+
+
+199
+[['Baldwin and McInotosh apple', 'bushel', '-', 'dollar'], ['baldwin', 'bushel', 'cent', '-'], ['McInotosh', 'bushel', 'cent', '-']]
+['grocer', '12 bushel of baldwin', 'mcinotosh apple', 'baldwin cost', '95 cent', 'bushel', '90 cent', '11.00 dollar', 'lot', 'bushel of baldwin', 'bushel of mcintosh', 'cent', 'dollar']
+['12', '95', '90', '11.00']
+['grocer', 'bushel of baldwin', 'mcinotosh apple', 'baldwin cost', 'cent', 'bushel', 'dollar', 'lot', 'bushel of mcintosh']
+
+
+203
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+['certain hot summer day', '754 people', 'public swimming pool', 'daily price', '1.50 dollar', 'child', '2.25 dollar', 'receipt', 'admission', '1422.00 dollar', 'child and adult', 'public pool', 'people', 'dollar']
+['754', '1.50', '2.25', '1422.00']
+['certain hot summer day', 'people', 'public swimming pool', 'daily price', 'dollar', 'child', 'receipt', 'admission', 'child and adult', 'public pool']
+
+
+204
+[['-', '-', '-', 'dollar'], ['bagel bag', '-', 'dollar', '-'], ['cream cheese package', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['bagel bag', '-', 'dollar', '-'], ['cream cheese package', '-', 'dollar', '-']]
+['monday morning staff meeting', '2 bag of bagel', '3 package of cream cheese', '12.00 dollar', 'friday meeting', '4 bag of bagel', '2 package of cream cheese', '14.00 dollar', 'bag of bagel', 'package of cream cheese']
+['2', '3', '12.00', '4', '2', '14.00']
+['monday morning staff meeting', 'bag of bagel', 'package of cream cheese', 'dollar', 'friday meeting']
+
+
+205
+[['coin', 'coin', '-', 'dollar'], ['nickel', '-', '-', '-'], ['dime', '-', '-', '-']]
+['3.50 dollar', 'nickel and dime', '50 coin', 'have', 'dollar', 'coin']
+['3.50', '50']
+['dollar', 'nickel and dime', 'coin', 'have']
+
+
+208
+[['-', 'gallon', 'percent antifreeze', '-'], ['-', 'gallon', 'percent antifreeze', '-'], ['-', 'gallon', 'percent antifreeze', '-']]
+['garage owner', '55 gallon', 'customer', 'gallon', '100 percent antifreeze', '10 percent antifreeze mixture', 'percent antifreeze', 'percent antifreeze mixture']
+['55', '100', '10']
+['garage owner', 'gallon', 'customer', 'percent antifreeze', 'percent antifreeze mixture']
+
+
+210
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+['movie theater', 'ticket', '9.50 dollar', 'adult', '6.50 dollar', '7 moviegoer', '54.50 dollar', 'adult and child', 'dollar', 'moviegoer']
+['9.50', '6.50', '7', '54.50']
+['movie theater', 'ticket', 'dollar', 'adult', 'moviegoer', 'adult and child']
+
+
+212
+[['ticket', 'ticket', '-', 'dollar'], ['advance ticket', '-', 'dollar', '-'], ['ticket at the door', '-', 'dollar', '-']]
+['rhapsody theater', 'ticket', 'advanced ticket', '14.50 dollar', 'door cost', '22.00 dollar', '16,640 dollar', 'in', 'dollar']
+['14.50', '22.00', '16,640']
+['rhapsody theater', 'ticket', 'advanced ticket', 'dollar', 'door cost', 'in']
+
+
+213
+[['nut', 'pound', '-', 'dollar'], ['peanut', 'pound', 'dollar', '-'], ['almound', 'pound', 'dollar', '-']]
+['16 pound of nut', 'party', '72 dollar', 'peanut', '3 dollar', 'almound', '5 dollar', 'pound of peanut', 'max buy', 'pound of almound', 'pound of nut', 'dollar']
+['16', '72', '3', '5']
+['pound of nut', 'party', 'dollar', 'peanut', 'almound', 'pound of peanut', 'max buy', 'pound of almound']
+
+
+217
+[['corn and wheat', 'arce', '-', 'dollar'], ['corn', 'arce', 'dollar', '-'], ['wheat', 'arce', 'dollar', '-']]
+['willey farm collective', 'several branch', 'willey', '4500 acre of land available', 'corn and wheat', '42 dollar', 'of wheat', '35 dollar', 'collective available capital', '165,200 dollar', 'acre of corn', 'collective plant', 'acre of wheat', 'acre of land available', 'dollar']
+['4500', '42', '35', '165,200']
+['willey farm collective', 'several branch', 'willey', 'acre of land available', 'corn and wheat', 'dollar', 'of wheat', 'collective available capital', 'acre of corn', 'collective plant', 'acre of wheat']
+
+
+219
+[['ticket', 'ticket', '-', 'dollar'], ['student', 'student ticket', 'dollar', '-'], ['nonstudent', '-', 'dollar', '-']]
+['certain event', '821 ticket', '1933 dollar', 'student', '2 dollar', 'ticket and nonstudent', '3 dollar', 'ticket', 'student ticket', 'dollar']
+['821', '1933', '2', '3']
+['certain event', 'ticket', 'dollar', 'student', 'ticket and nonstudent', 'student ticket']
+
+
+220
+[['note', 'note', '-', 'dollar'], ['5-dollar note', '-', 'dollar', '-'], ['20-dollar note', '-', 'dollar', '-']]
+['mr', 'naidu', '155 dollar', 'grocery', '5-dollar note and 20-dollar note', '13 note', '5-dollar note', '20-dollar note', 'use', 'dollar', 'note and 20-dollar note', 'note', 'dollar note']
+['155', '13']
+['mr', 'naidu', 'dollar', 'grocery', '5-dollar note and 20-dollar note', 'note', '5-dollar note', '20-dollar note', 'use', 'note and 20-dollar note', 'dollar note']
+
+
+225
+[['ticket', 'ticket', '-', 'dollar'], ['36-dollar ticket', '-', 'dollar', '-'], ['28-dollar ticket', '-', 'dollar', '-']]
+['vendor', '200 ticket', 'upcome rock concert', 'floor seat', '36 dollar', 'stadium seat', '28 dollar', '6080 dollar', 'ticket', '36-dollar ticket', '28-dollar ticket', 'dollar']
+['200', '36', '28', '6080']
+['vendor', 'ticket', 'upcome rock concert', 'floor seat', 'dollar', 'stadium seat', '36-dollar ticket', '28-dollar ticket']
+
+
+226
+[['unit', 'unit', '-', 'dollar'], ['1 bedroom', 'unit', 'dollar', '-'], ['2 bedroom', 'untus', 'dollar', '-']]
+['12 unit', '1 bedroom', '360 dollar', '2 bedroom', '450 dollar respectively', 'unit', '4950 dollar', '2 bedroom unit', 'bedroom', 'dollar', 'dollar respectively', 'bedroom unit']
+['12', '1', '360', '2', '450', '4950', '2']
+['unit', 'bedroom', 'dollar', 'dollar respectively', 'bedroom unit']
+
+
+228
+[['day', 'day', '-', 'dollar'], ['work', 'day', 'dollar', '-'], ['idle', 'day', 'dollar', '-']]
+['woman', '20 dollar', '5 dollar', '25 day', '450 dollar', 'dollar']
+['20', '5', '25', '450']
+['woman', 'dollar', 'day']
+
+
+230
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+['multiple choice question', '9 point', 'essay question', '12 point', '16 question', '162 point', 'multiple choice', 'right', 'question']
+['9', '12', '16', '162']
+['multiple choice question', 'point', 'essay question', 'question', 'multiple choice', 'right']
+
+
+236
+[['ticket', 'ticket', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+['ticket', 'school dinner theatre', '6 dollar', 'child', '9 dollar', 'adult', '225 ticket', '1875 dollar', 'dollar']
+['6', '9', '225', '1875']
+['ticket', 'school dinner theatre', 'dollar', 'child', 'adult']
+
+
+237
+[['coin', '-', '-', 'dollar'], ['nickel', '-', '-', '-'], ['dime', '-', '-', '-']]
+['piggy bank', 'nickel and dime', '30 coin worth', '1.90 dollar', 'coin worth', 'dollar']
+['30', '1.90']
+['piggy bank', 'nickel and dime', 'coin worth', 'dollar']
+
+
+239
+[['-', '-', '-', 'dollar'], ['duck', '-', 'dollar', '-'], ['pig', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['duck', '-', 'dollar', '-'], ['pig', '-', 'dollar', '-']]
+['6 duck', '5 pig', '213 dollar', '2 duck', '9 pig', '269 dollar', 'pig', 'duck', 'dollar']
+['6', '5', '213', '2', '9', '269']
+['duck', 'pig', 'dollar']
+
+
+241
+[['first shipment', '-', '-', 'dollar'], ['identical sweater', '-', 'dollar', '-'], ['identical jacket', '-', 'dollar', '-'], ['first shipment', '-', '-', 'dollar'], ['identical sweater', '-', 'dollar', '-'], ['identical jacket', '-', 'dollar', '-']]
+['manager', 'discount clothing store', '2 shipment of fall clothing', 'first shipment', '10 identical sweater', '20 identical jacket', 'second', 'same price', 'same sweater', 'same jacket', '1 jacket', 'shipment of fall clothing', 'identical sweater', 'identical jacket', 'jacket']
+['2', '10', '20', '1']
+['manager', 'discount clothing store', 'shipment of fall clothing', 'first shipment', 'identical sweater', 'identical jacket', 'second', 'same price', 'same sweater', 'same jacket', 'jacket']
+
+
+243
+[['caesar', '-', '-', 'dollar'], ['room', 'room', 'dollar', '-'], ['meal', 'meal', 'dollar', '-'], ['venus hall', '-', '-', 'dollar'], ['room', 'room', 'dollar', '-'], ['meal', 'meal', 'dollar', '-']]
+['student council', 'banquet hall', 'caesar charge', '800 dollar', 'room', '30 dollar', 'meal', 'venus hall', '500 dollar', '35 dollar', 'guest', 'cost', 'two hall', 'dollar']
+['800', '30', '500', '35', 'two']
+['student council', 'banquet hall', 'caesar charge', 'dollar', 'room', 'meal', 'venus hall', 'guest', 'cost', 'hall']
+
+
+245
+[['-', 'dollar', '-', 'dollar'], ['-', '-', '%', '-'], ['-', '-', '%', '-']]
+['2 investment', '8800 dollar', 'certain year', 'investment', '1326 dollar', 'simple interest', '14 %', '16 %', 'dollar', '%']
+['2', '8800', '1326', '14', '16']
+['investment', 'dollar', 'certain year', 'simple interest', '%']
+
+
+248
+[['62 % cement', 'ton', '% cement', '-'], ['20 % cement', 'ton', '% cement', '-'], ['80 % cement', 'ton', '% cement', '-']]
+['10 ton of concrete', '62 % cement', '20 % cement mixture', '80 % cement mixture', 'answer', 'unit of ton', 'ton of concrete', '% cement', '% cement mixture']
+['10', '62', '20', '80']
+['ton of concrete', '% cement', '% cement mixture', 'answer', 'unit of ton']
+
+
+253
+[['0.36 dollar per pound', 'pound', 'dollar', '-'], ['0.18 dollar per pound', 'pound', 'dollar', '-'], ['0.53 dollar per pound', 'pound', 'dollar', '-']]
+['tim and judy', 'two kind of feed', 'pedigreed dog', '35 pound of feed', '0.36 dollar', '0.18 dollar', '0.53 dollar', 'cheaper kind', 'pound of feed', 'dollar']
+['two', '35', '0.36', '0.18', '0.53']
+['tim and judy', 'kind of feed', 'pedigreed dog', 'pound of feed', 'dollar', 'cheaper kind']
+
+
+254
+[['bin', '-', '-', 'ton'], ['20 ton bin', '-', 'ton', '-'], ['15 ton bin', '-', 'ton', '-']]
+['grain-storage warehouse', '30 bin', '20 ton of grain', 'rest', '15 ton', 'type of bin', 'capacity', 'warehouse', '510 ton', '20 ton', 'storage warehouse', 'ton of grain', 'ton']
+['30', '20', '15', '510', '20']
+['grain-storage warehouse', 'bin', 'ton of grain', 'rest', 'ton', 'type of bin', 'capacity', 'warehouse', 'storage warehouse']
+
+
+256
+[['-', 'ticket', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+['red rise theatre', 'ticket', '4.50 dollar', '6.00 dollar', '380 ticket', 'last performance', "mouse ''", 'performance', '1972.50 dollar', 'dollar']
+['4.50', '6.00', '380', '1972.50']
+['red rise theatre', 'ticket', 'dollar', 'last performance', "mouse ''", 'performance']
+
+
+257
+[['ticket', 'ticket', '-', 'dollar'], ['adult ticket', '-', 'dollar', '-'], ['child ticket', '-', 'dollar', '-']]
+['owner', 'amazing circus', '522 ticket', 'adult ticket', '15 dollar', 'child ticket', '8 dollar', 'receipt', '5086.00 dollar', 'child', 'ticket', 'dollar']
+['522', '15', '8', '5086.00']
+['owner', 'amazing circus', 'ticket', 'adult ticket', 'dollar', 'child ticket', 'receipt', 'child']
+
+
+260
+[['dougla fir and ponderosa pine tree', '-', '-', 'dollar'], ['dougla fir', '-', 'dollar', '-'], ['ponderosa pine tree', '-', 'dollar', '-']]
+['850 dougla fir', 'ponderosa pine tree', 'sawz log company', 'company', 'average', '300 dollar', 'douglas fir', '250 dollar', 'ponderosa pine', '217,500 dollar', 'fir and pine', 'dollar']
+['850', '300', '250', '217,500']
+['dougla fir', 'ponderosa pine tree', 'sawz log company', 'company', 'average', 'dollar', 'douglas fir', 'ponderosa pine', 'fir and pine']
+
+
+261
+[['-', 'hour', '-', 'gallon'], ['-', 'hour', 'gallon', '-'], ['-', 'hour', 'gallon', '-']]
+['plumber contractor', 'two new pump', '180 gallon', 'hour', '250 gallon', 'period', '6 hour', '1325 gallon', 'gallon']
+['two', '180', '250', '6', '1325']
+['plumber contractor', 'new pump', 'gallon', 'hour', 'period']
+
+
+263
+[['account', 'dollar', '-', 'dollar'], ['-', '-', '% annual interest', '-'], ['-', '-', '% annual interest', '-']]
+['woman', '9,000 dollar', '2 account', '6.5 % annual interest', 'earn', '8 % annual interest', '1 year', 'interest', '678.87 dollar', '8 % interest', 'dollar', 'account', '% annual interest', 'year', '% interest']
+['9,000', '2', '6.5', '8', '1', '678.87', '8']
+['woman', 'dollar', 'account', '% annual interest', 'earn', 'year', 'interest', '% interest']
+
+
+265
+[['question', 'question', '-', 'point'], ['correct answer', '-', 'point', '-'], ['incorrect', '-', 'point', '-']]
+['30 question', '20 point', 'correct answer', '5 point', 'answer incorrectly', 'question', 'score of 325', 'correct']
+['30', '20', '5']
+['question', 'point', 'correct answer', 'answer incorrectly', 'score of 325', 'correct']
+
+
+266
+[['coin', 'coin', '-', 'dollar'], ['nickel', '-', '-', '-'], ['dime', '-', '-', '-']]
+['piggy bank', '50 coin', 'coin', '4.55 dollar', 'dime', 'dollar']
+['50', '4.55']
+['piggy bank', 'coin', 'dollar', 'dime']
+
+
+268
+[['-', 'liter', '% saline solution', '-'], ['-', 'liter', '% saline solution', '-'], ['-', 'liter', '% saline solution', '-']]
+['liter', '5 % saline solution', '25 % saline solution', 'mixed', '10 liter', '18 % saline solution', '% saline solution']
+['5', '25', '10', '18']
+['liter', '% saline solution', 'mixed']
+
+
+269
+[['ticket', 'ticket', '-', 'dollar'], ['adult ticket', '-', 'dollar', '-'], ['student ticket', '-', 'dollar', '-']]
+['ticket', 'movie', '4.00 dollar', 'adult', '2.50 dollar', '240 ticket', '765.00 dollar', 'student ticket', 'adult ticket', 'dollar']
+['4.00', '2.50', '240', '765.00']
+['ticket', 'movie', 'dollar', 'adult', 'student ticket', 'adult ticket']
+
+
+270
+[['lemonade', 'cup', '-', 'dollar'], ['large cup', 'cup', 'dollar', '-'], ['small cup', 'cup', 'dollar', '-']]
+['summer lemonade', 'small cup of lemonade', '1.25 dollar', 'large cup', '2.50 dollar', '155 cup of lemonade', '265 dollar', 'small cup and large cup', 'dollar', 'cup of lemonade']
+['1.25', '2.50', '155', '265']
+['summer lemonade', 'small cup of lemonade', 'dollar', 'large cup', 'cup of lemonade', 'small cup and large cup']
+
+
+271
+[['bin', 'bin', '-', 'ton'], ['15 ton bin', '-', 'ton', '-'], ['20 ton bin', '-', 'ton', '-']]
+['grain storage warehouse', '30 bin', '20 ton of grain', 'rest', '15 ton', 'capacity', 'warehouse', '510 ton', '20 ton bin', 'ton of grain', 'ton', 'ton bin']
+['30', '20', '15', '510', '20']
+['grain storage warehouse', 'bin', 'ton of grain', 'rest', 'ton', 'capacity', 'warehouse', 'ton bin']
+
+
+279
+[['people', '-', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+['admission fee', 'amusement park', '1.5 dollar', 'child', '4 dollar', 'adult', 'certain day', 'people', '810 dollar', 'child and adult', 'admit', 'dollar']
+['1.5', '4', '810']
+['admission fee', 'amusement park', 'dollar', 'child', 'adult', 'certain day', 'people', 'child and adult', 'admit']
+
+
+280
+[['people', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+['attendance', 'school concert', '578 people', 'admission', '2.00 dollar', 'adult', '1.50 dollar', 'receipt', '985.00 dollar', 'child', 'concert', 'people', 'dollar']
+['578', '2.00', '1.50', '985.00']
+['attendance', 'school concert', 'people', 'admission', 'dollar', 'adult', 'receipt', 'child', 'concert']
+
+
+282
+[['combine', 'hour', '-', 'dollar'], ['first mechanic', 'hour', 'dollar', '-'], ['second mechanic', 'hour', 'dollar', '-']]
+['two mechanic', 'first mechanic', '45 dollar', 'hour', 'second', '85 dollar', 'mechanic', '20 hour', '1100 dollar', 'dollar']
+['two', '45', '85', '20', '1100']
+['mechanic', 'first mechanic', 'dollar', 'hour', 'second']
+
+
+285
+[['people', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+['admission fee', 'small fair', '1.50 dollar', 'child', '4.00 dollar', 'adult', 'certain day', '2200 people', '5050 dollar', 'collect', 'child and adult', 'dollar', 'people']
+['1.50', '4.00', '2200', '5050']
+['admission fee', 'small fair', 'dollar', 'child', 'adult', 'certain day', 'people', 'collect', 'child and adult']
+
+
+286
+[['ticket', 'ticket', '-', 'dollar'], ['orchestra seat', 'x1', 'dollar', '-'], ['balcony seat', 'x2', 'dollar', '-']]
+['el segundo high school', 'annual musical', 'student', '650 ticket', 'value', '4375 dollar', 'orchestra seat', '7.50 dollar', 'balcony seat', '3.50 dollar', 'ticket', 'dollar']
+['650', '4375', '7.50', '3.50']
+['el segundo high school', 'annual musical', 'student', 'ticket', 'value', 'dollar', 'orchestra seat', 'balcony seat']
+
+
+287
+[['-', 'dollar', '-', 'dollar'], ['4 %', '-', '%', '-'], ['6 %', '-', '%', '-']]
+['39000 dollar', 'portion', 'simple interest rate', '4 %', 'year', 'rest', 'rate', '6 %', '1 year', 'interest', 'investment', '1980 dollar', 'dollar', '%']
+['39000', '4', '6', '1', '1980']
+['dollar', 'portion', 'simple interest rate', '%', 'year', 'rest', 'rate', 'interest', 'investment']
+
+
+290
+[['first day', '-', '-', 'dollar'], ['senior citizen ticket', '-', 'dollar', '-'], ['student ticket', '-', 'dollar', '-'], ['second day', '-', '-', 'dollar'], ['senior citizen ticket', '-', 'dolllar', '-'], ['student ticket', '-', 'dolllar', '-']]
+['stefan school', 'ticket', 'choral performance', 'first day', 'school', '4 senior citizen ticket', '3 student ticket', '79 dollar', '246 dollar', 'second', '12 senior citizen ticket', '10 student ticket', 'senior citizen ticket', 'student ticket', 'dollar']
+['4', '3', '79', '246', '12', '10']
+['stefan school', 'ticket', 'choral performance', 'first day', 'school', 'senior citizen ticket', 'student ticket', 'dollar', 'second']
+
+
+291
+[['person', 'person', '-', 'dollar'], ['adult', '-', 'cent', '-'], ['child', '-', 'cent', '-']]
+['admission ticket', 'theater', '60 cent', 'adult', '25 cent', 'receipt', '280 person', '140 dollar', 'collect', 'child', 'cent', 'dollar']
+['60', '25', '280', '140']
+['admission ticket', 'theater', 'cent', 'adult', 'receipt', 'person', 'dollar', 'collect', 'child']
+
+
+294
+[['50 % antifreeze', 'gallon', '% antifreeze', '-'], ['10 % antifreeze', 'gallon', '% antifreeze', '-'], ['80 % antifreeze', 'gallon', '% antifreeze', '-']]
+['mixture of water and antifreeze', '10 % antifreeze', 'colder climate', 'mixture', '50 % antifreeze', 'radiator', '4 gallon of fluid', 'gallon of radiator fluid', '80 % antifreeze', '% antifreeze', 'gallon of fluid']
+['10', '50', '4', '80']
+['mixture of water and antifreeze', '% antifreeze', 'colder climate', 'mixture', 'radiator', 'gallon of fluid', 'gallon of radiator fluid']
+
+
+296
+[['34 % solution', 'liter', '%', '-'], ['40 %', '-', '%', '-'], ['25 % concentrate', '-', '%', '-']]
+['chemist', 'two solution', '40 %', '25 % concentrate', 'liter', 'solution', 'mixed', '129 liter', '34 % solution', '%', '% concentrate', '% solution']
+['two', '40', '25', '129', '34']
+['chemist', 'solution', '%', '% concentrate', 'liter', 'mixed', '% solution']
+
+
+297
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+['group of student', 'hike', 'wildlife sanctuary', '180 tick', 'mosquito', 'slap', 'tick', '8 leg', '6 leg', 'pest', '1240 leg', 'leg']
+['180', '8', '6', '1240']
+['group of student', 'hike', 'wildlife sanctuary', 'tick', 'mosquito', 'slap', 'leg', 'pest']
+
+
+301
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+['30 leg', '13 head of goat', 'chicken', 'goat and chicken', 'leg', 'head of goat']
+['30', '13']
+['leg', 'head of goat', 'chicken', 'goat and chicken']
+
+
+302
+[['18 % alcohol', 'liter', '% alcohol', '-'], ['50 % alcohol', 'liter', '% alcohol', '-'], ['30 % alcohol', 'liter', '% alcohol', '-']]
+['chemist', 'solution', '18 % alcohol', '50 % alcohol', '80 liter', '30 % solution', 'liter', '18 % solution', '% alcohol', '% solution']
+['18', '50', '80', '30', '18']
+['chemist', 'solution', '% alcohol', 'liter', '% solution']
+
+
+304
+[['-', '-', '-', 'dollar'], ['soccer ball', '-', 'dollar', '-'], ['football', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['soccer ball', '-', 'dollar', '-'], ['football', '-', 'dollar', '-']]
+['3 football', '1 soccer ball', '155 dollar', '2 football', 'determine', '1 football', 'soccer ball', 'football']
+['3', '1', '155', '2', '1']
+['football', 'soccer ball', 'dollar', 'determine']
+
+
+305
+[['-', '-', '-', 'dollar'], ['monthly fee', 'month', 'dollar', '-'], ['additional', 'minute', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['monthly fee', 'month', 'dollar', '-'], ['additional', 'minute', 'dollar', '-']]
+['customer', 'phone company', '2 service plan', 'long distance call', 'first plan', '22 dollar monthly fee', 'additional', '0.13 dollar', 'minute', 'second', '8 dollar monthly fee', '0.18 dollar', 'minute of call', 'cost', 'two plan', 'equal', 'service plan', 'dollar monthly fee', 'dollar']
+['2', '22', '0.13', '8', '0.18', 'two']
+['customer', 'phone company', 'service plan', 'long distance call', 'first plan', 'dollar monthly fee', 'additional', 'dollar', 'minute', 'second', 'minute of call', 'cost', 'plan', 'equal']
+
+
+309
+[['question', 'question', '-', 'point'], ['2-point question', '-', 'point', '-'], ['5-point question', '-', 'point', '-']]
+['teacher', '100 point', '40 question', '2-point', '4-point question', 'question', 'two point', 'four point']
+['100', '40', 'two', 'four']
+['teacher', 'point', 'question', '2-point', '4-point question']
+
+
+311
+[['ticket', 'ticket', '-', 'dollar'], ['adult', 'ticket', 'dollar', '-'], ['child', 'ticket', 'dollar', '-']]
+['ticket', 'adult', '5.50 dollar', 'child', '3.50 dollar', 'adult ticket and child', '21 ticket', '83.50 dollar', 'dollar']
+['5.50', '3.50', '21', '83.50']
+['ticket', 'adult', 'dollar', 'child', 'adult ticket and child']
+
+
+313
+[['problem', 'problem', '-', 'point'], ['right answer', '-', 'point', '-'], ['wrong answer', '-', 'point', '-']]
+['25 problem', 'score', '4 point', 'right answer', 'wrong answer', 'right', 'wrong']
+['25', '4']
+['problem', 'score', 'point', 'right answer', 'wrong answer', 'right', 'wrong']
+
+
+314
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'dollar', '-'], ['pen', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['pencil', '-', 'dollar', '-'], ['pen', '-', 'dollar', '-']]
+['4 pencil', '5 pen', '2.00 dollar', '3 pencil', '4 pen', '1.58 dollar', 'pencil', 'pen']
+['4', '5', '2.00', '3', '4', '1.58']
+['pencil', 'pen', 'dollar']
+
+
+316
+[['loan', 'dollar', '-', 'dollar'], ['2.8 %', 'x1', '%', '-'], ['4.5 %', 'x2', '%', '-']]
+['cole student loan', '31,000 dollar', 'loan', '2.8 % simple interest', '4.5', '%', 'year', '1024.40 dollar', 'interest', '% simple interest', 'dollar']
+['31,000', '2.8', '4.5', '1024.40']
+['cole student loan', 'dollar', 'loan', '% simple interest', '%', 'year', 'interest']
+
+
+317
+[['4 dollar per pound', 'pound', 'dollar', '-'], ['3.50 dollar per pound', 'pound', 'dollar', '-'], ['4.30 dollar per pound', 'pound', 'dollar', '-']]
+['x pound of candy', '3.50 dollar', 'y pound of candy', '4.30 dollar', '10 pound', 'mixture', '4 dollar', 'find x and y', 'of pound', 'type', 'dollar']
+['3.50', '4.30', '10', '4']
+['x pound of candy', 'dollar', 'y pound of candy', 'pound', 'mixture', 'find x and y', 'of pound', 'type']
+
+
+318
+[['Jason', 'hour', '-', 'dollar'], ['after school', 'hour', 'dollar', '-'], ['Saturday', 'hour', 'dollar', '-']]
+['4.00 dollar', 'hour', 'school', '6.00 dollar', 'saturday', '18 hour', '88.00 dollar', 'dollar']
+['4.00', '6.00', '18', '88.00']
+['dollar', 'hour', 'school', 'saturday']
+
+
+320
+[['ticket', 'ticket', '-', 'dollar'], ['adult ticket', 'ticket', 'dollar', '-'], ['student ticket', 'ticket', 'dollar', '-']]
+['563 ticket', 'school play', 'student ticket', '4 dollar', 'adult ticket', '6 dollar', 'marc sale', '2840 dollar', 'adult ticket and student ticket', 'marc', 'ticket', 'dollar']
+['563', '4', '6', '2840']
+['ticket', 'school play', 'student ticket', 'dollar', 'adult ticket', 'marc sale', 'adult ticket and student ticket', 'marc']
+
+
+322
+[['rainstorm', '-', '-', 'milliliter'], ['first storm', 'milliliter', 'hour', '-'], ['second storm', 'milliliter', 'hour', '-']]
+['two rainstorm', 'week', 'certain area', 'first storm', '20 hour', 'second', '40 hour', '1800 milliliter of rain', 'rate of rainfall', 'hour', 'two rate', '55 milliliter', 'milliliter of rain']
+['two', '20', '40', '1800', 'two', '55']
+['rainstorm', 'week', 'certain area', 'first storm', 'hour', 'second', 'milliliter of rain', 'rate of rainfall', 'rate', 'milliliter']
+
+
+324
+[['-', '-', '-', 'dollar'], ['enchilada', '-', 'dollar', '-'], ['taco', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['enchilada', '-', 'dollar', '-'], ['taco', '-', 'dollar', '-']]
+['mexican restaurant', '2 taco', '3 enchiladas', 'friend order', '3 taco', 'enchilada', '7.80 dollar', 'tax', 'friend bill', '12.70 dollar', 'taco']
+['2', '3', '3', '7.80', '12.70']
+['mexican restaurant', 'taco', 'enchiladas', 'friend order', 'enchilada', 'dollar', 'tax', 'friend bill']
+
+
+325
+[['ticket', 'ticket', '-', 'dollar'], ['adult ticket', 'ticket', 'dollar', '-'], ['child ticket', 'ticket', 'dollar', '-']]
+['ticket', '6.00 dollar', 'adult', '4.50 dollar', '400 ticket', '2100 dollar', 'children ticket', 'dollar']
+['6.00', '4.50', '400', '2100']
+['ticket', 'dollar', 'adult', 'children ticket']
+
+
+326
+[['peanut and walnut', 'pound', 'dollar', '-'], ['peanut', '-', 'dollar', '-'], ['walnut', '-', 'dollar', '-']]
+['grocer', 'peanut', '3.75 dollar', '2.75 dollar', 'pound of peanut and walnut', '40 pound of mixture', '3.00 dollar', 'dollar', 'pound of mixture']
+['3.75', '2.75', '40', '3.00']
+['grocer', 'peanut', 'dollar', 'pound of peanut and walnut', 'pound of mixture']
+
+
+329
+[['table', 'table', '-', 'leg'], ['4 leg table', 'table', 'leg', '-'], ['3 leg table', 'table', 'leg', '-']]
+['furniture dealer', '36 table', 'table', '4 leg', '3 leg', '124 leg', '4 leg table', 'leg', 'legged table']
+['36', '4', '3', '124', '4']
+['furniture dealer', 'table', 'leg', 'leg table', 'legged table']
+
+
+334
+[['70 % alcohol', 'liter', '% alcohol', '-'], ['50 % alcohol', 'liter', '% alcohol', '-'], ['80 % alcohol', 'liter', '% alcohol', '-']]
+['50 % alcohol', 'solution', '80 % alcohol', 'liter', 'mixed', '10.5 liter', '70 % alcohol solution', '% alcohol', '% alcohol solution']
+['50', '80', '10.5', '70']
+['% alcohol', 'solution', 'liter', 'mixed', '% alcohol solution']
+
+
+341
+[['ticket', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+['advance ticket', 'same-day ticket', 'of ticket', 'receipt', '1,600', 'day ticket']
+['1,600']
+['advance ticket', 'same-day ticket', 'of ticket', 'receipt', 'day ticket']
+
+
+343
+[['car', 'car', '-', 'people'], ['4 passenger car', 'car', 'people', '-'], ['6 passenger car', 'car', 'people', '-']]
+['rocket coaster', '15 car', '4 people', '6 people', 'room', '72 people', '4 passenger car', '6 passenger car', 'car', 'people', 'passenger car']
+['15', '4', '6', '72', '4', '6']
+['rocket coaster', 'car', 'people', 'room', 'passenger car']
+
+
+353
+[['two point basket and three point basket', '-', '-', 'point'], ['two point basket', '-', 'point', '-'], ['three point basket', '-', 'point', '-']]
+['laker', '43 point', 'combination', 'two point basket', 'three point basket', 'shot', 'two', 'basket', 'make']
+['43', 'two', 'three', 'two']
+['laker', 'point', 'combination', 'point basket', 'shot', 'basket', 'make']
+
+
+389
+[['people', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+['jurassic zoo', '8 dollar', 'adult', '4 dollar', '201 people', '964 dollar', 'child', 'zoo', 'dollar', 'people']
+['8', '4', '201', '964']
+['jurassic zoo', 'dollar', 'adult', 'people', 'child', 'zoo']
+
+
+396
+[['-', '-', '-', 'dollar'], ['mp3 player', '-', '-', '-'], ['headphone set', '-', '-', '-'], ['-', '-', '-', 'dollar'], ['mp3 player', '-', '-', '-'], ['headphone set', '-', '-', '-']]
+['customer', 'electronics store', 'mp3 player', '8 set of headphone', '840 dollar', '2nd customer', '4 set of headphone', '480 dollar', 'set of headphone']
+['8', '840', '4', '480']
+['customer', 'electronics store', 'mp3 player', 'set of headphone', 'dollar', '2nd customer']
+
+
+399
+[['-', '-', '-', 'dollar'], ['bath towel', '-', 'dollar', '-'], ['washcloth', '-', 'dollar', '-'], ['-', '-', '-', 'dollar'], ['bath towel', '-', 'dollar', '-'], ['washcloth', '-', 'dollar', '-']]
+['hotel', '38 bath towel', '61 washcloth', '791.50 dollar', 'second', '54 bath towel', '50 washcloth', 'same price', '923 dollar', 'individual price', 'bath towel and washcloth', 'bath towel', 'washcloth']
+['38', '61', '791.50', '54', '50', '923']
+['hotel', 'bath towel', 'washcloth', 'dollar', 'second', 'same price', 'individual price', 'bath towel and washcloth']
+
+
+401
+[['car', 'gallon', '-', 'mile'], ['first car', 'gallon', 'mile', '-'], ['second car', 'gallon', 'mile', '-']]
+['two car', 'week', 'first car', 'average', '25 mile', 'second', '40 mile', 'drive', '1825 mile', 'gas consumption', '55 gallon', 'gallon', 'mile']
+['two', '25', '40', '1825', '55']
+['car', 'week', 'first car', 'average', 'mile', 'second', 'drive', 'gas consumption', 'gallon']
+
+
+405
+[['-', 'dollar', '-', 'dollar'], ['-', '-', '%', '-'], ['-', '-', '%', '-']]
+['33,000 dollar bonus', '970 dollar', 'year', '4 %', '2.25 %', 'rate', 'dollar bonus', 'dollar', '%']
+['33,000', '970', '4', '2.25']
+['dollar bonus', 'dollar', 'year', '%', 'rate']
+
+
+411
+[['ticket', 'ticket', '-', 'dollar'], ['senior citizen', 'senior citizen ticket', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+['university theater', '510 ticket', 'play', 'ticket', '21 dollar', 'adult', '15 dollar', 'senior citizen', 'receipt', '8748 dollar', 'senior citizen ticket', 'dollar']
+['510', '21', '15', '8748']
+['university theater', 'ticket', 'play', 'dollar', 'adult', 'senior citizen', 'receipt', 'senior citizen ticket']
+
+
+416
+[['ticket', 'ticket', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['kid', 'kid ticket', 'dollar', '-']]
+['254 people', 'zoo', 'ticket', '28 dollar', 'adult', '12 dollar', 'kid', '3,864', 'people', 'dollar']
+['254', '28', '12', '3,864']
+['people', 'zoo', 'ticket', 'dollar', 'adult', 'kid']
+
+
+417
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+['mark community barbecue', 'dinner', 'child plate', '3.50 dollar', 'adult plate', '7.00 dollar', '1347.50 dollar', 'serve', 'dollar']
+['3.50', '7.00', '1347.50']
+['mark community barbecue', 'dinner', 'child plate', 'dollar', 'adult plate', 'serve']
+
+
+418
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+['wal-mart', 'thermometer', '2 dollar', 'hot-water bottle', '2 item', 'month', '1,200 dollar', '7 time', 'hot-water', 'dollar', 'water bottle', 'item', 'time']
+['2', '2', '1,200', '7']
+['wal-mart', 'thermometer', 'dollar', 'hot-water bottle', 'item', 'month', 'time', 'hot-water', 'water bottle']
+
+
+419
+[['45 % acid solution', 'liter', '% acid solution', '-'], ['40 % acid solution', '-', '% acid solution', '-'], ['55 % acid solution', '-', '% acid solution', '-']]
+['40 % acid solution', '55 % acid solution', 'mixed', '60 liter', '45 % acid solution', 'liter', 'use', '% acid solution']
+['40', '55', '60', '45']
+['% acid solution', 'mixed', 'liter', 'use']
+
+
+422
+[['', 'ticket', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['student', 'student ticket', 'dollar', '-']]
+['ticket', 'local movie', '4 dollar', 'adult', '2.50 dollar', '59 ticket', '222.50 dollar', 'student ticket', 'dollar']
+['4', '2.50', '59', '222.50']
+['ticket', 'local movie', 'dollar', 'adult', 'student ticket']
+
+
+426
+[['coin', 'coin', '-', 'dollar'], ['nickel', '-', '-', '-'], ['dime', '-', '-', '-']]
+['36 coin', 'dime and nickel', 'value', 'coin', '3.10 dollar', 'dime', 'have', 'dollar']
+['36', '3.10']
+['coin', 'dime and nickel', 'value', 'dollar', 'dime', 'have']
+
+
+428
+[['-', 'milliliter', '% sugar solution', '-'], ['-', 'milliliter', '% sugar solution', '-'], ['-', 'milliliter', '% sugar solution', '-']]
+['40 % sugar solution', '85 % sugar solution', '1800 milliliter', '60 % solution', 'milliliter', '40 % solution', 'use', '85 % solution', '% sugar solution', '% solution']
+['40', '85', '1800', '60', '40', '85']
+['% sugar solution', 'milliliter', '% solution', 'use']
+
+
+429
+[['jacket', 'jacket', '-', 'dollar'], ['-', 'jacket', 'dollar', '-'], ['-', 'jacket', 'dollar', '-']]
+['department store', '214 winter jacket', 'season', 'jacket', '31.95 dollar', '18.95 dollar', 'last jacket', 'receipt', 'clearance sale', '5108.30 dollar', 'winter jacket']
+['214', '31.95', '18.95', '5108.30']
+['department store', 'winter jacket', 'season', 'jacket', 'dollar', 'last jacket', 'receipt', 'clearance sale']
+
+
+449
+[['-', '-', '-', 'dollar'], ['hamburger', '-', 'dollar', '-'], ['hot dog', '-', 'dollar', ''], ['-', '-', '-', 'dollar'], ['hamburger', '-', 'dollar', '-'], ['hot dog', '-', 'dollar', '-']]
+['3 hamburger', '4 hot dog', 'next day', '2 hamburger', '3 hot dog', '7 dollar', 'hot dog', 'hamburger']
+['3', '4', '2', '3', '7']
+['hamburger', 'hot dog', 'next day', 'dollar']
+
+
+451
+[['-', 'liter', '% base', '-'], ['-', '-', '% base', '-'], ['-', '-', '% base', '-']]
+['e-chem testing', 'solution', '80 % base', '30 % base', 'technician', 'liter', '62 % base', '150 liter', 'two solution', 'use', 'chem testing', '% base']
+['80', '30', '62', '150', 'two']
+['e-chem testing', 'solution', '% base', 'technician', 'liter', 'use', 'chem testing']
+
+
+452
+[['-', 'dollar', '-', 'dollar'], ['-', '-', '%', '-'], ['-', '-', '%', '-']]
+['year', '12,000 dollar', '7 %', 'rest', '970 dollar', 'interest', '%', 'dollar']
+['12,000', '7', '970']
+['year', 'dollar', '%', 'rest', 'interest']
+
+
+454
+[['-', 'liter', '% acid', '-'], ['-', 'liter', '% acid', '-'], ['-', 'liter', '% acid', '-']]
+['weak solution', '24 liter', '4 % acid', 'lab technician', 'premixed solution', '2 % acid', '5 % acid', 'liter', 'solution', '% acid']
+['24', '4', '2', '5']
+['weak solution', 'liter', '% acid', 'lab technician', 'premixed solution', 'solution']
+
+
+460
+[['-', 'pound', 'dollar', '-'], ['kenyan french roast', 'pound', 'dollar', '-'], ['sumatran coffee', '-', 'dollar', '-']]
+['coffee counter', '9.00 dollar', 'kenyan french roast coffee', '8.00 dollar', 'sumatran coffee', '20-pound blend', '8.40 dollar', 'dollar']
+['9.00', '8.00', '8.40']
+['coffee counter', 'dollar', 'kenyan french roast coffee', 'sumatran coffee', '20-pound blend']
+
+
+467
+[['people', '-', '-', 'fork'], ['adult', '-', 'fork', '-'], ['child', '-', 'fork', '-']]
+['cater company', 'table', 'big event', '764 people', '2 fork', '5 fork', 'adult', 'company', '2992 fork', 'child', 'event', 'people', 'fork']
+['764', '2', '5', '2992']
+['cater company', 'table', 'big event', 'people', 'fork', 'adult', 'company', 'child', 'event']
+
+
+468
+[['cup', 'cup', '-', 'dollar'], ['plastic cup', '-', 'dollar', '-'], ['ceramic cup', '-', 'dollar', '-']]
+['discount store', 'plastic cup', '3.25 dollar', 'ceramic cup', '4.50 dollar', '500 cup', '2090 dollar', 'plastic cup and ceramic cup', 'dollar', 'cup']
+['3.25', '4.50', '500', '2090']
+['discount store', 'plastic cup', 'dollar', 'ceramic cup', 'cup', 'plastic cup and ceramic cup']
+
+
+469
+[['car', 'gallon', '-', 'mile'], ['first car', '-', 'mile', '-'], ['second car', '-', 'mile', '-']]
+['first car', 'average', '30 mile', 'second', '25 mile', 'two car combine drive', '1700 mile', 'gas consumption', '60 gallon', 'gallon']
+['30', '25', 'two', '1700', '60']
+['first car', 'average', 'mile', 'second', 'car combine drive', 'gas consumption', 'gallon']
+
+
+470
+[['two car combine', '-', 'mile', 'mile'], ['first car', 'gallon', '-', '-'], ['second car', 'gallon', '-', '-']]
+['2 car', 'average mile', 'two car', 'particular week', 'first car', '40 gallon', 'week', 'second', '20 gallon', '1400 mile', 'average gas mileage', 'gallon', 'car']
+['2', 'two', '40', '20', '1400']
+['car', 'average mile', 'particular week', 'first car', 'gallon', 'week', 'second', 'mile', 'average gas mileage']
+
+
+471
+[['people', 'people', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+['610 people', 'play', 'admission price', '2 dollar', 'adult', '1 dollar', 'admission receipt', '960 dollar', 'adult and child', 'people', 'dollar']
+['610', '2', '1', '960']
+['people', 'play', 'admission price', 'dollar', 'adult', 'admission receipt', 'adult and child']
+
+
+473
+[['-', 'dollar', '-', 'dollar'], ['7.5 %', '-', '%', '-'], ['6 %', '-', '%', '-']]
+['12,000 dollar', 'two account', '7.5 %', '6 % simple interest', 'return', 'first year', '840 dollar', 'account', 'dollar', '%', '% simple interest']
+['12,000', 'two', '7.5', '6', '840']
+['dollar', 'account', '%', '% simple interest', 'return', 'first year']
+
+
+480
+[['combine item', '-', '-', 'dollar'], ['purse', '-', 'dollar', '-'], ['scarf', '-', 'dollar', '-']]
+['purse', '7 dollar', 'scarf', '8 dollar', '17 combined item', '130 dollar', 'dollar', 'combine item']
+['7', '8', '17', '130']
+['purse', 'dollar', 'scarf', 'combined item', 'combine item']
+
+
+492
+[['45 % pure acid', 'square-centimeter', '% pure acid', '-'], ['20 % pure acid', '-', '% pure acid', '-'], ['60 % pure acid', '-', '% pure acid', '-']]
+['chemist', 'two acid solution', '20 % pure acid', '60 % pure acid', '80 square-centimeter', 'solution', '45 % pure acid', '% pure acid', 'square-centimeter', 'centimeter']
+['two', '20', '60', '80', '45']
+['chemist', 'acid solution', '% pure acid', 'square-centimeter', 'solution', 'centimeter']
+
+
+493
+[['5 % hydrogen peroxide solution', 'milliliter', '%', '-'], ['7 % hydrogen peroxide solution', '-', '%', '-'], ['4 % hydrogen peroxide solution', '-', '%', '-']]
+['cosmetologist', 'bottle', '7 % hydrogen peroxide solution', '4 % hydrogen peroxide solution', '300 milliliter', '5 % hydrogen peroxide solution', 'milliliter', 'solution', '% hydrogen peroxide solution']
+['7', '4', '300', '5']
+['cosmetologist', 'bottle', '% hydrogen peroxide solution', 'milliliter', 'solution']
+
+
+497
+[['font', 'page', '-', 'word'], ['large font', 'page', 'word', '-'], ['small font', 'page', 'word', '-']]
+['article', 'limited', '48,000 word', 'two type of font', 'large font', '1,800 word', 'small font', '2,400 word', '21 page', 'word']
+['48,000', 'two', '1,800', '2,400', '21']
+['article', 'limited', 'word', 'type of font', 'large font', 'small font', 'page']
+
+

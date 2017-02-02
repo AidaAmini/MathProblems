@@ -1,0 +1,14 @@
+1
+[['ticks and mosquitoes', '180', '-', '-', '-', 'leg', '1240'], ['tick', 'x1', '-', 'leg', '8', '-', '-'], ['mosquitoes', 'x2', '-', 'leg', '6', '-', '-']]
+-1
+[['6', '180', '-', 'x2', '-', 'leg', '1240'], ['tick', 'x1', '-', 'leg', '8', '-', '-'], ['1240', 'x2', '-', 'leg', '180', 'ticks and mosquitoes', '-']]
+-1
+[['ticks and mosquitoes', '180', '6', '-', '-', 'leg', '1240'], ['tick', 'x1', '-', 'leg', '8', '-', '-'], ['1240', 'ticks and mosquitoes', '180', 'leg', '6', '-', '-']]
+-1
+[['ticks and mosquitoes', '180', 'x2', '6', '-', 'leg', '1240'], ['tick', 'x1', '-', 'leg', '8', '-', '-'], ['mosquitoes', 'x2', '180', 'leg', '6', 'ticks and mosquitoes', '-']]
+-1
+[['ticks and mosquitoes', '180', '6', '-', 'mosquitoes', 'leg', '1240'], ['tick', 'x1', '-', 'leg', '8', '-', '-'], ['leg', '1240', 'ticks and mosquitoes', '180', '6', '-', '-']]
+-1
+[['x2', '180', '6', 'mosquitoes', '-', 'leg', '1240'], ['tick', 'x1', '-', 'leg', '8', '-', '-'], ['mosquitoes', 'x2', '1240', 'leg', '180', '-', '-']]
+-1
+[['ticks and mosquitoes', '6', '-', '-', '-', 'x2', 'mosquitoes'], ['tick', 'x1', '-', 'leg', '8', '-', '-'], ['mosquitoes', 'x2', '-', 'leg', '6', '-', '-']]

@@ -1,0 +1,759 @@
+['ticket', 'movie', '4.00 dollar', 'adult', 'dollar', '2.50 dollar', '240 ticket', '765.00 dollar', 'student ticket', 'adult ticket']
+['ticket']	['movie']	0.136545095808
+['ticket']	['4.00 dollar']	0.10873615468
+['ticket']	['adult']	0.0792078899701
+['ticket']	['dollar']	0.0240886330375
+['ticket']	['2.50 dollar']	0.10873615468
+['ticket']	['765.00 dollar']	0.10873615468
+['movie']	['4.00 dollar']	0.0827346205535
+['movie']	['adult']	0.105576439598
+['movie']	['dollar']	0.0563334838602
+['movie']	['2.50 dollar']	0.0827346205535
+['movie']	['240 ticket']	0.0827346205535
+['movie']	['765.00 dollar']	0.0827346205535
+['movie']	['student ticket']	0.0827346205535
+['movie']	['adult ticket']	0.0827346205535
+['4.00 dollar']	['adult']	0.0774561735493
+['4.00 dollar']	['2.50 dollar']	0.643440930505
+['4.00 dollar']	['240 ticket']	0.0901100077042
+['4.00 dollar']	['765.00 dollar']	0.643440930505
+['4.00 dollar']	['student ticket']	0.0901100077042
+['4.00 dollar']	['adult ticket']	0.0901100077042
+['adult']	['dollar']	0.0265458979948
+['adult']	['2.50 dollar']	0.0696933362217
+['adult']	['240 ticket']	0.0696933362217
+['adult']	['765.00 dollar']	0.0696933362217
+['adult']	['student ticket']	0.0696933362217
+['dollar']	['240 ticket']	0.0427692176215
+['dollar']	['student ticket']	0.0427692176215
+['dollar']	['adult ticket']	0.0427692176215
+['2.50 dollar']	['240 ticket']	0.0901100077042
+['2.50 dollar']	['765.00 dollar']	0.643440930505
+['2.50 dollar']	['student ticket']	0.0901100077042
+['2.50 dollar']	['adult ticket']	0.0901100077042
+['240 ticket']	['765.00 dollar']	0.0901100077042
+['240 ticket']	['student ticket']	0.643440930505
+['240 ticket']	['adult ticket']	0.643440930505
+['765.00 dollar']	['student ticket']	0.0901100077042
+['765.00 dollar']	['adult ticket']	0.0901100077042
+['student ticket']	['adult ticket']	0.525104950945
+['movie', 'ticket']	['4.00 dollar']	0.117488318928
+['movie', 'ticket']	['adult']	0.193326613009
+['movie', 'ticket']	['dollar']	0.0887196065364
+['movie', 'ticket']	['2.50 dollar']	0.117488318928
+['movie', 'ticket']	['240 ticket']	0.670043866319
+['movie', 'ticket']	['765.00 dollar']	0.117488318928
+['movie', 'ticket']	['student ticket']	0.675737719279
+['movie', 'ticket']	['adult ticket']	0.722297777211
+['4.00 dollar', 'ticket']	['movie']	0.719154007744
+['4.00 dollar', 'ticket']	['adult']	0.351678173917
+['4.00 dollar', 'ticket']	['dollar']	0.690340515548
+['4.00 dollar', 'ticket']	['2.50 dollar']	0.525526174317
+['4.00 dollar', 'ticket']	['240 ticket']	0.669973747197
+['4.00 dollar', 'ticket']	['765.00 dollar']	0.525526174317
+['4.00 dollar', 'ticket']	['student ticket']	0.659403281276
+['4.00 dollar', 'ticket']	['adult ticket']	0.722227658089
+['adult', 'ticket']	['movie']	0.595943684919
+['adult', 'ticket']	['4.00 dollar']	0.174138467195
+['adult', 'ticket']	['dollar']	0.0899996321979
+['adult', 'ticket']	['2.50 dollar']	0.174138467195
+['adult', 'ticket']	['240 ticket']	0.670043866319
+['adult', 'ticket']	['765.00 dollar']	0.174138467195
+['adult', 'ticket']	['student ticket']	0.694300401269
+['adult', 'ticket']	['adult ticket']	0.59281813716
+['dollar', 'ticket']	['movie']	0.271023093079
+['dollar', 'ticket']	['4.00 dollar']	0.617937628086
+['dollar', 'ticket']	['adult']	0.153799680747
+['dollar', 'ticket']	['2.50 dollar']	0.617937628086
+['dollar', 'ticket']	['240 ticket']	0.545159042756
+['dollar', 'ticket']	['765.00 dollar']	0.363289837203
+['dollar', 'ticket']	['student ticket']	0.360100613215
+['dollar', 'ticket']	['adult ticket']	0.582053000015
+['2.50 dollar', 'ticket']	['movie']	0.719154007744
+['2.50 dollar', 'ticket']	['4.00 dollar']	0.525526174317
+['2.50 dollar', 'ticket']	['adult']	0.351678173917
+['2.50 dollar', 'ticket']	['dollar']	0.690340515548
+['2.50 dollar', 'ticket']	['240 ticket']	0.669973747197
+['2.50 dollar', 'ticket']	['765.00 dollar']	0.525526174317
+['2.50 dollar', 'ticket']	['student ticket']	0.659403281276
+['2.50 dollar', 'ticket']	['adult ticket']	0.722227658089
+['240 ticket', 'ticket']	['movie']	0.748169005606
+['240 ticket', 'ticket']	['4.00 dollar']	0.247627320934
+['240 ticket', 'ticket']	['adult']	0.503518417929
+['240 ticket', 'ticket']	['dollar']	0.347535848514
+['240 ticket', 'ticket']	['2.50 dollar']	0.247627320934
+['240 ticket', 'ticket']	['765.00 dollar']	0.247627320934
+['240 ticket', 'ticket']	['student ticket']	0.722622429839
+['240 ticket', 'ticket']	['adult ticket']	0.853987545748
+['765.00 dollar', 'ticket']	['movie']	0.719154007744
+['765.00 dollar', 'ticket']	['4.00 dollar']	0.525526174317
+['765.00 dollar', 'ticket']	['adult']	0.351678173917
+['765.00 dollar', 'ticket']	['dollar']	0.473606703188
+['765.00 dollar', 'ticket']	['2.50 dollar']	0.525526174317
+['765.00 dollar', 'ticket']	['240 ticket']	0.669973747197
+['765.00 dollar', 'ticket']	['student ticket']	0.659403281276
+['765.00 dollar', 'ticket']	['adult ticket']	0.722227658089
+['student ticket', 'ticket']	['movie']	0.748169005606
+['student ticket', 'ticket']	['4.00 dollar']	0.247627320934
+['student ticket', 'ticket']	['adult']	0.503518417929
+['student ticket', 'ticket']	['dollar']	0.347535848514
+['student ticket', 'ticket']	['2.50 dollar']	0.247627320934
+['student ticket', 'ticket']	['240 ticket']	0.782259204304
+['student ticket', 'ticket']	['765.00 dollar']	0.247627320934
+['student ticket', 'ticket']	['adult ticket']	0.840157211791
+['adult ticket', 'ticket']	['movie']	0.748169005606
+['adult ticket', 'ticket']	['4.00 dollar']	0.247627320934
+['adult ticket', 'ticket']	['adult']	0.651901182844
+['adult ticket', 'ticket']	['dollar']	0.347535848514
+['adult ticket', 'ticket']	['2.50 dollar']	0.247627320934
+['adult ticket', 'ticket']	['240 ticket']	0.782259204304
+['adult ticket', 'ticket']	['765.00 dollar']	0.247627320934
+['adult ticket', 'ticket']	['student ticket']	0.709963670002
+['ticket', 'movie']	['4.00 dollar']	0.117488318928
+['ticket', 'movie']	['adult']	0.193326613009
+['ticket', 'movie']	['dollar']	0.0887196065364
+['ticket', 'movie']	['2.50 dollar']	0.117488318928
+['ticket', 'movie']	['240 ticket']	0.670043866319
+['ticket', 'movie']	['765.00 dollar']	0.117488318928
+['ticket', 'movie']	['student ticket']	0.675737719279
+['ticket', 'movie']	['adult ticket']	0.722297777211
+['4.00 dollar', 'movie']	['ticket']	0.87245534496
+['4.00 dollar', 'movie']	['adult']	0.200694376103
+['4.00 dollar', 'movie']	['dollar']	0.707659744934
+['4.00 dollar', 'movie']	['2.50 dollar']	0.549852778125
+['4.00 dollar', 'movie']	['240 ticket']	0.0827346205535
+['4.00 dollar', 'movie']	['765.00 dollar']	0.549852778125
+['4.00 dollar', 'movie']	['student ticket']	0.0827346205535
+['4.00 dollar', 'movie']	['adult ticket']	0.0827346205535
+['adult', 'movie']	['ticket']	0.335497084701
+['adult', 'movie']	['4.00 dollar']	0.0696933362217
+['adult', 'movie']	['dollar']	0.112892051807
+['adult', 'movie']	['2.50 dollar']	0.0696933362217
+['adult', 'movie']	['240 ticket']	0.0696933362217
+['adult', 'movie']	['765.00 dollar']	0.0696933362217
+['adult', 'movie']	['student ticket']	0.0696933362217
+['adult', 'movie']	['adult ticket']	0.561956922064
+['dollar', 'movie']	['ticket']	0.366665586929
+['dollar', 'movie']	['4.00 dollar']	0.447673452072
+['dollar', 'movie']	['adult']	0.101268600803
+['dollar', 'movie']	['2.50 dollar']	0.447673452072
+['dollar', 'movie']	['240 ticket']	0.0618737183104
+['dollar', 'movie']	['765.00 dollar']	0.345399931471
+['dollar', 'movie']	['student ticket']	0.0618737183104
+['dollar', 'movie']	['adult ticket']	0.0618737183104
+['2.50 dollar', 'movie']	['ticket']	0.87245534496
+['2.50 dollar', 'movie']	['4.00 dollar']	0.549852778125
+['2.50 dollar', 'movie']	['adult']	0.200694376103
+['2.50 dollar', 'movie']	['dollar']	0.707659744934
+['2.50 dollar', 'movie']	['240 ticket']	0.0827346205535
+['2.50 dollar', 'movie']	['765.00 dollar']	0.549852778125
+['2.50 dollar', 'movie']	['student ticket']	0.0827346205535
+['2.50 dollar', 'movie']	['adult ticket']	0.0827346205535
+['240 ticket', 'movie']	['ticket']	0.775304804602
+['240 ticket', 'movie']	['4.00 dollar']	0.0827346205535
+['240 ticket', 'movie']	['adult']	0.204081227982
+['240 ticket', 'movie']	['dollar']	0.179521647392
+['240 ticket', 'movie']	['2.50 dollar']	0.0827346205535
+['240 ticket', 'movie']	['765.00 dollar']	0.0827346205535
+['240 ticket', 'movie']	['student ticket']	0.549852778125
+['240 ticket', 'movie']	['adult ticket']	0.549852778125
+['765.00 dollar', 'movie']	['ticket']	0.87245534496
+['765.00 dollar', 'movie']	['4.00 dollar']	0.549852778125
+['765.00 dollar', 'movie']	['adult']	0.200694376103
+['765.00 dollar', 'movie']	['dollar']	0.44456581241
+['765.00 dollar', 'movie']	['2.50 dollar']	0.549852778125
+['765.00 dollar', 'movie']	['240 ticket']	0.0827346205535
+['765.00 dollar', 'movie']	['student ticket']	0.0827346205535
+['765.00 dollar', 'movie']	['adult ticket']	0.0827346205535
+['student ticket', 'movie']	['ticket']	0.821910970052
+['student ticket', 'movie']	['4.00 dollar']	0.0827346205535
+['student ticket', 'movie']	['adult']	0.204081227982
+['student ticket', 'movie']	['dollar']	0.179521647392
+['student ticket', 'movie']	['2.50 dollar']	0.0827346205535
+['student ticket', 'movie']	['240 ticket']	0.549852778125
+['student ticket', 'movie']	['765.00 dollar']	0.0827346205535
+['student ticket', 'movie']	['adult ticket']	0.5752094673
+['adult ticket', 'movie']	['ticket']	0.790105323226
+['adult ticket', 'movie']	['4.00 dollar']	0.0827346205535
+['adult ticket', 'movie']	['adult']	0.273425864174
+['adult ticket', 'movie']	['dollar']	0.179521647392
+['adult ticket', 'movie']	['2.50 dollar']	0.0827346205535
+['adult ticket', 'movie']	['240 ticket']	0.549852778125
+['adult ticket', 'movie']	['765.00 dollar']	0.0827346205535
+['adult ticket', 'movie']	['student ticket']	0.5752094673
+['ticket', '4.00 dollar']	['movie']	0.719154007744
+['ticket', '4.00 dollar']	['adult']	0.351678173917
+['ticket', '4.00 dollar']	['dollar']	0.690340515548
+['ticket', '4.00 dollar']	['2.50 dollar']	0.525526174317
+['ticket', '4.00 dollar']	['240 ticket']	0.669973747197
+['ticket', '4.00 dollar']	['765.00 dollar']	0.525526174317
+['ticket', '4.00 dollar']	['student ticket']	0.659403281276
+['ticket', '4.00 dollar']	['adult ticket']	0.722227658089
+['movie', '4.00 dollar']	['ticket']	0.87245534496
+['movie', '4.00 dollar']	['adult']	0.200694376103
+['movie', '4.00 dollar']	['dollar']	0.707659744934
+['movie', '4.00 dollar']	['2.50 dollar']	0.549852778125
+['movie', '4.00 dollar']	['240 ticket']	0.0827346205535
+['movie', '4.00 dollar']	['765.00 dollar']	0.549852778125
+['movie', '4.00 dollar']	['student ticket']	0.0827346205535
+['movie', '4.00 dollar']	['adult ticket']	0.0827346205535
+['adult', '4.00 dollar']	['ticket']	0.383308752861
+['adult', '4.00 dollar']	['movie']	0.190775906377
+['adult', '4.00 dollar']	['dollar']	0.70221659128
+['adult', '4.00 dollar']	['2.50 dollar']	0.494524508322
+['adult', '4.00 dollar']	['240 ticket']	0.0696933362217
+['adult', '4.00 dollar']	['765.00 dollar']	0.494524508322
+['adult', '4.00 dollar']	['student ticket']	0.0696933362217
+['adult', '4.00 dollar']	['adult ticket']	0.549663130339
+['dollar', '4.00 dollar']	['ticket']	0.413734650951
+['dollar', '4.00 dollar']	['movie']	0.33640499511
+['dollar', '4.00 dollar']	['adult']	0.321232214338
+['dollar', '4.00 dollar']	['2.50 dollar']	0.676555862245
+['dollar', '4.00 dollar']	['240 ticket']	0.183873817054
+['dollar', '4.00 dollar']	['765.00 dollar']	0.543445645363
+['dollar', '4.00 dollar']	['student ticket']	0.183873817054
+['dollar', '4.00 dollar']	['adult ticket']	0.183873817054
+['2.50 dollar', '4.00 dollar']	['ticket']	0.51323626183
+['2.50 dollar', '4.00 dollar']	['movie']	0.33521672513
+['2.50 dollar', '4.00 dollar']	['adult']	0.345269105941
+['2.50 dollar', '4.00 dollar']	['dollar']	0.740769402763
+['2.50 dollar', '4.00 dollar']	['240 ticket']	0.139258682248
+['2.50 dollar', '4.00 dollar']	['765.00 dollar']	0.637144068101
+['2.50 dollar', '4.00 dollar']	['student ticket']	0.139258682248
+['2.50 dollar', '4.00 dollar']	['adult ticket']	0.139258682248
+['240 ticket', '4.00 dollar']	['ticket']	0.687998110055
+['240 ticket', '4.00 dollar']	['movie']	0.0777864840342
+['240 ticket', '4.00 dollar']	['adult']	0.0774561735493
+['240 ticket', '4.00 dollar']	['dollar']	0.547932141857
+['240 ticket', '4.00 dollar']	['2.50 dollar']	0.584269096576
+['240 ticket', '4.00 dollar']	['765.00 dollar']	0.584269096576
+['240 ticket', '4.00 dollar']	['student ticket']	0.584269096576
+['240 ticket', '4.00 dollar']	['adult ticket']	0.584269096576
+['765.00 dollar', '4.00 dollar']	['ticket']	0.51323626183
+['765.00 dollar', '4.00 dollar']	['movie']	0.33521672513
+['765.00 dollar', '4.00 dollar']	['adult']	0.345269105941
+['765.00 dollar', '4.00 dollar']	['dollar']	0.761098305127
+['765.00 dollar', '4.00 dollar']	['2.50 dollar']	0.637144068101
+['765.00 dollar', '4.00 dollar']	['240 ticket']	0.139258682248
+['765.00 dollar', '4.00 dollar']	['student ticket']	0.139258682248
+['765.00 dollar', '4.00 dollar']	['adult ticket']	0.139258682248
+['student ticket', '4.00 dollar']	['ticket']	0.707398287968
+['student ticket', '4.00 dollar']	['movie']	0.0777864840342
+['student ticket', '4.00 dollar']	['adult']	0.0774561735493
+['student ticket', '4.00 dollar']	['dollar']	0.547932141857
+['student ticket', '4.00 dollar']	['2.50 dollar']	0.584269096576
+['student ticket', '4.00 dollar']	['240 ticket']	0.584269096576
+['student ticket', '4.00 dollar']	['765.00 dollar']	0.584269096576
+['student ticket', '4.00 dollar']	['adult ticket']	0.578891755681
+['adult ticket', '4.00 dollar']	['ticket']	0.700846684836
+['adult ticket', '4.00 dollar']	['movie']	0.0777864840342
+['adult ticket', '4.00 dollar']	['adult']	0.483463331992
+['adult ticket', '4.00 dollar']	['dollar']	0.547932141857
+['adult ticket', '4.00 dollar']	['2.50 dollar']	0.584269096576
+['adult ticket', '4.00 dollar']	['240 ticket']	0.584269096576
+['adult ticket', '4.00 dollar']	['765.00 dollar']	0.584269096576
+['adult ticket', '4.00 dollar']	['student ticket']	0.578891755681
+['ticket', 'adult']	['movie']	0.595943684919
+['ticket', 'adult']	['4.00 dollar']	0.174138467195
+['ticket', 'adult']	['dollar']	0.0899996321979
+['ticket', 'adult']	['2.50 dollar']	0.174138467195
+['ticket', 'adult']	['240 ticket']	0.670043866319
+['ticket', 'adult']	['765.00 dollar']	0.174138467195
+['ticket', 'adult']	['student ticket']	0.694300401269
+['ticket', 'adult']	['adult ticket']	0.59281813716
+['movie', 'adult']	['ticket']	0.335497084701
+['movie', 'adult']	['4.00 dollar']	0.0696933362217
+['movie', 'adult']	['dollar']	0.112892051807
+['movie', 'adult']	['2.50 dollar']	0.0696933362217
+['movie', 'adult']	['240 ticket']	0.0696933362217
+['movie', 'adult']	['765.00 dollar']	0.0696933362217
+['movie', 'adult']	['student ticket']	0.0696933362217
+['movie', 'adult']	['adult ticket']	0.561956922064
+['4.00 dollar', 'adult']	['ticket']	0.383308752861
+['4.00 dollar', 'adult']	['movie']	0.190775906377
+['4.00 dollar', 'adult']	['dollar']	0.70221659128
+['4.00 dollar', 'adult']	['2.50 dollar']	0.494524508322
+['4.00 dollar', 'adult']	['240 ticket']	0.0696933362217
+['4.00 dollar', 'adult']	['765.00 dollar']	0.494524508322
+['4.00 dollar', 'adult']	['student ticket']	0.0696933362217
+['4.00 dollar', 'adult']	['adult ticket']	0.549663130339
+['dollar', 'adult']	['ticket']	0.204265496759
+['dollar', 'adult']	['movie']	0.15319658622
+['dollar', 'adult']	['4.00 dollar']	0.447673452072
+['dollar', 'adult']	['2.50 dollar']	0.447673452072
+['dollar', 'adult']	['240 ticket']	0.118523866578
+['dollar', 'adult']	['765.00 dollar']	0.359760932789
+['dollar', 'adult']	['student ticket']	0.118523866578
+['dollar', 'adult']	['adult ticket']	0.38065923629
+['2.50 dollar', 'adult']	['ticket']	0.383308752861
+['2.50 dollar', 'adult']	['movie']	0.190775906377
+['2.50 dollar', 'adult']	['4.00 dollar']	0.494524508322
+['2.50 dollar', 'adult']	['dollar']	0.70221659128
+['2.50 dollar', 'adult']	['240 ticket']	0.0696933362217
+['2.50 dollar', 'adult']	['765.00 dollar']	0.494524508322
+['2.50 dollar', 'adult']	['student ticket']	0.0696933362217
+['2.50 dollar', 'adult']	['adult ticket']	0.549663130339
+['240 ticket', 'adult']	['ticket']	0.755516903117
+['240 ticket', 'adult']	['movie']	0.190775906377
+['240 ticket', 'adult']	['4.00 dollar']	0.0696933362217
+['240 ticket', 'adult']	['dollar']	0.142414104068
+['240 ticket', 'adult']	['2.50 dollar']	0.0696933362217
+['240 ticket', 'adult']	['765.00 dollar']	0.0696933362217
+['240 ticket', 'adult']	['student ticket']	0.510461204301
+['240 ticket', 'adult']	['adult ticket']	0.844414774284
+['765.00 dollar', 'adult']	['ticket']	0.383308752861
+['765.00 dollar', 'adult']	['movie']	0.190775906377
+['765.00 dollar', 'adult']	['4.00 dollar']	0.494524508322
+['765.00 dollar', 'adult']	['dollar']	0.473606703188
+['765.00 dollar', 'adult']	['2.50 dollar']	0.494524508322
+['765.00 dollar', 'adult']	['240 ticket']	0.0696933362217
+['765.00 dollar', 'adult']	['student ticket']	0.0696933362217
+['765.00 dollar', 'adult']	['adult ticket']	0.549663130339
+['student ticket', 'adult']	['ticket']	0.706239332903
+['student ticket', 'adult']	['movie']	0.190775906377
+['student ticket', 'adult']	['4.00 dollar']	0.0696933362217
+['student ticket', 'adult']	['dollar']	0.142414104068
+['student ticket', 'adult']	['2.50 dollar']	0.0696933362217
+['student ticket', 'adult']	['240 ticket']	0.510461204301
+['student ticket', 'adult']	['765.00 dollar']	0.0696933362217
+['student ticket', 'adult']	['adult ticket']	0.725259283595
+['adult ticket', 'adult']	['ticket']	0.761794888459
+['adult ticket', 'adult']	['movie']	0.190775906377
+['adult ticket', 'adult']	['4.00 dollar']	0.0696933362217
+['adult ticket', 'adult']	['dollar']	0.142414104068
+['adult ticket', 'adult']	['2.50 dollar']	0.0696933362217
+['adult ticket', 'adult']	['240 ticket']	0.510461204301
+['adult ticket', 'adult']	['765.00 dollar']	0.0696933362217
+['adult ticket', 'adult']	['student ticket']	0.521255982425
+['ticket', 'dollar']	['movie']	0.271023093079
+['ticket', 'dollar']	['4.00 dollar']	0.617937628086
+['ticket', 'dollar']	['adult']	0.153799680747
+['ticket', 'dollar']	['2.50 dollar']	0.617937628086
+['ticket', 'dollar']	['240 ticket']	0.545159042756
+['ticket', 'dollar']	['765.00 dollar']	0.363289837203
+['ticket', 'dollar']	['student ticket']	0.360100613215
+['ticket', 'dollar']	['adult ticket']	0.582053000015
+['movie', 'dollar']	['ticket']	0.366665586929
+['movie', 'dollar']	['4.00 dollar']	0.447673452072
+['movie', 'dollar']	['adult']	0.101268600803
+['movie', 'dollar']	['2.50 dollar']	0.447673452072
+['movie', 'dollar']	['240 ticket']	0.0618737183104
+['movie', 'dollar']	['765.00 dollar']	0.345399931471
+['movie', 'dollar']	['student ticket']	0.0618737183104
+['movie', 'dollar']	['adult ticket']	0.0618737183104
+['4.00 dollar', 'dollar']	['ticket']	0.413734650951
+['4.00 dollar', 'dollar']	['movie']	0.33640499511
+['4.00 dollar', 'dollar']	['adult']	0.321232214338
+['4.00 dollar', 'dollar']	['2.50 dollar']	0.676555862245
+['4.00 dollar', 'dollar']	['240 ticket']	0.183873817054
+['4.00 dollar', 'dollar']	['765.00 dollar']	0.543445645363
+['4.00 dollar', 'dollar']	['student ticket']	0.183873817054
+['4.00 dollar', 'dollar']	['adult ticket']	0.183873817054
+['adult', 'dollar']	['ticket']	0.204265496759
+['adult', 'dollar']	['movie']	0.15319658622
+['adult', 'dollar']	['4.00 dollar']	0.447673452072
+['adult', 'dollar']	['2.50 dollar']	0.447673452072
+['adult', 'dollar']	['240 ticket']	0.118523866578
+['adult', 'dollar']	['765.00 dollar']	0.359760932789
+['adult', 'dollar']	['student ticket']	0.118523866578
+['adult', 'dollar']	['adult ticket']	0.38065923629
+['2.50 dollar', 'dollar']	['ticket']	0.413734650951
+['2.50 dollar', 'dollar']	['movie']	0.33640499511
+['2.50 dollar', 'dollar']	['4.00 dollar']	0.676555862245
+['2.50 dollar', 'dollar']	['adult']	0.321232214338
+['2.50 dollar', 'dollar']	['240 ticket']	0.183873817054
+['2.50 dollar', 'dollar']	['765.00 dollar']	0.543445645363
+['2.50 dollar', 'dollar']	['student ticket']	0.183873817054
+['2.50 dollar', 'dollar']	['adult ticket']	0.183873817054
+['240 ticket', 'dollar']	['ticket']	0.646450713312
+['240 ticket', 'dollar']	['movie']	0.132305545789
+['240 ticket', 'dollar']	['4.00 dollar']	0.442012633359
+['240 ticket', 'dollar']	['adult']	0.101268600803
+['240 ticket', 'dollar']	['2.50 dollar']	0.442012633359
+['240 ticket', 'dollar']	['765.00 dollar']	0.384540526976
+['240 ticket', 'dollar']	['student ticket']	0.208039687774
+['240 ticket', 'dollar']	['adult ticket']	0.208039687774
+['765.00 dollar', 'dollar']	['ticket']	0.413734650951
+['765.00 dollar', 'dollar']	['movie']	0.33640499511
+['765.00 dollar', 'dollar']	['4.00 dollar']	0.676555862245
+['765.00 dollar', 'dollar']	['adult']	0.321232214338
+['765.00 dollar', 'dollar']	['2.50 dollar']	0.676555862245
+['765.00 dollar', 'dollar']	['240 ticket']	0.183873817054
+['765.00 dollar', 'dollar']	['student ticket']	0.183873817054
+['765.00 dollar', 'dollar']	['adult ticket']	0.183873817054
+['student ticket', 'dollar']	['ticket']	0.416171927407
+['student ticket', 'dollar']	['movie']	0.132305545789
+['student ticket', 'dollar']	['4.00 dollar']	0.442012633359
+['student ticket', 'dollar']	['adult']	0.101268600803
+['student ticket', 'dollar']	['2.50 dollar']	0.442012633359
+['student ticket', 'dollar']	['240 ticket']	0.208039687774
+['student ticket', 'dollar']	['765.00 dollar']	0.384540526976
+['student ticket', 'dollar']	['adult ticket']	0.273748850919
+['adult ticket', 'dollar']	['ticket']	0.600796035125
+['adult ticket', 'dollar']	['movie']	0.132305545789
+['adult ticket', 'dollar']	['4.00 dollar']	0.442012633359
+['adult ticket', 'dollar']	['adult']	0.252066363663
+['adult ticket', 'dollar']	['2.50 dollar']	0.442012633359
+['adult ticket', 'dollar']	['240 ticket']	0.208039687774
+['adult ticket', 'dollar']	['765.00 dollar']	0.384540526976
+['adult ticket', 'dollar']	['student ticket']	0.273748850919
+['ticket', '2.50 dollar']	['movie']	0.719154007744
+['ticket', '2.50 dollar']	['4.00 dollar']	0.525526174317
+['ticket', '2.50 dollar']	['adult']	0.351678173917
+['ticket', '2.50 dollar']	['dollar']	0.690340515548
+['ticket', '2.50 dollar']	['240 ticket']	0.669973747197
+['ticket', '2.50 dollar']	['765.00 dollar']	0.525526174317
+['ticket', '2.50 dollar']	['student ticket']	0.659403281276
+['ticket', '2.50 dollar']	['adult ticket']	0.722227658089
+['movie', '2.50 dollar']	['ticket']	0.87245534496
+['movie', '2.50 dollar']	['4.00 dollar']	0.549852778125
+['movie', '2.50 dollar']	['adult']	0.200694376103
+['movie', '2.50 dollar']	['dollar']	0.707659744934
+['movie', '2.50 dollar']	['240 ticket']	0.0827346205535
+['movie', '2.50 dollar']	['765.00 dollar']	0.549852778125
+['movie', '2.50 dollar']	['student ticket']	0.0827346205535
+['movie', '2.50 dollar']	['adult ticket']	0.0827346205535
+['4.00 dollar', '2.50 dollar']	['ticket']	0.51323626183
+['4.00 dollar', '2.50 dollar']	['movie']	0.33521672513
+['4.00 dollar', '2.50 dollar']	['adult']	0.345269105941
+['4.00 dollar', '2.50 dollar']	['dollar']	0.740769402763
+['4.00 dollar', '2.50 dollar']	['240 ticket']	0.139258682248
+['4.00 dollar', '2.50 dollar']	['765.00 dollar']	0.637144068101
+['4.00 dollar', '2.50 dollar']	['student ticket']	0.139258682248
+['4.00 dollar', '2.50 dollar']	['adult ticket']	0.139258682248
+['adult', '2.50 dollar']	['ticket']	0.383308752861
+['adult', '2.50 dollar']	['movie']	0.190775906377
+['adult', '2.50 dollar']	['4.00 dollar']	0.494524508322
+['adult', '2.50 dollar']	['dollar']	0.70221659128
+['adult', '2.50 dollar']	['240 ticket']	0.0696933362217
+['adult', '2.50 dollar']	['765.00 dollar']	0.494524508322
+['adult', '2.50 dollar']	['student ticket']	0.0696933362217
+['adult', '2.50 dollar']	['adult ticket']	0.549663130339
+['dollar', '2.50 dollar']	['ticket']	0.413734650951
+['dollar', '2.50 dollar']	['movie']	0.33640499511
+['dollar', '2.50 dollar']	['4.00 dollar']	0.676555862245
+['dollar', '2.50 dollar']	['adult']	0.321232214338
+['dollar', '2.50 dollar']	['240 ticket']	0.183873817054
+['dollar', '2.50 dollar']	['765.00 dollar']	0.543445645363
+['dollar', '2.50 dollar']	['student ticket']	0.183873817054
+['dollar', '2.50 dollar']	['adult ticket']	0.183873817054
+['240 ticket', '2.50 dollar']	['ticket']	0.687998110055
+['240 ticket', '2.50 dollar']	['movie']	0.0777864840342
+['240 ticket', '2.50 dollar']	['4.00 dollar']	0.584269096576
+['240 ticket', '2.50 dollar']	['adult']	0.0774561735493
+['240 ticket', '2.50 dollar']	['dollar']	0.547932141857
+['240 ticket', '2.50 dollar']	['765.00 dollar']	0.584269096576
+['240 ticket', '2.50 dollar']	['student ticket']	0.584269096576
+['240 ticket', '2.50 dollar']	['adult ticket']	0.584269096576
+['765.00 dollar', '2.50 dollar']	['ticket']	0.51323626183
+['765.00 dollar', '2.50 dollar']	['movie']	0.33521672513
+['765.00 dollar', '2.50 dollar']	['4.00 dollar']	0.637144068101
+['765.00 dollar', '2.50 dollar']	['adult']	0.345269105941
+['765.00 dollar', '2.50 dollar']	['dollar']	0.761098305127
+['765.00 dollar', '2.50 dollar']	['240 ticket']	0.139258682248
+['765.00 dollar', '2.50 dollar']	['student ticket']	0.139258682248
+['765.00 dollar', '2.50 dollar']	['adult ticket']	0.139258682248
+['student ticket', '2.50 dollar']	['ticket']	0.707398287968
+['student ticket', '2.50 dollar']	['movie']	0.0777864840342
+['student ticket', '2.50 dollar']	['4.00 dollar']	0.584269096576
+['student ticket', '2.50 dollar']	['adult']	0.0774561735493
+['student ticket', '2.50 dollar']	['dollar']	0.547932141857
+['student ticket', '2.50 dollar']	['240 ticket']	0.584269096576
+['student ticket', '2.50 dollar']	['765.00 dollar']	0.584269096576
+['student ticket', '2.50 dollar']	['adult ticket']	0.578891755681
+['adult ticket', '2.50 dollar']	['ticket']	0.700846684836
+['adult ticket', '2.50 dollar']	['movie']	0.0777864840342
+['adult ticket', '2.50 dollar']	['4.00 dollar']	0.584269096576
+['adult ticket', '2.50 dollar']	['adult']	0.483463331992
+['adult ticket', '2.50 dollar']	['dollar']	0.547932141857
+['adult ticket', '2.50 dollar']	['240 ticket']	0.584269096576
+['adult ticket', '2.50 dollar']	['765.00 dollar']	0.584269096576
+['adult ticket', '2.50 dollar']	['student ticket']	0.578891755681
+['ticket', '240 ticket']	['movie']	0.748169005606
+['ticket', '240 ticket']	['4.00 dollar']	0.247627320934
+['ticket', '240 ticket']	['adult']	0.503518417929
+['ticket', '240 ticket']	['dollar']	0.347535848514
+['ticket', '240 ticket']	['2.50 dollar']	0.247627320934
+['ticket', '240 ticket']	['765.00 dollar']	0.247627320934
+['ticket', '240 ticket']	['student ticket']	0.722622429839
+['ticket', '240 ticket']	['adult ticket']	0.853987545748
+['movie', '240 ticket']	['ticket']	0.775304804602
+['movie', '240 ticket']	['4.00 dollar']	0.0827346205535
+['movie', '240 ticket']	['adult']	0.204081227982
+['movie', '240 ticket']	['dollar']	0.179521647392
+['movie', '240 ticket']	['2.50 dollar']	0.0827346205535
+['movie', '240 ticket']	['765.00 dollar']	0.0827346205535
+['movie', '240 ticket']	['student ticket']	0.549852778125
+['movie', '240 ticket']	['adult ticket']	0.549852778125
+['4.00 dollar', '240 ticket']	['ticket']	0.687998110055
+['4.00 dollar', '240 ticket']	['movie']	0.0777864840342
+['4.00 dollar', '240 ticket']	['adult']	0.0774561735493
+['4.00 dollar', '240 ticket']	['dollar']	0.547932141857
+['4.00 dollar', '240 ticket']	['2.50 dollar']	0.584269096576
+['4.00 dollar', '240 ticket']	['765.00 dollar']	0.584269096576
+['4.00 dollar', '240 ticket']	['student ticket']	0.584269096576
+['4.00 dollar', '240 ticket']	['adult ticket']	0.584269096576
+['adult', '240 ticket']	['ticket']	0.755516903117
+['adult', '240 ticket']	['movie']	0.190775906377
+['adult', '240 ticket']	['4.00 dollar']	0.0696933362217
+['adult', '240 ticket']	['dollar']	0.142414104068
+['adult', '240 ticket']	['2.50 dollar']	0.0696933362217
+['adult', '240 ticket']	['765.00 dollar']	0.0696933362217
+['adult', '240 ticket']	['student ticket']	0.510461204301
+['adult', '240 ticket']	['adult ticket']	0.844414774284
+['dollar', '240 ticket']	['ticket']	0.646450713312
+['dollar', '240 ticket']	['movie']	0.132305545789
+['dollar', '240 ticket']	['4.00 dollar']	0.442012633359
+['dollar', '240 ticket']	['adult']	0.101268600803
+['dollar', '240 ticket']	['2.50 dollar']	0.442012633359
+['dollar', '240 ticket']	['765.00 dollar']	0.384540526976
+['dollar', '240 ticket']	['student ticket']	0.208039687774
+['dollar', '240 ticket']	['adult ticket']	0.208039687774
+['2.50 dollar', '240 ticket']	['ticket']	0.687998110055
+['2.50 dollar', '240 ticket']	['movie']	0.0777864840342
+['2.50 dollar', '240 ticket']	['4.00 dollar']	0.584269096576
+['2.50 dollar', '240 ticket']	['adult']	0.0774561735493
+['2.50 dollar', '240 ticket']	['dollar']	0.547932141857
+['2.50 dollar', '240 ticket']	['765.00 dollar']	0.584269096576
+['2.50 dollar', '240 ticket']	['student ticket']	0.584269096576
+['2.50 dollar', '240 ticket']	['adult ticket']	0.584269096576
+['765.00 dollar', '240 ticket']	['ticket']	0.687998110055
+['765.00 dollar', '240 ticket']	['movie']	0.0777864840342
+['765.00 dollar', '240 ticket']	['4.00 dollar']	0.584269096576
+['765.00 dollar', '240 ticket']	['adult']	0.0774561735493
+['765.00 dollar', '240 ticket']	['dollar']	0.404389461393
+['765.00 dollar', '240 ticket']	['2.50 dollar']	0.584269096576
+['765.00 dollar', '240 ticket']	['student ticket']	0.584269096576
+['765.00 dollar', '240 ticket']	['adult ticket']	0.584269096576
+['student ticket', '240 ticket']	['ticket']	0.749517001914
+['student ticket', '240 ticket']	['movie']	0.334330087138
+['student ticket', '240 ticket']	['4.00 dollar']	0.139258682248
+['student ticket', '240 ticket']	['adult']	0.322323177041
+['student ticket', '240 ticket']	['dollar']	0.292299166638
+['student ticket', '240 ticket']	['2.50 dollar']	0.139258682248
+['student ticket', '240 ticket']	['765.00 dollar']	0.139258682248
+['student ticket', '240 ticket']	['adult ticket']	0.795103976209
+['adult ticket', '240 ticket']	['ticket']	0.707364104934
+['adult ticket', '240 ticket']	['movie']	0.334330087138
+['adult ticket', '240 ticket']	['4.00 dollar']	0.139258682248
+['adult ticket', '240 ticket']	['adult']	0.581516055124
+['adult ticket', '240 ticket']	['dollar']	0.292299166638
+['adult ticket', '240 ticket']	['2.50 dollar']	0.139258682248
+['adult ticket', '240 ticket']	['765.00 dollar']	0.139258682248
+['adult ticket', '240 ticket']	['student ticket']	0.795103976209
+['ticket', '765.00 dollar']	['movie']	0.719154007744
+['ticket', '765.00 dollar']	['4.00 dollar']	0.525526174317
+['ticket', '765.00 dollar']	['adult']	0.351678173917
+['ticket', '765.00 dollar']	['dollar']	0.473606703188
+['ticket', '765.00 dollar']	['2.50 dollar']	0.525526174317
+['ticket', '765.00 dollar']	['240 ticket']	0.669973747197
+['ticket', '765.00 dollar']	['student ticket']	0.659403281276
+['ticket', '765.00 dollar']	['adult ticket']	0.722227658089
+['movie', '765.00 dollar']	['ticket']	0.87245534496
+['movie', '765.00 dollar']	['4.00 dollar']	0.549852778125
+['movie', '765.00 dollar']	['adult']	0.200694376103
+['movie', '765.00 dollar']	['dollar']	0.44456581241
+['movie', '765.00 dollar']	['2.50 dollar']	0.549852778125
+['movie', '765.00 dollar']	['240 ticket']	0.0827346205535
+['movie', '765.00 dollar']	['student ticket']	0.0827346205535
+['movie', '765.00 dollar']	['adult ticket']	0.0827346205535
+['4.00 dollar', '765.00 dollar']	['ticket']	0.51323626183
+['4.00 dollar', '765.00 dollar']	['movie']	0.33521672513
+['4.00 dollar', '765.00 dollar']	['adult']	0.345269105941
+['4.00 dollar', '765.00 dollar']	['dollar']	0.761098305127
+['4.00 dollar', '765.00 dollar']	['2.50 dollar']	0.637144068101
+['4.00 dollar', '765.00 dollar']	['240 ticket']	0.139258682248
+['4.00 dollar', '765.00 dollar']	['student ticket']	0.139258682248
+['4.00 dollar', '765.00 dollar']	['adult ticket']	0.139258682248
+['adult', '765.00 dollar']	['ticket']	0.383308752861
+['adult', '765.00 dollar']	['movie']	0.190775906377
+['adult', '765.00 dollar']	['4.00 dollar']	0.494524508322
+['adult', '765.00 dollar']	['dollar']	0.473606703188
+['adult', '765.00 dollar']	['2.50 dollar']	0.494524508322
+['adult', '765.00 dollar']	['240 ticket']	0.0696933362217
+['adult', '765.00 dollar']	['student ticket']	0.0696933362217
+['adult', '765.00 dollar']	['adult ticket']	0.549663130339
+['dollar', '765.00 dollar']	['ticket']	0.413734650951
+['dollar', '765.00 dollar']	['movie']	0.33640499511
+['dollar', '765.00 dollar']	['4.00 dollar']	0.676555862245
+['dollar', '765.00 dollar']	['adult']	0.321232214338
+['dollar', '765.00 dollar']	['2.50 dollar']	0.676555862245
+['dollar', '765.00 dollar']	['240 ticket']	0.183873817054
+['dollar', '765.00 dollar']	['student ticket']	0.183873817054
+['dollar', '765.00 dollar']	['adult ticket']	0.183873817054
+['2.50 dollar', '765.00 dollar']	['ticket']	0.51323626183
+['2.50 dollar', '765.00 dollar']	['movie']	0.33521672513
+['2.50 dollar', '765.00 dollar']	['4.00 dollar']	0.637144068101
+['2.50 dollar', '765.00 dollar']	['adult']	0.345269105941
+['2.50 dollar', '765.00 dollar']	['dollar']	0.761098305127
+['2.50 dollar', '765.00 dollar']	['240 ticket']	0.139258682248
+['2.50 dollar', '765.00 dollar']	['student ticket']	0.139258682248
+['2.50 dollar', '765.00 dollar']	['adult ticket']	0.139258682248
+['240 ticket', '765.00 dollar']	['ticket']	0.687998110055
+['240 ticket', '765.00 dollar']	['movie']	0.0777864840342
+['240 ticket', '765.00 dollar']	['4.00 dollar']	0.584269096576
+['240 ticket', '765.00 dollar']	['adult']	0.0774561735493
+['240 ticket', '765.00 dollar']	['dollar']	0.404389461393
+['240 ticket', '765.00 dollar']	['2.50 dollar']	0.584269096576
+['240 ticket', '765.00 dollar']	['student ticket']	0.584269096576
+['240 ticket', '765.00 dollar']	['adult ticket']	0.584269096576
+['student ticket', '765.00 dollar']	['ticket']	0.707398287968
+['student ticket', '765.00 dollar']	['movie']	0.0777864840342
+['student ticket', '765.00 dollar']	['4.00 dollar']	0.584269096576
+['student ticket', '765.00 dollar']	['adult']	0.0774561735493
+['student ticket', '765.00 dollar']	['dollar']	0.404389461393
+['student ticket', '765.00 dollar']	['2.50 dollar']	0.584269096576
+['student ticket', '765.00 dollar']	['240 ticket']	0.584269096576
+['student ticket', '765.00 dollar']	['adult ticket']	0.578891755681
+['adult ticket', '765.00 dollar']	['ticket']	0.700846684836
+['adult ticket', '765.00 dollar']	['movie']	0.0777864840342
+['adult ticket', '765.00 dollar']	['4.00 dollar']	0.584269096576
+['adult ticket', '765.00 dollar']	['adult']	0.483463331992
+['adult ticket', '765.00 dollar']	['dollar']	0.404389461393
+['adult ticket', '765.00 dollar']	['2.50 dollar']	0.584269096576
+['adult ticket', '765.00 dollar']	['240 ticket']	0.584269096576
+['adult ticket', '765.00 dollar']	['student ticket']	0.578891755681
+['ticket', 'student ticket']	['movie']	0.748169005606
+['ticket', 'student ticket']	['4.00 dollar']	0.247627320934
+['ticket', 'student ticket']	['adult']	0.503518417929
+['ticket', 'student ticket']	['dollar']	0.347535848514
+['ticket', 'student ticket']	['2.50 dollar']	0.247627320934
+['ticket', 'student ticket']	['240 ticket']	0.782259204304
+['ticket', 'student ticket']	['765.00 dollar']	0.247627320934
+['ticket', 'student ticket']	['adult ticket']	0.840157211791
+['movie', 'student ticket']	['ticket']	0.821910970052
+['movie', 'student ticket']	['4.00 dollar']	0.0827346205535
+['movie', 'student ticket']	['adult']	0.204081227982
+['movie', 'student ticket']	['dollar']	0.179521647392
+['movie', 'student ticket']	['2.50 dollar']	0.0827346205535
+['movie', 'student ticket']	['240 ticket']	0.549852778125
+['movie', 'student ticket']	['765.00 dollar']	0.0827346205535
+['movie', 'student ticket']	['adult ticket']	0.5752094673
+['4.00 dollar', 'student ticket']	['ticket']	0.707398287968
+['4.00 dollar', 'student ticket']	['movie']	0.0777864840342
+['4.00 dollar', 'student ticket']	['adult']	0.0774561735493
+['4.00 dollar', 'student ticket']	['dollar']	0.547932141857
+['4.00 dollar', 'student ticket']	['2.50 dollar']	0.584269096576
+['4.00 dollar', 'student ticket']	['240 ticket']	0.584269096576
+['4.00 dollar', 'student ticket']	['765.00 dollar']	0.584269096576
+['4.00 dollar', 'student ticket']	['adult ticket']	0.578891755681
+['adult', 'student ticket']	['ticket']	0.706239332903
+['adult', 'student ticket']	['movie']	0.190775906377
+['adult', 'student ticket']	['4.00 dollar']	0.0696933362217
+['adult', 'student ticket']	['dollar']	0.142414104068
+['adult', 'student ticket']	['2.50 dollar']	0.0696933362217
+['adult', 'student ticket']	['240 ticket']	0.510461204301
+['adult', 'student ticket']	['765.00 dollar']	0.0696933362217
+['adult', 'student ticket']	['adult ticket']	0.725259283595
+['dollar', 'student ticket']	['ticket']	0.416171927407
+['dollar', 'student ticket']	['movie']	0.132305545789
+['dollar', 'student ticket']	['4.00 dollar']	0.442012633359
+['dollar', 'student ticket']	['adult']	0.101268600803
+['dollar', 'student ticket']	['2.50 dollar']	0.442012633359
+['dollar', 'student ticket']	['240 ticket']	0.208039687774
+['dollar', 'student ticket']	['765.00 dollar']	0.384540526976
+['dollar', 'student ticket']	['adult ticket']	0.273748850919
+['2.50 dollar', 'student ticket']	['ticket']	0.707398287968
+['2.50 dollar', 'student ticket']	['movie']	0.0777864840342
+['2.50 dollar', 'student ticket']	['4.00 dollar']	0.584269096576
+['2.50 dollar', 'student ticket']	['adult']	0.0774561735493
+['2.50 dollar', 'student ticket']	['dollar']	0.547932141857
+['2.50 dollar', 'student ticket']	['240 ticket']	0.584269096576
+['2.50 dollar', 'student ticket']	['765.00 dollar']	0.584269096576
+['2.50 dollar', 'student ticket']	['adult ticket']	0.578891755681
+['240 ticket', 'student ticket']	['ticket']	0.749517001914
+['240 ticket', 'student ticket']	['movie']	0.334330087138
+['240 ticket', 'student ticket']	['4.00 dollar']	0.139258682248
+['240 ticket', 'student ticket']	['adult']	0.322323177041
+['240 ticket', 'student ticket']	['dollar']	0.292299166638
+['240 ticket', 'student ticket']	['2.50 dollar']	0.139258682248
+['240 ticket', 'student ticket']	['765.00 dollar']	0.139258682248
+['240 ticket', 'student ticket']	['adult ticket']	0.795103976209
+['765.00 dollar', 'student ticket']	['ticket']	0.707398287968
+['765.00 dollar', 'student ticket']	['movie']	0.0777864840342
+['765.00 dollar', 'student ticket']	['4.00 dollar']	0.584269096576
+['765.00 dollar', 'student ticket']	['adult']	0.0774561735493
+['765.00 dollar', 'student ticket']	['dollar']	0.404389461393
+['765.00 dollar', 'student ticket']	['2.50 dollar']	0.584269096576
+['765.00 dollar', 'student ticket']	['240 ticket']	0.584269096576
+['765.00 dollar', 'student ticket']	['adult ticket']	0.578891755681
+['adult ticket', 'student ticket']	['ticket']	0.773123291919
+['adult ticket', 'student ticket']	['movie']	0.334330087138
+['adult ticket', 'student ticket']	['4.00 dollar']	0.139258682248
+['adult ticket', 'student ticket']	['adult']	0.581516055124
+['adult ticket', 'student ticket']	['dollar']	0.292299166638
+['adult ticket', 'student ticket']	['2.50 dollar']	0.139258682248
+['adult ticket', 'student ticket']	['240 ticket']	0.637144068101
+['adult ticket', 'student ticket']	['765.00 dollar']	0.139258682248
+['ticket', 'adult ticket']	['movie']	0.748169005606
+['ticket', 'adult ticket']	['4.00 dollar']	0.247627320934
+['ticket', 'adult ticket']	['adult']	0.651901182844
+['ticket', 'adult ticket']	['dollar']	0.347535848514
+['ticket', 'adult ticket']	['2.50 dollar']	0.247627320934
+['ticket', 'adult ticket']	['240 ticket']	0.782259204304
+['ticket', 'adult ticket']	['765.00 dollar']	0.247627320934
+['ticket', 'adult ticket']	['student ticket']	0.709963670002
+['movie', 'adult ticket']	['ticket']	0.790105323226
+['movie', 'adult ticket']	['4.00 dollar']	0.0827346205535
+['movie', 'adult ticket']	['adult']	0.273425864174
+['movie', 'adult ticket']	['dollar']	0.179521647392
+['movie', 'adult ticket']	['2.50 dollar']	0.0827346205535
+['movie', 'adult ticket']	['240 ticket']	0.549852778125
+['movie', 'adult ticket']	['765.00 dollar']	0.0827346205535
+['movie', 'adult ticket']	['student ticket']	0.5752094673
+['4.00 dollar', 'adult ticket']	['ticket']	0.700846684836
+['4.00 dollar', 'adult ticket']	['movie']	0.0777864840342
+['4.00 dollar', 'adult ticket']	['adult']	0.483463331992
+['4.00 dollar', 'adult ticket']	['dollar']	0.547932141857
+['4.00 dollar', 'adult ticket']	['2.50 dollar']	0.584269096576
+['4.00 dollar', 'adult ticket']	['240 ticket']	0.584269096576
+['4.00 dollar', 'adult ticket']	['765.00 dollar']	0.584269096576
+['4.00 dollar', 'adult ticket']	['student ticket']	0.578891755681
+['adult', 'adult ticket']	['ticket']	0.761794888459
+['adult', 'adult ticket']	['movie']	0.190775906377
+['adult', 'adult ticket']	['4.00 dollar']	0.0696933362217
+['adult', 'adult ticket']	['dollar']	0.142414104068
+['adult', 'adult ticket']	['2.50 dollar']	0.0696933362217
+['adult', 'adult ticket']	['240 ticket']	0.510461204301
+['adult', 'adult ticket']	['765.00 dollar']	0.0696933362217
+['adult', 'adult ticket']	['student ticket']	0.521255982425
+['dollar', 'adult ticket']	['ticket']	0.600796035125
+['dollar', 'adult ticket']	['movie']	0.132305545789
+['dollar', 'adult ticket']	['4.00 dollar']	0.442012633359
+['dollar', 'adult ticket']	['adult']	0.252066363663
+['dollar', 'adult ticket']	['2.50 dollar']	0.442012633359
+['dollar', 'adult ticket']	['240 ticket']	0.208039687774
+['dollar', 'adult ticket']	['765.00 dollar']	0.384540526976
+['dollar', 'adult ticket']	['student ticket']	0.273748850919
+['2.50 dollar', 'adult ticket']	['ticket']	0.700846684836
+['2.50 dollar', 'adult ticket']	['movie']	0.0777864840342
+['2.50 dollar', 'adult ticket']	['4.00 dollar']	0.584269096576
+['2.50 dollar', 'adult ticket']	['adult']	0.483463331992
+['2.50 dollar', 'adult ticket']	['dollar']	0.547932141857
+['2.50 dollar', 'adult ticket']	['240 ticket']	0.584269096576
+['2.50 dollar', 'adult ticket']	['765.00 dollar']	0.584269096576
+['2.50 dollar', 'adult ticket']	['student ticket']	0.578891755681
+['240 ticket', 'adult ticket']	['ticket']	0.707364104934
+['240 ticket', 'adult ticket']	['movie']	0.334330087138
+['240 ticket', 'adult ticket']	['4.00 dollar']	0.139258682248
+['240 ticket', 'adult ticket']	['adult']	0.581516055124
+['240 ticket', 'adult ticket']	['dollar']	0.292299166638
+['240 ticket', 'adult ticket']	['2.50 dollar']	0.139258682248
+['240 ticket', 'adult ticket']	['765.00 dollar']	0.139258682248
+['240 ticket', 'adult ticket']	['student ticket']	0.795103976209
+['765.00 dollar', 'adult ticket']	['ticket']	0.700846684836
+['765.00 dollar', 'adult ticket']	['movie']	0.0777864840342
+['765.00 dollar', 'adult ticket']	['4.00 dollar']	0.584269096576
+['765.00 dollar', 'adult ticket']	['adult']	0.483463331992
+['765.00 dollar', 'adult ticket']	['dollar']	0.404389461393
+['765.00 dollar', 'adult ticket']	['2.50 dollar']	0.584269096576
+['765.00 dollar', 'adult ticket']	['240 ticket']	0.584269096576
+['765.00 dollar', 'adult ticket']	['student ticket']	0.578891755681
+['student ticket', 'adult ticket']	['ticket']	0.773123291919
+['student ticket', 'adult ticket']	['movie']	0.334330087138
+['student ticket', 'adult ticket']	['4.00 dollar']	0.139258682248
+['student ticket', 'adult ticket']	['adult']	0.581516055124
+['student ticket', 'adult ticket']	['dollar']	0.292299166638
+['student ticket', 'adult ticket']	['2.50 dollar']	0.139258682248
+['student ticket', 'adult ticket']	['240 ticket']	0.637144068101
+['student ticket', 'adult ticket']	['765.00 dollar']	0.139258682248

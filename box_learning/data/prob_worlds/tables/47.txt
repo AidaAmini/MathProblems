@@ -1,0 +1,16 @@
+1
+[['part-time job', '25', 'hour', '-', '-', 'dollar', '300'], ['college library', 'x1', 'hour', 'dollar', '8', '-', '-'], ['construction work', 'x2', 'hour', 'dollar', '15', '-', '-']]
+-1
+[['part-time job', '25', '15', '-', 'construction work', 'dollar', '300'], ['college library', 'x1', 'hour', 'dollar', '8', '-', '-'], ['part-time job', '25', '300', 'dollar', '15', '-', '-']]
+-1
+[['part-time job', '25', 'hour', '-', 'construction work', 'x2', '300'], ['college library', 'x1', 'hour', 'dollar', '8', '-', '-'], ['25', 'x2', 'hour', '300', '15', '-', 'part-time job']]
+-1
+[['part-time job', '25', 'hour', '-', '15', 'dollar', '300'], ['college library', 'x1', 'hour', 'dollar', '8', '-', '-'], ['25', 'x2', '300', 'hour', '15', '-', '-']]
+-1
+[['part-time job', 'construction work', 'hour', '15', '-', 'dollar', '300'], ['college library', 'x1', 'hour', 'dollar', '8', '-', '-'], ['dollar', 'x2', 'hour', '15', 'part-time job', '-', '-']]
+-1
+[['hour', 'construction work', '25', '-', '-', 'dollar', '300'], ['college library', 'x1', 'hour', 'dollar', '8', '-', '-'], ['construction work', '300', 'hour', 'dollar', '15', '-', '25']]
+-1
+[['part-time job', 'x2', 'hour', '-', '15', 'dollar', 'construction work'], ['college library', 'x1', 'hour', 'dollar', '8', '-', '-'], ['construction work', 'x2', 'hour', 'dollar', '15', 'part-time job', '-']]
+-1
+[['part-time job', '25', 'hour', '-', '-', 'dollar', '300'], ['college library', 'x1', 'hour', 'dollar', '8', '-', '-'], ['25', '300', 'hour', 'dollar', '15', '-', '-']]

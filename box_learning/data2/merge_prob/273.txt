@@ -1,0 +1,134 @@
+['object', 'weight 133 pound', 'earth', 'pound', '26.6 pound', '136-pound person']
+['object']	['weight 133 pound']	0.0920786332799
+['object']	['earth']	0.0865655370555
+['object']	['pound']	0.138286971863
+['object']	['26.6 pound']	0.0901100077042
+['object']	['136-pound person']	0.16060792936
+['weight 133 pound']	['earth']	0.0914560578477
+['weight 133 pound']	['26.6 pound']	0.48515156909
+['weight 133 pound']	['136-pound person']	0.0988755105172
+['earth']	['pound']	0.0857954633961
+['earth']	['26.6 pound']	0.0737139440912
+['earth']	['136-pound person']	0.102247233908
+['pound']	['136-pound person']	0.153953325976
+['26.6 pound']	['136-pound person']	0.0901100077042
+['weight 133 pound', 'object']	['earth']	0.0831172035382
+['weight 133 pound', 'object']	['pound']	0.795849080828
+['weight 133 pound', 'object']	['26.6 pound']	0.584269096576
+['weight 133 pound', 'object']	['136-pound person']	0.19444751167
+['earth', 'object']	['weight 133 pound']	0.0807707659053
+['earth', 'object']	['pound']	0.592495454303
+['earth', 'object']	['26.6 pound']	0.0737139440912
+['earth', 'object']	['136-pound person']	0.150647383891
+['pound', 'object']	['weight 133 pound']	0.645406109506
+['pound', 'object']	['earth']	0.107947804416
+['pound', 'object']	['26.6 pound']	0.711170279937
+['pound', 'object']	['136-pound person']	0.233703905339
+['26.6 pound', 'object']	['weight 133 pound']	0.632572837849
+['26.6 pound', 'object']	['earth']	0.113411174639
+['26.6 pound', 'object']	['pound']	0.802949592246
+['26.6 pound', 'object']	['136-pound person']	0.199270042535
+['136-pound person', 'object']	['weight 133 pound']	0.0920786332799
+['136-pound person', 'object']	['earth']	0.189921088354
+['136-pound person', 'object']	['pound']	0.776506152942
+['136-pound person', 'object']	['26.6 pound']	0.0901100077042
+['object', 'weight 133 pound']	['earth']	0.0831172035382
+['object', 'weight 133 pound']	['pound']	0.795849080828
+['object', 'weight 133 pound']	['26.6 pound']	0.584269096576
+['object', 'weight 133 pound']	['136-pound person']	0.19444751167
+['earth', 'weight 133 pound']	['object']	0.0690699689286
+['earth', 'weight 133 pound']	['pound']	0.614061336223
+['earth', 'weight 133 pound']	['26.6 pound']	0.544221442934
+['earth', 'weight 133 pound']	['136-pound person']	0.105691884463
+['pound', 'weight 133 pound']	['object']	0.621490931356
+['pound', 'weight 133 pound']	['earth']	0.415379901576
+['pound', 'weight 133 pound']	['26.6 pound']	0.78976755997
+['pound', 'weight 133 pound']	['136-pound person']	0.442294801772
+['26.6 pound', 'weight 133 pound']	['object']	0.374822884051
+['26.6 pound', 'weight 133 pound']	['earth']	0.373236038761
+['26.6 pound', 'weight 133 pound']	['pound']	0.804117684093
+['26.6 pound', 'weight 133 pound']	['136-pound person']	0.188690699416
+['136-pound person', 'weight 133 pound']	['object']	0.273945362827
+['136-pound person', 'weight 133 pound']	['earth']	0.170142021553
+['136-pound person', 'weight 133 pound']	['pound']	0.799141829945
+['136-pound person', 'weight 133 pound']	['26.6 pound']	0.653642048458
+['object', 'earth']	['weight 133 pound']	0.0807707659053
+['object', 'earth']	['pound']	0.592495454303
+['object', 'earth']	['26.6 pound']	0.0737139440912
+['object', 'earth']	['136-pound person']	0.150647383891
+['weight 133 pound', 'earth']	['object']	0.0690699689286
+['weight 133 pound', 'earth']	['pound']	0.614061336223
+['weight 133 pound', 'earth']	['26.6 pound']	0.544221442934
+['weight 133 pound', 'earth']	['136-pound person']	0.105691884463
+['pound', 'earth']	['object']	0.598745700644
+['pound', 'earth']	['weight 133 pound']	0.656625334038
+['pound', 'earth']	['26.6 pound']	0.711170279937
+['pound', 'earth']	['136-pound person']	0.233703905339
+['26.6 pound', 'earth']	['object']	0.0993639400298
+['26.6 pound', 'earth']	['weight 133 pound']	0.559262312304
+['26.6 pound', 'earth']	['pound']	0.676432954969
+['26.6 pound', 'earth']	['136-pound person']	0.103222748661
+['136-pound person', 'earth']	['object']	0.194822642579
+['136-pound person', 'earth']	['weight 133 pound']	0.0807707659053
+['136-pound person', 'earth']	['pound']	0.343512879288
+['136-pound person', 'earth']	['26.6 pound']	0.0737139440912
+['object', 'pound']	['weight 133 pound']	0.645406109506
+['object', 'pound']	['earth']	0.107947804416
+['object', 'pound']	['26.6 pound']	0.711170279937
+['object', 'pound']	['136-pound person']	0.233703905339
+['weight 133 pound', 'pound']	['object']	0.621490931356
+['weight 133 pound', 'pound']	['earth']	0.415379901576
+['weight 133 pound', 'pound']	['26.6 pound']	0.78976755997
+['weight 133 pound', 'pound']	['136-pound person']	0.442294801772
+['earth', 'pound']	['object']	0.598745700644
+['earth', 'pound']	['weight 133 pound']	0.656625334038
+['earth', 'pound']	['26.6 pound']	0.711170279937
+['earth', 'pound']	['136-pound person']	0.233703905339
+['26.6 pound', 'pound']	['object']	0.633612143477
+['26.6 pound', 'pound']	['weight 133 pound']	0.733119489644
+['26.6 pound', 'pound']	['earth']	0.427501113697
+['26.6 pound', 'pound']	['136-pound person']	0.433961468439
+['136-pound person', 'pound']	['object']	0.878652006418
+['136-pound person', 'pound']	['weight 133 pound']	0.655632174079
+['136-pound person', 'pound']	['earth']	0.233980556901
+['136-pound person', 'pound']	['26.6 pound']	0.711170279937
+['object', '26.6 pound']	['weight 133 pound']	0.632572837849
+['object', '26.6 pound']	['earth']	0.113411174639
+['object', '26.6 pound']	['pound']	0.802949592246
+['object', '26.6 pound']	['136-pound person']	0.199270042535
+['weight 133 pound', '26.6 pound']	['object']	0.374822884051
+['weight 133 pound', '26.6 pound']	['earth']	0.373236038761
+['weight 133 pound', '26.6 pound']	['pound']	0.804117684093
+['weight 133 pound', '26.6 pound']	['136-pound person']	0.188690699416
+['earth', '26.6 pound']	['object']	0.0993639400298
+['earth', '26.6 pound']	['weight 133 pound']	0.559262312304
+['earth', '26.6 pound']	['pound']	0.676432954969
+['earth', '26.6 pound']	['136-pound person']	0.103222748661
+['pound', '26.6 pound']	['object']	0.633612143477
+['pound', '26.6 pound']	['weight 133 pound']	0.733119489644
+['pound', '26.6 pound']	['earth']	0.427501113697
+['pound', '26.6 pound']	['136-pound person']	0.433961468439
+['136-pound person', '26.6 pound']	['object']	0.225413985451
+['136-pound person', '26.6 pound']	['weight 133 pound']	0.632572837849
+['136-pound person', '26.6 pound']	['earth']	0.105969303899
+['136-pound person', '26.6 pound']	['pound']	0.612309758893
+['object', '136-pound person']	['weight 133 pound']	0.0920786332799
+['object', '136-pound person']	['earth']	0.189921088354
+['object', '136-pound person']	['pound']	0.776506152942
+['object', '136-pound person']	['26.6 pound']	0.0901100077042
+['weight 133 pound', '136-pound person']	['object']	0.273945362827
+['weight 133 pound', '136-pound person']	['earth']	0.170142021553
+['weight 133 pound', '136-pound person']	['pound']	0.799141829945
+['weight 133 pound', '136-pound person']	['26.6 pound']	0.653642048458
+['earth', '136-pound person']	['object']	0.194822642579
+['earth', '136-pound person']	['weight 133 pound']	0.0807707659053
+['earth', '136-pound person']	['pound']	0.343512879288
+['earth', '136-pound person']	['26.6 pound']	0.0737139440912
+['pound', '136-pound person']	['object']	0.878652006418
+['pound', '136-pound person']	['weight 133 pound']	0.655632174079
+['pound', '136-pound person']	['earth']	0.233980556901
+['pound', '136-pound person']	['26.6 pound']	0.711170279937
+['26.6 pound', '136-pound person']	['object']	0.225413985451
+['26.6 pound', '136-pound person']	['weight 133 pound']	0.632572837849
+['26.6 pound', '136-pound person']	['earth']	0.105969303899
+['26.6 pound', '136-pound person']	['pound']	0.612309758893

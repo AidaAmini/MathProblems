@@ -1,0 +1,530 @@
+['student ticket', 'ticket', '4 dollar and general admission general admission ticket', '6 dollar', '525 ticket', 'dollar', '2876 dollar', 'general admission ticket', 'admission ticket']
+['student ticket']	['4 dollar and general admission general admission ticket']	0.215729357988
+['student ticket']	['6 dollar']	0.0700467017905
+['student ticket']	['525 ticket']	0.556137096067
+['student ticket']	['dollar']	0.00649997875733
+['student ticket']	['2876 dollar']	0.0737139440912
+['student ticket']	['general admission ticket']	0.641529385918
+['student ticket']	['admission ticket']	0.561470847047
+['ticket']	['6 dollar']	0.0961161142573
+['ticket']	['dollar']	0.00388540021915
+['ticket']	['2876 dollar']	0.10873615468
+['4 dollar and general admission general admission ticket']	['6 dollar']	0.37802980312
+['4 dollar and general admission general admission ticket']	['525 ticket']	0.362108746648
+['4 dollar and general admission general admission ticket']	['dollar']	0.0410062829336
+['4 dollar and general admission general admission ticket']	['2876 dollar']	0.0988755105172
+['6 dollar']	['525 ticket']	0.0737139440912
+['6 dollar']	['general admission ticket']	0.087329038625
+['6 dollar']	['admission ticket']	0.0700467017905
+['525 ticket']	['dollar']	0.00851929931405
+['525 ticket']	['2876 dollar']	0.0901100077042
+['525 ticket']	['general admission ticket']	0.611719055141
+['525 ticket']	['admission ticket']	0.644695369786
+['dollar']	['general admission ticket']	0.0238347138292
+['dollar']	['admission ticket']	0.0178721478942
+['2876 dollar']	['general admission ticket']	0.101465999609
+['2876 dollar']	['admission ticket']	0.0897823390711
+['ticket', 'student ticket']	['4 dollar and general admission general admission ticket']	0.653301221201
+['ticket', 'student ticket']	['6 dollar']	0.299779941009
+['ticket', 'student ticket']	['525 ticket']	0.789825666472
+['ticket', 'student ticket']	['dollar']	0.276619136856
+['ticket', 'student ticket']	['2876 dollar']	0.298405493616
+['ticket', 'student ticket']	['general admission ticket']	0.734563612864
+['ticket', 'student ticket']	['admission ticket']	0.731855448389
+['4 dollar and general admission general admission ticket', 'student ticket']	['ticket']	0.583674238746
+['4 dollar and general admission general admission ticket', 'student ticket']	['6 dollar']	0.612307355223
+['4 dollar and general admission general admission ticket', 'student ticket']	['525 ticket']	0.686178826986
+['4 dollar and general admission general admission ticket', 'student ticket']	['dollar']	0.287890531999
+['4 dollar and general admission general admission ticket', 'student ticket']	['2876 dollar']	0.109369378475
+['4 dollar and general admission general admission ticket', 'student ticket']	['general admission ticket']	0.76685778909
+['4 dollar and general admission general admission ticket', 'student ticket']	['admission ticket']	0.671911891081
+['6 dollar', 'student ticket']	['ticket']	0.687060606666
+['6 dollar', 'student ticket']	['4 dollar and general admission general admission ticket']	0.567255491784
+['6 dollar', 'student ticket']	['525 ticket']	0.580736183597
+['6 dollar', 'student ticket']	['dollar']	0.364353069043
+['6 dollar', 'student ticket']	['2876 dollar']	0.88617432218
+['6 dollar', 'student ticket']	['general admission ticket']	0.57430349784
+['6 dollar', 'student ticket']	['admission ticket']	0.504208530163
+['525 ticket', 'student ticket']	['ticket']	0.760071154082
+['525 ticket', 'student ticket']	['4 dollar and general admission general admission ticket']	0.362055803882
+['525 ticket', 'student ticket']	['6 dollar']	0.13854205058
+['525 ticket', 'student ticket']	['dollar']	0.210419668337
+['525 ticket', 'student ticket']	['2876 dollar']	0.127137811052
+['525 ticket', 'student ticket']	['general admission ticket']	0.733185098182
+['525 ticket', 'student ticket']	['admission ticket']	0.669439899168
+['dollar', 'student ticket']	['ticket']	0.350552054943
+['dollar', 'student ticket']	['4 dollar and general admission general admission ticket']	0.14764172344
+['dollar', 'student ticket']	['6 dollar']	0.223493985938
+['dollar', 'student ticket']	['525 ticket']	0.132615563108
+['dollar', 'student ticket']	['2876 dollar']	0.380321401688
+['dollar', 'student ticket']	['general admission ticket']	0.21143826821
+['dollar', 'student ticket']	['admission ticket']	0.127268751997
+['2876 dollar', 'student ticket']	['ticket']	0.655688057646
+['2876 dollar', 'student ticket']	['4 dollar and general admission general admission ticket']	0.438742501918
+['2876 dollar', 'student ticket']	['6 dollar']	0.853745599558
+['2876 dollar', 'student ticket']	['525 ticket']	0.544221442934
+['2876 dollar', 'student ticket']	['dollar']	0.367136521226
+['2876 dollar', 'student ticket']	['general admission ticket']	0.512003090915
+['2876 dollar', 'student ticket']	['admission ticket']	0.508450579183
+['general admission ticket', 'student ticket']	['ticket']	0.668531621326
+['general admission ticket', 'student ticket']	['4 dollar and general admission general admission ticket']	0.493014951592
+['general admission ticket', 'student ticket']	['6 dollar']	0.210833719498
+['general admission ticket', 'student ticket']	['525 ticket']	0.751926651862
+['general admission ticket', 'student ticket']	['dollar']	0.243197446115
+['general admission ticket', 'student ticket']	['2876 dollar']	0.194650507449
+['general admission ticket', 'student ticket']	['admission ticket']	0.702244403677
+['admission ticket', 'student ticket']	['ticket']	0.591736465232
+['admission ticket', 'student ticket']	['4 dollar and general admission general admission ticket']	0.473128064954
+['admission ticket', 'student ticket']	['6 dollar']	0.212935086403
+['admission ticket', 'student ticket']	['525 ticket']	0.633981735469
+['admission ticket', 'student ticket']	['dollar']	0.243753001671
+['admission ticket', 'student ticket']	['2876 dollar']	0.177915983734
+['admission ticket', 'student ticket']	['general admission ticket']	0.758537007426
+['student ticket', 'ticket']	['4 dollar and general admission general admission ticket']	0.653301221201
+['student ticket', 'ticket']	['6 dollar']	0.299779941009
+['student ticket', 'ticket']	['525 ticket']	0.789825666472
+['student ticket', 'ticket']	['dollar']	0.276619136856
+['student ticket', 'ticket']	['2876 dollar']	0.298405493616
+['student ticket', 'ticket']	['general admission ticket']	0.734563612864
+['student ticket', 'ticket']	['admission ticket']	0.731855448389
+['4 dollar and general admission general admission ticket', 'ticket']	['student ticket']	0.603432172901
+['4 dollar and general admission general admission ticket', 'ticket']	['6 dollar']	0.673436138452
+['4 dollar and general admission general admission ticket', 'ticket']	['525 ticket']	0.767021841282
+['4 dollar and general admission general admission ticket', 'ticket']	['dollar']	0.202516572754
+['4 dollar and general admission general admission ticket', 'ticket']	['2876 dollar']	0.193176066652
+['4 dollar and general admission general admission ticket', 'ticket']	['general admission ticket']	0.645890395416
+['4 dollar and general admission general admission ticket', 'ticket']	['admission ticket']	0.614935984404
+['6 dollar', 'ticket']	['student ticket']	0.653324652814
+['6 dollar', 'ticket']	['4 dollar and general admission general admission ticket']	0.549855383271
+['6 dollar', 'ticket']	['525 ticket']	0.669973747197
+['6 dollar', 'ticket']	['dollar']	0.473923787948
+['6 dollar', 'ticket']	['2876 dollar']	0.675384791164
+['6 dollar', 'ticket']	['general admission ticket']	0.665003281067
+['6 dollar', 'ticket']	['admission ticket']	0.668126137131
+['525 ticket', 'ticket']	['student ticket']	0.67043800229
+['525 ticket', 'ticket']	['4 dollar and general admission general admission ticket']	0.63458077879
+['525 ticket', 'ticket']	['6 dollar']	0.249001768327
+['525 ticket', 'ticket']	['dollar']	0.210708137696
+['525 ticket', 'ticket']	['2876 dollar']	0.247627320934
+['525 ticket', 'ticket']	['general admission ticket']	0.680935062096
+['525 ticket', 'ticket']	['admission ticket']	0.67043800229
+['dollar', 'ticket']	['student ticket']	0.25396043316
+['dollar', 'ticket']	['4 dollar and general admission general admission ticket']	0.195383845386
+['dollar', 'ticket']	['6 dollar']	0.318586803484
+['dollar', 'ticket']	['525 ticket']	0.375410673061
+['dollar', 'ticket']	['2876 dollar']	0.466647629277
+['dollar', 'ticket']	['general admission ticket']	0.25396043316
+['dollar', 'ticket']	['admission ticket']	0.25396043316
+['2876 dollar', 'ticket']	['student ticket']	0.600226976026
+['2876 dollar', 'ticket']	['4 dollar and general admission general admission ticket']	0.526220703877
+['2876 dollar', 'ticket']	['6 dollar']	0.665428233341
+['2876 dollar', 'ticket']	['525 ticket']	0.669973747197
+['2876 dollar', 'ticket']	['dollar']	0.480796902709
+['2876 dollar', 'ticket']	['general admission ticket']	0.611905604279
+['2876 dollar', 'ticket']	['admission ticket']	0.600226976026
+['general admission ticket', 'ticket']	['student ticket']	0.689322561417
+['general admission ticket', 'ticket']	['4 dollar and general admission general admission ticket']	0.63144875
+['general admission ticket', 'ticket']	['6 dollar']	0.299779941009
+['general admission ticket', 'ticket']	['525 ticket']	0.777818467807
+['general admission ticket', 'ticket']	['dollar']	0.276619136856
+['general admission ticket', 'ticket']	['2876 dollar']	0.298405493616
+['general admission ticket', 'ticket']	['admission ticket']	0.686855046492
+['admission ticket', 'ticket']	['student ticket']	0.731855448389
+['admission ticket', 'ticket']	['4 dollar and general admission general admission ticket']	0.657101424346
+['admission ticket', 'ticket']	['6 dollar']	0.28574485329
+['admission ticket', 'ticket']	['525 ticket']	0.789825666472
+['admission ticket', 'ticket']	['dollar']	0.276619136856
+['admission ticket', 'ticket']	['2876 dollar']	0.298405493616
+['admission ticket', 'ticket']	['general admission ticket']	0.742352508195
+['student ticket', '4 dollar and general admission general admission ticket']	['ticket']	0.583674238746
+['student ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.612307355223
+['student ticket', '4 dollar and general admission general admission ticket']	['525 ticket']	0.686178826986
+['student ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.287890531999
+['student ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.109369378475
+['student ticket', '4 dollar and general admission general admission ticket']	['general admission ticket']	0.76685778909
+['student ticket', '4 dollar and general admission general admission ticket']	['admission ticket']	0.671911891081
+['ticket', '4 dollar and general admission general admission ticket']	['student ticket']	0.603432172901
+['ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.673436138452
+['ticket', '4 dollar and general admission general admission ticket']	['525 ticket']	0.767021841282
+['ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.202516572754
+['ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.193176066652
+['ticket', '4 dollar and general admission general admission ticket']	['general admission ticket']	0.645890395416
+['ticket', '4 dollar and general admission general admission ticket']	['admission ticket']	0.614935984404
+['6 dollar', '4 dollar and general admission general admission ticket']	['student ticket']	0.442837496469
+['6 dollar', '4 dollar and general admission general admission ticket']	['ticket']	0.630727004123
+['6 dollar', '4 dollar and general admission general admission ticket']	['525 ticket']	0.523788929543
+['6 dollar', '4 dollar and general admission general admission ticket']	['dollar']	0.43698773698
+['6 dollar', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.908940930422
+['6 dollar', '4 dollar and general admission general admission ticket']	['general admission ticket']	0.52168294406
+['6 dollar', '4 dollar and general admission general admission ticket']	['admission ticket']	0.469062181745
+['525 ticket', '4 dollar and general admission general admission ticket']	['student ticket']	0.63313239517
+['525 ticket', '4 dollar and general admission general admission ticket']	['ticket']	0.789877404172
+['525 ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.632343246937
+['525 ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.290727411432
+['525 ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.127952343303
+['525 ticket', '4 dollar and general admission general admission ticket']	['general admission ticket']	0.66689027075
+['525 ticket', '4 dollar and general admission general admission ticket']	['admission ticket']	0.69590999414
+['dollar', '4 dollar and general admission general admission ticket']	['student ticket']	0.163132322133
+['dollar', '4 dollar and general admission general admission ticket']	['ticket']	0.262496437152
+['dollar', '4 dollar and general admission general admission ticket']	['6 dollar']	0.408428997647
+['dollar', '4 dollar and general admission general admission ticket']	['525 ticket']	0.186877130741
+['dollar', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.365452280831
+['dollar', '4 dollar and general admission general admission ticket']	['general admission ticket']	0.214726874225
+['dollar', '4 dollar and general admission general admission ticket']	['admission ticket']	0.163132322133
+['2876 dollar', '4 dollar and general admission general admission ticket']	['student ticket']	0.529621206802
+['2876 dollar', '4 dollar and general admission general admission ticket']	['ticket']	0.671817531793
+['2876 dollar', '4 dollar and general admission general admission ticket']	['6 dollar']	0.857736949303
+['2876 dollar', '4 dollar and general admission general admission ticket']	['525 ticket']	0.579959400449
+['2876 dollar', '4 dollar and general admission general admission ticket']	['dollar']	0.390137653536
+['2876 dollar', '4 dollar and general admission general admission ticket']	['general admission ticket']	0.633744253364
+['2876 dollar', '4 dollar and general admission general admission ticket']	['admission ticket']	0.539398931426
+['general admission ticket', '4 dollar and general admission general admission ticket']	['student ticket']	0.711679556579
+['general admission ticket', '4 dollar and general admission general admission ticket']	['ticket']	0.583674238746
+['general admission ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.533782099219
+['general admission ticket', '4 dollar and general admission general admission ticket']	['525 ticket']	0.649062349714
+['general admission ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.287890531999
+['general admission ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.109369378475
+['general admission ticket', '4 dollar and general admission general admission ticket']	['admission ticket']	0.661697770711
+['admission ticket', '4 dollar and general admission general admission ticket']	['student ticket']	0.633124012293
+['admission ticket', '4 dollar and general admission general admission ticket']	['ticket']	0.583674238746
+['admission ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.62667307722
+['admission ticket', '4 dollar and general admission general admission ticket']	['525 ticket']	0.686178826986
+['admission ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.287890531999
+['admission ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.109369378475
+['admission ticket', '4 dollar and general admission general admission ticket']	['general admission ticket']	0.700299575099
+['student ticket', '6 dollar']	['ticket']	0.687060606666
+['student ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.567255491784
+['student ticket', '6 dollar']	['525 ticket']	0.580736183597
+['student ticket', '6 dollar']	['dollar']	0.364353069043
+['student ticket', '6 dollar']	['2876 dollar']	0.88617432218
+['student ticket', '6 dollar']	['general admission ticket']	0.57430349784
+['student ticket', '6 dollar']	['admission ticket']	0.504208530163
+['ticket', '6 dollar']	['student ticket']	0.653324652814
+['ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.549855383271
+['ticket', '6 dollar']	['525 ticket']	0.669973747197
+['ticket', '6 dollar']	['dollar']	0.473923787948
+['ticket', '6 dollar']	['2876 dollar']	0.675384791164
+['ticket', '6 dollar']	['general admission ticket']	0.665003281067
+['ticket', '6 dollar']	['admission ticket']	0.668126137131
+['4 dollar and general admission general admission ticket', '6 dollar']	['student ticket']	0.442837496469
+['4 dollar and general admission general admission ticket', '6 dollar']	['ticket']	0.630727004123
+['4 dollar and general admission general admission ticket', '6 dollar']	['525 ticket']	0.523788929543
+['4 dollar and general admission general admission ticket', '6 dollar']	['dollar']	0.43698773698
+['4 dollar and general admission general admission ticket', '6 dollar']	['2876 dollar']	0.908940930422
+['4 dollar and general admission general admission ticket', '6 dollar']	['general admission ticket']	0.52168294406
+['4 dollar and general admission general admission ticket', '6 dollar']	['admission ticket']	0.469062181745
+['525 ticket', '6 dollar']	['student ticket']	0.523933849778
+['525 ticket', '6 dollar']	['ticket']	0.697934417106
+['525 ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.556411047339
+['525 ticket', '6 dollar']	['dollar']	0.364353069043
+['525 ticket', '6 dollar']	['2876 dollar']	0.88617432218
+['525 ticket', '6 dollar']	['general admission ticket']	0.578200842807
+['525 ticket', '6 dollar']	['admission ticket']	0.492513883204
+['dollar', '6 dollar']	['student ticket']	0.184215442944
+['dollar', '6 dollar']	['ticket']	0.322528831111
+['dollar', '6 dollar']	['4 dollar and general admission general admission ticket']	0.475202550542
+['dollar', '6 dollar']	['525 ticket']	0.166089767686
+['dollar', '6 dollar']	['2876 dollar']	0.673775580205
+['dollar', '6 dollar']	['general admission ticket']	0.27207353757
+['dollar', '6 dollar']	['admission ticket']	0.170180355225
+['2876 dollar', '6 dollar']	['student ticket']	0.13854205058
+['2876 dollar', '6 dollar']	['ticket']	0.488547567809
+['2876 dollar', '6 dollar']	['4 dollar and general admission general admission ticket']	0.640867080196
+['2876 dollar', '6 dollar']	['525 ticket']	0.127137811052
+['2876 dollar', '6 dollar']	['dollar']	0.857127904794
+['2876 dollar', '6 dollar']	['general admission ticket']	0.281982552842
+['2876 dollar', '6 dollar']	['admission ticket']	0.162156913721
+['general admission ticket', '6 dollar']	['student ticket']	0.616005993424
+['general admission ticket', '6 dollar']	['ticket']	0.775342105477
+['general admission ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.696435251945
+['general admission ticket', '6 dollar']	['525 ticket']	0.681845148621
+['general admission ticket', '6 dollar']	['dollar']	0.45518700162
+['general admission ticket', '6 dollar']	['2876 dollar']	0.949572049908
+['general admission ticket', '6 dollar']	['admission ticket']	0.565634798878
+['admission ticket', '6 dollar']	['student ticket']	0.521349959448
+['admission ticket', '6 dollar']	['ticket']	0.687060606666
+['admission ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.567255491784
+['admission ticket', '6 dollar']	['525 ticket']	0.580736183597
+['admission ticket', '6 dollar']	['dollar']	0.364353069043
+['admission ticket', '6 dollar']	['2876 dollar']	0.88617432218
+['admission ticket', '6 dollar']	['general admission ticket']	0.562364590888
+['student ticket', '525 ticket']	['ticket']	0.760071154082
+['student ticket', '525 ticket']	['4 dollar and general admission general admission ticket']	0.362055803882
+['student ticket', '525 ticket']	['6 dollar']	0.13854205058
+['student ticket', '525 ticket']	['dollar']	0.210419668337
+['student ticket', '525 ticket']	['2876 dollar']	0.127137811052
+['student ticket', '525 ticket']	['general admission ticket']	0.733185098182
+['student ticket', '525 ticket']	['admission ticket']	0.669439899168
+['ticket', '525 ticket']	['student ticket']	0.67043800229
+['ticket', '525 ticket']	['4 dollar and general admission general admission ticket']	0.63458077879
+['ticket', '525 ticket']	['6 dollar']	0.249001768327
+['ticket', '525 ticket']	['dollar']	0.210708137696
+['ticket', '525 ticket']	['2876 dollar']	0.247627320934
+['ticket', '525 ticket']	['general admission ticket']	0.680935062096
+['ticket', '525 ticket']	['admission ticket']	0.67043800229
+['4 dollar and general admission general admission ticket', '525 ticket']	['student ticket']	0.63313239517
+['4 dollar and general admission general admission ticket', '525 ticket']	['ticket']	0.789877404172
+['4 dollar and general admission general admission ticket', '525 ticket']	['6 dollar']	0.632343246937
+['4 dollar and general admission general admission ticket', '525 ticket']	['dollar']	0.290727411432
+['4 dollar and general admission general admission ticket', '525 ticket']	['2876 dollar']	0.127952343303
+['4 dollar and general admission general admission ticket', '525 ticket']	['general admission ticket']	0.66689027075
+['4 dollar and general admission general admission ticket', '525 ticket']	['admission ticket']	0.69590999414
+['6 dollar', '525 ticket']	['student ticket']	0.523933849778
+['6 dollar', '525 ticket']	['ticket']	0.697934417106
+['6 dollar', '525 ticket']	['4 dollar and general admission general admission ticket']	0.556411047339
+['6 dollar', '525 ticket']	['dollar']	0.364353069043
+['6 dollar', '525 ticket']	['2876 dollar']	0.88617432218
+['6 dollar', '525 ticket']	['general admission ticket']	0.578200842807
+['6 dollar', '525 ticket']	['admission ticket']	0.492513883204
+['dollar', '525 ticket']	['student ticket']	0.143935418664
+['dollar', '525 ticket']	['ticket']	0.453156762872
+['dollar', '525 ticket']	['4 dollar and general admission general admission ticket']	0.14764172344
+['dollar', '525 ticket']	['6 dollar']	0.238308800753
+['dollar', '525 ticket']	['2876 dollar']	0.380321401688
+['dollar', '525 ticket']	['general admission ticket']	0.183029970756
+['dollar', '525 ticket']	['admission ticket']	0.143935418664
+['2876 dollar', '525 ticket']	['student ticket']	0.577101062223
+['2876 dollar', '525 ticket']	['ticket']	0.687998110055
+['2876 dollar', '525 ticket']	['4 dollar and general admission general admission ticket']	0.47557248481
+['2876 dollar', '525 ticket']	['6 dollar']	0.871002672125
+['2876 dollar', '525 ticket']	['dollar']	0.375763972207
+['2876 dollar', '525 ticket']	['general admission ticket']	0.632532398124
+['2876 dollar', '525 ticket']	['admission ticket']	0.577101062223
+['general admission ticket', '525 ticket']	['student ticket']	0.775901224413
+['general admission ticket', '525 ticket']	['ticket']	0.820248553806
+['general admission ticket', '525 ticket']	['4 dollar and general admission general admission ticket']	0.540245313822
+['general admission ticket', '525 ticket']	['6 dollar']	0.176597069086
+['general admission ticket', '525 ticket']	['dollar']	0.209864112782
+['general admission ticket', '525 ticket']	['2876 dollar']	0.170107734588
+['general admission ticket', '525 ticket']	['admission ticket']	0.657586105211
+['admission ticket', '525 ticket']	['student ticket']	0.669439899168
+['admission ticket', '525 ticket']	['ticket']	0.760071154082
+['admission ticket', '525 ticket']	['4 dollar and general admission general admission ticket']	0.424833402852
+['admission ticket', '525 ticket']	['6 dollar']	0.162156913721
+['admission ticket', '525 ticket']	['dollar']	0.210419668337
+['admission ticket', '525 ticket']	['2876 dollar']	0.127137811052
+['admission ticket', '525 ticket']	['general admission ticket']	0.689404661968
+['student ticket', 'dollar']	['ticket']	0.350552054943
+['student ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.14764172344
+['student ticket', 'dollar']	['6 dollar']	0.223493985938
+['student ticket', 'dollar']	['525 ticket']	0.132615563108
+['student ticket', 'dollar']	['2876 dollar']	0.380321401688
+['student ticket', 'dollar']	['general admission ticket']	0.21143826821
+['student ticket', 'dollar']	['admission ticket']	0.127268751997
+['ticket', 'dollar']	['student ticket']	0.25396043316
+['ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.195383845386
+['ticket', 'dollar']	['6 dollar']	0.318586803484
+['ticket', 'dollar']	['525 ticket']	0.375410673061
+['ticket', 'dollar']	['2876 dollar']	0.466647629277
+['ticket', 'dollar']	['general admission ticket']	0.25396043316
+['ticket', 'dollar']	['admission ticket']	0.25396043316
+['4 dollar and general admission general admission ticket', 'dollar']	['student ticket']	0.163132322133
+['4 dollar and general admission general admission ticket', 'dollar']	['ticket']	0.262496437152
+['4 dollar and general admission general admission ticket', 'dollar']	['6 dollar']	0.408428997647
+['4 dollar and general admission general admission ticket', 'dollar']	['525 ticket']	0.186877130741
+['4 dollar and general admission general admission ticket', 'dollar']	['2876 dollar']	0.365452280831
+['4 dollar and general admission general admission ticket', 'dollar']	['general admission ticket']	0.214726874225
+['4 dollar and general admission general admission ticket', 'dollar']	['admission ticket']	0.163132322133
+['6 dollar', 'dollar']	['student ticket']	0.184215442944
+['6 dollar', 'dollar']	['ticket']	0.322528831111
+['6 dollar', 'dollar']	['4 dollar and general admission general admission ticket']	0.475202550542
+['6 dollar', 'dollar']	['525 ticket']	0.166089767686
+['6 dollar', 'dollar']	['2876 dollar']	0.673775580205
+['6 dollar', 'dollar']	['general admission ticket']	0.27207353757
+['6 dollar', 'dollar']	['admission ticket']	0.170180355225
+['525 ticket', 'dollar']	['student ticket']	0.143935418664
+['525 ticket', 'dollar']	['ticket']	0.453156762872
+['525 ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.14764172344
+['525 ticket', 'dollar']	['6 dollar']	0.238308800753
+['525 ticket', 'dollar']	['2876 dollar']	0.380321401688
+['525 ticket', 'dollar']	['general admission ticket']	0.183029970756
+['525 ticket', 'dollar']	['admission ticket']	0.143935418664
+['2876 dollar', 'dollar']	['student ticket']	0.126339336749
+['2876 dollar', 'dollar']	['ticket']	0.264652724916
+['2876 dollar', 'dollar']	['4 dollar and general admission general admission ticket']	0.206488422783
+['2876 dollar', 'dollar']	['6 dollar']	0.781380787676
+['2876 dollar', 'dollar']	['525 ticket']	0.108213661491
+['2876 dollar', 'dollar']	['general admission ticket']	0.214197431375
+['2876 dollar', 'dollar']	['admission ticket']	0.126339336749
+['general admission ticket', 'dollar']	['student ticket']	0.199217101131
+['general admission ticket', 'dollar']	['ticket']	0.353582357973
+['general admission ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.14764172344
+['general admission ticket', 'dollar']	['6 dollar']	0.219458578609
+['general admission ticket', 'dollar']	['525 ticket']	0.132615563108
+['general admission ticket', 'dollar']	['2876 dollar']	0.356496055166
+['general admission ticket', 'dollar']	['admission ticket']	0.169918855517
+['admission ticket', 'dollar']	['student ticket']	0.127268751997
+['admission ticket', 'dollar']	['ticket']	0.350552054943
+['admission ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.14764172344
+['admission ticket', 'dollar']	['6 dollar']	0.223493985938
+['admission ticket', 'dollar']	['525 ticket']	0.132615563108
+['admission ticket', 'dollar']	['2876 dollar']	0.380321401688
+['admission ticket', 'dollar']	['general admission ticket']	0.198806689263
+['student ticket', '2876 dollar']	['ticket']	0.655688057646
+['student ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.438742501918
+['student ticket', '2876 dollar']	['6 dollar']	0.853745599558
+['student ticket', '2876 dollar']	['525 ticket']	0.544221442934
+['student ticket', '2876 dollar']	['dollar']	0.367136521226
+['student ticket', '2876 dollar']	['general admission ticket']	0.512003090915
+['student ticket', '2876 dollar']	['admission ticket']	0.508450579183
+['ticket', '2876 dollar']	['student ticket']	0.600226976026
+['ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.526220703877
+['ticket', '2876 dollar']	['6 dollar']	0.665428233341
+['ticket', '2876 dollar']	['525 ticket']	0.669973747197
+['ticket', '2876 dollar']	['dollar']	0.480796902709
+['ticket', '2876 dollar']	['general admission ticket']	0.611905604279
+['ticket', '2876 dollar']	['admission ticket']	0.600226976026
+['4 dollar and general admission general admission ticket', '2876 dollar']	['student ticket']	0.529621206802
+['4 dollar and general admission general admission ticket', '2876 dollar']	['ticket']	0.671817531793
+['4 dollar and general admission general admission ticket', '2876 dollar']	['6 dollar']	0.857736949303
+['4 dollar and general admission general admission ticket', '2876 dollar']	['525 ticket']	0.579959400449
+['4 dollar and general admission general admission ticket', '2876 dollar']	['dollar']	0.390137653536
+['4 dollar and general admission general admission ticket', '2876 dollar']	['general admission ticket']	0.633744253364
+['4 dollar and general admission general admission ticket', '2876 dollar']	['admission ticket']	0.539398931426
+['6 dollar', '2876 dollar']	['student ticket']	0.13854205058
+['6 dollar', '2876 dollar']	['ticket']	0.488547567809
+['6 dollar', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.640867080196
+['6 dollar', '2876 dollar']	['525 ticket']	0.127137811052
+['6 dollar', '2876 dollar']	['dollar']	0.857127904794
+['6 dollar', '2876 dollar']	['general admission ticket']	0.281982552842
+['6 dollar', '2876 dollar']	['admission ticket']	0.162156913721
+['525 ticket', '2876 dollar']	['student ticket']	0.577101062223
+['525 ticket', '2876 dollar']	['ticket']	0.687998110055
+['525 ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.47557248481
+['525 ticket', '2876 dollar']	['6 dollar']	0.871002672125
+['525 ticket', '2876 dollar']	['dollar']	0.375763972207
+['525 ticket', '2876 dollar']	['general admission ticket']	0.632532398124
+['525 ticket', '2876 dollar']	['admission ticket']	0.577101062223
+['dollar', '2876 dollar']	['student ticket']	0.126339336749
+['dollar', '2876 dollar']	['ticket']	0.264652724916
+['dollar', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.206488422783
+['dollar', '2876 dollar']	['6 dollar']	0.781380787676
+['dollar', '2876 dollar']	['525 ticket']	0.108213661491
+['dollar', '2876 dollar']	['general admission ticket']	0.214197431375
+['dollar', '2876 dollar']	['admission ticket']	0.126339336749
+['general admission ticket', '2876 dollar']	['student ticket']	0.558048921711
+['general admission ticket', '2876 dollar']	['ticket']	0.754289473898
+['general admission ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.537731065248
+['general admission ticket', '2876 dollar']	['6 dollar']	0.934298641473
+['general admission ticket', '2876 dollar']	['525 ticket']	0.645330407958
+['general admission ticket', '2876 dollar']	['dollar']	0.41452428201
+['general admission ticket', '2876 dollar']	['admission ticket']	0.55394015192
+['admission ticket', '2876 dollar']	['student ticket']	0.508450579183
+['admission ticket', '2876 dollar']	['ticket']	0.655688057646
+['admission ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.386489202011
+['admission ticket', '2876 dollar']	['6 dollar']	0.857038610311
+['admission ticket', '2876 dollar']	['525 ticket']	0.544221442934
+['admission ticket', '2876 dollar']	['dollar']	0.367136521226
+['admission ticket', '2876 dollar']	['general admission ticket']	0.550669943929
+['student ticket', 'general admission ticket']	['ticket']	0.668531621326
+['student ticket', 'general admission ticket']	['4 dollar and general admission general admission ticket']	0.493014951592
+['student ticket', 'general admission ticket']	['6 dollar']	0.210833719498
+['student ticket', 'general admission ticket']	['525 ticket']	0.751926651862
+['student ticket', 'general admission ticket']	['dollar']	0.243197446115
+['student ticket', 'general admission ticket']	['2876 dollar']	0.194650507449
+['student ticket', 'general admission ticket']	['admission ticket']	0.702244403677
+['ticket', 'general admission ticket']	['student ticket']	0.689322561417
+['ticket', 'general admission ticket']	['4 dollar and general admission general admission ticket']	0.63144875
+['ticket', 'general admission ticket']	['6 dollar']	0.299779941009
+['ticket', 'general admission ticket']	['525 ticket']	0.777818467807
+['ticket', 'general admission ticket']	['dollar']	0.276619136856
+['ticket', 'general admission ticket']	['2876 dollar']	0.298405493616
+['ticket', 'general admission ticket']	['admission ticket']	0.686855046492
+['4 dollar and general admission general admission ticket', 'general admission ticket']	['student ticket']	0.711679556579
+['4 dollar and general admission general admission ticket', 'general admission ticket']	['ticket']	0.583674238746
+['4 dollar and general admission general admission ticket', 'general admission ticket']	['6 dollar']	0.533782099219
+['4 dollar and general admission general admission ticket', 'general admission ticket']	['525 ticket']	0.649062349714
+['4 dollar and general admission general admission ticket', 'general admission ticket']	['dollar']	0.287890531999
+['4 dollar and general admission general admission ticket', 'general admission ticket']	['2876 dollar']	0.109369378475
+['4 dollar and general admission general admission ticket', 'general admission ticket']	['admission ticket']	0.661697770711
+['6 dollar', 'general admission ticket']	['student ticket']	0.616005993424
+['6 dollar', 'general admission ticket']	['ticket']	0.775342105477
+['6 dollar', 'general admission ticket']	['4 dollar and general admission general admission ticket']	0.696435251945
+['6 dollar', 'general admission ticket']	['525 ticket']	0.681845148621
+['6 dollar', 'general admission ticket']	['dollar']	0.45518700162
+['6 dollar', 'general admission ticket']	['2876 dollar']	0.949572049908
+['6 dollar', 'general admission ticket']	['admission ticket']	0.565634798878
+['525 ticket', 'general admission ticket']	['student ticket']	0.775901224413
+['525 ticket', 'general admission ticket']	['ticket']	0.820248553806
+['525 ticket', 'general admission ticket']	['4 dollar and general admission general admission ticket']	0.540245313822
+['525 ticket', 'general admission ticket']	['6 dollar']	0.176597069086
+['525 ticket', 'general admission ticket']	['dollar']	0.209864112782
+['525 ticket', 'general admission ticket']	['2876 dollar']	0.170107734588
+['525 ticket', 'general admission ticket']	['admission ticket']	0.657586105211
+['dollar', 'general admission ticket']	['student ticket']	0.199217101131
+['dollar', 'general admission ticket']	['ticket']	0.353582357973
+['dollar', 'general admission ticket']	['4 dollar and general admission general admission ticket']	0.14764172344
+['dollar', 'general admission ticket']	['6 dollar']	0.219458578609
+['dollar', 'general admission ticket']	['525 ticket']	0.132615563108
+['dollar', 'general admission ticket']	['2876 dollar']	0.356496055166
+['dollar', 'general admission ticket']	['admission ticket']	0.169918855517
+['2876 dollar', 'general admission ticket']	['student ticket']	0.558048921711
+['2876 dollar', 'general admission ticket']	['ticket']	0.754289473898
+['2876 dollar', 'general admission ticket']	['4 dollar and general admission general admission ticket']	0.537731065248
+['2876 dollar', 'general admission ticket']	['6 dollar']	0.934298641473
+['2876 dollar', 'general admission ticket']	['525 ticket']	0.645330407958
+['2876 dollar', 'general admission ticket']	['dollar']	0.41452428201
+['2876 dollar', 'general admission ticket']	['admission ticket']	0.55394015192
+['admission ticket', 'general admission ticket']	['student ticket']	0.793892856212
+['admission ticket', 'general admission ticket']	['ticket']	0.668531621326
+['admission ticket', 'general admission ticket']	['4 dollar and general admission general admission ticket']	0.526348284925
+['admission ticket', 'general admission ticket']	['6 dollar']	0.234448582639
+['admission ticket', 'general admission ticket']	['525 ticket']	0.751926651862
+['admission ticket', 'general admission ticket']	['dollar']	0.243197446115
+['admission ticket', 'general admission ticket']	['2876 dollar']	0.194650507449
+['student ticket', 'admission ticket']	['ticket']	0.591736465232
+['student ticket', 'admission ticket']	['4 dollar and general admission general admission ticket']	0.473128064954
+['student ticket', 'admission ticket']	['6 dollar']	0.212935086403
+['student ticket', 'admission ticket']	['525 ticket']	0.633981735469
+['student ticket', 'admission ticket']	['dollar']	0.243753001671
+['student ticket', 'admission ticket']	['2876 dollar']	0.177915983734
+['student ticket', 'admission ticket']	['general admission ticket']	0.758537007426
+['ticket', 'admission ticket']	['student ticket']	0.731855448389
+['ticket', 'admission ticket']	['4 dollar and general admission general admission ticket']	0.657101424346
+['ticket', 'admission ticket']	['6 dollar']	0.28574485329
+['ticket', 'admission ticket']	['525 ticket']	0.789825666472
+['ticket', 'admission ticket']	['dollar']	0.276619136856
+['ticket', 'admission ticket']	['2876 dollar']	0.298405493616
+['ticket', 'admission ticket']	['general admission ticket']	0.742352508195
+['4 dollar and general admission general admission ticket', 'admission ticket']	['student ticket']	0.633124012293
+['4 dollar and general admission general admission ticket', 'admission ticket']	['ticket']	0.583674238746
+['4 dollar and general admission general admission ticket', 'admission ticket']	['6 dollar']	0.62667307722
+['4 dollar and general admission general admission ticket', 'admission ticket']	['525 ticket']	0.686178826986
+['4 dollar and general admission general admission ticket', 'admission ticket']	['dollar']	0.287890531999
+['4 dollar and general admission general admission ticket', 'admission ticket']	['2876 dollar']	0.109369378475
+['4 dollar and general admission general admission ticket', 'admission ticket']	['general admission ticket']	0.700299575099
+['6 dollar', 'admission ticket']	['student ticket']	0.521349959448
+['6 dollar', 'admission ticket']	['ticket']	0.687060606666
+['6 dollar', 'admission ticket']	['4 dollar and general admission general admission ticket']	0.567255491784
+['6 dollar', 'admission ticket']	['525 ticket']	0.580736183597
+['6 dollar', 'admission ticket']	['dollar']	0.364353069043
+['6 dollar', 'admission ticket']	['2876 dollar']	0.88617432218
+['6 dollar', 'admission ticket']	['general admission ticket']	0.562364590888
+['525 ticket', 'admission ticket']	['student ticket']	0.669439899168
+['525 ticket', 'admission ticket']	['ticket']	0.760071154082
+['525 ticket', 'admission ticket']	['4 dollar and general admission general admission ticket']	0.424833402852
+['525 ticket', 'admission ticket']	['6 dollar']	0.162156913721
+['525 ticket', 'admission ticket']	['dollar']	0.210419668337
+['525 ticket', 'admission ticket']	['2876 dollar']	0.127137811052
+['525 ticket', 'admission ticket']	['general admission ticket']	0.689404661968
+['dollar', 'admission ticket']	['student ticket']	0.127268751997
+['dollar', 'admission ticket']	['ticket']	0.350552054943
+['dollar', 'admission ticket']	['4 dollar and general admission general admission ticket']	0.14764172344
+['dollar', 'admission ticket']	['6 dollar']	0.223493985938
+['dollar', 'admission ticket']	['525 ticket']	0.132615563108
+['dollar', 'admission ticket']	['2876 dollar']	0.380321401688
+['dollar', 'admission ticket']	['general admission ticket']	0.198806689263
+['2876 dollar', 'admission ticket']	['student ticket']	0.508450579183
+['2876 dollar', 'admission ticket']	['ticket']	0.655688057646
+['2876 dollar', 'admission ticket']	['4 dollar and general admission general admission ticket']	0.386489202011
+['2876 dollar', 'admission ticket']	['6 dollar']	0.857038610311
+['2876 dollar', 'admission ticket']	['525 ticket']	0.544221442934
+['2876 dollar', 'admission ticket']	['dollar']	0.367136521226
+['2876 dollar', 'admission ticket']	['general admission ticket']	0.550669943929
+['general admission ticket', 'admission ticket']	['student ticket']	0.793892856212
+['general admission ticket', 'admission ticket']	['ticket']	0.668531621326
+['general admission ticket', 'admission ticket']	['4 dollar and general admission general admission ticket']	0.526348284925
+['general admission ticket', 'admission ticket']	['6 dollar']	0.234448582639
+['general admission ticket', 'admission ticket']	['525 ticket']	0.751926651862
+['general admission ticket', 'admission ticket']	['dollar']	0.243197446115
+['general admission ticket', 'admission ticket']	['2876 dollar']	0.194650507449

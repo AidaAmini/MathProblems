@@ -1,0 +1,16 @@
+1
+[['violin', '7', 'violin', '-', '-', 'dollar', '1600'], ['200-dollar violin', 'x1', 'violin', 'dollar', '200', '-', '-'], ['300-dollar violin', 'x2', 'violin', 'dollar', '300', '-', '-']]
+-1
+[['x2', '7', 'violin', '-', 'dollar', '300', '1600'], ['200-dollar violin', 'x1', 'violin', 'dollar', '200', '-', '-'], ['300-dollar violin', 'violin', '1600', 'dollar', '300', '-', '-']]
+-1
+[['300-dollar violin', '300', 'violin', 'x2', '-', 'dollar', '1600'], ['200-dollar violin', 'x1', 'violin', 'dollar', '200', '-', '-'], ['300-dollar violin', 'x2', 'violin', 'dollar', '300', '1600', '-']]
+-1
+[['violin', '7', 'violin', '300', '-', 'dollar', 'x2'], ['200-dollar violin', 'x1', 'violin', 'dollar', '200', '-', '-'], ['1600', 'x2', '7', 'violin', 'dollar', '-', '-']]
+-1
+[['300', '7', 'violin', '300-dollar violin', '-', 'x2', '1600'], ['200-dollar violin', 'x1', 'violin', 'dollar', '200', '-', '-'], ['300-dollar violin', 'x2', 'violin', 'dollar', '300', '7', '-']]
+-1
+[['violin', 'x2', 'violin', '-', '-', 'dollar', '1600'], ['200-dollar violin', 'x1', 'violin', 'dollar', '200', '-', '-'], ['1600', 'x2', 'violin', 'dollar', '300', '-', '-']]
+-1
+[['violin', '7', '300', '-', '-', 'dollar', '300-dollar violin'], ['200-dollar violin', 'x1', 'violin', 'dollar', '200', '-', '-'], ['300-dollar violin', 'x2', 'violin', 'dollar', '7', '-', '-']]
+-1
+[['violin', '7', 'violin', '-', '300', 'dollar', '300-dollar violin'], ['200-dollar violin', 'x1', 'violin', 'dollar', '200', '-', '-'], ['300-dollar violin', 'x2', 'violin', 'dollar', '300', '-', '-']]

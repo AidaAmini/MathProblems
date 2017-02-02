@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (NNP Juan) (CC and) (NNP Peter))
+    (ADVP (CC both))
+    (VP
+      (VBP leave)
+      (NP (DT a) (NN shopping) (NN center))
+      (PP
+        (IN at)
+        (NP
+          (NP (DT the) (JJ same) (NN time))
+          (VP
+            (VBG going)
+            (PP (IN in) (NP (JJ opposite) (NNS directions)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Juan))
+    (VP
+      (VP (VBZ is) (PP (IN on) (NP (PRP$ his) (NN bike))))
+      (CC and)
+      (VP
+        (VBZ travels)
+        (ADVP
+          (NP (NP (CD 3) (NNS miles)) (PP (IN per) (NP (NN hour))))
+          (RBR faster))
+        (PP
+          (IN than)
+          (NP
+            (NP (NNP Peter))
+            (SBAR
+              (WHNP (WP who))
+              (S
+                (VP
+                  (VBZ is)
+                  (PP (IN on) (NP (PRP$ his) (NN skateboard))))))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN After) (NP (CD 1.5) (NNS hours)))
+    (NP (PRP they))
+    (VP (VBP are) (ADVP (NP (CD 19.5) (NNS miles)) (RB apart)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB fast))
+    (SQ (VBZ does) (NP (NNP Peter)) (VP (VB travel)))
+    (. ?)))

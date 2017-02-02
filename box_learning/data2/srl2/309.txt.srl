@@ -1,0 +1,17 @@
+spend ARG0 A bricklayer and an electrician together
+spend ARG2 working on a new house
+spend ARG1 90 hours
+work ARG1 a new house
+
+earn ADV If the bricklayer earns 12 dollars per hour
+earn ARG0 the bricklayer
+earn ARG1 12 dollars per hour
+earn ARG0 the electrician
+earn ARG1 16 dollars an hour
+pay ARG0 the owner
+pay ARG1 a total of 1350 dollars for their work , how many hours does the bricklayer work
+pay ARG2 them
+do ARG1 the bricklayer work
+
+work ARG0 the electrician
+

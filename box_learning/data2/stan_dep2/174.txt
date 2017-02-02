@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (VP
+      (VB Suppose)
+      (S
+        (NP (PRP you))
+        (VP
+          (VB invest)
+          (NP
+            (NP (CD 1,500) (NNS dollars))
+            (PP (IN in) (NP (NN equipment))))
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB put)
+                (NP (NNS pictures))
+                (PP (IN on) (NP (NNS T-shirts)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP buy)
+      (NP
+        (NP (DT each) (NNS T-shirt))
+        (PP (IN for) (NP (CD 3) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN After)
+      (S
+        (NP (PRP you))
+        (VP
+          (VB have)
+          (VP
+            (VBN placed)
+            (NP (DT the) (NNS pictures))
+            (PP (IN on) (NP (DT a) (NN shirt)))))))
+    (, ,)
+    (NP (PRP you))
+    (VP
+      (VBP sell)
+      (NP (PRP it))
+      (PP (IN for) (NP (CD 20) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS T-shirts))
+    (SQ
+      (MD must)
+      (NP (PRP you))
+      (VP
+        (VB sell)
+        (S (VP (TO to) (VP (VB break) (ADVP (RB even)))))))
+    (. ?)))

@@ -1,4 +1,6 @@
 from math_modifiers import math_modifiers
+from nltk.corpus import wordnet as wn
+from wordnet_helper import wordnet_helper
 import math
 
 
@@ -20,7 +22,9 @@ class percenptron_data:
 	noun_phrases_in_question = []
 	whole_question = ''
 	question_strings = []
+	wn_helper = wordnet_helper()
 	equivalence_relation_word_list = ['per', 'cost', 'equals', 'be', 'costs', 'equal', 'is', 'was', 'were', 'are', 'spend', 'spent', 'spends', 'for', 'a']
+
 
 	def __init(self):
 		self.noun_phrase_list = []
@@ -416,6 +420,38 @@ class percenptron_data:
 			rest_parts = rest_parts + parts[i] + ' '
 		return (head, rest_parts[:-1])
 
+	def calc_merge_wordsim_feature(self, feature_list, feature_name_list, chain1, chain2):
+		max_similarity = 0
+		ave_similarity = 0
+		count = 0
+		for np1 in chain1:
+			for np2 in chain2:
+				parts_np1 = np1.split(' ')
+				parts_np2 = np2.split(' ')
+				if len(parts_np1) >1 and len(parts_np2) > 1:
+					sim = self.wn_helper.word_similarity(parts_np1[0], parts_np2[0])
+					count = count + 1
+					ave_similarity = ave_similarity + sim
+					if sim> max_similarity:
+						max_similarity = sim
+				elif len(parts_np1) > 1:
+					sim = self.wn_helper.word_similarity(parts_np1[len(parts_np1)-1], np2)
+					count = count + 1
+					ave_similarity = ave_similarity + sim
+					if sim> max_similarity:
+						max_similarity = sim
+				elif len(parts_np2) > 1:
+					sim = self.wn_helper.word_similarity(np1, parts_np2[len(parts_np2) - 1])
+					count = count + 1
+					ave_similarity = ave_similarity + sim
+					if sim> max_similarity:
+						max_similarity = sim
+		feature_name_list.append('max word_net similarity between 2 chains')
+		feature_list.append(max_similarity)
+		feature_name_list.append('ave word_net similarity between 2 chains')
+		feature_list.append((ave_similarity + 0.0) / (count + 0.00001))
+		return (feature_list, feature_name_list)
+
 	def calc_merge_count_feature(self, feature_list, feature_name_list, chain1, chain2):
 		chain1_num_of_counts = 0
 		for np1 in chain1:
@@ -442,22 +478,22 @@ class percenptron_data:
 		if chain1_num_of_counts > 0 and chain2_num_of_counts > 0:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 has counts and chain 2 has counts")
 		if chain1_num_of_counts > 0 or chain2_num_of_counts > 0:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 has counts or chain 2 has counts")
 		if chain1_num_of_counts > 2 and chain2_num_of_counts > 2:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 and chain 2 has counts more than 2")
 		if chain1_num_of_counts > 2 or chain2_num_of_counts > 2:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 or chain 2 has counts more than 2")
 		return (feature_list, feature_name_list)
 
@@ -479,6 +515,10 @@ class percenptron_data:
 			if head_list_chain1[i] != head_list_chain1[i+1]:
 				chain1_all_same_head = False
 				break
+		if len(chain1) == 1:
+			chain1_all_same_head = False
+		if len(chain2) == 1:
+			chain2_all_same_head = False
 		for i in range(0, len(head_list_chain2) - 1):
 			if head_list_chain2[i] != head_list_chain2[i+1]:
 				chain2_all_same_head = False
@@ -511,27 +551,27 @@ class percenptron_data:
 		if chain1_all_same_head == True or chain2_all_same_head == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 is all same head or chain2 is all same head")
 		if chain1_all_same_head == True and chain2_all_same_head == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 is all same head and chain2 is all same head")
 		if chain1np_chain2_share_head == True or chain2np_chain1_share_head:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 has a np that has same head with all chain 2 or vv.")
 		if chain1np_chain2_share_head == True and chain2np_chain1_share_head:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 has a np that has same head with all chain 2 and vv.")
 		if chain1_chain2_share_head == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain1 and chain2 has some nps with same head")
 		return (feature_list, feature_name_list)
 
@@ -553,22 +593,22 @@ class percenptron_data:
 		if chain1_has_unit == True and chain2_has_unit == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 has unit and chain 2 has unit")
 		if chain1_has_unit == True or chain2_has_unit == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 has unit or chain 2 has unit")
 		if chain1_all_unit == True and chain2_all_unit == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 is all units and chain 2 is all units")
 		if chain1_all_unit == True or chain2_all_unit == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("chain 1 is all units or chain2 is all units")
 		return (feature_list, feature_name_list)
 
@@ -634,6 +674,20 @@ class percenptron_data:
 		feature_name_list.append("3rd quarter distance between words of 2 chains")
 		return (feature_list, feature_name_list)
 
+	def calc_merge_chains_lenght_features(self, feature_list, feature_name_list, chain1, chain2):
+		ave_length_chain1 = 0
+		ave_length_chain2 = 0
+		for np1 in chain1:
+			ave_length_chain1 = ave_length_chain1 + len(np1.split(' '))
+		for np2 in chain2:
+			ave_length_chain2 = ave_length_chain2 + len(np2.split(' '))
+		feature_name_list.append("ave length of entities in chain1")
+		feature_list.append((ave_length_chain1+0.0)/(6 * len(chain1)))
+		feature_name_list.append("ave length of entities in chain2")
+		feature_list.append((ave_length_chain2+ 0.0)/(6 * len(chain2)))
+		return (feature_list, feature_name_list)
+
+
 	def calc_merge_in_question(self, feature_list, feature_name_list, chain1, chain2):
 		chain1_has_in_question = False
 		chain2_has_in_question = False
@@ -646,12 +700,12 @@ class percenptron_data:
 		if chain1_has_in_question == True and chain2_has_in_question == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("any np in chain 1 in question or any np in chain2 in question")
 		if chain1_has_in_question == True and chain2_has_in_question == True:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("any np in chain 1 in question and any np in chain2 in question")
 		return (feature_list, feature_name_list)
 
@@ -675,12 +729,12 @@ class percenptron_data:
 		if chain1_repeats_count > 0 and chain2_repeats_count > 0:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("any np repeated in chain1 and any np repeated in chain2")
 		if chain1_repeats_count > 0 or chain2_repeats_count > 0:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("any np repeated in chain1 or any np repeated in chain2")
 		feature_list.append(chain1_repeats_count)
 		feature_name_list.append("chain1 num of repeats")
@@ -689,22 +743,15 @@ class percenptron_data:
 		if chain1_repeated_with_num_count > 0 and chain2_repeated_with_num_count > 0:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("any np repeated with count in chain1 and any np repeated with count in chain2")
 		if chain1_repeated_with_num_count > 0 or chain2_repeated_with_num_count > 0:
 			feature_list.append(1)
 		else:
-			feature_list.append(0)
+			feature_list.append(-1)
 		feature_name_list.append("any np repeated with count in chain1 or any np repeated with count in chain2")
 
 		return (feature_list, feature_name_list)
-
-
-
-
-
-
-
 
 
 

@@ -1,0 +1,230 @@
+['savings account', 'initial deposit', 'deposit', '177 dollar', '500 dollar', '19 week', 'week']
+['savings account']	['initial deposit']	0.0901100077042
+['savings account']	['deposit']	0.0888375395985
+['savings account']	['177 dollar']	0.0901100077042
+['savings account']	['500 dollar']	0.0901100077042
+['savings account']	['19 week']	0.0901100077042
+['savings account']	['week']	0.0179192712897
+['initial deposit']	['177 dollar']	0.0901100077042
+['initial deposit']	['500 dollar']	0.0901100077042
+['initial deposit']	['19 week']	0.0901100077042
+['initial deposit']	['week']	0.0132263547461
+['deposit']	['177 dollar']	0.0800317642921
+['deposit']	['500 dollar']	0.0800317642921
+['deposit']	['19 week']	0.0813535270388
+['deposit']	['week']	0.0303742514954
+['177 dollar']	['500 dollar']	0.643440930505
+['177 dollar']	['19 week']	0.0901100077042
+['177 dollar']	['week']	0.0143499502517
+['500 dollar']	['19 week']	0.387929093691
+['500 dollar']	['week']	0.0143499502517
+['initial deposit', 'savings account']	['deposit']	0.611028180006
+['initial deposit', 'savings account']	['177 dollar']	0.0901100077042
+['initial deposit', 'savings account']	['500 dollar']	0.0901100077042
+['initial deposit', 'savings account']	['19 week']	0.0901100077042
+['initial deposit', 'savings account']	['week']	0.0132263547461
+['deposit', 'savings account']	['initial deposit']	0.707594685938
+['deposit', 'savings account']	['177 dollar']	0.0833805889219
+['deposit', 'savings account']	['500 dollar']	0.0833805889219
+['deposit', 'savings account']	['19 week']	0.0827346205535
+['deposit', 'savings account']	['week']	0.118789947217
+['177 dollar', 'savings account']	['initial deposit']	0.0901100077042
+['177 dollar', 'savings account']	['deposit']	0.0777864840342
+['177 dollar', 'savings account']	['500 dollar']	0.584269096576
+['177 dollar', 'savings account']	['19 week']	0.0901100077042
+['177 dollar', 'savings account']	['week']	0.0132263547461
+['500 dollar', 'savings account']	['initial deposit']	0.0827346205535
+['500 dollar', 'savings account']	['deposit']	0.0777864840342
+['500 dollar', 'savings account']	['177 dollar']	0.584269096576
+['500 dollar', 'savings account']	['19 week']	0.362256416006
+['500 dollar', 'savings account']	['week']	0.0132263547461
+['19 week', 'savings account']	['initial deposit']	0.0827346205535
+['19 week', 'savings account']	['deposit']	0.0777864840342
+['19 week', 'savings account']	['177 dollar']	0.0901100077042
+['19 week', 'savings account']	['500 dollar']	0.362256416006
+['19 week', 'savings account']	['week']	0.295910781267
+['week', 'savings account']	['initial deposit']	0.0361569291624
+['week', 'savings account']	['deposit']	0.110225443993
+['week', 'savings account']	['177 dollar']	0.0361569291624
+['week', 'savings account']	['500 dollar']	0.0361569291624
+['week', 'savings account']	['19 week']	0.403319698054
+['savings account', 'initial deposit']	['deposit']	0.611028180006
+['savings account', 'initial deposit']	['177 dollar']	0.0901100077042
+['savings account', 'initial deposit']	['500 dollar']	0.0901100077042
+['savings account', 'initial deposit']	['19 week']	0.0901100077042
+['savings account', 'initial deposit']	['week']	0.0132263547461
+['deposit', 'initial deposit']	['savings account']	0.14831866988
+['deposit', 'initial deposit']	['177 dollar']	0.231474473053
+['deposit', 'initial deposit']	['500 dollar']	0.231474473053
+['deposit', 'initial deposit']	['19 week']	0.238969088114
+['deposit', 'initial deposit']	['week']	0.254178735741
+['177 dollar', 'initial deposit']	['savings account']	0.0901100077042
+['177 dollar', 'initial deposit']	['deposit']	0.612081485761
+['177 dollar', 'initial deposit']	['500 dollar']	0.584269096576
+['177 dollar', 'initial deposit']	['19 week']	0.0901100077042
+['177 dollar', 'initial deposit']	['week']	0.0143499502517
+['500 dollar', 'initial deposit']	['savings account']	0.0827346205535
+['500 dollar', 'initial deposit']	['deposit']	0.612081485761
+['500 dollar', 'initial deposit']	['177 dollar']	0.584269096576
+['500 dollar', 'initial deposit']	['19 week']	0.362256416006
+['500 dollar', 'initial deposit']	['week']	0.0143499502517
+['19 week', 'initial deposit']	['savings account']	0.0827346205535
+['19 week', 'initial deposit']	['deposit']	0.612081485761
+['19 week', 'initial deposit']	['177 dollar']	0.0901100077042
+['19 week', 'initial deposit']	['500 dollar']	0.362256416006
+['19 week', 'initial deposit']	['week']	0.375706113468
+['week', 'initial deposit']	['savings account']	0.0361569291624
+['week', 'initial deposit']	['deposit']	0.452074416031
+['week', 'initial deposit']	['177 dollar']	0.0361569291624
+['week', 'initial deposit']	['500 dollar']	0.0361569291624
+['week', 'initial deposit']	['19 week']	0.403319698054
+['savings account', 'deposit']	['initial deposit']	0.707594685938
+['savings account', 'deposit']	['177 dollar']	0.0833805889219
+['savings account', 'deposit']	['500 dollar']	0.0833805889219
+['savings account', 'deposit']	['19 week']	0.0827346205535
+['savings account', 'deposit']	['week']	0.118789947217
+['initial deposit', 'deposit']	['savings account']	0.14831866988
+['initial deposit', 'deposit']	['177 dollar']	0.231474473053
+['initial deposit', 'deposit']	['500 dollar']	0.231474473053
+['initial deposit', 'deposit']	['19 week']	0.238969088114
+['initial deposit', 'deposit']	['week']	0.254178735741
+['177 dollar', 'deposit']	['savings account']	0.0901100077042
+['177 dollar', 'deposit']	['initial deposit']	0.707594685938
+['177 dollar', 'deposit']	['500 dollar']	0.538007739106
+['177 dollar', 'deposit']	['19 week']	0.0827346205535
+['177 dollar', 'deposit']	['week']	0.134911466792
+['500 dollar', 'deposit']	['savings account']	0.0827346205535
+['500 dollar', 'deposit']	['initial deposit']	0.708250423327
+['500 dollar', 'deposit']	['177 dollar']	0.538007739106
+['500 dollar', 'deposit']	['19 week']	0.422016612763
+['500 dollar', 'deposit']	['week']	0.134911466792
+['19 week', 'deposit']	['savings account']	0.0827346205535
+['19 week', 'deposit']	['initial deposit']	0.708250423327
+['19 week', 'deposit']	['177 dollar']	0.0833805889219
+['19 week', 'deposit']	['500 dollar']	0.426675167742
+['19 week', 'deposit']	['week']	0.616993696656
+['week', 'deposit']	['savings account']	0.0361569291624
+['week', 'deposit']	['initial deposit']	0.345399931471
+['week', 'deposit']	['177 dollar']	0.0368701550083
+['week', 'deposit']	['500 dollar']	0.0368701550083
+['week', 'deposit']	['19 week']	0.457588975149
+['savings account', '177 dollar']	['initial deposit']	0.0901100077042
+['savings account', '177 dollar']	['deposit']	0.0777864840342
+['savings account', '177 dollar']	['500 dollar']	0.584269096576
+['savings account', '177 dollar']	['19 week']	0.0901100077042
+['savings account', '177 dollar']	['week']	0.0132263547461
+['initial deposit', '177 dollar']	['savings account']	0.0901100077042
+['initial deposit', '177 dollar']	['deposit']	0.612081485761
+['initial deposit', '177 dollar']	['500 dollar']	0.584269096576
+['initial deposit', '177 dollar']	['19 week']	0.0901100077042
+['initial deposit', '177 dollar']	['week']	0.0143499502517
+['deposit', '177 dollar']	['savings account']	0.0901100077042
+['deposit', '177 dollar']	['initial deposit']	0.707594685938
+['deposit', '177 dollar']	['500 dollar']	0.538007739106
+['deposit', '177 dollar']	['19 week']	0.0827346205535
+['deposit', '177 dollar']	['week']	0.134911466792
+['500 dollar', '177 dollar']	['savings account']	0.153587928078
+['500 dollar', '177 dollar']	['initial deposit']	0.14589133531
+['500 dollar', '177 dollar']	['deposit']	0.37370815508
+['500 dollar', '177 dollar']	['19 week']	0.59564157713
+['500 dollar', '177 dollar']	['week']	0.185726336332
+['19 week', '177 dollar']	['savings account']	0.0827346205535
+['19 week', '177 dollar']	['initial deposit']	0.0827346205535
+['19 week', '177 dollar']	['deposit']	0.0744376594044
+['19 week', '177 dollar']	['500 dollar']	0.754360422532
+['19 week', '177 dollar']	['week']	0.375706113468
+['week', '177 dollar']	['savings account']	0.0361569291624
+['week', '177 dollar']	['initial deposit']	0.0361569291624
+['week', '177 dollar']	['deposit']	0.12850470425
+['week', '177 dollar']	['500 dollar']	0.160671266721
+['week', '177 dollar']	['19 week']	0.403319698054
+['savings account', '500 dollar']	['initial deposit']	0.0827346205535
+['savings account', '500 dollar']	['deposit']	0.0777864840342
+['savings account', '500 dollar']	['177 dollar']	0.584269096576
+['savings account', '500 dollar']	['19 week']	0.362256416006
+['savings account', '500 dollar']	['week']	0.0132263547461
+['initial deposit', '500 dollar']	['savings account']	0.0827346205535
+['initial deposit', '500 dollar']	['deposit']	0.612081485761
+['initial deposit', '500 dollar']	['177 dollar']	0.584269096576
+['initial deposit', '500 dollar']	['19 week']	0.362256416006
+['initial deposit', '500 dollar']	['week']	0.0143499502517
+['deposit', '500 dollar']	['savings account']	0.0827346205535
+['deposit', '500 dollar']	['initial deposit']	0.708250423327
+['deposit', '500 dollar']	['177 dollar']	0.538007739106
+['deposit', '500 dollar']	['19 week']	0.422016612763
+['deposit', '500 dollar']	['week']	0.134911466792
+['177 dollar', '500 dollar']	['savings account']	0.153587928078
+['177 dollar', '500 dollar']	['initial deposit']	0.14589133531
+['177 dollar', '500 dollar']	['deposit']	0.37370815508
+['177 dollar', '500 dollar']	['19 week']	0.59564157713
+['177 dollar', '500 dollar']	['week']	0.185726336332
+['19 week', '500 dollar']	['savings account']	0.0827346205535
+['19 week', '500 dollar']	['initial deposit']	0.0827346205535
+['19 week', '500 dollar']	['deposit']	0.0744376594044
+['19 week', '500 dollar']	['177 dollar']	0.584269096576
+['19 week', '500 dollar']	['week']	0.375706113468
+['week', '500 dollar']	['savings account']	0.0361569291624
+['week', '500 dollar']	['initial deposit']	0.0361569291624
+['week', '500 dollar']	['deposit']	0.12850470425
+['week', '500 dollar']	['177 dollar']	0.160671266721
+['week', '500 dollar']	['19 week']	0.573353850605
+['savings account', '19 week']	['initial deposit']	0.0827346205535
+['savings account', '19 week']	['deposit']	0.0777864840342
+['savings account', '19 week']	['177 dollar']	0.0901100077042
+['savings account', '19 week']	['500 dollar']	0.362256416006
+['savings account', '19 week']	['week']	0.295910781267
+['initial deposit', '19 week']	['savings account']	0.0827346205535
+['initial deposit', '19 week']	['deposit']	0.612081485761
+['initial deposit', '19 week']	['177 dollar']	0.0901100077042
+['initial deposit', '19 week']	['500 dollar']	0.362256416006
+['initial deposit', '19 week']	['week']	0.375706113468
+['deposit', '19 week']	['savings account']	0.0827346205535
+['deposit', '19 week']	['initial deposit']	0.708250423327
+['deposit', '19 week']	['177 dollar']	0.0833805889219
+['deposit', '19 week']	['500 dollar']	0.426675167742
+['deposit', '19 week']	['week']	0.616993696656
+['177 dollar', '19 week']	['savings account']	0.0827346205535
+['177 dollar', '19 week']	['initial deposit']	0.0827346205535
+['177 dollar', '19 week']	['deposit']	0.0744376594044
+['177 dollar', '19 week']	['500 dollar']	0.754360422532
+['177 dollar', '19 week']	['week']	0.375706113468
+['500 dollar', '19 week']	['savings account']	0.0827346205535
+['500 dollar', '19 week']	['initial deposit']	0.0827346205535
+['500 dollar', '19 week']	['deposit']	0.0744376594044
+['500 dollar', '19 week']	['177 dollar']	0.584269096576
+['500 dollar', '19 week']	['week']	0.375706113468
+['week', '19 week']	['savings account']	0.150377262293
+['week', '19 week']	['initial deposit']	0.150377262293
+['week', '19 week']	['deposit']	0.329737394716
+['week', '19 week']	['177 dollar']	0.183197852817
+['week', '19 week']	['500 dollar']	0.556009941538
+['savings account', 'week']	['initial deposit']	0.0361569291624
+['savings account', 'week']	['deposit']	0.110225443993
+['savings account', 'week']	['177 dollar']	0.0361569291624
+['savings account', 'week']	['500 dollar']	0.0361569291624
+['savings account', 'week']	['19 week']	0.403319698054
+['initial deposit', 'week']	['savings account']	0.0361569291624
+['initial deposit', 'week']	['deposit']	0.452074416031
+['initial deposit', 'week']	['177 dollar']	0.0361569291624
+['initial deposit', 'week']	['500 dollar']	0.0361569291624
+['initial deposit', 'week']	['19 week']	0.403319698054
+['deposit', 'week']	['savings account']	0.0361569291624
+['deposit', 'week']	['initial deposit']	0.345399931471
+['deposit', 'week']	['177 dollar']	0.0368701550083
+['deposit', 'week']	['500 dollar']	0.0368701550083
+['deposit', 'week']	['19 week']	0.457588975149
+['177 dollar', 'week']	['savings account']	0.0361569291624
+['177 dollar', 'week']	['initial deposit']	0.0361569291624
+['177 dollar', 'week']	['deposit']	0.12850470425
+['177 dollar', 'week']	['500 dollar']	0.160671266721
+['177 dollar', 'week']	['19 week']	0.403319698054
+['500 dollar', 'week']	['savings account']	0.0361569291624
+['500 dollar', 'week']	['initial deposit']	0.0361569291624
+['500 dollar', 'week']	['deposit']	0.12850470425
+['500 dollar', 'week']	['177 dollar']	0.160671266721
+['500 dollar', 'week']	['19 week']	0.573353850605
+['19 week', 'week']	['savings account']	0.150377262293
+['19 week', 'week']	['initial deposit']	0.150377262293
+['19 week', 'week']	['deposit']	0.329737394716
+['19 week', 'week']	['177 dollar']	0.183197852817
+['19 week', 'week']	['500 dollar']	0.556009941538

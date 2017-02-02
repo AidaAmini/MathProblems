@@ -1,0 +1,10 @@
+1
+[['washer-dryer', '-', '-', '-', '-', 'dollar', '1, 200'], ['washer', '-', '-', 'dollar', '220 + x1', '-', '-'], ['dryer', '-', '-', 'dollar', 'x1', '-', '-']]
+-1
+[['dryer', '-', '-', '-', '-', 'dollar', '1, 200'], ['washer', '-', '-', 'dollar', '220 + x1', '-', '-'], ['dryer', '-', '-', 'dollar', 'x1', '1, 200', '-']]
+-1
+[['washer-dryer', '-', '-', '-', '-', 'dollar', '1, 200'], ['washer', '-', '-', 'dollar', '220 + x1', '-', '-'], ['dryer', '-', '1, 200', 'dollar', 'washer-dryer', '-', '-']]
+-1
+[['dryer', '-', '-', '-', 'x1', 'dollar', '1, 200'], ['washer', '-', '-', 'dollar', '220 + x1', '-', '-'], ['dryer', '-', '-', 'dollar', '1, 200', 'washer-dryer', '-']]
+-1
+[['washer-dryer', '-', 'dryer', '-', '-', 'dollar', '1, 200'], ['washer', '-', '-', 'dollar', '220 + x1', '-', '-'], ['dryer', 'dollar', '-', 'washer-dryer', '1, 200', '-', '-']]

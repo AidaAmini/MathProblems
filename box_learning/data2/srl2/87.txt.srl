@@ -1,0 +1,16 @@
+add LOC On a college entrance exam
+add ARG1 each correct answer
+add ARG2 your raw score
+add ARG1 1 point
+add ARG0 each unanswered question
+add ARG1 nothing and each incorrect answer subtracts 0.25 point.
+subtract ARG0 nothing and each incorrect answer
+subtract ARG1 0.25 point.
+
+answer ARG0 You
+answer ARG1 82 out of 85 questions for a raw score of 67.
+
+answer ARG1 questions
+answer ARG0 you
+answer MNR correctly
+

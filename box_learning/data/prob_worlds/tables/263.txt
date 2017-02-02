@@ -1,0 +1,12 @@
+1
+[['account', '9, 000', 'dollar', '-', '-', 'dollar', '678.87'], ['-', 'x1', '-', '% annual interest', '6.5', '-', '-'], ['-', 'x2', '-', '% annual interest', '8', '-', '-']]
+-1
+[['account', '9, 000', 'x2', '-', '% annual interest', 'dollar', '678.87'], ['-', 'x1', '-', '% annual interest', '6.5', '-', '-'], ['9, 000', 'x2', '-', '% annual interest', 'account', '678.87', '-']]
+-1
+[['account', '9, 000', '% annual interest', '-', '-', 'dollar', '8'], ['-', 'x1', '-', '% annual interest', '6.5', '-', '-'], ['-', 'account', '-', '% annual interest', 'dollar', '-', '-']]
+-1
+[['account', '9, 000', 'dollar', '-', '-', 'x2', '678.87'], ['-', 'x1', '-', '% annual interest', '6.5', '-', '-'], ['678.87', 'x2', '9, 000', '% annual interest', 'account', '-', '-']]
+-1
+[['account', 'x2', 'dollar', '-', '-', '% annual interest', '678.87'], ['-', 'x1', '-', '% annual interest', '6.5', '-', '-'], ['-', 'x2', 'dollar', '% annual interest', '8', '-', '-']]
+-1
+[['account', '% annual interest', 'dollar', '-', '-', 'dollar', '8'], ['-', 'x1', '-', '% annual interest', '6.5', '-', '-'], ['-', '678.87', '-', '% annual interest', '8', '-', 'dollar']]

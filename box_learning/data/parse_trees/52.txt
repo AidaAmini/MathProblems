@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (DT An) (NN investor))
+    (VP
+      (MD will)
+      (VP
+        (VB invest)
+        (NP
+          (NP (DT a) (NN total))
+          (PP (IN of) (NP (CD 15000) (NNS dollars))))
+        (PP
+          (IN in)
+          (NP
+            (NP (CD 2) (NNS accounts))
+            (, ,)
+            (NP
+              (NP (CD one))
+              (VP
+                (VBG paying)
+                (NP (CD 4) (NN %))
+                (NP
+                  (NP (JJ annual) (JJ simple) (NN interest))
+                  (CC and)
+                  (NP (DT the) (JJ other) (CD 3) (NN %)))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBZ wants)
+          (S
+            (VP
+              (TO to)
+              (VP
+                (VB earn)
+                (NP (CD 550) (NNS dollars))
+                (NP (JJ annual) (NN interest))))))))
+    (, ,)
+    (WHNP (WRB how) (JJ much))
+    (SQ
+      (MD should)
+      (NP (PRP he))
+      (VP (VB invest) (PP (IN at) (NP (CD 4) (NN %)))))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHNP (WRB How) (RB much))
+    (PP (IN at) (NP (CD 3) (NN %)))
+    (. ?)))

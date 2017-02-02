@@ -1,0 +1,536 @@
+['12 unit', '1 bedroom', '360 dollar', 'bedroom', '2 bedroom', '450 dollar respectively', 'unit', '4950 dollar', '2 bedroom unit']
+['12 unit']	['1 bedroom']	0.125971854627
+['12 unit']	['360 dollar']	0.0901100077042
+['12 unit']	['bedroom']	0.0939445783919
+['12 unit']	['2 bedroom']	0.103176153012
+['12 unit']	['450 dollar respectively']	0.0941266761548
+['12 unit']	['4950 dollar']	0.0901100077042
+['12 unit']	['2 bedroom unit']	0.68119517674
+['1 bedroom']	['360 dollar']	0.0901100077042
+['1 bedroom']	['2 bedroom']	0.820005157283
+['1 bedroom']	['450 dollar respectively']	0.0941266761548
+['1 bedroom']	['unit']	0.0939445783919
+['1 bedroom']	['4950 dollar']	0.0901100077042
+['1 bedroom']	['2 bedroom unit']	0.379457278768
+['360 dollar']	['bedroom']	0.079730351659
+['360 dollar']	['2 bedroom']	0.0897823390711
+['360 dollar']	['450 dollar respectively']	0.0941266761548
+['360 dollar']	['unit']	0.336648809456
+['360 dollar']	['4950 dollar']	0.643440930505
+['360 dollar']	['2 bedroom unit']	0.0941266761548
+['bedroom']	['450 dollar respectively']	0.0807707659053
+['bedroom']	['unit']	0.145426205812
+['bedroom']	['4950 dollar']	0.0696933362217
+['bedroom']	['2 bedroom unit']	0.0831117607298
+['2 bedroom']	['450 dollar respectively']	0.0828188087803
+['2 bedroom']	['unit']	0.0849936446609
+['2 bedroom']	['4950 dollar']	0.0737139440912
+['450 dollar respectively']	['unit']	0.0914560578477
+['450 dollar respectively']	['4950 dollar']	0.0988755105172
+['450 dollar respectively']	['2 bedroom unit']	0.107526100904
+['unit']	['4950 dollar']	0.301177758643
+['4950 dollar']	['2 bedroom unit']	0.0941266761548
+['1 bedroom', '12 unit']	['360 dollar']	0.0901100077042
+['1 bedroom', '12 unit']	['bedroom']	0.866373813169
+['1 bedroom', '12 unit']	['2 bedroom']	0.812835846014
+['1 bedroom', '12 unit']	['450 dollar respectively']	0.0941266761548
+['1 bedroom', '12 unit']	['unit']	0.646205170945
+['1 bedroom', '12 unit']	['4950 dollar']	0.0901100077042
+['1 bedroom', '12 unit']	['2 bedroom unit']	0.777835402841
+['360 dollar', '12 unit']	['1 bedroom']	0.126675736021
+['360 dollar', '12 unit']	['bedroom']	0.0966764293888
+['360 dollar', '12 unit']	['2 bedroom']	0.107003435941
+['360 dollar', '12 unit']	['450 dollar respectively']	0.0941266761548
+['360 dollar', '12 unit']	['unit']	0.705201757479
+['360 dollar', '12 unit']	['4950 dollar']	0.584269096576
+['360 dollar', '12 unit']	['2 bedroom unit']	0.669866445221
+['bedroom', '12 unit']	['1 bedroom']	0.890417527251
+['bedroom', '12 unit']	['360 dollar']	0.0696933362217
+['bedroom', '12 unit']	['2 bedroom']	0.881504004661
+['bedroom', '12 unit']	['450 dollar respectively']	0.0807707659053
+['bedroom', '12 unit']	['unit']	0.794698036024
+['bedroom', '12 unit']	['4950 dollar']	0.0696933362217
+['bedroom', '12 unit']	['2 bedroom unit']	0.709398118555
+['2 bedroom', '12 unit']	['1 bedroom']	0.781116950393
+['2 bedroom', '12 unit']	['360 dollar']	0.0737139440912
+['2 bedroom', '12 unit']	['bedroom']	0.865959743663
+['2 bedroom', '12 unit']	['450 dollar respectively']	0.0828188087803
+['2 bedroom', '12 unit']	['unit']	0.672006783101
+['2 bedroom', '12 unit']	['4950 dollar']	0.0737139440912
+['2 bedroom', '12 unit']	['2 bedroom unit']	0.721180090674
+['450 dollar respectively', '12 unit']	['1 bedroom']	0.183637364938
+['450 dollar respectively', '12 unit']	['360 dollar']	0.15961386663
+['450 dollar respectively', '12 unit']	['bedroom']	0.165494541834
+['450 dollar respectively', '12 unit']	['2 bedroom']	0.171176153595
+['450 dollar respectively', '12 unit']	['unit']	0.764017870521
+['450 dollar respectively', '12 unit']	['4950 dollar']	0.15961386663
+['450 dollar respectively', '12 unit']	['2 bedroom unit']	0.719639047476
+['unit', '12 unit']	['1 bedroom']	0.336950901833
+['unit', '12 unit']	['360 dollar']	0.538157023505
+['unit', '12 unit']	['bedroom']	0.882545076239
+['unit', '12 unit']	['2 bedroom']	0.308758494235
+['unit', '12 unit']	['450 dollar respectively']	0.362353205852
+['unit', '12 unit']	['4950 dollar']	0.538157023505
+['unit', '12 unit']	['2 bedroom unit']	0.74577458318
+['4950 dollar', '12 unit']	['1 bedroom']	0.126675736021
+['4950 dollar', '12 unit']	['360 dollar']	0.584269096576
+['4950 dollar', '12 unit']	['bedroom']	0.0966764293888
+['4950 dollar', '12 unit']	['2 bedroom']	0.107003435941
+['4950 dollar', '12 unit']	['450 dollar respectively']	0.0941266761548
+['4950 dollar', '12 unit']	['unit']	0.705201757479
+['4950 dollar', '12 unit']	['2 bedroom unit']	0.669866445221
+['2 bedroom unit', '12 unit']	['1 bedroom']	0.765304240519
+['2 bedroom unit', '12 unit']	['360 dollar']	0.188690699416
+['2 bedroom unit', '12 unit']	['bedroom']	0.538242058376
+['2 bedroom unit', '12 unit']	['2 bedroom']	0.532162351132
+['2 bedroom unit', '12 unit']	['450 dollar respectively']	0.355412406141
+['2 bedroom unit', '12 unit']	['unit']	0.795127960355
+['2 bedroom unit', '12 unit']	['4950 dollar']	0.188690699416
+['12 unit', '1 bedroom']	['360 dollar']	0.0901100077042
+['12 unit', '1 bedroom']	['bedroom']	0.866373813169
+['12 unit', '1 bedroom']	['2 bedroom']	0.812835846014
+['12 unit', '1 bedroom']	['450 dollar respectively']	0.0941266761548
+['12 unit', '1 bedroom']	['unit']	0.646205170945
+['12 unit', '1 bedroom']	['4950 dollar']	0.0901100077042
+['12 unit', '1 bedroom']	['2 bedroom unit']	0.777835402841
+['360 dollar', '1 bedroom']	['12 unit']	0.126675736021
+['360 dollar', '1 bedroom']	['bedroom']	0.669237230387
+['360 dollar', '1 bedroom']	['2 bedroom']	0.747901896166
+['360 dollar', '1 bedroom']	['450 dollar respectively']	0.0941266761548
+['360 dollar', '1 bedroom']	['unit']	0.33499464404
+['360 dollar', '1 bedroom']	['4950 dollar']	0.584269096576
+['360 dollar', '1 bedroom']	['2 bedroom unit']	0.335677399021
+['bedroom', '1 bedroom']	['12 unit']	0.336950901833
+['bedroom', '1 bedroom']	['360 dollar']	0.136831688603
+['bedroom', '1 bedroom']	['2 bedroom']	0.904495161813
+['bedroom', '1 bedroom']	['450 dollar respectively']	0.362353205852
+['bedroom', '1 bedroom']	['unit']	0.882545076239
+['bedroom', '1 bedroom']	['4950 dollar']	0.136831688603
+['bedroom', '1 bedroom']	['2 bedroom unit']	0.731171148339
+['2 bedroom', '1 bedroom']	['12 unit']	0.350927326657
+['2 bedroom', '1 bedroom']	['360 dollar']	0.127137811052
+['2 bedroom', '1 bedroom']	['bedroom']	0.844688778456
+['2 bedroom', '1 bedroom']	['450 dollar respectively']	0.339447680005
+['2 bedroom', '1 bedroom']	['unit']	0.378936121552
+['2 bedroom', '1 bedroom']	['4950 dollar']	0.127137811052
+['2 bedroom', '1 bedroom']	['2 bedroom unit']	0.541051678388
+['450 dollar respectively', '1 bedroom']	['12 unit']	0.183637364938
+['450 dollar respectively', '1 bedroom']	['360 dollar']	0.15961386663
+['450 dollar respectively', '1 bedroom']	['bedroom']	0.761695578077
+['450 dollar respectively', '1 bedroom']	['2 bedroom']	0.802115948339
+['450 dollar respectively', '1 bedroom']	['unit']	0.165494541834
+['450 dollar respectively', '1 bedroom']	['4950 dollar']	0.15961386663
+['450 dollar respectively', '1 bedroom']	['2 bedroom unit']	0.463800617609
+['unit', '1 bedroom']	['12 unit']	0.741056877627
+['unit', '1 bedroom']	['360 dollar']	0.286330613519
+['unit', '1 bedroom']	['bedroom']	0.912853693822
+['unit', '1 bedroom']	['2 bedroom']	0.73594266714
+['unit', '1 bedroom']	['450 dollar respectively']	0.0807707659053
+['unit', '1 bedroom']	['4950 dollar']	0.286330613519
+['unit', '1 bedroom']	['2 bedroom unit']	0.700984315372
+['4950 dollar', '1 bedroom']	['12 unit']	0.126675736021
+['4950 dollar', '1 bedroom']	['360 dollar']	0.584269096576
+['4950 dollar', '1 bedroom']	['bedroom']	0.669237230387
+['4950 dollar', '1 bedroom']	['2 bedroom']	0.747901896166
+['4950 dollar', '1 bedroom']	['450 dollar respectively']	0.0941266761548
+['4950 dollar', '1 bedroom']	['unit']	0.33499464404
+['4950 dollar', '1 bedroom']	['2 bedroom unit']	0.335677399021
+['2 bedroom unit', '1 bedroom']	['12 unit']	0.743380388481
+['2 bedroom unit', '1 bedroom']	['360 dollar']	0.15961386663
+['2 bedroom unit', '1 bedroom']	['bedroom']	0.877133847094
+['2 bedroom unit', '1 bedroom']	['2 bedroom']	0.785726658851
+['2 bedroom unit', '1 bedroom']	['450 dollar respectively']	0.161708668161
+['2 bedroom unit', '1 bedroom']	['unit']	0.711350034475
+['2 bedroom unit', '1 bedroom']	['4950 dollar']	0.15961386663
+['12 unit', '360 dollar']	['1 bedroom']	0.126675736021
+['12 unit', '360 dollar']	['bedroom']	0.0966764293888
+['12 unit', '360 dollar']	['2 bedroom']	0.107003435941
+['12 unit', '360 dollar']	['450 dollar respectively']	0.0941266761548
+['12 unit', '360 dollar']	['unit']	0.705201757479
+['12 unit', '360 dollar']	['4950 dollar']	0.584269096576
+['12 unit', '360 dollar']	['2 bedroom unit']	0.669866445221
+['1 bedroom', '360 dollar']	['12 unit']	0.126675736021
+['1 bedroom', '360 dollar']	['bedroom']	0.669237230387
+['1 bedroom', '360 dollar']	['2 bedroom']	0.747901896166
+['1 bedroom', '360 dollar']	['450 dollar respectively']	0.0941266761548
+['1 bedroom', '360 dollar']	['unit']	0.33499464404
+['1 bedroom', '360 dollar']	['4950 dollar']	0.584269096576
+['1 bedroom', '360 dollar']	['2 bedroom unit']	0.335677399021
+['bedroom', '360 dollar']	['12 unit']	0.0939298741501
+['bedroom', '360 dollar']	['1 bedroom']	0.706097804469
+['bedroom', '360 dollar']	['2 bedroom']	0.621918301606
+['bedroom', '360 dollar']	['450 dollar respectively']	0.0807707659053
+['bedroom', '360 dollar']	['unit']	0.838758341262
+['bedroom', '360 dollar']	['4950 dollar']	0.525944474896
+['bedroom', '360 dollar']	['2 bedroom unit']	0.248738673592
+['2 bedroom', '360 dollar']	['12 unit']	0.105691884463
+['2 bedroom', '360 dollar']	['1 bedroom']	0.73028733598
+['2 bedroom', '360 dollar']	['bedroom']	0.619031499573
+['2 bedroom', '360 dollar']	['450 dollar respectively']	0.0828188087803
+['2 bedroom', '360 dollar']	['unit']	0.261631001489
+['2 bedroom', '360 dollar']	['4950 dollar']	0.544221442934
+['2 bedroom', '360 dollar']	['2 bedroom unit']	0.456253030721
+['450 dollar respectively', '360 dollar']	['12 unit']	0.15961386663
+['450 dollar respectively', '360 dollar']	['1 bedroom']	0.15961386663
+['450 dollar respectively', '360 dollar']	['bedroom']	0.148807562081
+['450 dollar respectively', '360 dollar']	['2 bedroom']	0.158859549493
+['450 dollar respectively', '360 dollar']	['unit']	0.406036944459
+['450 dollar respectively', '360 dollar']	['4950 dollar']	0.653642048458
+['450 dollar respectively', '360 dollar']	['2 bedroom unit']	0.161708668161
+['unit', '360 dollar']	['12 unit']	0.690162874317
+['unit', '360 dollar']	['1 bedroom']	0.0939298741501
+['unit', '360 dollar']	['bedroom']	0.724586098546
+['unit', '360 dollar']	['2 bedroom']	0.0951680355449
+['unit', '360 dollar']	['450 dollar respectively']	0.0807707659053
+['unit', '360 dollar']	['4950 dollar']	0.721650559666
+['unit', '360 dollar']	['2 bedroom unit']	0.697783840387
+['4950 dollar', '360 dollar']	['12 unit']	0.139258682248
+['4950 dollar', '360 dollar']	['1 bedroom']	0.139258682248
+['4950 dollar', '360 dollar']	['bedroom']	0.33665242287
+['4950 dollar', '360 dollar']	['2 bedroom']	0.14699641653
+['4950 dollar', '360 dollar']	['450 dollar respectively']	0.297805101442
+['4950 dollar', '360 dollar']	['unit']	0.639404353946
+['4950 dollar', '360 dollar']	['2 bedroom unit']	0.297805101442
+['2 bedroom unit', '360 dollar']	['12 unit']	0.658859294871
+['2 bedroom unit', '360 dollar']	['1 bedroom']	0.453327242541
+['2 bedroom unit', '360 dollar']	['bedroom']	0.302961297339
+['2 bedroom unit', '360 dollar']	['2 bedroom']	0.486385005071
+['2 bedroom unit', '360 dollar']	['450 dollar respectively']	0.161708668161
+['2 bedroom unit', '360 dollar']	['unit']	0.765073108978
+['2 bedroom unit', '360 dollar']	['4950 dollar']	0.653642048458
+['12 unit', 'bedroom']	['1 bedroom']	0.890417527251
+['12 unit', 'bedroom']	['360 dollar']	0.0696933362217
+['12 unit', 'bedroom']	['2 bedroom']	0.881504004661
+['12 unit', 'bedroom']	['450 dollar respectively']	0.0807707659053
+['12 unit', 'bedroom']	['unit']	0.794698036024
+['12 unit', 'bedroom']	['4950 dollar']	0.0696933362217
+['12 unit', 'bedroom']	['2 bedroom unit']	0.709398118555
+['1 bedroom', 'bedroom']	['12 unit']	0.336950901833
+['1 bedroom', 'bedroom']	['360 dollar']	0.136831688603
+['1 bedroom', 'bedroom']	['2 bedroom']	0.904495161813
+['1 bedroom', 'bedroom']	['450 dollar respectively']	0.362353205852
+['1 bedroom', 'bedroom']	['unit']	0.882545076239
+['1 bedroom', 'bedroom']	['4950 dollar']	0.136831688603
+['1 bedroom', 'bedroom']	['2 bedroom unit']	0.731171148339
+['360 dollar', 'bedroom']	['12 unit']	0.0939298741501
+['360 dollar', 'bedroom']	['1 bedroom']	0.706097804469
+['360 dollar', 'bedroom']	['2 bedroom']	0.621918301606
+['360 dollar', 'bedroom']	['450 dollar respectively']	0.0807707659053
+['360 dollar', 'bedroom']	['unit']	0.838758341262
+['360 dollar', 'bedroom']	['4950 dollar']	0.525944474896
+['360 dollar', 'bedroom']	['2 bedroom unit']	0.248738673592
+['2 bedroom', 'bedroom']	['12 unit']	0.387729074515
+['2 bedroom', 'bedroom']	['1 bedroom']	0.912420170225
+['2 bedroom', 'bedroom']	['360 dollar']	0.187609861285
+['2 bedroom', 'bedroom']	['450 dollar respectively']	0.398007089825
+['2 bedroom', 'bedroom']	['unit']	0.914297717438
+['2 bedroom', 'bedroom']	['4950 dollar']	0.187609861285
+['2 bedroom', 'bedroom']	['2 bedroom unit']	0.667037309305
+['450 dollar respectively', 'bedroom']	['12 unit']	0.0963990099525
+['450 dollar respectively', 'bedroom']	['1 bedroom']	0.703893441668
+['450 dollar respectively', 'bedroom']	['360 dollar']	0.0696933362217
+['450 dollar respectively', 'bedroom']	['2 bedroom']	0.619713938804
+['450 dollar respectively', 'bedroom']	['unit']	0.716468314771
+['450 dollar respectively', 'bedroom']	['4950 dollar']	0.0696933362217
+['450 dollar respectively', 'bedroom']	['2 bedroom unit']	0.284541142728
+['unit', 'bedroom']	['12 unit']	0.702098759348
+['unit', 'bedroom']	['1 bedroom']	0.846706024208
+['unit', 'bedroom']	['360 dollar']	0.312256539445
+['unit', 'bedroom']	['2 bedroom']	0.851750364013
+['unit', 'bedroom']	['450 dollar respectively']	0.142848613587
+['unit', 'bedroom']	['4950 dollar']	0.312256539445
+['unit', 'bedroom']	['2 bedroom unit']	0.698789622409
+['4950 dollar', 'bedroom']	['12 unit']	0.0939298741501
+['4950 dollar', 'bedroom']	['1 bedroom']	0.706097804469
+['4950 dollar', 'bedroom']	['360 dollar']	0.525944474896
+['4950 dollar', 'bedroom']	['2 bedroom']	0.621918301606
+['4950 dollar', 'bedroom']	['450 dollar respectively']	0.0807707659053
+['4950 dollar', 'bedroom']	['unit']	0.838758341262
+['4950 dollar', 'bedroom']	['2 bedroom unit']	0.248738673592
+['2 bedroom unit', 'bedroom']	['12 unit']	0.516278806228
+['2 bedroom unit', 'bedroom']	['1 bedroom']	0.904645245573
+['2 bedroom unit', 'bedroom']	['360 dollar']	0.0696933362217
+['2 bedroom unit', 'bedroom']	['2 bedroom']	0.900022805104
+['2 bedroom unit', 'bedroom']	['450 dollar respectively']	0.0828188087803
+['2 bedroom unit', 'bedroom']	['unit']	0.764868017937
+['2 bedroom unit', 'bedroom']	['4950 dollar']	0.0696933362217
+['12 unit', '2 bedroom']	['1 bedroom']	0.781116950393
+['12 unit', '2 bedroom']	['360 dollar']	0.0737139440912
+['12 unit', '2 bedroom']	['bedroom']	0.865959743663
+['12 unit', '2 bedroom']	['450 dollar respectively']	0.0828188087803
+['12 unit', '2 bedroom']	['unit']	0.672006783101
+['12 unit', '2 bedroom']	['4950 dollar']	0.0737139440912
+['12 unit', '2 bedroom']	['2 bedroom unit']	0.721180090674
+['1 bedroom', '2 bedroom']	['12 unit']	0.350927326657
+['1 bedroom', '2 bedroom']	['360 dollar']	0.127137811052
+['1 bedroom', '2 bedroom']	['bedroom']	0.844688778456
+['1 bedroom', '2 bedroom']	['450 dollar respectively']	0.339447680005
+['1 bedroom', '2 bedroom']	['unit']	0.378936121552
+['1 bedroom', '2 bedroom']	['4950 dollar']	0.127137811052
+['1 bedroom', '2 bedroom']	['2 bedroom unit']	0.541051678388
+['360 dollar', '2 bedroom']	['12 unit']	0.105691884463
+['360 dollar', '2 bedroom']	['1 bedroom']	0.73028733598
+['360 dollar', '2 bedroom']	['bedroom']	0.619031499573
+['360 dollar', '2 bedroom']	['450 dollar respectively']	0.0828188087803
+['360 dollar', '2 bedroom']	['unit']	0.261631001489
+['360 dollar', '2 bedroom']	['4950 dollar']	0.544221442934
+['360 dollar', '2 bedroom']	['2 bedroom unit']	0.456253030721
+['bedroom', '2 bedroom']	['12 unit']	0.387729074515
+['bedroom', '2 bedroom']	['1 bedroom']	0.912420170225
+['bedroom', '2 bedroom']	['360 dollar']	0.187609861285
+['bedroom', '2 bedroom']	['450 dollar respectively']	0.398007089825
+['bedroom', '2 bedroom']	['unit']	0.914297717438
+['bedroom', '2 bedroom']	['4950 dollar']	0.187609861285
+['bedroom', '2 bedroom']	['2 bedroom unit']	0.667037309305
+['450 dollar respectively', '2 bedroom']	['12 unit']	0.148312858671
+['450 dollar respectively', '2 bedroom']	['1 bedroom']	0.790085144498
+['450 dollar respectively', '2 bedroom']	['360 dollar']	0.128877148308
+['450 dollar respectively', '2 bedroom']	['bedroom']	0.705955459306
+['450 dollar respectively', '2 bedroom']	['unit']	0.146573440639
+['450 dollar respectively', '2 bedroom']	['4950 dollar']	0.128877148308
+['450 dollar respectively', '2 bedroom']	['2 bedroom unit']	0.496749892246
+['unit', '2 bedroom']	['12 unit']	0.741056877627
+['unit', '2 bedroom']	['1 bedroom']	0.778917897365
+['unit', '2 bedroom']	['360 dollar']	0.312256539445
+['unit', '2 bedroom']	['bedroom']	0.912853693822
+['unit', '2 bedroom']	['450 dollar respectively']	0.142848613587
+['unit', '2 bedroom']	['4950 dollar']	0.312256539445
+['unit', '2 bedroom']	['2 bedroom unit']	0.714182107038
+['4950 dollar', '2 bedroom']	['12 unit']	0.105691884463
+['4950 dollar', '2 bedroom']	['1 bedroom']	0.73028733598
+['4950 dollar', '2 bedroom']	['360 dollar']	0.544221442934
+['4950 dollar', '2 bedroom']	['bedroom']	0.619031499573
+['4950 dollar', '2 bedroom']	['450 dollar respectively']	0.0828188087803
+['4950 dollar', '2 bedroom']	['unit']	0.261631001489
+['4950 dollar', '2 bedroom']	['2 bedroom unit']	0.456253030721
+['2 bedroom unit', '2 bedroom']	['12 unit']	0.645980418557
+['2 bedroom unit', '2 bedroom']	['1 bedroom']	0.858245500007
+['2 bedroom unit', '2 bedroom']	['360 dollar']	0.128877148308
+['2 bedroom unit', '2 bedroom']	['bedroom']	0.883388454972
+['2 bedroom unit', '2 bedroom']	['450 dollar respectively']	0.139124709385
+['2 bedroom unit', '2 bedroom']	['unit']	0.663070877722
+['2 bedroom unit', '2 bedroom']	['4950 dollar']	0.128877148308
+['12 unit', '450 dollar respectively']	['1 bedroom']	0.183637364938
+['12 unit', '450 dollar respectively']	['360 dollar']	0.15961386663
+['12 unit', '450 dollar respectively']	['bedroom']	0.165494541834
+['12 unit', '450 dollar respectively']	['2 bedroom']	0.171176153595
+['12 unit', '450 dollar respectively']	['unit']	0.764017870521
+['12 unit', '450 dollar respectively']	['4950 dollar']	0.15961386663
+['12 unit', '450 dollar respectively']	['2 bedroom unit']	0.719639047476
+['1 bedroom', '450 dollar respectively']	['12 unit']	0.183637364938
+['1 bedroom', '450 dollar respectively']	['360 dollar']	0.15961386663
+['1 bedroom', '450 dollar respectively']	['bedroom']	0.761695578077
+['1 bedroom', '450 dollar respectively']	['2 bedroom']	0.802115948339
+['1 bedroom', '450 dollar respectively']	['unit']	0.165494541834
+['1 bedroom', '450 dollar respectively']	['4950 dollar']	0.15961386663
+['1 bedroom', '450 dollar respectively']	['2 bedroom unit']	0.463800617609
+['360 dollar', '450 dollar respectively']	['12 unit']	0.15961386663
+['360 dollar', '450 dollar respectively']	['1 bedroom']	0.15961386663
+['360 dollar', '450 dollar respectively']	['bedroom']	0.148807562081
+['360 dollar', '450 dollar respectively']	['2 bedroom']	0.158859549493
+['360 dollar', '450 dollar respectively']	['unit']	0.406036944459
+['360 dollar', '450 dollar respectively']	['4950 dollar']	0.653642048458
+['360 dollar', '450 dollar respectively']	['2 bedroom unit']	0.161708668161
+['bedroom', '450 dollar respectively']	['12 unit']	0.0963990099525
+['bedroom', '450 dollar respectively']	['1 bedroom']	0.703893441668
+['bedroom', '450 dollar respectively']	['360 dollar']	0.0696933362217
+['bedroom', '450 dollar respectively']	['2 bedroom']	0.619713938804
+['bedroom', '450 dollar respectively']	['unit']	0.716468314771
+['bedroom', '450 dollar respectively']	['4950 dollar']	0.0696933362217
+['bedroom', '450 dollar respectively']	['2 bedroom unit']	0.284541142728
+['2 bedroom', '450 dollar respectively']	['12 unit']	0.148312858671
+['2 bedroom', '450 dollar respectively']	['1 bedroom']	0.790085144498
+['2 bedroom', '450 dollar respectively']	['360 dollar']	0.128877148308
+['2 bedroom', '450 dollar respectively']	['bedroom']	0.705955459306
+['2 bedroom', '450 dollar respectively']	['unit']	0.146573440639
+['2 bedroom', '450 dollar respectively']	['4950 dollar']	0.128877148308
+['2 bedroom', '450 dollar respectively']	['2 bedroom unit']	0.496749892246
+['unit', '450 dollar respectively']	['12 unit']	0.708328881886
+['unit', '450 dollar respectively']	['1 bedroom']	0.0963990099525
+['unit', '450 dollar respectively']	['360 dollar']	0.26976821779
+['unit', '450 dollar respectively']	['bedroom']	0.716468314771
+['unit', '450 dollar respectively']	['2 bedroom']	0.0853503113006
+['unit', '450 dollar respectively']	['4950 dollar']	0.26976821779
+['unit', '450 dollar respectively']	['2 bedroom unit']	0.674162552915
+['4950 dollar', '450 dollar respectively']	['12 unit']	0.15961386663
+['4950 dollar', '450 dollar respectively']	['1 bedroom']	0.15961386663
+['4950 dollar', '450 dollar respectively']	['360 dollar']	0.653642048458
+['4950 dollar', '450 dollar respectively']	['bedroom']	0.148807562081
+['4950 dollar', '450 dollar respectively']	['2 bedroom']	0.158859549493
+['4950 dollar', '450 dollar respectively']	['unit']	0.406036944459
+['4950 dollar', '450 dollar respectively']	['2 bedroom unit']	0.161708668161
+['2 bedroom unit', '450 dollar respectively']	['12 unit']	0.636174109686
+['2 bedroom unit', '450 dollar respectively']	['1 bedroom']	0.387709641536
+['2 bedroom unit', '450 dollar respectively']	['360 dollar']	0.0988755105172
+['2 bedroom unit', '450 dollar respectively']	['bedroom']	0.339585228963
+['2 bedroom unit', '450 dollar respectively']	['2 bedroom']	0.426915308101
+['2 bedroom unit', '450 dollar respectively']	['unit']	0.634561924046
+['2 bedroom unit', '450 dollar respectively']	['4950 dollar']	0.0988755105172
+['12 unit', 'unit']	['1 bedroom']	0.336950901833
+['12 unit', 'unit']	['360 dollar']	0.538157023505
+['12 unit', 'unit']	['bedroom']	0.882545076239
+['12 unit', 'unit']	['2 bedroom']	0.308758494235
+['12 unit', 'unit']	['450 dollar respectively']	0.362353205852
+['12 unit', 'unit']	['4950 dollar']	0.538157023505
+['12 unit', 'unit']	['2 bedroom unit']	0.74577458318
+['1 bedroom', 'unit']	['12 unit']	0.741056877627
+['1 bedroom', 'unit']	['360 dollar']	0.286330613519
+['1 bedroom', 'unit']	['bedroom']	0.912853693822
+['1 bedroom', 'unit']	['2 bedroom']	0.73594266714
+['1 bedroom', 'unit']	['450 dollar respectively']	0.0807707659053
+['1 bedroom', 'unit']	['4950 dollar']	0.286330613519
+['1 bedroom', 'unit']	['2 bedroom unit']	0.700984315372
+['360 dollar', 'unit']	['12 unit']	0.690162874317
+['360 dollar', 'unit']	['1 bedroom']	0.0939298741501
+['360 dollar', 'unit']	['bedroom']	0.724586098546
+['360 dollar', 'unit']	['2 bedroom']	0.0951680355449
+['360 dollar', 'unit']	['450 dollar respectively']	0.0807707659053
+['360 dollar', 'unit']	['4950 dollar']	0.721650559666
+['360 dollar', 'unit']	['2 bedroom unit']	0.697783840387
+['bedroom', 'unit']	['12 unit']	0.702098759348
+['bedroom', 'unit']	['1 bedroom']	0.846706024208
+['bedroom', 'unit']	['360 dollar']	0.312256539445
+['bedroom', 'unit']	['2 bedroom']	0.851750364013
+['bedroom', 'unit']	['450 dollar respectively']	0.142848613587
+['bedroom', 'unit']	['4950 dollar']	0.312256539445
+['bedroom', 'unit']	['2 bedroom unit']	0.698789622409
+['2 bedroom', 'unit']	['12 unit']	0.741056877627
+['2 bedroom', 'unit']	['1 bedroom']	0.778917897365
+['2 bedroom', 'unit']	['360 dollar']	0.312256539445
+['2 bedroom', 'unit']	['bedroom']	0.912853693822
+['2 bedroom', 'unit']	['450 dollar respectively']	0.142848613587
+['2 bedroom', 'unit']	['4950 dollar']	0.312256539445
+['2 bedroom', 'unit']	['2 bedroom unit']	0.714182107038
+['450 dollar respectively', 'unit']	['12 unit']	0.708328881886
+['450 dollar respectively', 'unit']	['1 bedroom']	0.0963990099525
+['450 dollar respectively', 'unit']	['360 dollar']	0.26976821779
+['450 dollar respectively', 'unit']	['bedroom']	0.716468314771
+['450 dollar respectively', 'unit']	['2 bedroom']	0.0853503113006
+['450 dollar respectively', 'unit']	['4950 dollar']	0.26976821779
+['450 dollar respectively', 'unit']	['2 bedroom unit']	0.674162552915
+['4950 dollar', 'unit']	['12 unit']	0.690162874317
+['4950 dollar', 'unit']	['1 bedroom']	0.0939298741501
+['4950 dollar', 'unit']	['360 dollar']	0.721650559666
+['4950 dollar', 'unit']	['bedroom']	0.724586098546
+['4950 dollar', 'unit']	['2 bedroom']	0.0951680355449
+['4950 dollar', 'unit']	['450 dollar respectively']	0.0807707659053
+['4950 dollar', 'unit']	['2 bedroom unit']	0.697783840387
+['2 bedroom unit', 'unit']	['12 unit']	0.77067896388
+['2 bedroom unit', 'unit']	['1 bedroom']	0.660942115117
+['2 bedroom unit', 'unit']	['360 dollar']	0.519125491974
+['2 bedroom unit', 'unit']	['bedroom']	0.728127649325
+['2 bedroom unit', 'unit']	['2 bedroom']	0.582228584071
+['2 bedroom unit', 'unit']	['450 dollar respectively']	0.339447680005
+['2 bedroom unit', 'unit']	['4950 dollar']	0.519125491974
+['12 unit', '4950 dollar']	['1 bedroom']	0.126675736021
+['12 unit', '4950 dollar']	['360 dollar']	0.584269096576
+['12 unit', '4950 dollar']	['bedroom']	0.0966764293888
+['12 unit', '4950 dollar']	['2 bedroom']	0.107003435941
+['12 unit', '4950 dollar']	['450 dollar respectively']	0.0941266761548
+['12 unit', '4950 dollar']	['unit']	0.705201757479
+['12 unit', '4950 dollar']	['2 bedroom unit']	0.669866445221
+['1 bedroom', '4950 dollar']	['12 unit']	0.126675736021
+['1 bedroom', '4950 dollar']	['360 dollar']	0.584269096576
+['1 bedroom', '4950 dollar']	['bedroom']	0.669237230387
+['1 bedroom', '4950 dollar']	['2 bedroom']	0.747901896166
+['1 bedroom', '4950 dollar']	['450 dollar respectively']	0.0941266761548
+['1 bedroom', '4950 dollar']	['unit']	0.33499464404
+['1 bedroom', '4950 dollar']	['2 bedroom unit']	0.335677399021
+['360 dollar', '4950 dollar']	['12 unit']	0.139258682248
+['360 dollar', '4950 dollar']	['1 bedroom']	0.139258682248
+['360 dollar', '4950 dollar']	['bedroom']	0.33665242287
+['360 dollar', '4950 dollar']	['2 bedroom']	0.14699641653
+['360 dollar', '4950 dollar']	['450 dollar respectively']	0.297805101442
+['360 dollar', '4950 dollar']	['unit']	0.639404353946
+['360 dollar', '4950 dollar']	['2 bedroom unit']	0.297805101442
+['bedroom', '4950 dollar']	['12 unit']	0.0939298741501
+['bedroom', '4950 dollar']	['1 bedroom']	0.706097804469
+['bedroom', '4950 dollar']	['360 dollar']	0.525944474896
+['bedroom', '4950 dollar']	['2 bedroom']	0.621918301606
+['bedroom', '4950 dollar']	['450 dollar respectively']	0.0807707659053
+['bedroom', '4950 dollar']	['unit']	0.838758341262
+['bedroom', '4950 dollar']	['2 bedroom unit']	0.248738673592
+['2 bedroom', '4950 dollar']	['12 unit']	0.105691884463
+['2 bedroom', '4950 dollar']	['1 bedroom']	0.73028733598
+['2 bedroom', '4950 dollar']	['360 dollar']	0.544221442934
+['2 bedroom', '4950 dollar']	['bedroom']	0.619031499573
+['2 bedroom', '4950 dollar']	['450 dollar respectively']	0.0828188087803
+['2 bedroom', '4950 dollar']	['unit']	0.261631001489
+['2 bedroom', '4950 dollar']	['2 bedroom unit']	0.456253030721
+['450 dollar respectively', '4950 dollar']	['12 unit']	0.15961386663
+['450 dollar respectively', '4950 dollar']	['1 bedroom']	0.15961386663
+['450 dollar respectively', '4950 dollar']	['360 dollar']	0.653642048458
+['450 dollar respectively', '4950 dollar']	['bedroom']	0.148807562081
+['450 dollar respectively', '4950 dollar']	['2 bedroom']	0.158859549493
+['450 dollar respectively', '4950 dollar']	['unit']	0.406036944459
+['450 dollar respectively', '4950 dollar']	['2 bedroom unit']	0.161708668161
+['unit', '4950 dollar']	['12 unit']	0.690162874317
+['unit', '4950 dollar']	['1 bedroom']	0.0939298741501
+['unit', '4950 dollar']	['360 dollar']	0.721650559666
+['unit', '4950 dollar']	['bedroom']	0.724586098546
+['unit', '4950 dollar']	['2 bedroom']	0.0951680355449
+['unit', '4950 dollar']	['450 dollar respectively']	0.0807707659053
+['unit', '4950 dollar']	['2 bedroom unit']	0.697783840387
+['2 bedroom unit', '4950 dollar']	['12 unit']	0.658859294871
+['2 bedroom unit', '4950 dollar']	['1 bedroom']	0.453327242541
+['2 bedroom unit', '4950 dollar']	['360 dollar']	0.653642048458
+['2 bedroom unit', '4950 dollar']	['bedroom']	0.302961297339
+['2 bedroom unit', '4950 dollar']	['2 bedroom']	0.486385005071
+['2 bedroom unit', '4950 dollar']	['450 dollar respectively']	0.161708668161
+['2 bedroom unit', '4950 dollar']	['unit']	0.765073108978
+['12 unit', '2 bedroom unit']	['1 bedroom']	0.765304240519
+['12 unit', '2 bedroom unit']	['360 dollar']	0.188690699416
+['12 unit', '2 bedroom unit']	['bedroom']	0.538242058376
+['12 unit', '2 bedroom unit']	['2 bedroom']	0.532162351132
+['12 unit', '2 bedroom unit']	['450 dollar respectively']	0.355412406141
+['12 unit', '2 bedroom unit']	['unit']	0.795127960355
+['12 unit', '2 bedroom unit']	['4950 dollar']	0.188690699416
+['1 bedroom', '2 bedroom unit']	['12 unit']	0.743380388481
+['1 bedroom', '2 bedroom unit']	['360 dollar']	0.15961386663
+['1 bedroom', '2 bedroom unit']	['bedroom']	0.877133847094
+['1 bedroom', '2 bedroom unit']	['2 bedroom']	0.785726658851
+['1 bedroom', '2 bedroom unit']	['450 dollar respectively']	0.161708668161
+['1 bedroom', '2 bedroom unit']	['unit']	0.711350034475
+['1 bedroom', '2 bedroom unit']	['4950 dollar']	0.15961386663
+['360 dollar', '2 bedroom unit']	['12 unit']	0.658859294871
+['360 dollar', '2 bedroom unit']	['1 bedroom']	0.453327242541
+['360 dollar', '2 bedroom unit']	['bedroom']	0.302961297339
+['360 dollar', '2 bedroom unit']	['2 bedroom']	0.486385005071
+['360 dollar', '2 bedroom unit']	['450 dollar respectively']	0.161708668161
+['360 dollar', '2 bedroom unit']	['unit']	0.765073108978
+['360 dollar', '2 bedroom unit']	['4950 dollar']	0.653642048458
+['bedroom', '2 bedroom unit']	['12 unit']	0.516278806228
+['bedroom', '2 bedroom unit']	['1 bedroom']	0.904645245573
+['bedroom', '2 bedroom unit']	['360 dollar']	0.0696933362217
+['bedroom', '2 bedroom unit']	['2 bedroom']	0.900022805104
+['bedroom', '2 bedroom unit']	['450 dollar respectively']	0.0828188087803
+['bedroom', '2 bedroom unit']	['unit']	0.764868017937
+['bedroom', '2 bedroom unit']	['4950 dollar']	0.0696933362217
+['2 bedroom', '2 bedroom unit']	['12 unit']	0.645980418557
+['2 bedroom', '2 bedroom unit']	['1 bedroom']	0.858245500007
+['2 bedroom', '2 bedroom unit']	['360 dollar']	0.128877148308
+['2 bedroom', '2 bedroom unit']	['bedroom']	0.883388454972
+['2 bedroom', '2 bedroom unit']	['450 dollar respectively']	0.139124709385
+['2 bedroom', '2 bedroom unit']	['unit']	0.663070877722
+['2 bedroom', '2 bedroom unit']	['4950 dollar']	0.128877148308
+['450 dollar respectively', '2 bedroom unit']	['12 unit']	0.636174109686
+['450 dollar respectively', '2 bedroom unit']	['1 bedroom']	0.387709641536
+['450 dollar respectively', '2 bedroom unit']	['360 dollar']	0.0988755105172
+['450 dollar respectively', '2 bedroom unit']	['bedroom']	0.339585228963
+['450 dollar respectively', '2 bedroom unit']	['2 bedroom']	0.426915308101
+['450 dollar respectively', '2 bedroom unit']	['unit']	0.634561924046
+['450 dollar respectively', '2 bedroom unit']	['4950 dollar']	0.0988755105172
+['unit', '2 bedroom unit']	['12 unit']	0.77067896388
+['unit', '2 bedroom unit']	['1 bedroom']	0.660942115117
+['unit', '2 bedroom unit']	['360 dollar']	0.519125491974
+['unit', '2 bedroom unit']	['bedroom']	0.728127649325
+['unit', '2 bedroom unit']	['2 bedroom']	0.582228584071
+['unit', '2 bedroom unit']	['450 dollar respectively']	0.339447680005
+['unit', '2 bedroom unit']	['4950 dollar']	0.519125491974
+['4950 dollar', '2 bedroom unit']	['12 unit']	0.658859294871
+['4950 dollar', '2 bedroom unit']	['1 bedroom']	0.453327242541
+['4950 dollar', '2 bedroom unit']	['360 dollar']	0.653642048458
+['4950 dollar', '2 bedroom unit']	['bedroom']	0.302961297339
+['4950 dollar', '2 bedroom unit']	['2 bedroom']	0.486385005071
+['4950 dollar', '2 bedroom unit']	['450 dollar respectively']	0.161708668161
+['4950 dollar', '2 bedroom unit']	['unit']	0.765073108978

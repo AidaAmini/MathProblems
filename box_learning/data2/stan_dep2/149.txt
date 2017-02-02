@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN total))
+      (PP (IN of) (NP (CD 10,000) (NNS dollars))))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN invested)
+        (PP
+          (IN in)
+          (NP
+            (NP (CD 2) (NNS funds))
+            (VP
+              (VBG paying)
+              (NP
+                (NP (CD 5) (NN %))
+                (CC and)
+                (NP (ADJP (CD 7) (NN %)) (JJ annual) (NN interest))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ combined) (JJ annual) (NN interest))
+    (VP (VBZ is) (NP (QP (CD 630) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WRB How) (RB much))
+      (PP (IN of) (NP (DT the) (CD 10,000) (NNS dollars))))
+    (SQ (VBZ is) (VP (VBN invested) (PP (IN at) (NP (CD 5) (NN %)))))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHNP (WRB How) (RB much))
+    (PP (IN at) (NP (CD 7) (NN %)))
+    (. ?)))

@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (PP (IN On) (NP (DT a) (NN college) (NN entrance) (NN exam)))
+    (PRN
+      (, ,)
+      (S
+        (NP (DT each) (JJ correct) (NN answer))
+        (VP
+          (VBZ adds)
+          (NP
+            (NP (CD 1) (NN point))
+            (PP (TO to) (NP (PRP$ your) (JJ raw) (NN score))))))
+      (, ,))
+    (NP (DT each) (JJ unanswered) (NN question))
+    (VP
+      (VBZ adds)
+      (SBAR
+        (S
+          (NP
+            (NP (NN nothing))
+            (CC and)
+            (NP (DT each) (JJ incorrect) (NN answer)))
+          (VP (VBZ subtracts) (NP (CD 0.25) (NN point))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP answer)
+      (PP
+        (ADVP (NP (CD 82)) (IN out))
+        (IN of)
+        (NP
+          (NP (CD 85) (NNS questions))
+          (PP
+            (IN for)
+            (NP
+              (NP (DT a) (JJ raw) (NN score))
+              (PP (IN of) (NP (CD 67))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS questions))
+    (SQ
+      (VBD did)
+      (NP (PRP you))
+      (VP (VB answer) (ADVP (RB correctly))))
+    (. ?)))

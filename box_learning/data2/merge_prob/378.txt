@@ -1,0 +1,229 @@
+['2 snail', '264 centimeter', 'centimeter', '6 centimeter', 'minute', '22 minute', 'snail crawl']
+['2 snail']	['264 centimeter']	0.0901100077042
+['2 snail']	['centimeter']	0.0179192712897
+['2 snail']	['6 centimeter']	0.387929093691
+['2 snail']	['minute']	0.0101131233914
+['2 snail']	['22 minute']	0.125971854627
+['2 snail']	['snail crawl']	0.0827346205535
+['264 centimeter']	['6 centimeter']	0.643440930505
+['264 centimeter']	['minute']	0.00424649792755
+['264 centimeter']	['22 minute']	0.0901100077042
+['264 centimeter']	['snail crawl']	0.0901100077042
+['centimeter']	['minute']	0.0061631295492
+['centimeter']	['22 minute']	0.0169296460429
+['centimeter']	['snail crawl']	0.0160076877108
+['6 centimeter']	['minute']	0.00424649792755
+['6 centimeter']	['22 minute']	0.125971854627
+['6 centimeter']	['snail crawl']	0.0827346205535
+['minute']	['snail crawl']	0.00541936461674
+['22 minute']	['snail crawl']	0.0827346205535
+['264 centimeter', '2 snail']	['centimeter']	0.282617373335
+['264 centimeter', '2 snail']	['6 centimeter']	0.754360422532
+['264 centimeter', '2 snail']	['minute']	0.00424649792755
+['264 centimeter', '2 snail']	['22 minute']	0.126675736021
+['264 centimeter', '2 snail']	['snail crawl']	0.0827346205535
+['centimeter', '2 snail']	['264 centimeter']	0.389606282256
+['centimeter', '2 snail']	['6 centimeter']	0.598401148738
+['centimeter', '2 snail']	['minute']	0.17442571796
+['centimeter', '2 snail']	['22 minute']	0.0720432904904
+['centimeter', '2 snail']	['snail crawl']	0.0361569291624
+['6 centimeter', '2 snail']	['264 centimeter']	0.584269096576
+['6 centimeter', '2 snail']	['centimeter']	0.344442191904
+['6 centimeter', '2 snail']	['minute']	0.00424649792755
+['6 centimeter', '2 snail']	['22 minute']	0.23079127262
+['6 centimeter', '2 snail']	['snail crawl']	0.0827346205535
+['minute', '2 snail']	['264 centimeter']	0.0154105889865
+['minute', '2 snail']	['centimeter']	0.17442571796
+['minute', '2 snail']	['6 centimeter']	0.262356832099
+['minute', '2 snail']	['22 minute']	0.33258002692
+['minute', '2 snail']	['snail crawl']	0.0165341599722
+['22 minute', '2 snail']	['264 centimeter']	0.0901100077042
+['22 minute', '2 snail']	['centimeter']	0.0132263547461
+['22 minute', '2 snail']	['6 centimeter']	0.423364656264
+['22 minute', '2 snail']	['minute']	0.205067872178
+['22 minute', '2 snail']	['snail crawl']	0.0827346205535
+['snail crawl', '2 snail']	['264 centimeter']	0.0901100077042
+['snail crawl', '2 snail']	['centimeter']	0.0179192712897
+['snail crawl', '2 snail']	['6 centimeter']	0.362256416006
+['snail crawl', '2 snail']	['minute']	0.0101131233914
+['snail crawl', '2 snail']	['22 minute']	0.126675736021
+['2 snail', '264 centimeter']	['centimeter']	0.282617373335
+['2 snail', '264 centimeter']	['6 centimeter']	0.754360422532
+['2 snail', '264 centimeter']	['minute']	0.00424649792755
+['2 snail', '264 centimeter']	['22 minute']	0.126675736021
+['2 snail', '264 centimeter']	['snail crawl']	0.0827346205535
+['centimeter', '264 centimeter']	['2 snail']	0.0983176385786
+['centimeter', '264 centimeter']	['6 centimeter']	0.672363980148
+['centimeter', '264 centimeter']	['minute']	0.349746230781
+['centimeter', '264 centimeter']	['22 minute']	0.163688079698
+['centimeter', '264 centimeter']	['snail crawl']	0.0968024870635
+['6 centimeter', '264 centimeter']	['2 snail']	0.59564157713
+['6 centimeter', '264 centimeter']	['centimeter']	0.703670691257
+['6 centimeter', '264 centimeter']	['minute']	0.156901862603
+['6 centimeter', '264 centimeter']	['22 minute']	0.264907405557
+['6 centimeter', '264 centimeter']	['snail crawl']	0.14589133531
+['minute', '264 centimeter']	['2 snail']	0.0165341599722
+['minute', '264 centimeter']	['centimeter']	0.469672716975
+['minute', '264 centimeter']	['6 centimeter']	0.0852471420558
+['minute', '264 centimeter']	['22 minute']	0.321774377989
+['minute', '264 centimeter']	['snail crawl']	0.0165341599722
+['22 minute', '264 centimeter']	['2 snail']	0.126675736021
+['22 minute', '264 centimeter']	['centimeter']	0.436821044348
+['22 minute', '264 centimeter']	['6 centimeter']	0.604308352538
+['22 minute', '264 centimeter']	['minute']	0.24252941472
+['22 minute', '264 centimeter']	['snail crawl']	0.0827346205535
+['snail crawl', '264 centimeter']	['2 snail']	0.0901100077042
+['snail crawl', '264 centimeter']	['centimeter']	0.282617373335
+['snail crawl', '264 centimeter']	['6 centimeter']	0.584269096576
+['snail crawl', '264 centimeter']	['minute']	0.00424649792755
+['snail crawl', '264 centimeter']	['22 minute']	0.0901100077042
+['2 snail', 'centimeter']	['264 centimeter']	0.389606282256
+['2 snail', 'centimeter']	['6 centimeter']	0.598401148738
+['2 snail', 'centimeter']	['minute']	0.17442571796
+['2 snail', 'centimeter']	['22 minute']	0.0720432904904
+['2 snail', 'centimeter']	['snail crawl']	0.0361569291624
+['264 centimeter', 'centimeter']	['2 snail']	0.0983176385786
+['264 centimeter', 'centimeter']	['6 centimeter']	0.672363980148
+['264 centimeter', 'centimeter']	['minute']	0.349746230781
+['264 centimeter', 'centimeter']	['22 minute']	0.163688079698
+['264 centimeter', 'centimeter']	['snail crawl']	0.0968024870635
+['6 centimeter', 'centimeter']	['2 snail']	0.401786962105
+['6 centimeter', 'centimeter']	['264 centimeter']	0.617714178874
+['6 centimeter', 'centimeter']	['minute']	0.349746230781
+['6 centimeter', 'centimeter']	['22 minute']	0.229824622331
+['6 centimeter', 'centimeter']	['snail crawl']	0.0968024870635
+['minute', 'centimeter']	['2 snail']	0.0713303637771
+['minute', 'centimeter']	['264 centimeter']	0.305601872214
+['minute', 'centimeter']	['6 centimeter']	0.326361734695
+['minute', 'centimeter']	['22 minute']	0.289302612274
+['minute', 'centimeter']	['snail crawl']	0.0713303637771
+['22 minute', 'centimeter']	['2 snail']	0.0618737183104
+['22 minute', 'centimeter']	['264 centimeter']	0.389606282256
+['22 minute', 'centimeter']	['6 centimeter']	0.570628932896
+['22 minute', 'centimeter']	['minute']	0.539577409057
+['22 minute', 'centimeter']	['snail crawl']	0.0361569291624
+['snail crawl', 'centimeter']	['2 snail']	0.0376720806775
+['snail crawl', 'centimeter']	['264 centimeter']	0.389606282256
+['snail crawl', 'centimeter']	['6 centimeter']	0.397268490074
+['snail crawl', 'centimeter']	['minute']	0.17442571796
+['snail crawl', 'centimeter']	['22 minute']	0.0405563477927
+['2 snail', '6 centimeter']	['264 centimeter']	0.584269096576
+['2 snail', '6 centimeter']	['centimeter']	0.344442191904
+['2 snail', '6 centimeter']	['minute']	0.00424649792755
+['2 snail', '6 centimeter']	['22 minute']	0.23079127262
+['2 snail', '6 centimeter']	['snail crawl']	0.0827346205535
+['264 centimeter', '6 centimeter']	['2 snail']	0.59564157713
+['264 centimeter', '6 centimeter']	['centimeter']	0.703670691257
+['264 centimeter', '6 centimeter']	['minute']	0.156901862603
+['264 centimeter', '6 centimeter']	['22 minute']	0.264907405557
+['264 centimeter', '6 centimeter']	['snail crawl']	0.14589133531
+['centimeter', '6 centimeter']	['2 snail']	0.401786962105
+['centimeter', '6 centimeter']	['264 centimeter']	0.617714178874
+['centimeter', '6 centimeter']	['minute']	0.349746230781
+['centimeter', '6 centimeter']	['22 minute']	0.229824622331
+['centimeter', '6 centimeter']	['snail crawl']	0.0968024870635
+['minute', '6 centimeter']	['2 snail']	0.201291599397
+['minute', '6 centimeter']	['264 centimeter']	0.0852471420558
+['minute', '6 centimeter']	['centimeter']	0.505058502039
+['minute', '6 centimeter']	['22 minute']	0.33258002692
+['minute', '6 centimeter']	['snail crawl']	0.0165341599722
+['22 minute', '6 centimeter']	['2 snail']	0.423364656264
+['22 minute', '6 centimeter']	['264 centimeter']	0.584269096576
+['22 minute', '6 centimeter']	['centimeter']	0.49182029566
+['22 minute', '6 centimeter']	['minute']	0.24252941472
+['22 minute', '6 centimeter']	['snail crawl']	0.0827346205535
+['snail crawl', '6 centimeter']	['2 snail']	0.362256416006
+['snail crawl', '6 centimeter']	['264 centimeter']	0.584269096576
+['snail crawl', '6 centimeter']	['centimeter']	0.344442191904
+['snail crawl', '6 centimeter']	['minute']	0.00424649792755
+['snail crawl', '6 centimeter']	['22 minute']	0.126675736021
+['2 snail', 'minute']	['264 centimeter']	0.0154105889865
+['2 snail', 'minute']	['centimeter']	0.17442571796
+['2 snail', 'minute']	['6 centimeter']	0.262356832099
+['2 snail', 'minute']	['22 minute']	0.33258002692
+['2 snail', 'minute']	['snail crawl']	0.0165341599722
+['264 centimeter', 'minute']	['2 snail']	0.0165341599722
+['264 centimeter', 'minute']	['centimeter']	0.469672716975
+['264 centimeter', 'minute']	['6 centimeter']	0.0852471420558
+['264 centimeter', 'minute']	['22 minute']	0.321774377989
+['264 centimeter', 'minute']	['snail crawl']	0.0165341599722
+['centimeter', 'minute']	['2 snail']	0.0713303637771
+['centimeter', 'minute']	['264 centimeter']	0.305601872214
+['centimeter', 'minute']	['6 centimeter']	0.326361734695
+['centimeter', 'minute']	['22 minute']	0.289302612274
+['centimeter', 'minute']	['snail crawl']	0.0713303637771
+['6 centimeter', 'minute']	['2 snail']	0.201291599397
+['6 centimeter', 'minute']	['264 centimeter']	0.0852471420558
+['6 centimeter', 'minute']	['centimeter']	0.505058502039
+['6 centimeter', 'minute']	['22 minute']	0.33258002692
+['6 centimeter', 'minute']	['snail crawl']	0.0165341599722
+['22 minute', 'minute']	['2 snail']	0.0941785737715
+['22 minute', 'minute']	['264 centimeter']	0.106914960192
+['22 minute', 'minute']	['centimeter']	0.349746230781
+['22 minute', 'minute']	['6 centimeter']	0.13923307048
+['22 minute', 'minute']	['snail crawl']	0.0798131677782
+['snail crawl', 'minute']	['2 snail']	0.0165341599722
+['snail crawl', 'minute']	['264 centimeter']	0.0154105889865
+['snail crawl', 'minute']	['centimeter']	0.17442571796
+['snail crawl', 'minute']	['6 centimeter']	0.0154105889865
+['snail crawl', 'minute']	['22 minute']	0.321774377989
+['2 snail', '22 minute']	['264 centimeter']	0.0901100077042
+['2 snail', '22 minute']	['centimeter']	0.0132263547461
+['2 snail', '22 minute']	['6 centimeter']	0.423364656264
+['2 snail', '22 minute']	['minute']	0.205067872178
+['2 snail', '22 minute']	['snail crawl']	0.0827346205535
+['264 centimeter', '22 minute']	['2 snail']	0.126675736021
+['264 centimeter', '22 minute']	['centimeter']	0.436821044348
+['264 centimeter', '22 minute']	['6 centimeter']	0.604308352538
+['264 centimeter', '22 minute']	['minute']	0.24252941472
+['264 centimeter', '22 minute']	['snail crawl']	0.0827346205535
+['centimeter', '22 minute']	['2 snail']	0.0618737183104
+['centimeter', '22 minute']	['264 centimeter']	0.389606282256
+['centimeter', '22 minute']	['6 centimeter']	0.570628932896
+['centimeter', '22 minute']	['minute']	0.539577409057
+['centimeter', '22 minute']	['snail crawl']	0.0361569291624
+['6 centimeter', '22 minute']	['2 snail']	0.423364656264
+['6 centimeter', '22 minute']	['264 centimeter']	0.584269096576
+['6 centimeter', '22 minute']	['centimeter']	0.49182029566
+['6 centimeter', '22 minute']	['minute']	0.24252941472
+['6 centimeter', '22 minute']	['snail crawl']	0.0827346205535
+['minute', '22 minute']	['2 snail']	0.0941785737715
+['minute', '22 minute']	['264 centimeter']	0.106914960192
+['minute', '22 minute']	['centimeter']	0.349746230781
+['minute', '22 minute']	['6 centimeter']	0.13923307048
+['minute', '22 minute']	['snail crawl']	0.0798131677782
+['snail crawl', '22 minute']	['2 snail']	0.126675736021
+['snail crawl', '22 minute']	['264 centimeter']	0.0901100077042
+['snail crawl', '22 minute']	['centimeter']	0.0132263547461
+['snail crawl', '22 minute']	['6 centimeter']	0.126675736021
+['snail crawl', '22 minute']	['minute']	0.205067872178
+['2 snail', 'snail crawl']	['264 centimeter']	0.0901100077042
+['2 snail', 'snail crawl']	['centimeter']	0.0179192712897
+['2 snail', 'snail crawl']	['6 centimeter']	0.362256416006
+['2 snail', 'snail crawl']	['minute']	0.0101131233914
+['2 snail', 'snail crawl']	['22 minute']	0.126675736021
+['264 centimeter', 'snail crawl']	['2 snail']	0.0901100077042
+['264 centimeter', 'snail crawl']	['centimeter']	0.282617373335
+['264 centimeter', 'snail crawl']	['6 centimeter']	0.584269096576
+['264 centimeter', 'snail crawl']	['minute']	0.00424649792755
+['264 centimeter', 'snail crawl']	['22 minute']	0.0901100077042
+['centimeter', 'snail crawl']	['2 snail']	0.0376720806775
+['centimeter', 'snail crawl']	['264 centimeter']	0.389606282256
+['centimeter', 'snail crawl']	['6 centimeter']	0.397268490074
+['centimeter', 'snail crawl']	['minute']	0.17442571796
+['centimeter', 'snail crawl']	['22 minute']	0.0405563477927
+['6 centimeter', 'snail crawl']	['2 snail']	0.362256416006
+['6 centimeter', 'snail crawl']	['264 centimeter']	0.584269096576
+['6 centimeter', 'snail crawl']	['centimeter']	0.344442191904
+['6 centimeter', 'snail crawl']	['minute']	0.00424649792755
+['6 centimeter', 'snail crawl']	['22 minute']	0.126675736021
+['minute', 'snail crawl']	['2 snail']	0.0165341599722
+['minute', 'snail crawl']	['264 centimeter']	0.0154105889865
+['minute', 'snail crawl']	['centimeter']	0.17442571796
+['minute', 'snail crawl']	['6 centimeter']	0.0154105889865
+['minute', 'snail crawl']	['22 minute']	0.321774377989
+['22 minute', 'snail crawl']	['2 snail']	0.126675736021
+['22 minute', 'snail crawl']	['264 centimeter']	0.0901100077042
+['22 minute', 'snail crawl']	['centimeter']	0.0132263547461
+['22 minute', 'snail crawl']	['6 centimeter']	0.126675736021
+['22 minute', 'snail crawl']	['minute']	0.205067872178

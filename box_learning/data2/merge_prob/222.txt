@@ -1,0 +1,761 @@
+['employment agency', 'temporary help', 'help', 'heavy operator', 'operator', '129 dollar', 'dollar', '82 dollar', '31 people', '3952 dollar']
+['employment agency']	['temporary help']	0.0827346205535
+['employment agency']	['help']	0.150291470448
+['employment agency']	['heavy operator']	0.0949787104336
+['employment agency']	['operator']	0.0741073489195
+['employment agency']	['129 dollar']	0.0901100077042
+['employment agency']	['dollar']	0.0143499502517
+['employment agency']	['82 dollar']	0.0901100077042
+['employment agency']	['31 people']	0.0901100077042
+['employment agency']	['3952 dollar']	0.0901100077042
+['temporary help']	['heavy operator']	0.079704095659
+['temporary help']	['operator']	0.100696756518
+['temporary help']	['129 dollar']	0.0901100077042
+['temporary help']	['dollar']	0.0179192712897
+['temporary help']	['82 dollar']	0.0901100077042
+['temporary help']	['31 people']	0.0901100077042
+['temporary help']	['3952 dollar']	0.0901100077042
+['help']	['heavy operator']	0.10834475445
+['help']	['operator']	0.108745508027
+['help']	['129 dollar']	0.0901100077042
+['help']	['dollar']	0.0284860458609
+['help']	['82 dollar']	0.0901100077042
+['help']	['31 people']	0.0901100077042
+['help']	['3952 dollar']	0.0901100077042
+['heavy operator']	['129 dollar']	0.0737139440912
+['heavy operator']	['dollar']	0.0106028278734
+['heavy operator']	['82 dollar']	0.0737139440912
+['heavy operator']	['31 people']	0.0737139440912
+['heavy operator']	['3952 dollar']	0.0737139440912
+['operator']	['129 dollar']	0.0683122427071
+['operator']	['dollar']	0.019946167238
+['operator']	['82 dollar']	0.0683122427071
+['operator']	['31 people']	0.0669904799604
+['operator']	['3952 dollar']	0.0683122427071
+['129 dollar']	['82 dollar']	0.643440930505
+['129 dollar']	['31 people']	0.0901100077042
+['129 dollar']	['3952 dollar']	0.643440930505
+['dollar']	['31 people']	0.0160749451882
+['82 dollar']	['31 people']	0.0901100077042
+['82 dollar']	['3952 dollar']	0.643440930505
+['31 people']	['3952 dollar']	0.0901100077042
+['temporary help', 'employment agency']	['help']	0.677902243966
+['temporary help', 'employment agency']	['heavy operator']	0.101900148632
+['temporary help', 'employment agency']	['operator']	0.10397274702
+['temporary help', 'employment agency']	['129 dollar']	0.0901100077042
+['temporary help', 'employment agency']	['dollar']	0.0132263547461
+['temporary help', 'employment agency']	['82 dollar']	0.0901100077042
+['temporary help', 'employment agency']	['31 people']	0.0901100077042
+['temporary help', 'employment agency']	['3952 dollar']	0.0901100077042
+['help', 'employment agency']	['temporary help']	0.71455110167
+['help', 'employment agency']	['heavy operator']	0.111620744952
+['help', 'employment agency']	['operator']	0.21729612781
+['help', 'employment agency']	['129 dollar']	0.0901100077042
+['help', 'employment agency']	['dollar']	0.353943167192
+['help', 'employment agency']	['82 dollar']	0.0901100077042
+['help', 'employment agency']	['31 people']	0.0901100077042
+['help', 'employment agency']	['3952 dollar']	0.0901100077042
+['heavy operator', 'employment agency']	['temporary help']	0.0669904799604
+['heavy operator', 'employment agency']	['help']	0.110924800253
+['heavy operator', 'employment agency']	['operator']	0.653079692956
+['heavy operator', 'employment agency']	['129 dollar']	0.0737139440912
+['heavy operator', 'employment agency']	['dollar']	0.011726423379
+['heavy operator', 'employment agency']	['82 dollar']	0.0737139440912
+['heavy operator', 'employment agency']	['31 people']	0.0737139440912
+['heavy operator', 'employment agency']	['3952 dollar']	0.0737139440912
+['operator', 'employment agency']	['temporary help']	0.117488318928
+['operator', 'employment agency']	['help']	0.208785758549
+['operator', 'employment agency']	['heavy operator']	0.757523248332
+['operator', 'employment agency']	['129 dollar']	0.0696933362217
+['operator', 'employment agency']	['dollar']	0.234516109247
+['operator', 'employment agency']	['82 dollar']	0.0696933362217
+['operator', 'employment agency']	['31 people']	0.0703393045902
+['operator', 'employment agency']	['3952 dollar']	0.0696933362217
+['129 dollar', 'employment agency']	['temporary help']	0.0827346205535
+['129 dollar', 'employment agency']	['help']	0.177092701503
+['129 dollar', 'employment agency']	['heavy operator']	0.0977105614305
+['129 dollar', 'employment agency']	['operator']	0.0741073489195
+['129 dollar', 'employment agency']	['dollar']	0.384528877052
+['129 dollar', 'employment agency']	['82 dollar']	0.584269096576
+['129 dollar', 'employment agency']	['31 people']	0.0901100077042
+['129 dollar', 'employment agency']	['3952 dollar']	0.584269096576
+['dollar', 'employment agency']	['temporary help']	0.0361569291624
+['dollar', 'employment agency']	['help']	0.59872510861
+['dollar', 'employment agency']	['heavy operator']	0.0603577137674
+['dollar', 'employment agency']	['operator']	0.284933522181
+['dollar', 'employment agency']	['129 dollar']	0.365401430504
+['dollar', 'employment agency']	['82 dollar']	0.391516700063
+['dollar', 'employment agency']	['31 people']	0.0368028975308
+['dollar', 'employment agency']	['3952 dollar']	0.442012633359
+['82 dollar', 'employment agency']	['temporary help']	0.0827346205535
+['82 dollar', 'employment agency']	['help']	0.177092701503
+['82 dollar', 'employment agency']	['heavy operator']	0.0977105614305
+['82 dollar', 'employment agency']	['operator']	0.0741073489195
+['82 dollar', 'employment agency']	['129 dollar']	0.584269096576
+['82 dollar', 'employment agency']	['dollar']	0.388108272712
+['82 dollar', 'employment agency']	['31 people']	0.0901100077042
+['82 dollar', 'employment agency']	['3952 dollar']	0.584269096576
+['31 people', 'employment agency']	['temporary help']	0.0827346205535
+['31 people', 'employment agency']	['help']	0.170171263305
+['31 people', 'employment agency']	['heavy operator']	0.0977105614305
+['31 people', 'employment agency']	['operator']	0.0741073489195
+['31 people', 'employment agency']	['129 dollar']	0.0901100077042
+['31 people', 'employment agency']	['dollar']	0.0143499502517
+['31 people', 'employment agency']	['82 dollar']	0.0901100077042
+['31 people', 'employment agency']	['3952 dollar']	0.0901100077042
+['3952 dollar', 'employment agency']	['temporary help']	0.0827346205535
+['3952 dollar', 'employment agency']	['help']	0.177092701503
+['3952 dollar', 'employment agency']	['heavy operator']	0.0977105614305
+['3952 dollar', 'employment agency']	['operator']	0.0741073489195
+['3952 dollar', 'employment agency']	['129 dollar']	0.584269096576
+['3952 dollar', 'employment agency']	['dollar']	0.500847544769
+['3952 dollar', 'employment agency']	['82 dollar']	0.584269096576
+['3952 dollar', 'employment agency']	['31 people']	0.0901100077042
+['employment agency', 'temporary help']	['help']	0.677902243966
+['employment agency', 'temporary help']	['heavy operator']	0.101900148632
+['employment agency', 'temporary help']	['operator']	0.10397274702
+['employment agency', 'temporary help']	['129 dollar']	0.0901100077042
+['employment agency', 'temporary help']	['dollar']	0.0132263547461
+['employment agency', 'temporary help']	['82 dollar']	0.0901100077042
+['employment agency', 'temporary help']	['31 people']	0.0901100077042
+['employment agency', 'temporary help']	['3952 dollar']	0.0901100077042
+['help', 'temporary help']	['employment agency']	0.251990732679
+['help', 'temporary help']	['heavy operator']	0.323226200892
+['help', 'temporary help']	['operator']	0.598154895617
+['help', 'temporary help']	['129 dollar']	0.14831866988
+['help', 'temporary help']	['dollar']	0.398643520559
+['help', 'temporary help']	['82 dollar']	0.14831866988
+['help', 'temporary help']	['31 people']	0.14831866988
+['help', 'temporary help']	['3952 dollar']	0.14831866988
+['heavy operator', 'temporary help']	['employment agency']	0.0963990099525
+['heavy operator', 'temporary help']	['help']	0.725725220697
+['heavy operator', 'temporary help']	['operator']	0.702419524698
+['heavy operator', 'temporary help']	['129 dollar']	0.0737139440912
+['heavy operator', 'temporary help']	['dollar']	0.0106028278734
+['heavy operator', 'temporary help']	['82 dollar']	0.0737139440912
+['heavy operator', 'temporary help']	['31 people']	0.0737139440912
+['heavy operator', 'temporary help']	['3952 dollar']	0.0737139440912
+['operator', 'temporary help']	['employment agency']	0.0663445115919
+['operator', 'temporary help']	['help']	0.733876767911
+['operator', 'temporary help']	['heavy operator']	0.716224974385
+['operator', 'temporary help']	['129 dollar']	0.0696933362217
+['operator', 'temporary help']	['dollar']	0.171530631185
+['operator', 'temporary help']	['82 dollar']	0.0696933362217
+['operator', 'temporary help']	['31 people']	0.0703393045902
+['operator', 'temporary help']	['3952 dollar']	0.0696933362217
+['129 dollar', 'temporary help']	['employment agency']	0.0827346205535
+['129 dollar', 'temporary help']	['help']	0.609298680331
+['129 dollar', 'temporary help']	['heavy operator']	0.0830529202888
+['129 dollar', 'temporary help']	['operator']	0.110894185219
+['129 dollar', 'temporary help']	['dollar']	0.276426897145
+['129 dollar', 'temporary help']	['82 dollar']	0.584269096576
+['129 dollar', 'temporary help']	['31 people']	0.0901100077042
+['129 dollar', 'temporary help']	['3952 dollar']	0.584269096576
+['dollar', 'temporary help']	['employment agency']	0.0362241866398
+['dollar', 'temporary help']	['help']	0.543530121049
+['dollar', 'temporary help']	['heavy operator']	0.0428595693468
+['dollar', 'temporary help']	['operator']	0.460530919333
+['dollar', 'temporary help']	['129 dollar']	0.365401430504
+['dollar', 'temporary help']	['82 dollar']	0.391516700063
+['dollar', 'temporary help']	['31 people']	0.0368028975308
+['dollar', 'temporary help']	['3952 dollar']	0.442012633359
+['82 dollar', 'temporary help']	['employment agency']	0.0827346205535
+['82 dollar', 'temporary help']	['help']	0.609298680331
+['82 dollar', 'temporary help']	['heavy operator']	0.0830529202888
+['82 dollar', 'temporary help']	['operator']	0.110894185219
+['82 dollar', 'temporary help']	['129 dollar']	0.584269096576
+['82 dollar', 'temporary help']	['dollar']	0.306370088568
+['82 dollar', 'temporary help']	['31 people']	0.0901100077042
+['82 dollar', 'temporary help']	['3952 dollar']	0.584269096576
+['31 people', 'temporary help']	['employment agency']	0.0827346205535
+['31 people', 'temporary help']	['help']	0.619446836723
+['31 people', 'temporary help']	['heavy operator']	0.0830529202888
+['31 people', 'temporary help']	['operator']	0.10397274702
+['31 people', 'temporary help']	['129 dollar']	0.0901100077042
+['31 people', 'temporary help']	['dollar']	0.0132263547461
+['31 people', 'temporary help']	['82 dollar']	0.0901100077042
+['31 people', 'temporary help']	['3952 dollar']	0.0901100077042
+['3952 dollar', 'temporary help']	['employment agency']	0.0827346205535
+['3952 dollar', 'temporary help']	['help']	0.609298680331
+['3952 dollar', 'temporary help']	['heavy operator']	0.0830529202888
+['3952 dollar', 'temporary help']	['operator']	0.110894185219
+['3952 dollar', 'temporary help']	['129 dollar']	0.584269096576
+['3952 dollar', 'temporary help']	['dollar']	0.351161209422
+['3952 dollar', 'temporary help']	['82 dollar']	0.584269096576
+['3952 dollar', 'temporary help']	['31 people']	0.0901100077042
+['employment agency', 'help']	['temporary help']	0.71455110167
+['employment agency', 'help']	['heavy operator']	0.111620744952
+['employment agency', 'help']	['operator']	0.21729612781
+['employment agency', 'help']	['129 dollar']	0.0901100077042
+['employment agency', 'help']	['dollar']	0.353943167192
+['employment agency', 'help']	['82 dollar']	0.0901100077042
+['employment agency', 'help']	['31 people']	0.0901100077042
+['employment agency', 'help']	['3952 dollar']	0.0901100077042
+['temporary help', 'help']	['employment agency']	0.251990732679
+['temporary help', 'help']	['heavy operator']	0.323226200892
+['temporary help', 'help']	['operator']	0.598154895617
+['temporary help', 'help']	['129 dollar']	0.14831866988
+['temporary help', 'help']	['dollar']	0.398643520559
+['temporary help', 'help']	['82 dollar']	0.14831866988
+['temporary help', 'help']	['31 people']	0.14831866988
+['temporary help', 'help']	['3952 dollar']	0.14831866988
+['heavy operator', 'help']	['employment agency']	0.105345478515
+['heavy operator', 'help']	['temporary help']	0.709796772222
+['heavy operator', 'help']	['operator']	0.675204841127
+['heavy operator', 'help']	['129 dollar']	0.0737139440912
+['heavy operator', 'help']	['dollar']	0.353875909714
+['heavy operator', 'help']	['82 dollar']	0.0737139440912
+['heavy operator', 'help']	['31 people']	0.0737139440912
+['heavy operator', 'help']	['3952 dollar']	0.0737139440912
+['operator', 'help']	['employment agency']	0.103900214063
+['operator', 'help']	['temporary help']	0.741935567693
+['operator', 'help']	['heavy operator']	0.705438477291
+['operator', 'help']	['129 dollar']	0.0696933362217
+['operator', 'help']	['dollar']	0.0954127874726
+['operator', 'help']	['82 dollar']	0.0696933362217
+['operator', 'help']	['31 people']	0.0703393045902
+['operator', 'help']	['3952 dollar']	0.0696933362217
+['129 dollar', 'help']	['employment agency']	0.124206600218
+['129 dollar', 'help']	['temporary help']	0.707594685938
+['129 dollar', 'help']	['heavy operator']	0.112172037378
+['129 dollar', 'help']	['operator']	0.200387454431
+['129 dollar', 'help']	['dollar']	0.680325969831
+['129 dollar', 'help']	['82 dollar']	0.584269096576
+['129 dollar', 'help']	['31 people']	0.0901100077042
+['129 dollar', 'help']	['3952 dollar']	0.584269096576
+['dollar', 'help']	['employment agency']	0.0647860602258
+['dollar', 'help']	['temporary help']	0.345399931471
+['dollar', 'help']	['heavy operator']	0.0649156452947
+['dollar', 'help']	['operator']	0.109379492073
+['dollar', 'help']	['129 dollar']	0.365401430504
+['dollar', 'help']	['82 dollar']	0.391516700063
+['dollar', 'help']	['31 people']	0.0368028975308
+['dollar', 'help']	['3952 dollar']	0.442012633359
+['82 dollar', 'help']	['employment agency']	0.124206600218
+['82 dollar', 'help']	['temporary help']	0.707594685938
+['82 dollar', 'help']	['heavy operator']	0.112172037378
+['82 dollar', 'help']	['operator']	0.200387454431
+['82 dollar', 'help']	['129 dollar']	0.584269096576
+['82 dollar', 'help']	['dollar']	0.685440582092
+['82 dollar', 'help']	['31 people']	0.0901100077042
+['82 dollar', 'help']	['3952 dollar']	0.584269096576
+['31 people', 'help']	['employment agency']	0.124206600218
+['31 people', 'help']	['temporary help']	0.707594685938
+['31 people', 'help']	['heavy operator']	0.112172037378
+['31 people', 'help']	['operator']	0.21729612781
+['31 people', 'help']	['129 dollar']	0.0901100077042
+['31 people', 'help']	['dollar']	0.349073037322
+['31 people', 'help']	['82 dollar']	0.0901100077042
+['31 people', 'help']	['3952 dollar']	0.0901100077042
+['3952 dollar', 'help']	['employment agency']	0.124206600218
+['3952 dollar', 'help']	['temporary help']	0.707594685938
+['3952 dollar', 'help']	['heavy operator']	0.112172037378
+['3952 dollar', 'help']	['operator']	0.200387454431
+['3952 dollar', 'help']	['129 dollar']	0.584269096576
+['3952 dollar', 'help']	['dollar']	0.733656357017
+['3952 dollar', 'help']	['82 dollar']	0.584269096576
+['3952 dollar', 'help']	['31 people']	0.0901100077042
+['employment agency', 'heavy operator']	['temporary help']	0.0669904799604
+['employment agency', 'heavy operator']	['help']	0.110924800253
+['employment agency', 'heavy operator']	['operator']	0.653079692956
+['employment agency', 'heavy operator']	['129 dollar']	0.0737139440912
+['employment agency', 'heavy operator']	['dollar']	0.011726423379
+['employment agency', 'heavy operator']	['82 dollar']	0.0737139440912
+['employment agency', 'heavy operator']	['31 people']	0.0737139440912
+['employment agency', 'heavy operator']	['3952 dollar']	0.0737139440912
+['temporary help', 'heavy operator']	['employment agency']	0.0963990099525
+['temporary help', 'heavy operator']	['help']	0.725725220697
+['temporary help', 'heavy operator']	['operator']	0.702419524698
+['temporary help', 'heavy operator']	['129 dollar']	0.0737139440912
+['temporary help', 'heavy operator']	['dollar']	0.0106028278734
+['temporary help', 'heavy operator']	['82 dollar']	0.0737139440912
+['temporary help', 'heavy operator']	['31 people']	0.0737139440912
+['temporary help', 'heavy operator']	['3952 dollar']	0.0737139440912
+['help', 'heavy operator']	['employment agency']	0.105345478515
+['help', 'heavy operator']	['temporary help']	0.709796772222
+['help', 'heavy operator']	['operator']	0.675204841127
+['help', 'heavy operator']	['129 dollar']	0.0737139440912
+['help', 'heavy operator']	['dollar']	0.353875909714
+['help', 'heavy operator']	['82 dollar']	0.0737139440912
+['help', 'heavy operator']	['31 people']	0.0737139440912
+['help', 'heavy operator']	['3952 dollar']	0.0737139440912
+['operator', 'heavy operator']	['employment agency']	0.269039210424
+['operator', 'heavy operator']	['temporary help']	0.367559582989
+['operator', 'heavy operator']	['help']	0.646658885758
+['operator', 'heavy operator']	['129 dollar']	0.265287442169
+['operator', 'heavy operator']	['dollar']	0.38961232887
+['operator', 'heavy operator']	['82 dollar']	0.265287442169
+['operator', 'heavy operator']	['31 people']	0.270035932252
+['operator', 'heavy operator']	['3952 dollar']	0.265287442169
+['129 dollar', 'heavy operator']	['employment agency']	0.0963990099525
+['129 dollar', 'heavy operator']	['temporary help']	0.0703393045902
+['129 dollar', 'heavy operator']	['help']	0.120944483059
+['129 dollar', 'heavy operator']	['operator']	0.653079692956
+['129 dollar', 'heavy operator']	['dollar']	0.361360527512
+['129 dollar', 'heavy operator']	['82 dollar']	0.544221442934
+['129 dollar', 'heavy operator']	['31 people']	0.0737139440912
+['129 dollar', 'heavy operator']	['3952 dollar']	0.544221442934
+['dollar', 'heavy operator']	['employment agency']	0.122855466118
+['dollar', 'heavy operator']	['temporary help']	0.0989480026901
+['dollar', 'heavy operator']	['help']	0.632058441943
+['dollar', 'heavy operator']	['operator']	0.661424291515
+['dollar', 'heavy operator']	['129 dollar']	0.365401430504
+['dollar', 'heavy operator']	['82 dollar']	0.391516700063
+['dollar', 'heavy operator']	['31 people']	0.0988807452127
+['dollar', 'heavy operator']	['3952 dollar']	0.442012633359
+['82 dollar', 'heavy operator']	['employment agency']	0.0963990099525
+['82 dollar', 'heavy operator']	['temporary help']	0.0703393045902
+['82 dollar', 'heavy operator']	['help']	0.120944483059
+['82 dollar', 'heavy operator']	['operator']	0.653079692956
+['82 dollar', 'heavy operator']	['129 dollar']	0.544221442934
+['82 dollar', 'heavy operator']	['dollar']	0.392131842364
+['82 dollar', 'heavy operator']	['31 people']	0.0737139440912
+['82 dollar', 'heavy operator']	['3952 dollar']	0.544221442934
+['31 people', 'heavy operator']	['employment agency']	0.0963990099525
+['31 people', 'heavy operator']	['temporary help']	0.0703393045902
+['31 people', 'heavy operator']	['help']	0.114023044861
+['31 people', 'heavy operator']	['operator']	0.653079692956
+['31 people', 'heavy operator']	['129 dollar']	0.0737139440912
+['31 people', 'heavy operator']	['dollar']	0.011726423379
+['31 people', 'heavy operator']	['82 dollar']	0.0737139440912
+['31 people', 'heavy operator']	['3952 dollar']	0.0737139440912
+['3952 dollar', 'heavy operator']	['employment agency']	0.0963990099525
+['3952 dollar', 'heavy operator']	['temporary help']	0.0703393045902
+['3952 dollar', 'heavy operator']	['help']	0.120944483059
+['3952 dollar', 'heavy operator']	['operator']	0.653079692956
+['3952 dollar', 'heavy operator']	['129 dollar']	0.544221442934
+['3952 dollar', 'heavy operator']	['dollar']	0.440757963555
+['3952 dollar', 'heavy operator']	['82 dollar']	0.544221442934
+['3952 dollar', 'heavy operator']	['31 people']	0.0737139440912
+['employment agency', 'operator']	['temporary help']	0.117488318928
+['employment agency', 'operator']	['help']	0.208785758549
+['employment agency', 'operator']	['heavy operator']	0.757523248332
+['employment agency', 'operator']	['129 dollar']	0.0696933362217
+['employment agency', 'operator']	['dollar']	0.234516109247
+['employment agency', 'operator']	['82 dollar']	0.0696933362217
+['employment agency', 'operator']	['31 people']	0.0703393045902
+['employment agency', 'operator']	['3952 dollar']	0.0696933362217
+['temporary help', 'operator']	['employment agency']	0.0663445115919
+['temporary help', 'operator']	['help']	0.733876767911
+['temporary help', 'operator']	['heavy operator']	0.716224974385
+['temporary help', 'operator']	['129 dollar']	0.0696933362217
+['temporary help', 'operator']	['dollar']	0.171530631185
+['temporary help', 'operator']	['82 dollar']	0.0696933362217
+['temporary help', 'operator']	['31 people']	0.0703393045902
+['temporary help', 'operator']	['3952 dollar']	0.0696933362217
+['help', 'operator']	['employment agency']	0.103900214063
+['help', 'operator']	['temporary help']	0.741935567693
+['help', 'operator']	['heavy operator']	0.705438477291
+['help', 'operator']	['129 dollar']	0.0696933362217
+['help', 'operator']	['dollar']	0.0954127874726
+['help', 'operator']	['82 dollar']	0.0696933362217
+['help', 'operator']	['31 people']	0.0703393045902
+['help', 'operator']	['3952 dollar']	0.0696933362217
+['heavy operator', 'operator']	['employment agency']	0.269039210424
+['heavy operator', 'operator']	['temporary help']	0.367559582989
+['heavy operator', 'operator']	['help']	0.646658885758
+['heavy operator', 'operator']	['129 dollar']	0.265287442169
+['heavy operator', 'operator']	['dollar']	0.38961232887
+['heavy operator', 'operator']	['82 dollar']	0.265287442169
+['heavy operator', 'operator']	['31 people']	0.270035932252
+['heavy operator', 'operator']	['3952 dollar']	0.265287442169
+['129 dollar', 'operator']	['employment agency']	0.0696933362217
+['129 dollar', 'operator']	['temporary help']	0.103222748661
+['129 dollar', 'operator']	['help']	0.150335709347
+['129 dollar', 'operator']	['heavy operator']	0.672956266505
+['129 dollar', 'operator']	['dollar']	0.681036942304
+['129 dollar', 'operator']	['82 dollar']	0.482679469303
+['129 dollar', 'operator']	['31 people']	0.0703393045902
+['129 dollar', 'operator']	['3952 dollar']	0.482679469303
+['dollar', 'operator']	['employment agency']	0.0983020343217
+['dollar', 'operator']	['temporary help']	0.134169612504
+['dollar', 'operator']	['help']	0.319069268646
+['dollar', 'operator']	['heavy operator']	0.427776996556
+['dollar', 'operator']	['129 dollar']	0.435102054266
+['dollar', 'operator']	['82 dollar']	0.452298826701
+['dollar', 'operator']	['31 people']	0.0989480026901
+['dollar', 'operator']	['3952 dollar']	0.553297612561
+['82 dollar', 'operator']	['employment agency']	0.0696933362217
+['82 dollar', 'operator']	['temporary help']	0.103222748661
+['82 dollar', 'operator']	['help']	0.150335709347
+['82 dollar', 'operator']	['heavy operator']	0.672956266505
+['82 dollar', 'operator']	['129 dollar']	0.482679469303
+['82 dollar', 'operator']	['dollar']	0.686151554564
+['82 dollar', 'operator']	['31 people']	0.0703393045902
+['82 dollar', 'operator']	['3952 dollar']	0.482679469303
+['31 people', 'operator']	['employment agency']	0.0696933362217
+['31 people', 'operator']	['temporary help']	0.103222748661
+['31 people', 'operator']	['help']	0.185569185514
+['31 people', 'operator']	['heavy operator']	0.672956266505
+['31 people', 'operator']	['129 dollar']	0.0696933362217
+['31 people', 'operator']	['dollar']	0.229645979377
+['31 people', 'operator']	['82 dollar']	0.0696933362217
+['31 people', 'operator']	['3952 dollar']	0.0696933362217
+['3952 dollar', 'operator']	['employment agency']	0.0696933362217
+['3952 dollar', 'operator']	['temporary help']	0.103222748661
+['3952 dollar', 'operator']	['help']	0.150335709347
+['3952 dollar', 'operator']	['heavy operator']	0.672956266505
+['3952 dollar', 'operator']	['129 dollar']	0.482679469303
+['3952 dollar', 'operator']	['dollar']	0.701033996156
+['3952 dollar', 'operator']	['82 dollar']	0.482679469303
+['3952 dollar', 'operator']	['31 people']	0.0703393045902
+['employment agency', '129 dollar']	['temporary help']	0.0827346205535
+['employment agency', '129 dollar']	['help']	0.177092701503
+['employment agency', '129 dollar']	['heavy operator']	0.0977105614305
+['employment agency', '129 dollar']	['operator']	0.0741073489195
+['employment agency', '129 dollar']	['dollar']	0.384528877052
+['employment agency', '129 dollar']	['82 dollar']	0.584269096576
+['employment agency', '129 dollar']	['31 people']	0.0901100077042
+['employment agency', '129 dollar']	['3952 dollar']	0.584269096576
+['temporary help', '129 dollar']	['employment agency']	0.0827346205535
+['temporary help', '129 dollar']	['help']	0.609298680331
+['temporary help', '129 dollar']	['heavy operator']	0.0830529202888
+['temporary help', '129 dollar']	['operator']	0.110894185219
+['temporary help', '129 dollar']	['dollar']	0.276426897145
+['temporary help', '129 dollar']	['82 dollar']	0.584269096576
+['temporary help', '129 dollar']	['31 people']	0.0901100077042
+['temporary help', '129 dollar']	['3952 dollar']	0.584269096576
+['help', '129 dollar']	['employment agency']	0.124206600218
+['help', '129 dollar']	['temporary help']	0.707594685938
+['help', '129 dollar']	['heavy operator']	0.112172037378
+['help', '129 dollar']	['operator']	0.200387454431
+['help', '129 dollar']	['dollar']	0.680325969831
+['help', '129 dollar']	['82 dollar']	0.584269096576
+['help', '129 dollar']	['31 people']	0.0901100077042
+['help', '129 dollar']	['3952 dollar']	0.584269096576
+['heavy operator', '129 dollar']	['employment agency']	0.0963990099525
+['heavy operator', '129 dollar']	['temporary help']	0.0703393045902
+['heavy operator', '129 dollar']	['help']	0.120944483059
+['heavy operator', '129 dollar']	['operator']	0.653079692956
+['heavy operator', '129 dollar']	['dollar']	0.361360527512
+['heavy operator', '129 dollar']	['82 dollar']	0.544221442934
+['heavy operator', '129 dollar']	['31 people']	0.0737139440912
+['heavy operator', '129 dollar']	['3952 dollar']	0.544221442934
+['operator', '129 dollar']	['employment agency']	0.0696933362217
+['operator', '129 dollar']	['temporary help']	0.103222748661
+['operator', '129 dollar']	['help']	0.150335709347
+['operator', '129 dollar']	['heavy operator']	0.672956266505
+['operator', '129 dollar']	['dollar']	0.681036942304
+['operator', '129 dollar']	['82 dollar']	0.482679469303
+['operator', '129 dollar']	['31 people']	0.0703393045902
+['operator', '129 dollar']	['3952 dollar']	0.482679469303
+['dollar', '129 dollar']	['employment agency']	0.183197852817
+['dollar', '129 dollar']	['temporary help']	0.0968024870635
+['dollar', '129 dollar']	['help']	0.564626911664
+['dollar', '129 dollar']	['heavy operator']	0.157431377697
+['dollar', '129 dollar']	['operator']	0.420282867358
+['dollar', '129 dollar']	['82 dollar']	0.638178477636
+['dollar', '129 dollar']	['31 people']	0.177448801378
+['dollar', '129 dollar']	['3952 dollar']	0.676555862245
+['82 dollar', '129 dollar']	['employment agency']	0.139258682248
+['82 dollar', '129 dollar']	['temporary help']	0.139258682248
+['82 dollar', '129 dollar']	['help']	0.327028499836
+['82 dollar', '129 dollar']	['heavy operator']	0.14699641653
+['82 dollar', '129 dollar']	['operator']	0.386315627603
+['82 dollar', '129 dollar']	['dollar']	0.67956664036
+['82 dollar', '129 dollar']	['31 people']	0.139258682248
+['82 dollar', '129 dollar']	['3952 dollar']	0.637144068101
+['31 people', '129 dollar']	['employment agency']	0.0901100077042
+['31 people', '129 dollar']	['temporary help']	0.0901100077042
+['31 people', '129 dollar']	['help']	0.0744376594044
+['31 people', '129 dollar']	['heavy operator']	0.0897823390711
+['31 people', '129 dollar']	['operator']	0.0741073489195
+['31 people', '129 dollar']	['dollar']	0.384528877052
+['31 people', '129 dollar']	['82 dollar']	0.584269096576
+['31 people', '129 dollar']	['3952 dollar']	0.584269096576
+['3952 dollar', '129 dollar']	['employment agency']	0.139258682248
+['3952 dollar', '129 dollar']	['temporary help']	0.139258682248
+['3952 dollar', '129 dollar']	['help']	0.327028499836
+['3952 dollar', '129 dollar']	['heavy operator']	0.14699641653
+['3952 dollar', '129 dollar']	['operator']	0.386315627603
+['3952 dollar', '129 dollar']	['dollar']	0.64203543036
+['3952 dollar', '129 dollar']	['82 dollar']	0.637144068101
+['3952 dollar', '129 dollar']	['31 people']	0.139258682248
+['employment agency', 'dollar']	['temporary help']	0.0361569291624
+['employment agency', 'dollar']	['help']	0.59872510861
+['employment agency', 'dollar']	['heavy operator']	0.0603577137674
+['employment agency', 'dollar']	['operator']	0.284933522181
+['employment agency', 'dollar']	['129 dollar']	0.365401430504
+['employment agency', 'dollar']	['82 dollar']	0.391516700063
+['employment agency', 'dollar']	['31 people']	0.0368028975308
+['employment agency', 'dollar']	['3952 dollar']	0.442012633359
+['temporary help', 'dollar']	['employment agency']	0.0362241866398
+['temporary help', 'dollar']	['help']	0.543530121049
+['temporary help', 'dollar']	['heavy operator']	0.0428595693468
+['temporary help', 'dollar']	['operator']	0.460530919333
+['temporary help', 'dollar']	['129 dollar']	0.365401430504
+['temporary help', 'dollar']	['82 dollar']	0.391516700063
+['temporary help', 'dollar']	['31 people']	0.0368028975308
+['temporary help', 'dollar']	['3952 dollar']	0.442012633359
+['help', 'dollar']	['employment agency']	0.0647860602258
+['help', 'dollar']	['temporary help']	0.345399931471
+['help', 'dollar']	['heavy operator']	0.0649156452947
+['help', 'dollar']	['operator']	0.109379492073
+['help', 'dollar']	['129 dollar']	0.365401430504
+['help', 'dollar']	['82 dollar']	0.391516700063
+['help', 'dollar']	['31 people']	0.0368028975308
+['help', 'dollar']	['3952 dollar']	0.442012633359
+['heavy operator', 'dollar']	['employment agency']	0.122855466118
+['heavy operator', 'dollar']	['temporary help']	0.0989480026901
+['heavy operator', 'dollar']	['help']	0.632058441943
+['heavy operator', 'dollar']	['operator']	0.661424291515
+['heavy operator', 'dollar']	['129 dollar']	0.365401430504
+['heavy operator', 'dollar']	['82 dollar']	0.391516700063
+['heavy operator', 'dollar']	['31 people']	0.0988807452127
+['heavy operator', 'dollar']	['3952 dollar']	0.442012633359
+['operator', 'dollar']	['employment agency']	0.0983020343217
+['operator', 'dollar']	['temporary help']	0.134169612504
+['operator', 'dollar']	['help']	0.319069268646
+['operator', 'dollar']	['heavy operator']	0.427776996556
+['operator', 'dollar']	['129 dollar']	0.435102054266
+['operator', 'dollar']	['82 dollar']	0.452298826701
+['operator', 'dollar']	['31 people']	0.0989480026901
+['operator', 'dollar']	['3952 dollar']	0.553297612561
+['129 dollar', 'dollar']	['employment agency']	0.183197852817
+['129 dollar', 'dollar']	['temporary help']	0.0968024870635
+['129 dollar', 'dollar']	['help']	0.564626911664
+['129 dollar', 'dollar']	['heavy operator']	0.157431377697
+['129 dollar', 'dollar']	['operator']	0.420282867358
+['129 dollar', 'dollar']	['82 dollar']	0.638178477636
+['129 dollar', 'dollar']	['31 people']	0.177448801378
+['129 dollar', 'dollar']	['3952 dollar']	0.676555862245
+['82 dollar', 'dollar']	['employment agency']	0.183197852817
+['82 dollar', 'dollar']	['temporary help']	0.0968024870635
+['82 dollar', 'dollar']	['help']	0.564626911664
+['82 dollar', 'dollar']	['heavy operator']	0.157431377697
+['82 dollar', 'dollar']	['operator']	0.420282867358
+['82 dollar', 'dollar']	['129 dollar']	0.610690210365
+['82 dollar', 'dollar']	['31 people']	0.177448801378
+['82 dollar', 'dollar']	['3952 dollar']	0.676555862245
+['31 people', 'dollar']	['employment agency']	0.0361569291624
+['31 people', 'dollar']	['temporary help']	0.0361569291624
+['31 people', 'dollar']	['help']	0.473998331002
+['31 people', 'dollar']	['heavy operator']	0.0421463435009
+['31 people', 'dollar']	['operator']	0.280063392311
+['31 people', 'dollar']	['129 dollar']	0.365401430504
+['31 people', 'dollar']	['82 dollar']	0.391516700063
+['31 people', 'dollar']	['3952 dollar']	0.442012633359
+['3952 dollar', 'dollar']	['employment agency']	0.183197852817
+['3952 dollar', 'dollar']	['temporary help']	0.0968024870635
+['3952 dollar', 'dollar']	['help']	0.564626911664
+['3952 dollar', 'dollar']	['heavy operator']	0.157431377697
+['3952 dollar', 'dollar']	['operator']	0.420282867358
+['3952 dollar', 'dollar']	['129 dollar']	0.610690210365
+['3952 dollar', 'dollar']	['82 dollar']	0.638178477636
+['3952 dollar', 'dollar']	['31 people']	0.177448801378
+['employment agency', '82 dollar']	['temporary help']	0.0827346205535
+['employment agency', '82 dollar']	['help']	0.177092701503
+['employment agency', '82 dollar']	['heavy operator']	0.0977105614305
+['employment agency', '82 dollar']	['operator']	0.0741073489195
+['employment agency', '82 dollar']	['129 dollar']	0.584269096576
+['employment agency', '82 dollar']	['dollar']	0.388108272712
+['employment agency', '82 dollar']	['31 people']	0.0901100077042
+['employment agency', '82 dollar']	['3952 dollar']	0.584269096576
+['temporary help', '82 dollar']	['employment agency']	0.0827346205535
+['temporary help', '82 dollar']	['help']	0.609298680331
+['temporary help', '82 dollar']	['heavy operator']	0.0830529202888
+['temporary help', '82 dollar']	['operator']	0.110894185219
+['temporary help', '82 dollar']	['129 dollar']	0.584269096576
+['temporary help', '82 dollar']	['dollar']	0.306370088568
+['temporary help', '82 dollar']	['31 people']	0.0901100077042
+['temporary help', '82 dollar']	['3952 dollar']	0.584269096576
+['help', '82 dollar']	['employment agency']	0.124206600218
+['help', '82 dollar']	['temporary help']	0.707594685938
+['help', '82 dollar']	['heavy operator']	0.112172037378
+['help', '82 dollar']	['operator']	0.200387454431
+['help', '82 dollar']	['129 dollar']	0.584269096576
+['help', '82 dollar']	['dollar']	0.685440582092
+['help', '82 dollar']	['31 people']	0.0901100077042
+['help', '82 dollar']	['3952 dollar']	0.584269096576
+['heavy operator', '82 dollar']	['employment agency']	0.0963990099525
+['heavy operator', '82 dollar']	['temporary help']	0.0703393045902
+['heavy operator', '82 dollar']	['help']	0.120944483059
+['heavy operator', '82 dollar']	['operator']	0.653079692956
+['heavy operator', '82 dollar']	['129 dollar']	0.544221442934
+['heavy operator', '82 dollar']	['dollar']	0.392131842364
+['heavy operator', '82 dollar']	['31 people']	0.0737139440912
+['heavy operator', '82 dollar']	['3952 dollar']	0.544221442934
+['operator', '82 dollar']	['employment agency']	0.0696933362217
+['operator', '82 dollar']	['temporary help']	0.103222748661
+['operator', '82 dollar']	['help']	0.150335709347
+['operator', '82 dollar']	['heavy operator']	0.672956266505
+['operator', '82 dollar']	['129 dollar']	0.482679469303
+['operator', '82 dollar']	['dollar']	0.686151554564
+['operator', '82 dollar']	['31 people']	0.0703393045902
+['operator', '82 dollar']	['3952 dollar']	0.482679469303
+['129 dollar', '82 dollar']	['employment agency']	0.139258682248
+['129 dollar', '82 dollar']	['temporary help']	0.139258682248
+['129 dollar', '82 dollar']	['help']	0.327028499836
+['129 dollar', '82 dollar']	['heavy operator']	0.14699641653
+['129 dollar', '82 dollar']	['operator']	0.386315627603
+['129 dollar', '82 dollar']	['dollar']	0.67956664036
+['129 dollar', '82 dollar']	['31 people']	0.139258682248
+['129 dollar', '82 dollar']	['3952 dollar']	0.637144068101
+['dollar', '82 dollar']	['employment agency']	0.183197852817
+['dollar', '82 dollar']	['temporary help']	0.0968024870635
+['dollar', '82 dollar']	['help']	0.564626911664
+['dollar', '82 dollar']	['heavy operator']	0.157431377697
+['dollar', '82 dollar']	['operator']	0.420282867358
+['dollar', '82 dollar']	['129 dollar']	0.610690210365
+['dollar', '82 dollar']	['31 people']	0.177448801378
+['dollar', '82 dollar']	['3952 dollar']	0.676555862245
+['31 people', '82 dollar']	['employment agency']	0.0901100077042
+['31 people', '82 dollar']	['temporary help']	0.0901100077042
+['31 people', '82 dollar']	['help']	0.0744376594044
+['31 people', '82 dollar']	['heavy operator']	0.0897823390711
+['31 people', '82 dollar']	['operator']	0.0741073489195
+['31 people', '82 dollar']	['129 dollar']	0.584269096576
+['31 people', '82 dollar']	['dollar']	0.388108272712
+['31 people', '82 dollar']	['3952 dollar']	0.584269096576
+['3952 dollar', '82 dollar']	['employment agency']	0.139258682248
+['3952 dollar', '82 dollar']	['temporary help']	0.139258682248
+['3952 dollar', '82 dollar']	['help']	0.327028499836
+['3952 dollar', '82 dollar']	['heavy operator']	0.14699641653
+['3952 dollar', '82 dollar']	['operator']	0.386315627603
+['3952 dollar', '82 dollar']	['129 dollar']	0.637144068101
+['3952 dollar', '82 dollar']	['dollar']	0.67956664036
+['3952 dollar', '82 dollar']	['31 people']	0.139258682248
+['employment agency', '31 people']	['temporary help']	0.0827346205535
+['employment agency', '31 people']	['help']	0.170171263305
+['employment agency', '31 people']	['heavy operator']	0.0977105614305
+['employment agency', '31 people']	['operator']	0.0741073489195
+['employment agency', '31 people']	['129 dollar']	0.0901100077042
+['employment agency', '31 people']	['dollar']	0.0143499502517
+['employment agency', '31 people']	['82 dollar']	0.0901100077042
+['employment agency', '31 people']	['3952 dollar']	0.0901100077042
+['temporary help', '31 people']	['employment agency']	0.0827346205535
+['temporary help', '31 people']	['help']	0.619446836723
+['temporary help', '31 people']	['heavy operator']	0.0830529202888
+['temporary help', '31 people']	['operator']	0.10397274702
+['temporary help', '31 people']	['129 dollar']	0.0901100077042
+['temporary help', '31 people']	['dollar']	0.0132263547461
+['temporary help', '31 people']	['82 dollar']	0.0901100077042
+['temporary help', '31 people']	['3952 dollar']	0.0901100077042
+['help', '31 people']	['employment agency']	0.124206600218
+['help', '31 people']	['temporary help']	0.707594685938
+['help', '31 people']	['heavy operator']	0.112172037378
+['help', '31 people']	['operator']	0.21729612781
+['help', '31 people']	['129 dollar']	0.0901100077042
+['help', '31 people']	['dollar']	0.349073037322
+['help', '31 people']	['82 dollar']	0.0901100077042
+['help', '31 people']	['3952 dollar']	0.0901100077042
+['heavy operator', '31 people']	['employment agency']	0.0963990099525
+['heavy operator', '31 people']	['temporary help']	0.0703393045902
+['heavy operator', '31 people']	['help']	0.114023044861
+['heavy operator', '31 people']	['operator']	0.653079692956
+['heavy operator', '31 people']	['129 dollar']	0.0737139440912
+['heavy operator', '31 people']	['dollar']	0.011726423379
+['heavy operator', '31 people']	['82 dollar']	0.0737139440912
+['heavy operator', '31 people']	['3952 dollar']	0.0737139440912
+['operator', '31 people']	['employment agency']	0.0696933362217
+['operator', '31 people']	['temporary help']	0.103222748661
+['operator', '31 people']	['help']	0.185569185514
+['operator', '31 people']	['heavy operator']	0.672956266505
+['operator', '31 people']	['129 dollar']	0.0696933362217
+['operator', '31 people']	['dollar']	0.229645979377
+['operator', '31 people']	['82 dollar']	0.0696933362217
+['operator', '31 people']	['3952 dollar']	0.0696933362217
+['129 dollar', '31 people']	['employment agency']	0.0901100077042
+['129 dollar', '31 people']	['temporary help']	0.0901100077042
+['129 dollar', '31 people']	['help']	0.0744376594044
+['129 dollar', '31 people']	['heavy operator']	0.0897823390711
+['129 dollar', '31 people']	['operator']	0.0741073489195
+['129 dollar', '31 people']	['dollar']	0.384528877052
+['129 dollar', '31 people']	['82 dollar']	0.584269096576
+['129 dollar', '31 people']	['3952 dollar']	0.584269096576
+['dollar', '31 people']	['employment agency']	0.0361569291624
+['dollar', '31 people']	['temporary help']	0.0361569291624
+['dollar', '31 people']	['help']	0.473998331002
+['dollar', '31 people']	['heavy operator']	0.0421463435009
+['dollar', '31 people']	['operator']	0.280063392311
+['dollar', '31 people']	['129 dollar']	0.365401430504
+['dollar', '31 people']	['82 dollar']	0.391516700063
+['dollar', '31 people']	['3952 dollar']	0.442012633359
+['82 dollar', '31 people']	['employment agency']	0.0901100077042
+['82 dollar', '31 people']	['temporary help']	0.0901100077042
+['82 dollar', '31 people']	['help']	0.0744376594044
+['82 dollar', '31 people']	['heavy operator']	0.0897823390711
+['82 dollar', '31 people']	['operator']	0.0741073489195
+['82 dollar', '31 people']	['129 dollar']	0.584269096576
+['82 dollar', '31 people']	['dollar']	0.388108272712
+['82 dollar', '31 people']	['3952 dollar']	0.584269096576
+['3952 dollar', '31 people']	['employment agency']	0.0901100077042
+['3952 dollar', '31 people']	['temporary help']	0.0901100077042
+['3952 dollar', '31 people']	['help']	0.0744376594044
+['3952 dollar', '31 people']	['heavy operator']	0.0897823390711
+['3952 dollar', '31 people']	['operator']	0.0741073489195
+['3952 dollar', '31 people']	['129 dollar']	0.584269096576
+['3952 dollar', '31 people']	['dollar']	0.500847544769
+['3952 dollar', '31 people']	['82 dollar']	0.584269096576
+['employment agency', '3952 dollar']	['temporary help']	0.0827346205535
+['employment agency', '3952 dollar']	['help']	0.177092701503
+['employment agency', '3952 dollar']	['heavy operator']	0.0977105614305
+['employment agency', '3952 dollar']	['operator']	0.0741073489195
+['employment agency', '3952 dollar']	['129 dollar']	0.584269096576
+['employment agency', '3952 dollar']	['dollar']	0.500847544769
+['employment agency', '3952 dollar']	['82 dollar']	0.584269096576
+['employment agency', '3952 dollar']	['31 people']	0.0901100077042
+['temporary help', '3952 dollar']	['employment agency']	0.0827346205535
+['temporary help', '3952 dollar']	['help']	0.609298680331
+['temporary help', '3952 dollar']	['heavy operator']	0.0830529202888
+['temporary help', '3952 dollar']	['operator']	0.110894185219
+['temporary help', '3952 dollar']	['129 dollar']	0.584269096576
+['temporary help', '3952 dollar']	['dollar']	0.351161209422
+['temporary help', '3952 dollar']	['82 dollar']	0.584269096576
+['temporary help', '3952 dollar']	['31 people']	0.0901100077042
+['help', '3952 dollar']	['employment agency']	0.124206600218
+['help', '3952 dollar']	['temporary help']	0.707594685938
+['help', '3952 dollar']	['heavy operator']	0.112172037378
+['help', '3952 dollar']	['operator']	0.200387454431
+['help', '3952 dollar']	['129 dollar']	0.584269096576
+['help', '3952 dollar']	['dollar']	0.733656357017
+['help', '3952 dollar']	['82 dollar']	0.584269096576
+['help', '3952 dollar']	['31 people']	0.0901100077042
+['heavy operator', '3952 dollar']	['employment agency']	0.0963990099525
+['heavy operator', '3952 dollar']	['temporary help']	0.0703393045902
+['heavy operator', '3952 dollar']	['help']	0.120944483059
+['heavy operator', '3952 dollar']	['operator']	0.653079692956
+['heavy operator', '3952 dollar']	['129 dollar']	0.544221442934
+['heavy operator', '3952 dollar']	['dollar']	0.440757963555
+['heavy operator', '3952 dollar']	['82 dollar']	0.544221442934
+['heavy operator', '3952 dollar']	['31 people']	0.0737139440912
+['operator', '3952 dollar']	['employment agency']	0.0696933362217
+['operator', '3952 dollar']	['temporary help']	0.103222748661
+['operator', '3952 dollar']	['help']	0.150335709347
+['operator', '3952 dollar']	['heavy operator']	0.672956266505
+['operator', '3952 dollar']	['129 dollar']	0.482679469303
+['operator', '3952 dollar']	['dollar']	0.701033996156
+['operator', '3952 dollar']	['82 dollar']	0.482679469303
+['operator', '3952 dollar']	['31 people']	0.0703393045902
+['129 dollar', '3952 dollar']	['employment agency']	0.139258682248
+['129 dollar', '3952 dollar']	['temporary help']	0.139258682248
+['129 dollar', '3952 dollar']	['help']	0.327028499836
+['129 dollar', '3952 dollar']	['heavy operator']	0.14699641653
+['129 dollar', '3952 dollar']	['operator']	0.386315627603
+['129 dollar', '3952 dollar']	['dollar']	0.64203543036
+['129 dollar', '3952 dollar']	['82 dollar']	0.637144068101
+['129 dollar', '3952 dollar']	['31 people']	0.139258682248
+['dollar', '3952 dollar']	['employment agency']	0.183197852817
+['dollar', '3952 dollar']	['temporary help']	0.0968024870635
+['dollar', '3952 dollar']	['help']	0.564626911664
+['dollar', '3952 dollar']	['heavy operator']	0.157431377697
+['dollar', '3952 dollar']	['operator']	0.420282867358
+['dollar', '3952 dollar']	['129 dollar']	0.610690210365
+['dollar', '3952 dollar']	['82 dollar']	0.638178477636
+['dollar', '3952 dollar']	['31 people']	0.177448801378
+['82 dollar', '3952 dollar']	['employment agency']	0.139258682248
+['82 dollar', '3952 dollar']	['temporary help']	0.139258682248
+['82 dollar', '3952 dollar']	['help']	0.327028499836
+['82 dollar', '3952 dollar']	['heavy operator']	0.14699641653
+['82 dollar', '3952 dollar']	['operator']	0.386315627603
+['82 dollar', '3952 dollar']	['129 dollar']	0.637144068101
+['82 dollar', '3952 dollar']	['dollar']	0.67956664036
+['82 dollar', '3952 dollar']	['31 people']	0.139258682248
+['31 people', '3952 dollar']	['employment agency']	0.0901100077042
+['31 people', '3952 dollar']	['temporary help']	0.0901100077042
+['31 people', '3952 dollar']	['help']	0.0744376594044
+['31 people', '3952 dollar']	['heavy operator']	0.0897823390711
+['31 people', '3952 dollar']	['operator']	0.0741073489195
+['31 people', '3952 dollar']	['129 dollar']	0.584269096576
+['31 people', '3952 dollar']	['dollar']	0.500847544769
+['31 people', '3952 dollar']	['82 dollar']	0.584269096576

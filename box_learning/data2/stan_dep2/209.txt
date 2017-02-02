@@ -1,0 +1,27 @@
+(ROOT
+  (S
+    (NP (DT A) (NN painting))
+    (VP
+      (VBZ is)
+      (ADJP
+        (ADJP (NP (CD 10) (NNS inches)) (JJ tall))
+        (CC and)
+        (ADJP (NP (CD 15) (NNS inches)) (JJ wide))))
+    (. .)))
+(ROOT
+  (FRAG
+    (S
+      (NP
+        (NP (DT A) (NN print))
+        (PP (IN of) (NP (DT the) (NN painting))))
+      (VP (VBZ is) (ADJP (NP (CD 25) (NNS inches)) (JJ tall))))
+    (, ,)
+    (SBAR
+      (WHADJP (WRB how) (JJ wide))
+      (S
+        (VP
+          (VBZ is)
+          (NP
+            (NP (DT the) (NN print))
+            (PP (IN in) (NP (NNS inches)))))))
+    (. ?)))

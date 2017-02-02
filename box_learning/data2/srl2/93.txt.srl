@@ -1,0 +1,24 @@
+buy ARG0 Mitch
+buy ARG3 his friends
+buy ARG1 candy bars
+
+want ARG0 He
+give ARG0 He
+want ARG1 to give 2 bars to each friend
+give ARG2 each friend
+give ARG1 2 bars
+want ARG0 he
+have ARG0 he
+want ARG1 to have 10 spare bars
+have ARG1 10 spare bars
+
+afford ARG0 He
+buy ARG0 He
+afford MOD can
+afford ARG1 to buy 24 candy bars
+buy ARG1 24 candy bars
+
+treat ARG1 friends
+treat ARG0 he
+treat MOD can he
+

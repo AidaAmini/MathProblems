@@ -1,0 +1,14 @@
+no srl relation find
+have arg0 Jane
+have arg1 a dress shop
+have ARG0 she
+have arg1 space for 200 dress
+sell ARG0 she
+sell arg1 only red and blue dress
+decide TMP after read several fashion magazine
+read arg0 reading several fashion magazine
+read arg1 several fashion magazine
+decide arg0 she
+decide arg1 to stock she shelf with 34 more blue dress than red dress
+stock arg2 34 more blue dress than red dress
+stock arg1 she shelf

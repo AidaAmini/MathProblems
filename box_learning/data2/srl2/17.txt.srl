@@ -1,0 +1,14 @@
+want ARG0 A merchant
+combine ARG0 A merchant
+form ARG0 A merchant
+want ARG1 to combine peanuts selling 2.40 dollars per pound and A selling for 6.00 dollars per pound
+combine ARG1 peanuts selling 2.40 dollars per pound and A selling for 6.00 dollars per pound
+sell ARG1 2.40 dollars per pound and A selling for 6.00 dollars per pound
+form ARG1 60 pounds which will sell at 3.00 dollars per pound.
+sell ARG1 60 pounds which will sell at 3.00 dollars per pound.
+sell MOD will
+sell ARG3 3.00 dollars per pound.
+
+use ARG1 amount of peanuts
+use MOD must
+

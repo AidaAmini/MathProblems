@@ -1,0 +1,3469 @@
+['2 car', 'average mile', 'two car', 'particular week', 'week', 'car', 'first car', '40 gallon', 'second', 'gallon', '20 gallon', 'mile', '1400 mile', 'average gas mileage', 'mileage', 'gas mileage']
+['2 car']	['average mile']	0.0696933362217
+['2 car']	['two car']	0.497345171722
+['2 car']	['particular week']	0.0696933362217
+['2 car']	['week']	0.00800951534341
+['2 car']	['first car']	0.367990973414
+['2 car']	['40 gallon']	0.111205290482
+['2 car']	['second']	0.011726423379
+['2 car']	['gallon']	0.0106028278734
+['2 car']	['20 gallon']	0.111205290482
+['2 car']	['mile']	0.00800951534341
+['2 car']	['1400 mile']	0.0737139440912
+['2 car']	['average gas mileage']	0.0726409365964
+['2 car']	['mileage']	0.0658639515588
+['2 car']	['gas mileage']	0.0649040532856
+['average mile']	['two car']	0.0897823390711
+['average mile']	['particular week']	0.0901100077042
+['average mile']	['week']	0.0143499502517
+['average mile']	['car']	0.0541974512876
+['average mile']	['first car']	0.0901100077042
+['average mile']	['40 gallon']	0.0901100077042
+['average mile']	['second']	0.0430502462229
+['average mile']	['gallon']	0.0143499502517
+['average mile']	['20 gallon']	0.0901100077042
+['average mile']	['1400 mile']	0.643440930505
+['average mile']	['average gas mileage']	0.403745970191
+['average mile']	['mileage']	0.0764053905195
+['average mile']	['gas mileage']	0.0901100077042
+['two car']	['particular week']	0.0669904799604
+['two car']	['week']	0.0106028278734
+['two car']	['first car']	0.367990973414
+['two car']	['40 gallon']	0.111205290482
+['two car']	['second']	0.011726423379
+['two car']	['gallon']	0.0106028278734
+['two car']	['20 gallon']	0.111205290482
+['two car']	['mile']	0.0106028278734
+['two car']	['1400 mile']	0.0737139440912
+['two car']	['average gas mileage']	0.0885621548936
+['two car']	['mileage']	0.0690378963307
+['two car']	['gas mileage']	0.0663445115919
+['particular week']	['car']	0.0541974512876
+['particular week']	['first car']	0.0800317642921
+['particular week']	['40 gallon']	0.0827346205535
+['particular week']	['second']	0.0746384582482
+['particular week']	['gallon']	0.0132263547461
+['particular week']	['20 gallon']	0.0827346205535
+['particular week']	['mile']	0.0143499502517
+['particular week']	['1400 mile']	0.0901100077042
+['particular week']	['average gas mileage']	0.103286615005
+['particular week']	['mileage']	0.0764053905195
+['particular week']	['gas mileage']	0.0813535270388
+['week']	['car']	0.0203250492698
+['week']	['first car']	0.0160076877108
+['week']	['40 gallon']	0.0160076877108
+['week']	['second']	0.0198714391084
+['week']	['gallon']	0.0879533510558
+['week']	['20 gallon']	0.0160076877108
+['week']	['mile']	0.0870694402353
+['week']	['1400 mile']	0.0160749451882
+['week']	['average gas mileage']	0.018237514175
+['week']	['mileage']	0.0134684604491
+['week']	['gas mileage']	0.0134143751808
+['car']	['40 gallon']	0.0465787639079
+['car']	['second']	0.0270109615938
+['car']	['gallon']	0.0082360470022
+['car']	['20 gallon']	0.0465787639079
+['car']	['mile']	0.0248418559925
+['car']	['1400 mile']	0.0465787639079
+['car']	['average gas mileage']	0.0576302798195
+['car']	['mileage']	0.0429293773723
+['car']	['gas mileage']	0.0546200245943
+['first car']	['40 gallon']	0.0854147342737
+['first car']	['second']	0.016864172895
+['first car']	['gallon']	0.0132263547461
+['first car']	['20 gallon']	0.0854147342737
+['first car']	['mile']	0.0132263547461
+['first car']	['1400 mile']	0.0901100077042
+['first car']	['average gas mileage']	0.102910980826
+['first car']	['mileage']	0.0854506877194
+['first car']	['gas mileage']	0.0800317642921
+['40 gallon']	['second']	0.016864172895
+['40 gallon']	['20 gallon']	0.828768839235
+['40 gallon']	['mile']	0.0143499502517
+['40 gallon']	['1400 mile']	0.0901100077042
+['40 gallon']	['average gas mileage']	0.096515242987
+['40 gallon']	['mileage']	0.0800606621439
+['40 gallon']	['gas mileage']	0.0827346205535
+['second']	['gallon']	0.0934483712232
+['second']	['20 gallon']	0.0215505325421
+['second']	['mile']	0.0224325675959
+['second']	['1400 mile']	0.0467127345201
+['second']	['average gas mileage']	0.0345980575917
+['second']	['mileage']	0.0279149799664
+['second']	['gas mileage']	0.0215505325421
+['gallon']	['mile']	0.106211992277
+['gallon']	['1400 mile']	0.0160749451882
+['gallon']	['average gas mileage']	0.0258221685033
+['gallon']	['mileage']	0.0254432429666
+['gallon']	['gas mileage']	0.0160076877108
+['20 gallon']	['mile']	0.0143499502517
+['20 gallon']	['1400 mile']	0.0901100077042
+['20 gallon']	['average gas mileage']	0.096515242987
+['20 gallon']	['mileage']	0.0800606621439
+['20 gallon']	['gas mileage']	0.0827346205535
+['mile']	['average gas mileage']	0.018237514175
+['mile']	['gas mileage']	0.0275634753127
+['1400 mile']	['average gas mileage']	0.0941266761548
+['1400 mile']	['mileage']	0.0764053905195
+['1400 mile']	['gas mileage']	0.0901100077042
+['average mile', '2 car']	['two car']	0.553220629519
+['average mile', '2 car']	['particular week']	0.0696933362217
+['average mile', '2 car']	['week']	0.00800951534341
+['average mile', '2 car']	['car']	0.487027953071
+['average mile', '2 car']	['first car']	0.465538040018
+['average mile', '2 car']	['40 gallon']	0.105691884463
+['average mile', '2 car']	['second']	0.0336326013502
+['average mile', '2 car']	['gallon']	0.0106028278734
+['average mile', '2 car']	['20 gallon']	0.105691884463
+['average mile', '2 car']	['mile']	0.382295353943
+['average mile', '2 car']	['1400 mile']	0.544221442934
+['average mile', '2 car']	['average gas mileage']	0.484322254867
+['average mile', '2 car']	['mileage']	0.063589773449
+['average mile', '2 car']	['gas mileage']	0.0649040532856
+['two car', '2 car']	['average mile']	0.195306454053
+['two car', '2 car']	['particular week']	0.274461388425
+['two car', '2 car']	['week']	0.257400973274
+['two car', '2 car']	['car']	0.735975369913
+['two car', '2 car']	['first car']	0.643244274394
+['two car', '2 car']	['40 gallon']	0.375470099518
+['two car', '2 car']	['second']	0.253681143462
+['two car', '2 car']	['gallon']	0.229245633469
+['two car', '2 car']	['20 gallon']	0.375470099518
+['two car', '2 car']	['mile']	0.257400973274
+['two car', '2 car']	['1400 mile']	0.177915983734
+['two car', '2 car']	['average gas mileage']	0.402698438577
+['two car', '2 car']	['mileage']	0.392395813171
+['two car', '2 car']	['gas mileage']	0.235690700723
+['particular week', '2 car']	['average mile']	0.0707439302222
+['particular week', '2 car']	['two car']	0.626348040786
+['particular week', '2 car']	['week']	0.382295353943
+['particular week', '2 car']	['car']	0.487027953071
+['particular week', '2 car']	['first car']	0.457956430859
+['particular week', '2 car']	['40 gallon']	0.11995745473
+['particular week', '2 car']	['second']	0.0762790429326
+['particular week', '2 car']	['gallon']	0.0106028278734
+['particular week', '2 car']	['20 gallon']	0.11995745473
+['particular week', '2 car']	['mile']	0.00800951534341
+['particular week', '2 car']	['1400 mile']	0.0737139440912
+['particular week', '2 car']	['average gas mileage']	0.102355233305
+['particular week', '2 car']	['mileage']	0.063589773449
+['particular week', '2 car']	['gas mileage']	0.0649040532856
+['week', '2 car']	['average mile']	0.0989480026901
+['week', '2 car']	['two car']	0.376302592657
+['week', '2 car']	['particular week']	0.393094266122
+['week', '2 car']	['car']	0.444467491688
+['week', '2 car']	['first car']	0.194706354441
+['week', '2 car']	['40 gallon']	0.134169612504
+['week', '2 car']	['second']	0.264871871761
+['week', '2 car']	['gallon']	0.182103971574
+['week', '2 car']	['20 gallon']	0.134169612504
+['week', '2 car']	['mile']	0.179510659044
+['week', '2 car']	['1400 mile']	0.0988807452127
+['week', '2 car']	['average gas mileage']	0.0955709867396
+['week', '2 car']	['mileage']	0.0930847869987
+['week', '2 car']	['gas mileage']	0.0940261261501
+['car', '2 car']	['average mile']	0.190181920436
+['car', '2 car']	['two car']	0.870413886188
+['car', '2 car']	['particular week']	0.182705155246
+['car', '2 car']	['week']	0.263382594417
+['car', '2 car']	['first car']	0.915490761623
+['car', '2 car']	['40 gallon']	0.215378247734
+['car', '2 car']	['second']	0.292196503111
+['car', '2 car']	['gallon']	0.291412897447
+['car', '2 car']	['20 gallon']	0.215378247734
+['car', '2 car']	['mile']	0.268217200015
+['car', '2 car']	['1400 mile']	0.182485327668
+['car', '2 car']	['average gas mileage']	0.370415872798
+['car', '2 car']	['mileage']	0.422860264267
+['car', '2 car']	['gas mileage']	0.23862293435
+['first car', '2 car']	['average mile']	0.243066958174
+['first car', '2 car']	['two car']	0.664908650047
+['first car', '2 car']	['particular week']	0.223683215744
+['first car', '2 car']	['week']	0.221503537377
+['first car', '2 car']	['car']	0.787242495091
+['first car', '2 car']	['40 gallon']	0.336950901833
+['first car', '2 car']	['second']	0.194112410309
+['first car', '2 car']	['gallon']	0.169676900315
+['first car', '2 car']	['20 gallon']	0.336950901833
+['first car', '2 car']	['mile']	0.221503537377
+['first car', '2 car']	['1400 mile']	0.127137811052
+['first car', '2 car']	['average gas mileage']	0.373427010996
+['first car', '2 car']	['mileage']	0.334519706976
+['first car', '2 car']	['gas mileage']	0.216456331798
+['40 gallon', '2 car']	['average mile']	0.0696933362217
+['40 gallon', '2 car']	['two car']	0.656814097845
+['40 gallon', '2 car']	['particular week']	0.0696933362217
+['40 gallon', '2 car']	['week']	0.00800951534341
+['40 gallon', '2 car']	['car']	0.487027953071
+['40 gallon', '2 car']	['first car']	0.422808047873
+['40 gallon', '2 car']	['second']	0.011726423379
+['40 gallon', '2 car']	['gallon']	0.471678880869
+['40 gallon', '2 car']	['20 gallon']	0.781116950393
+['40 gallon', '2 car']	['mile']	0.00800951534341
+['40 gallon', '2 car']	['1400 mile']	0.0737139440912
+['40 gallon', '2 car']	['average gas mileage']	0.0726409365964
+['40 gallon', '2 car']	['mileage']	0.0658639515588
+['40 gallon', '2 car']	['gas mileage']	0.0649040532856
+['second', '2 car']	['average mile']	0.0618737183104
+['second', '2 car']	['two car']	0.352778843168
+['second', '2 car']	['particular week']	0.0902216790505
+['second', '2 car']	['week']	0.199328423808
+['second', '2 car']	['car']	0.476351549659
+['second', '2 car']	['first car']	0.18571691251
+['second', '2 car']	['40 gallon']	0.0714527268925
+['second', '2 car']	['gallon']	0.148770638241
+['second', '2 car']	['20 gallon']	0.0714527268925
+['second', '2 car']	['mile']	0.199328423808
+['second', '2 car']	['1400 mile']	0.0618737183104
+['second', '2 car']	['average gas mileage']	0.0334931390577
+['second', '2 car']	['mileage']	0.154602843086
+['second', '2 car']	['gas mileage']	0.0319482784682
+['gallon', '2 car']	['average mile']	0.0989480026901
+['gallon', '2 car']	['two car']	0.342969259323
+['gallon', '2 car']	['particular week']	0.0982347768443
+['gallon', '2 car']	['week']	0.179510659044
+['gallon', '2 car']	['car']	0.444467491688
+['gallon', '2 car']	['first car']	0.160671266721
+['gallon', '2 car']	['40 gallon']	0.716346495963
+['gallon', '2 car']	['second']	0.203714300213
+['gallon', '2 car']	['20 gallon']	0.716346495963
+['gallon', '2 car']	['mile']	0.240707734152
+['gallon', '2 car']	['1400 mile']	0.0988807452127
+['gallon', '2 car']	['average gas mileage']	0.0955709867396
+['gallon', '2 car']	['mileage']	0.16430693917
+['gallon', '2 car']	['gas mileage']	0.0940261261501
+['20 gallon', '2 car']	['average mile']	0.0696933362217
+['20 gallon', '2 car']	['two car']	0.656814097845
+['20 gallon', '2 car']	['particular week']	0.0696933362217
+['20 gallon', '2 car']	['week']	0.00800951534341
+['20 gallon', '2 car']	['car']	0.487027953071
+['20 gallon', '2 car']	['first car']	0.422808047873
+['20 gallon', '2 car']	['40 gallon']	0.781116950393
+['20 gallon', '2 car']	['second']	0.011726423379
+['20 gallon', '2 car']	['gallon']	0.471678880869
+['20 gallon', '2 car']	['mile']	0.00800951534341
+['20 gallon', '2 car']	['1400 mile']	0.0737139440912
+['20 gallon', '2 car']	['average gas mileage']	0.0726409365964
+['20 gallon', '2 car']	['mileage']	0.0658639515588
+['20 gallon', '2 car']	['gas mileage']	0.0649040532856
+['mile', '2 car']	['average mile']	0.393094266122
+['mile', '2 car']	['two car']	0.376302592657
+['mile', '2 car']	['particular week']	0.0989480026901
+['mile', '2 car']	['week']	0.179510659044
+['mile', '2 car']	['car']	0.476351549659
+['mile', '2 car']	['first car']	0.194706354441
+['mile', '2 car']	['40 gallon']	0.12810287516
+['mile', '2 car']	['second']	0.264871871761
+['mile', '2 car']	['gallon']	0.240707734152
+['mile', '2 car']	['20 gallon']	0.12810287516
+['mile', '2 car']	['1400 mile']	0.442012633359
+['mile', '2 car']	['average gas mileage']	0.0955709867396
+['mile', '2 car']	['mileage']	0.326376770168
+['mile', '2 car']	['gas mileage']	0.216712756533
+['1400 mile', '2 car']	['average mile']	0.494524508322
+['1400 mile', '2 car']	['two car']	0.553220629519
+['1400 mile', '2 car']	['particular week']	0.0696933362217
+['1400 mile', '2 car']	['week']	0.00800951534341
+['1400 mile', '2 car']	['car']	0.487027953071
+['1400 mile', '2 car']	['first car']	0.465538040018
+['1400 mile', '2 car']	['40 gallon']	0.105691884463
+['1400 mile', '2 car']	['second']	0.0336326013502
+['1400 mile', '2 car']	['gallon']	0.0106028278734
+['1400 mile', '2 car']	['20 gallon']	0.105691884463
+['1400 mile', '2 car']	['mile']	0.310562022346
+['1400 mile', '2 car']	['average gas mileage']	0.0726409365964
+['1400 mile', '2 car']	['mileage']	0.063589773449
+['1400 mile', '2 car']	['gas mileage']	0.0649040532856
+['average gas mileage', '2 car']	['average mile']	0.525786708981
+['average gas mileage', '2 car']	['two car']	0.613588409614
+['average gas mileage', '2 car']	['particular week']	0.124856540438
+['average gas mileage', '2 car']	['week']	0.00614699614218
+['average gas mileage', '2 car']	['car']	0.607420679248
+['average gas mileage', '2 car']	['first car']	0.571342698387
+['average gas mileage', '2 car']	['40 gallon']	0.148312858671
+['average gas mileage', '2 car']	['second']	0.0113525773169
+['average gas mileage', '2 car']	['gallon']	0.0102289818113
+['average gas mileage', '2 car']	['20 gallon']	0.148312858671
+['average gas mileage', '2 car']	['mile']	0.00614699614218
+['average gas mileage', '2 car']	['1400 mile']	0.128877148308
+['average gas mileage', '2 car']	['mileage']	0.718353924504
+['average gas mileage', '2 car']	['gas mileage']	0.63052713808
+['mileage', '2 car']	['average mile']	0.0696933362217
+['mileage', '2 car']	['two car']	0.604586417119
+['mileage', '2 car']	['particular week']	0.0696933362217
+['mileage', '2 car']	['week']	0.00982152087788
+['mileage', '2 car']	['car']	0.740837562161
+['mileage', '2 car']	['first car']	0.485145965568
+['mileage', '2 car']	['40 gallon']	0.103222748661
+['mileage', '2 car']	['second']	0.165627539268
+['mileage', '2 car']	['gallon']	0.0806965185133
+['mileage', '2 car']	['20 gallon']	0.103222748661
+['mileage', '2 car']	['mile']	0.252357689695
+['mileage', '2 car']	['1400 mile']	0.0696933362217
+['mileage', '2 car']	['average gas mileage']	0.6743897114
+['mileage', '2 car']	['gas mileage']	0.724699862497
+['gas mileage', '2 car']	['average mile']	0.0696933362217
+['gas mileage', '2 car']	['two car']	0.553220629519
+['gas mileage', '2 car']	['particular week']	0.0696933362217
+['gas mileage', '2 car']	['week']	0.00800951534341
+['gas mileage', '2 car']	['car']	0.487027953071
+['gas mileage', '2 car']	['first car']	0.465538040018
+['gas mileage', '2 car']	['40 gallon']	0.105691884463
+['gas mileage', '2 car']	['second']	0.011726423379
+['gas mileage', '2 car']	['gallon']	0.0106028278734
+['gas mileage', '2 car']	['20 gallon']	0.105691884463
+['gas mileage', '2 car']	['mile']	0.126938252926
+['gas mileage', '2 car']	['1400 mile']	0.0737139440912
+['gas mileage', '2 car']	['average gas mileage']	0.541389563461
+['gas mileage', '2 car']	['mileage']	0.6473327453
+['2 car', 'average mile']	['two car']	0.553220629519
+['2 car', 'average mile']	['particular week']	0.0696933362217
+['2 car', 'average mile']	['week']	0.00800951534341
+['2 car', 'average mile']	['car']	0.487027953071
+['2 car', 'average mile']	['first car']	0.465538040018
+['2 car', 'average mile']	['40 gallon']	0.105691884463
+['2 car', 'average mile']	['second']	0.0336326013502
+['2 car', 'average mile']	['gallon']	0.0106028278734
+['2 car', 'average mile']	['20 gallon']	0.105691884463
+['2 car', 'average mile']	['mile']	0.382295353943
+['2 car', 'average mile']	['1400 mile']	0.544221442934
+['2 car', 'average mile']	['average gas mileage']	0.484322254867
+['2 car', 'average mile']	['mileage']	0.063589773449
+['2 car', 'average mile']	['gas mileage']	0.0649040532856
+['two car', 'average mile']	['2 car']	0.553220629519
+['two car', 'average mile']	['particular week']	0.0703393045902
+['two car', 'average mile']	['week']	0.0106028278734
+['two car', 'average mile']	['car']	0.591995464271
+['two car', 'average mile']	['first car']	0.465538040018
+['two car', 'average mile']	['40 gallon']	0.105691884463
+['two car', 'average mile']	['second']	0.0336326013502
+['two car', 'average mile']	['gallon']	0.0106028278734
+['two car', 'average mile']	['20 gallon']	0.105691884463
+['two car', 'average mile']	['mile']	0.367124413772
+['two car', 'average mile']	['1400 mile']	0.544221442934
+['two car', 'average mile']	['average gas mileage']	0.511357876251
+['two car', 'average mile']	['mileage']	0.0667637182209
+['two car', 'average mile']	['gas mileage']	0.0696933362217
+['particular week', 'average mile']	['2 car']	0.0824069519204
+['particular week', 'average mile']	['two car']	0.0830529202888
+['particular week', 'average mile']	['week']	0.345297574209
+['particular week', 'average mile']	['car']	0.0541974512876
+['particular week', 'average mile']	['first car']	0.0833805889219
+['particular week', 'average mile']	['40 gallon']	0.0827346205535
+['particular week', 'average mile']	['second']	0.0746384582482
+['particular week', 'average mile']	['gallon']	0.0143499502517
+['particular week', 'average mile']	['20 gallon']	0.0827346205535
+['particular week', 'average mile']	['mile']	0.345297574209
+['particular week', 'average mile']	['1400 mile']	0.584269096576
+['particular week', 'average mile']	['average gas mileage']	0.517407146997
+['particular week', 'average mile']	['mileage']	0.0764053905195
+['particular week', 'average mile']	['gas mileage']	0.0827346205535
+['week', 'average mile']	['2 car']	0.0379376928067
+['week', 'average mile']	['two car']	0.0421463435009
+['week', 'average mile']	['particular week']	0.384540526976
+['week', 'average mile']	['car']	0.177003326418
+['week', 'average mile']	['first car']	0.0361569291624
+['week', 'average mile']	['40 gallon']	0.0361569291624
+['week', 'average mile']	['second']	0.310570615192
+['week', 'average mile']	['gallon']	0.148837895719
+['week', 'average mile']	['20 gallon']	0.0361569291624
+['week', 'average mile']	['mile']	0.455381832072
+['week', 'average mile']	['1400 mile']	0.160671266721
+['week', 'average mile']	['average gas mileage']	0.429796390793
+['week', 'average mile']	['mileage']	0.0310069393168
+['week', 'average mile']	['gas mileage']	0.0319482784682
+['car', 'average mile']	['2 car']	0.593444216664
+['car', 'average mile']	['two car']	0.65084700761
+['car', 'average mile']	['particular week']	0.0465787639079
+['car', 'average mile']	['week']	0.160148362933
+['car', 'average mile']	['first car']	0.687535207027
+['car', 'average mile']	['40 gallon']	0.0465787639079
+['car', 'average mile']	['second']	0.162774545232
+['car', 'average mile']	['gallon']	0.199996847782
+['car', 'average mile']	['20 gallon']	0.0465787639079
+['car', 'average mile']	['mile']	0.396148474328
+['car', 'average mile']	['1400 mile']	0.386916343381
+['car', 'average mile']	['average gas mileage']	0.328086143812
+['car', 'average mile']	['mileage']	0.148981772892
+['car', 'average mile']	['gas mileage']	0.0546200245943
+['first car', 'average mile']	['2 car']	0.51364678879
+['first car', 'average mile']	['two car']	0.51364678879
+['first car', 'average mile']	['particular week']	0.0833805889219
+['first car', 'average mile']	['week']	0.0132263547461
+['first car', 'average mile']	['car']	0.677090818983
+['first car', 'average mile']	['40 gallon']	0.0871340391838
+['first car', 'average mile']	['second']	0.0430502462229
+['first car', 'average mile']	['gallon']	0.0132263547461
+['first car', 'average mile']	['20 gallon']	0.0871340391838
+['first car', 'average mile']	['mile']	0.37839088354
+['first car', 'average mile']	['1400 mile']	0.584269096576
+['first car', 'average mile']	['average gas mileage']	0.514053739722
+['first car', 'average mile']	['mileage']	0.0777864840342
+['first car', 'average mile']	['gas mileage']	0.0833805889219
+['40 gallon', 'average mile']	['2 car']	0.107003435941
+['40 gallon', 'average mile']	['two car']	0.107003435941
+['40 gallon', 'average mile']	['particular week']	0.0827346205535
+['40 gallon', 'average mile']	['week']	0.0143499502517
+['40 gallon', 'average mile']	['car']	0.0541974512876
+['40 gallon', 'average mile']	['first car']	0.0871340391838
+['40 gallon', 'average mile']	['second']	0.0430502462229
+['40 gallon', 'average mile']	['gallon']	0.724943139062
+['40 gallon', 'average mile']	['20 gallon']	0.754360422532
+['40 gallon', 'average mile']	['mile']	0.345297574209
+['40 gallon', 'average mile']	['1400 mile']	0.584269096576
+['40 gallon', 'average mile']	['average gas mileage']	0.514053739722
+['40 gallon', 'average mile']	['mileage']	0.0777864840342
+['40 gallon', 'average mile']	['gas mileage']	0.0827346205535
+['second', 'average mile']	['2 car']	0.0490854479521
+['second', 'average mile']	['two car']	0.0490854479521
+['second', 'average mile']	['particular week']	0.128023060494
+['second', 'average mile']	['week']	0.228517949828
+['second', 'average mile']	['car']	0.110178949437
+['second', 'average mile']	['first car']	0.04570265501
+['second', 'average mile']	['40 gallon']	0.04570265501
+['second', 'average mile']	['gallon']	0.204652253186
+['second', 'average mile']	['20 gallon']	0.04570265501
+['second', 'average mile']	['mile']	0.459010256855
+['second', 'average mile']	['1400 mile']	0.264149056616
+['second', 'average mile']	['average gas mileage']	0.512757911854
+['second', 'average mile']	['mileage']	0.170842113008
+['second', 'average mile']	['gas mileage']	0.0450566866416
+['gallon', 'average mile']	['2 car']	0.0436614950161
+['gallon', 'average mile']	['two car']	0.0436614950161
+['gallon', 'average mile']	['particular week']	0.0361569291624
+['gallon', 'average mile']	['week']	0.148837895719
+['gallon', 'average mile']	['car']	0.180033629449
+['gallon', 'average mile']	['first car']	0.0376720806775
+['gallon', 'average mile']	['40 gallon']	0.591878577002
+['gallon', 'average mile']	['second']	0.213346162958
+['gallon', 'average mile']	['20 gallon']	0.591878577002
+['gallon', 'average mile']	['mile']	0.462708563125
+['gallon', 'average mile']	['1400 mile']	0.160671266721
+['gallon', 'average mile']	['average gas mileage']	0.431272055042
+['gallon', 'average mile']	['mileage']	0.109561042279
+['gallon', 'average mile']	['gas mileage']	0.0361569291624
+['20 gallon', 'average mile']	['2 car']	0.107003435941
+['20 gallon', 'average mile']	['two car']	0.107003435941
+['20 gallon', 'average mile']	['particular week']	0.0827346205535
+['20 gallon', 'average mile']	['week']	0.0143499502517
+['20 gallon', 'average mile']	['car']	0.0541974512876
+['20 gallon', 'average mile']	['first car']	0.0871340391838
+['20 gallon', 'average mile']	['40 gallon']	0.754360422532
+['20 gallon', 'average mile']	['second']	0.0430502462229
+['20 gallon', 'average mile']	['gallon']	0.724943139062
+['20 gallon', 'average mile']	['mile']	0.345297574209
+['20 gallon', 'average mile']	['1400 mile']	0.584269096576
+['20 gallon', 'average mile']	['average gas mileage']	0.514053739722
+['20 gallon', 'average mile']	['mileage']	0.0777864840342
+['20 gallon', 'average mile']	['gas mileage']	0.0827346205535
+['mile', 'average mile']	['2 car']	0.197809762008
+['mile', 'average mile']	['two car']	0.103856602467
+['mile', 'average mile']	['particular week']	0.177448801378
+['mile', 'average mile']	['week']	0.329739509058
+['mile', 'average mile']	['car']	0.304536876835
+['mile', 'average mile']	['first car']	0.0968024870635
+['mile', 'average mile']	['40 gallon']	0.177448801378
+['mile', 'average mile']	['second']	0.423099679089
+['mile', 'average mile']	['gallon']	0.361622534434
+['mile', 'average mile']	['20 gallon']	0.177448801378
+['mile', 'average mile']	['1400 mile']	0.676555862245
+['mile', 'average mile']	['average gas mileage']	0.627343077333
+['mile', 'average mile']	['mileage']	0.541255000636
+['mile', 'average mile']	['gas mileage']	0.386477202467
+['1400 mile', 'average mile']	['2 car']	0.14699641653
+['1400 mile', 'average mile']	['two car']	0.14699641653
+['1400 mile', 'average mile']	['particular week']	0.139258682248
+['1400 mile', 'average mile']	['week']	0.219462895472
+['1400 mile', 'average mile']	['car']	0.283185314144
+['1400 mile', 'average mile']	['first car']	0.139258682248
+['1400 mile', 'average mile']	['40 gallon']	0.139258682248
+['1400 mile', 'average mile']	['second']	0.242050474049
+['1400 mile', 'average mile']	['gallon']	0.219462895472
+['1400 mile', 'average mile']	['20 gallon']	0.139258682248
+['1400 mile', 'average mile']	['mile']	0.761098305127
+['1400 mile', 'average mile']	['average gas mileage']	0.690906103897
+['1400 mile', 'average mile']	['mileage']	0.383475193417
+['1400 mile', 'average mile']	['gas mileage']	0.139258682248
+['average gas mileage', 'average mile']	['2 car']	0.145745783896
+['average gas mileage', 'average mile']	['two car']	0.158859549493
+['average gas mileage', 'average mile']	['particular week']	0.15961386663
+['average gas mileage', 'average mile']	['week']	0.0113388858743
+['average gas mileage', 'average mile']	['car']	0.0755065871874
+['average gas mileage', 'average mile']	['first car']	0.15961386663
+['average gas mileage', 'average mile']	['40 gallon']	0.15961386663
+['average gas mileage', 'average mile']	['second']	0.0345026692497
+['average gas mileage', 'average mile']	['gallon']	0.0139761041896
+['average gas mileage', 'average mile']	['20 gallon']	0.15961386663
+['average gas mileage', 'average mile']	['mile']	0.326134128403
+['average gas mileage', 'average mile']	['1400 mile']	0.653642048458
+['average gas mileage', 'average mile']	['mileage']	0.710717029052
+['average gas mileage', 'average mile']	['gas mileage']	0.630753159569
+['mileage', 'average mile']	['2 car']	0.0765935955162
+['mileage', 'average mile']	['two car']	0.0824069519204
+['mileage', 'average mile']	['particular week']	0.0827346205535
+['mileage', 'average mile']	['week']	0.0139570725819
+['mileage', 'average mile']	['car']	0.164940774679
+['mileage', 'average mile']	['first car']	0.0827346205535
+['mileage', 'average mile']	['40 gallon']	0.0827346205535
+['mileage', 'average mile']	['second']	0.194355343785
+['mileage', 'average mile']	['gallon']	0.102967022347
+['mileage', 'average mile']	['20 gallon']	0.0827346205535
+['mileage', 'average mile']	['mile']	0.716747112891
+['mileage', 'average mile']	['1400 mile']	0.538007739106
+['mileage', 'average mile']	['average gas mileage']	0.627846133764
+['mileage', 'average mile']	['gas mileage']	0.71410729843
+['gas mileage', 'average mile']	['2 car']	0.0839689826669
+['gas mileage', 'average mile']	['two car']	0.0897823390711
+['gas mileage', 'average mile']	['particular week']	0.0901100077042
+['gas mileage', 'average mile']	['week']	0.0132014050756
+['gas mileage', 'average mile']	['car']	0.0498296537608
+['gas mileage', 'average mile']	['first car']	0.0901100077042
+['gas mileage', 'average mile']	['40 gallon']	0.0901100077042
+['gas mileage', 'average mile']	['second']	0.0430502462229
+['gas mileage', 'average mile']	['gallon']	0.0143499502517
+['gas mileage', 'average mile']	['20 gallon']	0.0901100077042
+['gas mileage', 'average mile']	['mile']	0.384528877052
+['gas mileage', 'average mile']	['1400 mile']	0.584269096576
+['gas mileage', 'average mile']	['average gas mileage']	0.573612226142
+['gas mileage', 'average mile']	['mileage']	0.696347083353
+['2 car', 'two car']	['average mile']	0.195306454053
+['2 car', 'two car']	['particular week']	0.274461388425
+['2 car', 'two car']	['week']	0.257400973274
+['2 car', 'two car']	['car']	0.735975369913
+['2 car', 'two car']	['first car']	0.643244274394
+['2 car', 'two car']	['40 gallon']	0.375470099518
+['2 car', 'two car']	['second']	0.253681143462
+['2 car', 'two car']	['gallon']	0.229245633469
+['2 car', 'two car']	['20 gallon']	0.375470099518
+['2 car', 'two car']	['mile']	0.257400973274
+['2 car', 'two car']	['1400 mile']	0.177915983734
+['2 car', 'two car']	['average gas mileage']	0.402698438577
+['2 car', 'two car']	['mileage']	0.392395813171
+['2 car', 'two car']	['gas mileage']	0.235690700723
+['average mile', 'two car']	['2 car']	0.553220629519
+['average mile', 'two car']	['particular week']	0.0703393045902
+['average mile', 'two car']	['week']	0.0106028278734
+['average mile', 'two car']	['car']	0.591995464271
+['average mile', 'two car']	['first car']	0.465538040018
+['average mile', 'two car']	['40 gallon']	0.105691884463
+['average mile', 'two car']	['second']	0.0336326013502
+['average mile', 'two car']	['gallon']	0.0106028278734
+['average mile', 'two car']	['20 gallon']	0.105691884463
+['average mile', 'two car']	['mile']	0.367124413772
+['average mile', 'two car']	['1400 mile']	0.544221442934
+['average mile', 'two car']	['average gas mileage']	0.511357876251
+['average mile', 'two car']	['mileage']	0.0667637182209
+['average mile', 'two car']	['gas mileage']	0.0696933362217
+['particular week', 'two car']	['2 car']	0.614300738495
+['particular week', 'two car']	['average mile']	0.0707439302222
+['particular week', 'two car']	['week']	0.367124413772
+['particular week', 'two car']	['car']	0.591995464271
+['particular week', 'two car']	['first car']	0.457956430859
+['particular week', 'two car']	['40 gallon']	0.11995745473
+['particular week', 'two car']	['second']	0.0762790429326
+['particular week', 'two car']	['gallon']	0.0106028278734
+['particular week', 'two car']	['20 gallon']	0.11995745473
+['particular week', 'two car']	['mile']	0.0106028278734
+['particular week', 'two car']	['1400 mile']	0.0737139440912
+['particular week', 'two car']	['average gas mileage']	0.0961372162676
+['particular week', 'two car']	['mileage']	0.0667637182209
+['particular week', 'two car']	['gas mileage']	0.0683122427071
+['week', 'two car']	['2 car']	0.367969259323
+['week', 'two car']	['average mile']	0.0989480026901
+['week', 'two car']	['particular week']	0.393094266122
+['week', 'two car']	['car']	0.38072875295
+['week', 'two car']	['first car']	0.194706354441
+['week', 'two car']	['40 gallon']	0.134169612504
+['week', 'two car']	['second']	0.264871871761
+['week', 'two car']	['gallon']	0.182103971574
+['week', 'two car']	['20 gallon']	0.134169612504
+['week', 'two car']	['mile']	0.179510659044
+['week', 'two car']	['1400 mile']	0.0988807452127
+['week', 'two car']	['average gas mileage']	0.0955709867396
+['week', 'two car']	['mileage']	0.0930847869987
+['week', 'two car']	['gas mileage']	0.0940933836275
+['car', 'two car']	['2 car']	0.815644758938
+['car', 'two car']	['average mile']	0.190181920436
+['car', 'two car']	['particular week']	0.231054788381
+['car', 'two car']	['week']	0.263382594417
+['car', 'two car']	['first car']	0.915490761623
+['car', 'two car']	['40 gallon']	0.215378247734
+['car', 'two car']	['second']	0.292196503111
+['car', 'two car']	['gallon']	0.291412897447
+['car', 'two car']	['20 gallon']	0.215378247734
+['car', 'two car']	['mile']	0.268217200015
+['car', 'two car']	['1400 mile']	0.182485327668
+['car', 'two car']	['average gas mileage']	0.370415872798
+['car', 'two car']	['mileage']	0.422860264267
+['car', 'two car']	['gas mileage']	0.249657997996
+['first car', 'two car']	['2 car']	0.664908650047
+['first car', 'two car']	['average mile']	0.243066958174
+['first car', 'two car']	['particular week']	0.223683215744
+['first car', 'two car']	['week']	0.169676900315
+['first car', 'two car']	['car']	0.832841066557
+['first car', 'two car']	['40 gallon']	0.336950901833
+['first car', 'two car']	['second']	0.194112410309
+['first car', 'two car']	['gallon']	0.169676900315
+['first car', 'two car']	['20 gallon']	0.336950901833
+['first car', 'two car']	['mile']	0.169676900315
+['first car', 'two car']	['1400 mile']	0.127137811052
+['first car', 'two car']	['average gas mileage']	0.394406858436
+['first car', 'two car']	['mileage']	0.329177689786
+['first car', 'two car']	['gas mileage']	0.223683215744
+['40 gallon', 'two car']	['2 car']	0.656814097845
+['40 gallon', 'two car']	['average mile']	0.0696933362217
+['40 gallon', 'two car']	['particular week']	0.0669904799604
+['40 gallon', 'two car']	['week']	0.0106028278734
+['40 gallon', 'two car']	['car']	0.549490267826
+['40 gallon', 'two car']	['first car']	0.422808047873
+['40 gallon', 'two car']	['second']	0.011726423379
+['40 gallon', 'two car']	['gallon']	0.471678880869
+['40 gallon', 'two car']	['20 gallon']	0.781116950393
+['40 gallon', 'two car']	['mile']	0.0106028278734
+['40 gallon', 'two car']	['1400 mile']	0.0737139440912
+['40 gallon', 'two car']	['average gas mileage']	0.0885621548936
+['40 gallon', 'two car']	['mileage']	0.0690378963307
+['40 gallon', 'two car']	['gas mileage']	0.0696933362217
+['second', 'two car']	['2 car']	0.352778843168
+['second', 'two car']	['average mile']	0.0618737183104
+['second', 'two car']	['particular week']	0.1060326655
+['second', 'two car']	['week']	0.199328423808
+['second', 'two car']	['car']	0.436940117601
+['second', 'two car']	['first car']	0.18571691251
+['second', 'two car']	['40 gallon']	0.0714527268925
+['second', 'two car']	['gallon']	0.148770638241
+['second', 'two car']	['20 gallon']	0.0714527268925
+['second', 'two car']	['mile']	0.199328423808
+['second', 'two car']	['1400 mile']	0.0618737183104
+['second', 'two car']	['average gas mileage']	0.0467896072558
+['second', 'two car']	['mileage']	0.154602843086
+['second', 'two car']	['gas mileage']	0.0362241866398
+['gallon', 'two car']	['2 car']	0.342969259323
+['gallon', 'two car']	['average mile']	0.0989480026901
+['gallon', 'two car']	['particular week']	0.0989480026901
+['gallon', 'two car']	['week']	0.182103971574
+['gallon', 'two car']	['car']	0.40505605963
+['gallon', 'two car']	['first car']	0.160671266721
+['gallon', 'two car']	['40 gallon']	0.716346495963
+['gallon', 'two car']	['second']	0.203714300213
+['gallon', 'two car']	['20 gallon']	0.716346495963
+['gallon', 'two car']	['mile']	0.240707734152
+['gallon', 'two car']	['1400 mile']	0.0988807452127
+['gallon', 'two car']	['average gas mileage']	0.108867454938
+['gallon', 'two car']	['mileage']	0.1669002517
+['gallon', 'two car']	['gas mileage']	0.0982347768443
+['20 gallon', 'two car']	['2 car']	0.656814097845
+['20 gallon', 'two car']	['average mile']	0.0696933362217
+['20 gallon', 'two car']	['particular week']	0.0669904799604
+['20 gallon', 'two car']	['week']	0.0106028278734
+['20 gallon', 'two car']	['car']	0.549490267826
+['20 gallon', 'two car']	['first car']	0.422808047873
+['20 gallon', 'two car']	['40 gallon']	0.781116950393
+['20 gallon', 'two car']	['second']	0.011726423379
+['20 gallon', 'two car']	['gallon']	0.471678880869
+['20 gallon', 'two car']	['mile']	0.0106028278734
+['20 gallon', 'two car']	['1400 mile']	0.0737139440912
+['20 gallon', 'two car']	['average gas mileage']	0.0885621548936
+['20 gallon', 'two car']	['mileage']	0.0690378963307
+['20 gallon', 'two car']	['gas mileage']	0.0696933362217
+['mile', 'two car']	['2 car']	0.367969259323
+['mile', 'two car']	['average mile']	0.393094266122
+['mile', 'two car']	['particular week']	0.0989480026901
+['mile', 'two car']	['week']	0.179510659044
+['mile', 'two car']	['car']	0.412612810921
+['mile', 'two car']	['first car']	0.194706354441
+['mile', 'two car']	['40 gallon']	0.12810287516
+['mile', 'two car']	['second']	0.264871871761
+['mile', 'two car']	['gallon']	0.240707734152
+['mile', 'two car']	['20 gallon']	0.12810287516
+['mile', 'two car']	['1400 mile']	0.442012633359
+['mile', 'two car']	['average gas mileage']	0.0955709867396
+['mile', 'two car']	['mileage']	0.326376770168
+['mile', 'two car']	['gas mileage']	0.216780014011
+['1400 mile', 'two car']	['2 car']	0.553220629519
+['1400 mile', 'two car']	['average mile']	0.494524508322
+['1400 mile', 'two car']	['particular week']	0.0703393045902
+['1400 mile', 'two car']	['week']	0.0106028278734
+['1400 mile', 'two car']	['car']	0.591995464271
+['1400 mile', 'two car']	['first car']	0.465538040018
+['1400 mile', 'two car']	['40 gallon']	0.105691884463
+['1400 mile', 'two car']	['second']	0.0336326013502
+['1400 mile', 'two car']	['gallon']	0.0106028278734
+['1400 mile', 'two car']	['20 gallon']	0.105691884463
+['1400 mile', 'two car']	['mile']	0.343895355679
+['1400 mile', 'two car']	['average gas mileage']	0.0828503410239
+['1400 mile', 'two car']	['mileage']	0.0667637182209
+['1400 mile', 'two car']	['gas mileage']	0.0696933362217
+['average gas mileage', 'two car']	['2 car']	0.613260249167
+['average gas mileage', 'two car']	['average mile']	0.525786708981
+['average gas mileage', 'two car']	['particular week']	0.125502508807
+['average gas mileage', 'two car']	['week']	0.00614699614218
+['average gas mileage', 'two car']	['car']	0.645733601076
+['average gas mileage', 'two car']	['first car']	0.571342698387
+['average gas mileage', 'two car']	['40 gallon']	0.148312858671
+['average gas mileage', 'two car']	['second']	0.0113525773169
+['average gas mileage', 'two car']	['gallon']	0.0102289818113
+['average gas mileage', 'two car']	['20 gallon']	0.148312858671
+['average gas mileage', 'two car']	['mile']	0.00614699614218
+['average gas mileage', 'two car']	['1400 mile']	0.128877148308
+['average gas mileage', 'two car']	['mileage']	0.718353924504
+['average gas mileage', 'two car']	['gas mileage']	0.591151200184
+['mileage', 'two car']	['2 car']	0.603261578931
+['mileage', 'two car']	['average mile']	0.0696933362217
+['mileage', 'two car']	['particular week']	0.0669904799604
+['mileage', 'two car']	['week']	0.00982152087788
+['mileage', 'two car']	['car']	0.735432156756
+['mileage', 'two car']	['first car']	0.485145965568
+['mileage', 'two car']	['40 gallon']	0.103222748661
+['mileage', 'two car']	['second']	0.165627539268
+['mileage', 'two car']	['gallon']	0.0806965185133
+['mileage', 'two car']	['20 gallon']	0.103222748661
+['mileage', 'two car']	['mile']	0.252357689695
+['mileage', 'two car']	['1400 mile']	0.0696933362217
+['mileage', 'two car']	['average gas mileage']	0.6743897114
+['mileage', 'two car']	['gas mileage']	0.741109412751
+['gas mileage', 'two car']	['2 car']	0.551895791332
+['gas mileage', 'two car']	['average mile']	0.0696933362217
+['gas mileage', 'two car']	['particular week']	0.0703393045902
+['gas mileage', 'two car']	['week']	0.00800951534341
+['gas mileage', 'two car']	['car']	0.571174208232
+['gas mileage', 'two car']	['first car']	0.465538040018
+['gas mileage', 'two car']	['40 gallon']	0.105691884463
+['gas mileage', 'two car']	['second']	0.011726423379
+['gas mileage', 'two car']	['gallon']	0.0106028278734
+['gas mileage', 'two car']	['20 gallon']	0.105691884463
+['gas mileage', 'two car']	['mile']	0.126938252926
+['gas mileage', 'two car']	['1400 mile']	0.0737139440912
+['gas mileage', 'two car']	['average gas mileage']	0.541389563461
+['gas mileage', 'two car']	['mileage']	0.6473327453
+['2 car', 'particular week']	['average mile']	0.0707439302222
+['2 car', 'particular week']	['two car']	0.626348040786
+['2 car', 'particular week']	['week']	0.382295353943
+['2 car', 'particular week']	['car']	0.487027953071
+['2 car', 'particular week']	['first car']	0.457956430859
+['2 car', 'particular week']	['40 gallon']	0.11995745473
+['2 car', 'particular week']	['second']	0.0762790429326
+['2 car', 'particular week']	['gallon']	0.0106028278734
+['2 car', 'particular week']	['20 gallon']	0.11995745473
+['2 car', 'particular week']	['mile']	0.00800951534341
+['2 car', 'particular week']	['1400 mile']	0.0737139440912
+['2 car', 'particular week']	['average gas mileage']	0.102355233305
+['2 car', 'particular week']	['mileage']	0.063589773449
+['2 car', 'particular week']	['gas mileage']	0.0649040532856
+['average mile', 'particular week']	['2 car']	0.0824069519204
+['average mile', 'particular week']	['two car']	0.0830529202888
+['average mile', 'particular week']	['week']	0.345297574209
+['average mile', 'particular week']	['car']	0.0541974512876
+['average mile', 'particular week']	['first car']	0.0833805889219
+['average mile', 'particular week']	['40 gallon']	0.0827346205535
+['average mile', 'particular week']	['second']	0.0746384582482
+['average mile', 'particular week']	['gallon']	0.0143499502517
+['average mile', 'particular week']	['20 gallon']	0.0827346205535
+['average mile', 'particular week']	['mile']	0.345297574209
+['average mile', 'particular week']	['1400 mile']	0.584269096576
+['average mile', 'particular week']	['average gas mileage']	0.517407146997
+['average mile', 'particular week']	['mileage']	0.0764053905195
+['average mile', 'particular week']	['gas mileage']	0.0827346205535
+['two car', 'particular week']	['2 car']	0.614300738495
+['two car', 'particular week']	['average mile']	0.0707439302222
+['two car', 'particular week']	['week']	0.367124413772
+['two car', 'particular week']	['car']	0.591995464271
+['two car', 'particular week']	['first car']	0.457956430859
+['two car', 'particular week']	['40 gallon']	0.11995745473
+['two car', 'particular week']	['second']	0.0762790429326
+['two car', 'particular week']	['gallon']	0.0106028278734
+['two car', 'particular week']	['20 gallon']	0.11995745473
+['two car', 'particular week']	['mile']	0.0106028278734
+['two car', 'particular week']	['1400 mile']	0.0737139440912
+['two car', 'particular week']	['average gas mileage']	0.0961372162676
+['two car', 'particular week']	['mileage']	0.0667637182209
+['two car', 'particular week']	['gas mileage']	0.0683122427071
+['week', 'particular week']	['2 car']	0.207580222864
+['week', 'particular week']	['average mile']	0.144712775615
+['week', 'particular week']	['two car']	0.162036700565
+['week', 'particular week']	['car']	0.316721789324
+['week', 'particular week']	['first car']	0.177448801378
+['week', 'particular week']	['40 gallon']	0.150377262293
+['week', 'particular week']	['second']	0.522151836763
+['week', 'particular week']	['gallon']	0.35308884221
+['week', 'particular week']	['20 gallon']	0.150377262293
+['week', 'particular week']	['mile']	0.329739509058
+['week', 'particular week']	['1400 mile']	0.177448801378
+['week', 'particular week']	['average gas mileage']	0.277991946012
+['week', 'particular week']	['mileage']	0.206958438411
+['week', 'particular week']	['gas mileage']	0.10460536154
+['car', 'particular week']	['2 car']	0.656406681339
+['car', 'particular week']	['average mile']	0.0447585923885
+['car', 'particular week']	['two car']	0.759822200878
+['car', 'particular week']	['week']	0.362815140995
+['car', 'particular week']	['first car']	0.851455389491
+['car', 'particular week']	['40 gallon']	0.0454050549877
+['car', 'particular week']	['second']	0.177333535119
+['car', 'particular week']	['gallon']	0.139390787176
+['car', 'particular week']	['20 gallon']	0.0454050549877
+['car', 'particular week']	['mile']	0.0806714395726
+['car', 'particular week']	['1400 mile']	0.0465787639079
+['car', 'particular week']	['average gas mileage']	0.0927579207213
+['car', 'particular week']	['mileage']	0.148981772892
+['car', 'particular week']	['gas mileage']	0.0689008611286
+['first car', 'particular week']	['2 car']	0.511990346524
+['first car', 'particular week']	['average mile']	0.084903629396
+['first car', 'particular week']	['two car']	0.541038058415
+['first car', 'particular week']	['week']	0.389501994652
+['first car', 'particular week']	['car']	0.677090818983
+['first car', 'particular week']	['40 gallon']	0.083785214554
+['first car', 'particular week']	['second']	0.080603787226
+['first car', 'particular week']	['gallon']	0.0132263547461
+['first car', 'particular week']	['20 gallon']	0.083785214554
+['first car', 'particular week']	['mile']	0.0132263547461
+['first car', 'particular week']	['1400 mile']	0.0901100077042
+['first car', 'particular week']	['average gas mileage']	0.114953281671
+['first car', 'particular week']	['mileage']	0.0777864840342
+['first car', 'particular week']	['gas mileage']	0.0800317642921
+['40 gallon', 'particular week']	['2 car']	0.11192831726
+['40 gallon', 'particular week']	['average mile']	0.083785214554
+['40 gallon', 'particular week']	['two car']	0.105006879062
+['40 gallon', 'particular week']	['week']	0.345297574209
+['40 gallon', 'particular week']	['car']	0.0541974512876
+['40 gallon', 'particular week']	['first car']	0.092336172472
+['40 gallon', 'particular week']	['second']	0.080603787226
+['40 gallon', 'particular week']	['gallon']	0.700344368106
+['40 gallon', 'particular week']	['20 gallon']	0.754360422532
+['40 gallon', 'particular week']	['mile']	0.0143499502517
+['40 gallon', 'particular week']	['1400 mile']	0.0901100077042
+['40 gallon', 'particular week']	['average gas mileage']	0.113834866829
+['40 gallon', 'particular week']	['mileage']	0.0777864840342
+['40 gallon', 'particular week']	['gas mileage']	0.0827346205535
+['second', 'particular week']	['2 car']	0.0491527054295
+['second', 'particular week']	['average mile']	0.099007360298
+['second', 'particular week']	['two car']	0.0491527054295
+['second', 'particular week']	['week']	0.459010256855
+['second', 'particular week']	['car']	0.110178949437
+['second', 'particular week']	['first car']	0.0457699124874
+['second', 'particular week']	['40 gallon']	0.0457699124874
+['second', 'particular week']	['gallon']	0.185708591214
+['second', 'particular week']	['20 gallon']	0.0457699124874
+['second', 'particular week']	['mile']	0.228517949828
+['second', 'particular week']	['1400 mile']	0.0787160430154
+['second', 'particular week']	['average gas mileage']	0.0756982451627
+['second', 'particular week']	['mileage']	0.170842113008
+['second', 'particular week']	['gas mileage']	0.045123944119
+['gallon', 'particular week']	['2 car']	0.0421463435009
+['gallon', 'particular week']	['average mile']	0.0496026845292
+['gallon', 'particular week']	['two car']	0.0427923118694
+['gallon', 'particular week']	['week']	0.440210891901
+['gallon', 'particular week']	['car']	0.180033629449
+['gallon', 'particular week']	['first car']	0.0368028975308
+['gallon', 'particular week']	['40 gallon']	0.682815458932
+['gallon', 'particular week']	['second']	0.299759227269
+['gallon', 'particular week']	['20 gallon']	0.682815458932
+['gallon', 'particular week']	['mile']	0.234714385569
+['gallon', 'particular week']	['1400 mile']	0.0368028975308
+['gallon', 'particular week']	['average gas mileage']	0.057780750737
+['gallon', 'particular week']	['mileage']	0.109561042279
+['gallon', 'particular week']	['gas mileage']	0.0361569291624
+['20 gallon', 'particular week']	['2 car']	0.11192831726
+['20 gallon', 'particular week']	['average mile']	0.083785214554
+['20 gallon', 'particular week']	['two car']	0.105006879062
+['20 gallon', 'particular week']	['week']	0.345297574209
+['20 gallon', 'particular week']	['car']	0.0541974512876
+['20 gallon', 'particular week']	['first car']	0.092336172472
+['20 gallon', 'particular week']	['40 gallon']	0.754360422532
+['20 gallon', 'particular week']	['second']	0.080603787226
+['20 gallon', 'particular week']	['gallon']	0.700344368106
+['20 gallon', 'particular week']	['mile']	0.0143499502517
+['20 gallon', 'particular week']	['1400 mile']	0.0901100077042
+['20 gallon', 'particular week']	['average gas mileage']	0.113834866829
+['20 gallon', 'particular week']	['mileage']	0.0777864840342
+['20 gallon', 'particular week']	['gas mileage']	0.0827346205535
+['mile', 'particular week']	['2 car']	0.0379376928067
+['mile', 'particular week']	['average mile']	0.382262169219
+['mile', 'particular week']	['two car']	0.0427923118694
+['mile', 'particular week']	['week']	0.455381832072
+['mile', 'particular week']	['car']	0.102367866461
+['mile', 'particular week']	['first car']	0.0368028975308
+['mile', 'particular week']	['40 gallon']	0.0368701550083
+['mile', 'particular week']	['second']	0.368532996852
+['mile', 'particular week']	['gallon']	0.207374400819
+['mile', 'particular week']	['20 gallon']	0.0368701550083
+['mile', 'particular week']	['1400 mile']	0.442012633359
+['mile', 'particular week']	['average gas mileage']	0.0444842825389
+['mile', 'particular week']	['mileage']	0.428030453876
+['mile', 'particular week']	['gas mileage']	0.185359131193
+['1400 mile', 'particular week']	['2 car']	0.0824069519204
+['1400 mile', 'particular week']	['average mile']	0.520866309821
+['1400 mile', 'particular week']	['two car']	0.0830529202888
+['1400 mile', 'particular week']	['week']	0.345297574209
+['1400 mile', 'particular week']	['car']	0.0541974512876
+['1400 mile', 'particular week']	['first car']	0.0833805889219
+['1400 mile', 'particular week']	['40 gallon']	0.0827346205535
+['1400 mile', 'particular week']	['second']	0.0746384582482
+['1400 mile', 'particular week']	['gallon']	0.0143499502517
+['1400 mile', 'particular week']	['20 gallon']	0.0827346205535
+['1400 mile', 'particular week']	['mile']	0.500847544769
+['1400 mile', 'particular week']	['average gas mileage']	0.107439128991
+['1400 mile', 'particular week']	['mileage']	0.0764053905195
+['1400 mile', 'particular week']	['gas mileage']	0.0827346205535
+['average gas mileage', 'particular week']	['2 car']	0.138370396746
+['average gas mileage', 'particular week']	['average mile']	0.597432376247
+['average gas mileage', 'particular week']	['two car']	0.152130130711
+['average gas mileage', 'particular week']	['week']	0.326134128403
+['average gas mileage', 'particular week']	['car']	0.0755065871874
+['average gas mileage', 'particular week']	['first car']	0.152884447848
+['average gas mileage', 'particular week']	['40 gallon']	0.152238479479
+['average gas mileage', 'particular week']	['second']	0.105389543586
+['average gas mileage', 'particular week']	['gallon']	0.012852508684
+['average gas mileage', 'particular week']	['20 gallon']	0.152238479479
+['average gas mileage', 'particular week']	['mile']	0.0113388858743
+['average gas mileage', 'particular week']	['1400 mile']	0.15961386663
+['average gas mileage', 'particular week']	['mileage']	0.710717029052
+['average gas mileage', 'particular week']	['gas mileage']	0.606926316831
+['mileage', 'particular week']	['2 car']	0.105958674881
+['mileage', 'particular week']	['average mile']	0.083785214554
+['mileage', 'particular week']	['two car']	0.0830529202888
+['mileage', 'particular week']	['week']	0.427039441693
+['mileage', 'particular week']	['car']	0.164940774679
+['mileage', 'particular week']	['first car']	0.0833805889219
+['mileage', 'particular week']	['40 gallon']	0.0827346205535
+['mileage', 'particular week']	['second']	0.24615074365
+['mileage', 'particular week']	['gallon']	0.0840233603755
+['mileage', 'particular week']	['20 gallon']	0.0827346205535
+['mileage', 'particular week']	['mile']	0.27991800818
+['mileage', 'particular week']	['1400 mile']	0.0827346205535
+['mileage', 'particular week']	['average gas mileage']	0.699627997255
+['mileage', 'particular week']	['gas mileage']	0.740473158541
+['gas mileage', 'particular week']	['2 car']	0.0765935955162
+['gas mileage', 'particular week']	['average mile']	0.0871340391838
+['gas mileage', 'particular week']	['two car']	0.0830529202888
+['gas mileage', 'particular week']	['week']	0.353990387311
+['gas mileage', 'particular week']	['car']	0.0498296537608
+['gas mileage', 'particular week']	['first car']	0.0833805889219
+['gas mileage', 'particular week']	['40 gallon']	0.0827346205535
+['gas mileage', 'particular week']	['second']	0.080603787226
+['gas mileage', 'particular week']	['gallon']	0.0132263547461
+['gas mileage', 'particular week']	['20 gallon']	0.0827346205535
+['gas mileage', 'particular week']	['mile']	0.0484050393962
+['gas mileage', 'particular week']	['1400 mile']	0.0901100077042
+['gas mileage', 'particular week']	['average gas mileage']	0.556017546131
+['gas mileage', 'particular week']	['mileage']	0.696347083353
+['2 car', 'week']	['average mile']	0.0989480026901
+['2 car', 'week']	['two car']	0.376302592657
+['2 car', 'week']	['particular week']	0.393094266122
+['2 car', 'week']	['car']	0.444467491688
+['2 car', 'week']	['first car']	0.194706354441
+['2 car', 'week']	['40 gallon']	0.134169612504
+['2 car', 'week']	['second']	0.264871871761
+['2 car', 'week']	['gallon']	0.182103971574
+['2 car', 'week']	['20 gallon']	0.134169612504
+['2 car', 'week']	['mile']	0.179510659044
+['2 car', 'week']	['1400 mile']	0.0988807452127
+['2 car', 'week']	['average gas mileage']	0.0955709867396
+['2 car', 'week']	['mileage']	0.0930847869987
+['2 car', 'week']	['gas mileage']	0.0940261261501
+['average mile', 'week']	['2 car']	0.0379376928067
+['average mile', 'week']	['two car']	0.0421463435009
+['average mile', 'week']	['particular week']	0.384540526976
+['average mile', 'week']	['car']	0.177003326418
+['average mile', 'week']	['first car']	0.0361569291624
+['average mile', 'week']	['40 gallon']	0.0361569291624
+['average mile', 'week']	['second']	0.310570615192
+['average mile', 'week']	['gallon']	0.148837895719
+['average mile', 'week']	['20 gallon']	0.0361569291624
+['average mile', 'week']	['mile']	0.455381832072
+['average mile', 'week']	['1400 mile']	0.160671266721
+['average mile', 'week']	['average gas mileage']	0.429796390793
+['average mile', 'week']	['mileage']	0.0310069393168
+['average mile', 'week']	['gas mileage']	0.0319482784682
+['two car', 'week']	['2 car']	0.367969259323
+['two car', 'week']	['average mile']	0.0989480026901
+['two car', 'week']	['particular week']	0.393094266122
+['two car', 'week']	['car']	0.38072875295
+['two car', 'week']	['first car']	0.194706354441
+['two car', 'week']	['40 gallon']	0.134169612504
+['two car', 'week']	['second']	0.264871871761
+['two car', 'week']	['gallon']	0.182103971574
+['two car', 'week']	['20 gallon']	0.134169612504
+['two car', 'week']	['mile']	0.179510659044
+['two car', 'week']	['1400 mile']	0.0988807452127
+['two car', 'week']	['average gas mileage']	0.0955709867396
+['two car', 'week']	['mileage']	0.0930847869987
+['two car', 'week']	['gas mileage']	0.0940933836275
+['particular week', 'week']	['2 car']	0.207580222864
+['particular week', 'week']	['average mile']	0.144712775615
+['particular week', 'week']	['two car']	0.162036700565
+['particular week', 'week']	['car']	0.316721789324
+['particular week', 'week']	['first car']	0.177448801378
+['particular week', 'week']	['40 gallon']	0.150377262293
+['particular week', 'week']	['second']	0.522151836763
+['particular week', 'week']	['gallon']	0.35308884221
+['particular week', 'week']	['20 gallon']	0.150377262293
+['particular week', 'week']	['mile']	0.329739509058
+['particular week', 'week']	['1400 mile']	0.177448801378
+['particular week', 'week']	['average gas mileage']	0.277991946012
+['particular week', 'week']	['mileage']	0.206958438411
+['particular week', 'week']	['gas mileage']	0.10460536154
+['car', 'week']	['2 car']	0.209308149868
+['car', 'week']	['average mile']	0.0780842671024
+['car', 'week']	['two car']	0.251025138595
+['car', 'week']	['particular week']	0.321082357697
+['car', 'week']	['first car']	0.323337948267
+['car', 'week']	['40 gallon']	0.0774382987339
+['car', 'week']	['second']	0.0854169707614
+['car', 'week']	['gallon']	0.235634509169
+['car', 'week']	['20 gallon']	0.0774382987339
+['car', 'week']	['mile']	0.131959820015
+['car', 'week']	['1400 mile']	0.0780842671024
+['car', 'week']	['average gas mileage']	0.101093601569
+['car', 'week']	['mileage']	0.136625158328
+['car', 'week']	['gas mileage']	0.101514737117
+['first car', 'week']	['2 car']	0.227663245293
+['first car', 'week']	['average mile']	0.0368701550083
+['first car', 'week']	['two car']	0.213935566721
+['first car', 'week']	['particular week']	0.378733264805
+['first car', 'week']	['car']	0.42712089933
+['first car', 'week']	['40 gallon']	0.0406236052701
+['first car', 'week']	['second']	0.231538538428
+['first car', 'week']	['gallon']	0.148770638241
+['first car', 'week']	['20 gallon']	0.0406236052701
+['first car', 'week']	['mile']	0.146177325711
+['first car', 'week']	['1400 mile']	0.0368028975308
+['first car', 'week']	['average gas mileage']	0.0335603965352
+['first car', 'week']	['mileage']	0.0310069393168
+['first car', 'week']	['gas mileage']	0.0320155359456
+['40 gallon', 'week']	['2 car']	0.0891890359625
+['40 gallon', 'week']	['average mile']	0.0368701550083
+['40 gallon', 'week']	['two car']	0.0650051934866
+['40 gallon', 'week']	['particular week']	0.378733264805
+['40 gallon', 'week']	['car']	0.177003326418
+['40 gallon', 'week']	['first car']	0.0406236052701
+['40 gallon', 'week']	['second']	0.226668408558
+['40 gallon', 'week']	['gallon']	0.799761506528
+['40 gallon', 'week']	['20 gallon']	0.345702406444
+['40 gallon', 'week']	['mile']	0.165120987683
+['40 gallon', 'week']	['1400 mile']	0.0368028975308
+['40 gallon', 'week']	['average gas mileage']	0.0334931390577
+['40 gallon', 'week']	['mileage']	0.0310069393168
+['40 gallon', 'week']	['gas mileage']	0.0319482784682
+['second', 'week']	['2 car']	0.0401150227306
+['second', 'week']	['average mile']	0.0355119873569
+['second', 'week']	['two car']	0.0180288480811
+['second', 'week']	['particular week']	0.330137986213
+['second', 'week']	['car']	0.0369630681137
+['second', 'week']	['first car']	0.0160076877108
+['second', 'week']	['40 gallon']	0.0160749451882
+['second', 'week']	['gallon']	0.0854960860986
+['second', 'week']	['20 gallon']	0.0160749451882
+['second', 'week']	['mile']	0.119478191512
+['second', 'week']	['1400 mile']	0.0355119873569
+['second', 'week']	['average gas mileage']	0.0183047716524
+['second', 'week']	['mileage']	0.0666939938481
+['second', 'week']	['gas mileage']	0.0134816326582
+['gallon', 'week']	['2 car']	0.0855132013781
+['gallon', 'week']	['average mile']	0.0819859443486
+['gallon', 'week']	['two car']	0.0839398472414
+['gallon', 'week']	['particular week']	0.359760932789
+['gallon', 'week']	['car']	0.0857111140469
+['gallon', 'week']	['first car']	0.0819186868711
+['gallon', 'week']	['40 gallon']	0.650514562229
+['gallon', 'week']	['second']	0.154259447304
+['gallon', 'week']	['20 gallon']	0.650514562229
+['gallon', 'week']	['mile']	0.152811524845
+['gallon', 'week']	['1400 mile']	0.0819859443486
+['gallon', 'week']	['average gas mileage']	0.0841485133353
+['gallon', 'week']	['mileage']	0.14783634754
+['gallon', 'week']	['gas mileage']	0.0793253743412
+['20 gallon', 'week']	['2 car']	0.0891890359625
+['20 gallon', 'week']	['average mile']	0.0368701550083
+['20 gallon', 'week']	['two car']	0.0650051934866
+['20 gallon', 'week']	['particular week']	0.378733264805
+['20 gallon', 'week']	['car']	0.177003326418
+['20 gallon', 'week']	['first car']	0.0406236052701
+['20 gallon', 'week']	['40 gallon']	0.345702406444
+['20 gallon', 'week']	['second']	0.226668408558
+['20 gallon', 'week']	['gallon']	0.799761506528
+['20 gallon', 'week']	['mile']	0.165120987683
+['20 gallon', 'week']	['1400 mile']	0.0368028975308
+['20 gallon', 'week']	['average gas mileage']	0.0334931390577
+['20 gallon', 'week']	['mileage']	0.0310069393168
+['20 gallon', 'week']	['gas mileage']	0.0319482784682
+['mile', 'week']	['2 car']	0.0855132013781
+['mile', 'week']	['average mile']	0.359760932789
+['mile', 'week']	['two car']	0.0839398472414
+['mile', 'week']	['particular week']	0.359760932789
+['mile', 'week']	['car']	0.123561254103
+['mile', 'week']	['first car']	0.0819186868711
+['mile', 'week']	['40 gallon']	0.0819859443486
+['mile', 'week']	['second']	0.0532047724417
+['mile', 'week']	['gallon']	0.153695435666
+['mile', 'week']	['20 gallon']	0.0819859443486
+['mile', 'week']	['1400 mile']	0.536520223283
+['mile', 'week']	['average gas mileage']	0.0841485133353
+['mile', 'week']	['mileage']	0.225019472356
+['mile', 'week']	['gas mileage']	0.220040145794
+['1400 mile', 'week']	['2 car']	0.0379376928067
+['1400 mile', 'week']	['average mile']	0.160671266721
+['1400 mile', 'week']	['two car']	0.0421463435009
+['1400 mile', 'week']	['particular week']	0.384540526976
+['1400 mile', 'week']	['car']	0.177003326418
+['1400 mile', 'week']	['first car']	0.0361569291624
+['1400 mile', 'week']	['40 gallon']	0.0361569291624
+['1400 mile', 'week']	['second']	0.310570615192
+['1400 mile', 'week']	['gallon']	0.148837895719
+['1400 mile', 'week']	['20 gallon']	0.0361569291624
+['1400 mile', 'week']	['mile']	0.637730395476
+['1400 mile', 'week']	['average gas mileage']	0.0334931390577
+['1400 mile', 'week']	['mileage']	0.0310069393168
+['1400 mile', 'week']	['gas mileage']	0.0319482784682
+['average gas mileage', 'week']	['2 car']	0.0368813547786
+['average gas mileage', 'week']	['average mile']	0.427489722046
+['average gas mileage', 'week']	['two car']	0.0410900054728
+['average gas mileage', 'week']	['particular week']	0.32015079594
+['average gas mileage', 'week']	['car']	0.177003326418
+['average gas mileage', 'week']	['first car']	0.0351005911342
+['average gas mileage', 'week']	['40 gallon']	0.0351005911342
+['average gas mileage', 'week']	['second']	0.231538538428
+['average gas mileage', 'week']	['gallon']	0.147714300213
+['average gas mileage', 'week']	['20 gallon']	0.0351005911342
+['average gas mileage', 'week']	['mile']	0.145120987683
+['average gas mileage', 'week']	['1400 mile']	0.0357465595026
+['average gas mileage', 'week']	['mileage']	0.442682760203
+['average gas mileage', 'week']	['gas mileage']	0.169270740165
+['mileage', 'week']	['2 car']	0.0421043594734
+['mileage', 'week']	['average mile']	0.0368701550083
+['mileage', 'week']	['two car']	0.0421463435009
+['mileage', 'week']	['particular week']	0.345399931471
+['mileage', 'week']	['car']	0.0794423922809
+['mileage', 'week']	['first car']	0.0361569291624
+['mileage', 'week']	['40 gallon']	0.0361569291624
+['mileage', 'week']	['second']	0.0532047724417
+['mileage', 'week']	['gallon']	0.0854960860986
+['mileage', 'week']	['20 gallon']	0.0361569291624
+['mileage', 'week']	['mile']	0.179256259998
+['mileage', 'week']	['1400 mile']	0.0368701550083
+['mileage', 'week']	['average gas mileage']	0.305138973107
+['mileage', 'week']	['gas mileage']	0.492640239351
+['gas mileage', 'week']	['2 car']	0.0379376928067
+['gas mileage', 'week']	['average mile']	0.0368028975308
+['gas mileage', 'week']	['two car']	0.0421463435009
+['gas mileage', 'week']	['particular week']	0.384540526976
+['gas mileage', 'week']	['car']	0.177003326418
+['gas mileage', 'week']	['first car']	0.0361569291624
+['gas mileage', 'week']	['40 gallon']	0.0361569291624
+['gas mileage', 'week']	['second']	0.231538538428
+['gas mileage', 'week']	['gallon']	0.148770638241
+['gas mileage', 'week']	['20 gallon']	0.0361569291624
+['gas mileage', 'week']	['mile']	0.208582150639
+['gas mileage', 'week']	['1400 mile']	0.0368028975308
+['gas mileage', 'week']	['average gas mileage']	0.191252591005
+['gas mileage', 'week']	['mileage']	0.617272697019
+['2 car', 'car']	['average mile']	0.190181920436
+['2 car', 'car']	['two car']	0.870413886188
+['2 car', 'car']	['particular week']	0.182705155246
+['2 car', 'car']	['week']	0.263382594417
+['2 car', 'car']	['first car']	0.915490761623
+['2 car', 'car']	['40 gallon']	0.215378247734
+['2 car', 'car']	['second']	0.292196503111
+['2 car', 'car']	['gallon']	0.291412897447
+['2 car', 'car']	['20 gallon']	0.215378247734
+['2 car', 'car']	['mile']	0.268217200015
+['2 car', 'car']	['1400 mile']	0.182485327668
+['2 car', 'car']	['average gas mileage']	0.370415872798
+['2 car', 'car']	['mileage']	0.422860264267
+['2 car', 'car']	['gas mileage']	0.23862293435
+['average mile', 'car']	['2 car']	0.593444216664
+['average mile', 'car']	['two car']	0.65084700761
+['average mile', 'car']	['particular week']	0.0465787639079
+['average mile', 'car']	['week']	0.160148362933
+['average mile', 'car']	['first car']	0.687535207027
+['average mile', 'car']	['40 gallon']	0.0465787639079
+['average mile', 'car']	['second']	0.162774545232
+['average mile', 'car']	['gallon']	0.199996847782
+['average mile', 'car']	['20 gallon']	0.0465787639079
+['average mile', 'car']	['mile']	0.396148474328
+['average mile', 'car']	['1400 mile']	0.386916343381
+['average mile', 'car']	['average gas mileage']	0.328086143812
+['average mile', 'car']	['mileage']	0.148981772892
+['average mile', 'car']	['gas mileage']	0.0546200245943
+['two car', 'car']	['2 car']	0.815644758938
+['two car', 'car']	['average mile']	0.190181920436
+['two car', 'car']	['particular week']	0.231054788381
+['two car', 'car']	['week']	0.263382594417
+['two car', 'car']	['first car']	0.915490761623
+['two car', 'car']	['40 gallon']	0.215378247734
+['two car', 'car']	['second']	0.292196503111
+['two car', 'car']	['gallon']	0.291412897447
+['two car', 'car']	['20 gallon']	0.215378247734
+['two car', 'car']	['mile']	0.268217200015
+['two car', 'car']	['1400 mile']	0.182485327668
+['two car', 'car']	['average gas mileage']	0.370415872798
+['two car', 'car']	['mileage']	0.422860264267
+['two car', 'car']	['gas mileage']	0.249657997996
+['particular week', 'car']	['2 car']	0.656406681339
+['particular week', 'car']	['average mile']	0.0447585923885
+['particular week', 'car']	['two car']	0.759822200878
+['particular week', 'car']	['week']	0.362815140995
+['particular week', 'car']	['first car']	0.851455389491
+['particular week', 'car']	['40 gallon']	0.0454050549877
+['particular week', 'car']	['second']	0.177333535119
+['particular week', 'car']	['gallon']	0.139390787176
+['particular week', 'car']	['20 gallon']	0.0454050549877
+['particular week', 'car']	['mile']	0.0806714395726
+['particular week', 'car']	['1400 mile']	0.0465787639079
+['particular week', 'car']	['average gas mileage']	0.0927579207213
+['particular week', 'car']	['mileage']	0.148981772892
+['particular week', 'car']	['gas mileage']	0.0689008611286
+['week', 'car']	['2 car']	0.209308149868
+['week', 'car']	['average mile']	0.0780842671024
+['week', 'car']	['two car']	0.251025138595
+['week', 'car']	['particular week']	0.321082357697
+['week', 'car']	['first car']	0.323337948267
+['week', 'car']	['40 gallon']	0.0774382987339
+['week', 'car']	['second']	0.0854169707614
+['week', 'car']	['gallon']	0.235634509169
+['week', 'car']	['20 gallon']	0.0774382987339
+['week', 'car']	['mile']	0.131959820015
+['week', 'car']	['1400 mile']	0.0780842671024
+['week', 'car']	['average gas mileage']	0.101093601569
+['week', 'car']	['mileage']	0.136625158328
+['week', 'car']	['gas mileage']	0.101514737117
+['first car', 'car']	['2 car']	0.801436581174
+['first car', 'car']	['average mile']	0.158497626098
+['first car', 'car']	['two car']	0.859236011455
+['first car', 'car']	['particular week']	0.176424014536
+['first car', 'car']	['week']	0.228240826026
+['first car', 'car']	['40 gallon']	0.144936819178
+['first car', 'car']	['second']	0.226285503951
+['first car', 'car']	['gallon']	0.225501898287
+['first car', 'car']	['20 gallon']	0.144936819178
+['first car', 'car']	['mile']	0.233075431624
+['first car', 'car']	['1400 mile']	0.124609221473
+['first car', 'car']	['average gas mileage']	0.314716568577
+['first car', 'car']	['mileage']	0.364984158072
+['first car', 'car']	['gas mileage']	0.229243505247
+['40 gallon', 'car']	['2 car']	0.734405199705
+['40 gallon', 'car']	['average mile']	0.0465787639079
+['40 gallon', 'car']	['two car']	0.810977133761
+['40 gallon', 'car']	['particular week']	0.0454050549877
+['40 gallon', 'car']	['week']	0.1268150296
+['40 gallon', 'car']	['first car']	0.887049648333
+['40 gallon', 'car']	['second']	0.101843809302
+['40 gallon', 'car']	['gallon']	0.474400925907
+['40 gallon', 'car']	['20 gallon']	0.678489867715
+['40 gallon', 'car']	['mile']	0.0806714395726
+['40 gallon', 'car']	['1400 mile']	0.0465787639079
+['40 gallon', 'car']	['average gas mileage']	0.073084825274
+['40 gallon', 'car']	['mileage']	0.131949318167
+['40 gallon', 'car']	['gas mileage']	0.0546200245943
+['second', 'car']	['2 car']	0.321385802408
+['second', 'car']	['average mile']	0.0221369896995
+['second', 'car']	['two car']	0.349552094177
+['second', 'car']	['particular week']	0.0448241044795
+['second', 'car']	['week']	0.0451606708229
+['second', 'car']	['first car']	0.421201406126
+['second', 'car']	['40 gallon']	0.0160064194205
+['second', 'car']	['gallon']	0.172842414432
+['second', 'car']	['20 gallon']	0.0160064194205
+['second', 'car']	['mile']	0.0451606708229
+['second', 'car']	['1400 mile']	0.0221369896995
+['second', 'car']	['average gas mileage']	0.0390157538874
+['second', 'car']	['mileage']	0.0221944272583
+['second', 'car']	['gas mileage']	0.0394368894349
+['gallon', 'car']	['2 car']	0.209308149868
+['gallon', 'car']	['average mile']	0.0780842671024
+['gallon', 'car']	['two car']	0.212533075103
+['gallon', 'car']	['particular week']	0.0774382987339
+['gallon', 'car']	['week']	0.186770872805
+['gallon', 'car']	['first car']	0.323337948267
+['gallon', 'car']	['40 gallon']	0.287985445688
+['gallon', 'car']	['second']	0.132243865519
+['gallon', 'car']	['20 gallon']	0.287985445688
+['gallon', 'car']	['mile']	0.136673192708
+['gallon', 'car']	['1400 mile']	0.0780842671024
+['gallon', 'car']	['average gas mileage']	0.0868127650349
+['gallon', 'car']	['mileage']	0.0980856212375
+['gallon', 'car']	['gas mileage']	0.0872339005824
+['20 gallon', 'car']	['2 car']	0.734405199705
+['20 gallon', 'car']	['average mile']	0.0465787639079
+['20 gallon', 'car']	['two car']	0.810977133761
+['20 gallon', 'car']	['particular week']	0.0454050549877
+['20 gallon', 'car']	['week']	0.1268150296
+['20 gallon', 'car']	['first car']	0.887049648333
+['20 gallon', 'car']	['40 gallon']	0.678489867715
+['20 gallon', 'car']	['second']	0.101843809302
+['20 gallon', 'car']	['gallon']	0.474400925907
+['20 gallon', 'car']	['mile']	0.0806714395726
+['20 gallon', 'car']	['1400 mile']	0.0465787639079
+['20 gallon', 'car']	['average gas mileage']	0.073084825274
+['20 gallon', 'car']	['mileage']	0.131949318167
+['20 gallon', 'car']	['gas mileage']	0.0546200245943
+['mile', 'car']	['2 car']	0.209308149868
+['mile', 'car']	['average mile']	0.321082357697
+['mile', 'car']	['two car']	0.251025138595
+['mile', 'car']	['particular week']	0.0780842671024
+['mile', 'car']	['week']	0.185342414432
+['mile', 'car']	['first car']	0.323337948267
+['mile', 'car']	['40 gallon']	0.0780842671024
+['mile', 'car']	['second']	0.0854169707614
+['mile', 'car']	['gallon']	0.176806670341
+['mile', 'car']	['20 gallon']	0.0780842671024
+['mile', 'car']	['1400 mile']	0.391849831526
+['mile', 'car']	['average gas mileage']	0.101093601569
+['mile', 'car']	['mileage']	0.194277319902
+['mile', 'car']	['gas mileage']	0.194322062131
+['1400 mile', 'car']	['2 car']	0.593444216664
+['1400 mile', 'car']	['average mile']	0.386916343381
+['1400 mile', 'car']	['two car']	0.65084700761
+['1400 mile', 'car']	['particular week']	0.0465787639079
+['1400 mile', 'car']	['week']	0.160148362933
+['1400 mile', 'car']	['first car']	0.687535207027
+['1400 mile', 'car']	['40 gallon']	0.0465787639079
+['1400 mile', 'car']	['second']	0.162774545232
+['1400 mile', 'car']	['gallon']	0.199996847782
+['1400 mile', 'car']	['20 gallon']	0.0465787639079
+['1400 mile', 'car']	['mile']	0.455951375696
+['1400 mile', 'car']	['average gas mileage']	0.0576302798195
+['1400 mile', 'car']	['mileage']	0.148981772892
+['1400 mile', 'car']	['gas mileage']	0.0546200245943
+['average gas mileage', 'car']	['2 car']	0.591239853863
+['average gas mileage', 'car']	['average mile']	0.286900269506
+['average gas mileage', 'car']	['two car']	0.648642644809
+['average gas mileage', 'car']	['particular week']	0.0465787639079
+['average gas mileage', 'car']	['week']	0.159392695427
+['average gas mileage', 'car']	['first car']	0.664800164292
+['average gas mileage', 'car']	['40 gallon']	0.0465787639079
+['average gas mileage', 'car']	['second']	0.105958271665
+['average gas mileage', 'car']	['gallon']	0.13863511967
+['average gas mileage', 'car']	['20 gallon']	0.0465787639079
+['average gas mileage', 'car']	['mile']	0.0799157720663
+['average gas mileage', 'car']	['1400 mile']	0.0465787639079
+['average gas mileage', 'car']	['mileage']	0.652225721958
+['average gas mileage', 'car']	['gas mileage']	0.399056720365
+['mileage', 'car']	['2 car']	0.592518290738
+['mileage', 'car']	['average mile']	0.046982964258
+['mileage', 'car']	['two car']	0.693352204055
+['mileage', 'car']	['particular week']	0.046982964258
+['mileage', 'car']	['week']	0.0847517873707
+['mileage', 'car']	['first car']	0.708215006646
+['mileage', 'car']	['40 gallon']	0.0465787639079
+['mileage', 'car']	['second']	0.0343964663254
+['mileage', 'car']	['gallon']	0.0297471916415
+['mileage', 'car']	['20 gallon']	0.0465787639079
+['mileage', 'car']	['mile']	0.157410173596
+['mileage', 'car']	['1400 mile']	0.046982964258
+['mileage', 'car']	['average gas mileage']	0.588905923342
+['mileage', 'car']	['gas mileage']	0.600347666935
+['gas mileage', 'car']	['2 car']	0.593444216664
+['gas mileage', 'car']	['average mile']	0.0465787639079
+['gas mileage', 'car']	['two car']	0.65084700761
+['gas mileage', 'car']	['particular week']	0.0465787639079
+['gas mileage', 'car']	['week']	0.160148362933
+['gas mileage', 'car']	['first car']	0.687535207027
+['gas mileage', 'car']	['40 gallon']	0.0465787639079
+['gas mileage', 'car']	['second']	0.106713939172
+['gas mileage', 'car']	['gallon']	0.139390787176
+['gas mileage', 'car']	['20 gallon']	0.0465787639079
+['gas mileage', 'car']	['mile']	0.110594043297
+['gas mileage', 'car']	['1400 mile']	0.0465787639079
+['gas mileage', 'car']	['average gas mileage']	0.446082985821
+['gas mileage', 'car']	['mileage']	0.719103196252
+['2 car', 'first car']	['average mile']	0.243066958174
+['2 car', 'first car']	['two car']	0.664908650047
+['2 car', 'first car']	['particular week']	0.223683215744
+['2 car', 'first car']	['week']	0.221503537377
+['2 car', 'first car']	['car']	0.787242495091
+['2 car', 'first car']	['40 gallon']	0.336950901833
+['2 car', 'first car']	['second']	0.194112410309
+['2 car', 'first car']	['gallon']	0.169676900315
+['2 car', 'first car']	['20 gallon']	0.336950901833
+['2 car', 'first car']	['mile']	0.221503537377
+['2 car', 'first car']	['1400 mile']	0.127137811052
+['2 car', 'first car']	['average gas mileage']	0.373427010996
+['2 car', 'first car']	['mileage']	0.334519706976
+['2 car', 'first car']	['gas mileage']	0.216456331798
+['average mile', 'first car']	['2 car']	0.51364678879
+['average mile', 'first car']	['two car']	0.51364678879
+['average mile', 'first car']	['particular week']	0.0833805889219
+['average mile', 'first car']	['week']	0.0132263547461
+['average mile', 'first car']	['car']	0.677090818983
+['average mile', 'first car']	['40 gallon']	0.0871340391838
+['average mile', 'first car']	['second']	0.0430502462229
+['average mile', 'first car']	['gallon']	0.0132263547461
+['average mile', 'first car']	['20 gallon']	0.0871340391838
+['average mile', 'first car']	['mile']	0.37839088354
+['average mile', 'first car']	['1400 mile']	0.584269096576
+['average mile', 'first car']	['average gas mileage']	0.514053739722
+['average mile', 'first car']	['mileage']	0.0777864840342
+['average mile', 'first car']	['gas mileage']	0.0833805889219
+['two car', 'first car']	['2 car']	0.664908650047
+['two car', 'first car']	['average mile']	0.243066958174
+['two car', 'first car']	['particular week']	0.223683215744
+['two car', 'first car']	['week']	0.169676900315
+['two car', 'first car']	['car']	0.832841066557
+['two car', 'first car']	['40 gallon']	0.336950901833
+['two car', 'first car']	['second']	0.194112410309
+['two car', 'first car']	['gallon']	0.169676900315
+['two car', 'first car']	['20 gallon']	0.336950901833
+['two car', 'first car']	['mile']	0.169676900315
+['two car', 'first car']	['1400 mile']	0.127137811052
+['two car', 'first car']	['average gas mileage']	0.394406858436
+['two car', 'first car']	['mileage']	0.329177689786
+['two car', 'first car']	['gas mileage']	0.223683215744
+['particular week', 'first car']	['2 car']	0.511990346524
+['particular week', 'first car']	['average mile']	0.084903629396
+['particular week', 'first car']	['two car']	0.541038058415
+['particular week', 'first car']	['week']	0.389501994652
+['particular week', 'first car']	['car']	0.677090818983
+['particular week', 'first car']	['40 gallon']	0.083785214554
+['particular week', 'first car']	['second']	0.080603787226
+['particular week', 'first car']	['gallon']	0.0132263547461
+['particular week', 'first car']	['20 gallon']	0.083785214554
+['particular week', 'first car']	['mile']	0.0132263547461
+['particular week', 'first car']	['1400 mile']	0.0901100077042
+['particular week', 'first car']	['average gas mileage']	0.114953281671
+['particular week', 'first car']	['mileage']	0.0777864840342
+['particular week', 'first car']	['gas mileage']	0.0800317642921
+['week', 'first car']	['2 car']	0.227663245293
+['week', 'first car']	['average mile']	0.0368701550083
+['week', 'first car']	['two car']	0.213935566721
+['week', 'first car']	['particular week']	0.378733264805
+['week', 'first car']	['car']	0.42712089933
+['week', 'first car']	['40 gallon']	0.0406236052701
+['week', 'first car']	['second']	0.231538538428
+['week', 'first car']	['gallon']	0.148770638241
+['week', 'first car']	['20 gallon']	0.0406236052701
+['week', 'first car']	['mile']	0.146177325711
+['week', 'first car']	['1400 mile']	0.0368028975308
+['week', 'first car']	['average gas mileage']	0.0335603965352
+['week', 'first car']	['mileage']	0.0310069393168
+['week', 'first car']	['gas mileage']	0.0320155359456
+['car', 'first car']	['2 car']	0.801436581174
+['car', 'first car']	['average mile']	0.158497626098
+['car', 'first car']	['two car']	0.859236011455
+['car', 'first car']	['particular week']	0.176424014536
+['car', 'first car']	['week']	0.228240826026
+['car', 'first car']	['40 gallon']	0.144936819178
+['car', 'first car']	['second']	0.226285503951
+['car', 'first car']	['gallon']	0.225501898287
+['car', 'first car']	['20 gallon']	0.144936819178
+['car', 'first car']	['mile']	0.233075431624
+['car', 'first car']	['1400 mile']	0.124609221473
+['car', 'first car']	['average gas mileage']	0.314716568577
+['car', 'first car']	['mileage']	0.364984158072
+['car', 'first car']	['gas mileage']	0.229243505247
+['40 gallon', 'first car']	['2 car']	0.622462222886
+['40 gallon', 'first car']	['average mile']	0.0827346205535
+['40 gallon', 'first car']	['two car']	0.622462222886
+['40 gallon', 'first car']	['particular week']	0.0800317642921
+['40 gallon', 'first car']	['week']	0.0132263547461
+['40 gallon', 'first car']	['car']	0.656411019364
+['40 gallon', 'first car']	['second']	0.016864172895
+['40 gallon', 'first car']	['gallon']	0.516305322166
+['40 gallon', 'first car']	['20 gallon']	0.788125610685
+['40 gallon', 'first car']	['mile']	0.0132263547461
+['40 gallon', 'first car']	['1400 mile']	0.0901100077042
+['40 gallon', 'first car']	['average gas mileage']	0.096515242987
+['40 gallon', 'first car']	['mileage']	0.0800606621439
+['40 gallon', 'first car']	['gas mileage']	0.0800317642921
+['second', 'first car']	['2 car']	0.263263144263
+['second', 'first car']	['average mile']	0.0975620958454
+['second', 'first car']	['two car']	0.263263144263
+['second', 'first car']	['particular week']	0.136646096491
+['second', 'first car']	['week']	0.201177965077
+['second', 'first car']	['car']	0.503030202445
+['second', 'first car']	['40 gallon']	0.0613172765419
+['second', 'first car']	['gallon']	0.185708591214
+['second', 'first car']	['20 gallon']	0.0613172765419
+['second', 'first car']	['mile']	0.201177965077
+['second', 'first car']	['1400 mile']	0.0787160430154
+['second', 'first car']	['average gas mileage']	0.0604129884424
+['second', 'first car']	['mileage']	0.138699255865
+['second', 'first car']	['gas mileage']	0.0457699124874
+['gallon', 'first car']	['2 car']	0.179900479002
+['gallon', 'first car']	['average mile']	0.0368701550083
+['gallon', 'first car']	['two car']	0.179900479002
+['gallon', 'first car']	['particular week']	0.0368701550083
+['gallon', 'first car']	['week']	0.148770638241
+['gallon', 'first car']	['car']	0.45447850904
+['gallon', 'first car']	['40 gallon']	0.694205973087
+['gallon', 'first car']	['second']	0.17038096688
+['gallon', 'first car']	['20 gallon']	0.694205973087
+['gallon', 'first car']	['mile']	0.207374400819
+['gallon', 'first car']	['1400 mile']	0.0368028975308
+['gallon', 'first car']	['average gas mileage']	0.0467896072558
+['gallon', 'first car']	['mileage']	0.109561042279
+['gallon', 'first car']	['gas mileage']	0.0368701550083
+['20 gallon', 'first car']	['2 car']	0.622462222886
+['20 gallon', 'first car']	['average mile']	0.0827346205535
+['20 gallon', 'first car']	['two car']	0.622462222886
+['20 gallon', 'first car']	['particular week']	0.0800317642921
+['20 gallon', 'first car']	['week']	0.0132263547461
+['20 gallon', 'first car']	['car']	0.656411019364
+['20 gallon', 'first car']	['40 gallon']	0.788125610685
+['20 gallon', 'first car']	['second']	0.016864172895
+['20 gallon', 'first car']	['gallon']	0.516305322166
+['20 gallon', 'first car']	['mile']	0.0132263547461
+['20 gallon', 'first car']	['1400 mile']	0.0901100077042
+['20 gallon', 'first car']	['average gas mileage']	0.096515242987
+['20 gallon', 'first car']	['mileage']	0.0800606621439
+['20 gallon', 'first car']	['gas mileage']	0.0800317642921
+['mile', 'first car']	['2 car']	0.227663245293
+['mile', 'first car']	['average mile']	0.378733264805
+['mile', 'first car']	['two car']	0.213935566721
+['mile', 'first car']	['particular week']	0.0368701550083
+['mile', 'first car']	['week']	0.146177325711
+['mile', 'first car']	['car']	0.460454232663
+['mile', 'first car']	['40 gallon']	0.0496026845292
+['mile', 'first car']	['second']	0.231538538428
+['mile', 'first car']	['gallon']	0.207374400819
+['mile', 'first car']	['20 gallon']	0.0496026845292
+['mile', 'first car']	['1400 mile']	0.442012633359
+['mile', 'first car']	['average gas mileage']	0.0335603965352
+['mile', 'first car']	['mileage']	0.295023144827
+['mile', 'first car']	['gas mileage']	0.0768947634436
+['1400 mile', 'first car']	['2 car']	0.51364678879
+['1400 mile', 'first car']	['average mile']	0.538007739106
+['1400 mile', 'first car']	['two car']	0.51364678879
+['1400 mile', 'first car']	['particular week']	0.0833805889219
+['1400 mile', 'first car']	['week']	0.0132263547461
+['1400 mile', 'first car']	['car']	0.677090818983
+['1400 mile', 'first car']	['40 gallon']	0.0871340391838
+['1400 mile', 'first car']	['second']	0.0430502462229
+['1400 mile', 'first car']	['gallon']	0.0132263547461
+['1400 mile', 'first car']	['20 gallon']	0.0871340391838
+['1400 mile', 'first car']	['mile']	0.384494542755
+['1400 mile', 'first car']	['average gas mileage']	0.096515242987
+['1400 mile', 'first car']	['mileage']	0.0777864840342
+['1400 mile', 'first car']	['gas mileage']	0.0833805889219
+['average gas mileage', 'first car']	['2 car']	0.54240826327
+['average gas mileage', 'first car']	['average mile']	0.601995725418
+['average gas mileage', 'first car']	['two car']	0.565297152159
+['average gas mileage', 'first car']	['particular week']	0.152884447848
+['average gas mileage', 'first car']	['week']	0.0102152903687
+['average gas mileage', 'first car']	['car']	0.736095113416
+['average gas mileage', 'first car']	['40 gallon']	0.15663789811
+['average gas mileage', 'first car']	['second']	0.0181931391317
+['average gas mileage', 'first car']	['gallon']	0.012852508684
+['average gas mileage', 'first car']	['20 gallon']	0.15663789811
+['average gas mileage', 'first car']	['mile']	0.0102152903687
+['average gas mileage', 'first car']	['1400 mile']	0.15961386663
+['average gas mileage', 'first car']	['mileage']	0.692317365951
+['average gas mileage', 'first car']	['gas mileage']	0.567512160273
+['mileage', 'first car']	['2 car']	0.53325471434
+['mileage', 'first car']	['average mile']	0.0793857959237
+['mileage', 'first car']	['two car']	0.53325471434
+['mileage', 'first car']	['particular week']	0.0800317642921
+['mileage', 'first car']	['week']	0.0138898151044
+['mileage', 'first car']	['car']	0.871255731882
+['mileage', 'first car']	['40 gallon']	0.083785214554
+['mileage', 'first car']	['second']	0.143522004143
+['mileage', 'first car']	['gallon']	0.0840233603755
+['mileage', 'first car']	['20 gallon']	0.083785214554
+['mileage', 'first car']	['mile']	0.244024356361
+['mileage', 'first car']	['1400 mile']	0.0827346205535
+['mileage', 'first car']	['average gas mileage']	0.676231215658
+['mileage', 'first car']	['gas mileage']	0.740473158541
+['gas mileage', 'first car']	['2 car']	0.51364678879
+['gas mileage', 'first car']	['average mile']	0.0827346205535
+['gas mileage', 'first car']	['two car']	0.51364678879
+['gas mileage', 'first car']	['particular week']	0.0833805889219
+['gas mileage', 'first car']	['week']	0.01207780957
+['gas mileage', 'first car']	['car']	0.649108390783
+['gas mileage', 'first car']	['40 gallon']	0.0871340391838
+['gas mileage', 'first car']	['second']	0.016864172895
+['gas mileage', 'first car']	['gallon']	0.0132263547461
+['gas mileage', 'first car']	['20 gallon']	0.0871340391838
+['gas mileage', 'first car']	['mile']	0.125988507714
+['gas mileage', 'first car']	['1400 mile']	0.0901100077042
+['gas mileage', 'first car']	['average gas mileage']	0.594684399145
+['gas mileage', 'first car']	['mileage']	0.651191168011
+['2 car', '40 gallon']	['average mile']	0.0696933362217
+['2 car', '40 gallon']	['two car']	0.656814097845
+['2 car', '40 gallon']	['particular week']	0.0696933362217
+['2 car', '40 gallon']	['week']	0.00800951534341
+['2 car', '40 gallon']	['car']	0.487027953071
+['2 car', '40 gallon']	['first car']	0.422808047873
+['2 car', '40 gallon']	['second']	0.011726423379
+['2 car', '40 gallon']	['gallon']	0.471678880869
+['2 car', '40 gallon']	['20 gallon']	0.781116950393
+['2 car', '40 gallon']	['mile']	0.00800951534341
+['2 car', '40 gallon']	['1400 mile']	0.0737139440912
+['2 car', '40 gallon']	['average gas mileage']	0.0726409365964
+['2 car', '40 gallon']	['mileage']	0.0658639515588
+['2 car', '40 gallon']	['gas mileage']	0.0649040532856
+['average mile', '40 gallon']	['2 car']	0.107003435941
+['average mile', '40 gallon']	['two car']	0.107003435941
+['average mile', '40 gallon']	['particular week']	0.0827346205535
+['average mile', '40 gallon']	['week']	0.0143499502517
+['average mile', '40 gallon']	['car']	0.0541974512876
+['average mile', '40 gallon']	['first car']	0.0871340391838
+['average mile', '40 gallon']	['second']	0.0430502462229
+['average mile', '40 gallon']	['gallon']	0.724943139062
+['average mile', '40 gallon']	['20 gallon']	0.754360422532
+['average mile', '40 gallon']	['mile']	0.345297574209
+['average mile', '40 gallon']	['1400 mile']	0.584269096576
+['average mile', '40 gallon']	['average gas mileage']	0.514053739722
+['average mile', '40 gallon']	['mileage']	0.0777864840342
+['average mile', '40 gallon']	['gas mileage']	0.0827346205535
+['two car', '40 gallon']	['2 car']	0.656814097845
+['two car', '40 gallon']	['average mile']	0.0696933362217
+['two car', '40 gallon']	['particular week']	0.0669904799604
+['two car', '40 gallon']	['week']	0.0106028278734
+['two car', '40 gallon']	['car']	0.549490267826
+['two car', '40 gallon']	['first car']	0.422808047873
+['two car', '40 gallon']	['second']	0.011726423379
+['two car', '40 gallon']	['gallon']	0.471678880869
+['two car', '40 gallon']	['20 gallon']	0.781116950393
+['two car', '40 gallon']	['mile']	0.0106028278734
+['two car', '40 gallon']	['1400 mile']	0.0737139440912
+['two car', '40 gallon']	['average gas mileage']	0.0885621548936
+['two car', '40 gallon']	['mileage']	0.0690378963307
+['two car', '40 gallon']	['gas mileage']	0.0696933362217
+['particular week', '40 gallon']	['2 car']	0.11192831726
+['particular week', '40 gallon']	['average mile']	0.083785214554
+['particular week', '40 gallon']	['two car']	0.105006879062
+['particular week', '40 gallon']	['week']	0.345297574209
+['particular week', '40 gallon']	['car']	0.0541974512876
+['particular week', '40 gallon']	['first car']	0.092336172472
+['particular week', '40 gallon']	['second']	0.080603787226
+['particular week', '40 gallon']	['gallon']	0.700344368106
+['particular week', '40 gallon']	['20 gallon']	0.754360422532
+['particular week', '40 gallon']	['mile']	0.0143499502517
+['particular week', '40 gallon']	['1400 mile']	0.0901100077042
+['particular week', '40 gallon']	['average gas mileage']	0.113834866829
+['particular week', '40 gallon']	['mileage']	0.0777864840342
+['particular week', '40 gallon']	['gas mileage']	0.0827346205535
+['week', '40 gallon']	['2 car']	0.0891890359625
+['week', '40 gallon']	['average mile']	0.0368701550083
+['week', '40 gallon']	['two car']	0.0650051934866
+['week', '40 gallon']	['particular week']	0.378733264805
+['week', '40 gallon']	['car']	0.177003326418
+['week', '40 gallon']	['first car']	0.0406236052701
+['week', '40 gallon']	['second']	0.226668408558
+['week', '40 gallon']	['gallon']	0.799761506528
+['week', '40 gallon']	['20 gallon']	0.345702406444
+['week', '40 gallon']	['mile']	0.165120987683
+['week', '40 gallon']	['1400 mile']	0.0368028975308
+['week', '40 gallon']	['average gas mileage']	0.0334931390577
+['week', '40 gallon']	['mileage']	0.0310069393168
+['week', '40 gallon']	['gas mileage']	0.0319482784682
+['car', '40 gallon']	['2 car']	0.734405199705
+['car', '40 gallon']	['average mile']	0.0465787639079
+['car', '40 gallon']	['two car']	0.810977133761
+['car', '40 gallon']	['particular week']	0.0454050549877
+['car', '40 gallon']	['week']	0.1268150296
+['car', '40 gallon']	['first car']	0.887049648333
+['car', '40 gallon']	['second']	0.101843809302
+['car', '40 gallon']	['gallon']	0.474400925907
+['car', '40 gallon']	['20 gallon']	0.678489867715
+['car', '40 gallon']	['mile']	0.0806714395726
+['car', '40 gallon']	['1400 mile']	0.0465787639079
+['car', '40 gallon']	['average gas mileage']	0.073084825274
+['car', '40 gallon']	['mileage']	0.131949318167
+['car', '40 gallon']	['gas mileage']	0.0546200245943
+['first car', '40 gallon']	['2 car']	0.622462222886
+['first car', '40 gallon']	['average mile']	0.0827346205535
+['first car', '40 gallon']	['two car']	0.622462222886
+['first car', '40 gallon']	['particular week']	0.0800317642921
+['first car', '40 gallon']	['week']	0.0132263547461
+['first car', '40 gallon']	['car']	0.656411019364
+['first car', '40 gallon']	['second']	0.016864172895
+['first car', '40 gallon']	['gallon']	0.516305322166
+['first car', '40 gallon']	['20 gallon']	0.788125610685
+['first car', '40 gallon']	['mile']	0.0132263547461
+['first car', '40 gallon']	['1400 mile']	0.0901100077042
+['first car', '40 gallon']	['average gas mileage']	0.096515242987
+['first car', '40 gallon']	['mileage']	0.0800606621439
+['first car', '40 gallon']	['gas mileage']	0.0800317642921
+['second', '40 gallon']	['2 car']	0.0733994294194
+['second', '40 gallon']	['average mile']	0.0926896202512
+['second', '40 gallon']	['two car']	0.0733994294194
+['second', '40 gallon']	['particular week']	0.135200832038
+['second', '40 gallon']	['week']	0.201177965077
+['second', '40 gallon']	['car']	0.110178949437
+['second', '40 gallon']	['first car']	0.0613172765419
+['second', '40 gallon']	['gallon']	0.779494464592
+['second', '40 gallon']	['20 gallon']	0.497118949873
+['second', '40 gallon']	['mile']	0.228517949828
+['second', '40 gallon']	['1400 mile']	0.0787160430154
+['second', '40 gallon']	['average gas mileage']	0.0506011684966
+['second', '40 gallon']	['mileage']	0.138699255865
+['second', '40 gallon']	['gas mileage']	0.0450566866416
+['gallon', '40 gallon']	['2 car']	0.184088625564
+['gallon', '40 gallon']	['average mile']	0.177516058856
+['gallon', '40 gallon']	['two car']	0.184088625564
+['gallon', '40 gallon']	['particular week']	0.150377262293
+['gallon', '40 gallon']	['week']	0.35308884221
+['gallon', '40 gallon']	['car']	0.313982861585
+['gallon', '40 gallon']	['first car']	0.163755337176
+['gallon', '40 gallon']	['second']	0.352718675725
+['gallon', '40 gallon']	['20 gallon']	0.801498388473
+['gallon', '40 gallon']	['mile']	0.361622534434
+['gallon', '40 gallon']	['1400 mile']	0.177448801378
+['gallon', '40 gallon']	['average gas mileage']	0.296641352372
+['gallon', '40 gallon']	['mileage']	0.297245159667
+['gallon', '40 gallon']	['gas mileage']	0.0968024870635
+['20 gallon', '40 gallon']	['2 car']	0.347423613081
+['20 gallon', '40 gallon']	['average mile']	0.153587928078
+['20 gallon', '40 gallon']	['two car']	0.347423613081
+['20 gallon', '40 gallon']	['particular week']	0.184995399404
+['20 gallon', '40 gallon']	['week']	0.184602740827
+['20 gallon', '40 gallon']	['car']	0.275488721376
+['20 gallon', '40 gallon']	['first car']	0.233604126902
+['20 gallon', '40 gallon']	['second']	0.206786695565
+['20 gallon', '40 gallon']	['gallon']	0.769251975731
+['20 gallon', '40 gallon']	['mile']	0.219462895472
+['20 gallon', '40 gallon']	['1400 mile']	0.139258682248
+['20 gallon', '40 gallon']	['average gas mileage']	0.276870212632
+['20 gallon', '40 gallon']	['mileage']	0.334330087138
+['20 gallon', '40 gallon']	['gas mileage']	0.153587928078
+['mile', '40 gallon']	['2 car']	0.0891890359625
+['mile', '40 gallon']	['average mile']	0.378733264805
+['mile', '40 gallon']	['two car']	0.0650051934866
+['mile', '40 gallon']	['particular week']	0.0368701550083
+['mile', '40 gallon']	['week']	0.146177325711
+['mile', '40 gallon']	['car']	0.102367866461
+['mile', '40 gallon']	['first car']	0.0406236052701
+['mile', '40 gallon']	['second']	0.226668408558
+['mile', '40 gallon']	['gallon']	0.823652978147
+['mile', '40 gallon']	['20 gallon']	0.464262206931
+['mile', '40 gallon']	['1400 mile']	0.442012633359
+['mile', '40 gallon']	['average gas mileage']	0.0334931390577
+['mile', '40 gallon']	['mileage']	0.336733903205
+['mile', '40 gallon']	['gas mileage']	0.185359131193
+['1400 mile', '40 gallon']	['2 car']	0.107003435941
+['1400 mile', '40 gallon']	['average mile']	0.549852778125
+['1400 mile', '40 gallon']	['two car']	0.107003435941
+['1400 mile', '40 gallon']	['particular week']	0.0827346205535
+['1400 mile', '40 gallon']	['week']	0.0143499502517
+['1400 mile', '40 gallon']	['car']	0.0541974512876
+['1400 mile', '40 gallon']	['first car']	0.0871340391838
+['1400 mile', '40 gallon']	['second']	0.0430502462229
+['1400 mile', '40 gallon']	['gallon']	0.724943139062
+['1400 mile', '40 gallon']	['20 gallon']	0.754360422532
+['1400 mile', '40 gallon']	['mile']	0.500847544769
+['1400 mile', '40 gallon']	['average gas mileage']	0.0908034291173
+['1400 mile', '40 gallon']	['mileage']	0.0777864840342
+['1400 mile', '40 gallon']	['gas mileage']	0.0827346205535
+['average gas mileage', '40 gallon']	['2 car']	0.256179258275
+['average gas mileage', '40 gallon']	['average mile']	0.601995725418
+['average gas mileage', '40 gallon']	['two car']	0.171176153595
+['average gas mileage', '40 gallon']	['particular week']	0.152238479479
+['average gas mileage', '40 gallon']	['week']	0.0102152903687
+['average gas mileage', '40 gallon']	['car']	0.0755065871874
+['average gas mileage', '40 gallon']	['first car']	0.15663789811
+['average gas mileage', '40 gallon']	['second']	0.0181931391317
+['average gas mileage', '40 gallon']	['gallon']	0.576711614717
+['average gas mileage', '40 gallon']	['20 gallon']	0.810888071258
+['average gas mileage', '40 gallon']	['mile']	0.0113388858743
+['average gas mileage', '40 gallon']	['1400 mile']	0.15961386663
+['average gas mileage', '40 gallon']	['mileage']	0.707708905105
+['average gas mileage', '40 gallon']	['gas mileage']	0.638437896863
+['mileage', '40 gallon']	['2 car']	0.204475551251
+['mileage', '40 gallon']	['average mile']	0.0827346205535
+['mileage', '40 gallon']	['two car']	0.112172037378
+['mileage', '40 gallon']	['particular week']	0.0827346205535
+['mileage', '40 gallon']	['week']	0.0138898151044
+['mileage', '40 gallon']	['car']	0.164940774679
+['mileage', '40 gallon']	['first car']	0.083785214554
+['mileage', '40 gallon']	['second']	0.138651874273
+['mileage', '40 gallon']	['gallon']	0.789456199286
+['mileage', '40 gallon']	['20 gallon']	0.760386850763
+['mileage', '40 gallon']	['mile']	0.27991800818
+['mileage', '40 gallon']	['1400 mile']	0.0827346205535
+['mileage', '40 gallon']	['average gas mileage']	0.682897882325
+['mileage', '40 gallon']	['gas mileage']	0.731471015694
+['gas mileage', '40 gallon']	['2 car']	0.216115762892
+['gas mileage', '40 gallon']	['average mile']	0.0827346205535
+['gas mileage', '40 gallon']	['two car']	0.107003435941
+['gas mileage', '40 gallon']	['particular week']	0.0827346205535
+['gas mileage', '40 gallon']	['week']	0.01207780957
+['gas mileage', '40 gallon']	['car']	0.0498296537608
+['gas mileage', '40 gallon']	['first car']	0.0871340391838
+['gas mileage', '40 gallon']	['second']	0.016864172895
+['gas mileage', '40 gallon']	['gallon']	0.54355118505
+['gas mileage', '40 gallon']	['20 gallon']	0.754360422532
+['gas mileage', '40 gallon']	['mile']	0.0484050393962
+['gas mileage', '40 gallon']	['1400 mile']	0.0901100077042
+['gas mileage', '40 gallon']	['average gas mileage']	0.594684399145
+['gas mileage', '40 gallon']	['mileage']	0.669022875945
+['2 car', 'second']	['average mile']	0.0618737183104
+['2 car', 'second']	['two car']	0.352778843168
+['2 car', 'second']	['particular week']	0.0902216790505
+['2 car', 'second']	['week']	0.199328423808
+['2 car', 'second']	['car']	0.476351549659
+['2 car', 'second']	['first car']	0.18571691251
+['2 car', 'second']	['40 gallon']	0.0714527268925
+['2 car', 'second']	['gallon']	0.148770638241
+['2 car', 'second']	['20 gallon']	0.0714527268925
+['2 car', 'second']	['mile']	0.199328423808
+['2 car', 'second']	['1400 mile']	0.0618737183104
+['2 car', 'second']	['average gas mileage']	0.0334931390577
+['2 car', 'second']	['mileage']	0.154602843086
+['2 car', 'second']	['gas mileage']	0.0319482784682
+['average mile', 'second']	['2 car']	0.0490854479521
+['average mile', 'second']	['two car']	0.0490854479521
+['average mile', 'second']	['particular week']	0.128023060494
+['average mile', 'second']	['week']	0.228517949828
+['average mile', 'second']	['car']	0.110178949437
+['average mile', 'second']	['first car']	0.04570265501
+['average mile', 'second']	['40 gallon']	0.04570265501
+['average mile', 'second']	['gallon']	0.204652253186
+['average mile', 'second']	['20 gallon']	0.04570265501
+['average mile', 'second']	['mile']	0.459010256855
+['average mile', 'second']	['1400 mile']	0.264149056616
+['average mile', 'second']	['average gas mileage']	0.512757911854
+['average mile', 'second']	['mileage']	0.170842113008
+['average mile', 'second']	['gas mileage']	0.0450566866416
+['two car', 'second']	['2 car']	0.352778843168
+['two car', 'second']	['average mile']	0.0618737183104
+['two car', 'second']	['particular week']	0.1060326655
+['two car', 'second']	['week']	0.199328423808
+['two car', 'second']	['car']	0.436940117601
+['two car', 'second']	['first car']	0.18571691251
+['two car', 'second']	['40 gallon']	0.0714527268925
+['two car', 'second']	['gallon']	0.148770638241
+['two car', 'second']	['20 gallon']	0.0714527268925
+['two car', 'second']	['mile']	0.199328423808
+['two car', 'second']	['1400 mile']	0.0618737183104
+['two car', 'second']	['average gas mileage']	0.0467896072558
+['two car', 'second']	['mileage']	0.154602843086
+['two car', 'second']	['gas mileage']	0.0362241866398
+['particular week', 'second']	['2 car']	0.0491527054295
+['particular week', 'second']	['average mile']	0.099007360298
+['particular week', 'second']	['two car']	0.0491527054295
+['particular week', 'second']	['week']	0.459010256855
+['particular week', 'second']	['car']	0.110178949437
+['particular week', 'second']	['first car']	0.0457699124874
+['particular week', 'second']	['40 gallon']	0.0457699124874
+['particular week', 'second']	['gallon']	0.185708591214
+['particular week', 'second']	['20 gallon']	0.0457699124874
+['particular week', 'second']	['mile']	0.228517949828
+['particular week', 'second']	['1400 mile']	0.0787160430154
+['particular week', 'second']	['average gas mileage']	0.0756982451627
+['particular week', 'second']	['mileage']	0.170842113008
+['particular week', 'second']	['gas mileage']	0.045123944119
+['week', 'second']	['2 car']	0.0401150227306
+['week', 'second']	['average mile']	0.0355119873569
+['week', 'second']	['two car']	0.0180288480811
+['week', 'second']	['particular week']	0.330137986213
+['week', 'second']	['car']	0.0369630681137
+['week', 'second']	['first car']	0.0160076877108
+['week', 'second']	['40 gallon']	0.0160749451882
+['week', 'second']	['gallon']	0.0854960860986
+['week', 'second']	['20 gallon']	0.0160749451882
+['week', 'second']	['mile']	0.119478191512
+['week', 'second']	['1400 mile']	0.0355119873569
+['week', 'second']	['average gas mileage']	0.0183047716524
+['week', 'second']	['mileage']	0.0666939938481
+['week', 'second']	['gas mileage']	0.0134816326582
+['car', 'second']	['2 car']	0.321385802408
+['car', 'second']	['average mile']	0.0221369896995
+['car', 'second']	['two car']	0.349552094177
+['car', 'second']	['particular week']	0.0448241044795
+['car', 'second']	['week']	0.0451606708229
+['car', 'second']	['first car']	0.421201406126
+['car', 'second']	['40 gallon']	0.0160064194205
+['car', 'second']	['gallon']	0.172842414432
+['car', 'second']	['20 gallon']	0.0160064194205
+['car', 'second']	['mile']	0.0451606708229
+['car', 'second']	['1400 mile']	0.0221369896995
+['car', 'second']	['average gas mileage']	0.0390157538874
+['car', 'second']	['mileage']	0.0221944272583
+['car', 'second']	['gas mileage']	0.0394368894349
+['first car', 'second']	['2 car']	0.263263144263
+['first car', 'second']	['average mile']	0.0975620958454
+['first car', 'second']	['two car']	0.263263144263
+['first car', 'second']	['particular week']	0.136646096491
+['first car', 'second']	['week']	0.201177965077
+['first car', 'second']	['car']	0.503030202445
+['first car', 'second']	['40 gallon']	0.0613172765419
+['first car', 'second']	['gallon']	0.185708591214
+['first car', 'second']	['20 gallon']	0.0613172765419
+['first car', 'second']	['mile']	0.201177965077
+['first car', 'second']	['1400 mile']	0.0787160430154
+['first car', 'second']	['average gas mileage']	0.0604129884424
+['first car', 'second']	['mileage']	0.138699255865
+['first car', 'second']	['gas mileage']	0.0457699124874
+['40 gallon', 'second']	['2 car']	0.0733994294194
+['40 gallon', 'second']	['average mile']	0.0926896202512
+['40 gallon', 'second']	['two car']	0.0733994294194
+['40 gallon', 'second']	['particular week']	0.135200832038
+['40 gallon', 'second']	['week']	0.201177965077
+['40 gallon', 'second']	['car']	0.110178949437
+['40 gallon', 'second']	['first car']	0.0613172765419
+['40 gallon', 'second']	['gallon']	0.779494464592
+['40 gallon', 'second']	['20 gallon']	0.497118949873
+['40 gallon', 'second']	['mile']	0.228517949828
+['40 gallon', 'second']	['1400 mile']	0.0787160430154
+['40 gallon', 'second']	['average gas mileage']	0.0506011684966
+['40 gallon', 'second']	['mileage']	0.138699255865
+['40 gallon', 'second']	['gas mileage']	0.0450566866416
+['gallon', 'second']	['2 car']	0.0180288480811
+['gallon', 'second']	['average mile']	0.0355119873569
+['gallon', 'second']	['two car']	0.0180288480811
+['gallon', 'second']	['particular week']	0.063792706942
+['gallon', 'second']	['week']	0.151601092169
+['gallon', 'second']	['car']	0.045296401447
+['gallon', 'second']	['first car']	0.0160076877108
+['gallon', 'second']	['40 gallon']	0.665238409719
+['gallon', 'second']	['20 gallon']	0.665238409719
+['gallon', 'second']	['mile']	0.117213634313
+['gallon', 'second']	['1400 mile']	0.0355119873569
+['gallon', 'second']	['average gas mileage']	0.0228523103473
+['gallon', 'second']	['mileage']	0.0845186609099
+['gallon', 'second']	['gas mileage']	0.0160076877108
+['20 gallon', 'second']	['2 car']	0.0733994294194
+['20 gallon', 'second']	['average mile']	0.0926896202512
+['20 gallon', 'second']	['two car']	0.0733994294194
+['20 gallon', 'second']	['particular week']	0.135200832038
+['20 gallon', 'second']	['week']	0.201177965077
+['20 gallon', 'second']	['car']	0.110178949437
+['20 gallon', 'second']	['first car']	0.0613172765419
+['20 gallon', 'second']	['40 gallon']	0.497118949873
+['20 gallon', 'second']	['gallon']	0.779494464592
+['20 gallon', 'second']	['mile']	0.228517949828
+['20 gallon', 'second']	['1400 mile']	0.0787160430154
+['20 gallon', 'second']	['average gas mileage']	0.0506011684966
+['20 gallon', 'second']	['mileage']	0.138699255865
+['20 gallon', 'second']	['gas mileage']	0.0450566866416
+['mile', 'second']	['2 car']	0.0401150227306
+['mile', 'second']	['average mile']	0.330137986213
+['mile', 'second']	['two car']	0.0180288480811
+['mile', 'second']	['particular week']	0.0787489925373
+['mile', 'second']	['week']	0.119478191512
+['mile', 'second']	['car']	0.0248418559925
+['mile', 'second']	['first car']	0.0160076877108
+['mile', 'second']	['40 gallon']	0.0160749451882
+['mile', 'second']	['gallon']	0.117904837375
+['mile', 'second']	['20 gallon']	0.0160749451882
+['mile', 'second']	['1400 mile']	0.551258278025
+['mile', 'second']	['average gas mileage']	0.0183047716524
+['mile', 'second']	['mileage']	0.163481010818
+['mile', 'second']	['gas mileage']	0.120887518935
+['1400 mile', 'second']	['2 car']	0.0490854479521
+['1400 mile', 'second']	['average mile']	0.264149056616
+['1400 mile', 'second']	['two car']	0.0490854479521
+['1400 mile', 'second']	['particular week']	0.128023060494
+['1400 mile', 'second']	['week']	0.228517949828
+['1400 mile', 'second']	['car']	0.110178949437
+['1400 mile', 'second']	['first car']	0.04570265501
+['1400 mile', 'second']	['40 gallon']	0.04570265501
+['1400 mile', 'second']	['gallon']	0.204652253186
+['1400 mile', 'second']	['20 gallon']	0.04570265501
+['1400 mile', 'second']	['mile']	0.749595131407
+['1400 mile', 'second']	['average gas mileage']	0.0506011684966
+['1400 mile', 'second']	['mileage']	0.170842113008
+['1400 mile', 'second']	['gas mileage']	0.0450566866416
+['average gas mileage', 'second']	['2 car']	0.065132078728
+['average gas mileage', 'second']	['average mile']	0.475974860703
+['average gas mileage', 'second']	['two car']	0.0480291099239
+['average gas mileage', 'second']	['particular week']	0.12320052963
+['average gas mileage', 'second']	['week']	0.200121627049
+['average gas mileage', 'second']	['car']	0.11000917015
+['average gas mileage', 'second']	['first car']	0.0446463169818
+['average gas mileage', 'second']	['40 gallon']	0.0446463169818
+['average gas mileage', 'second']	['gallon']	0.184652253186
+['average gas mileage', 'second']	['20 gallon']	0.0446463169818
+['average gas mileage', 'second']	['mile']	0.200121627049
+['average gas mileage', 'second']	['1400 mile']	0.0811851788179
+['average gas mileage', 'second']	['mileage']	0.678934545828
+['average gas mileage', 'second']	['gas mileage']	0.205335935593
+['mileage', 'second']	['2 car']	0.0661884167561
+['mileage', 'second']	['average mile']	0.104483534044
+['mileage', 'second']	['two car']	0.0490854479521
+['mileage', 'second']	['particular week']	0.135200832038
+['mileage', 'second']	['week']	0.151144977324
+['mileage', 'second']	['car']	0.0206238751158
+['mileage', 'second']	['first car']	0.04570265501
+['mileage', 'second']	['40 gallon']	0.0457699124874
+['mileage', 'second']	['gallon']	0.0934483712232
+['mileage', 'second']	['20 gallon']	0.0457699124874
+['mileage', 'second']	['mile']	0.185380291005
+['mileage', 'second']	['1400 mile']	0.104483534044
+['mileage', 'second']	['average gas mileage']	0.419006868407
+['mileage', 'second']	['gas mileage']	0.615053362073
+['gas mileage', 'second']	['2 car']	0.0661884167561
+['gas mileage', 'second']	['average mile']	0.0787160430154
+['gas mileage', 'second']	['two car']	0.0490854479521
+['gas mileage', 'second']	['particular week']	0.128023060494
+['gas mileage', 'second']	['week']	0.201177965077
+['gas mileage', 'second']	['car']	0.11000917015
+['gas mileage', 'second']	['first car']	0.04570265501
+['gas mileage', 'second']	['40 gallon']	0.04570265501
+['gas mileage', 'second']	['gallon']	0.185708591214
+['gas mileage', 'second']	['20 gallon']	0.04570265501
+['gas mileage', 'second']	['mile']	0.247822325665
+['gas mileage', 'second']	['1400 mile']	0.0787160430154
+['gas mileage', 'second']	['average gas mileage']	0.220190191805
+['gas mileage', 'second']	['mileage']	0.732951722236
+['2 car', 'gallon']	['average mile']	0.0989480026901
+['2 car', 'gallon']	['two car']	0.342969259323
+['2 car', 'gallon']	['particular week']	0.0982347768443
+['2 car', 'gallon']	['week']	0.179510659044
+['2 car', 'gallon']	['car']	0.444467491688
+['2 car', 'gallon']	['first car']	0.160671266721
+['2 car', 'gallon']	['40 gallon']	0.716346495963
+['2 car', 'gallon']	['second']	0.203714300213
+['2 car', 'gallon']	['20 gallon']	0.716346495963
+['2 car', 'gallon']	['mile']	0.240707734152
+['2 car', 'gallon']	['1400 mile']	0.0988807452127
+['2 car', 'gallon']	['average gas mileage']	0.0955709867396
+['2 car', 'gallon']	['mileage']	0.16430693917
+['2 car', 'gallon']	['gas mileage']	0.0940261261501
+['average mile', 'gallon']	['2 car']	0.0436614950161
+['average mile', 'gallon']	['two car']	0.0436614950161
+['average mile', 'gallon']	['particular week']	0.0361569291624
+['average mile', 'gallon']	['week']	0.148837895719
+['average mile', 'gallon']	['car']	0.180033629449
+['average mile', 'gallon']	['first car']	0.0376720806775
+['average mile', 'gallon']	['40 gallon']	0.591878577002
+['average mile', 'gallon']	['second']	0.213346162958
+['average mile', 'gallon']	['20 gallon']	0.591878577002
+['average mile', 'gallon']	['mile']	0.462708563125
+['average mile', 'gallon']	['1400 mile']	0.160671266721
+['average mile', 'gallon']	['average gas mileage']	0.431272055042
+['average mile', 'gallon']	['mileage']	0.109561042279
+['average mile', 'gallon']	['gas mileage']	0.0361569291624
+['two car', 'gallon']	['2 car']	0.342969259323
+['two car', 'gallon']	['average mile']	0.0989480026901
+['two car', 'gallon']	['particular week']	0.0989480026901
+['two car', 'gallon']	['week']	0.182103971574
+['two car', 'gallon']	['car']	0.40505605963
+['two car', 'gallon']	['first car']	0.160671266721
+['two car', 'gallon']	['40 gallon']	0.716346495963
+['two car', 'gallon']	['second']	0.203714300213
+['two car', 'gallon']	['20 gallon']	0.716346495963
+['two car', 'gallon']	['mile']	0.240707734152
+['two car', 'gallon']	['1400 mile']	0.0988807452127
+['two car', 'gallon']	['average gas mileage']	0.108867454938
+['two car', 'gallon']	['mileage']	0.1669002517
+['two car', 'gallon']	['gas mileage']	0.0982347768443
+['particular week', 'gallon']	['2 car']	0.0421463435009
+['particular week', 'gallon']	['average mile']	0.0496026845292
+['particular week', 'gallon']	['two car']	0.0427923118694
+['particular week', 'gallon']	['week']	0.440210891901
+['particular week', 'gallon']	['car']	0.180033629449
+['particular week', 'gallon']	['first car']	0.0368028975308
+['particular week', 'gallon']	['40 gallon']	0.682815458932
+['particular week', 'gallon']	['second']	0.299759227269
+['particular week', 'gallon']	['20 gallon']	0.682815458932
+['particular week', 'gallon']	['mile']	0.234714385569
+['particular week', 'gallon']	['1400 mile']	0.0368028975308
+['particular week', 'gallon']	['average gas mileage']	0.057780750737
+['particular week', 'gallon']	['mileage']	0.109561042279
+['particular week', 'gallon']	['gas mileage']	0.0361569291624
+['week', 'gallon']	['2 car']	0.0855132013781
+['week', 'gallon']	['average mile']	0.0819859443486
+['week', 'gallon']	['two car']	0.0839398472414
+['week', 'gallon']	['particular week']	0.359760932789
+['week', 'gallon']	['car']	0.0857111140469
+['week', 'gallon']	['first car']	0.0819186868711
+['week', 'gallon']	['40 gallon']	0.650514562229
+['week', 'gallon']	['second']	0.154259447304
+['week', 'gallon']	['20 gallon']	0.650514562229
+['week', 'gallon']	['mile']	0.152811524845
+['week', 'gallon']	['1400 mile']	0.0819859443486
+['week', 'gallon']	['average gas mileage']	0.0841485133353
+['week', 'gallon']	['mileage']	0.14783634754
+['week', 'gallon']	['gas mileage']	0.0793253743412
+['car', 'gallon']	['2 car']	0.209308149868
+['car', 'gallon']	['average mile']	0.0780842671024
+['car', 'gallon']	['two car']	0.212533075103
+['car', 'gallon']	['particular week']	0.0774382987339
+['car', 'gallon']	['week']	0.186770872805
+['car', 'gallon']	['first car']	0.323337948267
+['car', 'gallon']	['40 gallon']	0.287985445688
+['car', 'gallon']	['second']	0.132243865519
+['car', 'gallon']	['20 gallon']	0.287985445688
+['car', 'gallon']	['mile']	0.136673192708
+['car', 'gallon']	['1400 mile']	0.0780842671024
+['car', 'gallon']	['average gas mileage']	0.0868127650349
+['car', 'gallon']	['mileage']	0.0980856212375
+['car', 'gallon']	['gas mileage']	0.0872339005824
+['first car', 'gallon']	['2 car']	0.179900479002
+['first car', 'gallon']	['average mile']	0.0368701550083
+['first car', 'gallon']	['two car']	0.179900479002
+['first car', 'gallon']	['particular week']	0.0368701550083
+['first car', 'gallon']	['week']	0.148770638241
+['first car', 'gallon']	['car']	0.45447850904
+['first car', 'gallon']	['40 gallon']	0.694205973087
+['first car', 'gallon']	['second']	0.17038096688
+['first car', 'gallon']	['20 gallon']	0.694205973087
+['first car', 'gallon']	['mile']	0.207374400819
+['first car', 'gallon']	['1400 mile']	0.0368028975308
+['first car', 'gallon']	['average gas mileage']	0.0467896072558
+['first car', 'gallon']	['mileage']	0.109561042279
+['first car', 'gallon']	['gas mileage']	0.0368701550083
+['40 gallon', 'gallon']	['2 car']	0.184088625564
+['40 gallon', 'gallon']	['average mile']	0.177516058856
+['40 gallon', 'gallon']	['two car']	0.184088625564
+['40 gallon', 'gallon']	['particular week']	0.150377262293
+['40 gallon', 'gallon']	['week']	0.35308884221
+['40 gallon', 'gallon']	['car']	0.313982861585
+['40 gallon', 'gallon']	['first car']	0.163755337176
+['40 gallon', 'gallon']	['second']	0.352718675725
+['40 gallon', 'gallon']	['20 gallon']	0.801498388473
+['40 gallon', 'gallon']	['mile']	0.361622534434
+['40 gallon', 'gallon']	['1400 mile']	0.177448801378
+['40 gallon', 'gallon']	['average gas mileage']	0.296641352372
+['40 gallon', 'gallon']	['mileage']	0.297245159667
+['40 gallon', 'gallon']	['gas mileage']	0.0968024870635
+['second', 'gallon']	['2 car']	0.0180288480811
+['second', 'gallon']	['average mile']	0.0355119873569
+['second', 'gallon']	['two car']	0.0180288480811
+['second', 'gallon']	['particular week']	0.063792706942
+['second', 'gallon']	['week']	0.151601092169
+['second', 'gallon']	['car']	0.045296401447
+['second', 'gallon']	['first car']	0.0160076877108
+['second', 'gallon']	['40 gallon']	0.665238409719
+['second', 'gallon']	['20 gallon']	0.665238409719
+['second', 'gallon']	['mile']	0.117213634313
+['second', 'gallon']	['1400 mile']	0.0355119873569
+['second', 'gallon']	['average gas mileage']	0.0228523103473
+['second', 'gallon']	['mileage']	0.0845186609099
+['second', 'gallon']	['gas mileage']	0.0160076877108
+['20 gallon', 'gallon']	['2 car']	0.184088625564
+['20 gallon', 'gallon']	['average mile']	0.177516058856
+['20 gallon', 'gallon']	['two car']	0.184088625564
+['20 gallon', 'gallon']	['particular week']	0.150377262293
+['20 gallon', 'gallon']	['week']	0.35308884221
+['20 gallon', 'gallon']	['car']	0.313982861585
+['20 gallon', 'gallon']	['first car']	0.163755337176
+['20 gallon', 'gallon']	['40 gallon']	0.801498388473
+['20 gallon', 'gallon']	['second']	0.352718675725
+['20 gallon', 'gallon']	['mile']	0.361622534434
+['20 gallon', 'gallon']	['1400 mile']	0.177448801378
+['20 gallon', 'gallon']	['average gas mileage']	0.296641352372
+['20 gallon', 'gallon']	['mileage']	0.297245159667
+['20 gallon', 'gallon']	['gas mileage']	0.0968024870635
+['mile', 'gallon']	['2 car']	0.0855132013781
+['mile', 'gallon']	['average mile']	0.359760932789
+['mile', 'gallon']	['two car']	0.0839398472414
+['mile', 'gallon']	['particular week']	0.0819859443486
+['mile', 'gallon']	['week']	0.120402773569
+['mile', 'gallon']	['car']	0.102349132891
+['mile', 'gallon']	['first car']	0.0819186868711
+['mile', 'gallon']	['40 gallon']	0.665238409719
+['mile', 'gallon']	['second']	0.154259447304
+['mile', 'gallon']	['20 gallon']	0.665238409719
+['mile', 'gallon']	['1400 mile']	0.536520223283
+['mile', 'gallon']	['average gas mileage']	0.0841485133353
+['mile', 'gallon']	['mileage']	0.165019472356
+['mile', 'gallon']	['gas mileage']	0.220040145794
+['1400 mile', 'gallon']	['2 car']	0.0436614950161
+['1400 mile', 'gallon']	['average mile']	0.160671266721
+['1400 mile', 'gallon']	['two car']	0.0436614950161
+['1400 mile', 'gallon']	['particular week']	0.0361569291624
+['1400 mile', 'gallon']	['week']	0.148837895719
+['1400 mile', 'gallon']	['car']	0.180033629449
+['1400 mile', 'gallon']	['first car']	0.0376720806775
+['1400 mile', 'gallon']	['40 gallon']	0.591878577002
+['1400 mile', 'gallon']	['second']	0.213346162958
+['1400 mile', 'gallon']	['20 gallon']	0.591878577002
+['1400 mile', 'gallon']	['mile']	0.73813679171
+['1400 mile', 'gallon']	['average gas mileage']	0.0410777933861
+['1400 mile', 'gallon']	['mileage']	0.109561042279
+['1400 mile', 'gallon']	['gas mileage']	0.0361569291624
+['average gas mileage', 'gallon']	['2 car']	0.0368813547786
+['average gas mileage', 'gallon']	['average mile']	0.420515396171
+['average gas mileage', 'gallon']	['two car']	0.0410900054728
+['average gas mileage', 'gallon']	['particular week']	0.0351005911342
+['average gas mileage', 'gallon']	['week']	0.145120987683
+['average gas mileage', 'gallon']	['car']	0.177003326418
+['average gas mileage', 'gallon']	['first car']	0.0351005911342
+['average gas mileage', 'gallon']	['40 gallon']	0.572046009072
+['average gas mileage', 'gallon']	['second']	0.17038096688
+['average gas mileage', 'gallon']	['20 gallon']	0.572046009072
+['average gas mileage', 'gallon']	['mile']	0.206318062791
+['average gas mileage', 'gallon']	['1400 mile']	0.0357465595026
+['average gas mileage', 'gallon']	['mileage']	0.469201929812
+['average gas mileage', 'gallon']	['gas mileage']	0.22078435922
+['mileage', 'gallon']	['2 car']	0.0421043594734
+['mileage', 'gallon']	['average mile']	0.0368701550083
+['mileage', 'gallon']	['two car']	0.0421463435009
+['mileage', 'gallon']	['particular week']	0.0361569291624
+['mileage', 'gallon']	['week']	0.155268789803
+['mileage', 'gallon']	['car']	0.0794423922809
+['mileage', 'gallon']	['first car']	0.0361569291624
+['mileage', 'gallon']	['40 gallon']	0.58576256022
+['mileage', 'gallon']	['second']	0.154259447304
+['mileage', 'gallon']	['20 gallon']	0.58576256022
+['mileage', 'gallon']	['mile']	0.212589593331
+['mileage', 'gallon']	['1400 mile']	0.0368701550083
+['mileage', 'gallon']	['average gas mileage']	0.283998690976
+['mileage', 'gallon']	['gas mileage']	0.413503815945
+['gas mileage', 'gallon']	['2 car']	0.0394528443219
+['gas mileage', 'gallon']	['average mile']	0.0368028975308
+['gas mileage', 'gallon']	['two car']	0.0436614950161
+['gas mileage', 'gallon']	['particular week']	0.0361569291624
+['gas mileage', 'gallon']	['week']	0.146177325711
+['gas mileage', 'gallon']	['car']	0.177003326418
+['gas mileage', 'gallon']	['first car']	0.0376720806775
+['gas mileage', 'gallon']	['40 gallon']	0.591878577002
+['gas mileage', 'gallon']	['second']	0.17038096688
+['gas mileage', 'gallon']	['20 gallon']	0.591878577002
+['gas mileage', 'gallon']	['mile']	0.247822325665
+['gas mileage', 'gallon']	['1400 mile']	0.0368028975308
+['gas mileage', 'gallon']	['average gas mileage']	0.228022620317
+['gas mileage', 'gallon']	['mileage']	0.636147643394
+['2 car', '20 gallon']	['average mile']	0.0696933362217
+['2 car', '20 gallon']	['two car']	0.656814097845
+['2 car', '20 gallon']	['particular week']	0.0696933362217
+['2 car', '20 gallon']	['week']	0.00800951534341
+['2 car', '20 gallon']	['car']	0.487027953071
+['2 car', '20 gallon']	['first car']	0.422808047873
+['2 car', '20 gallon']	['40 gallon']	0.781116950393
+['2 car', '20 gallon']	['second']	0.011726423379
+['2 car', '20 gallon']	['gallon']	0.471678880869
+['2 car', '20 gallon']	['mile']	0.00800951534341
+['2 car', '20 gallon']	['1400 mile']	0.0737139440912
+['2 car', '20 gallon']	['average gas mileage']	0.0726409365964
+['2 car', '20 gallon']	['mileage']	0.0658639515588
+['2 car', '20 gallon']	['gas mileage']	0.0649040532856
+['average mile', '20 gallon']	['2 car']	0.107003435941
+['average mile', '20 gallon']	['two car']	0.107003435941
+['average mile', '20 gallon']	['particular week']	0.0827346205535
+['average mile', '20 gallon']	['week']	0.0143499502517
+['average mile', '20 gallon']	['car']	0.0541974512876
+['average mile', '20 gallon']	['first car']	0.0871340391838
+['average mile', '20 gallon']	['40 gallon']	0.754360422532
+['average mile', '20 gallon']	['second']	0.0430502462229
+['average mile', '20 gallon']	['gallon']	0.724943139062
+['average mile', '20 gallon']	['mile']	0.345297574209
+['average mile', '20 gallon']	['1400 mile']	0.584269096576
+['average mile', '20 gallon']	['average gas mileage']	0.514053739722
+['average mile', '20 gallon']	['mileage']	0.0777864840342
+['average mile', '20 gallon']	['gas mileage']	0.0827346205535
+['two car', '20 gallon']	['2 car']	0.656814097845
+['two car', '20 gallon']	['average mile']	0.0696933362217
+['two car', '20 gallon']	['particular week']	0.0669904799604
+['two car', '20 gallon']	['week']	0.0106028278734
+['two car', '20 gallon']	['car']	0.549490267826
+['two car', '20 gallon']	['first car']	0.422808047873
+['two car', '20 gallon']	['40 gallon']	0.781116950393
+['two car', '20 gallon']	['second']	0.011726423379
+['two car', '20 gallon']	['gallon']	0.471678880869
+['two car', '20 gallon']	['mile']	0.0106028278734
+['two car', '20 gallon']	['1400 mile']	0.0737139440912
+['two car', '20 gallon']	['average gas mileage']	0.0885621548936
+['two car', '20 gallon']	['mileage']	0.0690378963307
+['two car', '20 gallon']	['gas mileage']	0.0696933362217
+['particular week', '20 gallon']	['2 car']	0.11192831726
+['particular week', '20 gallon']	['average mile']	0.083785214554
+['particular week', '20 gallon']	['two car']	0.105006879062
+['particular week', '20 gallon']	['week']	0.345297574209
+['particular week', '20 gallon']	['car']	0.0541974512876
+['particular week', '20 gallon']	['first car']	0.092336172472
+['particular week', '20 gallon']	['40 gallon']	0.754360422532
+['particular week', '20 gallon']	['second']	0.080603787226
+['particular week', '20 gallon']	['gallon']	0.700344368106
+['particular week', '20 gallon']	['mile']	0.0143499502517
+['particular week', '20 gallon']	['1400 mile']	0.0901100077042
+['particular week', '20 gallon']	['average gas mileage']	0.113834866829
+['particular week', '20 gallon']	['mileage']	0.0777864840342
+['particular week', '20 gallon']	['gas mileage']	0.0827346205535
+['week', '20 gallon']	['2 car']	0.0891890359625
+['week', '20 gallon']	['average mile']	0.0368701550083
+['week', '20 gallon']	['two car']	0.0650051934866
+['week', '20 gallon']	['particular week']	0.378733264805
+['week', '20 gallon']	['car']	0.177003326418
+['week', '20 gallon']	['first car']	0.0406236052701
+['week', '20 gallon']	['40 gallon']	0.345702406444
+['week', '20 gallon']	['second']	0.226668408558
+['week', '20 gallon']	['gallon']	0.799761506528
+['week', '20 gallon']	['mile']	0.165120987683
+['week', '20 gallon']	['1400 mile']	0.0368028975308
+['week', '20 gallon']	['average gas mileage']	0.0334931390577
+['week', '20 gallon']	['mileage']	0.0310069393168
+['week', '20 gallon']	['gas mileage']	0.0319482784682
+['car', '20 gallon']	['2 car']	0.734405199705
+['car', '20 gallon']	['average mile']	0.0465787639079
+['car', '20 gallon']	['two car']	0.810977133761
+['car', '20 gallon']	['particular week']	0.0454050549877
+['car', '20 gallon']	['week']	0.1268150296
+['car', '20 gallon']	['first car']	0.887049648333
+['car', '20 gallon']	['40 gallon']	0.678489867715
+['car', '20 gallon']	['second']	0.101843809302
+['car', '20 gallon']	['gallon']	0.474400925907
+['car', '20 gallon']	['mile']	0.0806714395726
+['car', '20 gallon']	['1400 mile']	0.0465787639079
+['car', '20 gallon']	['average gas mileage']	0.073084825274
+['car', '20 gallon']	['mileage']	0.131949318167
+['car', '20 gallon']	['gas mileage']	0.0546200245943
+['first car', '20 gallon']	['2 car']	0.622462222886
+['first car', '20 gallon']	['average mile']	0.0827346205535
+['first car', '20 gallon']	['two car']	0.622462222886
+['first car', '20 gallon']	['particular week']	0.0800317642921
+['first car', '20 gallon']	['week']	0.0132263547461
+['first car', '20 gallon']	['car']	0.656411019364
+['first car', '20 gallon']	['40 gallon']	0.788125610685
+['first car', '20 gallon']	['second']	0.016864172895
+['first car', '20 gallon']	['gallon']	0.516305322166
+['first car', '20 gallon']	['mile']	0.0132263547461
+['first car', '20 gallon']	['1400 mile']	0.0901100077042
+['first car', '20 gallon']	['average gas mileage']	0.096515242987
+['first car', '20 gallon']	['mileage']	0.0800606621439
+['first car', '20 gallon']	['gas mileage']	0.0800317642921
+['40 gallon', '20 gallon']	['2 car']	0.347423613081
+['40 gallon', '20 gallon']	['average mile']	0.153587928078
+['40 gallon', '20 gallon']	['two car']	0.347423613081
+['40 gallon', '20 gallon']	['particular week']	0.184995399404
+['40 gallon', '20 gallon']	['week']	0.184602740827
+['40 gallon', '20 gallon']	['car']	0.275488721376
+['40 gallon', '20 gallon']	['first car']	0.233604126902
+['40 gallon', '20 gallon']	['second']	0.206786695565
+['40 gallon', '20 gallon']	['gallon']	0.769251975731
+['40 gallon', '20 gallon']	['mile']	0.219462895472
+['40 gallon', '20 gallon']	['1400 mile']	0.139258682248
+['40 gallon', '20 gallon']	['average gas mileage']	0.276870212632
+['40 gallon', '20 gallon']	['mileage']	0.334330087138
+['40 gallon', '20 gallon']	['gas mileage']	0.153587928078
+['second', '20 gallon']	['2 car']	0.0733994294194
+['second', '20 gallon']	['average mile']	0.0926896202512
+['second', '20 gallon']	['two car']	0.0733994294194
+['second', '20 gallon']	['particular week']	0.135200832038
+['second', '20 gallon']	['week']	0.201177965077
+['second', '20 gallon']	['car']	0.110178949437
+['second', '20 gallon']	['first car']	0.0613172765419
+['second', '20 gallon']	['40 gallon']	0.497118949873
+['second', '20 gallon']	['gallon']	0.779494464592
+['second', '20 gallon']	['mile']	0.228517949828
+['second', '20 gallon']	['1400 mile']	0.0787160430154
+['second', '20 gallon']	['average gas mileage']	0.0506011684966
+['second', '20 gallon']	['mileage']	0.138699255865
+['second', '20 gallon']	['gas mileage']	0.0450566866416
+['gallon', '20 gallon']	['2 car']	0.184088625564
+['gallon', '20 gallon']	['average mile']	0.177516058856
+['gallon', '20 gallon']	['two car']	0.184088625564
+['gallon', '20 gallon']	['particular week']	0.150377262293
+['gallon', '20 gallon']	['week']	0.35308884221
+['gallon', '20 gallon']	['car']	0.313982861585
+['gallon', '20 gallon']	['first car']	0.163755337176
+['gallon', '20 gallon']	['40 gallon']	0.801498388473
+['gallon', '20 gallon']	['second']	0.352718675725
+['gallon', '20 gallon']	['mile']	0.361622534434
+['gallon', '20 gallon']	['1400 mile']	0.177448801378
+['gallon', '20 gallon']	['average gas mileage']	0.296641352372
+['gallon', '20 gallon']	['mileage']	0.297245159667
+['gallon', '20 gallon']	['gas mileage']	0.0968024870635
+['mile', '20 gallon']	['2 car']	0.0891890359625
+['mile', '20 gallon']	['average mile']	0.378733264805
+['mile', '20 gallon']	['two car']	0.0650051934866
+['mile', '20 gallon']	['particular week']	0.0368701550083
+['mile', '20 gallon']	['week']	0.146177325711
+['mile', '20 gallon']	['car']	0.102367866461
+['mile', '20 gallon']	['first car']	0.0406236052701
+['mile', '20 gallon']	['40 gallon']	0.464262206931
+['mile', '20 gallon']	['second']	0.226668408558
+['mile', '20 gallon']	['gallon']	0.823652978147
+['mile', '20 gallon']	['1400 mile']	0.442012633359
+['mile', '20 gallon']	['average gas mileage']	0.0334931390577
+['mile', '20 gallon']	['mileage']	0.336733903205
+['mile', '20 gallon']	['gas mileage']	0.185359131193
+['1400 mile', '20 gallon']	['2 car']	0.107003435941
+['1400 mile', '20 gallon']	['average mile']	0.549852778125
+['1400 mile', '20 gallon']	['two car']	0.107003435941
+['1400 mile', '20 gallon']	['particular week']	0.0827346205535
+['1400 mile', '20 gallon']	['week']	0.0143499502517
+['1400 mile', '20 gallon']	['car']	0.0541974512876
+['1400 mile', '20 gallon']	['first car']	0.0871340391838
+['1400 mile', '20 gallon']	['40 gallon']	0.754360422532
+['1400 mile', '20 gallon']	['second']	0.0430502462229
+['1400 mile', '20 gallon']	['gallon']	0.724943139062
+['1400 mile', '20 gallon']	['mile']	0.500847544769
+['1400 mile', '20 gallon']	['average gas mileage']	0.0908034291173
+['1400 mile', '20 gallon']	['mileage']	0.0777864840342
+['1400 mile', '20 gallon']	['gas mileage']	0.0827346205535
+['average gas mileage', '20 gallon']	['2 car']	0.256179258275
+['average gas mileage', '20 gallon']	['average mile']	0.601995725418
+['average gas mileage', '20 gallon']	['two car']	0.171176153595
+['average gas mileage', '20 gallon']	['particular week']	0.152238479479
+['average gas mileage', '20 gallon']	['week']	0.0102152903687
+['average gas mileage', '20 gallon']	['car']	0.0755065871874
+['average gas mileage', '20 gallon']	['first car']	0.15663789811
+['average gas mileage', '20 gallon']	['40 gallon']	0.810888071258
+['average gas mileage', '20 gallon']	['second']	0.0181931391317
+['average gas mileage', '20 gallon']	['gallon']	0.576711614717
+['average gas mileage', '20 gallon']	['mile']	0.0113388858743
+['average gas mileage', '20 gallon']	['1400 mile']	0.15961386663
+['average gas mileage', '20 gallon']	['mileage']	0.707708905105
+['average gas mileage', '20 gallon']	['gas mileage']	0.638437896863
+['mileage', '20 gallon']	['2 car']	0.204475551251
+['mileage', '20 gallon']	['average mile']	0.0827346205535
+['mileage', '20 gallon']	['two car']	0.112172037378
+['mileage', '20 gallon']	['particular week']	0.0827346205535
+['mileage', '20 gallon']	['week']	0.0138898151044
+['mileage', '20 gallon']	['car']	0.164940774679
+['mileage', '20 gallon']	['first car']	0.083785214554
+['mileage', '20 gallon']	['40 gallon']	0.760386850763
+['mileage', '20 gallon']	['second']	0.138651874273
+['mileage', '20 gallon']	['gallon']	0.789456199286
+['mileage', '20 gallon']	['mile']	0.27991800818
+['mileage', '20 gallon']	['1400 mile']	0.0827346205535
+['mileage', '20 gallon']	['average gas mileage']	0.682897882325
+['mileage', '20 gallon']	['gas mileage']	0.731471015694
+['gas mileage', '20 gallon']	['2 car']	0.216115762892
+['gas mileage', '20 gallon']	['average mile']	0.0827346205535
+['gas mileage', '20 gallon']	['two car']	0.107003435941
+['gas mileage', '20 gallon']	['particular week']	0.0827346205535
+['gas mileage', '20 gallon']	['week']	0.01207780957
+['gas mileage', '20 gallon']	['car']	0.0498296537608
+['gas mileage', '20 gallon']	['first car']	0.0871340391838
+['gas mileage', '20 gallon']	['40 gallon']	0.754360422532
+['gas mileage', '20 gallon']	['second']	0.016864172895
+['gas mileage', '20 gallon']	['gallon']	0.54355118505
+['gas mileage', '20 gallon']	['mile']	0.0484050393962
+['gas mileage', '20 gallon']	['1400 mile']	0.0901100077042
+['gas mileage', '20 gallon']	['average gas mileage']	0.594684399145
+['gas mileage', '20 gallon']	['mileage']	0.669022875945
+['2 car', 'mile']	['average mile']	0.393094266122
+['2 car', 'mile']	['two car']	0.376302592657
+['2 car', 'mile']	['particular week']	0.0989480026901
+['2 car', 'mile']	['week']	0.179510659044
+['2 car', 'mile']	['car']	0.476351549659
+['2 car', 'mile']	['first car']	0.194706354441
+['2 car', 'mile']	['40 gallon']	0.12810287516
+['2 car', 'mile']	['second']	0.264871871761
+['2 car', 'mile']	['gallon']	0.240707734152
+['2 car', 'mile']	['20 gallon']	0.12810287516
+['2 car', 'mile']	['1400 mile']	0.442012633359
+['2 car', 'mile']	['average gas mileage']	0.0955709867396
+['2 car', 'mile']	['mileage']	0.326376770168
+['2 car', 'mile']	['gas mileage']	0.216712756533
+['average mile', 'mile']	['2 car']	0.197809762008
+['average mile', 'mile']	['two car']	0.103856602467
+['average mile', 'mile']	['particular week']	0.177448801378
+['average mile', 'mile']	['week']	0.329739509058
+['average mile', 'mile']	['car']	0.304536876835
+['average mile', 'mile']	['first car']	0.0968024870635
+['average mile', 'mile']	['40 gallon']	0.177448801378
+['average mile', 'mile']	['second']	0.423099679089
+['average mile', 'mile']	['gallon']	0.361622534434
+['average mile', 'mile']	['20 gallon']	0.177448801378
+['average mile', 'mile']	['1400 mile']	0.676555862245
+['average mile', 'mile']	['average gas mileage']	0.627343077333
+['average mile', 'mile']	['mileage']	0.541255000636
+['average mile', 'mile']	['gas mileage']	0.386477202467
+['two car', 'mile']	['2 car']	0.367969259323
+['two car', 'mile']	['average mile']	0.393094266122
+['two car', 'mile']	['particular week']	0.0989480026901
+['two car', 'mile']	['week']	0.179510659044
+['two car', 'mile']	['car']	0.412612810921
+['two car', 'mile']	['first car']	0.194706354441
+['two car', 'mile']	['40 gallon']	0.12810287516
+['two car', 'mile']	['second']	0.264871871761
+['two car', 'mile']	['gallon']	0.240707734152
+['two car', 'mile']	['20 gallon']	0.12810287516
+['two car', 'mile']	['1400 mile']	0.442012633359
+['two car', 'mile']	['average gas mileage']	0.0955709867396
+['two car', 'mile']	['mileage']	0.326376770168
+['two car', 'mile']	['gas mileage']	0.216780014011
+['particular week', 'mile']	['2 car']	0.0379376928067
+['particular week', 'mile']	['average mile']	0.382262169219
+['particular week', 'mile']	['two car']	0.0427923118694
+['particular week', 'mile']	['week']	0.455381832072
+['particular week', 'mile']	['car']	0.102367866461
+['particular week', 'mile']	['first car']	0.0368028975308
+['particular week', 'mile']	['40 gallon']	0.0368701550083
+['particular week', 'mile']	['second']	0.368532996852
+['particular week', 'mile']	['gallon']	0.207374400819
+['particular week', 'mile']	['20 gallon']	0.0368701550083
+['particular week', 'mile']	['1400 mile']	0.442012633359
+['particular week', 'mile']	['average gas mileage']	0.0444842825389
+['particular week', 'mile']	['mileage']	0.428030453876
+['particular week', 'mile']	['gas mileage']	0.185359131193
+['week', 'mile']	['2 car']	0.0855132013781
+['week', 'mile']	['average mile']	0.359760932789
+['week', 'mile']	['two car']	0.0839398472414
+['week', 'mile']	['particular week']	0.359760932789
+['week', 'mile']	['car']	0.123561254103
+['week', 'mile']	['first car']	0.0819186868711
+['week', 'mile']	['40 gallon']	0.0819859443486
+['week', 'mile']	['second']	0.0532047724417
+['week', 'mile']	['gallon']	0.153695435666
+['week', 'mile']	['20 gallon']	0.0819859443486
+['week', 'mile']	['1400 mile']	0.536520223283
+['week', 'mile']	['average gas mileage']	0.0841485133353
+['week', 'mile']	['mileage']	0.225019472356
+['week', 'mile']	['gas mileage']	0.220040145794
+['car', 'mile']	['2 car']	0.209308149868
+['car', 'mile']	['average mile']	0.321082357697
+['car', 'mile']	['two car']	0.251025138595
+['car', 'mile']	['particular week']	0.0780842671024
+['car', 'mile']	['week']	0.185342414432
+['car', 'mile']	['first car']	0.323337948267
+['car', 'mile']	['40 gallon']	0.0780842671024
+['car', 'mile']	['second']	0.0854169707614
+['car', 'mile']	['gallon']	0.176806670341
+['car', 'mile']	['20 gallon']	0.0780842671024
+['car', 'mile']	['1400 mile']	0.391849831526
+['car', 'mile']	['average gas mileage']	0.101093601569
+['car', 'mile']	['mileage']	0.194277319902
+['car', 'mile']	['gas mileage']	0.194322062131
+['first car', 'mile']	['2 car']	0.227663245293
+['first car', 'mile']	['average mile']	0.378733264805
+['first car', 'mile']	['two car']	0.213935566721
+['first car', 'mile']	['particular week']	0.0368701550083
+['first car', 'mile']	['week']	0.146177325711
+['first car', 'mile']	['car']	0.460454232663
+['first car', 'mile']	['40 gallon']	0.0496026845292
+['first car', 'mile']	['second']	0.231538538428
+['first car', 'mile']	['gallon']	0.207374400819
+['first car', 'mile']	['20 gallon']	0.0496026845292
+['first car', 'mile']	['1400 mile']	0.442012633359
+['first car', 'mile']	['average gas mileage']	0.0335603965352
+['first car', 'mile']	['mileage']	0.295023144827
+['first car', 'mile']	['gas mileage']	0.0768947634436
+['40 gallon', 'mile']	['2 car']	0.0891890359625
+['40 gallon', 'mile']	['average mile']	0.378733264805
+['40 gallon', 'mile']	['two car']	0.0650051934866
+['40 gallon', 'mile']	['particular week']	0.0368701550083
+['40 gallon', 'mile']	['week']	0.146177325711
+['40 gallon', 'mile']	['car']	0.102367866461
+['40 gallon', 'mile']	['first car']	0.0406236052701
+['40 gallon', 'mile']	['second']	0.226668408558
+['40 gallon', 'mile']	['gallon']	0.823652978147
+['40 gallon', 'mile']	['20 gallon']	0.464262206931
+['40 gallon', 'mile']	['1400 mile']	0.442012633359
+['40 gallon', 'mile']	['average gas mileage']	0.0334931390577
+['40 gallon', 'mile']	['mileage']	0.336733903205
+['40 gallon', 'mile']	['gas mileage']	0.185359131193
+['second', 'mile']	['2 car']	0.0401150227306
+['second', 'mile']	['average mile']	0.330137986213
+['second', 'mile']	['two car']	0.0180288480811
+['second', 'mile']	['particular week']	0.0787489925373
+['second', 'mile']	['week']	0.119478191512
+['second', 'mile']	['car']	0.0248418559925
+['second', 'mile']	['first car']	0.0160076877108
+['second', 'mile']	['40 gallon']	0.0160749451882
+['second', 'mile']	['gallon']	0.117904837375
+['second', 'mile']	['20 gallon']	0.0160749451882
+['second', 'mile']	['1400 mile']	0.551258278025
+['second', 'mile']	['average gas mileage']	0.0183047716524
+['second', 'mile']	['mileage']	0.163481010818
+['second', 'mile']	['gas mileage']	0.120887518935
+['gallon', 'mile']	['2 car']	0.0855132013781
+['gallon', 'mile']	['average mile']	0.359760932789
+['gallon', 'mile']	['two car']	0.0839398472414
+['gallon', 'mile']	['particular week']	0.0819859443486
+['gallon', 'mile']	['week']	0.120402773569
+['gallon', 'mile']	['car']	0.102349132891
+['gallon', 'mile']	['first car']	0.0819186868711
+['gallon', 'mile']	['40 gallon']	0.665238409719
+['gallon', 'mile']	['second']	0.154259447304
+['gallon', 'mile']	['20 gallon']	0.665238409719
+['gallon', 'mile']	['1400 mile']	0.536520223283
+['gallon', 'mile']	['average gas mileage']	0.0841485133353
+['gallon', 'mile']	['mileage']	0.165019472356
+['gallon', 'mile']	['gas mileage']	0.220040145794
+['20 gallon', 'mile']	['2 car']	0.0891890359625
+['20 gallon', 'mile']	['average mile']	0.378733264805
+['20 gallon', 'mile']	['two car']	0.0650051934866
+['20 gallon', 'mile']	['particular week']	0.0368701550083
+['20 gallon', 'mile']	['week']	0.146177325711
+['20 gallon', 'mile']	['car']	0.102367866461
+['20 gallon', 'mile']	['first car']	0.0406236052701
+['20 gallon', 'mile']	['40 gallon']	0.464262206931
+['20 gallon', 'mile']	['second']	0.226668408558
+['20 gallon', 'mile']	['gallon']	0.823652978147
+['20 gallon', 'mile']	['1400 mile']	0.442012633359
+['20 gallon', 'mile']	['average gas mileage']	0.0334931390577
+['20 gallon', 'mile']	['mileage']	0.336733903205
+['20 gallon', 'mile']	['gas mileage']	0.185359131193
+['1400 mile', 'mile']	['2 car']	0.197809762008
+['1400 mile', 'mile']	['average mile']	0.543445645363
+['1400 mile', 'mile']	['two car']	0.103856602467
+['1400 mile', 'mile']	['particular week']	0.177448801378
+['1400 mile', 'mile']	['week']	0.329739509058
+['1400 mile', 'mile']	['car']	0.304536876835
+['1400 mile', 'mile']	['first car']	0.0968024870635
+['1400 mile', 'mile']	['40 gallon']	0.177448801378
+['1400 mile', 'mile']	['second']	0.423099679089
+['1400 mile', 'mile']	['gallon']	0.361622534434
+['1400 mile', 'mile']	['20 gallon']	0.177448801378
+['1400 mile', 'mile']	['average gas mileage']	0.273142425453
+['1400 mile', 'mile']	['mileage']	0.541255000636
+['1400 mile', 'mile']	['gas mileage']	0.386477202467
+['average gas mileage', 'mile']	['2 car']	0.0368813547786
+['average gas mileage', 'mile']	['average mile']	0.293907855762
+['average gas mileage', 'mile']	['two car']	0.0410900054728
+['average gas mileage', 'mile']	['particular week']	0.0357465595026
+['average gas mileage', 'mile']	['week']	0.145120987683
+['average gas mileage', 'mile']	['car']	0.102367866461
+['average gas mileage', 'mile']	['first car']	0.0351005911342
+['average gas mileage', 'mile']	['40 gallon']	0.0357465595026
+['average gas mileage', 'mile']	['second']	0.231538538428
+['average gas mileage', 'mile']	['gallon']	0.206318062791
+['average gas mileage', 'mile']	['20 gallon']	0.0357465595026
+['average gas mileage', 'mile']	['1400 mile']	0.417204941051
+['average gas mileage', 'mile']	['mileage']	0.733987960278
+['average gas mileage', 'mile']	['gas mileage']	0.418594367085
+['mileage', 'mile']	['2 car']	0.0421043594734
+['mileage', 'mile']	['average mile']	0.345399931471
+['mileage', 'mile']	['two car']	0.0421463435009
+['mileage', 'mile']	['particular week']	0.0368701550083
+['mileage', 'mile']	['week']	0.152811524845
+['mileage', 'mile']	['car']	0.0461090589476
+['mileage', 'mile']	['first car']	0.0361569291624
+['mileage', 'mile']	['40 gallon']	0.0368701550083
+['mileage', 'mile']	['second']	0.0537920779223
+['mileage', 'mile']	['gallon']	0.117904837375
+['mileage', 'mile']	['20 gallon']	0.0368701550083
+['mileage', 'mile']	['1400 mile']	0.553297612561
+['mileage', 'mile']	['average gas mileage']	0.305138973107
+['mileage', 'mile']	['gas mileage']	0.438722880398
+['gas mileage', 'mile']	['2 car']	0.0379376928067
+['gas mileage', 'mile']	['average mile']	0.384540526976
+['gas mileage', 'mile']	['two car']	0.0421463435009
+['gas mileage', 'mile']	['particular week']	0.0368028975308
+['gas mileage', 'mile']	['week']	0.146177325711
+['gas mileage', 'mile']	['car']	0.102367866461
+['gas mileage', 'mile']	['first car']	0.0361569291624
+['gas mileage', 'mile']	['40 gallon']	0.0368028975308
+['gas mileage', 'mile']	['second']	0.231538538428
+['gas mileage', 'mile']	['gallon']	0.207374400819
+['gas mileage', 'mile']	['20 gallon']	0.0368028975308
+['gas mileage', 'mile']	['1400 mile']	0.442012633359
+['gas mileage', 'mile']	['average gas mileage']	0.191252591005
+['gas mileage', 'mile']	['mileage']	0.799916205778
+['2 car', '1400 mile']	['average mile']	0.494524508322
+['2 car', '1400 mile']	['two car']	0.553220629519
+['2 car', '1400 mile']	['particular week']	0.0696933362217
+['2 car', '1400 mile']	['week']	0.00800951534341
+['2 car', '1400 mile']	['car']	0.487027953071
+['2 car', '1400 mile']	['first car']	0.465538040018
+['2 car', '1400 mile']	['40 gallon']	0.105691884463
+['2 car', '1400 mile']	['second']	0.0336326013502
+['2 car', '1400 mile']	['gallon']	0.0106028278734
+['2 car', '1400 mile']	['20 gallon']	0.105691884463
+['2 car', '1400 mile']	['mile']	0.310562022346
+['2 car', '1400 mile']	['average gas mileage']	0.0726409365964
+['2 car', '1400 mile']	['mileage']	0.063589773449
+['2 car', '1400 mile']	['gas mileage']	0.0649040532856
+['average mile', '1400 mile']	['2 car']	0.14699641653
+['average mile', '1400 mile']	['two car']	0.14699641653
+['average mile', '1400 mile']	['particular week']	0.139258682248
+['average mile', '1400 mile']	['week']	0.219462895472
+['average mile', '1400 mile']	['car']	0.283185314144
+['average mile', '1400 mile']	['first car']	0.139258682248
+['average mile', '1400 mile']	['40 gallon']	0.139258682248
+['average mile', '1400 mile']	['second']	0.242050474049
+['average mile', '1400 mile']	['gallon']	0.219462895472
+['average mile', '1400 mile']	['20 gallon']	0.139258682248
+['average mile', '1400 mile']	['mile']	0.761098305127
+['average mile', '1400 mile']	['average gas mileage']	0.690906103897
+['average mile', '1400 mile']	['mileage']	0.383475193417
+['average mile', '1400 mile']	['gas mileage']	0.139258682248
+['two car', '1400 mile']	['2 car']	0.553220629519
+['two car', '1400 mile']	['average mile']	0.494524508322
+['two car', '1400 mile']	['particular week']	0.0703393045902
+['two car', '1400 mile']	['week']	0.0106028278734
+['two car', '1400 mile']	['car']	0.591995464271
+['two car', '1400 mile']	['first car']	0.465538040018
+['two car', '1400 mile']	['40 gallon']	0.105691884463
+['two car', '1400 mile']	['second']	0.0336326013502
+['two car', '1400 mile']	['gallon']	0.0106028278734
+['two car', '1400 mile']	['20 gallon']	0.105691884463
+['two car', '1400 mile']	['mile']	0.343895355679
+['two car', '1400 mile']	['average gas mileage']	0.0828503410239
+['two car', '1400 mile']	['mileage']	0.0667637182209
+['two car', '1400 mile']	['gas mileage']	0.0696933362217
+['particular week', '1400 mile']	['2 car']	0.0824069519204
+['particular week', '1400 mile']	['average mile']	0.520866309821
+['particular week', '1400 mile']	['two car']	0.0830529202888
+['particular week', '1400 mile']	['week']	0.345297574209
+['particular week', '1400 mile']	['car']	0.0541974512876
+['particular week', '1400 mile']	['first car']	0.0833805889219
+['particular week', '1400 mile']	['40 gallon']	0.0827346205535
+['particular week', '1400 mile']	['second']	0.0746384582482
+['particular week', '1400 mile']	['gallon']	0.0143499502517
+['particular week', '1400 mile']	['20 gallon']	0.0827346205535
+['particular week', '1400 mile']	['mile']	0.500847544769
+['particular week', '1400 mile']	['average gas mileage']	0.107439128991
+['particular week', '1400 mile']	['mileage']	0.0764053905195
+['particular week', '1400 mile']	['gas mileage']	0.0827346205535
+['week', '1400 mile']	['2 car']	0.0379376928067
+['week', '1400 mile']	['average mile']	0.160671266721
+['week', '1400 mile']	['two car']	0.0421463435009
+['week', '1400 mile']	['particular week']	0.384540526976
+['week', '1400 mile']	['car']	0.177003326418
+['week', '1400 mile']	['first car']	0.0361569291624
+['week', '1400 mile']	['40 gallon']	0.0361569291624
+['week', '1400 mile']	['second']	0.310570615192
+['week', '1400 mile']	['gallon']	0.148837895719
+['week', '1400 mile']	['20 gallon']	0.0361569291624
+['week', '1400 mile']	['mile']	0.637730395476
+['week', '1400 mile']	['average gas mileage']	0.0334931390577
+['week', '1400 mile']	['mileage']	0.0310069393168
+['week', '1400 mile']	['gas mileage']	0.0319482784682
+['car', '1400 mile']	['2 car']	0.593444216664
+['car', '1400 mile']	['average mile']	0.386916343381
+['car', '1400 mile']	['two car']	0.65084700761
+['car', '1400 mile']	['particular week']	0.0465787639079
+['car', '1400 mile']	['week']	0.160148362933
+['car', '1400 mile']	['first car']	0.687535207027
+['car', '1400 mile']	['40 gallon']	0.0465787639079
+['car', '1400 mile']	['second']	0.162774545232
+['car', '1400 mile']	['gallon']	0.199996847782
+['car', '1400 mile']	['20 gallon']	0.0465787639079
+['car', '1400 mile']	['mile']	0.455951375696
+['car', '1400 mile']	['average gas mileage']	0.0576302798195
+['car', '1400 mile']	['mileage']	0.148981772892
+['car', '1400 mile']	['gas mileage']	0.0546200245943
+['first car', '1400 mile']	['2 car']	0.51364678879
+['first car', '1400 mile']	['average mile']	0.538007739106
+['first car', '1400 mile']	['two car']	0.51364678879
+['first car', '1400 mile']	['particular week']	0.0833805889219
+['first car', '1400 mile']	['week']	0.0132263547461
+['first car', '1400 mile']	['car']	0.677090818983
+['first car', '1400 mile']	['40 gallon']	0.0871340391838
+['first car', '1400 mile']	['second']	0.0430502462229
+['first car', '1400 mile']	['gallon']	0.0132263547461
+['first car', '1400 mile']	['20 gallon']	0.0871340391838
+['first car', '1400 mile']	['mile']	0.384494542755
+['first car', '1400 mile']	['average gas mileage']	0.096515242987
+['first car', '1400 mile']	['mileage']	0.0777864840342
+['first car', '1400 mile']	['gas mileage']	0.0833805889219
+['40 gallon', '1400 mile']	['2 car']	0.107003435941
+['40 gallon', '1400 mile']	['average mile']	0.549852778125
+['40 gallon', '1400 mile']	['two car']	0.107003435941
+['40 gallon', '1400 mile']	['particular week']	0.0827346205535
+['40 gallon', '1400 mile']	['week']	0.0143499502517
+['40 gallon', '1400 mile']	['car']	0.0541974512876
+['40 gallon', '1400 mile']	['first car']	0.0871340391838
+['40 gallon', '1400 mile']	['second']	0.0430502462229
+['40 gallon', '1400 mile']	['gallon']	0.724943139062
+['40 gallon', '1400 mile']	['20 gallon']	0.754360422532
+['40 gallon', '1400 mile']	['mile']	0.500847544769
+['40 gallon', '1400 mile']	['average gas mileage']	0.0908034291173
+['40 gallon', '1400 mile']	['mileage']	0.0777864840342
+['40 gallon', '1400 mile']	['gas mileage']	0.0827346205535
+['second', '1400 mile']	['2 car']	0.0490854479521
+['second', '1400 mile']	['average mile']	0.264149056616
+['second', '1400 mile']	['two car']	0.0490854479521
+['second', '1400 mile']	['particular week']	0.128023060494
+['second', '1400 mile']	['week']	0.228517949828
+['second', '1400 mile']	['car']	0.110178949437
+['second', '1400 mile']	['first car']	0.04570265501
+['second', '1400 mile']	['40 gallon']	0.04570265501
+['second', '1400 mile']	['gallon']	0.204652253186
+['second', '1400 mile']	['20 gallon']	0.04570265501
+['second', '1400 mile']	['mile']	0.749595131407
+['second', '1400 mile']	['average gas mileage']	0.0506011684966
+['second', '1400 mile']	['mileage']	0.170842113008
+['second', '1400 mile']	['gas mileage']	0.0450566866416
+['gallon', '1400 mile']	['2 car']	0.0436614950161
+['gallon', '1400 mile']	['average mile']	0.160671266721
+['gallon', '1400 mile']	['two car']	0.0436614950161
+['gallon', '1400 mile']	['particular week']	0.0361569291624
+['gallon', '1400 mile']	['week']	0.148837895719
+['gallon', '1400 mile']	['car']	0.180033629449
+['gallon', '1400 mile']	['first car']	0.0376720806775
+['gallon', '1400 mile']	['40 gallon']	0.591878577002
+['gallon', '1400 mile']	['second']	0.213346162958
+['gallon', '1400 mile']	['20 gallon']	0.591878577002
+['gallon', '1400 mile']	['mile']	0.73813679171
+['gallon', '1400 mile']	['average gas mileage']	0.0410777933861
+['gallon', '1400 mile']	['mileage']	0.109561042279
+['gallon', '1400 mile']	['gas mileage']	0.0361569291624
+['20 gallon', '1400 mile']	['2 car']	0.107003435941
+['20 gallon', '1400 mile']	['average mile']	0.549852778125
+['20 gallon', '1400 mile']	['two car']	0.107003435941
+['20 gallon', '1400 mile']	['particular week']	0.0827346205535
+['20 gallon', '1400 mile']	['week']	0.0143499502517
+['20 gallon', '1400 mile']	['car']	0.0541974512876
+['20 gallon', '1400 mile']	['first car']	0.0871340391838
+['20 gallon', '1400 mile']	['40 gallon']	0.754360422532
+['20 gallon', '1400 mile']	['second']	0.0430502462229
+['20 gallon', '1400 mile']	['gallon']	0.724943139062
+['20 gallon', '1400 mile']	['mile']	0.500847544769
+['20 gallon', '1400 mile']	['average gas mileage']	0.0908034291173
+['20 gallon', '1400 mile']	['mileage']	0.0777864840342
+['20 gallon', '1400 mile']	['gas mileage']	0.0827346205535
+['mile', '1400 mile']	['2 car']	0.197809762008
+['mile', '1400 mile']	['average mile']	0.543445645363
+['mile', '1400 mile']	['two car']	0.103856602467
+['mile', '1400 mile']	['particular week']	0.177448801378
+['mile', '1400 mile']	['week']	0.329739509058
+['mile', '1400 mile']	['car']	0.304536876835
+['mile', '1400 mile']	['first car']	0.0968024870635
+['mile', '1400 mile']	['40 gallon']	0.177448801378
+['mile', '1400 mile']	['second']	0.423099679089
+['mile', '1400 mile']	['gallon']	0.361622534434
+['mile', '1400 mile']	['20 gallon']	0.177448801378
+['mile', '1400 mile']	['average gas mileage']	0.273142425453
+['mile', '1400 mile']	['mileage']	0.541255000636
+['mile', '1400 mile']	['gas mileage']	0.386477202467
+['average gas mileage', '1400 mile']	['2 car']	0.145745783896
+['average gas mileage', '1400 mile']	['average mile']	0.736288203359
+['average gas mileage', '1400 mile']	['two car']	0.158859549493
+['average gas mileage', '1400 mile']	['particular week']	0.15961386663
+['average gas mileage', '1400 mile']	['week']	0.0113388858743
+['average gas mileage', '1400 mile']	['car']	0.0755065871874
+['average gas mileage', '1400 mile']	['first car']	0.15961386663
+['average gas mileage', '1400 mile']	['40 gallon']	0.15961386663
+['average gas mileage', '1400 mile']	['second']	0.0345026692497
+['average gas mileage', '1400 mile']	['gallon']	0.0139761041896
+['average gas mileage', '1400 mile']	['20 gallon']	0.15961386663
+['average gas mileage', '1400 mile']	['mile']	0.507566702293
+['average gas mileage', '1400 mile']	['mileage']	0.710717029052
+['average gas mileage', '1400 mile']	['gas mileage']	0.630753159569
+['mileage', '1400 mile']	['2 car']	0.0765935955162
+['mileage', '1400 mile']	['average mile']	0.538007739106
+['mileage', '1400 mile']	['two car']	0.0824069519204
+['mileage', '1400 mile']	['particular week']	0.0827346205535
+['mileage', '1400 mile']	['week']	0.0139570725819
+['mileage', '1400 mile']	['car']	0.164940774679
+['mileage', '1400 mile']	['first car']	0.0827346205535
+['mileage', '1400 mile']	['40 gallon']	0.0827346205535
+['mileage', '1400 mile']	['second']	0.194355343785
+['mileage', '1400 mile']	['gallon']	0.102967022347
+['mileage', '1400 mile']	['20 gallon']	0.0827346205535
+['mileage', '1400 mile']	['mile']	0.721463237178
+['mileage', '1400 mile']	['average gas mileage']	0.656337379747
+['mileage', '1400 mile']	['gas mileage']	0.71410729843
+['gas mileage', '1400 mile']	['2 car']	0.0839689826669
+['gas mileage', '1400 mile']	['average mile']	0.584269096576
+['gas mileage', '1400 mile']	['two car']	0.0897823390711
+['gas mileage', '1400 mile']	['particular week']	0.0901100077042
+['gas mileage', '1400 mile']	['week']	0.0132014050756
+['gas mileage', '1400 mile']	['car']	0.0498296537608
+['gas mileage', '1400 mile']	['first car']	0.0901100077042
+['gas mileage', '1400 mile']	['40 gallon']	0.0901100077042
+['gas mileage', '1400 mile']	['second']	0.0430502462229
+['gas mileage', '1400 mile']	['gallon']	0.0143499502517
+['gas mileage', '1400 mile']	['20 gallon']	0.0901100077042
+['gas mileage', '1400 mile']	['mile']	0.349461697755
+['gas mileage', '1400 mile']	['average gas mileage']	0.616810563947
+['gas mileage', '1400 mile']	['mileage']	0.696347083353
+['2 car', 'average gas mileage']	['average mile']	0.525786708981
+['2 car', 'average gas mileage']	['two car']	0.613588409614
+['2 car', 'average gas mileage']	['particular week']	0.124856540438
+['2 car', 'average gas mileage']	['week']	0.00614699614218
+['2 car', 'average gas mileage']	['car']	0.607420679248
+['2 car', 'average gas mileage']	['first car']	0.571342698387
+['2 car', 'average gas mileage']	['40 gallon']	0.148312858671
+['2 car', 'average gas mileage']	['second']	0.0113525773169
+['2 car', 'average gas mileage']	['gallon']	0.0102289818113
+['2 car', 'average gas mileage']	['20 gallon']	0.148312858671
+['2 car', 'average gas mileage']	['mile']	0.00614699614218
+['2 car', 'average gas mileage']	['1400 mile']	0.128877148308
+['2 car', 'average gas mileage']	['mileage']	0.718353924504
+['2 car', 'average gas mileage']	['gas mileage']	0.63052713808
+['average mile', 'average gas mileage']	['2 car']	0.145745783896
+['average mile', 'average gas mileage']	['two car']	0.158859549493
+['average mile', 'average gas mileage']	['particular week']	0.15961386663
+['average mile', 'average gas mileage']	['week']	0.0113388858743
+['average mile', 'average gas mileage']	['car']	0.0755065871874
+['average mile', 'average gas mileage']	['first car']	0.15961386663
+['average mile', 'average gas mileage']	['40 gallon']	0.15961386663
+['average mile', 'average gas mileage']	['second']	0.0345026692497
+['average mile', 'average gas mileage']	['gallon']	0.0139761041896
+['average mile', 'average gas mileage']	['20 gallon']	0.15961386663
+['average mile', 'average gas mileage']	['mile']	0.326134128403
+['average mile', 'average gas mileage']	['1400 mile']	0.653642048458
+['average mile', 'average gas mileage']	['mileage']	0.710717029052
+['average mile', 'average gas mileage']	['gas mileage']	0.630753159569
+['two car', 'average gas mileage']	['2 car']	0.613260249167
+['two car', 'average gas mileage']	['average mile']	0.525786708981
+['two car', 'average gas mileage']	['particular week']	0.125502508807
+['two car', 'average gas mileage']	['week']	0.00614699614218
+['two car', 'average gas mileage']	['car']	0.645733601076
+['two car', 'average gas mileage']	['first car']	0.571342698387
+['two car', 'average gas mileage']	['40 gallon']	0.148312858671
+['two car', 'average gas mileage']	['second']	0.0113525773169
+['two car', 'average gas mileage']	['gallon']	0.0102289818113
+['two car', 'average gas mileage']	['20 gallon']	0.148312858671
+['two car', 'average gas mileage']	['mile']	0.00614699614218
+['two car', 'average gas mileage']	['1400 mile']	0.128877148308
+['two car', 'average gas mileage']	['mileage']	0.718353924504
+['two car', 'average gas mileage']	['gas mileage']	0.591151200184
+['particular week', 'average gas mileage']	['2 car']	0.138370396746
+['particular week', 'average gas mileage']	['average mile']	0.597432376247
+['particular week', 'average gas mileage']	['two car']	0.152130130711
+['particular week', 'average gas mileage']	['week']	0.326134128403
+['particular week', 'average gas mileage']	['car']	0.0755065871874
+['particular week', 'average gas mileage']	['first car']	0.152884447848
+['particular week', 'average gas mileage']	['40 gallon']	0.152238479479
+['particular week', 'average gas mileage']	['second']	0.105389543586
+['particular week', 'average gas mileage']	['gallon']	0.012852508684
+['particular week', 'average gas mileage']	['20 gallon']	0.152238479479
+['particular week', 'average gas mileage']	['mile']	0.0113388858743
+['particular week', 'average gas mileage']	['1400 mile']	0.15961386663
+['particular week', 'average gas mileage']	['mileage']	0.710717029052
+['particular week', 'average gas mileage']	['gas mileage']	0.606926316831
+['week', 'average gas mileage']	['2 car']	0.0368813547786
+['week', 'average gas mileage']	['average mile']	0.427489722046
+['week', 'average gas mileage']	['two car']	0.0410900054728
+['week', 'average gas mileage']	['particular week']	0.32015079594
+['week', 'average gas mileage']	['car']	0.177003326418
+['week', 'average gas mileage']	['first car']	0.0351005911342
+['week', 'average gas mileage']	['40 gallon']	0.0351005911342
+['week', 'average gas mileage']	['second']	0.231538538428
+['week', 'average gas mileage']	['gallon']	0.147714300213
+['week', 'average gas mileage']	['20 gallon']	0.0351005911342
+['week', 'average gas mileage']	['mile']	0.145120987683
+['week', 'average gas mileage']	['1400 mile']	0.0357465595026
+['week', 'average gas mileage']	['mileage']	0.442682760203
+['week', 'average gas mileage']	['gas mileage']	0.169270740165
+['car', 'average gas mileage']	['2 car']	0.591239853863
+['car', 'average gas mileage']	['average mile']	0.286900269506
+['car', 'average gas mileage']	['two car']	0.648642644809
+['car', 'average gas mileage']	['particular week']	0.0465787639079
+['car', 'average gas mileage']	['week']	0.159392695427
+['car', 'average gas mileage']	['first car']	0.664800164292
+['car', 'average gas mileage']	['40 gallon']	0.0465787639079
+['car', 'average gas mileage']	['second']	0.105958271665
+['car', 'average gas mileage']	['gallon']	0.13863511967
+['car', 'average gas mileage']	['20 gallon']	0.0465787639079
+['car', 'average gas mileage']	['mile']	0.0799157720663
+['car', 'average gas mileage']	['1400 mile']	0.0465787639079
+['car', 'average gas mileage']	['mileage']	0.652225721958
+['car', 'average gas mileage']	['gas mileage']	0.399056720365
+['first car', 'average gas mileage']	['2 car']	0.54240826327
+['first car', 'average gas mileage']	['average mile']	0.601995725418
+['first car', 'average gas mileage']	['two car']	0.565297152159
+['first car', 'average gas mileage']	['particular week']	0.152884447848
+['first car', 'average gas mileage']	['week']	0.0102152903687
+['first car', 'average gas mileage']	['car']	0.736095113416
+['first car', 'average gas mileage']	['40 gallon']	0.15663789811
+['first car', 'average gas mileage']	['second']	0.0181931391317
+['first car', 'average gas mileage']	['gallon']	0.012852508684
+['first car', 'average gas mileage']	['20 gallon']	0.15663789811
+['first car', 'average gas mileage']	['mile']	0.0102152903687
+['first car', 'average gas mileage']	['1400 mile']	0.15961386663
+['first car', 'average gas mileage']	['mileage']	0.692317365951
+['first car', 'average gas mileage']	['gas mileage']	0.567512160273
+['40 gallon', 'average gas mileage']	['2 car']	0.256179258275
+['40 gallon', 'average gas mileage']	['average mile']	0.601995725418
+['40 gallon', 'average gas mileage']	['two car']	0.171176153595
+['40 gallon', 'average gas mileage']	['particular week']	0.152238479479
+['40 gallon', 'average gas mileage']	['week']	0.0102152903687
+['40 gallon', 'average gas mileage']	['car']	0.0755065871874
+['40 gallon', 'average gas mileage']	['first car']	0.15663789811
+['40 gallon', 'average gas mileage']	['second']	0.0181931391317
+['40 gallon', 'average gas mileage']	['gallon']	0.576711614717
+['40 gallon', 'average gas mileage']	['20 gallon']	0.810888071258
+['40 gallon', 'average gas mileage']	['mile']	0.0113388858743
+['40 gallon', 'average gas mileage']	['1400 mile']	0.15961386663
+['40 gallon', 'average gas mileage']	['mileage']	0.707708905105
+['40 gallon', 'average gas mileage']	['gas mileage']	0.638437896863
+['second', 'average gas mileage']	['2 car']	0.065132078728
+['second', 'average gas mileage']	['average mile']	0.475974860703
+['second', 'average gas mileage']	['two car']	0.0480291099239
+['second', 'average gas mileage']	['particular week']	0.12320052963
+['second', 'average gas mileage']	['week']	0.200121627049
+['second', 'average gas mileage']	['car']	0.11000917015
+['second', 'average gas mileage']	['first car']	0.0446463169818
+['second', 'average gas mileage']	['40 gallon']	0.0446463169818
+['second', 'average gas mileage']	['gallon']	0.184652253186
+['second', 'average gas mileage']	['20 gallon']	0.0446463169818
+['second', 'average gas mileage']	['mile']	0.200121627049
+['second', 'average gas mileage']	['1400 mile']	0.0811851788179
+['second', 'average gas mileage']	['mileage']	0.678934545828
+['second', 'average gas mileage']	['gas mileage']	0.205335935593
+['gallon', 'average gas mileage']	['2 car']	0.0368813547786
+['gallon', 'average gas mileage']	['average mile']	0.420515396171
+['gallon', 'average gas mileage']	['two car']	0.0410900054728
+['gallon', 'average gas mileage']	['particular week']	0.0351005911342
+['gallon', 'average gas mileage']	['week']	0.145120987683
+['gallon', 'average gas mileage']	['car']	0.177003326418
+['gallon', 'average gas mileage']	['first car']	0.0351005911342
+['gallon', 'average gas mileage']	['40 gallon']	0.572046009072
+['gallon', 'average gas mileage']	['second']	0.17038096688
+['gallon', 'average gas mileage']	['20 gallon']	0.572046009072
+['gallon', 'average gas mileage']	['mile']	0.206318062791
+['gallon', 'average gas mileage']	['1400 mile']	0.0357465595026
+['gallon', 'average gas mileage']	['mileage']	0.469201929812
+['gallon', 'average gas mileage']	['gas mileage']	0.22078435922
+['20 gallon', 'average gas mileage']	['2 car']	0.256179258275
+['20 gallon', 'average gas mileage']	['average mile']	0.601995725418
+['20 gallon', 'average gas mileage']	['two car']	0.171176153595
+['20 gallon', 'average gas mileage']	['particular week']	0.152238479479
+['20 gallon', 'average gas mileage']	['week']	0.0102152903687
+['20 gallon', 'average gas mileage']	['car']	0.0755065871874
+['20 gallon', 'average gas mileage']	['first car']	0.15663789811
+['20 gallon', 'average gas mileage']	['40 gallon']	0.810888071258
+['20 gallon', 'average gas mileage']	['second']	0.0181931391317
+['20 gallon', 'average gas mileage']	['gallon']	0.576711614717
+['20 gallon', 'average gas mileage']	['mile']	0.0113388858743
+['20 gallon', 'average gas mileage']	['1400 mile']	0.15961386663
+['20 gallon', 'average gas mileage']	['mileage']	0.707708905105
+['20 gallon', 'average gas mileage']	['gas mileage']	0.638437896863
+['mile', 'average gas mileage']	['2 car']	0.0368813547786
+['mile', 'average gas mileage']	['average mile']	0.293907855762
+['mile', 'average gas mileage']	['two car']	0.0410900054728
+['mile', 'average gas mileage']	['particular week']	0.0357465595026
+['mile', 'average gas mileage']	['week']	0.145120987683
+['mile', 'average gas mileage']	['car']	0.102367866461
+['mile', 'average gas mileage']	['first car']	0.0351005911342
+['mile', 'average gas mileage']	['40 gallon']	0.0357465595026
+['mile', 'average gas mileage']	['second']	0.231538538428
+['mile', 'average gas mileage']	['gallon']	0.206318062791
+['mile', 'average gas mileage']	['20 gallon']	0.0357465595026
+['mile', 'average gas mileage']	['1400 mile']	0.417204941051
+['mile', 'average gas mileage']	['mileage']	0.733987960278
+['mile', 'average gas mileage']	['gas mileage']	0.418594367085
+['1400 mile', 'average gas mileage']	['2 car']	0.145745783896
+['1400 mile', 'average gas mileage']	['average mile']	0.736288203359
+['1400 mile', 'average gas mileage']	['two car']	0.158859549493
+['1400 mile', 'average gas mileage']	['particular week']	0.15961386663
+['1400 mile', 'average gas mileage']	['week']	0.0113388858743
+['1400 mile', 'average gas mileage']	['car']	0.0755065871874
+['1400 mile', 'average gas mileage']	['first car']	0.15961386663
+['1400 mile', 'average gas mileage']	['40 gallon']	0.15961386663
+['1400 mile', 'average gas mileage']	['second']	0.0345026692497
+['1400 mile', 'average gas mileage']	['gallon']	0.0139761041896
+['1400 mile', 'average gas mileage']	['20 gallon']	0.15961386663
+['1400 mile', 'average gas mileage']	['mile']	0.507566702293
+['1400 mile', 'average gas mileage']	['mileage']	0.710717029052
+['1400 mile', 'average gas mileage']	['gas mileage']	0.630753159569
+['mileage', 'average gas mileage']	['2 car']	0.259664709242
+['mileage', 'average gas mileage']	['average mile']	0.623933301073
+['mileage', 'average gas mileage']	['two car']	0.153629069592
+['mileage', 'average gas mileage']	['particular week']	0.238969088114
+['mileage', 'average gas mileage']	['week']	0.161855832746
+['mileage', 'average gas mileage']	['car']	0.424640480268
+['mileage', 'average gas mileage']	['first car']	0.14589133531
+['mileage', 'average gas mileage']	['40 gallon']	0.153587928078
+['mileage', 'average gas mileage']	['second']	0.295948044491
+['mileage', 'average gas mileage']	['gallon']	0.200513011568
+['mileage', 'average gas mileage']	['20 gallon']	0.153587928078
+['mileage', 'average gas mileage']	['mile']	0.474445883827
+['mileage', 'average gas mileage']	['1400 mile']	0.238969088114
+['mileage', 'average gas mileage']	['gas mileage']	0.601293670812
+['gas mileage', 'average gas mileage']	['2 car']	0.217525340675
+['gas mileage', 'average gas mileage']	['average mile']	0.721112285926
+['gas mileage', 'average gas mileage']	['two car']	0.197909278251
+['gas mileage', 'average gas mileage']	['particular week']	0.188690699416
+['gas mileage', 'average gas mileage']	['week']	0.128522499412
+['gas mileage', 'average gas mileage']	['car']	0.347874400944
+['gas mileage', 'average gas mileage']	['first car']	0.188690699416
+['gas mileage', 'average gas mileage']	['40 gallon']	0.188690699416
+['gas mileage', 'average gas mileage']	['second']	0.147561398315
+['gas mileage', 'average gas mileage']	['gallon']	0.161855832746
+['gas mileage', 'average gas mileage']	['20 gallon']	0.188690699416
+['gas mileage', 'average gas mileage']	['mile']	0.409706621463
+['gas mileage', 'average gas mileage']	['1400 mile']	0.188690699416
+['gas mileage', 'average gas mileage']	['mileage']	0.713529980767
+['2 car', 'mileage']	['average mile']	0.0696933362217
+['2 car', 'mileage']	['two car']	0.604586417119
+['2 car', 'mileage']	['particular week']	0.0696933362217
+['2 car', 'mileage']	['week']	0.00982152087788
+['2 car', 'mileage']	['car']	0.740837562161
+['2 car', 'mileage']	['first car']	0.485145965568
+['2 car', 'mileage']	['40 gallon']	0.103222748661
+['2 car', 'mileage']	['second']	0.165627539268
+['2 car', 'mileage']	['gallon']	0.0806965185133
+['2 car', 'mileage']	['20 gallon']	0.103222748661
+['2 car', 'mileage']	['mile']	0.252357689695
+['2 car', 'mileage']	['1400 mile']	0.0696933362217
+['2 car', 'mileage']	['average gas mileage']	0.6743897114
+['2 car', 'mileage']	['gas mileage']	0.724699862497
+['average mile', 'mileage']	['2 car']	0.0765935955162
+['average mile', 'mileage']	['two car']	0.0824069519204
+['average mile', 'mileage']	['particular week']	0.0827346205535
+['average mile', 'mileage']	['week']	0.0139570725819
+['average mile', 'mileage']	['car']	0.164940774679
+['average mile', 'mileage']	['first car']	0.0827346205535
+['average mile', 'mileage']	['40 gallon']	0.0827346205535
+['average mile', 'mileage']	['second']	0.194355343785
+['average mile', 'mileage']	['gallon']	0.102967022347
+['average mile', 'mileage']	['20 gallon']	0.0827346205535
+['average mile', 'mileage']	['mile']	0.716747112891
+['average mile', 'mileage']	['1400 mile']	0.538007739106
+['average mile', 'mileage']	['average gas mileage']	0.627846133764
+['average mile', 'mileage']	['gas mileage']	0.71410729843
+['two car', 'mileage']	['2 car']	0.603261578931
+['two car', 'mileage']	['average mile']	0.0696933362217
+['two car', 'mileage']	['particular week']	0.0669904799604
+['two car', 'mileage']	['week']	0.00982152087788
+['two car', 'mileage']	['car']	0.735432156756
+['two car', 'mileage']	['first car']	0.485145965568
+['two car', 'mileage']	['40 gallon']	0.103222748661
+['two car', 'mileage']	['second']	0.165627539268
+['two car', 'mileage']	['gallon']	0.0806965185133
+['two car', 'mileage']	['20 gallon']	0.103222748661
+['two car', 'mileage']	['mile']	0.252357689695
+['two car', 'mileage']	['1400 mile']	0.0696933362217
+['two car', 'mileage']	['average gas mileage']	0.6743897114
+['two car', 'mileage']	['gas mileage']	0.741109412751
+['particular week', 'mileage']	['2 car']	0.105958674881
+['particular week', 'mileage']	['average mile']	0.083785214554
+['particular week', 'mileage']	['two car']	0.0830529202888
+['particular week', 'mileage']	['week']	0.427039441693
+['particular week', 'mileage']	['car']	0.164940774679
+['particular week', 'mileage']	['first car']	0.0833805889219
+['particular week', 'mileage']	['40 gallon']	0.0827346205535
+['particular week', 'mileage']	['second']	0.24615074365
+['particular week', 'mileage']	['gallon']	0.0840233603755
+['particular week', 'mileage']	['20 gallon']	0.0827346205535
+['particular week', 'mileage']	['mile']	0.27991800818
+['particular week', 'mileage']	['1400 mile']	0.0827346205535
+['particular week', 'mileage']	['average gas mileage']	0.699627997255
+['particular week', 'mileage']	['gas mileage']	0.740473158541
+['week', 'mileage']	['2 car']	0.0421043594734
+['week', 'mileage']	['average mile']	0.0368701550083
+['week', 'mileage']	['two car']	0.0421463435009
+['week', 'mileage']	['particular week']	0.345399931471
+['week', 'mileage']	['car']	0.0794423922809
+['week', 'mileage']	['first car']	0.0361569291624
+['week', 'mileage']	['40 gallon']	0.0361569291624
+['week', 'mileage']	['second']	0.0532047724417
+['week', 'mileage']	['gallon']	0.0854960860986
+['week', 'mileage']	['20 gallon']	0.0361569291624
+['week', 'mileage']	['mile']	0.179256259998
+['week', 'mileage']	['1400 mile']	0.0368701550083
+['week', 'mileage']	['average gas mileage']	0.305138973107
+['week', 'mileage']	['gas mileage']	0.492640239351
+['car', 'mileage']	['2 car']	0.592518290738
+['car', 'mileage']	['average mile']	0.046982964258
+['car', 'mileage']	['two car']	0.693352204055
+['car', 'mileage']	['particular week']	0.046982964258
+['car', 'mileage']	['week']	0.0847517873707
+['car', 'mileage']	['first car']	0.708215006646
+['car', 'mileage']	['40 gallon']	0.0465787639079
+['car', 'mileage']	['second']	0.0343964663254
+['car', 'mileage']	['gallon']	0.0297471916415
+['car', 'mileage']	['20 gallon']	0.0465787639079
+['car', 'mileage']	['mile']	0.157410173596
+['car', 'mileage']	['1400 mile']	0.046982964258
+['car', 'mileage']	['average gas mileage']	0.588905923342
+['car', 'mileage']	['gas mileage']	0.600347666935
+['first car', 'mileage']	['2 car']	0.53325471434
+['first car', 'mileage']	['average mile']	0.0793857959237
+['first car', 'mileage']	['two car']	0.53325471434
+['first car', 'mileage']	['particular week']	0.0800317642921
+['first car', 'mileage']	['week']	0.0138898151044
+['first car', 'mileage']	['car']	0.871255731882
+['first car', 'mileage']	['40 gallon']	0.083785214554
+['first car', 'mileage']	['second']	0.143522004143
+['first car', 'mileage']	['gallon']	0.0840233603755
+['first car', 'mileage']	['20 gallon']	0.083785214554
+['first car', 'mileage']	['mile']	0.244024356361
+['first car', 'mileage']	['1400 mile']	0.0827346205535
+['first car', 'mileage']	['average gas mileage']	0.676231215658
+['first car', 'mileage']	['gas mileage']	0.740473158541
+['40 gallon', 'mileage']	['2 car']	0.204475551251
+['40 gallon', 'mileage']	['average mile']	0.0827346205535
+['40 gallon', 'mileage']	['two car']	0.112172037378
+['40 gallon', 'mileage']	['particular week']	0.0827346205535
+['40 gallon', 'mileage']	['week']	0.0138898151044
+['40 gallon', 'mileage']	['car']	0.164940774679
+['40 gallon', 'mileage']	['first car']	0.083785214554
+['40 gallon', 'mileage']	['second']	0.138651874273
+['40 gallon', 'mileage']	['gallon']	0.789456199286
+['40 gallon', 'mileage']	['20 gallon']	0.760386850763
+['40 gallon', 'mileage']	['mile']	0.27991800818
+['40 gallon', 'mileage']	['1400 mile']	0.0827346205535
+['40 gallon', 'mileage']	['average gas mileage']	0.682897882325
+['40 gallon', 'mileage']	['gas mileage']	0.731471015694
+['second', 'mileage']	['2 car']	0.0661884167561
+['second', 'mileage']	['average mile']	0.104483534044
+['second', 'mileage']	['two car']	0.0490854479521
+['second', 'mileage']	['particular week']	0.135200832038
+['second', 'mileage']	['week']	0.151144977324
+['second', 'mileage']	['car']	0.0206238751158
+['second', 'mileage']	['first car']	0.04570265501
+['second', 'mileage']	['40 gallon']	0.0457699124874
+['second', 'mileage']	['gallon']	0.0934483712232
+['second', 'mileage']	['20 gallon']	0.0457699124874
+['second', 'mileage']	['mile']	0.185380291005
+['second', 'mileage']	['1400 mile']	0.104483534044
+['second', 'mileage']	['average gas mileage']	0.419006868407
+['second', 'mileage']	['gas mileage']	0.615053362073
+['gallon', 'mileage']	['2 car']	0.0421043594734
+['gallon', 'mileage']	['average mile']	0.0368701550083
+['gallon', 'mileage']	['two car']	0.0421463435009
+['gallon', 'mileage']	['particular week']	0.0361569291624
+['gallon', 'mileage']	['week']	0.155268789803
+['gallon', 'mileage']	['car']	0.0794423922809
+['gallon', 'mileage']	['first car']	0.0361569291624
+['gallon', 'mileage']	['40 gallon']	0.58576256022
+['gallon', 'mileage']	['second']	0.154259447304
+['gallon', 'mileage']	['20 gallon']	0.58576256022
+['gallon', 'mileage']	['mile']	0.212589593331
+['gallon', 'mileage']	['1400 mile']	0.0368701550083
+['gallon', 'mileage']	['average gas mileage']	0.283998690976
+['gallon', 'mileage']	['gas mileage']	0.413503815945
+['20 gallon', 'mileage']	['2 car']	0.204475551251
+['20 gallon', 'mileage']	['average mile']	0.0827346205535
+['20 gallon', 'mileage']	['two car']	0.112172037378
+['20 gallon', 'mileage']	['particular week']	0.0827346205535
+['20 gallon', 'mileage']	['week']	0.0138898151044
+['20 gallon', 'mileage']	['car']	0.164940774679
+['20 gallon', 'mileage']	['first car']	0.083785214554
+['20 gallon', 'mileage']	['40 gallon']	0.760386850763
+['20 gallon', 'mileage']	['second']	0.138651874273
+['20 gallon', 'mileage']	['gallon']	0.789456199286
+['20 gallon', 'mileage']	['mile']	0.27991800818
+['20 gallon', 'mileage']	['1400 mile']	0.0827346205535
+['20 gallon', 'mileage']	['average gas mileage']	0.682897882325
+['20 gallon', 'mileage']	['gas mileage']	0.731471015694
+['mile', 'mileage']	['2 car']	0.0421043594734
+['mile', 'mileage']	['average mile']	0.345399931471
+['mile', 'mileage']	['two car']	0.0421463435009
+['mile', 'mileage']	['particular week']	0.0368701550083
+['mile', 'mileage']	['week']	0.152811524845
+['mile', 'mileage']	['car']	0.0461090589476
+['mile', 'mileage']	['first car']	0.0361569291624
+['mile', 'mileage']	['40 gallon']	0.0368701550083
+['mile', 'mileage']	['second']	0.0537920779223
+['mile', 'mileage']	['gallon']	0.117904837375
+['mile', 'mileage']	['20 gallon']	0.0368701550083
+['mile', 'mileage']	['1400 mile']	0.553297612561
+['mile', 'mileage']	['average gas mileage']	0.305138973107
+['mile', 'mileage']	['gas mileage']	0.438722880398
+['1400 mile', 'mileage']	['2 car']	0.0765935955162
+['1400 mile', 'mileage']	['average mile']	0.538007739106
+['1400 mile', 'mileage']	['two car']	0.0824069519204
+['1400 mile', 'mileage']	['particular week']	0.0827346205535
+['1400 mile', 'mileage']	['week']	0.0139570725819
+['1400 mile', 'mileage']	['car']	0.164940774679
+['1400 mile', 'mileage']	['first car']	0.0827346205535
+['1400 mile', 'mileage']	['40 gallon']	0.0827346205535
+['1400 mile', 'mileage']	['second']	0.194355343785
+['1400 mile', 'mileage']	['gallon']	0.102967022347
+['1400 mile', 'mileage']	['20 gallon']	0.0827346205535
+['1400 mile', 'mileage']	['mile']	0.721463237178
+['1400 mile', 'mileage']	['average gas mileage']	0.656337379747
+['1400 mile', 'mileage']	['gas mileage']	0.71410729843
+['average gas mileage', 'mileage']	['2 car']	0.259664709242
+['average gas mileage', 'mileage']	['average mile']	0.623933301073
+['average gas mileage', 'mileage']	['two car']	0.153629069592
+['average gas mileage', 'mileage']	['particular week']	0.238969088114
+['average gas mileage', 'mileage']	['week']	0.161855832746
+['average gas mileage', 'mileage']	['car']	0.424640480268
+['average gas mileage', 'mileage']	['first car']	0.14589133531
+['average gas mileage', 'mileage']	['40 gallon']	0.153587928078
+['average gas mileage', 'mileage']	['second']	0.295948044491
+['average gas mileage', 'mileage']	['gallon']	0.200513011568
+['average gas mileage', 'mileage']	['20 gallon']	0.153587928078
+['average gas mileage', 'mileage']	['mile']	0.474445883827
+['average gas mileage', 'mileage']	['1400 mile']	0.238969088114
+['average gas mileage', 'mileage']	['gas mileage']	0.601293670812
+['gas mileage', 'mileage']	['2 car']	0.259664709242
+['gas mileage', 'mileage']	['average mile']	0.238969088114
+['gas mileage', 'mileage']	['two car']	0.153629069592
+['gas mileage', 'mileage']	['particular week']	0.238969088114
+['gas mileage', 'mileage']	['week']	0.16366783828
+['gas mileage', 'mileage']	['car']	0.424640480268
+['gas mileage', 'mileage']	['first car']	0.14589133531
+['gas mileage', 'mileage']	['40 gallon']	0.153587928078
+['gas mileage', 'mileage']	['second']	0.296703711998
+['gas mileage', 'mileage']	['gallon']	0.202325017103
+['gas mileage', 'mileage']	['20 gallon']	0.153587928078
+['gas mileage', 'mileage']	['mile']	0.292890341322
+['gas mileage', 'mileage']	['1400 mile']	0.238969088114
+['gas mileage', 'mileage']	['average gas mileage']	0.571668490994
+['2 car', 'gas mileage']	['average mile']	0.0696933362217
+['2 car', 'gas mileage']	['two car']	0.553220629519
+['2 car', 'gas mileage']	['particular week']	0.0696933362217
+['2 car', 'gas mileage']	['week']	0.00800951534341
+['2 car', 'gas mileage']	['car']	0.487027953071
+['2 car', 'gas mileage']	['first car']	0.465538040018
+['2 car', 'gas mileage']	['40 gallon']	0.105691884463
+['2 car', 'gas mileage']	['second']	0.011726423379
+['2 car', 'gas mileage']	['gallon']	0.0106028278734
+['2 car', 'gas mileage']	['20 gallon']	0.105691884463
+['2 car', 'gas mileage']	['mile']	0.126938252926
+['2 car', 'gas mileage']	['1400 mile']	0.0737139440912
+['2 car', 'gas mileage']	['average gas mileage']	0.541389563461
+['2 car', 'gas mileage']	['mileage']	0.6473327453
+['average mile', 'gas mileage']	['2 car']	0.0839689826669
+['average mile', 'gas mileage']	['two car']	0.0897823390711
+['average mile', 'gas mileage']	['particular week']	0.0901100077042
+['average mile', 'gas mileage']	['week']	0.0132014050756
+['average mile', 'gas mileage']	['car']	0.0498296537608
+['average mile', 'gas mileage']	['first car']	0.0901100077042
+['average mile', 'gas mileage']	['40 gallon']	0.0901100077042
+['average mile', 'gas mileage']	['second']	0.0430502462229
+['average mile', 'gas mileage']	['gallon']	0.0143499502517
+['average mile', 'gas mileage']	['20 gallon']	0.0901100077042
+['average mile', 'gas mileage']	['mile']	0.384528877052
+['average mile', 'gas mileage']	['1400 mile']	0.584269096576
+['average mile', 'gas mileage']	['average gas mileage']	0.573612226142
+['average mile', 'gas mileage']	['mileage']	0.696347083353
+['two car', 'gas mileage']	['2 car']	0.551895791332
+['two car', 'gas mileage']	['average mile']	0.0696933362217
+['two car', 'gas mileage']	['particular week']	0.0703393045902
+['two car', 'gas mileage']	['week']	0.00800951534341
+['two car', 'gas mileage']	['car']	0.571174208232
+['two car', 'gas mileage']	['first car']	0.465538040018
+['two car', 'gas mileage']	['40 gallon']	0.105691884463
+['two car', 'gas mileage']	['second']	0.011726423379
+['two car', 'gas mileage']	['gallon']	0.0106028278734
+['two car', 'gas mileage']	['20 gallon']	0.105691884463
+['two car', 'gas mileage']	['mile']	0.126938252926
+['two car', 'gas mileage']	['1400 mile']	0.0737139440912
+['two car', 'gas mileage']	['average gas mileage']	0.541389563461
+['two car', 'gas mileage']	['mileage']	0.6473327453
+['particular week', 'gas mileage']	['2 car']	0.0765935955162
+['particular week', 'gas mileage']	['average mile']	0.0871340391838
+['particular week', 'gas mileage']	['two car']	0.0830529202888
+['particular week', 'gas mileage']	['week']	0.353990387311
+['particular week', 'gas mileage']	['car']	0.0498296537608
+['particular week', 'gas mileage']	['first car']	0.0833805889219
+['particular week', 'gas mileage']	['40 gallon']	0.0827346205535
+['particular week', 'gas mileage']	['second']	0.080603787226
+['particular week', 'gas mileage']	['gallon']	0.0132263547461
+['particular week', 'gas mileage']	['20 gallon']	0.0827346205535
+['particular week', 'gas mileage']	['mile']	0.0484050393962
+['particular week', 'gas mileage']	['1400 mile']	0.0901100077042
+['particular week', 'gas mileage']	['average gas mileage']	0.556017546131
+['particular week', 'gas mileage']	['mileage']	0.696347083353
+['week', 'gas mileage']	['2 car']	0.0379376928067
+['week', 'gas mileage']	['average mile']	0.0368028975308
+['week', 'gas mileage']	['two car']	0.0421463435009
+['week', 'gas mileage']	['particular week']	0.384540526976
+['week', 'gas mileage']	['car']	0.177003326418
+['week', 'gas mileage']	['first car']	0.0361569291624
+['week', 'gas mileage']	['40 gallon']	0.0361569291624
+['week', 'gas mileage']	['second']	0.231538538428
+['week', 'gas mileage']	['gallon']	0.148770638241
+['week', 'gas mileage']	['20 gallon']	0.0361569291624
+['week', 'gas mileage']	['mile']	0.208582150639
+['week', 'gas mileage']	['1400 mile']	0.0368028975308
+['week', 'gas mileage']	['average gas mileage']	0.191252591005
+['week', 'gas mileage']	['mileage']	0.617272697019
+['car', 'gas mileage']	['2 car']	0.593444216664
+['car', 'gas mileage']	['average mile']	0.0465787639079
+['car', 'gas mileage']	['two car']	0.65084700761
+['car', 'gas mileage']	['particular week']	0.0465787639079
+['car', 'gas mileage']	['week']	0.160148362933
+['car', 'gas mileage']	['first car']	0.687535207027
+['car', 'gas mileage']	['40 gallon']	0.0465787639079
+['car', 'gas mileage']	['second']	0.106713939172
+['car', 'gas mileage']	['gallon']	0.139390787176
+['car', 'gas mileage']	['20 gallon']	0.0465787639079
+['car', 'gas mileage']	['mile']	0.110594043297
+['car', 'gas mileage']	['1400 mile']	0.0465787639079
+['car', 'gas mileage']	['average gas mileage']	0.446082985821
+['car', 'gas mileage']	['mileage']	0.719103196252
+['first car', 'gas mileage']	['2 car']	0.51364678879
+['first car', 'gas mileage']	['average mile']	0.0827346205535
+['first car', 'gas mileage']	['two car']	0.51364678879
+['first car', 'gas mileage']	['particular week']	0.0833805889219
+['first car', 'gas mileage']	['week']	0.01207780957
+['first car', 'gas mileage']	['car']	0.649108390783
+['first car', 'gas mileage']	['40 gallon']	0.0871340391838
+['first car', 'gas mileage']	['second']	0.016864172895
+['first car', 'gas mileage']	['gallon']	0.0132263547461
+['first car', 'gas mileage']	['20 gallon']	0.0871340391838
+['first car', 'gas mileage']	['mile']	0.125988507714
+['first car', 'gas mileage']	['1400 mile']	0.0901100077042
+['first car', 'gas mileage']	['average gas mileage']	0.594684399145
+['first car', 'gas mileage']	['mileage']	0.651191168011
+['40 gallon', 'gas mileage']	['2 car']	0.216115762892
+['40 gallon', 'gas mileage']	['average mile']	0.0827346205535
+['40 gallon', 'gas mileage']	['two car']	0.107003435941
+['40 gallon', 'gas mileage']	['particular week']	0.0827346205535
+['40 gallon', 'gas mileage']	['week']	0.01207780957
+['40 gallon', 'gas mileage']	['car']	0.0498296537608
+['40 gallon', 'gas mileage']	['first car']	0.0871340391838
+['40 gallon', 'gas mileage']	['second']	0.016864172895
+['40 gallon', 'gas mileage']	['gallon']	0.54355118505
+['40 gallon', 'gas mileage']	['20 gallon']	0.754360422532
+['40 gallon', 'gas mileage']	['mile']	0.0484050393962
+['40 gallon', 'gas mileage']	['1400 mile']	0.0901100077042
+['40 gallon', 'gas mileage']	['average gas mileage']	0.594684399145
+['40 gallon', 'gas mileage']	['mileage']	0.669022875945
+['second', 'gas mileage']	['2 car']	0.0661884167561
+['second', 'gas mileage']	['average mile']	0.0787160430154
+['second', 'gas mileage']	['two car']	0.0490854479521
+['second', 'gas mileage']	['particular week']	0.128023060494
+['second', 'gas mileage']	['week']	0.201177965077
+['second', 'gas mileage']	['car']	0.11000917015
+['second', 'gas mileage']	['first car']	0.04570265501
+['second', 'gas mileage']	['40 gallon']	0.04570265501
+['second', 'gas mileage']	['gallon']	0.185708591214
+['second', 'gas mileage']	['20 gallon']	0.04570265501
+['second', 'gas mileage']	['mile']	0.247822325665
+['second', 'gas mileage']	['1400 mile']	0.0787160430154
+['second', 'gas mileage']	['average gas mileage']	0.220190191805
+['second', 'gas mileage']	['mileage']	0.732951722236
+['gallon', 'gas mileage']	['2 car']	0.0394528443219
+['gallon', 'gas mileage']	['average mile']	0.0368028975308
+['gallon', 'gas mileage']	['two car']	0.0436614950161
+['gallon', 'gas mileage']	['particular week']	0.0361569291624
+['gallon', 'gas mileage']	['week']	0.146177325711
+['gallon', 'gas mileage']	['car']	0.177003326418
+['gallon', 'gas mileage']	['first car']	0.0376720806775
+['gallon', 'gas mileage']	['40 gallon']	0.591878577002
+['gallon', 'gas mileage']	['second']	0.17038096688
+['gallon', 'gas mileage']	['20 gallon']	0.591878577002
+['gallon', 'gas mileage']	['mile']	0.247822325665
+['gallon', 'gas mileage']	['1400 mile']	0.0368028975308
+['gallon', 'gas mileage']	['average gas mileage']	0.228022620317
+['gallon', 'gas mileage']	['mileage']	0.636147643394
+['20 gallon', 'gas mileage']	['2 car']	0.216115762892
+['20 gallon', 'gas mileage']	['average mile']	0.0827346205535
+['20 gallon', 'gas mileage']	['two car']	0.107003435941
+['20 gallon', 'gas mileage']	['particular week']	0.0827346205535
+['20 gallon', 'gas mileage']	['week']	0.01207780957
+['20 gallon', 'gas mileage']	['car']	0.0498296537608
+['20 gallon', 'gas mileage']	['first car']	0.0871340391838
+['20 gallon', 'gas mileage']	['40 gallon']	0.754360422532
+['20 gallon', 'gas mileage']	['second']	0.016864172895
+['20 gallon', 'gas mileage']	['gallon']	0.54355118505
+['20 gallon', 'gas mileage']	['mile']	0.0484050393962
+['20 gallon', 'gas mileage']	['1400 mile']	0.0901100077042
+['20 gallon', 'gas mileage']	['average gas mileage']	0.594684399145
+['20 gallon', 'gas mileage']	['mileage']	0.669022875945
+['mile', 'gas mileage']	['2 car']	0.0379376928067
+['mile', 'gas mileage']	['average mile']	0.384540526976
+['mile', 'gas mileage']	['two car']	0.0421463435009
+['mile', 'gas mileage']	['particular week']	0.0368028975308
+['mile', 'gas mileage']	['week']	0.146177325711
+['mile', 'gas mileage']	['car']	0.102367866461
+['mile', 'gas mileage']	['first car']	0.0361569291624
+['mile', 'gas mileage']	['40 gallon']	0.0368028975308
+['mile', 'gas mileage']	['second']	0.231538538428
+['mile', 'gas mileage']	['gallon']	0.207374400819
+['mile', 'gas mileage']	['20 gallon']	0.0368028975308
+['mile', 'gas mileage']	['1400 mile']	0.442012633359
+['mile', 'gas mileage']	['average gas mileage']	0.191252591005
+['mile', 'gas mileage']	['mileage']	0.799916205778
+['1400 mile', 'gas mileage']	['2 car']	0.0839689826669
+['1400 mile', 'gas mileage']	['average mile']	0.584269096576
+['1400 mile', 'gas mileage']	['two car']	0.0897823390711
+['1400 mile', 'gas mileage']	['particular week']	0.0901100077042
+['1400 mile', 'gas mileage']	['week']	0.0132014050756
+['1400 mile', 'gas mileage']	['car']	0.0498296537608
+['1400 mile', 'gas mileage']	['first car']	0.0901100077042
+['1400 mile', 'gas mileage']	['40 gallon']	0.0901100077042
+['1400 mile', 'gas mileage']	['second']	0.0430502462229
+['1400 mile', 'gas mileage']	['gallon']	0.0143499502517
+['1400 mile', 'gas mileage']	['20 gallon']	0.0901100077042
+['1400 mile', 'gas mileage']	['mile']	0.349461697755
+['1400 mile', 'gas mileage']	['average gas mileage']	0.616810563947
+['1400 mile', 'gas mileage']	['mileage']	0.696347083353
+['average gas mileage', 'gas mileage']	['2 car']	0.217525340675
+['average gas mileage', 'gas mileage']	['average mile']	0.721112285926
+['average gas mileage', 'gas mileage']	['two car']	0.197909278251
+['average gas mileage', 'gas mileage']	['particular week']	0.188690699416
+['average gas mileage', 'gas mileage']	['week']	0.128522499412
+['average gas mileage', 'gas mileage']	['car']	0.347874400944
+['average gas mileage', 'gas mileage']	['first car']	0.188690699416
+['average gas mileage', 'gas mileage']	['40 gallon']	0.188690699416
+['average gas mileage', 'gas mileage']	['second']	0.147561398315
+['average gas mileage', 'gas mileage']	['gallon']	0.161855832746
+['average gas mileage', 'gas mileage']	['20 gallon']	0.188690699416
+['average gas mileage', 'gas mileage']	['mile']	0.409706621463
+['average gas mileage', 'gas mileage']	['1400 mile']	0.188690699416
+['average gas mileage', 'gas mileage']	['mileage']	0.713529980767
+['mileage', 'gas mileage']	['2 car']	0.259664709242
+['mileage', 'gas mileage']	['average mile']	0.238969088114
+['mileage', 'gas mileage']	['two car']	0.153629069592
+['mileage', 'gas mileage']	['particular week']	0.238969088114
+['mileage', 'gas mileage']	['week']	0.16366783828
+['mileage', 'gas mileage']	['car']	0.424640480268
+['mileage', 'gas mileage']	['first car']	0.14589133531
+['mileage', 'gas mileage']	['40 gallon']	0.153587928078
+['mileage', 'gas mileage']	['second']	0.296703711998
+['mileage', 'gas mileage']	['gallon']	0.202325017103
+['mileage', 'gas mileage']	['20 gallon']	0.153587928078
+['mileage', 'gas mileage']	['mile']	0.292890341322
+['mileage', 'gas mileage']	['1400 mile']	0.238969088114
+['mileage', 'gas mileage']	['average gas mileage']	0.571668490994

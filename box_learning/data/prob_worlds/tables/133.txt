@@ -1,0 +1,14 @@
+1
+[['pens and pencils', '36', '-', '-', '-', 'dollar', '20'], ['pencil', 'x1', '-', 'cent', '25', '-', '-'], ['pen', 'x2', '-', 'cent', '80', '-', '-']]
+-1
+[['pens and pencils', '36', '-', '-', '-', 'pen', '20'], ['pencil', 'x1', '-', 'cent', '25', '-', '-'], ['pen', '36', '-', 'cent', '80', '-', '20']]
+-1
+[['cent', '36', '-', '-', '-', 'dollar', '20'], ['pencil', 'x1', '-', 'cent', '25', '-', '-'], ['pen', 'x2', 'pens and pencils', 'cent', '80', 'dollar', '-']]
+-1
+[['80', 'pen', '-', '-', '-', 'dollar', '20'], ['pencil', 'x1', '-', 'cent', '25', '-', '-'], ['pen', 'dollar', '-', '20', '80', '-', '-']]
+-1
+[['pens and pencils', '36', '-', '-', '80', 'dollar', 'cent'], ['pencil', 'x1', '-', 'cent', '25', '-', '-'], ['pen', 'x2', 'pens and pencils', 'cent', '80', 'dollar', '-']]
+-1
+[['pens and pencils', 'x2', 'pen', '-', '-', 'dollar', '20'], ['pencil', 'x1', '-', 'cent', '25', '-', '-'], ['pen', 'x2', '-', 'cent', 'dollar', '20', 'pens and pencils']]
+-1
+[['pens and pencils', '36', '-', '80', '-', 'dollar', '20'], ['pencil', 'x1', '-', 'cent', '25', '-', '-'], ['pen', 'x2', 'pens and pencils', 'cent', '80', '-', 'dollar']]

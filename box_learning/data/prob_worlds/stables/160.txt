@@ -1,0 +1,14 @@
+1
+[['question', '82', '-', '-', '-', 'score', '67'], ['correct answer', 'x1', '-', 'point', '1', '-', '-'], ['incorrect answer', 'x2', '-', 'point', '0.25', '-', '-']]
+-1
+[['question', '0.25', '-', '-', 'point', 'score', 'incorrect answer'], ['correct answer', 'x1', '-', 'point', '1', '-', '-'], ['score', 'question', '-', 'point', '0.25', '-', '-']]
+-1
+[['question', '82', 'point', 'x2', '-', 'score', '67'], ['correct answer', 'x1', '-', 'point', '1', '-', '-'], ['incorrect answer', 'score', '-', 'point', '0.25', '-', 'question']]
+-1
+[['question', 'point', '-', 'incorrect answer', '-', 'score', '67'], ['correct answer', 'x1', '-', 'point', '1', '-', '-'], ['82', 'question', '-', 'point', '0.25', '-', '-']]
+-1
+[['question', '82', 'incorrect answer', 'point', '-', 'score', '67'], ['correct answer', 'x1', '-', 'point', '1', '-', '-'], ['incorrect answer', 'x2', 'question', 'point', '0.25', '82', '-']]
+-1
+[['question', '82', '-', '-', 'point', 'score', '0.25'], ['correct answer', 'x1', '-', 'point', '1', '-', '-'], ['incorrect answer', 'point', '-', 'question', 'score', '82', '-']]
+-1
+[['question', '82', '-', '-', 'x2', 'score', '67'], ['correct answer', 'x1', '-', 'point', '1', '-', '-'], ['question', 'x2', '-', 'point', '0.25', '82', '-']]

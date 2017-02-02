@@ -1,0 +1,14 @@
+1
+[['people', '586', '-', '-', '-', 'dollar', '9423.7'], ['resident', 'x1', '-', 'dollar', '12.95', '-', '-'], ['non-resident', 'x2', '-', 'dollar', '17.95', '-', '-']]
+-1
+[['non-resident', '586', '-', '-', '-', 'dollar', '9423.7'], ['resident', 'x1', '-', 'dollar', '12.95', '-', '-'], ['non-resident', '586', '9423.7', 'dollar', '17.95', 'people', '-']]
+-1
+[['people', '586', '-', '-', 'x2', 'dollar', '9423.7'], ['resident', 'x1', '-', 'dollar', '12.95', '-', '-'], ['people', 'x2', '9423.7', 'dollar', '586', '-', '-']]
+-1
+[['people', '17.95', '-', '-', 'x2', 'dollar', '9423.7'], ['resident', 'x1', '-', 'dollar', '12.95', '-', '-'], ['non-resident', 'x2', '-', 'dollar', '17.95', '-', '-']]
+-1
+[['people', 'dollar', '-', '17.95', '-', 'x2', 'non-resident'], ['resident', 'x1', '-', 'dollar', '12.95', '-', '-'], ['non-resident', 'x2', '-', 'dollar', 'people', '-', '-']]
+-1
+[['people', '586', 'non-resident', '-', '-', 'dollar', '17.95'], ['resident', 'x1', '-', 'dollar', '12.95', '-', '-'], ['non-resident', 'x2', '-', 'dollar', '17.95', 'people', '586']]
+-1
+[['people', '586', '-', 'x2', '-', 'non-resident', '9423.7'], ['resident', 'x1', '-', 'dollar', '12.95', '-', '-'], ['non-resident', 'x2', '-', 'dollar', '17.95', '-', '586']]

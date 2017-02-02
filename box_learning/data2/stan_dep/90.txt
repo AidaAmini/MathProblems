@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN sum))
+      (PP (IN of) (NP (CD 2) (NNS numbers))))
+    (VP (VBZ is) (NP (CD 27)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (CD 0.5))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (JJ first) (NN number))
+          (PP
+            (CC plus)
+            (NP
+              (NP (CD 0.3333))
+              (PP (IN of) (NP (DT the) (JJ second) (NN number))))))))
+    (VP (VBZ is) (NP (CD 11)))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (JJR smaller))
+        (CC and)
+        (NP (DT the) (JJR larger) (NN number))))
+    (. .)))

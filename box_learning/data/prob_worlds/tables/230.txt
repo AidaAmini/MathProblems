@@ -1,0 +1,14 @@
+1
+[['question', '16', '-', '-', '-', 'point', '162'], ['multiple choice question', 'x1', '-', 'point', '9', '-', '-'], ['essay question', 'x2', '-', 'point', '12', '-', '-']]
+-1
+[['essay question', '16', 'question', '-', '-', 'point', '162'], ['multiple choice question', 'x1', '-', 'point', '9', '-', '-'], ['essay question', '162', '-', 'point', '16', 'question', '-']]
+-1
+[['x2', '16', 'point', '-', '-', 'question', '162'], ['multiple choice question', 'x1', '-', 'point', '9', '-', '-'], ['162', 'x2', 'question', 'point', '12', '-', '-']]
+-1
+[['x2', '16', '-', 'question', '-', 'point', '162'], ['multiple choice question', 'x1', '-', 'point', '9', '-', '-'], ['essay question', 'x2', '-', 'point', '16', '162', 'question']]
+-1
+[['question', '16', '-', '162', '-', 'point', 'x2'], ['multiple choice question', 'x1', '-', 'point', '9', '-', '-'], ['16', 'x2', '-', 'point', 'question', '-', '-']]
+-1
+[['question', '12', '-', '-', '-', 'point', 'essay question'], ['multiple choice question', 'x1', '-', 'point', '9', '-', '-'], ['essay question', 'x2', '-', 'point', '12', 'question', '-']]
+-1
+[['question', '16', '-', '-', 'essay question', 'point', '162'], ['multiple choice question', 'x1', '-', 'point', '9', '-', '-'], ['162', 'x2', '-', 'point', '12', 'question', 'essay question']]

@@ -1,0 +1,760 @@
+['baseball team', 'home game', 'wednesday and saturday', 'game', 'two game', '5,182.50 dollar', 'wednesday game', 'dollar', '142.50 dollar', 'saturday game']
+['baseball team']	['home game']	0.188302067593
+['baseball team']	['wednesday and saturday']	0.0908034291173
+['baseball team']	['game']	0.0831172035382
+['baseball team']	['two game']	0.0827346205535
+['baseball team']	['5,182.50 dollar']	0.0901100077042
+['baseball team']	['wednesday game']	0.0824069519204
+['baseball team']	['dollar']	0.0132263547461
+['baseball team']	['142.50 dollar']	0.0901100077042
+['baseball team']	['saturday game']	0.0824069519204
+['home game']	['wednesday and saturday']	0.0908034291173
+['home game']	['two game']	0.643440930505
+['home game']	['5,182.50 dollar']	0.0901100077042
+['home game']	['wednesday game']	0.506568612014
+['home game']	['dollar']	0.0143499502517
+['home game']	['142.50 dollar']	0.0901100077042
+['home game']	['saturday game']	0.506568612014
+['wednesday and saturday']	['game']	0.0880692059685
+['wednesday and saturday']	['two game']	0.0915001233665
+['wednesday and saturday']	['5,182.50 dollar']	0.0988755105172
+['wednesday and saturday']	['wednesday game']	0.47788957947
+['wednesday and saturday']	['dollar']	0.012852508684
+['wednesday and saturday']	['142.50 dollar']	0.0988755105172
+['wednesday and saturday']	['saturday game']	0.483001928201
+['game']	['5,182.50 dollar']	0.0669904799604
+['game']	['dollar']	0.019946167238
+['game']	['142.50 dollar']	0.0669904799604
+['two game']	['5,182.50 dollar']	0.0901100077042
+['two game']	['wednesday game']	0.506568612014
+['two game']	['dollar']	0.0143499502517
+['two game']	['142.50 dollar']	0.0901100077042
+['two game']	['saturday game']	0.506568612014
+['5,182.50 dollar']	['wednesday game']	0.0897823390711
+['5,182.50 dollar']	['142.50 dollar']	0.643440930505
+['5,182.50 dollar']	['saturday game']	0.0897823390711
+['wednesday game']	['dollar']	0.011726423379
+['wednesday game']	['142.50 dollar']	0.0737139440912
+['wednesday game']	['saturday game']	0.806229190566
+['dollar']	['saturday game']	0.0180961055585
+['142.50 dollar']	['saturday game']	0.0897823390711
+['home game', 'baseball team']	['wednesday and saturday']	0.0908034291173
+['home game', 'baseball team']	['game']	0.615805711261
+['home game', 'baseball team']	['two game']	0.561946181134
+['home game', 'baseball team']	['5,182.50 dollar']	0.0901100077042
+['home game', 'baseball team']	['wednesday game']	0.528966464774
+['home game', 'baseball team']	['dollar']	0.0143499502517
+['home game', 'baseball team']	['142.50 dollar']	0.0901100077042
+['home game', 'baseball team']	['saturday game']	0.528966464774
+['wednesday and saturday', 'baseball team']	['home game']	0.288229729809
+['wednesday and saturday', 'baseball team']	['game']	0.148807562081
+['wednesday and saturday', 'baseball team']	['two game']	0.152238479479
+['wednesday and saturday', 'baseball team']	['5,182.50 dollar']	0.15961386663
+['wednesday and saturday', 'baseball team']	['wednesday game']	0.60670367623
+['wednesday and saturday', 'baseball team']	['dollar']	0.012852508684
+['wednesday and saturday', 'baseball team']	['142.50 dollar']	0.15961386663
+['wednesday and saturday', 'baseball team']	['saturday game']	0.475319514371
+['game', 'baseball team']	['home game']	0.829480102928
+['game', 'baseball team']	['wednesday and saturday']	0.080802298149
+['game', 'baseball team']	['two game']	0.659629532091
+['game', 'baseball team']	['5,182.50 dollar']	0.0703393045902
+['game', 'baseball team']	['wednesday game']	0.628353528659
+['game', 'baseball team']	['dollar']	0.270657771957
+['game', 'baseball team']	['142.50 dollar']	0.0703393045902
+['game', 'baseball team']	['saturday game']	0.628353528659
+['two game', 'baseball team']	['home game']	0.569183039069
+['two game', 'baseball team']	['wednesday and saturday']	0.0908034291173
+['two game', 'baseball team']	['game']	0.56424350851
+['two game', 'baseball team']	['5,182.50 dollar']	0.0901100077042
+['two game', 'baseball team']	['wednesday game']	0.491402784668
+['two game', 'baseball team']	['dollar']	0.0143499502517
+['two game', 'baseball team']	['142.50 dollar']	0.0901100077042
+['two game', 'baseball team']	['saturday game']	0.491402784668
+['5,182.50 dollar', 'baseball team']	['home game']	0.200003067226
+['5,182.50 dollar', 'baseball team']	['wednesday and saturday']	0.0908034291173
+['5,182.50 dollar', 'baseball team']	['game']	0.0774561735493
+['5,182.50 dollar', 'baseball team']	['two game']	0.0827346205535
+['5,182.50 dollar', 'baseball team']	['wednesday game']	0.0824069519204
+['5,182.50 dollar', 'baseball team']	['dollar']	0.345297574209
+['5,182.50 dollar', 'baseball team']	['142.50 dollar']	0.584269096576
+['5,182.50 dollar', 'baseball team']	['saturday game']	0.0824069519204
+['wednesday game', 'baseball team']	['home game']	0.479396304737
+['wednesday game', 'baseball team']	['wednesday and saturday']	0.509064802527
+['wednesday game', 'baseball team']	['game']	0.537007741999
+['wednesday game', 'baseball team']	['two game']	0.443388970201
+['wednesday game', 'baseball team']	['5,182.50 dollar']	0.0737139440912
+['wednesday game', 'baseball team']	['dollar']	0.011726423379
+['wednesday game', 'baseball team']	['142.50 dollar']	0.0737139440912
+['wednesday game', 'baseball team']	['saturday game']	0.72021221181
+['dollar', 'baseball team']	['home game']	0.10453530028
+['dollar', 'baseball team']	['wednesday and saturday']	0.0410777933861
+['dollar', 'baseball team']	['game']	0.253045752412
+['dollar', 'baseball team']	['two game']	0.0368028975308
+['dollar', 'baseball team']	['5,182.50 dollar']	0.384540526976
+['dollar', 'baseball team']	['wednesday game']	0.0427923118694
+['dollar', 'baseball team']	['142.50 dollar']	0.384540526976
+['dollar', 'baseball team']	['saturday game']	0.0427923118694
+['142.50 dollar', 'baseball team']	['home game']	0.200003067226
+['142.50 dollar', 'baseball team']	['wednesday and saturday']	0.0908034291173
+['142.50 dollar', 'baseball team']	['game']	0.0774561735493
+['142.50 dollar', 'baseball team']	['two game']	0.0827346205535
+['142.50 dollar', 'baseball team']	['5,182.50 dollar']	0.584269096576
+['142.50 dollar', 'baseball team']	['wednesday game']	0.0824069519204
+['142.50 dollar', 'baseball team']	['dollar']	0.345297574209
+['142.50 dollar', 'baseball team']	['saturday game']	0.0824069519204
+['saturday game', 'baseball team']	['home game']	0.479396304737
+['saturday game', 'baseball team']	['wednesday and saturday']	0.331683355755
+['saturday game', 'baseball team']	['game']	0.537007741999
+['saturday game', 'baseball team']	['two game']	0.443388970201
+['saturday game', 'baseball team']	['5,182.50 dollar']	0.0737139440912
+['saturday game', 'baseball team']	['wednesday game']	0.72021221181
+['saturday game', 'baseball team']	['dollar']	0.011726423379
+['saturday game', 'baseball team']	['142.50 dollar']	0.0737139440912
+['baseball team', 'home game']	['wednesday and saturday']	0.0908034291173
+['baseball team', 'home game']	['game']	0.615805711261
+['baseball team', 'home game']	['two game']	0.561946181134
+['baseball team', 'home game']	['5,182.50 dollar']	0.0901100077042
+['baseball team', 'home game']	['wednesday game']	0.528966464774
+['baseball team', 'home game']	['dollar']	0.0143499502517
+['baseball team', 'home game']	['142.50 dollar']	0.0901100077042
+['baseball team', 'home game']	['saturday game']	0.528966464774
+['wednesday and saturday', 'home game']	['baseball team']	0.248534444601
+['wednesday and saturday', 'home game']	['game']	0.791886221477
+['wednesday and saturday', 'home game']	['two game']	0.627993452419
+['wednesday and saturday', 'home game']	['5,182.50 dollar']	0.15961386663
+['wednesday and saturday', 'home game']	['wednesday game']	0.766573195953
+['wednesday and saturday', 'home game']	['dollar']	0.0139761041896
+['wednesday and saturday', 'home game']	['142.50 dollar']	0.15961386663
+['wednesday and saturday', 'home game']	['saturday game']	0.802115948339
+['game', 'home game']	['baseball team']	0.399613100377
+['game', 'home game']	['wednesday and saturday']	0.3696717235
+['game', 'home game']	['two game']	0.787649384146
+['game', 'home game']	['5,182.50 dollar']	0.21925775957
+['game', 'home game']	['wednesday game']	0.700955244848
+['game', 'home game']	['dollar']	0.38849639083
+['game', 'home game']	['142.50 dollar']	0.21925775957
+['game', 'home game']	['saturday game']	0.700955244848
+['two game', 'home game']	['baseball team']	0.367515253066
+['two game', 'home game']	['wednesday and saturday']	0.285089949057
+['two game', 'home game']	['game']	0.68681081328
+['two game', 'home game']	['5,182.50 dollar']	0.139258682248
+['two game', 'home game']	['wednesday game']	0.687208238533
+['two game', 'home game']	['dollar']	0.219462895472
+['two game', 'home game']	['142.50 dollar']	0.139258682248
+['two game', 'home game']	['saturday game']	0.687208238533
+['5,182.50 dollar', 'home game']	['baseball team']	0.200003067226
+['5,182.50 dollar', 'home game']	['wednesday and saturday']	0.0908034291173
+['5,182.50 dollar', 'home game']	['game']	0.714634479724
+['5,182.50 dollar', 'home game']	['two game']	0.584269096576
+['5,182.50 dollar', 'home game']	['wednesday game']	0.566188865804
+['5,182.50 dollar', 'home game']	['dollar']	0.345297574209
+['5,182.50 dollar', 'home game']	['142.50 dollar']	0.584269096576
+['5,182.50 dollar', 'home game']	['saturday game']	0.566188865804
+['wednesday game', 'home game']	['baseball team']	0.317307528599
+['wednesday game', 'home game']	['wednesday and saturday']	0.697465386525
+['wednesday game', 'home game']	['game']	0.79168196934
+['wednesday game', 'home game']	['two game']	0.569226584348
+['wednesday game', 'home game']	['5,182.50 dollar']	0.127137811052
+['wednesday game', 'home game']	['dollar']	0.225362410309
+['wednesday game', 'home game']	['142.50 dollar']	0.127137811052
+['wednesday game', 'home game']	['saturday game']	0.854538022361
+['dollar', 'home game']	['baseball team']	0.0895790146847
+['dollar', 'home game']	['wednesday and saturday']	0.0410777933861
+['dollar', 'home game']	['game']	0.670841688464
+['dollar', 'home game']	['two game']	0.160671266721
+['dollar', 'home game']	['5,182.50 dollar']	0.384540526976
+['dollar', 'home game']	['wednesday game']	0.179900479002
+['dollar', 'home game']	['142.50 dollar']	0.384540526976
+['dollar', 'home game']	['saturday game']	0.179900479002
+['142.50 dollar', 'home game']	['baseball team']	0.200003067226
+['142.50 dollar', 'home game']	['wednesday and saturday']	0.0908034291173
+['142.50 dollar', 'home game']	['game']	0.714634479724
+['142.50 dollar', 'home game']	['two game']	0.584269096576
+['142.50 dollar', 'home game']	['5,182.50 dollar']	0.584269096576
+['142.50 dollar', 'home game']	['wednesday game']	0.566188865804
+['142.50 dollar', 'home game']	['dollar']	0.345297574209
+['142.50 dollar', 'home game']	['saturday game']	0.566188865804
+['saturday game', 'home game']	['baseball team']	0.317307528599
+['saturday game', 'home game']	['wednesday and saturday']	0.697062603813
+['saturday game', 'home game']	['game']	0.79168196934
+['saturday game', 'home game']	['two game']	0.569226584348
+['saturday game', 'home game']	['5,182.50 dollar']	0.127137811052
+['saturday game', 'home game']	['wednesday game']	0.854538022361
+['saturday game', 'home game']	['dollar']	0.225362410309
+['saturday game', 'home game']	['142.50 dollar']	0.127137811052
+['baseball team', 'wednesday and saturday']	['home game']	0.288229729809
+['baseball team', 'wednesday and saturday']	['game']	0.148807562081
+['baseball team', 'wednesday and saturday']	['two game']	0.152238479479
+['baseball team', 'wednesday and saturday']	['5,182.50 dollar']	0.15961386663
+['baseball team', 'wednesday and saturday']	['wednesday game']	0.60670367623
+['baseball team', 'wednesday and saturday']	['dollar']	0.012852508684
+['baseball team', 'wednesday and saturday']	['142.50 dollar']	0.15961386663
+['baseball team', 'wednesday and saturday']	['saturday game']	0.475319514371
+['home game', 'wednesday and saturday']	['baseball team']	0.248534444601
+['home game', 'wednesday and saturday']	['game']	0.791886221477
+['home game', 'wednesday and saturday']	['two game']	0.627993452419
+['home game', 'wednesday and saturday']	['5,182.50 dollar']	0.15961386663
+['home game', 'wednesday and saturday']	['wednesday game']	0.766573195953
+['home game', 'wednesday and saturday']	['dollar']	0.0139761041896
+['home game', 'wednesday and saturday']	['142.50 dollar']	0.15961386663
+['home game', 'wednesday and saturday']	['saturday game']	0.802115948339
+['game', 'wednesday and saturday']	['baseball team']	0.0696933362217
+['game', 'wednesday and saturday']	['home game']	0.738870633426
+['game', 'wednesday and saturday']	['two game']	0.675255149324
+['game', 'wednesday and saturday']	['5,182.50 dollar']	0.0703393045902
+['game', 'wednesday and saturday']	['wednesday game']	0.653933098947
+['game', 'wednesday and saturday']	['dollar']	0.203369575946
+['game', 'wednesday and saturday']	['142.50 dollar']	0.0703393045902
+['game', 'wednesday and saturday']	['saturday game']	0.622678617845
+['two game', 'wednesday and saturday']	['baseball team']	0.152238479479
+['two game', 'wednesday and saturday']	['home game']	0.641660244739
+['two game', 'wednesday and saturday']	['game']	0.766113800558
+['two game', 'wednesday and saturday']	['5,182.50 dollar']	0.15961386663
+['two game', 'wednesday and saturday']	['wednesday game']	0.766573195953
+['two game', 'wednesday and saturday']	['dollar']	0.0139761041896
+['two game', 'wednesday and saturday']	['142.50 dollar']	0.15961386663
+['two game', 'wednesday and saturday']	['saturday game']	0.802115948339
+['5,182.50 dollar', 'wednesday and saturday']	['baseball team']	0.152238479479
+['5,182.50 dollar', 'wednesday and saturday']	['home game']	0.152238479479
+['5,182.50 dollar', 'wednesday and saturday']	['game']	0.143184559342
+['5,182.50 dollar', 'wednesday and saturday']	['two game']	0.152238479479
+['5,182.50 dollar', 'wednesday and saturday']	['wednesday game']	0.60670367623
+['5,182.50 dollar', 'wednesday and saturday']	['dollar']	0.365926163786
+['5,182.50 dollar', 'wednesday and saturday']	['142.50 dollar']	0.653642048458
+['5,182.50 dollar', 'wednesday and saturday']	['saturday game']	0.461498376159
+['wednesday game', 'wednesday and saturday']	['baseball team']	0.124856540438
+['wednesday game', 'wednesday and saturday']	['home game']	0.536378636546
+['wednesday game', 'wednesday and saturday']	['game']	0.628628979751
+['wednesday game', 'wednesday and saturday']	['two game']	0.536378636546
+['wednesday game', 'wednesday and saturday']	['5,182.50 dollar']	0.128877148308
+['wednesday game', 'wednesday and saturday']	['dollar']	0.0113525773169
+['wednesday game', 'wednesday and saturday']	['142.50 dollar']	0.128877148308
+['wednesday game', 'wednesday and saturday']	['saturday game']	0.821114325561
+['dollar', 'wednesday and saturday']	['baseball team']	0.0351005911342
+['dollar', 'wednesday and saturday']	['home game']	0.0357465595026
+['dollar', 'wednesday and saturday']	['game']	0.249532149426
+['dollar', 'wednesday and saturday']	['two game']	0.0368701550083
+['dollar', 'wednesday and saturday']	['5,182.50 dollar']	0.32015079594
+['dollar', 'wednesday and saturday']	['wednesday game']	0.491877171411
+['dollar', 'wednesday and saturday']	['142.50 dollar']	0.32015079594
+['dollar', 'wednesday and saturday']	['saturday game']	0.363623960509
+['142.50 dollar', 'wednesday and saturday']	['baseball team']	0.152238479479
+['142.50 dollar', 'wednesday and saturday']	['home game']	0.152238479479
+['142.50 dollar', 'wednesday and saturday']	['game']	0.143184559342
+['142.50 dollar', 'wednesday and saturday']	['two game']	0.152238479479
+['142.50 dollar', 'wednesday and saturday']	['5,182.50 dollar']	0.653642048458
+['142.50 dollar', 'wednesday and saturday']	['wednesday game']	0.60670367623
+['142.50 dollar', 'wednesday and saturday']	['dollar']	0.365926163786
+['142.50 dollar', 'wednesday and saturday']	['saturday game']	0.461498376159
+['saturday game', 'wednesday and saturday']	['baseball team']	0.124856540438
+['saturday game', 'wednesday and saturday']	['home game']	0.536378636546
+['saturday game', 'wednesday and saturday']	['game']	0.628628979751
+['saturday game', 'wednesday and saturday']	['two game']	0.536378636546
+['saturday game', 'wednesday and saturday']	['5,182.50 dollar']	0.128877148308
+['saturday game', 'wednesday and saturday']	['wednesday game']	0.727550674104
+['saturday game', 'wednesday and saturday']	['dollar']	0.0113525773169
+['saturday game', 'wednesday and saturday']	['142.50 dollar']	0.128877148308
+['baseball team', 'game']	['home game']	0.829480102928
+['baseball team', 'game']	['wednesday and saturday']	0.080802298149
+['baseball team', 'game']	['two game']	0.659629532091
+['baseball team', 'game']	['5,182.50 dollar']	0.0703393045902
+['baseball team', 'game']	['wednesday game']	0.628353528659
+['baseball team', 'game']	['dollar']	0.270657771957
+['baseball team', 'game']	['142.50 dollar']	0.0703393045902
+['baseball team', 'game']	['saturday game']	0.628353528659
+['home game', 'game']	['baseball team']	0.399613100377
+['home game', 'game']	['wednesday and saturday']	0.3696717235
+['home game', 'game']	['two game']	0.787649384146
+['home game', 'game']	['5,182.50 dollar']	0.21925775957
+['home game', 'game']	['wednesday game']	0.700955244848
+['home game', 'game']	['dollar']	0.38849639083
+['home game', 'game']	['142.50 dollar']	0.21925775957
+['home game', 'game']	['saturday game']	0.700955244848
+['wednesday and saturday', 'game']	['baseball team']	0.0696933362217
+['wednesday and saturday', 'game']	['home game']	0.738870633426
+['wednesday and saturday', 'game']	['two game']	0.675255149324
+['wednesday and saturday', 'game']	['5,182.50 dollar']	0.0703393045902
+['wednesday and saturday', 'game']	['wednesday game']	0.653933098947
+['wednesday and saturday', 'game']	['dollar']	0.203369575946
+['wednesday and saturday', 'game']	['142.50 dollar']	0.0703393045902
+['wednesday and saturday', 'game']	['saturday game']	0.622678617845
+['two game', 'game']	['baseball team']	0.137226694069
+['two game', 'game']	['home game']	0.825672830003
+['two game', 'game']	['wednesday and saturday']	0.361451987075
+['two game', 'game']	['5,182.50 dollar']	0.21925775957
+['two game', 'game']	['wednesday game']	0.700955244848
+['two game', 'game']	['dollar']	0.38849639083
+['two game', 'game']	['142.50 dollar']	0.21925775957
+['two game', 'game']	['saturday game']	0.700955244848
+['5,182.50 dollar', 'game']	['baseball team']	0.0696933362217
+['5,182.50 dollar', 'game']	['home game']	0.716517242021
+['5,182.50 dollar', 'game']	['wednesday and saturday']	0.080802298149
+['5,182.50 dollar', 'game']	['two game']	0.64792663354
+['5,182.50 dollar', 'game']	['wednesday game']	0.62769779127
+['5,182.50 dollar', 'game']	['dollar']	0.438909325178
+['5,182.50 dollar', 'game']	['142.50 dollar']	0.465538040018
+['5,182.50 dollar', 'game']	['saturday game']	0.62769779127
+['wednesday game', 'game']	['baseball team']	0.188004866751
+['wednesday game', 'game']	['home game']	0.83323929217
+['wednesday game', 'game']	['wednesday and saturday']	0.70475611289
+['wednesday game', 'game']	['two game']	0.798535420964
+['wednesday game', 'game']	['5,182.50 dollar']	0.270035932252
+['wednesday game', 'game']	['dollar']	0.447309456477
+['wednesday game', 'game']	['142.50 dollar']	0.270035932252
+['wednesday game', 'game']	['saturday game']	0.640398975042
+['dollar', 'game']	['baseball team']	0.0982347768443
+['dollar', 'game']	['home game']	0.553297612561
+['dollar', 'game']	['wednesday and saturday']	0.108867454938
+['dollar', 'game']	['two game']	0.435102054266
+['dollar', 'game']	['5,182.50 dollar']	0.359760932789
+['dollar', 'game']	['wednesday game']	0.30799931526
+['dollar', 'game']	['142.50 dollar']	0.359760932789
+['dollar', 'game']	['saturday game']	0.30799931526
+['142.50 dollar', 'game']	['baseball team']	0.0696933362217
+['142.50 dollar', 'game']	['home game']	0.716517242021
+['142.50 dollar', 'game']	['wednesday and saturday']	0.080802298149
+['142.50 dollar', 'game']	['two game']	0.64792663354
+['142.50 dollar', 'game']	['5,182.50 dollar']	0.465538040018
+['142.50 dollar', 'game']	['wednesday game']	0.62769779127
+['142.50 dollar', 'game']	['dollar']	0.438909325178
+['142.50 dollar', 'game']	['saturday game']	0.62769779127
+['saturday game', 'game']	['baseball team']	0.188004866751
+['saturday game', 'game']	['home game']	0.83323929217
+['saturday game', 'game']	['wednesday and saturday']	0.741570968452
+['saturday game', 'game']	['two game']	0.798535420964
+['saturday game', 'game']	['5,182.50 dollar']	0.270035932252
+['saturday game', 'game']	['wednesday game']	0.640398975042
+['saturday game', 'game']	['dollar']	0.447309456477
+['saturday game', 'game']	['142.50 dollar']	0.270035932252
+['baseball team', 'two game']	['home game']	0.569183039069
+['baseball team', 'two game']	['wednesday and saturday']	0.0908034291173
+['baseball team', 'two game']	['game']	0.56424350851
+['baseball team', 'two game']	['5,182.50 dollar']	0.0901100077042
+['baseball team', 'two game']	['wednesday game']	0.491402784668
+['baseball team', 'two game']	['dollar']	0.0143499502517
+['baseball team', 'two game']	['142.50 dollar']	0.0901100077042
+['baseball team', 'two game']	['saturday game']	0.491402784668
+['home game', 'two game']	['baseball team']	0.367515253066
+['home game', 'two game']	['wednesday and saturday']	0.285089949057
+['home game', 'two game']	['game']	0.68681081328
+['home game', 'two game']	['5,182.50 dollar']	0.139258682248
+['home game', 'two game']	['wednesday game']	0.687208238533
+['home game', 'two game']	['dollar']	0.219462895472
+['home game', 'two game']	['142.50 dollar']	0.139258682248
+['home game', 'two game']	['saturday game']	0.687208238533
+['wednesday and saturday', 'two game']	['baseball team']	0.152238479479
+['wednesday and saturday', 'two game']	['home game']	0.641660244739
+['wednesday and saturday', 'two game']	['game']	0.766113800558
+['wednesday and saturday', 'two game']	['5,182.50 dollar']	0.15961386663
+['wednesday and saturday', 'two game']	['wednesday game']	0.766573195953
+['wednesday and saturday', 'two game']	['dollar']	0.0139761041896
+['wednesday and saturday', 'two game']	['142.50 dollar']	0.15961386663
+['wednesday and saturday', 'two game']	['saturday game']	0.802115948339
+['game', 'two game']	['baseball team']	0.137226694069
+['game', 'two game']	['home game']	0.825672830003
+['game', 'two game']	['wednesday and saturday']	0.361451987075
+['game', 'two game']	['5,182.50 dollar']	0.21925775957
+['game', 'two game']	['wednesday game']	0.700955244848
+['game', 'two game']	['dollar']	0.38849639083
+['game', 'two game']	['142.50 dollar']	0.21925775957
+['game', 'two game']	['saturday game']	0.700955244848
+['5,182.50 dollar', 'two game']	['baseball team']	0.0827346205535
+['5,182.50 dollar', 'two game']	['home game']	0.549852778125
+['5,182.50 dollar', 'two game']	['wednesday and saturday']	0.0908034291173
+['5,182.50 dollar', 'two game']	['game']	0.644629107832
+['5,182.50 dollar', 'two game']	['wednesday game']	0.528966464774
+['5,182.50 dollar', 'two game']	['dollar']	0.345297574209
+['5,182.50 dollar', 'two game']	['142.50 dollar']	0.584269096576
+['5,182.50 dollar', 'two game']	['saturday game']	0.528966464774
+['wednesday game', 'two game']	['baseball team']	0.136831688603
+['wednesday game', 'two game']	['home game']	0.610362947984
+['wednesday game', 'two game']	['wednesday and saturday']	0.697465386525
+['wednesday game', 'two game']	['game']	0.777221208291
+['wednesday game', 'two game']	['5,182.50 dollar']	0.127137811052
+['wednesday game', 'two game']	['dollar']	0.225362410309
+['wednesday game', 'two game']	['142.50 dollar']	0.127137811052
+['wednesday game', 'two game']	['saturday game']	0.854538022361
+['dollar', 'two game']	['baseball team']	0.0361569291624
+['dollar', 'two game']	['home game']	0.160671266721
+['dollar', 'two game']	['wednesday and saturday']	0.0467896072558
+['dollar', 'two game']	['game']	0.650844634612
+['dollar', 'two game']	['5,182.50 dollar']	0.384540526976
+['dollar', 'two game']	['wednesday game']	0.179900479002
+['dollar', 'two game']	['142.50 dollar']	0.384540526976
+['dollar', 'two game']	['saturday game']	0.179900479002
+['142.50 dollar', 'two game']	['baseball team']	0.0827346205535
+['142.50 dollar', 'two game']	['home game']	0.549852778125
+['142.50 dollar', 'two game']	['wednesday and saturday']	0.0908034291173
+['142.50 dollar', 'two game']	['game']	0.644629107832
+['142.50 dollar', 'two game']	['5,182.50 dollar']	0.584269096576
+['142.50 dollar', 'two game']	['wednesday game']	0.528966464774
+['142.50 dollar', 'two game']	['dollar']	0.345297574209
+['142.50 dollar', 'two game']	['saturday game']	0.528966464774
+['saturday game', 'two game']	['baseball team']	0.136831688603
+['saturday game', 'two game']	['home game']	0.610362947984
+['saturday game', 'two game']	['wednesday and saturday']	0.697062603813
+['saturday game', 'two game']	['game']	0.777221208291
+['saturday game', 'two game']	['5,182.50 dollar']	0.127137811052
+['saturday game', 'two game']	['wednesday game']	0.854538022361
+['saturday game', 'two game']	['dollar']	0.225362410309
+['saturday game', 'two game']	['142.50 dollar']	0.127137811052
+['baseball team', '5,182.50 dollar']	['home game']	0.200003067226
+['baseball team', '5,182.50 dollar']	['wednesday and saturday']	0.0908034291173
+['baseball team', '5,182.50 dollar']	['game']	0.0774561735493
+['baseball team', '5,182.50 dollar']	['two game']	0.0827346205535
+['baseball team', '5,182.50 dollar']	['wednesday game']	0.0824069519204
+['baseball team', '5,182.50 dollar']	['dollar']	0.345297574209
+['baseball team', '5,182.50 dollar']	['142.50 dollar']	0.584269096576
+['baseball team', '5,182.50 dollar']	['saturday game']	0.0824069519204
+['home game', '5,182.50 dollar']	['baseball team']	0.200003067226
+['home game', '5,182.50 dollar']	['wednesday and saturday']	0.0908034291173
+['home game', '5,182.50 dollar']	['game']	0.714634479724
+['home game', '5,182.50 dollar']	['two game']	0.584269096576
+['home game', '5,182.50 dollar']	['wednesday game']	0.566188865804
+['home game', '5,182.50 dollar']	['dollar']	0.345297574209
+['home game', '5,182.50 dollar']	['142.50 dollar']	0.584269096576
+['home game', '5,182.50 dollar']	['saturday game']	0.566188865804
+['wednesday and saturday', '5,182.50 dollar']	['baseball team']	0.152238479479
+['wednesday and saturday', '5,182.50 dollar']	['home game']	0.152238479479
+['wednesday and saturday', '5,182.50 dollar']	['game']	0.143184559342
+['wednesday and saturday', '5,182.50 dollar']	['two game']	0.152238479479
+['wednesday and saturday', '5,182.50 dollar']	['wednesday game']	0.60670367623
+['wednesday and saturday', '5,182.50 dollar']	['dollar']	0.365926163786
+['wednesday and saturday', '5,182.50 dollar']	['142.50 dollar']	0.653642048458
+['wednesday and saturday', '5,182.50 dollar']	['saturday game']	0.461498376159
+['game', '5,182.50 dollar']	['baseball team']	0.0696933362217
+['game', '5,182.50 dollar']	['home game']	0.716517242021
+['game', '5,182.50 dollar']	['wednesday and saturday']	0.080802298149
+['game', '5,182.50 dollar']	['two game']	0.64792663354
+['game', '5,182.50 dollar']	['wednesday game']	0.62769779127
+['game', '5,182.50 dollar']	['dollar']	0.438909325178
+['game', '5,182.50 dollar']	['142.50 dollar']	0.465538040018
+['game', '5,182.50 dollar']	['saturday game']	0.62769779127
+['two game', '5,182.50 dollar']	['baseball team']	0.0827346205535
+['two game', '5,182.50 dollar']	['home game']	0.549852778125
+['two game', '5,182.50 dollar']	['wednesday and saturday']	0.0908034291173
+['two game', '5,182.50 dollar']	['game']	0.644629107832
+['two game', '5,182.50 dollar']	['wednesday game']	0.528966464774
+['two game', '5,182.50 dollar']	['dollar']	0.345297574209
+['two game', '5,182.50 dollar']	['142.50 dollar']	0.584269096576
+['two game', '5,182.50 dollar']	['saturday game']	0.528966464774
+['wednesday game', '5,182.50 dollar']	['baseball team']	0.0696933362217
+['wednesday game', '5,182.50 dollar']	['home game']	0.525944474896
+['wednesday game', '5,182.50 dollar']	['wednesday and saturday']	0.509064802527
+['wednesday game', '5,182.50 dollar']	['game']	0.612192056597
+['wednesday game', '5,182.50 dollar']	['two game']	0.488722073866
+['wednesday game', '5,182.50 dollar']	['dollar']	0.362602533013
+['wednesday game', '5,182.50 dollar']	['142.50 dollar']	0.544221442934
+['wednesday game', '5,182.50 dollar']	['saturday game']	0.72021221181
+['dollar', '5,182.50 dollar']	['baseball team']	0.150377262293
+['dollar', '5,182.50 dollar']	['home game']	0.177448801378
+['dollar', '5,182.50 dollar']	['wednesday and saturday']	0.299623528004
+['dollar', '5,182.50 dollar']	['game']	0.469646661632
+['dollar', '5,182.50 dollar']	['two game']	0.177448801378
+['dollar', '5,182.50 dollar']	['wednesday game']	0.162036700565
+['dollar', '5,182.50 dollar']	['142.50 dollar']	0.543445645363
+['dollar', '5,182.50 dollar']	['saturday game']	0.162036700565
+['142.50 dollar', '5,182.50 dollar']	['baseball team']	0.139258682248
+['142.50 dollar', '5,182.50 dollar']	['home game']	0.139258682248
+['142.50 dollar', '5,182.50 dollar']	['wednesday and saturday']	0.297805101442
+['142.50 dollar', '5,182.50 dollar']	['game']	0.386965255933
+['142.50 dollar', '5,182.50 dollar']	['two game']	0.139258682248
+['142.50 dollar', '5,182.50 dollar']	['wednesday game']	0.14699641653
+['142.50 dollar', '5,182.50 dollar']	['dollar']	0.554626361877
+['142.50 dollar', '5,182.50 dollar']	['saturday game']	0.14699641653
+['saturday game', '5,182.50 dollar']	['baseball team']	0.0696933362217
+['saturday game', '5,182.50 dollar']	['home game']	0.525944474896
+['saturday game', '5,182.50 dollar']	['wednesday and saturday']	0.317862217544
+['saturday game', '5,182.50 dollar']	['game']	0.612192056597
+['saturday game', '5,182.50 dollar']	['two game']	0.488722073866
+['saturday game', '5,182.50 dollar']	['wednesday game']	0.72021221181
+['saturday game', '5,182.50 dollar']	['dollar']	0.362602533013
+['saturday game', '5,182.50 dollar']	['142.50 dollar']	0.544221442934
+['baseball team', 'wednesday game']	['home game']	0.479396304737
+['baseball team', 'wednesday game']	['wednesday and saturday']	0.509064802527
+['baseball team', 'wednesday game']	['game']	0.537007741999
+['baseball team', 'wednesday game']	['two game']	0.443388970201
+['baseball team', 'wednesday game']	['5,182.50 dollar']	0.0737139440912
+['baseball team', 'wednesday game']	['dollar']	0.011726423379
+['baseball team', 'wednesday game']	['142.50 dollar']	0.0737139440912
+['baseball team', 'wednesday game']	['saturday game']	0.72021221181
+['home game', 'wednesday game']	['baseball team']	0.317307528599
+['home game', 'wednesday game']	['wednesday and saturday']	0.697465386525
+['home game', 'wednesday game']	['game']	0.79168196934
+['home game', 'wednesday game']	['two game']	0.569226584348
+['home game', 'wednesday game']	['5,182.50 dollar']	0.127137811052
+['home game', 'wednesday game']	['dollar']	0.225362410309
+['home game', 'wednesday game']	['142.50 dollar']	0.127137811052
+['home game', 'wednesday game']	['saturday game']	0.854538022361
+['wednesday and saturday', 'wednesday game']	['baseball team']	0.124856540438
+['wednesday and saturday', 'wednesday game']	['home game']	0.536378636546
+['wednesday and saturday', 'wednesday game']	['game']	0.628628979751
+['wednesday and saturday', 'wednesday game']	['two game']	0.536378636546
+['wednesday and saturday', 'wednesday game']	['5,182.50 dollar']	0.128877148308
+['wednesday and saturday', 'wednesday game']	['dollar']	0.0113525773169
+['wednesday and saturday', 'wednesday game']	['142.50 dollar']	0.128877148308
+['wednesday and saturday', 'wednesday game']	['saturday game']	0.821114325561
+['game', 'wednesday game']	['baseball team']	0.188004866751
+['game', 'wednesday game']	['home game']	0.83323929217
+['game', 'wednesday game']	['wednesday and saturday']	0.70475611289
+['game', 'wednesday game']	['two game']	0.798535420964
+['game', 'wednesday game']	['5,182.50 dollar']	0.270035932252
+['game', 'wednesday game']	['dollar']	0.447309456477
+['game', 'wednesday game']	['142.50 dollar']	0.270035932252
+['game', 'wednesday game']	['saturday game']	0.640398975042
+['two game', 'wednesday game']	['baseball team']	0.136831688603
+['two game', 'wednesday game']	['home game']	0.610362947984
+['two game', 'wednesday game']	['wednesday and saturday']	0.697465386525
+['two game', 'wednesday game']	['game']	0.777221208291
+['two game', 'wednesday game']	['5,182.50 dollar']	0.127137811052
+['two game', 'wednesday game']	['dollar']	0.225362410309
+['two game', 'wednesday game']	['142.50 dollar']	0.127137811052
+['two game', 'wednesday game']	['saturday game']	0.854538022361
+['5,182.50 dollar', 'wednesday game']	['baseball team']	0.0696933362217
+['5,182.50 dollar', 'wednesday game']	['home game']	0.525944474896
+['5,182.50 dollar', 'wednesday game']	['wednesday and saturday']	0.509064802527
+['5,182.50 dollar', 'wednesday game']	['game']	0.612192056597
+['5,182.50 dollar', 'wednesday game']	['two game']	0.488722073866
+['5,182.50 dollar', 'wednesday game']	['dollar']	0.362602533013
+['5,182.50 dollar', 'wednesday game']	['142.50 dollar']	0.544221442934
+['5,182.50 dollar', 'wednesday game']	['saturday game']	0.72021221181
+['dollar', 'wednesday game']	['baseball team']	0.0982347768443
+['dollar', 'wednesday game']	['home game']	0.160671266721
+['dollar', 'wednesday game']	['wednesday and saturday']	0.488049966595
+['dollar', 'wednesday game']	['game']	0.438909325178
+['dollar', 'wednesday game']	['two game']	0.160671266721
+['dollar', 'wednesday game']	['5,182.50 dollar']	0.391558070836
+['dollar', 'wednesday game']	['142.50 dollar']	0.391558070836
+['dollar', 'wednesday game']	['saturday game']	0.435372103529
+['142.50 dollar', 'wednesday game']	['baseball team']	0.0696933362217
+['142.50 dollar', 'wednesday game']	['home game']	0.525944474896
+['142.50 dollar', 'wednesday game']	['wednesday and saturday']	0.509064802527
+['142.50 dollar', 'wednesday game']	['game']	0.612192056597
+['142.50 dollar', 'wednesday game']	['two game']	0.488722073866
+['142.50 dollar', 'wednesday game']	['5,182.50 dollar']	0.544221442934
+['142.50 dollar', 'wednesday game']	['dollar']	0.362602533013
+['142.50 dollar', 'wednesday game']	['saturday game']	0.72021221181
+['saturday game', 'wednesday game']	['baseball team']	0.187609861285
+['saturday game', 'wednesday game']	['home game']	0.628354579783
+['saturday game', 'wednesday game']	['wednesday and saturday']	0.695799508968
+['saturday game', 'wednesday game']	['game']	0.588067551674
+['saturday game', 'wednesday game']	['two game']	0.628354579783
+['saturday game', 'wednesday game']	['5,182.50 dollar']	0.177915983734
+['saturday game', 'wednesday game']	['dollar']	0.284931143462
+['saturday game', 'wednesday game']	['142.50 dollar']	0.177915983734
+['baseball team', 'dollar']	['home game']	0.10453530028
+['baseball team', 'dollar']	['wednesday and saturday']	0.0410777933861
+['baseball team', 'dollar']	['game']	0.253045752412
+['baseball team', 'dollar']	['two game']	0.0368028975308
+['baseball team', 'dollar']	['5,182.50 dollar']	0.384540526976
+['baseball team', 'dollar']	['wednesday game']	0.0427923118694
+['baseball team', 'dollar']	['142.50 dollar']	0.384540526976
+['baseball team', 'dollar']	['saturday game']	0.0427923118694
+['home game', 'dollar']	['baseball team']	0.0895790146847
+['home game', 'dollar']	['wednesday and saturday']	0.0410777933861
+['home game', 'dollar']	['game']	0.670841688464
+['home game', 'dollar']	['two game']	0.160671266721
+['home game', 'dollar']	['5,182.50 dollar']	0.384540526976
+['home game', 'dollar']	['wednesday game']	0.179900479002
+['home game', 'dollar']	['142.50 dollar']	0.384540526976
+['home game', 'dollar']	['saturday game']	0.179900479002
+['wednesday and saturday', 'dollar']	['baseball team']	0.0351005911342
+['wednesday and saturday', 'dollar']	['home game']	0.0357465595026
+['wednesday and saturday', 'dollar']	['game']	0.249532149426
+['wednesday and saturday', 'dollar']	['two game']	0.0368701550083
+['wednesday and saturday', 'dollar']	['5,182.50 dollar']	0.32015079594
+['wednesday and saturday', 'dollar']	['wednesday game']	0.491877171411
+['wednesday and saturday', 'dollar']	['142.50 dollar']	0.32015079594
+['wednesday and saturday', 'dollar']	['saturday game']	0.363623960509
+['game', 'dollar']	['baseball team']	0.0982347768443
+['game', 'dollar']	['home game']	0.553297612561
+['game', 'dollar']	['wednesday and saturday']	0.108867454938
+['game', 'dollar']	['two game']	0.435102054266
+['game', 'dollar']	['5,182.50 dollar']	0.359760932789
+['game', 'dollar']	['wednesday game']	0.30799931526
+['game', 'dollar']	['142.50 dollar']	0.359760932789
+['game', 'dollar']	['saturday game']	0.30799931526
+['two game', 'dollar']	['baseball team']	0.0361569291624
+['two game', 'dollar']	['home game']	0.160671266721
+['two game', 'dollar']	['wednesday and saturday']	0.0467896072558
+['two game', 'dollar']	['game']	0.650844634612
+['two game', 'dollar']	['5,182.50 dollar']	0.384540526976
+['two game', 'dollar']	['wednesday game']	0.179900479002
+['two game', 'dollar']	['142.50 dollar']	0.384540526976
+['two game', 'dollar']	['saturday game']	0.179900479002
+['5,182.50 dollar', 'dollar']	['baseball team']	0.150377262293
+['5,182.50 dollar', 'dollar']	['home game']	0.177448801378
+['5,182.50 dollar', 'dollar']	['wednesday and saturday']	0.299623528004
+['5,182.50 dollar', 'dollar']	['game']	0.469646661632
+['5,182.50 dollar', 'dollar']	['two game']	0.177448801378
+['5,182.50 dollar', 'dollar']	['wednesday game']	0.162036700565
+['5,182.50 dollar', 'dollar']	['142.50 dollar']	0.543445645363
+['5,182.50 dollar', 'dollar']	['saturday game']	0.162036700565
+['wednesday game', 'dollar']	['baseball team']	0.0982347768443
+['wednesday game', 'dollar']	['home game']	0.160671266721
+['wednesday game', 'dollar']	['wednesday and saturday']	0.488049966595
+['wednesday game', 'dollar']	['game']	0.438909325178
+['wednesday game', 'dollar']	['two game']	0.160671266721
+['wednesday game', 'dollar']	['5,182.50 dollar']	0.391558070836
+['wednesday game', 'dollar']	['142.50 dollar']	0.391558070836
+['wednesday game', 'dollar']	['saturday game']	0.435372103529
+['142.50 dollar', 'dollar']	['baseball team']	0.150377262293
+['142.50 dollar', 'dollar']	['home game']	0.177448801378
+['142.50 dollar', 'dollar']	['wednesday and saturday']	0.299623528004
+['142.50 dollar', 'dollar']	['game']	0.469646661632
+['142.50 dollar', 'dollar']	['two game']	0.177448801378
+['142.50 dollar', 'dollar']	['5,182.50 dollar']	0.543445645363
+['142.50 dollar', 'dollar']	['wednesday game']	0.162036700565
+['142.50 dollar', 'dollar']	['saturday game']	0.162036700565
+['saturday game', 'dollar']	['baseball team']	0.0982347768443
+['saturday game', 'dollar']	['home game']	0.160671266721
+['saturday game', 'dollar']	['wednesday and saturday']	0.354899532026
+['saturday game', 'dollar']	['game']	0.438909325178
+['saturday game', 'dollar']	['two game']	0.160671266721
+['saturday game', 'dollar']	['5,182.50 dollar']	0.391558070836
+['saturday game', 'dollar']	['wednesday game']	0.435372103529
+['saturday game', 'dollar']	['142.50 dollar']	0.391558070836
+['baseball team', '142.50 dollar']	['home game']	0.200003067226
+['baseball team', '142.50 dollar']	['wednesday and saturday']	0.0908034291173
+['baseball team', '142.50 dollar']	['game']	0.0774561735493
+['baseball team', '142.50 dollar']	['two game']	0.0827346205535
+['baseball team', '142.50 dollar']	['5,182.50 dollar']	0.584269096576
+['baseball team', '142.50 dollar']	['wednesday game']	0.0824069519204
+['baseball team', '142.50 dollar']	['dollar']	0.345297574209
+['baseball team', '142.50 dollar']	['saturday game']	0.0824069519204
+['home game', '142.50 dollar']	['baseball team']	0.200003067226
+['home game', '142.50 dollar']	['wednesday and saturday']	0.0908034291173
+['home game', '142.50 dollar']	['game']	0.714634479724
+['home game', '142.50 dollar']	['two game']	0.584269096576
+['home game', '142.50 dollar']	['5,182.50 dollar']	0.584269096576
+['home game', '142.50 dollar']	['wednesday game']	0.566188865804
+['home game', '142.50 dollar']	['dollar']	0.345297574209
+['home game', '142.50 dollar']	['saturday game']	0.566188865804
+['wednesday and saturday', '142.50 dollar']	['baseball team']	0.152238479479
+['wednesday and saturday', '142.50 dollar']	['home game']	0.152238479479
+['wednesday and saturday', '142.50 dollar']	['game']	0.143184559342
+['wednesday and saturday', '142.50 dollar']	['two game']	0.152238479479
+['wednesday and saturday', '142.50 dollar']	['5,182.50 dollar']	0.653642048458
+['wednesday and saturday', '142.50 dollar']	['wednesday game']	0.60670367623
+['wednesday and saturday', '142.50 dollar']	['dollar']	0.365926163786
+['wednesday and saturday', '142.50 dollar']	['saturday game']	0.461498376159
+['game', '142.50 dollar']	['baseball team']	0.0696933362217
+['game', '142.50 dollar']	['home game']	0.716517242021
+['game', '142.50 dollar']	['wednesday and saturday']	0.080802298149
+['game', '142.50 dollar']	['two game']	0.64792663354
+['game', '142.50 dollar']	['5,182.50 dollar']	0.465538040018
+['game', '142.50 dollar']	['wednesday game']	0.62769779127
+['game', '142.50 dollar']	['dollar']	0.438909325178
+['game', '142.50 dollar']	['saturday game']	0.62769779127
+['two game', '142.50 dollar']	['baseball team']	0.0827346205535
+['two game', '142.50 dollar']	['home game']	0.549852778125
+['two game', '142.50 dollar']	['wednesday and saturday']	0.0908034291173
+['two game', '142.50 dollar']	['game']	0.644629107832
+['two game', '142.50 dollar']	['5,182.50 dollar']	0.584269096576
+['two game', '142.50 dollar']	['wednesday game']	0.528966464774
+['two game', '142.50 dollar']	['dollar']	0.345297574209
+['two game', '142.50 dollar']	['saturday game']	0.528966464774
+['5,182.50 dollar', '142.50 dollar']	['baseball team']	0.139258682248
+['5,182.50 dollar', '142.50 dollar']	['home game']	0.139258682248
+['5,182.50 dollar', '142.50 dollar']	['wednesday and saturday']	0.297805101442
+['5,182.50 dollar', '142.50 dollar']	['game']	0.386965255933
+['5,182.50 dollar', '142.50 dollar']	['two game']	0.139258682248
+['5,182.50 dollar', '142.50 dollar']	['wednesday game']	0.14699641653
+['5,182.50 dollar', '142.50 dollar']	['dollar']	0.554626361877
+['5,182.50 dollar', '142.50 dollar']	['saturday game']	0.14699641653
+['wednesday game', '142.50 dollar']	['baseball team']	0.0696933362217
+['wednesday game', '142.50 dollar']	['home game']	0.525944474896
+['wednesday game', '142.50 dollar']	['wednesday and saturday']	0.509064802527
+['wednesday game', '142.50 dollar']	['game']	0.612192056597
+['wednesday game', '142.50 dollar']	['two game']	0.488722073866
+['wednesday game', '142.50 dollar']	['5,182.50 dollar']	0.544221442934
+['wednesday game', '142.50 dollar']	['dollar']	0.362602533013
+['wednesday game', '142.50 dollar']	['saturday game']	0.72021221181
+['dollar', '142.50 dollar']	['baseball team']	0.150377262293
+['dollar', '142.50 dollar']	['home game']	0.177448801378
+['dollar', '142.50 dollar']	['wednesday and saturday']	0.299623528004
+['dollar', '142.50 dollar']	['game']	0.469646661632
+['dollar', '142.50 dollar']	['two game']	0.177448801378
+['dollar', '142.50 dollar']	['5,182.50 dollar']	0.543445645363
+['dollar', '142.50 dollar']	['wednesday game']	0.162036700565
+['dollar', '142.50 dollar']	['saturday game']	0.162036700565
+['saturday game', '142.50 dollar']	['baseball team']	0.0696933362217
+['saturday game', '142.50 dollar']	['home game']	0.525944474896
+['saturday game', '142.50 dollar']	['wednesday and saturday']	0.317862217544
+['saturday game', '142.50 dollar']	['game']	0.612192056597
+['saturday game', '142.50 dollar']	['two game']	0.488722073866
+['saturday game', '142.50 dollar']	['5,182.50 dollar']	0.544221442934
+['saturday game', '142.50 dollar']	['wednesday game']	0.72021221181
+['saturday game', '142.50 dollar']	['dollar']	0.362602533013
+['baseball team', 'saturday game']	['home game']	0.479396304737
+['baseball team', 'saturday game']	['wednesday and saturday']	0.331683355755
+['baseball team', 'saturday game']	['game']	0.537007741999
+['baseball team', 'saturday game']	['two game']	0.443388970201
+['baseball team', 'saturday game']	['5,182.50 dollar']	0.0737139440912
+['baseball team', 'saturday game']	['wednesday game']	0.72021221181
+['baseball team', 'saturday game']	['dollar']	0.011726423379
+['baseball team', 'saturday game']	['142.50 dollar']	0.0737139440912
+['home game', 'saturday game']	['baseball team']	0.317307528599
+['home game', 'saturday game']	['wednesday and saturday']	0.697062603813
+['home game', 'saturday game']	['game']	0.79168196934
+['home game', 'saturday game']	['two game']	0.569226584348
+['home game', 'saturday game']	['5,182.50 dollar']	0.127137811052
+['home game', 'saturday game']	['wednesday game']	0.854538022361
+['home game', 'saturday game']	['dollar']	0.225362410309
+['home game', 'saturday game']	['142.50 dollar']	0.127137811052
+['wednesday and saturday', 'saturday game']	['baseball team']	0.124856540438
+['wednesday and saturday', 'saturday game']	['home game']	0.536378636546
+['wednesday and saturday', 'saturday game']	['game']	0.628628979751
+['wednesday and saturday', 'saturday game']	['two game']	0.536378636546
+['wednesday and saturday', 'saturday game']	['5,182.50 dollar']	0.128877148308
+['wednesday and saturday', 'saturday game']	['wednesday game']	0.727550674104
+['wednesday and saturday', 'saturday game']	['dollar']	0.0113525773169
+['wednesday and saturday', 'saturday game']	['142.50 dollar']	0.128877148308
+['game', 'saturday game']	['baseball team']	0.188004866751
+['game', 'saturday game']	['home game']	0.83323929217
+['game', 'saturday game']	['wednesday and saturday']	0.741570968452
+['game', 'saturday game']	['two game']	0.798535420964
+['game', 'saturday game']	['5,182.50 dollar']	0.270035932252
+['game', 'saturday game']	['wednesday game']	0.640398975042
+['game', 'saturday game']	['dollar']	0.447309456477
+['game', 'saturday game']	['142.50 dollar']	0.270035932252
+['two game', 'saturday game']	['baseball team']	0.136831688603
+['two game', 'saturday game']	['home game']	0.610362947984
+['two game', 'saturday game']	['wednesday and saturday']	0.697062603813
+['two game', 'saturday game']	['game']	0.777221208291
+['two game', 'saturday game']	['5,182.50 dollar']	0.127137811052
+['two game', 'saturday game']	['wednesday game']	0.854538022361
+['two game', 'saturday game']	['dollar']	0.225362410309
+['two game', 'saturday game']	['142.50 dollar']	0.127137811052
+['5,182.50 dollar', 'saturday game']	['baseball team']	0.0696933362217
+['5,182.50 dollar', 'saturday game']	['home game']	0.525944474896
+['5,182.50 dollar', 'saturday game']	['wednesday and saturday']	0.317862217544
+['5,182.50 dollar', 'saturday game']	['game']	0.612192056597
+['5,182.50 dollar', 'saturday game']	['two game']	0.488722073866
+['5,182.50 dollar', 'saturday game']	['wednesday game']	0.72021221181
+['5,182.50 dollar', 'saturday game']	['dollar']	0.362602533013
+['5,182.50 dollar', 'saturday game']	['142.50 dollar']	0.544221442934
+['wednesday game', 'saturday game']	['baseball team']	0.187609861285
+['wednesday game', 'saturday game']	['home game']	0.628354579783
+['wednesday game', 'saturday game']	['wednesday and saturday']	0.695799508968
+['wednesday game', 'saturday game']	['game']	0.588067551674
+['wednesday game', 'saturday game']	['two game']	0.628354579783
+['wednesday game', 'saturday game']	['5,182.50 dollar']	0.177915983734
+['wednesday game', 'saturday game']	['dollar']	0.284931143462
+['wednesday game', 'saturday game']	['142.50 dollar']	0.177915983734
+['dollar', 'saturday game']	['baseball team']	0.0982347768443
+['dollar', 'saturday game']	['home game']	0.160671266721
+['dollar', 'saturday game']	['wednesday and saturday']	0.354899532026
+['dollar', 'saturday game']	['game']	0.438909325178
+['dollar', 'saturday game']	['two game']	0.160671266721
+['dollar', 'saturday game']	['5,182.50 dollar']	0.391558070836
+['dollar', 'saturday game']	['wednesday game']	0.435372103529
+['dollar', 'saturday game']	['142.50 dollar']	0.391558070836
+['142.50 dollar', 'saturday game']	['baseball team']	0.0696933362217
+['142.50 dollar', 'saturday game']	['home game']	0.525944474896
+['142.50 dollar', 'saturday game']	['wednesday and saturday']	0.317862217544
+['142.50 dollar', 'saturday game']	['game']	0.612192056597
+['142.50 dollar', 'saturday game']	['two game']	0.488722073866
+['142.50 dollar', 'saturday game']	['5,182.50 dollar']	0.544221442934
+['142.50 dollar', 'saturday game']	['wednesday game']	0.72021221181
+['142.50 dollar', 'saturday game']	['dollar']	0.362602533013

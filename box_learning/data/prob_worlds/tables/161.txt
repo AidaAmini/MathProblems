@@ -1,0 +1,14 @@
+1
+[['question ', '38', 'question', '-', '-', 'point', '100'], ['two-point question', 'x1', '-', 'point', '2', '-', '-'], ['five-point question', 'x2', '-', 'point', '5', '-', '-']]
+-1
+[['five-point question', '38', 'question', '-', '-', 'point', '100'], ['two-point question', 'x1', '-', 'point', '2', '-', '-'], ['five-point question', '38', '100', 'point', 'question', '-', 'question ']]
+-1
+[['question ', '38', 'question', '-', '100', 'point', 'x2'], ['two-point question', 'x1', '-', 'point', '2', '-', '-'], ['five-point question', 'x2', '-', 'point', '100', '-', 'question ']]
+-1
+[['question ', '38', 'question', '-', '-', 'point', '100'], ['two-point question', 'x1', '-', 'point', '2', '-', '-'], ['question ', 'x2', '-', '38', 'question', '-', '-']]
+-1
+[['question ', '38', 'x2', '-', 'five-point question', 'point', '100'], ['two-point question', 'x1', '-', 'point', '2', '-', '-'], ['question ', 'x2', '100', 'point', 'five-point question', '-', '-']]
+-1
+[['point', '38', 'question', '-', '-', '5', '100'], ['two-point question', 'x1', '-', 'point', '2', '-', '-'], ['question ', 'x2', '-', 'point', 'question', '100', '-']]
+-1
+[['question ', 'question', 'five-point question', '-', '-', 'point', '100'], ['two-point question', 'x1', '-', 'point', '2', '-', '-'], ['five-point question', 'x2', '100', 'question', '5', 'question ', '-']]

@@ -1,0 +1,30 @@
+['cow and chicken', '50 leg', '18 head', 'cow']
+['cow and chicken']	['50 leg']	0.0988755105172
+['cow and chicken']	['18 head']	0.0988755105172
+['50 leg']	['18 head']	0.387929093691
+['50 leg']	['cow']	0.079730351659
+['18 head']	['cow']	0.0741073489195
+['50 leg', 'cow and chicken']	['18 head']	0.453327242541
+['50 leg', 'cow and chicken']	['cow']	0.541638624037
+['18 head', 'cow and chicken']	['50 leg']	0.453327242541
+['18 head', 'cow and chicken']	['cow']	0.519416401815
+['cow', 'cow and chicken']	['50 leg']	0.0696933362217
+['cow', 'cow and chicken']	['18 head']	0.0703393045902
+['cow and chicken', '50 leg']	['18 head']	0.453327242541
+['cow and chicken', '50 leg']	['cow']	0.541638624037
+['18 head', '50 leg']	['cow and chicken']	0.0908034291173
+['18 head', '50 leg']	['cow']	0.0741073489195
+['cow', '50 leg']	['cow and chicken']	0.39432853221
+['cow', '50 leg']	['18 head']	0.378243431518
+['cow and chicken', '18 head']	['50 leg']	0.453327242541
+['cow and chicken', '18 head']	['cow']	0.519416401815
+['50 leg', '18 head']	['cow and chicken']	0.0908034291173
+['50 leg', '18 head']	['cow']	0.0741073489195
+['cow', '18 head']	['cow and chicken']	0.39432853221
+['cow', '18 head']	['50 leg']	0.330128589866
+['cow and chicken', 'cow']	['50 leg']	0.0696933362217
+['cow and chicken', 'cow']	['18 head']	0.0703393045902
+['50 leg', 'cow']	['cow and chicken']	0.39432853221
+['50 leg', 'cow']	['18 head']	0.378243431518
+['18 head', 'cow']	['cow and chicken']	0.39432853221
+['18 head', 'cow']	['50 leg']	0.330128589866

@@ -1,0 +1,30 @@
+['27 student', '1 class', '5 fewer girl', 'girl']
+['27 student']	['1 class']	0.125971854627
+['27 student']	['5 fewer girl']	0.154200044182
+['27 student']	['girl']	0.100696756518
+['1 class']	['5 fewer girl']	0.379457278768
+['1 class']	['girl']	0.0774561735493
+['1 class', '27 student']	['5 fewer girl']	0.41489284134
+['1 class', '27 student']	['girl']	0.110894185219
+['5 fewer girl', '27 student']	['1 class']	0.519391570737
+['5 fewer girl', '27 student']	['girl']	0.885569992091
+['girl', '27 student']	['1 class']	0.117488318928
+['girl', '27 student']	['5 fewer girl']	0.815439318387
+['27 student', '1 class']	['5 fewer girl']	0.41489284134
+['27 student', '1 class']	['girl']	0.110894185219
+['5 fewer girl', '1 class']	['27 student']	0.266405768679
+['5 fewer girl', '1 class']	['girl']	0.875116641985
+['girl', '1 class']	['27 student']	0.235706336274
+['girl', '1 class']	['5 fewer girl']	0.802761623941
+['27 student', '5 fewer girl']	['1 class']	0.519391570737
+['27 student', '5 fewer girl']	['girl']	0.885569992091
+['1 class', '5 fewer girl']	['27 student']	0.266405768679
+['1 class', '5 fewer girl']	['girl']	0.875116641985
+['girl', '5 fewer girl']	['27 student']	0.350927326657
+['girl', '5 fewer girl']	['1 class']	0.605836169403
+['27 student', 'girl']	['1 class']	0.117488318928
+['27 student', 'girl']	['5 fewer girl']	0.815439318387
+['1 class', 'girl']	['27 student']	0.235706336274
+['1 class', 'girl']	['5 fewer girl']	0.802761623941
+['5 fewer girl', 'girl']	['27 student']	0.350927326657
+['5 fewer girl', 'girl']	['1 class']	0.605836169403

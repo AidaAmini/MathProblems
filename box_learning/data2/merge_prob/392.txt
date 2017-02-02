@@ -1,0 +1,1041 @@
+['safety rent', 'truck', '41.95 dollar', 'dollar', '0.29 dollar', 'mile', 'city rental', '38.95 dollar', '0.31 dollar', 'mileage', 'cost']
+['safety rent']	['truck']	0.0831172035382
+['safety rent']	['41.95 dollar']	0.0901100077042
+['safety rent']	['dollar']	0.0179192712897
+['safety rent']	['0.29 dollar']	0.0901100077042
+['safety rent']	['mile']	0.0101131233914
+['safety rent']	['city rental']	0.0854147342737
+['safety rent']	['38.95 dollar']	0.0901100077042
+['safety rent']	['0.31 dollar']	0.0901100077042
+['safety rent']	['mileage']	0.0888375395985
+['safety rent']	['cost']	0.0888375395985
+['truck']	['41.95 dollar']	0.0737139440912
+['truck']	['dollar']	0.0269886974218
+['truck']	['0.29 dollar']	0.0737139440912
+['truck']	['mile']	0.0082360470022
+['truck']	['city rental']	0.0737139440912
+['truck']	['38.95 dollar']	0.0737139440912
+['truck']	['0.31 dollar']	0.0737139440912
+['truck']	['mileage']	0.136545095808
+['truck']	['cost']	0.0734239376973
+['41.95 dollar']	['0.29 dollar']	0.643440930505
+['41.95 dollar']	['mile']	0.0077840051964
+['41.95 dollar']	['city rental']	0.0901100077042
+['41.95 dollar']	['38.95 dollar']	0.643440930505
+['41.95 dollar']	['0.31 dollar']	0.643440930505
+['41.95 dollar']	['mileage']	0.0764053905195
+['41.95 dollar']	['cost']	0.0777864840342
+['dollar']	['mile']	0.0061631295492
+['dollar']	['city rental']	0.0160076877108
+['dollar']	['mileage']	0.289892907514
+['dollar']	['cost']	0.0369601588388
+['0.29 dollar']	['mile']	0.0077840051964
+['0.29 dollar']	['city rental']	0.0901100077042
+['0.29 dollar']	['38.95 dollar']	0.643440930505
+['0.29 dollar']	['0.31 dollar']	0.643440930505
+['0.29 dollar']	['mileage']	0.0764053905195
+['0.29 dollar']	['cost']	0.0777864840342
+['mile']	['city rental']	0.00424565569655
+['mile']	['38.95 dollar']	0.0172568074531
+['mile']	['0.31 dollar']	0.0172568074531
+['mile']	['cost']	0.018272924264
+['city rental']	['38.95 dollar']	0.0901100077042
+['city rental']	['0.31 dollar']	0.0901100077042
+['city rental']	['mileage']	0.0744376594044
+['city rental']	['cost']	0.076067179124
+['38.95 dollar']	['0.31 dollar']	0.643440930505
+['38.95 dollar']	['mileage']	0.0764053905195
+['38.95 dollar']	['cost']	0.0777864840342
+['0.31 dollar']	['mileage']	0.0764053905195
+['0.31 dollar']	['cost']	0.0777864840342
+['mileage']	['cost']	0.57337902956
+['truck', 'safety rent']	['41.95 dollar']	0.0737139440912
+['truck', 'safety rent']	['dollar']	0.316883615056
+['truck', 'safety rent']	['0.29 dollar']	0.0737139440912
+['truck', 'safety rent']	['mile']	0.141948757068
+['truck', 'safety rent']	['city rental']	0.074092754852
+['truck', 'safety rent']	['38.95 dollar']	0.0737139440912
+['truck', 'safety rent']	['0.31 dollar']	0.0737139440912
+['truck', 'safety rent']	['mileage']	0.732014583953
+['truck', 'safety rent']	['cost']	0.182762001964
+['41.95 dollar', 'safety rent']	['truck']	0.079730351659
+['41.95 dollar', 'safety rent']	['dollar']	0.330638547154
+['41.95 dollar', 'safety rent']	['0.29 dollar']	0.584269096576
+['41.95 dollar', 'safety rent']	['mile']	0.0077840051964
+['41.95 dollar', 'safety rent']	['city rental']	0.0871340391838
+['41.95 dollar', 'safety rent']	['38.95 dollar']	0.584269096576
+['41.95 dollar', 'safety rent']	['0.31 dollar']	0.584269096576
+['41.95 dollar', 'safety rent']	['mileage']	0.0777864840342
+['41.95 dollar', 'safety rent']	['cost']	0.0777864840342
+['dollar', 'safety rent']	['truck']	0.432681219725
+['dollar', 'safety rent']	['41.95 dollar']	0.423574257389
+['dollar', 'safety rent']	['0.29 dollar']	0.442012633359
+['dollar', 'safety rent']	['mile']	0.200351643886
+['dollar', 'safety rent']	['city rental']	0.0406236052701
+['dollar', 'safety rent']	['38.95 dollar']	0.423574257389
+['dollar', 'safety rent']	['0.31 dollar']	0.442012633359
+['dollar', 'safety rent']	['mileage']	0.188813087362
+['dollar', 'safety rent']	['cost']	0.226687137615
+['0.29 dollar', 'safety rent']	['truck']	0.079730351659
+['0.29 dollar', 'safety rent']	['41.95 dollar']	0.584269096576
+['0.29 dollar', 'safety rent']	['dollar']	0.351161209422
+['0.29 dollar', 'safety rent']	['mile']	0.0077840051964
+['0.29 dollar', 'safety rent']	['city rental']	0.0871340391838
+['0.29 dollar', 'safety rent']	['38.95 dollar']	0.584269096576
+['0.29 dollar', 'safety rent']	['0.31 dollar']	0.584269096576
+['0.29 dollar', 'safety rent']	['mileage']	0.0777864840342
+['0.29 dollar', 'safety rent']	['cost']	0.0777864840342
+['mile', 'safety rent']	['truck']	0.182490894406
+['mile', 'safety rent']	['41.95 dollar']	0.0221369896995
+['mile', 'safety rent']	['dollar']	0.200351643886
+['mile', 'safety rent']	['0.29 dollar']	0.0221369896995
+['mile', 'safety rent']	['city rental']	0.0154105889865
+['mile', 'safety rent']	['38.95 dollar']	0.0221369896995
+['mile', 'safety rent']	['0.31 dollar']	0.0221369896995
+['mile', 'safety rent']	['mileage']	0.175851044989
+['mile', 'safety rent']	['cost']	0.115952071458
+['city rental', 'safety rent']	['truck']	0.079730351659
+['city rental', 'safety rent']	['41.95 dollar']	0.0901100077042
+['city rental', 'safety rent']	['dollar']	0.0132263547461
+['city rental', 'safety rent']	['0.29 dollar']	0.0901100077042
+['city rental', 'safety rent']	['mile']	0.00424649792755
+['city rental', 'safety rent']	['38.95 dollar']	0.0901100077042
+['city rental', 'safety rent']	['0.31 dollar']	0.0901100077042
+['city rental', 'safety rent']	['mileage']	0.0777864840342
+['city rental', 'safety rent']	['cost']	0.0777864840342
+['38.95 dollar', 'safety rent']	['truck']	0.079730351659
+['38.95 dollar', 'safety rent']	['41.95 dollar']	0.584269096576
+['38.95 dollar', 'safety rent']	['dollar']	0.330638547154
+['38.95 dollar', 'safety rent']	['0.29 dollar']	0.584269096576
+['38.95 dollar', 'safety rent']	['mile']	0.0077840051964
+['38.95 dollar', 'safety rent']	['city rental']	0.0871340391838
+['38.95 dollar', 'safety rent']	['0.31 dollar']	0.584269096576
+['38.95 dollar', 'safety rent']	['mileage']	0.0777864840342
+['38.95 dollar', 'safety rent']	['cost']	0.0777864840342
+['0.31 dollar', 'safety rent']	['truck']	0.079730351659
+['0.31 dollar', 'safety rent']	['41.95 dollar']	0.584269096576
+['0.31 dollar', 'safety rent']	['dollar']	0.351161209422
+['0.31 dollar', 'safety rent']	['0.29 dollar']	0.584269096576
+['0.31 dollar', 'safety rent']	['mile']	0.0077840051964
+['0.31 dollar', 'safety rent']	['city rental']	0.0871340391838
+['0.31 dollar', 'safety rent']	['38.95 dollar']	0.584269096576
+['0.31 dollar', 'safety rent']	['mileage']	0.0777864840342
+['0.31 dollar', 'safety rent']	['cost']	0.0777864840342
+['mileage', 'safety rent']	['truck']	0.726669153591
+['mileage', 'safety rent']	['41.95 dollar']	0.0827346205535
+['mileage', 'safety rent']	['dollar']	0.151610169111
+['mileage', 'safety rent']	['0.29 dollar']	0.0827346205535
+['mileage', 'safety rent']	['mile']	0.164781968468
+['mileage', 'safety rent']	['city rental']	0.092336172472
+['mileage', 'safety rent']	['38.95 dollar']	0.0827346205535
+['mileage', 'safety rent']	['0.31 dollar']	0.0827346205535
+['mileage', 'safety rent']	['cost']	0.701094043423
+['cost', 'safety rent']	['truck']	0.19603525097
+['cost', 'safety rent']	['41.95 dollar']	0.0901100077042
+['cost', 'safety rent']	['dollar']	0.173665577837
+['cost', 'safety rent']	['0.29 dollar']	0.0901100077042
+['cost', 'safety rent']	['mile']	0.0960031572865
+['cost', 'safety rent']	['city rental']	0.0871340391838
+['cost', 'safety rent']	['38.95 dollar']	0.0901100077042
+['cost', 'safety rent']	['0.31 dollar']	0.0901100077042
+['cost', 'safety rent']	['mileage']	0.701094043423
+['safety rent', 'truck']	['41.95 dollar']	0.0737139440912
+['safety rent', 'truck']	['dollar']	0.316883615056
+['safety rent', 'truck']	['0.29 dollar']	0.0737139440912
+['safety rent', 'truck']	['mile']	0.141948757068
+['safety rent', 'truck']	['city rental']	0.074092754852
+['safety rent', 'truck']	['38.95 dollar']	0.0737139440912
+['safety rent', 'truck']	['0.31 dollar']	0.0737139440912
+['safety rent', 'truck']	['mileage']	0.732014583953
+['safety rent', 'truck']	['cost']	0.182762001964
+['41.95 dollar', 'truck']	['safety rent']	0.0737139440912
+['41.95 dollar', 'truck']	['dollar']	0.700060655151
+['41.95 dollar', 'truck']	['0.29 dollar']	0.522652815483
+['41.95 dollar', 'truck']	['mile']	0.321533644319
+['41.95 dollar', 'truck']	['city rental']	0.0737139440912
+['41.95 dollar', 'truck']	['38.95 dollar']	0.522652815483
+['41.95 dollar', 'truck']	['0.31 dollar']	0.522652815483
+['41.95 dollar', 'truck']	['mileage']	0.718434289891
+['41.95 dollar', 'truck']	['cost']	0.182729929366
+['dollar', 'truck']	['safety rent']	0.0982347768443
+['dollar', 'truck']	['41.95 dollar']	0.423574257389
+['dollar', 'truck']	['0.29 dollar']	0.442012633359
+['dollar', 'truck']	['mile']	0.0723048618327
+['dollar', 'truck']	['city rental']	0.0982347768443
+['dollar', 'truck']	['38.95 dollar']	0.423574257389
+['dollar', 'truck']	['0.31 dollar']	0.442012633359
+['dollar', 'truck']	['mileage']	0.271023093079
+['dollar', 'truck']	['cost']	0.127188623675
+['0.29 dollar', 'truck']	['safety rent']	0.0737139440912
+['0.29 dollar', 'truck']	['41.95 dollar']	0.522652815483
+['0.29 dollar', 'truck']	['dollar']	0.731337026459
+['0.29 dollar', 'truck']	['mile']	0.321533644319
+['0.29 dollar', 'truck']	['city rental']	0.0737139440912
+['0.29 dollar', 'truck']	['38.95 dollar']	0.522652815483
+['0.29 dollar', 'truck']	['0.31 dollar']	0.522652815483
+['0.29 dollar', 'truck']	['mileage']	0.718434289891
+['0.29 dollar', 'truck']	['cost']	0.182729929366
+['mile', 'truck']	['safety rent']	0.0786120076541
+['mile', 'truck']	['41.95 dollar']	0.0787871379671
+['mile', 'truck']	['dollar']	0.0723048618327
+['mile', 'truck']	['0.29 dollar']	0.0787871379671
+['mile', 'truck']	['city rental']	0.0774382987339
+['mile', 'truck']	['38.95 dollar']	0.0787871379671
+['mile', 'truck']	['0.31 dollar']	0.0787871379671
+['mile', 'truck']	['mileage']	0.311526386526
+['mile', 'truck']	['cost']	0.0870346415677
+['city rental', 'truck']	['safety rent']	0.074092754852
+['city rental', 'truck']	['41.95 dollar']	0.0737139440912
+['city rental', 'truck']	['dollar']	0.353875909714
+['city rental', 'truck']	['0.29 dollar']	0.0737139440912
+['city rental', 'truck']	['mile']	0.204866977652
+['city rental', 'truck']	['38.95 dollar']	0.0737139440912
+['city rental', 'truck']	['0.31 dollar']	0.0737139440912
+['city rental', 'truck']	['mileage']	0.744929762239
+['city rental', 'truck']	['cost']	0.213391903471
+['38.95 dollar', 'truck']	['safety rent']	0.0737139440912
+['38.95 dollar', 'truck']	['41.95 dollar']	0.522652815483
+['38.95 dollar', 'truck']	['dollar']	0.700060655151
+['38.95 dollar', 'truck']	['0.29 dollar']	0.522652815483
+['38.95 dollar', 'truck']	['mile']	0.321533644319
+['38.95 dollar', 'truck']	['city rental']	0.0737139440912
+['38.95 dollar', 'truck']	['0.31 dollar']	0.522652815483
+['38.95 dollar', 'truck']	['mileage']	0.718434289891
+['38.95 dollar', 'truck']	['cost']	0.182729929366
+['0.31 dollar', 'truck']	['safety rent']	0.0737139440912
+['0.31 dollar', 'truck']	['41.95 dollar']	0.522652815483
+['0.31 dollar', 'truck']	['dollar']	0.731337026459
+['0.31 dollar', 'truck']	['0.29 dollar']	0.522652815483
+['0.31 dollar', 'truck']	['mile']	0.321533644319
+['0.31 dollar', 'truck']	['city rental']	0.0737139440912
+['0.31 dollar', 'truck']	['38.95 dollar']	0.522652815483
+['0.31 dollar', 'truck']	['mileage']	0.718434289891
+['0.31 dollar', 'truck']	['cost']	0.182729929366
+['mileage', 'truck']	['safety rent']	0.0696933362217
+['mileage', 'truck']	['41.95 dollar']	0.0696933362217
+['mileage', 'truck']	['dollar']	0.141733217307
+['mileage', 'truck']	['0.29 dollar']	0.0696933362217
+['mileage', 'truck']	['mile']	0.161924062485
+['mileage', 'truck']	['city rental']	0.0703393045902
+['mileage', 'truck']	['38.95 dollar']	0.0696933362217
+['mileage', 'truck']	['0.31 dollar']	0.0696933362217
+['mileage', 'truck']	['cost']	0.460917998876
+['cost', 'truck']	['safety rent']	0.0737139440912
+['cost', 'truck']	['41.95 dollar']	0.0737139440912
+['cost', 'truck']	['dollar']	0.0954127874726
+['cost', 'truck']	['0.29 dollar']	0.0737139440912
+['cost', 'truck']	['mile']	0.0369630681137
+['cost', 'truck']	['city rental']	0.0737139440912
+['cost', 'truck']	['38.95 dollar']	0.0737139440912
+['cost', 'truck']	['0.31 dollar']	0.0737139440912
+['cost', 'truck']	['mileage']	0.339920918961
+['safety rent', '41.95 dollar']	['truck']	0.079730351659
+['safety rent', '41.95 dollar']	['dollar']	0.330638547154
+['safety rent', '41.95 dollar']	['0.29 dollar']	0.584269096576
+['safety rent', '41.95 dollar']	['mile']	0.0077840051964
+['safety rent', '41.95 dollar']	['city rental']	0.0871340391838
+['safety rent', '41.95 dollar']	['38.95 dollar']	0.584269096576
+['safety rent', '41.95 dollar']	['0.31 dollar']	0.584269096576
+['safety rent', '41.95 dollar']	['mileage']	0.0777864840342
+['safety rent', '41.95 dollar']	['cost']	0.0777864840342
+['truck', '41.95 dollar']	['safety rent']	0.0737139440912
+['truck', '41.95 dollar']	['dollar']	0.700060655151
+['truck', '41.95 dollar']	['0.29 dollar']	0.522652815483
+['truck', '41.95 dollar']	['mile']	0.321533644319
+['truck', '41.95 dollar']	['city rental']	0.0737139440912
+['truck', '41.95 dollar']	['38.95 dollar']	0.522652815483
+['truck', '41.95 dollar']	['0.31 dollar']	0.522652815483
+['truck', '41.95 dollar']	['mileage']	0.718434289891
+['truck', '41.95 dollar']	['cost']	0.182729929366
+['dollar', '41.95 dollar']	['safety rent']	0.0968024870635
+['dollar', '41.95 dollar']	['truck']	0.563039610077
+['dollar', '41.95 dollar']	['0.29 dollar']	0.676555862245
+['dollar', '41.95 dollar']	['mile']	0.519984326019
+['dollar', '41.95 dollar']	['city rental']	0.150377262293
+['dollar', '41.95 dollar']	['38.95 dollar']	0.673554873378
+['dollar', '41.95 dollar']	['0.31 dollar']	0.676555862245
+['dollar', '41.95 dollar']	['mileage']	0.417015692059
+['dollar', '41.95 dollar']	['cost']	0.360703916441
+['0.29 dollar', '41.95 dollar']	['safety rent']	0.139258682248
+['0.29 dollar', '41.95 dollar']	['truck']	0.33665242287
+['0.29 dollar', '41.95 dollar']	['dollar']	0.7704782646
+['0.29 dollar', '41.95 dollar']	['mile']	0.158200563902
+['0.29 dollar', '41.95 dollar']	['city rental']	0.139258682248
+['0.29 dollar', '41.95 dollar']	['38.95 dollar']	0.637144068101
+['0.29 dollar', '41.95 dollar']	['0.31 dollar']	0.637144068101
+['0.29 dollar', '41.95 dollar']	['mileage']	0.383475193417
+['0.29 dollar', '41.95 dollar']	['cost']	0.327028499836
+['mile', '41.95 dollar']	['safety rent']	0.0165341599722
+['mile', '41.95 dollar']	['truck']	0.180033629449
+['mile', '41.95 dollar']	['dollar']	0.549746986756
+['mile', '41.95 dollar']	['0.29 dollar']	0.119282229775
+['mile', '41.95 dollar']	['city rental']	0.015360451052
+['mile', '41.95 dollar']	['38.95 dollar']	0.119282229775
+['mile', '41.95 dollar']	['0.31 dollar']	0.119282229775
+['mile', '41.95 dollar']	['mileage']	0.320877754391
+['mile', '41.95 dollar']	['cost']	0.130169184584
+['city rental', '41.95 dollar']	['safety rent']	0.0871340391838
+['city rental', '41.95 dollar']	['truck']	0.079730351659
+['city rental', '41.95 dollar']	['dollar']	0.483545532435
+['city rental', '41.95 dollar']	['0.29 dollar']	0.584269096576
+['city rental', '41.95 dollar']	['mile']	0.017587926765
+['city rental', '41.95 dollar']	['38.95 dollar']	0.584269096576
+['city rental', '41.95 dollar']	['0.31 dollar']	0.584269096576
+['city rental', '41.95 dollar']	['mileage']	0.0744376594044
+['city rental', '41.95 dollar']	['cost']	0.0744376594044
+['38.95 dollar', '41.95 dollar']	['safety rent']	0.139258682248
+['38.95 dollar', '41.95 dollar']	['truck']	0.33665242287
+['38.95 dollar', '41.95 dollar']	['dollar']	0.78360725835
+['38.95 dollar', '41.95 dollar']	['0.29 dollar']	0.637144068101
+['38.95 dollar', '41.95 dollar']	['mile']	0.158200563902
+['38.95 dollar', '41.95 dollar']	['city rental']	0.139258682248
+['38.95 dollar', '41.95 dollar']	['0.31 dollar']	0.637144068101
+['38.95 dollar', '41.95 dollar']	['mileage']	0.383475193417
+['38.95 dollar', '41.95 dollar']	['cost']	0.327028499836
+['0.31 dollar', '41.95 dollar']	['safety rent']	0.139258682248
+['0.31 dollar', '41.95 dollar']	['truck']	0.33665242287
+['0.31 dollar', '41.95 dollar']	['dollar']	0.7704782646
+['0.31 dollar', '41.95 dollar']	['0.29 dollar']	0.637144068101
+['0.31 dollar', '41.95 dollar']	['mile']	0.158200563902
+['0.31 dollar', '41.95 dollar']	['city rental']	0.139258682248
+['0.31 dollar', '41.95 dollar']	['38.95 dollar']	0.637144068101
+['0.31 dollar', '41.95 dollar']	['mileage']	0.383475193417
+['0.31 dollar', '41.95 dollar']	['cost']	0.327028499836
+['mileage', '41.95 dollar']	['safety rent']	0.0827346205535
+['mileage', '41.95 dollar']	['truck']	0.748002867908
+['mileage', '41.95 dollar']	['dollar']	0.669499315655
+['mileage', '41.95 dollar']	['0.29 dollar']	0.538007739106
+['mileage', '41.95 dollar']	['mile']	0.171160936721
+['mileage', '41.95 dollar']	['city rental']	0.0833805889219
+['mileage', '41.95 dollar']	['38.95 dollar']	0.538007739106
+['mileage', '41.95 dollar']	['0.31 dollar']	0.538007739106
+['mileage', '41.95 dollar']	['cost']	0.774279609591
+['cost', '41.95 dollar']	['safety rent']	0.0901100077042
+['cost', '41.95 dollar']	['truck']	0.192648399091
+['cost', '41.95 dollar']	['dollar']	0.663743622073
+['cost', '41.95 dollar']	['0.29 dollar']	0.584269096576
+['cost', '41.95 dollar']	['mile']	0.181396820829
+['cost', '41.95 dollar']	['city rental']	0.0901100077042
+['cost', '41.95 dollar']	['38.95 dollar']	0.584269096576
+['cost', '41.95 dollar']	['0.31 dollar']	0.584269096576
+['cost', '41.95 dollar']	['mileage']	0.772898516077
+['safety rent', 'dollar']	['truck']	0.432681219725
+['safety rent', 'dollar']	['41.95 dollar']	0.423574257389
+['safety rent', 'dollar']	['0.29 dollar']	0.442012633359
+['safety rent', 'dollar']	['mile']	0.200351643886
+['safety rent', 'dollar']	['city rental']	0.0406236052701
+['safety rent', 'dollar']	['38.95 dollar']	0.423574257389
+['safety rent', 'dollar']	['0.31 dollar']	0.442012633359
+['safety rent', 'dollar']	['mileage']	0.188813087362
+['safety rent', 'dollar']	['cost']	0.226687137615
+['truck', 'dollar']	['safety rent']	0.0982347768443
+['truck', 'dollar']	['41.95 dollar']	0.423574257389
+['truck', 'dollar']	['0.29 dollar']	0.442012633359
+['truck', 'dollar']	['mile']	0.0723048618327
+['truck', 'dollar']	['city rental']	0.0982347768443
+['truck', 'dollar']	['38.95 dollar']	0.423574257389
+['truck', 'dollar']	['0.31 dollar']	0.442012633359
+['truck', 'dollar']	['mileage']	0.271023093079
+['truck', 'dollar']	['cost']	0.127188623675
+['41.95 dollar', 'dollar']	['safety rent']	0.0968024870635
+['41.95 dollar', 'dollar']	['truck']	0.563039610077
+['41.95 dollar', 'dollar']	['0.29 dollar']	0.676555862245
+['41.95 dollar', 'dollar']	['mile']	0.519984326019
+['41.95 dollar', 'dollar']	['city rental']	0.150377262293
+['41.95 dollar', 'dollar']	['38.95 dollar']	0.673554873378
+['41.95 dollar', 'dollar']	['0.31 dollar']	0.676555862245
+['41.95 dollar', 'dollar']	['mileage']	0.417015692059
+['41.95 dollar', 'dollar']	['cost']	0.360703916441
+['0.29 dollar', 'dollar']	['safety rent']	0.0968024870635
+['0.29 dollar', 'dollar']	['truck']	0.563039610077
+['0.29 dollar', 'dollar']	['41.95 dollar']	0.673554873378
+['0.29 dollar', 'dollar']	['mile']	0.519984326019
+['0.29 dollar', 'dollar']	['city rental']	0.150377262293
+['0.29 dollar', 'dollar']	['38.95 dollar']	0.673554873378
+['0.29 dollar', 'dollar']	['0.31 dollar']	0.676555862245
+['0.29 dollar', 'dollar']	['mileage']	0.417015692059
+['0.29 dollar', 'dollar']	['cost']	0.360703916441
+['mile', 'dollar']	['safety rent']	0.0713303637771
+['mile', 'dollar']	['truck']	0.0736221117794
+['mile', 'dollar']	['41.95 dollar']	0.431844529442
+['mile', 'dollar']	['0.29 dollar']	0.397746056993
+['mile', 'dollar']	['city rental']	0.0701566548569
+['mile', 'dollar']	['38.95 dollar']	0.431844529442
+['mile', 'dollar']	['0.31 dollar']	0.397746056993
+['mile', 'dollar']	['mileage']	0.160657051282
+['mile', 'dollar']	['cost']	0.0957802011624
+['city rental', 'dollar']	['safety rent']	0.0406236052701
+['city rental', 'dollar']	['truck']	0.463557288101
+['city rental', 'dollar']	['41.95 dollar']	0.423574257389
+['city rental', 'dollar']	['0.29 dollar']	0.442012633359
+['city rental', 'dollar']	['mile']	0.237444643479
+['city rental', 'dollar']	['38.95 dollar']	0.423574257389
+['city rental', 'dollar']	['0.31 dollar']	0.442012633359
+['city rental', 'dollar']	['mileage']	0.213812197206
+['city rental', 'dollar']	['cost']	0.308086503849
+['38.95 dollar', 'dollar']	['safety rent']	0.0968024870635
+['38.95 dollar', 'dollar']	['truck']	0.563039610077
+['38.95 dollar', 'dollar']	['41.95 dollar']	0.673554873378
+['38.95 dollar', 'dollar']	['0.29 dollar']	0.676555862245
+['38.95 dollar', 'dollar']	['mile']	0.519984326019
+['38.95 dollar', 'dollar']	['city rental']	0.150377262293
+['38.95 dollar', 'dollar']	['0.31 dollar']	0.676555862245
+['38.95 dollar', 'dollar']	['mileage']	0.417015692059
+['38.95 dollar', 'dollar']	['cost']	0.360703916441
+['0.31 dollar', 'dollar']	['safety rent']	0.0968024870635
+['0.31 dollar', 'dollar']	['truck']	0.563039610077
+['0.31 dollar', 'dollar']	['41.95 dollar']	0.673554873378
+['0.31 dollar', 'dollar']	['0.29 dollar']	0.676555862245
+['0.31 dollar', 'dollar']	['mile']	0.519984326019
+['0.31 dollar', 'dollar']	['city rental']	0.150377262293
+['0.31 dollar', 'dollar']	['38.95 dollar']	0.673554873378
+['0.31 dollar', 'dollar']	['mileage']	0.417015692059
+['0.31 dollar', 'dollar']	['cost']	0.360703916441
+['mileage', 'dollar']	['safety rent']	0.0361569291624
+['mileage', 'dollar']	['truck']	0.0842200772761
+['mileage', 'dollar']	['41.95 dollar']	0.534859236591
+['mileage', 'dollar']	['0.29 dollar']	0.553297612561
+['mileage', 'dollar']	['mile']	0.228540903541
+['mileage', 'dollar']	['city rental']	0.0368701550083
+['mileage', 'dollar']	['38.95 dollar']	0.534859236591
+['mileage', 'dollar']	['0.31 dollar']	0.553297612561
+['mileage', 'dollar']	['cost']	0.351278637376
+['cost', 'dollar']	['safety rent']	0.0361569291624
+['cost', 'dollar']	['truck']	0.199975137267
+['cost', 'dollar']	['41.95 dollar']	0.423574257389
+['cost', 'dollar']	['0.29 dollar']	0.442012633359
+['cost', 'dollar']	['mile']	0.0561022718728
+['cost', 'dollar']	['city rental']	0.0361569291624
+['cost', 'dollar']	['38.95 dollar']	0.423574257389
+['cost', 'dollar']	['0.31 dollar']	0.442012633359
+['cost', 'dollar']	['mileage']	0.37717673161
+['safety rent', '0.29 dollar']	['truck']	0.079730351659
+['safety rent', '0.29 dollar']	['41.95 dollar']	0.584269096576
+['safety rent', '0.29 dollar']	['dollar']	0.351161209422
+['safety rent', '0.29 dollar']	['mile']	0.0077840051964
+['safety rent', '0.29 dollar']	['city rental']	0.0871340391838
+['safety rent', '0.29 dollar']	['38.95 dollar']	0.584269096576
+['safety rent', '0.29 dollar']	['0.31 dollar']	0.584269096576
+['safety rent', '0.29 dollar']	['mileage']	0.0777864840342
+['safety rent', '0.29 dollar']	['cost']	0.0777864840342
+['truck', '0.29 dollar']	['safety rent']	0.0737139440912
+['truck', '0.29 dollar']	['41.95 dollar']	0.522652815483
+['truck', '0.29 dollar']	['dollar']	0.731337026459
+['truck', '0.29 dollar']	['mile']	0.321533644319
+['truck', '0.29 dollar']	['city rental']	0.0737139440912
+['truck', '0.29 dollar']	['38.95 dollar']	0.522652815483
+['truck', '0.29 dollar']	['0.31 dollar']	0.522652815483
+['truck', '0.29 dollar']	['mileage']	0.718434289891
+['truck', '0.29 dollar']	['cost']	0.182729929366
+['41.95 dollar', '0.29 dollar']	['safety rent']	0.139258682248
+['41.95 dollar', '0.29 dollar']	['truck']	0.33665242287
+['41.95 dollar', '0.29 dollar']	['dollar']	0.7704782646
+['41.95 dollar', '0.29 dollar']	['mile']	0.158200563902
+['41.95 dollar', '0.29 dollar']	['city rental']	0.139258682248
+['41.95 dollar', '0.29 dollar']	['38.95 dollar']	0.637144068101
+['41.95 dollar', '0.29 dollar']	['0.31 dollar']	0.637144068101
+['41.95 dollar', '0.29 dollar']	['mileage']	0.383475193417
+['41.95 dollar', '0.29 dollar']	['cost']	0.327028499836
+['dollar', '0.29 dollar']	['safety rent']	0.0968024870635
+['dollar', '0.29 dollar']	['truck']	0.563039610077
+['dollar', '0.29 dollar']	['41.95 dollar']	0.673554873378
+['dollar', '0.29 dollar']	['mile']	0.519984326019
+['dollar', '0.29 dollar']	['city rental']	0.150377262293
+['dollar', '0.29 dollar']	['38.95 dollar']	0.673554873378
+['dollar', '0.29 dollar']	['0.31 dollar']	0.676555862245
+['dollar', '0.29 dollar']	['mileage']	0.417015692059
+['dollar', '0.29 dollar']	['cost']	0.360703916441
+['mile', '0.29 dollar']	['safety rent']	0.0165341599722
+['mile', '0.29 dollar']	['truck']	0.180033629449
+['mile', '0.29 dollar']	['41.95 dollar']	0.119282229775
+['mile', '0.29 dollar']	['dollar']	0.529622873281
+['mile', '0.29 dollar']	['city rental']	0.015360451052
+['mile', '0.29 dollar']	['38.95 dollar']	0.119282229775
+['mile', '0.29 dollar']	['0.31 dollar']	0.119282229775
+['mile', '0.29 dollar']	['mileage']	0.320877754391
+['mile', '0.29 dollar']	['cost']	0.130169184584
+['city rental', '0.29 dollar']	['safety rent']	0.0871340391838
+['city rental', '0.29 dollar']	['truck']	0.079730351659
+['city rental', '0.29 dollar']	['41.95 dollar']	0.584269096576
+['city rental', '0.29 dollar']	['dollar']	0.500847544769
+['city rental', '0.29 dollar']	['mile']	0.017587926765
+['city rental', '0.29 dollar']	['38.95 dollar']	0.584269096576
+['city rental', '0.29 dollar']	['0.31 dollar']	0.584269096576
+['city rental', '0.29 dollar']	['mileage']	0.0744376594044
+['city rental', '0.29 dollar']	['cost']	0.0744376594044
+['38.95 dollar', '0.29 dollar']	['safety rent']	0.139258682248
+['38.95 dollar', '0.29 dollar']	['truck']	0.33665242287
+['38.95 dollar', '0.29 dollar']	['41.95 dollar']	0.637144068101
+['38.95 dollar', '0.29 dollar']	['dollar']	0.7704782646
+['38.95 dollar', '0.29 dollar']	['mile']	0.158200563902
+['38.95 dollar', '0.29 dollar']	['city rental']	0.139258682248
+['38.95 dollar', '0.29 dollar']	['0.31 dollar']	0.637144068101
+['38.95 dollar', '0.29 dollar']	['mileage']	0.383475193417
+['38.95 dollar', '0.29 dollar']	['cost']	0.327028499836
+['0.31 dollar', '0.29 dollar']	['safety rent']	0.139258682248
+['0.31 dollar', '0.29 dollar']	['truck']	0.33665242287
+['0.31 dollar', '0.29 dollar']	['41.95 dollar']	0.637144068101
+['0.31 dollar', '0.29 dollar']	['dollar']	0.740769402763
+['0.31 dollar', '0.29 dollar']	['mile']	0.158200563902
+['0.31 dollar', '0.29 dollar']	['city rental']	0.139258682248
+['0.31 dollar', '0.29 dollar']	['38.95 dollar']	0.637144068101
+['0.31 dollar', '0.29 dollar']	['mileage']	0.383475193417
+['0.31 dollar', '0.29 dollar']	['cost']	0.327028499836
+['mileage', '0.29 dollar']	['safety rent']	0.0827346205535
+['mileage', '0.29 dollar']	['truck']	0.748002867908
+['mileage', '0.29 dollar']	['41.95 dollar']	0.538007739106
+['mileage', '0.29 dollar']	['dollar']	0.707659744934
+['mileage', '0.29 dollar']	['mile']	0.171160936721
+['mileage', '0.29 dollar']	['city rental']	0.0833805889219
+['mileage', '0.29 dollar']	['38.95 dollar']	0.538007739106
+['mileage', '0.29 dollar']	['0.31 dollar']	0.538007739106
+['mileage', '0.29 dollar']	['cost']	0.774279609591
+['cost', '0.29 dollar']	['safety rent']	0.0901100077042
+['cost', '0.29 dollar']	['truck']	0.192648399091
+['cost', '0.29 dollar']	['41.95 dollar']	0.584269096576
+['cost', '0.29 dollar']	['dollar']	0.703353326714
+['cost', '0.29 dollar']	['mile']	0.181396820829
+['cost', '0.29 dollar']	['city rental']	0.0901100077042
+['cost', '0.29 dollar']	['38.95 dollar']	0.584269096576
+['cost', '0.29 dollar']	['0.31 dollar']	0.584269096576
+['cost', '0.29 dollar']	['mileage']	0.772898516077
+['safety rent', 'mile']	['truck']	0.182490894406
+['safety rent', 'mile']	['41.95 dollar']	0.0221369896995
+['safety rent', 'mile']	['dollar']	0.200351643886
+['safety rent', 'mile']	['0.29 dollar']	0.0221369896995
+['safety rent', 'mile']	['city rental']	0.0154105889865
+['safety rent', 'mile']	['38.95 dollar']	0.0221369896995
+['safety rent', 'mile']	['0.31 dollar']	0.0221369896995
+['safety rent', 'mile']	['mileage']	0.175851044989
+['safety rent', 'mile']	['cost']	0.115952071458
+['truck', 'mile']	['safety rent']	0.0786120076541
+['truck', 'mile']	['41.95 dollar']	0.0787871379671
+['truck', 'mile']	['dollar']	0.0723048618327
+['truck', 'mile']	['0.29 dollar']	0.0787871379671
+['truck', 'mile']	['city rental']	0.0774382987339
+['truck', 'mile']	['38.95 dollar']	0.0787871379671
+['truck', 'mile']	['0.31 dollar']	0.0787871379671
+['truck', 'mile']	['mileage']	0.311526386526
+['truck', 'mile']	['cost']	0.0870346415677
+['41.95 dollar', 'mile']	['safety rent']	0.0165341599722
+['41.95 dollar', 'mile']	['truck']	0.180033629449
+['41.95 dollar', 'mile']	['dollar']	0.549746986756
+['41.95 dollar', 'mile']	['0.29 dollar']	0.119282229775
+['41.95 dollar', 'mile']	['city rental']	0.015360451052
+['41.95 dollar', 'mile']	['38.95 dollar']	0.119282229775
+['41.95 dollar', 'mile']	['0.31 dollar']	0.119282229775
+['41.95 dollar', 'mile']	['mileage']	0.320877754391
+['41.95 dollar', 'mile']	['cost']	0.130169184584
+['dollar', 'mile']	['safety rent']	0.0713303637771
+['dollar', 'mile']	['truck']	0.0736221117794
+['dollar', 'mile']	['41.95 dollar']	0.431844529442
+['dollar', 'mile']	['0.29 dollar']	0.397746056993
+['dollar', 'mile']	['city rental']	0.0701566548569
+['dollar', 'mile']	['38.95 dollar']	0.431844529442
+['dollar', 'mile']	['0.31 dollar']	0.397746056993
+['dollar', 'mile']	['mileage']	0.160657051282
+['dollar', 'mile']	['cost']	0.0957802011624
+['0.29 dollar', 'mile']	['safety rent']	0.0165341599722
+['0.29 dollar', 'mile']	['truck']	0.180033629449
+['0.29 dollar', 'mile']	['41.95 dollar']	0.119282229775
+['0.29 dollar', 'mile']	['dollar']	0.529622873281
+['0.29 dollar', 'mile']	['city rental']	0.015360451052
+['0.29 dollar', 'mile']	['38.95 dollar']	0.119282229775
+['0.29 dollar', 'mile']	['0.31 dollar']	0.119282229775
+['0.29 dollar', 'mile']	['mileage']	0.320877754391
+['0.29 dollar', 'mile']	['cost']	0.130169184584
+['city rental', 'mile']	['safety rent']	0.0154105889865
+['city rental', 'mile']	['truck']	0.180033629449
+['city rental', 'mile']	['41.95 dollar']	0.0221369896995
+['city rental', 'mile']	['dollar']	0.237444643479
+['city rental', 'mile']	['0.29 dollar']	0.0221369896995
+['city rental', 'mile']	['38.95 dollar']	0.0221369896995
+['city rental', 'mile']	['0.31 dollar']	0.0221369896995
+['city rental', 'mile']	['mileage']	0.245917436931
+['city rental', 'mile']	['cost']	0.163893492312
+['38.95 dollar', 'mile']	['safety rent']	0.0165341599722
+['38.95 dollar', 'mile']	['truck']	0.180033629449
+['38.95 dollar', 'mile']	['41.95 dollar']	0.119282229775
+['38.95 dollar', 'mile']	['dollar']	0.549746986756
+['38.95 dollar', 'mile']	['0.29 dollar']	0.119282229775
+['38.95 dollar', 'mile']	['city rental']	0.015360451052
+['38.95 dollar', 'mile']	['0.31 dollar']	0.119282229775
+['38.95 dollar', 'mile']	['mileage']	0.320877754391
+['38.95 dollar', 'mile']	['cost']	0.130169184584
+['0.31 dollar', 'mile']	['safety rent']	0.0165341599722
+['0.31 dollar', 'mile']	['truck']	0.180033629449
+['0.31 dollar', 'mile']	['41.95 dollar']	0.119282229775
+['0.31 dollar', 'mile']	['dollar']	0.529622873281
+['0.31 dollar', 'mile']	['0.29 dollar']	0.119282229775
+['0.31 dollar', 'mile']	['city rental']	0.015360451052
+['0.31 dollar', 'mile']	['38.95 dollar']	0.119282229775
+['0.31 dollar', 'mile']	['mileage']	0.320877754391
+['0.31 dollar', 'mile']	['cost']	0.130169184584
+['mileage', 'mile']	['safety rent']	0.0165341599722
+['mileage', 'mile']	['truck']	0.0670865697521
+['mileage', 'mile']	['41.95 dollar']	0.0311160689586
+['mileage', 'mile']	['dollar']	0.0644356052061
+['mileage', 'mile']	['0.29 dollar']	0.0311160689586
+['mileage', 'mile']	['city rental']	0.0160064194205
+['mileage', 'mile']	['38.95 dollar']	0.0311160689586
+['mileage', 'mile']	['0.31 dollar']	0.0311160689586
+['mileage', 'mile']	['cost']	0.209390804894
+['cost', 'mile']	['safety rent']	0.0165341599722
+['cost', 'mile']	['truck']	0.0731923922809
+['cost', 'mile']	['41.95 dollar']	0.0221369896995
+['cost', 'mile']	['dollar']	0.0394964628825
+['cost', 'mile']	['0.29 dollar']	0.0221369896995
+['cost', 'mile']	['city rental']	0.015360451052
+['cost', 'mile']	['38.95 dollar']	0.0221369896995
+['cost', 'mile']	['0.31 dollar']	0.0221369896995
+['cost', 'mile']	['mileage']	0.301736596737
+['safety rent', 'city rental']	['truck']	0.079730351659
+['safety rent', 'city rental']	['41.95 dollar']	0.0901100077042
+['safety rent', 'city rental']	['dollar']	0.0132263547461
+['safety rent', 'city rental']	['0.29 dollar']	0.0901100077042
+['safety rent', 'city rental']	['mile']	0.00424649792755
+['safety rent', 'city rental']	['38.95 dollar']	0.0901100077042
+['safety rent', 'city rental']	['0.31 dollar']	0.0901100077042
+['safety rent', 'city rental']	['mileage']	0.0777864840342
+['safety rent', 'city rental']	['cost']	0.0777864840342
+['truck', 'city rental']	['safety rent']	0.074092754852
+['truck', 'city rental']	['41.95 dollar']	0.0737139440912
+['truck', 'city rental']	['dollar']	0.353875909714
+['truck', 'city rental']	['0.29 dollar']	0.0737139440912
+['truck', 'city rental']	['mile']	0.204866977652
+['truck', 'city rental']	['38.95 dollar']	0.0737139440912
+['truck', 'city rental']	['0.31 dollar']	0.0737139440912
+['truck', 'city rental']	['mileage']	0.744929762239
+['truck', 'city rental']	['cost']	0.213391903471
+['41.95 dollar', 'city rental']	['safety rent']	0.0871340391838
+['41.95 dollar', 'city rental']	['truck']	0.079730351659
+['41.95 dollar', 'city rental']	['dollar']	0.483545532435
+['41.95 dollar', 'city rental']	['0.29 dollar']	0.584269096576
+['41.95 dollar', 'city rental']	['mile']	0.017587926765
+['41.95 dollar', 'city rental']	['38.95 dollar']	0.584269096576
+['41.95 dollar', 'city rental']	['0.31 dollar']	0.584269096576
+['41.95 dollar', 'city rental']	['mileage']	0.0744376594044
+['41.95 dollar', 'city rental']	['cost']	0.0744376594044
+['dollar', 'city rental']	['safety rent']	0.0406236052701
+['dollar', 'city rental']	['truck']	0.463557288101
+['dollar', 'city rental']	['41.95 dollar']	0.423574257389
+['dollar', 'city rental']	['0.29 dollar']	0.442012633359
+['dollar', 'city rental']	['mile']	0.237444643479
+['dollar', 'city rental']	['38.95 dollar']	0.423574257389
+['dollar', 'city rental']	['0.31 dollar']	0.442012633359
+['dollar', 'city rental']	['mileage']	0.213812197206
+['dollar', 'city rental']	['cost']	0.308086503849
+['0.29 dollar', 'city rental']	['safety rent']	0.0871340391838
+['0.29 dollar', 'city rental']	['truck']	0.079730351659
+['0.29 dollar', 'city rental']	['41.95 dollar']	0.584269096576
+['0.29 dollar', 'city rental']	['dollar']	0.500847544769
+['0.29 dollar', 'city rental']	['mile']	0.017587926765
+['0.29 dollar', 'city rental']	['38.95 dollar']	0.584269096576
+['0.29 dollar', 'city rental']	['0.31 dollar']	0.584269096576
+['0.29 dollar', 'city rental']	['mileage']	0.0744376594044
+['0.29 dollar', 'city rental']	['cost']	0.0744376594044
+['mile', 'city rental']	['safety rent']	0.0154105889865
+['mile', 'city rental']	['truck']	0.180033629449
+['mile', 'city rental']	['41.95 dollar']	0.0221369896995
+['mile', 'city rental']	['dollar']	0.237444643479
+['mile', 'city rental']	['0.29 dollar']	0.0221369896995
+['mile', 'city rental']	['38.95 dollar']	0.0221369896995
+['mile', 'city rental']	['0.31 dollar']	0.0221369896995
+['mile', 'city rental']	['mileage']	0.245917436931
+['mile', 'city rental']	['cost']	0.163893492312
+['38.95 dollar', 'city rental']	['safety rent']	0.0871340391838
+['38.95 dollar', 'city rental']	['truck']	0.079730351659
+['38.95 dollar', 'city rental']	['41.95 dollar']	0.584269096576
+['38.95 dollar', 'city rental']	['dollar']	0.483545532435
+['38.95 dollar', 'city rental']	['0.29 dollar']	0.584269096576
+['38.95 dollar', 'city rental']	['mile']	0.017587926765
+['38.95 dollar', 'city rental']	['0.31 dollar']	0.584269096576
+['38.95 dollar', 'city rental']	['mileage']	0.0744376594044
+['38.95 dollar', 'city rental']	['cost']	0.0744376594044
+['0.31 dollar', 'city rental']	['safety rent']	0.0871340391838
+['0.31 dollar', 'city rental']	['truck']	0.079730351659
+['0.31 dollar', 'city rental']	['41.95 dollar']	0.584269096576
+['0.31 dollar', 'city rental']	['dollar']	0.500847544769
+['0.31 dollar', 'city rental']	['0.29 dollar']	0.584269096576
+['0.31 dollar', 'city rental']	['mile']	0.017587926765
+['0.31 dollar', 'city rental']	['38.95 dollar']	0.584269096576
+['0.31 dollar', 'city rental']	['mileage']	0.0744376594044
+['0.31 dollar', 'city rental']	['cost']	0.0744376594044
+['mileage', 'city rental']	['safety rent']	0.083785214554
+['mileage', 'city rental']	['truck']	0.748002867908
+['mileage', 'city rental']	['41.95 dollar']	0.0827346205535
+['mileage', 'city rental']	['dollar']	0.177544958195
+['mileage', 'city rental']	['0.29 dollar']	0.0827346205535
+['mileage', 'city rental']	['mile']	0.260327603388
+['mileage', 'city rental']	['38.95 dollar']	0.0827346205535
+['mileage', 'city rental']	['0.31 dollar']	0.0827346205535
+['mileage', 'city rental']	['cost']	0.865742207226
+['cost', 'city rental']	['safety rent']	0.0871340391838
+['cost', 'city rental']	['truck']	0.192648399091
+['cost', 'city rental']	['41.95 dollar']	0.0901100077042
+['cost', 'city rental']	['dollar']	0.234448851769
+['cost', 'city rental']	['0.29 dollar']	0.0901100077042
+['cost', 'city rental']	['mile']	0.140098119531
+['cost', 'city rental']	['38.95 dollar']	0.0901100077042
+['cost', 'city rental']	['0.31 dollar']	0.0901100077042
+['cost', 'city rental']	['mileage']	0.80623184941
+['safety rent', '38.95 dollar']	['truck']	0.079730351659
+['safety rent', '38.95 dollar']	['41.95 dollar']	0.584269096576
+['safety rent', '38.95 dollar']	['dollar']	0.330638547154
+['safety rent', '38.95 dollar']	['0.29 dollar']	0.584269096576
+['safety rent', '38.95 dollar']	['mile']	0.0077840051964
+['safety rent', '38.95 dollar']	['city rental']	0.0871340391838
+['safety rent', '38.95 dollar']	['0.31 dollar']	0.584269096576
+['safety rent', '38.95 dollar']	['mileage']	0.0777864840342
+['safety rent', '38.95 dollar']	['cost']	0.0777864840342
+['truck', '38.95 dollar']	['safety rent']	0.0737139440912
+['truck', '38.95 dollar']	['41.95 dollar']	0.522652815483
+['truck', '38.95 dollar']	['dollar']	0.700060655151
+['truck', '38.95 dollar']	['0.29 dollar']	0.522652815483
+['truck', '38.95 dollar']	['mile']	0.321533644319
+['truck', '38.95 dollar']	['city rental']	0.0737139440912
+['truck', '38.95 dollar']	['0.31 dollar']	0.522652815483
+['truck', '38.95 dollar']	['mileage']	0.718434289891
+['truck', '38.95 dollar']	['cost']	0.182729929366
+['41.95 dollar', '38.95 dollar']	['safety rent']	0.139258682248
+['41.95 dollar', '38.95 dollar']	['truck']	0.33665242287
+['41.95 dollar', '38.95 dollar']	['dollar']	0.78360725835
+['41.95 dollar', '38.95 dollar']	['0.29 dollar']	0.637144068101
+['41.95 dollar', '38.95 dollar']	['mile']	0.158200563902
+['41.95 dollar', '38.95 dollar']	['city rental']	0.139258682248
+['41.95 dollar', '38.95 dollar']	['0.31 dollar']	0.637144068101
+['41.95 dollar', '38.95 dollar']	['mileage']	0.383475193417
+['41.95 dollar', '38.95 dollar']	['cost']	0.327028499836
+['dollar', '38.95 dollar']	['safety rent']	0.0968024870635
+['dollar', '38.95 dollar']	['truck']	0.563039610077
+['dollar', '38.95 dollar']	['41.95 dollar']	0.673554873378
+['dollar', '38.95 dollar']	['0.29 dollar']	0.676555862245
+['dollar', '38.95 dollar']	['mile']	0.519984326019
+['dollar', '38.95 dollar']	['city rental']	0.150377262293
+['dollar', '38.95 dollar']	['0.31 dollar']	0.676555862245
+['dollar', '38.95 dollar']	['mileage']	0.417015692059
+['dollar', '38.95 dollar']	['cost']	0.360703916441
+['0.29 dollar', '38.95 dollar']	['safety rent']	0.139258682248
+['0.29 dollar', '38.95 dollar']	['truck']	0.33665242287
+['0.29 dollar', '38.95 dollar']	['41.95 dollar']	0.637144068101
+['0.29 dollar', '38.95 dollar']	['dollar']	0.7704782646
+['0.29 dollar', '38.95 dollar']	['mile']	0.158200563902
+['0.29 dollar', '38.95 dollar']	['city rental']	0.139258682248
+['0.29 dollar', '38.95 dollar']	['0.31 dollar']	0.637144068101
+['0.29 dollar', '38.95 dollar']	['mileage']	0.383475193417
+['0.29 dollar', '38.95 dollar']	['cost']	0.327028499836
+['mile', '38.95 dollar']	['safety rent']	0.0165341599722
+['mile', '38.95 dollar']	['truck']	0.180033629449
+['mile', '38.95 dollar']	['41.95 dollar']	0.119282229775
+['mile', '38.95 dollar']	['dollar']	0.549746986756
+['mile', '38.95 dollar']	['0.29 dollar']	0.119282229775
+['mile', '38.95 dollar']	['city rental']	0.015360451052
+['mile', '38.95 dollar']	['0.31 dollar']	0.119282229775
+['mile', '38.95 dollar']	['mileage']	0.320877754391
+['mile', '38.95 dollar']	['cost']	0.130169184584
+['city rental', '38.95 dollar']	['safety rent']	0.0871340391838
+['city rental', '38.95 dollar']	['truck']	0.079730351659
+['city rental', '38.95 dollar']	['41.95 dollar']	0.584269096576
+['city rental', '38.95 dollar']	['dollar']	0.483545532435
+['city rental', '38.95 dollar']	['0.29 dollar']	0.584269096576
+['city rental', '38.95 dollar']	['mile']	0.017587926765
+['city rental', '38.95 dollar']	['0.31 dollar']	0.584269096576
+['city rental', '38.95 dollar']	['mileage']	0.0744376594044
+['city rental', '38.95 dollar']	['cost']	0.0744376594044
+['0.31 dollar', '38.95 dollar']	['safety rent']	0.139258682248
+['0.31 dollar', '38.95 dollar']	['truck']	0.33665242287
+['0.31 dollar', '38.95 dollar']	['41.95 dollar']	0.637144068101
+['0.31 dollar', '38.95 dollar']	['dollar']	0.7704782646
+['0.31 dollar', '38.95 dollar']	['0.29 dollar']	0.637144068101
+['0.31 dollar', '38.95 dollar']	['mile']	0.158200563902
+['0.31 dollar', '38.95 dollar']	['city rental']	0.139258682248
+['0.31 dollar', '38.95 dollar']	['mileage']	0.383475193417
+['0.31 dollar', '38.95 dollar']	['cost']	0.327028499836
+['mileage', '38.95 dollar']	['safety rent']	0.0827346205535
+['mileage', '38.95 dollar']	['truck']	0.748002867908
+['mileage', '38.95 dollar']	['41.95 dollar']	0.538007739106
+['mileage', '38.95 dollar']	['dollar']	0.669499315655
+['mileage', '38.95 dollar']	['0.29 dollar']	0.538007739106
+['mileage', '38.95 dollar']	['mile']	0.171160936721
+['mileage', '38.95 dollar']	['city rental']	0.0833805889219
+['mileage', '38.95 dollar']	['0.31 dollar']	0.538007739106
+['mileage', '38.95 dollar']	['cost']	0.774279609591
+['cost', '38.95 dollar']	['safety rent']	0.0901100077042
+['cost', '38.95 dollar']	['truck']	0.192648399091
+['cost', '38.95 dollar']	['41.95 dollar']	0.584269096576
+['cost', '38.95 dollar']	['dollar']	0.663743622073
+['cost', '38.95 dollar']	['0.29 dollar']	0.584269096576
+['cost', '38.95 dollar']	['mile']	0.181396820829
+['cost', '38.95 dollar']	['city rental']	0.0901100077042
+['cost', '38.95 dollar']	['0.31 dollar']	0.584269096576
+['cost', '38.95 dollar']	['mileage']	0.772898516077
+['safety rent', '0.31 dollar']	['truck']	0.079730351659
+['safety rent', '0.31 dollar']	['41.95 dollar']	0.584269096576
+['safety rent', '0.31 dollar']	['dollar']	0.351161209422
+['safety rent', '0.31 dollar']	['0.29 dollar']	0.584269096576
+['safety rent', '0.31 dollar']	['mile']	0.0077840051964
+['safety rent', '0.31 dollar']	['city rental']	0.0871340391838
+['safety rent', '0.31 dollar']	['38.95 dollar']	0.584269096576
+['safety rent', '0.31 dollar']	['mileage']	0.0777864840342
+['safety rent', '0.31 dollar']	['cost']	0.0777864840342
+['truck', '0.31 dollar']	['safety rent']	0.0737139440912
+['truck', '0.31 dollar']	['41.95 dollar']	0.522652815483
+['truck', '0.31 dollar']	['dollar']	0.731337026459
+['truck', '0.31 dollar']	['0.29 dollar']	0.522652815483
+['truck', '0.31 dollar']	['mile']	0.321533644319
+['truck', '0.31 dollar']	['city rental']	0.0737139440912
+['truck', '0.31 dollar']	['38.95 dollar']	0.522652815483
+['truck', '0.31 dollar']	['mileage']	0.718434289891
+['truck', '0.31 dollar']	['cost']	0.182729929366
+['41.95 dollar', '0.31 dollar']	['safety rent']	0.139258682248
+['41.95 dollar', '0.31 dollar']	['truck']	0.33665242287
+['41.95 dollar', '0.31 dollar']	['dollar']	0.7704782646
+['41.95 dollar', '0.31 dollar']	['0.29 dollar']	0.637144068101
+['41.95 dollar', '0.31 dollar']	['mile']	0.158200563902
+['41.95 dollar', '0.31 dollar']	['city rental']	0.139258682248
+['41.95 dollar', '0.31 dollar']	['38.95 dollar']	0.637144068101
+['41.95 dollar', '0.31 dollar']	['mileage']	0.383475193417
+['41.95 dollar', '0.31 dollar']	['cost']	0.327028499836
+['dollar', '0.31 dollar']	['safety rent']	0.0968024870635
+['dollar', '0.31 dollar']	['truck']	0.563039610077
+['dollar', '0.31 dollar']	['41.95 dollar']	0.673554873378
+['dollar', '0.31 dollar']	['0.29 dollar']	0.676555862245
+['dollar', '0.31 dollar']	['mile']	0.519984326019
+['dollar', '0.31 dollar']	['city rental']	0.150377262293
+['dollar', '0.31 dollar']	['38.95 dollar']	0.673554873378
+['dollar', '0.31 dollar']	['mileage']	0.417015692059
+['dollar', '0.31 dollar']	['cost']	0.360703916441
+['0.29 dollar', '0.31 dollar']	['safety rent']	0.139258682248
+['0.29 dollar', '0.31 dollar']	['truck']	0.33665242287
+['0.29 dollar', '0.31 dollar']	['41.95 dollar']	0.637144068101
+['0.29 dollar', '0.31 dollar']	['dollar']	0.740769402763
+['0.29 dollar', '0.31 dollar']	['mile']	0.158200563902
+['0.29 dollar', '0.31 dollar']	['city rental']	0.139258682248
+['0.29 dollar', '0.31 dollar']	['38.95 dollar']	0.637144068101
+['0.29 dollar', '0.31 dollar']	['mileage']	0.383475193417
+['0.29 dollar', '0.31 dollar']	['cost']	0.327028499836
+['mile', '0.31 dollar']	['safety rent']	0.0165341599722
+['mile', '0.31 dollar']	['truck']	0.180033629449
+['mile', '0.31 dollar']	['41.95 dollar']	0.119282229775
+['mile', '0.31 dollar']	['dollar']	0.529622873281
+['mile', '0.31 dollar']	['0.29 dollar']	0.119282229775
+['mile', '0.31 dollar']	['city rental']	0.015360451052
+['mile', '0.31 dollar']	['38.95 dollar']	0.119282229775
+['mile', '0.31 dollar']	['mileage']	0.320877754391
+['mile', '0.31 dollar']	['cost']	0.130169184584
+['city rental', '0.31 dollar']	['safety rent']	0.0871340391838
+['city rental', '0.31 dollar']	['truck']	0.079730351659
+['city rental', '0.31 dollar']	['41.95 dollar']	0.584269096576
+['city rental', '0.31 dollar']	['dollar']	0.500847544769
+['city rental', '0.31 dollar']	['0.29 dollar']	0.584269096576
+['city rental', '0.31 dollar']	['mile']	0.017587926765
+['city rental', '0.31 dollar']	['38.95 dollar']	0.584269096576
+['city rental', '0.31 dollar']	['mileage']	0.0744376594044
+['city rental', '0.31 dollar']	['cost']	0.0744376594044
+['38.95 dollar', '0.31 dollar']	['safety rent']	0.139258682248
+['38.95 dollar', '0.31 dollar']	['truck']	0.33665242287
+['38.95 dollar', '0.31 dollar']	['41.95 dollar']	0.637144068101
+['38.95 dollar', '0.31 dollar']	['dollar']	0.7704782646
+['38.95 dollar', '0.31 dollar']	['0.29 dollar']	0.637144068101
+['38.95 dollar', '0.31 dollar']	['mile']	0.158200563902
+['38.95 dollar', '0.31 dollar']	['city rental']	0.139258682248
+['38.95 dollar', '0.31 dollar']	['mileage']	0.383475193417
+['38.95 dollar', '0.31 dollar']	['cost']	0.327028499836
+['mileage', '0.31 dollar']	['safety rent']	0.0827346205535
+['mileage', '0.31 dollar']	['truck']	0.748002867908
+['mileage', '0.31 dollar']	['41.95 dollar']	0.538007739106
+['mileage', '0.31 dollar']	['dollar']	0.707659744934
+['mileage', '0.31 dollar']	['0.29 dollar']	0.538007739106
+['mileage', '0.31 dollar']	['mile']	0.171160936721
+['mileage', '0.31 dollar']	['city rental']	0.0833805889219
+['mileage', '0.31 dollar']	['38.95 dollar']	0.538007739106
+['mileage', '0.31 dollar']	['cost']	0.774279609591
+['cost', '0.31 dollar']	['safety rent']	0.0901100077042
+['cost', '0.31 dollar']	['truck']	0.192648399091
+['cost', '0.31 dollar']	['41.95 dollar']	0.584269096576
+['cost', '0.31 dollar']	['dollar']	0.703353326714
+['cost', '0.31 dollar']	['0.29 dollar']	0.584269096576
+['cost', '0.31 dollar']	['mile']	0.181396820829
+['cost', '0.31 dollar']	['city rental']	0.0901100077042
+['cost', '0.31 dollar']	['38.95 dollar']	0.584269096576
+['cost', '0.31 dollar']	['mileage']	0.772898516077
+['safety rent', 'mileage']	['truck']	0.726669153591
+['safety rent', 'mileage']	['41.95 dollar']	0.0827346205535
+['safety rent', 'mileage']	['dollar']	0.151610169111
+['safety rent', 'mileage']	['0.29 dollar']	0.0827346205535
+['safety rent', 'mileage']	['mile']	0.164781968468
+['safety rent', 'mileage']	['city rental']	0.092336172472
+['safety rent', 'mileage']	['38.95 dollar']	0.0827346205535
+['safety rent', 'mileage']	['0.31 dollar']	0.0827346205535
+['safety rent', 'mileage']	['cost']	0.701094043423
+['truck', 'mileage']	['safety rent']	0.0696933362217
+['truck', 'mileage']	['41.95 dollar']	0.0696933362217
+['truck', 'mileage']	['dollar']	0.141733217307
+['truck', 'mileage']	['0.29 dollar']	0.0696933362217
+['truck', 'mileage']	['mile']	0.161924062485
+['truck', 'mileage']	['city rental']	0.0703393045902
+['truck', 'mileage']	['38.95 dollar']	0.0696933362217
+['truck', 'mileage']	['0.31 dollar']	0.0696933362217
+['truck', 'mileage']	['cost']	0.460917998876
+['41.95 dollar', 'mileage']	['safety rent']	0.0827346205535
+['41.95 dollar', 'mileage']	['truck']	0.748002867908
+['41.95 dollar', 'mileage']	['dollar']	0.669499315655
+['41.95 dollar', 'mileage']	['0.29 dollar']	0.538007739106
+['41.95 dollar', 'mileage']	['mile']	0.171160936721
+['41.95 dollar', 'mileage']	['city rental']	0.0833805889219
+['41.95 dollar', 'mileage']	['38.95 dollar']	0.538007739106
+['41.95 dollar', 'mileage']	['0.31 dollar']	0.538007739106
+['41.95 dollar', 'mileage']	['cost']	0.774279609591
+['dollar', 'mileage']	['safety rent']	0.0361569291624
+['dollar', 'mileage']	['truck']	0.0842200772761
+['dollar', 'mileage']	['41.95 dollar']	0.534859236591
+['dollar', 'mileage']	['0.29 dollar']	0.553297612561
+['dollar', 'mileage']	['mile']	0.228540903541
+['dollar', 'mileage']	['city rental']	0.0368701550083
+['dollar', 'mileage']	['38.95 dollar']	0.534859236591
+['dollar', 'mileage']	['0.31 dollar']	0.553297612561
+['dollar', 'mileage']	['cost']	0.351278637376
+['0.29 dollar', 'mileage']	['safety rent']	0.0827346205535
+['0.29 dollar', 'mileage']	['truck']	0.748002867908
+['0.29 dollar', 'mileage']	['41.95 dollar']	0.538007739106
+['0.29 dollar', 'mileage']	['dollar']	0.707659744934
+['0.29 dollar', 'mileage']	['mile']	0.171160936721
+['0.29 dollar', 'mileage']	['city rental']	0.0833805889219
+['0.29 dollar', 'mileage']	['38.95 dollar']	0.538007739106
+['0.29 dollar', 'mileage']	['0.31 dollar']	0.538007739106
+['0.29 dollar', 'mileage']	['cost']	0.774279609591
+['mile', 'mileage']	['safety rent']	0.0165341599722
+['mile', 'mileage']	['truck']	0.0670865697521
+['mile', 'mileage']	['41.95 dollar']	0.0311160689586
+['mile', 'mileage']	['dollar']	0.0644356052061
+['mile', 'mileage']	['0.29 dollar']	0.0311160689586
+['mile', 'mileage']	['city rental']	0.0160064194205
+['mile', 'mileage']	['38.95 dollar']	0.0311160689586
+['mile', 'mileage']	['0.31 dollar']	0.0311160689586
+['mile', 'mileage']	['cost']	0.209390804894
+['city rental', 'mileage']	['safety rent']	0.083785214554
+['city rental', 'mileage']	['truck']	0.748002867908
+['city rental', 'mileage']	['41.95 dollar']	0.0827346205535
+['city rental', 'mileage']	['dollar']	0.177544958195
+['city rental', 'mileage']	['0.29 dollar']	0.0827346205535
+['city rental', 'mileage']	['mile']	0.260327603388
+['city rental', 'mileage']	['38.95 dollar']	0.0827346205535
+['city rental', 'mileage']	['0.31 dollar']	0.0827346205535
+['city rental', 'mileage']	['cost']	0.865742207226
+['38.95 dollar', 'mileage']	['safety rent']	0.0827346205535
+['38.95 dollar', 'mileage']	['truck']	0.748002867908
+['38.95 dollar', 'mileage']	['41.95 dollar']	0.538007739106
+['38.95 dollar', 'mileage']	['dollar']	0.669499315655
+['38.95 dollar', 'mileage']	['0.29 dollar']	0.538007739106
+['38.95 dollar', 'mileage']	['mile']	0.171160936721
+['38.95 dollar', 'mileage']	['city rental']	0.0833805889219
+['38.95 dollar', 'mileage']	['0.31 dollar']	0.538007739106
+['38.95 dollar', 'mileage']	['cost']	0.774279609591
+['0.31 dollar', 'mileage']	['safety rent']	0.0827346205535
+['0.31 dollar', 'mileage']	['truck']	0.748002867908
+['0.31 dollar', 'mileage']	['41.95 dollar']	0.538007739106
+['0.31 dollar', 'mileage']	['dollar']	0.707659744934
+['0.31 dollar', 'mileage']	['0.29 dollar']	0.538007739106
+['0.31 dollar', 'mileage']	['mile']	0.171160936721
+['0.31 dollar', 'mileage']	['city rental']	0.0833805889219
+['0.31 dollar', 'mileage']	['38.95 dollar']	0.538007739106
+['0.31 dollar', 'mileage']	['cost']	0.774279609591
+['cost', 'mileage']	['safety rent']	0.0827346205535
+['cost', 'mileage']	['truck']	0.452529291824
+['cost', 'mileage']	['41.95 dollar']	0.0827346205535
+['cost', 'mileage']	['dollar']	0.0718455781651
+['cost', 'mileage']	['0.29 dollar']	0.0827346205535
+['cost', 'mileage']	['mile']	0.145615301801
+['cost', 'mileage']	['city rental']	0.0833805889219
+['cost', 'mileage']	['38.95 dollar']	0.0827346205535
+['cost', 'mileage']	['0.31 dollar']	0.0827346205535
+['safety rent', 'cost']	['truck']	0.19603525097
+['safety rent', 'cost']	['41.95 dollar']	0.0901100077042
+['safety rent', 'cost']	['dollar']	0.173665577837
+['safety rent', 'cost']	['0.29 dollar']	0.0901100077042
+['safety rent', 'cost']	['mile']	0.0960031572865
+['safety rent', 'cost']	['city rental']	0.0871340391838
+['safety rent', 'cost']	['38.95 dollar']	0.0901100077042
+['safety rent', 'cost']	['0.31 dollar']	0.0901100077042
+['safety rent', 'cost']	['mileage']	0.701094043423
+['truck', 'cost']	['safety rent']	0.0737139440912
+['truck', 'cost']	['41.95 dollar']	0.0737139440912
+['truck', 'cost']	['dollar']	0.0954127874726
+['truck', 'cost']	['0.29 dollar']	0.0737139440912
+['truck', 'cost']	['mile']	0.0369630681137
+['truck', 'cost']	['city rental']	0.0737139440912
+['truck', 'cost']	['38.95 dollar']	0.0737139440912
+['truck', 'cost']	['0.31 dollar']	0.0737139440912
+['truck', 'cost']	['mileage']	0.339920918961
+['41.95 dollar', 'cost']	['safety rent']	0.0901100077042
+['41.95 dollar', 'cost']	['truck']	0.192648399091
+['41.95 dollar', 'cost']	['dollar']	0.663743622073
+['41.95 dollar', 'cost']	['0.29 dollar']	0.584269096576
+['41.95 dollar', 'cost']	['mile']	0.181396820829
+['41.95 dollar', 'cost']	['city rental']	0.0901100077042
+['41.95 dollar', 'cost']	['38.95 dollar']	0.584269096576
+['41.95 dollar', 'cost']	['0.31 dollar']	0.584269096576
+['41.95 dollar', 'cost']	['mileage']	0.772898516077
+['dollar', 'cost']	['safety rent']	0.0361569291624
+['dollar', 'cost']	['truck']	0.199975137267
+['dollar', 'cost']	['41.95 dollar']	0.423574257389
+['dollar', 'cost']	['0.29 dollar']	0.442012633359
+['dollar', 'cost']	['mile']	0.0561022718728
+['dollar', 'cost']	['city rental']	0.0361569291624
+['dollar', 'cost']	['38.95 dollar']	0.423574257389
+['dollar', 'cost']	['0.31 dollar']	0.442012633359
+['dollar', 'cost']	['mileage']	0.37717673161
+['0.29 dollar', 'cost']	['safety rent']	0.0901100077042
+['0.29 dollar', 'cost']	['truck']	0.192648399091
+['0.29 dollar', 'cost']	['41.95 dollar']	0.584269096576
+['0.29 dollar', 'cost']	['dollar']	0.703353326714
+['0.29 dollar', 'cost']	['mile']	0.181396820829
+['0.29 dollar', 'cost']	['city rental']	0.0901100077042
+['0.29 dollar', 'cost']	['38.95 dollar']	0.584269096576
+['0.29 dollar', 'cost']	['0.31 dollar']	0.584269096576
+['0.29 dollar', 'cost']	['mileage']	0.772898516077
+['mile', 'cost']	['safety rent']	0.0165341599722
+['mile', 'cost']	['truck']	0.0731923922809
+['mile', 'cost']	['41.95 dollar']	0.0221369896995
+['mile', 'cost']	['dollar']	0.0394964628825
+['mile', 'cost']	['0.29 dollar']	0.0221369896995
+['mile', 'cost']	['city rental']	0.015360451052
+['mile', 'cost']	['38.95 dollar']	0.0221369896995
+['mile', 'cost']	['0.31 dollar']	0.0221369896995
+['mile', 'cost']	['mileage']	0.301736596737
+['city rental', 'cost']	['safety rent']	0.0871340391838
+['city rental', 'cost']	['truck']	0.192648399091
+['city rental', 'cost']	['41.95 dollar']	0.0901100077042
+['city rental', 'cost']	['dollar']	0.234448851769
+['city rental', 'cost']	['0.29 dollar']	0.0901100077042
+['city rental', 'cost']	['mile']	0.140098119531
+['city rental', 'cost']	['38.95 dollar']	0.0901100077042
+['city rental', 'cost']	['0.31 dollar']	0.0901100077042
+['city rental', 'cost']	['mileage']	0.80623184941
+['38.95 dollar', 'cost']	['safety rent']	0.0901100077042
+['38.95 dollar', 'cost']	['truck']	0.192648399091
+['38.95 dollar', 'cost']	['41.95 dollar']	0.584269096576
+['38.95 dollar', 'cost']	['dollar']	0.663743622073
+['38.95 dollar', 'cost']	['0.29 dollar']	0.584269096576
+['38.95 dollar', 'cost']	['mile']	0.181396820829
+['38.95 dollar', 'cost']	['city rental']	0.0901100077042
+['38.95 dollar', 'cost']	['0.31 dollar']	0.584269096576
+['38.95 dollar', 'cost']	['mileage']	0.772898516077
+['0.31 dollar', 'cost']	['safety rent']	0.0901100077042
+['0.31 dollar', 'cost']	['truck']	0.192648399091
+['0.31 dollar', 'cost']	['41.95 dollar']	0.584269096576
+['0.31 dollar', 'cost']	['dollar']	0.703353326714
+['0.31 dollar', 'cost']	['0.29 dollar']	0.584269096576
+['0.31 dollar', 'cost']	['mile']	0.181396820829
+['0.31 dollar', 'cost']	['city rental']	0.0901100077042
+['0.31 dollar', 'cost']	['38.95 dollar']	0.584269096576
+['0.31 dollar', 'cost']	['mileage']	0.772898516077
+['mileage', 'cost']	['safety rent']	0.0827346205535
+['mileage', 'cost']	['truck']	0.452529291824
+['mileage', 'cost']	['41.95 dollar']	0.0827346205535
+['mileage', 'cost']	['dollar']	0.0718455781651
+['mileage', 'cost']	['0.29 dollar']	0.0827346205535
+['mileage', 'cost']	['mile']	0.145615301801
+['mileage', 'cost']	['city rental']	0.0833805889219
+['mileage', 'cost']	['38.95 dollar']	0.0827346205535
+['mileage', 'cost']	['0.31 dollar']	0.0827346205535

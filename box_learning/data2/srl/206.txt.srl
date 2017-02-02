@@ -1,0 +1,24 @@
+hold ARG0 A department store
+hold ARG1 a sale to sell all of the 214 winter jackets that remained after the season ended
+sell ARG0 to sell all of the 214 winter jackets that remained after the season ended
+sell ARG1 all of the 214 winter jackets that remained after the season ended
+remain ARG1 all of the 214 winter jackets that remained after the season ended
+remain TMP after the season ended
+end ARG1 the season
+
+price TMP Until noon
+price ARG1 each jacket in the store
+price ARG2 31.95 dollars.
+
+reduce TMP At noon
+reduce ARG1 the price of the jackets
+reduce EXT further
+reduce ARG4 18.95 dollars.
+
+sell ARG1 the last jacket
+
+sell ARG1 many jackets
+sell TMP before noon
+sell ARG1 many jackets
+sell TMP after noon
+

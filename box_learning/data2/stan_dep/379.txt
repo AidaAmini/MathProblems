@@ -1,0 +1,51 @@
+(ROOT
+  (S
+    (NP (NNP Mitch))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG buying)
+        (NP (NN candy) (NNS bars))
+        (PP (IN for) (NP (PRP$ his) (NNS friends)))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP
+        (VBZ wants)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB give)
+              (NP (CD 2) (NNS bars))
+              (PP (TO to) (NP (DT each) (NN friend))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP
+        (VBZ wants)
+        (S
+          (VP
+            (TO to)
+            (VP (VB have) (NP (CD 10) (JJ spare) (NNS bars)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (MD can)
+      (VP
+        (VB afford)
+        (S
+          (VP
+            (TO to)
+            (VP (VB buy) (NP (CD 24) (NN candy) (NNS bars)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS friends))
+    (SQ (MD can) (NP (PRP he)) (VP (VB treat)))
+    (. ?)))

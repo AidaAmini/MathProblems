@@ -1,0 +1,16 @@
+1
+[['work', '50', 'hour', '-', '-', 'dollar', '32.4'], ['ordinary time', 'x1', 'hour', 'cent', '60', '-', '-'], ['overtime', 'x2', 'hour', 'cent', '90', '-', '-']]
+-1
+[['overtime', '50', 'cent', '-', '90', 'hour', '32.4'], ['ordinary time', 'x1', 'hour', 'cent', '60', '-', '-'], ['overtime', '50', 'hour', 'cent', '90', '-', '-']]
+-1
+[['90', '50', 'hour', '-', '-', 'dollar', '32.4'], ['ordinary time', 'x1', 'hour', 'cent', '60', '-', '-'], ['dollar', 'x2', '32.4', '90', 'hour', '-', '-']]
+-1
+[['overtime', '50', 'x2', 'cent', '-', '90', '32.4'], ['ordinary time', 'x1', 'hour', 'cent', '60', '-', '-'], ['overtime', 'x2', '32.4', 'cent', '50', '-', '90']]
+-1
+[['work', '50', 'hour', '-', 'x2', 'dollar', 'cent'], ['ordinary time', 'x1', 'hour', 'cent', '60', '-', '-'], ['50', 'x2', 'hour', 'cent', 'dollar', '-', 'work']]
+-1
+[['work', '50', 'hour', 'x2', '-', 'dollar', '32.4'], ['ordinary time', 'x1', 'hour', 'cent', '60', '-', '-'], ['hour', 'x2', 'dollar', 'cent', '32.4', '-', 'work']]
+-1
+[['x2', '90', 'hour', '-', '-', 'overtime', '32.4'], ['ordinary time', 'x1', 'hour', 'cent', '60', '-', '-'], ['work', 'x2', 'hour', '50', '90', '32.4', 'overtime']]
+-1
+[['work', '50', 'hour', 'cent', '-', 'dollar', 'x2'], ['ordinary time', 'x1', 'hour', 'cent', '60', '-', '-'], ['work', 'x2', 'hour', 'cent', '32.4', '-', '50']]

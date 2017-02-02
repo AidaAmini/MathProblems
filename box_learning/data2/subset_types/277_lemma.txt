@@ -1,0 +1,6 @@
+adult ticket	people
+people	dollar
+dollar	child ticket
+child ticket	people
+dollar	child
+child	people

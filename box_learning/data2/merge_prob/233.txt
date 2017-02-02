@@ -1,0 +1,535 @@
+['summer lemonade', 'lemonade small cup', 'cup', 'small cup', '1.25 dollar and large large cup', '2.50 dollar', '155 lemonade cup', '265 dollar', 'cup and large large cup']
+['summer lemonade']	['lemonade small cup']	0.0941266761548
+['summer lemonade']	['cup']	0.0741073489195
+['summer lemonade']	['small cup']	0.0897823390711
+['summer lemonade']	['1.25 dollar and large large cup']	0.0906383040618
+['summer lemonade']	['2.50 dollar']	0.0901100077042
+['summer lemonade']	['155 lemonade cup']	0.0941266761548
+['summer lemonade']	['265 dollar']	0.0901100077042
+['summer lemonade']	['cup and large large cup']	0.0912443646678
+['lemonade small cup']	['1.25 dollar and large large cup']	0.272455118613
+['lemonade small cup']	['2.50 dollar']	0.0988755105172
+['lemonade small cup']	['155 lemonade cup']	0.520767003518
+['lemonade small cup']	['265 dollar']	0.0988755105172
+['lemonade small cup']	['cup and large large cup']	0.367520729549
+['cup']	['2.50 dollar']	0.10873615468
+['cup']	['265 dollar']	0.10873615468
+['small cup']	['1.25 dollar and large large cup']	0.322513943634
+['small cup']	['2.50 dollar']	0.0737139440912
+['small cup']	['155 lemonade cup']	0.539106353932
+['small cup']	['265 dollar']	0.0737139440912
+['small cup']	['cup and large large cup']	0.242803503436
+['1.25 dollar and large large cup']	['2.50 dollar']	0.0988755105172
+['1.25 dollar and large large cup']	['155 lemonade cup']	0.391290147275
+['1.25 dollar and large large cup']	['265 dollar']	0.0988755105172
+['1.25 dollar and large large cup']	['cup and large large cup']	0.222606728801
+['2.50 dollar']	['155 lemonade cup']	0.0941266761548
+['2.50 dollar']	['265 dollar']	0.643440930505
+['2.50 dollar']	['cup and large large cup']	0.0912443646678
+['155 lemonade cup']	['265 dollar']	0.0988755105172
+['155 lemonade cup']	['cup and large large cup']	0.284584748243
+['265 dollar']	['cup and large large cup']	0.0912443646678
+['lemonade small cup', 'summer lemonade']	['cup']	0.877899447415
+['lemonade small cup', 'summer lemonade']	['small cup']	0.616556347736
+['lemonade small cup', 'summer lemonade']	['1.25 dollar and large large cup']	0.49370928031
+['lemonade small cup', 'summer lemonade']	['2.50 dollar']	0.15961386663
+['lemonade small cup', 'summer lemonade']	['155 lemonade cup']	0.689142469169
+['lemonade small cup', 'summer lemonade']	['265 dollar']	0.15961386663
+['lemonade small cup', 'summer lemonade']	['cup and large large cup']	0.433770140348
+['cup', 'summer lemonade']	['lemonade small cup']	0.745167855836
+['cup', 'summer lemonade']	['small cup']	0.624729741086
+['cup', 'summer lemonade']	['1.25 dollar and large large cup']	0.608772350057
+['cup', 'summer lemonade']	['2.50 dollar']	0.103222748661
+['cup', 'summer lemonade']	['155 lemonade cup']	0.745167855836
+['cup', 'summer lemonade']	['265 dollar']	0.103222748661
+['cup', 'summer lemonade']	['cup and large large cup']	0.608772350057
+['small cup', 'summer lemonade']	['lemonade small cup']	0.543424158791
+['small cup', 'summer lemonade']	['cup']	0.736437867791
+['small cup', 'summer lemonade']	['1.25 dollar and large large cup']	0.444729316308
+['small cup', 'summer lemonade']	['2.50 dollar']	0.0737139440912
+['small cup', 'summer lemonade']	['155 lemonade cup']	0.580830939755
+['small cup', 'summer lemonade']	['265 dollar']	0.0737139440912
+['small cup', 'summer lemonade']	['cup and large large cup']	0.386489202011
+['1.25 dollar and large large cup', 'summer lemonade']	['lemonade small cup']	0.637330948793
+['1.25 dollar and large large cup', 'summer lemonade']	['cup']	0.873830063146
+['1.25 dollar and large large cup', 'summer lemonade']	['small cup']	0.567954588345
+['1.25 dollar and large large cup', 'summer lemonade']	['2.50 dollar']	0.0988755105172
+['1.25 dollar and large large cup', 'summer lemonade']	['155 lemonade cup']	0.637330948793
+['1.25 dollar and large large cup', 'summer lemonade']	['265 dollar']	0.0988755105172
+['1.25 dollar and large large cup', 'summer lemonade']	['cup and large large cup']	0.4585644266
+['2.50 dollar', 'summer lemonade']	['lemonade small cup']	0.0941266761548
+['2.50 dollar', 'summer lemonade']	['cup']	0.10397274702
+['2.50 dollar', 'summer lemonade']	['small cup']	0.0897823390711
+['2.50 dollar', 'summer lemonade']	['1.25 dollar and large large cup']	0.0906383040618
+['2.50 dollar', 'summer lemonade']	['155 lemonade cup']	0.0941266761548
+['2.50 dollar', 'summer lemonade']	['265 dollar']	0.584269096576
+['2.50 dollar', 'summer lemonade']	['cup and large large cup']	0.0912443646678
+['155 lemonade cup', 'summer lemonade']	['lemonade small cup']	0.689142469169
+['155 lemonade cup', 'summer lemonade']	['cup']	0.877899447415
+['155 lemonade cup', 'summer lemonade']	['small cup']	0.628589638133
+['155 lemonade cup', 'summer lemonade']	['1.25 dollar and large large cup']	0.49370928031
+['155 lemonade cup', 'summer lemonade']	['2.50 dollar']	0.15961386663
+['155 lemonade cup', 'summer lemonade']	['265 dollar']	0.15961386663
+['155 lemonade cup', 'summer lemonade']	['cup and large large cup']	0.49370928031
+['265 dollar', 'summer lemonade']	['lemonade small cup']	0.0941266761548
+['265 dollar', 'summer lemonade']	['cup']	0.10397274702
+['265 dollar', 'summer lemonade']	['small cup']	0.0897823390711
+['265 dollar', 'summer lemonade']	['1.25 dollar and large large cup']	0.0906383040618
+['265 dollar', 'summer lemonade']	['2.50 dollar']	0.584269096576
+['265 dollar', 'summer lemonade']	['155 lemonade cup']	0.0941266761548
+['265 dollar', 'summer lemonade']	['cup and large large cup']	0.0912443646678
+['cup and large large cup', 'summer lemonade']	['lemonade small cup']	0.605826053627
+['cup and large large cup', 'summer lemonade']	['cup']	0.879015248331
+['cup and large large cup', 'summer lemonade']	['small cup']	0.622571119615
+['cup and large large cup', 'summer lemonade']	['1.25 dollar and large large cup']	0.487690761791
+['cup and large large cup', 'summer lemonade']	['2.50 dollar']	0.0988755105172
+['cup and large large cup', 'summer lemonade']	['155 lemonade cup']	0.666457283984
+['cup and large large cup', 'summer lemonade']	['265 dollar']	0.0988755105172
+['summer lemonade', 'lemonade small cup']	['cup']	0.877899447415
+['summer lemonade', 'lemonade small cup']	['small cup']	0.616556347736
+['summer lemonade', 'lemonade small cup']	['1.25 dollar and large large cup']	0.49370928031
+['summer lemonade', 'lemonade small cup']	['2.50 dollar']	0.15961386663
+['summer lemonade', 'lemonade small cup']	['155 lemonade cup']	0.689142469169
+['summer lemonade', 'lemonade small cup']	['265 dollar']	0.15961386663
+['summer lemonade', 'lemonade small cup']	['cup and large large cup']	0.433770140348
+['cup', 'lemonade small cup']	['summer lemonade']	0.237317906735
+['cup', 'lemonade small cup']	['small cup']	0.817879993199
+['cup', 'lemonade small cup']	['1.25 dollar and large large cup']	0.658523685748
+['cup', 'lemonade small cup']	['2.50 dollar']	0.247627320934
+['cup', 'lemonade small cup']	['155 lemonade cup']	0.755135388562
+['cup', 'lemonade small cup']	['265 dollar']	0.247627320934
+['cup', 'lemonade small cup']	['cup and large large cup']	0.670297890464
+['small cup', 'lemonade small cup']	['summer lemonade']	0.187498204907
+['small cup', 'lemonade small cup']	['cup']	0.808832388234
+['small cup', 'lemonade small cup']	['1.25 dollar and large large cup']	0.540245313822
+['small cup', 'lemonade small cup']	['2.50 dollar']	0.170107734588
+['small cup', 'lemonade small cup']	['155 lemonade cup']	0.752009766166
+['small cup', 'lemonade small cup']	['265 dollar']	0.170107734588
+['small cup', 'lemonade small cup']	['cup and large large cup']	0.603861703631
+['1.25 dollar and large large cup', 'lemonade small cup']	['summer lemonade']	0.134584996364
+['1.25 dollar and large large cup', 'lemonade small cup']	['cup']	0.745484408675
+['1.25 dollar and large large cup', 'lemonade small cup']	['small cup']	0.69590999414
+['1.25 dollar and large large cup', 'lemonade small cup']	['2.50 dollar']	0.127952343303
+['1.25 dollar and large large cup', 'lemonade small cup']	['155 lemonade cup']	0.649709649865
+['1.25 dollar and large large cup', 'lemonade small cup']	['265 dollar']	0.127952343303
+['1.25 dollar and large large cup', 'lemonade small cup']	['cup and large large cup']	0.58286095687
+['2.50 dollar', 'lemonade small cup']	['summer lemonade']	0.152238479479
+['2.50 dollar', 'lemonade small cup']	['cup']	0.885569992091
+['2.50 dollar', 'lemonade small cup']	['small cup']	0.616556347736
+['2.50 dollar', 'lemonade small cup']	['1.25 dollar and large large cup']	0.49370928031
+['2.50 dollar', 'lemonade small cup']	['155 lemonade cup']	0.689142469169
+['2.50 dollar', 'lemonade small cup']	['265 dollar']	0.653642048458
+['2.50 dollar', 'lemonade small cup']	['cup and large large cup']	0.433770140348
+['155 lemonade cup', 'lemonade small cup']	['summer lemonade']	0.134584996364
+['155 lemonade cup', 'lemonade small cup']	['cup']	0.745428664985
+['155 lemonade cup', 'lemonade small cup']	['small cup']	0.694656867637
+['155 lemonade cup', 'lemonade small cup']	['1.25 dollar and large large cup']	0.484785496153
+['155 lemonade cup', 'lemonade small cup']	['2.50 dollar']	0.127952343303
+['155 lemonade cup', 'lemonade small cup']	['265 dollar']	0.127952343303
+['155 lemonade cup', 'lemonade small cup']	['cup and large large cup']	0.589577230837
+['265 dollar', 'lemonade small cup']	['summer lemonade']	0.152238479479
+['265 dollar', 'lemonade small cup']	['cup']	0.885569992091
+['265 dollar', 'lemonade small cup']	['small cup']	0.616556347736
+['265 dollar', 'lemonade small cup']	['1.25 dollar and large large cup']	0.49370928031
+['265 dollar', 'lemonade small cup']	['2.50 dollar']	0.653642048458
+['265 dollar', 'lemonade small cup']	['155 lemonade cup']	0.689142469169
+['265 dollar', 'lemonade small cup']	['cup and large large cup']	0.433770140348
+['cup and large large cup', 'lemonade small cup']	['summer lemonade']	0.134584996364
+['cup and large large cup', 'lemonade small cup']	['cup']	0.745484408675
+['cup and large large cup', 'lemonade small cup']	['small cup']	0.69590999414
+['cup and large large cup', 'lemonade small cup']	['1.25 dollar and large large cup']	0.486078305196
+['cup and large large cup', 'lemonade small cup']	['2.50 dollar']	0.127952343303
+['cup and large large cup', 'lemonade small cup']	['155 lemonade cup']	0.649709649865
+['cup and large large cup', 'lemonade small cup']	['265 dollar']	0.127952343303
+['summer lemonade', 'cup']	['lemonade small cup']	0.745167855836
+['summer lemonade', 'cup']	['small cup']	0.624729741086
+['summer lemonade', 'cup']	['1.25 dollar and large large cup']	0.608772350057
+['summer lemonade', 'cup']	['2.50 dollar']	0.103222748661
+['summer lemonade', 'cup']	['155 lemonade cup']	0.745167855836
+['summer lemonade', 'cup']	['265 dollar']	0.103222748661
+['summer lemonade', 'cup']	['cup and large large cup']	0.608772350057
+['lemonade small cup', 'cup']	['summer lemonade']	0.237317906735
+['lemonade small cup', 'cup']	['small cup']	0.817879993199
+['lemonade small cup', 'cup']	['1.25 dollar and large large cup']	0.658523685748
+['lemonade small cup', 'cup']	['2.50 dollar']	0.247627320934
+['lemonade small cup', 'cup']	['155 lemonade cup']	0.755135388562
+['lemonade small cup', 'cup']	['265 dollar']	0.247627320934
+['lemonade small cup', 'cup']	['cup and large large cup']	0.670297890464
+['small cup', 'cup']	['summer lemonade']	0.274461388425
+['small cup', 'cup']	['lemonade small cup']	0.818307822703
+['small cup', 'cup']	['1.25 dollar and large large cup']	0.686064562746
+['small cup', 'cup']	['2.50 dollar']	0.298405493616
+['small cup', 'cup']	['155 lemonade cup']	0.795788989848
+['small cup', 'cup']	['265 dollar']	0.298405493616
+['small cup', 'cup']	['cup and large large cup']	0.687443113469
+['1.25 dollar and large large cup', 'cup']	['summer lemonade']	0.174358162208
+['1.25 dollar and large large cup', 'cup']	['lemonade small cup']	0.809591118537
+['1.25 dollar and large large cup', 'cup']	['small cup']	0.793613115413
+['1.25 dollar and large large cup', 'cup']	['2.50 dollar']	0.193176066652
+['1.25 dollar and large large cup', 'cup']	['155 lemonade cup']	0.809591118537
+['1.25 dollar and large large cup', 'cup']	['265 dollar']	0.193176066652
+['1.25 dollar and large large cup', 'cup']	['cup and large large cup']	0.677760219323
+['2.50 dollar', 'cup']	['summer lemonade']	0.0703393045902
+['2.50 dollar', 'cup']	['lemonade small cup']	0.745167855836
+['2.50 dollar', 'cup']	['small cup']	0.624729741086
+['2.50 dollar', 'cup']	['1.25 dollar and large large cup']	0.608772350057
+['2.50 dollar', 'cup']	['155 lemonade cup']	0.745167855836
+['2.50 dollar', 'cup']	['265 dollar']	0.525526174317
+['2.50 dollar', 'cup']	['cup and large large cup']	0.608772350057
+['155 lemonade cup', 'cup']	['summer lemonade']	0.21925775957
+['155 lemonade cup', 'cup']	['lemonade small cup']	0.755135388562
+['155 lemonade cup', 'cup']	['small cup']	0.81815938284
+['155 lemonade cup', 'cup']	['1.25 dollar and large large cup']	0.658523685748
+['155 lemonade cup', 'cup']	['2.50 dollar']	0.247627320934
+['155 lemonade cup', 'cup']	['265 dollar']	0.247627320934
+['155 lemonade cup', 'cup']	['cup and large large cup']	0.658523685748
+['265 dollar', 'cup']	['summer lemonade']	0.0703393045902
+['265 dollar', 'cup']	['lemonade small cup']	0.745167855836
+['265 dollar', 'cup']	['small cup']	0.624729741086
+['265 dollar', 'cup']	['1.25 dollar and large large cup']	0.608772350057
+['265 dollar', 'cup']	['2.50 dollar']	0.525526174317
+['265 dollar', 'cup']	['155 lemonade cup']	0.745167855836
+['265 dollar', 'cup']	['cup and large large cup']	0.608772350057
+['cup and large large cup', 'cup']	['summer lemonade']	0.174358162208
+['cup and large large cup', 'cup']	['lemonade small cup']	0.753795815673
+['cup and large large cup', 'cup']	['small cup']	0.793613115413
+['cup and large large cup', 'cup']	['1.25 dollar and large large cup']	0.665177487411
+['cup and large large cup', 'cup']	['2.50 dollar']	0.193176066652
+['cup and large large cup', 'cup']	['155 lemonade cup']	0.769734810528
+['cup and large large cup', 'cup']	['265 dollar']	0.193176066652
+['summer lemonade', 'small cup']	['lemonade small cup']	0.543424158791
+['summer lemonade', 'small cup']	['cup']	0.736437867791
+['summer lemonade', 'small cup']	['1.25 dollar and large large cup']	0.444729316308
+['summer lemonade', 'small cup']	['2.50 dollar']	0.0737139440912
+['summer lemonade', 'small cup']	['155 lemonade cup']	0.580830939755
+['summer lemonade', 'small cup']	['265 dollar']	0.0737139440912
+['summer lemonade', 'small cup']	['cup and large large cup']	0.386489202011
+['lemonade small cup', 'small cup']	['summer lemonade']	0.187498204907
+['lemonade small cup', 'small cup']	['cup']	0.808832388234
+['lemonade small cup', 'small cup']	['1.25 dollar and large large cup']	0.540245313822
+['lemonade small cup', 'small cup']	['2.50 dollar']	0.170107734588
+['lemonade small cup', 'small cup']	['155 lemonade cup']	0.752009766166
+['lemonade small cup', 'small cup']	['265 dollar']	0.170107734588
+['lemonade small cup', 'small cup']	['cup and large large cup']	0.603861703631
+['cup', 'small cup']	['summer lemonade']	0.274461388425
+['cup', 'small cup']	['lemonade small cup']	0.818307822703
+['cup', 'small cup']	['1.25 dollar and large large cup']	0.686064562746
+['cup', 'small cup']	['2.50 dollar']	0.298405493616
+['cup', 'small cup']	['155 lemonade cup']	0.795788989848
+['cup', 'small cup']	['265 dollar']	0.298405493616
+['cup', 'small cup']	['cup and large large cup']	0.687443113469
+['1.25 dollar and large large cup', 'small cup']	['summer lemonade']	0.126759848794
+['1.25 dollar and large large cup', 'small cup']	['lemonade small cup']	0.625410707868
+['1.25 dollar and large large cup', 'small cup']	['cup']	0.815265812923
+['1.25 dollar and large large cup', 'small cup']	['2.50 dollar']	0.109369378475
+['1.25 dollar and large large cup', 'small cup']	['155 lemonade cup']	0.717800670707
+['1.25 dollar and large large cup', 'small cup']	['265 dollar']	0.109369378475
+['1.25 dollar and large large cup', 'small cup']	['cup and large large cup']	0.524522478042
+['2.50 dollar', 'small cup']	['summer lemonade']	0.0696933362217
+['2.50 dollar', 'small cup']	['lemonade small cup']	0.543424158791
+['2.50 dollar', 'small cup']	['cup']	0.784150526486
+['2.50 dollar', 'small cup']	['1.25 dollar and large large cup']	0.444729316308
+['2.50 dollar', 'small cup']	['155 lemonade cup']	0.580830939755
+['2.50 dollar', 'small cup']	['265 dollar']	0.544221442934
+['2.50 dollar', 'small cup']	['cup and large large cup']	0.386489202011
+['155 lemonade cup', 'small cup']	['summer lemonade']	0.187498204907
+['155 lemonade cup', 'small cup']	['lemonade small cup']	0.639485123193
+['155 lemonade cup', 'small cup']	['cup']	0.808832388234
+['155 lemonade cup', 'small cup']	['1.25 dollar and large large cup']	0.540245313822
+['155 lemonade cup', 'small cup']	['2.50 dollar']	0.170107734588
+['155 lemonade cup', 'small cup']	['265 dollar']	0.170107734588
+['155 lemonade cup', 'small cup']	['cup and large large cup']	0.503912208682
+['265 dollar', 'small cup']	['summer lemonade']	0.0696933362217
+['265 dollar', 'small cup']	['lemonade small cup']	0.543424158791
+['265 dollar', 'small cup']	['cup']	0.784150526486
+['265 dollar', 'small cup']	['1.25 dollar and large large cup']	0.444729316308
+['265 dollar', 'small cup']	['2.50 dollar']	0.544221442934
+['265 dollar', 'small cup']	['155 lemonade cup']	0.580830939755
+['265 dollar', 'small cup']	['cup and large large cup']	0.386489202011
+['cup and large large cup', 'small cup']	['summer lemonade']	0.126759848794
+['cup and large large cup', 'small cup']	['lemonade small cup']	0.71308562084
+['cup and large large cup', 'small cup']	['cup']	0.815265812923
+['cup and large large cup', 'small cup']	['1.25 dollar and large large cup']	0.582934707762
+['cup and large large cup', 'small cup']	['2.50 dollar']	0.109369378475
+['cup and large large cup', 'small cup']	['155 lemonade cup']	0.760014475421
+['cup and large large cup', 'small cup']	['265 dollar']	0.109369378475
+['summer lemonade', '1.25 dollar and large large cup']	['lemonade small cup']	0.637330948793
+['summer lemonade', '1.25 dollar and large large cup']	['cup']	0.873830063146
+['summer lemonade', '1.25 dollar and large large cup']	['small cup']	0.567954588345
+['summer lemonade', '1.25 dollar and large large cup']	['2.50 dollar']	0.0988755105172
+['summer lemonade', '1.25 dollar and large large cup']	['155 lemonade cup']	0.637330948793
+['summer lemonade', '1.25 dollar and large large cup']	['265 dollar']	0.0988755105172
+['summer lemonade', '1.25 dollar and large large cup']	['cup and large large cup']	0.4585644266
+['lemonade small cup', '1.25 dollar and large large cup']	['summer lemonade']	0.134584996364
+['lemonade small cup', '1.25 dollar and large large cup']	['cup']	0.745484408675
+['lemonade small cup', '1.25 dollar and large large cup']	['small cup']	0.69590999414
+['lemonade small cup', '1.25 dollar and large large cup']	['2.50 dollar']	0.127952343303
+['lemonade small cup', '1.25 dollar and large large cup']	['155 lemonade cup']	0.649709649865
+['lemonade small cup', '1.25 dollar and large large cup']	['265 dollar']	0.127952343303
+['lemonade small cup', '1.25 dollar and large large cup']	['cup and large large cup']	0.58286095687
+['cup', '1.25 dollar and large large cup']	['summer lemonade']	0.174358162208
+['cup', '1.25 dollar and large large cup']	['lemonade small cup']	0.809591118537
+['cup', '1.25 dollar and large large cup']	['small cup']	0.793613115413
+['cup', '1.25 dollar and large large cup']	['2.50 dollar']	0.193176066652
+['cup', '1.25 dollar and large large cup']	['155 lemonade cup']	0.809591118537
+['cup', '1.25 dollar and large large cup']	['265 dollar']	0.193176066652
+['cup', '1.25 dollar and large large cup']	['cup and large large cup']	0.677760219323
+['small cup', '1.25 dollar and large large cup']	['summer lemonade']	0.126759848794
+['small cup', '1.25 dollar and large large cup']	['lemonade small cup']	0.625410707868
+['small cup', '1.25 dollar and large large cup']	['cup']	0.815265812923
+['small cup', '1.25 dollar and large large cup']	['2.50 dollar']	0.109369378475
+['small cup', '1.25 dollar and large large cup']	['155 lemonade cup']	0.717800670707
+['small cup', '1.25 dollar and large large cup']	['265 dollar']	0.109369378475
+['small cup', '1.25 dollar and large large cup']	['cup and large large cup']	0.524522478042
+['2.50 dollar', '1.25 dollar and large large cup']	['summer lemonade']	0.0988755105172
+['2.50 dollar', '1.25 dollar and large large cup']	['lemonade small cup']	0.637330948793
+['2.50 dollar', '1.25 dollar and large large cup']	['cup']	0.880356131638
+['2.50 dollar', '1.25 dollar and large large cup']	['small cup']	0.567954588345
+['2.50 dollar', '1.25 dollar and large large cup']	['155 lemonade cup']	0.637330948793
+['2.50 dollar', '1.25 dollar and large large cup']	['265 dollar']	0.601830528082
+['2.50 dollar', '1.25 dollar and large large cup']	['cup and large large cup']	0.4585644266
+['155 lemonade cup', '1.25 dollar and large large cup']	['summer lemonade']	0.127952343303
+['155 lemonade cup', '1.25 dollar and large large cup']	['lemonade small cup']	0.649709649865
+['155 lemonade cup', '1.25 dollar and large large cup']	['cup']	0.745484408675
+['155 lemonade cup', '1.25 dollar and large large cup']	['small cup']	0.702898147932
+['155 lemonade cup', '1.25 dollar and large large cup']	['2.50 dollar']	0.127952343303
+['155 lemonade cup', '1.25 dollar and large large cup']	['265 dollar']	0.127952343303
+['155 lemonade cup', '1.25 dollar and large large cup']	['cup and large large cup']	0.51040262952
+['265 dollar', '1.25 dollar and large large cup']	['summer lemonade']	0.0988755105172
+['265 dollar', '1.25 dollar and large large cup']	['lemonade small cup']	0.637330948793
+['265 dollar', '1.25 dollar and large large cup']	['cup']	0.880356131638
+['265 dollar', '1.25 dollar and large large cup']	['small cup']	0.567954588345
+['265 dollar', '1.25 dollar and large large cup']	['2.50 dollar']	0.601830528082
+['265 dollar', '1.25 dollar and large large cup']	['155 lemonade cup']	0.637330948793
+['265 dollar', '1.25 dollar and large large cup']	['cup and large large cup']	0.4585644266
+['cup and large large cup', '1.25 dollar and large large cup']	['summer lemonade']	0.127952343303
+['cup and large large cup', '1.25 dollar and large large cup']	['lemonade small cup']	0.628890429634
+['cup and large large cup', '1.25 dollar and large large cup']	['cup']	0.745484408675
+['cup and large large cup', '1.25 dollar and large large cup']	['small cup']	0.617440366281
+['cup and large large cup', '1.25 dollar and large large cup']	['2.50 dollar']	0.127952343303
+['cup and large large cup', '1.25 dollar and large large cup']	['155 lemonade cup']	0.561340612802
+['cup and large large cup', '1.25 dollar and large large cup']	['265 dollar']	0.127952343303
+['summer lemonade', '2.50 dollar']	['lemonade small cup']	0.0941266761548
+['summer lemonade', '2.50 dollar']	['cup']	0.10397274702
+['summer lemonade', '2.50 dollar']	['small cup']	0.0897823390711
+['summer lemonade', '2.50 dollar']	['1.25 dollar and large large cup']	0.0906383040618
+['summer lemonade', '2.50 dollar']	['155 lemonade cup']	0.0941266761548
+['summer lemonade', '2.50 dollar']	['265 dollar']	0.584269096576
+['summer lemonade', '2.50 dollar']	['cup and large large cup']	0.0912443646678
+['lemonade small cup', '2.50 dollar']	['summer lemonade']	0.152238479479
+['lemonade small cup', '2.50 dollar']	['cup']	0.885569992091
+['lemonade small cup', '2.50 dollar']	['small cup']	0.616556347736
+['lemonade small cup', '2.50 dollar']	['1.25 dollar and large large cup']	0.49370928031
+['lemonade small cup', '2.50 dollar']	['155 lemonade cup']	0.689142469169
+['lemonade small cup', '2.50 dollar']	['265 dollar']	0.653642048458
+['lemonade small cup', '2.50 dollar']	['cup and large large cup']	0.433770140348
+['cup', '2.50 dollar']	['summer lemonade']	0.0703393045902
+['cup', '2.50 dollar']	['lemonade small cup']	0.745167855836
+['cup', '2.50 dollar']	['small cup']	0.624729741086
+['cup', '2.50 dollar']	['1.25 dollar and large large cup']	0.608772350057
+['cup', '2.50 dollar']	['155 lemonade cup']	0.745167855836
+['cup', '2.50 dollar']	['265 dollar']	0.525526174317
+['cup', '2.50 dollar']	['cup and large large cup']	0.608772350057
+['small cup', '2.50 dollar']	['summer lemonade']	0.0696933362217
+['small cup', '2.50 dollar']	['lemonade small cup']	0.543424158791
+['small cup', '2.50 dollar']	['cup']	0.784150526486
+['small cup', '2.50 dollar']	['1.25 dollar and large large cup']	0.444729316308
+['small cup', '2.50 dollar']	['155 lemonade cup']	0.580830939755
+['small cup', '2.50 dollar']	['265 dollar']	0.544221442934
+['small cup', '2.50 dollar']	['cup and large large cup']	0.386489202011
+['1.25 dollar and large large cup', '2.50 dollar']	['summer lemonade']	0.0988755105172
+['1.25 dollar and large large cup', '2.50 dollar']	['lemonade small cup']	0.637330948793
+['1.25 dollar and large large cup', '2.50 dollar']	['cup']	0.880356131638
+['1.25 dollar and large large cup', '2.50 dollar']	['small cup']	0.567954588345
+['1.25 dollar and large large cup', '2.50 dollar']	['155 lemonade cup']	0.637330948793
+['1.25 dollar and large large cup', '2.50 dollar']	['265 dollar']	0.601830528082
+['1.25 dollar and large large cup', '2.50 dollar']	['cup and large large cup']	0.4585644266
+['155 lemonade cup', '2.50 dollar']	['summer lemonade']	0.15961386663
+['155 lemonade cup', '2.50 dollar']	['lemonade small cup']	0.689142469169
+['155 lemonade cup', '2.50 dollar']	['cup']	0.885569992091
+['155 lemonade cup', '2.50 dollar']	['small cup']	0.628589638133
+['155 lemonade cup', '2.50 dollar']	['1.25 dollar and large large cup']	0.49370928031
+['155 lemonade cup', '2.50 dollar']	['265 dollar']	0.653642048458
+['155 lemonade cup', '2.50 dollar']	['cup and large large cup']	0.49370928031
+['265 dollar', '2.50 dollar']	['summer lemonade']	0.139258682248
+['265 dollar', '2.50 dollar']	['lemonade small cup']	0.297805101442
+['265 dollar', '2.50 dollar']	['cup']	0.51323626183
+['265 dollar', '2.50 dollar']	['small cup']	0.14699641653
+['265 dollar', '2.50 dollar']	['1.25 dollar and large large cup']	0.315265418903
+['265 dollar', '2.50 dollar']	['155 lemonade cup']	0.297805101442
+['265 dollar', '2.50 dollar']	['cup and large large cup']	0.315265418903
+['cup and large large cup', '2.50 dollar']	['summer lemonade']	0.0988755105172
+['cup and large large cup', '2.50 dollar']	['lemonade small cup']	0.605826053627
+['cup and large large cup', '2.50 dollar']	['cup']	0.885541316823
+['cup and large large cup', '2.50 dollar']	['small cup']	0.622571119615
+['cup and large large cup', '2.50 dollar']	['1.25 dollar and large large cup']	0.487690761791
+['cup and large large cup', '2.50 dollar']	['155 lemonade cup']	0.666457283984
+['cup and large large cup', '2.50 dollar']	['265 dollar']	0.630956863273
+['summer lemonade', '155 lemonade cup']	['lemonade small cup']	0.689142469169
+['summer lemonade', '155 lemonade cup']	['cup']	0.877899447415
+['summer lemonade', '155 lemonade cup']	['small cup']	0.628589638133
+['summer lemonade', '155 lemonade cup']	['1.25 dollar and large large cup']	0.49370928031
+['summer lemonade', '155 lemonade cup']	['2.50 dollar']	0.15961386663
+['summer lemonade', '155 lemonade cup']	['265 dollar']	0.15961386663
+['summer lemonade', '155 lemonade cup']	['cup and large large cup']	0.49370928031
+['lemonade small cup', '155 lemonade cup']	['summer lemonade']	0.134584996364
+['lemonade small cup', '155 lemonade cup']	['cup']	0.745428664985
+['lemonade small cup', '155 lemonade cup']	['small cup']	0.694656867637
+['lemonade small cup', '155 lemonade cup']	['1.25 dollar and large large cup']	0.484785496153
+['lemonade small cup', '155 lemonade cup']	['2.50 dollar']	0.127952343303
+['lemonade small cup', '155 lemonade cup']	['265 dollar']	0.127952343303
+['lemonade small cup', '155 lemonade cup']	['cup and large large cup']	0.589577230837
+['cup', '155 lemonade cup']	['summer lemonade']	0.21925775957
+['cup', '155 lemonade cup']	['lemonade small cup']	0.755135388562
+['cup', '155 lemonade cup']	['small cup']	0.81815938284
+['cup', '155 lemonade cup']	['1.25 dollar and large large cup']	0.658523685748
+['cup', '155 lemonade cup']	['2.50 dollar']	0.247627320934
+['cup', '155 lemonade cup']	['265 dollar']	0.247627320934
+['cup', '155 lemonade cup']	['cup and large large cup']	0.658523685748
+['small cup', '155 lemonade cup']	['summer lemonade']	0.187498204907
+['small cup', '155 lemonade cup']	['lemonade small cup']	0.639485123193
+['small cup', '155 lemonade cup']	['cup']	0.808832388234
+['small cup', '155 lemonade cup']	['1.25 dollar and large large cup']	0.540245313822
+['small cup', '155 lemonade cup']	['2.50 dollar']	0.170107734588
+['small cup', '155 lemonade cup']	['265 dollar']	0.170107734588
+['small cup', '155 lemonade cup']	['cup and large large cup']	0.503912208682
+['1.25 dollar and large large cup', '155 lemonade cup']	['summer lemonade']	0.127952343303
+['1.25 dollar and large large cup', '155 lemonade cup']	['lemonade small cup']	0.649709649865
+['1.25 dollar and large large cup', '155 lemonade cup']	['cup']	0.745484408675
+['1.25 dollar and large large cup', '155 lemonade cup']	['small cup']	0.702898147932
+['1.25 dollar and large large cup', '155 lemonade cup']	['2.50 dollar']	0.127952343303
+['1.25 dollar and large large cup', '155 lemonade cup']	['265 dollar']	0.127952343303
+['1.25 dollar and large large cup', '155 lemonade cup']	['cup and large large cup']	0.51040262952
+['2.50 dollar', '155 lemonade cup']	['summer lemonade']	0.15961386663
+['2.50 dollar', '155 lemonade cup']	['lemonade small cup']	0.689142469169
+['2.50 dollar', '155 lemonade cup']	['cup']	0.885569992091
+['2.50 dollar', '155 lemonade cup']	['small cup']	0.628589638133
+['2.50 dollar', '155 lemonade cup']	['1.25 dollar and large large cup']	0.49370928031
+['2.50 dollar', '155 lemonade cup']	['265 dollar']	0.653642048458
+['2.50 dollar', '155 lemonade cup']	['cup and large large cup']	0.49370928031
+['265 dollar', '155 lemonade cup']	['summer lemonade']	0.15961386663
+['265 dollar', '155 lemonade cup']	['lemonade small cup']	0.689142469169
+['265 dollar', '155 lemonade cup']	['cup']	0.885569992091
+['265 dollar', '155 lemonade cup']	['small cup']	0.628589638133
+['265 dollar', '155 lemonade cup']	['1.25 dollar and large large cup']	0.49370928031
+['265 dollar', '155 lemonade cup']	['2.50 dollar']	0.653642048458
+['265 dollar', '155 lemonade cup']	['cup and large large cup']	0.49370928031
+['cup and large large cup', '155 lemonade cup']	['summer lemonade']	0.127952343303
+['cup and large large cup', '155 lemonade cup']	['lemonade small cup']	0.684019928457
+['cup and large large cup', '155 lemonade cup']	['cup']	0.745484408675
+['cup and large large cup', '155 lemonade cup']	['small cup']	0.702898147932
+['cup and large large cup', '155 lemonade cup']	['1.25 dollar and large large cup']	0.486078305196
+['cup and large large cup', '155 lemonade cup']	['2.50 dollar']	0.127952343303
+['cup and large large cup', '155 lemonade cup']	['265 dollar']	0.127952343303
+['summer lemonade', '265 dollar']	['lemonade small cup']	0.0941266761548
+['summer lemonade', '265 dollar']	['cup']	0.10397274702
+['summer lemonade', '265 dollar']	['small cup']	0.0897823390711
+['summer lemonade', '265 dollar']	['1.25 dollar and large large cup']	0.0906383040618
+['summer lemonade', '265 dollar']	['2.50 dollar']	0.584269096576
+['summer lemonade', '265 dollar']	['155 lemonade cup']	0.0941266761548
+['summer lemonade', '265 dollar']	['cup and large large cup']	0.0912443646678
+['lemonade small cup', '265 dollar']	['summer lemonade']	0.152238479479
+['lemonade small cup', '265 dollar']	['cup']	0.885569992091
+['lemonade small cup', '265 dollar']	['small cup']	0.616556347736
+['lemonade small cup', '265 dollar']	['1.25 dollar and large large cup']	0.49370928031
+['lemonade small cup', '265 dollar']	['2.50 dollar']	0.653642048458
+['lemonade small cup', '265 dollar']	['155 lemonade cup']	0.689142469169
+['lemonade small cup', '265 dollar']	['cup and large large cup']	0.433770140348
+['cup', '265 dollar']	['summer lemonade']	0.0703393045902
+['cup', '265 dollar']	['lemonade small cup']	0.745167855836
+['cup', '265 dollar']	['small cup']	0.624729741086
+['cup', '265 dollar']	['1.25 dollar and large large cup']	0.608772350057
+['cup', '265 dollar']	['2.50 dollar']	0.525526174317
+['cup', '265 dollar']	['155 lemonade cup']	0.745167855836
+['cup', '265 dollar']	['cup and large large cup']	0.608772350057
+['small cup', '265 dollar']	['summer lemonade']	0.0696933362217
+['small cup', '265 dollar']	['lemonade small cup']	0.543424158791
+['small cup', '265 dollar']	['cup']	0.784150526486
+['small cup', '265 dollar']	['1.25 dollar and large large cup']	0.444729316308
+['small cup', '265 dollar']	['2.50 dollar']	0.544221442934
+['small cup', '265 dollar']	['155 lemonade cup']	0.580830939755
+['small cup', '265 dollar']	['cup and large large cup']	0.386489202011
+['1.25 dollar and large large cup', '265 dollar']	['summer lemonade']	0.0988755105172
+['1.25 dollar and large large cup', '265 dollar']	['lemonade small cup']	0.637330948793
+['1.25 dollar and large large cup', '265 dollar']	['cup']	0.880356131638
+['1.25 dollar and large large cup', '265 dollar']	['small cup']	0.567954588345
+['1.25 dollar and large large cup', '265 dollar']	['2.50 dollar']	0.601830528082
+['1.25 dollar and large large cup', '265 dollar']	['155 lemonade cup']	0.637330948793
+['1.25 dollar and large large cup', '265 dollar']	['cup and large large cup']	0.4585644266
+['2.50 dollar', '265 dollar']	['summer lemonade']	0.139258682248
+['2.50 dollar', '265 dollar']	['lemonade small cup']	0.297805101442
+['2.50 dollar', '265 dollar']	['cup']	0.51323626183
+['2.50 dollar', '265 dollar']	['small cup']	0.14699641653
+['2.50 dollar', '265 dollar']	['1.25 dollar and large large cup']	0.315265418903
+['2.50 dollar', '265 dollar']	['155 lemonade cup']	0.297805101442
+['2.50 dollar', '265 dollar']	['cup and large large cup']	0.315265418903
+['155 lemonade cup', '265 dollar']	['summer lemonade']	0.15961386663
+['155 lemonade cup', '265 dollar']	['lemonade small cup']	0.689142469169
+['155 lemonade cup', '265 dollar']	['cup']	0.885569992091
+['155 lemonade cup', '265 dollar']	['small cup']	0.628589638133
+['155 lemonade cup', '265 dollar']	['1.25 dollar and large large cup']	0.49370928031
+['155 lemonade cup', '265 dollar']	['2.50 dollar']	0.653642048458
+['155 lemonade cup', '265 dollar']	['cup and large large cup']	0.49370928031
+['cup and large large cup', '265 dollar']	['summer lemonade']	0.0988755105172
+['cup and large large cup', '265 dollar']	['lemonade small cup']	0.605826053627
+['cup and large large cup', '265 dollar']	['cup']	0.885541316823
+['cup and large large cup', '265 dollar']	['small cup']	0.622571119615
+['cup and large large cup', '265 dollar']	['1.25 dollar and large large cup']	0.487690761791
+['cup and large large cup', '265 dollar']	['2.50 dollar']	0.630956863273
+['cup and large large cup', '265 dollar']	['155 lemonade cup']	0.666457283984
+['summer lemonade', 'cup and large large cup']	['lemonade small cup']	0.605826053627
+['summer lemonade', 'cup and large large cup']	['cup']	0.879015248331
+['summer lemonade', 'cup and large large cup']	['small cup']	0.622571119615
+['summer lemonade', 'cup and large large cup']	['1.25 dollar and large large cup']	0.487690761791
+['summer lemonade', 'cup and large large cup']	['2.50 dollar']	0.0988755105172
+['summer lemonade', 'cup and large large cup']	['155 lemonade cup']	0.666457283984
+['summer lemonade', 'cup and large large cup']	['265 dollar']	0.0988755105172
+['lemonade small cup', 'cup and large large cup']	['summer lemonade']	0.134584996364
+['lemonade small cup', 'cup and large large cup']	['cup']	0.745484408675
+['lemonade small cup', 'cup and large large cup']	['small cup']	0.69590999414
+['lemonade small cup', 'cup and large large cup']	['1.25 dollar and large large cup']	0.486078305196
+['lemonade small cup', 'cup and large large cup']	['2.50 dollar']	0.127952343303
+['lemonade small cup', 'cup and large large cup']	['155 lemonade cup']	0.649709649865
+['lemonade small cup', 'cup and large large cup']	['265 dollar']	0.127952343303
+['cup', 'cup and large large cup']	['summer lemonade']	0.174358162208
+['cup', 'cup and large large cup']	['lemonade small cup']	0.753795815673
+['cup', 'cup and large large cup']	['small cup']	0.793613115413
+['cup', 'cup and large large cup']	['1.25 dollar and large large cup']	0.665177487411
+['cup', 'cup and large large cup']	['2.50 dollar']	0.193176066652
+['cup', 'cup and large large cup']	['155 lemonade cup']	0.769734810528
+['cup', 'cup and large large cup']	['265 dollar']	0.193176066652
+['small cup', 'cup and large large cup']	['summer lemonade']	0.126759848794
+['small cup', 'cup and large large cup']	['lemonade small cup']	0.71308562084
+['small cup', 'cup and large large cup']	['cup']	0.815265812923
+['small cup', 'cup and large large cup']	['1.25 dollar and large large cup']	0.582934707762
+['small cup', 'cup and large large cup']	['2.50 dollar']	0.109369378475
+['small cup', 'cup and large large cup']	['155 lemonade cup']	0.760014475421
+['small cup', 'cup and large large cup']	['265 dollar']	0.109369378475
+['1.25 dollar and large large cup', 'cup and large large cup']	['summer lemonade']	0.127952343303
+['1.25 dollar and large large cup', 'cup and large large cup']	['lemonade small cup']	0.628890429634
+['1.25 dollar and large large cup', 'cup and large large cup']	['cup']	0.745484408675
+['1.25 dollar and large large cup', 'cup and large large cup']	['small cup']	0.617440366281
+['1.25 dollar and large large cup', 'cup and large large cup']	['2.50 dollar']	0.127952343303
+['1.25 dollar and large large cup', 'cup and large large cup']	['155 lemonade cup']	0.561340612802
+['1.25 dollar and large large cup', 'cup and large large cup']	['265 dollar']	0.127952343303
+['2.50 dollar', 'cup and large large cup']	['summer lemonade']	0.0988755105172
+['2.50 dollar', 'cup and large large cup']	['lemonade small cup']	0.605826053627
+['2.50 dollar', 'cup and large large cup']	['cup']	0.885541316823
+['2.50 dollar', 'cup and large large cup']	['small cup']	0.622571119615
+['2.50 dollar', 'cup and large large cup']	['1.25 dollar and large large cup']	0.487690761791
+['2.50 dollar', 'cup and large large cup']	['155 lemonade cup']	0.666457283984
+['2.50 dollar', 'cup and large large cup']	['265 dollar']	0.630956863273
+['155 lemonade cup', 'cup and large large cup']	['summer lemonade']	0.127952343303
+['155 lemonade cup', 'cup and large large cup']	['lemonade small cup']	0.684019928457
+['155 lemonade cup', 'cup and large large cup']	['cup']	0.745484408675
+['155 lemonade cup', 'cup and large large cup']	['small cup']	0.702898147932
+['155 lemonade cup', 'cup and large large cup']	['1.25 dollar and large large cup']	0.486078305196
+['155 lemonade cup', 'cup and large large cup']	['2.50 dollar']	0.127952343303
+['155 lemonade cup', 'cup and large large cup']	['265 dollar']	0.127952343303
+['265 dollar', 'cup and large large cup']	['summer lemonade']	0.0988755105172
+['265 dollar', 'cup and large large cup']	['lemonade small cup']	0.605826053627
+['265 dollar', 'cup and large large cup']	['cup']	0.885541316823
+['265 dollar', 'cup and large large cup']	['small cup']	0.622571119615
+['265 dollar', 'cup and large large cup']	['1.25 dollar and large large cup']	0.487690761791
+['265 dollar', 'cup and large large cup']	['2.50 dollar']	0.630956863273
+['265 dollar', 'cup and large large cup']	['155 lemonade cup']	0.666457283984

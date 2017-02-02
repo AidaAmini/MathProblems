@@ -1,0 +1,16 @@
+1
+[['with a tail wind', '4', 'hour', '-', '-', 'mile', '2000'], ['against the same wind', '5', 'hour', '-', '-', 'mile', '2000'], ['wind', 'x1', 'hour', 'mile', 'x2', '-', '-']]
+-1
+[['x1', '4', 'hour', 'x2', '-', 'mile', '2000'], ['against the same wind', '5', 'hour', '-', '-', 'mile', '2000'], ['wind', 'x1', 'hour', 'mile', '4', '-', 'with a tail wind']]
+-1
+[['with a tail wind', '4', 'hour', 'wind', 'x2', 'mile', '-'], ['against the same wind', '5', 'hour', '-', '-', 'mile', '2000'], ['wind', 'x1', 'hour', 'mile', 'x2', '-', 'with a tail wind']]
+-1
+[['with a tail wind', '4', 'hour', '-', '-', 'mile', '2000'], ['against the same wind', '5', 'hour', '-', '-', 'mile', '2000'], ['wind', '2000', 'hour', 'mile', 'x2', 'with a tail wind', '4']]
+-1
+[['with a tail wind', '4', 'hour', '2000', 'x2', '-', 'wind'], ['against the same wind', '5', 'hour', '-', '-', 'mile', '2000'], ['wind', '2000', 'hour', 'mile', 'with a tail wind', '-', '-']]
+-1
+[['with a tail wind', 'x1', 'hour', '-', '-', 'mile', '2000'], ['against the same wind', '5', 'hour', '-', '-', 'mile', '2000'], ['wind', 'x1', '2000', 'with a tail wind', 'x2', 'hour', '-']]
+-1
+[['with a tail wind', '4', 'x1', '-', '-', 'mile', '2000'], ['against the same wind', '5', 'hour', '-', '-', 'mile', '2000'], ['4', 'x1', 'hour', 'mile', '2000', 'with a tail wind', '-']]
+-1
+[['with a tail wind', '4', 'hour', '-', '-', 'x1', '2000'], ['against the same wind', '5', 'hour', '-', '-', 'mile', '2000'], ['wind', 'x1', 'with a tail wind', '4', 'hour', '-', '-']]

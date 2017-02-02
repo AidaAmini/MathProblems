@@ -1,0 +1,70 @@
+['4 foot tree', 'tree', '5 foot', 'year', '29 foot']
+['4 foot tree']	['5 foot']	0.392705145363
+['4 foot tree']	['year']	0.012852508684
+['4 foot tree']	['29 foot']	0.125410729912
+['tree']	['5 foot']	0.0529533264228
+['tree']	['year']	0.0130093318431
+['tree']	['29 foot']	0.0529533264228
+['5 foot']	['year']	0.0143499502517
+['5 foot']	['29 foot']	0.669829166534
+['year']	['29 foot']	0.0160749451882
+['tree', '4 foot tree']	['5 foot']	0.590114195636
+['tree', '4 foot tree']	['year']	0.155320435557
+['tree', '4 foot tree']	['29 foot']	0.231894326151
+['5 foot', '4 foot tree']	['tree']	0.860146605955
+['5 foot', '4 foot tree']	['year']	0.0139761041896
+['5 foot', '4 foot tree']	['29 foot']	0.743380388481
+['year', '4 foot tree']	['tree']	0.40263482313
+['year', '4 foot tree']	['5 foot']	0.262668788377
+['year', '4 foot tree']	['29 foot']	0.0739218626949
+['29 foot', '4 foot tree']	['tree']	0.860146605955
+['29 foot', '4 foot tree']	['5 foot']	0.857455104652
+['29 foot', '4 foot tree']	['year']	0.0139761041896
+['4 foot tree', 'tree']	['5 foot']	0.590114195636
+['4 foot tree', 'tree']	['year']	0.155320435557
+['4 foot tree', 'tree']	['29 foot']	0.231894326151
+['5 foot', 'tree']	['4 foot tree']	0.865266418506
+['5 foot', 'tree']	['year']	0.0432392551335
+['5 foot', 'tree']	['29 foot']	0.478946436963
+['year', 'tree']	['4 foot tree']	0.333862957714
+['year', 'tree']	['5 foot']	0.0780842671024
+['year', 'tree']	['29 foot']	0.0780842671024
+['29 foot', 'tree']	['4 foot tree']	0.867884227068
+['29 foot', 'tree']	['5 foot']	0.478946436963
+['29 foot', 'tree']	['year']	0.0432392551335
+['4 foot tree', '5 foot']	['tree']	0.860146605955
+['4 foot tree', '5 foot']	['year']	0.0139761041896
+['4 foot tree', '5 foot']	['29 foot']	0.743380388481
+['tree', '5 foot']	['4 foot tree']	0.865266418506
+['tree', '5 foot']	['year']	0.0432392551335
+['tree', '5 foot']	['29 foot']	0.478946436963
+['year', '5 foot']	['4 foot tree']	0.246096720393
+['year', '5 foot']	['tree']	0.0793040234269
+['year', '5 foot']	['29 foot']	0.180835845373
+['29 foot', '5 foot']	['4 foot tree']	0.746337521102
+['29 foot', '5 foot']	['tree']	0.302002979553
+['29 foot', '5 foot']	['year']	0.185726336332
+['4 foot tree', 'year']	['tree']	0.40263482313
+['4 foot tree', 'year']	['5 foot']	0.262668788377
+['4 foot tree', 'year']	['29 foot']	0.0739218626949
+['tree', 'year']	['4 foot tree']	0.333862957714
+['tree', 'year']	['5 foot']	0.0780842671024
+['tree', 'year']	['29 foot']	0.0780842671024
+['5 foot', 'year']	['4 foot tree']	0.246096720393
+['5 foot', 'year']	['tree']	0.0793040234269
+['5 foot', 'year']	['29 foot']	0.180835845373
+['29 foot', 'year']	['4 foot tree']	0.11617372092
+['29 foot', 'year']	['tree']	0.0793040234269
+['29 foot', 'year']	['5 foot']	0.180835845373
+['4 foot tree', '29 foot']	['tree']	0.860146605955
+['4 foot tree', '29 foot']	['5 foot']	0.857455104652
+['4 foot tree', '29 foot']	['year']	0.0139761041896
+['tree', '29 foot']	['4 foot tree']	0.867884227068
+['tree', '29 foot']	['5 foot']	0.478946436963
+['tree', '29 foot']	['year']	0.0432392551335
+['5 foot', '29 foot']	['4 foot tree']	0.746337521102
+['5 foot', '29 foot']	['tree']	0.302002979553
+['5 foot', '29 foot']	['year']	0.185726336332
+['year', '29 foot']	['4 foot tree']	0.11617372092
+['year', '29 foot']	['tree']	0.0793040234269
+['year', '29 foot']	['5 foot']	0.180835845373

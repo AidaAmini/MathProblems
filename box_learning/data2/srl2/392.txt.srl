@@ -1,0 +1,14 @@
+have ARG0 Harold
+have ARG1 a summer lemonade stand where he sold small cups of lemonade for 1.25 dollars and large cups for 2.50 dollars.
+sell ARG0 he
+sell ARG3 1.25 dollars
+sell ARG1 small cups of lemonade
+
+sell ADV If Harold sold a total of 155 cups of lemonade and collected a total of 265 dollars
+sell ARG0 Harold
+collect ARG0 Harold
+sell ARG1 a total of 155 cups of lemonade
+collect ARG1 a total of 265 dollars
+sell ARG1 many small cups and large cups
+sell ARG0 he
+

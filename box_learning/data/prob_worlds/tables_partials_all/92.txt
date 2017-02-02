@@ -1,0 +1,762 @@
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['-', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', 'dollar', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', 'dollar', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', '-', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', '-', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', 'dollar', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', 'dollar', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', 'dollar', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['-', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', '-', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['-', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', '-', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', 'order', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', '-', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['-', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', '-', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['-', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['popcorn shrimp', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['-', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', 'order', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['-', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['popcorn shrimp', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['-', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', '-'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', '-'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['-', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['-', 'order', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', '-'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', '-'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', 'order', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'order', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['order', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['dollar', 'order', 'catfish dinner', 'popcorn shrimp'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', 'catfish dinner']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['-', 'order', 'dollar', 'popcorn shrimp'], ['catfish dinner', 'order', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'order', 'catfish dinner', '-']]
+-1
+[['order', 'dollar', '-', 'popcorn shrimp'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'river joe', '-', 'dollar'], ['river jo seafood diner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['catfish dinner', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['catfish dinner', 'order', 'dollar', '-']]
+-1
+[['-', 'order', 'popcorn shrimp', 'dollar'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['catfish dinner', 'order', 'dollar', 'popcorn shrimp']]
+-1
+[['-', 'order', 'popcorn shrimp', 'dollar'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['popcorn shrimp', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', 'popcorn shrimp'], ['popcorn shrimp', 'catfish dinner', 'dollar', '-']]
+-1
+[['-', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['-', 'river jo seafood diner', '-', 'dollar'], ['river jo seafood diner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', '-', 'popcorn shrimp', 'dollar'], ['catfish dinner', 'popcorn shrimp', 'order', '-'], ['popcorn shrimp', 'catfish dinner', 'dollar', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', 'order', 'catfish dinner', '-']]
+-1
+[['order', '-', 'popcorn shrimp', 'catfish dinner'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'catfish dinner', '-']]
+-1
+[['catfish dinner', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'catfish dinner', 'dollar', 'order']]
+-1
+[['order', '-', 'popcorn shrimp', 'dollar'], ['dollar', 'popcorn shrimp', 'order', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'river jo seafood diner', '-'], ['popcorn shrimp', 'order', 'order of popcorn shrimp', '-']]
+-1
+[['popcorn shrimp', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', 'dollar', 'popcorn shrimp'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['popcorn shrimp', 'catfish dinner', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'catfish dinner', '-', 'popcorn shrimp'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', 'catfish dinner']]
+-1
+[['popcorn shrimp', 'dollar', '-', '-'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'dollar', 'popcorn shrimp', 'catfish dinner'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'river jo seafood diner', 'dollar', 'river joe']]
+-1
+[['order', '-', 'popcorn shrimp', 'dollar'], ['-', 'order', 'popcorn shrimp', 'dollar'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['popcorn shrimp', 'order', '-', 'dollar'], ['dollar', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['popcorn shrimp', 'order', '-', 'dollar'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'popcorn shrimp'], ['-', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['-', 'dollar', 'popcorn shrimp', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'order', 'order of popcorn shrimp', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', 'river jo seafood diner']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', 'order'], ['popcorn shrimp', 'catfish dinner', 'dollar', '-']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['popcorn shrimp', '-', 'order', 'dollar'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['order', '-', 'dollar', 'popcorn shrimp'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['dollar', 'order', '-', 'popcorn shrimp'], ['order', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['river jo seafood diner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', 'order of popcorn shrimp']]
+-1
+[['order', 'order', 'popcorn shrimp', 'catfish dinner'], ['catfish dinner', 'dollar', '-', 'popcorn shrimp'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['catfish dinner', 'order', 'dollar', 'popcorn shrimp']]
+-1
+[['order', 'popcorn shrimp', '-', 'catfish dinner'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', 'catfish dinner', '-']]
+-1
+[['order', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'catfish dinner', '-', 'order']]
+-1
+[['order', 'order', '-', 'dollar'], ['popcorn shrimp', 'order', '-', 'dollar'], ['popcorn shrimp', '-', 'dollar', 'catfish dinner']]
+-1
+[['order', 'order', 'order of popcorn shrimp', 'order of popcorn shrimp'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'catfish dinner', 'dollar', '-']]
+-1
+[['catfish dinner', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', 'catfish dinner', '-']]
+-1
+[['catfish dinner', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', 'dollar', 'catfish dinner']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', 'dollar', '-']]
+-1
+[['-', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'dollar', 'catfish dinner', '-']]
+-1
+[['order', 'order of popcorn shrimp', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', 'order of popcorn shrimp'], ['-', 'order', 'dollar', '-']]
+-1
+[['popcorn shrimp', 'order', '-', 'dollar'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', 'catfish dinner']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order', 'catfish dinner', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'popcorn shrimp'], ['catfish dinner', 'popcorn shrimp', 'order', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', '-', 'dollar', '-']]
+-1
+[['order', 'order', 'dollar', 'catfish dinner'], ['catfish dinner', 'order', 'dollar', '-'], ['order', 'catfish dinner', 'dollar', '-']]
+-1
+[['order of popcorn shrimp', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', 'river joe'], ['popcorn shrimp', '-', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', 'order', 'catfish dinner', '-']]
+-1
+[['popcorn shrimp', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'dollar', '-', '-']]
+-1
+[['popcorn shrimp', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'dollar', '-', 'catfish dinner']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['catfish dinner', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'river jo seafood diner', 'order of popcorn shrimp']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'dollar', '-', '-']]
+-1
+[['catfish dinner', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'dollar', '-', 'catfish dinner']]
+-1
+[['popcorn shrimp', 'order', '-', 'dollar'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['catfish dinner', 'order', '-', '-']]
+-1
+[['-', 'order', '-', 'popcorn shrimp'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['-', 'order', 'popcorn shrimp', 'catfish dinner'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['-', 'order', 'river joe', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['order', 'catfish dinner', 'popcorn shrimp', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', 'dollar']]
+-1
+[['catfish dinner', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['catfish dinner', 'order', '-', 'dollar']]
+-1
+[['catfish dinner', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', 'dollar']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', 'order', '-', 'catfish dinner']]
+-1
+[['order', '-', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'catfish dinner', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'order of popcorn shrimp', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['catfish dinner', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['order', 'order', 'dollar', '-'], ['catfish dinner', 'order', 'dollar', 'popcorn shrimp'], ['popcorn shrimp', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'catfish dinner', 'dollar', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['catfish dinner', 'order', '-', '-']]
+-1
+[['order', 'popcorn shrimp', 'catfish dinner', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'catfish dinner', '-', '-']]
+-1
+[['order', 'popcorn shrimp', '-', 'catfish dinner'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', 'order', '-', '-']]
+-1
+[['order', 'order', '-', 'river jo seafood diner'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['-', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', 'order', '-', 'dollar']]
+-1
+[['order', 'order', 'popcorn shrimp', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'dollar', 'order', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', 'dollar']]
+-1
+[['popcorn shrimp', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['order', 'dollar', '-', '-']]
+-1
+[['order', 'river joe', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', 'order'], ['dollar', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'order', '-', 'dollar'], ['dollar', '-', 'order', '-'], ['dollar', 'order', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['popcorn shrimp', '-', 'dollar', '-'], ['popcorn shrimp', 'order', '-', 'dollar']]
+-1
+[['catfish dinner', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'catfish dinner', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['order', '-', 'dollar', '-'], ['dollar', 'order', '-', '-']]
+-1
+[['order of popcorn shrimp', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['catfish dinner', 'order', '-', 'popcorn shrimp'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'order', '-', 'popcorn shrimp'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'order', '-', 'catfish dinner'], ['popcorn shrimp', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'order', 'popcorn shrimp', 'catfish dinner'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['popcorn shrimp', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'order', 'river jo seafood diner', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', 'dollar', 'catfish dinner']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'catfish dinner', 'order', '-']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['catfish dinner', 'order', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['catfish dinner', 'order', '-', 'dollar']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'order', '-', 'dollar']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', 'river joe'], ['-', 'order', '-', '-']]
+-1
+[['order', 'order', 'popcorn shrimp', 'dollar'], ['catfish dinner', '-', 'dollar', 'popcorn shrimp'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'popcorn shrimp'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', 'dollar']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', '-', 'catfish dinner', 'order']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', 'catfish dinner', 'dollar']]
+-1
+[['catfish dinner', 'popcorn shrimp', '-', 'dollar'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order of popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['-', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', '-', '-', 'order']]
+-1
+[['-', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', 'catfish dinner', '-']]
+-1
+[['-', 'order', '-', 'popcorn shrimp'], ['catfish dinner', 'popcorn shrimp', 'order', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'catfish dinner'], ['catfish dinner', '-', 'dollar', 'popcorn shrimp'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order of popcorn shrimp', '-', '-', '-']]
+-1
+[['popcorn shrimp', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'dollar', '-', 'order']]
+-1
+[['order', '-', '-', 'popcorn shrimp'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['order', '-', '-', 'popcorn shrimp'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', 'dollar', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'dollar', 'catfish dinner', '-']]
+-1
+[['order', '-', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', '-', 'order', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'river joe', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['order', 'dollar', '-', 'catfish dinner']]
+-1
+[['order', 'order', 'dollar', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['catfish dinner', '-', '-', 'dollar']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['catfish dinner', '-', 'order', '-']]
+-1
+[['order', 'order', 'popcorn shrimp', '-'], ['catfish dinner', 'popcorn shrimp', 'dollar', '-'], ['popcorn shrimp', '-', '-', 'catfish dinner']]
+-1
+[['order', 'order', 'dollar', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', '-', 'dollar']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', 'river joe']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['dollar', 'order', '-', '-']]
+-1
+[['order', 'order', 'popcorn shrimp', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', '-', 'dollar', 'order']]
+-1
+[['order', 'order', '-', 'dollar'], ['popcorn shrimp', 'order', 'dollar', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'order', 'popcorn shrimp', 'dollar'], ['-', 'order', 'dollar', '-'], ['popcorn shrimp', 'order', 'dollar', '-']]
+-1
+[['order', 'popcorn shrimp', '-', 'dollar'], ['-', 'popcorn shrimp', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'river jo seafood diner', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'order', 'popcorn shrimp', 'dollar'], ['catfish dinner', 'dollar', 'order', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['order', '-', 'dollar', '-'], ['order', '-', '-', 'dollar']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'dollar', 'order', '-'], ['popcorn shrimp', 'order', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['popcorn shrimp', 'order', 'catfish dinner', 'dollar']]
+-1
+[['order', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['catfish dinner', '-', 'order', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['order of popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'catfish dinner', 'popcorn shrimp', '-'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['dollar', 'order', '-', '-'], ['order', '-', 'dollar', '-']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'popcorn shrimp', '-'], ['popcorn shrimp', 'catfish dinner', '-', '-']]
+-1
+[['catfish dinner', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['popcorn shrimp', 'dollar', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', 'dollar'], ['popcorn shrimp', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'order', 'river joe', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['popcorn shrimp', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order', '-', '-', 'catfish dinner']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order', 'dollar', 'catfish dinner', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order', '-', 'catfish dinner', '-']]
+-1
+[['order', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', 'dollar', '-'], ['-', 'dollar', 'order', '-']]
+-1
+[['order', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', 'dollar', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', 'river joe', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order', '-', '-', 'catfish dinner']]
+-1
+[['-', 'catfish dinner', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['-', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', '-', '-', 'order']]
+-1
+[['-', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', 'order']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['river jo seafood diner', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', 'catfish dinner', 'dollar']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', 'order', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['order', '-', 'dollar', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', 'catfish dinner', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', 'dollar', '-'], ['dollar', '-', 'order', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['river joe', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', 'dollar', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', 'order', 'dollar']]
+-1
+[['order', 'catfish dinner', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', '-', 'order']]
+-1
+[['catfish dinner', 'order', '-', '-'], ['catfish dinner', 'order', 'dollar', '-'], ['-', '-', 'order', '-']]
+-1
+[['order', 'order', '-', '-'], ['river jo seafood diner', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['order', '-', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['order', '-', '-', 'dollar']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', 'dollar', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', 'river joe', 'dollar'], ['-', 'order', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['catfish dinner', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['order', '-', 'dollar', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['catfish dinner', '-', 'order', '-']]
+-1
+[['order of popcorn shrimp', 'order', '-', 'dollar'], ['catfish dinner', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', 'catfish dinner', '-', 'order']]
+-1
+[['order', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', 'order', '-', 'catfish dinner']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['catfish dinner', 'order', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', 'river jo seafood diner']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', 'order']]
+-1
+[['-', 'order', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', 'catfish dinner', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'dollar', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', 'dollar'], ['dollar', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['dollar', '-', 'catfish dinner', '-']]
+-1
+[['river joe', 'order', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['order', '-', 'catfish dinner', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['dollar', 'order', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', '-', 'dollar'], ['-', '-', '-', 'order']]
+-1
+[['order', '-', '-', 'dollar'], ['dollar', 'order', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'order', '-', '-'], ['-', 'order of popcorn shrimp', '-', '-']]
+-1
+[['order', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', 'order']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', 'catfish dinner']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'order', '-', '-'], ['-', '-', 'catfish dinner', 'order']]
+-1
+[['order', 'order', 'catfish dinner', '-'], ['catfish dinner', 'order', '-', '-'], ['-', '-', '-', 'order']]
+-1
+[['order', 'order', '-', 'catfish dinner'], ['catfish dinner', 'order', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', 'river jo seafood diner', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['dollar', '-', '-', 'order']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'dollar', '-', '-'], ['-', 'order', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['dollar', 'order', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['-', '-', '-', 'order']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['-', '-', 'dollar', 'order']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', 'order', '-', '-'], ['river jo seafood diner', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', 'order']]
+-1
+[['order', 'order', '-', 'dollar'], ['order', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', 'dollar', '-', 'order']]
+-1
+[['order', 'catfish dinner', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['order', '-', '-', '-'], ['-', '-', '-', 'order']]
+-1
+[['order', 'order', '-', 'dollar'], ['catfish dinner', 'order of popcorn shrimp', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', 'dollar'], ['-', '-', '-', '-']]
+-1
+[['-', 'catfish dinner', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', '-', 'order', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['catfish dinner', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', 'catfish dinner', '-', '-']]
+-1
+[['order', '-', '-', 'catfish dinner'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['catfish dinner', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', '-', 'catfish dinner', 'dollar'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['order', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['order', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', 'catfish dinner', '-'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', '-', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['catfish dinner', '-', 'order', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'catfish dinner', '-', '-'], ['catfish dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', '-', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', '-', '-', 'order'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'order', '-']]
+-1
+[['order', 'order', '-', 'dollar'], ['order', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', 'order']]
+-1
+[['-', 'order', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', 'order', '-', 'dollar'], ['order', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['-', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', 'order', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['-', '-', '-', 'order'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['-', '-', '-', 'dollar'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['-', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['-', '-', 'order', '-'], ['-', '-', '-', '-']]
+-1
+[['order', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['-', '-', 'order', '-'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', 'order']]
+-1
+[['order', 'order', '-', '-'], ['-', '-', '-', 'order'], ['-', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['-', '-', '-', '-'], ['order', '-', '-', '-']]
+-1
+[['order', 'order', '-', '-'], ['-', '-', '-', '-'], ['-', '-', 'order', '-']]

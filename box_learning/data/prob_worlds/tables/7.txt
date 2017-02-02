@@ -1,0 +1,10 @@
+1
+[['rope', '20', 'foot', '-', '-', '-', '-'], ['shorter piece', 'x1', 'foot', '-', '-', '-', '-'], ['longer piece', '2*x1 - 4', 'foot', '-', '-', '-', '-']]
+-1
+[['longer piece', '20', 'foot', '-', '-', '2*x1 - 4', '-'], ['shorter piece', 'x1', 'foot', '-', '-', '-', '-'], ['longer piece', '2*x1 - 4', 'foot', '-', '-', '20', '-']]
+-1
+[['rope', '20', 'foot', '-', 'longer piece', '-', '-'], ['shorter piece', 'x1', 'foot', '-', '-', '-', '-'], ['longer piece', 'rope', 'foot', '-', '20', '-', '-']]
+-1
+[['2*x1 - 4', '20', 'foot', '-', '-', '-', '-'], ['shorter piece', 'x1', 'foot', '-', '-', '-', '-'], ['rope', '2*x1 - 4', 'foot', '-', '-', '20', '-']]
+-1
+[['rope', '20', 'foot', '-', '-', 'longer piece', '2*x1 - 4'], ['shorter piece', 'x1', 'foot', '-', '-', '-', '-'], ['longer piece', '20', 'foot', '-', '-', 'rope', '-']]

@@ -1,0 +1,16 @@
+1
+[['62 % cement', '10', 'ton', '% cement', '62', '-', '-'], ['20 % cement', 'x1', 'ton', '% cement', '20', '-', '-'], ['80 % cement', 'x2', 'ton', '% cement', '80', '-', '-']]
+-1
+[['62 % cement', '10', 'ton', '80', '62', '-', '-'], ['20 % cement', 'x1', 'ton', '% cement', '20', '-', '-'], ['62', 'x2', '10', '% cement', '80', '-', '62 % cement']]
+-1
+[['% cement', '62 % cement', 'ton', 'x2', '62', '-', '80'], ['20 % cement', 'x1', 'ton', '% cement', '20', '-', '-'], ['80 % cement', 'x2', '62 % cement', '% cement', 'ton', '-', '-']]
+-1
+[['62 % cement', '10', 'ton', 'x2', '62', '80', '-'], ['20 % cement', 'x1', 'ton', '% cement', '20', '-', '-'], ['10', 'x2', 'ton', '62', '80', '-', '62 % cement']]
+-1
+[['62 % cement', '10', 'ton', '% cement', '62', '-', '80 % cement'], ['20 % cement', 'x1', 'ton', '% cement', '20', '-', '-'], ['62', 'ton', '62 % cement', '80 % cement', '10', '-', '-']]
+-1
+[['62 % cement', '10', 'ton', '% cement', '80 % cement', '-', 'x2'], ['20 % cement', 'x1', 'ton', '% cement', '20', '-', '-'], ['80 % cement', 'x2', 'ton', '10', '62', '62 % cement', '-']]
+-1
+[['62 % cement', '10', 'ton', 'x2', '62', '-', '-'], ['20 % cement', 'x1', 'ton', '% cement', '20', '-', '-'], ['80 % cement', 'x2', '10', '% cement', '62 % cement', '-', '-']]
+-1
+[['80 % cement', '10', 'ton', '% cement', '62', '-', '-'], ['20 % cement', 'x1', 'ton', '% cement', '20', '-', '-'], ['80 % cement', '10', 'ton', '62 % cement', '% cement', '62', '-']]

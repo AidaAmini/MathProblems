@@ -1,0 +1,8 @@
+1
+[['garden table and bench', '750', '-', '-', '-', '-', '-'], ['garden table', 'x1*2', '-', '-', '-', '-', '-'], ['bench', 'x1', '-', '-', '-', '-', '-']]
+-1
+[['garden table and bench', '750', '-', 'x1', '-', '-', '-'], ['garden table', 'x1*2', '-', '-', '-', '-', '-'], ['bench', 'x1', '-', '-', 'garden table and bench', '-', '-']]
+-1
+[['garden table and bench', '750', 'x1', '-', '-', '-', '-'], ['garden table', 'x1*2', '-', '-', '-', '-', '-'], ['bench', 'x1', '750', '-', 'garden table and bench', '-', '-']]
+-1
+[['bench', '750', '-', '-', '-', '-', '-'], ['garden table', 'x1*2', '-', '-', '-', '-', '-'], ['bench', 'x1', '-', '-', '750', '-', 'garden table and bench']]

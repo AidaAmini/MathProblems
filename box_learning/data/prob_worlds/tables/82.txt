@@ -1,0 +1,16 @@
+1
+[['fruit', '10', 'pound', '-', '-', 'dollar', '10'], ['apple', 'x1', 'pound', 'dollar', '0.6', '-', '-'], ['grape', 'x2', 'pound', 'dollar', '1', '-', '-']]
+-1
+[['fruit', 'x2', 'pound', '-', '-', 'dollar', '10'], ['apple', 'x1', 'pound', 'dollar', '0.6', '-', '-'], ['grape', 'x2', 'fruit', 'dollar', '1', '-', '10']]
+-1
+[['1', '10', 'pound', '-', '-', 'dollar', '10'], ['apple', 'x1', 'pound', 'dollar', '0.6', '-', '-'], ['fruit', 'x2', 'pound', 'dollar', '1', '-', '-']]
+-1
+[['x2', '10', 'pound', '1', '-', 'dollar', '10'], ['apple', 'x1', 'pound', 'dollar', '0.6', '-', '-'], ['grape', '10', 'pound', 'dollar', '1', 'x2', '-']]
+-1
+[['fruit', '-', 'pound', '1', 'x2', 'dollar', '10'], ['apple', 'x1', 'pound', 'dollar', '0.6', '-', '-'], ['grape', 'x2', 'pound', '10', '1', '-', '-']]
+-1
+[['fruit', 'dollar', 'pound', 'grape', '-', '1', '10'], ['apple', 'x1', 'pound', 'dollar', '0.6', '-', '-'], ['fruit', 'x2', 'pound', 'dollar', '1', '-', '10']]
+-1
+[['dollar', '10', 'pound', '-', '-', '1', '10'], ['apple', 'x1', 'pound', 'dollar', '0.6', '-', '-'], ['grape', '10', 'pound', 'dollar', '1', '-', '-']]
+-1
+[['fruit', '1', 'pound', 'grape', '10', 'dollar', 'x2'], ['apple', 'x1', 'pound', 'dollar', '0.6', '-', '-'], ['grape', 'x2', 'pound', '10', '1', 'fruit', '-']]

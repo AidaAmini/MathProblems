@@ -1,0 +1,13 @@
+carry ARG1 The maximum load that a horizontal beam can carry
+carry ARG0 a horizontal beam
+carry MOD can
+
+find ADV If a beam 1.5 inches wide can support a load of 250 pounds
+support ARG0 a beam 1.5 inches wide
+support MOD can
+support ARG1 a load of 250 pounds
+find ARG1 the load that a beam of the same type can support if its width is 3.5
+support ARG0 a beam of the same type
+support MOD can
+support ADV if its width is 3.5
+

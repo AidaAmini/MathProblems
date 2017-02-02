@@ -1,0 +1,16 @@
+1
+[['seat', '200', 'seat', '-', '-', 'dollar', '510'], ['adult', 'x1', 'seat', 'dollar', '3', '-', '-'], ['child', 'x2', 'seat', 'dollar', '1.5', '-', '-']]
+-1
+[['seat', 'x2', 'seat', 'child', '-', 'dollar', '1.5'], ['adult', 'x1', 'seat', 'dollar', '3', '-', '-'], ['child', 'x2', 'seat', 'dollar', '1.5', '-', '-']]
+-1
+[['seat', '200', 'seat', 'x2', '-', 'dollar', '510'], ['adult', 'x1', 'seat', 'dollar', '3', '-', '-'], ['child', 'x2', '510', 'seat', '1.5', '-', '-']]
+-1
+[['seat', '200', 'child', '-', '-', 'dollar', '510'], ['adult', 'x1', 'seat', 'dollar', '3', '-', '-'], ['child', '510', 'seat', 'dollar', '200', '-', '-']]
+-1
+[['seat', '200', '1.5', '-', '-', 'dollar', 'x2'], ['adult', 'x1', 'seat', 'dollar', '3', '-', '-'], ['child', 'x2', 'seat', 'dollar', '1.5', '-', '200']]
+-1
+[['seat', '200', 'seat', 'x2', '-', 'dollar', '510'], ['adult', 'x1', 'seat', 'dollar', '3', '-', '-'], ['child', 'x2', 'seat', 'dollar', '1.5', '200', '-']]
+-1
+[['seat', 'x2', 'seat', '-', '1.5', 'dollar', '510'], ['adult', 'x1', 'seat', 'dollar', '3', '-', '-'], ['child', 'x2', 'seat', 'dollar', '1.5', '-', '-']]
+-1
+[['seat', '1.5', 'seat', '-', '-', 'dollar', '510'], ['adult', 'x1', 'seat', 'dollar', '3', '-', '-'], ['child', '200', 'seat', '510', '1.5', '-', '-']]

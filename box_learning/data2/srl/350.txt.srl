@@ -1,0 +1,14 @@
+charge ARG0 River Joes 's Seafood Diner
+charge ARG3 an order of popcorn shrimp.
+charge PNC for a catfish dinner and 3.50 dollars
+charge ARG2 6.00 dollars
+
+collect TMP After filling 26 orders
+fill ARG2 filling 26 orders
+fill ARG1 26 orders
+collect ARG0 River Joe
+collect ARG1 133.50 dollars.
+
+sell ARG1 orders of popcorn shrimp and catfish dinners
+sell ARG0 they
+

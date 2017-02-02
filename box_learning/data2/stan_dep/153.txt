@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN total) (NN attendance))
+      (PP (IN at) (NP (DT a) (NN rally))))
+    (VP (VBD was) (NP (CD 750) (NNS people)))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (NNS Tickets))
+      (VP
+        (VBD bought)
+        (SBAR
+          (IN before)
+          (S
+            (NP (DT the) (NN rally))
+            (VP
+              (VBD were)
+              (NP (NP (CD 2) (NNS dollars)) (NP (DT each))))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (NNS tickets))
+      (VP
+        (VBD bought)
+        (PP
+          (IN at)
+          (NP
+            (NP (DT the) (NN door))
+            (SBAR
+              (S
+                (VP
+                  (VBD were)
+                  (NP (NP (CD 2.75) (NNS dollars)) (NP (DT each))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS tickets))
+    (SQ
+      (VBD were)
+      (VP
+        (VBN bought)
+        (PP (IN at) (NP (DT the) (NN door)))
+        (SBAR
+          (IN if)
+          (S
+            (NP (DT the) (JJ total) (NNS receipts))
+            (VP (VBD were) (NP (CD 1706.25) (NNS dollars)))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS tickets))
+    (SQ
+      (VBD were)
+      (VP (VBN bought) (PP (IN before) (NP (DT the) (NN rally)))))
+    (. ?)))

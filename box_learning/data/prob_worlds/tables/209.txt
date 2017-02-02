@@ -1,0 +1,10 @@
+1
+[['cow and chicken', '18', 'head', '-', '-', 'leg', '50'], ['cow', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'x2', '-', '-', '-', '-', '-']]
+-1
+[['cow and chicken', 'chicken', 'head', '-', '-', 'x2', '50'], ['cow', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'x2', '-', '-', '-', '-', '50']]
+-1
+[['cow and chicken', '18', 'head', '-', '-', 'leg', '50'], ['cow', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'x2', 'head', '50', '-', 'cow and chicken', '-']]
+-1
+[['cow and chicken', '18', 'chicken', '-', '-', 'leg', '50'], ['cow', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'x2', '-', '50', 'leg', '-', 'cow and chicken']]
+-1
+[['cow and chicken', '18', 'head', 'x2', '-', 'leg', 'chicken'], ['cow', 'x1', '-', '-', '-', '-', '-'], ['cow and chicken', 'x2', '-', '-', '-', '-', 'head']]

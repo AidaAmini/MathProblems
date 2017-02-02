@@ -1,0 +1,28 @@
+1
+[['Barney', '-', '-', '-', '-', 'dollar', '69'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', 'dollar', 'x2', '-', '-'], ['Mary', '-', '-', '-', '', 'dollar', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '600', 'mile', 'dollar', 'x2', '-', '-']]
+-1
+[['Mary', 'x2', '-', '-', '300', 'dollar', '69'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', 'dollar', 'x2', '-', '-'], ['Mary', '-', 'dollar', 'x2', '300', 'mile', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', 'dollar', 'x2', '-', '-']]
+-1
+[['dollar', '-', 'x2', 'mile', '-', 'mileage fee', '69'], ['daily fee', '3', 'day', 'dollar', '5', '-', '-'], ['mileage fee', '300', '69', 'dollar', 'x2', '-', '-'], ['Barney', '-', '-', '-', '600', 'dollar', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '600', 'mile', 'dollar', 'x2', '-', '-']]
+-1
+[['mile', '-', '-', '600', 'x2', 'dollar', '69'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', '69', 'x2', '-', '-'], ['x2', '-', '-', '-', '', '69', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['123', '600', 'mile', 'dollar', 'x2', '-', '-']]
+-1
+[['x2', '-', '', '-', '-', '300', '69'], ['5', '3', 'day', 'dollar', 'x1', '-', 'daily fee'], ['mileage fee', '300', 'mile', 'dollar', '600', '-', '-'], ['Mary', '-', 'mile', '-', '', 'dollar', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '600', 'mile', '300', 'x2', '-', '-']]
+-1
+[['Barney', '-', 'Mary', '-', '-', 'dollar', '123'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', 'dollar', 'Barney', '', '600'], ['Mary', '-', 'x2', '-', 'mileage fee', 'mile', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '3'], ['mileage fee', '600', 'Barney', 'dollar', 'x2', '-', 'Mary']]
+-1
+[['Barney', '-', '-', 'x2', '-', 'mile', '69'], ['5', '3', 'day', 'daily fee', 'x1', '-', '-'], ['mileage fee', '300', 'Mary', 'dollar', 'x2', '600', '-'], ['Barney', 'mileage fee', '-', '-', '', 'dollar', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', 'Barney', 'mile', 'dollar', 'x2', '-', '-']]
+-1
+[['Barney', 'mileage fee', '-', '-', '300', 'dollar', 'x2'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', 'dollar', 'x2', '-', ''], ['mile', 'dollar', '-', '-', '', '600', '300'], ['daily fee', '5', 'day', '3', 'x1', '-', '-'], ['mileage fee', '600', 'mile', 'dollar', 'x2', '-', '']]
+-1
+[['Barney', '123', '-', '-', '-', 'dollar', 'x2'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', 'dollar', 'x2', '-', '-'], ['Mary', '-', '-', '-', 'mile', 'dollar', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '600', 'mile', 'dollar', 'x2', '123', '-']]
+-1
+[['Barney', '-', '-', 'mileage fee', '-', 'x2', '69'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '5'], ['mileage fee', '300', 'mile', 'dollar', 'x2', '-', ''], ['Mary', 'mile', '-', '-', '', 'dollar', 'Barney'], ['daily fee', '5', 'day', '3', 'x1', '-', '-'], ['69', '600', 'mile', 'dollar', 'x2', 'mileage fee', '-']]
+-1
+[['x2', 'mile', '-', '-', 'Mary', 'dollar', '69'], ['5', '3', 'day', 'dollar', 'x1', '-', '-'], ['69', '300', 'mile', 'dollar', 'x2', '123', '-'], ['69', 'mile', '-', '-', '', '300', 'x2'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', 'dollar', 'x2', '-', '-']]
+-1
+[['Barney', '-', 'mileage fee', '600', '-', 'dollar', '69'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', '600', 'dollar', 'x2', '-', '-'], ['600', '-', '-', '-', '', 'x2', '123'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '600', '123', 'dollar', 'x2', '', '-']]
+-1
+[['Mary', '-', '-', 'Barney', '-', 'mileage fee', '69'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', '', 'dollar', 'x2', '-', '-'], ['Mary', '300', 'mileage fee', '-', '', 'dollar', 'Barney'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['Mary', '600', 'mile', 'dollar', '69', '-', 'Barney']]
+-1
+[['300', 'mile', '-', 'mileage fee', '-', 'dollar', '600'], ['daily fee', '3', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '300', 'mile', 'dollar', 'Barney', '-', '-'], ['300', '-', '-', '-', '', 'dollar', 'Barney'], ['daily fee', '5', 'day', 'dollar', 'x1', '-', '-'], ['mileage fee', '600', 'Barney', 'dollar', 'x2', '-', '-']]

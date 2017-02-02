@@ -1,0 +1,12 @@
+1
+[['cyclist', '-', '-', '-', '-', 'kilometer', '270'], ['-', 'x1', 'kilometer', 'hour', '5', '-', '-'], ['-', 'x1+8', 'kilometer', 'hour', '5', '-', '-']]
+-1
+[['cyclist', '-', 'hour', '-', '-', 'kilometer', '5'], ['-', 'x1', 'kilometer', 'hour', '5', '-', '-'], ['-', 'x1+8', 'kilometer', 'hour', '5', '270', '-']]
+-1
+[['cyclist', '-', 'hour', '-', '-', 'x1+8', '270'], ['-', 'x1', 'kilometer', 'hour', '5', '-', '-'], ['-', 'x1+8', 'kilometer', 'hour', '5', 'cyclist', '-']]
+-1
+[['cyclist', '-', '-', '5', 'hour', 'kilometer', '270'], ['-', 'x1', 'kilometer', 'hour', '5', '-', '-'], ['270', 'x1+8', 'cyclist', 'hour', '5', '-', '-']]
+-1
+[['cyclist', '-', 'x1+8', '-', '-', 'kilometer', '270'], ['-', 'x1', 'kilometer', 'hour', '5', '-', '-'], ['-', 'x1+8', 'cyclist', 'hour', '270', '-', '-']]
+-1
+[['x1+8', 'hour', '-', '-', '5', 'kilometer', '270'], ['-', 'x1', 'kilometer', 'hour', '5', '-', '-'], ['270', 'x1+8', 'kilometer', 'hour', '5', '-', '-']]

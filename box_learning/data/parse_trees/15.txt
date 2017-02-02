@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (NNP Arianne))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG mixing)
+        (NP
+          (NP (DT a) (NN solution))
+          (PP (IN for) (NP (NNP Chemistry) (NN class))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT a) (ADJP (CD 25) (NN %)) (NN copper) (NN solution))
+        (CC and)
+        (NP (DT a) (ADJP (CD 50) (NN %)) (NN copper) (NN solution))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (NNS milliliters))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT the) (ADJP (CD 25) (NN %)) (NN solution))
+            (CC and)
+            (NP (ADJP (CD 50) (NN %)) (NN solution))))))
+    (SQ
+      (MD should)
+      (NP (PRP she))
+      (VP
+        (VB mix)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB make)
+              (NP
+                (NP (CD 1000) (NNS milliliters))
+                (PP
+                  (IN of)
+                  (NP (DT a) (ADJP (CD 45) (NN %)) (NN solution)))))))))
+    (. ?)))

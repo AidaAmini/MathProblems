@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (S
+      (NP (NN Soybean) (NN meal))
+      (VP (VBZ is) (NP (ADJP (CD 18) (NN %)) (NN protein))))
+    (, ,)
+    (NP (NN cornmeal))
+    (VP (VBZ is) (NP (ADJP (CD 9) (NN %)) (NN protein)))
+    (. .)))
+(ROOT
+  (UCP
+    (FRAG
+      (WHNP
+        (WHNP (WHADJP (WRB How) (JJ many)) (NNS pounds))
+        (PP (IN of) (NP (DT each) (NN Soybean) (NN meal)))))
+    (CC and)
+    (SBAR
+      (WHADJP (WRB how) (JJ many))
+      (S
+        (NP (NP (NNS pounds)) (PP (IN of) (NP (NN cornmeal))))
+        (VP
+          (MD should)
+          (VP
+            (VB be)
+            (VP
+              (VBN mixed)
+              (ADVP (RB together))
+              (SBAR
+                (IN in)
+                (NN order)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB get)
+                      (NP
+                        (NP (JJ 360-pound) (NN mixture))
+                        (SBAR
+                          (WHNP (WDT that))
+                          (S
+                            (VP
+                              (VBZ is)
+                              (NP (ADJP (CD 17) (NN %)) (NN protein))))))))))))))
+      (. ?))))

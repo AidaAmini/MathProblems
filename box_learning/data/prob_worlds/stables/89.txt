@@ -1,0 +1,16 @@
+1
+[['model', '-', '-', '-', '-', '"[hour', ' dollar]"'], ['model a', 'x1', '-', '"[hour', ' dollar]"', '"[4', ' 8]"'], ['model b', 'x2', '-', '"[hour', ' dollar]"', '"[3', ' 7]"']]
+-1
+[['"[hour', '-', 'model b', '-', '"[3', ' 7]"', 'x2'], ['model a', 'x1', '-', '"[hour', ' dollar]"', '"[4', ' 8]"'], ['model b', 'x2', '-', '"[hour', ' dollar]"', '"[3', ' 7]"']]
+-1
+[['model', '"[hour', 'model b', '-', ' 7]"', '"[3', ' dollar]"'], ['model a', 'x1', '-', '"[hour', ' dollar]"', '"[4', ' 8]"'], ['model b', 'x2', 'model', '"[hour', ' dollar]"', '"[3', ' 7]"']]
+-1
+[['model b', '-', '"[3', '-', ' dollar]"', 'x2', ' 7]"'], ['model a', 'x1', '-', '"[hour', ' dollar]"', '"[4', ' 8]"'], ['model b', 'x2', '-', '"[hour', ' dollar]"', '"[3', ' 7]"']]
+-1
+[[' dollar]"', 'x2', '-', ' 7]"', '-', '"[hour', 'model b'], ['model a', 'x1', '-', '"[hour', ' dollar]"', '"[4', ' 8]"'], ['model b', 'x2', '-', '"[hour', ' dollar]"', '"[3', ' 7]"']]
+-1
+[['model', ' 7]"', '-', 'model b', '"[3', '"[hour', ' dollar]"'], ['model a', 'x1', '-', '"[hour', ' dollar]"', '"[4', ' 8]"'], ['model b', 'x2', '-', '"[hour', 'model', '"[3', ' 7]"']]
+-1
+[['model', '-', '"[3', '-', ' 7]"', '"[hour', ' dollar]"'], ['model a', 'x1', '-', '"[hour', ' dollar]"', '"[4', ' 8]"'], ['model b', 'x2', '-', '"[hour', ' dollar]"', 'model', ' 7]"']]
+-1
+[['model', ' 7]"', '-', '"[3', ' dollar]"', '"[hour', 'x2'], ['model a', 'x1', '-', '"[hour', ' dollar]"', '"[4', ' 8]"'], ['model b', 'x2', '-', 'model', ' dollar]"', '"[3', ' 7]"']]

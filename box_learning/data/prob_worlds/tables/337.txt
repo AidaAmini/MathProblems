@@ -1,0 +1,14 @@
+1
+[['prepaid phone card', '1', '-', '-', '-', 'dollar', '30'], ['long distance call', 'x1', 'minute', 'cent', '16', '-', '-'], ['remaining credit', '1', '-', 'dollar', '26.48', '-', '-']]
+-1
+[['prepaid phone card', '1', '-', '-', '-', 'dollar', 'remaining credit'], ['long distance call', 'x1', 'minute', 'cent', '16', '-', '-'], ['remaining credit', '1', '-', 'dollar', 'prepaid phone card', '-', '-']]
+-1
+[['remaining credit', '26.48', '-', '1', '-', 'dollar', '30'], ['long distance call', 'x1', 'minute', 'cent', '16', '-', '-'], ['remaining credit', '1', '-', 'dollar', '26.48', '-', '-']]
+-1
+[['30', '1', '-', '-', '-', 'dollar', 'remaining credit'], ['long distance call', 'x1', 'minute', 'cent', '16', '-', '-'], ['remaining credit', '1', '30', 'dollar', '26.48', '-', '-']]
+-1
+[['prepaid phone card', '1', '-', '-', '-', 'dollar', '30'], ['long distance call', 'x1', 'minute', 'cent', '16', '-', '-'], ['remaining credit', '1', '-', 'dollar', '30', '-', 'prepaid phone card']]
+-1
+[['prepaid phone card', 'remaining credit', '-', '-', '-', 'dollar', '30'], ['long distance call', 'x1', 'minute', 'cent', '16', '-', '-'], ['remaining credit', '1', '-', 'dollar', '26.48', '-', '30']]
+-1
+[['prepaid phone card', '1', '26.48', '-', '-', 'dollar', '30'], ['long distance call', 'x1', 'minute', 'cent', '16', '-', '-'], ['remaining credit', '1', '-', 'prepaid phone card', '30', 'dollar', '26.48']]

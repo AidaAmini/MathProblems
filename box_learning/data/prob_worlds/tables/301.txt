@@ -1,0 +1,10 @@
+1
+[['goat and chicken', '13', 'head', '-', '-', 'leg', '30'], ['goat', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'x2', '-', '-', '-', '-', '-']]
+-1
+[['goat and chicken', '13', 'head', '-', 'chicken', 'leg', '30'], ['goat', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'x2', '-', '-', 'head', 'goat and chicken', 'leg']]
+-1
+[['goat and chicken', '13', 'head', '-', '-', 'leg', '30'], ['goat', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'leg', 'goat and chicken', '-', '13', '-', '-']]
+-1
+[['goat and chicken', '13', 'head', '-', '-', 'chicken', '30'], ['goat', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'x2', '-', '-', '13', '-', '30']]
+-1
+[['goat and chicken', '13', 'head', '-', '-', 'leg', 'chicken'], ['goat', 'x1', '-', '-', '-', '-', '-'], ['chicken', 'x2', '-', '-', '-', 'head', 'goat and chicken']]

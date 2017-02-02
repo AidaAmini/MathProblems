@@ -1,0 +1,135 @@
+['30 dollar', '18 cent', 'mile', 'budget', '75 dollar', 'mileage']
+['30 dollar']	['18 cent']	0.387929093691
+['30 dollar']	['mile']	0.0077840051964
+['30 dollar']	['budget']	0.0741073489195
+['30 dollar']	['75 dollar']	0.643440930505
+['30 dollar']	['mileage']	0.0764053905195
+['18 cent']	['mile']	0.00424649792755
+['18 cent']	['budget']	0.0741073489195
+['18 cent']	['75 dollar']	0.0901100077042
+['18 cent']	['mileage']	0.0800606621439
+['mile']	['budget']	0.0195693817635
+['mile']	['75 dollar']	0.0172568074531
+['budget']	['75 dollar']	0.0669904799604
+['budget']	['mileage']	0.123919793545
+['75 dollar']	['mileage']	0.0764053905195
+['18 cent', '30 dollar']	['mile']	0.0077840051964
+['18 cent', '30 dollar']	['budget']	0.0741073489195
+['18 cent', '30 dollar']	['75 dollar']	0.584269096576
+['18 cent', '30 dollar']	['mileage']	0.0777864840342
+['mile', '30 dollar']	['18 cent']	0.262356832099
+['mile', '30 dollar']	['budget']	0.275589408319
+['mile', '30 dollar']	['75 dollar']	0.119282229775
+['mile', '30 dollar']	['mileage']	0.320877754391
+['budget', '30 dollar']	['18 cent']	0.378243431518
+['budget', '30 dollar']	['mile']	0.31653555257
+['budget', '30 dollar']	['75 dollar']	0.482679469303
+['budget', '30 dollar']	['mileage']	0.647449796676
+['75 dollar', '30 dollar']	['18 cent']	0.59564157713
+['75 dollar', '30 dollar']	['mile']	0.158200563902
+['75 dollar', '30 dollar']	['budget']	0.386965255933
+['75 dollar', '30 dollar']	['mileage']	0.383475193417
+['mileage', '30 dollar']	['18 cent']	0.422016612763
+['mileage', '30 dollar']	['mile']	0.171160936721
+['mileage', '30 dollar']	['budget']	0.671096430231
+['mileage', '30 dollar']	['75 dollar']	0.538007739106
+['30 dollar', '18 cent']	['mile']	0.0077840051964
+['30 dollar', '18 cent']	['budget']	0.0741073489195
+['30 dollar', '18 cent']	['75 dollar']	0.584269096576
+['30 dollar', '18 cent']	['mileage']	0.0777864840342
+['mile', '18 cent']	['30 dollar']	0.253747175322
+['mile', '18 cent']	['budget']	0.275589408319
+['mile', '18 cent']	['75 dollar']	0.0221369896995
+['mile', '18 cent']	['mileage']	0.320877754391
+['budget', '18 cent']	['30 dollar']	0.378243431518
+['budget', '18 cent']	['mile']	0.226059362094
+['budget', '18 cent']	['75 dollar']	0.0703393045902
+['budget', '18 cent']	['mileage']	0.660454034071
+['75 dollar', '18 cent']	['30 dollar']	0.754360422532
+['75 dollar', '18 cent']	['mile']	0.0077840051964
+['75 dollar', '18 cent']	['budget']	0.0741073489195
+['75 dollar', '18 cent']	['mileage']	0.0777864840342
+['mileage', '18 cent']	['30 dollar']	0.422016612763
+['mileage', '18 cent']	['mile']	0.170367285928
+['mileage', '18 cent']	['budget']	0.671096430231
+['mileage', '18 cent']	['75 dollar']	0.0827346205535
+['30 dollar', 'mile']	['18 cent']	0.262356832099
+['30 dollar', 'mile']	['budget']	0.275589408319
+['30 dollar', 'mile']	['75 dollar']	0.119282229775
+['30 dollar', 'mile']	['mileage']	0.320877754391
+['18 cent', 'mile']	['30 dollar']	0.253747175322
+['18 cent', 'mile']	['budget']	0.275589408319
+['18 cent', 'mile']	['75 dollar']	0.0221369896995
+['18 cent', 'mile']	['mileage']	0.320877754391
+['budget', 'mile']	['30 dollar']	0.0808447790278
+['budget', 'mile']	['18 cent']	0.0864675159274
+['budget', 'mile']	['75 dollar']	0.0808447790278
+['budget', 'mile']	['mileage']	0.276358776359
+['75 dollar', 'mile']	['30 dollar']	0.119282229775
+['75 dollar', 'mile']	['18 cent']	0.0154105889865
+['75 dollar', 'mile']	['budget']	0.275589408319
+['75 dollar', 'mile']	['mileage']	0.320877754391
+['mileage', 'mile']	['30 dollar']	0.0311160689586
+['mileage', 'mile']	['18 cent']	0.0154105889865
+['mileage', 'mile']	['budget']	0.0551115423304
+['mileage', 'mile']	['75 dollar']	0.0311160689586
+['30 dollar', 'budget']	['18 cent']	0.378243431518
+['30 dollar', 'budget']	['mile']	0.31653555257
+['30 dollar', 'budget']	['75 dollar']	0.482679469303
+['30 dollar', 'budget']	['mileage']	0.647449796676
+['18 cent', 'budget']	['30 dollar']	0.378243431518
+['18 cent', 'budget']	['mile']	0.226059362094
+['18 cent', 'budget']	['75 dollar']	0.0703393045902
+['18 cent', 'budget']	['mileage']	0.660454034071
+['mile', 'budget']	['30 dollar']	0.0808447790278
+['mile', 'budget']	['18 cent']	0.0864675159274
+['mile', 'budget']	['75 dollar']	0.0808447790278
+['mile', 'budget']	['mileage']	0.276358776359
+['75 dollar', 'budget']	['30 dollar']	0.482679469303
+['75 dollar', 'budget']	['18 cent']	0.0703393045902
+['75 dollar', 'budget']	['mile']	0.31653555257
+['75 dollar', 'budget']	['mileage']	0.647449796676
+['mileage', 'budget']	['30 dollar']	0.0669904799604
+['mileage', 'budget']	['18 cent']	0.0689582110755
+['mileage', 'budget']	['mile']	0.228540903541
+['mileage', 'budget']	['75 dollar']	0.0669904799604
+['30 dollar', '75 dollar']	['18 cent']	0.59564157713
+['30 dollar', '75 dollar']	['mile']	0.158200563902
+['30 dollar', '75 dollar']	['budget']	0.386965255933
+['30 dollar', '75 dollar']	['mileage']	0.383475193417
+['18 cent', '75 dollar']	['30 dollar']	0.754360422532
+['18 cent', '75 dollar']	['mile']	0.0077840051964
+['18 cent', '75 dollar']	['budget']	0.0741073489195
+['18 cent', '75 dollar']	['mileage']	0.0777864840342
+['mile', '75 dollar']	['30 dollar']	0.119282229775
+['mile', '75 dollar']	['18 cent']	0.0154105889865
+['mile', '75 dollar']	['budget']	0.275589408319
+['mile', '75 dollar']	['mileage']	0.320877754391
+['budget', '75 dollar']	['30 dollar']	0.482679469303
+['budget', '75 dollar']	['18 cent']	0.0703393045902
+['budget', '75 dollar']	['mile']	0.31653555257
+['budget', '75 dollar']	['mileage']	0.647449796676
+['mileage', '75 dollar']	['30 dollar']	0.538007739106
+['mileage', '75 dollar']	['18 cent']	0.0827346205535
+['mileage', '75 dollar']	['mile']	0.171160936721
+['mileage', '75 dollar']	['budget']	0.671096430231
+['30 dollar', 'mileage']	['18 cent']	0.422016612763
+['30 dollar', 'mileage']	['mile']	0.171160936721
+['30 dollar', 'mileage']	['budget']	0.671096430231
+['30 dollar', 'mileage']	['75 dollar']	0.538007739106
+['18 cent', 'mileage']	['30 dollar']	0.422016612763
+['18 cent', 'mileage']	['mile']	0.170367285928
+['18 cent', 'mileage']	['budget']	0.671096430231
+['18 cent', 'mileage']	['75 dollar']	0.0827346205535
+['mile', 'mileage']	['30 dollar']	0.0311160689586
+['mile', 'mileage']	['18 cent']	0.0154105889865
+['mile', 'mileage']	['budget']	0.0551115423304
+['mile', 'mileage']	['75 dollar']	0.0311160689586
+['budget', 'mileage']	['30 dollar']	0.0669904799604
+['budget', 'mileage']	['18 cent']	0.0689582110755
+['budget', 'mileage']	['mile']	0.228540903541
+['budget', 'mileage']	['75 dollar']	0.0669904799604
+['75 dollar', 'mileage']	['30 dollar']	0.538007739106
+['75 dollar', 'mileage']	['18 cent']	0.0827346205535
+['75 dollar', 'mileage']	['mile']	0.171160936721
+['75 dollar', 'mileage']	['budget']	0.671096430231

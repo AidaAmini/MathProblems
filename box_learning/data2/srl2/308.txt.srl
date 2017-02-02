@@ -1,0 +1,16 @@
+have ARG0 A dealer
+have ARG1 some hard candy worth 2 dollars a pound and some worth 3 dollars a pound
+
+wish ARG0 He
+make ARG0 He
+wish ARG1 to make a mixture of 80 pounds that he can sell for 2.20 dollars per pound.
+make ARG1 a mixture of 80 pounds that he can sell for 2.20 dollars per pound.
+sell ARG1 a mixture of 80 pounds that he can sell for 2.20 dollars per pound.
+sell ARG0 he
+sell MOD can
+sell ARG3 2.20 dollars
+
+use ARG1 pounds of each kind
+use ARG0 he
+use MOD should he
+

@@ -1,0 +1,30 @@
+['piggy bank', '50 coin', 'coin', '4.55 dollar']
+['piggy bank']	['50 coin']	0.0827346205535
+['piggy bank']	['coin']	0.0575843031668
+['piggy bank']	['4.55 dollar']	0.0901100077042
+['50 coin']	['4.55 dollar']	0.0901100077042
+['coin']	['4.55 dollar']	0.319064126217
+['50 coin', 'piggy bank']	['coin']	0.428045198947
+['50 coin', 'piggy bank']	['4.55 dollar']	0.0901100077042
+['coin', 'piggy bank']	['50 coin']	0.536960608051
+['coin', 'piggy bank']	['4.55 dollar']	0.283459449997
+['4.55 dollar', 'piggy bank']	['50 coin']	0.0827346205535
+['4.55 dollar', 'piggy bank']	['coin']	0.289118131336
+['piggy bank', '50 coin']	['coin']	0.428045198947
+['piggy bank', '50 coin']	['4.55 dollar']	0.0901100077042
+['coin', '50 coin']	['piggy bank']	0.124609221473
+['coin', '50 coin']	['4.55 dollar']	0.486384753329
+['4.55 dollar', '50 coin']	['piggy bank']	0.0827346205535
+['4.55 dollar', '50 coin']	['coin']	0.696911024533
+['piggy bank', 'coin']	['50 coin']	0.536960608051
+['piggy bank', 'coin']	['4.55 dollar']	0.283459449997
+['50 coin', 'coin']	['piggy bank']	0.124609221473
+['50 coin', 'coin']	['4.55 dollar']	0.486384753329
+['4.55 dollar', 'coin']	['piggy bank']	0.0429586976843
+['4.55 dollar', 'coin']	['50 coin']	0.540072524315
+['piggy bank', '4.55 dollar']	['50 coin']	0.0827346205535
+['piggy bank', '4.55 dollar']	['coin']	0.289118131336
+['50 coin', '4.55 dollar']	['piggy bank']	0.0827346205535
+['50 coin', '4.55 dollar']	['coin']	0.696911024533
+['coin', '4.55 dollar']	['piggy bank']	0.0429586976843
+['coin', '4.55 dollar']	['50 coin']	0.540072524315

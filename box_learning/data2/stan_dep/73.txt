@@ -1,0 +1,75 @@
+(ROOT
+  (S
+    (NP (DT The) (NNP Johnson) (NNP Farm))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 500) (NNS acres))
+        (PP
+          (IN of)
+          (NP
+            (NP (NN land))
+            (VP
+              (VBN allotted)
+              (PP
+                (IN for)
+                (S
+                  (VP
+                    (VBG cultivating)
+                    (NP (NN corn) (CC and) (NN wheat))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN cost))
+      (PP
+        (IN of)
+        (S (VP (VBG cultivating) (NP (NN corn) (CC and) (NN wheat))))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (NP (CD 42) (NNS dollars)) (PP (IN for) (NP (NN corn))))
+        (CC and)
+        (NP (NP (CD 30) (NNS dollars)) (PP (IN for) (NP (NN wheat))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NN Mr.Johnson))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 18,600) (NNS dollars))
+        (ADJP
+          (JJ available)
+          (PP
+            (IN for)
+            (S (VP (VBG cultivating) (NP (DT these) (NNS crops))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP he))
+        (VP
+          (VBD used)
+          (NP
+            (PDT all)
+            (NP (DT the) (NN land))
+            (CC and)
+            (NP (JJ entire) (NN budget))))))
+    (, ,)
+    (WHNP
+      (WHNP (WHADJP (WRB how) (JJ many)) (NNS acres))
+      (PP
+        (IN of)
+        (NP
+          (NP
+            (UCP
+              (NP (NN corn))
+              (CC and)
+              (ADJP (WHADVP (WRB how)) (JJ many)))
+            (NNS acres))
+          (PP (IN of) (NP (NN wheat))))))
+    (SQ (MD should) (NP (PRP he)) (VP (VB plant)))
+    (. ?)))

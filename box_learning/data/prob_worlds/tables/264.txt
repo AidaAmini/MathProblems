@@ -1,0 +1,10 @@
+1
+[['peach and a apple', '70', 'cents', '-', '-', '-', '-'], ['peach', 'x1 + 60', 'cents', '-', '-', '-', '-'], ['apple', 'x1', 'cents', '-', '-', '-', '-']]
+-1
+[['peach and a apple', 'x1', 'cents', '-', '-', '-', '-'], ['peach', 'x1 + 60', 'cents', '-', '-', '-', '-'], ['apple', 'x1', 'cents', '-', '-', '-', '-']]
+-1
+[['apple', '70', 'cents', '-', '-', '-', '-'], ['peach', 'x1 + 60', 'cents', '-', '-', '-', '-'], ['apple', 'x1', 'cents', '-', '-', '-', '-']]
+-1
+[['peach and a apple', '70', 'cents', 'x1', '-', '-', 'apple'], ['peach', 'x1 + 60', 'cents', '-', '-', '-', '-'], ['70', 'x1', 'cents', '-', '-', '-', 'peach and a apple']]
+-1
+[['peach and a apple', 'x1', 'cents', '-', '-', '-', '-'], ['peach', 'x1 + 60', 'cents', '-', '-', '-', '-'], ['cents', 'x1', '70', '-', '-', '-', 'peach and a apple']]

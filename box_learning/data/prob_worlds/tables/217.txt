@@ -1,0 +1,16 @@
+1
+[['corn and wheat', '4500', 'arce', '-', '-', 'dollar', '165, 200'], ['corn', 'x1', 'arce', 'dollar', '42', '-', '-'], ['wheat', 'x2', 'arce', 'dollar', '35', '-', '-']]
+-1
+[['corn and wheat', '4500', 'arce', '-', '-', 'dollar', '35'], ['corn', 'x1', 'arce', 'dollar', '42', '-', '-'], ['corn and wheat', 'x2', 'arce', 'dollar', '4500', '-', '-']]
+-1
+[['corn and wheat', '4500', 'arce', '-', '-', 'wheat', '35'], ['corn', 'x1', 'arce', 'dollar', '42', '-', '-'], ['wheat', 'x2', '165, 200', '4500', '35', '-', 'corn and wheat']]
+-1
+[['corn and wheat', '4500', 'arce', '-', '-', 'dollar', 'x2'], ['corn', 'x1', 'arce', 'dollar', '42', '-', '-'], ['wheat', 'x2', 'arce', 'dollar', '4500', '-', '-']]
+-1
+[['corn and wheat', 'arce', '35', 'x2', '-', 'dollar', '165, 200'], ['corn', 'x1', 'arce', 'dollar', '42', '-', '-'], ['wheat', 'x2', 'corn and wheat', '4500', '35', '-', 'arce']]
+-1
+[['corn and wheat', 'wheat', 'arce', 'x2', '-', 'dollar', '165, 200'], ['corn', 'x1', 'arce', 'dollar', '42', '-', '-'], ['dollar', 'x2', 'arce', 'corn and wheat', '35', '-', '-']]
+-1
+[['corn and wheat', '4500', 'arce', 'wheat', 'x2', 'dollar', '35'], ['corn', 'x1', 'arce', 'dollar', '42', '-', '-'], ['wheat', 'x2', 'arce', 'dollar', '35', '-', 'corn and wheat']]
+-1
+[['corn and wheat', '35', 'arce', '-', '-', 'wheat', '165, 200'], ['corn', 'x1', 'arce', 'dollar', '42', '-', '-'], ['wheat', '4500', 'arce', '165, 200', '35', '-', 'corn and wheat']]

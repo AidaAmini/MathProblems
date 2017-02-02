@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Advance) (NNS tickets))
+        (PP (TO to) (NP (DT a) (NN show))))
+      (VP (VBP are) (NP (CD 20))))
+    (, ,)
+    (CC and)
+    (S (NP (JJ same-day) (NNS tickets)) (VP (VBP are) (NP (CD 30))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ total) (NN number))
+      (PP (IN of) (NP (NP (NNS tickets)) (VP (VBN sold)))))
+    (VP
+      (VBD was)
+      (NP
+        (NP (CD 60))
+        (PP
+          (IN for)
+          (NP
+            (NP (JJ total) (NNS receipts))
+            (PP (IN of) (NP (CD 6))))))
+      (SBAR
+        (WHADJP (WRB How) (JJ many))
+        (S
+          (NP (NN advance) (NNS tickets))
+          (VP (VBD were) (VP (VBN sold))))))
+    (. ?)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (JJ same-day) (NNS tickets))
+      (VP (VBD were) (VP (VBN sold))))
+    (. ?)))

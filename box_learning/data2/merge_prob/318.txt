@@ -1,0 +1,1787 @@
+['university theater', '510 ticket', 'play', 'ticket', '21 dollar', 'adult', 'dollar', '15 dollar', 'senior citizen', 'receipt', '8748 dollar', 'senior citizen ticket', 'citizen ticket']
+['university theater']	['510 ticket']	0.0901100077042
+['university theater']	['play']	0.150291470448
+['university theater']	['ticket']	0.079730351659
+['university theater']	['21 dollar']	0.0827346205535
+['university theater']	['adult']	0.0744376594044
+['university theater']	['dollar']	0.0132263547461
+['university theater']	['15 dollar']	0.0827346205535
+['university theater']	['senior citizen']	0.0824069519204
+['university theater']	['receipt']	0.150291470448
+['university theater']	['8748 dollar']	0.0901100077042
+['university theater']	['senior citizen ticket']	0.096515242987
+['university theater']	['citizen ticket']	0.0827346205535
+['510 ticket']	['play']	0.0896499787083
+['510 ticket']	['21 dollar']	0.0901100077042
+['510 ticket']	['adult']	0.0888375395985
+['510 ticket']	['dollar']	0.0256410450838
+['510 ticket']	['15 dollar']	0.0901100077042
+['510 ticket']	['senior citizen']	0.0897823390711
+['510 ticket']	['receipt']	0.0744376594044
+['510 ticket']	['8748 dollar']	0.0901100077042
+['510 ticket']	['senior citizen ticket']	0.565570654525
+['510 ticket']	['citizen ticket']	0.643440930505
+['play']	['ticket']	0.122840736639
+['play']	['21 dollar']	0.0816612840118
+['play']	['adult']	0.110313103119
+['play']	['dollar']	0.0348865190937
+['play']	['15 dollar']	0.0816612840118
+['play']	['senior citizen']	0.0810258584057
+['play']	['receipt']	0.154812515002
+['play']	['8748 dollar']	0.0816612840118
+['play']	['senior citizen ticket']	0.10123857213
+['play']	['citizen ticket']	0.0854147342737
+['ticket']	['21 dollar']	0.10873615468
+['ticket']	['adult']	0.0734239376973
+['ticket']	['dollar']	0.0240886330375
+['ticket']	['15 dollar']	0.10873615468
+['ticket']	['senior citizen']	0.0746958245975
+['ticket']	['receipt']	0.158736792362
+['ticket']	['8748 dollar']	0.10873615468
+['21 dollar']	['adult']	0.0777864840342
+['21 dollar']	['15 dollar']	0.828768839235
+['21 dollar']	['senior citizen']	0.0824069519204
+['21 dollar']	['receipt']	0.0744376594044
+['21 dollar']	['8748 dollar']	0.643440930505
+['21 dollar']	['senior citizen ticket']	0.0908034291173
+['21 dollar']	['citizen ticket']	0.0827346205535
+['adult']	['dollar']	0.0346118531755
+['adult']	['15 dollar']	0.0827346205535
+['adult']	['senior citizen']	0.17132134852
+['adult']	['receipt']	0.148803899434
+['adult']	['8748 dollar']	0.0827346205535
+['adult']	['senior citizen ticket']	0.094467200112
+['adult']	['citizen ticket']	0.0827346205535
+['dollar']	['senior citizen']	0.0180288480811
+['dollar']	['receipt']	0.0356693556892
+['dollar']	['senior citizen ticket']	0.0657608126273
+['dollar']	['citizen ticket']	0.0427692176215
+['15 dollar']	['senior citizen']	0.0824069519204
+['15 dollar']	['receipt']	0.0744376594044
+['15 dollar']	['8748 dollar']	0.643440930505
+['15 dollar']	['senior citizen ticket']	0.0908034291173
+['15 dollar']	['citizen ticket']	0.0827346205535
+['senior citizen']	['receipt']	0.0690378963307
+['senior citizen']	['8748 dollar']	0.0737139440912
+['senior citizen']	['citizen ticket']	0.111205290482
+['receipt']	['8748 dollar']	0.0800317642921
+['receipt']	['senior citizen ticket']	0.100862937951
+['receipt']	['citizen ticket']	0.0800317642921
+['8748 dollar']	['senior citizen ticket']	0.0941266761548
+['8748 dollar']	['citizen ticket']	0.0901100077042
+['510 ticket', 'university theater']	['play']	0.170171263305
+['510 ticket', 'university theater']	['ticket']	0.600448858269
+['510 ticket', 'university theater']	['21 dollar']	0.0827346205535
+['510 ticket', 'university theater']	['adult']	0.0777864840342
+['510 ticket', 'university theater']	['dollar']	0.0354449666524
+['510 ticket', 'university theater']	['15 dollar']	0.0827346205535
+['510 ticket', 'university theater']	['senior citizen']	0.0824069519204
+['510 ticket', 'university theater']	['receipt']	0.170171263305
+['510 ticket', 'university theater']	['8748 dollar']	0.0901100077042
+['510 ticket', 'university theater']	['senior citizen ticket']	0.610446673047
+['510 ticket', 'university theater']	['citizen ticket']	0.549852778125
+['play', 'university theater']	['510 ticket']	0.0871340391838
+['play', 'university theater']	['ticket']	0.745741216304
+['play', 'university theater']	['21 dollar']	0.0800317642921
+['play', 'university theater']	['adult']	0.197817457066
+['play', 'university theater']	['dollar']	0.314325645164
+['play', 'university theater']	['15 dollar']	0.0800317642921
+['play', 'university theater']	['senior citizen']	0.0824069519204
+['play', 'university theater']	['receipt']	0.8719298934
+['play', 'university theater']	['8748 dollar']	0.0833805889219
+['play', 'university theater']	['senior citizen ticket']	0.111786823954
+['play', 'university theater']	['citizen ticket']	0.083785214554
+['ticket', 'university theater']	['510 ticket']	0.669973747197
+['ticket', 'university theater']	['play']	0.870296968745
+['ticket', 'university theater']	['21 dollar']	0.103222748661
+['ticket', 'university theater']	['adult']	0.211523961879
+['ticket', 'university theater']	['dollar']	0.0806965185133
+['ticket', 'university theater']	['15 dollar']	0.103222748661
+['ticket', 'university theater']	['senior citizen']	0.0746958245975
+['ticket', 'university theater']	['receipt']	0.862266665715
+['ticket', 'university theater']	['8748 dollar']	0.103222748661
+['ticket', 'university theater']	['senior citizen ticket']	0.682192676657
+['ticket', 'university theater']	['citizen ticket']	0.685963783853
+['21 dollar', 'university theater']	['510 ticket']	0.0901100077042
+['21 dollar', 'university theater']	['play']	0.170171263305
+['21 dollar', 'university theater']	['ticket']	0.105969303899
+['21 dollar', 'university theater']	['adult']	0.0744376594044
+['21 dollar', 'university theater']	['dollar']	0.303389462637
+['21 dollar', 'university theater']	['15 dollar']	0.754360422532
+['21 dollar', 'university theater']	['senior citizen']	0.0824069519204
+['21 dollar', 'university theater']	['receipt']	0.170171263305
+['21 dollar', 'university theater']	['8748 dollar']	0.584269096576
+['21 dollar', 'university theater']	['senior citizen ticket']	0.096515242987
+['21 dollar', 'university theater']	['citizen ticket']	0.0827346205535
+['adult', 'university theater']	['510 ticket']	0.0827346205535
+['adult', 'university theater']	['play']	0.300904331282
+['adult', 'university theater']	['ticket']	0.192648399091
+['adult', 'university theater']	['21 dollar']	0.0827346205535
+['adult', 'university theater']	['dollar']	0.11596780482
+['adult', 'university theater']	['15 dollar']	0.0827346205535
+['adult', 'university theater']	['senior citizen']	0.162561925664
+['adult', 'university theater']	['receipt']	0.860661950816
+['adult', 'university theater']	['8748 dollar']	0.0827346205535
+['adult', 'university theater']	['senior citizen ticket']	0.094467200112
+['adult', 'university theater']	['citizen ticket']	0.0827346205535
+['dollar', 'university theater']	['510 ticket']	0.0618737183104
+['dollar', 'university theater']	['play']	0.59872510861
+['dollar', 'university theater']	['ticket']	0.11086262958
+['dollar', 'university theater']	['21 dollar']	0.391516700063
+['dollar', 'university theater']	['adult']	0.0972672142366
+['dollar', 'university theater']	['15 dollar']	0.391516700063
+['dollar', 'university theater']	['senior citizen']	0.0421463435009
+['dollar', 'university theater']	['receipt']	0.59872510861
+['dollar', 'university theater']	['8748 dollar']	0.442012633359
+['dollar', 'university theater']	['senior citizen ticket']	0.11617372092
+['dollar', 'university theater']	['citizen ticket']	0.0775194642361
+['15 dollar', 'university theater']	['510 ticket']	0.0901100077042
+['15 dollar', 'university theater']	['play']	0.170171263305
+['15 dollar', 'university theater']	['ticket']	0.105969303899
+['15 dollar', 'university theater']	['21 dollar']	0.754360422532
+['15 dollar', 'university theater']	['adult']	0.0744376594044
+['15 dollar', 'university theater']	['dollar']	0.303389462637
+['15 dollar', 'university theater']	['senior citizen']	0.0824069519204
+['15 dollar', 'university theater']	['receipt']	0.170171263305
+['15 dollar', 'university theater']	['8748 dollar']	0.584269096576
+['15 dollar', 'university theater']	['senior citizen ticket']	0.096515242987
+['15 dollar', 'university theater']	['citizen ticket']	0.0827346205535
+['senior citizen', 'university theater']	['510 ticket']	0.0737139440912
+['senior citizen', 'university theater']	['play']	0.114277816392
+['senior citizen', 'university theater']	['ticket']	0.0673701015291
+['senior citizen', 'university theater']	['21 dollar']	0.0696933362217
+['senior citizen', 'university theater']	['adult']	0.185698796745
+['senior citizen', 'university theater']	['dollar']	0.0106028278734
+['senior citizen', 'university theater']	['15 dollar']	0.0696933362217
+['senior citizen', 'university theater']	['receipt']	0.106678912792
+['senior citizen', 'university theater']	['8748 dollar']	0.0737139440912
+['senior citizen', 'university theater']	['senior citizen ticket']	0.563208581151
+['senior citizen', 'university theater']	['citizen ticket']	0.11995745473
+['receipt', 'university theater']	['510 ticket']	0.0833805889219
+['receipt', 'university theater']	['play']	0.8719298934
+['receipt', 'university theater']	['ticket']	0.748002867908
+['receipt', 'university theater']	['21 dollar']	0.0800317642921
+['receipt', 'university theater']	['adult']	0.693233910408
+['receipt', 'university theater']	['dollar']	0.347658978497
+['receipt', 'university theater']	['15 dollar']	0.0800317642921
+['receipt', 'university theater']	['senior citizen']	0.0824069519204
+['receipt', 'university theater']	['8748 dollar']	0.0833805889219
+['receipt', 'university theater']	['senior citizen ticket']	0.100862937951
+['receipt', 'university theater']	['citizen ticket']	0.0800317642921
+['8748 dollar', 'university theater']	['510 ticket']	0.0901100077042
+['8748 dollar', 'university theater']	['play']	0.170171263305
+['8748 dollar', 'university theater']	['ticket']	0.105969303899
+['8748 dollar', 'university theater']	['21 dollar']	0.549852778125
+['8748 dollar', 'university theater']	['adult']	0.0744376594044
+['8748 dollar', 'university theater']	['dollar']	0.371286700844
+['8748 dollar', 'university theater']	['15 dollar']	0.549852778125
+['8748 dollar', 'university theater']	['senior citizen']	0.0824069519204
+['8748 dollar', 'university theater']	['receipt']	0.170171263305
+['8748 dollar', 'university theater']	['senior citizen ticket']	0.0908034291173
+['8748 dollar', 'university theater']	['citizen ticket']	0.0827346205535
+['senior citizen ticket', 'university theater']	['510 ticket']	0.653642048458
+['senior citizen ticket', 'university theater']	['play']	0.223536026126
+['senior citizen ticket', 'university theater']	['ticket']	0.784835185815
+['senior citizen ticket', 'university theater']	['21 dollar']	0.152238479479
+['senior citizen ticket', 'university theater']	['adult']	0.14729034296
+['senior citizen ticket', 'university theater']	['dollar']	0.0328323146202
+['senior citizen ticket', 'university theater']	['15 dollar']	0.152238479479
+['senior citizen ticket', 'university theater']	['senior citizen']	0.547044047195
+['senior citizen ticket', 'university theater']	['receipt']	0.223536026126
+['senior citizen ticket', 'university theater']	['8748 dollar']	0.15961386663
+['senior citizen ticket', 'university theater']	['citizen ticket']	0.659569048613
+['citizen ticket', 'university theater']	['510 ticket']	0.584269096576
+['citizen ticket', 'university theater']	['play']	0.170171263305
+['citizen ticket', 'university theater']	['ticket']	0.701921654163
+['citizen ticket', 'university theater']	['21 dollar']	0.0827346205535
+['citizen ticket', 'university theater']	['adult']	0.0777864840342
+['citizen ticket', 'university theater']	['dollar']	0.0354449666524
+['citizen ticket', 'university theater']	['15 dollar']	0.0827346205535
+['citizen ticket', 'university theater']	['senior citizen']	0.11192831726
+['citizen ticket', 'university theater']	['receipt']	0.170171263305
+['citizen ticket', 'university theater']	['8748 dollar']	0.0901100077042
+['citizen ticket', 'university theater']	['senior citizen ticket']	0.663527427801
+['university theater', '510 ticket']	['play']	0.170171263305
+['university theater', '510 ticket']	['ticket']	0.600448858269
+['university theater', '510 ticket']	['21 dollar']	0.0827346205535
+['university theater', '510 ticket']	['adult']	0.0777864840342
+['university theater', '510 ticket']	['dollar']	0.0354449666524
+['university theater', '510 ticket']	['15 dollar']	0.0827346205535
+['university theater', '510 ticket']	['senior citizen']	0.0824069519204
+['university theater', '510 ticket']	['receipt']	0.170171263305
+['university theater', '510 ticket']	['8748 dollar']	0.0901100077042
+['university theater', '510 ticket']	['senior citizen ticket']	0.610446673047
+['university theater', '510 ticket']	['citizen ticket']	0.549852778125
+['play', '510 ticket']	['university theater']	0.124206600218
+['play', '510 ticket']	['ticket']	0.810727690174
+['play', '510 ticket']	['21 dollar']	0.0833805889219
+['play', '510 ticket']	['adult']	0.177800302008
+['play', '510 ticket']	['dollar']	0.490537525093
+['play', '510 ticket']	['15 dollar']	0.0833805889219
+['play', '510 ticket']	['senior citizen']	0.0824069519204
+['play', '510 ticket']	['receipt']	0.717331085163
+['play', '510 ticket']	['8748 dollar']	0.0833805889219
+['play', '510 ticket']	['senior citizen ticket']	0.571779820032
+['play', '510 ticket']	['citizen ticket']	0.520866309821
+['ticket', '510 ticket']	['university theater']	0.144528281371
+['ticket', '510 ticket']	['play']	0.835347152145
+['ticket', '510 ticket']	['21 dollar']	0.247627320934
+['ticket', '510 ticket']	['adult']	0.391778704054
+['ticket', '510 ticket']	['dollar']	0.347535848514
+['ticket', '510 ticket']	['15 dollar']	0.247627320934
+['ticket', '510 ticket']	['senior citizen']	0.146238643348
+['ticket', '510 ticket']	['receipt']	0.760380701798
+['ticket', '510 ticket']	['8748 dollar']	0.247627320934
+['ticket', '510 ticket']	['senior citizen ticket']	0.733119489644
+['ticket', '510 ticket']	['citizen ticket']	0.722622429839
+['21 dollar', '510 ticket']	['university theater']	0.0827346205535
+['21 dollar', '510 ticket']	['play']	0.0896499787083
+['21 dollar', '510 ticket']	['ticket']	0.687998110055
+['21 dollar', '510 ticket']	['adult']	0.0777864840342
+['21 dollar', '510 ticket']	['dollar']	0.458677718285
+['21 dollar', '510 ticket']	['15 dollar']	0.754360422532
+['21 dollar', '510 ticket']	['senior citizen']	0.0824069519204
+['21 dollar', '510 ticket']	['receipt']	0.0744376594044
+['21 dollar', '510 ticket']	['8748 dollar']	0.584269096576
+['21 dollar', '510 ticket']	['senior citizen ticket']	0.634002281756
+['21 dollar', '510 ticket']	['citizen ticket']	0.573408386835
+['adult', '510 ticket']	['university theater']	0.0827346205535
+['adult', '510 ticket']	['play']	0.23507272142
+['adult', '510 ticket']	['ticket']	0.78601235732
+['adult', '510 ticket']	['21 dollar']	0.0827346205535
+['adult', '510 ticket']	['dollar']	0.177685390375
+['adult', '510 ticket']	['15 dollar']	0.0827346205535
+['adult', '510 ticket']	['senior citizen']	0.137148555841
+['adult', '510 ticket']	['receipt']	0.688363780537
+['adult', '510 ticket']	['8748 dollar']	0.0827346205535
+['adult', '510 ticket']	['senior citizen ticket']	0.618519011161
+['adult', '510 ticket']	['citizen ticket']	0.557925116239
+['dollar', '510 ticket']	['university theater']	0.0361569291624
+['dollar', '510 ticket']	['play']	0.511595456099
+['dollar', '510 ticket']	['ticket']	0.646450713312
+['dollar', '510 ticket']	['21 dollar']	0.391516700063
+['dollar', '510 ticket']	['adult']	0.0987471808723
+['dollar', '510 ticket']	['15 dollar']	0.391516700063
+['dollar', '510 ticket']	['senior citizen']	0.0421463435009
+['dollar', '510 ticket']	['receipt']	0.461903993858
+['dollar', '510 ticket']	['8748 dollar']	0.442012633359
+['dollar', '510 ticket']	['senior citizen ticket']	0.223988940721
+['dollar', '510 ticket']	['citizen ticket']	0.208039687774
+['15 dollar', '510 ticket']	['university theater']	0.0827346205535
+['15 dollar', '510 ticket']	['play']	0.0896499787083
+['15 dollar', '510 ticket']	['ticket']	0.687998110055
+['15 dollar', '510 ticket']	['21 dollar']	0.754360422532
+['15 dollar', '510 ticket']	['adult']	0.0777864840342
+['15 dollar', '510 ticket']	['dollar']	0.458677718285
+['15 dollar', '510 ticket']	['senior citizen']	0.0824069519204
+['15 dollar', '510 ticket']	['receipt']	0.0744376594044
+['15 dollar', '510 ticket']	['8748 dollar']	0.584269096576
+['15 dollar', '510 ticket']	['senior citizen ticket']	0.634002281756
+['15 dollar', '510 ticket']	['citizen ticket']	0.573408386835
+['senior citizen', '510 ticket']	['university theater']	0.0696933362217
+['senior citizen', '510 ticket']	['play']	0.0717309585509
+['senior citizen', '510 ticket']	['ticket']	0.53741239257
+['senior citizen', '510 ticket']	['21 dollar']	0.0696933362217
+['senior citizen', '510 ticket']	['adult']	0.136579015977
+['senior citizen', '510 ticket']	['dollar']	0.0222822240935
+['senior citizen', '510 ticket']	['15 dollar']	0.0696933362217
+['senior citizen', '510 ticket']	['receipt']	0.0634148935911
+['senior citizen', '510 ticket']	['8748 dollar']	0.0737139440912
+['senior citizen', '510 ticket']	['senior citizen ticket']	0.835703779058
+['senior citizen', '510 ticket']	['citizen ticket']	0.519499746086
+['receipt', '510 ticket']	['university theater']	0.124206600218
+['receipt', '510 ticket']	['play']	0.76180181784
+['receipt', '510 ticket']	['ticket']	0.775304804602
+['receipt', '510 ticket']	['21 dollar']	0.0833805889219
+['receipt', '510 ticket']	['adult']	0.703491652722
+['receipt', '510 ticket']	['dollar']	0.490537525093
+['receipt', '510 ticket']	['15 dollar']	0.0833805889219
+['receipt', '510 ticket']	['senior citizen']	0.0824069519204
+['receipt', '510 ticket']	['8748 dollar']	0.0833805889219
+['receipt', '510 ticket']	['senior citizen ticket']	0.571779820032
+['receipt', '510 ticket']	['citizen ticket']	0.520866309821
+['8748 dollar', '510 ticket']	['university theater']	0.0901100077042
+['8748 dollar', '510 ticket']	['play']	0.0896499787083
+['8748 dollar', '510 ticket']	['ticket']	0.687998110055
+['8748 dollar', '510 ticket']	['21 dollar']	0.584269096576
+['8748 dollar', '510 ticket']	['adult']	0.0777864840342
+['8748 dollar', '510 ticket']	['dollar']	0.547932141857
+['8748 dollar', '510 ticket']	['15 dollar']	0.584269096576
+['8748 dollar', '510 ticket']	['senior citizen']	0.0897823390711
+['8748 dollar', '510 ticket']	['receipt']	0.0744376594044
+['8748 dollar', '510 ticket']	['senior citizen ticket']	0.632572837849
+['8748 dollar', '510 ticket']	['citizen ticket']	0.584269096576
+['senior citizen ticket', '510 ticket']	['university theater']	0.233220513628
+['senior citizen ticket', '510 ticket']	['play']	0.364024636431
+['senior citizen ticket', '510 ticket']	['ticket']	0.814773766717
+['senior citizen ticket', '510 ticket']	['21 dollar']	0.195323352477
+['senior citizen ticket', '510 ticket']	['adult']	0.374822884051
+['senior citizen ticket', '510 ticket']	['dollar']	0.272051266122
+['senior citizen ticket', '510 ticket']	['15 dollar']	0.195323352477
+['senior citizen ticket', '510 ticket']	['senior citizen']	0.493363761939
+['senior citizen ticket', '510 ticket']	['receipt']	0.385163491414
+['senior citizen ticket', '510 ticket']	['8748 dollar']	0.188690699416
+['senior citizen ticket', '510 ticket']	['citizen ticket']	0.786347635132
+['citizen ticket', '510 ticket']	['university theater']	0.176486909159
+['citizen ticket', '510 ticket']	['play']	0.3667722268
+['citizen ticket', '510 ticket']	['ticket']	0.749517001914
+['citizen ticket', '510 ticket']	['21 dollar']	0.14589133531
+['citizen ticket', '510 ticket']	['adult']	0.325390866884
+['citizen ticket', '510 ticket']	['dollar']	0.292299166638
+['citizen ticket', '510 ticket']	['15 dollar']	0.14589133531
+['citizen ticket', '510 ticket']	['senior citizen']	0.255934891735
+['citizen ticket', '510 ticket']	['receipt']	0.37370815508
+['citizen ticket', '510 ticket']	['8748 dollar']	0.139258682248
+['citizen ticket', '510 ticket']	['senior citizen ticket']	0.746255846576
+['university theater', 'play']	['510 ticket']	0.0871340391838
+['university theater', 'play']	['ticket']	0.745741216304
+['university theater', 'play']	['21 dollar']	0.0800317642921
+['university theater', 'play']	['adult']	0.197817457066
+['university theater', 'play']	['dollar']	0.314325645164
+['university theater', 'play']	['15 dollar']	0.0800317642921
+['university theater', 'play']	['senior citizen']	0.0824069519204
+['university theater', 'play']	['receipt']	0.8719298934
+['university theater', 'play']	['8748 dollar']	0.0833805889219
+['university theater', 'play']	['senior citizen ticket']	0.111786823954
+['university theater', 'play']	['citizen ticket']	0.083785214554
+['510 ticket', 'play']	['university theater']	0.124206600218
+['510 ticket', 'play']	['ticket']	0.810727690174
+['510 ticket', 'play']	['21 dollar']	0.0833805889219
+['510 ticket', 'play']	['adult']	0.177800302008
+['510 ticket', 'play']	['dollar']	0.490537525093
+['510 ticket', 'play']	['15 dollar']	0.0833805889219
+['510 ticket', 'play']	['senior citizen']	0.0824069519204
+['510 ticket', 'play']	['receipt']	0.717331085163
+['510 ticket', 'play']	['8748 dollar']	0.0833805889219
+['510 ticket', 'play']	['senior citizen ticket']	0.571779820032
+['510 ticket', 'play']	['citizen ticket']	0.520866309821
+['ticket', 'play']	['university theater']	0.103222748661
+['ticket', 'play']	['510 ticket']	0.734990423098
+['ticket', 'play']	['21 dollar']	0.112012145182
+['ticket', 'play']	['adult']	0.151775310106
+['ticket', 'play']	['dollar']	0.255462887551
+['ticket', 'play']	['15 dollar']	0.112012145182
+['ticket', 'play']	['senior citizen']	0.0746958245975
+['ticket', 'play']	['receipt']	0.133514792778
+['ticket', 'play']	['8748 dollar']	0.112012145182
+['ticket', 'play']	['senior citizen ticket']	0.710415043756
+['ticket', 'play']	['citizen ticket']	0.714186150952
+['21 dollar', 'play']	['university theater']	0.138180177454
+['21 dollar', 'play']	['510 ticket']	0.0871340391838
+['21 dollar', 'play']	['ticket']	0.867152314657
+['21 dollar', 'play']	['adult']	0.169023424553
+['21 dollar', 'play']	['dollar']	0.685440582092
+['21 dollar', 'play']	['15 dollar']	0.794152038917
+['21 dollar', 'play']	['senior citizen']	0.0824069519204
+['21 dollar', 'play']	['receipt']	0.717331085163
+['21 dollar', 'play']	['8748 dollar']	0.520866309821
+['21 dollar', 'play']	['senior citizen ticket']	0.111786823954
+['21 dollar', 'play']	['citizen ticket']	0.083785214554
+['adult', 'play']	['university theater']	0.139809697174
+['adult', 'play']	['510 ticket']	0.083785214554
+['adult', 'play']	['ticket']	0.455570670523
+['adult', 'play']	['21 dollar']	0.0800317642921
+['adult', 'play']	['dollar']	0.277138432494
+['adult', 'play']	['15 dollar']	0.0800317642921
+['adult', 'play']	['senior citizen']	0.162561925664
+['adult', 'play']	['receipt']	0.138145848335
+['adult', 'play']	['8748 dollar']	0.0800317642921
+['adult', 'play']	['senior citizen ticket']	0.111786823954
+['adult', 'play']	['citizen ticket']	0.083785214554
+['dollar', 'play']	['university theater']	0.0708527975694
+['dollar', 'play']	['510 ticket']	0.0720432904904
+['dollar', 'play']	['ticket']	0.338656761507
+['dollar', 'play']	['21 dollar']	0.507039852328
+['dollar', 'play']	['adult']	0.0987471808723
+['dollar', 'play']	['15 dollar']	0.507039852328
+['dollar', 'play']	['senior citizen']	0.0421463435009
+['dollar', 'play']	['receipt']	0.080183335984
+['dollar', 'play']	['8748 dollar']	0.586826516975
+['dollar', 'play']	['senior citizen ticket']	0.0842856520394
+['dollar', 'play']	['citizen ticket']	0.0720432904904
+['15 dollar', 'play']	['university theater']	0.138180177454
+['15 dollar', 'play']	['510 ticket']	0.0871340391838
+['15 dollar', 'play']	['ticket']	0.867152314657
+['15 dollar', 'play']	['21 dollar']	0.794152038917
+['15 dollar', 'play']	['adult']	0.169023424553
+['15 dollar', 'play']	['dollar']	0.685440582092
+['15 dollar', 'play']	['senior citizen']	0.0824069519204
+['15 dollar', 'play']	['receipt']	0.717331085163
+['15 dollar', 'play']	['8748 dollar']	0.520866309821
+['15 dollar', 'play']	['senior citizen ticket']	0.111786823954
+['15 dollar', 'play']	['citizen ticket']	0.083785214554
+['senior citizen', 'play']	['university theater']	0.110821652261
+['senior citizen', 'play']	['510 ticket']	0.074092754852
+['senior citizen', 'play']	['ticket']	0.746794143912
+['senior citizen', 'play']	['21 dollar']	0.0669904799604
+['senior citizen', 'play']	['adult']	0.305585693009
+['senior citizen', 'play']	['dollar']	0.34025157109
+['senior citizen', 'play']	['15 dollar']	0.0669904799604
+['senior citizen', 'play']	['receipt']	0.756703077551
+['senior citizen', 'play']	['8748 dollar']	0.0703393045902
+['senior citizen', 'play']	['senior citizen ticket']	0.582243541332
+['senior citizen', 'play']	['citizen ticket']	0.112012145182
+['receipt', 'play']	['university theater']	0.121375168769
+['receipt', 'play']	['510 ticket']	0.092336172472
+['receipt', 'play']	['ticket']	0.132178576738
+['receipt', 'play']	['21 dollar']	0.0885827222101
+['receipt', 'play']	['adult']	0.559793360556
+['receipt', 'play']	['dollar']	0.0348865190937
+['receipt', 'play']	['15 dollar']	0.0885827222101
+['receipt', 'play']	['senior citizen']	0.0824069519204
+['receipt', 'play']	['8748 dollar']	0.0885827222101
+['receipt', 'play']	['senior citizen ticket']	0.134571905463
+['receipt', 'play']	['citizen ticket']	0.092336172472
+['8748 dollar', 'play']	['university theater']	0.124206600218
+['8748 dollar', 'play']	['510 ticket']	0.0871340391838
+['8748 dollar', 'play']	['ticket']	0.867152314657
+['8748 dollar', 'play']	['21 dollar']	0.520866309821
+['8748 dollar', 'play']	['adult']	0.169023424553
+['8748 dollar', 'play']	['dollar']	0.733656357017
+['8748 dollar', 'play']	['15 dollar']	0.520866309821
+['8748 dollar', 'play']	['senior citizen']	0.0824069519204
+['8748 dollar', 'play']	['receipt']	0.717331085163
+['8748 dollar', 'play']	['senior citizen ticket']	0.105391086116
+['8748 dollar', 'play']	['citizen ticket']	0.0871340391838
+['senior citizen ticket', 'play']	['university theater']	0.149200271175
+['senior citizen ticket', 'play']	['510 ticket']	0.520866309821
+['senior citizen ticket', 'play']	['ticket']	0.787396499459
+['senior citizen ticket', 'play']	['21 dollar']	0.0800317642921
+['senior citizen ticket', 'play']	['adult']	0.177800302008
+['senior citizen ticket', 'play']	['dollar']	0.45944299773
+['senior citizen ticket', 'play']	['15 dollar']	0.0800317642921
+['senior citizen ticket', 'play']	['senior citizen']	0.560874829507
+['senior citizen ticket', 'play']	['receipt']	0.717331085163
+['senior citizen ticket', 'play']	['8748 dollar']	0.0833805889219
+['senior citizen ticket', 'play']	['citizen ticket']	0.630631381957
+['citizen ticket', 'play']	['university theater']	0.146731135372
+['citizen ticket', 'play']	['510 ticket']	0.520866309821
+['citizen ticket', 'play']	['ticket']	0.808696483921
+['citizen ticket', 'play']	['21 dollar']	0.0800317642921
+['citizen ticket', 'play']	['adult']	0.177800302008
+['citizen ticket', 'play']	['dollar']	0.490537525093
+['citizen ticket', 'play']	['15 dollar']	0.0800317642921
+['citizen ticket', 'play']	['senior citizen']	0.117096918697
+['citizen ticket', 'play']	['receipt']	0.717331085163
+['citizen ticket', 'play']	['8748 dollar']	0.0833805889219
+['citizen ticket', 'play']	['senior citizen ticket']	0.705611576154
+['university theater', 'ticket']	['510 ticket']	0.669973747197
+['university theater', 'ticket']	['play']	0.870296968745
+['university theater', 'ticket']	['21 dollar']	0.103222748661
+['university theater', 'ticket']	['adult']	0.211523961879
+['university theater', 'ticket']	['dollar']	0.0806965185133
+['university theater', 'ticket']	['15 dollar']	0.103222748661
+['university theater', 'ticket']	['senior citizen']	0.0746958245975
+['university theater', 'ticket']	['receipt']	0.862266665715
+['university theater', 'ticket']	['8748 dollar']	0.103222748661
+['university theater', 'ticket']	['senior citizen ticket']	0.682192676657
+['university theater', 'ticket']	['citizen ticket']	0.685963783853
+['510 ticket', 'ticket']	['university theater']	0.144528281371
+['510 ticket', 'ticket']	['play']	0.835347152145
+['510 ticket', 'ticket']	['21 dollar']	0.247627320934
+['510 ticket', 'ticket']	['adult']	0.391778704054
+['510 ticket', 'ticket']	['dollar']	0.347535848514
+['510 ticket', 'ticket']	['15 dollar']	0.247627320934
+['510 ticket', 'ticket']	['senior citizen']	0.146238643348
+['510 ticket', 'ticket']	['receipt']	0.760380701798
+['510 ticket', 'ticket']	['8748 dollar']	0.247627320934
+['510 ticket', 'ticket']	['senior citizen ticket']	0.733119489644
+['510 ticket', 'ticket']	['citizen ticket']	0.722622429839
+['play', 'ticket']	['university theater']	0.103222748661
+['play', 'ticket']	['510 ticket']	0.734990423098
+['play', 'ticket']	['21 dollar']	0.112012145182
+['play', 'ticket']	['adult']	0.151775310106
+['play', 'ticket']	['dollar']	0.255462887551
+['play', 'ticket']	['15 dollar']	0.112012145182
+['play', 'ticket']	['senior citizen']	0.0746958245975
+['play', 'ticket']	['receipt']	0.133514792778
+['play', 'ticket']	['8748 dollar']	0.112012145182
+['play', 'ticket']	['senior citizen ticket']	0.710415043756
+['play', 'ticket']	['citizen ticket']	0.714186150952
+['21 dollar', 'ticket']	['university theater']	0.0696933362217
+['21 dollar', 'ticket']	['510 ticket']	0.669973747197
+['21 dollar', 'ticket']	['play']	0.753415646432
+['21 dollar', 'ticket']	['adult']	0.182729929366
+['21 dollar', 'ticket']	['dollar']	0.679196039815
+['21 dollar', 'ticket']	['15 dollar']	0.787143378625
+['21 dollar', 'ticket']	['senior citizen']	0.0746958245975
+['21 dollar', 'ticket']	['receipt']	0.744929762239
+['21 dollar', 'ticket']	['8748 dollar']	0.525526174317
+['21 dollar', 'ticket']	['senior citizen ticket']	0.659991615172
+['21 dollar', 'ticket']	['citizen ticket']	0.663762722369
+['adult', 'ticket']	['university theater']	0.0696933362217
+['adult', 'ticket']	['510 ticket']	0.670043866319
+['adult', 'ticket']	['play']	0.580664791936
+['adult', 'ticket']	['21 dollar']	0.117488318928
+['adult', 'ticket']	['dollar']	0.0240886330375
+['adult', 'ticket']	['15 dollar']	0.117488318928
+['adult', 'ticket']	['senior citizen']	0.155152232453
+['adult', 'ticket']	['receipt']	0.136545095808
+['adult', 'ticket']	['8748 dollar']	0.117488318928
+['adult', 'ticket']	['senior citizen ticket']	0.671966612083
+['adult', 'ticket']	['citizen ticket']	0.675737719279
+['dollar', 'ticket']	['university theater']	0.0982347768443
+['dollar', 'ticket']	['510 ticket']	0.545159042756
+['dollar', 'ticket']	['play']	0.136759483261
+['dollar', 'ticket']	['21 dollar']	0.538150963439
+['dollar', 'ticket']	['adult']	0.270336505163
+['dollar', 'ticket']	['15 dollar']	0.538150963439
+['dollar', 'ticket']	['senior citizen']	0.104224191183
+['dollar', 'ticket']	['receipt']	0.176078426912
+['dollar', 'ticket']	['8748 dollar']	0.617937628086
+['dollar', 'ticket']	['senior citizen ticket']	0.329507005909
+['dollar', 'ticket']	['citizen ticket']	0.360100613215
+['15 dollar', 'ticket']	['university theater']	0.0696933362217
+['15 dollar', 'ticket']	['510 ticket']	0.669973747197
+['15 dollar', 'ticket']	['play']	0.753415646432
+['15 dollar', 'ticket']	['21 dollar']	0.787143378625
+['15 dollar', 'ticket']	['adult']	0.182729929366
+['15 dollar', 'ticket']	['dollar']	0.679196039815
+['15 dollar', 'ticket']	['senior citizen']	0.0746958245975
+['15 dollar', 'ticket']	['receipt']	0.744929762239
+['15 dollar', 'ticket']	['8748 dollar']	0.525526174317
+['15 dollar', 'ticket']	['senior citizen ticket']	0.659991615172
+['15 dollar', 'ticket']	['citizen ticket']	0.663762722369
+['senior citizen', 'ticket']	['university theater']	0.131771183904
+['senior citizen', 'ticket']	['510 ticket']	0.669973747197
+['senior citizen', 'ticket']	['play']	0.755115805593
+['senior citizen', 'ticket']	['21 dollar']	0.159872896928
+['senior citizen', 'ticket']	['adult']	0.41574021086
+['senior citizen', 'ticket']	['dollar']	0.146607517674
+['senior citizen', 'ticket']	['15 dollar']	0.159872896928
+['senior citizen', 'ticket']	['receipt']	0.769720318931
+['senior citizen', 'ticket']	['8748 dollar']	0.159872896928
+['senior citizen', 'ticket']	['senior citizen ticket']	0.888442284426
+['senior citizen', 'ticket']	['citizen ticket']	0.757680779869
+['receipt', 'ticket']	['university theater']	0.103222748661
+['receipt', 'ticket']	['510 ticket']	0.723846078739
+['receipt', 'ticket']	['play']	0.120436700683
+['receipt', 'ticket']	['21 dollar']	0.110566880729
+['receipt', 'ticket']	['adult']	0.447953137923
+['receipt', 'ticket']	['dollar']	0.284629554218
+['receipt', 'ticket']	['15 dollar']	0.110566880729
+['receipt', 'ticket']	['senior citizen']	0.0746958245975
+['receipt', 'ticket']	['8748 dollar']	0.110566880729
+['receipt', 'ticket']	['senior citizen ticket']	0.699934241682
+['receipt', 'ticket']	['citizen ticket']	0.703705348878
+['8748 dollar', 'ticket']	['university theater']	0.0696933362217
+['8748 dollar', 'ticket']	['510 ticket']	0.669973747197
+['8748 dollar', 'ticket']	['play']	0.753415646432
+['8748 dollar', 'ticket']	['21 dollar']	0.525526174317
+['8748 dollar', 'ticket']	['adult']	0.182729929366
+['8748 dollar', 'ticket']	['dollar']	0.690340515548
+['8748 dollar', 'ticket']	['15 dollar']	0.525526174317
+['8748 dollar', 'ticket']	['senior citizen']	0.0746958245975
+['8748 dollar', 'ticket']	['receipt']	0.744929762239
+['8748 dollar', 'ticket']	['senior citizen ticket']	0.655632174079
+['8748 dollar', 'ticket']	['citizen ticket']	0.659403281276
+['senior citizen ticket', 'ticket']	['university theater']	0.167427262452
+['senior citizen ticket', 'ticket']	['510 ticket']	0.77025200564
+['senior citizen ticket', 'ticket']	['play']	0.835347152145
+['senior citizen ticket', 'ticket']	['21 dollar']	0.247627320934
+['senior citizen ticket', 'ticket']	['adult']	0.379657491933
+['senior citizen ticket', 'ticket']	['dollar']	0.346780181007
+['senior citizen ticket', 'ticket']	['15 dollar']	0.247627320934
+['senior citizen ticket', 'ticket']	['senior citizen']	0.541259923409
+['senior citizen ticket', 'ticket']	['receipt']	0.760380701798
+['senior citizen ticket', 'ticket']	['8748 dollar']	0.247627320934
+['senior citizen ticket', 'ticket']	['citizen ticket']	0.68840930797
+['citizen ticket', 'ticket']	['university theater']	0.167427262452
+['citizen ticket', 'ticket']	['510 ticket']	0.782259204304
+['citizen ticket', 'ticket']	['play']	0.835347152145
+['citizen ticket', 'ticket']	['21 dollar']	0.247627320934
+['citizen ticket', 'ticket']	['adult']	0.391778704054
+['citizen ticket', 'ticket']	['dollar']	0.347535848514
+['citizen ticket', 'ticket']	['15 dollar']	0.247627320934
+['citizen ticket', 'ticket']	['senior citizen']	0.249001768327
+['citizen ticket', 'ticket']	['receipt']	0.760380701798
+['citizen ticket', 'ticket']	['8748 dollar']	0.247627320934
+['citizen ticket', 'ticket']	['senior citizen ticket']	0.708976032514
+['university theater', '21 dollar']	['510 ticket']	0.0901100077042
+['university theater', '21 dollar']	['play']	0.170171263305
+['university theater', '21 dollar']	['ticket']	0.105969303899
+['university theater', '21 dollar']	['adult']	0.0744376594044
+['university theater', '21 dollar']	['dollar']	0.303389462637
+['university theater', '21 dollar']	['15 dollar']	0.754360422532
+['university theater', '21 dollar']	['senior citizen']	0.0824069519204
+['university theater', '21 dollar']	['receipt']	0.170171263305
+['university theater', '21 dollar']	['8748 dollar']	0.584269096576
+['university theater', '21 dollar']	['senior citizen ticket']	0.096515242987
+['university theater', '21 dollar']	['citizen ticket']	0.0827346205535
+['510 ticket', '21 dollar']	['university theater']	0.0827346205535
+['510 ticket', '21 dollar']	['play']	0.0896499787083
+['510 ticket', '21 dollar']	['ticket']	0.687998110055
+['510 ticket', '21 dollar']	['adult']	0.0777864840342
+['510 ticket', '21 dollar']	['dollar']	0.458677718285
+['510 ticket', '21 dollar']	['15 dollar']	0.754360422532
+['510 ticket', '21 dollar']	['senior citizen']	0.0824069519204
+['510 ticket', '21 dollar']	['receipt']	0.0744376594044
+['510 ticket', '21 dollar']	['8748 dollar']	0.584269096576
+['510 ticket', '21 dollar']	['senior citizen ticket']	0.634002281756
+['510 ticket', '21 dollar']	['citizen ticket']	0.573408386835
+['play', '21 dollar']	['university theater']	0.138180177454
+['play', '21 dollar']	['510 ticket']	0.0871340391838
+['play', '21 dollar']	['ticket']	0.867152314657
+['play', '21 dollar']	['adult']	0.169023424553
+['play', '21 dollar']	['dollar']	0.685440582092
+['play', '21 dollar']	['15 dollar']	0.794152038917
+['play', '21 dollar']	['senior citizen']	0.0824069519204
+['play', '21 dollar']	['receipt']	0.717331085163
+['play', '21 dollar']	['8748 dollar']	0.520866309821
+['play', '21 dollar']	['senior citizen ticket']	0.111786823954
+['play', '21 dollar']	['citizen ticket']	0.083785214554
+['ticket', '21 dollar']	['university theater']	0.0696933362217
+['ticket', '21 dollar']	['510 ticket']	0.669973747197
+['ticket', '21 dollar']	['play']	0.753415646432
+['ticket', '21 dollar']	['adult']	0.182729929366
+['ticket', '21 dollar']	['dollar']	0.679196039815
+['ticket', '21 dollar']	['15 dollar']	0.787143378625
+['ticket', '21 dollar']	['senior citizen']	0.0746958245975
+['ticket', '21 dollar']	['receipt']	0.744929762239
+['ticket', '21 dollar']	['8748 dollar']	0.525526174317
+['ticket', '21 dollar']	['senior citizen ticket']	0.659991615172
+['ticket', '21 dollar']	['citizen ticket']	0.663762722369
+['adult', '21 dollar']	['university theater']	0.0827346205535
+['adult', '21 dollar']	['510 ticket']	0.0827346205535
+['adult', '21 dollar']	['play']	0.200637452976
+['adult', '21 dollar']	['ticket']	0.328883094735
+['adult', '21 dollar']	['dollar']	0.627173633678
+['adult', '21 dollar']	['15 dollar']	0.760386850763
+['adult', '21 dollar']	['senior citizen']	0.155878150965
+['adult', '21 dollar']	['receipt']	0.688363780537
+['adult', '21 dollar']	['8748 dollar']	0.549852778125
+['adult', '21 dollar']	['senior citizen ticket']	0.0887553862424
+['adult', '21 dollar']	['citizen ticket']	0.0827346205535
+['dollar', '21 dollar']	['university theater']	0.0968024870635
+['dollar', '21 dollar']	['510 ticket']	0.183873817054
+['dollar', '21 dollar']	['play']	0.615462898798
+['dollar', '21 dollar']	['ticket']	0.413734650951
+['dollar', '21 dollar']	['adult']	0.319930627036
+['dollar', '21 dollar']	['15 dollar']	0.667149997161
+['dollar', '21 dollar']	['senior citizen']	0.103856602467
+['dollar', '21 dollar']	['receipt']	0.596453254739
+['dollar', '21 dollar']	['8748 dollar']	0.676555862245
+['dollar', '21 dollar']	['senior citizen ticket']	0.349326820138
+['dollar', '21 dollar']	['citizen ticket']	0.183873817054
+['15 dollar', '21 dollar']	['university theater']	0.153587928078
+['15 dollar', '21 dollar']	['510 ticket']	0.139258682248
+['15 dollar', '21 dollar']	['play']	0.406458874406
+['15 dollar', '21 dollar']	['ticket']	0.51323626183
+['15 dollar', '21 dollar']	['adult']	0.327028499836
+['15 dollar', '21 dollar']	['dollar']	0.693038862582
+['15 dollar', '21 dollar']	['senior citizen']	0.16132566236
+['15 dollar', '21 dollar']	['receipt']	0.37370815508
+['15 dollar', '21 dollar']	['8748 dollar']	0.637144068101
+['15 dollar', '21 dollar']	['senior citizen ticket']	0.279852388264
+['15 dollar', '21 dollar']	['citizen ticket']	0.153587928078
+['senior citizen', '21 dollar']	['university theater']	0.0696933362217
+['senior citizen', '21 dollar']	['510 ticket']	0.0737139440912
+['senior citizen', '21 dollar']	['play']	0.0634148935911
+['senior citizen', '21 dollar']	['ticket']	0.0936090537696
+['senior citizen', '21 dollar']	['adult']	0.171333074747
+['senior citizen', '21 dollar']	['dollar']	0.348196355719
+['senior citizen', '21 dollar']	['15 dollar']	0.73028733598
+['senior citizen', '21 dollar']	['receipt']	0.0634148935911
+['senior citizen', '21 dollar']	['8748 dollar']	0.544221442934
+['senior citizen', '21 dollar']	['senior citizen ticket']	0.563208581151
+['senior citizen', '21 dollar']	['citizen ticket']	0.105691884463
+['receipt', '21 dollar']	['university theater']	0.138180177454
+['receipt', '21 dollar']	['510 ticket']	0.0833805889219
+['receipt', '21 dollar']	['play']	0.76180181784
+['receipt', '21 dollar']	['ticket']	0.859122011627
+['receipt', '21 dollar']	['adult']	0.695921359376
+['receipt', '21 dollar']	['dollar']	0.685440582092
+['receipt', '21 dollar']	['15 dollar']	0.800833695134
+['receipt', '21 dollar']	['senior citizen']	0.0824069519204
+['receipt', '21 dollar']	['8748 dollar']	0.520866309821
+['receipt', '21 dollar']	['senior citizen ticket']	0.0930861065974
+['receipt', '21 dollar']	['citizen ticket']	0.0819994954072
+['8748 dollar', '21 dollar']	['university theater']	0.153587928078
+['8748 dollar', '21 dollar']	['510 ticket']	0.139258682248
+['8748 dollar', '21 dollar']	['play']	0.406458874406
+['8748 dollar', '21 dollar']	['ticket']	0.51323626183
+['8748 dollar', '21 dollar']	['adult']	0.327028499836
+['8748 dollar', '21 dollar']	['dollar']	0.67956664036
+['8748 dollar', '21 dollar']	['15 dollar']	0.862138942741
+['8748 dollar', '21 dollar']	['senior citizen']	0.153629069592
+['8748 dollar', '21 dollar']	['receipt']	0.37370815508
+['8748 dollar', '21 dollar']	['senior citizen ticket']	0.272155795496
+['8748 dollar', '21 dollar']	['citizen ticket']	0.14589133531
+['senior citizen ticket', '21 dollar']	['university theater']	0.152238479479
+['senior citizen ticket', '21 dollar']	['510 ticket']	0.653642048458
+['senior citizen ticket', '21 dollar']	['play']	0.155556971537
+['senior citizen ticket', '21 dollar']	['ticket']	0.80882537972
+['senior citizen ticket', '21 dollar']	['adult']	0.14729034296
+['senior citizen ticket', '21 dollar']	['dollar']	0.524961610951
+['senior citizen ticket', '21 dollar']	['15 dollar']	0.810888071258
+['senior citizen ticket', '21 dollar']	['senior citizen']	0.547044047195
+['senior citizen ticket', '21 dollar']	['receipt']	0.14394151833
+['senior citizen ticket', '21 dollar']	['8748 dollar']	0.653642048458
+['senior citizen ticket', '21 dollar']	['citizen ticket']	0.642192628205
+['citizen ticket', '21 dollar']	['university theater']	0.0827346205535
+['citizen ticket', '21 dollar']	['510 ticket']	0.584269096576
+['citizen ticket', '21 dollar']	['play']	0.0896499787083
+['citizen ticket', '21 dollar']	['ticket']	0.707398287968
+['citizen ticket', '21 dollar']	['adult']	0.0777864840342
+['citizen ticket', '21 dollar']	['dollar']	0.458677718285
+['citizen ticket', '21 dollar']	['15 dollar']	0.754360422532
+['citizen ticket', '21 dollar']	['senior citizen']	0.107003435941
+['citizen ticket', '21 dollar']	['receipt']	0.0744376594044
+['citizen ticket', '21 dollar']	['8748 dollar']	0.584269096576
+['citizen ticket', '21 dollar']	['senior citizen ticket']	0.669866445221
+['university theater', 'adult']	['510 ticket']	0.0827346205535
+['university theater', 'adult']	['play']	0.300904331282
+['university theater', 'adult']	['ticket']	0.192648399091
+['university theater', 'adult']	['21 dollar']	0.0827346205535
+['university theater', 'adult']	['dollar']	0.11596780482
+['university theater', 'adult']	['15 dollar']	0.0827346205535
+['university theater', 'adult']	['senior citizen']	0.162561925664
+['university theater', 'adult']	['receipt']	0.860661950816
+['university theater', 'adult']	['8748 dollar']	0.0827346205535
+['university theater', 'adult']	['senior citizen ticket']	0.094467200112
+['university theater', 'adult']	['citizen ticket']	0.0827346205535
+['510 ticket', 'adult']	['university theater']	0.0827346205535
+['510 ticket', 'adult']	['play']	0.23507272142
+['510 ticket', 'adult']	['ticket']	0.78601235732
+['510 ticket', 'adult']	['21 dollar']	0.0827346205535
+['510 ticket', 'adult']	['dollar']	0.177685390375
+['510 ticket', 'adult']	['15 dollar']	0.0827346205535
+['510 ticket', 'adult']	['senior citizen']	0.137148555841
+['510 ticket', 'adult']	['receipt']	0.688363780537
+['510 ticket', 'adult']	['8748 dollar']	0.0827346205535
+['510 ticket', 'adult']	['senior citizen ticket']	0.618519011161
+['510 ticket', 'adult']	['citizen ticket']	0.557925116239
+['play', 'adult']	['university theater']	0.139809697174
+['play', 'adult']	['510 ticket']	0.083785214554
+['play', 'adult']	['ticket']	0.455570670523
+['play', 'adult']	['21 dollar']	0.0800317642921
+['play', 'adult']	['dollar']	0.277138432494
+['play', 'adult']	['15 dollar']	0.0800317642921
+['play', 'adult']	['senior citizen']	0.162561925664
+['play', 'adult']	['receipt']	0.138145848335
+['play', 'adult']	['8748 dollar']	0.0800317642921
+['play', 'adult']	['senior citizen ticket']	0.111786823954
+['play', 'adult']	['citizen ticket']	0.083785214554
+['ticket', 'adult']	['university theater']	0.0696933362217
+['ticket', 'adult']	['510 ticket']	0.670043866319
+['ticket', 'adult']	['play']	0.580664791936
+['ticket', 'adult']	['21 dollar']	0.117488318928
+['ticket', 'adult']	['dollar']	0.0240886330375
+['ticket', 'adult']	['15 dollar']	0.117488318928
+['ticket', 'adult']	['senior citizen']	0.155152232453
+['ticket', 'adult']	['receipt']	0.136545095808
+['ticket', 'adult']	['8748 dollar']	0.117488318928
+['ticket', 'adult']	['senior citizen ticket']	0.671966612083
+['ticket', 'adult']	['citizen ticket']	0.675737719279
+['21 dollar', 'adult']	['university theater']	0.0827346205535
+['21 dollar', 'adult']	['510 ticket']	0.0827346205535
+['21 dollar', 'adult']	['play']	0.200637452976
+['21 dollar', 'adult']	['ticket']	0.328883094735
+['21 dollar', 'adult']	['dollar']	0.627173633678
+['21 dollar', 'adult']	['15 dollar']	0.760386850763
+['21 dollar', 'adult']	['senior citizen']	0.155878150965
+['21 dollar', 'adult']	['receipt']	0.688363780537
+['21 dollar', 'adult']	['8748 dollar']	0.549852778125
+['21 dollar', 'adult']	['senior citizen ticket']	0.0887553862424
+['21 dollar', 'adult']	['citizen ticket']	0.0827346205535
+['dollar', 'adult']	['university theater']	0.0362241866398
+['dollar', 'adult']	['510 ticket']	0.0618737183104
+['dollar', 'adult']	['play']	0.322863772051
+['dollar', 'adult']	['ticket']	0.110894643588
+['dollar', 'adult']	['21 dollar']	0.391516700063
+['dollar', 'adult']	['15 dollar']	0.391516700063
+['dollar', 'adult']	['senior citizen']	0.0845392983074
+['dollar', 'adult']	['receipt']	0.0774857075255
+['dollar', 'adult']	['8748 dollar']	0.447673452072
+['dollar', 'adult']	['senior citizen ticket']	0.0790308637772
+['dollar', 'adult']	['citizen ticket']	0.0618737183104
+['15 dollar', 'adult']	['university theater']	0.0827346205535
+['15 dollar', 'adult']	['510 ticket']	0.0827346205535
+['15 dollar', 'adult']	['play']	0.200637452976
+['15 dollar', 'adult']	['ticket']	0.328883094735
+['15 dollar', 'adult']	['21 dollar']	0.760386850763
+['15 dollar', 'adult']	['dollar']	0.627173633678
+['15 dollar', 'adult']	['senior citizen']	0.155878150965
+['15 dollar', 'adult']	['receipt']	0.688363780537
+['15 dollar', 'adult']	['8748 dollar']	0.549852778125
+['15 dollar', 'adult']	['senior citizen ticket']	0.0887553862424
+['15 dollar', 'adult']	['citizen ticket']	0.0827346205535
+['senior citizen', 'adult']	['university theater']	0.0663445115919
+['senior citizen', 'adult']	['510 ticket']	0.0696933362217
+['senior citizen', 'adult']	['play']	0.188204336672
+['senior citizen', 'adult']	['ticket']	0.185711257371
+['senior citizen', 'adult']	['21 dollar']	0.0696933362217
+['senior citizen', 'adult']	['dollar']	0.0806965185133
+['senior citizen', 'adult']	['15 dollar']	0.0696933362217
+['senior citizen', 'adult']	['receipt']	0.735143180334
+['senior citizen', 'adult']	['8748 dollar']	0.0696933362217
+['senior citizen', 'adult']	['senior citizen ticket']	0.537166914484
+['senior citizen', 'adult']	['citizen ticket']	0.103222748661
+['receipt', 'adult']	['university theater']	0.139809697174
+['receipt', 'adult']	['510 ticket']	0.0800317642921
+['receipt', 'adult']	['play']	0.569462419567
+['receipt', 'adult']	['ticket']	0.448542050994
+['receipt', 'adult']	['21 dollar']	0.0800317642921
+['receipt', 'adult']	['dollar']	0.277138432494
+['receipt', 'adult']	['15 dollar']	0.0800317642921
+['receipt', 'adult']	['senior citizen']	0.169483363862
+['receipt', 'adult']	['8748 dollar']	0.0800317642921
+['receipt', 'adult']	['senior citizen ticket']	0.100862937951
+['receipt', 'adult']	['citizen ticket']	0.0800317642921
+['8748 dollar', 'adult']	['university theater']	0.0827346205535
+['8748 dollar', 'adult']	['510 ticket']	0.0827346205535
+['8748 dollar', 'adult']	['play']	0.200637452976
+['8748 dollar', 'adult']	['ticket']	0.328883094735
+['8748 dollar', 'adult']	['21 dollar']	0.549852778125
+['8748 dollar', 'adult']	['dollar']	0.696433723382
+['8748 dollar', 'adult']	['15 dollar']	0.549852778125
+['8748 dollar', 'adult']	['senior citizen']	0.137148555841
+['8748 dollar', 'adult']	['receipt']	0.688363780537
+['8748 dollar', 'adult']	['senior citizen ticket']	0.0887553862424
+['8748 dollar', 'adult']	['citizen ticket']	0.0827346205535
+['senior citizen ticket', 'adult']	['university theater']	0.0793857959237
+['senior citizen ticket', 'adult']	['510 ticket']	0.557925116239
+['senior citizen ticket', 'adult']	['play']	0.207578029276
+['senior citizen ticket', 'adult']	['ticket']	0.69937591128
+['senior citizen ticket', 'adult']	['21 dollar']	0.0827346205535
+['senior citizen ticket', 'adult']	['dollar']	0.119168528839
+['senior citizen ticket', 'adult']	['15 dollar']	0.0827346205535
+['senior citizen ticket', 'adult']	['senior citizen']	0.640353937346
+['senior citizen ticket', 'adult']	['receipt']	0.688363780537
+['senior citizen ticket', 'adult']	['8748 dollar']	0.0827346205535
+['senior citizen ticket', 'adult']	['citizen ticket']	0.587641685872
+['citizen ticket', 'adult']	['university theater']	0.0793857959237
+['citizen ticket', 'adult']	['510 ticket']	0.557925116239
+['citizen ticket', 'adult']	['play']	0.23507272142
+['citizen ticket', 'adult']	['ticket']	0.711787006853
+['citizen ticket', 'adult']	['21 dollar']	0.0827346205535
+['citizen ticket', 'adult']	['dollar']	0.177685390375
+['citizen ticket', 'adult']	['15 dollar']	0.0827346205535
+['citizen ticket', 'adult']	['senior citizen']	0.17132134852
+['citizen ticket', 'adult']	['receipt']	0.688363780537
+['citizen ticket', 'adult']	['8748 dollar']	0.0827346205535
+['citizen ticket', 'adult']	['senior citizen ticket']	0.675892873452
+['university theater', 'dollar']	['510 ticket']	0.0618737183104
+['university theater', 'dollar']	['play']	0.59872510861
+['university theater', 'dollar']	['ticket']	0.11086262958
+['university theater', 'dollar']	['21 dollar']	0.391516700063
+['university theater', 'dollar']	['adult']	0.0972672142366
+['university theater', 'dollar']	['15 dollar']	0.391516700063
+['university theater', 'dollar']	['senior citizen']	0.0421463435009
+['university theater', 'dollar']	['receipt']	0.59872510861
+['university theater', 'dollar']	['8748 dollar']	0.442012633359
+['university theater', 'dollar']	['senior citizen ticket']	0.11617372092
+['university theater', 'dollar']	['citizen ticket']	0.0775194642361
+['510 ticket', 'dollar']	['university theater']	0.0361569291624
+['510 ticket', 'dollar']	['play']	0.511595456099
+['510 ticket', 'dollar']	['ticket']	0.646450713312
+['510 ticket', 'dollar']	['21 dollar']	0.391516700063
+['510 ticket', 'dollar']	['adult']	0.0987471808723
+['510 ticket', 'dollar']	['15 dollar']	0.391516700063
+['510 ticket', 'dollar']	['senior citizen']	0.0421463435009
+['510 ticket', 'dollar']	['receipt']	0.461903993858
+['510 ticket', 'dollar']	['8748 dollar']	0.442012633359
+['510 ticket', 'dollar']	['senior citizen ticket']	0.223988940721
+['510 ticket', 'dollar']	['citizen ticket']	0.208039687774
+['play', 'dollar']	['university theater']	0.0708527975694
+['play', 'dollar']	['510 ticket']	0.0720432904904
+['play', 'dollar']	['ticket']	0.338656761507
+['play', 'dollar']	['21 dollar']	0.507039852328
+['play', 'dollar']	['adult']	0.0987471808723
+['play', 'dollar']	['15 dollar']	0.507039852328
+['play', 'dollar']	['senior citizen']	0.0421463435009
+['play', 'dollar']	['receipt']	0.080183335984
+['play', 'dollar']	['8748 dollar']	0.586826516975
+['play', 'dollar']	['senior citizen ticket']	0.0842856520394
+['play', 'dollar']	['citizen ticket']	0.0720432904904
+['ticket', 'dollar']	['university theater']	0.0982347768443
+['ticket', 'dollar']	['510 ticket']	0.545159042756
+['ticket', 'dollar']	['play']	0.136759483261
+['ticket', 'dollar']	['21 dollar']	0.538150963439
+['ticket', 'dollar']	['adult']	0.270336505163
+['ticket', 'dollar']	['15 dollar']	0.538150963439
+['ticket', 'dollar']	['senior citizen']	0.104224191183
+['ticket', 'dollar']	['receipt']	0.176078426912
+['ticket', 'dollar']	['8748 dollar']	0.617937628086
+['ticket', 'dollar']	['senior citizen ticket']	0.329507005909
+['ticket', 'dollar']	['citizen ticket']	0.360100613215
+['21 dollar', 'dollar']	['university theater']	0.0968024870635
+['21 dollar', 'dollar']	['510 ticket']	0.183873817054
+['21 dollar', 'dollar']	['play']	0.615462898798
+['21 dollar', 'dollar']	['ticket']	0.413734650951
+['21 dollar', 'dollar']	['adult']	0.319930627036
+['21 dollar', 'dollar']	['15 dollar']	0.667149997161
+['21 dollar', 'dollar']	['senior citizen']	0.103856602467
+['21 dollar', 'dollar']	['receipt']	0.596453254739
+['21 dollar', 'dollar']	['8748 dollar']	0.676555862245
+['21 dollar', 'dollar']	['senior citizen ticket']	0.349326820138
+['21 dollar', 'dollar']	['citizen ticket']	0.183873817054
+['adult', 'dollar']	['university theater']	0.0362241866398
+['adult', 'dollar']	['510 ticket']	0.0618737183104
+['adult', 'dollar']	['play']	0.322863772051
+['adult', 'dollar']	['ticket']	0.110894643588
+['adult', 'dollar']	['21 dollar']	0.391516700063
+['adult', 'dollar']	['15 dollar']	0.391516700063
+['adult', 'dollar']	['senior citizen']	0.0845392983074
+['adult', 'dollar']	['receipt']	0.0774857075255
+['adult', 'dollar']	['8748 dollar']	0.447673452072
+['adult', 'dollar']	['senior citizen ticket']	0.0790308637772
+['adult', 'dollar']	['citizen ticket']	0.0618737183104
+['15 dollar', 'dollar']	['university theater']	0.0968024870635
+['15 dollar', 'dollar']	['510 ticket']	0.183873817054
+['15 dollar', 'dollar']	['play']	0.615462898798
+['15 dollar', 'dollar']	['ticket']	0.413734650951
+['15 dollar', 'dollar']	['21 dollar']	0.667149997161
+['15 dollar', 'dollar']	['adult']	0.319930627036
+['15 dollar', 'dollar']	['senior citizen']	0.103856602467
+['15 dollar', 'dollar']	['receipt']	0.596453254739
+['15 dollar', 'dollar']	['8748 dollar']	0.676555862245
+['15 dollar', 'dollar']	['senior citizen ticket']	0.349326820138
+['15 dollar', 'dollar']	['citizen ticket']	0.183873817054
+['senior citizen', 'dollar']	['university theater']	0.0982347768443
+['senior citizen', 'dollar']	['510 ticket']	0.118523866578
+['senior citizen', 'dollar']	['play']	0.474206866251
+['senior citizen', 'dollar']	['ticket']	0.168201839002
+['senior citizen', 'dollar']	['21 dollar']	0.391516700063
+['senior citizen', 'dollar']	['adult']	0.278370601023
+['senior citizen', 'dollar']	['15 dollar']	0.391516700063
+['senior citizen', 'dollar']	['receipt']	0.506878823923
+['senior citizen', 'dollar']	['8748 dollar']	0.442012633359
+['senior citizen', 'dollar']	['senior citizen ticket']	0.559425613059
+['senior citizen', 'dollar']	['citizen ticket']	0.168894566191
+['receipt', 'dollar']	['university theater']	0.0708527975694
+['receipt', 'dollar']	['510 ticket']	0.0714527268925
+['receipt', 'dollar']	['play']	0.080183335984
+['receipt', 'dollar']	['ticket']	0.366665586929
+['receipt', 'dollar']	['21 dollar']	0.452298826701
+['receipt', 'dollar']	['adult']	0.373916607178
+['receipt', 'dollar']	['15 dollar']	0.452298826701
+['receipt', 'dollar']	['senior citizen']	0.0421463435009
+['receipt', 'dollar']	['8748 dollar']	0.553297612561
+['receipt', 'dollar']	['senior citizen ticket']	0.0836950884414
+['receipt', 'dollar']	['citizen ticket']	0.0714527268925
+['8748 dollar', 'dollar']	['university theater']	0.0968024870635
+['8748 dollar', 'dollar']	['510 ticket']	0.183873817054
+['8748 dollar', 'dollar']	['play']	0.615462898798
+['8748 dollar', 'dollar']	['ticket']	0.413734650951
+['8748 dollar', 'dollar']	['21 dollar']	0.638178477636
+['8748 dollar', 'dollar']	['adult']	0.319930627036
+['8748 dollar', 'dollar']	['15 dollar']	0.638178477636
+['8748 dollar', 'dollar']	['senior citizen']	0.103856602467
+['8748 dollar', 'dollar']	['receipt']	0.596453254739
+['8748 dollar', 'dollar']	['senior citizen ticket']	0.349326820138
+['8748 dollar', 'dollar']	['citizen ticket']	0.183873817054
+['senior citizen ticket', 'dollar']	['university theater']	0.0351005911342
+['senior citizen ticket', 'dollar']	['510 ticket']	0.202911482646
+['senior citizen ticket', 'dollar']	['play']	0.484100763955
+['senior citizen ticket', 'dollar']	['ticket']	0.47147495771
+['senior citizen ticket', 'dollar']	['21 dollar']	0.371684132133
+['senior citizen ticket', 'dollar']	['adult']	0.0695090246623
+['senior citizen ticket', 'dollar']	['15 dollar']	0.371684132133
+['senior citizen ticket', 'dollar']	['senior citizen']	0.508086001649
+['senior citizen ticket', 'dollar']	['receipt']	0.461903993858
+['senior citizen ticket', 'dollar']	['8748 dollar']	0.417204941051
+['senior citizen ticket', 'dollar']	['citizen ticket']	0.302106203949
+['citizen ticket', 'dollar']	['university theater']	0.0361569291624
+['citizen ticket', 'dollar']	['510 ticket']	0.208039687774
+['citizen ticket', 'dollar']	['play']	0.511595456099
+['citizen ticket', 'dollar']	['ticket']	0.416171927407
+['citizen ticket', 'dollar']	['21 dollar']	0.391516700063
+['citizen ticket', 'dollar']	['adult']	0.0987471808723
+['citizen ticket', 'dollar']	['15 dollar']	0.391516700063
+['citizen ticket', 'dollar']	['senior citizen']	0.0650051934866
+['citizen ticket', 'dollar']	['receipt']	0.461903993858
+['citizen ticket', 'dollar']	['8748 dollar']	0.442012633359
+['citizen ticket', 'dollar']	['senior citizen ticket']	0.312976943678
+['university theater', '15 dollar']	['510 ticket']	0.0901100077042
+['university theater', '15 dollar']	['play']	0.170171263305
+['university theater', '15 dollar']	['ticket']	0.105969303899
+['university theater', '15 dollar']	['21 dollar']	0.754360422532
+['university theater', '15 dollar']	['adult']	0.0744376594044
+['university theater', '15 dollar']	['dollar']	0.303389462637
+['university theater', '15 dollar']	['senior citizen']	0.0824069519204
+['university theater', '15 dollar']	['receipt']	0.170171263305
+['university theater', '15 dollar']	['8748 dollar']	0.584269096576
+['university theater', '15 dollar']	['senior citizen ticket']	0.096515242987
+['university theater', '15 dollar']	['citizen ticket']	0.0827346205535
+['510 ticket', '15 dollar']	['university theater']	0.0827346205535
+['510 ticket', '15 dollar']	['play']	0.0896499787083
+['510 ticket', '15 dollar']	['ticket']	0.687998110055
+['510 ticket', '15 dollar']	['21 dollar']	0.754360422532
+['510 ticket', '15 dollar']	['adult']	0.0777864840342
+['510 ticket', '15 dollar']	['dollar']	0.458677718285
+['510 ticket', '15 dollar']	['senior citizen']	0.0824069519204
+['510 ticket', '15 dollar']	['receipt']	0.0744376594044
+['510 ticket', '15 dollar']	['8748 dollar']	0.584269096576
+['510 ticket', '15 dollar']	['senior citizen ticket']	0.634002281756
+['510 ticket', '15 dollar']	['citizen ticket']	0.573408386835
+['play', '15 dollar']	['university theater']	0.138180177454
+['play', '15 dollar']	['510 ticket']	0.0871340391838
+['play', '15 dollar']	['ticket']	0.867152314657
+['play', '15 dollar']	['21 dollar']	0.794152038917
+['play', '15 dollar']	['adult']	0.169023424553
+['play', '15 dollar']	['dollar']	0.685440582092
+['play', '15 dollar']	['senior citizen']	0.0824069519204
+['play', '15 dollar']	['receipt']	0.717331085163
+['play', '15 dollar']	['8748 dollar']	0.520866309821
+['play', '15 dollar']	['senior citizen ticket']	0.111786823954
+['play', '15 dollar']	['citizen ticket']	0.083785214554
+['ticket', '15 dollar']	['university theater']	0.0696933362217
+['ticket', '15 dollar']	['510 ticket']	0.669973747197
+['ticket', '15 dollar']	['play']	0.753415646432
+['ticket', '15 dollar']	['21 dollar']	0.787143378625
+['ticket', '15 dollar']	['adult']	0.182729929366
+['ticket', '15 dollar']	['dollar']	0.679196039815
+['ticket', '15 dollar']	['senior citizen']	0.0746958245975
+['ticket', '15 dollar']	['receipt']	0.744929762239
+['ticket', '15 dollar']	['8748 dollar']	0.525526174317
+['ticket', '15 dollar']	['senior citizen ticket']	0.659991615172
+['ticket', '15 dollar']	['citizen ticket']	0.663762722369
+['21 dollar', '15 dollar']	['university theater']	0.153587928078
+['21 dollar', '15 dollar']	['510 ticket']	0.139258682248
+['21 dollar', '15 dollar']	['play']	0.406458874406
+['21 dollar', '15 dollar']	['ticket']	0.51323626183
+['21 dollar', '15 dollar']	['adult']	0.327028499836
+['21 dollar', '15 dollar']	['dollar']	0.693038862582
+['21 dollar', '15 dollar']	['senior citizen']	0.16132566236
+['21 dollar', '15 dollar']	['receipt']	0.37370815508
+['21 dollar', '15 dollar']	['8748 dollar']	0.637144068101
+['21 dollar', '15 dollar']	['senior citizen ticket']	0.279852388264
+['21 dollar', '15 dollar']	['citizen ticket']	0.153587928078
+['adult', '15 dollar']	['university theater']	0.0827346205535
+['adult', '15 dollar']	['510 ticket']	0.0827346205535
+['adult', '15 dollar']	['play']	0.200637452976
+['adult', '15 dollar']	['ticket']	0.328883094735
+['adult', '15 dollar']	['21 dollar']	0.760386850763
+['adult', '15 dollar']	['dollar']	0.627173633678
+['adult', '15 dollar']	['senior citizen']	0.155878150965
+['adult', '15 dollar']	['receipt']	0.688363780537
+['adult', '15 dollar']	['8748 dollar']	0.549852778125
+['adult', '15 dollar']	['senior citizen ticket']	0.0887553862424
+['adult', '15 dollar']	['citizen ticket']	0.0827346205535
+['dollar', '15 dollar']	['university theater']	0.0968024870635
+['dollar', '15 dollar']	['510 ticket']	0.183873817054
+['dollar', '15 dollar']	['play']	0.615462898798
+['dollar', '15 dollar']	['ticket']	0.413734650951
+['dollar', '15 dollar']	['21 dollar']	0.667149997161
+['dollar', '15 dollar']	['adult']	0.319930627036
+['dollar', '15 dollar']	['senior citizen']	0.103856602467
+['dollar', '15 dollar']	['receipt']	0.596453254739
+['dollar', '15 dollar']	['8748 dollar']	0.676555862245
+['dollar', '15 dollar']	['senior citizen ticket']	0.349326820138
+['dollar', '15 dollar']	['citizen ticket']	0.183873817054
+['senior citizen', '15 dollar']	['university theater']	0.0696933362217
+['senior citizen', '15 dollar']	['510 ticket']	0.0737139440912
+['senior citizen', '15 dollar']	['play']	0.0634148935911
+['senior citizen', '15 dollar']	['ticket']	0.0936090537696
+['senior citizen', '15 dollar']	['21 dollar']	0.73028733598
+['senior citizen', '15 dollar']	['adult']	0.171333074747
+['senior citizen', '15 dollar']	['dollar']	0.348196355719
+['senior citizen', '15 dollar']	['receipt']	0.0634148935911
+['senior citizen', '15 dollar']	['8748 dollar']	0.544221442934
+['senior citizen', '15 dollar']	['senior citizen ticket']	0.563208581151
+['senior citizen', '15 dollar']	['citizen ticket']	0.105691884463
+['receipt', '15 dollar']	['university theater']	0.138180177454
+['receipt', '15 dollar']	['510 ticket']	0.0833805889219
+['receipt', '15 dollar']	['play']	0.76180181784
+['receipt', '15 dollar']	['ticket']	0.859122011627
+['receipt', '15 dollar']	['21 dollar']	0.800833695134
+['receipt', '15 dollar']	['adult']	0.695921359376
+['receipt', '15 dollar']	['dollar']	0.685440582092
+['receipt', '15 dollar']	['senior citizen']	0.0824069519204
+['receipt', '15 dollar']	['8748 dollar']	0.520866309821
+['receipt', '15 dollar']	['senior citizen ticket']	0.0930861065974
+['receipt', '15 dollar']	['citizen ticket']	0.0819994954072
+['8748 dollar', '15 dollar']	['university theater']	0.153587928078
+['8748 dollar', '15 dollar']	['510 ticket']	0.139258682248
+['8748 dollar', '15 dollar']	['play']	0.406458874406
+['8748 dollar', '15 dollar']	['ticket']	0.51323626183
+['8748 dollar', '15 dollar']	['21 dollar']	0.862138942741
+['8748 dollar', '15 dollar']	['adult']	0.327028499836
+['8748 dollar', '15 dollar']	['dollar']	0.67956664036
+['8748 dollar', '15 dollar']	['senior citizen']	0.153629069592
+['8748 dollar', '15 dollar']	['receipt']	0.37370815508
+['8748 dollar', '15 dollar']	['senior citizen ticket']	0.272155795496
+['8748 dollar', '15 dollar']	['citizen ticket']	0.14589133531
+['senior citizen ticket', '15 dollar']	['university theater']	0.152238479479
+['senior citizen ticket', '15 dollar']	['510 ticket']	0.653642048458
+['senior citizen ticket', '15 dollar']	['play']	0.155556971537
+['senior citizen ticket', '15 dollar']	['ticket']	0.80882537972
+['senior citizen ticket', '15 dollar']	['21 dollar']	0.810888071258
+['senior citizen ticket', '15 dollar']	['adult']	0.14729034296
+['senior citizen ticket', '15 dollar']	['dollar']	0.524961610951
+['senior citizen ticket', '15 dollar']	['senior citizen']	0.547044047195
+['senior citizen ticket', '15 dollar']	['receipt']	0.14394151833
+['senior citizen ticket', '15 dollar']	['8748 dollar']	0.653642048458
+['senior citizen ticket', '15 dollar']	['citizen ticket']	0.642192628205
+['citizen ticket', '15 dollar']	['university theater']	0.0827346205535
+['citizen ticket', '15 dollar']	['510 ticket']	0.584269096576
+['citizen ticket', '15 dollar']	['play']	0.0896499787083
+['citizen ticket', '15 dollar']	['ticket']	0.707398287968
+['citizen ticket', '15 dollar']	['21 dollar']	0.754360422532
+['citizen ticket', '15 dollar']	['adult']	0.0777864840342
+['citizen ticket', '15 dollar']	['dollar']	0.458677718285
+['citizen ticket', '15 dollar']	['senior citizen']	0.107003435941
+['citizen ticket', '15 dollar']	['receipt']	0.0744376594044
+['citizen ticket', '15 dollar']	['8748 dollar']	0.584269096576
+['citizen ticket', '15 dollar']	['senior citizen ticket']	0.669866445221
+['university theater', 'senior citizen']	['510 ticket']	0.0737139440912
+['university theater', 'senior citizen']	['play']	0.114277816392
+['university theater', 'senior citizen']	['ticket']	0.0673701015291
+['university theater', 'senior citizen']	['21 dollar']	0.0696933362217
+['university theater', 'senior citizen']	['adult']	0.185698796745
+['university theater', 'senior citizen']	['dollar']	0.0106028278734
+['university theater', 'senior citizen']	['15 dollar']	0.0696933362217
+['university theater', 'senior citizen']	['receipt']	0.106678912792
+['university theater', 'senior citizen']	['8748 dollar']	0.0737139440912
+['university theater', 'senior citizen']	['senior citizen ticket']	0.563208581151
+['university theater', 'senior citizen']	['citizen ticket']	0.11995745473
+['510 ticket', 'senior citizen']	['university theater']	0.0696933362217
+['510 ticket', 'senior citizen']	['play']	0.0717309585509
+['510 ticket', 'senior citizen']	['ticket']	0.53741239257
+['510 ticket', 'senior citizen']	['21 dollar']	0.0696933362217
+['510 ticket', 'senior citizen']	['adult']	0.136579015977
+['510 ticket', 'senior citizen']	['dollar']	0.0222822240935
+['510 ticket', 'senior citizen']	['15 dollar']	0.0696933362217
+['510 ticket', 'senior citizen']	['receipt']	0.0634148935911
+['510 ticket', 'senior citizen']	['8748 dollar']	0.0737139440912
+['510 ticket', 'senior citizen']	['senior citizen ticket']	0.835703779058
+['510 ticket', 'senior citizen']	['citizen ticket']	0.519499746086
+['play', 'senior citizen']	['university theater']	0.110821652261
+['play', 'senior citizen']	['510 ticket']	0.074092754852
+['play', 'senior citizen']	['ticket']	0.746794143912
+['play', 'senior citizen']	['21 dollar']	0.0669904799604
+['play', 'senior citizen']	['adult']	0.305585693009
+['play', 'senior citizen']	['dollar']	0.34025157109
+['play', 'senior citizen']	['15 dollar']	0.0669904799604
+['play', 'senior citizen']	['receipt']	0.756703077551
+['play', 'senior citizen']	['8748 dollar']	0.0703393045902
+['play', 'senior citizen']	['senior citizen ticket']	0.582243541332
+['play', 'senior citizen']	['citizen ticket']	0.112012145182
+['ticket', 'senior citizen']	['university theater']	0.131771183904
+['ticket', 'senior citizen']	['510 ticket']	0.669973747197
+['ticket', 'senior citizen']	['play']	0.755115805593
+['ticket', 'senior citizen']	['21 dollar']	0.159872896928
+['ticket', 'senior citizen']	['adult']	0.41574021086
+['ticket', 'senior citizen']	['dollar']	0.146607517674
+['ticket', 'senior citizen']	['15 dollar']	0.159872896928
+['ticket', 'senior citizen']	['receipt']	0.769720318931
+['ticket', 'senior citizen']	['8748 dollar']	0.159872896928
+['ticket', 'senior citizen']	['senior citizen ticket']	0.888442284426
+['ticket', 'senior citizen']	['citizen ticket']	0.757680779869
+['21 dollar', 'senior citizen']	['university theater']	0.0696933362217
+['21 dollar', 'senior citizen']	['510 ticket']	0.0737139440912
+['21 dollar', 'senior citizen']	['play']	0.0634148935911
+['21 dollar', 'senior citizen']	['ticket']	0.0936090537696
+['21 dollar', 'senior citizen']	['adult']	0.171333074747
+['21 dollar', 'senior citizen']	['dollar']	0.348196355719
+['21 dollar', 'senior citizen']	['15 dollar']	0.73028733598
+['21 dollar', 'senior citizen']	['receipt']	0.0634148935911
+['21 dollar', 'senior citizen']	['8748 dollar']	0.544221442934
+['21 dollar', 'senior citizen']	['senior citizen ticket']	0.563208581151
+['21 dollar', 'senior citizen']	['citizen ticket']	0.105691884463
+['adult', 'senior citizen']	['university theater']	0.0663445115919
+['adult', 'senior citizen']	['510 ticket']	0.0696933362217
+['adult', 'senior citizen']	['play']	0.188204336672
+['adult', 'senior citizen']	['ticket']	0.185711257371
+['adult', 'senior citizen']	['21 dollar']	0.0696933362217
+['adult', 'senior citizen']	['dollar']	0.0806965185133
+['adult', 'senior citizen']	['15 dollar']	0.0696933362217
+['adult', 'senior citizen']	['receipt']	0.735143180334
+['adult', 'senior citizen']	['8748 dollar']	0.0696933362217
+['adult', 'senior citizen']	['senior citizen ticket']	0.537166914484
+['adult', 'senior citizen']	['citizen ticket']	0.103222748661
+['dollar', 'senior citizen']	['university theater']	0.0982347768443
+['dollar', 'senior citizen']	['510 ticket']	0.118523866578
+['dollar', 'senior citizen']	['play']	0.474206866251
+['dollar', 'senior citizen']	['ticket']	0.168201839002
+['dollar', 'senior citizen']	['21 dollar']	0.391516700063
+['dollar', 'senior citizen']	['adult']	0.278370601023
+['dollar', 'senior citizen']	['15 dollar']	0.391516700063
+['dollar', 'senior citizen']	['receipt']	0.506878823923
+['dollar', 'senior citizen']	['8748 dollar']	0.442012633359
+['dollar', 'senior citizen']	['senior citizen ticket']	0.559425613059
+['dollar', 'senior citizen']	['citizen ticket']	0.168894566191
+['15 dollar', 'senior citizen']	['university theater']	0.0696933362217
+['15 dollar', 'senior citizen']	['510 ticket']	0.0737139440912
+['15 dollar', 'senior citizen']	['play']	0.0634148935911
+['15 dollar', 'senior citizen']	['ticket']	0.0936090537696
+['15 dollar', 'senior citizen']	['21 dollar']	0.73028733598
+['15 dollar', 'senior citizen']	['adult']	0.171333074747
+['15 dollar', 'senior citizen']	['dollar']	0.348196355719
+['15 dollar', 'senior citizen']	['receipt']	0.0634148935911
+['15 dollar', 'senior citizen']	['8748 dollar']	0.544221442934
+['15 dollar', 'senior citizen']	['senior citizen ticket']	0.563208581151
+['15 dollar', 'senior citizen']	['citizen ticket']	0.105691884463
+['receipt', 'senior citizen']	['university theater']	0.110821652261
+['receipt', 'senior citizen']	['510 ticket']	0.0703393045902
+['receipt', 'senior citizen']	['play']	0.718434289891
+['receipt', 'senior citizen']	['ticket']	0.733222462183
+['receipt', 'senior citizen']	['21 dollar']	0.0689582110755
+['receipt', 'senior citizen']	['adult']	0.862687094138
+['receipt', 'senior citizen']	['dollar']	0.347658978497
+['receipt', 'senior citizen']	['15 dollar']	0.0689582110755
+['receipt', 'senior citizen']	['8748 dollar']	0.0703393045902
+['receipt', 'senior citizen']	['senior citizen ticket']	0.551157017948
+['receipt', 'senior citizen']	['citizen ticket']	0.110566880729
+['8748 dollar', 'senior citizen']	['university theater']	0.0696933362217
+['8748 dollar', 'senior citizen']	['510 ticket']	0.0737139440912
+['8748 dollar', 'senior citizen']	['play']	0.0634148935911
+['8748 dollar', 'senior citizen']	['ticket']	0.0936090537696
+['8748 dollar', 'senior citizen']	['21 dollar']	0.525944474896
+['8748 dollar', 'senior citizen']	['adult']	0.171333074747
+['8748 dollar', 'senior citizen']	['dollar']	0.351980443061
+['8748 dollar', 'senior citizen']	['15 dollar']	0.525944474896
+['8748 dollar', 'senior citizen']	['receipt']	0.0634148935911
+['8748 dollar', 'senior citizen']	['senior citizen ticket']	0.563208581151
+['8748 dollar', 'senior citizen']	['citizen ticket']	0.105691884463
+['senior citizen ticket', 'senior citizen']	['university theater']	0.124856540438
+['senior citizen ticket', 'senior citizen']	['510 ticket']	0.645330407958
+['senior citizen ticket', 'senior citizen']	['play']	0.126894162767
+['senior citizen ticket', 'senior citizen']	['ticket']	0.641383912817
+['senior citizen ticket', 'senior citizen']	['21 dollar']	0.124856540438
+['senior citizen ticket', 'senior citizen']	['adult']	0.175923499611
+['senior citizen ticket', 'senior citizen']	['dollar']	0.0196695720613
+['senior citizen ticket', 'senior citizen']	['15 dollar']	0.124856540438
+['senior citizen ticket', 'senior citizen']	['receipt']	0.118578097808
+['senior citizen ticket', 'senior citizen']	['8748 dollar']	0.128877148308
+['senior citizen ticket', 'senior citizen']	['citizen ticket']	0.645980418557
+['citizen ticket', 'senior citizen']	['university theater']	0.0696933362217
+['citizen ticket', 'senior citizen']	['510 ticket']	0.544221442934
+['citizen ticket', 'senior citizen']	['play']	0.0717309585509
+['citizen ticket', 'senior citizen']	['ticket']	0.56643566412
+['citizen ticket', 'senior citizen']	['21 dollar']	0.0696933362217
+['citizen ticket', 'senior citizen']	['adult']	0.136579015977
+['citizen ticket', 'senior citizen']	['dollar']	0.0222822240935
+['citizen ticket', 'senior citizen']	['15 dollar']	0.0696933362217
+['citizen ticket', 'senior citizen']	['receipt']	0.0634148935911
+['citizen ticket', 'senior citizen']	['8748 dollar']	0.0737139440912
+['citizen ticket', 'senior citizen']	['senior citizen ticket']	0.870911756773
+['university theater', 'receipt']	['510 ticket']	0.0833805889219
+['university theater', 'receipt']	['play']	0.8719298934
+['university theater', 'receipt']	['ticket']	0.748002867908
+['university theater', 'receipt']	['21 dollar']	0.0800317642921
+['university theater', 'receipt']	['adult']	0.693233910408
+['university theater', 'receipt']	['dollar']	0.347658978497
+['university theater', 'receipt']	['15 dollar']	0.0800317642921
+['university theater', 'receipt']	['senior citizen']	0.0824069519204
+['university theater', 'receipt']	['8748 dollar']	0.0833805889219
+['university theater', 'receipt']	['senior citizen ticket']	0.100862937951
+['university theater', 'receipt']	['citizen ticket']	0.0800317642921
+['510 ticket', 'receipt']	['university theater']	0.124206600218
+['510 ticket', 'receipt']	['play']	0.76180181784
+['510 ticket', 'receipt']	['ticket']	0.775304804602
+['510 ticket', 'receipt']	['21 dollar']	0.0833805889219
+['510 ticket', 'receipt']	['adult']	0.703491652722
+['510 ticket', 'receipt']	['dollar']	0.490537525093
+['510 ticket', 'receipt']	['15 dollar']	0.0833805889219
+['510 ticket', 'receipt']	['senior citizen']	0.0824069519204
+['510 ticket', 'receipt']	['8748 dollar']	0.0833805889219
+['510 ticket', 'receipt']	['senior citizen ticket']	0.571779820032
+['510 ticket', 'receipt']	['citizen ticket']	0.520866309821
+['play', 'receipt']	['university theater']	0.121375168769
+['play', 'receipt']	['510 ticket']	0.092336172472
+['play', 'receipt']	['ticket']	0.132178576738
+['play', 'receipt']	['21 dollar']	0.0885827222101
+['play', 'receipt']	['adult']	0.559793360556
+['play', 'receipt']	['dollar']	0.0348865190937
+['play', 'receipt']	['15 dollar']	0.0885827222101
+['play', 'receipt']	['senior citizen']	0.0824069519204
+['play', 'receipt']	['8748 dollar']	0.0885827222101
+['play', 'receipt']	['senior citizen ticket']	0.134571905463
+['play', 'receipt']	['citizen ticket']	0.092336172472
+['ticket', 'receipt']	['university theater']	0.103222748661
+['ticket', 'receipt']	['510 ticket']	0.723846078739
+['ticket', 'receipt']	['play']	0.120436700683
+['ticket', 'receipt']	['21 dollar']	0.110566880729
+['ticket', 'receipt']	['adult']	0.447953137923
+['ticket', 'receipt']	['dollar']	0.284629554218
+['ticket', 'receipt']	['15 dollar']	0.110566880729
+['ticket', 'receipt']	['senior citizen']	0.0746958245975
+['ticket', 'receipt']	['8748 dollar']	0.110566880729
+['ticket', 'receipt']	['senior citizen ticket']	0.699934241682
+['ticket', 'receipt']	['citizen ticket']	0.703705348878
+['21 dollar', 'receipt']	['university theater']	0.138180177454
+['21 dollar', 'receipt']	['510 ticket']	0.0833805889219
+['21 dollar', 'receipt']	['play']	0.76180181784
+['21 dollar', 'receipt']	['ticket']	0.859122011627
+['21 dollar', 'receipt']	['adult']	0.695921359376
+['21 dollar', 'receipt']	['dollar']	0.685440582092
+['21 dollar', 'receipt']	['15 dollar']	0.800833695134
+['21 dollar', 'receipt']	['senior citizen']	0.0824069519204
+['21 dollar', 'receipt']	['8748 dollar']	0.520866309821
+['21 dollar', 'receipt']	['senior citizen ticket']	0.0930861065974
+['21 dollar', 'receipt']	['citizen ticket']	0.0819994954072
+['adult', 'receipt']	['university theater']	0.139809697174
+['adult', 'receipt']	['510 ticket']	0.0800317642921
+['adult', 'receipt']	['play']	0.569462419567
+['adult', 'receipt']	['ticket']	0.448542050994
+['adult', 'receipt']	['21 dollar']	0.0800317642921
+['adult', 'receipt']	['dollar']	0.277138432494
+['adult', 'receipt']	['15 dollar']	0.0800317642921
+['adult', 'receipt']	['senior citizen']	0.169483363862
+['adult', 'receipt']	['8748 dollar']	0.0800317642921
+['adult', 'receipt']	['senior citizen ticket']	0.100862937951
+['adult', 'receipt']	['citizen ticket']	0.0800317642921
+['dollar', 'receipt']	['university theater']	0.0708527975694
+['dollar', 'receipt']	['510 ticket']	0.0714527268925
+['dollar', 'receipt']	['play']	0.080183335984
+['dollar', 'receipt']	['ticket']	0.366665586929
+['dollar', 'receipt']	['21 dollar']	0.452298826701
+['dollar', 'receipt']	['adult']	0.373916607178
+['dollar', 'receipt']	['15 dollar']	0.452298826701
+['dollar', 'receipt']	['senior citizen']	0.0421463435009
+['dollar', 'receipt']	['8748 dollar']	0.553297612561
+['dollar', 'receipt']	['senior citizen ticket']	0.0836950884414
+['dollar', 'receipt']	['citizen ticket']	0.0714527268925
+['15 dollar', 'receipt']	['university theater']	0.138180177454
+['15 dollar', 'receipt']	['510 ticket']	0.0833805889219
+['15 dollar', 'receipt']	['play']	0.76180181784
+['15 dollar', 'receipt']	['ticket']	0.859122011627
+['15 dollar', 'receipt']	['21 dollar']	0.800833695134
+['15 dollar', 'receipt']	['adult']	0.695921359376
+['15 dollar', 'receipt']	['dollar']	0.685440582092
+['15 dollar', 'receipt']	['senior citizen']	0.0824069519204
+['15 dollar', 'receipt']	['8748 dollar']	0.520866309821
+['15 dollar', 'receipt']	['senior citizen ticket']	0.0930861065974
+['15 dollar', 'receipt']	['citizen ticket']	0.0819994954072
+['senior citizen', 'receipt']	['university theater']	0.110821652261
+['senior citizen', 'receipt']	['510 ticket']	0.0703393045902
+['senior citizen', 'receipt']	['play']	0.718434289891
+['senior citizen', 'receipt']	['ticket']	0.733222462183
+['senior citizen', 'receipt']	['21 dollar']	0.0689582110755
+['senior citizen', 'receipt']	['adult']	0.862687094138
+['senior citizen', 'receipt']	['dollar']	0.347658978497
+['senior citizen', 'receipt']	['15 dollar']	0.0689582110755
+['senior citizen', 'receipt']	['8748 dollar']	0.0703393045902
+['senior citizen', 'receipt']	['senior citizen ticket']	0.551157017948
+['senior citizen', 'receipt']	['citizen ticket']	0.110566880729
+['8748 dollar', 'receipt']	['university theater']	0.124206600218
+['8748 dollar', 'receipt']	['510 ticket']	0.0833805889219
+['8748 dollar', 'receipt']	['play']	0.76180181784
+['8748 dollar', 'receipt']	['ticket']	0.859122011627
+['8748 dollar', 'receipt']	['21 dollar']	0.520866309821
+['8748 dollar', 'receipt']	['adult']	0.695921359376
+['8748 dollar', 'receipt']	['dollar']	0.733656357017
+['8748 dollar', 'receipt']	['15 dollar']	0.520866309821
+['8748 dollar', 'receipt']	['senior citizen']	0.0824069519204
+['8748 dollar', 'receipt']	['senior citizen ticket']	0.094467200112
+['8748 dollar', 'receipt']	['citizen ticket']	0.0833805889219
+['senior citizen ticket', 'receipt']	['university theater']	0.149200271175
+['senior citizen ticket', 'receipt']	['510 ticket']	0.520866309821
+['senior citizen ticket', 'receipt']	['play']	0.76180181784
+['senior citizen ticket', 'receipt']	['ticket']	0.815884541821
+['senior citizen ticket', 'receipt']	['21 dollar']	0.0819994954072
+['senior citizen ticket', 'receipt']	['adult']	0.703491652722
+['senior citizen ticket', 'receipt']	['dollar']	0.45944299773
+['senior citizen ticket', 'receipt']	['15 dollar']	0.0819994954072
+['senior citizen ticket', 'receipt']	['senior citizen']	0.560874829507
+['senior citizen ticket', 'receipt']	['8748 dollar']	0.0833805889219
+['senior citizen ticket', 'receipt']	['citizen ticket']	0.611266302592
+['citizen ticket', 'receipt']	['university theater']	0.146731135372
+['citizen ticket', 'receipt']	['510 ticket']	0.520866309821
+['citizen ticket', 'receipt']	['play']	0.76180181784
+['citizen ticket', 'receipt']	['ticket']	0.821910970052
+['citizen ticket', 'receipt']	['21 dollar']	0.0819994954072
+['citizen ticket', 'receipt']	['adult']	0.703491652722
+['citizen ticket', 'receipt']	['dollar']	0.490537525093
+['citizen ticket', 'receipt']	['15 dollar']	0.0819994954072
+['citizen ticket', 'receipt']	['senior citizen']	0.112172037378
+['citizen ticket', 'receipt']	['8748 dollar']	0.0833805889219
+['citizen ticket', 'receipt']	['senior citizen ticket']	0.686246496789
+['university theater', '8748 dollar']	['510 ticket']	0.0901100077042
+['university theater', '8748 dollar']	['play']	0.170171263305
+['university theater', '8748 dollar']	['ticket']	0.105969303899
+['university theater', '8748 dollar']	['21 dollar']	0.549852778125
+['university theater', '8748 dollar']	['adult']	0.0744376594044
+['university theater', '8748 dollar']	['dollar']	0.371286700844
+['university theater', '8748 dollar']	['15 dollar']	0.549852778125
+['university theater', '8748 dollar']	['senior citizen']	0.0824069519204
+['university theater', '8748 dollar']	['receipt']	0.170171263305
+['university theater', '8748 dollar']	['senior citizen ticket']	0.0908034291173
+['university theater', '8748 dollar']	['citizen ticket']	0.0827346205535
+['510 ticket', '8748 dollar']	['university theater']	0.0901100077042
+['510 ticket', '8748 dollar']	['play']	0.0896499787083
+['510 ticket', '8748 dollar']	['ticket']	0.687998110055
+['510 ticket', '8748 dollar']	['21 dollar']	0.584269096576
+['510 ticket', '8748 dollar']	['adult']	0.0777864840342
+['510 ticket', '8748 dollar']	['dollar']	0.547932141857
+['510 ticket', '8748 dollar']	['15 dollar']	0.584269096576
+['510 ticket', '8748 dollar']	['senior citizen']	0.0897823390711
+['510 ticket', '8748 dollar']	['receipt']	0.0744376594044
+['510 ticket', '8748 dollar']	['senior citizen ticket']	0.632572837849
+['510 ticket', '8748 dollar']	['citizen ticket']	0.584269096576
+['play', '8748 dollar']	['university theater']	0.124206600218
+['play', '8748 dollar']	['510 ticket']	0.0871340391838
+['play', '8748 dollar']	['ticket']	0.867152314657
+['play', '8748 dollar']	['21 dollar']	0.520866309821
+['play', '8748 dollar']	['adult']	0.169023424553
+['play', '8748 dollar']	['dollar']	0.733656357017
+['play', '8748 dollar']	['15 dollar']	0.520866309821
+['play', '8748 dollar']	['senior citizen']	0.0824069519204
+['play', '8748 dollar']	['receipt']	0.717331085163
+['play', '8748 dollar']	['senior citizen ticket']	0.105391086116
+['play', '8748 dollar']	['citizen ticket']	0.0871340391838
+['ticket', '8748 dollar']	['university theater']	0.0696933362217
+['ticket', '8748 dollar']	['510 ticket']	0.669973747197
+['ticket', '8748 dollar']	['play']	0.753415646432
+['ticket', '8748 dollar']	['21 dollar']	0.525526174317
+['ticket', '8748 dollar']	['adult']	0.182729929366
+['ticket', '8748 dollar']	['dollar']	0.690340515548
+['ticket', '8748 dollar']	['15 dollar']	0.525526174317
+['ticket', '8748 dollar']	['senior citizen']	0.0746958245975
+['ticket', '8748 dollar']	['receipt']	0.744929762239
+['ticket', '8748 dollar']	['senior citizen ticket']	0.655632174079
+['ticket', '8748 dollar']	['citizen ticket']	0.659403281276
+['21 dollar', '8748 dollar']	['university theater']	0.153587928078
+['21 dollar', '8748 dollar']	['510 ticket']	0.139258682248
+['21 dollar', '8748 dollar']	['play']	0.406458874406
+['21 dollar', '8748 dollar']	['ticket']	0.51323626183
+['21 dollar', '8748 dollar']	['adult']	0.327028499836
+['21 dollar', '8748 dollar']	['dollar']	0.67956664036
+['21 dollar', '8748 dollar']	['15 dollar']	0.862138942741
+['21 dollar', '8748 dollar']	['senior citizen']	0.153629069592
+['21 dollar', '8748 dollar']	['receipt']	0.37370815508
+['21 dollar', '8748 dollar']	['senior citizen ticket']	0.272155795496
+['21 dollar', '8748 dollar']	['citizen ticket']	0.14589133531
+['adult', '8748 dollar']	['university theater']	0.0827346205535
+['adult', '8748 dollar']	['510 ticket']	0.0827346205535
+['adult', '8748 dollar']	['play']	0.200637452976
+['adult', '8748 dollar']	['ticket']	0.328883094735
+['adult', '8748 dollar']	['21 dollar']	0.549852778125
+['adult', '8748 dollar']	['dollar']	0.696433723382
+['adult', '8748 dollar']	['15 dollar']	0.549852778125
+['adult', '8748 dollar']	['senior citizen']	0.137148555841
+['adult', '8748 dollar']	['receipt']	0.688363780537
+['adult', '8748 dollar']	['senior citizen ticket']	0.0887553862424
+['adult', '8748 dollar']	['citizen ticket']	0.0827346205535
+['dollar', '8748 dollar']	['university theater']	0.0968024870635
+['dollar', '8748 dollar']	['510 ticket']	0.183873817054
+['dollar', '8748 dollar']	['play']	0.615462898798
+['dollar', '8748 dollar']	['ticket']	0.413734650951
+['dollar', '8748 dollar']	['21 dollar']	0.638178477636
+['dollar', '8748 dollar']	['adult']	0.319930627036
+['dollar', '8748 dollar']	['15 dollar']	0.638178477636
+['dollar', '8748 dollar']	['senior citizen']	0.103856602467
+['dollar', '8748 dollar']	['receipt']	0.596453254739
+['dollar', '8748 dollar']	['senior citizen ticket']	0.349326820138
+['dollar', '8748 dollar']	['citizen ticket']	0.183873817054
+['15 dollar', '8748 dollar']	['university theater']	0.153587928078
+['15 dollar', '8748 dollar']	['510 ticket']	0.139258682248
+['15 dollar', '8748 dollar']	['play']	0.406458874406
+['15 dollar', '8748 dollar']	['ticket']	0.51323626183
+['15 dollar', '8748 dollar']	['21 dollar']	0.862138942741
+['15 dollar', '8748 dollar']	['adult']	0.327028499836
+['15 dollar', '8748 dollar']	['dollar']	0.67956664036
+['15 dollar', '8748 dollar']	['senior citizen']	0.153629069592
+['15 dollar', '8748 dollar']	['receipt']	0.37370815508
+['15 dollar', '8748 dollar']	['senior citizen ticket']	0.272155795496
+['15 dollar', '8748 dollar']	['citizen ticket']	0.14589133531
+['senior citizen', '8748 dollar']	['university theater']	0.0696933362217
+['senior citizen', '8748 dollar']	['510 ticket']	0.0737139440912
+['senior citizen', '8748 dollar']	['play']	0.0634148935911
+['senior citizen', '8748 dollar']	['ticket']	0.0936090537696
+['senior citizen', '8748 dollar']	['21 dollar']	0.525944474896
+['senior citizen', '8748 dollar']	['adult']	0.171333074747
+['senior citizen', '8748 dollar']	['dollar']	0.351980443061
+['senior citizen', '8748 dollar']	['15 dollar']	0.525944474896
+['senior citizen', '8748 dollar']	['receipt']	0.0634148935911
+['senior citizen', '8748 dollar']	['senior citizen ticket']	0.563208581151
+['senior citizen', '8748 dollar']	['citizen ticket']	0.105691884463
+['receipt', '8748 dollar']	['university theater']	0.124206600218
+['receipt', '8748 dollar']	['510 ticket']	0.0833805889219
+['receipt', '8748 dollar']	['play']	0.76180181784
+['receipt', '8748 dollar']	['ticket']	0.859122011627
+['receipt', '8748 dollar']	['21 dollar']	0.520866309821
+['receipt', '8748 dollar']	['adult']	0.695921359376
+['receipt', '8748 dollar']	['dollar']	0.733656357017
+['receipt', '8748 dollar']	['15 dollar']	0.520866309821
+['receipt', '8748 dollar']	['senior citizen']	0.0824069519204
+['receipt', '8748 dollar']	['senior citizen ticket']	0.094467200112
+['receipt', '8748 dollar']	['citizen ticket']	0.0833805889219
+['senior citizen ticket', '8748 dollar']	['university theater']	0.152238479479
+['senior citizen ticket', '8748 dollar']	['510 ticket']	0.653642048458
+['senior citizen ticket', '8748 dollar']	['play']	0.155556971537
+['senior citizen ticket', '8748 dollar']	['ticket']	0.80882537972
+['senior citizen ticket', '8748 dollar']	['21 dollar']	0.665215853449
+['senior citizen ticket', '8748 dollar']	['adult']	0.14729034296
+['senior citizen ticket', '8748 dollar']	['dollar']	0.555573870895
+['senior citizen ticket', '8748 dollar']	['15 dollar']	0.665215853449
+['senior citizen ticket', '8748 dollar']	['senior citizen']	0.547044047195
+['senior citizen ticket', '8748 dollar']	['receipt']	0.14394151833
+['senior citizen ticket', '8748 dollar']	['citizen ticket']	0.658859294871
+['citizen ticket', '8748 dollar']	['university theater']	0.0827346205535
+['citizen ticket', '8748 dollar']	['510 ticket']	0.584269096576
+['citizen ticket', '8748 dollar']	['play']	0.0896499787083
+['citizen ticket', '8748 dollar']	['ticket']	0.707398287968
+['citizen ticket', '8748 dollar']	['21 dollar']	0.573408386835
+['citizen ticket', '8748 dollar']	['adult']	0.0777864840342
+['citizen ticket', '8748 dollar']	['dollar']	0.547932141857
+['citizen ticket', '8748 dollar']	['15 dollar']	0.573408386835
+['citizen ticket', '8748 dollar']	['senior citizen']	0.107003435941
+['citizen ticket', '8748 dollar']	['receipt']	0.0744376594044
+['citizen ticket', '8748 dollar']	['senior citizen ticket']	0.669866445221
+['university theater', 'senior citizen ticket']	['510 ticket']	0.653642048458
+['university theater', 'senior citizen ticket']	['play']	0.223536026126
+['university theater', 'senior citizen ticket']	['ticket']	0.784835185815
+['university theater', 'senior citizen ticket']	['21 dollar']	0.152238479479
+['university theater', 'senior citizen ticket']	['adult']	0.14729034296
+['university theater', 'senior citizen ticket']	['dollar']	0.0328323146202
+['university theater', 'senior citizen ticket']	['15 dollar']	0.152238479479
+['university theater', 'senior citizen ticket']	['senior citizen']	0.547044047195
+['university theater', 'senior citizen ticket']	['receipt']	0.223536026126
+['university theater', 'senior citizen ticket']	['8748 dollar']	0.15961386663
+['university theater', 'senior citizen ticket']	['citizen ticket']	0.659569048613
+['510 ticket', 'senior citizen ticket']	['university theater']	0.233220513628
+['510 ticket', 'senior citizen ticket']	['play']	0.364024636431
+['510 ticket', 'senior citizen ticket']	['ticket']	0.814773766717
+['510 ticket', 'senior citizen ticket']	['21 dollar']	0.195323352477
+['510 ticket', 'senior citizen ticket']	['adult']	0.374822884051
+['510 ticket', 'senior citizen ticket']	['dollar']	0.272051266122
+['510 ticket', 'senior citizen ticket']	['15 dollar']	0.195323352477
+['510 ticket', 'senior citizen ticket']	['senior citizen']	0.493363761939
+['510 ticket', 'senior citizen ticket']	['receipt']	0.385163491414
+['510 ticket', 'senior citizen ticket']	['8748 dollar']	0.188690699416
+['510 ticket', 'senior citizen ticket']	['citizen ticket']	0.786347635132
+['play', 'senior citizen ticket']	['university theater']	0.149200271175
+['play', 'senior citizen ticket']	['510 ticket']	0.520866309821
+['play', 'senior citizen ticket']	['ticket']	0.787396499459
+['play', 'senior citizen ticket']	['21 dollar']	0.0800317642921
+['play', 'senior citizen ticket']	['adult']	0.177800302008
+['play', 'senior citizen ticket']	['dollar']	0.45944299773
+['play', 'senior citizen ticket']	['15 dollar']	0.0800317642921
+['play', 'senior citizen ticket']	['senior citizen']	0.560874829507
+['play', 'senior citizen ticket']	['receipt']	0.717331085163
+['play', 'senior citizen ticket']	['8748 dollar']	0.0833805889219
+['play', 'senior citizen ticket']	['citizen ticket']	0.630631381957
+['ticket', 'senior citizen ticket']	['university theater']	0.167427262452
+['ticket', 'senior citizen ticket']	['510 ticket']	0.77025200564
+['ticket', 'senior citizen ticket']	['play']	0.835347152145
+['ticket', 'senior citizen ticket']	['21 dollar']	0.247627320934
+['ticket', 'senior citizen ticket']	['adult']	0.379657491933
+['ticket', 'senior citizen ticket']	['dollar']	0.346780181007
+['ticket', 'senior citizen ticket']	['15 dollar']	0.247627320934
+['ticket', 'senior citizen ticket']	['senior citizen']	0.541259923409
+['ticket', 'senior citizen ticket']	['receipt']	0.760380701798
+['ticket', 'senior citizen ticket']	['8748 dollar']	0.247627320934
+['ticket', 'senior citizen ticket']	['citizen ticket']	0.68840930797
+['21 dollar', 'senior citizen ticket']	['university theater']	0.152238479479
+['21 dollar', 'senior citizen ticket']	['510 ticket']	0.653642048458
+['21 dollar', 'senior citizen ticket']	['play']	0.155556971537
+['21 dollar', 'senior citizen ticket']	['ticket']	0.80882537972
+['21 dollar', 'senior citizen ticket']	['adult']	0.14729034296
+['21 dollar', 'senior citizen ticket']	['dollar']	0.524961610951
+['21 dollar', 'senior citizen ticket']	['15 dollar']	0.810888071258
+['21 dollar', 'senior citizen ticket']	['senior citizen']	0.547044047195
+['21 dollar', 'senior citizen ticket']	['receipt']	0.14394151833
+['21 dollar', 'senior citizen ticket']	['8748 dollar']	0.653642048458
+['21 dollar', 'senior citizen ticket']	['citizen ticket']	0.642192628205
+['adult', 'senior citizen ticket']	['university theater']	0.0793857959237
+['adult', 'senior citizen ticket']	['510 ticket']	0.557925116239
+['adult', 'senior citizen ticket']	['play']	0.207578029276
+['adult', 'senior citizen ticket']	['ticket']	0.69937591128
+['adult', 'senior citizen ticket']	['21 dollar']	0.0827346205535
+['adult', 'senior citizen ticket']	['dollar']	0.119168528839
+['adult', 'senior citizen ticket']	['15 dollar']	0.0827346205535
+['adult', 'senior citizen ticket']	['senior citizen']	0.640353937346
+['adult', 'senior citizen ticket']	['receipt']	0.688363780537
+['adult', 'senior citizen ticket']	['8748 dollar']	0.0827346205535
+['adult', 'senior citizen ticket']	['citizen ticket']	0.587641685872
+['dollar', 'senior citizen ticket']	['university theater']	0.0351005911342
+['dollar', 'senior citizen ticket']	['510 ticket']	0.202911482646
+['dollar', 'senior citizen ticket']	['play']	0.484100763955
+['dollar', 'senior citizen ticket']	['ticket']	0.47147495771
+['dollar', 'senior citizen ticket']	['21 dollar']	0.371684132133
+['dollar', 'senior citizen ticket']	['adult']	0.0695090246623
+['dollar', 'senior citizen ticket']	['15 dollar']	0.371684132133
+['dollar', 'senior citizen ticket']	['senior citizen']	0.508086001649
+['dollar', 'senior citizen ticket']	['receipt']	0.461903993858
+['dollar', 'senior citizen ticket']	['8748 dollar']	0.417204941051
+['dollar', 'senior citizen ticket']	['citizen ticket']	0.302106203949
+['15 dollar', 'senior citizen ticket']	['university theater']	0.152238479479
+['15 dollar', 'senior citizen ticket']	['510 ticket']	0.653642048458
+['15 dollar', 'senior citizen ticket']	['play']	0.155556971537
+['15 dollar', 'senior citizen ticket']	['ticket']	0.80882537972
+['15 dollar', 'senior citizen ticket']	['21 dollar']	0.810888071258
+['15 dollar', 'senior citizen ticket']	['adult']	0.14729034296
+['15 dollar', 'senior citizen ticket']	['dollar']	0.524961610951
+['15 dollar', 'senior citizen ticket']	['senior citizen']	0.547044047195
+['15 dollar', 'senior citizen ticket']	['receipt']	0.14394151833
+['15 dollar', 'senior citizen ticket']	['8748 dollar']	0.653642048458
+['15 dollar', 'senior citizen ticket']	['citizen ticket']	0.642192628205
+['senior citizen', 'senior citizen ticket']	['university theater']	0.124856540438
+['senior citizen', 'senior citizen ticket']	['510 ticket']	0.645330407958
+['senior citizen', 'senior citizen ticket']	['play']	0.126894162767
+['senior citizen', 'senior citizen ticket']	['ticket']	0.641383912817
+['senior citizen', 'senior citizen ticket']	['21 dollar']	0.124856540438
+['senior citizen', 'senior citizen ticket']	['adult']	0.175923499611
+['senior citizen', 'senior citizen ticket']	['dollar']	0.0196695720613
+['senior citizen', 'senior citizen ticket']	['15 dollar']	0.124856540438
+['senior citizen', 'senior citizen ticket']	['receipt']	0.118578097808
+['senior citizen', 'senior citizen ticket']	['8748 dollar']	0.128877148308
+['senior citizen', 'senior citizen ticket']	['citizen ticket']	0.645980418557
+['receipt', 'senior citizen ticket']	['university theater']	0.149200271175
+['receipt', 'senior citizen ticket']	['510 ticket']	0.520866309821
+['receipt', 'senior citizen ticket']	['play']	0.76180181784
+['receipt', 'senior citizen ticket']	['ticket']	0.815884541821
+['receipt', 'senior citizen ticket']	['21 dollar']	0.0819994954072
+['receipt', 'senior citizen ticket']	['adult']	0.703491652722
+['receipt', 'senior citizen ticket']	['dollar']	0.45944299773
+['receipt', 'senior citizen ticket']	['15 dollar']	0.0819994954072
+['receipt', 'senior citizen ticket']	['senior citizen']	0.560874829507
+['receipt', 'senior citizen ticket']	['8748 dollar']	0.0833805889219
+['receipt', 'senior citizen ticket']	['citizen ticket']	0.611266302592
+['8748 dollar', 'senior citizen ticket']	['university theater']	0.152238479479
+['8748 dollar', 'senior citizen ticket']	['510 ticket']	0.653642048458
+['8748 dollar', 'senior citizen ticket']	['play']	0.155556971537
+['8748 dollar', 'senior citizen ticket']	['ticket']	0.80882537972
+['8748 dollar', 'senior citizen ticket']	['21 dollar']	0.665215853449
+['8748 dollar', 'senior citizen ticket']	['adult']	0.14729034296
+['8748 dollar', 'senior citizen ticket']	['dollar']	0.555573870895
+['8748 dollar', 'senior citizen ticket']	['15 dollar']	0.665215853449
+['8748 dollar', 'senior citizen ticket']	['senior citizen']	0.547044047195
+['8748 dollar', 'senior citizen ticket']	['receipt']	0.14394151833
+['8748 dollar', 'senior citizen ticket']	['citizen ticket']	0.658859294871
+['citizen ticket', 'senior citizen ticket']	['university theater']	0.241729003873
+['citizen ticket', 'senior citizen ticket']	['510 ticket']	0.725885838923
+['citizen ticket', 'senior citizen ticket']	['play']	0.364024636431
+['citizen ticket', 'senior citizen ticket']	['ticket']	0.704920313486
+['citizen ticket', 'senior citizen ticket']	['21 dollar']	0.203019945245
+['citizen ticket', 'senior citizen ticket']	['adult']	0.374822884051
+['citizen ticket', 'senior citizen ticket']	['dollar']	0.272051266122
+['citizen ticket', 'senior citizen ticket']	['15 dollar']	0.203019945245
+['citizen ticket', 'senior citizen ticket']	['senior citizen']	0.565539500859
+['citizen ticket', 'senior citizen ticket']	['receipt']	0.385163491414
+['citizen ticket', 'senior citizen ticket']	['8748 dollar']	0.188690699416
+['university theater', 'citizen ticket']	['510 ticket']	0.584269096576
+['university theater', 'citizen ticket']	['play']	0.170171263305
+['university theater', 'citizen ticket']	['ticket']	0.701921654163
+['university theater', 'citizen ticket']	['21 dollar']	0.0827346205535
+['university theater', 'citizen ticket']	['adult']	0.0777864840342
+['university theater', 'citizen ticket']	['dollar']	0.0354449666524
+['university theater', 'citizen ticket']	['15 dollar']	0.0827346205535
+['university theater', 'citizen ticket']	['senior citizen']	0.11192831726
+['university theater', 'citizen ticket']	['receipt']	0.170171263305
+['university theater', 'citizen ticket']	['8748 dollar']	0.0901100077042
+['university theater', 'citizen ticket']	['senior citizen ticket']	0.663527427801
+['510 ticket', 'citizen ticket']	['university theater']	0.176486909159
+['510 ticket', 'citizen ticket']	['play']	0.3667722268
+['510 ticket', 'citizen ticket']	['ticket']	0.749517001914
+['510 ticket', 'citizen ticket']	['21 dollar']	0.14589133531
+['510 ticket', 'citizen ticket']	['adult']	0.325390866884
+['510 ticket', 'citizen ticket']	['dollar']	0.292299166638
+['510 ticket', 'citizen ticket']	['15 dollar']	0.14589133531
+['510 ticket', 'citizen ticket']	['senior citizen']	0.255934891735
+['510 ticket', 'citizen ticket']	['receipt']	0.37370815508
+['510 ticket', 'citizen ticket']	['8748 dollar']	0.139258682248
+['510 ticket', 'citizen ticket']	['senior citizen ticket']	0.746255846576
+['play', 'citizen ticket']	['university theater']	0.146731135372
+['play', 'citizen ticket']	['510 ticket']	0.520866309821
+['play', 'citizen ticket']	['ticket']	0.808696483921
+['play', 'citizen ticket']	['21 dollar']	0.0800317642921
+['play', 'citizen ticket']	['adult']	0.177800302008
+['play', 'citizen ticket']	['dollar']	0.490537525093
+['play', 'citizen ticket']	['15 dollar']	0.0800317642921
+['play', 'citizen ticket']	['senior citizen']	0.117096918697
+['play', 'citizen ticket']	['receipt']	0.717331085163
+['play', 'citizen ticket']	['8748 dollar']	0.0833805889219
+['play', 'citizen ticket']	['senior citizen ticket']	0.705611576154
+['ticket', 'citizen ticket']	['university theater']	0.167427262452
+['ticket', 'citizen ticket']	['510 ticket']	0.782259204304
+['ticket', 'citizen ticket']	['play']	0.835347152145
+['ticket', 'citizen ticket']	['21 dollar']	0.247627320934
+['ticket', 'citizen ticket']	['adult']	0.391778704054
+['ticket', 'citizen ticket']	['dollar']	0.347535848514
+['ticket', 'citizen ticket']	['15 dollar']	0.247627320934
+['ticket', 'citizen ticket']	['senior citizen']	0.249001768327
+['ticket', 'citizen ticket']	['receipt']	0.760380701798
+['ticket', 'citizen ticket']	['8748 dollar']	0.247627320934
+['ticket', 'citizen ticket']	['senior citizen ticket']	0.708976032514
+['21 dollar', 'citizen ticket']	['university theater']	0.0827346205535
+['21 dollar', 'citizen ticket']	['510 ticket']	0.584269096576
+['21 dollar', 'citizen ticket']	['play']	0.0896499787083
+['21 dollar', 'citizen ticket']	['ticket']	0.707398287968
+['21 dollar', 'citizen ticket']	['adult']	0.0777864840342
+['21 dollar', 'citizen ticket']	['dollar']	0.458677718285
+['21 dollar', 'citizen ticket']	['15 dollar']	0.754360422532
+['21 dollar', 'citizen ticket']	['senior citizen']	0.107003435941
+['21 dollar', 'citizen ticket']	['receipt']	0.0744376594044
+['21 dollar', 'citizen ticket']	['8748 dollar']	0.584269096576
+['21 dollar', 'citizen ticket']	['senior citizen ticket']	0.669866445221
+['adult', 'citizen ticket']	['university theater']	0.0793857959237
+['adult', 'citizen ticket']	['510 ticket']	0.557925116239
+['adult', 'citizen ticket']	['play']	0.23507272142
+['adult', 'citizen ticket']	['ticket']	0.711787006853
+['adult', 'citizen ticket']	['21 dollar']	0.0827346205535
+['adult', 'citizen ticket']	['dollar']	0.177685390375
+['adult', 'citizen ticket']	['15 dollar']	0.0827346205535
+['adult', 'citizen ticket']	['senior citizen']	0.17132134852
+['adult', 'citizen ticket']	['receipt']	0.688363780537
+['adult', 'citizen ticket']	['8748 dollar']	0.0827346205535
+['adult', 'citizen ticket']	['senior citizen ticket']	0.675892873452
+['dollar', 'citizen ticket']	['university theater']	0.0361569291624
+['dollar', 'citizen ticket']	['510 ticket']	0.208039687774
+['dollar', 'citizen ticket']	['play']	0.511595456099
+['dollar', 'citizen ticket']	['ticket']	0.416171927407
+['dollar', 'citizen ticket']	['21 dollar']	0.391516700063
+['dollar', 'citizen ticket']	['adult']	0.0987471808723
+['dollar', 'citizen ticket']	['15 dollar']	0.391516700063
+['dollar', 'citizen ticket']	['senior citizen']	0.0650051934866
+['dollar', 'citizen ticket']	['receipt']	0.461903993858
+['dollar', 'citizen ticket']	['8748 dollar']	0.442012633359
+['dollar', 'citizen ticket']	['senior citizen ticket']	0.312976943678
+['15 dollar', 'citizen ticket']	['university theater']	0.0827346205535
+['15 dollar', 'citizen ticket']	['510 ticket']	0.584269096576
+['15 dollar', 'citizen ticket']	['play']	0.0896499787083
+['15 dollar', 'citizen ticket']	['ticket']	0.707398287968
+['15 dollar', 'citizen ticket']	['21 dollar']	0.754360422532
+['15 dollar', 'citizen ticket']	['adult']	0.0777864840342
+['15 dollar', 'citizen ticket']	['dollar']	0.458677718285
+['15 dollar', 'citizen ticket']	['senior citizen']	0.107003435941
+['15 dollar', 'citizen ticket']	['receipt']	0.0744376594044
+['15 dollar', 'citizen ticket']	['8748 dollar']	0.584269096576
+['15 dollar', 'citizen ticket']	['senior citizen ticket']	0.669866445221
+['senior citizen', 'citizen ticket']	['university theater']	0.0696933362217
+['senior citizen', 'citizen ticket']	['510 ticket']	0.544221442934
+['senior citizen', 'citizen ticket']	['play']	0.0717309585509
+['senior citizen', 'citizen ticket']	['ticket']	0.56643566412
+['senior citizen', 'citizen ticket']	['21 dollar']	0.0696933362217
+['senior citizen', 'citizen ticket']	['adult']	0.136579015977
+['senior citizen', 'citizen ticket']	['dollar']	0.0222822240935
+['senior citizen', 'citizen ticket']	['15 dollar']	0.0696933362217
+['senior citizen', 'citizen ticket']	['receipt']	0.0634148935911
+['senior citizen', 'citizen ticket']	['8748 dollar']	0.0737139440912
+['senior citizen', 'citizen ticket']	['senior citizen ticket']	0.870911756773
+['receipt', 'citizen ticket']	['university theater']	0.146731135372
+['receipt', 'citizen ticket']	['510 ticket']	0.520866309821
+['receipt', 'citizen ticket']	['play']	0.76180181784
+['receipt', 'citizen ticket']	['ticket']	0.821910970052
+['receipt', 'citizen ticket']	['21 dollar']	0.0819994954072
+['receipt', 'citizen ticket']	['adult']	0.703491652722
+['receipt', 'citizen ticket']	['dollar']	0.490537525093
+['receipt', 'citizen ticket']	['15 dollar']	0.0819994954072
+['receipt', 'citizen ticket']	['senior citizen']	0.112172037378
+['receipt', 'citizen ticket']	['8748 dollar']	0.0833805889219
+['receipt', 'citizen ticket']	['senior citizen ticket']	0.686246496789
+['8748 dollar', 'citizen ticket']	['university theater']	0.0827346205535
+['8748 dollar', 'citizen ticket']	['510 ticket']	0.584269096576
+['8748 dollar', 'citizen ticket']	['play']	0.0896499787083
+['8748 dollar', 'citizen ticket']	['ticket']	0.707398287968
+['8748 dollar', 'citizen ticket']	['21 dollar']	0.573408386835
+['8748 dollar', 'citizen ticket']	['adult']	0.0777864840342
+['8748 dollar', 'citizen ticket']	['dollar']	0.547932141857
+['8748 dollar', 'citizen ticket']	['15 dollar']	0.573408386835
+['8748 dollar', 'citizen ticket']	['senior citizen']	0.107003435941
+['8748 dollar', 'citizen ticket']	['receipt']	0.0744376594044
+['8748 dollar', 'citizen ticket']	['senior citizen ticket']	0.669866445221
+['senior citizen ticket', 'citizen ticket']	['university theater']	0.241729003873
+['senior citizen ticket', 'citizen ticket']	['510 ticket']	0.725885838923
+['senior citizen ticket', 'citizen ticket']	['play']	0.364024636431
+['senior citizen ticket', 'citizen ticket']	['ticket']	0.704920313486
+['senior citizen ticket', 'citizen ticket']	['21 dollar']	0.203019945245
+['senior citizen ticket', 'citizen ticket']	['adult']	0.374822884051
+['senior citizen ticket', 'citizen ticket']	['dollar']	0.272051266122
+['senior citizen ticket', 'citizen ticket']	['15 dollar']	0.203019945245
+['senior citizen ticket', 'citizen ticket']	['senior citizen']	0.565539500859
+['senior citizen ticket', 'citizen ticket']	['receipt']	0.385163491414
+['senior citizen ticket', 'citizen ticket']	['8748 dollar']	0.188690699416

@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (NNP Lane))
+    (VP
+      (VBD invested)
+      (NP
+        (NP (CD 22,000) (NNS dollars))
+        (, ,)
+        (NP (NP (NN part)) (PP (IN at) (NP (CD 8) (NN %))))
+        (CC and)
+        (NP (NP (NN part)) (PP (IN at) (NP (CD 7) (NN %))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (JJ total) (NN interest))
+          (PP
+            (IN at)
+            (NP
+              (NP (DT the) (NN end))
+              (PP (IN of) (NP (DT the) (NN year))))))
+        (VP (VBZ is) (NP (CD 1,710) (NNS dollars)))))
+    (, ,)
+    (WHNP (WRB how) (JJ much))
+    (SQ
+      (VBD did)
+      (NP (PRP she))
+      (VP (VB invest) (PP (IN at) (NP (CD 8) (NN %)))))
+    (. ?)))

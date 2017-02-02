@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (NP (CD 2) (NNS automobiles))
+    (VP
+      (VP
+        (VBP start)
+        (PRT (RP out))
+        (PP
+          (IN from)
+          (NP
+            (NP (CD two) (NNS points))
+            (ADVP (NP (CD 600) (NNS kilometers)) (RB apart)))))
+      (CC and)
+      (VP
+        (VB travel)
+        (PP
+          (IN toward)
+          (NP
+            (NP (DT each) (NN other.The) (NN automobile))
+            (PP (IN from) (NP (DT the) (JJ east) (NNS travels)))))
+        (PP
+          (IN at)
+          (PP
+            (ADVP (NP (CD 10) (NNS kilometers)) (RBR faster))
+            (IN than)
+            (NP
+              (NP (DT the) (NN automobile))
+              (PP (IN from) (NP (DT the) (NN west))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP they))
+        (VP (VBP meet) (PP (IN after) (NP (CD 5) (NNS hours))))))
+    (, ,)
+    (WHNP (WP what))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (JJ average) (NN speed))
+        (PP (IN of) (NP (DT each) (NN automobile)))))
+    (. ?)))

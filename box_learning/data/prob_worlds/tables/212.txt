@@ -1,0 +1,14 @@
+1
+[['ticket', '800', 'ticket', '-', '-', 'dollar', '16, 640'], ['advanced ticket', 'x1', '-', 'dollar', '14.5', '-', '-'], ['ticket at the door', 'x2', '-', 'dollar', '22', '-', '-']]
+-1
+[['ticket', '800', 'ticket', '-', '-', 'dollar', '16, 640'], ['advanced ticket', 'x1', '-', 'dollar', '14.5', '-', '-'], ['ticket at the door', '800', 'ticket', 'dollar', '22', '16, 640', '-']]
+-1
+[['ticket', 'ticket at the door', 'ticket', 'x2', '-', 'dollar', '16, 640'], ['advanced ticket', 'x1', '-', 'dollar', '14.5', '-', '-'], ['ticket at the door', 'x2', '-', 'dollar', '22', 'ticket', '-']]
+-1
+[['ticket', '22', 'ticket', '-', '-', 'dollar', '16, 640'], ['advanced ticket', 'x1', '-', 'dollar', '14.5', '-', '-'], ['ticket at the door', 'x2', '16, 640', 'dollar', '22', '-', '-']]
+-1
+[['ticket', '800', 'ticket at the door', '-', '-', 'dollar', '16, 640'], ['advanced ticket', 'x1', '-', 'dollar', '14.5', '-', '-'], ['ticket at the door', '800', '-', 'dollar', '22', 'ticket', '-']]
+-1
+[['ticket', '800', 'ticket', '-', '-', 'ticket at the door', '16, 640'], ['advanced ticket', 'x1', '-', 'dollar', '14.5', '-', '-'], ['ticket at the door', '16, 640', '-', 'dollar', '800', 'ticket', '-']]
+-1
+[['dollar', '800', 'ticket', '-', '-', 'ticket at the door', '16, 640'], ['advanced ticket', 'x1', '-', 'dollar', '14.5', '-', '-'], ['ticket at the door', '16, 640', '800', 'dollar', 'ticket', '-', '-']]

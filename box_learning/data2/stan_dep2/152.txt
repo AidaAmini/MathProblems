@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN value))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT a) (NN sport) (NN utility) (NN vehicle))
+          (NP (DT this) (NN year)))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (CD 16,000) (NNS dollars))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP
+              (VBZ is)
+              (NP
+                (NP (CD 0.8))
+                (PP
+                  (IN of)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (NP (PRP$ its) (NN value))
+                      (VP (VBD was) (NP-TMP (JJ last) (NN year))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN value))
+        (PP (IN of) (NP (DT the) (NN vehicle))))
+      (NP-TMP (JJ last) (NN year)))
+    (. .)))

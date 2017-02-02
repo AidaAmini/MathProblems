@@ -1,0 +1,133 @@
+['2 part', '0.40', '0.625', 'part', 'smaller part', 'larger part']
+['2 part']	['0.40']	0.0888375395985
+['2 part']	['0.625']	0.0888375395985
+['2 part']	['smaller part']	0.643440930505
+['2 part']	['larger part']	0.643440930505
+['0.40']	['0.625']	0.0922858731158
+['0.40']	['part']	0.0545449409346
+['0.40']	['smaller part']	0.0901100077042
+['0.40']	['larger part']	0.0901100077042
+['0.625']	['part']	0.0545449409346
+['0.625']	['smaller part']	0.0901100077042
+['0.625']	['larger part']	0.0901100077042
+['smaller part']	['larger part']	0.65473002478
+['0.40', '2 part']	['0.625']	0.1191315107
+['0.40', '2 part']	['part']	0.604958016746
+['0.40', '2 part']	['smaller part']	0.584269096576
+['0.40', '2 part']	['larger part']	0.584269096576
+['0.625', '2 part']	['0.40']	0.1191315107
+['0.625', '2 part']	['part']	0.604958016746
+['0.625', '2 part']	['smaller part']	0.584269096576
+['0.625', '2 part']	['larger part']	0.584269096576
+['part', '2 part']	['0.40']	0.264731227956
+['part', '2 part']	['0.625']	0.264731227956
+['part', '2 part']	['smaller part']	0.755570330281
+['part', '2 part']	['larger part']	0.755570330281
+['smaller part', '2 part']	['0.40']	0.325390866884
+['smaller part', '2 part']	['0.625']	0.325390866884
+['smaller part', '2 part']	['part']	0.770939823061
+['smaller part', '2 part']	['larger part']	0.432401916085
+['larger part', '2 part']	['0.40']	0.325390866884
+['larger part', '2 part']	['0.625']	0.325390866884
+['larger part', '2 part']	['part']	0.770939823061
+['larger part', '2 part']	['smaller part']	0.432401916085
+['2 part', '0.40']	['0.625']	0.1191315107
+['2 part', '0.40']	['part']	0.604958016746
+['2 part', '0.40']	['smaller part']	0.584269096576
+['2 part', '0.40']	['larger part']	0.584269096576
+['0.625', '0.40']	['2 part']	0.0901100077042
+['0.625', '0.40']	['part']	0.0545449409346
+['0.625', '0.40']	['smaller part']	0.0901100077042
+['0.625', '0.40']	['larger part']	0.0901100077042
+['part', '0.40']	['2 part']	0.644381540353
+['part', '0.40']	['0.625']	0.0428520175287
+['part', '0.40']	['smaller part']	0.607603473776
+['part', '0.40']	['larger part']	0.607603473776
+['smaller part', '0.40']	['2 part']	0.584269096576
+['smaller part', '0.40']	['0.625']	0.1191315107
+['smaller part', '0.40']	['part']	0.656611586274
+['smaller part', '0.40']	['larger part']	0.584269096576
+['larger part', '0.40']	['2 part']	0.584269096576
+['larger part', '0.40']	['0.625']	0.1191315107
+['larger part', '0.40']	['part']	0.656611586274
+['larger part', '0.40']	['smaller part']	0.584269096576
+['2 part', '0.625']	['0.40']	0.1191315107
+['2 part', '0.625']	['part']	0.604958016746
+['2 part', '0.625']	['smaller part']	0.584269096576
+['2 part', '0.625']	['larger part']	0.584269096576
+['0.40', '0.625']	['2 part']	0.0901100077042
+['0.40', '0.625']	['part']	0.0545449409346
+['0.40', '0.625']	['smaller part']	0.0901100077042
+['0.40', '0.625']	['larger part']	0.0901100077042
+['part', '0.625']	['2 part']	0.644381540353
+['part', '0.625']	['0.40']	0.0428520175287
+['part', '0.625']	['smaller part']	0.607603473776
+['part', '0.625']	['larger part']	0.607603473776
+['smaller part', '0.625']	['2 part']	0.584269096576
+['smaller part', '0.625']	['0.40']	0.1191315107
+['smaller part', '0.625']	['part']	0.656611586274
+['smaller part', '0.625']	['larger part']	0.584269096576
+['larger part', '0.625']	['2 part']	0.584269096576
+['larger part', '0.625']	['0.40']	0.1191315107
+['larger part', '0.625']	['part']	0.656611586274
+['larger part', '0.625']	['smaller part']	0.584269096576
+['2 part', 'part']	['0.40']	0.264731227956
+['2 part', 'part']	['0.625']	0.264731227956
+['2 part', 'part']	['smaller part']	0.755570330281
+['2 part', 'part']	['larger part']	0.755570330281
+['0.40', 'part']	['2 part']	0.644381540353
+['0.40', 'part']	['0.625']	0.0428520175287
+['0.40', 'part']	['smaller part']	0.607603473776
+['0.40', 'part']	['larger part']	0.607603473776
+['0.625', 'part']	['2 part']	0.644381540353
+['0.625', 'part']	['0.40']	0.0428520175287
+['0.625', 'part']	['smaller part']	0.607603473776
+['0.625', 'part']	['larger part']	0.607603473776
+['smaller part', 'part']	['2 part']	0.86289020778
+['smaller part', 'part']	['0.40']	0.264731227956
+['smaller part', 'part']	['0.625']	0.264731227956
+['smaller part', 'part']	['larger part']	0.755570330281
+['larger part', 'part']	['2 part']	0.86289020778
+['larger part', 'part']	['0.40']	0.264731227956
+['larger part', 'part']	['0.625']	0.264731227956
+['larger part', 'part']	['smaller part']	0.755570330281
+['2 part', 'smaller part']	['0.40']	0.325390866884
+['2 part', 'smaller part']	['0.625']	0.325390866884
+['2 part', 'smaller part']	['part']	0.770939823061
+['2 part', 'smaller part']	['larger part']	0.432401916085
+['0.40', 'smaller part']	['2 part']	0.584269096576
+['0.40', 'smaller part']	['0.625']	0.1191315107
+['0.40', 'smaller part']	['part']	0.656611586274
+['0.40', 'smaller part']	['larger part']	0.584269096576
+['0.625', 'smaller part']	['2 part']	0.584269096576
+['0.625', 'smaller part']	['0.40']	0.1191315107
+['0.625', 'smaller part']	['part']	0.656611586274
+['0.625', 'smaller part']	['larger part']	0.584269096576
+['part', 'smaller part']	['2 part']	0.86289020778
+['part', 'smaller part']	['0.40']	0.264731227956
+['part', 'smaller part']	['0.625']	0.264731227956
+['part', 'smaller part']	['larger part']	0.755570330281
+['larger part', 'smaller part']	['2 part']	0.637144068101
+['larger part', 'smaller part']	['0.40']	0.325390866884
+['larger part', 'smaller part']	['0.625']	0.325390866884
+['larger part', 'smaller part']	['part']	0.707785787058
+['2 part', 'larger part']	['0.40']	0.325390866884
+['2 part', 'larger part']	['0.625']	0.325390866884
+['2 part', 'larger part']	['part']	0.770939823061
+['2 part', 'larger part']	['smaller part']	0.432401916085
+['0.40', 'larger part']	['2 part']	0.584269096576
+['0.40', 'larger part']	['0.625']	0.1191315107
+['0.40', 'larger part']	['part']	0.656611586274
+['0.40', 'larger part']	['smaller part']	0.584269096576
+['0.625', 'larger part']	['2 part']	0.584269096576
+['0.625', 'larger part']	['0.40']	0.1191315107
+['0.625', 'larger part']	['part']	0.656611586274
+['0.625', 'larger part']	['smaller part']	0.584269096576
+['part', 'larger part']	['2 part']	0.86289020778
+['part', 'larger part']	['0.40']	0.264731227956
+['part', 'larger part']	['0.625']	0.264731227956
+['part', 'larger part']	['smaller part']	0.755570330281
+['smaller part', 'larger part']	['2 part']	0.637144068101
+['smaller part', 'larger part']	['0.40']	0.325390866884
+['smaller part', 'larger part']	['0.625']	0.325390866884
+['smaller part', 'larger part']	['part']	0.707785787058

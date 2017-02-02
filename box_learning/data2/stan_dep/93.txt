@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NP (DT The) (NN world) (POS 's)) (JJS oldest) (NN bride))
+    (VP
+      (VBD was)
+      (ADJP
+        (ADJP (NP (CD 19) (NN yr)) (JJR older))
+        (PP (IN than) (NP (PRP$ her) (NN groom)))))
+    (. .)))
+(ROOT
+  (S
+    (ADVP (RB Together))
+    (, ,)
+    (NP (PRP$ their) (NNS ages))
+    (VP (VBD totaled) (NP (CD 185) (NNS years)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ old))
+    (SQ (VBD was) (NP (DT the) (NN bride)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ old))
+    (SQ (VBD was) (NP (DT the) (NN groom)))
+    (. ?)))

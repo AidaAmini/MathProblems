@@ -1,0 +1,228 @@
+['can juice drink', '30 % orange juice', 'juice', '5 % orange juice', 'liter', '25 liter', '10 % orange juice']
+['can juice drink']	['30 % orange juice']	0.107526100904
+['can juice drink']	['juice']	0.112181076422
+['can juice drink']	['5 % orange juice']	0.107526100904
+['can juice drink']	['liter']	0.012852508684
+['can juice drink']	['25 liter']	0.0988755105172
+['can juice drink']	['10 % orange juice']	0.107526100904
+['30 % orange juice']	['5 % orange juice']	0.656100708025
+['30 % orange juice']	['liter']	0.012852508684
+['30 % orange juice']	['25 liter']	0.367485344043
+['30 % orange juice']	['10 % orange juice']	0.803082245678
+['juice']	['liter']	0.00979922007561
+['juice']	['25 liter']	0.0465787639079
+['5 % orange juice']	['liter']	0.012852508684
+['5 % orange juice']	['25 liter']	0.125410729912
+['5 % orange juice']	['10 % orange juice']	0.656100708025
+['liter']	['10 % orange juice']	0.0258221685033
+['25 liter']	['10 % orange juice']	0.345657820569
+['30 % orange juice', 'can juice drink']	['juice']	0.743005344238
+['30 % orange juice', 'can juice drink']	['5 % orange juice']	0.667545077354
+['30 % orange juice', 'can juice drink']	['liter']	0.012852508684
+['30 % orange juice', 'can juice drink']	['25 liter']	0.387709641536
+['30 % orange juice', 'can juice drink']	['10 % orange juice']	0.800904448166
+['juice', 'can juice drink']	['30 % orange juice']	0.557693727199
+['juice', 'can juice drink']	['5 % orange juice']	0.557693727199
+['juice', 'can juice drink']	['liter']	0.148651954686
+['juice', 'can juice drink']	['25 liter']	0.0465787639079
+['juice', 'can juice drink']	['10 % orange juice']	0.557693727199
+['5 % orange juice', 'can juice drink']	['30 % orange juice']	0.667545077354
+['5 % orange juice', 'can juice drink']	['juice']	0.743005344238
+['5 % orange juice', 'can juice drink']	['liter']	0.012852508684
+['5 % orange juice', 'can juice drink']	['25 liter']	0.122899008826
+['5 % orange juice', 'can juice drink']	['10 % orange juice']	0.667545077354
+['liter', 'can juice drink']	['30 % orange juice']	0.0454352381839
+['liter', 'can juice drink']	['juice']	0.397316572317
+['liter', 'can juice drink']	['5 % orange juice']	0.0454352381839
+['liter', 'can juice drink']	['25 liter']	0.395888983885
+['liter', 'can juice drink']	['10 % orange juice']	0.0454352381839
+['25 liter', 'can juice drink']	['30 % orange juice']	0.463800617609
+['25 liter', 'can juice drink']	['juice']	0.147948437526
+['25 liter', 'can juice drink']	['5 % orange juice']	0.226957565185
+['25 liter', 'can juice drink']	['liter']	0.418795135342
+['25 liter', 'can juice drink']	['10 % orange juice']	0.463800617609
+['10 % orange juice', 'can juice drink']	['30 % orange juice']	0.800904448166
+['10 % orange juice', 'can juice drink']	['juice']	0.743005344238
+['10 % orange juice', 'can juice drink']	['5 % orange juice']	0.667545077354
+['10 % orange juice', 'can juice drink']	['liter']	0.012852508684
+['10 % orange juice', 'can juice drink']	['25 liter']	0.387709641536
+['can juice drink', '30 % orange juice']	['juice']	0.743005344238
+['can juice drink', '30 % orange juice']	['5 % orange juice']	0.667545077354
+['can juice drink', '30 % orange juice']	['liter']	0.012852508684
+['can juice drink', '30 % orange juice']	['25 liter']	0.387709641536
+['can juice drink', '30 % orange juice']	['10 % orange juice']	0.800904448166
+['juice', '30 % orange juice']	['can juice drink']	0.538547922352
+['juice', '30 % orange juice']	['5 % orange juice']	0.727898986468
+['juice', '30 % orange juice']	['liter']	0.277139208174
+['juice', '30 % orange juice']	['25 liter']	0.528679407553
+['juice', '30 % orange juice']	['10 % orange juice']	0.668137175049
+['5 % orange juice', '30 % orange juice']	['can juice drink']	0.391351368833
+['5 % orange juice', '30 % orange juice']	['juice']	0.740418830509
+['5 % orange juice', '30 % orange juice']	['liter']	0.161855832746
+['5 % orange juice', '30 % orange juice']	['25 liter']	0.718413804005
+['5 % orange juice', '30 % orange juice']	['10 % orange juice']	0.852265471486
+['liter', '30 % orange juice']	['can juice drink']	0.0775228353881
+['liter', '30 % orange juice']	['juice']	0.446517842614
+['liter', '30 % orange juice']	['5 % orange juice']	0.289465816937
+['liter', '30 % orange juice']	['25 liter']	0.568163126162
+['liter', '30 % orange juice']	['10 % orange juice']	0.271746578833
+['25 liter', '30 % orange juice']	['can juice drink']	0.106331043324
+['25 liter', '30 % orange juice']	['juice']	0.604013154066
+['25 liter', '30 % orange juice']	['5 % orange juice']	0.781986226411
+['25 liter', '30 % orange juice']	['liter']	0.384738724236
+['25 liter', '30 % orange juice']	['10 % orange juice']	0.835795180648
+['10 % orange juice', '30 % orange juice']	['can juice drink']	0.391351368833
+['10 % orange juice', '30 % orange juice']	['juice']	0.740418830509
+['10 % orange juice', '30 % orange juice']	['5 % orange juice']	0.847006139284
+['10 % orange juice', '30 % orange juice']	['liter']	0.161855832746
+['10 % orange juice', '30 % orange juice']	['25 liter']	0.687791572343
+['can juice drink', 'juice']	['30 % orange juice']	0.557693727199
+['can juice drink', 'juice']	['5 % orange juice']	0.557693727199
+['can juice drink', 'juice']	['liter']	0.148651954686
+['can juice drink', 'juice']	['25 liter']	0.0465787639079
+['can juice drink', 'juice']	['10 % orange juice']	0.557693727199
+['30 % orange juice', 'juice']	['can juice drink']	0.538547922352
+['30 % orange juice', 'juice']	['5 % orange juice']	0.727898986468
+['30 % orange juice', 'juice']	['liter']	0.277139208174
+['30 % orange juice', 'juice']	['25 liter']	0.528679407553
+['30 % orange juice', 'juice']	['10 % orange juice']	0.668137175049
+['5 % orange juice', 'juice']	['can juice drink']	0.538547922352
+['5 % orange juice', 'juice']	['30 % orange juice']	0.727898986468
+['5 % orange juice', 'juice']	['liter']	0.277139208174
+['5 % orange juice', 'juice']	['25 liter']	0.186716246084
+['5 % orange juice', 'juice']	['10 % orange juice']	0.727898986468
+['liter', 'juice']	['can juice drink']	0.11700507923
+['liter', 'juice']	['30 % orange juice']	0.327233151348
+['liter', 'juice']	['5 % orange juice']	0.327233151348
+['liter', 'juice']	['25 liter']	0.308456481641
+['liter', 'juice']	['10 % orange juice']	0.327233151348
+['25 liter', 'juice']	['can juice drink']	0.112864057158
+['25 liter', 'juice']	['30 % orange juice']	0.654442934795
+['25 liter', 'juice']	['5 % orange juice']	0.682665244542
+['25 liter', 'juice']	['liter']	0.534815504296
+['25 liter', 'juice']	['10 % orange juice']	0.654442934795
+['10 % orange juice', 'juice']	['can juice drink']	0.538547922352
+['10 % orange juice', 'juice']	['30 % orange juice']	0.668137175049
+['10 % orange juice', 'juice']	['5 % orange juice']	0.727898986468
+['10 % orange juice', 'juice']	['liter']	0.277139208174
+['10 % orange juice', 'juice']	['25 liter']	0.528679407553
+['can juice drink', '5 % orange juice']	['30 % orange juice']	0.667545077354
+['can juice drink', '5 % orange juice']	['juice']	0.743005344238
+['can juice drink', '5 % orange juice']	['liter']	0.012852508684
+['can juice drink', '5 % orange juice']	['25 liter']	0.122899008826
+['can juice drink', '5 % orange juice']	['10 % orange juice']	0.667545077354
+['30 % orange juice', '5 % orange juice']	['can juice drink']	0.391351368833
+['30 % orange juice', '5 % orange juice']	['juice']	0.740418830509
+['30 % orange juice', '5 % orange juice']	['liter']	0.161855832746
+['30 % orange juice', '5 % orange juice']	['25 liter']	0.718413804005
+['30 % orange juice', '5 % orange juice']	['10 % orange juice']	0.852265471486
+['juice', '5 % orange juice']	['can juice drink']	0.538547922352
+['juice', '5 % orange juice']	['30 % orange juice']	0.727898986468
+['juice', '5 % orange juice']	['liter']	0.277139208174
+['juice', '5 % orange juice']	['25 liter']	0.186716246084
+['juice', '5 % orange juice']	['10 % orange juice']	0.727898986468
+['liter', '5 % orange juice']	['can juice drink']	0.0775228353881
+['liter', '5 % orange juice']	['30 % orange juice']	0.289465816937
+['liter', '5 % orange juice']	['juice']	0.446517842614
+['liter', '5 % orange juice']	['25 liter']	0.565440973471
+['liter', '5 % orange juice']	['10 % orange juice']	0.289465816937
+['25 liter', '5 % orange juice']	['can juice drink']	0.106331043324
+['25 liter', '5 % orange juice']	['30 % orange juice']	0.81762870926
+['25 liter', '5 % orange juice']	['juice']	0.604013154066
+['25 liter', '5 % orange juice']	['liter']	0.384738724236
+['25 liter', '5 % orange juice']	['10 % orange juice']	0.81762870926
+['10 % orange juice', '5 % orange juice']	['can juice drink']	0.391351368833
+['10 % orange juice', '5 % orange juice']	['30 % orange juice']	0.852265471486
+['10 % orange juice', '5 % orange juice']	['juice']	0.740418830509
+['10 % orange juice', '5 % orange juice']	['liter']	0.161855832746
+['10 % orange juice', '5 % orange juice']	['25 liter']	0.718413804005
+['can juice drink', 'liter']	['30 % orange juice']	0.0454352381839
+['can juice drink', 'liter']	['juice']	0.397316572317
+['can juice drink', 'liter']	['5 % orange juice']	0.0454352381839
+['can juice drink', 'liter']	['25 liter']	0.395888983885
+['can juice drink', 'liter']	['10 % orange juice']	0.0454352381839
+['30 % orange juice', 'liter']	['can juice drink']	0.0775228353881
+['30 % orange juice', 'liter']	['juice']	0.446517842614
+['30 % orange juice', 'liter']	['5 % orange juice']	0.289465816937
+['30 % orange juice', 'liter']	['25 liter']	0.568163126162
+['30 % orange juice', 'liter']	['10 % orange juice']	0.271746578833
+['juice', 'liter']	['can juice drink']	0.11700507923
+['juice', 'liter']	['30 % orange juice']	0.327233151348
+['juice', 'liter']	['5 % orange juice']	0.327233151348
+['juice', 'liter']	['25 liter']	0.308456481641
+['juice', 'liter']	['10 % orange juice']	0.327233151348
+['5 % orange juice', 'liter']	['can juice drink']	0.0775228353881
+['5 % orange juice', 'liter']	['30 % orange juice']	0.289465816937
+['5 % orange juice', 'liter']	['juice']	0.446517842614
+['5 % orange juice', 'liter']	['25 liter']	0.565440973471
+['5 % orange juice', 'liter']	['10 % orange juice']	0.289465816937
+['25 liter', 'liter']	['can juice drink']	0.324358819701
+['25 liter', 'liter']	['30 % orange juice']	0.564390830024
+['25 liter', 'liter']	['juice']	0.3867182405
+['25 liter', 'liter']	['5 % orange juice']	0.355827855335
+['25 liter', 'liter']	['10 % orange juice']	0.564390830024
+['10 % orange juice', 'liter']	['can juice drink']	0.0775228353881
+['10 % orange juice', 'liter']	['30 % orange juice']	0.271746578833
+['10 % orange juice', 'liter']	['juice']	0.446517842614
+['10 % orange juice', 'liter']	['5 % orange juice']	0.289465816937
+['10 % orange juice', 'liter']	['25 liter']	0.568163126162
+['can juice drink', '25 liter']	['30 % orange juice']	0.463800617609
+['can juice drink', '25 liter']	['juice']	0.147948437526
+['can juice drink', '25 liter']	['5 % orange juice']	0.226957565185
+['can juice drink', '25 liter']	['liter']	0.418795135342
+['can juice drink', '25 liter']	['10 % orange juice']	0.463800617609
+['30 % orange juice', '25 liter']	['can juice drink']	0.106331043324
+['30 % orange juice', '25 liter']	['juice']	0.604013154066
+['30 % orange juice', '25 liter']	['5 % orange juice']	0.781986226411
+['30 % orange juice', '25 liter']	['liter']	0.384738724236
+['30 % orange juice', '25 liter']	['10 % orange juice']	0.835795180648
+['juice', '25 liter']	['can juice drink']	0.112864057158
+['juice', '25 liter']	['30 % orange juice']	0.654442934795
+['juice', '25 liter']	['5 % orange juice']	0.682665244542
+['juice', '25 liter']	['liter']	0.534815504296
+['juice', '25 liter']	['10 % orange juice']	0.654442934795
+['5 % orange juice', '25 liter']	['can juice drink']	0.106331043324
+['5 % orange juice', '25 liter']	['30 % orange juice']	0.81762870926
+['5 % orange juice', '25 liter']	['juice']	0.604013154066
+['5 % orange juice', '25 liter']	['liter']	0.384738724236
+['5 % orange juice', '25 liter']	['10 % orange juice']	0.81762870926
+['liter', '25 liter']	['can juice drink']	0.324358819701
+['liter', '25 liter']	['30 % orange juice']	0.564390830024
+['liter', '25 liter']	['juice']	0.3867182405
+['liter', '25 liter']	['5 % orange juice']	0.355827855335
+['liter', '25 liter']	['10 % orange juice']	0.564390830024
+['10 % orange juice', '25 liter']	['can juice drink']	0.106331043324
+['10 % orange juice', '25 liter']	['30 % orange juice']	0.835795180648
+['10 % orange juice', '25 liter']	['juice']	0.604013154066
+['10 % orange juice', '25 liter']	['5 % orange juice']	0.781986226411
+['10 % orange juice', '25 liter']	['liter']	0.384738724236
+['can juice drink', '10 % orange juice']	['30 % orange juice']	0.800904448166
+['can juice drink', '10 % orange juice']	['juice']	0.743005344238
+['can juice drink', '10 % orange juice']	['5 % orange juice']	0.667545077354
+['can juice drink', '10 % orange juice']	['liter']	0.012852508684
+['can juice drink', '10 % orange juice']	['25 liter']	0.387709641536
+['30 % orange juice', '10 % orange juice']	['can juice drink']	0.391351368833
+['30 % orange juice', '10 % orange juice']	['juice']	0.740418830509
+['30 % orange juice', '10 % orange juice']	['5 % orange juice']	0.847006139284
+['30 % orange juice', '10 % orange juice']	['liter']	0.161855832746
+['30 % orange juice', '10 % orange juice']	['25 liter']	0.687791572343
+['juice', '10 % orange juice']	['can juice drink']	0.538547922352
+['juice', '10 % orange juice']	['30 % orange juice']	0.668137175049
+['juice', '10 % orange juice']	['5 % orange juice']	0.727898986468
+['juice', '10 % orange juice']	['liter']	0.277139208174
+['juice', '10 % orange juice']	['25 liter']	0.528679407553
+['5 % orange juice', '10 % orange juice']	['can juice drink']	0.391351368833
+['5 % orange juice', '10 % orange juice']	['30 % orange juice']	0.852265471486
+['5 % orange juice', '10 % orange juice']	['juice']	0.740418830509
+['5 % orange juice', '10 % orange juice']	['liter']	0.161855832746
+['5 % orange juice', '10 % orange juice']	['25 liter']	0.718413804005
+['liter', '10 % orange juice']	['can juice drink']	0.0775228353881
+['liter', '10 % orange juice']	['30 % orange juice']	0.271746578833
+['liter', '10 % orange juice']	['juice']	0.446517842614
+['liter', '10 % orange juice']	['5 % orange juice']	0.289465816937
+['liter', '10 % orange juice']	['25 liter']	0.568163126162
+['25 liter', '10 % orange juice']	['can juice drink']	0.106331043324
+['25 liter', '10 % orange juice']	['30 % orange juice']	0.835795180648
+['25 liter', '10 % orange juice']	['juice']	0.604013154066
+['25 liter', '10 % orange juice']	['5 % orange juice']	0.781986226411
+['25 liter', '10 % orange juice']	['liter']	0.384738724236

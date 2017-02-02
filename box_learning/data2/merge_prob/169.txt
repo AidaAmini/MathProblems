@@ -1,0 +1,536 @@
+['two different stock', '14 share', 'stock', 'valuable stock', 'share', '26 share', 'asset', '2106 dollar', 'expensive stock']
+['two different stock']	['two different stock']	0.105879631655
+['two different stock']	['two different stock']	0.222106643117
+['two different stock']	['two different stock']	0.0869621173251
+['two different stock']	['two different stock']	0.105879631655
+['two different stock']	['two different stock']	0.082544465224
+['two different stock']	['two different stock']	0.0811452298031
+['two different stock']	['two different stock']	0.326383248134
+['14 share']	['14 share']	0.0441005688128
+['14 share']	['14 share']	0.0749559916178
+['14 share']	['14 share']	0.65022495873
+['14 share']	['14 share']	0.0824169897896
+['14 share']	['14 share']	0.0690143673113
+['14 share']	['14 share']	0.0690143673113
+['stock']	['stock']	0.0661470033798
+['stock']	['stock']	0.104014780633
+['stock']	['stock']	0.250406210081
+['stock']	['stock']	0.0522405116331
+['valuable stock']	['valuable stock']	0.0869621173251
+['valuable stock']	['valuable stock']	0.0749559916178
+['valuable stock']	['valuable stock']	0.0824169897896
+['valuable stock']	['valuable stock']	0.0690143673113
+['valuable stock']	['valuable stock']	0.619435082006
+['share']	['share']	0.0419622326979
+['share']	['share']	0.0726311745998
+['share']	['share']	0.142686826382
+['26 share']	['26 share']	0.0824169897896
+['26 share']	['26 share']	0.0690143673113
+['26 share']	['26 share']	0.0690143673113
+['asset']	['asset']	0.0819536939605
+['asset']	['asset']	0.0819536939605
+['2106 dollar']	['2106 dollar']	0.0690143673113
+['14 share', 'two different stock']	['14 share', 'two different stock']	0.0408306246546
+['14 share', 'two different stock']	['14 share', 'two different stock']	0.104580852114
+['14 share', 'two different stock']	['14 share', 'two different stock']	0.162013115449
+['14 share', 'two different stock']	['14 share', 'two different stock']	0.193850098802
+['14 share', 'two different stock']	['14 share', 'two different stock']	0.0824169897896
+['14 share', 'two different stock']	['14 share', 'two different stock']	0.077741654189
+['14 share', 'two different stock']	['14 share', 'two different stock']	0.126346464602
+['stock', 'two different stock']	['stock', 'two different stock']	0.084569660146
+['stock', 'two different stock']	['stock', 'two different stock']	0.117950748146
+['stock', 'two different stock']	['stock', 'two different stock']	0.0784385803631
+['stock', 'two different stock']	['stock', 'two different stock']	0.084569660146
+['stock', 'two different stock']	['stock', 'two different stock']	0.100996310134
+['stock', 'two different stock']	['stock', 'two different stock']	0.0602992068745
+['stock', 'two different stock']	['stock', 'two different stock']	0.117950748146
+['valuable stock', 'two different stock']	['valuable stock', 'two different stock']	0.177609865757
+['valuable stock', 'two different stock']	['valuable stock', 'two different stock']	0.0382312643124
+['valuable stock', 'two different stock']	['valuable stock', 'two different stock']	0.204550060872
+['valuable stock', 'two different stock']	['valuable stock', 'two different stock']	0.177609865757
+['valuable stock', 'two different stock']	['valuable stock', 'two different stock']	0.207135603763
+['valuable stock', 'two different stock']	['valuable stock', 'two different stock']	0.130609210305
+['valuable stock', 'two different stock']	['valuable stock', 'two different stock']	0.461994122324
+['share', 'two different stock']	['share', 'two different stock']	0.0761203210009
+['share', 'two different stock']	['share', 'two different stock']	0.0243918764017
+['share', 'two different stock']	['share', 'two different stock']	0.103006294962
+['share', 'two different stock']	['share', 'two different stock']	0.0761203210009
+['share', 'two different stock']	['share', 'two different stock']	0.0638820346103
+['share', 'two different stock']	['share', 'two different stock']	0.0600526994991
+['share', 'two different stock']	['share', 'two different stock']	0.107712219268
+['26 share', 'two different stock']	['26 share', 'two different stock']	0.193850098802
+['26 share', 'two different stock']	['26 share', 'two different stock']	0.0408306246546
+['26 share', 'two different stock']	['26 share', 'two different stock']	0.104580852114
+['26 share', 'two different stock']	['26 share', 'two different stock']	0.162013115449
+['26 share', 'two different stock']	['26 share', 'two different stock']	0.0824169897896
+['26 share', 'two different stock']	['26 share', 'two different stock']	0.077741654189
+['26 share', 'two different stock']	['26 share', 'two different stock']	0.126346464602
+['asset', 'two different stock']	['asset', 'two different stock']	0.0907098914643
+['asset', 'two different stock']	['asset', 'two different stock']	0.13589163341
+['asset', 'two different stock']	['asset', 'two different stock']	0.219203634809
+['asset', 'two different stock']	['asset', 'two different stock']	0.0786287839917
+['asset', 'two different stock']	['asset', 'two different stock']	0.0907098914643
+['asset', 'two different stock']	['asset', 'two different stock']	0.0812225587764
+['asset', 'two different stock']	['asset', 'two different stock']	0.219203634809
+['2106 dollar', 'two different stock']	['2106 dollar', 'two different stock']	0.0967299255356
+['2106 dollar', 'two different stock']	['2106 dollar', 'two different stock']	0.0330765956412
+['2106 dollar', 'two different stock']	['2106 dollar', 'two different stock']	0.104580852114
+['2106 dollar', 'two different stock']	['2106 dollar', 'two different stock']	0.0787080682442
+['2106 dollar', 'two different stock']	['2106 dollar', 'two different stock']	0.0967299255356
+['2106 dollar', 'two different stock']	['2106 dollar', 'two different stock']	0.0824169897896
+['2106 dollar', 'two different stock']	['2106 dollar', 'two different stock']	0.126346464602
+['expensive stock', 'two different stock']	['expensive stock', 'two different stock']	0.177609865757
+['expensive stock', 'two different stock']	['expensive stock', 'two different stock']	0.0382312643124
+['expensive stock', 'two different stock']	['expensive stock', 'two different stock']	0.290659126514
+['expensive stock', 'two different stock']	['expensive stock', 'two different stock']	0.204550060872
+['expensive stock', 'two different stock']	['expensive stock', 'two different stock']	0.177609865757
+['expensive stock', 'two different stock']	['expensive stock', 'two different stock']	0.207135603763
+['expensive stock', 'two different stock']	['expensive stock', 'two different stock']	0.130609210305
+['two different stock', '14 share']	['two different stock', '14 share']	0.0408306246546
+['two different stock', '14 share']	['two different stock', '14 share']	0.104580852114
+['two different stock', '14 share']	['two different stock', '14 share']	0.162013115449
+['two different stock', '14 share']	['two different stock', '14 share']	0.193850098802
+['two different stock', '14 share']	['two different stock', '14 share']	0.0824169897896
+['two different stock', '14 share']	['two different stock', '14 share']	0.077741654189
+['two different stock', '14 share']	['two different stock', '14 share']	0.126346464602
+['stock', '14 share']	['stock', '14 share']	0.0712692677034
+['stock', '14 share']	['stock', '14 share']	0.0681850924316
+['stock', '14 share']	['stock', '14 share']	0.146651091441
+['stock', '14 share']	['stock', '14 share']	0.0836824582737
+['stock', '14 share']	['stock', '14 share']	0.102361478108
+['stock', '14 share']	['stock', '14 share']	0.0485512835868
+['stock', '14 share']	['stock', '14 share']	0.0681850924316
+['valuable stock', '14 share']	['valuable stock', '14 share']	0.218138426288
+['valuable stock', '14 share']	['valuable stock', '14 share']	0.0408306246546
+['valuable stock', '14 share']	['valuable stock', '14 share']	0.162013115449
+['valuable stock', '14 share']	['valuable stock', '14 share']	0.238449871234
+['valuable stock', '14 share']	['valuable stock', '14 share']	0.0824169897896
+['valuable stock', '14 share']	['valuable stock', '14 share']	0.0690143673113
+['valuable stock', '14 share']	['valuable stock', '14 share']	0.251529580944
+['share', '14 share']	['share', '14 share']	0.0999079227275
+['share', '14 share']	['share', '14 share']	0.0737921157167
+['share', '14 share']	['share', '14 share']	0.120957192433
+['share', '14 share']	['share', '14 share']	0.0806794884537
+['share', '14 share']	['share', '14 share']	0.0645070314033
+['share', '14 share']	['share', '14 share']	0.0696674662101
+['share', '14 share']	['share', '14 share']	0.120957192433
+['26 share', '14 share']	['26 share', '14 share']	0.232825792732
+['26 share', '14 share']	['26 share', '14 share']	0.108561345543
+['26 share', '14 share']	['26 share', '14 share']	0.124264719088
+['26 share', '14 share']	['26 share', '14 share']	0.106465417269
+['26 share', '14 share']	['26 share', '14 share']	0.207135603763
+['26 share', '14 share']	['26 share', '14 share']	0.0922575126852
+['26 share', '14 share']	['26 share', '14 share']	0.0922575126852
+['asset', '14 share']	['asset', '14 share']	0.0908990637877
+['asset', '14 share']	['asset', '14 share']	0.155355475504
+['asset', '14 share']	['asset', '14 share']	0.0821022377173
+['asset', '14 share']	['asset', '14 share']	0.133515820365
+['asset', '14 share']	['asset', '14 share']	0.218251987584
+['asset', '14 share']	['asset', '14 share']	0.0821022377173
+['asset', '14 share']	['asset', '14 share']	0.0821022377173
+['2106 dollar', '14 share']	['2106 dollar', '14 share']	0.0900193848469
+['2106 dollar', '14 share']	['2106 dollar', '14 share']	0.036325094464
+['2106 dollar', '14 share']	['2106 dollar', '14 share']	0.0767768048648
+['2106 dollar', '14 share']	['2106 dollar', '14 share']	0.169454049046
+['2106 dollar', '14 share']	['2106 dollar', '14 share']	0.255189051606
+['2106 dollar', '14 share']	['2106 dollar', '14 share']	0.0824169897896
+['2106 dollar', '14 share']	['2106 dollar', '14 share']	0.0690143673113
+['expensive stock', '14 share']	['expensive stock', '14 share']	0.226775403346
+['expensive stock', '14 share']	['expensive stock', '14 share']	0.0408306246546
+['expensive stock', '14 share']	['expensive stock', '14 share']	0.214757880897
+['expensive stock', '14 share']	['expensive stock', '14 share']	0.162013115449
+['expensive stock', '14 share']	['expensive stock', '14 share']	0.255189051606
+['expensive stock', '14 share']	['expensive stock', '14 share']	0.0824169897896
+['expensive stock', '14 share']	['expensive stock', '14 share']	0.0690143673113
+['two different stock', 'stock']	['two different stock', 'stock']	0.084569660146
+['two different stock', 'stock']	['two different stock', 'stock']	0.117950748146
+['two different stock', 'stock']	['two different stock', 'stock']	0.0784385803631
+['two different stock', 'stock']	['two different stock', 'stock']	0.084569660146
+['two different stock', 'stock']	['two different stock', 'stock']	0.100996310134
+['two different stock', 'stock']	['two different stock', 'stock']	0.0602992068745
+['two different stock', 'stock']	['two different stock', 'stock']	0.117950748146
+['14 share', 'stock']	['14 share', 'stock']	0.0712692677034
+['14 share', 'stock']	['14 share', 'stock']	0.0681850924316
+['14 share', 'stock']	['14 share', 'stock']	0.146651091441
+['14 share', 'stock']	['14 share', 'stock']	0.0836824582737
+['14 share', 'stock']	['14 share', 'stock']	0.102361478108
+['14 share', 'stock']	['14 share', 'stock']	0.0485512835868
+['14 share', 'stock']	['14 share', 'stock']	0.0681850924316
+['valuable stock', 'stock']	['valuable stock', 'stock']	0.0961289012679
+['valuable stock', 'stock']	['valuable stock', 'stock']	0.0958632898305
+['valuable stock', 'stock']	['valuable stock', 'stock']	0.0737921157167
+['valuable stock', 'stock']	['valuable stock', 'stock']	0.0958632898305
+['valuable stock', 'stock']	['valuable stock', 'stock']	0.0998863351288
+['valuable stock', 'stock']	['valuable stock', 'stock']	0.0601895418022
+['valuable stock', 'stock']	['valuable stock', 'stock']	0.10771339363
+['share', 'stock']	['share', 'stock']	0.231868381053
+['share', 'stock']	['share', 'stock']	0.189333211152
+['share', 'stock']	['share', 'stock']	0.233208150032
+['share', 'stock']	['share', 'stock']	0.189333211152
+['share', 'stock']	['share', 'stock']	0.175934480746
+['share', 'stock']	['share', 'stock']	0.0638709926889
+['share', 'stock']	['share', 'stock']	0.233208150032
+['26 share', 'stock']	['26 share', 'stock']	0.0712692677034
+['26 share', 'stock']	['26 share', 'stock']	0.0836824582737
+['26 share', 'stock']	['26 share', 'stock']	0.0681850924316
+['26 share', 'stock']	['26 share', 'stock']	0.146651091441
+['26 share', 'stock']	['26 share', 'stock']	0.102361478108
+['26 share', 'stock']	['26 share', 'stock']	0.0485512835868
+['26 share', 'stock']	['26 share', 'stock']	0.0681850924316
+['asset', 'stock']	['asset', 'stock']	0.124813065668
+['asset', 'stock']	['asset', 'stock']	0.0920390318908
+['asset', 'stock']	['asset', 'stock']	0.125700426502
+['asset', 'stock']	['asset', 'stock']	0.0845411663477
+['asset', 'stock']	['asset', 'stock']	0.0920390318908
+['asset', 'stock']	['asset', 'stock']	0.0522405116331
+['asset', 'stock']	['asset', 'stock']	0.125700426502
+['2106 dollar', 'stock']	['2106 dollar', 'stock']	0.0565324540014
+['2106 dollar', 'stock']	['2106 dollar', 'stock']	0.0705713427191
+['2106 dollar', 'stock']	['2106 dollar', 'stock']	0.0681850924316
+['2106 dollar', 'stock']	['2106 dollar', 'stock']	0.02056902344
+['2106 dollar', 'stock']	['2106 dollar', 'stock']	0.0705713427191
+['2106 dollar', 'stock']	['2106 dollar', 'stock']	0.102361478108
+['2106 dollar', 'stock']	['2106 dollar', 'stock']	0.0681850924316
+['expensive stock', 'stock']	['expensive stock', 'stock']	0.0961289012679
+['expensive stock', 'stock']	['expensive stock', 'stock']	0.0958632898305
+['expensive stock', 'stock']	['expensive stock', 'stock']	0.10771339363
+['expensive stock', 'stock']	['expensive stock', 'stock']	0.0737921157167
+['expensive stock', 'stock']	['expensive stock', 'stock']	0.0958632898305
+['expensive stock', 'stock']	['expensive stock', 'stock']	0.0998863351288
+['expensive stock', 'stock']	['expensive stock', 'stock']	0.0601895418022
+['two different stock', 'valuable stock']	['two different stock', 'valuable stock']	0.177609865757
+['two different stock', 'valuable stock']	['two different stock', 'valuable stock']	0.0382312643124
+['two different stock', 'valuable stock']	['two different stock', 'valuable stock']	0.204550060872
+['two different stock', 'valuable stock']	['two different stock', 'valuable stock']	0.177609865757
+['two different stock', 'valuable stock']	['two different stock', 'valuable stock']	0.207135603763
+['two different stock', 'valuable stock']	['two different stock', 'valuable stock']	0.130609210305
+['two different stock', 'valuable stock']	['two different stock', 'valuable stock']	0.461994122324
+['14 share', 'valuable stock']	['14 share', 'valuable stock']	0.218138426288
+['14 share', 'valuable stock']	['14 share', 'valuable stock']	0.0408306246546
+['14 share', 'valuable stock']	['14 share', 'valuable stock']	0.162013115449
+['14 share', 'valuable stock']	['14 share', 'valuable stock']	0.238449871234
+['14 share', 'valuable stock']	['14 share', 'valuable stock']	0.0824169897896
+['14 share', 'valuable stock']	['14 share', 'valuable stock']	0.0690143673113
+['14 share', 'valuable stock']	['14 share', 'valuable stock']	0.251529580944
+['stock', 'valuable stock']	['stock', 'valuable stock']	0.0961289012679
+['stock', 'valuable stock']	['stock', 'valuable stock']	0.0958632898305
+['stock', 'valuable stock']	['stock', 'valuable stock']	0.0737921157167
+['stock', 'valuable stock']	['stock', 'valuable stock']	0.0958632898305
+['stock', 'valuable stock']	['stock', 'valuable stock']	0.0998863351288
+['stock', 'valuable stock']	['stock', 'valuable stock']	0.0601895418022
+['stock', 'valuable stock']	['stock', 'valuable stock']	0.10771339363
+['share', 'valuable stock']	['share', 'valuable stock']	0.0675663773912
+['share', 'valuable stock']	['share', 'valuable stock']	0.0671443508909
+['share', 'valuable stock']	['share', 'valuable stock']	0.0243918764017
+['share', 'valuable stock']	['share', 'valuable stock']	0.0671443508909
+['share', 'valuable stock']	['share', 'valuable stock']	0.0626476964975
+['share', 'valuable stock']	['share', 'valuable stock']	0.0606369672893
+['share', 'valuable stock']	['share', 'valuable stock']	0.099145441699
+['26 share', 'valuable stock']	['26 share', 'valuable stock']	0.218138426288
+['26 share', 'valuable stock']	['26 share', 'valuable stock']	0.238449871234
+['26 share', 'valuable stock']	['26 share', 'valuable stock']	0.0408306246546
+['26 share', 'valuable stock']	['26 share', 'valuable stock']	0.162013115449
+['26 share', 'valuable stock']	['26 share', 'valuable stock']	0.0824169897896
+['26 share', 'valuable stock']	['26 share', 'valuable stock']	0.0690143673113
+['26 share', 'valuable stock']	['26 share', 'valuable stock']	0.251529580944
+['asset', 'valuable stock']	['asset', 'valuable stock']	0.188509306613
+['asset', 'valuable stock']	['asset', 'valuable stock']	0.0821022377173
+['asset', 'valuable stock']	['asset', 'valuable stock']	0.13589163341
+['asset', 'valuable stock']	['asset', 'valuable stock']	0.0739823193453
+['asset', 'valuable stock']	['asset', 'valuable stock']	0.0821022377173
+['asset', 'valuable stock']	['asset', 'valuable stock']	0.0821022377173
+['asset', 'valuable stock']	['asset', 'valuable stock']	0.199671667608
+['2106 dollar', 'valuable stock']	['2106 dollar', 'valuable stock']	0.205629207004
+['2106 dollar', 'valuable stock']	['2106 dollar', 'valuable stock']	0.0767768048648
+['2106 dollar', 'valuable stock']	['2106 dollar', 'valuable stock']	0.0354714282269
+['2106 dollar', 'valuable stock']	['2106 dollar', 'valuable stock']	0.0787080682442
+['2106 dollar', 'valuable stock']	['2106 dollar', 'valuable stock']	0.0767768048648
+['2106 dollar', 'valuable stock']	['2106 dollar', 'valuable stock']	0.0824169897896
+['2106 dollar', 'valuable stock']	['2106 dollar', 'valuable stock']	0.251529580944
+['expensive stock', 'valuable stock']	['expensive stock', 'valuable stock']	0.410237361948
+['expensive stock', 'valuable stock']	['expensive stock', 'valuable stock']	0.126085532335
+['expensive stock', 'valuable stock']	['expensive stock', 'valuable stock']	0.065919703198
+['expensive stock', 'valuable stock']	['expensive stock', 'valuable stock']	0.204550060872
+['expensive stock', 'valuable stock']	['expensive stock', 'valuable stock']	0.126085532335
+['expensive stock', 'valuable stock']	['expensive stock', 'valuable stock']	0.207135603763
+['expensive stock', 'valuable stock']	['expensive stock', 'valuable stock']	0.0922575126852
+['two different stock', 'share']	['two different stock', 'share']	0.0761203210009
+['two different stock', 'share']	['two different stock', 'share']	0.0243918764017
+['two different stock', 'share']	['two different stock', 'share']	0.103006294962
+['two different stock', 'share']	['two different stock', 'share']	0.0761203210009
+['two different stock', 'share']	['two different stock', 'share']	0.0638820346103
+['two different stock', 'share']	['two different stock', 'share']	0.0600526994991
+['two different stock', 'share']	['two different stock', 'share']	0.107712219268
+['14 share', 'share']	['14 share', 'share']	0.0999079227275
+['14 share', 'share']	['14 share', 'share']	0.0737921157167
+['14 share', 'share']	['14 share', 'share']	0.120957192433
+['14 share', 'share']	['14 share', 'share']	0.0806794884537
+['14 share', 'share']	['14 share', 'share']	0.0645070314033
+['14 share', 'share']	['14 share', 'share']	0.0696674662101
+['14 share', 'share']	['14 share', 'share']	0.120957192433
+['stock', 'share']	['stock', 'share']	0.231868381053
+['stock', 'share']	['stock', 'share']	0.189333211152
+['stock', 'share']	['stock', 'share']	0.233208150032
+['stock', 'share']	['stock', 'share']	0.189333211152
+['stock', 'share']	['stock', 'share']	0.175934480746
+['stock', 'share']	['stock', 'share']	0.0638709926889
+['stock', 'share']	['stock', 'share']	0.233208150032
+['valuable stock', 'share']	['valuable stock', 'share']	0.0675663773912
+['valuable stock', 'share']	['valuable stock', 'share']	0.0671443508909
+['valuable stock', 'share']	['valuable stock', 'share']	0.0243918764017
+['valuable stock', 'share']	['valuable stock', 'share']	0.0671443508909
+['valuable stock', 'share']	['valuable stock', 'share']	0.0626476964975
+['valuable stock', 'share']	['valuable stock', 'share']	0.0606369672893
+['valuable stock', 'share']	['valuable stock', 'share']	0.099145441699
+['26 share', 'share']	['26 share', 'share']	0.0999079227275
+['26 share', 'share']	['26 share', 'share']	0.0806794884537
+['26 share', 'share']	['26 share', 'share']	0.0737921157167
+['26 share', 'share']	['26 share', 'share']	0.120957192433
+['26 share', 'share']	['26 share', 'share']	0.0645070314033
+['26 share', 'share']	['26 share', 'share']	0.0696674662101
+['26 share', 'share']	['26 share', 'share']	0.120957192433
+['asset', 'share']	['asset', 'share']	0.1383020324
+['asset', 'share']	['asset', 'share']	0.0721205895528
+['asset', 'share']	['asset', 'share']	0.28911333485
+['asset', 'share']	['asset', 'share']	0.136116013337
+['asset', 'share']	['asset', 'share']	0.0721205895528
+['asset', 'share']	['asset', 'share']	0.0726311745998
+['asset', 'share']	['asset', 'share']	0.136116013337
+['2106 dollar', 'share']	['2106 dollar', 'share']	0.106517552921
+['2106 dollar', 'share']	['2106 dollar', 'share']	0.0671443508909
+['2106 dollar', 'share']	['2106 dollar', 'share']	0.02056902344
+['2106 dollar', 'share']	['2106 dollar', 'share']	0.110151064117
+['2106 dollar', 'share']	['2106 dollar', 'share']	0.0671443508909
+['2106 dollar', 'share']	['2106 dollar', 'share']	0.0626476964975
+['2106 dollar', 'share']	['2106 dollar', 'share']	0.110151064117
+['expensive stock', 'share']	['expensive stock', 'share']	0.072272301697
+['expensive stock', 'share']	['expensive stock', 'share']	0.0671443508909
+['expensive stock', 'share']	['expensive stock', 'share']	0.0243918764017
+['expensive stock', 'share']	['expensive stock', 'share']	0.099145441699
+['expensive stock', 'share']	['expensive stock', 'share']	0.0671443508909
+['expensive stock', 'share']	['expensive stock', 'share']	0.0626476964975
+['expensive stock', 'share']	['expensive stock', 'share']	0.0606369672893
+['two different stock', '26 share']	['two different stock', '26 share']	0.193850098802
+['two different stock', '26 share']	['two different stock', '26 share']	0.0408306246546
+['two different stock', '26 share']	['two different stock', '26 share']	0.104580852114
+['two different stock', '26 share']	['two different stock', '26 share']	0.162013115449
+['two different stock', '26 share']	['two different stock', '26 share']	0.0824169897896
+['two different stock', '26 share']	['two different stock', '26 share']	0.077741654189
+['two different stock', '26 share']	['two different stock', '26 share']	0.126346464602
+['14 share', '26 share']	['14 share', '26 share']	0.232825792732
+['14 share', '26 share']	['14 share', '26 share']	0.108561345543
+['14 share', '26 share']	['14 share', '26 share']	0.124264719088
+['14 share', '26 share']	['14 share', '26 share']	0.106465417269
+['14 share', '26 share']	['14 share', '26 share']	0.207135603763
+['14 share', '26 share']	['14 share', '26 share']	0.0922575126852
+['14 share', '26 share']	['14 share', '26 share']	0.0922575126852
+['stock', '26 share']	['stock', '26 share']	0.0712692677034
+['stock', '26 share']	['stock', '26 share']	0.0836824582737
+['stock', '26 share']	['stock', '26 share']	0.0681850924316
+['stock', '26 share']	['stock', '26 share']	0.146651091441
+['stock', '26 share']	['stock', '26 share']	0.102361478108
+['stock', '26 share']	['stock', '26 share']	0.0485512835868
+['stock', '26 share']	['stock', '26 share']	0.0681850924316
+['valuable stock', '26 share']	['valuable stock', '26 share']	0.218138426288
+['valuable stock', '26 share']	['valuable stock', '26 share']	0.238449871234
+['valuable stock', '26 share']	['valuable stock', '26 share']	0.0408306246546
+['valuable stock', '26 share']	['valuable stock', '26 share']	0.162013115449
+['valuable stock', '26 share']	['valuable stock', '26 share']	0.0824169897896
+['valuable stock', '26 share']	['valuable stock', '26 share']	0.0690143673113
+['valuable stock', '26 share']	['valuable stock', '26 share']	0.251529580944
+['share', '26 share']	['share', '26 share']	0.0999079227275
+['share', '26 share']	['share', '26 share']	0.0806794884537
+['share', '26 share']	['share', '26 share']	0.0737921157167
+['share', '26 share']	['share', '26 share']	0.120957192433
+['share', '26 share']	['share', '26 share']	0.0645070314033
+['share', '26 share']	['share', '26 share']	0.0696674662101
+['share', '26 share']	['share', '26 share']	0.120957192433
+['asset', '26 share']	['asset', '26 share']	0.0908990637877
+['asset', '26 share']	['asset', '26 share']	0.218251987584
+['asset', '26 share']	['asset', '26 share']	0.155355475504
+['asset', '26 share']	['asset', '26 share']	0.0821022377173
+['asset', '26 share']	['asset', '26 share']	0.133515820365
+['asset', '26 share']	['asset', '26 share']	0.0821022377173
+['asset', '26 share']	['asset', '26 share']	0.0821022377173
+['2106 dollar', '26 share']	['2106 dollar', '26 share']	0.0900193848469
+['2106 dollar', '26 share']	['2106 dollar', '26 share']	0.255189051606
+['2106 dollar', '26 share']	['2106 dollar', '26 share']	0.036325094464
+['2106 dollar', '26 share']	['2106 dollar', '26 share']	0.0767768048648
+['2106 dollar', '26 share']	['2106 dollar', '26 share']	0.169454049046
+['2106 dollar', '26 share']	['2106 dollar', '26 share']	0.0824169897896
+['2106 dollar', '26 share']	['2106 dollar', '26 share']	0.0690143673113
+['expensive stock', '26 share']	['expensive stock', '26 share']	0.226775403346
+['expensive stock', '26 share']	['expensive stock', '26 share']	0.255189051606
+['expensive stock', '26 share']	['expensive stock', '26 share']	0.0408306246546
+['expensive stock', '26 share']	['expensive stock', '26 share']	0.214757880897
+['expensive stock', '26 share']	['expensive stock', '26 share']	0.162013115449
+['expensive stock', '26 share']	['expensive stock', '26 share']	0.0824169897896
+['expensive stock', '26 share']	['expensive stock', '26 share']	0.0690143673113
+['two different stock', 'asset']	['two different stock', 'asset']	0.0907098914643
+['two different stock', 'asset']	['two different stock', 'asset']	0.13589163341
+['two different stock', 'asset']	['two different stock', 'asset']	0.219203634809
+['two different stock', 'asset']	['two different stock', 'asset']	0.0786287839917
+['two different stock', 'asset']	['two different stock', 'asset']	0.0907098914643
+['two different stock', 'asset']	['two different stock', 'asset']	0.0812225587764
+['two different stock', 'asset']	['two different stock', 'asset']	0.219203634809
+['14 share', 'asset']	['14 share', 'asset']	0.0908990637877
+['14 share', 'asset']	['14 share', 'asset']	0.155355475504
+['14 share', 'asset']	['14 share', 'asset']	0.0821022377173
+['14 share', 'asset']	['14 share', 'asset']	0.133515820365
+['14 share', 'asset']	['14 share', 'asset']	0.218251987584
+['14 share', 'asset']	['14 share', 'asset']	0.0821022377173
+['14 share', 'asset']	['14 share', 'asset']	0.0821022377173
+['stock', 'asset']	['stock', 'asset']	0.124813065668
+['stock', 'asset']	['stock', 'asset']	0.0920390318908
+['stock', 'asset']	['stock', 'asset']	0.125700426502
+['stock', 'asset']	['stock', 'asset']	0.0845411663477
+['stock', 'asset']	['stock', 'asset']	0.0920390318908
+['stock', 'asset']	['stock', 'asset']	0.0522405116331
+['stock', 'asset']	['stock', 'asset']	0.125700426502
+['valuable stock', 'asset']	['valuable stock', 'asset']	0.188509306613
+['valuable stock', 'asset']	['valuable stock', 'asset']	0.0821022377173
+['valuable stock', 'asset']	['valuable stock', 'asset']	0.13589163341
+['valuable stock', 'asset']	['valuable stock', 'asset']	0.0739823193453
+['valuable stock', 'asset']	['valuable stock', 'asset']	0.0821022377173
+['valuable stock', 'asset']	['valuable stock', 'asset']	0.0821022377173
+['valuable stock', 'asset']	['valuable stock', 'asset']	0.199671667608
+['share', 'asset']	['share', 'asset']	0.1383020324
+['share', 'asset']	['share', 'asset']	0.0721205895528
+['share', 'asset']	['share', 'asset']	0.28911333485
+['share', 'asset']	['share', 'asset']	0.136116013337
+['share', 'asset']	['share', 'asset']	0.0721205895528
+['share', 'asset']	['share', 'asset']	0.0726311745998
+['share', 'asset']	['share', 'asset']	0.136116013337
+['26 share', 'asset']	['26 share', 'asset']	0.0908990637877
+['26 share', 'asset']	['26 share', 'asset']	0.218251987584
+['26 share', 'asset']	['26 share', 'asset']	0.155355475504
+['26 share', 'asset']	['26 share', 'asset']	0.0821022377173
+['26 share', 'asset']	['26 share', 'asset']	0.133515820365
+['26 share', 'asset']	['26 share', 'asset']	0.0821022377173
+['26 share', 'asset']	['26 share', 'asset']	0.0821022377173
+['2106 dollar', 'asset']	['2106 dollar', 'asset']	0.079378043998
+['2106 dollar', 'asset']	['2106 dollar', 'asset']	0.0821022377173
+['2106 dollar', 'asset']	['2106 dollar', 'asset']	0.150834412363
+['2106 dollar', 'asset']	['2106 dollar', 'asset']	0.0821022377173
+['2106 dollar', 'asset']	['2106 dollar', 'asset']	0.0585120808519
+['2106 dollar', 'asset']	['2106 dollar', 'asset']	0.0821022377173
+['2106 dollar', 'asset']	['2106 dollar', 'asset']	0.0821022377173
+['expensive stock', 'asset']	['expensive stock', 'asset']	0.188509306613
+['expensive stock', 'asset']	['expensive stock', 'asset']	0.0821022377173
+['expensive stock', 'asset']	['expensive stock', 'asset']	0.13589163341
+['expensive stock', 'asset']	['expensive stock', 'asset']	0.199671667608
+['expensive stock', 'asset']	['expensive stock', 'asset']	0.0739823193453
+['expensive stock', 'asset']	['expensive stock', 'asset']	0.0821022377173
+['expensive stock', 'asset']	['expensive stock', 'asset']	0.0821022377173
+['two different stock', '2106 dollar']	['two different stock', '2106 dollar']	0.0967299255356
+['two different stock', '2106 dollar']	['two different stock', '2106 dollar']	0.0330765956412
+['two different stock', '2106 dollar']	['two different stock', '2106 dollar']	0.104580852114
+['two different stock', '2106 dollar']	['two different stock', '2106 dollar']	0.0787080682442
+['two different stock', '2106 dollar']	['two different stock', '2106 dollar']	0.0967299255356
+['two different stock', '2106 dollar']	['two different stock', '2106 dollar']	0.0824169897896
+['two different stock', '2106 dollar']	['two different stock', '2106 dollar']	0.126346464602
+['14 share', '2106 dollar']	['14 share', '2106 dollar']	0.0900193848469
+['14 share', '2106 dollar']	['14 share', '2106 dollar']	0.036325094464
+['14 share', '2106 dollar']	['14 share', '2106 dollar']	0.0767768048648
+['14 share', '2106 dollar']	['14 share', '2106 dollar']	0.169454049046
+['14 share', '2106 dollar']	['14 share', '2106 dollar']	0.255189051606
+['14 share', '2106 dollar']	['14 share', '2106 dollar']	0.0824169897896
+['14 share', '2106 dollar']	['14 share', '2106 dollar']	0.0690143673113
+['stock', '2106 dollar']	['stock', '2106 dollar']	0.0565324540014
+['stock', '2106 dollar']	['stock', '2106 dollar']	0.0705713427191
+['stock', '2106 dollar']	['stock', '2106 dollar']	0.0681850924316
+['stock', '2106 dollar']	['stock', '2106 dollar']	0.02056902344
+['stock', '2106 dollar']	['stock', '2106 dollar']	0.0705713427191
+['stock', '2106 dollar']	['stock', '2106 dollar']	0.102361478108
+['stock', '2106 dollar']	['stock', '2106 dollar']	0.0681850924316
+['valuable stock', '2106 dollar']	['valuable stock', '2106 dollar']	0.205629207004
+['valuable stock', '2106 dollar']	['valuable stock', '2106 dollar']	0.0767768048648
+['valuable stock', '2106 dollar']	['valuable stock', '2106 dollar']	0.0354714282269
+['valuable stock', '2106 dollar']	['valuable stock', '2106 dollar']	0.0787080682442
+['valuable stock', '2106 dollar']	['valuable stock', '2106 dollar']	0.0767768048648
+['valuable stock', '2106 dollar']	['valuable stock', '2106 dollar']	0.0824169897896
+['valuable stock', '2106 dollar']	['valuable stock', '2106 dollar']	0.251529580944
+['share', '2106 dollar']	['share', '2106 dollar']	0.106517552921
+['share', '2106 dollar']	['share', '2106 dollar']	0.0671443508909
+['share', '2106 dollar']	['share', '2106 dollar']	0.02056902344
+['share', '2106 dollar']	['share', '2106 dollar']	0.110151064117
+['share', '2106 dollar']	['share', '2106 dollar']	0.0671443508909
+['share', '2106 dollar']	['share', '2106 dollar']	0.0626476964975
+['share', '2106 dollar']	['share', '2106 dollar']	0.110151064117
+['26 share', '2106 dollar']	['26 share', '2106 dollar']	0.0900193848469
+['26 share', '2106 dollar']	['26 share', '2106 dollar']	0.255189051606
+['26 share', '2106 dollar']	['26 share', '2106 dollar']	0.036325094464
+['26 share', '2106 dollar']	['26 share', '2106 dollar']	0.0767768048648
+['26 share', '2106 dollar']	['26 share', '2106 dollar']	0.169454049046
+['26 share', '2106 dollar']	['26 share', '2106 dollar']	0.0824169897896
+['26 share', '2106 dollar']	['26 share', '2106 dollar']	0.0690143673113
+['asset', '2106 dollar']	['asset', '2106 dollar']	0.079378043998
+['asset', '2106 dollar']	['asset', '2106 dollar']	0.0821022377173
+['asset', '2106 dollar']	['asset', '2106 dollar']	0.150834412363
+['asset', '2106 dollar']	['asset', '2106 dollar']	0.0821022377173
+['asset', '2106 dollar']	['asset', '2106 dollar']	0.0585120808519
+['asset', '2106 dollar']	['asset', '2106 dollar']	0.0821022377173
+['asset', '2106 dollar']	['asset', '2106 dollar']	0.0821022377173
+['expensive stock', '2106 dollar']	['expensive stock', '2106 dollar']	0.256153564934
+['expensive stock', '2106 dollar']	['expensive stock', '2106 dollar']	0.0690143673113
+['expensive stock', '2106 dollar']	['expensive stock', '2106 dollar']	0.0354714282269
+['expensive stock', '2106 dollar']	['expensive stock', '2106 dollar']	0.251529580944
+['expensive stock', '2106 dollar']	['expensive stock', '2106 dollar']	0.0787080682442
+['expensive stock', '2106 dollar']	['expensive stock', '2106 dollar']	0.0690143673113
+['expensive stock', '2106 dollar']	['expensive stock', '2106 dollar']	0.0824169897896
+['two different stock', 'expensive stock']	['two different stock', 'expensive stock']	0.177609865757
+['two different stock', 'expensive stock']	['two different stock', 'expensive stock']	0.0382312643124
+['two different stock', 'expensive stock']	['two different stock', 'expensive stock']	0.290659126514
+['two different stock', 'expensive stock']	['two different stock', 'expensive stock']	0.204550060872
+['two different stock', 'expensive stock']	['two different stock', 'expensive stock']	0.177609865757
+['two different stock', 'expensive stock']	['two different stock', 'expensive stock']	0.207135603763
+['two different stock', 'expensive stock']	['two different stock', 'expensive stock']	0.130609210305
+['14 share', 'expensive stock']	['14 share', 'expensive stock']	0.226775403346
+['14 share', 'expensive stock']	['14 share', 'expensive stock']	0.0408306246546
+['14 share', 'expensive stock']	['14 share', 'expensive stock']	0.214757880897
+['14 share', 'expensive stock']	['14 share', 'expensive stock']	0.162013115449
+['14 share', 'expensive stock']	['14 share', 'expensive stock']	0.255189051606
+['14 share', 'expensive stock']	['14 share', 'expensive stock']	0.0824169897896
+['14 share', 'expensive stock']	['14 share', 'expensive stock']	0.0690143673113
+['stock', 'expensive stock']	['stock', 'expensive stock']	0.0961289012679
+['stock', 'expensive stock']	['stock', 'expensive stock']	0.0958632898305
+['stock', 'expensive stock']	['stock', 'expensive stock']	0.10771339363
+['stock', 'expensive stock']	['stock', 'expensive stock']	0.0737921157167
+['stock', 'expensive stock']	['stock', 'expensive stock']	0.0958632898305
+['stock', 'expensive stock']	['stock', 'expensive stock']	0.0998863351288
+['stock', 'expensive stock']	['stock', 'expensive stock']	0.0601895418022
+['valuable stock', 'expensive stock']	['valuable stock', 'expensive stock']	0.410237361948
+['valuable stock', 'expensive stock']	['valuable stock', 'expensive stock']	0.126085532335
+['valuable stock', 'expensive stock']	['valuable stock', 'expensive stock']	0.065919703198
+['valuable stock', 'expensive stock']	['valuable stock', 'expensive stock']	0.204550060872
+['valuable stock', 'expensive stock']	['valuable stock', 'expensive stock']	0.126085532335
+['valuable stock', 'expensive stock']	['valuable stock', 'expensive stock']	0.207135603763
+['valuable stock', 'expensive stock']	['valuable stock', 'expensive stock']	0.0922575126852
+['share', 'expensive stock']	['share', 'expensive stock']	0.072272301697
+['share', 'expensive stock']	['share', 'expensive stock']	0.0671443508909
+['share', 'expensive stock']	['share', 'expensive stock']	0.0243918764017
+['share', 'expensive stock']	['share', 'expensive stock']	0.099145441699
+['share', 'expensive stock']	['share', 'expensive stock']	0.0671443508909
+['share', 'expensive stock']	['share', 'expensive stock']	0.0626476964975
+['share', 'expensive stock']	['share', 'expensive stock']	0.0606369672893
+['26 share', 'expensive stock']	['26 share', 'expensive stock']	0.226775403346
+['26 share', 'expensive stock']	['26 share', 'expensive stock']	0.255189051606
+['26 share', 'expensive stock']	['26 share', 'expensive stock']	0.0408306246546
+['26 share', 'expensive stock']	['26 share', 'expensive stock']	0.214757880897
+['26 share', 'expensive stock']	['26 share', 'expensive stock']	0.162013115449
+['26 share', 'expensive stock']	['26 share', 'expensive stock']	0.0824169897896
+['26 share', 'expensive stock']	['26 share', 'expensive stock']	0.0690143673113
+['asset', 'expensive stock']	['asset', 'expensive stock']	0.188509306613
+['asset', 'expensive stock']	['asset', 'expensive stock']	0.0821022377173
+['asset', 'expensive stock']	['asset', 'expensive stock']	0.13589163341
+['asset', 'expensive stock']	['asset', 'expensive stock']	0.199671667608
+['asset', 'expensive stock']	['asset', 'expensive stock']	0.0739823193453
+['asset', 'expensive stock']	['asset', 'expensive stock']	0.0821022377173
+['asset', 'expensive stock']	['asset', 'expensive stock']	0.0821022377173
+['2106 dollar', 'expensive stock']	['2106 dollar', 'expensive stock']	0.256153564934
+['2106 dollar', 'expensive stock']	['2106 dollar', 'expensive stock']	0.0690143673113
+['2106 dollar', 'expensive stock']	['2106 dollar', 'expensive stock']	0.0354714282269
+['2106 dollar', 'expensive stock']	['2106 dollar', 'expensive stock']	0.251529580944
+['2106 dollar', 'expensive stock']	['2106 dollar', 'expensive stock']	0.0787080682442
+['2106 dollar', 'expensive stock']	['2106 dollar', 'expensive stock']	0.0690143673113
+['2106 dollar', 'expensive stock']	['2106 dollar', 'expensive stock']	0.0824169897896

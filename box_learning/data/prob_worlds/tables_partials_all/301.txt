@@ -1,0 +1,194 @@
+1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['-', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['goat and chicken', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['goat and chicken', 'head', '-', '-'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['goat and chicken', 'head', '-', 'leg'], ['-', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['-', 'head', '-', '-'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['-', 'head', '-', 'leg'], ['-', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['-', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['goat and chicken', '-', '-', '-'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['goat and chicken', '-', '-', 'leg'], ['-', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['goat and chicken', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['goat and chicken', 'head', '-', '-'], ['-', '-', '-', '-'], ['chicken', '-', '-', '-']]
+1
+[['goat and chicken', 'head', '-', '-'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['goat and chicken', 'head', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'head', '-', '-'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'head', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['goat and chicken', '-', '-', '-'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['goat and chicken', '-', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['goat and chicken', 'head', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'head', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['goat and chicken', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', 'chicken', '-'], ['head', '-', '-', '-']]
+-1
+[['goat and chicken', 'goat', '-', 'leg'], ['goat', '-', '-', '-'], ['goat', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', 'goat and chicken'], ['chicken', '-', 'head', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', 'leg', '-'], ['goat and chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', 'head', '-'], ['leg', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', 'head of goat', '-']]
+-1
+[['-', 'goat', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', 'head']]
+-1
+[['-', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', 'goat']]
+-1
+[['-', 'head', '-', 'leg'], ['goat', '-', '-', 'head'], ['chicken', '-', 'leg', '-']]
+-1
+[['-', 'head', '-', 'leg'], ['goat', '-', 'leg', '-'], ['goat', '-', '-', '-']]
+-1
+[['-', 'head', 'goat', 'leg'], ['goat', 'chicken', '-', '-'], ['chicken', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'head of goat'], ['goat', '-', '-', '-'], ['chicken', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat', 'goat and chicken', '-', '-'], ['goat', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['leg', '-', '-', '-'], ['goat and chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'goat', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', 'goat']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['goat', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'chicken'], ['goat', '-', '-', '-'], ['chicken', '-', 'goat', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['chicken', '-', '-', 'head of goat']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['chicken', '-', 'goat and chicken', '-'], ['chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'chicken', '-', '-'], ['goat', '-', 'head', '-'], ['chicken', '-', '-', '-']]
+-1
+[['goat', 'head', '-', '-'], ['goat', '-', '-', 'head'], ['chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['chicken', '-', '-', '-'], ['chicken', 'goat', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['goat', '-', 'chicken', 'head'], ['chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['goat', '-', '-', '-'], ['chicken', '-', '-', 'head of goat']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['leg', '-', '-', '-'], ['chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'chicken', '-', 'leg'], ['-', '-', '-', 'goat and chicken'], ['chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['-', '-', '-', '-'], ['goat and chicken', 'head', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['-', '-', '-', 'leg'], ['chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['head', '-', '-', '-'], ['chicken', '-', '-', 'leg']]
+-1
+[['goat and chicken', 'head of goat', '-', 'leg'], ['-', '-', '-', '-'], ['chicken', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['goat', 'goat and chicken', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', 'head'], ['-', '-', '-', 'goat and chicken']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', 'head', '-', '-'], ['head', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', 'leg', '-'], ['-', '-', 'leg', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['goat', '-', '-', 'goat and chicken']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['head of goat', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['leg', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'goat'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat', 'head', '-', 'leg'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'leg'], ['goat', 'head', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'leg'], ['goat', '-', 'head', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['goat and chicken', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat', '-', '-', 'leg'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat', 'leg', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['-', '-', '-', 'goat and chicken']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat', '-', '-', '-'], ['-', 'goat and chicken', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['goat', '-', '-', '-'], ['-', '-', '-', 'head']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['goat', '-', '-', '-'], ['-', 'goat and chicken', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['goat', '-', '-', 'goat and chicken'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['goat', '-', '-', '-'], ['-', '-', 'head', '-']]
+-1
+[['goat', 'head', '-', '-'], ['goat', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['-', '-', '-', 'head'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['goat and chicken', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['leg', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['-', '-', '-', 'leg'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', 'leg'], ['head', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'leg'], ['-', '-', 'head', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', 'leg']]
+-1
+[['-', 'head', '-', 'leg'], ['leg', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'leg'], ['-', 'head', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'head', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', 'head']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['-', '-', '-', '-'], ['goat and chicken', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['-', 'leg', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['goat and chicken', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', '-', '-', 'leg'], ['-', '-', '-', '-'], ['leg', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['-', '-', '-', 'head'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['-', '-', '-', '-'], ['head', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['-', 'head', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['-', '-', 'head', '-'], ['-', '-', '-', '-']]
+-1
+[['goat and chicken', 'head', '-', '-'], ['-', '-', 'goat and chicken', '-'], ['-', '-', '-', '-']]

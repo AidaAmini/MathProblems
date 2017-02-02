@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (PP (IN For) (NP (DT a) (JJ certain) (NN event)))
+    (, ,)
+    (NP (CD 821) (NNS tickets))
+    (VP
+      (VBD were)
+      (VP
+        (VBN sold)
+        (, ,)
+        (PP
+          (IN for)
+          (NP
+            (NP (DT a) (NN total))
+            (PP (IN of) (NP (CD 1933) (NNS dollars)))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP (NNS students))
+        (VP
+          (VBN paid)
+          (NP
+            (NP (CD 2) (NNS dollars))
+            (PP (IN per) (NP (NN ticket) (CC and) (NNS nonstudents)))))))
+    (VP
+      (VBD paid)
+      (NP (NP (CD 3) (NNS dollars)) (PP (IN per) (NP (NN ticket))))
+      (, ,)
+      (SBAR
+        (WHADJP (WRB how) (JJ many))
+        (S
+          (NP (NN student) (NNS tickets))
+          (VP (VBD were) (VP (VBN sold))))))
+    (. ?)))

@@ -1,0 +1,11 @@
+contain ARG0 Each unit of grain A
+contain ARG1 2 grams of fat and 80 calories
+have ARG0 unit B
+have ARG1 3 grams of fat and 60 calories
+
+use ARG1 much of grain A
+use ADV If the final product is to provide 18 grams of fat and 480 calories
+provide ARG0 the final product
+provide ARG1 18 grams of fat and 480 calories
+use MOD should
+

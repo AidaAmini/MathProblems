@@ -1,0 +1,533 @@
+['25 candy box', '28.00 dollar', 'peppermint box', '1.00 dollar', 'box and candy candy cane', 'dollar', '1.30 dollar', 'box', 'candy box']
+['25 candy box']	['28.00 dollar']	0.0988755105172
+['25 candy box']	['peppermint box']	0.535689011532
+['25 candy box']	['1.00 dollar']	0.0988755105172
+['25 candy box']	['box and candy candy cane']	0.103448731837
+['25 candy box']	['dollar']	0.0118960167779
+['25 candy box']	['1.30 dollar']	0.0988755105172
+['28.00 dollar']	['peppermint box']	0.0897823390711
+['28.00 dollar']	['1.00 dollar']	0.643440930505
+['28.00 dollar']	['box and candy candy cane']	0.0912443646678
+['28.00 dollar']	['1.30 dollar']	0.643440930505
+['28.00 dollar']	['box']	0.0741073489195
+['28.00 dollar']	['candy box']	0.0897823390711
+['peppermint box']	['1.00 dollar']	0.0737139440912
+['peppermint box']	['box and candy candy cane']	0.0856967587279
+['peppermint box']	['dollar']	0.00222717737084
+['peppermint box']	['1.30 dollar']	0.0737139440912
+['peppermint box']	['candy box']	0.756950522623
+['1.00 dollar']	['box and candy candy cane']	0.0912443646678
+['1.00 dollar']	['1.30 dollar']	0.643440930505
+['1.00 dollar']	['box']	0.0741073489195
+['1.00 dollar']	['candy box']	0.0897823390711
+['box and candy candy cane']	['dollar']	0.013264967043
+['box and candy candy cane']	['1.30 dollar']	0.0988755105172
+['box and candy candy cane']	['candy box']	0.0981211933805
+['dollar']	['box']	0.0100959071165
+['dollar']	['candy box']	0.00763447394982
+['1.30 dollar']	['box']	0.0741073489195
+['1.30 dollar']	['candy box']	0.0897823390711
+['28.00 dollar', '25 candy box']	['peppermint box']	0.624094885322
+['28.00 dollar', '25 candy box']	['1.00 dollar']	0.653642048458
+['28.00 dollar', '25 candy box']	['box and candy candy cane']	0.153696869899
+['28.00 dollar', '25 candy box']	['dollar']	0.417738468097
+['28.00 dollar', '25 candy box']	['1.30 dollar']	0.653642048458
+['28.00 dollar', '25 candy box']	['box']	0.773880617508
+['28.00 dollar', '25 candy box']	['candy box']	0.948067886599
+['peppermint box', '25 candy box']	['28.00 dollar']	0.170107734588
+['peppermint box', '25 candy box']	['1.00 dollar']	0.170107734588
+['peppermint box', '25 candy box']	['box and candy candy cane']	0.430087715344
+['peppermint box', '25 candy box']	['dollar']	0.0920216743935
+['peppermint box', '25 candy box']	['1.30 dollar']	0.170107734588
+['peppermint box', '25 candy box']	['box']	0.647478989747
+['peppermint box', '25 candy box']	['candy box']	0.886260074851
+['1.00 dollar', '25 candy box']	['28.00 dollar']	0.653642048458
+['1.00 dollar', '25 candy box']	['peppermint box']	0.624094885322
+['1.00 dollar', '25 candy box']	['box and candy candy cane']	0.153696869899
+['1.00 dollar', '25 candy box']	['dollar']	0.390306662315
+['1.00 dollar', '25 candy box']	['1.30 dollar']	0.653642048458
+['1.00 dollar', '25 candy box']	['box']	0.773880617508
+['1.00 dollar', '25 candy box']	['candy box']	0.948067886599
+['box and candy candy cane', '25 candy box']	['28.00 dollar']	0.0988755105172
+['box and candy candy cane', '25 candy box']	['peppermint box']	0.470968018677
+['box and candy candy cane', '25 candy box']	['1.00 dollar']	0.0988755105172
+['box and candy candy cane', '25 candy box']	['dollar']	0.00857205049933
+['box and candy candy cane', '25 candy box']	['1.30 dollar']	0.0988755105172
+['box and candy candy cane', '25 candy box']	['box']	0.640408812813
+['box and candy candy cane', '25 candy box']	['candy box']	0.908940930422
+['dollar', '25 candy box']	['28.00 dollar']	0.372791497313
+['dollar', '25 candy box']	['peppermint box']	0.0965669976112
+['dollar', '25 candy box']	['1.00 dollar']	0.356496055166
+['dollar', '25 candy box']	['box and candy candy cane']	0.0248289047471
+['dollar', '25 candy box']	['1.30 dollar']	0.356496055166
+['dollar', '25 candy box']	['box']	0.385686713867
+['dollar', '25 candy box']	['candy box']	0.365728846535
+['1.30 dollar', '25 candy box']	['28.00 dollar']	0.653642048458
+['1.30 dollar', '25 candy box']	['peppermint box']	0.624094885322
+['1.30 dollar', '25 candy box']	['1.00 dollar']	0.653642048458
+['1.30 dollar', '25 candy box']	['box and candy candy cane']	0.153696869899
+['1.30 dollar', '25 candy box']	['dollar']	0.390306662315
+['1.30 dollar', '25 candy box']	['box']	0.773880617508
+['1.30 dollar', '25 candy box']	['candy box']	0.948067886599
+['box', '25 candy box']	['28.00 dollar']	0.22500681101
+['box', '25 candy box']	['peppermint box']	0.629797041486
+['box', '25 candy box']	['1.00 dollar']	0.22500681101
+['box', '25 candy box']	['box and candy candy cane']	0.406889496698
+['box', '25 candy box']	['dollar']	0.220360057158
+['box', '25 candy box']	['1.30 dollar']	0.22500681101
+['box', '25 candy box']	['candy box']	0.652329041985
+['candy box', '25 candy box']	['28.00 dollar']	0.170107734588
+['candy box', '25 candy box']	['peppermint box']	0.889219964647
+['candy box', '25 candy box']	['1.00 dollar']	0.170107734588
+['candy box', '25 candy box']	['box and candy candy cane']	0.443433652516
+['candy box', '25 candy box']	['dollar']	0.0920216743935
+['candy box', '25 candy box']	['1.30 dollar']	0.170107734588
+['candy box', '25 candy box']	['box']	0.765184576446
+['25 candy box', '28.00 dollar']	['peppermint box']	0.624094885322
+['25 candy box', '28.00 dollar']	['1.00 dollar']	0.653642048458
+['25 candy box', '28.00 dollar']	['box and candy candy cane']	0.153696869899
+['25 candy box', '28.00 dollar']	['dollar']	0.417738468097
+['25 candy box', '28.00 dollar']	['1.30 dollar']	0.653642048458
+['25 candy box', '28.00 dollar']	['box']	0.773880617508
+['25 candy box', '28.00 dollar']	['candy box']	0.948067886599
+['peppermint box', '28.00 dollar']	['25 candy box']	0.565541799784
+['peppermint box', '28.00 dollar']	['1.00 dollar']	0.544221442934
+['peppermint box', '28.00 dollar']	['box and candy candy cane']	0.0890455833577
+['peppermint box', '28.00 dollar']	['dollar']	0.368389923
+['peppermint box', '28.00 dollar']	['1.30 dollar']	0.544221442934
+['peppermint box', '28.00 dollar']	['box']	0.59029166003
+['peppermint box', '28.00 dollar']	['candy box']	0.692390171954
+['1.00 dollar', '28.00 dollar']	['25 candy box']	0.297805101442
+['1.00 dollar', '28.00 dollar']	['peppermint box']	0.14699641653
+['1.00 dollar', '28.00 dollar']	['box and candy candy cane']	0.315265418903
+['1.00 dollar', '28.00 dollar']	['dollar']	0.754866786882
+['1.00 dollar', '28.00 dollar']	['1.30 dollar']	0.637144068101
+['1.00 dollar', '28.00 dollar']	['box']	0.374062030126
+['1.00 dollar', '28.00 dollar']	['candy box']	0.14699641653
+['box and candy candy cane', '28.00 dollar']	['25 candy box']	0.107526100904
+['box and candy candy cane', '28.00 dollar']	['peppermint box']	0.0913917745983
+['box and candy candy cane', '28.00 dollar']	['1.00 dollar']	0.630956863273
+['box and candy candy cane', '28.00 dollar']	['dollar']	0.368791161675
+['box and candy candy cane', '28.00 dollar']	['1.30 dollar']	0.630956863273
+['box and candy candy cane', '28.00 dollar']	['box']	0.0857950278587
+['box and candy candy cane', '28.00 dollar']	['candy box']	0.0981211933805
+['dollar', '28.00 dollar']	['25 candy box']	0.193299723861
+['dollar', '28.00 dollar']	['peppermint box']	0.109984733254
+['dollar', '28.00 dollar']	['1.00 dollar']	0.732805939382
+['dollar', '28.00 dollar']	['box and candy candy cane']	0.198882138174
+['dollar', '28.00 dollar']	['1.30 dollar']	0.732805939382
+['dollar', '28.00 dollar']	['box']	0.296388200907
+['dollar', '28.00 dollar']	['candy box']	0.109984733254
+['1.30 dollar', '28.00 dollar']	['25 candy box']	0.297805101442
+['1.30 dollar', '28.00 dollar']	['peppermint box']	0.14699641653
+['1.30 dollar', '28.00 dollar']	['1.00 dollar']	0.637144068101
+['1.30 dollar', '28.00 dollar']	['box and candy candy cane']	0.315265418903
+['1.30 dollar', '28.00 dollar']	['dollar']	0.754866786882
+['1.30 dollar', '28.00 dollar']	['box']	0.374062030126
+['1.30 dollar', '28.00 dollar']	['candy box']	0.14699641653
+['box', '28.00 dollar']	['25 candy box']	0.655632174079
+['box', '28.00 dollar']	['peppermint box']	0.600226976026
+['box', '28.00 dollar']	['1.00 dollar']	0.482679469303
+['box', '28.00 dollar']	['box and candy candy cane']	0.0841365058564
+['box', '28.00 dollar']	['dollar']	0.52146060178
+['box', '28.00 dollar']	['1.30 dollar']	0.482679469303
+['box', '28.00 dollar']	['candy box']	0.604465896967
+['candy box', '28.00 dollar']	['25 candy box']	0.881426595106
+['candy box', '28.00 dollar']	['peppermint box']	0.692390171954
+['candy box', '28.00 dollar']	['1.00 dollar']	0.544221442934
+['candy box', '28.00 dollar']	['box and candy candy cane']	0.0833022372444
+['candy box', '28.00 dollar']	['dollar']	0.368389923
+['candy box', '28.00 dollar']	['1.30 dollar']	0.544221442934
+['candy box', '28.00 dollar']	['box']	0.568819923854
+['25 candy box', 'peppermint box']	['28.00 dollar']	0.170107734588
+['25 candy box', 'peppermint box']	['1.00 dollar']	0.170107734588
+['25 candy box', 'peppermint box']	['box and candy candy cane']	0.430087715344
+['25 candy box', 'peppermint box']	['dollar']	0.0920216743935
+['25 candy box', 'peppermint box']	['1.30 dollar']	0.170107734588
+['25 candy box', 'peppermint box']	['box']	0.647478989747
+['25 candy box', 'peppermint box']	['candy box']	0.886260074851
+['28.00 dollar', 'peppermint box']	['25 candy box']	0.565541799784
+['28.00 dollar', 'peppermint box']	['1.00 dollar']	0.544221442934
+['28.00 dollar', 'peppermint box']	['box and candy candy cane']	0.0890455833577
+['28.00 dollar', 'peppermint box']	['dollar']	0.368389923
+['28.00 dollar', 'peppermint box']	['1.30 dollar']	0.544221442934
+['28.00 dollar', 'peppermint box']	['box']	0.59029166003
+['28.00 dollar', 'peppermint box']	['candy box']	0.692390171954
+['1.00 dollar', 'peppermint box']	['25 candy box']	0.565541799784
+['1.00 dollar', 'peppermint box']	['28.00 dollar']	0.544221442934
+['1.00 dollar', 'peppermint box']	['box and candy candy cane']	0.0890455833577
+['1.00 dollar', 'peppermint box']	['dollar']	0.33429145055
+['1.00 dollar', 'peppermint box']	['1.30 dollar']	0.544221442934
+['1.00 dollar', 'peppermint box']	['box']	0.59029166003
+['1.00 dollar', 'peppermint box']	['candy box']	0.692390171954
+['box and candy candy cane', 'peppermint box']	['25 candy box']	0.681563852782
+['box and candy candy cane', 'peppermint box']	['28.00 dollar']	0.0681387921949
+['box and candy candy cane', 'peppermint box']	['1.00 dollar']	0.0681387921949
+['box and candy candy cane', 'peppermint box']	['dollar']	0.0370491838433
+['box and candy candy cane', 'peppermint box']	['1.30 dollar']	0.0681387921949
+['box and candy candy cane', 'peppermint box']	['box']	0.570020287207
+['box and candy candy cane', 'peppermint box']	['candy box']	0.721741861991
+['dollar', 'peppermint box']	['25 candy box']	0.131751950559
+['dollar', 'peppermint box']	['28.00 dollar']	0.396616843835
+['dollar', 'peppermint box']	['1.00 dollar']	0.380321401688
+['dollar', 'peppermint box']	['box and candy candy cane']	0.0863006918229
+['dollar', 'peppermint box']	['1.30 dollar']	0.380321401688
+['dollar', 'peppermint box']	['box']	0.382656410836
+['dollar', 'peppermint box']	['candy box']	0.240828499881
+['1.30 dollar', 'peppermint box']	['25 candy box']	0.565541799784
+['1.30 dollar', 'peppermint box']	['28.00 dollar']	0.544221442934
+['1.30 dollar', 'peppermint box']	['1.00 dollar']	0.544221442934
+['1.30 dollar', 'peppermint box']	['box and candy candy cane']	0.0890455833577
+['1.30 dollar', 'peppermint box']	['dollar']	0.33429145055
+['1.30 dollar', 'peppermint box']	['box']	0.59029166003
+['1.30 dollar', 'peppermint box']	['candy box']	0.692390171954
+['box', 'peppermint box']	['25 candy box']	0.756041612727
+['box', 'peppermint box']	['28.00 dollar']	0.275784983691
+['box', 'peppermint box']	['1.00 dollar']	0.275784983691
+['box', 'peppermint box']	['box and candy candy cane']	0.422784908969
+['box', 'peppermint box']	['dollar']	0.287026723825
+['box', 'peppermint box']	['1.30 dollar']	0.275784983691
+['box', 'peppermint box']	['candy box']	0.799850585258
+['candy box', 'peppermint box']	['25 candy box']	0.930399409632
+['candy box', 'peppermint box']	['28.00 dollar']	0.177915983734
+['candy box', 'peppermint box']	['1.00 dollar']	0.177915983734
+['candy box', 'peppermint box']	['box and candy candy cane']	0.412000595244
+['candy box', 'peppermint box']	['dollar']	0.15868834106
+['candy box', 'peppermint box']	['1.30 dollar']	0.177915983734
+['candy box', 'peppermint box']	['box']	0.748148549881
+['25 candy box', '1.00 dollar']	['28.00 dollar']	0.653642048458
+['25 candy box', '1.00 dollar']	['peppermint box']	0.624094885322
+['25 candy box', '1.00 dollar']	['box and candy candy cane']	0.153696869899
+['25 candy box', '1.00 dollar']	['dollar']	0.390306662315
+['25 candy box', '1.00 dollar']	['1.30 dollar']	0.653642048458
+['25 candy box', '1.00 dollar']	['box']	0.773880617508
+['25 candy box', '1.00 dollar']	['candy box']	0.948067886599
+['28.00 dollar', '1.00 dollar']	['25 candy box']	0.297805101442
+['28.00 dollar', '1.00 dollar']	['peppermint box']	0.14699641653
+['28.00 dollar', '1.00 dollar']	['box and candy candy cane']	0.315265418903
+['28.00 dollar', '1.00 dollar']	['dollar']	0.754866786882
+['28.00 dollar', '1.00 dollar']	['1.30 dollar']	0.637144068101
+['28.00 dollar', '1.00 dollar']	['box']	0.374062030126
+['28.00 dollar', '1.00 dollar']	['candy box']	0.14699641653
+['peppermint box', '1.00 dollar']	['25 candy box']	0.565541799784
+['peppermint box', '1.00 dollar']	['28.00 dollar']	0.544221442934
+['peppermint box', '1.00 dollar']	['box and candy candy cane']	0.0890455833577
+['peppermint box', '1.00 dollar']	['dollar']	0.33429145055
+['peppermint box', '1.00 dollar']	['1.30 dollar']	0.544221442934
+['peppermint box', '1.00 dollar']	['box']	0.59029166003
+['peppermint box', '1.00 dollar']	['candy box']	0.692390171954
+['box and candy candy cane', '1.00 dollar']	['25 candy box']	0.107526100904
+['box and candy candy cane', '1.00 dollar']	['28.00 dollar']	0.630956863273
+['box and candy candy cane', '1.00 dollar']	['peppermint box']	0.0913917745983
+['box and candy candy cane', '1.00 dollar']	['dollar']	0.351359355892
+['box and candy candy cane', '1.00 dollar']	['1.30 dollar']	0.630956863273
+['box and candy candy cane', '1.00 dollar']	['box']	0.0857950278587
+['box and candy candy cane', '1.00 dollar']	['candy box']	0.0981211933805
+['dollar', '1.00 dollar']	['25 candy box']	0.193299723861
+['dollar', '1.00 dollar']	['28.00 dollar']	0.731253697846
+['dollar', '1.00 dollar']	['peppermint box']	0.109984733254
+['dollar', '1.00 dollar']	['box and candy candy cane']	0.198882138174
+['dollar', '1.00 dollar']	['1.30 dollar']	0.732805939382
+['dollar', '1.00 dollar']	['box']	0.296388200907
+['dollar', '1.00 dollar']	['candy box']	0.109984733254
+['1.30 dollar', '1.00 dollar']	['25 candy box']	0.297805101442
+['1.30 dollar', '1.00 dollar']	['28.00 dollar']	0.637144068101
+['1.30 dollar', '1.00 dollar']	['peppermint box']	0.14699641653
+['1.30 dollar', '1.00 dollar']	['box and candy candy cane']	0.315265418903
+['1.30 dollar', '1.00 dollar']	['dollar']	0.786579749845
+['1.30 dollar', '1.00 dollar']	['box']	0.374062030126
+['1.30 dollar', '1.00 dollar']	['candy box']	0.14699641653
+['box', '1.00 dollar']	['25 candy box']	0.655632174079
+['box', '1.00 dollar']	['28.00 dollar']	0.482679469303
+['box', '1.00 dollar']	['peppermint box']	0.600226976026
+['box', '1.00 dollar']	['box and candy candy cane']	0.0841365058564
+['box', '1.00 dollar']	['dollar']	0.508220546275
+['box', '1.00 dollar']	['1.30 dollar']	0.482679469303
+['box', '1.00 dollar']	['candy box']	0.604465896967
+['candy box', '1.00 dollar']	['25 candy box']	0.881426595106
+['candy box', '1.00 dollar']	['28.00 dollar']	0.544221442934
+['candy box', '1.00 dollar']	['peppermint box']	0.692390171954
+['candy box', '1.00 dollar']	['box and candy candy cane']	0.0833022372444
+['candy box', '1.00 dollar']	['dollar']	0.33429145055
+['candy box', '1.00 dollar']	['1.30 dollar']	0.544221442934
+['candy box', '1.00 dollar']	['box']	0.568819923854
+['25 candy box', 'box and candy candy cane']	['28.00 dollar']	0.0988755105172
+['25 candy box', 'box and candy candy cane']	['peppermint box']	0.470968018677
+['25 candy box', 'box and candy candy cane']	['1.00 dollar']	0.0988755105172
+['25 candy box', 'box and candy candy cane']	['dollar']	0.00857205049933
+['25 candy box', 'box and candy candy cane']	['1.30 dollar']	0.0988755105172
+['25 candy box', 'box and candy candy cane']	['box']	0.640408812813
+['25 candy box', 'box and candy candy cane']	['candy box']	0.908940930422
+['28.00 dollar', 'box and candy candy cane']	['25 candy box']	0.107526100904
+['28.00 dollar', 'box and candy candy cane']	['peppermint box']	0.0913917745983
+['28.00 dollar', 'box and candy candy cane']	['1.00 dollar']	0.630956863273
+['28.00 dollar', 'box and candy candy cane']	['dollar']	0.368791161675
+['28.00 dollar', 'box and candy candy cane']	['1.30 dollar']	0.630956863273
+['28.00 dollar', 'box and candy candy cane']	['box']	0.0857950278587
+['28.00 dollar', 'box and candy candy cane']	['candy box']	0.0981211933805
+['peppermint box', 'box and candy candy cane']	['25 candy box']	0.681563852782
+['peppermint box', 'box and candy candy cane']	['28.00 dollar']	0.0681387921949
+['peppermint box', 'box and candy candy cane']	['1.00 dollar']	0.0681387921949
+['peppermint box', 'box and candy candy cane']	['dollar']	0.0370491838433
+['peppermint box', 'box and candy candy cane']	['1.30 dollar']	0.0681387921949
+['peppermint box', 'box and candy candy cane']	['box']	0.570020287207
+['peppermint box', 'box and candy candy cane']	['candy box']	0.721741861991
+['1.00 dollar', 'box and candy candy cane']	['25 candy box']	0.107526100904
+['1.00 dollar', 'box and candy candy cane']	['28.00 dollar']	0.630956863273
+['1.00 dollar', 'box and candy candy cane']	['peppermint box']	0.0913917745983
+['1.00 dollar', 'box and candy candy cane']	['dollar']	0.351359355892
+['1.00 dollar', 'box and candy candy cane']	['1.30 dollar']	0.630956863273
+['1.00 dollar', 'box and candy candy cane']	['box']	0.0857950278587
+['1.00 dollar', 'box and candy candy cane']	['candy box']	0.0981211933805
+['dollar', 'box and candy candy cane']	['25 candy box']	0.0238544414291
+['dollar', 'box and candy candy cane']	['28.00 dollar']	0.377724765396
+['dollar', 'box and candy candy cane']	['peppermint box']	0.0215992382808
+['dollar', 'box and candy candy cane']	['1.00 dollar']	0.361429323249
+['dollar', 'box and candy candy cane']	['1.30 dollar']	0.361429323249
+['dollar', 'box and candy candy cane']	['box']	0.0709095671151
+['dollar', 'box and candy candy cane']	['candy box']	0.0182582344514
+['1.30 dollar', 'box and candy candy cane']	['25 candy box']	0.107526100904
+['1.30 dollar', 'box and candy candy cane']	['28.00 dollar']	0.630956863273
+['1.30 dollar', 'box and candy candy cane']	['peppermint box']	0.0913917745983
+['1.30 dollar', 'box and candy candy cane']	['1.00 dollar']	0.630956863273
+['1.30 dollar', 'box and candy candy cane']	['dollar']	0.351359355892
+['1.30 dollar', 'box and candy candy cane']	['box']	0.0857950278587
+['1.30 dollar', 'box and candy candy cane']	['candy box']	0.0981211933805
+['box', 'box and candy candy cane']	['25 candy box']	0.620324939975
+['box', 'box and candy candy cane']	['28.00 dollar']	0.0641181843254
+['box', 'box and candy candy cane']	['peppermint box']	0.638334510904
+['box', 'box and candy candy cane']	['1.00 dollar']	0.0641181843254
+['box', 'box and candy candy cane']	['dollar']	0.0612886999236
+['box', 'box and candy candy cane']	['1.30 dollar']	0.0641181843254
+['box', 'box and candy candy cane']	['candy box']	0.651108854407
+['candy box', 'box and candy candy cane']	['25 candy box']	0.944166149199
+['candy box', 'box and candy candy cane']	['28.00 dollar']	0.0681387921949
+['candy box', 'box and candy candy cane']	['peppermint box']	0.724710243673
+['candy box', 'box and candy candy cane']	['1.00 dollar']	0.0681387921949
+['candy box', 'box and candy candy cane']	['dollar']	0.0370491838433
+['candy box', 'box and candy candy cane']	['1.30 dollar']	0.0681387921949
+['candy box', 'box and candy candy cane']	['box']	0.608004547481
+['25 candy box', 'dollar']	['28.00 dollar']	0.372791497313
+['25 candy box', 'dollar']	['peppermint box']	0.0965669976112
+['25 candy box', 'dollar']	['1.00 dollar']	0.356496055166
+['25 candy box', 'dollar']	['box and candy candy cane']	0.0248289047471
+['25 candy box', 'dollar']	['1.30 dollar']	0.356496055166
+['25 candy box', 'dollar']	['box']	0.385686713867
+['25 candy box', 'dollar']	['candy box']	0.365728846535
+['28.00 dollar', 'dollar']	['25 candy box']	0.193299723861
+['28.00 dollar', 'dollar']	['peppermint box']	0.109984733254
+['28.00 dollar', 'dollar']	['1.00 dollar']	0.732805939382
+['28.00 dollar', 'dollar']	['box and candy candy cane']	0.198882138174
+['28.00 dollar', 'dollar']	['1.30 dollar']	0.732805939382
+['28.00 dollar', 'dollar']	['box']	0.296388200907
+['28.00 dollar', 'dollar']	['candy box']	0.109984733254
+['peppermint box', 'dollar']	['25 candy box']	0.131751950559
+['peppermint box', 'dollar']	['28.00 dollar']	0.396616843835
+['peppermint box', 'dollar']	['1.00 dollar']	0.380321401688
+['peppermint box', 'dollar']	['box and candy candy cane']	0.0863006918229
+['peppermint box', 'dollar']	['1.30 dollar']	0.380321401688
+['peppermint box', 'dollar']	['box']	0.382656410836
+['peppermint box', 'dollar']	['candy box']	0.240828499881
+['1.00 dollar', 'dollar']	['25 candy box']	0.193299723861
+['1.00 dollar', 'dollar']	['28.00 dollar']	0.731253697846
+['1.00 dollar', 'dollar']	['peppermint box']	0.109984733254
+['1.00 dollar', 'dollar']	['box and candy candy cane']	0.198882138174
+['1.00 dollar', 'dollar']	['1.30 dollar']	0.732805939382
+['1.00 dollar', 'dollar']	['box']	0.296388200907
+['1.00 dollar', 'dollar']	['candy box']	0.109984733254
+['box and candy candy cane', 'dollar']	['25 candy box']	0.0238544414291
+['box and candy candy cane', 'dollar']	['28.00 dollar']	0.377724765396
+['box and candy candy cane', 'dollar']	['peppermint box']	0.0215992382808
+['box and candy candy cane', 'dollar']	['1.00 dollar']	0.361429323249
+['box and candy candy cane', 'dollar']	['1.30 dollar']	0.361429323249
+['box and candy candy cane', 'dollar']	['box']	0.0709095671151
+['box and candy candy cane', 'dollar']	['candy box']	0.0182582344514
+['1.30 dollar', 'dollar']	['25 candy box']	0.193299723861
+['1.30 dollar', 'dollar']	['28.00 dollar']	0.731253697846
+['1.30 dollar', 'dollar']	['peppermint box']	0.109984733254
+['1.30 dollar', 'dollar']	['1.00 dollar']	0.732805939382
+['1.30 dollar', 'dollar']	['box and candy candy cane']	0.198882138174
+['1.30 dollar', 'dollar']	['box']	0.296388200907
+['1.30 dollar', 'dollar']	['candy box']	0.109984733254
+['box', 'dollar']	['25 candy box']	0.297975799994
+['box', 'dollar']	['28.00 dollar']	0.458375915643
+['box', 'dollar']	['peppermint box']	0.21550438849
+['box', 'dollar']	['1.00 dollar']	0.425413806829
+['box', 'dollar']	['box and candy candy cane']	0.0817625868734
+['box', 'dollar']	['1.30 dollar']	0.425413806829
+['box', 'dollar']	['candy box']	0.360216875282
+['candy box', 'dollar']	['25 candy box']	0.314845527386
+['candy box', 'dollar']	['28.00 dollar']	0.396616843835
+['candy box', 'dollar']	['peppermint box']	0.240828499881
+['candy box', 'dollar']	['1.00 dollar']	0.380321401688
+['candy box', 'dollar']	['box and candy candy cane']	0.0817625868734
+['candy box', 'dollar']	['1.30 dollar']	0.380321401688
+['candy box', 'dollar']	['box']	0.477011265975
+['25 candy box', '1.30 dollar']	['28.00 dollar']	0.653642048458
+['25 candy box', '1.30 dollar']	['peppermint box']	0.624094885322
+['25 candy box', '1.30 dollar']	['1.00 dollar']	0.653642048458
+['25 candy box', '1.30 dollar']	['box and candy candy cane']	0.153696869899
+['25 candy box', '1.30 dollar']	['dollar']	0.390306662315
+['25 candy box', '1.30 dollar']	['box']	0.773880617508
+['25 candy box', '1.30 dollar']	['candy box']	0.948067886599
+['28.00 dollar', '1.30 dollar']	['25 candy box']	0.297805101442
+['28.00 dollar', '1.30 dollar']	['peppermint box']	0.14699641653
+['28.00 dollar', '1.30 dollar']	['1.00 dollar']	0.637144068101
+['28.00 dollar', '1.30 dollar']	['box and candy candy cane']	0.315265418903
+['28.00 dollar', '1.30 dollar']	['dollar']	0.754866786882
+['28.00 dollar', '1.30 dollar']	['box']	0.374062030126
+['28.00 dollar', '1.30 dollar']	['candy box']	0.14699641653
+['peppermint box', '1.30 dollar']	['25 candy box']	0.565541799784
+['peppermint box', '1.30 dollar']	['28.00 dollar']	0.544221442934
+['peppermint box', '1.30 dollar']	['1.00 dollar']	0.544221442934
+['peppermint box', '1.30 dollar']	['box and candy candy cane']	0.0890455833577
+['peppermint box', '1.30 dollar']	['dollar']	0.33429145055
+['peppermint box', '1.30 dollar']	['box']	0.59029166003
+['peppermint box', '1.30 dollar']	['candy box']	0.692390171954
+['1.00 dollar', '1.30 dollar']	['25 candy box']	0.297805101442
+['1.00 dollar', '1.30 dollar']	['28.00 dollar']	0.637144068101
+['1.00 dollar', '1.30 dollar']	['peppermint box']	0.14699641653
+['1.00 dollar', '1.30 dollar']	['box and candy candy cane']	0.315265418903
+['1.00 dollar', '1.30 dollar']	['dollar']	0.786579749845
+['1.00 dollar', '1.30 dollar']	['box']	0.374062030126
+['1.00 dollar', '1.30 dollar']	['candy box']	0.14699641653
+['box and candy candy cane', '1.30 dollar']	['25 candy box']	0.107526100904
+['box and candy candy cane', '1.30 dollar']	['28.00 dollar']	0.630956863273
+['box and candy candy cane', '1.30 dollar']	['peppermint box']	0.0913917745983
+['box and candy candy cane', '1.30 dollar']	['1.00 dollar']	0.630956863273
+['box and candy candy cane', '1.30 dollar']	['dollar']	0.351359355892
+['box and candy candy cane', '1.30 dollar']	['box']	0.0857950278587
+['box and candy candy cane', '1.30 dollar']	['candy box']	0.0981211933805
+['dollar', '1.30 dollar']	['25 candy box']	0.193299723861
+['dollar', '1.30 dollar']	['28.00 dollar']	0.731253697846
+['dollar', '1.30 dollar']	['peppermint box']	0.109984733254
+['dollar', '1.30 dollar']	['1.00 dollar']	0.732805939382
+['dollar', '1.30 dollar']	['box and candy candy cane']	0.198882138174
+['dollar', '1.30 dollar']	['box']	0.296388200907
+['dollar', '1.30 dollar']	['candy box']	0.109984733254
+['box', '1.30 dollar']	['25 candy box']	0.655632174079
+['box', '1.30 dollar']	['28.00 dollar']	0.482679469303
+['box', '1.30 dollar']	['peppermint box']	0.600226976026
+['box', '1.30 dollar']	['1.00 dollar']	0.482679469303
+['box', '1.30 dollar']	['box and candy candy cane']	0.0841365058564
+['box', '1.30 dollar']	['dollar']	0.508220546275
+['box', '1.30 dollar']	['candy box']	0.604465896967
+['candy box', '1.30 dollar']	['25 candy box']	0.881426595106
+['candy box', '1.30 dollar']	['28.00 dollar']	0.544221442934
+['candy box', '1.30 dollar']	['peppermint box']	0.692390171954
+['candy box', '1.30 dollar']	['1.00 dollar']	0.544221442934
+['candy box', '1.30 dollar']	['box and candy candy cane']	0.0833022372444
+['candy box', '1.30 dollar']	['dollar']	0.33429145055
+['candy box', '1.30 dollar']	['box']	0.568819923854
+['25 candy box', 'box']	['28.00 dollar']	0.22500681101
+['25 candy box', 'box']	['peppermint box']	0.629797041486
+['25 candy box', 'box']	['1.00 dollar']	0.22500681101
+['25 candy box', 'box']	['box and candy candy cane']	0.406889496698
+['25 candy box', 'box']	['dollar']	0.220360057158
+['25 candy box', 'box']	['1.30 dollar']	0.22500681101
+['25 candy box', 'box']	['candy box']	0.652329041985
+['28.00 dollar', 'box']	['25 candy box']	0.655632174079
+['28.00 dollar', 'box']	['peppermint box']	0.600226976026
+['28.00 dollar', 'box']	['1.00 dollar']	0.482679469303
+['28.00 dollar', 'box']	['box and candy candy cane']	0.0841365058564
+['28.00 dollar', 'box']	['dollar']	0.52146060178
+['28.00 dollar', 'box']	['1.30 dollar']	0.482679469303
+['28.00 dollar', 'box']	['candy box']	0.604465896967
+['peppermint box', 'box']	['25 candy box']	0.756041612727
+['peppermint box', 'box']	['28.00 dollar']	0.275784983691
+['peppermint box', 'box']	['1.00 dollar']	0.275784983691
+['peppermint box', 'box']	['box and candy candy cane']	0.422784908969
+['peppermint box', 'box']	['dollar']	0.287026723825
+['peppermint box', 'box']	['1.30 dollar']	0.275784983691
+['peppermint box', 'box']	['candy box']	0.799850585258
+['1.00 dollar', 'box']	['25 candy box']	0.655632174079
+['1.00 dollar', 'box']	['28.00 dollar']	0.482679469303
+['1.00 dollar', 'box']	['peppermint box']	0.600226976026
+['1.00 dollar', 'box']	['box and candy candy cane']	0.0841365058564
+['1.00 dollar', 'box']	['dollar']	0.508220546275
+['1.00 dollar', 'box']	['1.30 dollar']	0.482679469303
+['1.00 dollar', 'box']	['candy box']	0.604465896967
+['box and candy candy cane', 'box']	['25 candy box']	0.620324939975
+['box and candy candy cane', 'box']	['28.00 dollar']	0.0641181843254
+['box and candy candy cane', 'box']	['peppermint box']	0.638334510904
+['box and candy candy cane', 'box']	['1.00 dollar']	0.0641181843254
+['box and candy candy cane', 'box']	['dollar']	0.0612886999236
+['box and candy candy cane', 'box']	['1.30 dollar']	0.0641181843254
+['box and candy candy cane', 'box']	['candy box']	0.651108854407
+['dollar', 'box']	['25 candy box']	0.297975799994
+['dollar', 'box']	['28.00 dollar']	0.458375915643
+['dollar', 'box']	['peppermint box']	0.21550438849
+['dollar', 'box']	['1.00 dollar']	0.425413806829
+['dollar', 'box']	['box and candy candy cane']	0.0817625868734
+['dollar', 'box']	['1.30 dollar']	0.425413806829
+['dollar', 'box']	['candy box']	0.360216875282
+['1.30 dollar', 'box']	['25 candy box']	0.655632174079
+['1.30 dollar', 'box']	['28.00 dollar']	0.482679469303
+['1.30 dollar', 'box']	['peppermint box']	0.600226976026
+['1.30 dollar', 'box']	['1.00 dollar']	0.482679469303
+['1.30 dollar', 'box']	['box and candy candy cane']	0.0841365058564
+['1.30 dollar', 'box']	['dollar']	0.508220546275
+['1.30 dollar', 'box']	['candy box']	0.604465896967
+['candy box', 'box']	['25 candy box']	0.731611878005
+['candy box', 'box']	['28.00 dollar']	0.275784983691
+['candy box', 'box']	['peppermint box']	0.615317574751
+['candy box', 'box']	['1.00 dollar']	0.275784983691
+['candy box', 'box']	['box and candy candy cane']	0.398007089825
+['candy box', 'box']	['dollar']	0.287026723825
+['candy box', 'box']	['1.30 dollar']	0.275784983691
+['25 candy box', 'candy box']	['28.00 dollar']	0.170107734588
+['25 candy box', 'candy box']	['peppermint box']	0.889219964647
+['25 candy box', 'candy box']	['1.00 dollar']	0.170107734588
+['25 candy box', 'candy box']	['box and candy candy cane']	0.443433652516
+['25 candy box', 'candy box']	['dollar']	0.0920216743935
+['25 candy box', 'candy box']	['1.30 dollar']	0.170107734588
+['25 candy box', 'candy box']	['box']	0.765184576446
+['28.00 dollar', 'candy box']	['25 candy box']	0.881426595106
+['28.00 dollar', 'candy box']	['peppermint box']	0.692390171954
+['28.00 dollar', 'candy box']	['1.00 dollar']	0.544221442934
+['28.00 dollar', 'candy box']	['box and candy candy cane']	0.0833022372444
+['28.00 dollar', 'candy box']	['dollar']	0.368389923
+['28.00 dollar', 'candy box']	['1.30 dollar']	0.544221442934
+['28.00 dollar', 'candy box']	['box']	0.568819923854
+['peppermint box', 'candy box']	['25 candy box']	0.930399409632
+['peppermint box', 'candy box']	['28.00 dollar']	0.177915983734
+['peppermint box', 'candy box']	['1.00 dollar']	0.177915983734
+['peppermint box', 'candy box']	['box and candy candy cane']	0.412000595244
+['peppermint box', 'candy box']	['dollar']	0.15868834106
+['peppermint box', 'candy box']	['1.30 dollar']	0.177915983734
+['peppermint box', 'candy box']	['box']	0.748148549881
+['1.00 dollar', 'candy box']	['25 candy box']	0.881426595106
+['1.00 dollar', 'candy box']	['28.00 dollar']	0.544221442934
+['1.00 dollar', 'candy box']	['peppermint box']	0.692390171954
+['1.00 dollar', 'candy box']	['box and candy candy cane']	0.0833022372444
+['1.00 dollar', 'candy box']	['dollar']	0.33429145055
+['1.00 dollar', 'candy box']	['1.30 dollar']	0.544221442934
+['1.00 dollar', 'candy box']	['box']	0.568819923854
+['box and candy candy cane', 'candy box']	['25 candy box']	0.944166149199
+['box and candy candy cane', 'candy box']	['28.00 dollar']	0.0681387921949
+['box and candy candy cane', 'candy box']	['peppermint box']	0.724710243673
+['box and candy candy cane', 'candy box']	['1.00 dollar']	0.0681387921949
+['box and candy candy cane', 'candy box']	['dollar']	0.0370491838433
+['box and candy candy cane', 'candy box']	['1.30 dollar']	0.0681387921949
+['box and candy candy cane', 'candy box']	['box']	0.608004547481
+['dollar', 'candy box']	['25 candy box']	0.314845527386
+['dollar', 'candy box']	['28.00 dollar']	0.396616843835
+['dollar', 'candy box']	['peppermint box']	0.240828499881
+['dollar', 'candy box']	['1.00 dollar']	0.380321401688
+['dollar', 'candy box']	['box and candy candy cane']	0.0817625868734
+['dollar', 'candy box']	['1.30 dollar']	0.380321401688
+['dollar', 'candy box']	['box']	0.477011265975
+['1.30 dollar', 'candy box']	['25 candy box']	0.881426595106
+['1.30 dollar', 'candy box']	['28.00 dollar']	0.544221442934
+['1.30 dollar', 'candy box']	['peppermint box']	0.692390171954
+['1.30 dollar', 'candy box']	['1.00 dollar']	0.544221442934
+['1.30 dollar', 'candy box']	['box and candy candy cane']	0.0833022372444
+['1.30 dollar', 'candy box']	['dollar']	0.33429145055
+['1.30 dollar', 'candy box']	['box']	0.568819923854
+['box', 'candy box']	['25 candy box']	0.731611878005
+['box', 'candy box']	['28.00 dollar']	0.275784983691
+['box', 'candy box']	['peppermint box']	0.615317574751
+['box', 'candy box']	['1.00 dollar']	0.275784983691
+['box', 'candy box']	['box and candy candy cane']	0.398007089825
+['box', 'candy box']	['dollar']	0.287026723825
+['box', 'candy box']	['1.30 dollar']	0.275784983691

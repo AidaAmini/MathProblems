@@ -1,0 +1,18 @@
+
+obtain ARG1 gallon obtained by the two cars in a particular week
+obtain TMP in a particular week
+obtain ARG0 the two cars
+
+consume ARG0 The first car
+consume TMP during that week
+consume ARG1 40 gallons
+consume ARG0 the second car
+consume ARG2 a total of 1400 miles driven by the two cars combined
+consume ARG1 20 gallons
+drive ARG1 1400 miles driven by the two cars combined
+combine ARG1 the two cars combined
+
+obtain ARG1 the average gas mileage obtained by each of the 2 cars that week
+obtain TMP that week
+obtain ARG0 each of the 2 cars
+

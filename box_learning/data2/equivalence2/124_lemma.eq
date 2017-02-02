@@ -1,0 +1,1 @@
+970 dollar	total 

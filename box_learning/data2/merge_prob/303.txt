@@ -1,0 +1,10 @@
+['70.93 dollar', 'pair of pants', '2.93 dollar less']
+['70.93 dollar']	['pair of pants']	0.101465999609
+['70.93 dollar']	['2.93 dollar less']	0.0941266761548
+['pair of pants']	['2.93 dollar less']	0.0728111641284
+['pair of pants', '70.93 dollar']	['2.93 dollar less']	0.126993731386
+['2.93 dollar less', '70.93 dollar']	['pair of pants']	0.146462584735
+['70.93 dollar', 'pair of pants']	['2.93 dollar less']	0.126993731386
+['2.93 dollar less', 'pair of pants']	['70.93 dollar']	0.0681387921949
+['70.93 dollar', '2.93 dollar less']	['pair of pants']	0.146462584735
+['pair of pants', '2.93 dollar less']	['70.93 dollar']	0.0681387921949

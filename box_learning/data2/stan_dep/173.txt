@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT A) (NN customer))
+    (VP
+      (VP
+        (VBZ walks)
+        (PP (IN into) (NP (DT an) (NN electronics) (NN store))))
+      (CC and)
+      (VP
+        (VBZ buys)
+        (NP
+          (NP (CD 5) (NN MP3) (NNS players))
+          (CC and)
+          (NP
+            (NP (CD 8) (NNS sets))
+            (PP (IN of) (NP (NNS headphones))))))
+      (, ,)
+      (S (VP (VBG paying) (NP (CD 840) (NNS dollars)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT A) (JJ 2nd) (NN customer))
+    (VP
+      (VP
+        (VBZ buys)
+        (NP
+          (NP (CD 3) (NN MP3) (NNS players))
+          (CC and)
+          (NP
+            (NP (CD 4) (NNS sets))
+            (PP (IN of) (NP (NNS headphones))))))
+      (, ,)
+      (CC and)
+      (VP (VBZ pays) (NP (CD 480) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ (VBZ does) (NP (DT an) (NN MP3) (NN player) (NN cost)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VP
+        (VBZ does)
+        (NP
+          (NP (DT a) (NN set))
+          (PP (IN of) (NP (NP (NNS headphones)) (VP (VBN cost)))))))
+    (. ?)))

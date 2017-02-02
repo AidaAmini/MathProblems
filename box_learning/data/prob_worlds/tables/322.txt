@@ -1,0 +1,14 @@
+1
+[['rainstorm', '-', '-', '-', '-', 'milliliter', '1800'], ['first storm', 'x1', 'milliliter', 'hour', '20', '-', '-'], ['second storm', 'x2', 'milliliter', 'hour', '40', '-', '-']]
+-1
+[['rainstorm', 'hour', '-', 'milliliter', 'x2', 'second storm', '1800'], ['first storm', 'x1', 'milliliter', 'hour', '20', '-', '-'], ['second storm', '1800', 'milliliter', 'hour', '40', '-', 'rainstorm']]
+-1
+[['rainstorm', '40', '-', '-', '-', 'milliliter', 'x2'], ['first storm', 'x1', 'milliliter', 'hour', '20', '-', '-'], ['milliliter', 'x2', 'rainstorm', 'hour', '40', '-', '-']]
+-1
+[['40', 'hour', '-', '-', 'x2', 'milliliter', '1800'], ['first storm', 'x1', 'milliliter', 'hour', '20', '-', '-'], ['1800', 'x2', 'milliliter', 'hour', '40', '-', '-']]
+-1
+[['x2', '-', 'second storm', '-', '-', 'hour', '1800'], ['first storm', 'x1', 'milliliter', 'hour', '20', '-', '-'], ['second storm', '1800', 'hour', 'x2', '40', '-', '-']]
+-1
+[['second storm', '-', 'hour', '40', '-', 'x2', 'milliliter'], ['first storm', 'x1', 'milliliter', 'hour', '20', '-', '-'], ['second storm', 'x2', 'milliliter', 'hour', '40', '-', '-']]
+-1
+[['milliliter', '-', '-', '-', 'second storm', 'x2', '1800'], ['first storm', 'x1', 'milliliter', 'hour', '20', '-', '-'], ['second storm', 'x2', 'milliliter', 'rainstorm', '1800', '-', '-']]

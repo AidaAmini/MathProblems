@@ -1,0 +1,762 @@
+['12,000 dollar', 'two account', '7.5 %', '6 % simple interest', 'return', 'first year', 'year', 'dollar', '840 dollar', 'account']
+['12,000 dollar']	['two account']	0.0901100077042
+['12,000 dollar']	['7.5 %']	0.0901100077042
+['12,000 dollar']	['6 % simple interest']	0.0941266761548
+['12,000 dollar']	['return']	0.0744376594044
+['12,000 dollar']	['first year']	0.0901100077042
+['12,000 dollar']	['year']	0.016864172895
+['12,000 dollar']	['840 dollar']	0.643440930505
+['12,000 dollar']	['account']	0.0741073489195
+['two account']	['7.5 %']	0.0901100077042
+['two account']	['6 % simple interest']	0.345657820569
+['two account']	['return']	0.0888375395985
+['two account']	['first year']	0.0854147342737
+['two account']	['year']	0.0223114282054
+['two account']	['dollar']	0.0143499502517
+['two account']	['840 dollar']	0.0901100077042
+['7.5 %']	['6 % simple interest']	0.0941266761548
+['7.5 %']	['return']	0.0888375395985
+['7.5 %']	['first year']	0.0901100077042
+['7.5 %']	['year']	0.0223114282054
+['7.5 %']	['dollar']	0.0179192712897
+['7.5 %']	['840 dollar']	0.0901100077042
+['7.5 %']	['account']	0.0831172035382
+['6 % simple interest']	['return']	0.0976030424116
+['6 % simple interest']	['first year']	0.0989672795224
+['6 % simple interest']	['year']	0.0659489094532
+['6 % simple interest']	['dollar']	0.015547544145
+['6 % simple interest']	['840 dollar']	0.0988755105172
+['6 % simple interest']	['account']	0.0914560578477
+['return']	['first year']	0.0813535270388
+['return']	['year']	0.0441003607019
+['return']	['dollar']	0.0348865190937
+['return']	['840 dollar']	0.0793857959237
+['return']	['account']	0.105278920233
+['first year']	['dollar']	0.0143499502517
+['first year']	['840 dollar']	0.0901100077042
+['first year']	['account']	0.0760750800346
+['year']	['dollar']	0.0303172790117
+['year']	['840 dollar']	0.0215505325421
+['year']	['account']	0.0303742514954
+['dollar']	['account']	0.019946167238
+['840 dollar']	['account']	0.0741073489195
+['two account', '12,000 dollar']	['7.5 %']	0.0901100077042
+['two account', '12,000 dollar']	['6 % simple interest']	0.309663413007
+['two account', '12,000 dollar']	['return']	0.0777864840342
+['two account', '12,000 dollar']	['first year']	0.0871340391838
+['two account', '12,000 dollar']	['year']	0.0157405773894
+['two account', '12,000 dollar']	['dollar']	0.345297574209
+['two account', '12,000 dollar']	['840 dollar']	0.584269096576
+['two account', '12,000 dollar']	['account']	0.644629107832
+['7.5 %', '12,000 dollar']	['two account']	0.0901100077042
+['7.5 %', '12,000 dollar']	['6 % simple interest']	0.0941266761548
+['7.5 %', '12,000 dollar']	['return']	0.0777864840342
+['7.5 %', '12,000 dollar']	['first year']	0.0901100077042
+['7.5 %', '12,000 dollar']	['year']	0.0157405773894
+['7.5 %', '12,000 dollar']	['dollar']	0.356168661318
+['7.5 %', '12,000 dollar']	['840 dollar']	0.584269096576
+['7.5 %', '12,000 dollar']	['account']	0.0774561735493
+['6 % simple interest', '12,000 dollar']	['two account']	0.387709641536
+['6 % simple interest', '12,000 dollar']	['7.5 %']	0.0988755105172
+['6 % simple interest', '12,000 dollar']	['return']	0.0865519868472
+['6 % simple interest', '12,000 dollar']	['first year']	0.0958995419968
+['6 % simple interest', '12,000 dollar']	['year']	0.0782618840116
+['6 % simple interest', '12,000 dollar']	['dollar']	0.252626500486
+['6 % simple interest', '12,000 dollar']	['840 dollar']	0.630956863273
+['6 % simple interest', '12,000 dollar']	['account']	0.0857950278587
+['return', '12,000 dollar']	['two account']	0.0901100077042
+['return', '12,000 dollar']	['7.5 %']	0.0901100077042
+['return', '12,000 dollar']	['6 % simple interest']	0.0920786332799
+['return', '12,000 dollar']	['first year']	0.0827346205535
+['return', '12,000 dollar']	['year']	0.376634633849
+['return', '12,000 dollar']	['dollar']	0.520792226227
+['return', '12,000 dollar']	['840 dollar']	0.538007739106
+['return', '12,000 dollar']	['account']	0.309877129232
+['first year', '12,000 dollar']	['two account']	0.0871340391838
+['first year', '12,000 dollar']	['7.5 %']	0.0901100077042
+['first year', '12,000 dollar']	['6 % simple interest']	0.107439128991
+['first year', '12,000 dollar']	['return']	0.0744376594044
+['first year', '12,000 dollar']	['year']	0.669605278869
+['first year', '12,000 dollar']	['dollar']	0.345297574209
+['first year', '12,000 dollar']	['840 dollar']	0.584269096576
+['first year', '12,000 dollar']	['account']	0.0741073489195
+['year', '12,000 dollar']	['two account']	0.0450566866416
+['year', '12,000 dollar']	['7.5 %']	0.0499586900359
+['year', '12,000 dollar']	['6 % simple interest']	0.156337607387
+['year', '12,000 dollar']	['return']	0.453933604196
+['year', '12,000 dollar']	['first year']	0.54862573137
+['year', '12,000 dollar']	['dollar']	0.533274110285
+['year', '12,000 dollar']	['840 dollar']	0.210464140721
+['year', '12,000 dollar']	['account']	0.17870259112
+['dollar', '12,000 dollar']	['two account']	0.177448801378
+['dollar', '12,000 dollar']	['7.5 %']	0.101538623942
+['dollar', '12,000 dollar']	['6 % simple interest']	0.324358819701
+['dollar', '12,000 dollar']	['return']	0.519126414912
+['dollar', '12,000 dollar']	['first year']	0.183197852817
+['dollar', '12,000 dollar']	['year']	0.539371830202
+['dollar', '12,000 dollar']	['840 dollar']	0.610690210365
+['dollar', '12,000 dollar']	['account']	0.436313328298
+['840 dollar', '12,000 dollar']	['two account']	0.139258682248
+['840 dollar', '12,000 dollar']	['7.5 %']	0.139258682248
+['840 dollar', '12,000 dollar']	['6 % simple interest']	0.315265418903
+['840 dollar', '12,000 dollar']	['return']	0.360804929274
+['840 dollar', '12,000 dollar']	['first year']	0.139258682248
+['840 dollar', '12,000 dollar']	['year']	0.173050136425
+['840 dollar', '12,000 dollar']	['dollar']	0.674206488017
+['840 dollar', '12,000 dollar']	['account']	0.386965255933
+['account', '12,000 dollar']	['two account']	0.64792663354
+['account', '12,000 dollar']	['7.5 %']	0.0737139440912
+['account', '12,000 dollar']	['6 % simple interest']	0.0841365058564
+['account', '12,000 dollar']	['return']	0.306678330646
+['account', '12,000 dollar']	['first year']	0.0737139440912
+['account', '12,000 dollar']	['year']	0.100640180485
+['account', '12,000 dollar']	['dollar']	0.44367122994
+['account', '12,000 dollar']	['840 dollar']	0.465538040018
+['12,000 dollar', 'two account']	['7.5 %']	0.0901100077042
+['12,000 dollar', 'two account']	['6 % simple interest']	0.309663413007
+['12,000 dollar', 'two account']	['return']	0.0777864840342
+['12,000 dollar', 'two account']	['first year']	0.0871340391838
+['12,000 dollar', 'two account']	['year']	0.0157405773894
+['12,000 dollar', 'two account']	['dollar']	0.345297574209
+['12,000 dollar', 'two account']	['840 dollar']	0.584269096576
+['12,000 dollar', 'two account']	['account']	0.644629107832
+['7.5 %', 'two account']	['12,000 dollar']	0.0901100077042
+['7.5 %', 'two account']	['6 % simple interest']	0.309663413007
+['7.5 %', 'two account']	['return']	0.0888375395985
+['7.5 %', 'two account']	['first year']	0.0871340391838
+['7.5 %', 'two account']	['year']	0.0223114282054
+['7.5 %', 'two account']	['dollar']	0.0132263547461
+['7.5 %', 'two account']	['840 dollar']	0.0901100077042
+['7.5 %', 'two account']	['account']	0.56424350851
+['6 % simple interest', 'two account']	['12,000 dollar']	0.0988755105172
+['6 % simple interest', 'two account']	['7.5 %']	0.0988755105172
+['6 % simple interest', 'two account']	['return']	0.0976030424116
+['6 % simple interest', 'two account']	['first year']	0.0989672795224
+['6 % simple interest', 'two account']	['year']	0.0653895435861
+['6 % simple interest', 'two account']	['dollar']	0.015547544145
+['6 % simple interest', 'two account']	['840 dollar']	0.0988755105172
+['6 % simple interest', 'two account']	['account']	0.733282356735
+['return', 'two account']	['12,000 dollar']	0.0827346205535
+['return', 'two account']	['7.5 %']	0.0901100077042
+['return', 'two account']	['6 % simple interest']	0.324937900996
+['return', 'two account']	['first year']	0.083785214554
+['return', 'two account']	['year']	0.354699073748
+['return', 'two account']	['dollar']	0.354376067625
+['return', 'two account']	['840 dollar']	0.0827346205535
+['return', 'two account']	['account']	0.786720820053
+['first year', 'two account']	['12,000 dollar']	0.0901100077042
+['first year', 'two account']	['7.5 %']	0.0901100077042
+['first year', 'two account']	['6 % simple interest']	0.381093383142
+['first year', 'two account']	['return']	0.0777864840342
+['first year', 'two account']	['year']	0.603144798613
+['first year', 'two account']	['dollar']	0.0143499502517
+['first year', 'two account']	['840 dollar']	0.0901100077042
+['first year', 'two account']	['account']	0.644629107832
+['year', 'two account']	['12,000 dollar']	0.0450566866416
+['year', 'two account']	['7.5 %']	0.0499586900359
+['year', 'two account']	['6 % simple interest']	0.317751470983
+['year', 'two account']	['return']	0.459675116938
+['year', 'two account']	['first year']	0.637922241913
+['year', 'two account']	['dollar']	0.420980155708
+['year', 'two account']	['840 dollar']	0.0450566866416
+['year', 'two account']	['account']	0.615542692789
+['dollar', 'two account']	['12,000 dollar']	0.384540526976
+['dollar', 'two account']	['7.5 %']	0.0384978040692
+['dollar', 'two account']	['6 % simple interest']	0.291230731358
+['dollar', 'two account']	['return']	0.444412299389
+['dollar', 'two account']	['first year']	0.0496026845292
+['dollar', 'two account']	['year']	0.393819402227
+['dollar', 'two account']	['840 dollar']	0.365401430504
+['dollar', 'two account']	['account']	0.650844634612
+['840 dollar', 'two account']	['12,000 dollar']	0.584269096576
+['840 dollar', 'two account']	['7.5 %']	0.0901100077042
+['840 dollar', 'two account']	['6 % simple interest']	0.309663413007
+['840 dollar', 'two account']	['return']	0.0777864840342
+['840 dollar', 'two account']	['first year']	0.0871340391838
+['840 dollar', 'two account']	['year']	0.0157405773894
+['840 dollar', 'two account']	['dollar']	0.384528877052
+['840 dollar', 'two account']	['account']	0.644629107832
+['account', 'two account']	['12,000 dollar']	0.21925775957
+['account', 'two account']	['7.5 %']	0.139259023173
+['account', 'two account']	['6 % simple interest']	0.672398611728
+['account', 'two account']	['return']	0.470900544842
+['account', 'two account']	['first year']	0.223557185055
+['account', 'two account']	['year']	0.205736101323
+['account', 'two account']	['dollar']	0.346829724163
+['account', 'two account']	['840 dollar']	0.21925775957
+['12,000 dollar', '7.5 %']	['two account']	0.0901100077042
+['12,000 dollar', '7.5 %']	['6 % simple interest']	0.0941266761548
+['12,000 dollar', '7.5 %']	['return']	0.0777864840342
+['12,000 dollar', '7.5 %']	['first year']	0.0901100077042
+['12,000 dollar', '7.5 %']	['year']	0.0157405773894
+['12,000 dollar', '7.5 %']	['dollar']	0.356168661318
+['12,000 dollar', '7.5 %']	['840 dollar']	0.584269096576
+['12,000 dollar', '7.5 %']	['account']	0.0774561735493
+['two account', '7.5 %']	['12,000 dollar']	0.0901100077042
+['two account', '7.5 %']	['6 % simple interest']	0.309663413007
+['two account', '7.5 %']	['return']	0.0888375395985
+['two account', '7.5 %']	['first year']	0.0871340391838
+['two account', '7.5 %']	['year']	0.0223114282054
+['two account', '7.5 %']	['dollar']	0.0132263547461
+['two account', '7.5 %']	['840 dollar']	0.0901100077042
+['two account', '7.5 %']	['account']	0.56424350851
+['6 % simple interest', '7.5 %']	['12,000 dollar']	0.0988755105172
+['6 % simple interest', '7.5 %']	['two account']	0.387709641536
+['6 % simple interest', '7.5 %']	['return']	0.0976030424116
+['6 % simple interest', '7.5 %']	['first year']	0.0958995419968
+['6 % simple interest', '7.5 %']	['year']	0.0653895435861
+['6 % simple interest', '7.5 %']	['dollar']	0.012852508684
+['6 % simple interest', '7.5 %']	['840 dollar']	0.0988755105172
+['6 % simple interest', '7.5 %']	['account']	0.0914560578477
+['return', '7.5 %']	['12,000 dollar']	0.0827346205535
+['return', '7.5 %']	['two account']	0.0901100077042
+['return', '7.5 %']	['6 % simple interest']	0.0920786332799
+['return', '7.5 %']	['first year']	0.0827346205535
+['return', '7.5 %']	['year']	0.354699073748
+['return', '7.5 %']	['dollar']	0.324321592011
+['return', '7.5 %']	['840 dollar']	0.0827346205535
+['return', '7.5 %']	['account']	0.257212104865
+['first year', '7.5 %']	['12,000 dollar']	0.0901100077042
+['first year', '7.5 %']	['two account']	0.0871340391838
+['first year', '7.5 %']	['6 % simple interest']	0.107439128991
+['first year', '7.5 %']	['return']	0.0777864840342
+['first year', '7.5 %']	['year']	0.603144798613
+['first year', '7.5 %']	['dollar']	0.0132263547461
+['first year', '7.5 %']	['840 dollar']	0.0901100077042
+['first year', '7.5 %']	['account']	0.0774561735493
+['year', '7.5 %']	['12,000 dollar']	0.0450566866416
+['year', '7.5 %']	['two account']	0.0450566866416
+['year', '7.5 %']	['6 % simple interest']	0.156337607387
+['year', '7.5 %']	['return']	0.459675116938
+['year', '7.5 %']	['first year']	0.54862573137
+['year', '7.5 %']	['dollar']	0.390824975159
+['year', '7.5 %']	['840 dollar']	0.0450566866416
+['year', '7.5 %']	['account']	0.160423330863
+['dollar', '7.5 %']	['12,000 dollar']	0.384540526976
+['dollar', '7.5 %']	['two account']	0.0368028975308
+['dollar', '7.5 %']	['6 % simple interest']	0.0501553472069
+['dollar', '7.5 %']	['return']	0.444412299389
+['dollar', '7.5 %']	['first year']	0.0361569291624
+['dollar', '7.5 %']	['year']	0.393819402227
+['dollar', '7.5 %']	['840 dollar']	0.365401430504
+['dollar', '7.5 %']	['account']	0.221847339185
+['840 dollar', '7.5 %']	['12,000 dollar']	0.584269096576
+['840 dollar', '7.5 %']	['two account']	0.0901100077042
+['840 dollar', '7.5 %']	['6 % simple interest']	0.0941266761548
+['840 dollar', '7.5 %']	['return']	0.0777864840342
+['840 dollar', '7.5 %']	['first year']	0.0901100077042
+['840 dollar', '7.5 %']	['year']	0.0157405773894
+['840 dollar', '7.5 %']	['dollar']	0.276426897145
+['840 dollar', '7.5 %']	['account']	0.0774561735493
+['account', '7.5 %']	['12,000 dollar']	0.0703393045902
+['account', '7.5 %']	['two account']	0.64792663354
+['account', '7.5 %']	['6 % simple interest']	0.0841365058564
+['account', '7.5 %']	['return']	0.245788397128
+['account', '7.5 %']	['first year']	0.0737139440912
+['account', '7.5 %']	['year']	0.0845186609099
+['account', '7.5 %']	['dollar']	0.171530631185
+['account', '7.5 %']	['840 dollar']	0.0703393045902
+['12,000 dollar', '6 % simple interest']	['two account']	0.387709641536
+['12,000 dollar', '6 % simple interest']	['7.5 %']	0.0988755105172
+['12,000 dollar', '6 % simple interest']	['return']	0.0865519868472
+['12,000 dollar', '6 % simple interest']	['first year']	0.0958995419968
+['12,000 dollar', '6 % simple interest']	['year']	0.0782618840116
+['12,000 dollar', '6 % simple interest']	['dollar']	0.252626500486
+['12,000 dollar', '6 % simple interest']	['840 dollar']	0.630956863273
+['12,000 dollar', '6 % simple interest']	['account']	0.0857950278587
+['two account', '6 % simple interest']	['12,000 dollar']	0.0988755105172
+['two account', '6 % simple interest']	['7.5 %']	0.0988755105172
+['two account', '6 % simple interest']	['return']	0.0976030424116
+['two account', '6 % simple interest']	['first year']	0.0989672795224
+['two account', '6 % simple interest']	['year']	0.0653895435861
+['two account', '6 % simple interest']	['dollar']	0.015547544145
+['two account', '6 % simple interest']	['840 dollar']	0.0988755105172
+['two account', '6 % simple interest']	['account']	0.733282356735
+['7.5 %', '6 % simple interest']	['12,000 dollar']	0.0988755105172
+['7.5 %', '6 % simple interest']	['two account']	0.387709641536
+['7.5 %', '6 % simple interest']	['return']	0.0976030424116
+['7.5 %', '6 % simple interest']	['first year']	0.0958995419968
+['7.5 %', '6 % simple interest']	['year']	0.0653895435861
+['7.5 %', '6 % simple interest']	['dollar']	0.012852508684
+['7.5 %', '6 % simple interest']	['840 dollar']	0.0988755105172
+['7.5 %', '6 % simple interest']	['account']	0.0914560578477
+['return', '6 % simple interest']	['12,000 dollar']	0.152238479479
+['return', '6 % simple interest']	['two account']	0.453327242541
+['return', '6 % simple interest']	['7.5 %']	0.15961386663
+['return', '6 % simple interest']	['first year']	0.15328907348
+['return', '6 % simple interest']	['year']	0.458034988559
+['return', '6 % simple interest']	['dollar']	0.327401537301
+['return', '6 % simple interest']	['840 dollar']	0.152238479479
+['return', '6 % simple interest']	['account']	0.326289315287
+['first year', '6 % simple interest']	['12,000 dollar']	0.0988755105172
+['first year', '6 % simple interest']	['two account']	0.445494492494
+['first year', '6 % simple interest']	['7.5 %']	0.0988755105172
+['first year', '6 % simple interest']	['return']	0.0865519868472
+['first year', '6 % simple interest']	['year']	0.660827741604
+['first year', '6 % simple interest']	['dollar']	0.015547544145
+['first year', '6 % simple interest']	['840 dollar']	0.0988755105172
+['first year', '6 % simple interest']	['account']	0.0857950278587
+['year', '6 % simple interest']	['12,000 dollar']	0.0766829401903
+['year', '6 % simple interest']	['two account']	0.273358731085
+['year', '6 % simple interest']	['7.5 %']	0.0800697920695
+['year', '6 % simple interest']	['return']	0.436162870957
+['year', '6 % simple interest']	['first year']	0.595684274446
+['year', '6 % simple interest']	['dollar']	0.394005625383
+['year', '6 % simple interest']	['840 dollar']	0.0766829401903
+['year', '6 % simple interest']	['account']	0.189270975865
+['dollar', '6 % simple interest']	['12,000 dollar']	0.268236466135
+['dollar', '6 % simple interest']	['two account']	0.238123386725
+['dollar', '6 % simple interest']	['7.5 %']	0.0669060938041
+['dollar', '6 % simple interest']	['return']	0.418110400266
+['dollar', '6 % simple interest']	['first year']	0.0472491304741
+['dollar', '6 % simple interest']	['year']	0.56249682051
+['dollar', '6 % simple interest']	['840 dollar']	0.443204216793
+['dollar', '6 % simple interest']	['account']	0.262276478441
+['840 dollar', '6 % simple interest']	['12,000 dollar']	0.630956863273
+['840 dollar', '6 % simple interest']	['two account']	0.387709641536
+['840 dollar', '6 % simple interest']	['7.5 %']	0.0988755105172
+['840 dollar', '6 % simple interest']	['return']	0.0865519868472
+['840 dollar', '6 % simple interest']	['first year']	0.0958995419968
+['840 dollar', '6 % simple interest']	['year']	0.0782618840116
+['840 dollar', '6 % simple interest']	['dollar']	0.412085131558
+['840 dollar', '6 % simple interest']	['account']	0.0857950278587
+['account', '6 % simple interest']	['12,000 dollar']	0.125502508807
+['account', '6 % simple interest']	['two account']	0.84456908742
+['account', '6 % simple interest']	['7.5 %']	0.128877148308
+['account', '6 % simple interest']	['return']	0.300951601344
+['account', '6 % simple interest']	['first year']	0.129255959069
+['account', '6 % simple interest']	['year']	0.2007335875
+['account', '6 % simple interest']	['dollar']	0.233386595678
+['account', '6 % simple interest']	['840 dollar']	0.125502508807
+['12,000 dollar', 'return']	['two account']	0.0901100077042
+['12,000 dollar', 'return']	['7.5 %']	0.0901100077042
+['12,000 dollar', 'return']	['6 % simple interest']	0.0920786332799
+['12,000 dollar', 'return']	['first year']	0.0827346205535
+['12,000 dollar', 'return']	['year']	0.376634633849
+['12,000 dollar', 'return']	['dollar']	0.520792226227
+['12,000 dollar', 'return']	['840 dollar']	0.538007739106
+['12,000 dollar', 'return']	['account']	0.309877129232
+['two account', 'return']	['12,000 dollar']	0.0827346205535
+['two account', 'return']	['7.5 %']	0.0901100077042
+['two account', 'return']	['6 % simple interest']	0.324937900996
+['two account', 'return']	['first year']	0.083785214554
+['two account', 'return']	['year']	0.354699073748
+['two account', 'return']	['dollar']	0.354376067625
+['two account', 'return']	['840 dollar']	0.0827346205535
+['two account', 'return']	['account']	0.786720820053
+['7.5 %', 'return']	['12,000 dollar']	0.0827346205535
+['7.5 %', 'return']	['two account']	0.0901100077042
+['7.5 %', 'return']	['6 % simple interest']	0.0920786332799
+['7.5 %', 'return']	['first year']	0.0827346205535
+['7.5 %', 'return']	['year']	0.354699073748
+['7.5 %', 'return']	['dollar']	0.324321592011
+['7.5 %', 'return']	['840 dollar']	0.0827346205535
+['7.5 %', 'return']	['account']	0.257212104865
+['6 % simple interest', 'return']	['12,000 dollar']	0.152238479479
+['6 % simple interest', 'return']	['two account']	0.453327242541
+['6 % simple interest', 'return']	['7.5 %']	0.15961386663
+['6 % simple interest', 'return']	['first year']	0.15328907348
+['6 % simple interest', 'return']	['year']	0.458034988559
+['6 % simple interest', 'return']	['dollar']	0.327401537301
+['6 % simple interest', 'return']	['840 dollar']	0.152238479479
+['6 % simple interest', 'return']	['account']	0.326289315287
+['first year', 'return']	['12,000 dollar']	0.0827346205535
+['first year', 'return']	['two account']	0.0871340391838
+['first year', 'return']	['7.5 %']	0.0901100077042
+['first year', 'return']	['6 % simple interest']	0.105391086116
+['first year', 'return']	['year']	0.707819995046
+['first year', 'return']	['dollar']	0.359246197495
+['first year', 'return']	['840 dollar']	0.0827346205535
+['first year', 'return']	['account']	0.316714990217
+['year', 'return']	['12,000 dollar']	0.045123944119
+['year', 'return']	['two account']	0.0450566866416
+['year', 'return']	['7.5 %']	0.0499586900359
+['year', 'return']	['6 % simple interest']	0.156337607387
+['year', 'return']	['first year']	0.630021752799
+['year', 'return']	['dollar']	0.0669300373225
+['year', 'return']	['840 dollar']	0.045123944119
+['year', 'return']	['account']	0.137797068236
+['dollar', 'return']	['12,000 dollar']	0.345399931471
+['dollar', 'return']	['two account']	0.0368028975308
+['dollar', 'return']	['7.5 %']	0.0384978040692
+['dollar', 'return']	['6 % simple interest']	0.0501553472069
+['dollar', 'return']	['first year']	0.0362241866398
+['dollar', 'return']	['year']	0.0691308135969
+['dollar', 'return']	['840 dollar']	0.435102054266
+['dollar', 'return']	['account']	0.0568269431223
+['840 dollar', 'return']	['12,000 dollar']	0.538007739106
+['840 dollar', 'return']	['two account']	0.0901100077042
+['840 dollar', 'return']	['7.5 %']	0.0901100077042
+['840 dollar', 'return']	['6 % simple interest']	0.0920786332799
+['840 dollar', 'return']	['first year']	0.0827346205535
+['840 dollar', 'return']	['year']	0.376634633849
+['840 dollar', 'return']	['dollar']	0.682230731736
+['840 dollar', 'return']	['account']	0.309877129232
+['account', 'return']	['12,000 dollar']	0.0669904799604
+['account', 'return']	['two account']	0.64792663354
+['account', 'return']	['7.5 %']	0.0737139440912
+['account', 'return']	['6 % simple interest']	0.0841365058564
+['account', 'return']	['first year']	0.0696933362217
+['account', 'return']	['year']	0.279104762018
+['account', 'return']	['dollar']	0.0954127874726
+['account', 'return']	['840 dollar']	0.0669904799604
+['12,000 dollar', 'first year']	['two account']	0.0871340391838
+['12,000 dollar', 'first year']	['7.5 %']	0.0901100077042
+['12,000 dollar', 'first year']	['6 % simple interest']	0.107439128991
+['12,000 dollar', 'first year']	['return']	0.0744376594044
+['12,000 dollar', 'first year']	['year']	0.669605278869
+['12,000 dollar', 'first year']	['dollar']	0.345297574209
+['12,000 dollar', 'first year']	['840 dollar']	0.584269096576
+['12,000 dollar', 'first year']	['account']	0.0741073489195
+['two account', 'first year']	['12,000 dollar']	0.0901100077042
+['two account', 'first year']	['7.5 %']	0.0901100077042
+['two account', 'first year']	['6 % simple interest']	0.381093383142
+['two account', 'first year']	['return']	0.0777864840342
+['two account', 'first year']	['year']	0.603144798613
+['two account', 'first year']	['dollar']	0.0143499502517
+['two account', 'first year']	['840 dollar']	0.0901100077042
+['two account', 'first year']	['account']	0.644629107832
+['7.5 %', 'first year']	['12,000 dollar']	0.0901100077042
+['7.5 %', 'first year']	['two account']	0.0871340391838
+['7.5 %', 'first year']	['6 % simple interest']	0.107439128991
+['7.5 %', 'first year']	['return']	0.0777864840342
+['7.5 %', 'first year']	['year']	0.603144798613
+['7.5 %', 'first year']	['dollar']	0.0132263547461
+['7.5 %', 'first year']	['840 dollar']	0.0901100077042
+['7.5 %', 'first year']	['account']	0.0774561735493
+['6 % simple interest', 'first year']	['12,000 dollar']	0.0988755105172
+['6 % simple interest', 'first year']	['two account']	0.445494492494
+['6 % simple interest', 'first year']	['7.5 %']	0.0988755105172
+['6 % simple interest', 'first year']	['return']	0.0865519868472
+['6 % simple interest', 'first year']	['year']	0.660827741604
+['6 % simple interest', 'first year']	['dollar']	0.015547544145
+['6 % simple interest', 'first year']	['840 dollar']	0.0988755105172
+['6 % simple interest', 'first year']	['account']	0.0857950278587
+['return', 'first year']	['12,000 dollar']	0.0827346205535
+['return', 'first year']	['two account']	0.0871340391838
+['return', 'first year']	['7.5 %']	0.0901100077042
+['return', 'first year']	['6 % simple interest']	0.105391086116
+['return', 'first year']	['year']	0.707819995046
+['return', 'first year']	['dollar']	0.359246197495
+['return', 'first year']	['840 dollar']	0.0827346205535
+['return', 'first year']	['account']	0.316714990217
+['year', 'first year']	['12,000 dollar']	0.175376642579
+['year', 'first year']	['two account']	0.155934126937
+['year', 'first year']	['7.5 %']	0.107088563456
+['year', 'first year']	['6 % simple interest']	0.395554718808
+['year', 'first year']	['return']	0.527961216822
+['year', 'first year']	['dollar']	0.539371830202
+['year', 'first year']	['840 dollar']	0.175376642579
+['year', 'first year']	['account']	0.364706541376
+['dollar', 'first year']	['12,000 dollar']	0.384540526976
+['dollar', 'first year']	['two account']	0.0496026845292
+['dollar', 'first year']	['7.5 %']	0.0384978040692
+['dollar', 'first year']	['6 % simple interest']	0.0611464906881
+['dollar', 'first year']	['return']	0.443042591929
+['dollar', 'first year']	['year']	0.746661006088
+['dollar', 'first year']	['840 dollar']	0.365401430504
+['dollar', 'first year']	['account']	0.284866264704
+['840 dollar', 'first year']	['12,000 dollar']	0.584269096576
+['840 dollar', 'first year']	['two account']	0.0871340391838
+['840 dollar', 'first year']	['7.5 %']	0.0901100077042
+['840 dollar', 'first year']	['6 % simple interest']	0.107439128991
+['840 dollar', 'first year']	['return']	0.0744376594044
+['840 dollar', 'first year']	['year']	0.669605278869
+['840 dollar', 'first year']	['dollar']	0.384528877052
+['840 dollar', 'first year']	['account']	0.0741073489195
+['account', 'first year']	['12,000 dollar']	0.0703393045902
+['account', 'first year']	['two account']	0.741101995901
+['account', 'first year']	['7.5 %']	0.0737139440912
+['account', 'first year']	['6 % simple interest']	0.100803737974
+['account', 'first year']	['return']	0.308646061762
+['account', 'first year']	['year']	0.652934284154
+['account', 'first year']	['dollar']	0.234516109247
+['account', 'first year']	['840 dollar']	0.0703393045902
+['12,000 dollar', 'year']	['two account']	0.0450566866416
+['12,000 dollar', 'year']	['7.5 %']	0.0499586900359
+['12,000 dollar', 'year']	['6 % simple interest']	0.156337607387
+['12,000 dollar', 'year']	['return']	0.453933604196
+['12,000 dollar', 'year']	['first year']	0.54862573137
+['12,000 dollar', 'year']	['dollar']	0.533274110285
+['12,000 dollar', 'year']	['840 dollar']	0.210464140721
+['12,000 dollar', 'year']	['account']	0.17870259112
+['two account', 'year']	['12,000 dollar']	0.0450566866416
+['two account', 'year']	['7.5 %']	0.0499586900359
+['two account', 'year']	['6 % simple interest']	0.317751470983
+['two account', 'year']	['return']	0.459675116938
+['two account', 'year']	['first year']	0.637922241913
+['two account', 'year']	['dollar']	0.420980155708
+['two account', 'year']	['840 dollar']	0.0450566866416
+['two account', 'year']	['account']	0.615542692789
+['7.5 %', 'year']	['12,000 dollar']	0.0450566866416
+['7.5 %', 'year']	['two account']	0.0450566866416
+['7.5 %', 'year']	['6 % simple interest']	0.156337607387
+['7.5 %', 'year']	['return']	0.459675116938
+['7.5 %', 'year']	['first year']	0.54862573137
+['7.5 %', 'year']	['dollar']	0.390824975159
+['7.5 %', 'year']	['840 dollar']	0.0450566866416
+['7.5 %', 'year']	['account']	0.160423330863
+['6 % simple interest', 'year']	['12,000 dollar']	0.0766829401903
+['6 % simple interest', 'year']	['two account']	0.273358731085
+['6 % simple interest', 'year']	['7.5 %']	0.0800697920695
+['6 % simple interest', 'year']	['return']	0.436162870957
+['6 % simple interest', 'year']	['first year']	0.595684274446
+['6 % simple interest', 'year']	['dollar']	0.394005625383
+['6 % simple interest', 'year']	['840 dollar']	0.0766829401903
+['6 % simple interest', 'year']	['account']	0.189270975865
+['return', 'year']	['12,000 dollar']	0.045123944119
+['return', 'year']	['two account']	0.0450566866416
+['return', 'year']	['7.5 %']	0.0499586900359
+['return', 'year']	['6 % simple interest']	0.156337607387
+['return', 'year']	['first year']	0.630021752799
+['return', 'year']	['dollar']	0.0669300373225
+['return', 'year']	['840 dollar']	0.045123944119
+['return', 'year']	['account']	0.137797068236
+['first year', 'year']	['12,000 dollar']	0.175376642579
+['first year', 'year']	['two account']	0.155934126937
+['first year', 'year']	['7.5 %']	0.107088563456
+['first year', 'year']	['6 % simple interest']	0.395554718808
+['first year', 'year']	['return']	0.527961216822
+['first year', 'year']	['dollar']	0.539371830202
+['first year', 'year']	['840 dollar']	0.175376642579
+['first year', 'year']	['account']	0.364706541376
+['dollar', 'year']	['12,000 dollar']	0.345399931471
+['dollar', 'year']	['two account']	0.0160749451882
+['dollar', 'year']	['7.5 %']	0.019654627282
+['dollar', 'year']	['6 % simple interest']	0.0757264863708
+['dollar', 'year']	['return']	0.033226291507
+['dollar', 'year']	['first year']	0.523482718372
+['dollar', 'year']	['840 dollar']	0.423299789367
+['dollar', 'year']	['account']	0.13647011685
+['840 dollar', 'year']	['12,000 dollar']	0.210464140721
+['840 dollar', 'year']	['two account']	0.0450566866416
+['840 dollar', 'year']	['7.5 %']	0.0499586900359
+['840 dollar', 'year']	['6 % simple interest']	0.156337607387
+['840 dollar', 'year']	['return']	0.453933604196
+['840 dollar', 'year']	['first year']	0.54862573137
+['840 dollar', 'year']	['dollar']	0.723710631667
+['840 dollar', 'year']	['account']	0.17870259112
+['account', 'year']	['12,000 dollar']	0.0368701550083
+['account', 'year']	['two account']	0.435102054266
+['account', 'year']	['7.5 %']	0.0384978040692
+['account', 'year']	['6 % simple interest']	0.0938618772783
+['account', 'year']	['return']	0.204291665512
+['account', 'year']	['first year']	0.452043922047
+['account', 'year']	['dollar']	0.136980115225
+['account', 'year']	['840 dollar']	0.0368701550083
+['12,000 dollar', 'dollar']	['two account']	0.177448801378
+['12,000 dollar', 'dollar']	['7.5 %']	0.101538623942
+['12,000 dollar', 'dollar']	['6 % simple interest']	0.324358819701
+['12,000 dollar', 'dollar']	['return']	0.519126414912
+['12,000 dollar', 'dollar']	['first year']	0.183197852817
+['12,000 dollar', 'dollar']	['year']	0.539371830202
+['12,000 dollar', 'dollar']	['840 dollar']	0.610690210365
+['12,000 dollar', 'dollar']	['account']	0.436313328298
+['two account', 'dollar']	['12,000 dollar']	0.384540526976
+['two account', 'dollar']	['7.5 %']	0.0384978040692
+['two account', 'dollar']	['6 % simple interest']	0.291230731358
+['two account', 'dollar']	['return']	0.444412299389
+['two account', 'dollar']	['first year']	0.0496026845292
+['two account', 'dollar']	['year']	0.393819402227
+['two account', 'dollar']	['840 dollar']	0.365401430504
+['two account', 'dollar']	['account']	0.650844634612
+['7.5 %', 'dollar']	['12,000 dollar']	0.384540526976
+['7.5 %', 'dollar']	['two account']	0.0368028975308
+['7.5 %', 'dollar']	['6 % simple interest']	0.0501553472069
+['7.5 %', 'dollar']	['return']	0.444412299389
+['7.5 %', 'dollar']	['first year']	0.0361569291624
+['7.5 %', 'dollar']	['year']	0.393819402227
+['7.5 %', 'dollar']	['840 dollar']	0.365401430504
+['7.5 %', 'dollar']	['account']	0.221847339185
+['6 % simple interest', 'dollar']	['12,000 dollar']	0.268236466135
+['6 % simple interest', 'dollar']	['two account']	0.238123386725
+['6 % simple interest', 'dollar']	['7.5 %']	0.0669060938041
+['6 % simple interest', 'dollar']	['return']	0.418110400266
+['6 % simple interest', 'dollar']	['first year']	0.0472491304741
+['6 % simple interest', 'dollar']	['year']	0.56249682051
+['6 % simple interest', 'dollar']	['840 dollar']	0.443204216793
+['6 % simple interest', 'dollar']	['account']	0.262276478441
+['return', 'dollar']	['12,000 dollar']	0.345399931471
+['return', 'dollar']	['two account']	0.0368028975308
+['return', 'dollar']	['7.5 %']	0.0384978040692
+['return', 'dollar']	['6 % simple interest']	0.0501553472069
+['return', 'dollar']	['first year']	0.0362241866398
+['return', 'dollar']	['year']	0.0691308135969
+['return', 'dollar']	['840 dollar']	0.435102054266
+['return', 'dollar']	['account']	0.0568269431223
+['first year', 'dollar']	['12,000 dollar']	0.384540526976
+['first year', 'dollar']	['two account']	0.0496026845292
+['first year', 'dollar']	['7.5 %']	0.0384978040692
+['first year', 'dollar']	['6 % simple interest']	0.0611464906881
+['first year', 'dollar']	['return']	0.443042591929
+['first year', 'dollar']	['year']	0.746661006088
+['first year', 'dollar']	['840 dollar']	0.365401430504
+['first year', 'dollar']	['account']	0.284866264704
+['year', 'dollar']	['12,000 dollar']	0.345399931471
+['year', 'dollar']	['two account']	0.0160749451882
+['year', 'dollar']	['7.5 %']	0.019654627282
+['year', 'dollar']	['6 % simple interest']	0.0757264863708
+['year', 'dollar']	['return']	0.033226291507
+['year', 'dollar']	['first year']	0.523482718372
+['year', 'dollar']	['840 dollar']	0.423299789367
+['year', 'dollar']	['account']	0.13647011685
+['840 dollar', 'dollar']	['12,000 dollar']	0.543445645363
+['840 dollar', 'dollar']	['two account']	0.177448801378
+['840 dollar', 'dollar']	['7.5 %']	0.101538623942
+['840 dollar', 'dollar']	['6 % simple interest']	0.324358819701
+['840 dollar', 'dollar']	['return']	0.519126414912
+['840 dollar', 'dollar']	['first year']	0.183197852817
+['840 dollar', 'dollar']	['year']	0.539371830202
+['840 dollar', 'dollar']	['account']	0.436313328298
+['account', 'dollar']	['12,000 dollar']	0.359760932789
+['account', 'dollar']	['two account']	0.435102054266
+['account', 'dollar']	['7.5 %']	0.100575651751
+['account', 'dollar']	['6 % simple interest']	0.112233194889
+['account', 'dollar']	['return']	0.245124998845
+['account', 'dollar']	['first year']	0.0982347768443
+['account', 'dollar']	['year']	0.372680423947
+['account', 'dollar']	['840 dollar']	0.435102054266
+['12,000 dollar', '840 dollar']	['two account']	0.139258682248
+['12,000 dollar', '840 dollar']	['7.5 %']	0.139258682248
+['12,000 dollar', '840 dollar']	['6 % simple interest']	0.315265418903
+['12,000 dollar', '840 dollar']	['return']	0.360804929274
+['12,000 dollar', '840 dollar']	['first year']	0.139258682248
+['12,000 dollar', '840 dollar']	['year']	0.173050136425
+['12,000 dollar', '840 dollar']	['dollar']	0.674206488017
+['12,000 dollar', '840 dollar']	['account']	0.386965255933
+['two account', '840 dollar']	['12,000 dollar']	0.584269096576
+['two account', '840 dollar']	['7.5 %']	0.0901100077042
+['two account', '840 dollar']	['6 % simple interest']	0.309663413007
+['two account', '840 dollar']	['return']	0.0777864840342
+['two account', '840 dollar']	['first year']	0.0871340391838
+['two account', '840 dollar']	['year']	0.0157405773894
+['two account', '840 dollar']	['dollar']	0.384528877052
+['two account', '840 dollar']	['account']	0.644629107832
+['7.5 %', '840 dollar']	['12,000 dollar']	0.584269096576
+['7.5 %', '840 dollar']	['two account']	0.0901100077042
+['7.5 %', '840 dollar']	['6 % simple interest']	0.0941266761548
+['7.5 %', '840 dollar']	['return']	0.0777864840342
+['7.5 %', '840 dollar']	['first year']	0.0901100077042
+['7.5 %', '840 dollar']	['year']	0.0157405773894
+['7.5 %', '840 dollar']	['dollar']	0.276426897145
+['7.5 %', '840 dollar']	['account']	0.0774561735493
+['6 % simple interest', '840 dollar']	['12,000 dollar']	0.630956863273
+['6 % simple interest', '840 dollar']	['two account']	0.387709641536
+['6 % simple interest', '840 dollar']	['7.5 %']	0.0988755105172
+['6 % simple interest', '840 dollar']	['return']	0.0865519868472
+['6 % simple interest', '840 dollar']	['first year']	0.0958995419968
+['6 % simple interest', '840 dollar']	['year']	0.0782618840116
+['6 % simple interest', '840 dollar']	['dollar']	0.412085131558
+['6 % simple interest', '840 dollar']	['account']	0.0857950278587
+['return', '840 dollar']	['12,000 dollar']	0.538007739106
+['return', '840 dollar']	['two account']	0.0901100077042
+['return', '840 dollar']	['7.5 %']	0.0901100077042
+['return', '840 dollar']	['6 % simple interest']	0.0920786332799
+['return', '840 dollar']	['first year']	0.0827346205535
+['return', '840 dollar']	['year']	0.376634633849
+['return', '840 dollar']	['dollar']	0.682230731736
+['return', '840 dollar']	['account']	0.309877129232
+['first year', '840 dollar']	['12,000 dollar']	0.584269096576
+['first year', '840 dollar']	['two account']	0.0871340391838
+['first year', '840 dollar']	['7.5 %']	0.0901100077042
+['first year', '840 dollar']	['6 % simple interest']	0.107439128991
+['first year', '840 dollar']	['return']	0.0744376594044
+['first year', '840 dollar']	['year']	0.669605278869
+['first year', '840 dollar']	['dollar']	0.384528877052
+['first year', '840 dollar']	['account']	0.0741073489195
+['year', '840 dollar']	['12,000 dollar']	0.210464140721
+['year', '840 dollar']	['two account']	0.0450566866416
+['year', '840 dollar']	['7.5 %']	0.0499586900359
+['year', '840 dollar']	['6 % simple interest']	0.156337607387
+['year', '840 dollar']	['return']	0.453933604196
+['year', '840 dollar']	['first year']	0.54862573137
+['year', '840 dollar']	['dollar']	0.723710631667
+['year', '840 dollar']	['account']	0.17870259112
+['dollar', '840 dollar']	['12,000 dollar']	0.543445645363
+['dollar', '840 dollar']	['two account']	0.177448801378
+['dollar', '840 dollar']	['7.5 %']	0.101538623942
+['dollar', '840 dollar']	['6 % simple interest']	0.324358819701
+['dollar', '840 dollar']	['return']	0.519126414912
+['dollar', '840 dollar']	['first year']	0.183197852817
+['dollar', '840 dollar']	['year']	0.539371830202
+['dollar', '840 dollar']	['account']	0.436313328298
+['account', '840 dollar']	['12,000 dollar']	0.465538040018
+['account', '840 dollar']	['two account']	0.64792663354
+['account', '840 dollar']	['7.5 %']	0.0737139440912
+['account', '840 dollar']	['6 % simple interest']	0.0841365058564
+['account', '840 dollar']	['return']	0.306678330646
+['account', '840 dollar']	['first year']	0.0737139440912
+['account', '840 dollar']	['year']	0.100640180485
+['account', '840 dollar']	['dollar']	0.681036942304
+['12,000 dollar', 'account']	['two account']	0.64792663354
+['12,000 dollar', 'account']	['7.5 %']	0.0737139440912
+['12,000 dollar', 'account']	['6 % simple interest']	0.0841365058564
+['12,000 dollar', 'account']	['return']	0.306678330646
+['12,000 dollar', 'account']	['first year']	0.0737139440912
+['12,000 dollar', 'account']	['year']	0.100640180485
+['12,000 dollar', 'account']	['dollar']	0.44367122994
+['12,000 dollar', 'account']	['840 dollar']	0.465538040018
+['two account', 'account']	['12,000 dollar']	0.21925775957
+['two account', 'account']	['7.5 %']	0.139259023173
+['two account', 'account']	['6 % simple interest']	0.672398611728
+['two account', 'account']	['return']	0.470900544842
+['two account', 'account']	['first year']	0.223557185055
+['two account', 'account']	['year']	0.205736101323
+['two account', 'account']	['dollar']	0.346829724163
+['two account', 'account']	['840 dollar']	0.21925775957
+['7.5 %', 'account']	['12,000 dollar']	0.0703393045902
+['7.5 %', 'account']	['two account']	0.64792663354
+['7.5 %', 'account']	['6 % simple interest']	0.0841365058564
+['7.5 %', 'account']	['return']	0.245788397128
+['7.5 %', 'account']	['first year']	0.0737139440912
+['7.5 %', 'account']	['year']	0.0845186609099
+['7.5 %', 'account']	['dollar']	0.171530631185
+['7.5 %', 'account']	['840 dollar']	0.0703393045902
+['6 % simple interest', 'account']	['12,000 dollar']	0.125502508807
+['6 % simple interest', 'account']	['two account']	0.84456908742
+['6 % simple interest', 'account']	['7.5 %']	0.128877148308
+['6 % simple interest', 'account']	['return']	0.300951601344
+['6 % simple interest', 'account']	['first year']	0.129255959069
+['6 % simple interest', 'account']	['year']	0.2007335875
+['6 % simple interest', 'account']	['dollar']	0.233386595678
+['6 % simple interest', 'account']	['840 dollar']	0.125502508807
+['return', 'account']	['12,000 dollar']	0.0669904799604
+['return', 'account']	['two account']	0.64792663354
+['return', 'account']	['7.5 %']	0.0737139440912
+['return', 'account']	['6 % simple interest']	0.0841365058564
+['return', 'account']	['first year']	0.0696933362217
+['return', 'account']	['year']	0.279104762018
+['return', 'account']	['dollar']	0.0954127874726
+['return', 'account']	['840 dollar']	0.0669904799604
+['first year', 'account']	['12,000 dollar']	0.0703393045902
+['first year', 'account']	['two account']	0.741101995901
+['first year', 'account']	['7.5 %']	0.0737139440912
+['first year', 'account']	['6 % simple interest']	0.100803737974
+['first year', 'account']	['return']	0.308646061762
+['first year', 'account']	['year']	0.652934284154
+['first year', 'account']	['dollar']	0.234516109247
+['first year', 'account']	['840 dollar']	0.0703393045902
+['year', 'account']	['12,000 dollar']	0.0368701550083
+['year', 'account']	['two account']	0.435102054266
+['year', 'account']	['7.5 %']	0.0384978040692
+['year', 'account']	['6 % simple interest']	0.0938618772783
+['year', 'account']	['return']	0.204291665512
+['year', 'account']	['first year']	0.452043922047
+['year', 'account']	['dollar']	0.136980115225
+['year', 'account']	['840 dollar']	0.0368701550083
+['dollar', 'account']	['12,000 dollar']	0.359760932789
+['dollar', 'account']	['two account']	0.435102054266
+['dollar', 'account']	['7.5 %']	0.100575651751
+['dollar', 'account']	['6 % simple interest']	0.112233194889
+['dollar', 'account']	['return']	0.245124998845
+['dollar', 'account']	['first year']	0.0982347768443
+['dollar', 'account']	['year']	0.372680423947
+['dollar', 'account']	['840 dollar']	0.435102054266
+['840 dollar', 'account']	['12,000 dollar']	0.465538040018
+['840 dollar', 'account']	['two account']	0.64792663354
+['840 dollar', 'account']	['7.5 %']	0.0737139440912
+['840 dollar', 'account']	['6 % simple interest']	0.0841365058564
+['840 dollar', 'account']	['return']	0.306678330646
+['840 dollar', 'account']	['first year']	0.0737139440912
+['840 dollar', 'account']	['year']	0.100640180485
+['840 dollar', 'account']	['dollar']	0.681036942304

@@ -1,0 +1,15 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD 0.5))
+      (PP (IN of) (NP (DT a) (JJ certain) (NN number))))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (CD 10))
+        (PP
+          (NP (QP (JJR more) (IN than) (CD 0.1667)))
+          (IN of)
+          (NP (DT a) (NN number)))))
+    (. .)))
+(ROOT (S (VP (VB Find) (NP (DT the) (NN number))) (. .)))

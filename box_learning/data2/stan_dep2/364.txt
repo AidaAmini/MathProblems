@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP
+      (NP (JJ High) (NN school))
+      (VP (VBG graduating) (NP (NN class))))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN made)
+        (PRT (RP up))
+        (PP (IN of) (NP (CD 466) (NNS students)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (QP (CD 212) (JJR more)) (NNS girls))
+        (PP (IN than) (NP (NNS boys)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS boys))
+    (SQ (VBP are) (PP (IN in) (NP (DT the) (NN class))))
+    (. ?)))

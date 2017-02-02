@@ -1,0 +1,536 @@
+['airplane', '387 seat', 'of coach class seat', '4 time', 'seat', 'of first-class seat', 'first class', 'class and coach class coach class seat', 'plane']
+['airplane']	['387 seat']	0.0827346205535
+['airplane']	['of coach class seat']	0.094467200112
+['airplane']	['4 time']	0.0827346205535
+['airplane']	['seat']	0.0843579964561
+['airplane']	['of first-class seat']	0.094467200112
+['airplane']	['first class']	0.0827346205535
+['airplane']	['class and coach class coach class seat']	0.094467200112
+['387 seat']	['of coach class seat']	0.495627784194
+['387 seat']	['4 time']	0.0901100077042
+['387 seat']	['of first-class seat']	0.565570654525
+['387 seat']	['first class']	0.0901100077042
+['387 seat']	['class and coach class coach class seat']	0.309032243208
+['387 seat']	['plane']	0.0831172035382
+['of coach class seat']	['4 time']	0.0988755105172
+['of coach class seat']	['of first-class seat']	0.510223793642
+['of coach class seat']	['first class']	0.0988755105172
+['of coach class seat']	['class and coach class coach class seat']	0.261911908737
+['of coach class seat']	['plane']	0.0914560578477
+['4 time']	['seat']	0.0575843031668
+['4 time']	['of first-class seat']	0.0941266761548
+['4 time']	['first class']	0.0854147342737
+['4 time']	['class and coach class coach class seat']	0.0930268708939
+['4 time']	['plane']	0.153846998834
+['seat']	['first class']	0.0429586976843
+['seat']	['plane']	0.21265852042
+['of first-class seat']	['first class']	0.0988755105172
+['of first-class seat']	['class and coach class coach class seat']	0.272455118613
+['of first-class seat']	['plane']	0.0914560578477
+['first class']	['class and coach class coach class seat']	0.134221892186
+['first class']	['plane']	0.0713754979226
+['class and coach class coach class seat']	['plane']	0.0914560578477
+['387 seat', 'airplane']	['of coach class seat']	0.578450350707
+['387 seat', 'airplane']	['4 time']	0.0827346205535
+['387 seat', 'airplane']	['seat']	0.609779658192
+['387 seat', 'airplane']	['of first-class seat']	0.610446673047
+['387 seat', 'airplane']	['first class']	0.0827346205535
+['387 seat', 'airplane']	['class and coach class coach class seat']	0.432612986675
+['387 seat', 'airplane']	['plane']	0.670636965236
+['of coach class seat', 'airplane']	['387 seat']	0.641660244739
+['of coach class seat', 'airplane']	['4 time']	0.152238479479
+['of coach class seat', 'airplane']	['seat']	0.778780930847
+['of coach class seat', 'airplane']	['of first-class seat']	0.689450819099
+['of coach class seat', 'airplane']	['first class']	0.152238479479
+['of coach class seat', 'airplane']	['class and coach class coach class seat']	0.473184296906
+['of coach class seat', 'airplane']	['plane']	0.701688552538
+['4 time', 'airplane']	['387 seat']	0.0827346205535
+['4 time', 'airplane']	['of coach class seat']	0.0887553862424
+['4 time', 'airplane']	['seat']	0.561208302908
+['4 time', 'airplane']	['of first-class seat']	0.0887553862424
+['4 time', 'airplane']	['first class']	0.083785214554
+['4 time', 'airplane']	['class and coach class coach class seat']	0.094467200112
+['4 time', 'airplane']	['plane']	0.821614198171
+['seat', 'airplane']	['387 seat']	0.567461798234
+['seat', 'airplane']	['of coach class seat']	0.540856976955
+['seat', 'airplane']	['4 time']	0.0465787639079
+['seat', 'airplane']	['of first-class seat']	0.625194239809
+['seat', 'airplane']	['first class']	0.0465787639079
+['seat', 'airplane']	['class and coach class coach class seat']	0.437354127686
+['seat', 'airplane']	['plane']	0.272924368516
+['of first-class seat', 'airplane']	['387 seat']	0.549852778125
+['of first-class seat', 'airplane']	['of coach class seat']	0.578450350707
+['of first-class seat', 'airplane']	['4 time']	0.0827346205535
+['of first-class seat', 'airplane']	['seat']	0.739521882058
+['of first-class seat', 'airplane']	['first class']	0.0827346205535
+['of first-class seat', 'airplane']	['class and coach class coach class seat']	0.432612986675
+['of first-class seat', 'airplane']	['plane']	0.670636965236
+['first class', 'airplane']	['387 seat']	0.0827346205535
+['first class', 'airplane']	['of coach class seat']	0.0887553862424
+['first class', 'airplane']	['4 time']	0.083785214554
+['first class', 'airplane']	['seat']	0.561208302908
+['first class', 'airplane']	['of first-class seat']	0.0887553862424
+['first class', 'airplane']	['class and coach class coach class seat']	0.143741337426
+['first class', 'airplane']	['plane']	0.72328354609
+['class and coach class coach class seat', 'airplane']	['387 seat']	0.573326357841
+['class and coach class coach class seat', 'airplane']	['of coach class seat']	0.584021107374
+['class and coach class coach class seat', 'airplane']	['4 time']	0.0915001233665
+['class and coach class coach class seat', 'airplane']	['seat']	0.738158015605
+['class and coach class coach class seat', 'airplane']	['of first-class seat']	0.6211169322
+['class and coach class coach class seat', 'airplane']	['first class']	0.115443558092
+['class and coach class coach class seat', 'airplane']	['plane']	0.691957172806
+['plane', 'airplane']	['387 seat']	0.0939298741501
+['plane', 'airplane']	['of coach class seat']	0.124274830604
+['plane', 'airplane']	['4 time']	0.130048808393
+['plane', 'airplane']	['seat']	0.248149847564
+['plane', 'airplane']	['of first-class seat']	0.114408055456
+['plane', 'airplane']	['first class']	0.0669904799604
+['plane', 'airplane']	['class and coach class coach class seat']	0.124274830604
+['airplane', '387 seat']	['of coach class seat']	0.578450350707
+['airplane', '387 seat']	['4 time']	0.0827346205535
+['airplane', '387 seat']	['seat']	0.609779658192
+['airplane', '387 seat']	['of first-class seat']	0.610446673047
+['airplane', '387 seat']	['first class']	0.0827346205535
+['airplane', '387 seat']	['class and coach class coach class seat']	0.432612986675
+['airplane', '387 seat']	['plane']	0.670636965236
+['of coach class seat', '387 seat']	['airplane']	0.335573267153
+['of coach class seat', '387 seat']	['4 time']	0.127952343303
+['of coach class seat', '387 seat']	['seat']	0.761242131495
+['of coach class seat', '387 seat']	['of first-class seat']	0.636272003677
+['of coach class seat', '387 seat']	['first class']	0.127952343303
+['of coach class seat', '387 seat']	['class and coach class coach class seat']	0.484785496153
+['of coach class seat', '387 seat']	['plane']	0.312497682648
+['4 time', '387 seat']	['airplane']	0.0777864840342
+['4 time', '387 seat']	['of coach class seat']	0.600576515509
+['4 time', '387 seat']	['seat']	0.458743173179
+['4 time', '387 seat']	['of first-class seat']	0.632572837849
+['4 time', '387 seat']	['first class']	0.0871340391838
+['4 time', '387 seat']	['class and coach class coach class seat']	0.432612986675
+['4 time', '387 seat']	['plane']	0.134019865814
+['seat', '387 seat']	['airplane']	0.574540196867
+['seat', '387 seat']	['of coach class seat']	0.652109937842
+['seat', '387 seat']	['4 time']	0.114915343922
+['seat', '387 seat']	['of first-class seat']	0.724745969266
+['seat', '387 seat']	['first class']	0.114915343922
+['seat', '387 seat']	['class and coach class coach class seat']	0.604706536911
+['seat', '387 seat']	['plane']	0.552314208572
+['of first-class seat', '387 seat']	['airplane']	0.396311623265
+['of first-class seat', '387 seat']	['of coach class seat']	0.623158535241
+['of first-class seat', '387 seat']	['4 time']	0.188690699416
+['of first-class seat', '387 seat']	['seat']	0.777611737109
+['of first-class seat', '387 seat']	['first class']	0.188690699416
+['of first-class seat', '387 seat']	['class and coach class coach class seat']	0.474387942636
+['of first-class seat', '387 seat']	['plane']	0.373236038761
+['first class', '387 seat']	['airplane']	0.0777864840342
+['first class', '387 seat']	['of coach class seat']	0.600576515509
+['first class', '387 seat']	['4 time']	0.0871340391838
+['first class', '387 seat']	['seat']	0.458743173179
+['first class', '387 seat']	['of first-class seat']	0.632572837849
+['first class', '387 seat']	['class and coach class coach class seat']	0.415471557389
+['first class', '387 seat']	['plane']	0.0774561735493
+['class and coach class coach class seat', '387 seat']	['airplane']	0.335573267153
+['class and coach class coach class seat', '387 seat']	['of coach class seat']	0.642292880245
+['class and coach class coach class seat', '387 seat']	['4 time']	0.127952343303
+['class and coach class coach class seat', '387 seat']	['seat']	0.776056946309
+['class and coach class coach class seat', '387 seat']	['of first-class seat']	0.649709649865
+['class and coach class coach class seat', '387 seat']	['first class']	0.192645752086
+['class and coach class coach class seat', '387 seat']	['plane']	0.312497682648
+['plane', '387 seat']	['airplane']	0.780197023947
+['plane', '387 seat']	['of coach class seat']	0.479550587431
+['plane', '387 seat']	['4 time']	0.130048808393
+['plane', '387 seat']	['seat']	0.656862991525
+['plane', '387 seat']	['of first-class seat']	0.504757305777
+['plane', '387 seat']	['first class']	0.0703393045902
+['plane', '387 seat']	['class and coach class coach class seat']	0.369347772726
+['airplane', 'of coach class seat']	['387 seat']	0.641660244739
+['airplane', 'of coach class seat']	['4 time']	0.152238479479
+['airplane', 'of coach class seat']	['seat']	0.778780930847
+['airplane', 'of coach class seat']	['of first-class seat']	0.689450819099
+['airplane', 'of coach class seat']	['first class']	0.152238479479
+['airplane', 'of coach class seat']	['class and coach class coach class seat']	0.473184296906
+['airplane', 'of coach class seat']	['plane']	0.701688552538
+['387 seat', 'of coach class seat']	['airplane']	0.335573267153
+['387 seat', 'of coach class seat']	['4 time']	0.127952343303
+['387 seat', 'of coach class seat']	['seat']	0.761242131495
+['387 seat', 'of coach class seat']	['of first-class seat']	0.636272003677
+['387 seat', 'of coach class seat']	['first class']	0.127952343303
+['387 seat', 'of coach class seat']	['class and coach class coach class seat']	0.484785496153
+['387 seat', 'of coach class seat']	['plane']	0.312497682648
+['4 time', 'of coach class seat']	['airplane']	0.0865519868472
+['4 time', 'of coach class seat']	['387 seat']	0.630956863273
+['4 time', 'of coach class seat']	['seat']	0.589163795774
+['4 time', 'of coach class seat']	['of first-class seat']	0.666457283984
+['4 time', 'of coach class seat']	['first class']	0.0958995419968
+['4 time', 'of coach class seat']	['class and coach class coach class seat']	0.467165778388
+['4 time', 'of coach class seat']	['plane']	0.134177736781
+['seat', 'of coach class seat']	['airplane']	0.599621327467
+['seat', 'of coach class seat']	['387 seat']	0.796448043311
+['seat', 'of coach class seat']	['4 time']	0.135654152245
+['seat', 'of coach class seat']	['of first-class seat']	0.729777318914
+['seat', 'of coach class seat']	['first class']	0.135654152245
+['seat', 'of coach class seat']	['class and coach class coach class seat']	0.627947788557
+['seat', 'of coach class seat']	['plane']	0.540910460241
+['of first-class seat', 'of coach class seat']	['airplane']	0.335573267153
+['of first-class seat', 'of coach class seat']	['387 seat']	0.677704034048
+['of first-class seat', 'of coach class seat']	['4 time']	0.127952343303
+['of first-class seat', 'of coach class seat']	['seat']	0.747508962599
+['of first-class seat', 'of coach class seat']	['first class']	0.127952343303
+['of first-class seat', 'of coach class seat']	['class and coach class coach class seat']	0.488813273931
+['of first-class seat', 'of coach class seat']	['plane']	0.312497682648
+['first class', 'of coach class seat']	['airplane']	0.0865519868472
+['first class', 'of coach class seat']	['387 seat']	0.630956863273
+['first class', 'of coach class seat']	['4 time']	0.0958995419968
+['first class', 'of coach class seat']	['seat']	0.589163795774
+['first class', 'of coach class seat']	['of first-class seat']	0.666457283984
+['first class', 'of coach class seat']	['class and coach class coach class seat']	0.460538507075
+['first class', 'of coach class seat']	['plane']	0.0857950278587
+['class and coach class coach class seat', 'of coach class seat']	['airplane']	0.335573267153
+['class and coach class coach class seat', 'of coach class seat']	['387 seat']	0.575647647299
+['class and coach class coach class seat', 'of coach class seat']	['4 time']	0.127952343303
+['class and coach class coach class seat', 'of coach class seat']	['seat']	0.736145326235
+['class and coach class coach class seat', 'of coach class seat']	['of first-class seat']	0.561340612802
+['class and coach class coach class seat', 'of coach class seat']	['first class']	0.192645752086
+['class and coach class coach class seat', 'of coach class seat']	['plane']	0.312497682648
+['plane', 'of coach class seat']	['airplane']	0.750137500138
+['plane', 'of coach class seat']	['387 seat']	0.596104603149
+['plane', 'of coach class seat']	['4 time']	0.17186242783
+['plane', 'of coach class seat']	['seat']	0.740214174974
+['plane', 'of coach class seat']	['of first-class seat']	0.654507802463
+['plane', 'of coach class seat']	['first class']	0.125502508807
+['plane', 'of coach class seat']	['class and coach class coach class seat']	0.499832100258
+['airplane', '4 time']	['387 seat']	0.0827346205535
+['airplane', '4 time']	['of coach class seat']	0.0887553862424
+['airplane', '4 time']	['seat']	0.561208302908
+['airplane', '4 time']	['of first-class seat']	0.0887553862424
+['airplane', '4 time']	['first class']	0.083785214554
+['airplane', '4 time']	['class and coach class coach class seat']	0.094467200112
+['airplane', '4 time']	['plane']	0.821614198171
+['387 seat', '4 time']	['airplane']	0.0777864840342
+['387 seat', '4 time']	['of coach class seat']	0.600576515509
+['387 seat', '4 time']	['seat']	0.458743173179
+['387 seat', '4 time']	['of first-class seat']	0.632572837849
+['387 seat', '4 time']	['first class']	0.0871340391838
+['387 seat', '4 time']	['class and coach class coach class seat']	0.432612986675
+['387 seat', '4 time']	['plane']	0.134019865814
+['of coach class seat', '4 time']	['airplane']	0.0865519868472
+['of coach class seat', '4 time']	['387 seat']	0.630956863273
+['of coach class seat', '4 time']	['seat']	0.589163795774
+['of coach class seat', '4 time']	['of first-class seat']	0.666457283984
+['of coach class seat', '4 time']	['first class']	0.0958995419968
+['of coach class seat', '4 time']	['class and coach class coach class seat']	0.467165778388
+['of coach class seat', '4 time']	['plane']	0.134177736781
+['seat', '4 time']	['airplane']	0.56412007366
+['seat', '4 time']	['387 seat']	0.533909298188
+['seat', '4 time']	['of coach class seat']	0.539720623184
+['seat', '4 time']	['of first-class seat']	0.602917603907
+['seat', '4 time']	['first class']	0.0470331021924
+['seat', '4 time']	['class and coach class coach class seat']	0.44758019226
+['seat', '4 time']	['plane']	0.662024701122
+['of first-class seat', '4 time']	['airplane']	0.14729034296
+['of first-class seat', '4 time']	['387 seat']	0.653642048458
+['of first-class seat', '4 time']	['of coach class seat']	0.652046644343
+['of first-class seat', '4 time']	['seat']	0.656430722747
+['of first-class seat', '4 time']	['first class']	0.15663789811
+['of first-class seat', '4 time']	['class and coach class coach class seat']	0.473184296906
+['of first-class seat', '4 time']	['plane']	0.194916092894
+['first class', '4 time']	['airplane']	0.0854506877194
+['first class', '4 time']	['387 seat']	0.0901100077042
+['first class', '4 time']	['of coach class seat']	0.0941266761548
+['first class', '4 time']	['seat']	0.0575843031668
+['first class', '4 time']	['of first-class seat']	0.0941266761548
+['first class', '4 time']	['class and coach class coach class seat']	0.14477014401
+['first class', '4 time']	['plane']	0.170700713028
+['class and coach class coach class seat', '4 time']	['airplane']	0.0865519868472
+['class and coach class coach class seat', '4 time']	['387 seat']	0.601830528082
+['class and coach class coach class seat', '4 time']	['of coach class seat']	0.600235123966
+['class and coach class coach class seat', '4 time']	['seat']	0.572985324976
+['class and coach class coach class seat', '4 time']	['of first-class seat']	0.637330948793
+['class and coach class coach class seat', '4 time']	['first class']	0.120288680292
+['class and coach class coach class seat', '4 time']	['plane']	0.134177736781
+['plane', '4 time']	['airplane']	0.689095009637
+['plane', '4 time']	['387 seat']	0.0939298741501
+['plane', '4 time']	['of coach class seat']	0.124274830604
+['plane', '4 time']	['seat']	0.526662232753
+['plane', '4 time']	['of first-class seat']	0.114408055456
+['plane', '4 time']	['first class']	0.0714213956243
+['plane', '4 time']	['class and coach class coach class seat']	0.124274830604
+['airplane', 'seat']	['387 seat']	0.567461798234
+['airplane', 'seat']	['of coach class seat']	0.540856976955
+['airplane', 'seat']	['4 time']	0.0465787639079
+['airplane', 'seat']	['of first-class seat']	0.625194239809
+['airplane', 'seat']	['first class']	0.0465787639079
+['airplane', 'seat']	['class and coach class coach class seat']	0.437354127686
+['airplane', 'seat']	['plane']	0.272924368516
+['387 seat', 'seat']	['airplane']	0.574540196867
+['387 seat', 'seat']	['of coach class seat']	0.652109937842
+['387 seat', 'seat']	['4 time']	0.114915343922
+['387 seat', 'seat']	['of first-class seat']	0.724745969266
+['387 seat', 'seat']	['first class']	0.114915343922
+['387 seat', 'seat']	['class and coach class coach class seat']	0.604706536911
+['387 seat', 'seat']	['plane']	0.552314208572
+['of coach class seat', 'seat']	['airplane']	0.599621327467
+['of coach class seat', 'seat']	['387 seat']	0.796448043311
+['of coach class seat', 'seat']	['4 time']	0.135654152245
+['of coach class seat', 'seat']	['of first-class seat']	0.729777318914
+['of coach class seat', 'seat']	['first class']	0.135654152245
+['of coach class seat', 'seat']	['class and coach class coach class seat']	0.627947788557
+['of coach class seat', 'seat']	['plane']	0.540910460241
+['4 time', 'seat']	['airplane']	0.56412007366
+['4 time', 'seat']	['387 seat']	0.533909298188
+['4 time', 'seat']	['of coach class seat']	0.539720623184
+['4 time', 'seat']	['of first-class seat']	0.602917603907
+['4 time', 'seat']	['first class']	0.0470331021924
+['4 time', 'seat']	['class and coach class coach class seat']	0.44758019226
+['4 time', 'seat']	['plane']	0.662024701122
+['of first-class seat', 'seat']	['airplane']	0.574540196867
+['of first-class seat', 'seat']	['387 seat']	0.719704835126
+['of first-class seat', 'seat']	['of coach class seat']	0.610079791666
+['of first-class seat', 'seat']	['4 time']	0.114915343922
+['of first-class seat', 'seat']	['first class']	0.114915343922
+['of first-class seat', 'seat']	['class and coach class coach class seat']	0.562676390735
+['of first-class seat', 'seat']	['plane']	0.552314208572
+['first class', 'seat']	['airplane']	0.56412007366
+['first class', 'seat']	['387 seat']	0.533909298188
+['first class', 'seat']	['of coach class seat']	0.539720623184
+['first class', 'seat']	['4 time']	0.0470331021924
+['first class', 'seat']	['of first-class seat']	0.602917603907
+['first class', 'seat']	['class and coach class coach class seat']	0.527124877919
+['first class', 'seat']	['plane']	0.634367308956
+['class and coach class coach class seat', 'seat']	['airplane']	0.57335782564
+['class and coach class coach class seat', 'seat']	['387 seat']	0.705805020753
+['class and coach class coach class seat', 'seat']	['of coach class seat']	0.638036130633
+['class and coach class coach class seat', 'seat']	['4 time']	0.105257676474
+['class and coach class coach class seat', 'seat']	['of first-class seat']	0.709319169489
+['class and coach class coach class seat', 'seat']	['first class']	0.142284682593
+['class and coach class coach class seat', 'seat']	['plane']	0.51051398447
+['plane', 'seat']	['airplane']	0.292239053414
+['plane', 'seat']	['387 seat']	0.602561127042
+['plane', 'seat']	['of coach class seat']	0.618993094771
+['plane', 'seat']	['4 time']	0.141947311072
+['plane', 'seat']	['of first-class seat']	0.707532038298
+['plane', 'seat']	['first class']	0.109706780308
+['plane', 'seat']	['class and coach class coach class seat']	0.507589756389
+['airplane', 'of first-class seat']	['387 seat']	0.549852778125
+['airplane', 'of first-class seat']	['of coach class seat']	0.578450350707
+['airplane', 'of first-class seat']	['4 time']	0.0827346205535
+['airplane', 'of first-class seat']	['seat']	0.739521882058
+['airplane', 'of first-class seat']	['first class']	0.0827346205535
+['airplane', 'of first-class seat']	['class and coach class coach class seat']	0.432612986675
+['airplane', 'of first-class seat']	['plane']	0.670636965236
+['387 seat', 'of first-class seat']	['airplane']	0.396311623265
+['387 seat', 'of first-class seat']	['of coach class seat']	0.623158535241
+['387 seat', 'of first-class seat']	['4 time']	0.188690699416
+['387 seat', 'of first-class seat']	['seat']	0.777611737109
+['387 seat', 'of first-class seat']	['first class']	0.188690699416
+['387 seat', 'of first-class seat']	['class and coach class coach class seat']	0.474387942636
+['387 seat', 'of first-class seat']	['plane']	0.373236038761
+['of coach class seat', 'of first-class seat']	['airplane']	0.335573267153
+['of coach class seat', 'of first-class seat']	['387 seat']	0.677704034048
+['of coach class seat', 'of first-class seat']	['4 time']	0.127952343303
+['of coach class seat', 'of first-class seat']	['seat']	0.747508962599
+['of coach class seat', 'of first-class seat']	['first class']	0.127952343303
+['of coach class seat', 'of first-class seat']	['class and coach class coach class seat']	0.488813273931
+['of coach class seat', 'of first-class seat']	['plane']	0.312497682648
+['4 time', 'of first-class seat']	['airplane']	0.14729034296
+['4 time', 'of first-class seat']	['387 seat']	0.653642048458
+['4 time', 'of first-class seat']	['of coach class seat']	0.652046644343
+['4 time', 'of first-class seat']	['seat']	0.656430722747
+['4 time', 'of first-class seat']	['first class']	0.15663789811
+['4 time', 'of first-class seat']	['class and coach class coach class seat']	0.473184296906
+['4 time', 'of first-class seat']	['plane']	0.194916092894
+['seat', 'of first-class seat']	['airplane']	0.574540196867
+['seat', 'of first-class seat']	['387 seat']	0.719704835126
+['seat', 'of first-class seat']	['of coach class seat']	0.610079791666
+['seat', 'of first-class seat']	['4 time']	0.114915343922
+['seat', 'of first-class seat']	['first class']	0.114915343922
+['seat', 'of first-class seat']	['class and coach class coach class seat']	0.562676390735
+['seat', 'of first-class seat']	['plane']	0.552314208572
+['first class', 'of first-class seat']	['airplane']	0.14729034296
+['first class', 'of first-class seat']	['387 seat']	0.653642048458
+['first class', 'of first-class seat']	['of coach class seat']	0.652046644343
+['first class', 'of first-class seat']	['4 time']	0.15663789811
+['first class', 'of first-class seat']	['seat']	0.656430722747
+['first class', 'of first-class seat']	['class and coach class coach class seat']	0.466557025594
+['first class', 'of first-class seat']	['plane']	0.146533383972
+['class and coach class coach class seat', 'of first-class seat']	['airplane']	0.335573267153
+['class and coach class coach class seat', 'of first-class seat']	['387 seat']	0.653049873394
+['class and coach class coach class seat', 'of first-class seat']	['of coach class seat']	0.620214958167
+['class and coach class coach class seat', 'of first-class seat']	['4 time']	0.127952343303
+['class and coach class coach class seat', 'of first-class seat']	['seat']	0.736145326235
+['class and coach class coach class seat', 'of first-class seat']	['first class']	0.192645752086
+['class and coach class coach class seat', 'of first-class seat']	['plane']	0.312497682648
+['plane', 'of first-class seat']	['airplane']	0.780197023947
+['plane', 'of first-class seat']	['387 seat']	0.465538040018
+['plane', 'of first-class seat']	['of coach class seat']	0.479550587431
+['plane', 'of first-class seat']	['4 time']	0.132517944196
+['plane', 'of first-class seat']	['seat']	0.732127441942
+['plane', 'of first-class seat']	['first class']	0.0703393045902
+['plane', 'of first-class seat']	['class and coach class coach class seat']	0.369347772726
+['airplane', 'first class']	['387 seat']	0.0827346205535
+['airplane', 'first class']	['of coach class seat']	0.0887553862424
+['airplane', 'first class']	['4 time']	0.083785214554
+['airplane', 'first class']	['seat']	0.561208302908
+['airplane', 'first class']	['of first-class seat']	0.0887553862424
+['airplane', 'first class']	['class and coach class coach class seat']	0.143741337426
+['airplane', 'first class']	['plane']	0.72328354609
+['387 seat', 'first class']	['airplane']	0.0777864840342
+['387 seat', 'first class']	['of coach class seat']	0.600576515509
+['387 seat', 'first class']	['4 time']	0.0871340391838
+['387 seat', 'first class']	['seat']	0.458743173179
+['387 seat', 'first class']	['of first-class seat']	0.632572837849
+['387 seat', 'first class']	['class and coach class coach class seat']	0.415471557389
+['387 seat', 'first class']	['plane']	0.0774561735493
+['of coach class seat', 'first class']	['airplane']	0.0865519868472
+['of coach class seat', 'first class']	['387 seat']	0.630956863273
+['of coach class seat', 'first class']	['4 time']	0.0958995419968
+['of coach class seat', 'first class']	['seat']	0.589163795774
+['of coach class seat', 'first class']	['of first-class seat']	0.666457283984
+['of coach class seat', 'first class']	['class and coach class coach class seat']	0.460538507075
+['of coach class seat', 'first class']	['plane']	0.0857950278587
+['4 time', 'first class']	['airplane']	0.0854506877194
+['4 time', 'first class']	['387 seat']	0.0901100077042
+['4 time', 'first class']	['of coach class seat']	0.0941266761548
+['4 time', 'first class']	['seat']	0.0575843031668
+['4 time', 'first class']	['of first-class seat']	0.0941266761548
+['4 time', 'first class']	['class and coach class coach class seat']	0.14477014401
+['4 time', 'first class']	['plane']	0.170700713028
+['seat', 'first class']	['airplane']	0.56412007366
+['seat', 'first class']	['387 seat']	0.533909298188
+['seat', 'first class']	['of coach class seat']	0.539720623184
+['seat', 'first class']	['4 time']	0.0470331021924
+['seat', 'first class']	['of first-class seat']	0.602917603907
+['seat', 'first class']	['class and coach class coach class seat']	0.527124877919
+['seat', 'first class']	['plane']	0.634367308956
+['of first-class seat', 'first class']	['airplane']	0.14729034296
+['of first-class seat', 'first class']	['387 seat']	0.653642048458
+['of first-class seat', 'first class']	['of coach class seat']	0.652046644343
+['of first-class seat', 'first class']	['4 time']	0.15663789811
+['of first-class seat', 'first class']	['seat']	0.656430722747
+['of first-class seat', 'first class']	['class and coach class coach class seat']	0.466557025594
+['of first-class seat', 'first class']	['plane']	0.146533383972
+['class and coach class coach class seat', 'first class']	['airplane']	0.0865519868472
+['class and coach class coach class seat', 'first class']	['387 seat']	0.601830528082
+['class and coach class coach class seat', 'first class']	['of coach class seat']	0.600235123966
+['class and coach class coach class seat', 'first class']	['4 time']	0.0958995419968
+['class and coach class coach class seat', 'first class']	['seat']	0.572985324976
+['class and coach class coach class seat', 'first class']	['of first-class seat']	0.637330948793
+['class and coach class coach class seat', 'first class']	['plane']	0.0857950278587
+['plane', 'first class']	['airplane']	0.678909824452
+['plane', 'first class']	['387 seat']	0.0939298741501
+['plane', 'first class']	['of coach class seat']	0.124274830604
+['plane', 'first class']	['4 time']	0.177515609007
+['plane', 'first class']	['seat']	0.526662232753
+['plane', 'first class']	['of first-class seat']	0.114408055456
+['plane', 'first class']	['class and coach class coach class seat']	0.120037512088
+['airplane', 'class and coach class coach class seat']	['387 seat']	0.573326357841
+['airplane', 'class and coach class coach class seat']	['of coach class seat']	0.584021107374
+['airplane', 'class and coach class coach class seat']	['4 time']	0.0915001233665
+['airplane', 'class and coach class coach class seat']	['seat']	0.738158015605
+['airplane', 'class and coach class coach class seat']	['of first-class seat']	0.6211169322
+['airplane', 'class and coach class coach class seat']	['first class']	0.115443558092
+['airplane', 'class and coach class coach class seat']	['plane']	0.691957172806
+['387 seat', 'class and coach class coach class seat']	['airplane']	0.335573267153
+['387 seat', 'class and coach class coach class seat']	['of coach class seat']	0.642292880245
+['387 seat', 'class and coach class coach class seat']	['4 time']	0.127952343303
+['387 seat', 'class and coach class coach class seat']	['seat']	0.776056946309
+['387 seat', 'class and coach class coach class seat']	['of first-class seat']	0.649709649865
+['387 seat', 'class and coach class coach class seat']	['first class']	0.192645752086
+['387 seat', 'class and coach class coach class seat']	['plane']	0.312497682648
+['of coach class seat', 'class and coach class coach class seat']	['airplane']	0.335573267153
+['of coach class seat', 'class and coach class coach class seat']	['387 seat']	0.575647647299
+['of coach class seat', 'class and coach class coach class seat']	['4 time']	0.127952343303
+['of coach class seat', 'class and coach class coach class seat']	['seat']	0.736145326235
+['of coach class seat', 'class and coach class coach class seat']	['of first-class seat']	0.561340612802
+['of coach class seat', 'class and coach class coach class seat']	['first class']	0.192645752086
+['of coach class seat', 'class and coach class coach class seat']	['plane']	0.312497682648
+['4 time', 'class and coach class coach class seat']	['airplane']	0.0865519868472
+['4 time', 'class and coach class coach class seat']	['387 seat']	0.601830528082
+['4 time', 'class and coach class coach class seat']	['of coach class seat']	0.600235123966
+['4 time', 'class and coach class coach class seat']	['seat']	0.572985324976
+['4 time', 'class and coach class coach class seat']	['of first-class seat']	0.637330948793
+['4 time', 'class and coach class coach class seat']	['first class']	0.120288680292
+['4 time', 'class and coach class coach class seat']	['plane']	0.134177736781
+['seat', 'class and coach class coach class seat']	['airplane']	0.57335782564
+['seat', 'class and coach class coach class seat']	['387 seat']	0.705805020753
+['seat', 'class and coach class coach class seat']	['of coach class seat']	0.638036130633
+['seat', 'class and coach class coach class seat']	['4 time']	0.105257676474
+['seat', 'class and coach class coach class seat']	['of first-class seat']	0.709319169489
+['seat', 'class and coach class coach class seat']	['first class']	0.142284682593
+['seat', 'class and coach class coach class seat']	['plane']	0.51051398447
+['of first-class seat', 'class and coach class coach class seat']	['airplane']	0.335573267153
+['of first-class seat', 'class and coach class coach class seat']	['387 seat']	0.653049873394
+['of first-class seat', 'class and coach class coach class seat']	['of coach class seat']	0.620214958167
+['of first-class seat', 'class and coach class coach class seat']	['4 time']	0.127952343303
+['of first-class seat', 'class and coach class coach class seat']	['seat']	0.736145326235
+['of first-class seat', 'class and coach class coach class seat']	['first class']	0.192645752086
+['of first-class seat', 'class and coach class coach class seat']	['plane']	0.312497682648
+['first class', 'class and coach class coach class seat']	['airplane']	0.0865519868472
+['first class', 'class and coach class coach class seat']	['387 seat']	0.601830528082
+['first class', 'class and coach class coach class seat']	['of coach class seat']	0.600235123966
+['first class', 'class and coach class coach class seat']	['4 time']	0.0958995419968
+['first class', 'class and coach class coach class seat']	['seat']	0.572985324976
+['first class', 'class and coach class coach class seat']	['of first-class seat']	0.637330948793
+['first class', 'class and coach class coach class seat']	['plane']	0.0857950278587
+['plane', 'class and coach class coach class seat']	['airplane']	0.70944037444
+['plane', 'class and coach class coach class seat']	['387 seat']	0.507997691889
+['plane', 'class and coach class coach class seat']	['of coach class seat']	0.550120902484
+['plane', 'class and coach class coach class seat']	['4 time']	0.111124071717
+['plane', 'class and coach class coach class seat']	['seat']	0.731072741214
+['plane', 'class and coach class coach class seat']	['of first-class seat']	0.561260456651
+['plane', 'class and coach class coach class seat']	['first class']	0.0925481589498
+['airplane', 'plane']	['387 seat']	0.0939298741501
+['airplane', 'plane']	['of coach class seat']	0.124274830604
+['airplane', 'plane']	['4 time']	0.130048808393
+['airplane', 'plane']	['seat']	0.248149847564
+['airplane', 'plane']	['of first-class seat']	0.114408055456
+['airplane', 'plane']	['first class']	0.0669904799604
+['airplane', 'plane']	['class and coach class coach class seat']	0.124274830604
+['387 seat', 'plane']	['airplane']	0.780197023947
+['387 seat', 'plane']	['of coach class seat']	0.479550587431
+['387 seat', 'plane']	['4 time']	0.130048808393
+['387 seat', 'plane']	['seat']	0.656862991525
+['387 seat', 'plane']	['of first-class seat']	0.504757305777
+['387 seat', 'plane']	['first class']	0.0703393045902
+['387 seat', 'plane']	['class and coach class coach class seat']	0.369347772726
+['of coach class seat', 'plane']	['airplane']	0.750137500138
+['of coach class seat', 'plane']	['387 seat']	0.596104603149
+['of coach class seat', 'plane']	['4 time']	0.17186242783
+['of coach class seat', 'plane']	['seat']	0.740214174974
+['of coach class seat', 'plane']	['of first-class seat']	0.654507802463
+['of coach class seat', 'plane']	['first class']	0.125502508807
+['of coach class seat', 'plane']	['class and coach class coach class seat']	0.499832100258
+['4 time', 'plane']	['airplane']	0.689095009637
+['4 time', 'plane']	['387 seat']	0.0939298741501
+['4 time', 'plane']	['of coach class seat']	0.124274830604
+['4 time', 'plane']	['seat']	0.526662232753
+['4 time', 'plane']	['of first-class seat']	0.114408055456
+['4 time', 'plane']	['first class']	0.0714213956243
+['4 time', 'plane']	['class and coach class coach class seat']	0.124274830604
+['seat', 'plane']	['airplane']	0.292239053414
+['seat', 'plane']	['387 seat']	0.602561127042
+['seat', 'plane']	['of coach class seat']	0.618993094771
+['seat', 'plane']	['4 time']	0.141947311072
+['seat', 'plane']	['of first-class seat']	0.707532038298
+['seat', 'plane']	['first class']	0.109706780308
+['seat', 'plane']	['class and coach class coach class seat']	0.507589756389
+['of first-class seat', 'plane']	['airplane']	0.780197023947
+['of first-class seat', 'plane']	['387 seat']	0.465538040018
+['of first-class seat', 'plane']	['of coach class seat']	0.479550587431
+['of first-class seat', 'plane']	['4 time']	0.132517944196
+['of first-class seat', 'plane']	['seat']	0.732127441942
+['of first-class seat', 'plane']	['first class']	0.0703393045902
+['of first-class seat', 'plane']	['class and coach class coach class seat']	0.369347772726
+['first class', 'plane']	['airplane']	0.678909824452
+['first class', 'plane']	['387 seat']	0.0939298741501
+['first class', 'plane']	['of coach class seat']	0.124274830604
+['first class', 'plane']	['4 time']	0.177515609007
+['first class', 'plane']	['seat']	0.526662232753
+['first class', 'plane']	['of first-class seat']	0.114408055456
+['first class', 'plane']	['class and coach class coach class seat']	0.120037512088
+['class and coach class coach class seat', 'plane']	['airplane']	0.70944037444
+['class and coach class coach class seat', 'plane']	['387 seat']	0.507997691889
+['class and coach class coach class seat', 'plane']	['of coach class seat']	0.550120902484
+['class and coach class coach class seat', 'plane']	['4 time']	0.111124071717
+['class and coach class coach class seat', 'plane']	['seat']	0.731072741214
+['class and coach class coach class seat', 'plane']	['of first-class seat']	0.561260456651
+['class and coach class coach class seat', 'plane']	['first class']	0.0925481589498

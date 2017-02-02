@@ -1,0 +1,1035 @@
+['ticket', 'high school play', 'play', 'school play', 'student ticket', '4 dollar and general admission general admission ticket', '6 dollar', '525 ticket', 'dollar', '2876 dollar', 'student ticket and general admission general admission ticket']
+['ticket']	['high school play']	0.0898518548768
+['ticket']	['play']	0.111098860584
+['ticket']	['school play']	0.0714213956243
+['ticket']	['6 dollar']	0.0961161142573
+['ticket']	['dollar']	0.00388540021915
+['ticket']	['2876 dollar']	0.10873615468
+['high school play']	['student ticket']	0.0907458062299
+['high school play']	['4 dollar and general admission general admission ticket']	0.104620055906
+['high school play']	['6 dollar']	0.0907458062299
+['high school play']	['525 ticket']	0.0988755105172
+['high school play']	['dollar']	0.0118960167779
+['high school play']	['2876 dollar']	0.0988755105172
+['high school play']	['student ticket and general admission general admission ticket']	0.104620055906
+['play']	['student ticket']	0.080725694924
+['play']	['4 dollar and general admission general admission ticket']	0.10123857213
+['play']	['6 dollar']	0.0769722446621
+['play']	['525 ticket']	0.0854147342737
+['play']	['dollar']	0.0162282525636
+['play']	['2876 dollar']	0.0816612840118
+['play']	['student ticket and general admission general admission ticket']	0.10123857213
+['school play']	['student ticket']	0.0824069519204
+['school play']	['4 dollar and general admission general admission ticket']	0.0906383040618
+['school play']	['6 dollar']	0.0897823390711
+['school play']	['525 ticket']	0.0901100077042
+['school play']	['dollar']	0.00424649792755
+['school play']	['2876 dollar']	0.0901100077042
+['school play']	['student ticket and general admission general admission ticket']	0.0930268708939
+['student ticket']	['4 dollar and general admission general admission ticket']	0.215729357988
+['student ticket']	['6 dollar']	0.0700467017905
+['student ticket']	['525 ticket']	0.556137096067
+['student ticket']	['dollar']	0.00649997875733
+['student ticket']	['2876 dollar']	0.0737139440912
+['4 dollar and general admission general admission ticket']	['6 dollar']	0.37802980312
+['4 dollar and general admission general admission ticket']	['525 ticket']	0.362108746648
+['4 dollar and general admission general admission ticket']	['dollar']	0.0410062829336
+['4 dollar and general admission general admission ticket']	['2876 dollar']	0.0988755105172
+['4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.195047661378
+['6 dollar']	['525 ticket']	0.0737139440912
+['6 dollar']	['student ticket and general admission general admission ticket']	0.082727708882
+['525 ticket']	['dollar']	0.00851929931405
+['525 ticket']	['2876 dollar']	0.0901100077042
+['525 ticket']	['student ticket and general admission general admission ticket']	0.309032243208
+['dollar']	['student ticket and general admission general admission ticket']	0.0298860400548
+['2876 dollar']	['student ticket and general admission general admission ticket']	0.0906383040618
+['high school play', 'ticket']	['play']	0.794860049967
+['high school play', 'ticket']	['school play']	0.798791309678
+['high school play', 'ticket']	['student ticket']	0.614300738495
+['high school play', 'ticket']	['4 dollar and general admission general admission ticket']	0.508995573219
+['high school play', 'ticket']	['6 dollar']	0.0946431858112
+['high school play', 'ticket']	['525 ticket']	0.652495828164
+['high school play', 'ticket']	['dollar']	0.0624835876272
+['high school play', 'ticket']	['2876 dollar']	0.105691884463
+['high school play', 'ticket']	['student ticket and general admission general admission ticket']	0.508995573219
+['play', 'ticket']	['high school play']	0.706280402526
+['play', 'ticket']	['school play']	0.710051509722
+['play', 'ticket']	['student ticket']	0.647687375654
+['play', 'ticket']	['4 dollar and general admission general admission ticket']	0.551962802307
+['play', 'ticket']	['6 dollar']	0.107318934028
+['play', 'ticket']	['525 ticket']	0.734990423098
+['play', 'ticket']	['dollar']	0.18132539236
+['play', 'ticket']	['2876 dollar']	0.112012145182
+['play', 'ticket']	['student ticket and general admission general admission ticket']	0.551962802307
+['school play', 'ticket']	['high school play']	0.778420939308
+['school play', 'ticket']	['play']	0.800886478199
+['school play', 'ticket']	['student ticket']	0.643712225761
+['school play', 'ticket']	['4 dollar and general admission general admission ticket']	0.526220703877
+['school play', 'ticket']	['6 dollar']	0.104460910056
+['school play', 'ticket']	['525 ticket']	0.669973747197
+['school play', 'ticket']	['dollar']	0.0632392551335
+['school play', 'ticket']	['2876 dollar']	0.103222748661
+['school play', 'ticket']	['student ticket and general admission general admission ticket']	0.531640924322
+['student ticket', 'ticket']	['high school play']	0.431992628224
+['student ticket', 'ticket']	['play']	0.867099793344
+['student ticket', 'ticket']	['school play']	0.260700666745
+['student ticket', 'ticket']	['4 dollar and general admission general admission ticket']	0.653301221201
+['student ticket', 'ticket']	['6 dollar']	0.299779941009
+['student ticket', 'ticket']	['525 ticket']	0.789825666472
+['student ticket', 'ticket']	['dollar']	0.276619136856
+['student ticket', 'ticket']	['2876 dollar']	0.298405493616
+['student ticket', 'ticket']	['student ticket and general admission general admission ticket']	0.551182133663
+['4 dollar and general admission general admission ticket', 'ticket']	['high school play']	0.382258851124
+['4 dollar and general admission general admission ticket', 'ticket']	['play']	0.797107884146
+['4 dollar and general admission general admission ticket', 'ticket']	['school play']	0.157042679737
+['4 dollar and general admission general admission ticket', 'ticket']	['student ticket']	0.603432172901
+['4 dollar and general admission general admission ticket', 'ticket']	['6 dollar']	0.673436138452
+['4 dollar and general admission general admission ticket', 'ticket']	['525 ticket']	0.767021841282
+['4 dollar and general admission general admission ticket', 'ticket']	['dollar']	0.202516572754
+['4 dollar and general admission general admission ticket', 'ticket']	['2876 dollar']	0.193176066652
+['4 dollar and general admission general admission ticket', 'ticket']	['student ticket and general admission general admission ticket']	0.643931595746
+['6 dollar', 'ticket']	['high school play']	0.156167021075
+['6 dollar', 'ticket']	['play']	0.766432887811
+['6 dollar', 'ticket']	['school play']	0.132821777904
+['6 dollar', 'ticket']	['student ticket']	0.653324652814
+['6 dollar', 'ticket']	['4 dollar and general admission general admission ticket']	0.549855383271
+['6 dollar', 'ticket']	['525 ticket']	0.669973747197
+['6 dollar', 'ticket']	['dollar']	0.473923787948
+['6 dollar', 'ticket']	['2876 dollar']	0.675384791164
+['6 dollar', 'ticket']	['student ticket and general admission general admission ticket']	0.544941146287
+['525 ticket', 'ticket']	['high school play']	0.409973435243
+['525 ticket', 'ticket']	['play']	0.835347152145
+['525 ticket', 'ticket']	['school play']	0.223557185055
+['525 ticket', 'ticket']	['student ticket']	0.67043800229
+['525 ticket', 'ticket']	['4 dollar and general admission general admission ticket']	0.63458077879
+['525 ticket', 'ticket']	['6 dollar']	0.249001768327
+['525 ticket', 'ticket']	['dollar']	0.210708137696
+['525 ticket', 'ticket']	['2876 dollar']	0.247627320934
+['525 ticket', 'ticket']	['student ticket and general admission general admission ticket']	0.63458077879
+['dollar', 'ticket']	['high school play']	0.0794819785807
+['dollar', 'ticket']	['play']	0.0919933141992
+['dollar', 'ticket']	['school play']	0.0795460777291
+['dollar', 'ticket']	['student ticket']	0.25396043316
+['dollar', 'ticket']	['4 dollar and general admission general admission ticket']	0.195383845386
+['dollar', 'ticket']	['6 dollar']	0.318586803484
+['dollar', 'ticket']	['525 ticket']	0.375410673061
+['dollar', 'ticket']	['2876 dollar']	0.466647629277
+['dollar', 'ticket']	['student ticket and general admission general admission ticket']	0.195383845386
+['2876 dollar', 'ticket']	['high school play']	0.0974379980224
+['2876 dollar', 'ticket']	['play']	0.753415646432
+['2876 dollar', 'ticket']	['school play']	0.074092754852
+['2876 dollar', 'ticket']	['student ticket']	0.600226976026
+['2876 dollar', 'ticket']	['4 dollar and general admission general admission ticket']	0.526220703877
+['2876 dollar', 'ticket']	['6 dollar']	0.665428233341
+['2876 dollar', 'ticket']	['525 ticket']	0.669973747197
+['2876 dollar', 'ticket']	['dollar']	0.480796902709
+['2876 dollar', 'ticket']	['student ticket and general admission general admission ticket']	0.526220703877
+['student ticket and general admission general admission ticket', 'ticket']	['high school play']	0.382258851124
+['student ticket and general admission general admission ticket', 'ticket']	['play']	0.797107884146
+['student ticket and general admission general admission ticket', 'ticket']	['school play']	0.157042679737
+['student ticket and general admission general admission ticket', 'ticket']	['student ticket']	0.46714723218
+['student ticket and general admission general admission ticket', 'ticket']	['4 dollar and general admission general admission ticket']	0.643931595746
+['student ticket and general admission general admission ticket', 'ticket']	['6 dollar']	0.199329486566
+['student ticket and general admission general admission ticket', 'ticket']	['525 ticket']	0.767021841282
+['student ticket and general admission general admission ticket', 'ticket']	['dollar']	0.202516572754
+['student ticket and general admission general admission ticket', 'ticket']	['2876 dollar']	0.193176066652
+['ticket', 'high school play']	['play']	0.794860049967
+['ticket', 'high school play']	['school play']	0.798791309678
+['ticket', 'high school play']	['student ticket']	0.614300738495
+['ticket', 'high school play']	['4 dollar and general admission general admission ticket']	0.508995573219
+['ticket', 'high school play']	['6 dollar']	0.0946431858112
+['ticket', 'high school play']	['525 ticket']	0.652495828164
+['ticket', 'high school play']	['dollar']	0.0624835876272
+['ticket', 'high school play']	['2876 dollar']	0.105691884463
+['ticket', 'high school play']	['student ticket and general admission general admission ticket']	0.508995573219
+['play', 'high school play']	['ticket']	0.840822192402
+['play', 'high school play']	['school play']	0.703323487274
+['play', 'high school play']	['student ticket']	0.221994391846
+['play', 'high school play']	['4 dollar and general admission general admission ticket']	0.412447468685
+['play', 'high school play']	['6 dollar']	0.235755113526
+['play', 'high school play']	['525 ticket']	0.235702673466
+['play', 'high school play']	['dollar']	0.452038163277
+['play', 'high school play']	['2876 dollar']	0.249463395146
+['play', 'high school play']	['student ticket and general admission general admission ticket']	0.412447468685
+['school play', 'high school play']	['ticket']	0.384534648415
+['school play', 'high school play']	['play']	0.443656812471
+['school play', 'high school play']	['student ticket']	0.279113915096
+['school play', 'high school play']	['4 dollar and general admission general admission ticket']	0.354920010423
+['school play', 'high school play']	['6 dollar']	0.228156794453
+['school play', 'high school play']	['525 ticket']	0.188690699416
+['school play', 'high school play']	['dollar']	0.157530793421
+['school play', 'high school play']	['2876 dollar']	0.188690699416
+['school play', 'high school play']	['student ticket and general admission general admission ticket']	0.384140397003
+['student ticket', 'high school play']	['ticket']	0.752328689585
+['student ticket', 'high school play']	['play']	0.75621945051
+['student ticket', 'high school play']	['school play']	0.928373724158
+['student ticket', 'high school play']	['4 dollar and general admission general admission ticket']	0.473126038236
+['student ticket', 'high school play']	['6 dollar']	0.132563061148
+['student ticket', 'high school play']	['525 ticket']	0.645330407958
+['student ticket', 'high school play']	['dollar']	0.00574984592634
+['student ticket', 'high school play']	['2876 dollar']	0.128877148308
+['student ticket', 'high school play']	['student ticket and general admission general admission ticket']	0.608460861376
+['4 dollar and general admission general admission ticket', 'high school play']	['ticket']	0.669856747479
+['4 dollar and general admission general admission ticket', 'high school play']	['play']	0.685746664001
+['4 dollar and general admission general admission ticket', 'high school play']	['school play']	0.85862714984
+['4 dollar and general admission general admission ticket', 'high school play']	['student ticket']	0.478188609379
+['4 dollar and general admission general admission ticket', 'high school play']	['6 dollar']	0.384550957494
+['4 dollar and general admission general admission ticket', 'high school play']	['525 ticket']	0.535890507687
+['4 dollar and general admission general admission ticket', 'high school play']	['dollar']	0.0410062829336
+['4 dollar and general admission general admission ticket', 'high school play']	['2876 dollar']	0.0988755105172
+['4 dollar and general admission general admission ticket', 'high school play']	['student ticket and general admission general admission ticket']	0.382102920116
+['6 dollar', 'high school play']	['ticket']	0.152200779445
+['6 dollar', 'high school play']	['play']	0.75621945051
+['6 dollar', 'high school play']	['school play']	0.928373724158
+['6 dollar', 'high school play']	['student ticket']	0.132563061148
+['6 dollar', 'high school play']	['4 dollar and general admission general admission ticket']	0.427819022117
+['6 dollar', 'high school play']	['525 ticket']	0.128877148308
+['6 dollar', 'high school play']	['dollar']	0.426981873415
+['6 dollar', 'high school play']	['2876 dollar']	0.949572049908
+['6 dollar', 'high school play']	['student ticket and general admission general admission ticket']	0.142939183619
+['525 ticket', 'high school play']	['ticket']	0.7825529732
+['525 ticket', 'high school play']	['play']	0.755754825732
+['525 ticket', 'high school play']	['school play']	0.895285902786
+['525 ticket', 'high school play']	['student ticket']	0.616556347736
+['525 ticket', 'high school play']	['4 dollar and general admission general admission ticket']	0.473184296906
+['525 ticket', 'high school play']	['6 dollar']	0.151484162343
+['525 ticket', 'high school play']	['dollar']	0.00839809730066
+['525 ticket', 'high school play']	['2876 dollar']	0.15961386663
+['525 ticket', 'high school play']	['student ticket and general admission general admission ticket']	0.473184296906
+['dollar', 'high school play']	['ticket']	0.0836849062258
+['dollar', 'high school play']	['play']	0.45989326349
+['dollar', 'high school play']	['school play']	0.414882717319
+['dollar', 'high school play']	['student ticket']	0.0202676583236
+['dollar', 'high school play']	['4 dollar and general admission general admission ticket']	0.0328225502226
+['dollar', 'high school play']	['6 dollar']	0.221289623137
+['dollar', 'high school play']	['525 ticket']	0.024606125502
+['dollar', 'high school play']	['2876 dollar']	0.356496055166
+['dollar', 'high school play']	['student ticket and general admission general admission ticket']	0.0699654073654
+['2876 dollar', 'high school play']	['ticket']	0.164548598577
+['2876 dollar', 'high school play']	['play']	0.755754825732
+['2876 dollar', 'high school play']	['school play']	0.895285902786
+['2876 dollar', 'high school play']	['student ticket']	0.151484162343
+['2876 dollar', 'high school play']	['4 dollar and general admission general admission ticket']	0.153090809293
+['2876 dollar', 'high school play']	['6 dollar']	0.955608186011
+['2876 dollar', 'high school play']	['525 ticket']	0.15961386663
+['2876 dollar', 'high school play']	['dollar']	0.394946604786
+['2876 dollar', 'high school play']	['student ticket and general admission general admission ticket']	0.153090809293
+['student ticket and general admission general admission ticket', 'high school play']	['ticket']	0.669856747479
+['student ticket and general admission general admission ticket', 'high school play']	['play']	0.685746664001
+['student ticket and general admission general admission ticket', 'high school play']	['school play']	0.85862714984
+['student ticket and general admission general admission ticket', 'high school play']	['student ticket']	0.734993885709
+['student ticket and general admission general admission ticket', 'high school play']	['4 dollar and general admission general admission ticket']	0.399244349402
+['student ticket and general admission general admission ticket', 'high school play']	['6 dollar']	0.0907458062299
+['student ticket and general admission general admission ticket', 'high school play']	['525 ticket']	0.535890507687
+['student ticket and general admission general admission ticket', 'high school play']	['dollar']	0.0410062829336
+['student ticket and general admission general admission ticket', 'high school play']	['2876 dollar']	0.0988755105172
+['ticket', 'play']	['high school play']	0.706280402526
+['ticket', 'play']	['school play']	0.710051509722
+['ticket', 'play']	['student ticket']	0.647687375654
+['ticket', 'play']	['4 dollar and general admission general admission ticket']	0.551962802307
+['ticket', 'play']	['6 dollar']	0.107318934028
+['ticket', 'play']	['525 ticket']	0.734990423098
+['ticket', 'play']	['dollar']	0.18132539236
+['ticket', 'play']	['2876 dollar']	0.112012145182
+['ticket', 'play']	['student ticket and general admission general admission ticket']	0.551962802307
+['high school play', 'play']	['ticket']	0.840822192402
+['high school play', 'play']	['school play']	0.703323487274
+['high school play', 'play']	['student ticket']	0.221994391846
+['high school play', 'play']	['4 dollar and general admission general admission ticket']	0.412447468685
+['high school play', 'play']	['6 dollar']	0.235755113526
+['high school play', 'play']	['525 ticket']	0.235702673466
+['high school play', 'play']	['dollar']	0.452038163277
+['high school play', 'play']	['2876 dollar']	0.249463395146
+['high school play', 'play']	['student ticket and general admission general admission ticket']	0.412447468685
+['school play', 'play']	['ticket']	0.840822192402
+['school play', 'play']	['high school play']	0.702290332152
+['school play', 'play']	['student ticket']	0.221994391846
+['school play', 'play']	['4 dollar and general admission general admission ticket']	0.436866473402
+['school play', 'play']	['6 dollar']	0.249389804517
+['school play', 'play']	['525 ticket']	0.235702673466
+['school play', 'play']	['dollar']	0.452038163277
+['school play', 'play']	['2876 dollar']	0.249463395146
+['school play', 'play']	['student ticket and general admission general admission ticket']	0.42323178241
+['student ticket', 'play']	['ticket']	0.780044054682
+['student ticket', 'play']	['high school play']	0.690059405055
+['student ticket', 'play']	['school play']	0.693830512252
+['student ticket', 'play']	['4 dollar and general admission general admission ticket']	0.40614543674
+['student ticket', 'play']	['6 dollar']	0.0719929683361
+['student ticket', 'play']	['525 ticket']	0.465538040018
+['student ticket', 'play']	['dollar']	0.341232522267
+['student ticket', 'play']	['2876 dollar']	0.0703393045902
+['student ticket', 'play']	['student ticket and general admission general admission ticket']	0.633550894935
+['4 dollar and general admission general admission ticket', 'play']	['ticket']	0.777879237134
+['4 dollar and general admission general admission ticket', 'play']	['high school play']	0.720675383548
+['4 dollar and general admission general admission ticket', 'play']	['school play']	0.732410925819
+['4 dollar and general admission general admission ticket', 'play']	['student ticket']	0.486755680814
+['4 dollar and general admission general admission ticket', 'play']	['6 dollar']	0.432922870881
+['4 dollar and general admission general admission ticket', 'play']	['525 ticket']	0.504895445092
+['4 dollar and general admission general admission ticket', 'play']	['dollar']	0.278788410591
+['4 dollar and general admission general admission ticket', 'play']	['2876 dollar']	0.0921460917349
+['4 dollar and general admission general admission ticket', 'play']	['student ticket and general admission general admission ticket']	0.426605459696
+['6 dollar', 'play']	['ticket']	0.868205242265
+['6 dollar', 'play']	['high school play']	0.690059405055
+['6 dollar', 'play']	['school play']	0.70243142126
+['6 dollar', 'play']	['student ticket']	0.075746418598
+['6 dollar', 'play']	['4 dollar and general admission general admission ticket']	0.334453085467
+['6 dollar', 'play']	['525 ticket']	0.074092754852
+['6 dollar', 'play']	['dollar']	0.515891835372
+['6 dollar', 'play']	['2876 dollar']	0.666153074973
+['6 dollar', 'play']	['student ticket and general admission general admission ticket']	0.0974549133437
+['525 ticket', 'play']	['ticket']	0.810727690174
+['525 ticket', 'play']	['high school play']	0.712478410537
+['525 ticket', 'play']	['school play']	0.707594685938
+['525 ticket', 'play']	['student ticket']	0.51364678879
+['525 ticket', 'play']	['4 dollar and general admission general admission ticket']	0.415471557389
+['525 ticket', 'play']	['6 dollar']	0.0830529202888
+['525 ticket', 'play']	['dollar']	0.339953026192
+['525 ticket', 'play']	['2876 dollar']	0.0833805889219
+['525 ticket', 'play']	['student ticket and general admission general admission ticket']	0.415471557389
+['dollar', 'play']	['ticket']	0.209450369883
+['dollar', 'play']	['high school play']	0.328825920404
+['dollar', 'play']	['school play']	0.328825920404
+['dollar', 'play']	['student ticket']	0.0291150142518
+['dollar', 'play']	['4 dollar and general admission general admission ticket']	0.03846798128
+['dollar', 'play']	['6 dollar']	0.297534171906
+['dollar', 'play']	['525 ticket']	0.0351663404773
+['dollar', 'play']	['2876 dollar']	0.433314295943
+['dollar', 'play']	['student ticket and general admission general admission ticket']	0.03846798128
+['2876 dollar', 'play']	['ticket']	0.867152314657
+['2876 dollar', 'play']	['high school play']	0.712478410537
+['2876 dollar', 'play']	['school play']	0.707594685938
+['2876 dollar', 'play']	['student ticket']	0.0868063705507
+['2876 dollar', 'play']	['4 dollar and general admission general admission ticket']	0.105391086116
+['2876 dollar', 'play']	['6 dollar']	0.654685128622
+['2876 dollar', 'play']	['525 ticket']	0.0871340391838
+['2876 dollar', 'play']	['dollar']	0.488250324261
+['2876 dollar', 'play']	['student ticket and general admission general admission ticket']	0.105391086116
+['student ticket and general admission general admission ticket', 'play']	['ticket']	0.777879237134
+['student ticket and general admission general admission ticket', 'play']	['high school play']	0.720675383548
+['student ticket and general admission general admission ticket', 'play']	['school play']	0.723810016811
+['student ticket and general admission general admission ticket', 'play']	['student ticket']	0.747812500442
+['student ticket and general admission general admission ticket', 'play']	['4 dollar and general admission general admission ticket']	0.426605459696
+['student ticket and general admission general admission ticket', 'play']	['6 dollar']	0.0896143899239
+['student ticket and general admission general admission ticket', 'play']	['525 ticket']	0.504895445092
+['student ticket and general admission general admission ticket', 'play']	['dollar']	0.278788410591
+['student ticket and general admission general admission ticket', 'play']	['2876 dollar']	0.0921460917349
+['ticket', 'school play']	['high school play']	0.778420939308
+['ticket', 'school play']	['play']	0.800886478199
+['ticket', 'school play']	['student ticket']	0.643712225761
+['ticket', 'school play']	['4 dollar and general admission general admission ticket']	0.526220703877
+['ticket', 'school play']	['6 dollar']	0.104460910056
+['ticket', 'school play']	['525 ticket']	0.669973747197
+['ticket', 'school play']	['dollar']	0.0632392551335
+['ticket', 'school play']	['2876 dollar']	0.103222748661
+['ticket', 'school play']	['student ticket and general admission general admission ticket']	0.531640924322
+['high school play', 'school play']	['ticket']	0.384534648415
+['high school play', 'school play']	['play']	0.443656812471
+['high school play', 'school play']	['student ticket']	0.279113915096
+['high school play', 'school play']	['4 dollar and general admission general admission ticket']	0.354920010423
+['high school play', 'school play']	['6 dollar']	0.228156794453
+['high school play', 'school play']	['525 ticket']	0.188690699416
+['high school play', 'school play']	['dollar']	0.157530793421
+['high school play', 'school play']	['2876 dollar']	0.188690699416
+['high school play', 'school play']	['student ticket and general admission general admission ticket']	0.384140397003
+['play', 'school play']	['ticket']	0.840822192402
+['play', 'school play']	['high school play']	0.702290332152
+['play', 'school play']	['student ticket']	0.221994391846
+['play', 'school play']	['4 dollar and general admission general admission ticket']	0.436866473402
+['play', 'school play']	['6 dollar']	0.249389804517
+['play', 'school play']	['525 ticket']	0.235702673466
+['play', 'school play']	['dollar']	0.452038163277
+['play', 'school play']	['2876 dollar']	0.249463395146
+['play', 'school play']	['student ticket and general admission general admission ticket']	0.42323178241
+['student ticket', 'school play']	['ticket']	0.653727273332
+['student ticket', 'school play']	['high school play']	0.781385504198
+['student ticket', 'school play']	['play']	0.723764436383
+['student ticket', 'school play']	['4 dollar and general admission general admission ticket']	0.438742501918
+['student ticket', 'school play']	['6 dollar']	0.0700467017905
+['student ticket', 'school play']	['525 ticket']	0.544221442934
+['student ticket', 'school play']	['dollar']	0.00649997875733
+['student ticket', 'school play']	['2876 dollar']	0.0737139440912
+['student ticket', 'school play']	['student ticket and general admission general admission ticket']	0.562873778095
+['4 dollar and general admission general admission ticket', 'school play']	['ticket']	0.669856747479
+['4 dollar and general admission general admission ticket', 'school play']	['high school play']	0.854707702758
+['4 dollar and general admission general admission ticket', 'school play']	['play']	0.685746664001
+['4 dollar and general admission general admission ticket', 'school play']	['student ticket']	0.522257502141
+['4 dollar and general admission general admission ticket', 'school play']	['6 dollar']	0.32988506648
+['4 dollar and general admission general admission ticket', 'school play']	['525 ticket']	0.579959400449
+['4 dollar and general admission general admission ticket', 'school play']	['dollar']	0.0410062829336
+['4 dollar and general admission general admission ticket', 'school play']	['2876 dollar']	0.0988755105172
+['4 dollar and general admission general admission ticket', 'school play']	['student ticket and general admission general admission ticket']	0.404375647389
+['6 dollar', 'school play']	['ticket']	0.0950218132892
+['6 dollar', 'school play']	['high school play']	0.778571651384
+['6 dollar', 'school play']	['play']	0.723764436383
+['6 dollar', 'school play']	['student ticket']	0.0700467017905
+['6 dollar', 'school play']	['4 dollar and general admission general admission ticket']	0.223087387993
+['6 dollar', 'school play']	['525 ticket']	0.0737139440912
+['6 dollar', 'school play']	['dollar']	0.336147940838
+['6 dollar', 'school play']	['2876 dollar']	0.88617432218
+['6 dollar', 'school play']	['student ticket and general admission general admission ticket']	0.0884395227517
+['525 ticket', 'school play']	['ticket']	0.677007875188
+['525 ticket', 'school play']	['high school play']	0.777014688918
+['525 ticket', 'school play']	['play']	0.689644934024
+['525 ticket', 'school play']	['student ticket']	0.542633257095
+['525 ticket', 'school play']	['4 dollar and general admission general admission ticket']	0.47557248481
+['525 ticket', 'school play']	['6 dollar']	0.0897823390711
+['525 ticket', 'school play']	['dollar']	0.00851929931405
+['525 ticket', 'school play']	['2876 dollar']	0.0901100077042
+['525 ticket', 'school play']	['student ticket and general admission general admission ticket']	0.432612986675
+['dollar', 'school play']	['ticket']	0.11117959837
+['dollar', 'school play']	['high school play']	0.365586727114
+['dollar', 'school play']	['play']	0.45686296046
+['dollar', 'school play']	['student ticket']	0.0254362597609
+['dollar', 'school play']	['4 dollar and general admission general admission ticket']	0.0303534144201
+['dollar', 'school play']	['6 dollar']	0.238308800753
+['dollar', 'school play']	['525 ticket']	0.0221369896995
+['dollar', 'school play']	['2876 dollar']	0.380321401688
+['dollar', 'school play']	['student ticket and general admission general admission ticket']	0.0674962715629
+['2876 dollar', 'school play']	['ticket']	0.10397274702
+['2876 dollar', 'school play']	['high school play']	0.777014688918
+['2876 dollar', 'school play']	['play']	0.689644934024
+['2876 dollar', 'school play']	['student ticket']	0.0824069519204
+['2876 dollar', 'school play']	['4 dollar and general admission general admission ticket']	0.0906383040618
+['2876 dollar', 'school play']	['6 dollar']	0.871002672125
+['2876 dollar', 'school play']	['525 ticket']	0.0901100077042
+['2876 dollar', 'school play']	['dollar']	0.347558844001
+['2876 dollar', 'school play']	['student ticket and general admission general admission ticket']	0.0873150570242
+['student ticket and general admission general admission ticket', 'school play']	['ticket']	0.669856747479
+['student ticket and general admission general admission ticket', 'school play']	['high school play']	0.854707702758
+['student ticket and general admission general admission ticket', 'school play']	['play']	0.685746664001
+['student ticket and general admission general admission ticket', 'school play']	['student ticket']	0.734993885709
+['student ticket and general admission general admission ticket', 'school play']	['4 dollar and general admission general admission ticket']	0.432572685384
+['student ticket and general admission general admission ticket', 'school play']	['6 dollar']	0.0907458062299
+['student ticket and general admission general admission ticket', 'school play']	['525 ticket']	0.579959400449
+['student ticket and general admission general admission ticket', 'school play']	['dollar']	0.0410062829336
+['student ticket and general admission general admission ticket', 'school play']	['2876 dollar']	0.0988755105172
+['ticket', 'student ticket']	['high school play']	0.431992628224
+['ticket', 'student ticket']	['play']	0.867099793344
+['ticket', 'student ticket']	['school play']	0.260700666745
+['ticket', 'student ticket']	['4 dollar and general admission general admission ticket']	0.653301221201
+['ticket', 'student ticket']	['6 dollar']	0.299779941009
+['ticket', 'student ticket']	['525 ticket']	0.789825666472
+['ticket', 'student ticket']	['dollar']	0.276619136856
+['ticket', 'student ticket']	['2876 dollar']	0.298405493616
+['ticket', 'student ticket']	['student ticket and general admission general admission ticket']	0.551182133663
+['high school play', 'student ticket']	['ticket']	0.752328689585
+['high school play', 'student ticket']	['play']	0.75621945051
+['high school play', 'student ticket']	['school play']	0.928373724158
+['high school play', 'student ticket']	['4 dollar and general admission general admission ticket']	0.473126038236
+['high school play', 'student ticket']	['6 dollar']	0.132563061148
+['high school play', 'student ticket']	['525 ticket']	0.645330407958
+['high school play', 'student ticket']	['dollar']	0.00574984592634
+['high school play', 'student ticket']	['2876 dollar']	0.128877148308
+['high school play', 'student ticket']	['student ticket and general admission general admission ticket']	0.608460861376
+['play', 'student ticket']	['ticket']	0.780044054682
+['play', 'student ticket']	['high school play']	0.690059405055
+['play', 'student ticket']	['school play']	0.693830512252
+['play', 'student ticket']	['4 dollar and general admission general admission ticket']	0.40614543674
+['play', 'student ticket']	['6 dollar']	0.0719929683361
+['play', 'student ticket']	['525 ticket']	0.465538040018
+['play', 'student ticket']	['dollar']	0.341232522267
+['play', 'student ticket']	['2876 dollar']	0.0703393045902
+['play', 'student ticket']	['student ticket and general admission general admission ticket']	0.633550894935
+['school play', 'student ticket']	['ticket']	0.653727273332
+['school play', 'student ticket']	['high school play']	0.781385504198
+['school play', 'student ticket']	['play']	0.723764436383
+['school play', 'student ticket']	['4 dollar and general admission general admission ticket']	0.438742501918
+['school play', 'student ticket']	['6 dollar']	0.0700467017905
+['school play', 'student ticket']	['525 ticket']	0.544221442934
+['school play', 'student ticket']	['dollar']	0.00649997875733
+['school play', 'student ticket']	['2876 dollar']	0.0737139440912
+['school play', 'student ticket']	['student ticket and general admission general admission ticket']	0.562873778095
+['4 dollar and general admission general admission ticket', 'student ticket']	['ticket']	0.583674238746
+['4 dollar and general admission general admission ticket', 'student ticket']	['high school play']	0.381031348834
+['4 dollar and general admission general admission ticket', 'student ticket']	['play']	0.338339616813
+['4 dollar and general admission general admission ticket', 'student ticket']	['school play']	0.202650791612
+['4 dollar and general admission general admission ticket', 'student ticket']	['6 dollar']	0.612307355223
+['4 dollar and general admission general admission ticket', 'student ticket']	['525 ticket']	0.686178826986
+['4 dollar and general admission general admission ticket', 'student ticket']	['dollar']	0.287890531999
+['4 dollar and general admission general admission ticket', 'student ticket']	['2876 dollar']	0.109369378475
+['4 dollar and general admission general admission ticket', 'student ticket']	['student ticket and general admission general admission ticket']	0.678128481296
+['6 dollar', 'student ticket']	['ticket']	0.687060606666
+['6 dollar', 'student ticket']	['high school play']	0.150640002575
+['6 dollar', 'student ticket']	['play']	0.134486271635
+['6 dollar', 'student ticket']	['school play']	0.131771183904
+['6 dollar', 'student ticket']	['4 dollar and general admission general admission ticket']	0.567255491784
+['6 dollar', 'student ticket']	['525 ticket']	0.580736183597
+['6 dollar', 'student ticket']	['dollar']	0.364353069043
+['6 dollar', 'student ticket']	['2876 dollar']	0.88617432218
+['6 dollar', 'student ticket']	['student ticket and general admission general admission ticket']	0.551445894027
+['525 ticket', 'student ticket']	['ticket']	0.760071154082
+['525 ticket', 'student ticket']	['high school play']	0.358931222536
+['525 ticket', 'student ticket']	['play']	0.367055075288
+['525 ticket', 'student ticket']	['school play']	0.167427262452
+['525 ticket', 'student ticket']	['4 dollar and general admission general admission ticket']	0.362055803882
+['525 ticket', 'student ticket']	['6 dollar']	0.13854205058
+['525 ticket', 'student ticket']	['dollar']	0.210419668337
+['525 ticket', 'student ticket']	['2876 dollar']	0.127137811052
+['525 ticket', 'student ticket']	['student ticket and general admission general admission ticket']	0.596331932067
+['dollar', 'student ticket']	['ticket']	0.350552054943
+['dollar', 'student ticket']	['high school play']	0.0829349518718
+['dollar', 'student ticket']	['play']	0.385160345312
+['dollar', 'student ticket']	['school play']	0.0780842671024
+['dollar', 'student ticket']	['4 dollar and general admission general admission ticket']	0.14764172344
+['dollar', 'student ticket']	['6 dollar']	0.223493985938
+['dollar', 'student ticket']	['525 ticket']	0.132615563108
+['dollar', 'student ticket']	['2876 dollar']	0.380321401688
+['dollar', 'student ticket']	['student ticket and general admission general admission ticket']	0.252494278122
+['2876 dollar', 'student ticket']	['ticket']	0.655688057646
+['2876 dollar', 'student ticket']	['high school play']	0.0828503410239
+['2876 dollar', 'student ticket']	['play']	0.0724084239529
+['2876 dollar', 'student ticket']	['school play']	0.0696933362217
+['2876 dollar', 'student ticket']	['4 dollar and general admission general admission ticket']	0.438742501918
+['2876 dollar', 'student ticket']	['6 dollar']	0.853745599558
+['2876 dollar', 'student ticket']	['525 ticket']	0.544221442934
+['2876 dollar', 'student ticket']	['dollar']	0.367136521226
+['2876 dollar', 'student ticket']	['student ticket and general admission general admission ticket']	0.515130592376
+['student ticket and general admission general admission ticket', 'student ticket']	['ticket']	0.583674238746
+['student ticket and general admission general admission ticket', 'student ticket']	['high school play']	0.389539839079
+['student ticket and general admission general admission ticket', 'student ticket']	['play']	0.338339616813
+['student ticket and general admission general admission ticket', 'student ticket']	['school play']	0.165468907422
+['student ticket and general admission general admission ticket', 'student ticket']	['4 dollar and general admission general admission ticket']	0.524522478042
+['student ticket and general admission general admission ticket', 'student ticket']	['6 dollar']	0.133249183292
+['student ticket and general admission general admission ticket', 'student ticket']	['525 ticket']	0.686178826986
+['student ticket and general admission general admission ticket', 'student ticket']	['dollar']	0.287890531999
+['student ticket and general admission general admission ticket', 'student ticket']	['2876 dollar']	0.109369378475
+['ticket', '4 dollar and general admission general admission ticket']	['high school play']	0.382258851124
+['ticket', '4 dollar and general admission general admission ticket']	['play']	0.797107884146
+['ticket', '4 dollar and general admission general admission ticket']	['school play']	0.157042679737
+['ticket', '4 dollar and general admission general admission ticket']	['student ticket']	0.603432172901
+['ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.673436138452
+['ticket', '4 dollar and general admission general admission ticket']	['525 ticket']	0.767021841282
+['ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.202516572754
+['ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.193176066652
+['ticket', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.643931595746
+['high school play', '4 dollar and general admission general admission ticket']	['ticket']	0.669856747479
+['high school play', '4 dollar and general admission general admission ticket']	['play']	0.685746664001
+['high school play', '4 dollar and general admission general admission ticket']	['school play']	0.85862714984
+['high school play', '4 dollar and general admission general admission ticket']	['student ticket']	0.478188609379
+['high school play', '4 dollar and general admission general admission ticket']	['6 dollar']	0.384550957494
+['high school play', '4 dollar and general admission general admission ticket']	['525 ticket']	0.535890507687
+['high school play', '4 dollar and general admission general admission ticket']	['dollar']	0.0410062829336
+['high school play', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.0988755105172
+['high school play', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.382102920116
+['play', '4 dollar and general admission general admission ticket']	['ticket']	0.777879237134
+['play', '4 dollar and general admission general admission ticket']	['high school play']	0.720675383548
+['play', '4 dollar and general admission general admission ticket']	['school play']	0.732410925819
+['play', '4 dollar and general admission general admission ticket']	['student ticket']	0.486755680814
+['play', '4 dollar and general admission general admission ticket']	['6 dollar']	0.432922870881
+['play', '4 dollar and general admission general admission ticket']	['525 ticket']	0.504895445092
+['play', '4 dollar and general admission general admission ticket']	['dollar']	0.278788410591
+['play', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.0921460917349
+['play', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.426605459696
+['school play', '4 dollar and general admission general admission ticket']	['ticket']	0.669856747479
+['school play', '4 dollar and general admission general admission ticket']	['high school play']	0.854707702758
+['school play', '4 dollar and general admission general admission ticket']	['play']	0.685746664001
+['school play', '4 dollar and general admission general admission ticket']	['student ticket']	0.522257502141
+['school play', '4 dollar and general admission general admission ticket']	['6 dollar']	0.32988506648
+['school play', '4 dollar and general admission general admission ticket']	['525 ticket']	0.579959400449
+['school play', '4 dollar and general admission general admission ticket']	['dollar']	0.0410062829336
+['school play', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.0988755105172
+['school play', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.404375647389
+['student ticket', '4 dollar and general admission general admission ticket']	['ticket']	0.583674238746
+['student ticket', '4 dollar and general admission general admission ticket']	['high school play']	0.381031348834
+['student ticket', '4 dollar and general admission general admission ticket']	['play']	0.338339616813
+['student ticket', '4 dollar and general admission general admission ticket']	['school play']	0.202650791612
+['student ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.612307355223
+['student ticket', '4 dollar and general admission general admission ticket']	['525 ticket']	0.686178826986
+['student ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.287890531999
+['student ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.109369378475
+['student ticket', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.678128481296
+['6 dollar', '4 dollar and general admission general admission ticket']	['ticket']	0.630727004123
+['6 dollar', '4 dollar and general admission general admission ticket']	['high school play']	0.099042553019
+['6 dollar', '4 dollar and general admission general admission ticket']	['play']	0.0868721922441
+['6 dollar', '4 dollar and general admission general admission ticket']	['school play']	0.062340799651
+['6 dollar', '4 dollar and general admission general admission ticket']	['student ticket']	0.442837496469
+['6 dollar', '4 dollar and general admission general admission ticket']	['525 ticket']	0.523788929543
+['6 dollar', '4 dollar and general admission general admission ticket']	['dollar']	0.43698773698
+['6 dollar', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.908940930422
+['6 dollar', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.374113524674
+['525 ticket', '4 dollar and general admission general admission ticket']	['ticket']	0.789877404172
+['525 ticket', '4 dollar and general admission general admission ticket']	['high school play']	0.306292998722
+['525 ticket', '4 dollar and general admission general admission ticket']	['play']	0.337275619669
+['525 ticket', '4 dollar and general admission general admission ticket']	['school play']	0.197420936561
+['525 ticket', '4 dollar and general admission general admission ticket']	['student ticket']	0.63313239517
+['525 ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.632343246937
+['525 ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.290727411432
+['525 ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.127952343303
+['525 ticket', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.405024458352
+['dollar', '4 dollar and general admission general admission ticket']	['ticket']	0.262496437152
+['dollar', '4 dollar and general admission general admission ticket']	['high school play']	0.02654947689
+['dollar', '4 dollar and general admission general admission ticket']	['play']	0.292083992002
+['dollar', '4 dollar and general admission general admission ticket']	['school play']	0.0182104200275
+['dollar', '4 dollar and general admission general admission ticket']	['student ticket']	0.163132322133
+['dollar', '4 dollar and general admission general admission ticket']	['6 dollar']	0.408428997647
+['dollar', '4 dollar and general admission general admission ticket']	['525 ticket']	0.186877130741
+['dollar', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.365452280831
+['dollar', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.192637121919
+['2876 dollar', '4 dollar and general admission general admission ticket']	['ticket']	0.671817531793
+['2876 dollar', '4 dollar and general admission general admission ticket']	['high school play']	0.112559918644
+['2876 dollar', '4 dollar and general admission general admission ticket']	['play']	0.108364962764
+['2876 dollar', '4 dollar and general admission general admission ticket']	['school play']	0.0915001233665
+['2876 dollar', '4 dollar and general admission general admission ticket']	['student ticket']	0.529621206802
+['2876 dollar', '4 dollar and general admission general admission ticket']	['6 dollar']	0.857736949303
+['2876 dollar', '4 dollar and general admission general admission ticket']	['525 ticket']	0.579959400449
+['2876 dollar', '4 dollar and general admission general admission ticket']	['dollar']	0.390137653536
+['2876 dollar', '4 dollar and general admission general admission ticket']	['student ticket and general admission general admission ticket']	0.432572685384
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['ticket']	0.663570125275
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['high school play']	0.321449339501
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['play']	0.307028706089
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['school play']	0.205929426806
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['student ticket']	0.707094577478
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['6 dollar']	0.65037467578
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['525 ticket']	0.575647647299
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['dollar']	0.290727411432
+['student ticket and general admission general admission ticket', '4 dollar and general admission general admission ticket']	['2876 dollar']	0.127952343303
+['ticket', '6 dollar']	['high school play']	0.156167021075
+['ticket', '6 dollar']	['play']	0.766432887811
+['ticket', '6 dollar']	['school play']	0.132821777904
+['ticket', '6 dollar']	['student ticket']	0.653324652814
+['ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.549855383271
+['ticket', '6 dollar']	['525 ticket']	0.669973747197
+['ticket', '6 dollar']	['dollar']	0.473923787948
+['ticket', '6 dollar']	['2876 dollar']	0.675384791164
+['ticket', '6 dollar']	['student ticket and general admission general admission ticket']	0.544941146287
+['high school play', '6 dollar']	['ticket']	0.152200779445
+['high school play', '6 dollar']	['play']	0.75621945051
+['high school play', '6 dollar']	['school play']	0.928373724158
+['high school play', '6 dollar']	['student ticket']	0.132563061148
+['high school play', '6 dollar']	['4 dollar and general admission general admission ticket']	0.427819022117
+['high school play', '6 dollar']	['525 ticket']	0.128877148308
+['high school play', '6 dollar']	['dollar']	0.426981873415
+['high school play', '6 dollar']	['2876 dollar']	0.949572049908
+['high school play', '6 dollar']	['student ticket and general admission general admission ticket']	0.142939183619
+['play', '6 dollar']	['ticket']	0.868205242265
+['play', '6 dollar']	['high school play']	0.690059405055
+['play', '6 dollar']	['school play']	0.70243142126
+['play', '6 dollar']	['student ticket']	0.075746418598
+['play', '6 dollar']	['4 dollar and general admission general admission ticket']	0.334453085467
+['play', '6 dollar']	['525 ticket']	0.074092754852
+['play', '6 dollar']	['dollar']	0.515891835372
+['play', '6 dollar']	['2876 dollar']	0.666153074973
+['play', '6 dollar']	['student ticket and general admission general admission ticket']	0.0974549133437
+['school play', '6 dollar']	['ticket']	0.0950218132892
+['school play', '6 dollar']	['high school play']	0.778571651384
+['school play', '6 dollar']	['play']	0.723764436383
+['school play', '6 dollar']	['student ticket']	0.0700467017905
+['school play', '6 dollar']	['4 dollar and general admission general admission ticket']	0.223087387993
+['school play', '6 dollar']	['525 ticket']	0.0737139440912
+['school play', '6 dollar']	['dollar']	0.336147940838
+['school play', '6 dollar']	['2876 dollar']	0.88617432218
+['school play', '6 dollar']	['student ticket and general admission general admission ticket']	0.0884395227517
+['student ticket', '6 dollar']	['ticket']	0.687060606666
+['student ticket', '6 dollar']	['high school play']	0.150640002575
+['student ticket', '6 dollar']	['play']	0.134486271635
+['student ticket', '6 dollar']	['school play']	0.131771183904
+['student ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.567255491784
+['student ticket', '6 dollar']	['525 ticket']	0.580736183597
+['student ticket', '6 dollar']	['dollar']	0.364353069043
+['student ticket', '6 dollar']	['2876 dollar']	0.88617432218
+['student ticket', '6 dollar']	['student ticket and general admission general admission ticket']	0.551445894027
+['4 dollar and general admission general admission ticket', '6 dollar']	['ticket']	0.630727004123
+['4 dollar and general admission general admission ticket', '6 dollar']	['high school play']	0.099042553019
+['4 dollar and general admission general admission ticket', '6 dollar']	['play']	0.0868721922441
+['4 dollar and general admission general admission ticket', '6 dollar']	['school play']	0.062340799651
+['4 dollar and general admission general admission ticket', '6 dollar']	['student ticket']	0.442837496469
+['4 dollar and general admission general admission ticket', '6 dollar']	['525 ticket']	0.523788929543
+['4 dollar and general admission general admission ticket', '6 dollar']	['dollar']	0.43698773698
+['4 dollar and general admission general admission ticket', '6 dollar']	['2876 dollar']	0.908940930422
+['4 dollar and general admission general admission ticket', '6 dollar']	['student ticket and general admission general admission ticket']	0.374113524674
+['525 ticket', '6 dollar']	['ticket']	0.697934417106
+['525 ticket', '6 dollar']	['high school play']	0.0828503410239
+['525 ticket', '6 dollar']	['play']	0.0724084239529
+['525 ticket', '6 dollar']	['school play']	0.0696933362217
+['525 ticket', '6 dollar']	['student ticket']	0.523933849778
+['525 ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.556411047339
+['525 ticket', '6 dollar']	['dollar']	0.364353069043
+['525 ticket', '6 dollar']	['2876 dollar']	0.88617432218
+['525 ticket', '6 dollar']	['student ticket and general admission general admission ticket']	0.438742501918
+['dollar', '6 dollar']	['ticket']	0.322528831111
+['dollar', '6 dollar']	['high school play']	0.281175830055
+['dollar', '6 dollar']	['play']	0.558249343401
+['dollar', '6 dollar']	['school play']	0.182901068763
+['dollar', '6 dollar']	['student ticket']	0.184215442944
+['dollar', '6 dollar']	['4 dollar and general admission general admission ticket']	0.475202550542
+['dollar', '6 dollar']	['525 ticket']	0.166089767686
+['dollar', '6 dollar']	['2876 dollar']	0.673775580205
+['dollar', '6 dollar']	['student ticket and general admission general admission ticket']	0.264364528978
+['2876 dollar', '6 dollar']	['ticket']	0.488547567809
+['2876 dollar', '6 dollar']	['high school play']	0.353649848982
+['2876 dollar', '6 dollar']	['play']	0.412008457518
+['2876 dollar', '6 dollar']	['school play']	0.247329860011
+['2876 dollar', '6 dollar']	['student ticket']	0.13854205058
+['2876 dollar', '6 dollar']	['4 dollar and general admission general admission ticket']	0.640867080196
+['2876 dollar', '6 dollar']	['525 ticket']	0.127137811052
+['2876 dollar', '6 dollar']	['dollar']	0.857127904794
+['2876 dollar', '6 dollar']	['student ticket and general admission general admission ticket']	0.345953256214
+['student ticket and general admission general admission ticket', '6 dollar']	['ticket']	0.630727004123
+['student ticket and general admission general admission ticket', '6 dollar']	['high school play']	0.099042553019
+['student ticket and general admission general admission ticket', '6 dollar']	['play']	0.0868721922441
+['student ticket and general admission general admission ticket', '6 dollar']	['school play']	0.0641181843254
+['student ticket and general admission general admission ticket', '6 dollar']	['student ticket']	0.634813212499
+['student ticket and general admission general admission ticket', '6 dollar']	['4 dollar and general admission general admission ticket']	0.646578633778
+['student ticket and general admission general admission ticket', '6 dollar']	['525 ticket']	0.523788929543
+['student ticket and general admission general admission ticket', '6 dollar']	['dollar']	0.43698773698
+['student ticket and general admission general admission ticket', '6 dollar']	['2876 dollar']	0.908940930422
+['ticket', '525 ticket']	['high school play']	0.409973435243
+['ticket', '525 ticket']	['play']	0.835347152145
+['ticket', '525 ticket']	['school play']	0.223557185055
+['ticket', '525 ticket']	['student ticket']	0.67043800229
+['ticket', '525 ticket']	['4 dollar and general admission general admission ticket']	0.63458077879
+['ticket', '525 ticket']	['6 dollar']	0.249001768327
+['ticket', '525 ticket']	['dollar']	0.210708137696
+['ticket', '525 ticket']	['2876 dollar']	0.247627320934
+['ticket', '525 ticket']	['student ticket and general admission general admission ticket']	0.63458077879
+['high school play', '525 ticket']	['ticket']	0.7825529732
+['high school play', '525 ticket']	['play']	0.755754825732
+['high school play', '525 ticket']	['school play']	0.895285902786
+['high school play', '525 ticket']	['student ticket']	0.616556347736
+['high school play', '525 ticket']	['4 dollar and general admission general admission ticket']	0.473184296906
+['high school play', '525 ticket']	['6 dollar']	0.151484162343
+['high school play', '525 ticket']	['dollar']	0.00839809730066
+['high school play', '525 ticket']	['2876 dollar']	0.15961386663
+['high school play', '525 ticket']	['student ticket and general admission general admission ticket']	0.473184296906
+['play', '525 ticket']	['ticket']	0.810727690174
+['play', '525 ticket']	['high school play']	0.712478410537
+['play', '525 ticket']	['school play']	0.707594685938
+['play', '525 ticket']	['student ticket']	0.51364678879
+['play', '525 ticket']	['4 dollar and general admission general admission ticket']	0.415471557389
+['play', '525 ticket']	['6 dollar']	0.0830529202888
+['play', '525 ticket']	['dollar']	0.339953026192
+['play', '525 ticket']	['2876 dollar']	0.0833805889219
+['play', '525 ticket']	['student ticket and general admission general admission ticket']	0.415471557389
+['school play', '525 ticket']	['ticket']	0.677007875188
+['school play', '525 ticket']	['high school play']	0.777014688918
+['school play', '525 ticket']	['play']	0.689644934024
+['school play', '525 ticket']	['student ticket']	0.542633257095
+['school play', '525 ticket']	['4 dollar and general admission general admission ticket']	0.47557248481
+['school play', '525 ticket']	['6 dollar']	0.0897823390711
+['school play', '525 ticket']	['dollar']	0.00851929931405
+['school play', '525 ticket']	['2876 dollar']	0.0901100077042
+['school play', '525 ticket']	['student ticket and general admission general admission ticket']	0.432612986675
+['student ticket', '525 ticket']	['ticket']	0.760071154082
+['student ticket', '525 ticket']	['high school play']	0.358931222536
+['student ticket', '525 ticket']	['play']	0.367055075288
+['student ticket', '525 ticket']	['school play']	0.167427262452
+['student ticket', '525 ticket']	['4 dollar and general admission general admission ticket']	0.362055803882
+['student ticket', '525 ticket']	['6 dollar']	0.13854205058
+['student ticket', '525 ticket']	['dollar']	0.210419668337
+['student ticket', '525 ticket']	['2876 dollar']	0.127137811052
+['student ticket', '525 ticket']	['student ticket and general admission general admission ticket']	0.596331932067
+['4 dollar and general admission general admission ticket', '525 ticket']	['ticket']	0.789877404172
+['4 dollar and general admission general admission ticket', '525 ticket']	['high school play']	0.306292998722
+['4 dollar and general admission general admission ticket', '525 ticket']	['play']	0.337275619669
+['4 dollar and general admission general admission ticket', '525 ticket']	['school play']	0.197420936561
+['4 dollar and general admission general admission ticket', '525 ticket']	['student ticket']	0.63313239517
+['4 dollar and general admission general admission ticket', '525 ticket']	['6 dollar']	0.632343246937
+['4 dollar and general admission general admission ticket', '525 ticket']	['dollar']	0.290727411432
+['4 dollar and general admission general admission ticket', '525 ticket']	['2876 dollar']	0.127952343303
+['4 dollar and general admission general admission ticket', '525 ticket']	['student ticket and general admission general admission ticket']	0.405024458352
+['6 dollar', '525 ticket']	['ticket']	0.697934417106
+['6 dollar', '525 ticket']	['high school play']	0.0828503410239
+['6 dollar', '525 ticket']	['play']	0.0724084239529
+['6 dollar', '525 ticket']	['school play']	0.0696933362217
+['6 dollar', '525 ticket']	['student ticket']	0.523933849778
+['6 dollar', '525 ticket']	['4 dollar and general admission general admission ticket']	0.556411047339
+['6 dollar', '525 ticket']	['dollar']	0.364353069043
+['6 dollar', '525 ticket']	['2876 dollar']	0.88617432218
+['6 dollar', '525 ticket']	['student ticket and general admission general admission ticket']	0.438742501918
+['dollar', '525 ticket']	['ticket']	0.453156762872
+['dollar', '525 ticket']	['high school play']	0.0208571041899
+['dollar', '525 ticket']	['play']	0.344327011979
+['dollar', '525 ticket']	['school play']	0.0160064194205
+['dollar', '525 ticket']	['student ticket']	0.143935418664
+['dollar', '525 ticket']	['4 dollar and general admission general admission ticket']	0.14764172344
+['dollar', '525 ticket']	['6 dollar']	0.238308800753
+['dollar', '525 ticket']	['2876 dollar']	0.380321401688
+['dollar', '525 ticket']	['student ticket and general admission general admission ticket']	0.14764172344
+['2876 dollar', '525 ticket']	['ticket']	0.687998110055
+['2876 dollar', '525 ticket']	['high school play']	0.0941266761548
+['2876 dollar', '525 ticket']	['play']	0.0896499787083
+['2876 dollar', '525 ticket']	['school play']	0.0901100077042
+['2876 dollar', '525 ticket']	['student ticket']	0.577101062223
+['2876 dollar', '525 ticket']	['4 dollar and general admission general admission ticket']	0.47557248481
+['2876 dollar', '525 ticket']	['6 dollar']	0.871002672125
+['2876 dollar', '525 ticket']	['dollar']	0.375763972207
+['2876 dollar', '525 ticket']	['student ticket and general admission general admission ticket']	0.47557248481
+['student ticket and general admission general admission ticket', '525 ticket']	['ticket']	0.789877404172
+['student ticket and general admission general admission ticket', '525 ticket']	['high school play']	0.2910981818
+['student ticket and general admission general admission ticket', '525 ticket']	['play']	0.337275619669
+['student ticket and general admission general admission ticket', '525 ticket']	['school play']	0.172482157515
+['student ticket and general admission general admission ticket', '525 ticket']	['student ticket']	0.685140277144
+['student ticket and general admission general admission ticket', '525 ticket']	['4 dollar and general admission general admission ticket']	0.405024458352
+['student ticket and general admission general admission ticket', '525 ticket']	['6 dollar']	0.143803575199
+['student ticket and general admission general admission ticket', '525 ticket']	['dollar']	0.290727411432
+['student ticket and general admission general admission ticket', '525 ticket']	['2876 dollar']	0.127952343303
+['ticket', 'dollar']	['high school play']	0.0794819785807
+['ticket', 'dollar']	['play']	0.0919933141992
+['ticket', 'dollar']	['school play']	0.0795460777291
+['ticket', 'dollar']	['student ticket']	0.25396043316
+['ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.195383845386
+['ticket', 'dollar']	['6 dollar']	0.318586803484
+['ticket', 'dollar']	['525 ticket']	0.375410673061
+['ticket', 'dollar']	['2876 dollar']	0.466647629277
+['ticket', 'dollar']	['student ticket and general admission general admission ticket']	0.195383845386
+['high school play', 'dollar']	['ticket']	0.0836849062258
+['high school play', 'dollar']	['play']	0.45989326349
+['high school play', 'dollar']	['school play']	0.414882717319
+['high school play', 'dollar']	['student ticket']	0.0202676583236
+['high school play', 'dollar']	['4 dollar and general admission general admission ticket']	0.0328225502226
+['high school play', 'dollar']	['6 dollar']	0.221289623137
+['high school play', 'dollar']	['525 ticket']	0.024606125502
+['high school play', 'dollar']	['2876 dollar']	0.356496055166
+['high school play', 'dollar']	['student ticket and general admission general admission ticket']	0.0699654073654
+['play', 'dollar']	['ticket']	0.209450369883
+['play', 'dollar']	['high school play']	0.328825920404
+['play', 'dollar']	['school play']	0.328825920404
+['play', 'dollar']	['student ticket']	0.0291150142518
+['play', 'dollar']	['4 dollar and general admission general admission ticket']	0.03846798128
+['play', 'dollar']	['6 dollar']	0.297534171906
+['play', 'dollar']	['525 ticket']	0.0351663404773
+['play', 'dollar']	['2876 dollar']	0.433314295943
+['play', 'dollar']	['student ticket and general admission general admission ticket']	0.03846798128
+['school play', 'dollar']	['ticket']	0.11117959837
+['school play', 'dollar']	['high school play']	0.365586727114
+['school play', 'dollar']	['play']	0.45686296046
+['school play', 'dollar']	['student ticket']	0.0254362597609
+['school play', 'dollar']	['4 dollar and general admission general admission ticket']	0.0303534144201
+['school play', 'dollar']	['6 dollar']	0.238308800753
+['school play', 'dollar']	['525 ticket']	0.0221369896995
+['school play', 'dollar']	['2876 dollar']	0.380321401688
+['school play', 'dollar']	['student ticket and general admission general admission ticket']	0.0674962715629
+['student ticket', 'dollar']	['ticket']	0.350552054943
+['student ticket', 'dollar']	['high school play']	0.0829349518718
+['student ticket', 'dollar']	['play']	0.385160345312
+['student ticket', 'dollar']	['school play']	0.0780842671024
+['student ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.14764172344
+['student ticket', 'dollar']	['6 dollar']	0.223493985938
+['student ticket', 'dollar']	['525 ticket']	0.132615563108
+['student ticket', 'dollar']	['2876 dollar']	0.380321401688
+['student ticket', 'dollar']	['student ticket and general admission general admission ticket']	0.252494278122
+['4 dollar and general admission general admission ticket', 'dollar']	['ticket']	0.262496437152
+['4 dollar and general admission general admission ticket', 'dollar']	['high school play']	0.02654947689
+['4 dollar and general admission general admission ticket', 'dollar']	['play']	0.292083992002
+['4 dollar and general admission general admission ticket', 'dollar']	['school play']	0.0182104200275
+['4 dollar and general admission general admission ticket', 'dollar']	['student ticket']	0.163132322133
+['4 dollar and general admission general admission ticket', 'dollar']	['6 dollar']	0.408428997647
+['4 dollar and general admission general admission ticket', 'dollar']	['525 ticket']	0.186877130741
+['4 dollar and general admission general admission ticket', 'dollar']	['2876 dollar']	0.365452280831
+['4 dollar and general admission general admission ticket', 'dollar']	['student ticket and general admission general admission ticket']	0.192637121919
+['6 dollar', 'dollar']	['ticket']	0.322528831111
+['6 dollar', 'dollar']	['high school play']	0.281175830055
+['6 dollar', 'dollar']	['play']	0.558249343401
+['6 dollar', 'dollar']	['school play']	0.182901068763
+['6 dollar', 'dollar']	['student ticket']	0.184215442944
+['6 dollar', 'dollar']	['4 dollar and general admission general admission ticket']	0.475202550542
+['6 dollar', 'dollar']	['525 ticket']	0.166089767686
+['6 dollar', 'dollar']	['2876 dollar']	0.673775580205
+['6 dollar', 'dollar']	['student ticket and general admission general admission ticket']	0.264364528978
+['525 ticket', 'dollar']	['ticket']	0.453156762872
+['525 ticket', 'dollar']	['high school play']	0.0208571041899
+['525 ticket', 'dollar']	['play']	0.344327011979
+['525 ticket', 'dollar']	['school play']	0.0160064194205
+['525 ticket', 'dollar']	['student ticket']	0.143935418664
+['525 ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.14764172344
+['525 ticket', 'dollar']	['6 dollar']	0.238308800753
+['525 ticket', 'dollar']	['2876 dollar']	0.380321401688
+['525 ticket', 'dollar']	['student ticket and general admission general admission ticket']	0.14764172344
+['2876 dollar', 'dollar']	['ticket']	0.264652724916
+['2876 dollar', 'dollar']	['high school play']	0.223299723861
+['2876 dollar', 'dollar']	['play']	0.491582676734
+['2876 dollar', 'dollar']	['school play']	0.125024962568
+['2876 dollar', 'dollar']	['student ticket']	0.126339336749
+['2876 dollar', 'dollar']	['4 dollar and general admission general admission ticket']	0.206488422783
+['2876 dollar', 'dollar']	['6 dollar']	0.781380787676
+['2876 dollar', 'dollar']	['525 ticket']	0.108213661491
+['2876 dollar', 'dollar']	['student ticket and general admission general admission ticket']	0.206488422783
+['student ticket and general admission general admission ticket', 'dollar']	['ticket']	0.262496437152
+['student ticket and general admission general admission ticket', 'dollar']	['high school play']	0.02654947689
+['student ticket and general admission general admission ticket', 'dollar']	['play']	0.292083992002
+['student ticket and general admission general admission ticket', 'dollar']	['school play']	0.0182104200275
+['student ticket and general admission general admission ticket', 'dollar']	['student ticket']	0.256701417953
+['student ticket and general admission general admission ticket', 'dollar']	['4 dollar and general admission general admission ticket']	0.192637121919
+['student ticket and general admission general admission ticket', 'dollar']	['6 dollar']	0.313160549988
+['student ticket and general admission general admission ticket', 'dollar']	['525 ticket']	0.186877130741
+['student ticket and general admission general admission ticket', 'dollar']	['2876 dollar']	0.365452280831
+['ticket', '2876 dollar']	['high school play']	0.0974379980224
+['ticket', '2876 dollar']	['play']	0.753415646432
+['ticket', '2876 dollar']	['school play']	0.074092754852
+['ticket', '2876 dollar']	['student ticket']	0.600226976026
+['ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.526220703877
+['ticket', '2876 dollar']	['6 dollar']	0.665428233341
+['ticket', '2876 dollar']	['525 ticket']	0.669973747197
+['ticket', '2876 dollar']	['dollar']	0.480796902709
+['ticket', '2876 dollar']	['student ticket and general admission general admission ticket']	0.526220703877
+['high school play', '2876 dollar']	['ticket']	0.164548598577
+['high school play', '2876 dollar']	['play']	0.755754825732
+['high school play', '2876 dollar']	['school play']	0.895285902786
+['high school play', '2876 dollar']	['student ticket']	0.151484162343
+['high school play', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.153090809293
+['high school play', '2876 dollar']	['6 dollar']	0.955608186011
+['high school play', '2876 dollar']	['525 ticket']	0.15961386663
+['high school play', '2876 dollar']	['dollar']	0.394946604786
+['high school play', '2876 dollar']	['student ticket and general admission general admission ticket']	0.153090809293
+['play', '2876 dollar']	['ticket']	0.867152314657
+['play', '2876 dollar']	['high school play']	0.712478410537
+['play', '2876 dollar']	['school play']	0.707594685938
+['play', '2876 dollar']	['student ticket']	0.0868063705507
+['play', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.105391086116
+['play', '2876 dollar']	['6 dollar']	0.654685128622
+['play', '2876 dollar']	['525 ticket']	0.0871340391838
+['play', '2876 dollar']	['dollar']	0.488250324261
+['play', '2876 dollar']	['student ticket and general admission general admission ticket']	0.105391086116
+['school play', '2876 dollar']	['ticket']	0.10397274702
+['school play', '2876 dollar']	['high school play']	0.777014688918
+['school play', '2876 dollar']	['play']	0.689644934024
+['school play', '2876 dollar']	['student ticket']	0.0824069519204
+['school play', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.0906383040618
+['school play', '2876 dollar']	['6 dollar']	0.871002672125
+['school play', '2876 dollar']	['525 ticket']	0.0901100077042
+['school play', '2876 dollar']	['dollar']	0.347558844001
+['school play', '2876 dollar']	['student ticket and general admission general admission ticket']	0.0873150570242
+['student ticket', '2876 dollar']	['ticket']	0.655688057646
+['student ticket', '2876 dollar']	['high school play']	0.0828503410239
+['student ticket', '2876 dollar']	['play']	0.0724084239529
+['student ticket', '2876 dollar']	['school play']	0.0696933362217
+['student ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.438742501918
+['student ticket', '2876 dollar']	['6 dollar']	0.853745599558
+['student ticket', '2876 dollar']	['525 ticket']	0.544221442934
+['student ticket', '2876 dollar']	['dollar']	0.367136521226
+['student ticket', '2876 dollar']	['student ticket and general admission general admission ticket']	0.515130592376
+['4 dollar and general admission general admission ticket', '2876 dollar']	['ticket']	0.671817531793
+['4 dollar and general admission general admission ticket', '2876 dollar']	['high school play']	0.112559918644
+['4 dollar and general admission general admission ticket', '2876 dollar']	['play']	0.108364962764
+['4 dollar and general admission general admission ticket', '2876 dollar']	['school play']	0.0915001233665
+['4 dollar and general admission general admission ticket', '2876 dollar']	['student ticket']	0.529621206802
+['4 dollar and general admission general admission ticket', '2876 dollar']	['6 dollar']	0.857736949303
+['4 dollar and general admission general admission ticket', '2876 dollar']	['525 ticket']	0.579959400449
+['4 dollar and general admission general admission ticket', '2876 dollar']	['dollar']	0.390137653536
+['4 dollar and general admission general admission ticket', '2876 dollar']	['student ticket and general admission general admission ticket']	0.432572685384
+['6 dollar', '2876 dollar']	['ticket']	0.488547567809
+['6 dollar', '2876 dollar']	['high school play']	0.353649848982
+['6 dollar', '2876 dollar']	['play']	0.412008457518
+['6 dollar', '2876 dollar']	['school play']	0.247329860011
+['6 dollar', '2876 dollar']	['student ticket']	0.13854205058
+['6 dollar', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.640867080196
+['6 dollar', '2876 dollar']	['525 ticket']	0.127137811052
+['6 dollar', '2876 dollar']	['dollar']	0.857127904794
+['6 dollar', '2876 dollar']	['student ticket and general admission general admission ticket']	0.345953256214
+['525 ticket', '2876 dollar']	['ticket']	0.687998110055
+['525 ticket', '2876 dollar']	['high school play']	0.0941266761548
+['525 ticket', '2876 dollar']	['play']	0.0896499787083
+['525 ticket', '2876 dollar']	['school play']	0.0901100077042
+['525 ticket', '2876 dollar']	['student ticket']	0.577101062223
+['525 ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.47557248481
+['525 ticket', '2876 dollar']	['6 dollar']	0.871002672125
+['525 ticket', '2876 dollar']	['dollar']	0.375763972207
+['525 ticket', '2876 dollar']	['student ticket and general admission general admission ticket']	0.47557248481
+['dollar', '2876 dollar']	['ticket']	0.264652724916
+['dollar', '2876 dollar']	['high school play']	0.223299723861
+['dollar', '2876 dollar']	['play']	0.491582676734
+['dollar', '2876 dollar']	['school play']	0.125024962568
+['dollar', '2876 dollar']	['student ticket']	0.126339336749
+['dollar', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.206488422783
+['dollar', '2876 dollar']	['6 dollar']	0.781380787676
+['dollar', '2876 dollar']	['525 ticket']	0.108213661491
+['dollar', '2876 dollar']	['student ticket and general admission general admission ticket']	0.206488422783
+['student ticket and general admission general admission ticket', '2876 dollar']	['ticket']	0.671817531793
+['student ticket and general admission general admission ticket', '2876 dollar']	['high school play']	0.112559918644
+['student ticket and general admission general admission ticket', '2876 dollar']	['play']	0.108364962764
+['student ticket and general admission general admission ticket', '2876 dollar']	['school play']	0.0915001233665
+['student ticket and general admission general admission ticket', '2876 dollar']	['student ticket']	0.690181798682
+['student ticket and general admission general admission ticket', '2876 dollar']	['4 dollar and general admission general admission ticket']	0.432572685384
+['student ticket and general admission general admission ticket', '2876 dollar']	['6 dollar']	0.91113873262
+['student ticket and general admission general admission ticket', '2876 dollar']	['525 ticket']	0.579959400449
+['student ticket and general admission general admission ticket', '2876 dollar']	['dollar']	0.390137653536
+['ticket', 'student ticket and general admission general admission ticket']	['high school play']	0.382258851124
+['ticket', 'student ticket and general admission general admission ticket']	['play']	0.797107884146
+['ticket', 'student ticket and general admission general admission ticket']	['school play']	0.157042679737
+['ticket', 'student ticket and general admission general admission ticket']	['student ticket']	0.46714723218
+['ticket', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.643931595746
+['ticket', 'student ticket and general admission general admission ticket']	['6 dollar']	0.199329486566
+['ticket', 'student ticket and general admission general admission ticket']	['525 ticket']	0.767021841282
+['ticket', 'student ticket and general admission general admission ticket']	['dollar']	0.202516572754
+['ticket', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.193176066652
+['high school play', 'student ticket and general admission general admission ticket']	['ticket']	0.669856747479
+['high school play', 'student ticket and general admission general admission ticket']	['play']	0.685746664001
+['high school play', 'student ticket and general admission general admission ticket']	['school play']	0.85862714984
+['high school play', 'student ticket and general admission general admission ticket']	['student ticket']	0.734993885709
+['high school play', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.399244349402
+['high school play', 'student ticket and general admission general admission ticket']	['6 dollar']	0.0907458062299
+['high school play', 'student ticket and general admission general admission ticket']	['525 ticket']	0.535890507687
+['high school play', 'student ticket and general admission general admission ticket']	['dollar']	0.0410062829336
+['high school play', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.0988755105172
+['play', 'student ticket and general admission general admission ticket']	['ticket']	0.777879237134
+['play', 'student ticket and general admission general admission ticket']	['high school play']	0.720675383548
+['play', 'student ticket and general admission general admission ticket']	['school play']	0.723810016811
+['play', 'student ticket and general admission general admission ticket']	['student ticket']	0.747812500442
+['play', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.426605459696
+['play', 'student ticket and general admission general admission ticket']	['6 dollar']	0.0896143899239
+['play', 'student ticket and general admission general admission ticket']	['525 ticket']	0.504895445092
+['play', 'student ticket and general admission general admission ticket']	['dollar']	0.278788410591
+['play', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.0921460917349
+['school play', 'student ticket and general admission general admission ticket']	['ticket']	0.669856747479
+['school play', 'student ticket and general admission general admission ticket']	['high school play']	0.854707702758
+['school play', 'student ticket and general admission general admission ticket']	['play']	0.685746664001
+['school play', 'student ticket and general admission general admission ticket']	['student ticket']	0.734993885709
+['school play', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.432572685384
+['school play', 'student ticket and general admission general admission ticket']	['6 dollar']	0.0907458062299
+['school play', 'student ticket and general admission general admission ticket']	['525 ticket']	0.579959400449
+['school play', 'student ticket and general admission general admission ticket']	['dollar']	0.0410062829336
+['school play', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.0988755105172
+['student ticket', 'student ticket and general admission general admission ticket']	['ticket']	0.583674238746
+['student ticket', 'student ticket and general admission general admission ticket']	['high school play']	0.389539839079
+['student ticket', 'student ticket and general admission general admission ticket']	['play']	0.338339616813
+['student ticket', 'student ticket and general admission general admission ticket']	['school play']	0.165468907422
+['student ticket', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.524522478042
+['student ticket', 'student ticket and general admission general admission ticket']	['6 dollar']	0.133249183292
+['student ticket', 'student ticket and general admission general admission ticket']	['525 ticket']	0.686178826986
+['student ticket', 'student ticket and general admission general admission ticket']	['dollar']	0.287890531999
+['student ticket', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.109369378475
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['ticket']	0.663570125275
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['high school play']	0.321449339501
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['play']	0.307028706089
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['school play']	0.205929426806
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['student ticket']	0.707094577478
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['6 dollar']	0.65037467578
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['525 ticket']	0.575647647299
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['dollar']	0.290727411432
+['4 dollar and general admission general admission ticket', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.127952343303
+['6 dollar', 'student ticket and general admission general admission ticket']	['ticket']	0.630727004123
+['6 dollar', 'student ticket and general admission general admission ticket']	['high school play']	0.099042553019
+['6 dollar', 'student ticket and general admission general admission ticket']	['play']	0.0868721922441
+['6 dollar', 'student ticket and general admission general admission ticket']	['school play']	0.0641181843254
+['6 dollar', 'student ticket and general admission general admission ticket']	['student ticket']	0.634813212499
+['6 dollar', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.646578633778
+['6 dollar', 'student ticket and general admission general admission ticket']	['525 ticket']	0.523788929543
+['6 dollar', 'student ticket and general admission general admission ticket']	['dollar']	0.43698773698
+['6 dollar', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.908940930422
+['525 ticket', 'student ticket and general admission general admission ticket']	['ticket']	0.789877404172
+['525 ticket', 'student ticket and general admission general admission ticket']	['high school play']	0.2910981818
+['525 ticket', 'student ticket and general admission general admission ticket']	['play']	0.337275619669
+['525 ticket', 'student ticket and general admission general admission ticket']	['school play']	0.172482157515
+['525 ticket', 'student ticket and general admission general admission ticket']	['student ticket']	0.685140277144
+['525 ticket', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.405024458352
+['525 ticket', 'student ticket and general admission general admission ticket']	['6 dollar']	0.143803575199
+['525 ticket', 'student ticket and general admission general admission ticket']	['dollar']	0.290727411432
+['525 ticket', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.127952343303
+['dollar', 'student ticket and general admission general admission ticket']	['ticket']	0.262496437152
+['dollar', 'student ticket and general admission general admission ticket']	['high school play']	0.02654947689
+['dollar', 'student ticket and general admission general admission ticket']	['play']	0.292083992002
+['dollar', 'student ticket and general admission general admission ticket']	['school play']	0.0182104200275
+['dollar', 'student ticket and general admission general admission ticket']	['student ticket']	0.256701417953
+['dollar', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.192637121919
+['dollar', 'student ticket and general admission general admission ticket']	['6 dollar']	0.313160549988
+['dollar', 'student ticket and general admission general admission ticket']	['525 ticket']	0.186877130741
+['dollar', 'student ticket and general admission general admission ticket']	['2876 dollar']	0.365452280831
+['2876 dollar', 'student ticket and general admission general admission ticket']	['ticket']	0.671817531793
+['2876 dollar', 'student ticket and general admission general admission ticket']	['high school play']	0.112559918644
+['2876 dollar', 'student ticket and general admission general admission ticket']	['play']	0.108364962764
+['2876 dollar', 'student ticket and general admission general admission ticket']	['school play']	0.0915001233665
+['2876 dollar', 'student ticket and general admission general admission ticket']	['student ticket']	0.690181798682
+['2876 dollar', 'student ticket and general admission general admission ticket']	['4 dollar and general admission general admission ticket']	0.432572685384
+['2876 dollar', 'student ticket and general admission general admission ticket']	['6 dollar']	0.91113873262
+['2876 dollar', 'student ticket and general admission general admission ticket']	['525 ticket']	0.579959400449
+['2876 dollar', 'student ticket and general admission general admission ticket']	['dollar']	0.390137653536

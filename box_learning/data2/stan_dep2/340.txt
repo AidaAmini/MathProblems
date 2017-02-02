@@ -1,0 +1,19 @@
+(ROOT
+  (S
+    (PP (IN During) (NP (DT a) (NN sale)))
+    (NP (DT an) (NN automobile) (NN dealer))
+    (VP (VBD sold) (NP (CD 69) (NNS cars) (CC and) (NNS trucks)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP she))
+        (VP
+          (VBD sold)
+          (NP (CD 27) (JJR more) (NNS cars))
+          (PP (IN than) (NP (NNS trucks))))))
+    (WHNP (WHADJP (WRB how) (JJ many)) (NNS trucks))
+    (SQ (VP (VBD did) (S (NP (PRP she)) (VP (VB sell)))))
+    (. ?)))

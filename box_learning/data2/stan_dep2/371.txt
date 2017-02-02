@@ -1,0 +1,30 @@
+(ROOT
+  (S
+    (NP
+      (ADJP
+        (JJ Separate)
+        (NP-TMP (CD 66))
+        (PP (IN into) (NP (CD 2))))
+      (NNS parts))
+    (ADVP
+      (IN so)
+      (PP
+        (IN that)
+        (NP (NP (CD 0.40)) (PP (IN of) (NP (CD one) (NN part))))))
+    (VP
+      (VBZ exceeds)
+      (NP
+        (NP (CD 0.625))
+        (PP (IN of) (NP (DT the) (JJ other) (NN part))))
+      (PP (IN by) (NP (CD 10))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VP (VBZ is) (NP (DT the) (JJR smaller) (NN part))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is) (NP (DT the) (ADJP (JJR larger)) (NN part)))
+    (. ?)))

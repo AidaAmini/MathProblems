@@ -1,0 +1,764 @@
+['theater', '900 ticket', 'play', 'floor seat', '12 dollar', 'seat', 'balcony seat', '10 dollar', 'receipt', '9,780 dollar']
+['theater']	['900 ticket']	0.0827346205535
+['theater']	['play']	0.104660021814
+['theater']	['floor seat']	0.17132134852
+['theater']	['12 dollar']	0.0827346205535
+['theater']	['seat']	0.122840736639
+['theater']	['balcony seat']	0.17132134852
+['theater']	['10 dollar']	0.0827346205535
+['theater']	['receipt']	0.123736452089
+['theater']	['9,780 dollar']	0.0827346205535
+['900 ticket']	['play']	0.0896499787083
+['900 ticket']	['floor seat']	0.0897823390711
+['900 ticket']	['12 dollar']	0.0901100077042
+['900 ticket']	['seat']	0.151982381418
+['900 ticket']	['balcony seat']	0.0897823390711
+['900 ticket']	['10 dollar']	0.0901100077042
+['900 ticket']	['receipt']	0.0744376594044
+['900 ticket']	['9,780 dollar']	0.0901100077042
+['play']	['floor seat']	0.0897823390711
+['play']	['12 dollar']	0.0816612840118
+['play']	['seat']	0.0767389297906
+['play']	['balcony seat']	0.0897823390711
+['play']	['10 dollar']	0.0816612840118
+['play']	['receipt']	0.154812515002
+['play']	['9,780 dollar']	0.0816612840118
+['floor seat']	['12 dollar']	0.0737139440912
+['floor seat']	['balcony seat']	0.752984781899
+['floor seat']	['10 dollar']	0.0737139440912
+['floor seat']	['receipt']	0.0634148935911
+['floor seat']	['9,780 dollar']	0.0737139440912
+['12 dollar']	['seat']	0.0774561735493
+['12 dollar']	['balcony seat']	0.0824069519204
+['12 dollar']	['10 dollar']	0.828768839235
+['12 dollar']	['receipt']	0.0744376594044
+['12 dollar']	['9,780 dollar']	0.643440930505
+['seat']	['10 dollar']	0.0867301380049
+['seat']	['receipt']	0.063465680784
+['seat']	['9,780 dollar']	0.0737139440912
+['balcony seat']	['10 dollar']	0.0696933362217
+['balcony seat']	['receipt']	0.0634148935911
+['balcony seat']	['9,780 dollar']	0.0737139440912
+['10 dollar']	['receipt']	0.0744376594044
+['10 dollar']	['9,780 dollar']	0.643440930505
+['receipt']	['9,780 dollar']	0.0800317642921
+['900 ticket', 'theater']	['play']	0.384258881532
+['900 ticket', 'theater']	['floor seat']	0.137148555841
+['900 ticket', 'theater']	['12 dollar']	0.0827346205535
+['900 ticket', 'theater']	['seat']	0.838190720628
+['900 ticket', 'theater']	['balcony seat']	0.137148555841
+['900 ticket', 'theater']	['10 dollar']	0.0827346205535
+['900 ticket', 'theater']	['receipt']	0.707662026151
+['900 ticket', 'theater']	['9,780 dollar']	0.0827346205535
+['play', 'theater']	['900 ticket']	0.083785214554
+['play', 'theater']	['floor seat']	0.137148555841
+['play', 'theater']	['12 dollar']	0.0800317642921
+['play', 'theater']	['seat']	0.547172944996
+['play', 'theater']	['balcony seat']	0.137148555841
+['play', 'theater']	['10 dollar']	0.0800317642921
+['play', 'theater']	['receipt']	0.12203745321
+['play', 'theater']	['9,780 dollar']	0.0800317642921
+['floor seat', 'theater']	['900 ticket']	0.0696933362217
+['floor seat', 'theater']	['play']	0.496653500567
+['floor seat', 'theater']	['12 dollar']	0.0696933362217
+['floor seat', 'theater']	['seat']	0.764569287469
+['floor seat', 'theater']	['balcony seat']	0.730579802429
+['floor seat', 'theater']	['10 dollar']	0.0696933362217
+['floor seat', 'theater']	['receipt']	0.735260703228
+['floor seat', 'theater']	['9,780 dollar']	0.0696933362217
+['12 dollar', 'theater']	['900 ticket']	0.0827346205535
+['12 dollar', 'theater']	['play']	0.35357706335
+['12 dollar', 'theater']	['floor seat']	0.169483363862
+['12 dollar', 'theater']	['seat']	0.734118072423
+['12 dollar', 'theater']	['balcony seat']	0.14207343716
+['12 dollar', 'theater']	['10 dollar']	0.760386850763
+['12 dollar', 'theater']	['receipt']	0.707662026151
+['12 dollar', 'theater']	['9,780 dollar']	0.549852778125
+['seat', 'theater']	['900 ticket']	0.164160202798
+['seat', 'theater']	['play']	0.16567663238
+['seat', 'theater']	['floor seat']	0.693307127637
+['seat', 'theater']	['12 dollar']	0.0696933362217
+['seat', 'theater']	['balcony seat']	0.641139286062
+['seat', 'theater']	['10 dollar']	0.309217164467
+['seat', 'theater']	['receipt']	0.472049430355
+['seat', 'theater']	['9,780 dollar']	0.0696933362217
+['balcony seat', 'theater']	['900 ticket']	0.0696933362217
+['balcony seat', 'theater']	['play']	0.496653500567
+['balcony seat', 'theater']	['floor seat']	0.730579802429
+['balcony seat', 'theater']	['12 dollar']	0.0696933362217
+['balcony seat', 'theater']	['seat']	0.780044054682
+['balcony seat', 'theater']	['10 dollar']	0.0696933362217
+['balcony seat', 'theater']	['receipt']	0.735260703228
+['balcony seat', 'theater']	['9,780 dollar']	0.0696933362217
+['10 dollar', 'theater']	['900 ticket']	0.0827346205535
+['10 dollar', 'theater']	['play']	0.35357706335
+['10 dollar', 'theater']	['floor seat']	0.169483363862
+['10 dollar', 'theater']	['12 dollar']	0.760386850763
+['10 dollar', 'theater']	['seat']	0.572066756383
+['10 dollar', 'theater']	['balcony seat']	0.14207343716
+['10 dollar', 'theater']	['receipt']	0.707662026151
+['10 dollar', 'theater']	['9,780 dollar']	0.549852778125
+['receipt', 'theater']	['900 ticket']	0.0800317642921
+['receipt', 'theater']	['play']	0.445854054161
+['receipt', 'theater']	['floor seat']	0.178372912114
+['receipt', 'theater']	['12 dollar']	0.0800317642921
+['receipt', 'theater']	['seat']	0.479666962955
+['receipt', 'theater']	['balcony seat']	0.178372912114
+['receipt', 'theater']	['10 dollar']	0.0800317642921
+['receipt', 'theater']	['9,780 dollar']	0.0800317642921
+['9,780 dollar', 'theater']	['900 ticket']	0.0827346205535
+['9,780 dollar', 'theater']	['play']	0.35357706335
+['9,780 dollar', 'theater']	['floor seat']	0.137148555841
+['9,780 dollar', 'theater']	['12 dollar']	0.549852778125
+['9,780 dollar', 'theater']	['seat']	0.734118072423
+['9,780 dollar', 'theater']	['balcony seat']	0.137148555841
+['9,780 dollar', 'theater']	['10 dollar']	0.549852778125
+['9,780 dollar', 'theater']	['receipt']	0.707662026151
+['theater', '900 ticket']	['play']	0.384258881532
+['theater', '900 ticket']	['floor seat']	0.137148555841
+['theater', '900 ticket']	['12 dollar']	0.0827346205535
+['theater', '900 ticket']	['seat']	0.838190720628
+['theater', '900 ticket']	['balcony seat']	0.137148555841
+['theater', '900 ticket']	['10 dollar']	0.0827346205535
+['theater', '900 ticket']	['receipt']	0.707662026151
+['theater', '900 ticket']	['9,780 dollar']	0.0827346205535
+['play', '900 ticket']	['theater']	0.266512184964
+['play', '900 ticket']	['floor seat']	0.0897823390711
+['play', '900 ticket']	['12 dollar']	0.0833805889219
+['play', '900 ticket']	['seat']	0.348005430172
+['play', '900 ticket']	['balcony seat']	0.0897823390711
+['play', '900 ticket']	['10 dollar']	0.0833805889219
+['play', '900 ticket']	['receipt']	0.717331085163
+['play', '900 ticket']	['9,780 dollar']	0.0833805889219
+['floor seat', '900 ticket']	['theater']	0.178254512946
+['floor seat', '900 ticket']	['play']	0.0980635036832
+['floor seat', '900 ticket']	['12 dollar']	0.0737139440912
+['floor seat', '900 ticket']	['seat']	0.628293903976
+['floor seat', '900 ticket']	['balcony seat']	0.705549007265
+['floor seat', '900 ticket']	['10 dollar']	0.0737139440912
+['floor seat', '900 ticket']	['receipt']	0.0634148935911
+['floor seat', '900 ticket']	['9,780 dollar']	0.0737139440912
+['12 dollar', '900 ticket']	['theater']	0.0777864840342
+['12 dollar', '900 ticket']	['play']	0.0896499787083
+['12 dollar', '900 ticket']	['floor seat']	0.0824069519204
+['12 dollar', '900 ticket']	['seat']	0.164721943821
+['12 dollar', '900 ticket']	['balcony seat']	0.0824069519204
+['12 dollar', '900 ticket']	['10 dollar']	0.754360422532
+['12 dollar', '900 ticket']	['receipt']	0.0744376594044
+['12 dollar', '900 ticket']	['9,780 dollar']	0.584269096576
+['seat', '900 ticket']	['theater']	0.754441425948
+['seat', '900 ticket']	['play']	0.247827171915
+['seat', '900 ticket']	['floor seat']	0.604465896967
+['seat', '900 ticket']	['12 dollar']	0.0737139440912
+['seat', '900 ticket']	['balcony seat']	0.600226976026
+['seat', '900 ticket']	['10 dollar']	0.245665034282
+['seat', '900 ticket']	['receipt']	0.206653832009
+['seat', '900 ticket']	['9,780 dollar']	0.0737139440912
+['balcony seat', '900 ticket']	['theater']	0.178254512946
+['balcony seat', '900 ticket']	['play']	0.0980635036832
+['balcony seat', '900 ticket']	['floor seat']	0.705549007265
+['balcony seat', '900 ticket']	['12 dollar']	0.0696933362217
+['balcony seat', '900 ticket']	['seat']	0.592180738634
+['balcony seat', '900 ticket']	['10 dollar']	0.0696933362217
+['balcony seat', '900 ticket']	['receipt']	0.0634148935911
+['balcony seat', '900 ticket']	['9,780 dollar']	0.0737139440912
+['10 dollar', '900 ticket']	['theater']	0.0777864840342
+['10 dollar', '900 ticket']	['play']	0.0896499787083
+['10 dollar', '900 ticket']	['floor seat']	0.0824069519204
+['10 dollar', '900 ticket']	['12 dollar']	0.754360422532
+['10 dollar', '900 ticket']	['seat']	0.23381629746
+['10 dollar', '900 ticket']	['balcony seat']	0.0824069519204
+['10 dollar', '900 ticket']	['receipt']	0.0744376594044
+['10 dollar', '900 ticket']	['9,780 dollar']	0.584269096576
+['receipt', '900 ticket']	['theater']	0.726842748871
+['receipt', '900 ticket']	['play']	0.76180181784
+['receipt', '900 ticket']	['floor seat']	0.0830529202888
+['receipt', '900 ticket']	['12 dollar']	0.0833805889219
+['receipt', '900 ticket']	['seat']	0.358593665466
+['receipt', '900 ticket']	['balcony seat']	0.0830529202888
+['receipt', '900 ticket']	['10 dollar']	0.0833805889219
+['receipt', '900 ticket']	['9,780 dollar']	0.0833805889219
+['9,780 dollar', '900 ticket']	['theater']	0.0777864840342
+['9,780 dollar', '900 ticket']	['play']	0.0896499787083
+['9,780 dollar', '900 ticket']	['floor seat']	0.0897823390711
+['9,780 dollar', '900 ticket']	['12 dollar']	0.584269096576
+['9,780 dollar', '900 ticket']	['seat']	0.164721943821
+['9,780 dollar', '900 ticket']	['balcony seat']	0.0897823390711
+['9,780 dollar', '900 ticket']	['10 dollar']	0.584269096576
+['9,780 dollar', '900 ticket']	['receipt']	0.0744376594044
+['theater', 'play']	['900 ticket']	0.083785214554
+['theater', 'play']	['floor seat']	0.137148555841
+['theater', 'play']	['12 dollar']	0.0800317642921
+['theater', 'play']	['seat']	0.547172944996
+['theater', 'play']	['balcony seat']	0.137148555841
+['theater', 'play']	['10 dollar']	0.0800317642921
+['theater', 'play']	['receipt']	0.12203745321
+['theater', 'play']	['9,780 dollar']	0.0800317642921
+['900 ticket', 'play']	['theater']	0.266512184964
+['900 ticket', 'play']	['floor seat']	0.0897823390711
+['900 ticket', 'play']	['12 dollar']	0.0833805889219
+['900 ticket', 'play']	['seat']	0.348005430172
+['900 ticket', 'play']	['balcony seat']	0.0897823390711
+['900 ticket', 'play']	['10 dollar']	0.0833805889219
+['900 ticket', 'play']	['receipt']	0.717331085163
+['900 ticket', 'play']	['9,780 dollar']	0.0833805889219
+['floor seat', 'play']	['theater']	0.574043847143
+['floor seat', 'play']	['900 ticket']	0.074092754852
+['floor seat', 'play']	['12 dollar']	0.0703393045902
+['floor seat', 'play']	['seat']	0.6759363026
+['floor seat', 'play']	['balcony seat']	0.705549007265
+['floor seat', 'play']	['10 dollar']	0.0703393045902
+['floor seat', 'play']	['receipt']	0.744929762239
+['floor seat', 'play']	['9,780 dollar']	0.0703393045902
+['12 dollar', 'play']	['theater']	0.266512184964
+['12 dollar', 'play']	['900 ticket']	0.0871340391838
+['12 dollar', 'play']	['floor seat']	0.0824069519204
+['12 dollar', 'play']	['seat']	0.192648399091
+['12 dollar', 'play']	['balcony seat']	0.0824069519204
+['12 dollar', 'play']	['10 dollar']	0.794152038917
+['12 dollar', 'play']	['receipt']	0.717331085163
+['12 dollar', 'play']	['9,780 dollar']	0.520866309821
+['seat', 'play']	['theater']	0.439402495443
+['seat', 'play']	['900 ticket']	0.150004719525
+['seat', 'play']	['floor seat']	0.581420629478
+['seat', 'play']	['12 dollar']	0.0703393045902
+['seat', 'play']	['balcony seat']	0.566955643962
+['seat', 'play']	['10 dollar']	0.212760079037
+['seat', 'play']	['receipt']	0.476415459063
+['seat', 'play']	['9,780 dollar']	0.0703393045902
+['balcony seat', 'play']	['theater']	0.574043847143
+['balcony seat', 'play']	['900 ticket']	0.074092754852
+['balcony seat', 'play']	['floor seat']	0.705549007265
+['balcony seat', 'play']	['12 dollar']	0.0669904799604
+['balcony seat', 'play']	['seat']	0.607889169167
+['balcony seat', 'play']	['10 dollar']	0.0669904799604
+['balcony seat', 'play']	['receipt']	0.744929762239
+['balcony seat', 'play']	['9,780 dollar']	0.0703393045902
+['10 dollar', 'play']	['theater']	0.266512184964
+['10 dollar', 'play']	['900 ticket']	0.0871340391838
+['10 dollar', 'play']	['floor seat']	0.0824069519204
+['10 dollar', 'play']	['12 dollar']	0.794152038917
+['10 dollar', 'play']	['seat']	0.36955622264
+['10 dollar', 'play']	['balcony seat']	0.0824069519204
+['10 dollar', 'play']	['receipt']	0.717331085163
+['10 dollar', 'play']	['9,780 dollar']	0.520866309821
+['receipt', 'play']	['theater']	0.441488025453
+['receipt', 'play']	['900 ticket']	0.092336172472
+['receipt', 'play']	['floor seat']	0.0830529202888
+['receipt', 'play']	['12 dollar']	0.0885827222101
+['receipt', 'play']	['seat']	0.0767389297906
+['receipt', 'play']	['balcony seat']	0.0830529202888
+['receipt', 'play']	['10 dollar']	0.0885827222101
+['receipt', 'play']	['9,780 dollar']	0.0885827222101
+['9,780 dollar', 'play']	['theater']	0.266512184964
+['9,780 dollar', 'play']	['900 ticket']	0.0871340391838
+['9,780 dollar', 'play']	['floor seat']	0.0897823390711
+['9,780 dollar', 'play']	['12 dollar']	0.520866309821
+['9,780 dollar', 'play']	['seat']	0.192648399091
+['9,780 dollar', 'play']	['balcony seat']	0.0897823390711
+['9,780 dollar', 'play']	['10 dollar']	0.520866309821
+['9,780 dollar', 'play']	['receipt']	0.717331085163
+['theater', 'floor seat']	['900 ticket']	0.0696933362217
+['theater', 'floor seat']	['play']	0.496653500567
+['theater', 'floor seat']	['12 dollar']	0.0696933362217
+['theater', 'floor seat']	['seat']	0.764569287469
+['theater', 'floor seat']	['balcony seat']	0.730579802429
+['theater', 'floor seat']	['10 dollar']	0.0696933362217
+['theater', 'floor seat']	['receipt']	0.735260703228
+['theater', 'floor seat']	['9,780 dollar']	0.0696933362217
+['900 ticket', 'floor seat']	['theater']	0.178254512946
+['900 ticket', 'floor seat']	['play']	0.0980635036832
+['900 ticket', 'floor seat']	['12 dollar']	0.0737139440912
+['900 ticket', 'floor seat']	['seat']	0.628293903976
+['900 ticket', 'floor seat']	['balcony seat']	0.705549007265
+['900 ticket', 'floor seat']	['10 dollar']	0.0737139440912
+['900 ticket', 'floor seat']	['receipt']	0.0634148935911
+['900 ticket', 'floor seat']	['9,780 dollar']	0.0737139440912
+['play', 'floor seat']	['theater']	0.574043847143
+['play', 'floor seat']	['900 ticket']	0.074092754852
+['play', 'floor seat']	['12 dollar']	0.0703393045902
+['play', 'floor seat']	['seat']	0.6759363026
+['play', 'floor seat']	['balcony seat']	0.705549007265
+['play', 'floor seat']	['10 dollar']	0.0703393045902
+['play', 'floor seat']	['receipt']	0.744929762239
+['play', 'floor seat']	['9,780 dollar']	0.0703393045902
+['12 dollar', 'floor seat']	['theater']	0.171333074747
+['12 dollar', 'floor seat']	['900 ticket']	0.0737139440912
+['12 dollar', 'floor seat']	['play']	0.0980635036832
+['12 dollar', 'floor seat']	['seat']	0.481105484927
+['12 dollar', 'floor seat']	['balcony seat']	0.7214098166
+['12 dollar', 'floor seat']	['10 dollar']	0.73028733598
+['12 dollar', 'floor seat']	['receipt']	0.0634148935911
+['12 dollar', 'floor seat']	['9,780 dollar']	0.544221442934
+['seat', 'floor seat']	['theater']	0.961069322928
+['seat', 'floor seat']	['900 ticket']	0.368085701281
+['seat', 'floor seat']	['play']	0.579775944028
+['seat', 'floor seat']	['12 dollar']	0.190037195855
+['seat', 'floor seat']	['balcony seat']	0.613647924791
+['seat', 'floor seat']	['10 dollar']	0.503203958531
+['seat', 'floor seat']	['receipt']	0.505203356301
+['seat', 'floor seat']	['9,780 dollar']	0.190037195855
+['balcony seat', 'floor seat']	['theater']	0.508649805193
+['balcony seat', 'floor seat']	['900 ticket']	0.177915983734
+['balcony seat', 'floor seat']	['play']	0.465548777234
+['balcony seat', 'floor seat']	['12 dollar']	0.187609861285
+['balcony seat', 'floor seat']	['seat']	0.748148549881
+['balcony seat', 'floor seat']	['10 dollar']	0.187609861285
+['balcony seat', 'floor seat']	['receipt']	0.414359357869
+['balcony seat', 'floor seat']	['9,780 dollar']	0.177915983734
+['10 dollar', 'floor seat']	['theater']	0.171333074747
+['10 dollar', 'floor seat']	['900 ticket']	0.0737139440912
+['10 dollar', 'floor seat']	['play']	0.0980635036832
+['10 dollar', 'floor seat']	['12 dollar']	0.73028733598
+['10 dollar', 'floor seat']	['seat']	0.538588351904
+['10 dollar', 'floor seat']	['balcony seat']	0.7214098166
+['10 dollar', 'floor seat']	['receipt']	0.0634148935911
+['10 dollar', 'floor seat']	['9,780 dollar']	0.544221442934
+['receipt', 'floor seat']	['theater']	0.881985339752
+['receipt', 'floor seat']	['900 ticket']	0.0703393045902
+['receipt', 'floor seat']	['play']	0.84237999251
+['receipt', 'floor seat']	['12 dollar']	0.0703393045902
+['receipt', 'floor seat']	['seat']	0.6759363026
+['receipt', 'floor seat']	['balcony seat']	0.743821928147
+['receipt', 'floor seat']	['10 dollar']	0.0703393045902
+['receipt', 'floor seat']	['9,780 dollar']	0.0703393045902
+['9,780 dollar', 'floor seat']	['theater']	0.171333074747
+['9,780 dollar', 'floor seat']	['900 ticket']	0.0737139440912
+['9,780 dollar', 'floor seat']	['play']	0.0980635036832
+['9,780 dollar', 'floor seat']	['12 dollar']	0.544221442934
+['9,780 dollar', 'floor seat']	['seat']	0.481105484927
+['9,780 dollar', 'floor seat']	['balcony seat']	0.705549007265
+['9,780 dollar', 'floor seat']	['10 dollar']	0.544221442934
+['9,780 dollar', 'floor seat']	['receipt']	0.0634148935911
+['theater', '12 dollar']	['900 ticket']	0.0827346205535
+['theater', '12 dollar']	['play']	0.35357706335
+['theater', '12 dollar']	['floor seat']	0.169483363862
+['theater', '12 dollar']	['seat']	0.734118072423
+['theater', '12 dollar']	['balcony seat']	0.14207343716
+['theater', '12 dollar']	['10 dollar']	0.760386850763
+['theater', '12 dollar']	['receipt']	0.707662026151
+['theater', '12 dollar']	['9,780 dollar']	0.549852778125
+['900 ticket', '12 dollar']	['theater']	0.0777864840342
+['900 ticket', '12 dollar']	['play']	0.0896499787083
+['900 ticket', '12 dollar']	['floor seat']	0.0824069519204
+['900 ticket', '12 dollar']	['seat']	0.164721943821
+['900 ticket', '12 dollar']	['balcony seat']	0.0824069519204
+['900 ticket', '12 dollar']	['10 dollar']	0.754360422532
+['900 ticket', '12 dollar']	['receipt']	0.0744376594044
+['900 ticket', '12 dollar']	['9,780 dollar']	0.584269096576
+['play', '12 dollar']	['theater']	0.266512184964
+['play', '12 dollar']	['900 ticket']	0.0871340391838
+['play', '12 dollar']	['floor seat']	0.0824069519204
+['play', '12 dollar']	['seat']	0.192648399091
+['play', '12 dollar']	['balcony seat']	0.0824069519204
+['play', '12 dollar']	['10 dollar']	0.794152038917
+['play', '12 dollar']	['receipt']	0.717331085163
+['play', '12 dollar']	['9,780 dollar']	0.520866309821
+['floor seat', '12 dollar']	['theater']	0.171333074747
+['floor seat', '12 dollar']	['900 ticket']	0.0737139440912
+['floor seat', '12 dollar']	['play']	0.0980635036832
+['floor seat', '12 dollar']	['seat']	0.481105484927
+['floor seat', '12 dollar']	['balcony seat']	0.7214098166
+['floor seat', '12 dollar']	['10 dollar']	0.73028733598
+['floor seat', '12 dollar']	['receipt']	0.0634148935911
+['floor seat', '12 dollar']	['9,780 dollar']	0.544221442934
+['seat', '12 dollar']	['theater']	0.742818282067
+['seat', '12 dollar']	['900 ticket']	0.130048808393
+['seat', '12 dollar']	['play']	0.213391903471
+['seat', '12 dollar']	['floor seat']	0.594789395538
+['seat', '12 dollar']	['balcony seat']	0.604586417119
+['seat', '12 dollar']	['10 dollar']	0.805032154441
+['seat', '12 dollar']	['receipt']	0.206653832009
+['seat', '12 dollar']	['9,780 dollar']	0.522652815483
+['balcony seat', '12 dollar']	['theater']	0.171333074747
+['balcony seat', '12 dollar']	['900 ticket']	0.0737139440912
+['balcony seat', '12 dollar']	['play']	0.0980635036832
+['balcony seat', '12 dollar']	['floor seat']	0.7214098166
+['balcony seat', '12 dollar']	['seat']	0.570683816893
+['balcony seat', '12 dollar']	['10 dollar']	0.73028733598
+['balcony seat', '12 dollar']	['receipt']	0.0634148935911
+['balcony seat', '12 dollar']	['9,780 dollar']	0.544221442934
+['10 dollar', '12 dollar']	['theater']	0.327028499836
+['10 dollar', '12 dollar']	['900 ticket']	0.139258682248
+['10 dollar', '12 dollar']	['play']	0.406458874406
+['10 dollar', '12 dollar']	['floor seat']	0.177243932733
+['10 dollar', '12 dollar']	['seat']	0.638336036569
+['10 dollar', '12 dollar']	['balcony seat']	0.16132566236
+['10 dollar', '12 dollar']	['receipt']	0.37370815508
+['10 dollar', '12 dollar']	['9,780 dollar']	0.637144068101
+['receipt', '12 dollar']	['theater']	0.71521960499
+['receipt', '12 dollar']	['900 ticket']	0.0833805889219
+['receipt', '12 dollar']	['play']	0.76180181784
+['receipt', '12 dollar']	['floor seat']	0.079704095659
+['receipt', '12 dollar']	['seat']	0.192648399091
+['receipt', '12 dollar']	['balcony seat']	0.0830529202888
+['receipt', '12 dollar']	['10 dollar']	0.800833695134
+['receipt', '12 dollar']	['9,780 dollar']	0.520866309821
+['9,780 dollar', '12 dollar']	['theater']	0.327028499836
+['9,780 dollar', '12 dollar']	['900 ticket']	0.139258682248
+['9,780 dollar', '12 dollar']	['play']	0.406458874406
+['9,780 dollar', '12 dollar']	['floor seat']	0.177243932733
+['9,780 dollar', '12 dollar']	['seat']	0.345269105941
+['9,780 dollar', '12 dollar']	['balcony seat']	0.153629069592
+['9,780 dollar', '12 dollar']	['10 dollar']	0.862138942741
+['9,780 dollar', '12 dollar']	['receipt']	0.37370815508
+['theater', 'seat']	['900 ticket']	0.164160202798
+['theater', 'seat']	['play']	0.16567663238
+['theater', 'seat']	['floor seat']	0.693307127637
+['theater', 'seat']	['12 dollar']	0.0696933362217
+['theater', 'seat']	['balcony seat']	0.641139286062
+['theater', 'seat']	['10 dollar']	0.309217164467
+['theater', 'seat']	['receipt']	0.472049430355
+['theater', 'seat']	['9,780 dollar']	0.0696933362217
+['900 ticket', 'seat']	['theater']	0.754441425948
+['900 ticket', 'seat']	['play']	0.247827171915
+['900 ticket', 'seat']	['floor seat']	0.604465896967
+['900 ticket', 'seat']	['12 dollar']	0.0737139440912
+['900 ticket', 'seat']	['balcony seat']	0.600226976026
+['900 ticket', 'seat']	['10 dollar']	0.245665034282
+['900 ticket', 'seat']	['receipt']	0.206653832009
+['900 ticket', 'seat']	['9,780 dollar']	0.0737139440912
+['play', 'seat']	['theater']	0.439402495443
+['play', 'seat']	['900 ticket']	0.150004719525
+['play', 'seat']	['floor seat']	0.581420629478
+['play', 'seat']	['12 dollar']	0.0703393045902
+['play', 'seat']	['balcony seat']	0.566955643962
+['play', 'seat']	['10 dollar']	0.212760079037
+['play', 'seat']	['receipt']	0.476415459063
+['play', 'seat']	['9,780 dollar']	0.0703393045902
+['floor seat', 'seat']	['theater']	0.961069322928
+['floor seat', 'seat']	['900 ticket']	0.368085701281
+['floor seat', 'seat']	['play']	0.579775944028
+['floor seat', 'seat']	['12 dollar']	0.190037195855
+['floor seat', 'seat']	['balcony seat']	0.613647924791
+['floor seat', 'seat']	['10 dollar']	0.503203958531
+['floor seat', 'seat']	['receipt']	0.505203356301
+['floor seat', 'seat']	['9,780 dollar']	0.190037195855
+['12 dollar', 'seat']	['theater']	0.742818282067
+['12 dollar', 'seat']	['900 ticket']	0.130048808393
+['12 dollar', 'seat']	['play']	0.213391903471
+['12 dollar', 'seat']	['floor seat']	0.594789395538
+['12 dollar', 'seat']	['balcony seat']	0.604586417119
+['12 dollar', 'seat']	['10 dollar']	0.805032154441
+['12 dollar', 'seat']	['receipt']	0.206653832009
+['12 dollar', 'seat']	['9,780 dollar']	0.522652815483
+['balcony seat', 'seat']	['theater']	0.961069322928
+['balcony seat', 'seat']	['900 ticket']	0.368085701281
+['balcony seat', 'seat']	['play']	0.579775944028
+['balcony seat', 'seat']	['floor seat']	0.809774641087
+['balcony seat', 'seat']	['12 dollar']	0.187609861285
+['balcony seat', 'seat']	['10 dollar']	0.493734261561
+['balcony seat', 'seat']	['receipt']	0.505203356301
+['balcony seat', 'seat']	['9,780 dollar']	0.190037195855
+['10 dollar', 'seat']	['theater']	0.742818282067
+['10 dollar', 'seat']	['900 ticket']	0.130048808393
+['10 dollar', 'seat']	['play']	0.213391903471
+['10 dollar', 'seat']	['floor seat']	0.594789395538
+['10 dollar', 'seat']	['12 dollar']	0.736313764211
+['10 dollar', 'seat']	['balcony seat']	0.604586417119
+['10 dollar', 'seat']	['receipt']	0.206653832009
+['10 dollar', 'seat']	['9,780 dollar']	0.522652815483
+['receipt', 'seat']	['theater']	0.111098860584
+['receipt', 'seat']	['900 ticket']	0.176872944641
+['receipt', 'seat']	['play']	0.54383462316
+['receipt', 'seat']	['floor seat']	0.643795171173
+['receipt', 'seat']	['12 dollar']	0.0703393045902
+['receipt', 'seat']	['balcony seat']	0.62390239456
+['receipt', 'seat']	['10 dollar']	0.212760079037
+['receipt', 'seat']	['9,780 dollar']	0.0703393045902
+['9,780 dollar', 'seat']	['theater']	0.742818282067
+['9,780 dollar', 'seat']	['900 ticket']	0.130048808393
+['9,780 dollar', 'seat']	['play']	0.213391903471
+['9,780 dollar', 'seat']	['floor seat']	0.604465896967
+['9,780 dollar', 'seat']	['12 dollar']	0.522652815483
+['9,780 dollar', 'seat']	['balcony seat']	0.600226976026
+['9,780 dollar', 'seat']	['10 dollar']	0.820421221195
+['9,780 dollar', 'seat']	['receipt']	0.206653832009
+['theater', 'balcony seat']	['900 ticket']	0.0696933362217
+['theater', 'balcony seat']	['play']	0.496653500567
+['theater', 'balcony seat']	['floor seat']	0.730579802429
+['theater', 'balcony seat']	['12 dollar']	0.0696933362217
+['theater', 'balcony seat']	['seat']	0.780044054682
+['theater', 'balcony seat']	['10 dollar']	0.0696933362217
+['theater', 'balcony seat']	['receipt']	0.735260703228
+['theater', 'balcony seat']	['9,780 dollar']	0.0696933362217
+['900 ticket', 'balcony seat']	['theater']	0.178254512946
+['900 ticket', 'balcony seat']	['play']	0.0980635036832
+['900 ticket', 'balcony seat']	['floor seat']	0.705549007265
+['900 ticket', 'balcony seat']	['12 dollar']	0.0696933362217
+['900 ticket', 'balcony seat']	['seat']	0.592180738634
+['900 ticket', 'balcony seat']	['10 dollar']	0.0696933362217
+['900 ticket', 'balcony seat']	['receipt']	0.0634148935911
+['900 ticket', 'balcony seat']	['9,780 dollar']	0.0737139440912
+['play', 'balcony seat']	['theater']	0.574043847143
+['play', 'balcony seat']	['900 ticket']	0.074092754852
+['play', 'balcony seat']	['floor seat']	0.705549007265
+['play', 'balcony seat']	['12 dollar']	0.0669904799604
+['play', 'balcony seat']	['seat']	0.607889169167
+['play', 'balcony seat']	['10 dollar']	0.0669904799604
+['play', 'balcony seat']	['receipt']	0.744929762239
+['play', 'balcony seat']	['9,780 dollar']	0.0703393045902
+['floor seat', 'balcony seat']	['theater']	0.508649805193
+['floor seat', 'balcony seat']	['900 ticket']	0.177915983734
+['floor seat', 'balcony seat']	['play']	0.465548777234
+['floor seat', 'balcony seat']	['12 dollar']	0.187609861285
+['floor seat', 'balcony seat']	['seat']	0.748148549881
+['floor seat', 'balcony seat']	['10 dollar']	0.187609861285
+['floor seat', 'balcony seat']	['receipt']	0.414359357869
+['floor seat', 'balcony seat']	['9,780 dollar']	0.177915983734
+['12 dollar', 'balcony seat']	['theater']	0.171333074747
+['12 dollar', 'balcony seat']	['900 ticket']	0.0737139440912
+['12 dollar', 'balcony seat']	['play']	0.0980635036832
+['12 dollar', 'balcony seat']	['floor seat']	0.7214098166
+['12 dollar', 'balcony seat']	['seat']	0.570683816893
+['12 dollar', 'balcony seat']	['10 dollar']	0.73028733598
+['12 dollar', 'balcony seat']	['receipt']	0.0634148935911
+['12 dollar', 'balcony seat']	['9,780 dollar']	0.544221442934
+['seat', 'balcony seat']	['theater']	0.961069322928
+['seat', 'balcony seat']	['900 ticket']	0.368085701281
+['seat', 'balcony seat']	['play']	0.579775944028
+['seat', 'balcony seat']	['floor seat']	0.809774641087
+['seat', 'balcony seat']	['12 dollar']	0.187609861285
+['seat', 'balcony seat']	['10 dollar']	0.493734261561
+['seat', 'balcony seat']	['receipt']	0.505203356301
+['seat', 'balcony seat']	['9,780 dollar']	0.190037195855
+['10 dollar', 'balcony seat']	['theater']	0.171333074747
+['10 dollar', 'balcony seat']	['900 ticket']	0.0737139440912
+['10 dollar', 'balcony seat']	['play']	0.0980635036832
+['10 dollar', 'balcony seat']	['floor seat']	0.7214098166
+['10 dollar', 'balcony seat']	['12 dollar']	0.73028733598
+['10 dollar', 'balcony seat']	['seat']	0.51092191417
+['10 dollar', 'balcony seat']	['receipt']	0.0634148935911
+['10 dollar', 'balcony seat']	['9,780 dollar']	0.544221442934
+['receipt', 'balcony seat']	['theater']	0.881985339752
+['receipt', 'balcony seat']	['900 ticket']	0.0703393045902
+['receipt', 'balcony seat']	['play']	0.84237999251
+['receipt', 'balcony seat']	['floor seat']	0.743821928147
+['receipt', 'balcony seat']	['12 dollar']	0.0703393045902
+['receipt', 'balcony seat']	['seat']	0.62085213213
+['receipt', 'balcony seat']	['10 dollar']	0.0703393045902
+['receipt', 'balcony seat']	['9,780 dollar']	0.0703393045902
+['9,780 dollar', 'balcony seat']	['theater']	0.171333074747
+['9,780 dollar', 'balcony seat']	['900 ticket']	0.0737139440912
+['9,780 dollar', 'balcony seat']	['play']	0.0980635036832
+['9,780 dollar', 'balcony seat']	['floor seat']	0.705549007265
+['9,780 dollar', 'balcony seat']	['12 dollar']	0.525944474896
+['9,780 dollar', 'balcony seat']	['seat']	0.570683816893
+['9,780 dollar', 'balcony seat']	['10 dollar']	0.525944474896
+['9,780 dollar', 'balcony seat']	['receipt']	0.0634148935911
+['theater', '10 dollar']	['900 ticket']	0.0827346205535
+['theater', '10 dollar']	['play']	0.35357706335
+['theater', '10 dollar']	['floor seat']	0.169483363862
+['theater', '10 dollar']	['12 dollar']	0.760386850763
+['theater', '10 dollar']	['seat']	0.572066756383
+['theater', '10 dollar']	['balcony seat']	0.14207343716
+['theater', '10 dollar']	['receipt']	0.707662026151
+['theater', '10 dollar']	['9,780 dollar']	0.549852778125
+['900 ticket', '10 dollar']	['theater']	0.0777864840342
+['900 ticket', '10 dollar']	['play']	0.0896499787083
+['900 ticket', '10 dollar']	['floor seat']	0.0824069519204
+['900 ticket', '10 dollar']	['12 dollar']	0.754360422532
+['900 ticket', '10 dollar']	['seat']	0.23381629746
+['900 ticket', '10 dollar']	['balcony seat']	0.0824069519204
+['900 ticket', '10 dollar']	['receipt']	0.0744376594044
+['900 ticket', '10 dollar']	['9,780 dollar']	0.584269096576
+['play', '10 dollar']	['theater']	0.266512184964
+['play', '10 dollar']	['900 ticket']	0.0871340391838
+['play', '10 dollar']	['floor seat']	0.0824069519204
+['play', '10 dollar']	['12 dollar']	0.794152038917
+['play', '10 dollar']	['seat']	0.36955622264
+['play', '10 dollar']	['balcony seat']	0.0824069519204
+['play', '10 dollar']	['receipt']	0.717331085163
+['play', '10 dollar']	['9,780 dollar']	0.520866309821
+['floor seat', '10 dollar']	['theater']	0.171333074747
+['floor seat', '10 dollar']	['900 ticket']	0.0737139440912
+['floor seat', '10 dollar']	['play']	0.0980635036832
+['floor seat', '10 dollar']	['12 dollar']	0.73028733598
+['floor seat', '10 dollar']	['seat']	0.538588351904
+['floor seat', '10 dollar']	['balcony seat']	0.7214098166
+['floor seat', '10 dollar']	['receipt']	0.0634148935911
+['floor seat', '10 dollar']	['9,780 dollar']	0.544221442934
+['12 dollar', '10 dollar']	['theater']	0.327028499836
+['12 dollar', '10 dollar']	['900 ticket']	0.139258682248
+['12 dollar', '10 dollar']	['play']	0.406458874406
+['12 dollar', '10 dollar']	['floor seat']	0.177243932733
+['12 dollar', '10 dollar']	['seat']	0.638336036569
+['12 dollar', '10 dollar']	['balcony seat']	0.16132566236
+['12 dollar', '10 dollar']	['receipt']	0.37370815508
+['12 dollar', '10 dollar']	['9,780 dollar']	0.637144068101
+['seat', '10 dollar']	['theater']	0.742818282067
+['seat', '10 dollar']	['900 ticket']	0.130048808393
+['seat', '10 dollar']	['play']	0.213391903471
+['seat', '10 dollar']	['floor seat']	0.594789395538
+['seat', '10 dollar']	['12 dollar']	0.736313764211
+['seat', '10 dollar']	['balcony seat']	0.604586417119
+['seat', '10 dollar']	['receipt']	0.206653832009
+['seat', '10 dollar']	['9,780 dollar']	0.522652815483
+['balcony seat', '10 dollar']	['theater']	0.171333074747
+['balcony seat', '10 dollar']	['900 ticket']	0.0737139440912
+['balcony seat', '10 dollar']	['play']	0.0980635036832
+['balcony seat', '10 dollar']	['floor seat']	0.7214098166
+['balcony seat', '10 dollar']	['12 dollar']	0.73028733598
+['balcony seat', '10 dollar']	['seat']	0.51092191417
+['balcony seat', '10 dollar']	['receipt']	0.0634148935911
+['balcony seat', '10 dollar']	['9,780 dollar']	0.544221442934
+['receipt', '10 dollar']	['theater']	0.71521960499
+['receipt', '10 dollar']	['900 ticket']	0.0833805889219
+['receipt', '10 dollar']	['play']	0.76180181784
+['receipt', '10 dollar']	['floor seat']	0.079704095659
+['receipt', '10 dollar']	['12 dollar']	0.800833695134
+['receipt', '10 dollar']	['seat']	0.36955622264
+['receipt', '10 dollar']	['balcony seat']	0.0830529202888
+['receipt', '10 dollar']	['9,780 dollar']	0.520866309821
+['9,780 dollar', '10 dollar']	['theater']	0.327028499836
+['9,780 dollar', '10 dollar']	['900 ticket']	0.139258682248
+['9,780 dollar', '10 dollar']	['play']	0.406458874406
+['9,780 dollar', '10 dollar']	['floor seat']	0.177243932733
+['9,780 dollar', '10 dollar']	['12 dollar']	0.862138942741
+['9,780 dollar', '10 dollar']	['seat']	0.638336036569
+['9,780 dollar', '10 dollar']	['balcony seat']	0.153629069592
+['9,780 dollar', '10 dollar']	['receipt']	0.37370815508
+['theater', 'receipt']	['900 ticket']	0.0800317642921
+['theater', 'receipt']	['play']	0.445854054161
+['theater', 'receipt']	['floor seat']	0.178372912114
+['theater', 'receipt']	['12 dollar']	0.0800317642921
+['theater', 'receipt']	['seat']	0.479666962955
+['theater', 'receipt']	['balcony seat']	0.178372912114
+['theater', 'receipt']	['10 dollar']	0.0800317642921
+['theater', 'receipt']	['9,780 dollar']	0.0800317642921
+['900 ticket', 'receipt']	['theater']	0.726842748871
+['900 ticket', 'receipt']	['play']	0.76180181784
+['900 ticket', 'receipt']	['floor seat']	0.0830529202888
+['900 ticket', 'receipt']	['12 dollar']	0.0833805889219
+['900 ticket', 'receipt']	['seat']	0.358593665466
+['900 ticket', 'receipt']	['balcony seat']	0.0830529202888
+['900 ticket', 'receipt']	['10 dollar']	0.0833805889219
+['900 ticket', 'receipt']	['9,780 dollar']	0.0833805889219
+['play', 'receipt']	['theater']	0.441488025453
+['play', 'receipt']	['900 ticket']	0.092336172472
+['play', 'receipt']	['floor seat']	0.0830529202888
+['play', 'receipt']	['12 dollar']	0.0885827222101
+['play', 'receipt']	['seat']	0.0767389297906
+['play', 'receipt']	['balcony seat']	0.0830529202888
+['play', 'receipt']	['10 dollar']	0.0885827222101
+['play', 'receipt']	['9,780 dollar']	0.0885827222101
+['floor seat', 'receipt']	['theater']	0.881985339752
+['floor seat', 'receipt']	['900 ticket']	0.0703393045902
+['floor seat', 'receipt']	['play']	0.84237999251
+['floor seat', 'receipt']	['12 dollar']	0.0703393045902
+['floor seat', 'receipt']	['seat']	0.6759363026
+['floor seat', 'receipt']	['balcony seat']	0.743821928147
+['floor seat', 'receipt']	['10 dollar']	0.0703393045902
+['floor seat', 'receipt']	['9,780 dollar']	0.0703393045902
+['12 dollar', 'receipt']	['theater']	0.71521960499
+['12 dollar', 'receipt']	['900 ticket']	0.0833805889219
+['12 dollar', 'receipt']	['play']	0.76180181784
+['12 dollar', 'receipt']	['floor seat']	0.079704095659
+['12 dollar', 'receipt']	['seat']	0.192648399091
+['12 dollar', 'receipt']	['balcony seat']	0.0830529202888
+['12 dollar', 'receipt']	['10 dollar']	0.800833695134
+['12 dollar', 'receipt']	['9,780 dollar']	0.520866309821
+['seat', 'receipt']	['theater']	0.111098860584
+['seat', 'receipt']	['900 ticket']	0.176872944641
+['seat', 'receipt']	['play']	0.54383462316
+['seat', 'receipt']	['floor seat']	0.643795171173
+['seat', 'receipt']	['12 dollar']	0.0703393045902
+['seat', 'receipt']	['balcony seat']	0.62390239456
+['seat', 'receipt']	['10 dollar']	0.212760079037
+['seat', 'receipt']	['9,780 dollar']	0.0703393045902
+['balcony seat', 'receipt']	['theater']	0.881985339752
+['balcony seat', 'receipt']	['900 ticket']	0.0703393045902
+['balcony seat', 'receipt']	['play']	0.84237999251
+['balcony seat', 'receipt']	['floor seat']	0.743821928147
+['balcony seat', 'receipt']	['12 dollar']	0.0703393045902
+['balcony seat', 'receipt']	['seat']	0.62085213213
+['balcony seat', 'receipt']	['10 dollar']	0.0703393045902
+['balcony seat', 'receipt']	['9,780 dollar']	0.0703393045902
+['10 dollar', 'receipt']	['theater']	0.71521960499
+['10 dollar', 'receipt']	['900 ticket']	0.0833805889219
+['10 dollar', 'receipt']	['play']	0.76180181784
+['10 dollar', 'receipt']	['floor seat']	0.079704095659
+['10 dollar', 'receipt']	['12 dollar']	0.800833695134
+['10 dollar', 'receipt']	['seat']	0.36955622264
+['10 dollar', 'receipt']	['balcony seat']	0.0830529202888
+['10 dollar', 'receipt']	['9,780 dollar']	0.520866309821
+['9,780 dollar', 'receipt']	['theater']	0.71521960499
+['9,780 dollar', 'receipt']	['900 ticket']	0.0833805889219
+['9,780 dollar', 'receipt']	['play']	0.76180181784
+['9,780 dollar', 'receipt']	['floor seat']	0.0830529202888
+['9,780 dollar', 'receipt']	['12 dollar']	0.520866309821
+['9,780 dollar', 'receipt']	['seat']	0.192648399091
+['9,780 dollar', 'receipt']	['balcony seat']	0.0830529202888
+['9,780 dollar', 'receipt']	['10 dollar']	0.520866309821
+['theater', '9,780 dollar']	['900 ticket']	0.0827346205535
+['theater', '9,780 dollar']	['play']	0.35357706335
+['theater', '9,780 dollar']	['floor seat']	0.137148555841
+['theater', '9,780 dollar']	['12 dollar']	0.549852778125
+['theater', '9,780 dollar']	['seat']	0.734118072423
+['theater', '9,780 dollar']	['balcony seat']	0.137148555841
+['theater', '9,780 dollar']	['10 dollar']	0.549852778125
+['theater', '9,780 dollar']	['receipt']	0.707662026151
+['900 ticket', '9,780 dollar']	['theater']	0.0777864840342
+['900 ticket', '9,780 dollar']	['play']	0.0896499787083
+['900 ticket', '9,780 dollar']	['floor seat']	0.0897823390711
+['900 ticket', '9,780 dollar']	['12 dollar']	0.584269096576
+['900 ticket', '9,780 dollar']	['seat']	0.164721943821
+['900 ticket', '9,780 dollar']	['balcony seat']	0.0897823390711
+['900 ticket', '9,780 dollar']	['10 dollar']	0.584269096576
+['900 ticket', '9,780 dollar']	['receipt']	0.0744376594044
+['play', '9,780 dollar']	['theater']	0.266512184964
+['play', '9,780 dollar']	['900 ticket']	0.0871340391838
+['play', '9,780 dollar']	['floor seat']	0.0897823390711
+['play', '9,780 dollar']	['12 dollar']	0.520866309821
+['play', '9,780 dollar']	['seat']	0.192648399091
+['play', '9,780 dollar']	['balcony seat']	0.0897823390711
+['play', '9,780 dollar']	['10 dollar']	0.520866309821
+['play', '9,780 dollar']	['receipt']	0.717331085163
+['floor seat', '9,780 dollar']	['theater']	0.171333074747
+['floor seat', '9,780 dollar']	['900 ticket']	0.0737139440912
+['floor seat', '9,780 dollar']	['play']	0.0980635036832
+['floor seat', '9,780 dollar']	['12 dollar']	0.544221442934
+['floor seat', '9,780 dollar']	['seat']	0.481105484927
+['floor seat', '9,780 dollar']	['balcony seat']	0.705549007265
+['floor seat', '9,780 dollar']	['10 dollar']	0.544221442934
+['floor seat', '9,780 dollar']	['receipt']	0.0634148935911
+['12 dollar', '9,780 dollar']	['theater']	0.327028499836
+['12 dollar', '9,780 dollar']	['900 ticket']	0.139258682248
+['12 dollar', '9,780 dollar']	['play']	0.406458874406
+['12 dollar', '9,780 dollar']	['floor seat']	0.177243932733
+['12 dollar', '9,780 dollar']	['seat']	0.345269105941
+['12 dollar', '9,780 dollar']	['balcony seat']	0.153629069592
+['12 dollar', '9,780 dollar']	['10 dollar']	0.862138942741
+['12 dollar', '9,780 dollar']	['receipt']	0.37370815508
+['seat', '9,780 dollar']	['theater']	0.742818282067
+['seat', '9,780 dollar']	['900 ticket']	0.130048808393
+['seat', '9,780 dollar']	['play']	0.213391903471
+['seat', '9,780 dollar']	['floor seat']	0.604465896967
+['seat', '9,780 dollar']	['12 dollar']	0.522652815483
+['seat', '9,780 dollar']	['balcony seat']	0.600226976026
+['seat', '9,780 dollar']	['10 dollar']	0.820421221195
+['seat', '9,780 dollar']	['receipt']	0.206653832009
+['balcony seat', '9,780 dollar']	['theater']	0.171333074747
+['balcony seat', '9,780 dollar']	['900 ticket']	0.0737139440912
+['balcony seat', '9,780 dollar']	['play']	0.0980635036832
+['balcony seat', '9,780 dollar']	['floor seat']	0.705549007265
+['balcony seat', '9,780 dollar']	['12 dollar']	0.525944474896
+['balcony seat', '9,780 dollar']	['seat']	0.570683816893
+['balcony seat', '9,780 dollar']	['10 dollar']	0.525944474896
+['balcony seat', '9,780 dollar']	['receipt']	0.0634148935911
+['10 dollar', '9,780 dollar']	['theater']	0.327028499836
+['10 dollar', '9,780 dollar']	['900 ticket']	0.139258682248
+['10 dollar', '9,780 dollar']	['play']	0.406458874406
+['10 dollar', '9,780 dollar']	['floor seat']	0.177243932733
+['10 dollar', '9,780 dollar']	['12 dollar']	0.862138942741
+['10 dollar', '9,780 dollar']	['seat']	0.638336036569
+['10 dollar', '9,780 dollar']	['balcony seat']	0.153629069592
+['10 dollar', '9,780 dollar']	['receipt']	0.37370815508
+['receipt', '9,780 dollar']	['theater']	0.71521960499
+['receipt', '9,780 dollar']	['900 ticket']	0.0833805889219
+['receipt', '9,780 dollar']	['play']	0.76180181784
+['receipt', '9,780 dollar']	['floor seat']	0.0830529202888
+['receipt', '9,780 dollar']	['12 dollar']	0.520866309821
+['receipt', '9,780 dollar']	['seat']	0.192648399091
+['receipt', '9,780 dollar']	['balcony seat']	0.0830529202888
+['receipt', '9,780 dollar']	['10 dollar']	0.520866309821

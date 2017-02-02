@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NNP Colored) (NNS copies))
+    (VP
+      (VBD cost)
+      (SBAR
+        (S
+          (NP
+            (NP (CD 10) (NNS cents))
+            (PP
+              (IN per)
+              (NP (NN copy) (CC and) (JJ white) (NNS copies))))
+          (VP
+            (VBD cost)
+            (NP (NP (CD 5) (NNS cents)) (PP (IN per) (NP (NN copy))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (NNP Sandy))
+      (VP
+        (VBD made)
+        (NP
+          (NP (CD 400) (NNS copies))
+          (, ,)
+          (SBAR
+            (WHNP (NP (DT some)) (WHPP (IN of) (WHNP (WDT which))))
+            (S (VP (VBD were) (VP (VBN colored))))))))
+    (CC and)
+    (S (NP (DT the) (NN rest)) (ADJP (JJ white)))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP$ Her) (JJ total) (NN bill))
+    (VP (VBD was) (NP (CD 22.50) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (JJ colored) (NNS copies))
+        (CC and)
+        (NP (JJ white) (NNS copies))))
+    (SQ (VBD did) (NP (PRP she)) (VP (VB make)))
+    (. ?)))

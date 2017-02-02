@@ -1,0 +1,14 @@
+1
+[['people', '610', 'people', '-', '-', 'dollar', '960'], ['adult', 'x1', '-', 'dollar', '2', '-', '-'], ['child', 'x2', '-', 'dollar', '1', '-', '-']]
+-1
+[['people', '610', 'people', '-', 'child', 'dollar', '1'], ['adult', 'x1', '-', 'dollar', '2', '-', '-'], ['child', 'people', '-', 'dollar', '1', '960', '-']]
+-1
+[['people', 'child', 'people', '1', '-', 'dollar', '960'], ['adult', 'x1', '-', 'dollar', '2', '-', '-'], ['child', 'people', '-', 'dollar', '1', '-', '960']]
+-1
+[['people', 'x2', 'people', '-', '-', 'dollar', '1'], ['adult', 'x1', '-', 'dollar', '2', '-', '-'], ['child', 'x2', '-', 'dollar', '1', '-', 'people']]
+-1
+[['people', 'child', 'people', '-', '610', 'x2', '960'], ['adult', 'x1', '-', 'dollar', '2', '-', '-'], ['child', 'x2', '-', 'dollar', 'people', '610', '-']]
+-1
+[['people', '610', 'x2', '-', 'child', '1', '960'], ['adult', 'x1', '-', 'dollar', '2', '-', '-'], ['child', 'x2', '-', 'dollar', '1', '-', 'people']]
+-1
+[['people', '610', 'people', '-', '-', '1', 'x2'], ['adult', 'x1', '-', 'dollar', '2', '-', '-'], ['610', 'x2', '-', 'dollar', '1', 'people', '-']]

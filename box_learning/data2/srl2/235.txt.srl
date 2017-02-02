@@ -1,0 +1,15 @@
+score ARG0 The Lakers
+score LOC in a basketball game against the Bulls
+score ARG1 a total of 80 points
+
+make ARG0 The Lakers
+consist ARG1 The Lakers
+make ARG1 a total of 37 baskets
+consist ARG2 2 point baskets and 3 point baskets
+
+make ARG1 point baskets
+make ARG0 the Lakers
+
+make ARG1 baskets
+make ARG0 the Lakers
+

@@ -1,0 +1,16 @@
+1
+[['Baldwin and McInotosh apples', '12', 'bushel', '-', '-', 'dollar', '11'], ['baldwin', 'x1', 'bushel', 'cent', '95', '-', '-'], ['McInotosh', 'x2', 'bushel', 'cent', '90', '-', '-']]
+-1
+[['Baldwin and McInotosh apples', '90', 'bushel', 'cent', '-', 'dollar', '11'], ['baldwin', 'x1', 'bushel', 'cent', '95', '-', '-'], ['dollar', 'x2', 'bushel', '11', '90', 'Baldwin and McInotosh apples', '-']]
+-1
+[['cent', '12', 'bushel', 'x2', '-', 'dollar', '90'], ['baldwin', 'x1', 'bushel', 'cent', '95', '-', '-'], ['McInotosh', 'x2', '-', 'cent', '90', 'Baldwin and McInotosh apples', 'dollar']]
+-1
+[['Baldwin and McInotosh apples', '90', 'x2', '-', 'bushel', 'dollar', 'McInotosh'], ['baldwin', 'x1', 'bushel', 'cent', '95', '-', '-'], ['McInotosh', 'x2', 'bushel', 'cent', '90', '-', 'Baldwin and McInotosh apples']]
+-1
+[['Baldwin and McInotosh apples', 'bushel', '90', '-', '-', 'dollar', '11'], ['baldwin', 'x1', 'bushel', 'cent', '95', '-', '-'], ['Baldwin and McInotosh apples', '12', 'bushel', 'dollar', '90', '-', '-']]
+-1
+[['x2', 'McInotosh', 'bushel', '-', '-', 'cent', '90'], ['baldwin', 'x1', 'bushel', 'cent', '95', '-', '-'], ['McInotosh', 'x2', 'bushel', 'cent', '90', '-', '11']]
+-1
+[['Baldwin and McInotosh apples', 'x2', '90', '-', '-', 'dollar', '11'], ['baldwin', 'x1', 'bushel', 'cent', '95', '-', '-'], ['McInotosh', 'x2', 'bushel', 'cent', '90', '11', '-']]
+-1
+[['Baldwin and McInotosh apples', '12', 'bushel', '-', '-', 'dollar', '90'], ['baldwin', 'x1', 'bushel', 'cent', '95', '-', '-'], ['McInotosh', 'bushel', 'dollar', 'cent', '90', '-', 'Baldwin and McInotosh apples']]

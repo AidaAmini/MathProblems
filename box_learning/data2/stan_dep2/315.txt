@@ -1,0 +1,56 @@
+(ROOT
+  (S
+    (NP (DT The) (NN school))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG selling)
+        (NP (NNS tickets))
+        (PP (TO to) (NP (DT a) (NN performance)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP have) (NP (JJ adult) (CC and) (NN child) (NNS tickets)))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (DT Each) (JJ adult) (NN ticket))
+      (VP (VBZ is) (NP (CD 5) (NNS dollars))))
+    (CC and)
+    (S
+      (NP (DT each) (NN child) (NN ticket))
+      (VP (VBZ is) (NP (CD 3) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (PP
+      (IN By)
+      (NP
+        (NP (DT the) (NN end))
+        (PP (IN of) (NP (DT the) (NN week)))))
+    (, ,)
+    (NP (EX there))
+    (VP
+      (VBD was)
+      (NP
+        (NP (CD 178) (NNS dollars))
+        (PP
+          (IN in)
+          (NP
+            (NP (NNS sales))
+            (PP
+              (IN from)
+              (NP (NP (CD 42) (NNS tickets)) (VP (VBN sold))))))))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S (NP (JJ adult) (NNS tickets)) (VP (VBD were) (VP (VBN sold))))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHADVP (WRB How) (JJ many))
+    (NP (NN child) (NNS tickets))
+    (. ?)))

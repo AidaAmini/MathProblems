@@ -1,0 +1,14 @@
+1
+[['-', '-', '-', '-', '-', 'kilometer', '390'], ['freight train', '3', 'hour', 'kilometer', 'x1-30', '-', '-'], ['express train', '3', 'hour', 'kilometer', 'x1', '-', '-']]
+-1
+[['-', '-', 'hour', '-', '3', 'express train', '390'], ['freight train', '3', 'hour', 'kilometer', 'x1-30', '-', '-'], ['express train', '3', 'hour', 'kilometer', 'x1', '-', '390']]
+-1
+[['-', '-', 'hour', '3', 'express train', 'kilometer', 'x1'], ['freight train', '3', 'hour', 'kilometer', 'x1-30', '-', '-'], ['express train', '3', 'hour', 'kilometer', 'x1', '-', '-']]
+-1
+[['-', 'x1', '-', '-', '-', 'hour', '3'], ['freight train', '3', 'hour', 'kilometer', 'x1-30', '-', '-'], ['express train', '3', 'hour', 'kilometer', 'x1', '-', '-']]
+-1
+[['-', 'hour', 'express train', '-', 'x1', 'kilometer', '390'], ['freight train', '3', 'hour', 'kilometer', 'x1-30', '-', '-'], ['express train', '3', 'hour', 'kilometer', 'x1', '390', '-']]
+-1
+[['-', 'express train', '-', '3', 'x1', 'kilometer', 'hour'], ['freight train', '3', 'hour', 'kilometer', 'x1-30', '-', '-'], ['express train', '3', 'hour', 'kilometer', 'x1', '-', '390']]
+-1
+[['-', '-', 'hour', '-', '3', '390', 'express train'], ['freight train', '3', 'hour', 'kilometer', 'x1-30', '-', '-'], ['express train', '3', 'hour', 'kilometer', 'x1', '390', '-']]

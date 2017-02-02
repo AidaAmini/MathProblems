@@ -1,0 +1,15 @@
+work ARG0 Two mechanics
+work ARG1 a car
+
+charge ARG0 The first mechanic
+charge ARG1 45 dollars per hour
+charge ARG0 the second mechanic
+charge ARG1 85 dollars per hour
+
+work ARG0 The mechanics
+work ARG2 a combined total of 20 hours
+combine ARG3 a combined total of 20 hours
+charge ARG0 they
+charge ARG1 a total of 1100 dollars
+
+

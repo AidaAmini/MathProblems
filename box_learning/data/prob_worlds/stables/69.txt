@@ -1,0 +1,14 @@
+1
+[['adult and child', '127', '-', '-', '-', 'dollar', '839'], ['adult', 'x1', '-', 'dollar', '7', '-', '-'], ['child', 'x2', '-', 'dollar', '5', '-', '-']]
+-1
+[['adult and child', 'child', '5', '-', '-', 'dollar', '839'], ['adult', 'x1', '-', 'dollar', '7', '-', '-'], ['child', '839', '-', 'dollar', '5', '-', '-']]
+-1
+[['5', '127', '-', '-', '-', 'x2', '839'], ['adult', 'x1', '-', 'dollar', '7', '-', '-'], ['child', 'x2', '839', 'dollar', '5', '127', '-']]
+-1
+[['adult and child', '127', '-', '-', '-', '5', 'child'], ['adult', 'x1', '-', 'dollar', '7', '-', '-'], ['child', '127', '-', 'dollar', '5', '-', '-']]
+-1
+[['x2', '127', '-', 'child', '-', 'dollar', '839'], ['adult', 'x1', '-', 'dollar', '7', '-', '-'], ['child', 'x2', '-', 'dollar', '839', '-', '-']]
+-1
+[['adult and child', '127', '5', 'child', '-', 'dollar', 'x2'], ['adult', 'x1', '-', 'dollar', '7', '-', '-'], ['child', 'x2', '127', 'dollar', '5', '-', '-']]
+-1
+[['dollar', '127', 'adult and child', '-', '-', '5', 'child'], ['adult', 'x1', '-', 'dollar', '7', '-', '-'], ['child', 'adult and child', '-', 'dollar', '5', '-', '-']]

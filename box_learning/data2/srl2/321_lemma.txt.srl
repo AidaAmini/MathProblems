@@ -1,0 +1,13 @@
+no srl relation find
+buy arg0 a grocer
+buy arg1 12 bushel of Baldwin and McInotosh apple
+cost arg1 baldwin
+cost arg2 95 cent a bushel , but McIntosh cost only 90 cent a bushel
+cost arg2 95 cent a bushel , but McIntosh cost only 90 cent a bushel
+cost arg1 McIntosh
+cost arg3 only 90 cent
+get . ADV if he pay 11.00 dollar for the lot , how many bushel of baldwin
+pay arg0 he
+pay PNC for the lot , how many bushel of baldwin
+pay arg1 11.00 dollar
+get . arg1 he

@@ -1,0 +1,22 @@
+1
+[['-', '-', '-', '-', '-', 'dollar', '12'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '-', 'dollar', '', '-', '-'], ['-', '-', '-', '-', '-', 'dollar', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['cream cheese package', '2', '-', 'dollar', '', '-', '-']]
+-1
+[['cream cheese package', '-', '-', '', '14', 'dollar', '12'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '-', 'dollar', '', '-', '12'], ['-', '', '-', '-', '-', 'dollar', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['cream cheese package', '2', '-', 'dollar', '', '-', '-']]
+-1
+[['14', '-', '-', '', '-', 'dollar', '12'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '-', 'dollar', '', '-', '14'], ['-', '-', 'cream cheese package', 'dollar', '-', '', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['14', '2', '-', 'dollar', '', '-', '-']]
+-1
+[['-', '-', '14', '-', '-', 'dollar', '12'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '14', '-', 'dollar', '', '-', '-'], ['-', '', '-', '-', 'cream cheese package', 'dollar', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['cream cheese package', '2', '-', 'dollar', '', '-', '-']]
+-1
+[['-', '-', '', '-', '-', 'dollar', 'cream cheese package'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '-', 'dollar', '', '-', '-'], ['-', '', '-', '-', '-', 'dollar', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['cream cheese package', '2', '-', 'dollar', '', '-', '-']]
+-1
+[['', '14', '-', '3', '-', 'dollar', '12'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '2', 'dollar', '', '-', '-'], ['', '-', '2', '-', '-', 'dollar', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['14', '2', '-', 'dollar', '', '-', '-']]
+-1
+[['-', '-', '', '-', 'cream cheese package', '3', '12'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '-', 'dollar', '', '-', '-'], ['-', '-', '-', '', '3', 'dollar', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['cream cheese package', '2', '-', '3', '', '12', '-']]
+-1
+[['-', '-', '-', '-', '14', '', 'cream cheese package'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['2', '3', '-', 'cream cheese package', '', '-', '-'], ['2', '-', '-', '-', '', 'dollar', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['cream cheese package', '2', '-', '3', '', '-', '-']]
+-1
+[['', '-', '-', '-', '-', 'dollar', '12'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '-', 'dollar', '', '-', '-'], ['-', '-', '-', '-', 'dollar', '', '14'], ['bagel bag', '4', '-', 'dollar', '', '-', '2'], ['cream cheese package', '2', '-', 'dollar', '', '-', '-']]
+-1
+[['-', '-', '-', '3', '-', '', 'cream cheese package'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['14', '3', '2', 'dollar', '', '-', '-'], ['-', '-', '', '-', '-', 'dollar', '14'], ['bagel bag', '4', '2', 'dollar', '', '-', '-'], ['cream cheese package', '2', '-', 'dollar', '', '-', '14']]
+-1
+[['-', '-', '-', '-', '-', 'dollar', '12'], ['bagel bag', '2', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '-', 'dollar', '12', '-', '-'], ['-', '', '-', '-', '-', 'dollar', '12'], ['bagel bag', '4', '-', 'dollar', '', '-', '-'], ['cream cheese package', '3', '-', 'dollar', '', '-', '14']]

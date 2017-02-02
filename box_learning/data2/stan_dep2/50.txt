@@ -1,0 +1,39 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP are)
+      (VP
+        (VBG selling)
+        (NP
+          (NP (NNS tickets))
+          (PP (IN for) (NP (DT a) (JJ high) (NN school) (NN play))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (NN Student) (NNS tickets))
+      (VP (VBP are) (NP (CD 4) (NNS dollars))))
+    (CC and)
+    (S
+      (NP (JJ general) (NN admission) (NNS tickets))
+      (VP (VBP are) (NP (CD 6) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VP (VBP sell) (NP (CD 525) (NNS tickets)))
+      (CC and)
+      (VP (VB collect) (NP (CD 2876) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (NN student) (NNS tickets))
+        (CC and)
+        (NP (JJ general) (NN admission) (NNS tickets))))
+    (SQ (VBD did) (NP (PRP you)) (VP (VB sell)))
+    (. ?)))

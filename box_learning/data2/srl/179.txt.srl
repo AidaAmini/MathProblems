@@ -1,0 +1,21 @@
+receive ARG0 Rita
+receive ARG3 a coffee store
+receive ARG1 a 70 dollars gift card
+
+use ARG0 She
+use ARG2 buying some coffee that cost 8.58 dollars per pound.
+use ARG1 it
+buy ARG1 some coffee that cost 8.58 dollars per pound.
+cost ARG1 some coffee that cost 8.58 dollars per pound.
+cost ARG2 8.58 dollars
+
+leave TMP After buying the coffee , she had
+buy ARG1 the coffee , she had
+have ARG1 the coffee , she had
+have ARG0 she
+leave ARG0 35.68 dollars
+leave ARG1 her card.
+
+buy ARG1 pounds of coffee
+buy ARG0 she
+

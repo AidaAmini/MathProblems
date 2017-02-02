@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (PP (IN With) (NP (DT a) (NN tail) (NN wind)))
+    (, ,)
+    (NP (DT a) (NN jet))
+    (VP
+      (VBD flew)
+      (NP (CD 2000) (NNS miles))
+      (PP (IN in) (NP (CD 4) (NNS hours))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (NP (DT The) (NN jet) (POS 's)) (NN return) (NN trip))
+      (PP (IN against) (NP (DT the) (JJ same) (NN wind))))
+    (VP (VBN required) (NP-TMP (CD 5) (NNS hours)))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (NP (DT the) (NN jet) (POS 's)) (NN speed))
+        (CC and)
+        (NP (DT the) (NN wind) (NN speed))))
+    (. .)))

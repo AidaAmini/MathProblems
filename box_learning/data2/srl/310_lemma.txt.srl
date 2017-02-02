@@ -1,0 +1,11 @@
+give arg0 a carpenter
+give arg1 a estimate of 980 dollar to build a cover over a patio
+build arg1 a cover over a patio
+need arg0 he
+expect arg0 he
+expect arg1 to need 560 dollar in material
+need TMP in material
+need arg1 560 dollar
+take arg1 hour
+take arg0 the job
+take MOD will the job

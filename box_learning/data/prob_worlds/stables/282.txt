@@ -1,0 +1,16 @@
+1
+[['combined', '20', 'hour', '-', '-', 'dollar', '1100'], ['first mechanic', 'x1', 'hour', 'dollar', '45', '-', '-'], ['second mechanic', 'x2', 'hour', 'dollar', '85', '-', '-']]
+-1
+[['85', '20', 'combined', '-', 'second mechanic', 'dollar', 'x2'], ['first mechanic', 'x1', 'hour', 'dollar', '45', '-', '-'], ['second mechanic', 'x2', '20', 'dollar', '85', '-', '-']]
+-1
+[['combined', 'x2', 'hour', '-', '-', 'dollar', '1100'], ['first mechanic', 'x1', 'hour', 'dollar', '45', '-', '-'], ['20', 'x2', 'hour', 'dollar', '85', '-', '1100']]
+-1
+[['combined', '20', '85', '-', 'hour', 'x2', '1100'], ['first mechanic', 'x1', 'hour', 'dollar', '45', '-', '-'], ['1100', 'x2', 'hour', '20', '85', 'combined', '-']]
+-1
+[['combined', '20', 'hour', '85', '-', 'dollar', '1100'], ['first mechanic', 'x1', 'hour', 'dollar', '45', '-', '-'], ['second mechanic', 'x2', 'hour', 'dollar', '85', 'combined', '1100']]
+-1
+[['combined', '20', '85', '-', '-', 'dollar', '1100'], ['first mechanic', 'x1', 'hour', 'dollar', '45', '-', '-'], ['second mechanic', 'x2', 'combined', 'dollar', '85', '20', '-']]
+-1
+[['x2', '20', 'hour', '-', '85', 'dollar', '1100'], ['first mechanic', 'x1', 'hour', 'dollar', '45', '-', '-'], ['20', 'x2', 'hour', 'dollar', '1100', '85', '-']]
+-1
+[['combined', '85', 'hour', '-', '-', 'dollar', 'second mechanic'], ['first mechanic', 'x1', 'hour', 'dollar', '45', '-', '-'], ['second mechanic', 'x2', 'hour', 'dollar', '85', 'combined', '-']]

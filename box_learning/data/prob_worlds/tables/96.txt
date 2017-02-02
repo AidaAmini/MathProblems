@@ -1,0 +1,14 @@
+1
+[['ticket', '900', 'ticket', '-', '-', 'dollar', '9, 780'], ['balcony seat', 'x1', '-', 'dollar', '10', '-', '-'], ['floor seat', 'x2', '-', 'dollar', '12', '-', '-']]
+-1
+[['ticket', '900', '-', '12', 'x2', 'dollar', '9, 780'], ['balcony seat', 'x1', '-', 'dollar', '10', '-', '-'], ['ticket', 'x2', '-', '900', '12', '-', '-']]
+-1
+[['ticket', '900', 'ticket', '-', '-', '12', '9, 780'], ['balcony seat', 'x1', '-', 'dollar', '10', '-', '-'], ['floor seat', 'x2', '-', '900', '12', '-', 'ticket']]
+-1
+[['ticket', '900', '12', '-', '-', 'dollar', '9, 780'], ['balcony seat', 'x1', '-', 'dollar', '10', '-', '-'], ['floor seat', 'x2', '900', 'dollar', '12', '-', 'ticket']]
+-1
+[['ticket', '900', 'ticket', '12', '-', 'floor seat', '9, 780'], ['balcony seat', 'x1', '-', 'dollar', '10', '-', '-'], ['floor seat', '12', '900', 'dollar', '9, 780', 'ticket', '-']]
+-1
+[['ticket', '900', 'ticket', '-', '-', 'dollar', '9, 780'], ['balcony seat', 'x1', '-', 'dollar', '10', '-', '-'], ['floor seat', '9, 780', '-', 'dollar', 'ticket', '-', '900']]
+-1
+[['ticket', 'x2', 'ticket', '-', '-', 'dollar', '9, 780'], ['balcony seat', 'x1', '-', 'dollar', '10', '-', '-'], ['dollar', 'x2', '-', 'ticket', '12', '9, 780', '-']]

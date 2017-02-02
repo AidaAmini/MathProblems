@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (PP (IN In) (NP (DT a) (NN basketball) (NN game)))
+    (, ,)
+    (NP (NNP Will))
+    (VP
+      (VBD scored)
+      (NP (CD 26) (NNS points))
+      (, ,)
+      (S
+        (VP
+          (VBG consisting)
+          (ADVP (RB only))
+          (PP
+            (IN of)
+            (NP
+              (NP (JJ 3-point) (NNS shots))
+              (CC and)
+              (NP (JJ 2-point) (NNS shots)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBD made)
+      (NP
+        (NP (DT a) (NN total))
+        (PP (IN of) (NP (CD 11) (NNS shots)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 3-point))
+      (NNS shots))
+    (SQ (VBD did) (NP (PRP he)) (VP (VB make)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 2-point))
+      (NNS shots))
+    (SQ (VBD did) (NP (PRP he)) (VP (VB make)))
+    (. ?)))

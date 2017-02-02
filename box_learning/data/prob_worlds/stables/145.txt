@@ -1,0 +1,14 @@
+1
+[['ticket', '2000', 'ticket', '-', '-', 'dollar', '17, 339'], ['student ticket', 'x1', '-', 'dollar', '7', '-', '-'], ['non-student ticket', 'x2', '-', 'dollar', '10', '-', '-']]
+-1
+[['non-student ticket', '2000', 'ticket', '-', '-', 'dollar', '17, 339'], ['student ticket', 'x1', '-', 'dollar', '7', '-', '-'], ['non-student ticket', 'x2', '-', 'dollar', '2000', '-', 'ticket']]
+-1
+[['10', 'non-student ticket', 'ticket', '-', '-', 'dollar', 'x2'], ['student ticket', 'x1', '-', 'dollar', '7', '-', '-'], ['non-student ticket', 'x2', 'ticket', '17, 339', '10', 'dollar', '-']]
+-1
+[['ticket', '2000', 'ticket', '-', 'x2', 'dollar', 'non-student ticket'], ['student ticket', 'x1', '-', 'dollar', '7', '-', '-'], ['non-student ticket', 'x2', '2000', 'dollar', 'ticket', '-', '-']]
+-1
+[['non-student ticket', '10', 'ticket', '-', '-', 'x2', '17, 339'], ['student ticket', 'x1', '-', 'dollar', '7', '-', '-'], ['non-student ticket', 'x2', 'ticket', '17, 339', '10', '-', '-']]
+-1
+[['ticket', '2000', 'ticket', '17, 339', '-', 'dollar', 'non-student ticket'], ['student ticket', 'x1', '-', 'dollar', '7', '-', '-'], ['ticket', 'dollar', '-', 'non-student ticket', '10', '17, 339', '-']]
+-1
+[['dollar', 'non-student ticket', 'ticket', '-', '-', '10', '17, 339'], ['student ticket', 'x1', '-', 'dollar', '7', '-', '-'], ['non-student ticket', 'ticket', '-', 'dollar', '10', '-', '-']]

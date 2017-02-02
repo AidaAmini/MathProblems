@@ -1,0 +1,194 @@
+1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['compact disc', 'disc', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', 'disc', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['compact disc', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['compact disc', 'disc', '-', '-'], ['-', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['compact disc', 'disc', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'disc', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['compact disc', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['compact disc', 'disc', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'disc', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['compact disc', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['disc', '-', 'dollar', '-'], ['disc', '-', 'dollar', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['compact disc', '-', 'dollar', '-'], ['-', 'disc', 'dollar', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'dollar', 'disc', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', 'compact disc', 'dollar', '-'], ['-', '-', 'dollar', 'compact disc']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['disc', '-', 'dollar', '-'], ['-', '-', 'disc', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'store', 'dollar', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'disc', '-'], ['-', '-', 'dollar', 'disc']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'disc', '-'], ['-', 'disc', 'dollar', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', 'disc'], ['-', '-', 'dollar', 'disc']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', 'disc'], ['-', 'disc', 'dollar', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'disc', 'dollar']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'store', 'dollar', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'compact disc', 'dollar']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'compact disc', '-'], ['-', '-', 'compact disc', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', 'compact disc'], ['-', 'compact disc', 'dollar', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', 'compact disc'], ['-', '-', 'dollar', 'compact disc']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['compact disc', '-', 'dollar', '-'], ['-', 'compact disc', 'dollar', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['store', '-', 'dollar', '-']]
+-1
+[['compact disc', 'disc', 'dollar', '-'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', 'disc']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', 'compact disc', 'dollar', '-'], ['-', '-', 'dollar', 'compact disc']]
+-1
+[['compact disc', 'dollar', '-', '-'], ['-', '-', 'compact disc', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', 'dollar', 'compact disc'], ['disc', '-', 'dollar', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', 'disc', 'dollar', '-'], ['-', '-', 'disc', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', 'store', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['disc', '-', '-', '-'], ['-', '-', 'disc', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', 'disc', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'disc', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'compact disc', 'dollar', 'disc']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['compact disc', '-', '-', '-'], ['-', '-', 'compact disc', '-']]
+-1
+[['store', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', 'disc', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'compact disc', 'disc']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', 'disc'], ['compact disc', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', 'disc'], ['-', 'compact disc', '-', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['compact disc', '-', '-', 'dollar']]
+-1
+[['store', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['disc', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', 'disc', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', 'disc'], ['-', '-', '-', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'compact disc', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['compact disc', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', 'dollar', '-'], ['-', 'disc', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', 'dollar', 'compact disc'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['disc', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['compact disc', 'disc', 'dollar', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', 'compact disc', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['disc', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['disc', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'compact disc', '-', '-']]
+-1
+[['compact disc', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'compact disc', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', '-', 'disc'], ['-', '-', '-', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', 'disc']]
+-1
+[['-', 'disc', '-', 'dollar'], ['-', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', 'disc', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', '-', 'compact disc'], ['-', '-', '-', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'compact disc', '-', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'compact disc', '-']]
+-1
+[['compact disc', '-', '-', 'dollar'], ['-', 'compact disc', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', '-', '-'], ['-', 'compact disc', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', 'compact disc', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', '-', '-'], ['-', 'disc', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', 'compact disc', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['compact disc', 'disc', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', 'disc']]

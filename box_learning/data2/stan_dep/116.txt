@@ -1,0 +1,62 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN manager))
+      (PP (IN of) (NP (DT a) (NN discount) (NN clothing) (NN store))))
+    (VP
+      (VBD received)
+      (NP
+        (NP (CD 2) (NNS shipments))
+        (PP (IN of) (NP (NN Fall) (NN clothing)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN cost))
+      (PP
+        (IN of)
+        (NP
+          (NP (DT the) (JJ first) (NN shipment))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP
+                (VBD contained)
+                (NP
+                  (NP (CD 10) (JJ identical) (NNS sweaters))
+                  (CC and)
+                  (NP (CD 20) (JJ identical) (NNS jackets)))))))))
+    (VP (VBD was) (NP (CD 800) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ second) (NN shipment))
+      (PP (IN at) (NP (DT the) (JJ same) (NNS prices))))
+    (, ,)
+    (VP
+      (VBD contained)
+      (NP
+        (NP
+          (NP (CD 5))
+          (PP (IN of) (NP (DT the) (JJ same) (NNS sweaters))))
+        (CC and)
+        (NP
+          (NP (CD 15))
+          (PP (IN of) (NP (DT the) (JJ same) (NNS jackets))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (JJ second) (NN shipment))
+    (VP (VBD was) (NP (CD 550) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP (IN of) (NP (CD 1) (NN jacket))))
+      (, ,)
+      (PP (IN in) (NP (NNS dollars))))
+    (. .)))

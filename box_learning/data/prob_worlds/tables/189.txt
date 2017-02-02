@@ -1,0 +1,10 @@
+1
+[['truck and trailer', '-', '-', '-', '-', 'pound', '7, 000'], ['truck', '-', '-', 'pound', 'x1', '-', '-'], ['trailer', '-', '-', 'pound', '0.5 *x1 -200', '-', '-']]
+-1
+[['truck and trailer', '0.5 *x1 -200', '-', '-', '-', 'pound', '7, 000'], ['truck', '-', '-', 'pound', 'x1', '-', '-'], ['trailer', 'pound', '-', 'truck and trailer', '0.5 *x1 -200', '-', '7, 000']]
+-1
+[['truck and trailer', '-', '-', '-', '-', 'pound', '7, 000'], ['truck', '-', '-', 'pound', 'x1', '-', '-'], ['trailer', '7, 000', '-', 'pound', '0.5 *x1 -200', '-', '-']]
+-1
+[['truck and trailer', '-', 'trailer', '-', '-', 'pound', '7, 000'], ['truck', '-', '-', 'pound', 'x1', '-', '-'], ['trailer', '-', '7, 000', 'pound', 'truck and trailer', '-', '-']]
+-1
+[['0.5 *x1 -200', '-', '-', '-', 'trailer', 'pound', '7, 000'], ['truck', '-', '-', 'pound', 'x1', '-', '-'], ['trailer', '-', '-', 'pound', '0.5 *x1 -200', '-', '-']]

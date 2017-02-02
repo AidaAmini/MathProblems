@@ -1,0 +1,14 @@
+1
+[['people', '31', '-', '-', '-', 'dollar', '3952'], ['heavy operator', 'x1', '-', 'dollar', '129', '-', '-'], ['general laborer', 'x2', '-', 'dollar', '82', '-', '-']]
+-1
+[['people', '31', '-', '-', '-', 'dollar', '3952'], ['heavy operator', 'x1', '-', 'dollar', '129', '-', '-'], ['31', 'x2', '-', 'dollar', '82', '-', 'people']]
+-1
+[['people', '31', '82', '-', 'general laborer', 'dollar', 'x2'], ['heavy operator', 'x1', '-', 'dollar', '129', '-', '-'], ['general laborer', 'x2', '-', 'dollar', '82', '3952', '-']]
+-1
+[['general laborer', '82', '-', '-', '-', 'dollar', '3952'], ['heavy operator', 'x1', '-', 'dollar', '129', '-', '-'], ['general laborer', 'x2', '-', 'dollar', '82', '-', '-']]
+-1
+[['people', '31', '-', 'general laborer', '-', 'dollar', '82'], ['heavy operator', 'x1', '-', 'dollar', '129', '-', '-'], ['people', 'general laborer', '-', 'dollar', '82', '-', '-']]
+-1
+[['people', '31', '-', 'x2', 'general laborer', 'dollar', '3952'], ['heavy operator', 'x1', '-', 'dollar', '129', '-', '-'], ['general laborer', '31', '-', 'dollar', '82', '-', '-']]
+-1
+[['people', 'general laborer', '-', '82', '-', 'dollar', '3952'], ['heavy operator', 'x1', '-', 'dollar', '129', '-', '-'], ['general laborer', '3952', '-', 'dollar', '82', '-', '-']]

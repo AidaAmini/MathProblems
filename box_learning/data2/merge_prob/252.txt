@@ -1,0 +1,537 @@
+['200 seat theater', '3.00 dollar', 'adult', 'dollar', '1.50 dollar', 'ticket income', '510 dollar', 'adult and child', 'audience']
+['200 seat theater']	['3.00 dollar']	0.0988755105172
+['200 seat theater']	['adult']	0.0840176431843
+['200 seat theater']	['dollar']	0.012852508684
+['200 seat theater']	['1.50 dollar']	0.0988755105172
+['200 seat theater']	['ticket income']	0.0988755105172
+['200 seat theater']	['510 dollar']	0.0988755105172
+['200 seat theater']	['adult and child']	0.107526100904
+['200 seat theater']	['audience']	0.0847746021728
+['3.00 dollar']	['adult']	0.0774561735493
+['3.00 dollar']	['1.50 dollar']	0.643440930505
+['3.00 dollar']	['ticket income']	0.0901100077042
+['3.00 dollar']	['510 dollar']	0.643440930505
+['3.00 dollar']	['adult and child']	0.0941266761548
+['3.00 dollar']	['audience']	0.0744376594044
+['adult']	['dollar']	0.0265458979948
+['adult']	['1.50 dollar']	0.0696933362217
+['adult']	['ticket income']	0.0696933362217
+['adult']	['510 dollar']	0.0696933362217
+['adult']	['audience']	0.111098860584
+['dollar']	['ticket income']	0.0160076877108
+['dollar']	['adult and child']	0.0228523103473
+['dollar']	['audience']	0.0348281466136
+['1.50 dollar']	['ticket income']	0.0901100077042
+['1.50 dollar']	['510 dollar']	0.643440930505
+['1.50 dollar']	['adult and child']	0.0941266761548
+['1.50 dollar']	['audience']	0.0744376594044
+['ticket income']	['510 dollar']	0.0901100077042
+['ticket income']	['adult and child']	0.0941266761548
+['ticket income']	['audience']	0.0800606621439
+['510 dollar']	['adult and child']	0.0941266761548
+['510 dollar']	['audience']	0.0744376594044
+['adult and child']	['audience']	0.0851708933325
+['3.00 dollar', '200 seat theater']	['adult']	0.143184559342
+['3.00 dollar', '200 seat theater']	['dollar']	0.434025632347
+['3.00 dollar', '200 seat theater']	['1.50 dollar']	0.653642048458
+['3.00 dollar', '200 seat theater']	['ticket income']	0.15961386663
+['3.00 dollar', '200 seat theater']	['510 dollar']	0.653642048458
+['3.00 dollar', '200 seat theater']	['adult and child']	0.161708668161
+['3.00 dollar', '200 seat theater']	['audience']	0.14394151833
+['adult', '200 seat theater']	['3.00 dollar']	0.0696933362217
+['adult', '200 seat theater']	['dollar']	0.0522178463122
+['adult', '200 seat theater']	['1.50 dollar']	0.0696933362217
+['adult', '200 seat theater']	['ticket income']	0.0696933362217
+['adult', '200 seat theater']	['510 dollar']	0.0696933362217
+['adult', '200 seat theater']	['adult and child']	0.463932048485
+['adult', '200 seat theater']	['audience']	0.716321309289
+['dollar', '200 seat theater']	['3.00 dollar']	0.417204941051
+['dollar', '200 seat theater']	['adult']	0.0719021348715
+['dollar', '200 seat theater']	['1.50 dollar']	0.417204941051
+['dollar', '200 seat theater']	['ticket income']	0.0351005911342
+['dollar', '200 seat theater']	['510 dollar']	0.345568862574
+['dollar', '200 seat theater']	['adult and child']	0.0420694982328
+['dollar', '200 seat theater']	['audience']	0.308208327484
+['1.50 dollar', '200 seat theater']	['3.00 dollar']	0.653642048458
+['1.50 dollar', '200 seat theater']	['adult']	0.143184559342
+['1.50 dollar', '200 seat theater']	['dollar']	0.434025632347
+['1.50 dollar', '200 seat theater']	['ticket income']	0.15961386663
+['1.50 dollar', '200 seat theater']	['510 dollar']	0.653642048458
+['1.50 dollar', '200 seat theater']	['adult and child']	0.161708668161
+['1.50 dollar', '200 seat theater']	['audience']	0.14394151833
+['ticket income', '200 seat theater']	['3.00 dollar']	0.15961386663
+['ticket income', '200 seat theater']	['adult']	0.146533383972
+['ticket income', '200 seat theater']	['dollar']	0.012852508684
+['ticket income', '200 seat theater']	['1.50 dollar']	0.15961386663
+['ticket income', '200 seat theater']	['510 dollar']	0.15961386663
+['ticket income', '200 seat theater']	['adult and child']	0.161708668161
+['ticket income', '200 seat theater']	['audience']	0.14729034296
+['510 dollar', '200 seat theater']	['3.00 dollar']	0.653642048458
+['510 dollar', '200 seat theater']	['adult']	0.143184559342
+['510 dollar', '200 seat theater']	['dollar']	0.416242882576
+['510 dollar', '200 seat theater']	['1.50 dollar']	0.653642048458
+['510 dollar', '200 seat theater']	['ticket income']	0.15961386663
+['510 dollar', '200 seat theater']	['adult and child']	0.161708668161
+['510 dollar', '200 seat theater']	['audience']	0.14394151833
+['adult and child', '200 seat theater']	['3.00 dollar']	0.0988755105172
+['adult and child', '200 seat theater']	['adult']	0.558038626666
+['adult and child', '200 seat theater']	['dollar']	0.012852508684
+['adult and child', '200 seat theater']	['1.50 dollar']	0.0988755105172
+['adult and child', '200 seat theater']	['ticket income']	0.0915001233665
+['adult and child', '200 seat theater']	['510 dollar']	0.0988755105172
+['adult and child', '200 seat theater']	['audience']	0.0851708933325
+['audience', '200 seat theater']	['3.00 dollar']	0.0827346205535
+['audience', '200 seat theater']	['adult']	0.713176655201
+['audience', '200 seat theater']	['dollar']	0.168742050694
+['audience', '200 seat theater']	['1.50 dollar']	0.0827346205535
+['audience', '200 seat theater']	['ticket income']	0.0827346205535
+['audience', '200 seat theater']	['510 dollar']	0.0827346205535
+['audience', '200 seat theater']	['adult and child']	0.0908034291173
+['200 seat theater', '3.00 dollar']	['adult']	0.143184559342
+['200 seat theater', '3.00 dollar']	['dollar']	0.434025632347
+['200 seat theater', '3.00 dollar']	['1.50 dollar']	0.653642048458
+['200 seat theater', '3.00 dollar']	['ticket income']	0.15961386663
+['200 seat theater', '3.00 dollar']	['510 dollar']	0.653642048458
+['200 seat theater', '3.00 dollar']	['adult and child']	0.161708668161
+['200 seat theater', '3.00 dollar']	['audience']	0.14394151833
+['adult', '3.00 dollar']	['200 seat theater']	0.0865141120187
+['adult', '3.00 dollar']	['dollar']	0.70221659128
+['adult', '3.00 dollar']	['1.50 dollar']	0.494524508322
+['adult', '3.00 dollar']	['ticket income']	0.0696933362217
+['adult', '3.00 dollar']	['510 dollar']	0.494524508322
+['adult', '3.00 dollar']	['adult and child']	0.461462912683
+['adult', '3.00 dollar']	['audience']	0.716321309289
+['dollar', '3.00 dollar']	['200 seat theater']	0.299623528004
+['dollar', '3.00 dollar']	['adult']	0.321232214338
+['dollar', '3.00 dollar']	['1.50 dollar']	0.676555862245
+['dollar', '3.00 dollar']	['ticket income']	0.0968024870635
+['dollar', '3.00 dollar']	['510 dollar']	0.610690210365
+['dollar', '3.00 dollar']	['adult and child']	0.299623528004
+['dollar', '3.00 dollar']	['audience']	0.441381870867
+['1.50 dollar', '3.00 dollar']	['200 seat theater']	0.297805101442
+['1.50 dollar', '3.00 dollar']	['adult']	0.345269105941
+['1.50 dollar', '3.00 dollar']	['dollar']	0.740769402763
+['1.50 dollar', '3.00 dollar']	['ticket income']	0.139258682248
+['1.50 dollar', '3.00 dollar']	['510 dollar']	0.637144068101
+['1.50 dollar', '3.00 dollar']	['adult and child']	0.297805101442
+['1.50 dollar', '3.00 dollar']	['audience']	0.360804929274
+['ticket income', '3.00 dollar']	['200 seat theater']	0.0941266761548
+['ticket income', '3.00 dollar']	['adult']	0.0774561735493
+['ticket income', '3.00 dollar']	['dollar']	0.419771549328
+['ticket income', '3.00 dollar']	['1.50 dollar']	0.584269096576
+['ticket income', '3.00 dollar']	['510 dollar']	0.584269096576
+['ticket income', '3.00 dollar']	['adult and child']	0.0941266761548
+['ticket income', '3.00 dollar']	['audience']	0.0777864840342
+['510 dollar', '3.00 dollar']	['200 seat theater']	0.297805101442
+['510 dollar', '3.00 dollar']	['adult']	0.345269105941
+['510 dollar', '3.00 dollar']	['dollar']	0.64203543036
+['510 dollar', '3.00 dollar']	['1.50 dollar']	0.637144068101
+['510 dollar', '3.00 dollar']	['ticket income']	0.139258682248
+['510 dollar', '3.00 dollar']	['adult and child']	0.297805101442
+['510 dollar', '3.00 dollar']	['audience']	0.360804929274
+['adult and child', '3.00 dollar']	['200 seat theater']	0.161708668161
+['adult and child', '3.00 dollar']	['adult']	0.597740990927
+['adult and child', '3.00 dollar']	['dollar']	0.434025632347
+['adult and child', '3.00 dollar']	['1.50 dollar']	0.653642048458
+['adult and child', '3.00 dollar']	['ticket income']	0.152238479479
+['adult and child', '3.00 dollar']	['510 dollar']	0.653642048458
+['adult and child', '3.00 dollar']	['audience']	0.14394151833
+['audience', '3.00 dollar']	['200 seat theater']	0.0887553862424
+['audience', '3.00 dollar']	['adult']	0.710308548613
+['audience', '3.00 dollar']	['dollar']	0.703353326714
+['audience', '3.00 dollar']	['1.50 dollar']	0.538007739106
+['audience', '3.00 dollar']	['ticket income']	0.0827346205535
+['audience', '3.00 dollar']	['510 dollar']	0.538007739106
+['audience', '3.00 dollar']	['adult and child']	0.0887553862424
+['200 seat theater', 'adult']	['3.00 dollar']	0.0696933362217
+['200 seat theater', 'adult']	['dollar']	0.0522178463122
+['200 seat theater', 'adult']	['1.50 dollar']	0.0696933362217
+['200 seat theater', 'adult']	['ticket income']	0.0696933362217
+['200 seat theater', 'adult']	['510 dollar']	0.0696933362217
+['200 seat theater', 'adult']	['adult and child']	0.463932048485
+['200 seat theater', 'adult']	['audience']	0.716321309289
+['3.00 dollar', 'adult']	['200 seat theater']	0.0865141120187
+['3.00 dollar', 'adult']	['dollar']	0.70221659128
+['3.00 dollar', 'adult']	['1.50 dollar']	0.494524508322
+['3.00 dollar', 'adult']	['ticket income']	0.0696933362217
+['3.00 dollar', 'adult']	['510 dollar']	0.494524508322
+['3.00 dollar', 'adult']	['adult and child']	0.461462912683
+['3.00 dollar', 'adult']	['audience']	0.716321309289
+['dollar', 'adult']	['200 seat theater']	0.108934712415
+['dollar', 'adult']	['3.00 dollar']	0.447673452072
+['dollar', 'adult']	['1.50 dollar']	0.447673452072
+['dollar', 'adult']	['ticket income']	0.0982347768443
+['dollar', 'adult']	['510 dollar']	0.371062249217
+['dollar', 'adult']	['adult and child']	0.353950031258
+['dollar', 'adult']	['audience']	0.240758970137
+['1.50 dollar', 'adult']	['200 seat theater']	0.0865141120187
+['1.50 dollar', 'adult']	['3.00 dollar']	0.494524508322
+['1.50 dollar', 'adult']	['dollar']	0.70221659128
+['1.50 dollar', 'adult']	['ticket income']	0.0696933362217
+['1.50 dollar', 'adult']	['510 dollar']	0.494524508322
+['1.50 dollar', 'adult']	['adult and child']	0.461462912683
+['1.50 dollar', 'adult']	['audience']	0.716321309289
+['ticket income', 'adult']	['200 seat theater']	0.0865141120187
+['ticket income', 'adult']	['3.00 dollar']	0.0696933362217
+['ticket income', 'adult']	['dollar']	0.0806965185133
+['ticket income', 'adult']	['1.50 dollar']	0.0696933362217
+['ticket income', 'adult']	['510 dollar']	0.0696933362217
+['ticket income', 'adult']	['adult and child']	0.461462912683
+['ticket income', 'adult']	['audience']	0.730631902138
+['510 dollar', 'adult']	['200 seat theater']	0.0865141120187
+['510 dollar', 'adult']	['3.00 dollar']	0.494524508322
+['510 dollar', 'adult']	['dollar']	0.668184535046
+['510 dollar', 'adult']	['1.50 dollar']	0.494524508322
+['510 dollar', 'adult']	['ticket income']	0.0696933362217
+['510 dollar', 'adult']	['adult and child']	0.461462912683
+['510 dollar', 'adult']	['audience']	0.716321309289
+['adult and child', 'adult']	['200 seat theater']	0.0885621548936
+['adult and child', 'adult']	['3.00 dollar']	0.0696933362217
+['adult and child', 'adult']	['dollar']	0.0522178463122
+['adult and child', 'adult']	['1.50 dollar']	0.0696933362217
+['adult and child', 'adult']	['ticket income']	0.0696933362217
+['adult and child', 'adult']	['510 dollar']	0.0696933362217
+['adult and child', 'adult']	['audience']	0.718289040404
+['audience', 'adult']	['200 seat theater']	0.0831652873889
+['audience', 'adult']	['3.00 dollar']	0.0663445115919
+['audience', 'adult']	['dollar']	0.151205017883
+['audience', 'adult']	['1.50 dollar']	0.0663445115919
+['audience', 'adult']	['ticket income']	0.0696933362217
+['audience', 'adult']	['510 dollar']	0.0663445115919
+['audience', 'adult']	['adult and child']	0.47694476516
+['200 seat theater', 'dollar']	['3.00 dollar']	0.417204941051
+['200 seat theater', 'dollar']	['adult']	0.0719021348715
+['200 seat theater', 'dollar']	['1.50 dollar']	0.417204941051
+['200 seat theater', 'dollar']	['ticket income']	0.0351005911342
+['200 seat theater', 'dollar']	['510 dollar']	0.345568862574
+['200 seat theater', 'dollar']	['adult and child']	0.0420694982328
+['200 seat theater', 'dollar']	['audience']	0.308208327484
+['3.00 dollar', 'dollar']	['200 seat theater']	0.299623528004
+['3.00 dollar', 'dollar']	['adult']	0.321232214338
+['3.00 dollar', 'dollar']	['1.50 dollar']	0.676555862245
+['3.00 dollar', 'dollar']	['ticket income']	0.0968024870635
+['3.00 dollar', 'dollar']	['510 dollar']	0.610690210365
+['3.00 dollar', 'dollar']	['adult and child']	0.299623528004
+['3.00 dollar', 'dollar']	['audience']	0.441381870867
+['adult', 'dollar']	['200 seat theater']	0.108934712415
+['adult', 'dollar']	['3.00 dollar']	0.447673452072
+['adult', 'dollar']	['1.50 dollar']	0.447673452072
+['adult', 'dollar']	['ticket income']	0.0982347768443
+['adult', 'dollar']	['510 dollar']	0.371062249217
+['adult', 'dollar']	['adult and child']	0.353950031258
+['adult', 'dollar']	['audience']	0.240758970137
+['1.50 dollar', 'dollar']	['200 seat theater']	0.299623528004
+['1.50 dollar', 'dollar']	['3.00 dollar']	0.676555862245
+['1.50 dollar', 'dollar']	['adult']	0.321232214338
+['1.50 dollar', 'dollar']	['ticket income']	0.0968024870635
+['1.50 dollar', 'dollar']	['510 dollar']	0.610690210365
+['1.50 dollar', 'dollar']	['adult and child']	0.299623528004
+['1.50 dollar', 'dollar']	['audience']	0.441381870867
+['ticket income', 'dollar']	['200 seat theater']	0.0410777933861
+['ticket income', 'dollar']	['3.00 dollar']	0.442012633359
+['ticket income', 'dollar']	['adult']	0.0985015440607
+['ticket income', 'dollar']	['1.50 dollar']	0.442012633359
+['ticket income', 'dollar']	['510 dollar']	0.365401430504
+['ticket income', 'dollar']	['adult and child']	0.0410777933861
+['ticket income', 'dollar']	['audience']	0.242664879531
+['510 dollar', 'dollar']	['200 seat theater']	0.299623528004
+['510 dollar', 'dollar']	['3.00 dollar']	0.676555862245
+['510 dollar', 'dollar']	['adult']	0.321232214338
+['510 dollar', 'dollar']	['1.50 dollar']	0.676555862245
+['510 dollar', 'dollar']	['ticket income']	0.0968024870635
+['510 dollar', 'dollar']	['adult and child']	0.299623528004
+['510 dollar', 'dollar']	['audience']	0.441381870867
+['adult and child', 'dollar']	['200 seat theater']	0.0420694982328
+['adult and child', 'dollar']	['3.00 dollar']	0.417204941051
+['adult and child', 'dollar']	['adult']	0.431161801286
+['adult and child', 'dollar']	['1.50 dollar']	0.417204941051
+['adult and child', 'dollar']	['ticket income']	0.0351005911342
+['adult and child', 'dollar']	['510 dollar']	0.345568862574
+['adult and child', 'dollar']	['audience']	0.307084731979
+['audience', 'dollar']	['200 seat theater']	0.0467896072558
+['audience', 'dollar']	['3.00 dollar']	0.553297612561
+['audience', 'dollar']	['adult']	0.341408680093
+['audience', 'dollar']	['1.50 dollar']	0.553297612561
+['audience', 'dollar']	['ticket income']	0.0361569291624
+['audience', 'dollar']	['510 dollar']	0.435102054266
+['audience', 'dollar']	['adult and child']	0.0467896072558
+['200 seat theater', '1.50 dollar']	['3.00 dollar']	0.653642048458
+['200 seat theater', '1.50 dollar']	['adult']	0.143184559342
+['200 seat theater', '1.50 dollar']	['dollar']	0.434025632347
+['200 seat theater', '1.50 dollar']	['ticket income']	0.15961386663
+['200 seat theater', '1.50 dollar']	['510 dollar']	0.653642048458
+['200 seat theater', '1.50 dollar']	['adult and child']	0.161708668161
+['200 seat theater', '1.50 dollar']	['audience']	0.14394151833
+['3.00 dollar', '1.50 dollar']	['200 seat theater']	0.297805101442
+['3.00 dollar', '1.50 dollar']	['adult']	0.345269105941
+['3.00 dollar', '1.50 dollar']	['dollar']	0.740769402763
+['3.00 dollar', '1.50 dollar']	['ticket income']	0.139258682248
+['3.00 dollar', '1.50 dollar']	['510 dollar']	0.637144068101
+['3.00 dollar', '1.50 dollar']	['adult and child']	0.297805101442
+['3.00 dollar', '1.50 dollar']	['audience']	0.360804929274
+['adult', '1.50 dollar']	['200 seat theater']	0.0865141120187
+['adult', '1.50 dollar']	['3.00 dollar']	0.494524508322
+['adult', '1.50 dollar']	['dollar']	0.70221659128
+['adult', '1.50 dollar']	['ticket income']	0.0696933362217
+['adult', '1.50 dollar']	['510 dollar']	0.494524508322
+['adult', '1.50 dollar']	['adult and child']	0.461462912683
+['adult', '1.50 dollar']	['audience']	0.716321309289
+['dollar', '1.50 dollar']	['200 seat theater']	0.299623528004
+['dollar', '1.50 dollar']	['3.00 dollar']	0.676555862245
+['dollar', '1.50 dollar']	['adult']	0.321232214338
+['dollar', '1.50 dollar']	['ticket income']	0.0968024870635
+['dollar', '1.50 dollar']	['510 dollar']	0.610690210365
+['dollar', '1.50 dollar']	['adult and child']	0.299623528004
+['dollar', '1.50 dollar']	['audience']	0.441381870867
+['ticket income', '1.50 dollar']	['200 seat theater']	0.0941266761548
+['ticket income', '1.50 dollar']	['3.00 dollar']	0.584269096576
+['ticket income', '1.50 dollar']	['adult']	0.0774561735493
+['ticket income', '1.50 dollar']	['dollar']	0.419771549328
+['ticket income', '1.50 dollar']	['510 dollar']	0.584269096576
+['ticket income', '1.50 dollar']	['adult and child']	0.0941266761548
+['ticket income', '1.50 dollar']	['audience']	0.0777864840342
+['510 dollar', '1.50 dollar']	['200 seat theater']	0.297805101442
+['510 dollar', '1.50 dollar']	['3.00 dollar']	0.637144068101
+['510 dollar', '1.50 dollar']	['adult']	0.345269105941
+['510 dollar', '1.50 dollar']	['dollar']	0.64203543036
+['510 dollar', '1.50 dollar']	['ticket income']	0.139258682248
+['510 dollar', '1.50 dollar']	['adult and child']	0.297805101442
+['510 dollar', '1.50 dollar']	['audience']	0.360804929274
+['adult and child', '1.50 dollar']	['200 seat theater']	0.161708668161
+['adult and child', '1.50 dollar']	['3.00 dollar']	0.653642048458
+['adult and child', '1.50 dollar']	['adult']	0.597740990927
+['adult and child', '1.50 dollar']	['dollar']	0.434025632347
+['adult and child', '1.50 dollar']	['ticket income']	0.152238479479
+['adult and child', '1.50 dollar']	['510 dollar']	0.653642048458
+['adult and child', '1.50 dollar']	['audience']	0.14394151833
+['audience', '1.50 dollar']	['200 seat theater']	0.0887553862424
+['audience', '1.50 dollar']	['3.00 dollar']	0.538007739106
+['audience', '1.50 dollar']	['adult']	0.710308548613
+['audience', '1.50 dollar']	['dollar']	0.703353326714
+['audience', '1.50 dollar']	['ticket income']	0.0827346205535
+['audience', '1.50 dollar']	['510 dollar']	0.538007739106
+['audience', '1.50 dollar']	['adult and child']	0.0887553862424
+['200 seat theater', 'ticket income']	['3.00 dollar']	0.15961386663
+['200 seat theater', 'ticket income']	['adult']	0.146533383972
+['200 seat theater', 'ticket income']	['dollar']	0.012852508684
+['200 seat theater', 'ticket income']	['1.50 dollar']	0.15961386663
+['200 seat theater', 'ticket income']	['510 dollar']	0.15961386663
+['200 seat theater', 'ticket income']	['adult and child']	0.161708668161
+['200 seat theater', 'ticket income']	['audience']	0.14729034296
+['3.00 dollar', 'ticket income']	['200 seat theater']	0.0941266761548
+['3.00 dollar', 'ticket income']	['adult']	0.0774561735493
+['3.00 dollar', 'ticket income']	['dollar']	0.419771549328
+['3.00 dollar', 'ticket income']	['1.50 dollar']	0.584269096576
+['3.00 dollar', 'ticket income']	['510 dollar']	0.584269096576
+['3.00 dollar', 'ticket income']	['adult and child']	0.0941266761548
+['3.00 dollar', 'ticket income']	['audience']	0.0777864840342
+['adult', 'ticket income']	['200 seat theater']	0.0865141120187
+['adult', 'ticket income']	['3.00 dollar']	0.0696933362217
+['adult', 'ticket income']	['dollar']	0.0806965185133
+['adult', 'ticket income']	['1.50 dollar']	0.0696933362217
+['adult', 'ticket income']	['510 dollar']	0.0696933362217
+['adult', 'ticket income']	['adult and child']	0.461462912683
+['adult', 'ticket income']	['audience']	0.730631902138
+['dollar', 'ticket income']	['200 seat theater']	0.0410777933861
+['dollar', 'ticket income']	['3.00 dollar']	0.442012633359
+['dollar', 'ticket income']	['adult']	0.0985015440607
+['dollar', 'ticket income']	['1.50 dollar']	0.442012633359
+['dollar', 'ticket income']	['510 dollar']	0.365401430504
+['dollar', 'ticket income']	['adult and child']	0.0410777933861
+['dollar', 'ticket income']	['audience']	0.242664879531
+['1.50 dollar', 'ticket income']	['200 seat theater']	0.0941266761548
+['1.50 dollar', 'ticket income']	['3.00 dollar']	0.584269096576
+['1.50 dollar', 'ticket income']	['adult']	0.0774561735493
+['1.50 dollar', 'ticket income']	['dollar']	0.419771549328
+['1.50 dollar', 'ticket income']	['510 dollar']	0.584269096576
+['1.50 dollar', 'ticket income']	['adult and child']	0.0941266761548
+['1.50 dollar', 'ticket income']	['audience']	0.0777864840342
+['510 dollar', 'ticket income']	['200 seat theater']	0.0941266761548
+['510 dollar', 'ticket income']	['3.00 dollar']	0.584269096576
+['510 dollar', 'ticket income']	['adult']	0.0774561735493
+['510 dollar', 'ticket income']	['dollar']	0.345037237052
+['510 dollar', 'ticket income']	['1.50 dollar']	0.584269096576
+['510 dollar', 'ticket income']	['adult and child']	0.0941266761548
+['510 dollar', 'ticket income']	['audience']	0.0777864840342
+['adult and child', 'ticket income']	['200 seat theater']	0.161708668161
+['adult and child', 'ticket income']	['3.00 dollar']	0.15961386663
+['adult and child', 'ticket income']	['adult']	0.575141046069
+['adult and child', 'ticket income']	['dollar']	0.012852508684
+['adult and child', 'ticket income']	['1.50 dollar']	0.15961386663
+['adult and child', 'ticket income']	['510 dollar']	0.15961386663
+['adult and child', 'ticket income']	['audience']	0.14729034296
+['audience', 'ticket income']	['200 seat theater']	0.0887553862424
+['audience', 'ticket income']	['3.00 dollar']	0.0827346205535
+['audience', 'ticket income']	['adult']	0.721931692495
+['audience', 'ticket income']	['dollar']	0.170554056228
+['audience', 'ticket income']	['1.50 dollar']	0.0827346205535
+['audience', 'ticket income']	['510 dollar']	0.0827346205535
+['audience', 'ticket income']	['adult and child']	0.0887553862424
+['200 seat theater', '510 dollar']	['3.00 dollar']	0.653642048458
+['200 seat theater', '510 dollar']	['adult']	0.143184559342
+['200 seat theater', '510 dollar']	['dollar']	0.416242882576
+['200 seat theater', '510 dollar']	['1.50 dollar']	0.653642048458
+['200 seat theater', '510 dollar']	['ticket income']	0.15961386663
+['200 seat theater', '510 dollar']	['adult and child']	0.161708668161
+['200 seat theater', '510 dollar']	['audience']	0.14394151833
+['3.00 dollar', '510 dollar']	['200 seat theater']	0.297805101442
+['3.00 dollar', '510 dollar']	['adult']	0.345269105941
+['3.00 dollar', '510 dollar']	['dollar']	0.64203543036
+['3.00 dollar', '510 dollar']	['1.50 dollar']	0.637144068101
+['3.00 dollar', '510 dollar']	['ticket income']	0.139258682248
+['3.00 dollar', '510 dollar']	['adult and child']	0.297805101442
+['3.00 dollar', '510 dollar']	['audience']	0.360804929274
+['adult', '510 dollar']	['200 seat theater']	0.0865141120187
+['adult', '510 dollar']	['3.00 dollar']	0.494524508322
+['adult', '510 dollar']	['dollar']	0.668184535046
+['adult', '510 dollar']	['1.50 dollar']	0.494524508322
+['adult', '510 dollar']	['ticket income']	0.0696933362217
+['adult', '510 dollar']	['adult and child']	0.461462912683
+['adult', '510 dollar']	['audience']	0.716321309289
+['dollar', '510 dollar']	['200 seat theater']	0.299623528004
+['dollar', '510 dollar']	['3.00 dollar']	0.676555862245
+['dollar', '510 dollar']	['adult']	0.321232214338
+['dollar', '510 dollar']	['1.50 dollar']	0.676555862245
+['dollar', '510 dollar']	['ticket income']	0.0968024870635
+['dollar', '510 dollar']	['adult and child']	0.299623528004
+['dollar', '510 dollar']	['audience']	0.441381870867
+['1.50 dollar', '510 dollar']	['200 seat theater']	0.297805101442
+['1.50 dollar', '510 dollar']	['3.00 dollar']	0.637144068101
+['1.50 dollar', '510 dollar']	['adult']	0.345269105941
+['1.50 dollar', '510 dollar']	['dollar']	0.64203543036
+['1.50 dollar', '510 dollar']	['ticket income']	0.139258682248
+['1.50 dollar', '510 dollar']	['adult and child']	0.297805101442
+['1.50 dollar', '510 dollar']	['audience']	0.360804929274
+['ticket income', '510 dollar']	['200 seat theater']	0.0941266761548
+['ticket income', '510 dollar']	['3.00 dollar']	0.584269096576
+['ticket income', '510 dollar']	['adult']	0.0774561735493
+['ticket income', '510 dollar']	['dollar']	0.345037237052
+['ticket income', '510 dollar']	['1.50 dollar']	0.584269096576
+['ticket income', '510 dollar']	['adult and child']	0.0941266761548
+['ticket income', '510 dollar']	['audience']	0.0777864840342
+['adult and child', '510 dollar']	['200 seat theater']	0.161708668161
+['adult and child', '510 dollar']	['3.00 dollar']	0.653642048458
+['adult and child', '510 dollar']	['adult']	0.597740990927
+['adult and child', '510 dollar']	['dollar']	0.416242882576
+['adult and child', '510 dollar']	['1.50 dollar']	0.653642048458
+['adult and child', '510 dollar']	['ticket income']	0.152238479479
+['adult and child', '510 dollar']	['audience']	0.14394151833
+['audience', '510 dollar']	['200 seat theater']	0.0887553862424
+['audience', '510 dollar']	['3.00 dollar']	0.538007739106
+['audience', '510 dollar']	['adult']	0.710308548613
+['audience', '510 dollar']	['dollar']	0.650022939528
+['audience', '510 dollar']	['1.50 dollar']	0.538007739106
+['audience', '510 dollar']	['ticket income']	0.0827346205535
+['audience', '510 dollar']	['adult and child']	0.0887553862424
+['200 seat theater', 'adult and child']	['3.00 dollar']	0.0988755105172
+['200 seat theater', 'adult and child']	['adult']	0.558038626666
+['200 seat theater', 'adult and child']	['dollar']	0.012852508684
+['200 seat theater', 'adult and child']	['1.50 dollar']	0.0988755105172
+['200 seat theater', 'adult and child']	['ticket income']	0.0915001233665
+['200 seat theater', 'adult and child']	['510 dollar']	0.0988755105172
+['200 seat theater', 'adult and child']	['audience']	0.0851708933325
+['3.00 dollar', 'adult and child']	['200 seat theater']	0.161708668161
+['3.00 dollar', 'adult and child']	['adult']	0.597740990927
+['3.00 dollar', 'adult and child']	['dollar']	0.434025632347
+['3.00 dollar', 'adult and child']	['1.50 dollar']	0.653642048458
+['3.00 dollar', 'adult and child']	['ticket income']	0.152238479479
+['3.00 dollar', 'adult and child']	['510 dollar']	0.653642048458
+['3.00 dollar', 'adult and child']	['audience']	0.14394151833
+['adult', 'adult and child']	['200 seat theater']	0.0885621548936
+['adult', 'adult and child']	['3.00 dollar']	0.0696933362217
+['adult', 'adult and child']	['dollar']	0.0522178463122
+['adult', 'adult and child']	['1.50 dollar']	0.0696933362217
+['adult', 'adult and child']	['ticket income']	0.0696933362217
+['adult', 'adult and child']	['510 dollar']	0.0696933362217
+['adult', 'adult and child']	['audience']	0.718289040404
+['dollar', 'adult and child']	['200 seat theater']	0.0420694982328
+['dollar', 'adult and child']	['3.00 dollar']	0.417204941051
+['dollar', 'adult and child']	['adult']	0.431161801286
+['dollar', 'adult and child']	['1.50 dollar']	0.417204941051
+['dollar', 'adult and child']	['ticket income']	0.0351005911342
+['dollar', 'adult and child']	['510 dollar']	0.345568862574
+['dollar', 'adult and child']	['audience']	0.307084731979
+['1.50 dollar', 'adult and child']	['200 seat theater']	0.161708668161
+['1.50 dollar', 'adult and child']	['3.00 dollar']	0.653642048458
+['1.50 dollar', 'adult and child']	['adult']	0.597740990927
+['1.50 dollar', 'adult and child']	['dollar']	0.434025632347
+['1.50 dollar', 'adult and child']	['ticket income']	0.152238479479
+['1.50 dollar', 'adult and child']	['510 dollar']	0.653642048458
+['1.50 dollar', 'adult and child']	['audience']	0.14394151833
+['ticket income', 'adult and child']	['200 seat theater']	0.161708668161
+['ticket income', 'adult and child']	['3.00 dollar']	0.15961386663
+['ticket income', 'adult and child']	['adult']	0.575141046069
+['ticket income', 'adult and child']	['dollar']	0.012852508684
+['ticket income', 'adult and child']	['1.50 dollar']	0.15961386663
+['ticket income', 'adult and child']	['510 dollar']	0.15961386663
+['ticket income', 'adult and child']	['audience']	0.14729034296
+['510 dollar', 'adult and child']	['200 seat theater']	0.161708668161
+['510 dollar', 'adult and child']	['3.00 dollar']	0.653642048458
+['510 dollar', 'adult and child']	['adult']	0.597740990927
+['510 dollar', 'adult and child']	['dollar']	0.416242882576
+['510 dollar', 'adult and child']	['1.50 dollar']	0.653642048458
+['510 dollar', 'adult and child']	['ticket income']	0.152238479479
+['510 dollar', 'adult and child']	['audience']	0.14394151833
+['audience', 'adult and child']	['200 seat theater']	0.0908034291173
+['audience', 'adult and child']	['3.00 dollar']	0.0827346205535
+['audience', 'adult and child']	['adult']	0.729723975332
+['audience', 'adult and child']	['dollar']	0.168742050694
+['audience', 'adult and child']	['1.50 dollar']	0.0827346205535
+['audience', 'adult and child']	['ticket income']	0.0827346205535
+['audience', 'adult and child']	['510 dollar']	0.0827346205535
+['200 seat theater', 'audience']	['3.00 dollar']	0.0827346205535
+['200 seat theater', 'audience']	['adult']	0.713176655201
+['200 seat theater', 'audience']	['dollar']	0.168742050694
+['200 seat theater', 'audience']	['1.50 dollar']	0.0827346205535
+['200 seat theater', 'audience']	['ticket income']	0.0827346205535
+['200 seat theater', 'audience']	['510 dollar']	0.0827346205535
+['200 seat theater', 'audience']	['adult and child']	0.0908034291173
+['3.00 dollar', 'audience']	['200 seat theater']	0.0887553862424
+['3.00 dollar', 'audience']	['adult']	0.710308548613
+['3.00 dollar', 'audience']	['dollar']	0.703353326714
+['3.00 dollar', 'audience']	['1.50 dollar']	0.538007739106
+['3.00 dollar', 'audience']	['ticket income']	0.0827346205535
+['3.00 dollar', 'audience']	['510 dollar']	0.538007739106
+['3.00 dollar', 'audience']	['adult and child']	0.0887553862424
+['adult', 'audience']	['200 seat theater']	0.0831652873889
+['adult', 'audience']	['3.00 dollar']	0.0663445115919
+['adult', 'audience']	['dollar']	0.151205017883
+['adult', 'audience']	['1.50 dollar']	0.0663445115919
+['adult', 'audience']	['ticket income']	0.0696933362217
+['adult', 'audience']	['510 dollar']	0.0663445115919
+['adult', 'audience']	['adult and child']	0.47694476516
+['dollar', 'audience']	['200 seat theater']	0.0467896072558
+['dollar', 'audience']	['3.00 dollar']	0.553297612561
+['dollar', 'audience']	['adult']	0.341408680093
+['dollar', 'audience']	['1.50 dollar']	0.553297612561
+['dollar', 'audience']	['ticket income']	0.0361569291624
+['dollar', 'audience']	['510 dollar']	0.435102054266
+['dollar', 'audience']	['adult and child']	0.0467896072558
+['1.50 dollar', 'audience']	['200 seat theater']	0.0887553862424
+['1.50 dollar', 'audience']	['3.00 dollar']	0.538007739106
+['1.50 dollar', 'audience']	['adult']	0.710308548613
+['1.50 dollar', 'audience']	['dollar']	0.703353326714
+['1.50 dollar', 'audience']	['ticket income']	0.0827346205535
+['1.50 dollar', 'audience']	['510 dollar']	0.538007739106
+['1.50 dollar', 'audience']	['adult and child']	0.0887553862424
+['ticket income', 'audience']	['200 seat theater']	0.0887553862424
+['ticket income', 'audience']	['3.00 dollar']	0.0827346205535
+['ticket income', 'audience']	['adult']	0.721931692495
+['ticket income', 'audience']	['dollar']	0.170554056228
+['ticket income', 'audience']	['1.50 dollar']	0.0827346205535
+['ticket income', 'audience']	['510 dollar']	0.0827346205535
+['ticket income', 'audience']	['adult and child']	0.0887553862424
+['510 dollar', 'audience']	['200 seat theater']	0.0887553862424
+['510 dollar', 'audience']	['3.00 dollar']	0.538007739106
+['510 dollar', 'audience']	['adult']	0.710308548613
+['510 dollar', 'audience']	['dollar']	0.650022939528
+['510 dollar', 'audience']	['1.50 dollar']	0.538007739106
+['510 dollar', 'audience']	['ticket income']	0.0827346205535
+['510 dollar', 'audience']	['adult and child']	0.0887553862424
+['adult and child', 'audience']	['200 seat theater']	0.0908034291173
+['adult and child', 'audience']	['3.00 dollar']	0.0827346205535
+['adult and child', 'audience']	['adult']	0.729723975332
+['adult and child', 'audience']	['dollar']	0.168742050694
+['adult and child', 'audience']	['1.50 dollar']	0.0827346205535
+['adult and child', 'audience']	['ticket income']	0.0827346205535
+['adult and child', 'audience']	['510 dollar']	0.0827346205535

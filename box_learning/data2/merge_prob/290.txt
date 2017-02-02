@@ -1,0 +1,136 @@
+['18 premium gasoline gallon', '44.46 dollar', 'premium', '0.22 dollar', 'regular', 'type of gasoline']
+['18 premium gasoline gallon']	['44.46 dollar']	0.0988755105172
+['18 premium gasoline gallon']	['premium']	0.184449412567
+['18 premium gasoline gallon']	['0.22 dollar']	0.0988755105172
+['18 premium gasoline gallon']	['regular']	0.0880692059685
+['18 premium gasoline gallon']	['type of gasoline']	0.108108427999
+['44.46 dollar']	['premium']	0.0741073489195
+['44.46 dollar']	['0.22 dollar']	0.643440930505
+['44.46 dollar']	['regular']	0.0760750800346
+['44.46 dollar']	['type of gasoline']	0.0941266761548
+['premium']	['0.22 dollar']	0.0669904799604
+['premium']	['regular']	0.0741810638918
+['premium']	['type of gasoline']	0.0865141120187
+['0.22 dollar']	['regular']	0.0760750800346
+['0.22 dollar']	['type of gasoline']	0.0941266761548
+['regular']	['type of gasoline']	0.0831652873889
+['44.46 dollar', '18 premium gasoline gallon']	['premium']	0.242562927113
+['44.46 dollar', '18 premium gasoline gallon']	['0.22 dollar']	0.630956863273
+['44.46 dollar', '18 premium gasoline gallon']	['regular']	0.0857950278587
+['44.46 dollar', '18 premium gasoline gallon']	['type of gasoline']	0.102396614129
+['premium', '18 premium gasoline gallon']	['44.46 dollar']	0.125502508807
+['premium', '18 premium gasoline gallon']	['0.22 dollar']	0.125502508807
+['premium', '18 premium gasoline gallon']	['regular']	0.305399529356
+['premium', '18 premium gasoline gallon']	['type of gasoline']	0.143061815761
+['0.22 dollar', '18 premium gasoline gallon']	['44.46 dollar']	0.630956863273
+['0.22 dollar', '18 premium gasoline gallon']	['premium']	0.242562927113
+['0.22 dollar', '18 premium gasoline gallon']	['regular']	0.0857950278587
+['0.22 dollar', '18 premium gasoline gallon']	['type of gasoline']	0.102396614129
+['regular', '18 premium gasoline gallon']	['44.46 dollar']	0.124856540438
+['regular', '18 premium gasoline gallon']	['premium']	0.438205923011
+['regular', '18 premium gasoline gallon']	['0.22 dollar']	0.124856540438
+['regular', '18 premium gasoline gallon']	['type of gasoline']	0.143061815761
+['type of gasoline', '18 premium gasoline gallon']	['44.46 dollar']	0.0988755105172
+['type of gasoline', '18 premium gasoline gallon']	['premium']	0.368004303791
+['type of gasoline', '18 premium gasoline gallon']	['0.22 dollar']	0.0988755105172
+['type of gasoline', '18 premium gasoline gallon']	['regular']	0.0857950278587
+['18 premium gasoline gallon', '44.46 dollar']	['premium']	0.242562927113
+['18 premium gasoline gallon', '44.46 dollar']	['0.22 dollar']	0.630956863273
+['18 premium gasoline gallon', '44.46 dollar']	['regular']	0.0857950278587
+['18 premium gasoline gallon', '44.46 dollar']	['type of gasoline']	0.102396614129
+['premium', '44.46 dollar']	['18 premium gasoline gallon']	0.352848974791
+['premium', '44.46 dollar']	['0.22 dollar']	0.465538040018
+['premium', '44.46 dollar']	['regular']	0.311627389767
+['premium', '44.46 dollar']	['type of gasoline']	0.080802298149
+['0.22 dollar', '44.46 dollar']	['18 premium gasoline gallon']	0.315265418903
+['0.22 dollar', '44.46 dollar']	['premium']	0.386965255933
+['0.22 dollar', '44.46 dollar']	['regular']	0.386315627603
+['0.22 dollar', '44.46 dollar']	['type of gasoline']	0.297805101442
+['regular', '44.46 dollar']	['18 premium gasoline gallon']	0.0841680381001
+['regular', '44.46 dollar']	['premium']	0.304789528782
+['regular', '44.46 dollar']	['0.22 dollar']	0.482679469303
+['regular', '44.46 dollar']	['type of gasoline']	0.080802298149
+['type of gasoline', '44.46 dollar']	['18 premium gasoline gallon']	0.161708668161
+['type of gasoline', '44.46 dollar']	['premium']	0.143184559342
+['type of gasoline', '44.46 dollar']	['0.22 dollar']	0.653642048458
+['type of gasoline', '44.46 dollar']	['regular']	0.143184559342
+['18 premium gasoline gallon', 'premium']	['44.46 dollar']	0.125502508807
+['18 premium gasoline gallon', 'premium']	['0.22 dollar']	0.125502508807
+['18 premium gasoline gallon', 'premium']	['regular']	0.305399529356
+['18 premium gasoline gallon', 'premium']	['type of gasoline']	0.143061815761
+['44.46 dollar', 'premium']	['18 premium gasoline gallon']	0.352848974791
+['44.46 dollar', 'premium']	['0.22 dollar']	0.465538040018
+['44.46 dollar', 'premium']	['regular']	0.311627389767
+['44.46 dollar', 'premium']	['type of gasoline']	0.080802298149
+['0.22 dollar', 'premium']	['18 premium gasoline gallon']	0.352848974791
+['0.22 dollar', 'premium']	['44.46 dollar']	0.465538040018
+['0.22 dollar', 'premium']	['regular']	0.311627389767
+['0.22 dollar', 'premium']	['type of gasoline']	0.080802298149
+['regular', 'premium']	['18 premium gasoline gallon']	0.358956211551
+['regular', 'premium']	['44.46 dollar']	0.129068327642
+['regular', 'premium']	['0.22 dollar']	0.129068327642
+['regular', 'premium']	['type of gasoline']	0.148591959701
+['type of gasoline', 'premium']	['18 premium gasoline gallon']	0.386182308124
+['type of gasoline', 'premium']	['44.46 dollar']	0.0703393045902
+['type of gasoline', 'premium']	['0.22 dollar']	0.0703393045902
+['type of gasoline', 'premium']	['regular']	0.305010535845
+['18 premium gasoline gallon', '0.22 dollar']	['44.46 dollar']	0.630956863273
+['18 premium gasoline gallon', '0.22 dollar']	['premium']	0.242562927113
+['18 premium gasoline gallon', '0.22 dollar']	['regular']	0.0857950278587
+['18 premium gasoline gallon', '0.22 dollar']	['type of gasoline']	0.102396614129
+['44.46 dollar', '0.22 dollar']	['18 premium gasoline gallon']	0.315265418903
+['44.46 dollar', '0.22 dollar']	['premium']	0.386965255933
+['44.46 dollar', '0.22 dollar']	['regular']	0.386315627603
+['44.46 dollar', '0.22 dollar']	['type of gasoline']	0.297805101442
+['premium', '0.22 dollar']	['18 premium gasoline gallon']	0.352848974791
+['premium', '0.22 dollar']	['44.46 dollar']	0.465538040018
+['premium', '0.22 dollar']	['regular']	0.311627389767
+['premium', '0.22 dollar']	['type of gasoline']	0.080802298149
+['regular', '0.22 dollar']	['18 premium gasoline gallon']	0.0841680381001
+['regular', '0.22 dollar']	['44.46 dollar']	0.482679469303
+['regular', '0.22 dollar']	['premium']	0.304789528782
+['regular', '0.22 dollar']	['type of gasoline']	0.080802298149
+['type of gasoline', '0.22 dollar']	['18 premium gasoline gallon']	0.161708668161
+['type of gasoline', '0.22 dollar']	['44.46 dollar']	0.653642048458
+['type of gasoline', '0.22 dollar']	['premium']	0.143184559342
+['type of gasoline', '0.22 dollar']	['regular']	0.143184559342
+['18 premium gasoline gallon', 'regular']	['44.46 dollar']	0.124856540438
+['18 premium gasoline gallon', 'regular']	['premium']	0.438205923011
+['18 premium gasoline gallon', 'regular']	['0.22 dollar']	0.124856540438
+['18 premium gasoline gallon', 'regular']	['type of gasoline']	0.143061815761
+['44.46 dollar', 'regular']	['18 premium gasoline gallon']	0.0841680381001
+['44.46 dollar', 'regular']	['premium']	0.304789528782
+['44.46 dollar', 'regular']	['0.22 dollar']	0.482679469303
+['44.46 dollar', 'regular']	['type of gasoline']	0.080802298149
+['premium', 'regular']	['18 premium gasoline gallon']	0.358956211551
+['premium', 'regular']	['44.46 dollar']	0.129068327642
+['premium', 'regular']	['0.22 dollar']	0.129068327642
+['premium', 'regular']	['type of gasoline']	0.148591959701
+['0.22 dollar', 'regular']	['18 premium gasoline gallon']	0.0841680381001
+['0.22 dollar', 'regular']	['44.46 dollar']	0.482679469303
+['0.22 dollar', 'regular']	['premium']	0.304789528782
+['0.22 dollar', 'regular']	['type of gasoline']	0.080802298149
+['type of gasoline', 'regular']	['18 premium gasoline gallon']	0.086216080975
+['type of gasoline', 'regular']	['44.46 dollar']	0.0696933362217
+['type of gasoline', 'regular']	['premium']	0.242883169999
+['type of gasoline', 'regular']	['0.22 dollar']	0.0696933362217
+['18 premium gasoline gallon', 'type of gasoline']	['44.46 dollar']	0.0988755105172
+['18 premium gasoline gallon', 'type of gasoline']	['premium']	0.368004303791
+['18 premium gasoline gallon', 'type of gasoline']	['0.22 dollar']	0.0988755105172
+['18 premium gasoline gallon', 'type of gasoline']	['regular']	0.0857950278587
+['44.46 dollar', 'type of gasoline']	['18 premium gasoline gallon']	0.161708668161
+['44.46 dollar', 'type of gasoline']	['premium']	0.143184559342
+['44.46 dollar', 'type of gasoline']	['0.22 dollar']	0.653642048458
+['44.46 dollar', 'type of gasoline']	['regular']	0.143184559342
+['premium', 'type of gasoline']	['18 premium gasoline gallon']	0.386182308124
+['premium', 'type of gasoline']	['44.46 dollar']	0.0703393045902
+['premium', 'type of gasoline']	['0.22 dollar']	0.0703393045902
+['premium', 'type of gasoline']	['regular']	0.305010535845
+['0.22 dollar', 'type of gasoline']	['18 premium gasoline gallon']	0.161708668161
+['0.22 dollar', 'type of gasoline']	['44.46 dollar']	0.653642048458
+['0.22 dollar', 'type of gasoline']	['premium']	0.143184559342
+['0.22 dollar', 'type of gasoline']	['regular']	0.143184559342
+['regular', 'type of gasoline']	['18 premium gasoline gallon']	0.086216080975
+['regular', 'type of gasoline']	['44.46 dollar']	0.0696933362217
+['regular', 'type of gasoline']	['premium']	0.242883169999
+['regular', 'type of gasoline']	['0.22 dollar']	0.0696933362217

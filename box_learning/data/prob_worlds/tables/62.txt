@@ -1,0 +1,14 @@
+1
+[['-', 'x1', 'book', 'dollar', '20.25', '-', '-'], ['one-time fixed cost', '1', '-', 'dollar', '35, 630', '-', '-'], ['variable cost', 'x1', 'book', 'dollar', '11.5', '-', '-']]
+-1
+[['-', 'x1', 'book', 'dollar', '20.25', '-', '-'], ['one-time fixed cost', '1', '-', 'dollar', '35, 630', '-', '-'], ['20.25', 'x1', 'book', 'dollar', '11.5', '-', '-']]
+-1
+[['variable cost', 'x1', 'book', 'dollar', '20.25', '11.5', '-'], ['one-time fixed cost', '1', '-', 'dollar', '35, 630', '-', '-'], ['variable cost', 'x1', 'book', '20.25', '11.5', '-', '-']]
+-1
+[['-', 'variable cost', 'book', 'x1', '20.25', '-', '-'], ['one-time fixed cost', '1', '-', 'dollar', '35, 630', '-', '-'], ['variable cost', 'x1', '20.25', 'dollar', '11.5', '-', '-']]
+-1
+[['dollar', 'x1', 'book', 'variable cost', '20.25', '-', '-'], ['one-time fixed cost', '1', '-', 'dollar', '35, 630', '-', '-'], ['variable cost', 'x1', 'book', 'dollar', '11.5', '-', '-']]
+-1
+[['-', '11.5', 'book', 'variable cost', '20.25', '-', '-'], ['one-time fixed cost', '1', '-', 'dollar', '35, 630', '-', '-'], ['variable cost', 'x1', 'book', 'dollar', '11.5', '20.25', '-']]
+-1
+[['-', 'variable cost', 'book', 'dollar', '20.25', '11.5', '-'], ['one-time fixed cost', '1', '-', 'dollar', '35, 630', '-', '-'], ['variable cost', 'x1', 'book', 'dollar', '11.5', '-', '20.25']]

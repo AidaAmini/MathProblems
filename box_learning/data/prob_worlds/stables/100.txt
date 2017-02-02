@@ -1,0 +1,16 @@
+1
+[['gift wrap', '480', 'roll', '-', '-', 'dollar', '2,340'], ['solid color', 'x1', 'roll', 'dollar', '4', '-', '-'], ['print gift wrap', 'x2', 'roll', 'dollar', '6', '-', '-']]
+-1
+[['gift wrap', '480', 'x2', '-', 'print gift wrap', 'dollar', '2,340'], ['solid color', 'x1', 'roll', 'dollar', '4', '-', '-'], ['gift wrap', '480', 'print gift wrap', 'dollar', '6', '-', '-']]
+-1
+[['gift wrap', '480', 'roll', '-', 'print gift wrap', '6', 'x2'], ['solid color', 'x1', 'roll', 'dollar', '4', '-', '-'], ['print gift wrap', 'x2', '480', 'dollar', '6', 'gift wrap', '-']]
+-1
+[['gift wrap', '480', 'roll', '-', 'x2', 'print gift wrap', '2,340'], ['solid color', 'x1', 'roll', 'dollar', '4', '-', '-'], ['gift wrap', 'x2', 'roll', '2,340', '6', '-', '-']]
+-1
+[['gift wrap', '480', 'roll', '-', '6', 'dollar', '2,340'], ['solid color', 'x1', 'roll', 'dollar', '4', '-', '-'], ['480', 'x2', 'roll', 'dollar', '6', '-', 'gift wrap']]
+-1
+[['6', '480', 'roll', '-', '-', 'dollar', 'x2'], ['solid color', 'x1', 'roll', 'dollar', '4', '-', '-'], ['print gift wrap', 'x2', 'roll', 'dollar', '6', '-', '-']]
+-1
+[['print gift wrap', '480', 'roll', '-', '-', '6', '2,340'], ['solid color', 'x1', 'roll', 'dollar', '4', '-', '-'], ['print gift wrap', '2,340', 'roll', 'gift wrap', '6', '-', '-']]
+-1
+[['x2', 'print gift wrap', 'roll', '-', '6', 'dollar', '2,340'], ['solid color', 'x1', 'roll', 'dollar', '4', '-', '-'], ['print gift wrap', 'x2', '480', '2,340', '6', '-', '-']]

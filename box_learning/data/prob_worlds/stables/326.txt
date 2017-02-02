@@ -1,0 +1,14 @@
+1
+[['peanut and walnut', '40', 'pound', 'dollar', '3', '-', '-'], ['peanut', 'x1', '-', 'dollar', '2.75', '-', '-'], ['walnut', 'x2', '-', 'dollar', '3.75', '-', '-']]
+-1
+[['x2', '40', 'pound', 'walnut', '3', '-', '3.75'], ['peanut', 'x1', '-', 'dollar', '2.75', '-', '-'], ['walnut', 'x2', '40', 'dollar', '3.75', 'peanut and walnut', '-']]
+-1
+[['peanut and walnut', '40', 'pound', 'dollar', '3', '-', 'x2'], ['peanut', 'x1', '-', 'dollar', '2.75', '-', '-'], ['walnut', 'x2', '40', 'peanut and walnut', '3.75', '-', '3']]
+-1
+[['x2', '40', 'pound', 'dollar', 'walnut', '-', '-'], ['peanut', 'x1', '-', 'dollar', '2.75', '-', '-'], ['walnut', 'x2', '-', 'dollar', 'pound', 'peanut and walnut', '-']]
+-1
+[['peanut and walnut', '40', 'pound', 'x2', '3', '-', '-'], ['peanut', 'x1', '-', 'dollar', '2.75', '-', '-'], ['40', 'x2', '3', 'pound', '3.75', '-', '-']]
+-1
+[['peanut and walnut', '40', 'walnut', 'dollar', '3', '-', '-'], ['peanut', 'x1', '-', 'dollar', '2.75', '-', '-'], ['walnut', 'peanut and walnut', '-', 'dollar', '3', '-', '-']]
+-1
+[['peanut and walnut', '40', 'pound', 'dollar', '3', '-', '-'], ['peanut', 'x1', '-', 'dollar', '2.75', '-', '-'], ['pound', 'x2', '40', 'dollar', '3', 'peanut and walnut', '-']]

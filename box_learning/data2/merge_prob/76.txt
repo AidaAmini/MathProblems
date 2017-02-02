@@ -1,0 +1,534 @@
+['3 hamburger', '4 hot dog', 'next day', 'hamburger', '2 hamburger', 'dog', '3 hot dog', '7 dollar', 'hot dog']
+['3 hamburger']	['3 hamburger']	0.193805086437
+['3 hamburger']	['3 hamburger']	0.0690143673113
+['3 hamburger']	['3 hamburger']	0.65022495873
+['3 hamburger']	['3 hamburger']	0.0663284541821
+['3 hamburger']	['3 hamburger']	0.233727750961
+['3 hamburger']	['3 hamburger']	0.204424827239
+['3 hamburger']	['3 hamburger']	0.077078241972
+['4 hot dog']	['4 hot dog']	0.0811452298031
+['4 hot dog']	['4 hot dog']	0.0663284541821
+['4 hot dog']	['4 hot dog']	0.220386747832
+['4 hot dog']	['4 hot dog']	0.440855836467
+['4 hot dog']	['4 hot dog']	0.220386747832
+['next day']	['next day']	0.0585905397909
+['next day']	['next day']	0.0690143673113
+['next day']	['next day']	0.0585905397909
+['next day']	['next day']	0.0683238606939
+['next day']	['next day']	0.0690143673113
+['next day']	['next day']	0.077078241972
+['hamburger']	['hamburger']	0.133909673205
+['hamburger']	['hamburger']	0.0849796447598
+['hamburger']	['hamburger']	0.068453870638
+['hamburger']	['hamburger']	0.0860558725811
+['2 hamburger']	['2 hamburger']	0.0663284541821
+['2 hamburger']	['2 hamburger']	0.193805086437
+['2 hamburger']	['2 hamburger']	0.204424827239
+['2 hamburger']	['2 hamburger']	0.077078241972
+['dog']	['dog']	0.0573294956278
+['3 hot dog']	['3 hot dog']	0.220386747832
+['7 dollar']	['7 dollar']	0.077078241972
+['4 hot dog', '3 hamburger']	['4 hot dog', '3 hamburger']	0.077741654189
+['4 hot dog', '3 hamburger']	['4 hot dog', '3 hamburger']	0.256159833654
+['4 hot dog', '3 hamburger']	['4 hot dog', '3 hamburger']	0.308438785808
+['4 hot dog', '3 hamburger']	['4 hot dog', '3 hamburger']	0.0346526669836
+['4 hot dog', '3 hamburger']	['4 hot dog', '3 hamburger']	0.197671280495
+['4 hot dog', '3 hamburger']	['4 hot dog', '3 hamburger']	0.238078545742
+['4 hot dog', '3 hamburger']	['4 hot dog', '3 hamburger']	0.104975553824
+['next day', '3 hamburger']	['next day', '3 hamburger']	0.108310485224
+['next day', '3 hamburger']	['next day', '3 hamburger']	0.164557048782
+['next day', '3 hamburger']	['next day', '3 hamburger']	0.255189051606
+['next day', '3 hamburger']	['next day', '3 hamburger']	0.0671775804435
+['next day', '3 hamburger']	['next day', '3 hamburger']	0.210617097951
+['next day', '3 hamburger']	['next day', '3 hamburger']	0.109000991841
+['next day', '3 hamburger']	['next day', '3 hamburger']	0.077078241972
+['hamburger', '3 hamburger']	['hamburger', '3 hamburger']	0.0677854343681
+['hamburger', '3 hamburger']	['hamburger', '3 hamburger']	0.0737510161429
+['hamburger', '3 hamburger']	['hamburger', '3 hamburger']	0.0858256015789
+['hamburger', '3 hamburger']	['hamburger', '3 hamburger']	0.0714981595109
+['hamburger', '3 hamburger']	['hamburger', '3 hamburger']	0.129525783271
+['hamburger', '3 hamburger']	['hamburger', '3 hamburger']	0.100278405934
+['hamburger', '3 hamburger']	['hamburger', '3 hamburger']	0.108364569109
+['2 hamburger', '3 hamburger']	['2 hamburger', '3 hamburger']	0.459302825959
+['2 hamburger', '3 hamburger']	['2 hamburger', '3 hamburger']	0.0922575126852
+['2 hamburger', '3 hamburger']	['2 hamburger', '3 hamburger']	0.311126173186
+['2 hamburger', '3 hamburger']	['2 hamburger', '3 hamburger']	0.159422714925
+['2 hamburger', '3 hamburger']	['2 hamburger', '3 hamburger']	0.434365686697
+['2 hamburger', '3 hamburger']	['2 hamburger', '3 hamburger']	0.458893546695
+['2 hamburger', '3 hamburger']	['2 hamburger', '3 hamburger']	0.10782791082
+['dog', '3 hamburger']	['dog', '3 hamburger']	0.0596358501446
+['dog', '3 hamburger']	['dog', '3 hamburger']	0.0606369672893
+['dog', '3 hamburger']	['dog', '3 hamburger']	0.0921818132958
+['dog', '3 hamburger']	['dog', '3 hamburger']	0.118448324854
+['dog', '3 hamburger']	['dog', '3 hamburger']	0.075296716063
+['dog', '3 hamburger']	['dog', '3 hamburger']	0.0686620201846
+['dog', '3 hamburger']	['dog', '3 hamburger']	0.068011623044
+['3 hot dog', '3 hamburger']	['3 hot dog', '3 hamburger']	0.273113803898
+['3 hot dog', '3 hamburger']	['3 hot dog', '3 hamburger']	0.077741654189
+['3 hot dog', '3 hamburger']	['3 hot dog', '3 hamburger']	0.256159833654
+['3 hot dog', '3 hamburger']	['3 hot dog', '3 hamburger']	0.308438785808
+['3 hot dog', '3 hamburger']	['3 hot dog', '3 hamburger']	0.0346526669836
+['3 hot dog', '3 hamburger']	['3 hot dog', '3 hamburger']	0.238078545742
+['3 hot dog', '3 hamburger']	['3 hot dog', '3 hamburger']	0.104975553824
+['7 dollar', '3 hamburger']	['7 dollar', '3 hamburger']	0.214288674086
+['7 dollar', '3 hamburger']	['7 dollar', '3 hamburger']	0.0690143673113
+['7 dollar', '3 hamburger']	['7 dollar', '3 hamburger']	0.149948593916
+['7 dollar', '3 hamburger']	['7 dollar', '3 hamburger']	0.358473774662
+['7 dollar', '3 hamburger']	['7 dollar', '3 hamburger']	0.0661708502503
+['7 dollar', '3 hamburger']	['7 dollar', '3 hamburger']	0.234292131131
+['7 dollar', '3 hamburger']	['7 dollar', '3 hamburger']	0.077078241972
+['hot dog', '3 hamburger']	['hot dog', '3 hamburger']	0.0569568377698
+['hot dog', '3 hamburger']	['hot dog', '3 hamburger']	0.0380145315322
+['hot dog', '3 hamburger']	['hot dog', '3 hamburger']	0.122753192538
+['hot dog', '3 hamburger']	['hot dog', '3 hamburger']	0.138336111091
+['hot dog', '3 hamburger']	['hot dog', '3 hamburger']	0.0425158058315
+['hot dog', '3 hamburger']	['hot dog', '3 hamburger']	0.0552454566992
+['hot dog', '3 hamburger']	['hot dog', '3 hamburger']	0.0680777523944
+['3 hamburger', '4 hot dog']	['3 hamburger', '4 hot dog']	0.077741654189
+['3 hamburger', '4 hot dog']	['3 hamburger', '4 hot dog']	0.256159833654
+['3 hamburger', '4 hot dog']	['3 hamburger', '4 hot dog']	0.308438785808
+['3 hamburger', '4 hot dog']	['3 hamburger', '4 hot dog']	0.0346526669836
+['3 hamburger', '4 hot dog']	['3 hamburger', '4 hot dog']	0.197671280495
+['3 hamburger', '4 hot dog']	['3 hamburger', '4 hot dog']	0.238078545742
+['3 hamburger', '4 hot dog']	['3 hamburger', '4 hot dog']	0.104975553824
+['next day', '4 hot dog']	['next day', '4 hot dog']	0.115021025913
+['next day', '4 hot dog']	['next day', '4 hot dog']	0.0661708502503
+['next day', '4 hot dog']	['next day', '4 hot dog']	0.115021025913
+['next day', '4 hot dog']	['next day', '4 hot dog']	0.0310525198541
+['next day', '4 hot dog']	['next day', '4 hot dog']	0.152917530785
+['next day', '4 hot dog']	['next day', '4 hot dog']	0.115021025913
+['next day', '4 hot dog']	['next day', '4 hot dog']	0.104975553824
+['hamburger', '4 hot dog']	['hamburger', '4 hot dog']	0.0926815561092
+['hamburger', '4 hot dog']	['hamburger', '4 hot dog']	0.0636655055788
+['hamburger', '4 hot dog']	['hamburger', '4 hot dog']	0.0926815561092
+['hamburger', '4 hot dog']	['hamburger', '4 hot dog']	0.113205648841
+['hamburger', '4 hot dog']	['hamburger', '4 hot dog']	0.0891350834555
+['hamburger', '4 hot dog']	['hamburger', '4 hot dog']	0.0690844825876
+['hamburger', '4 hot dog']	['hamburger', '4 hot dog']	0.0821609020013
+['2 hamburger', '4 hot dog']	['2 hamburger', '4 hot dog']	0.308438785808
+['2 hamburger', '4 hot dog']	['2 hamburger', '4 hot dog']	0.077741654189
+['2 hamburger', '4 hot dog']	['2 hamburger', '4 hot dog']	0.256159833654
+['2 hamburger', '4 hot dog']	['2 hamburger', '4 hot dog']	0.0346526669836
+['2 hamburger', '4 hot dog']	['2 hamburger', '4 hot dog']	0.273113803898
+['2 hamburger', '4 hot dog']	['2 hamburger', '4 hot dog']	0.238078545742
+['2 hamburger', '4 hot dog']	['2 hamburger', '4 hot dog']	0.104975553824
+['dog', '4 hot dog']	['dog', '4 hot dog']	0.0768471415266
+['dog', '4 hot dog']	['dog', '4 hot dog']	0.0690831984199
+['dog', '4 hot dog']	['dog', '4 hot dog']	0.0726228325515
+['dog', '4 hot dog']	['dog', '4 hot dog']	0.0768471415266
+['dog', '4 hot dog']	['dog', '4 hot dog']	0.0897928943109
+['dog', '4 hot dog']	['dog', '4 hot dog']	0.0986874079506
+['dog', '4 hot dog']	['dog', '4 hot dog']	0.18612673115
+['3 hot dog', '4 hot dog']	['3 hot dog', '4 hot dog']	0.478218520723
+['3 hot dog', '4 hot dog']	['3 hot dog', '4 hot dog']	0.100520722427
+['3 hot dog', '4 hot dog']	['3 hot dog', '4 hot dog']	0.159422714925
+['3 hot dog', '4 hot dog']	['3 hot dog', '4 hot dog']	0.462208770679
+['3 hot dog', '4 hot dog']	['3 hot dog', '4 hot dog']	0.050142451379
+['3 hot dog', '4 hot dog']	['3 hot dog', '4 hot dog']	0.462208770679
+['3 hot dog', '4 hot dog']	['3 hot dog', '4 hot dog']	0.300142809235
+['7 dollar', '4 hot dog']	['7 dollar', '4 hot dog']	0.238078545742
+['7 dollar', '4 hot dog']	['7 dollar', '4 hot dog']	0.077741654189
+['7 dollar', '4 hot dog']	['7 dollar', '4 hot dog']	0.0661708502503
+['7 dollar', '4 hot dog']	['7 dollar', '4 hot dog']	0.238078545742
+['7 dollar', '4 hot dog']	['7 dollar', '4 hot dog']	0.0236910260615
+['7 dollar', '4 hot dog']	['7 dollar', '4 hot dog']	0.273113803898
+['7 dollar', '4 hot dog']	['7 dollar', '4 hot dog']	0.104975553824
+['hot dog', '4 hot dog']	['hot dog', '4 hot dog']	0.0900026083023
+['hot dog', '4 hot dog']	['hot dog', '4 hot dog']	0.0408440907292
+['hot dog', '4 hot dog']	['hot dog', '4 hot dog']	0.089054834209
+['hot dog', '4 hot dog']	['hot dog', '4 hot dog']	0.0900026083023
+['hot dog', '4 hot dog']	['hot dog', '4 hot dog']	0.0532450637241
+['hot dog', '4 hot dog']	['hot dog', '4 hot dog']	0.0753454241898
+['hot dog', '4 hot dog']	['hot dog', '4 hot dog']	0.0900026083023
+['3 hamburger', 'next day']	['3 hamburger', 'next day']	0.108310485224
+['3 hamburger', 'next day']	['3 hamburger', 'next day']	0.164557048782
+['3 hamburger', 'next day']	['3 hamburger', 'next day']	0.255189051606
+['3 hamburger', 'next day']	['3 hamburger', 'next day']	0.0671775804435
+['3 hamburger', 'next day']	['3 hamburger', 'next day']	0.210617097951
+['3 hamburger', 'next day']	['3 hamburger', 'next day']	0.109000991841
+['3 hamburger', 'next day']	['3 hamburger', 'next day']	0.077078241972
+['4 hot dog', 'next day']	['4 hot dog', 'next day']	0.115021025913
+['4 hot dog', 'next day']	['4 hot dog', 'next day']	0.0661708502503
+['4 hot dog', 'next day']	['4 hot dog', 'next day']	0.115021025913
+['4 hot dog', 'next day']	['4 hot dog', 'next day']	0.0310525198541
+['4 hot dog', 'next day']	['4 hot dog', 'next day']	0.152917530785
+['4 hot dog', 'next day']	['4 hot dog', 'next day']	0.115021025913
+['4 hot dog', 'next day']	['4 hot dog', 'next day']	0.104975553824
+['hamburger', 'next day']	['hamburger', 'next day']	0.0620817693494
+['hamburger', 'next day']	['hamburger', 'next day']	0.0617263388137
+['hamburger', 'next day']	['hamburger', 'next day']	0.0620817693494
+['hamburger', 'next day']	['hamburger', 'next day']	0.0356015259398
+['hamburger', 'next day']	['hamburger', 'next day']	0.0617263388137
+['hamburger', 'next day']	['hamburger', 'next day']	0.0505180941353
+['hamburger', 'next day']	['hamburger', 'next day']	0.0736726043194
+['2 hamburger', 'next day']	['2 hamburger', 'next day']	0.255189051606
+['2 hamburger', 'next day']	['2 hamburger', 'next day']	0.108310485224
+['2 hamburger', 'next day']	['2 hamburger', 'next day']	0.164557048782
+['2 hamburger', 'next day']	['2 hamburger', 'next day']	0.0671775804435
+['2 hamburger', 'next day']	['2 hamburger', 'next day']	0.108310485224
+['2 hamburger', 'next day']	['2 hamburger', 'next day']	0.109000991841
+['2 hamburger', 'next day']	['2 hamburger', 'next day']	0.077078241972
+['dog', 'next day']	['dog', 'next day']	0.0653598500094
+['dog', 'next day']	['dog', 'next day']	0.0315790318737
+['dog', 'next day']	['dog', 'next day']	0.0342220510459
+['dog', 'next day']	['dog', 'next day']	0.0653598500094
+['dog', 'next day']	['dog', 'next day']	0.0315790318737
+['dog', 'next day']	['dog', 'next day']	0.0395247252484
+['dog', 'next day']	['dog', 'next day']	0.068011623044
+['3 hot dog', 'next day']	['3 hot dog', 'next day']	0.249449860135
+['3 hot dog', 'next day']	['3 hot dog', 'next day']	0.152917530785
+['3 hot dog', 'next day']	['3 hot dog', 'next day']	0.0661708502503
+['3 hot dog', 'next day']	['3 hot dog', 'next day']	0.115021025913
+['3 hot dog', 'next day']	['3 hot dog', 'next day']	0.0310525198541
+['3 hot dog', 'next day']	['3 hot dog', 'next day']	0.115021025913
+['3 hot dog', 'next day']	['3 hot dog', 'next day']	0.104975553824
+['7 dollar', 'next day']	['7 dollar', 'next day']	0.109000991841
+['7 dollar', 'next day']	['7 dollar', 'next day']	0.108310485224
+['7 dollar', 'next day']	['7 dollar', 'next day']	0.0585905397909
+['7 dollar', 'next day']	['7 dollar', 'next day']	0.109000991841
+['7 dollar', 'next day']	['7 dollar', 'next day']	0.0585905397909
+['7 dollar', 'next day']	['7 dollar', 'next day']	0.108310485224
+['7 dollar', 'next day']	['7 dollar', 'next day']	0.077078241972
+['hot dog', 'next day']	['hot dog', 'next day']	0.0380145315322
+['hot dog', 'next day']	['hot dog', 'next day']	0.0795463492051
+['hot dog', 'next day']	['hot dog', 'next day']	0.0495850429518
+['hot dog', 'next day']	['hot dog', 'next day']	0.0380145315322
+['hot dog', 'next day']	['hot dog', 'next day']	0.0416660383151
+['hot dog', 'next day']	['hot dog', 'next day']	0.0795463492051
+['hot dog', 'next day']	['hot dog', 'next day']	0.0380145315322
+['3 hamburger', 'hamburger']	['3 hamburger', 'hamburger']	0.0677854343681
+['3 hamburger', 'hamburger']	['3 hamburger', 'hamburger']	0.0737510161429
+['3 hamburger', 'hamburger']	['3 hamburger', 'hamburger']	0.0858256015789
+['3 hamburger', 'hamburger']	['3 hamburger', 'hamburger']	0.0714981595109
+['3 hamburger', 'hamburger']	['3 hamburger', 'hamburger']	0.129525783271
+['3 hamburger', 'hamburger']	['3 hamburger', 'hamburger']	0.100278405934
+['3 hamburger', 'hamburger']	['3 hamburger', 'hamburger']	0.108364569109
+['4 hot dog', 'hamburger']	['4 hot dog', 'hamburger']	0.0926815561092
+['4 hot dog', 'hamburger']	['4 hot dog', 'hamburger']	0.0636655055788
+['4 hot dog', 'hamburger']	['4 hot dog', 'hamburger']	0.0926815561092
+['4 hot dog', 'hamburger']	['4 hot dog', 'hamburger']	0.113205648841
+['4 hot dog', 'hamburger']	['4 hot dog', 'hamburger']	0.0891350834555
+['4 hot dog', 'hamburger']	['4 hot dog', 'hamburger']	0.0690844825876
+['4 hot dog', 'hamburger']	['4 hot dog', 'hamburger']	0.0821609020013
+['next day', 'hamburger']	['next day', 'hamburger']	0.0620817693494
+['next day', 'hamburger']	['next day', 'hamburger']	0.0617263388137
+['next day', 'hamburger']	['next day', 'hamburger']	0.0620817693494
+['next day', 'hamburger']	['next day', 'hamburger']	0.0356015259398
+['next day', 'hamburger']	['next day', 'hamburger']	0.0617263388137
+['next day', 'hamburger']	['next day', 'hamburger']	0.0505180941353
+['next day', 'hamburger']	['next day', 'hamburger']	0.0736726043194
+['2 hamburger', 'hamburger']	['2 hamburger', 'hamburger']	0.0858256015789
+['2 hamburger', 'hamburger']	['2 hamburger', 'hamburger']	0.0677854343681
+['2 hamburger', 'hamburger']	['2 hamburger', 'hamburger']	0.0737510161429
+['2 hamburger', 'hamburger']	['2 hamburger', 'hamburger']	0.0714981595109
+['2 hamburger', 'hamburger']	['2 hamburger', 'hamburger']	0.0677854343681
+['2 hamburger', 'hamburger']	['2 hamburger', 'hamburger']	0.100278405934
+['2 hamburger', 'hamburger']	['2 hamburger', 'hamburger']	0.108364569109
+['dog', 'hamburger']	['dog', 'hamburger']	0.0776229174304
+['dog', 'hamburger']	['dog', 'hamburger']	0.0914667293037
+['dog', 'hamburger']	['dog', 'hamburger']	0.0842616556555
+['dog', 'hamburger']	['dog', 'hamburger']	0.0776229174304
+['dog', 'hamburger']	['dog', 'hamburger']	0.0914667293037
+['dog', 'hamburger']	['dog', 'hamburger']	0.0800843516938
+['dog', 'hamburger']	['dog', 'hamburger']	0.0989307572438
+['3 hot dog', 'hamburger']	['3 hot dog', 'hamburger']	0.109137255609
+['3 hot dog', 'hamburger']	['3 hot dog', 'hamburger']	0.0891350834555
+['3 hot dog', 'hamburger']	['3 hot dog', 'hamburger']	0.0636655055788
+['3 hot dog', 'hamburger']	['3 hot dog', 'hamburger']	0.0926815561092
+['3 hot dog', 'hamburger']	['3 hot dog', 'hamburger']	0.113205648841
+['3 hot dog', 'hamburger']	['3 hot dog', 'hamburger']	0.0690844825876
+['3 hot dog', 'hamburger']	['3 hot dog', 'hamburger']	0.0821609020013
+['7 dollar', 'hamburger']	['7 dollar', 'hamburger']	0.0889411938986
+['7 dollar', 'hamburger']	['7 dollar', 'hamburger']	0.061159070552
+['7 dollar', 'hamburger']	['7 dollar', 'hamburger']	0.064249773369
+['7 dollar', 'hamburger']	['7 dollar', 'hamburger']	0.0889411938986
+['7 dollar', 'hamburger']	['7 dollar', 'hamburger']	0.0342220510459
+['7 dollar', 'hamburger']	['7 dollar', 'hamburger']	0.061159070552
+['7 dollar', 'hamburger']	['7 dollar', 'hamburger']	0.0736726043194
+['hot dog', 'hamburger']	['hot dog', 'hamburger']	0.0615767188443
+['hot dog', 'hamburger']	['hot dog', 'hamburger']	0.0562796527094
+['hot dog', 'hamburger']	['hot dog', 'hamburger']	0.0758802544248
+['hot dog', 'hamburger']	['hot dog', 'hamburger']	0.0615767188443
+['hot dog', 'hamburger']	['hot dog', 'hamburger']	0.0828623397805
+['hot dog', 'hamburger']	['hot dog', 'hamburger']	0.0562796527094
+['hot dog', 'hamburger']	['hot dog', 'hamburger']	0.062148575191
+['3 hamburger', '2 hamburger']	['3 hamburger', '2 hamburger']	0.459302825959
+['3 hamburger', '2 hamburger']	['3 hamburger', '2 hamburger']	0.0922575126852
+['3 hamburger', '2 hamburger']	['3 hamburger', '2 hamburger']	0.311126173186
+['3 hamburger', '2 hamburger']	['3 hamburger', '2 hamburger']	0.159422714925
+['3 hamburger', '2 hamburger']	['3 hamburger', '2 hamburger']	0.434365686697
+['3 hamburger', '2 hamburger']	['3 hamburger', '2 hamburger']	0.458893546695
+['3 hamburger', '2 hamburger']	['3 hamburger', '2 hamburger']	0.10782791082
+['4 hot dog', '2 hamburger']	['4 hot dog', '2 hamburger']	0.308438785808
+['4 hot dog', '2 hamburger']	['4 hot dog', '2 hamburger']	0.077741654189
+['4 hot dog', '2 hamburger']	['4 hot dog', '2 hamburger']	0.256159833654
+['4 hot dog', '2 hamburger']	['4 hot dog', '2 hamburger']	0.0346526669836
+['4 hot dog', '2 hamburger']	['4 hot dog', '2 hamburger']	0.273113803898
+['4 hot dog', '2 hamburger']	['4 hot dog', '2 hamburger']	0.238078545742
+['4 hot dog', '2 hamburger']	['4 hot dog', '2 hamburger']	0.104975553824
+['next day', '2 hamburger']	['next day', '2 hamburger']	0.255189051606
+['next day', '2 hamburger']	['next day', '2 hamburger']	0.108310485224
+['next day', '2 hamburger']	['next day', '2 hamburger']	0.164557048782
+['next day', '2 hamburger']	['next day', '2 hamburger']	0.0671775804435
+['next day', '2 hamburger']	['next day', '2 hamburger']	0.108310485224
+['next day', '2 hamburger']	['next day', '2 hamburger']	0.109000991841
+['next day', '2 hamburger']	['next day', '2 hamburger']	0.077078241972
+['hamburger', '2 hamburger']	['hamburger', '2 hamburger']	0.0858256015789
+['hamburger', '2 hamburger']	['hamburger', '2 hamburger']	0.0677854343681
+['hamburger', '2 hamburger']	['hamburger', '2 hamburger']	0.0737510161429
+['hamburger', '2 hamburger']	['hamburger', '2 hamburger']	0.0714981595109
+['hamburger', '2 hamburger']	['hamburger', '2 hamburger']	0.0677854343681
+['hamburger', '2 hamburger']	['hamburger', '2 hamburger']	0.100278405934
+['hamburger', '2 hamburger']	['hamburger', '2 hamburger']	0.108364569109
+['dog', '2 hamburger']	['dog', '2 hamburger']	0.118448324854
+['dog', '2 hamburger']	['dog', '2 hamburger']	0.0596358501446
+['dog', '2 hamburger']	['dog', '2 hamburger']	0.0606369672893
+['dog', '2 hamburger']	['dog', '2 hamburger']	0.0921818132958
+['dog', '2 hamburger']	['dog', '2 hamburger']	0.0596358501446
+['dog', '2 hamburger']	['dog', '2 hamburger']	0.0686620201846
+['dog', '2 hamburger']	['dog', '2 hamburger']	0.068011623044
+['3 hot dog', '2 hamburger']	['3 hot dog', '2 hamburger']	0.233797146018
+['3 hot dog', '2 hamburger']	['3 hot dog', '2 hamburger']	0.273113803898
+['3 hot dog', '2 hamburger']	['3 hot dog', '2 hamburger']	0.077741654189
+['3 hot dog', '2 hamburger']	['3 hot dog', '2 hamburger']	0.256159833654
+['3 hot dog', '2 hamburger']	['3 hot dog', '2 hamburger']	0.0346526669836
+['3 hot dog', '2 hamburger']	['3 hot dog', '2 hamburger']	0.238078545742
+['3 hot dog', '2 hamburger']	['3 hot dog', '2 hamburger']	0.104975553824
+['7 dollar', '2 hamburger']	['7 dollar', '2 hamburger']	0.358473774662
+['7 dollar', '2 hamburger']	['7 dollar', '2 hamburger']	0.214288674086
+['7 dollar', '2 hamburger']	['7 dollar', '2 hamburger']	0.0690143673113
+['7 dollar', '2 hamburger']	['7 dollar', '2 hamburger']	0.149948593916
+['7 dollar', '2 hamburger']	['7 dollar', '2 hamburger']	0.0661708502503
+['7 dollar', '2 hamburger']	['7 dollar', '2 hamburger']	0.214288674086
+['7 dollar', '2 hamburger']	['7 dollar', '2 hamburger']	0.077078241972
+['hot dog', '2 hamburger']	['hot dog', '2 hamburger']	0.138336111091
+['hot dog', '2 hamburger']	['hot dog', '2 hamburger']	0.0569568377698
+['hot dog', '2 hamburger']	['hot dog', '2 hamburger']	0.0380145315322
+['hot dog', '2 hamburger']	['hot dog', '2 hamburger']	0.122753192538
+['hot dog', '2 hamburger']	['hot dog', '2 hamburger']	0.0425158058315
+['hot dog', '2 hamburger']	['hot dog', '2 hamburger']	0.0569568377698
+['hot dog', '2 hamburger']	['hot dog', '2 hamburger']	0.0680777523944
+['3 hamburger', 'dog']	['3 hamburger', 'dog']	0.0596358501446
+['3 hamburger', 'dog']	['3 hamburger', 'dog']	0.0606369672893
+['3 hamburger', 'dog']	['3 hamburger', 'dog']	0.0921818132958
+['3 hamburger', 'dog']	['3 hamburger', 'dog']	0.118448324854
+['3 hamburger', 'dog']	['3 hamburger', 'dog']	0.075296716063
+['3 hamburger', 'dog']	['3 hamburger', 'dog']	0.0686620201846
+['3 hamburger', 'dog']	['3 hamburger', 'dog']	0.068011623044
+['4 hot dog', 'dog']	['4 hot dog', 'dog']	0.0768471415266
+['4 hot dog', 'dog']	['4 hot dog', 'dog']	0.0690831984199
+['4 hot dog', 'dog']	['4 hot dog', 'dog']	0.0726228325515
+['4 hot dog', 'dog']	['4 hot dog', 'dog']	0.0768471415266
+['4 hot dog', 'dog']	['4 hot dog', 'dog']	0.0897928943109
+['4 hot dog', 'dog']	['4 hot dog', 'dog']	0.0986874079506
+['4 hot dog', 'dog']	['4 hot dog', 'dog']	0.18612673115
+['next day', 'dog']	['next day', 'dog']	0.0653598500094
+['next day', 'dog']	['next day', 'dog']	0.0315790318737
+['next day', 'dog']	['next day', 'dog']	0.0342220510459
+['next day', 'dog']	['next day', 'dog']	0.0653598500094
+['next day', 'dog']	['next day', 'dog']	0.0315790318737
+['next day', 'dog']	['next day', 'dog']	0.0395247252484
+['next day', 'dog']	['next day', 'dog']	0.068011623044
+['hamburger', 'dog']	['hamburger', 'dog']	0.0776229174304
+['hamburger', 'dog']	['hamburger', 'dog']	0.0914667293037
+['hamburger', 'dog']	['hamburger', 'dog']	0.0842616556555
+['hamburger', 'dog']	['hamburger', 'dog']	0.0776229174304
+['hamburger', 'dog']	['hamburger', 'dog']	0.0914667293037
+['hamburger', 'dog']	['hamburger', 'dog']	0.0800843516938
+['hamburger', 'dog']	['hamburger', 'dog']	0.0989307572438
+['2 hamburger', 'dog']	['2 hamburger', 'dog']	0.118448324854
+['2 hamburger', 'dog']	['2 hamburger', 'dog']	0.0596358501446
+['2 hamburger', 'dog']	['2 hamburger', 'dog']	0.0606369672893
+['2 hamburger', 'dog']	['2 hamburger', 'dog']	0.0921818132958
+['2 hamburger', 'dog']	['2 hamburger', 'dog']	0.0596358501446
+['2 hamburger', 'dog']	['2 hamburger', 'dog']	0.0686620201846
+['2 hamburger', 'dog']	['2 hamburger', 'dog']	0.068011623044
+['3 hot dog', 'dog']	['3 hot dog', 'dog']	0.13469574291
+['3 hot dog', 'dog']	['3 hot dog', 'dog']	0.0897928943109
+['3 hot dog', 'dog']	['3 hot dog', 'dog']	0.0690831984199
+['3 hot dog', 'dog']	['3 hot dog', 'dog']	0.0726228325515
+['3 hot dog', 'dog']	['3 hot dog', 'dog']	0.0768471415266
+['3 hot dog', 'dog']	['3 hot dog', 'dog']	0.0986874079506
+['3 hot dog', 'dog']	['3 hot dog', 'dog']	0.18612673115
+['7 dollar', 'dog']	['7 dollar', 'dog']	0.0647925817477
+['7 dollar', 'dog']	['7 dollar', 'dog']	0.0596358501446
+['7 dollar', 'dog']	['7 dollar', 'dog']	0.0606369672893
+['7 dollar', 'dog']	['7 dollar', 'dog']	0.0342220510459
+['7 dollar', 'dog']	['7 dollar', 'dog']	0.0647925817477
+['7 dollar', 'dog']	['7 dollar', 'dog']	0.0596358501446
+['7 dollar', 'dog']	['7 dollar', 'dog']	0.068011623044
+['hot dog', 'dog']	['hot dog', 'dog']	0.0831881114912
+['hot dog', 'dog']	['hot dog', 'dog']	0.0791862552571
+['hot dog', 'dog']	['hot dog', 'dog']	0.0696674662101
+['hot dog', 'dog']	['hot dog', 'dog']	0.0714981595109
+['hot dog', 'dog']	['hot dog', 'dog']	0.0831881114912
+['hot dog', 'dog']	['hot dog', 'dog']	0.0791862552571
+['hot dog', 'dog']	['hot dog', 'dog']	0.0544379520248
+['3 hamburger', '3 hot dog']	['3 hamburger', '3 hot dog']	0.273113803898
+['3 hamburger', '3 hot dog']	['3 hamburger', '3 hot dog']	0.077741654189
+['3 hamburger', '3 hot dog']	['3 hamburger', '3 hot dog']	0.256159833654
+['3 hamburger', '3 hot dog']	['3 hamburger', '3 hot dog']	0.308438785808
+['3 hamburger', '3 hot dog']	['3 hamburger', '3 hot dog']	0.0346526669836
+['3 hamburger', '3 hot dog']	['3 hamburger', '3 hot dog']	0.238078545742
+['3 hamburger', '3 hot dog']	['3 hamburger', '3 hot dog']	0.104975553824
+['4 hot dog', '3 hot dog']	['4 hot dog', '3 hot dog']	0.478218520723
+['4 hot dog', '3 hot dog']	['4 hot dog', '3 hot dog']	0.100520722427
+['4 hot dog', '3 hot dog']	['4 hot dog', '3 hot dog']	0.159422714925
+['4 hot dog', '3 hot dog']	['4 hot dog', '3 hot dog']	0.462208770679
+['4 hot dog', '3 hot dog']	['4 hot dog', '3 hot dog']	0.050142451379
+['4 hot dog', '3 hot dog']	['4 hot dog', '3 hot dog']	0.462208770679
+['4 hot dog', '3 hot dog']	['4 hot dog', '3 hot dog']	0.300142809235
+['next day', '3 hot dog']	['next day', '3 hot dog']	0.249449860135
+['next day', '3 hot dog']	['next day', '3 hot dog']	0.152917530785
+['next day', '3 hot dog']	['next day', '3 hot dog']	0.0661708502503
+['next day', '3 hot dog']	['next day', '3 hot dog']	0.115021025913
+['next day', '3 hot dog']	['next day', '3 hot dog']	0.0310525198541
+['next day', '3 hot dog']	['next day', '3 hot dog']	0.115021025913
+['next day', '3 hot dog']	['next day', '3 hot dog']	0.104975553824
+['hamburger', '3 hot dog']	['hamburger', '3 hot dog']	0.109137255609
+['hamburger', '3 hot dog']	['hamburger', '3 hot dog']	0.0891350834555
+['hamburger', '3 hot dog']	['hamburger', '3 hot dog']	0.0636655055788
+['hamburger', '3 hot dog']	['hamburger', '3 hot dog']	0.0926815561092
+['hamburger', '3 hot dog']	['hamburger', '3 hot dog']	0.113205648841
+['hamburger', '3 hot dog']	['hamburger', '3 hot dog']	0.0690844825876
+['hamburger', '3 hot dog']	['hamburger', '3 hot dog']	0.0821609020013
+['2 hamburger', '3 hot dog']	['2 hamburger', '3 hot dog']	0.233797146018
+['2 hamburger', '3 hot dog']	['2 hamburger', '3 hot dog']	0.273113803898
+['2 hamburger', '3 hot dog']	['2 hamburger', '3 hot dog']	0.077741654189
+['2 hamburger', '3 hot dog']	['2 hamburger', '3 hot dog']	0.256159833654
+['2 hamburger', '3 hot dog']	['2 hamburger', '3 hot dog']	0.0346526669836
+['2 hamburger', '3 hot dog']	['2 hamburger', '3 hot dog']	0.238078545742
+['2 hamburger', '3 hot dog']	['2 hamburger', '3 hot dog']	0.104975553824
+['dog', '3 hot dog']	['dog', '3 hot dog']	0.13469574291
+['dog', '3 hot dog']	['dog', '3 hot dog']	0.0897928943109
+['dog', '3 hot dog']	['dog', '3 hot dog']	0.0690831984199
+['dog', '3 hot dog']	['dog', '3 hot dog']	0.0726228325515
+['dog', '3 hot dog']	['dog', '3 hot dog']	0.0768471415266
+['dog', '3 hot dog']	['dog', '3 hot dog']	0.0986874079506
+['dog', '3 hot dog']	['dog', '3 hot dog']	0.18612673115
+['7 dollar', '3 hot dog']	['7 dollar', '3 hot dog']	0.291468290277
+['7 dollar', '3 hot dog']	['7 dollar', '3 hot dog']	0.273113803898
+['7 dollar', '3 hot dog']	['7 dollar', '3 hot dog']	0.077741654189
+['7 dollar', '3 hot dog']	['7 dollar', '3 hot dog']	0.0661708502503
+['7 dollar', '3 hot dog']	['7 dollar', '3 hot dog']	0.238078545742
+['7 dollar', '3 hot dog']	['7 dollar', '3 hot dog']	0.0236910260615
+['7 dollar', '3 hot dog']	['7 dollar', '3 hot dog']	0.104975553824
+['hot dog', '3 hot dog']	['hot dog', '3 hot dog']	0.112864197212
+['hot dog', '3 hot dog']	['hot dog', '3 hot dog']	0.0753454241898
+['hot dog', '3 hot dog']	['hot dog', '3 hot dog']	0.0408440907292
+['hot dog', '3 hot dog']	['hot dog', '3 hot dog']	0.089054834209
+['hot dog', '3 hot dog']	['hot dog', '3 hot dog']	0.0900026083023
+['hot dog', '3 hot dog']	['hot dog', '3 hot dog']	0.0532450637241
+['hot dog', '3 hot dog']	['hot dog', '3 hot dog']	0.0900026083023
+['3 hamburger', '7 dollar']	['3 hamburger', '7 dollar']	0.214288674086
+['3 hamburger', '7 dollar']	['3 hamburger', '7 dollar']	0.0690143673113
+['3 hamburger', '7 dollar']	['3 hamburger', '7 dollar']	0.149948593916
+['3 hamburger', '7 dollar']	['3 hamburger', '7 dollar']	0.358473774662
+['3 hamburger', '7 dollar']	['3 hamburger', '7 dollar']	0.0661708502503
+['3 hamburger', '7 dollar']	['3 hamburger', '7 dollar']	0.234292131131
+['3 hamburger', '7 dollar']	['3 hamburger', '7 dollar']	0.077078241972
+['4 hot dog', '7 dollar']	['4 hot dog', '7 dollar']	0.238078545742
+['4 hot dog', '7 dollar']	['4 hot dog', '7 dollar']	0.077741654189
+['4 hot dog', '7 dollar']	['4 hot dog', '7 dollar']	0.0661708502503
+['4 hot dog', '7 dollar']	['4 hot dog', '7 dollar']	0.238078545742
+['4 hot dog', '7 dollar']	['4 hot dog', '7 dollar']	0.0236910260615
+['4 hot dog', '7 dollar']	['4 hot dog', '7 dollar']	0.273113803898
+['4 hot dog', '7 dollar']	['4 hot dog', '7 dollar']	0.104975553824
+['next day', '7 dollar']	['next day', '7 dollar']	0.109000991841
+['next day', '7 dollar']	['next day', '7 dollar']	0.108310485224
+['next day', '7 dollar']	['next day', '7 dollar']	0.0585905397909
+['next day', '7 dollar']	['next day', '7 dollar']	0.109000991841
+['next day', '7 dollar']	['next day', '7 dollar']	0.0585905397909
+['next day', '7 dollar']	['next day', '7 dollar']	0.108310485224
+['next day', '7 dollar']	['next day', '7 dollar']	0.077078241972
+['hamburger', '7 dollar']	['hamburger', '7 dollar']	0.0889411938986
+['hamburger', '7 dollar']	['hamburger', '7 dollar']	0.061159070552
+['hamburger', '7 dollar']	['hamburger', '7 dollar']	0.064249773369
+['hamburger', '7 dollar']	['hamburger', '7 dollar']	0.0889411938986
+['hamburger', '7 dollar']	['hamburger', '7 dollar']	0.0342220510459
+['hamburger', '7 dollar']	['hamburger', '7 dollar']	0.061159070552
+['hamburger', '7 dollar']	['hamburger', '7 dollar']	0.0736726043194
+['2 hamburger', '7 dollar']	['2 hamburger', '7 dollar']	0.358473774662
+['2 hamburger', '7 dollar']	['2 hamburger', '7 dollar']	0.214288674086
+['2 hamburger', '7 dollar']	['2 hamburger', '7 dollar']	0.0690143673113
+['2 hamburger', '7 dollar']	['2 hamburger', '7 dollar']	0.149948593916
+['2 hamburger', '7 dollar']	['2 hamburger', '7 dollar']	0.0661708502503
+['2 hamburger', '7 dollar']	['2 hamburger', '7 dollar']	0.214288674086
+['2 hamburger', '7 dollar']	['2 hamburger', '7 dollar']	0.077078241972
+['dog', '7 dollar']	['dog', '7 dollar']	0.0647925817477
+['dog', '7 dollar']	['dog', '7 dollar']	0.0596358501446
+['dog', '7 dollar']	['dog', '7 dollar']	0.0606369672893
+['dog', '7 dollar']	['dog', '7 dollar']	0.0342220510459
+['dog', '7 dollar']	['dog', '7 dollar']	0.0647925817477
+['dog', '7 dollar']	['dog', '7 dollar']	0.0596358501446
+['dog', '7 dollar']	['dog', '7 dollar']	0.068011623044
+['3 hot dog', '7 dollar']	['3 hot dog', '7 dollar']	0.291468290277
+['3 hot dog', '7 dollar']	['3 hot dog', '7 dollar']	0.273113803898
+['3 hot dog', '7 dollar']	['3 hot dog', '7 dollar']	0.077741654189
+['3 hot dog', '7 dollar']	['3 hot dog', '7 dollar']	0.0661708502503
+['3 hot dog', '7 dollar']	['3 hot dog', '7 dollar']	0.238078545742
+['3 hot dog', '7 dollar']	['3 hot dog', '7 dollar']	0.0236910260615
+['3 hot dog', '7 dollar']	['3 hot dog', '7 dollar']	0.104975553824
+['hot dog', '7 dollar']	['hot dog', '7 dollar']	0.0680777523944
+['hot dog', '7 dollar']	['hot dog', '7 dollar']	0.0569568377698
+['hot dog', '7 dollar']	['hot dog', '7 dollar']	0.0380145315322
+['hot dog', '7 dollar']	['hot dog', '7 dollar']	0.0495850429518
+['hot dog', '7 dollar']	['hot dog', '7 dollar']	0.0680777523944
+['hot dog', '7 dollar']	['hot dog', '7 dollar']	0.0411424781057
+['hot dog', '7 dollar']	['hot dog', '7 dollar']	0.0569568377698
+['3 hamburger', 'hot dog']	['3 hamburger', 'hot dog']	0.0569568377698
+['3 hamburger', 'hot dog']	['3 hamburger', 'hot dog']	0.0380145315322
+['3 hamburger', 'hot dog']	['3 hamburger', 'hot dog']	0.122753192538
+['3 hamburger', 'hot dog']	['3 hamburger', 'hot dog']	0.138336111091
+['3 hamburger', 'hot dog']	['3 hamburger', 'hot dog']	0.0425158058315
+['3 hamburger', 'hot dog']	['3 hamburger', 'hot dog']	0.0552454566992
+['3 hamburger', 'hot dog']	['3 hamburger', 'hot dog']	0.0680777523944
+['4 hot dog', 'hot dog']	['4 hot dog', 'hot dog']	0.0900026083023
+['4 hot dog', 'hot dog']	['4 hot dog', 'hot dog']	0.0408440907292
+['4 hot dog', 'hot dog']	['4 hot dog', 'hot dog']	0.089054834209
+['4 hot dog', 'hot dog']	['4 hot dog', 'hot dog']	0.0900026083023
+['4 hot dog', 'hot dog']	['4 hot dog', 'hot dog']	0.0532450637241
+['4 hot dog', 'hot dog']	['4 hot dog', 'hot dog']	0.0753454241898
+['4 hot dog', 'hot dog']	['4 hot dog', 'hot dog']	0.0900026083023
+['next day', 'hot dog']	['next day', 'hot dog']	0.0380145315322
+['next day', 'hot dog']	['next day', 'hot dog']	0.0795463492051
+['next day', 'hot dog']	['next day', 'hot dog']	0.0495850429518
+['next day', 'hot dog']	['next day', 'hot dog']	0.0380145315322
+['next day', 'hot dog']	['next day', 'hot dog']	0.0416660383151
+['next day', 'hot dog']	['next day', 'hot dog']	0.0795463492051
+['next day', 'hot dog']	['next day', 'hot dog']	0.0380145315322
+['hamburger', 'hot dog']	['hamburger', 'hot dog']	0.0615767188443
+['hamburger', 'hot dog']	['hamburger', 'hot dog']	0.0562796527094
+['hamburger', 'hot dog']	['hamburger', 'hot dog']	0.0758802544248
+['hamburger', 'hot dog']	['hamburger', 'hot dog']	0.0615767188443
+['hamburger', 'hot dog']	['hamburger', 'hot dog']	0.0828623397805
+['hamburger', 'hot dog']	['hamburger', 'hot dog']	0.0562796527094
+['hamburger', 'hot dog']	['hamburger', 'hot dog']	0.062148575191
+['2 hamburger', 'hot dog']	['2 hamburger', 'hot dog']	0.138336111091
+['2 hamburger', 'hot dog']	['2 hamburger', 'hot dog']	0.0569568377698
+['2 hamburger', 'hot dog']	['2 hamburger', 'hot dog']	0.0380145315322
+['2 hamburger', 'hot dog']	['2 hamburger', 'hot dog']	0.122753192538
+['2 hamburger', 'hot dog']	['2 hamburger', 'hot dog']	0.0425158058315
+['2 hamburger', 'hot dog']	['2 hamburger', 'hot dog']	0.0569568377698
+['2 hamburger', 'hot dog']	['2 hamburger', 'hot dog']	0.0680777523944
+['dog', 'hot dog']	['dog', 'hot dog']	0.0831881114912
+['dog', 'hot dog']	['dog', 'hot dog']	0.0791862552571
+['dog', 'hot dog']	['dog', 'hot dog']	0.0696674662101
+['dog', 'hot dog']	['dog', 'hot dog']	0.0714981595109
+['dog', 'hot dog']	['dog', 'hot dog']	0.0831881114912
+['dog', 'hot dog']	['dog', 'hot dog']	0.0791862552571
+['dog', 'hot dog']	['dog', 'hot dog']	0.0544379520248
+['3 hot dog', 'hot dog']	['3 hot dog', 'hot dog']	0.112864197212
+['3 hot dog', 'hot dog']	['3 hot dog', 'hot dog']	0.0753454241898
+['3 hot dog', 'hot dog']	['3 hot dog', 'hot dog']	0.0408440907292
+['3 hot dog', 'hot dog']	['3 hot dog', 'hot dog']	0.089054834209
+['3 hot dog', 'hot dog']	['3 hot dog', 'hot dog']	0.0900026083023
+['3 hot dog', 'hot dog']	['3 hot dog', 'hot dog']	0.0532450637241
+['3 hot dog', 'hot dog']	['3 hot dog', 'hot dog']	0.0900026083023
+['7 dollar', 'hot dog']	['7 dollar', 'hot dog']	0.0680777523944
+['7 dollar', 'hot dog']	['7 dollar', 'hot dog']	0.0569568377698
+['7 dollar', 'hot dog']	['7 dollar', 'hot dog']	0.0380145315322
+['7 dollar', 'hot dog']	['7 dollar', 'hot dog']	0.0495850429518
+['7 dollar', 'hot dog']	['7 dollar', 'hot dog']	0.0680777523944
+['7 dollar', 'hot dog']	['7 dollar', 'hot dog']	0.0411424781057
+['7 dollar', 'hot dog']	['7 dollar', 'hot dog']	0.0569568377698

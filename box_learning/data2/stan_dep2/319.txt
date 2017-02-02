@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (NNP Peter))
+    (VP
+      (VBD sold)
+      (NP (NNS pumpkins))
+      (PP (IN from) (NP (PRP$ his) (NN farm))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (PRP He))
+      (VP
+        (VBD sold)
+        (NP (JJ jumbo) (NNS pumpkins))
+        (PP
+          (IN for)
+          (NP (NP (CD 9.00) (NNS dollars)) (NP (DT each))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP he))
+      (VP
+        (VBD sold)
+        (NP (JJ regular) (NNS pumpkins))
+        (PP
+          (IN for)
+          (NP (NP (CD 4.00) (NNS dollars)) (NP (DT each))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Peter))
+    (VP
+      (VP (VBD sold) (NP (CD 80) (NNS pumpkins)))
+      (CC and)
+      (VP (VBN collected) (NP (CD 395.00) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (JJ jumbo) (NNS pumpkins))
+        (CC and)
+        (NP (JJ regular) (NNS pumpkins))))
+    (SQ (VBD did) (NP (PRP he)) (VP (VB sell)))
+    (. ?)))

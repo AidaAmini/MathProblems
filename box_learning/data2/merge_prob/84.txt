@@ -1,0 +1,537 @@
+['freight train', 'train', 'express train', '390 kilometer', 'another', 'kilometer', '30 kilometer', 'hour', '3 hour later']
+['freight train']	['freight train']	0.208383935194
+['freight train']	['freight train']	0.0380145315322
+['freight train']	['freight train']	0.0310743252303
+['freight train']	['freight train']	0.0165873198337
+['freight train']	['freight train']	0.0380145315322
+['freight train']	['freight train']	0.017920653167
+['freight train']	['freight train']	0.0390561411008
+['train']	['train']	0.0726311745998
+['train']	['train']	0.0545909052635
+['train']	['train']	0.0273765446278
+['train']	['train']	0.0726311745998
+['train']	['train']	0.0186436255975
+['train']	['train']	0.0580928607372
+['express train']	['express train']	0.0380145315322
+['express train']	['express train']	0.0310743252303
+['express train']	['express train']	0.0165873198337
+['express train']	['express train']	0.0380145315322
+['express train']	['express train']	0.017920653167
+['express train']	['express train']	0.0390561411008
+['390 kilometer']	['390 kilometer']	0.0486986943261
+['390 kilometer']	['390 kilometer']	0.619435082006
+['390 kilometer']	['390 kilometer']	0.0193931085789
+['390 kilometer']	['390 kilometer']	0.0683238606939
+['another']	['another']	0.0138872354688
+['another']	['another']	0.0402410020092
+['another']	['another']	0.0180843151333
+['another']	['another']	0.0428541414644
+['kilometer']	['kilometer']	0.0160549648882
+['kilometer']	['kilometer']	0.0187882689245
+['30 kilometer']	['30 kilometer']	0.0193931085789
+['30 kilometer']	['30 kilometer']	0.096377301227
+['hour']	['hour']	0.0848120296242
+['train', 'freight train']	['train', 'freight train']	0.150481188512
+['train', 'freight train']	['train', 'freight train']	0.0694376145349
+['train', 'freight train']	['train', 'freight train']	0.0246480513752
+['train', 'freight train']	['train', 'freight train']	0.0394140757887
+['train', 'freight train']	['train', 'freight train']	0.0694376145349
+['train', 'freight train']	['train', 'freight train']	0.102974570476
+['train', 'freight train']	['train', 'freight train']	0.0446613916142
+['express train', 'freight train']	['express train', 'freight train']	0.0546968535511
+['express train', 'freight train']	['express train', 'freight train']	0.0529277583086
+['express train', 'freight train']	['express train', 'freight train']	0.0472118403572
+['express train', 'freight train']	['express train', 'freight train']	0.0480955509936
+['express train', 'freight train']	['express train', 'freight train']	0.0529277583086
+['express train', 'freight train']	['express train', 'freight train']	0.024428884327
+['express train', 'freight train']	['express train', 'freight train']	0.0430415328257
+['390 kilometer', 'freight train']	['390 kilometer', 'freight train']	0.0418876706608
+['390 kilometer', 'freight train']	['390 kilometer', 'freight train']	0.132378731818
+['390 kilometer', 'freight train']	['390 kilometer', 'freight train']	0.0310743252303
+['390 kilometer', 'freight train']	['390 kilometer', 'freight train']	0.018723805902
+['390 kilometer', 'freight train']	['390 kilometer', 'freight train']	0.132643844012
+['390 kilometer', 'freight train']	['390 kilometer', 'freight train']	0.017920653167
+['390 kilometer', 'freight train']	['390 kilometer', 'freight train']	0.0390561411008
+['another', 'freight train']	['another', 'freight train']	0.0354991494656
+['another', 'freight train']	['another', 'freight train']	0.112194051782
+['another', 'freight train']	['another', 'freight train']	0.0427166902479
+['another', 'freight train']	['another', 'freight train']	0.0155884770902
+['another', 'freight train']	['another', 'freight train']	0.0427166902479
+['another', 'freight train']	['another', 'freight train']	0.00986510774806
+['another', 'freight train']	['another', 'freight train']	0.0415311951294
+['kilometer', 'freight train']	['kilometer', 'freight train']	0.0164742961451
+['kilometer', 'freight train']	['kilometer', 'freight train']	0.0802242237769
+['kilometer', 'freight train']	['kilometer', 'freight train']	0.0331976019841
+['kilometer', 'freight train']	['kilometer', 'freight train']	0.0182742027774
+['kilometer', 'freight train']	['kilometer', 'freight train']	0.0401588369424
+['kilometer', 'freight train']	['kilometer', 'freight train']	0.0356234812182
+['kilometer', 'freight train']	['kilometer', 'freight train']	0.0228424904239
+['30 kilometer', 'freight train']	['30 kilometer', 'freight train']	0.0418876706608
+['30 kilometer', 'freight train']	['30 kilometer', 'freight train']	0.131133852146
+['30 kilometer', 'freight train']	['30 kilometer', 'freight train']	0.132643844012
+['30 kilometer', 'freight train']	['30 kilometer', 'freight train']	0.0310743252303
+['30 kilometer', 'freight train']	['30 kilometer', 'freight train']	0.0327866983091
+['30 kilometer', 'freight train']	['30 kilometer', 'freight train']	0.017920653167
+['30 kilometer', 'freight train']	['30 kilometer', 'freight train']	0.0610324059511
+['hour', 'freight train']	['hour', 'freight train']	0.0885070801052
+['hour', 'freight train']	['hour', 'freight train']	0.0755182994711
+['hour', 'freight train']	['hour', 'freight train']	0.0416516782823
+['hour', 'freight train']	['hour', 'freight train']	0.016020948466
+['hour', 'freight train']	['hour', 'freight train']	0.0353327835438
+['hour', 'freight train']	['hour', 'freight train']	0.0416516782823
+['hour', 'freight train']	['hour', 'freight train']	0.0330056389166
+['3 hour later', 'freight train']	['3 hour later', 'freight train']	0.0445359337455
+['3 hour later', 'freight train']	['3 hour later', 'freight train']	0.131163440666
+['3 hour later', 'freight train']	['3 hour later', 'freight train']	0.0362780697097
+['3 hour later', 'freight train']	['3 hour later', 'freight train']	0.0302888726963
+['3 hour later', 'freight train']	['3 hour later', 'freight train']	0.0158867243053
+['3 hour later', 'freight train']	['3 hour later', 'freight train']	0.062190524548
+['3 hour later', 'freight train']	['3 hour later', 'freight train']	0.0305095443273
+['freight train', 'train']	['freight train', 'train']	0.150481188512
+['freight train', 'train']	['freight train', 'train']	0.0694376145349
+['freight train', 'train']	['freight train', 'train']	0.0246480513752
+['freight train', 'train']	['freight train', 'train']	0.0394140757887
+['freight train', 'train']	['freight train', 'train']	0.0694376145349
+['freight train', 'train']	['freight train', 'train']	0.102974570476
+['freight train', 'train']	['freight train', 'train']	0.0446613916142
+['express train', 'train']	['express train', 'train']	0.150481188512
+['express train', 'train']	['express train', 'train']	0.0694376145349
+['express train', 'train']	['express train', 'train']	0.0246480513752
+['express train', 'train']	['express train', 'train']	0.0394140757887
+['express train', 'train']	['express train', 'train']	0.0694376145349
+['express train', 'train']	['express train', 'train']	0.102974570476
+['express train', 'train']	['express train', 'train']	0.0446613916142
+['390 kilometer', 'train']	['390 kilometer', 'train']	0.0956362725249
+['390 kilometer', 'train']	['390 kilometer', 'train']	0.0956362725249
+['390 kilometer', 'train']	['390 kilometer', 'train']	0.0283945089323
+['390 kilometer', 'train']	['390 kilometer', 'train']	0.0397948723841
+['390 kilometer', 'train']	['390 kilometer', 'train']	0.117733533607
+['390 kilometer', 'train']	['390 kilometer', 'train']	0.0483465988415
+['390 kilometer', 'train']	['390 kilometer', 'train']	0.0406759998893
+['another', 'train']	['another', 'train']	0.132008304424
+['another', 'train']	['another', 'train']	0.132008304424
+['another', 'train']	['another', 'train']	0.0780264284481
+['another', 'train']	['another', 'train']	0.0138872354688
+['another', 'train']	['another', 'train']	0.0780264284481
+['another', 'train']	['another', 'train']	0.0230916758018
+['another', 'train']	['another', 'train']	0.0544846225202
+['kilometer', 'train']	['kilometer', 'train']	0.100905832982
+['kilometer', 'train']	['kilometer', 'train']	0.100905832982
+['kilometer', 'train']	['kilometer', 'train']	0.0403937775774
+['kilometer', 'train']	['kilometer', 'train']	0.0181679895573
+['kilometer', 'train']	['kilometer', 'train']	0.040480055194
+['kilometer', 'train']	['kilometer', 'train']	0.0165496634264
+['kilometer', 'train']	['kilometer', 'train']	0.0353233954191
+['30 kilometer', 'train']	['30 kilometer', 'train']	0.0956362725249
+['30 kilometer', 'train']	['30 kilometer', 'train']	0.100801834087
+['30 kilometer', 'train']	['30 kilometer', 'train']	0.117733533607
+['30 kilometer', 'train']	['30 kilometer', 'train']	0.0283945089323
+['30 kilometer', 'train']	['30 kilometer', 'train']	0.0166930931237
+['30 kilometer', 'train']	['30 kilometer', 'train']	0.0483465988415
+['30 kilometer', 'train']	['30 kilometer', 'train']	0.0617263388137
+['hour', 'train']	['hour', 'train']	0.0924068051956
+['hour', 'train']	['hour', 'train']	0.0924068051956
+['hour', 'train']	['hour', 'train']	0.0491777008986
+['hour', 'train']	['hour', 'train']	0.0279123876902
+['hour', 'train']	['hour', 'train']	0.0171892489049
+['hour', 'train']	['hour', 'train']	0.0491777008986
+['hour', 'train']	['hour', 'train']	0.0495896974701
+['3 hour later', 'train']	['3 hour later', 'train']	0.0963141877473
+['3 hour later', 'train']	['3 hour later', 'train']	0.101001436571
+['3 hour later', 'train']	['3 hour later', 'train']	0.0593521039707
+['3 hour later', 'train']	['3 hour later', 'train']	0.0283945089323
+['3 hour later', 'train']	['3 hour later', 'train']	0.0134372887039
+['3 hour later', 'train']	['3 hour later', 'train']	0.0647755822191
+['3 hour later', 'train']	['3 hour later', 'train']	0.0343018435772
+['freight train', 'express train']	['freight train', 'express train']	0.0546968535511
+['freight train', 'express train']	['freight train', 'express train']	0.0529277583086
+['freight train', 'express train']	['freight train', 'express train']	0.0472118403572
+['freight train', 'express train']	['freight train', 'express train']	0.0480955509936
+['freight train', 'express train']	['freight train', 'express train']	0.0529277583086
+['freight train', 'express train']	['freight train', 'express train']	0.024428884327
+['freight train', 'express train']	['freight train', 'express train']	0.0430415328257
+['train', 'express train']	['train', 'express train']	0.150481188512
+['train', 'express train']	['train', 'express train']	0.0694376145349
+['train', 'express train']	['train', 'express train']	0.0246480513752
+['train', 'express train']	['train', 'express train']	0.0394140757887
+['train', 'express train']	['train', 'express train']	0.0694376145349
+['train', 'express train']	['train', 'express train']	0.102974570476
+['train', 'express train']	['train', 'express train']	0.0446613916142
+['390 kilometer', 'express train']	['390 kilometer', 'express train']	0.132378731818
+['390 kilometer', 'express train']	['390 kilometer', 'express train']	0.0418876706608
+['390 kilometer', 'express train']	['390 kilometer', 'express train']	0.0310743252303
+['390 kilometer', 'express train']	['390 kilometer', 'express train']	0.018723805902
+['390 kilometer', 'express train']	['390 kilometer', 'express train']	0.132643844012
+['390 kilometer', 'express train']	['390 kilometer', 'express train']	0.017920653167
+['390 kilometer', 'express train']	['390 kilometer', 'express train']	0.0390561411008
+['another', 'express train']	['another', 'express train']	0.112194051782
+['another', 'express train']	['another', 'express train']	0.0354991494656
+['another', 'express train']	['another', 'express train']	0.0427166902479
+['another', 'express train']	['another', 'express train']	0.0155884770902
+['another', 'express train']	['another', 'express train']	0.0427166902479
+['another', 'express train']	['another', 'express train']	0.00986510774806
+['another', 'express train']	['another', 'express train']	0.0415311951294
+['kilometer', 'express train']	['kilometer', 'express train']	0.0802242237769
+['kilometer', 'express train']	['kilometer', 'express train']	0.0164742961451
+['kilometer', 'express train']	['kilometer', 'express train']	0.0331976019841
+['kilometer', 'express train']	['kilometer', 'express train']	0.0182742027774
+['kilometer', 'express train']	['kilometer', 'express train']	0.0401588369424
+['kilometer', 'express train']	['kilometer', 'express train']	0.0356234812182
+['kilometer', 'express train']	['kilometer', 'express train']	0.0228424904239
+['30 kilometer', 'express train']	['30 kilometer', 'express train']	0.132378731818
+['30 kilometer', 'express train']	['30 kilometer', 'express train']	0.0418876706608
+['30 kilometer', 'express train']	['30 kilometer', 'express train']	0.132643844012
+['30 kilometer', 'express train']	['30 kilometer', 'express train']	0.0310743252303
+['30 kilometer', 'express train']	['30 kilometer', 'express train']	0.0327866983091
+['30 kilometer', 'express train']	['30 kilometer', 'express train']	0.017920653167
+['30 kilometer', 'express train']	['30 kilometer', 'express train']	0.0610324059511
+['hour', 'express train']	['hour', 'express train']	0.0755182994711
+['hour', 'express train']	['hour', 'express train']	0.0885070801052
+['hour', 'express train']	['hour', 'express train']	0.0416516782823
+['hour', 'express train']	['hour', 'express train']	0.016020948466
+['hour', 'express train']	['hour', 'express train']	0.0353327835438
+['hour', 'express train']	['hour', 'express train']	0.0416516782823
+['hour', 'express train']	['hour', 'express train']	0.0330056389166
+['3 hour later', 'express train']	['3 hour later', 'express train']	0.132408320338
+['3 hour later', 'express train']	['3 hour later', 'express train']	0.0445359337455
+['3 hour later', 'express train']	['3 hour later', 'express train']	0.0362780697097
+['3 hour later', 'express train']	['3 hour later', 'express train']	0.0302888726963
+['3 hour later', 'express train']	['3 hour later', 'express train']	0.0158867243053
+['3 hour later', 'express train']	['3 hour later', 'express train']	0.062190524548
+['3 hour later', 'express train']	['3 hour later', 'express train']	0.0305095443273
+['freight train', '390 kilometer']	['freight train', '390 kilometer']	0.0418876706608
+['freight train', '390 kilometer']	['freight train', '390 kilometer']	0.132378731818
+['freight train', '390 kilometer']	['freight train', '390 kilometer']	0.0310743252303
+['freight train', '390 kilometer']	['freight train', '390 kilometer']	0.018723805902
+['freight train', '390 kilometer']	['freight train', '390 kilometer']	0.132643844012
+['freight train', '390 kilometer']	['freight train', '390 kilometer']	0.017920653167
+['freight train', '390 kilometer']	['freight train', '390 kilometer']	0.0390561411008
+['train', '390 kilometer']	['train', '390 kilometer']	0.0956362725249
+['train', '390 kilometer']	['train', '390 kilometer']	0.0956362725249
+['train', '390 kilometer']	['train', '390 kilometer']	0.0283945089323
+['train', '390 kilometer']	['train', '390 kilometer']	0.0397948723841
+['train', '390 kilometer']	['train', '390 kilometer']	0.117733533607
+['train', '390 kilometer']	['train', '390 kilometer']	0.0483465988415
+['train', '390 kilometer']	['train', '390 kilometer']	0.0406759998893
+['express train', '390 kilometer']	['express train', '390 kilometer']	0.132378731818
+['express train', '390 kilometer']	['express train', '390 kilometer']	0.0418876706608
+['express train', '390 kilometer']	['express train', '390 kilometer']	0.0310743252303
+['express train', '390 kilometer']	['express train', '390 kilometer']	0.018723805902
+['express train', '390 kilometer']	['express train', '390 kilometer']	0.132643844012
+['express train', '390 kilometer']	['express train', '390 kilometer']	0.017920653167
+['express train', '390 kilometer']	['express train', '390 kilometer']	0.0390561411008
+['another', '390 kilometer']	['another', '390 kilometer']	0.0353824797794
+['another', '390 kilometer']	['another', '390 kilometer']	0.0254106309626
+['another', '390 kilometer']	['another', '390 kilometer']	0.0353824797794
+['another', '390 kilometer']	['another', '390 kilometer']	0.00922901983915
+['another', '390 kilometer']	['another', '390 kilometer']	0.0796593674297
+['another', '390 kilometer']	['another', '390 kilometer']	0.00986510774806
+['another', '390 kilometer']	['another', '390 kilometer']	0.0299007140736
+['kilometer', '390 kilometer']	['kilometer', '390 kilometer']	0.0437175643
+['kilometer', '390 kilometer']	['kilometer', '390 kilometer']	0.0473205981298
+['kilometer', '390 kilometer']	['kilometer', '390 kilometer']	0.0437175643
+['kilometer', '390 kilometer']	['kilometer', '390 kilometer']	0.0624432139673
+['kilometer', '390 kilometer']	['kilometer', '390 kilometer']	0.0518135319296
+['kilometer', '390 kilometer']	['kilometer', '390 kilometer']	0.0394247839909
+['kilometer', '390 kilometer']	['kilometer', '390 kilometer']	0.0573811292309
+['30 kilometer', '390 kilometer']	['30 kilometer', '390 kilometer']	0.122266422898
+['30 kilometer', '390 kilometer']	['30 kilometer', '390 kilometer']	0.0872480951896
+['30 kilometer', '390 kilometer']	['30 kilometer', '390 kilometer']	0.123068052903
+['30 kilometer', '390 kilometer']	['30 kilometer', '390 kilometer']	0.104257870445
+['30 kilometer', '390 kilometer']	['30 kilometer', '390 kilometer']	0.0344171821264
+['30 kilometer', '390 kilometer']	['30 kilometer', '390 kilometer']	0.0424227297685
+['30 kilometer', '390 kilometer']	['30 kilometer', '390 kilometer']	0.181009878928
+['hour', '390 kilometer']	['hour', '390 kilometer']	0.0412993330826
+['hour', '390 kilometer']	['hour', '390 kilometer']	0.0773531277086
+['hour', '390 kilometer']	['hour', '390 kilometer']	0.0412993330826
+['hour', '390 kilometer']	['hour', '390 kilometer']	0.016020948466
+['hour', '390 kilometer']	['hour', '390 kilometer']	0.0399158645196
+['hour', '390 kilometer']	['hour', '390 kilometer']	0.0974208046642
+['hour', '390 kilometer']	['hour', '390 kilometer']	0.0330056389166
+['3 hour later', '390 kilometer']	['3 hour later', '390 kilometer']	0.108162699989
+['3 hour later', '390 kilometer']	['3 hour later', '390 kilometer']	0.0585905397909
+['3 hour later', '390 kilometer']	['3 hour later', '390 kilometer']	0.0834803757136
+['3 hour later', '390 kilometer']	['3 hour later', '390 kilometer']	0.048725129047
+['3 hour later', '390 kilometer']	['3 hour later', '390 kilometer']	0.0294567652266
+['3 hour later', '390 kilometer']	['3 hour later', '390 kilometer']	0.133980549056
+['3 hour later', '390 kilometer']	['3 hour later', '390 kilometer']	0.0410405019455
+['freight train', 'another']	['freight train', 'another']	0.0354991494656
+['freight train', 'another']	['freight train', 'another']	0.112194051782
+['freight train', 'another']	['freight train', 'another']	0.0427166902479
+['freight train', 'another']	['freight train', 'another']	0.0155884770902
+['freight train', 'another']	['freight train', 'another']	0.0427166902479
+['freight train', 'another']	['freight train', 'another']	0.00986510774806
+['freight train', 'another']	['freight train', 'another']	0.0415311951294
+['train', 'another']	['train', 'another']	0.132008304424
+['train', 'another']	['train', 'another']	0.132008304424
+['train', 'another']	['train', 'another']	0.0780264284481
+['train', 'another']	['train', 'another']	0.0138872354688
+['train', 'another']	['train', 'another']	0.0780264284481
+['train', 'another']	['train', 'another']	0.0230916758018
+['train', 'another']	['train', 'another']	0.0544846225202
+['express train', 'another']	['express train', 'another']	0.112194051782
+['express train', 'another']	['express train', 'another']	0.0354991494656
+['express train', 'another']	['express train', 'another']	0.0427166902479
+['express train', 'another']	['express train', 'another']	0.0155884770902
+['express train', 'another']	['express train', 'another']	0.0427166902479
+['express train', 'another']	['express train', 'another']	0.00986510774806
+['express train', 'another']	['express train', 'another']	0.0415311951294
+['390 kilometer', 'another']	['390 kilometer', 'another']	0.0353824797794
+['390 kilometer', 'another']	['390 kilometer', 'another']	0.0254106309626
+['390 kilometer', 'another']	['390 kilometer', 'another']	0.0353824797794
+['390 kilometer', 'another']	['390 kilometer', 'another']	0.00922901983915
+['390 kilometer', 'another']	['390 kilometer', 'another']	0.0796593674297
+['390 kilometer', 'another']	['390 kilometer', 'another']	0.00986510774806
+['390 kilometer', 'another']	['390 kilometer', 'another']	0.0299007140736
+['kilometer', 'another']	['kilometer', 'another']	0.0440630753943
+['kilometer', 'another']	['kilometer', 'another']	0.0418717043728
+['kilometer', 'another']	['kilometer', 'another']	0.0440630753943
+['kilometer', 'another']	['kilometer', 'another']	0.0558010371594
+['kilometer', 'another']	['kilometer', 'another']	0.0558873147759
+['kilometer', 'another']	['kilometer', 'another']	0.0205143159174
+['kilometer', 'another']	['kilometer', 'another']	0.0207705249928
+['30 kilometer', 'another']	['30 kilometer', 'another']	0.0384209295397
+['30 kilometer', 'another']	['30 kilometer', 'another']	0.0254106309626
+['30 kilometer', 'another']	['30 kilometer', 'another']	0.0482705797144
+['30 kilometer', 'another']	['30 kilometer', 'another']	0.0796593674297
+['30 kilometer', 'another']	['30 kilometer', 'another']	0.0335387159757
+['30 kilometer', 'another']	['30 kilometer', 'another']	0.00986510774806
+['30 kilometer', 'another']	['30 kilometer', 'another']	0.0467058208648
+['hour', 'another']	['hour', 'another']	0.0440630753943
+['hour', 'another']	['hour', 'another']	0.0571969912938
+['hour', 'another']	['hour', 'another']	0.0440630753943
+['hour', 'another']	['hour', 'another']	0.0473831707119
+['hour', 'another']	['hour', 'another']	0.0122047959314
+['hour', 'another']	['hour', 'another']	0.0473831707119
+['hour', 'another']	['hour', 'another']	0.0494983732692
+['3 hour later', 'another']	['3 hour later', 'another']	0.0384209295397
+['3 hour later', 'another']	['3 hour later', 'another']	0.0283945089323
+['3 hour later', 'another']	['3 hour later', 'another']	0.0482705797144
+['3 hour later', 'another']	['3 hour later', 'another']	0.0311958742645
+['3 hour later', 'another']	['3 hour later', 'another']	0.0124105170267
+['3 hour later', 'another']	['3 hour later', 'another']	0.0504216486814
+['3 hour later', 'another']	['3 hour later', 'another']	0.16202222616
+['freight train', 'kilometer']	['freight train', 'kilometer']	0.0164742961451
+['freight train', 'kilometer']	['freight train', 'kilometer']	0.0802242237769
+['freight train', 'kilometer']	['freight train', 'kilometer']	0.0331976019841
+['freight train', 'kilometer']	['freight train', 'kilometer']	0.0182742027774
+['freight train', 'kilometer']	['freight train', 'kilometer']	0.0401588369424
+['freight train', 'kilometer']	['freight train', 'kilometer']	0.0356234812182
+['freight train', 'kilometer']	['freight train', 'kilometer']	0.0228424904239
+['train', 'kilometer']	['train', 'kilometer']	0.100905832982
+['train', 'kilometer']	['train', 'kilometer']	0.100905832982
+['train', 'kilometer']	['train', 'kilometer']	0.0403937775774
+['train', 'kilometer']	['train', 'kilometer']	0.0181679895573
+['train', 'kilometer']	['train', 'kilometer']	0.040480055194
+['train', 'kilometer']	['train', 'kilometer']	0.0165496634264
+['train', 'kilometer']	['train', 'kilometer']	0.0353233954191
+['express train', 'kilometer']	['express train', 'kilometer']	0.0802242237769
+['express train', 'kilometer']	['express train', 'kilometer']	0.0164742961451
+['express train', 'kilometer']	['express train', 'kilometer']	0.0331976019841
+['express train', 'kilometer']	['express train', 'kilometer']	0.0182742027774
+['express train', 'kilometer']	['express train', 'kilometer']	0.0401588369424
+['express train', 'kilometer']	['express train', 'kilometer']	0.0356234812182
+['express train', 'kilometer']	['express train', 'kilometer']	0.0228424904239
+['390 kilometer', 'kilometer']	['390 kilometer', 'kilometer']	0.0437175643
+['390 kilometer', 'kilometer']	['390 kilometer', 'kilometer']	0.0473205981298
+['390 kilometer', 'kilometer']	['390 kilometer', 'kilometer']	0.0437175643
+['390 kilometer', 'kilometer']	['390 kilometer', 'kilometer']	0.0624432139673
+['390 kilometer', 'kilometer']	['390 kilometer', 'kilometer']	0.0518135319296
+['390 kilometer', 'kilometer']	['390 kilometer', 'kilometer']	0.0394247839909
+['390 kilometer', 'kilometer']	['390 kilometer', 'kilometer']	0.0573811292309
+['another', 'kilometer']	['another', 'kilometer']	0.0440630753943
+['another', 'kilometer']	['another', 'kilometer']	0.0418717043728
+['another', 'kilometer']	['another', 'kilometer']	0.0440630753943
+['another', 'kilometer']	['another', 'kilometer']	0.0558010371594
+['another', 'kilometer']	['another', 'kilometer']	0.0558873147759
+['another', 'kilometer']	['another', 'kilometer']	0.0205143159174
+['another', 'kilometer']	['another', 'kilometer']	0.0207705249928
+['30 kilometer', 'kilometer']	['30 kilometer', 'kilometer']	0.0444181598283
+['30 kilometer', 'kilometer']	['30 kilometer', 'kilometer']	0.0473205981298
+['30 kilometer', 'kilometer']	['30 kilometer', 'kilometer']	0.0686828657107
+['30 kilometer', 'kilometer']	['30 kilometer', 'kilometer']	0.0470330725964
+['30 kilometer', 'kilometer']	['30 kilometer', 'kilometer']	0.0624432139673
+['30 kilometer', 'kilometer']	['30 kilometer', 'kilometer']	0.0394247839909
+['30 kilometer', 'kilometer']	['30 kilometer', 'kilometer']	0.0515495489441
+['hour', 'kilometer']	['hour', 'kilometer']	0.0336493367731
+['hour', 'kilometer']	['hour', 'kilometer']	0.0277298084289
+['hour', 'kilometer']	['hour', 'kilometer']	0.0336493367731
+['hour', 'kilometer']	['hour', 'kilometer']	0.0341157799298
+['hour', 'kilometer']	['hour', 'kilometer']	0.0163572977145
+['hour', 'kilometer']	['hour', 'kilometer']	0.0327660906515
+['hour', 'kilometer']	['hour', 'kilometer']	0.044728586359
+['3 hour later', 'kilometer']	['3 hour later', 'kilometer']	0.042489622921
+['3 hour later', 'kilometer']	['3 hour later', 'kilometer']	0.0232638318883
+['3 hour later', 'kilometer']	['3 hour later', 'kilometer']	0.042489622921
+['3 hour later', 'kilometer']	['3 hour later', 'kilometer']	0.0339609098778
+['3 hour later', 'kilometer']	['3 hour later', 'kilometer']	0.0182742027774
+['3 hour later', 'kilometer']	['3 hour later', 'kilometer']	0.0490571391687
+['3 hour later', 'kilometer']	['3 hour later', 'kilometer']	0.1191241879
+['freight train', '30 kilometer']	['freight train', '30 kilometer']	0.0418876706608
+['freight train', '30 kilometer']	['freight train', '30 kilometer']	0.131133852146
+['freight train', '30 kilometer']	['freight train', '30 kilometer']	0.132643844012
+['freight train', '30 kilometer']	['freight train', '30 kilometer']	0.0310743252303
+['freight train', '30 kilometer']	['freight train', '30 kilometer']	0.0327866983091
+['freight train', '30 kilometer']	['freight train', '30 kilometer']	0.017920653167
+['freight train', '30 kilometer']	['freight train', '30 kilometer']	0.0610324059511
+['train', '30 kilometer']	['train', '30 kilometer']	0.0956362725249
+['train', '30 kilometer']	['train', '30 kilometer']	0.100801834087
+['train', '30 kilometer']	['train', '30 kilometer']	0.117733533607
+['train', '30 kilometer']	['train', '30 kilometer']	0.0283945089323
+['train', '30 kilometer']	['train', '30 kilometer']	0.0166930931237
+['train', '30 kilometer']	['train', '30 kilometer']	0.0483465988415
+['train', '30 kilometer']	['train', '30 kilometer']	0.0617263388137
+['express train', '30 kilometer']	['express train', '30 kilometer']	0.132378731818
+['express train', '30 kilometer']	['express train', '30 kilometer']	0.0418876706608
+['express train', '30 kilometer']	['express train', '30 kilometer']	0.132643844012
+['express train', '30 kilometer']	['express train', '30 kilometer']	0.0310743252303
+['express train', '30 kilometer']	['express train', '30 kilometer']	0.0327866983091
+['express train', '30 kilometer']	['express train', '30 kilometer']	0.017920653167
+['express train', '30 kilometer']	['express train', '30 kilometer']	0.0610324059511
+['390 kilometer', '30 kilometer']	['390 kilometer', '30 kilometer']	0.122266422898
+['390 kilometer', '30 kilometer']	['390 kilometer', '30 kilometer']	0.0872480951896
+['390 kilometer', '30 kilometer']	['390 kilometer', '30 kilometer']	0.123068052903
+['390 kilometer', '30 kilometer']	['390 kilometer', '30 kilometer']	0.104257870445
+['390 kilometer', '30 kilometer']	['390 kilometer', '30 kilometer']	0.0344171821264
+['390 kilometer', '30 kilometer']	['390 kilometer', '30 kilometer']	0.0424227297685
+['390 kilometer', '30 kilometer']	['390 kilometer', '30 kilometer']	0.181009878928
+['another', '30 kilometer']	['another', '30 kilometer']	0.0384209295397
+['another', '30 kilometer']	['another', '30 kilometer']	0.0254106309626
+['another', '30 kilometer']	['another', '30 kilometer']	0.0482705797144
+['another', '30 kilometer']	['another', '30 kilometer']	0.0796593674297
+['another', '30 kilometer']	['another', '30 kilometer']	0.0335387159757
+['another', '30 kilometer']	['another', '30 kilometer']	0.00986510774806
+['another', '30 kilometer']	['another', '30 kilometer']	0.0467058208648
+['kilometer', '30 kilometer']	['kilometer', '30 kilometer']	0.0444181598283
+['kilometer', '30 kilometer']	['kilometer', '30 kilometer']	0.0473205981298
+['kilometer', '30 kilometer']	['kilometer', '30 kilometer']	0.0686828657107
+['kilometer', '30 kilometer']	['kilometer', '30 kilometer']	0.0470330725964
+['kilometer', '30 kilometer']	['kilometer', '30 kilometer']	0.0624432139673
+['kilometer', '30 kilometer']	['kilometer', '30 kilometer']	0.0394247839909
+['kilometer', '30 kilometer']	['kilometer', '30 kilometer']	0.0515495489441
+['hour', '30 kilometer']	['hour', '30 kilometer']	0.0412993330826
+['hour', '30 kilometer']	['hour', '30 kilometer']	0.0773531277086
+['hour', '30 kilometer']	['hour', '30 kilometer']	0.0412993330826
+['hour', '30 kilometer']	['hour', '30 kilometer']	0.0974208046642
+['hour', '30 kilometer']	['hour', '30 kilometer']	0.016020948466
+['hour', '30 kilometer']	['hour', '30 kilometer']	0.0175588939895
+['hour', '30 kilometer']	['hour', '30 kilometer']	0.0507679411613
+['3 hour later', '30 kilometer']	['3 hour later', '30 kilometer']	0.0811699463662
+['3 hour later', '30 kilometer']	['3 hour later', '30 kilometer']	0.0585905397909
+['3 hour later', '30 kilometer']	['3 hour later', '30 kilometer']	0.0834803757136
+['3 hour later', '30 kilometer']	['3 hour later', '30 kilometer']	0.126346464602
+['3 hour later', '30 kilometer']	['3 hour later', '30 kilometer']	0.048725129047
+['3 hour later', '30 kilometer']	['3 hour later', '30 kilometer']	0.079257924605
+['3 hour later', '30 kilometer']	['3 hour later', '30 kilometer']	0.0410405019455
+['freight train', 'hour']	['freight train', 'hour']	0.0885070801052
+['freight train', 'hour']	['freight train', 'hour']	0.0755182994711
+['freight train', 'hour']	['freight train', 'hour']	0.0416516782823
+['freight train', 'hour']	['freight train', 'hour']	0.016020948466
+['freight train', 'hour']	['freight train', 'hour']	0.0353327835438
+['freight train', 'hour']	['freight train', 'hour']	0.0416516782823
+['freight train', 'hour']	['freight train', 'hour']	0.0330056389166
+['train', 'hour']	['train', 'hour']	0.0924068051956
+['train', 'hour']	['train', 'hour']	0.0924068051956
+['train', 'hour']	['train', 'hour']	0.0491777008986
+['train', 'hour']	['train', 'hour']	0.0279123876902
+['train', 'hour']	['train', 'hour']	0.0171892489049
+['train', 'hour']	['train', 'hour']	0.0491777008986
+['train', 'hour']	['train', 'hour']	0.0495896974701
+['express train', 'hour']	['express train', 'hour']	0.0755182994711
+['express train', 'hour']	['express train', 'hour']	0.0885070801052
+['express train', 'hour']	['express train', 'hour']	0.0416516782823
+['express train', 'hour']	['express train', 'hour']	0.016020948466
+['express train', 'hour']	['express train', 'hour']	0.0353327835438
+['express train', 'hour']	['express train', 'hour']	0.0416516782823
+['express train', 'hour']	['express train', 'hour']	0.0330056389166
+['390 kilometer', 'hour']	['390 kilometer', 'hour']	0.0412993330826
+['390 kilometer', 'hour']	['390 kilometer', 'hour']	0.0773531277086
+['390 kilometer', 'hour']	['390 kilometer', 'hour']	0.0412993330826
+['390 kilometer', 'hour']	['390 kilometer', 'hour']	0.016020948466
+['390 kilometer', 'hour']	['390 kilometer', 'hour']	0.0399158645196
+['390 kilometer', 'hour']	['390 kilometer', 'hour']	0.0974208046642
+['390 kilometer', 'hour']	['390 kilometer', 'hour']	0.0330056389166
+['another', 'hour']	['another', 'hour']	0.0440630753943
+['another', 'hour']	['another', 'hour']	0.0571969912938
+['another', 'hour']	['another', 'hour']	0.0440630753943
+['another', 'hour']	['another', 'hour']	0.0473831707119
+['another', 'hour']	['another', 'hour']	0.0122047959314
+['another', 'hour']	['another', 'hour']	0.0473831707119
+['another', 'hour']	['another', 'hour']	0.0494983732692
+['kilometer', 'hour']	['kilometer', 'hour']	0.0336493367731
+['kilometer', 'hour']	['kilometer', 'hour']	0.0277298084289
+['kilometer', 'hour']	['kilometer', 'hour']	0.0336493367731
+['kilometer', 'hour']	['kilometer', 'hour']	0.0341157799298
+['kilometer', 'hour']	['kilometer', 'hour']	0.0163572977145
+['kilometer', 'hour']	['kilometer', 'hour']	0.0327660906515
+['kilometer', 'hour']	['kilometer', 'hour']	0.044728586359
+['30 kilometer', 'hour']	['30 kilometer', 'hour']	0.0412993330826
+['30 kilometer', 'hour']	['30 kilometer', 'hour']	0.0773531277086
+['30 kilometer', 'hour']	['30 kilometer', 'hour']	0.0412993330826
+['30 kilometer', 'hour']	['30 kilometer', 'hour']	0.0974208046642
+['30 kilometer', 'hour']	['30 kilometer', 'hour']	0.016020948466
+['30 kilometer', 'hour']	['30 kilometer', 'hour']	0.0175588939895
+['30 kilometer', 'hour']	['30 kilometer', 'hour']	0.0507679411613
+['3 hour later', 'hour']	['3 hour later', 'hour']	0.042489622921
+['3 hour later', 'hour']	['3 hour later', 'hour']	0.0293013467698
+['3 hour later', 'hour']	['3 hour later', 'hour']	0.042489622921
+['3 hour later', 'hour']	['3 hour later', 'hour']	0.0428419681207
+['3 hour later', 'hour']	['3 hour later', 'hour']	0.016020948466
+['3 hour later', 'hour']	['3 hour later', 'hour']	0.01417173841
+['3 hour later', 'hour']	['3 hour later', 'hour']	0.0518072750832
+['freight train', '3 hour later']	['freight train', '3 hour later']	0.0445359337455
+['freight train', '3 hour later']	['freight train', '3 hour later']	0.131163440666
+['freight train', '3 hour later']	['freight train', '3 hour later']	0.0362780697097
+['freight train', '3 hour later']	['freight train', '3 hour later']	0.0302888726963
+['freight train', '3 hour later']	['freight train', '3 hour later']	0.0158867243053
+['freight train', '3 hour later']	['freight train', '3 hour later']	0.062190524548
+['freight train', '3 hour later']	['freight train', '3 hour later']	0.0305095443273
+['train', '3 hour later']	['train', '3 hour later']	0.0963141877473
+['train', '3 hour later']	['train', '3 hour later']	0.101001436571
+['train', '3 hour later']	['train', '3 hour later']	0.0593521039707
+['train', '3 hour later']	['train', '3 hour later']	0.0283945089323
+['train', '3 hour later']	['train', '3 hour later']	0.0134372887039
+['train', '3 hour later']	['train', '3 hour later']	0.0647755822191
+['train', '3 hour later']	['train', '3 hour later']	0.0343018435772
+['express train', '3 hour later']	['express train', '3 hour later']	0.132408320338
+['express train', '3 hour later']	['express train', '3 hour later']	0.0445359337455
+['express train', '3 hour later']	['express train', '3 hour later']	0.0362780697097
+['express train', '3 hour later']	['express train', '3 hour later']	0.0302888726963
+['express train', '3 hour later']	['express train', '3 hour later']	0.0158867243053
+['express train', '3 hour later']	['express train', '3 hour later']	0.062190524548
+['express train', '3 hour later']	['express train', '3 hour later']	0.0305095443273
+['390 kilometer', '3 hour later']	['390 kilometer', '3 hour later']	0.108162699989
+['390 kilometer', '3 hour later']	['390 kilometer', '3 hour later']	0.0585905397909
+['390 kilometer', '3 hour later']	['390 kilometer', '3 hour later']	0.0834803757136
+['390 kilometer', '3 hour later']	['390 kilometer', '3 hour later']	0.048725129047
+['390 kilometer', '3 hour later']	['390 kilometer', '3 hour later']	0.0294567652266
+['390 kilometer', '3 hour later']	['390 kilometer', '3 hour later']	0.133980549056
+['390 kilometer', '3 hour later']	['390 kilometer', '3 hour later']	0.0410405019455
+['another', '3 hour later']	['another', '3 hour later']	0.0384209295397
+['another', '3 hour later']	['another', '3 hour later']	0.0283945089323
+['another', '3 hour later']	['another', '3 hour later']	0.0482705797144
+['another', '3 hour later']	['another', '3 hour later']	0.0311958742645
+['another', '3 hour later']	['another', '3 hour later']	0.0124105170267
+['another', '3 hour later']	['another', '3 hour later']	0.0504216486814
+['another', '3 hour later']	['another', '3 hour later']	0.16202222616
+['kilometer', '3 hour later']	['kilometer', '3 hour later']	0.042489622921
+['kilometer', '3 hour later']	['kilometer', '3 hour later']	0.0232638318883
+['kilometer', '3 hour later']	['kilometer', '3 hour later']	0.042489622921
+['kilometer', '3 hour later']	['kilometer', '3 hour later']	0.0339609098778
+['kilometer', '3 hour later']	['kilometer', '3 hour later']	0.0182742027774
+['kilometer', '3 hour later']	['kilometer', '3 hour later']	0.0490571391687
+['kilometer', '3 hour later']	['kilometer', '3 hour later']	0.1191241879
+['30 kilometer', '3 hour later']	['30 kilometer', '3 hour later']	0.0811699463662
+['30 kilometer', '3 hour later']	['30 kilometer', '3 hour later']	0.0585905397909
+['30 kilometer', '3 hour later']	['30 kilometer', '3 hour later']	0.0834803757136
+['30 kilometer', '3 hour later']	['30 kilometer', '3 hour later']	0.126346464602
+['30 kilometer', '3 hour later']	['30 kilometer', '3 hour later']	0.048725129047
+['30 kilometer', '3 hour later']	['30 kilometer', '3 hour later']	0.079257924605
+['30 kilometer', '3 hour later']	['30 kilometer', '3 hour later']	0.0410405019455
+['hour', '3 hour later']	['hour', '3 hour later']	0.042489622921
+['hour', '3 hour later']	['hour', '3 hour later']	0.0293013467698
+['hour', '3 hour later']	['hour', '3 hour later']	0.042489622921
+['hour', '3 hour later']	['hour', '3 hour later']	0.0428419681207
+['hour', '3 hour later']	['hour', '3 hour later']	0.016020948466
+['hour', '3 hour later']	['hour', '3 hour later']	0.01417173841
+['hour', '3 hour later']	['hour', '3 hour later']	0.0518072750832

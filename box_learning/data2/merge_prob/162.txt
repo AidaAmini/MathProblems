@@ -1,0 +1,759 @@
+['adult ticket', 'ticket', '5.50 dollar', 'child ticket', '2.50 dollar', 'adult', 'child', 'receipt', 'dollar', '1026 dollar']
+['adult ticket']	['adult ticket']	0.0690143673113
+['adult ticket']	['adult ticket']	0.631233166032
+['adult ticket']	['adult ticket']	0.0690143673113
+['adult ticket']	['adult ticket']	0.0585905397909
+['adult ticket']	['adult ticket']	0.0824169897896
+['adult ticket']	['adult ticket']	0.0180301487104
+['adult ticket']	['adult ticket']	0.0690143673113
+['ticket']	['ticket']	0.0827936256965
+['ticket']	['ticket']	0.0827936256965
+['ticket']	['ticket']	0.244606310431
+['ticket']	['ticket']	0.142599637055
+['ticket']	['ticket']	0.292124011487
+['ticket']	['ticket']	0.00847248349399
+['ticket']	['ticket']	0.0827936256965
+['5.50 dollar']	['5.50 dollar']	0.0690143673113
+['5.50 dollar']	['5.50 dollar']	0.619435082006
+['5.50 dollar']	['5.50 dollar']	0.0585905397909
+['5.50 dollar']	['5.50 dollar']	0.0585905397909
+['5.50 dollar']	['5.50 dollar']	0.0824169897896
+['5.50 dollar']	['5.50 dollar']	0.619435082006
+['child ticket']	['child ticket']	0.0690143673113
+['child ticket']	['child ticket']	0.0658280509311
+['child ticket']	['child ticket']	0.0824169897896
+['child ticket']	['child ticket']	0.0180301487104
+['child ticket']	['child ticket']	0.0690143673113
+['2.50 dollar']	['2.50 dollar']	0.0585905397909
+['2.50 dollar']	['2.50 dollar']	0.0585905397909
+['2.50 dollar']	['2.50 dollar']	0.0824169897896
+['2.50 dollar']	['2.50 dollar']	0.619435082006
+['adult']	['adult']	0.515095389679
+['adult']	['adult']	0.273878999664
+['adult']	['adult']	0.0131625977876
+['adult']	['adult']	0.0726311745998
+['child']	['child']	0.0643152516816
+['child']	['child']	0.00993772633724
+['child']	['child']	0.0726311745998
+['receipt']	['receipt']	0.0256395265621
+['receipt']	['receipt']	0.0819536939605
+['ticket', 'adult ticket']	['ticket', 'adult ticket']	0.0831881114912
+['ticket', 'adult ticket']	['ticket', 'adult ticket']	0.0922381610504
+['ticket', 'adult ticket']	['ticket', 'adult ticket']	0.0831881114912
+['ticket', 'adult ticket']	['ticket', 'adult ticket']	0.573025637561
+['ticket', 'adult ticket']	['ticket', 'adult ticket']	0.0725899123205
+['ticket', 'adult ticket']	['ticket', 'adult ticket']	0.0316119370484
+['ticket', 'adult ticket']	['ticket', 'adult ticket']	0.0558695923582
+['ticket', 'adult ticket']	['ticket', 'adult ticket']	0.0831881114912
+['5.50 dollar', 'adult ticket']	['5.50 dollar', 'adult ticket']	0.0370399655006
+['5.50 dollar', 'adult ticket']	['5.50 dollar', 'adult ticket']	0.255189051606
+['5.50 dollar', 'adult ticket']	['5.50 dollar', 'adult ticket']	0.251529580944
+['5.50 dollar', 'adult ticket']	['5.50 dollar', 'adult ticket']	0.135713948095
+['5.50 dollar', 'adult ticket']	['5.50 dollar', 'adult ticket']	0.0585905397909
+['5.50 dollar', 'adult ticket']	['5.50 dollar', 'adult ticket']	0.0824169897896
+['5.50 dollar', 'adult ticket']	['5.50 dollar', 'adult ticket']	0.0190176866772
+['5.50 dollar', 'adult ticket']	['5.50 dollar', 'adult ticket']	0.251529580944
+['child ticket', 'adult ticket']	['child ticket', 'adult ticket']	0.0429637778507
+['child ticket', 'adult ticket']	['child ticket', 'adult ticket']	0.0922575126852
+['child ticket', 'adult ticket']	['child ticket', 'adult ticket']	0.0922575126852
+['child ticket', 'adult ticket']	['child ticket', 'adult ticket']	0.218023736694
+['child ticket', 'adult ticket']	['child ticket', 'adult ticket']	0.125377894302
+['child ticket', 'adult ticket']	['child ticket', 'adult ticket']	0.207135603763
+['child ticket', 'adult ticket']	['child ticket', 'adult ticket']	0.0688785596249
+['child ticket', 'adult ticket']	['child ticket', 'adult ticket']	0.0922575126852
+['2.50 dollar', 'adult ticket']	['2.50 dollar', 'adult ticket']	0.0370399655006
+['2.50 dollar', 'adult ticket']	['2.50 dollar', 'adult ticket']	0.251529580944
+['2.50 dollar', 'adult ticket']	['2.50 dollar', 'adult ticket']	0.255189051606
+['2.50 dollar', 'adult ticket']	['2.50 dollar', 'adult ticket']	0.135713948095
+['2.50 dollar', 'adult ticket']	['2.50 dollar', 'adult ticket']	0.0585905397909
+['2.50 dollar', 'adult ticket']	['2.50 dollar', 'adult ticket']	0.0824169897896
+['2.50 dollar', 'adult ticket']	['2.50 dollar', 'adult ticket']	0.0190176866772
+['2.50 dollar', 'adult ticket']	['2.50 dollar', 'adult ticket']	0.251529580944
+['adult', 'adult ticket']	['adult', 'adult ticket']	0.0895290794493
+['adult', 'adult ticket']	['adult', 'adult ticket']	0.0606369672893
+['adult', 'adult ticket']	['adult', 'adult ticket']	0.15360771736
+['adult', 'adult ticket']	['adult', 'adult ticket']	0.0606369672893
+['adult', 'adult ticket']	['adult', 'adult ticket']	0.0344897886631
+['adult', 'adult ticket']	['adult', 'adult ticket']	0.032495944144
+['adult', 'adult ticket']	['adult', 'adult ticket']	0.0547064574059
+['adult', 'adult ticket']	['adult', 'adult ticket']	0.0606369672893
+['child', 'adult ticket']	['child', 'adult ticket']	0.135652549868
+['child', 'adult ticket']	['child', 'adult ticket']	0.0606369672893
+['child', 'adult ticket']	['child', 'adult ticket']	0.361224520517
+['child', 'adult ticket']	['child', 'adult ticket']	0.0606369672893
+['child', 'adult ticket']	['child', 'adult ticket']	0.397480471144
+['child', 'adult ticket']	['child', 'adult ticket']	0.0375814458037
+['child', 'adult ticket']	['child', 'adult ticket']	0.00676917892766
+['child', 'adult ticket']	['child', 'adult ticket']	0.0606369672893
+['receipt', 'adult ticket']	['receipt', 'adult ticket']	0.0772981791648
+['receipt', 'adult ticket']	['receipt', 'adult ticket']	0.0821022377173
+['receipt', 'adult ticket']	['receipt', 'adult ticket']	0.218251987584
+['receipt', 'adult ticket']	['receipt', 'adult ticket']	0.0821022377173
+['receipt', 'adult ticket']	['receipt', 'adult ticket']	0.386770789083
+['receipt', 'adult ticket']	['receipt', 'adult ticket']	0.0545060281549
+['receipt', 'adult ticket']	['receipt', 'adult ticket']	0.0110668908218
+['receipt', 'adult ticket']	['receipt', 'adult ticket']	0.0821022377173
+['dollar', 'adult ticket']	['dollar', 'adult ticket']	0.0723577651483
+['dollar', 'adult ticket']	['dollar', 'adult ticket']	0.0291662153074
+['dollar', 'adult ticket']	['dollar', 'adult ticket']	0.101122359746
+['dollar', 'adult ticket']	['dollar', 'adult ticket']	0.0291662153074
+['dollar', 'adult ticket']	['dollar', 'adult ticket']	0.168906648799
+['dollar', 'adult ticket']	['dollar', 'adult ticket']	0.0433348310958
+['dollar', 'adult ticket']	['dollar', 'adult ticket']	0.0153300306404
+['dollar', 'adult ticket']	['dollar', 'adult ticket']	0.0291662153074
+['1026 dollar', 'adult ticket']	['1026 dollar', 'adult ticket']	0.0370399655006
+['1026 dollar', 'adult ticket']	['1026 dollar', 'adult ticket']	0.251529580944
+['1026 dollar', 'adult ticket']	['1026 dollar', 'adult ticket']	0.255189051606
+['1026 dollar', 'adult ticket']	['1026 dollar', 'adult ticket']	0.251529580944
+['1026 dollar', 'adult ticket']	['1026 dollar', 'adult ticket']	0.135713948095
+['1026 dollar', 'adult ticket']	['1026 dollar', 'adult ticket']	0.0585905397909
+['1026 dollar', 'adult ticket']	['1026 dollar', 'adult ticket']	0.0824169897896
+['1026 dollar', 'adult ticket']	['1026 dollar', 'adult ticket']	0.0190176866772
+['adult ticket', 'ticket']	['adult ticket', 'ticket']	0.0831881114912
+['adult ticket', 'ticket']	['adult ticket', 'ticket']	0.0922381610504
+['adult ticket', 'ticket']	['adult ticket', 'ticket']	0.0831881114912
+['adult ticket', 'ticket']	['adult ticket', 'ticket']	0.573025637561
+['adult ticket', 'ticket']	['adult ticket', 'ticket']	0.0725899123205
+['adult ticket', 'ticket']	['adult ticket', 'ticket']	0.0316119370484
+['adult ticket', 'ticket']	['adult ticket', 'ticket']	0.0558695923582
+['adult ticket', 'ticket']	['adult ticket', 'ticket']	0.0831881114912
+['5.50 dollar', 'ticket']	['5.50 dollar', 'ticket']	0.0440787854056
+['5.50 dollar', 'ticket']	['5.50 dollar', 'ticket']	0.0440787854056
+['5.50 dollar', 'ticket']	['5.50 dollar', 'ticket']	0.128707561687
+['5.50 dollar', 'ticket']	['5.50 dollar', 'ticket']	0.144947218371
+['5.50 dollar', 'ticket']	['5.50 dollar', 'ticket']	0.0571345412412
+['5.50 dollar', 'ticket']	['5.50 dollar', 'ticket']	0.032495944144
+['5.50 dollar', 'ticket']	['5.50 dollar', 'ticket']	0.0432740235322
+['5.50 dollar', 'ticket']	['5.50 dollar', 'ticket']	0.128707561687
+['child ticket', 'ticket']	['child ticket', 'ticket']	0.0922381610504
+['child ticket', 'ticket']	['child ticket', 'ticket']	0.0831881114912
+['child ticket', 'ticket']	['child ticket', 'ticket']	0.0831881114912
+['child ticket', 'ticket']	['child ticket', 'ticket']	0.337225800363
+['child ticket', 'ticket']	['child ticket', 'ticket']	0.0698629697705
+['child ticket', 'ticket']	['child ticket', 'ticket']	0.0316119370484
+['child ticket', 'ticket']	['child ticket', 'ticket']	0.0558695923582
+['child ticket', 'ticket']	['child ticket', 'ticket']	0.0831881114912
+['2.50 dollar', 'ticket']	['2.50 dollar', 'ticket']	0.0440787854056
+['2.50 dollar', 'ticket']	['2.50 dollar', 'ticket']	0.128707561687
+['2.50 dollar', 'ticket']	['2.50 dollar', 'ticket']	0.0440787854056
+['2.50 dollar', 'ticket']	['2.50 dollar', 'ticket']	0.144947218371
+['2.50 dollar', 'ticket']	['2.50 dollar', 'ticket']	0.0571345412412
+['2.50 dollar', 'ticket']	['2.50 dollar', 'ticket']	0.032495944144
+['2.50 dollar', 'ticket']	['2.50 dollar', 'ticket']	0.0432740235322
+['2.50 dollar', 'ticket']	['2.50 dollar', 'ticket']	0.128707561687
+['adult', 'ticket']	['adult', 'ticket']	0.318338428643
+['adult', 'ticket']	['adult', 'ticket']	0.0991300310581
+['adult', 'ticket']	['adult', 'ticket']	0.0616666320162
+['adult', 'ticket']	['adult', 'ticket']	0.0991300310581
+['adult', 'ticket']	['adult', 'ticket']	0.425994949145
+['adult', 'ticket']	['adult', 'ticket']	0.460615984078
+['adult', 'ticket']	['adult', 'ticket']	0.00847248349399
+['adult', 'ticket']	['adult', 'ticket']	0.0991300310581
+['child', 'ticket']	['child', 'ticket']	0.0616666320162
+['child', 'ticket']	['child', 'ticket']	0.0991300310581
+['child', 'ticket']	['child', 'ticket']	0.318338428643
+['child', 'ticket']	['child', 'ticket']	0.0991300310581
+['child', 'ticket']	['child', 'ticket']	0.424915197702
+['child', 'ticket']	['child', 'ticket']	0.345848223867
+['child', 'ticket']	['child', 'ticket']	0.00847248349399
+['child', 'ticket']	['child', 'ticket']	0.0991300310581
+['receipt', 'ticket']	['receipt', 'ticket']	0.061144870022
+['receipt', 'ticket']	['receipt', 'ticket']	0.0874995500023
+['receipt', 'ticket']	['receipt', 'ticket']	0.061144870022
+['receipt', 'ticket']	['receipt', 'ticket']	0.0874995500023
+['receipt', 'ticket']	['receipt', 'ticket']	0.409661366285
+['receipt', 'ticket']	['receipt', 'ticket']	0.284856458975
+['receipt', 'ticket']	['receipt', 'ticket']	0.0346454262089
+['receipt', 'ticket']	['receipt', 'ticket']	0.0874995500023
+['dollar', 'ticket']	['dollar', 'ticket']	0.0782692624851
+['dollar', 'ticket']	['dollar', 'ticket']	0.0455468282685
+['dollar', 'ticket']	['dollar', 'ticket']	0.0782692624851
+['dollar', 'ticket']	['dollar', 'ticket']	0.0455468282685
+['dollar', 'ticket']	['dollar', 'ticket']	0.245089179732
+['dollar', 'ticket']	['dollar', 'ticket']	0.238113251007
+['dollar', 'ticket']	['dollar', 'ticket']	0.282387106539
+['dollar', 'ticket']	['dollar', 'ticket']	0.0455468282685
+['1026 dollar', 'ticket']	['1026 dollar', 'ticket']	0.0440787854056
+['1026 dollar', 'ticket']	['1026 dollar', 'ticket']	0.128707561687
+['1026 dollar', 'ticket']	['1026 dollar', 'ticket']	0.0440787854056
+['1026 dollar', 'ticket']	['1026 dollar', 'ticket']	0.128707561687
+['1026 dollar', 'ticket']	['1026 dollar', 'ticket']	0.144947218371
+['1026 dollar', 'ticket']	['1026 dollar', 'ticket']	0.0571345412412
+['1026 dollar', 'ticket']	['1026 dollar', 'ticket']	0.032495944144
+['1026 dollar', 'ticket']	['1026 dollar', 'ticket']	0.0432740235322
+['adult ticket', '5.50 dollar']	['adult ticket', '5.50 dollar']	0.0370399655006
+['adult ticket', '5.50 dollar']	['adult ticket', '5.50 dollar']	0.255189051606
+['adult ticket', '5.50 dollar']	['adult ticket', '5.50 dollar']	0.251529580944
+['adult ticket', '5.50 dollar']	['adult ticket', '5.50 dollar']	0.135713948095
+['adult ticket', '5.50 dollar']	['adult ticket', '5.50 dollar']	0.0585905397909
+['adult ticket', '5.50 dollar']	['adult ticket', '5.50 dollar']	0.0824169897896
+['adult ticket', '5.50 dollar']	['adult ticket', '5.50 dollar']	0.0190176866772
+['adult ticket', '5.50 dollar']	['adult ticket', '5.50 dollar']	0.251529580944
+['ticket', '5.50 dollar']	['ticket', '5.50 dollar']	0.0440787854056
+['ticket', '5.50 dollar']	['ticket', '5.50 dollar']	0.0440787854056
+['ticket', '5.50 dollar']	['ticket', '5.50 dollar']	0.128707561687
+['ticket', '5.50 dollar']	['ticket', '5.50 dollar']	0.144947218371
+['ticket', '5.50 dollar']	['ticket', '5.50 dollar']	0.0571345412412
+['ticket', '5.50 dollar']	['ticket', '5.50 dollar']	0.032495944144
+['ticket', '5.50 dollar']	['ticket', '5.50 dollar']	0.0432740235322
+['ticket', '5.50 dollar']	['ticket', '5.50 dollar']	0.128707561687
+['child ticket', '5.50 dollar']	['child ticket', '5.50 dollar']	0.255189051606
+['child ticket', '5.50 dollar']	['child ticket', '5.50 dollar']	0.0370399655006
+['child ticket', '5.50 dollar']	['child ticket', '5.50 dollar']	0.251529580944
+['child ticket', '5.50 dollar']	['child ticket', '5.50 dollar']	0.0585905397909
+['child ticket', '5.50 dollar']	['child ticket', '5.50 dollar']	0.12700490646
+['child ticket', '5.50 dollar']	['child ticket', '5.50 dollar']	0.0824169897896
+['child ticket', '5.50 dollar']	['child ticket', '5.50 dollar']	0.0190176866772
+['child ticket', '5.50 dollar']	['child ticket', '5.50 dollar']	0.251529580944
+['2.50 dollar', '5.50 dollar']	['2.50 dollar', '5.50 dollar']	0.0922575126852
+['2.50 dollar', '5.50 dollar']	['2.50 dollar', '5.50 dollar']	0.159422714925
+['2.50 dollar', '5.50 dollar']	['2.50 dollar', '5.50 dollar']	0.0922575126852
+['2.50 dollar', '5.50 dollar']	['2.50 dollar', '5.50 dollar']	0.0872480951896
+['2.50 dollar', '5.50 dollar']	['2.50 dollar', '5.50 dollar']	0.0872480951896
+['2.50 dollar', '5.50 dollar']	['2.50 dollar', '5.50 dollar']	0.207135603763
+['2.50 dollar', '5.50 dollar']	['2.50 dollar', '5.50 dollar']	0.01615851183
+['2.50 dollar', '5.50 dollar']	['2.50 dollar', '5.50 dollar']	0.629369170797
+['adult', '5.50 dollar']	['adult', '5.50 dollar']	0.30483086274
+['adult', '5.50 dollar']	['adult', '5.50 dollar']	0.149746521368
+['adult', '5.50 dollar']	['adult', '5.50 dollar']	0.0668786179967
+['adult', '5.50 dollar']	['adult', '5.50 dollar']	0.117733533607
+['adult', '5.50 dollar']	['adult', '5.50 dollar']	0.0344897886631
+['adult', '5.50 dollar']	['adult', '5.50 dollar']	0.032495944144
+['adult', '5.50 dollar']	['adult', '5.50 dollar']	0.0432740235322
+['adult', '5.50 dollar']	['adult', '5.50 dollar']	0.117733533607
+['child', '5.50 dollar']	['child', '5.50 dollar']	0.0668786179967
+['child', '5.50 dollar']	['child', '5.50 dollar']	0.0578050493146
+['child', '5.50 dollar']	['child', '5.50 dollar']	0.30483086274
+['child', '5.50 dollar']	['child', '5.50 dollar']	0.117733533607
+['child', '5.50 dollar']	['child', '5.50 dollar']	0.0344897886631
+['child', '5.50 dollar']	['child', '5.50 dollar']	0.0375814458037
+['child', '5.50 dollar']	['child', '5.50 dollar']	0.0364645429985
+['child', '5.50 dollar']	['child', '5.50 dollar']	0.117733533607
+['receipt', '5.50 dollar']	['receipt', '5.50 dollar']	0.0821022377173
+['receipt', '5.50 dollar']	['receipt', '5.50 dollar']	0.0524383339729
+['receipt', '5.50 dollar']	['receipt', '5.50 dollar']	0.0821022377173
+['receipt', '5.50 dollar']	['receipt', '5.50 dollar']	0.199671667608
+['receipt', '5.50 dollar']	['receipt', '5.50 dollar']	0.0487217981093
+['receipt', '5.50 dollar']	['receipt', '5.50 dollar']	0.0545060281549
+['receipt', '5.50 dollar']	['receipt', '5.50 dollar']	0.00901260326442
+['receipt', '5.50 dollar']	['receipt', '5.50 dollar']	0.199671667608
+['dollar', '5.50 dollar']	['dollar', '5.50 dollar']	0.0406801579375
+['dollar', '5.50 dollar']	['dollar', '5.50 dollar']	0.0594348820819
+['dollar', '5.50 dollar']	['dollar', '5.50 dollar']	0.0406801579375
+['dollar', '5.50 dollar']	['dollar', '5.50 dollar']	0.0517940170627
+['dollar', '5.50 dollar']	['dollar', '5.50 dollar']	0.120611233955
+['dollar', '5.50 dollar']	['dollar', '5.50 dollar']	0.017160943919
+['dollar', '5.50 dollar']	['dollar', '5.50 dollar']	0.021753547511
+['dollar', '5.50 dollar']	['dollar', '5.50 dollar']	0.0517940170627
+['1026 dollar', '5.50 dollar']	['1026 dollar', '5.50 dollar']	0.0922575126852
+['1026 dollar', '5.50 dollar']	['1026 dollar', '5.50 dollar']	0.159422714925
+['1026 dollar', '5.50 dollar']	['1026 dollar', '5.50 dollar']	0.0922575126852
+['1026 dollar', '5.50 dollar']	['1026 dollar', '5.50 dollar']	0.629369170797
+['1026 dollar', '5.50 dollar']	['1026 dollar', '5.50 dollar']	0.0872480951896
+['1026 dollar', '5.50 dollar']	['1026 dollar', '5.50 dollar']	0.0872480951896
+['1026 dollar', '5.50 dollar']	['1026 dollar', '5.50 dollar']	0.207135603763
+['1026 dollar', '5.50 dollar']	['1026 dollar', '5.50 dollar']	0.01615851183
+['adult ticket', 'child ticket']	['adult ticket', 'child ticket']	0.0429637778507
+['adult ticket', 'child ticket']	['adult ticket', 'child ticket']	0.0922575126852
+['adult ticket', 'child ticket']	['adult ticket', 'child ticket']	0.0922575126852
+['adult ticket', 'child ticket']	['adult ticket', 'child ticket']	0.218023736694
+['adult ticket', 'child ticket']	['adult ticket', 'child ticket']	0.125377894302
+['adult ticket', 'child ticket']	['adult ticket', 'child ticket']	0.207135603763
+['adult ticket', 'child ticket']	['adult ticket', 'child ticket']	0.0688785596249
+['adult ticket', 'child ticket']	['adult ticket', 'child ticket']	0.0922575126852
+['ticket', 'child ticket']	['ticket', 'child ticket']	0.0922381610504
+['ticket', 'child ticket']	['ticket', 'child ticket']	0.0831881114912
+['ticket', 'child ticket']	['ticket', 'child ticket']	0.0831881114912
+['ticket', 'child ticket']	['ticket', 'child ticket']	0.337225800363
+['ticket', 'child ticket']	['ticket', 'child ticket']	0.0698629697705
+['ticket', 'child ticket']	['ticket', 'child ticket']	0.0316119370484
+['ticket', 'child ticket']	['ticket', 'child ticket']	0.0558695923582
+['ticket', 'child ticket']	['ticket', 'child ticket']	0.0831881114912
+['5.50 dollar', 'child ticket']	['5.50 dollar', 'child ticket']	0.255189051606
+['5.50 dollar', 'child ticket']	['5.50 dollar', 'child ticket']	0.0370399655006
+['5.50 dollar', 'child ticket']	['5.50 dollar', 'child ticket']	0.251529580944
+['5.50 dollar', 'child ticket']	['5.50 dollar', 'child ticket']	0.0585905397909
+['5.50 dollar', 'child ticket']	['5.50 dollar', 'child ticket']	0.12700490646
+['5.50 dollar', 'child ticket']	['5.50 dollar', 'child ticket']	0.0824169897896
+['5.50 dollar', 'child ticket']	['5.50 dollar', 'child ticket']	0.0190176866772
+['5.50 dollar', 'child ticket']	['5.50 dollar', 'child ticket']	0.251529580944
+['2.50 dollar', 'child ticket']	['2.50 dollar', 'child ticket']	0.255189051606
+['2.50 dollar', 'child ticket']	['2.50 dollar', 'child ticket']	0.0370399655006
+['2.50 dollar', 'child ticket']	['2.50 dollar', 'child ticket']	0.251529580944
+['2.50 dollar', 'child ticket']	['2.50 dollar', 'child ticket']	0.0585905397909
+['2.50 dollar', 'child ticket']	['2.50 dollar', 'child ticket']	0.12700490646
+['2.50 dollar', 'child ticket']	['2.50 dollar', 'child ticket']	0.0824169897896
+['2.50 dollar', 'child ticket']	['2.50 dollar', 'child ticket']	0.0190176866772
+['2.50 dollar', 'child ticket']	['2.50 dollar', 'child ticket']	0.251529580944
+['adult', 'child ticket']	['adult', 'child ticket']	0.361224520517
+['adult', 'child ticket']	['adult', 'child ticket']	0.0895290794493
+['adult', 'child ticket']	['adult', 'child ticket']	0.0606369672893
+['adult', 'child ticket']	['adult', 'child ticket']	0.0606369672893
+['adult', 'child ticket']	['adult', 'child ticket']	0.37250820297
+['adult', 'child ticket']	['adult', 'child ticket']	0.032495944144
+['adult', 'child ticket']	['adult', 'child ticket']	0.0547064574059
+['adult', 'child ticket']	['adult', 'child ticket']	0.0606369672893
+['child', 'child ticket']	['child', 'child ticket']	0.15360771736
+['child', 'child ticket']	['child', 'child ticket']	0.135652549868
+['child', 'child ticket']	['child', 'child ticket']	0.0606369672893
+['child', 'child ticket']	['child', 'child ticket']	0.0606369672893
+['child', 'child ticket']	['child', 'child ticket']	0.0619390582505
+['child', 'child ticket']	['child', 'child ticket']	0.0375814458037
+['child', 'child ticket']	['child', 'child ticket']	0.00676917892766
+['child', 'child ticket']	['child', 'child ticket']	0.0606369672893
+['receipt', 'child ticket']	['receipt', 'child ticket']	0.218251987584
+['receipt', 'child ticket']	['receipt', 'child ticket']	0.0772981791648
+['receipt', 'child ticket']	['receipt', 'child ticket']	0.0821022377173
+['receipt', 'child ticket']	['receipt', 'child ticket']	0.0821022377173
+['receipt', 'child ticket']	['receipt', 'child ticket']	0.0602815965368
+['receipt', 'child ticket']	['receipt', 'child ticket']	0.311675602198
+['receipt', 'child ticket']	['receipt', 'child ticket']	0.0110668908218
+['receipt', 'child ticket']	['receipt', 'child ticket']	0.0821022377173
+['dollar', 'child ticket']	['dollar', 'child ticket']	0.101122359746
+['dollar', 'child ticket']	['dollar', 'child ticket']	0.0723577651483
+['dollar', 'child ticket']	['dollar', 'child ticket']	0.0291662153074
+['dollar', 'child ticket']	['dollar', 'child ticket']	0.0291662153074
+['dollar', 'child ticket']	['dollar', 'child ticket']	0.0234821300029
+['dollar', 'child ticket']	['dollar', 'child ticket']	0.327910924196
+['dollar', 'child ticket']	['dollar', 'child ticket']	0.0153300306404
+['dollar', 'child ticket']	['dollar', 'child ticket']	0.0291662153074
+['1026 dollar', 'child ticket']	['1026 dollar', 'child ticket']	0.255189051606
+['1026 dollar', 'child ticket']	['1026 dollar', 'child ticket']	0.0370399655006
+['1026 dollar', 'child ticket']	['1026 dollar', 'child ticket']	0.251529580944
+['1026 dollar', 'child ticket']	['1026 dollar', 'child ticket']	0.251529580944
+['1026 dollar', 'child ticket']	['1026 dollar', 'child ticket']	0.0585905397909
+['1026 dollar', 'child ticket']	['1026 dollar', 'child ticket']	0.12700490646
+['1026 dollar', 'child ticket']	['1026 dollar', 'child ticket']	0.0824169897896
+['1026 dollar', 'child ticket']	['1026 dollar', 'child ticket']	0.0190176866772
+['adult ticket', '2.50 dollar']	['adult ticket', '2.50 dollar']	0.0370399655006
+['adult ticket', '2.50 dollar']	['adult ticket', '2.50 dollar']	0.251529580944
+['adult ticket', '2.50 dollar']	['adult ticket', '2.50 dollar']	0.255189051606
+['adult ticket', '2.50 dollar']	['adult ticket', '2.50 dollar']	0.135713948095
+['adult ticket', '2.50 dollar']	['adult ticket', '2.50 dollar']	0.0585905397909
+['adult ticket', '2.50 dollar']	['adult ticket', '2.50 dollar']	0.0824169897896
+['adult ticket', '2.50 dollar']	['adult ticket', '2.50 dollar']	0.0190176866772
+['adult ticket', '2.50 dollar']	['adult ticket', '2.50 dollar']	0.251529580944
+['ticket', '2.50 dollar']	['ticket', '2.50 dollar']	0.0440787854056
+['ticket', '2.50 dollar']	['ticket', '2.50 dollar']	0.128707561687
+['ticket', '2.50 dollar']	['ticket', '2.50 dollar']	0.0440787854056
+['ticket', '2.50 dollar']	['ticket', '2.50 dollar']	0.144947218371
+['ticket', '2.50 dollar']	['ticket', '2.50 dollar']	0.0571345412412
+['ticket', '2.50 dollar']	['ticket', '2.50 dollar']	0.032495944144
+['ticket', '2.50 dollar']	['ticket', '2.50 dollar']	0.0432740235322
+['ticket', '2.50 dollar']	['ticket', '2.50 dollar']	0.128707561687
+['5.50 dollar', '2.50 dollar']	['5.50 dollar', '2.50 dollar']	0.0922575126852
+['5.50 dollar', '2.50 dollar']	['5.50 dollar', '2.50 dollar']	0.159422714925
+['5.50 dollar', '2.50 dollar']	['5.50 dollar', '2.50 dollar']	0.0922575126852
+['5.50 dollar', '2.50 dollar']	['5.50 dollar', '2.50 dollar']	0.0872480951896
+['5.50 dollar', '2.50 dollar']	['5.50 dollar', '2.50 dollar']	0.0872480951896
+['5.50 dollar', '2.50 dollar']	['5.50 dollar', '2.50 dollar']	0.207135603763
+['5.50 dollar', '2.50 dollar']	['5.50 dollar', '2.50 dollar']	0.01615851183
+['5.50 dollar', '2.50 dollar']	['5.50 dollar', '2.50 dollar']	0.629369170797
+['child ticket', '2.50 dollar']	['child ticket', '2.50 dollar']	0.255189051606
+['child ticket', '2.50 dollar']	['child ticket', '2.50 dollar']	0.0370399655006
+['child ticket', '2.50 dollar']	['child ticket', '2.50 dollar']	0.251529580944
+['child ticket', '2.50 dollar']	['child ticket', '2.50 dollar']	0.0585905397909
+['child ticket', '2.50 dollar']	['child ticket', '2.50 dollar']	0.12700490646
+['child ticket', '2.50 dollar']	['child ticket', '2.50 dollar']	0.0824169897896
+['child ticket', '2.50 dollar']	['child ticket', '2.50 dollar']	0.0190176866772
+['child ticket', '2.50 dollar']	['child ticket', '2.50 dollar']	0.251529580944
+['adult', '2.50 dollar']	['adult', '2.50 dollar']	0.30483086274
+['adult', '2.50 dollar']	['adult', '2.50 dollar']	0.149746521368
+['adult', '2.50 dollar']	['adult', '2.50 dollar']	0.117733533607
+['adult', '2.50 dollar']	['adult', '2.50 dollar']	0.0668786179967
+['adult', '2.50 dollar']	['adult', '2.50 dollar']	0.0344897886631
+['adult', '2.50 dollar']	['adult', '2.50 dollar']	0.032495944144
+['adult', '2.50 dollar']	['adult', '2.50 dollar']	0.0432740235322
+['adult', '2.50 dollar']	['adult', '2.50 dollar']	0.117733533607
+['child', '2.50 dollar']	['child', '2.50 dollar']	0.0668786179967
+['child', '2.50 dollar']	['child', '2.50 dollar']	0.0578050493146
+['child', '2.50 dollar']	['child', '2.50 dollar']	0.117733533607
+['child', '2.50 dollar']	['child', '2.50 dollar']	0.30483086274
+['child', '2.50 dollar']	['child', '2.50 dollar']	0.0344897886631
+['child', '2.50 dollar']	['child', '2.50 dollar']	0.0375814458037
+['child', '2.50 dollar']	['child', '2.50 dollar']	0.0364645429985
+['child', '2.50 dollar']	['child', '2.50 dollar']	0.117733533607
+['receipt', '2.50 dollar']	['receipt', '2.50 dollar']	0.0821022377173
+['receipt', '2.50 dollar']	['receipt', '2.50 dollar']	0.0524383339729
+['receipt', '2.50 dollar']	['receipt', '2.50 dollar']	0.199671667608
+['receipt', '2.50 dollar']	['receipt', '2.50 dollar']	0.0821022377173
+['receipt', '2.50 dollar']	['receipt', '2.50 dollar']	0.0487217981093
+['receipt', '2.50 dollar']	['receipt', '2.50 dollar']	0.0545060281549
+['receipt', '2.50 dollar']	['receipt', '2.50 dollar']	0.00901260326442
+['receipt', '2.50 dollar']	['receipt', '2.50 dollar']	0.199671667608
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0406801579375
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0594348820819
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0517940170627
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0406801579375
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.120611233955
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.017160943919
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.021753547511
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0517940170627
+['1026 dollar', '2.50 dollar']	['1026 dollar', '2.50 dollar']	0.0922575126852
+['1026 dollar', '2.50 dollar']	['1026 dollar', '2.50 dollar']	0.159422714925
+['1026 dollar', '2.50 dollar']	['1026 dollar', '2.50 dollar']	0.629369170797
+['1026 dollar', '2.50 dollar']	['1026 dollar', '2.50 dollar']	0.0922575126852
+['1026 dollar', '2.50 dollar']	['1026 dollar', '2.50 dollar']	0.0872480951896
+['1026 dollar', '2.50 dollar']	['1026 dollar', '2.50 dollar']	0.0872480951896
+['1026 dollar', '2.50 dollar']	['1026 dollar', '2.50 dollar']	0.207135603763
+['1026 dollar', '2.50 dollar']	['1026 dollar', '2.50 dollar']	0.01615851183
+['adult ticket', 'adult']	['adult ticket', 'adult']	0.0895290794493
+['adult ticket', 'adult']	['adult ticket', 'adult']	0.0606369672893
+['adult ticket', 'adult']	['adult ticket', 'adult']	0.15360771736
+['adult ticket', 'adult']	['adult ticket', 'adult']	0.0606369672893
+['adult ticket', 'adult']	['adult ticket', 'adult']	0.0344897886631
+['adult ticket', 'adult']	['adult ticket', 'adult']	0.032495944144
+['adult ticket', 'adult']	['adult ticket', 'adult']	0.0547064574059
+['adult ticket', 'adult']	['adult ticket', 'adult']	0.0606369672893
+['ticket', 'adult']	['ticket', 'adult']	0.318338428643
+['ticket', 'adult']	['ticket', 'adult']	0.0991300310581
+['ticket', 'adult']	['ticket', 'adult']	0.0616666320162
+['ticket', 'adult']	['ticket', 'adult']	0.0991300310581
+['ticket', 'adult']	['ticket', 'adult']	0.425994949145
+['ticket', 'adult']	['ticket', 'adult']	0.460615984078
+['ticket', 'adult']	['ticket', 'adult']	0.00847248349399
+['ticket', 'adult']	['ticket', 'adult']	0.0991300310581
+['5.50 dollar', 'adult']	['5.50 dollar', 'adult']	0.30483086274
+['5.50 dollar', 'adult']	['5.50 dollar', 'adult']	0.149746521368
+['5.50 dollar', 'adult']	['5.50 dollar', 'adult']	0.0668786179967
+['5.50 dollar', 'adult']	['5.50 dollar', 'adult']	0.117733533607
+['5.50 dollar', 'adult']	['5.50 dollar', 'adult']	0.0344897886631
+['5.50 dollar', 'adult']	['5.50 dollar', 'adult']	0.032495944144
+['5.50 dollar', 'adult']	['5.50 dollar', 'adult']	0.0432740235322
+['5.50 dollar', 'adult']	['5.50 dollar', 'adult']	0.117733533607
+['child ticket', 'adult']	['child ticket', 'adult']	0.361224520517
+['child ticket', 'adult']	['child ticket', 'adult']	0.0895290794493
+['child ticket', 'adult']	['child ticket', 'adult']	0.0606369672893
+['child ticket', 'adult']	['child ticket', 'adult']	0.0606369672893
+['child ticket', 'adult']	['child ticket', 'adult']	0.37250820297
+['child ticket', 'adult']	['child ticket', 'adult']	0.032495944144
+['child ticket', 'adult']	['child ticket', 'adult']	0.0547064574059
+['child ticket', 'adult']	['child ticket', 'adult']	0.0606369672893
+['2.50 dollar', 'adult']	['2.50 dollar', 'adult']	0.30483086274
+['2.50 dollar', 'adult']	['2.50 dollar', 'adult']	0.149746521368
+['2.50 dollar', 'adult']	['2.50 dollar', 'adult']	0.117733533607
+['2.50 dollar', 'adult']	['2.50 dollar', 'adult']	0.0668786179967
+['2.50 dollar', 'adult']	['2.50 dollar', 'adult']	0.0344897886631
+['2.50 dollar', 'adult']	['2.50 dollar', 'adult']	0.032495944144
+['2.50 dollar', 'adult']	['2.50 dollar', 'adult']	0.0432740235322
+['2.50 dollar', 'adult']	['2.50 dollar', 'adult']	0.117733533607
+['child', 'adult']	['child', 'adult']	0.636566209819
+['child', 'adult']	['child', 'adult']	0.274041449228
+['child', 'adult']	['child', 'adult']	0.0842616556555
+['child', 'adult']	['child', 'adult']	0.636566209819
+['child', 'adult']	['child', 'adult']	0.0842616556555
+['child', 'adult']	['child', 'adult']	0.126197090587
+['child', 'adult']	['child', 'adult']	0.0214721177735
+['child', 'adult']	['child', 'adult']	0.0842616556555
+['receipt', 'adult']	['receipt', 'adult']	0.403359569275
+['receipt', 'adult']	['receipt', 'adult']	0.441933386426
+['receipt', 'adult']	['receipt', 'adult']	0.0726311745998
+['receipt', 'adult']	['receipt', 'adult']	0.0726311745998
+['receipt', 'adult']	['receipt', 'adult']	0.0726311745998
+['receipt', 'adult']	['receipt', 'adult']	0.222154030298
+['receipt', 'adult']	['receipt', 'adult']	0.0472241850675
+['receipt', 'adult']	['receipt', 'adult']	0.0726311745998
+['dollar', 'adult']	['dollar', 'adult']	0.266452454026
+['dollar', 'adult']	['dollar', 'adult']	0.242081504975
+['dollar', 'adult']	['dollar', 'adult']	0.0417338935078
+['dollar', 'adult']	['dollar', 'adult']	0.0447889293592
+['dollar', 'adult']	['dollar', 'adult']	0.0417338935078
+['dollar', 'adult']	['dollar', 'adult']	0.116438252765
+['dollar', 'adult']	['dollar', 'adult']	0.0876947491966
+['dollar', 'adult']	['dollar', 'adult']	0.0417338935078
+['1026 dollar', 'adult']	['1026 dollar', 'adult']	0.30483086274
+['1026 dollar', 'adult']	['1026 dollar', 'adult']	0.149746521368
+['1026 dollar', 'adult']	['1026 dollar', 'adult']	0.117733533607
+['1026 dollar', 'adult']	['1026 dollar', 'adult']	0.0668786179967
+['1026 dollar', 'adult']	['1026 dollar', 'adult']	0.117733533607
+['1026 dollar', 'adult']	['1026 dollar', 'adult']	0.0344897886631
+['1026 dollar', 'adult']	['1026 dollar', 'adult']	0.032495944144
+['1026 dollar', 'adult']	['1026 dollar', 'adult']	0.0432740235322
+['adult ticket', 'child']	['adult ticket', 'child']	0.135652549868
+['adult ticket', 'child']	['adult ticket', 'child']	0.0606369672893
+['adult ticket', 'child']	['adult ticket', 'child']	0.361224520517
+['adult ticket', 'child']	['adult ticket', 'child']	0.0606369672893
+['adult ticket', 'child']	['adult ticket', 'child']	0.397480471144
+['adult ticket', 'child']	['adult ticket', 'child']	0.0375814458037
+['adult ticket', 'child']	['adult ticket', 'child']	0.00676917892766
+['adult ticket', 'child']	['adult ticket', 'child']	0.0606369672893
+['ticket', 'child']	['ticket', 'child']	0.0616666320162
+['ticket', 'child']	['ticket', 'child']	0.0991300310581
+['ticket', 'child']	['ticket', 'child']	0.318338428643
+['ticket', 'child']	['ticket', 'child']	0.0991300310581
+['ticket', 'child']	['ticket', 'child']	0.424915197702
+['ticket', 'child']	['ticket', 'child']	0.345848223867
+['ticket', 'child']	['ticket', 'child']	0.00847248349399
+['ticket', 'child']	['ticket', 'child']	0.0991300310581
+['5.50 dollar', 'child']	['5.50 dollar', 'child']	0.0668786179967
+['5.50 dollar', 'child']	['5.50 dollar', 'child']	0.0578050493146
+['5.50 dollar', 'child']	['5.50 dollar', 'child']	0.30483086274
+['5.50 dollar', 'child']	['5.50 dollar', 'child']	0.117733533607
+['5.50 dollar', 'child']	['5.50 dollar', 'child']	0.0344897886631
+['5.50 dollar', 'child']	['5.50 dollar', 'child']	0.0375814458037
+['5.50 dollar', 'child']	['5.50 dollar', 'child']	0.0364645429985
+['5.50 dollar', 'child']	['5.50 dollar', 'child']	0.117733533607
+['child ticket', 'child']	['child ticket', 'child']	0.15360771736
+['child ticket', 'child']	['child ticket', 'child']	0.135652549868
+['child ticket', 'child']	['child ticket', 'child']	0.0606369672893
+['child ticket', 'child']	['child ticket', 'child']	0.0606369672893
+['child ticket', 'child']	['child ticket', 'child']	0.0619390582505
+['child ticket', 'child']	['child ticket', 'child']	0.0375814458037
+['child ticket', 'child']	['child ticket', 'child']	0.00676917892766
+['child ticket', 'child']	['child ticket', 'child']	0.0606369672893
+['2.50 dollar', 'child']	['2.50 dollar', 'child']	0.0668786179967
+['2.50 dollar', 'child']	['2.50 dollar', 'child']	0.0578050493146
+['2.50 dollar', 'child']	['2.50 dollar', 'child']	0.117733533607
+['2.50 dollar', 'child']	['2.50 dollar', 'child']	0.30483086274
+['2.50 dollar', 'child']	['2.50 dollar', 'child']	0.0344897886631
+['2.50 dollar', 'child']	['2.50 dollar', 'child']	0.0375814458037
+['2.50 dollar', 'child']	['2.50 dollar', 'child']	0.0364645429985
+['2.50 dollar', 'child']	['2.50 dollar', 'child']	0.117733533607
+['adult', 'child']	['adult', 'child']	0.636566209819
+['adult', 'child']	['adult', 'child']	0.274041449228
+['adult', 'child']	['adult', 'child']	0.0842616556555
+['adult', 'child']	['adult', 'child']	0.636566209819
+['adult', 'child']	['adult', 'child']	0.0842616556555
+['adult', 'child']	['adult', 'child']	0.126197090587
+['adult', 'child']	['adult', 'child']	0.0214721177735
+['adult', 'child']	['adult', 'child']	0.0842616556555
+['receipt', 'child']	['receipt', 'child']	0.0726311745998
+['receipt', 'child']	['receipt', 'child']	0.465651986625
+['receipt', 'child']	['receipt', 'child']	0.0726311745998
+['receipt', 'child']	['receipt', 'child']	0.403359569275
+['receipt', 'child']	['receipt', 'child']	0.0726311745998
+['receipt', 'child']	['receipt', 'child']	0.456377505974
+['receipt', 'child']	['receipt', 'child']	0.00993772633724
+['receipt', 'child']	['receipt', 'child']	0.0726311745998
+['dollar', 'child']	['dollar', 'child']	0.0447889293592
+['dollar', 'child']	['dollar', 'child']	0.201985431458
+['dollar', 'child']	['dollar', 'child']	0.0417338935078
+['dollar', 'child']	['dollar', 'child']	0.266452454026
+['dollar', 'child']	['dollar', 'child']	0.0417338935078
+['dollar', 'child']	['dollar', 'child']	0.165639441473
+['dollar', 'child']	['dollar', 'child']	0.054890296155
+['dollar', 'child']	['dollar', 'child']	0.0417338935078
+['1026 dollar', 'child']	['1026 dollar', 'child']	0.0668786179967
+['1026 dollar', 'child']	['1026 dollar', 'child']	0.0578050493146
+['1026 dollar', 'child']	['1026 dollar', 'child']	0.117733533607
+['1026 dollar', 'child']	['1026 dollar', 'child']	0.30483086274
+['1026 dollar', 'child']	['1026 dollar', 'child']	0.117733533607
+['1026 dollar', 'child']	['1026 dollar', 'child']	0.0344897886631
+['1026 dollar', 'child']	['1026 dollar', 'child']	0.0375814458037
+['1026 dollar', 'child']	['1026 dollar', 'child']	0.0364645429985
+['adult ticket', 'receipt']	['adult ticket', 'receipt']	0.0772981791648
+['adult ticket', 'receipt']	['adult ticket', 'receipt']	0.0821022377173
+['adult ticket', 'receipt']	['adult ticket', 'receipt']	0.218251987584
+['adult ticket', 'receipt']	['adult ticket', 'receipt']	0.0821022377173
+['adult ticket', 'receipt']	['adult ticket', 'receipt']	0.386770789083
+['adult ticket', 'receipt']	['adult ticket', 'receipt']	0.0545060281549
+['adult ticket', 'receipt']	['adult ticket', 'receipt']	0.0110668908218
+['adult ticket', 'receipt']	['adult ticket', 'receipt']	0.0821022377173
+['ticket', 'receipt']	['ticket', 'receipt']	0.061144870022
+['ticket', 'receipt']	['ticket', 'receipt']	0.0874995500023
+['ticket', 'receipt']	['ticket', 'receipt']	0.061144870022
+['ticket', 'receipt']	['ticket', 'receipt']	0.0874995500023
+['ticket', 'receipt']	['ticket', 'receipt']	0.409661366285
+['ticket', 'receipt']	['ticket', 'receipt']	0.284856458975
+['ticket', 'receipt']	['ticket', 'receipt']	0.0346454262089
+['ticket', 'receipt']	['ticket', 'receipt']	0.0874995500023
+['5.50 dollar', 'receipt']	['5.50 dollar', 'receipt']	0.0821022377173
+['5.50 dollar', 'receipt']	['5.50 dollar', 'receipt']	0.0524383339729
+['5.50 dollar', 'receipt']	['5.50 dollar', 'receipt']	0.0821022377173
+['5.50 dollar', 'receipt']	['5.50 dollar', 'receipt']	0.199671667608
+['5.50 dollar', 'receipt']	['5.50 dollar', 'receipt']	0.0487217981093
+['5.50 dollar', 'receipt']	['5.50 dollar', 'receipt']	0.0545060281549
+['5.50 dollar', 'receipt']	['5.50 dollar', 'receipt']	0.00901260326442
+['5.50 dollar', 'receipt']	['5.50 dollar', 'receipt']	0.199671667608
+['child ticket', 'receipt']	['child ticket', 'receipt']	0.218251987584
+['child ticket', 'receipt']	['child ticket', 'receipt']	0.0772981791648
+['child ticket', 'receipt']	['child ticket', 'receipt']	0.0821022377173
+['child ticket', 'receipt']	['child ticket', 'receipt']	0.0821022377173
+['child ticket', 'receipt']	['child ticket', 'receipt']	0.0602815965368
+['child ticket', 'receipt']	['child ticket', 'receipt']	0.311675602198
+['child ticket', 'receipt']	['child ticket', 'receipt']	0.0110668908218
+['child ticket', 'receipt']	['child ticket', 'receipt']	0.0821022377173
+['2.50 dollar', 'receipt']	['2.50 dollar', 'receipt']	0.0821022377173
+['2.50 dollar', 'receipt']	['2.50 dollar', 'receipt']	0.0524383339729
+['2.50 dollar', 'receipt']	['2.50 dollar', 'receipt']	0.199671667608
+['2.50 dollar', 'receipt']	['2.50 dollar', 'receipt']	0.0821022377173
+['2.50 dollar', 'receipt']	['2.50 dollar', 'receipt']	0.0487217981093
+['2.50 dollar', 'receipt']	['2.50 dollar', 'receipt']	0.0545060281549
+['2.50 dollar', 'receipt']	['2.50 dollar', 'receipt']	0.00901260326442
+['2.50 dollar', 'receipt']	['2.50 dollar', 'receipt']	0.199671667608
+['adult', 'receipt']	['adult', 'receipt']	0.403359569275
+['adult', 'receipt']	['adult', 'receipt']	0.441933386426
+['adult', 'receipt']	['adult', 'receipt']	0.0726311745998
+['adult', 'receipt']	['adult', 'receipt']	0.0726311745998
+['adult', 'receipt']	['adult', 'receipt']	0.0726311745998
+['adult', 'receipt']	['adult', 'receipt']	0.222154030298
+['adult', 'receipt']	['adult', 'receipt']	0.0472241850675
+['adult', 'receipt']	['adult', 'receipt']	0.0726311745998
+['child', 'receipt']	['child', 'receipt']	0.0726311745998
+['child', 'receipt']	['child', 'receipt']	0.465651986625
+['child', 'receipt']	['child', 'receipt']	0.0726311745998
+['child', 'receipt']	['child', 'receipt']	0.403359569275
+['child', 'receipt']	['child', 'receipt']	0.0726311745998
+['child', 'receipt']	['child', 'receipt']	0.456377505974
+['child', 'receipt']	['child', 'receipt']	0.00993772633724
+['child', 'receipt']	['child', 'receipt']	0.0726311745998
+['dollar', 'receipt']	['dollar', 'receipt']	0.0447889293592
+['dollar', 'receipt']	['dollar', 'receipt']	0.219200505903
+['dollar', 'receipt']	['dollar', 'receipt']	0.0455468282685
+['dollar', 'receipt']	['dollar', 'receipt']	0.0447889293592
+['dollar', 'receipt']	['dollar', 'receipt']	0.0455468282685
+['dollar', 'receipt']	['dollar', 'receipt']	0.166565367398
+['dollar', 'receipt']	['dollar', 'receipt']	0.0611292409188
+['dollar', 'receipt']	['dollar', 'receipt']	0.0455468282685
+['1026 dollar', 'receipt']	['1026 dollar', 'receipt']	0.0821022377173
+['1026 dollar', 'receipt']	['1026 dollar', 'receipt']	0.0524383339729
+['1026 dollar', 'receipt']	['1026 dollar', 'receipt']	0.199671667608
+['1026 dollar', 'receipt']	['1026 dollar', 'receipt']	0.0821022377173
+['1026 dollar', 'receipt']	['1026 dollar', 'receipt']	0.199671667608
+['1026 dollar', 'receipt']	['1026 dollar', 'receipt']	0.0487217981093
+['1026 dollar', 'receipt']	['1026 dollar', 'receipt']	0.0545060281549
+['1026 dollar', 'receipt']	['1026 dollar', 'receipt']	0.00901260326442
+['adult ticket', 'dollar']	['adult ticket', 'dollar']	0.0723577651483
+['adult ticket', 'dollar']	['adult ticket', 'dollar']	0.0291662153074
+['adult ticket', 'dollar']	['adult ticket', 'dollar']	0.101122359746
+['adult ticket', 'dollar']	['adult ticket', 'dollar']	0.0291662153074
+['adult ticket', 'dollar']	['adult ticket', 'dollar']	0.168906648799
+['adult ticket', 'dollar']	['adult ticket', 'dollar']	0.0433348310958
+['adult ticket', 'dollar']	['adult ticket', 'dollar']	0.0153300306404
+['adult ticket', 'dollar']	['adult ticket', 'dollar']	0.0291662153074
+['ticket', 'dollar']	['ticket', 'dollar']	0.0782692624851
+['ticket', 'dollar']	['ticket', 'dollar']	0.0455468282685
+['ticket', 'dollar']	['ticket', 'dollar']	0.0782692624851
+['ticket', 'dollar']	['ticket', 'dollar']	0.0455468282685
+['ticket', 'dollar']	['ticket', 'dollar']	0.245089179732
+['ticket', 'dollar']	['ticket', 'dollar']	0.238113251007
+['ticket', 'dollar']	['ticket', 'dollar']	0.282387106539
+['ticket', 'dollar']	['ticket', 'dollar']	0.0455468282685
+['5.50 dollar', 'dollar']	['5.50 dollar', 'dollar']	0.0406801579375
+['5.50 dollar', 'dollar']	['5.50 dollar', 'dollar']	0.0594348820819
+['5.50 dollar', 'dollar']	['5.50 dollar', 'dollar']	0.0406801579375
+['5.50 dollar', 'dollar']	['5.50 dollar', 'dollar']	0.0517940170627
+['5.50 dollar', 'dollar']	['5.50 dollar', 'dollar']	0.120611233955
+['5.50 dollar', 'dollar']	['5.50 dollar', 'dollar']	0.017160943919
+['5.50 dollar', 'dollar']	['5.50 dollar', 'dollar']	0.021753547511
+['5.50 dollar', 'dollar']	['5.50 dollar', 'dollar']	0.0517940170627
+['child ticket', 'dollar']	['child ticket', 'dollar']	0.101122359746
+['child ticket', 'dollar']	['child ticket', 'dollar']	0.0723577651483
+['child ticket', 'dollar']	['child ticket', 'dollar']	0.0291662153074
+['child ticket', 'dollar']	['child ticket', 'dollar']	0.0291662153074
+['child ticket', 'dollar']	['child ticket', 'dollar']	0.0234821300029
+['child ticket', 'dollar']	['child ticket', 'dollar']	0.327910924196
+['child ticket', 'dollar']	['child ticket', 'dollar']	0.0153300306404
+['child ticket', 'dollar']	['child ticket', 'dollar']	0.0291662153074
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0406801579375
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0594348820819
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0517940170627
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0406801579375
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.120611233955
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.017160943919
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.021753547511
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0517940170627
+['adult', 'dollar']	['adult', 'dollar']	0.266452454026
+['adult', 'dollar']	['adult', 'dollar']	0.242081504975
+['adult', 'dollar']	['adult', 'dollar']	0.0417338935078
+['adult', 'dollar']	['adult', 'dollar']	0.0447889293592
+['adult', 'dollar']	['adult', 'dollar']	0.0417338935078
+['adult', 'dollar']	['adult', 'dollar']	0.116438252765
+['adult', 'dollar']	['adult', 'dollar']	0.0876947491966
+['adult', 'dollar']	['adult', 'dollar']	0.0417338935078
+['child', 'dollar']	['child', 'dollar']	0.0447889293592
+['child', 'dollar']	['child', 'dollar']	0.201985431458
+['child', 'dollar']	['child', 'dollar']	0.0417338935078
+['child', 'dollar']	['child', 'dollar']	0.266452454026
+['child', 'dollar']	['child', 'dollar']	0.0417338935078
+['child', 'dollar']	['child', 'dollar']	0.165639441473
+['child', 'dollar']	['child', 'dollar']	0.054890296155
+['child', 'dollar']	['child', 'dollar']	0.0417338935078
+['receipt', 'dollar']	['receipt', 'dollar']	0.0447889293592
+['receipt', 'dollar']	['receipt', 'dollar']	0.219200505903
+['receipt', 'dollar']	['receipt', 'dollar']	0.0455468282685
+['receipt', 'dollar']	['receipt', 'dollar']	0.0447889293592
+['receipt', 'dollar']	['receipt', 'dollar']	0.0455468282685
+['receipt', 'dollar']	['receipt', 'dollar']	0.166565367398
+['receipt', 'dollar']	['receipt', 'dollar']	0.0611292409188
+['receipt', 'dollar']	['receipt', 'dollar']	0.0455468282685
+['1026 dollar', 'dollar']	['1026 dollar', 'dollar']	0.0406801579375
+['1026 dollar', 'dollar']	['1026 dollar', 'dollar']	0.0594348820819
+['1026 dollar', 'dollar']	['1026 dollar', 'dollar']	0.0517940170627
+['1026 dollar', 'dollar']	['1026 dollar', 'dollar']	0.0406801579375
+['1026 dollar', 'dollar']	['1026 dollar', 'dollar']	0.0517940170627
+['1026 dollar', 'dollar']	['1026 dollar', 'dollar']	0.120611233955
+['1026 dollar', 'dollar']	['1026 dollar', 'dollar']	0.017160943919
+['1026 dollar', 'dollar']	['1026 dollar', 'dollar']	0.021753547511
+['adult ticket', '1026 dollar']	['adult ticket', '1026 dollar']	0.0370399655006
+['adult ticket', '1026 dollar']	['adult ticket', '1026 dollar']	0.251529580944
+['adult ticket', '1026 dollar']	['adult ticket', '1026 dollar']	0.255189051606
+['adult ticket', '1026 dollar']	['adult ticket', '1026 dollar']	0.251529580944
+['adult ticket', '1026 dollar']	['adult ticket', '1026 dollar']	0.135713948095
+['adult ticket', '1026 dollar']	['adult ticket', '1026 dollar']	0.0585905397909
+['adult ticket', '1026 dollar']	['adult ticket', '1026 dollar']	0.0824169897896
+['adult ticket', '1026 dollar']	['adult ticket', '1026 dollar']	0.0190176866772
+['ticket', '1026 dollar']	['ticket', '1026 dollar']	0.0440787854056
+['ticket', '1026 dollar']	['ticket', '1026 dollar']	0.128707561687
+['ticket', '1026 dollar']	['ticket', '1026 dollar']	0.0440787854056
+['ticket', '1026 dollar']	['ticket', '1026 dollar']	0.128707561687
+['ticket', '1026 dollar']	['ticket', '1026 dollar']	0.144947218371
+['ticket', '1026 dollar']	['ticket', '1026 dollar']	0.0571345412412
+['ticket', '1026 dollar']	['ticket', '1026 dollar']	0.032495944144
+['ticket', '1026 dollar']	['ticket', '1026 dollar']	0.0432740235322
+['5.50 dollar', '1026 dollar']	['5.50 dollar', '1026 dollar']	0.0922575126852
+['5.50 dollar', '1026 dollar']	['5.50 dollar', '1026 dollar']	0.159422714925
+['5.50 dollar', '1026 dollar']	['5.50 dollar', '1026 dollar']	0.0922575126852
+['5.50 dollar', '1026 dollar']	['5.50 dollar', '1026 dollar']	0.629369170797
+['5.50 dollar', '1026 dollar']	['5.50 dollar', '1026 dollar']	0.0872480951896
+['5.50 dollar', '1026 dollar']	['5.50 dollar', '1026 dollar']	0.0872480951896
+['5.50 dollar', '1026 dollar']	['5.50 dollar', '1026 dollar']	0.207135603763
+['5.50 dollar', '1026 dollar']	['5.50 dollar', '1026 dollar']	0.01615851183
+['child ticket', '1026 dollar']	['child ticket', '1026 dollar']	0.255189051606
+['child ticket', '1026 dollar']	['child ticket', '1026 dollar']	0.0370399655006
+['child ticket', '1026 dollar']	['child ticket', '1026 dollar']	0.251529580944
+['child ticket', '1026 dollar']	['child ticket', '1026 dollar']	0.251529580944
+['child ticket', '1026 dollar']	['child ticket', '1026 dollar']	0.0585905397909
+['child ticket', '1026 dollar']	['child ticket', '1026 dollar']	0.12700490646
+['child ticket', '1026 dollar']	['child ticket', '1026 dollar']	0.0824169897896
+['child ticket', '1026 dollar']	['child ticket', '1026 dollar']	0.0190176866772
+['2.50 dollar', '1026 dollar']	['2.50 dollar', '1026 dollar']	0.0922575126852
+['2.50 dollar', '1026 dollar']	['2.50 dollar', '1026 dollar']	0.159422714925
+['2.50 dollar', '1026 dollar']	['2.50 dollar', '1026 dollar']	0.629369170797
+['2.50 dollar', '1026 dollar']	['2.50 dollar', '1026 dollar']	0.0922575126852
+['2.50 dollar', '1026 dollar']	['2.50 dollar', '1026 dollar']	0.0872480951896
+['2.50 dollar', '1026 dollar']	['2.50 dollar', '1026 dollar']	0.0872480951896
+['2.50 dollar', '1026 dollar']	['2.50 dollar', '1026 dollar']	0.207135603763
+['2.50 dollar', '1026 dollar']	['2.50 dollar', '1026 dollar']	0.01615851183
+['adult', '1026 dollar']	['adult', '1026 dollar']	0.30483086274
+['adult', '1026 dollar']	['adult', '1026 dollar']	0.149746521368
+['adult', '1026 dollar']	['adult', '1026 dollar']	0.117733533607
+['adult', '1026 dollar']	['adult', '1026 dollar']	0.0668786179967
+['adult', '1026 dollar']	['adult', '1026 dollar']	0.117733533607
+['adult', '1026 dollar']	['adult', '1026 dollar']	0.0344897886631
+['adult', '1026 dollar']	['adult', '1026 dollar']	0.032495944144
+['adult', '1026 dollar']	['adult', '1026 dollar']	0.0432740235322
+['child', '1026 dollar']	['child', '1026 dollar']	0.0668786179967
+['child', '1026 dollar']	['child', '1026 dollar']	0.0578050493146
+['child', '1026 dollar']	['child', '1026 dollar']	0.117733533607
+['child', '1026 dollar']	['child', '1026 dollar']	0.30483086274
+['child', '1026 dollar']	['child', '1026 dollar']	0.117733533607
+['child', '1026 dollar']	['child', '1026 dollar']	0.0344897886631
+['child', '1026 dollar']	['child', '1026 dollar']	0.0375814458037
+['child', '1026 dollar']	['child', '1026 dollar']	0.0364645429985
+['receipt', '1026 dollar']	['receipt', '1026 dollar']	0.0821022377173
+['receipt', '1026 dollar']	['receipt', '1026 dollar']	0.0524383339729
+['receipt', '1026 dollar']	['receipt', '1026 dollar']	0.199671667608
+['receipt', '1026 dollar']	['receipt', '1026 dollar']	0.0821022377173
+['receipt', '1026 dollar']	['receipt', '1026 dollar']	0.199671667608
+['receipt', '1026 dollar']	['receipt', '1026 dollar']	0.0487217981093
+['receipt', '1026 dollar']	['receipt', '1026 dollar']	0.0545060281549
+['receipt', '1026 dollar']	['receipt', '1026 dollar']	0.00901260326442
+['dollar', '1026 dollar']	['dollar', '1026 dollar']	0.0406801579375
+['dollar', '1026 dollar']	['dollar', '1026 dollar']	0.0594348820819
+['dollar', '1026 dollar']	['dollar', '1026 dollar']	0.0517940170627
+['dollar', '1026 dollar']	['dollar', '1026 dollar']	0.0406801579375
+['dollar', '1026 dollar']	['dollar', '1026 dollar']	0.0517940170627
+['dollar', '1026 dollar']	['dollar', '1026 dollar']	0.120611233955
+['dollar', '1026 dollar']	['dollar', '1026 dollar']	0.017160943919
+['dollar', '1026 dollar']	['dollar', '1026 dollar']	0.021753547511

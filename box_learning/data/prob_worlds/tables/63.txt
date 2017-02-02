@@ -1,0 +1,12 @@
+1
+[['daily budget', '-', '-', '-', '-', 'dollar', '76'], ['-', '1', 'day', 'dollar', '30', '-', '-'], ['-', 'x1', 'mile', 'cent', '23', '-', '-']]
+-1
+[['daily budget', '-', '-', '-', '-', 'dollar', 'x1'], ['-', '1', 'day', 'dollar', '30', '-', '-'], ['-', 'x1', 'daily budget', '76', '23', '-', '-']]
+-1
+[['daily budget', '23', 'mile', '-', '-', 'dollar', '76'], ['-', '1', 'day', 'dollar', '30', '-', '-'], ['daily budget', 'x1', 'mile', '76', '23', '-', '-']]
+-1
+[['daily budget', '-', '23', '-', 'mile', 'dollar', '76'], ['-', '1', 'day', 'dollar', '30', '-', '-'], ['-', 'daily budget', 'mile', 'dollar', '23', '76', '-']]
+-1
+[['daily budget', 'mile', 'x1', '-', '23', 'cent', '76'], ['-', '1', 'day', 'dollar', '30', '-', '-'], ['-', 'x1', 'mile', 'cent', '23', '-', '-']]
+-1
+[['x1', '-', '-', '-', 'mile', 'dollar', '76'], ['-', '1', 'day', 'dollar', '30', '-', '-'], ['76', 'x1', 'mile', 'cent', '23', '-', 'dollar']]

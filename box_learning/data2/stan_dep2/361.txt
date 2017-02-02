@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NP (CD 6) (NNS ducks)) (CC and) (NP (CD 5) (NNS pigs)))
+    (VP
+      (VBD cost)
+      (NP (CD 213) (NNS dollars))
+      (, ,)
+      (SBAR
+        (IN while)
+        (S
+          (NP
+            (NP (CD 2) (NNS ducks))
+            (CC and)
+            (NP (CD 9) (NNS pigs)))
+          (VP (VBD cost) (NP (QP (CD 269) (NNS dollars)))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP
+          (IN of)
+          (NP (NP (DT a) (NN duck)) (CC and) (NP (DT a) (NN pig))))))
+    (. .)))

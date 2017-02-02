@@ -1,0 +1,1382 @@
+['2 different picture package', 'john photo world', '2.75 dollar', 'sheet', '125 dollar', 'sam picture emporium charge', 'dollar', '1.50 dollar', '140 dollar', 'picture sheet', '2 company', 'same amount']
+['2 different picture package']	['john photo world']	0.102396614129
+['2 different picture package']	['2.75 dollar']	0.0988755105172
+['2 different picture package']	['sheet']	0.109910823103
+['2 different picture package']	['125 dollar']	0.0988755105172
+['2 different picture package']	['sam picture emporium charge']	0.102396614129
+['2 different picture package']	['dollar']	0.0112670859603
+['2 different picture package']	['1.50 dollar']	0.0988755105172
+['2 different picture package']	['140 dollar']	0.0988755105172
+['2 different picture package']	['picture sheet']	0.0915001233665
+['2 different picture package']	['2 company']	0.399032086828
+['2 different picture package']	['same amount']	0.0915001233665
+['john photo world']	['2.75 dollar']	0.0988755105172
+['john photo world']	['sheet']	0.106789172317
+['john photo world']	['125 dollar']	0.0988755105172
+['john photo world']	['sam picture emporium charge']	0.102396614129
+['john photo world']	['dollar']	0.0118960167779
+['john photo world']	['1.50 dollar']	0.0988755105172
+['john photo world']	['140 dollar']	0.0988755105172
+['john photo world']	['picture sheet']	0.0903687070605
+['john photo world']	['2 company']	0.0915001233665
+['john photo world']	['same amount']	0.0903687070605
+['2.75 dollar']	['sheet']	0.0741073489195
+['2.75 dollar']	['125 dollar']	0.643440930505
+['2.75 dollar']	['sam picture emporium charge']	0.0941266761548
+['2.75 dollar']	['1.50 dollar']	0.643440930505
+['2.75 dollar']	['140 dollar']	0.643440930505
+['2.75 dollar']	['picture sheet']	0.0901100077042
+['2.75 dollar']	['2 company']	0.0901100077042
+['2.75 dollar']	['same amount']	0.0901100077042
+['sheet']	['125 dollar']	0.0663445115919
+['sheet']	['sam picture emporium charge']	0.0841365058564
+['sheet']	['dollar']	0.0114434646684
+['sheet']	['1.50 dollar']	0.0663445115919
+['sheet']	['140 dollar']	0.0663445115919
+['sheet']	['2 company']	0.0669904799604
+['sheet']	['same amount']	0.0737139440912
+['125 dollar']	['sam picture emporium charge']	0.0941266761548
+['125 dollar']	['1.50 dollar']	0.643440930505
+['125 dollar']	['140 dollar']	0.643440930505
+['125 dollar']	['picture sheet']	0.0901100077042
+['125 dollar']	['2 company']	0.0901100077042
+['125 dollar']	['same amount']	0.0901100077042
+['sam picture emporium charge']	['dollar']	0.0112670859603
+['sam picture emporium charge']	['1.50 dollar']	0.0988755105172
+['sam picture emporium charge']	['140 dollar']	0.0988755105172
+['sam picture emporium charge']	['picture sheet']	0.0915001233665
+['sam picture emporium charge']	['2 company']	0.0915001233665
+['sam picture emporium charge']	['same amount']	0.0915001233665
+['dollar']	['picture sheet']	0.00424565569655
+['dollar']	['2 company']	0.00424565569655
+['dollar']	['same amount']	0.0172568074531
+['1.50 dollar']	['140 dollar']	0.643440930505
+['1.50 dollar']	['picture sheet']	0.0901100077042
+['1.50 dollar']	['2 company']	0.0901100077042
+['1.50 dollar']	['same amount']	0.0901100077042
+['140 dollar']	['picture sheet']	0.0901100077042
+['140 dollar']	['2 company']	0.0901100077042
+['140 dollar']	['same amount']	0.0901100077042
+['picture sheet']	['2 company']	0.0901100077042
+['picture sheet']	['same amount']	0.0901100077042
+['2 company']	['same amount']	0.0827346205535
+['john photo world', '2 different picture package']	['2.75 dollar']	0.0988755105172
+['john photo world', '2 different picture package']	['sheet']	0.107524466434
+['john photo world', '2 different picture package']	['125 dollar']	0.0988755105172
+['john photo world', '2 different picture package']	['sam picture emporium charge']	0.102396614129
+['john photo world', '2 different picture package']	['dollar']	0.0446004192937
+['john photo world', '2 different picture package']	['1.50 dollar']	0.0988755105172
+['john photo world', '2 different picture package']	['140 dollar']	0.0988755105172
+['john photo world', '2 different picture package']	['picture sheet']	0.0903687070605
+['john photo world', '2 different picture package']	['2 company']	0.53638572704
+['john photo world', '2 different picture package']	['same amount']	0.0921460917349
+['2.75 dollar', '2 different picture package']	['john photo world']	0.102396614129
+['2.75 dollar', '2 different picture package']	['sheet']	0.110622711042
+['2.75 dollar', '2 different picture package']	['125 dollar']	0.630956863273
+['2.75 dollar', '2 different picture package']	['sam picture emporium charge']	0.104202853866
+['2.75 dollar', '2 different picture package']	['dollar']	0.353269625278
+['2.75 dollar', '2 different picture package']	['1.50 dollar']	0.630956863273
+['2.75 dollar', '2 different picture package']	['140 dollar']	0.630956863273
+['2.75 dollar', '2 different picture package']	['picture sheet']	0.0915001233665
+['2.75 dollar', '2 different picture package']	['2 company']	0.53638572704
+['2.75 dollar', '2 different picture package']	['same amount']	0.0915001233665
+['sheet', '2 different picture package']	['john photo world']	0.137350001891
+['sheet', '2 different picture package']	['2.75 dollar']	0.124856540438
+['sheet', '2 different picture package']	['125 dollar']	0.124856540438
+['sheet', '2 different picture package']	['sam picture emporium charge']	0.14252198158
+['sheet', '2 different picture package']	['dollar']	0.0933308521319
+['sheet', '2 different picture package']	['1.50 dollar']	0.124856540438
+['sheet', '2 different picture package']	['140 dollar']	0.124856540438
+['sheet', '2 different picture package']	['picture sheet']	0.698262002818
+['sheet', '2 different picture package']	['2 company']	0.518812383106
+['sheet', '2 different picture package']	['same amount']	0.124856540438
+['125 dollar', '2 different picture package']	['john photo world']	0.102396614129
+['125 dollar', '2 different picture package']	['2.75 dollar']	0.630956863273
+['125 dollar', '2 different picture package']	['sheet']	0.110622711042
+['125 dollar', '2 different picture package']	['sam picture emporium charge']	0.104202853866
+['125 dollar', '2 different picture package']	['dollar']	0.272389279633
+['125 dollar', '2 different picture package']	['1.50 dollar']	0.630956863273
+['125 dollar', '2 different picture package']	['140 dollar']	0.630956863273
+['125 dollar', '2 different picture package']	['picture sheet']	0.0915001233665
+['125 dollar', '2 different picture package']	['2 company']	0.53638572704
+['125 dollar', '2 different picture package']	['same amount']	0.0915001233665
+['sam picture emporium charge', '2 different picture package']	['john photo world']	0.102396614129
+['sam picture emporium charge', '2 different picture package']	['2.75 dollar']	0.0988755105172
+['sam picture emporium charge', '2 different picture package']	['sheet']	0.10940366544
+['sam picture emporium charge', '2 different picture package']	['125 dollar']	0.0988755105172
+['sam picture emporium charge', '2 different picture package']	['dollar']	0.0112670859603
+['sam picture emporium charge', '2 different picture package']	['1.50 dollar']	0.0988755105172
+['sam picture emporium charge', '2 different picture package']	['140 dollar']	0.0988755105172
+['sam picture emporium charge', '2 different picture package']	['picture sheet']	0.0915001233665
+['sam picture emporium charge', '2 different picture package']	['2 company']	0.511165925719
+['sam picture emporium charge', '2 different picture package']	['same amount']	0.0915001233665
+['dollar', '2 different picture package']	['john photo world']	0.0238544414291
+['dollar', '2 different picture package']	['2.75 dollar']	0.427590939411
+['dollar', '2 different picture package']	['sheet']	0.112131192259
+['dollar', '2 different picture package']	['125 dollar']	0.389802885714
+['dollar', '2 different picture package']	['sam picture emporium charge']	0.0272201813802
+['dollar', '2 different picture package']	['1.50 dollar']	0.427590939411
+['dollar', '2 different picture package']	['140 dollar']	0.389802885714
+['dollar', '2 different picture package']	['picture sheet']	0.0148694161981
+['dollar', '2 different picture package']	['2 company']	0.208835835075
+['dollar', '2 different picture package']	['same amount']	0.0162182554313
+['1.50 dollar', '2 different picture package']	['john photo world']	0.102396614129
+['1.50 dollar', '2 different picture package']	['2.75 dollar']	0.630956863273
+['1.50 dollar', '2 different picture package']	['sheet']	0.110622711042
+['1.50 dollar', '2 different picture package']	['125 dollar']	0.630956863273
+['1.50 dollar', '2 different picture package']	['sam picture emporium charge']	0.104202853866
+['1.50 dollar', '2 different picture package']	['dollar']	0.353269625278
+['1.50 dollar', '2 different picture package']	['140 dollar']	0.630956863273
+['1.50 dollar', '2 different picture package']	['picture sheet']	0.0915001233665
+['1.50 dollar', '2 different picture package']	['2 company']	0.53638572704
+['1.50 dollar', '2 different picture package']	['same amount']	0.0915001233665
+['140 dollar', '2 different picture package']	['john photo world']	0.102396614129
+['140 dollar', '2 different picture package']	['2.75 dollar']	0.630956863273
+['140 dollar', '2 different picture package']	['sheet']	0.110622711042
+['140 dollar', '2 different picture package']	['125 dollar']	0.630956863273
+['140 dollar', '2 different picture package']	['sam picture emporium charge']	0.104202853866
+['140 dollar', '2 different picture package']	['dollar']	0.272389279633
+['140 dollar', '2 different picture package']	['1.50 dollar']	0.630956863273
+['140 dollar', '2 different picture package']	['picture sheet']	0.0915001233665
+['140 dollar', '2 different picture package']	['2 company']	0.53638572704
+['140 dollar', '2 different picture package']	['same amount']	0.0915001233665
+['picture sheet', '2 different picture package']	['john photo world']	0.108108427999
+['picture sheet', '2 different picture package']	['2.75 dollar']	0.0988755105172
+['picture sheet', '2 different picture package']	['sheet']	0.739407915113
+['picture sheet', '2 different picture package']	['125 dollar']	0.0988755105172
+['picture sheet', '2 different picture package']	['sam picture emporium charge']	0.102396614129
+['picture sheet', '2 different picture package']	['dollar']	0.0118960167779
+['picture sheet', '2 different picture package']	['1.50 dollar']	0.0988755105172
+['picture sheet', '2 different picture package']	['140 dollar']	0.0988755105172
+['picture sheet', '2 different picture package']	['2 company']	0.53638572704
+['picture sheet', '2 different picture package']	['same amount']	0.0915001233665
+['2 company', '2 different picture package']	['john photo world']	0.102396614129
+['2 company', '2 different picture package']	['2.75 dollar']	0.0988755105172
+['2 company', '2 different picture package']	['sheet']	0.110622711042
+['2 company', '2 different picture package']	['125 dollar']	0.0988755105172
+['2 company', '2 different picture package']	['sam picture emporium charge']	0.102396614129
+['2 company', '2 different picture package']	['dollar']	0.0118960167779
+['2 company', '2 different picture package']	['1.50 dollar']	0.0988755105172
+['2 company', '2 different picture package']	['140 dollar']	0.0988755105172
+['2 company', '2 different picture package']	['picture sheet']	0.0915001233665
+['2 company', '2 different picture package']	['same amount']	0.0915001233665
+['same amount', '2 different picture package']	['john photo world']	0.108108427999
+['same amount', '2 different picture package']	['2.75 dollar']	0.0988755105172
+['same amount', '2 different picture package']	['sheet']	0.10940366544
+['same amount', '2 different picture package']	['125 dollar']	0.0988755105172
+['same amount', '2 different picture package']	['sam picture emporium charge']	0.102396614129
+['same amount', '2 different picture package']	['dollar']	0.0104996826156
+['same amount', '2 different picture package']	['1.50 dollar']	0.0988755105172
+['same amount', '2 different picture package']	['140 dollar']	0.0988755105172
+['same amount', '2 different picture package']	['picture sheet']	0.0915001233665
+['same amount', '2 different picture package']	['2 company']	0.53638572704
+['2 different picture package', 'john photo world']	['2.75 dollar']	0.0988755105172
+['2 different picture package', 'john photo world']	['sheet']	0.107524466434
+['2 different picture package', 'john photo world']	['125 dollar']	0.0988755105172
+['2 different picture package', 'john photo world']	['sam picture emporium charge']	0.102396614129
+['2 different picture package', 'john photo world']	['dollar']	0.0446004192937
+['2 different picture package', 'john photo world']	['1.50 dollar']	0.0988755105172
+['2 different picture package', 'john photo world']	['140 dollar']	0.0988755105172
+['2 different picture package', 'john photo world']	['picture sheet']	0.0903687070605
+['2 different picture package', 'john photo world']	['2 company']	0.53638572704
+['2 different picture package', 'john photo world']	['same amount']	0.0921460917349
+['2.75 dollar', 'john photo world']	['2 different picture package']	0.156579181386
+['2.75 dollar', 'john photo world']	['sheet']	0.16381330446
+['2.75 dollar', 'john photo world']	['125 dollar']	0.653642048458
+['2.75 dollar', 'john photo world']	['sam picture emporium charge']	0.156579181386
+['2.75 dollar', 'john photo world']	['dollar']	0.390306662315
+['2.75 dollar', 'john photo world']	['1.50 dollar']	0.653642048458
+['2.75 dollar', 'john photo world']	['140 dollar']	0.653642048458
+['2.75 dollar', 'john photo world']	['picture sheet']	0.152884447848
+['2.75 dollar', 'john photo world']	['2 company']	0.152238479479
+['2.75 dollar', 'john photo world']	['same amount']	0.152884447848
+['sheet', 'john photo world']	['2 different picture package']	0.138084883792
+['sheet', 'john photo world']	['2.75 dollar']	0.0696933362217
+['sheet', 'john photo world']	['125 dollar']	0.0696933362217
+['sheet', 'john photo world']	['sam picture emporium charge']	0.086216080975
+['sheet', 'john photo world']	['dollar']	0.0917339538845
+['sheet', 'john photo world']	['1.50 dollar']	0.0696933362217
+['sheet', 'john photo world']	['140 dollar']	0.0696933362217
+['sheet', 'john photo world']	['picture sheet']	0.685266078028
+['sheet', 'john photo world']	['2 company']	0.0689582110755
+['sheet', 'john photo world']	['same amount']	0.0703393045902
+['125 dollar', 'john photo world']	['2 different picture package']	0.156579181386
+['125 dollar', 'john photo world']	['2.75 dollar']	0.653642048458
+['125 dollar', 'john photo world']	['sheet']	0.16381330446
+['125 dollar', 'john photo world']	['sam picture emporium charge']	0.156579181386
+['125 dollar', 'john photo world']	['dollar']	0.30942631667
+['125 dollar', 'john photo world']	['1.50 dollar']	0.653642048458
+['125 dollar', 'john photo world']	['140 dollar']	0.653642048458
+['125 dollar', 'john photo world']	['picture sheet']	0.152884447848
+['125 dollar', 'john photo world']	['2 company']	0.152238479479
+['125 dollar', 'john photo world']	['same amount']	0.152884447848
+['sam picture emporium charge', 'john photo world']	['2 different picture package']	0.102396614129
+['sam picture emporium charge', 'john photo world']	['2.75 dollar']	0.0988755105172
+['sam picture emporium charge', 'john photo world']	['sheet']	0.10940366544
+['sam picture emporium charge', 'john photo world']	['125 dollar']	0.0988755105172
+['sam picture emporium charge', 'john photo world']	['dollar']	0.0446004192937
+['sam picture emporium charge', 'john photo world']	['1.50 dollar']	0.0988755105172
+['sam picture emporium charge', 'john photo world']	['140 dollar']	0.0988755105172
+['sam picture emporium charge', 'john photo world']	['picture sheet']	0.0907649982203
+['sam picture emporium charge', 'john photo world']	['2 company']	0.0915001233665
+['sam picture emporium charge', 'john photo world']	['same amount']	0.0921460917349
+['dollar', 'john photo world']	['2 different picture package']	0.0277112162341
+['dollar', 'john photo world']	['2.75 dollar']	0.356496055166
+['dollar', 'john photo world']	['sheet']	0.145479364306
+['dollar', 'john photo world']	['125 dollar']	0.280517755408
+['dollar', 'john photo world']	['sam picture emporium charge']	0.0277112162341
+['dollar', 'john photo world']	['1.50 dollar']	0.356496055166
+['dollar', 'john photo world']	['140 dollar']	0.280517755408
+['dollar', 'john photo world']	['picture sheet']	0.0160064194205
+['dollar', 'john photo world']	['2 company']	0.015360451052
+['dollar', 'john photo world']	['same amount']	0.0266637665627
+['1.50 dollar', 'john photo world']	['2 different picture package']	0.156579181386
+['1.50 dollar', 'john photo world']	['2.75 dollar']	0.653642048458
+['1.50 dollar', 'john photo world']	['sheet']	0.16381330446
+['1.50 dollar', 'john photo world']	['125 dollar']	0.653642048458
+['1.50 dollar', 'john photo world']	['sam picture emporium charge']	0.156579181386
+['1.50 dollar', 'john photo world']	['dollar']	0.390306662315
+['1.50 dollar', 'john photo world']	['140 dollar']	0.653642048458
+['1.50 dollar', 'john photo world']	['picture sheet']	0.152884447848
+['1.50 dollar', 'john photo world']	['2 company']	0.152238479479
+['1.50 dollar', 'john photo world']	['same amount']	0.152884447848
+['140 dollar', 'john photo world']	['2 different picture package']	0.156579181386
+['140 dollar', 'john photo world']	['2.75 dollar']	0.653642048458
+['140 dollar', 'john photo world']	['sheet']	0.16381330446
+['140 dollar', 'john photo world']	['125 dollar']	0.653642048458
+['140 dollar', 'john photo world']	['sam picture emporium charge']	0.156579181386
+['140 dollar', 'john photo world']	['dollar']	0.30942631667
+['140 dollar', 'john photo world']	['1.50 dollar']	0.653642048458
+['140 dollar', 'john photo world']	['picture sheet']	0.152884447848
+['140 dollar', 'john photo world']	['2 company']	0.152238479479
+['140 dollar', 'john photo world']	['same amount']	0.152884447848
+['picture sheet', 'john photo world']	['2 different picture package']	0.156579181386
+['picture sheet', 'john photo world']	['2.75 dollar']	0.15961386663
+['picture sheet', 'john photo world']	['sheet']	0.806864595406
+['picture sheet', 'john photo world']	['125 dollar']	0.15961386663
+['picture sheet', 'john photo world']	['sam picture emporium charge']	0.162290995256
+['picture sheet', 'john photo world']	['dollar']	0.00636410188432
+['picture sheet', 'john photo world']	['1.50 dollar']	0.15961386663
+['picture sheet', 'john photo world']	['140 dollar']	0.15961386663
+['picture sheet', 'john photo world']	['2 company']	0.152238479479
+['picture sheet', 'john photo world']	['same amount']	0.152884447848
+['2 company', 'john photo world']	['2 different picture package']	0.610419843509
+['2 company', 'john photo world']	['2.75 dollar']	0.15961386663
+['2 company', 'john photo world']	['sheet']	0.16381330446
+['2 company', 'john photo world']	['125 dollar']	0.15961386663
+['2 company', 'john photo world']	['sam picture emporium charge']	0.156579181386
+['2 company', 'john photo world']	['dollar']	0.00636410188432
+['2 company', 'john photo world']	['1.50 dollar']	0.15961386663
+['2 company', 'john photo world']	['140 dollar']	0.15961386663
+['2 company', 'john photo world']	['picture sheet']	0.149535623218
+['2 company', 'john photo world']	['same amount']	0.152884447848
+['same amount', 'john photo world']	['2 different picture package']	0.156579181386
+['same amount', 'john photo world']	['2.75 dollar']	0.15961386663
+['same amount', 'john photo world']	['sheet']	0.170142021553
+['same amount', 'john photo world']	['125 dollar']	0.15961386663
+['same amount', 'john photo world']	['sam picture emporium charge']	0.156579181386
+['same amount', 'john photo world']	['dollar']	0.00766280318302
+['same amount', 'john photo world']	['1.50 dollar']	0.15961386663
+['same amount', 'john photo world']	['140 dollar']	0.15961386663
+['same amount', 'john photo world']	['picture sheet']	0.149535623218
+['same amount', 'john photo world']	['2 company']	0.152238479479
+['2 different picture package', '2.75 dollar']	['john photo world']	0.102396614129
+['2 different picture package', '2.75 dollar']	['sheet']	0.110622711042
+['2 different picture package', '2.75 dollar']	['125 dollar']	0.630956863273
+['2 different picture package', '2.75 dollar']	['sam picture emporium charge']	0.104202853866
+['2 different picture package', '2.75 dollar']	['dollar']	0.353269625278
+['2 different picture package', '2.75 dollar']	['1.50 dollar']	0.630956863273
+['2 different picture package', '2.75 dollar']	['140 dollar']	0.630956863273
+['2 different picture package', '2.75 dollar']	['picture sheet']	0.0915001233665
+['2 different picture package', '2.75 dollar']	['2 company']	0.53638572704
+['2 different picture package', '2.75 dollar']	['same amount']	0.0915001233665
+['john photo world', '2.75 dollar']	['2 different picture package']	0.156579181386
+['john photo world', '2.75 dollar']	['sheet']	0.16381330446
+['john photo world', '2.75 dollar']	['125 dollar']	0.653642048458
+['john photo world', '2.75 dollar']	['sam picture emporium charge']	0.156579181386
+['john photo world', '2.75 dollar']	['dollar']	0.390306662315
+['john photo world', '2.75 dollar']	['1.50 dollar']	0.653642048458
+['john photo world', '2.75 dollar']	['140 dollar']	0.653642048458
+['john photo world', '2.75 dollar']	['picture sheet']	0.152884447848
+['john photo world', '2.75 dollar']	['2 company']	0.152238479479
+['john photo world', '2.75 dollar']	['same amount']	0.152884447848
+['sheet', '2.75 dollar']	['2 different picture package']	0.133567705115
+['sheet', '2.75 dollar']	['john photo world']	0.0807707659053
+['sheet', '2.75 dollar']	['125 dollar']	0.482679469303
+['sheet', '2.75 dollar']	['sam picture emporium charge']	0.0841365058564
+['sheet', '2.75 dollar']	['dollar']	0.508220546275
+['sheet', '2.75 dollar']	['1.50 dollar']	0.482679469303
+['sheet', '2.75 dollar']	['140 dollar']	0.482679469303
+['sheet', '2.75 dollar']	['picture sheet']	0.659403281276
+['sheet', '2.75 dollar']	['2 company']	0.0703393045902
+['sheet', '2.75 dollar']	['same amount']	0.0737139440912
+['125 dollar', '2.75 dollar']	['2 different picture package']	0.315265418903
+['125 dollar', '2.75 dollar']	['john photo world']	0.297805101442
+['125 dollar', '2.75 dollar']	['sheet']	0.374062030126
+['125 dollar', '2.75 dollar']	['sam picture emporium charge']	0.315265418903
+['125 dollar', '2.75 dollar']	['dollar']	0.707694262291
+['125 dollar', '2.75 dollar']	['1.50 dollar']	0.637144068101
+['125 dollar', '2.75 dollar']	['140 dollar']	0.637144068101
+['125 dollar', '2.75 dollar']	['picture sheet']	0.139258682248
+['125 dollar', '2.75 dollar']	['2 company']	0.139258682248
+['125 dollar', '2.75 dollar']	['same amount']	0.139258682248
+['sam picture emporium charge', '2.75 dollar']	['2 different picture package']	0.104202853866
+['sam picture emporium charge', '2.75 dollar']	['john photo world']	0.102396614129
+['sam picture emporium charge', '2.75 dollar']	['sheet']	0.0857950278587
+['sam picture emporium charge', '2.75 dollar']	['125 dollar']	0.630956863273
+['sam picture emporium charge', '2.75 dollar']	['dollar']	0.353269625278
+['sam picture emporium charge', '2.75 dollar']	['1.50 dollar']	0.630956863273
+['sam picture emporium charge', '2.75 dollar']	['140 dollar']	0.630956863273
+['sam picture emporium charge', '2.75 dollar']	['picture sheet']	0.0915001233665
+['sam picture emporium charge', '2.75 dollar']	['2 company']	0.0915001233665
+['sam picture emporium charge', '2.75 dollar']	['same amount']	0.0915001233665
+['dollar', '2.75 dollar']	['2 different picture package']	0.193299723861
+['dollar', '2.75 dollar']	['john photo world']	0.193299723861
+['dollar', '2.75 dollar']	['sheet']	0.275335569328
+['dollar', '2.75 dollar']	['125 dollar']	0.690954327877
+['dollar', '2.75 dollar']	['sam picture emporium charge']	0.193299723861
+['dollar', '2.75 dollar']	['1.50 dollar']	0.732805939382
+['dollar', '2.75 dollar']	['140 dollar']	0.690954327877
+['dollar', '2.75 dollar']	['picture sheet']	0.11034390648
+['dollar', '2.75 dollar']	['2 company']	0.0878776902641
+['dollar', '2.75 dollar']	['same amount']	0.108213661491
+['1.50 dollar', '2.75 dollar']	['2 different picture package']	0.315265418903
+['1.50 dollar', '2.75 dollar']	['john photo world']	0.297805101442
+['1.50 dollar', '2.75 dollar']	['sheet']	0.374062030126
+['1.50 dollar', '2.75 dollar']	['125 dollar']	0.637144068101
+['1.50 dollar', '2.75 dollar']	['sam picture emporium charge']	0.315265418903
+['1.50 dollar', '2.75 dollar']	['dollar']	0.786579749845
+['1.50 dollar', '2.75 dollar']	['140 dollar']	0.637144068101
+['1.50 dollar', '2.75 dollar']	['picture sheet']	0.139258682248
+['1.50 dollar', '2.75 dollar']	['2 company']	0.139258682248
+['1.50 dollar', '2.75 dollar']	['same amount']	0.139258682248
+['140 dollar', '2.75 dollar']	['2 different picture package']	0.315265418903
+['140 dollar', '2.75 dollar']	['john photo world']	0.297805101442
+['140 dollar', '2.75 dollar']	['sheet']	0.374062030126
+['140 dollar', '2.75 dollar']	['125 dollar']	0.637144068101
+['140 dollar', '2.75 dollar']	['sam picture emporium charge']	0.315265418903
+['140 dollar', '2.75 dollar']	['dollar']	0.707694262291
+['140 dollar', '2.75 dollar']	['1.50 dollar']	0.637144068101
+['140 dollar', '2.75 dollar']	['picture sheet']	0.139258682248
+['140 dollar', '2.75 dollar']	['2 company']	0.139258682248
+['140 dollar', '2.75 dollar']	['same amount']	0.139258682248
+['picture sheet', '2.75 dollar']	['2 different picture package']	0.0941266761548
+['picture sheet', '2.75 dollar']	['john photo world']	0.096515242987
+['picture sheet', '2.75 dollar']	['sheet']	0.690967085855
+['picture sheet', '2.75 dollar']	['125 dollar']	0.584269096576
+['picture sheet', '2.75 dollar']	['sam picture emporium charge']	0.0908034291173
+['picture sheet', '2.75 dollar']	['dollar']	0.34291890153
+['picture sheet', '2.75 dollar']	['1.50 dollar']	0.584269096576
+['picture sheet', '2.75 dollar']	['140 dollar']	0.584269096576
+['picture sheet', '2.75 dollar']	['2 company']	0.0901100077042
+['picture sheet', '2.75 dollar']	['same amount']	0.0901100077042
+['2 company', '2.75 dollar']	['2 different picture package']	0.489345190614
+['2 company', '2.75 dollar']	['john photo world']	0.0908034291173
+['2 company', '2.75 dollar']	['sheet']	0.0741073489195
+['2 company', '2.75 dollar']	['125 dollar']	0.584269096576
+['2 company', '2.75 dollar']	['sam picture emporium charge']	0.0908034291173
+['2 company', '2.75 dollar']	['dollar']	0.34291890153
+['2 company', '2.75 dollar']	['1.50 dollar']	0.584269096576
+['2 company', '2.75 dollar']	['140 dollar']	0.584269096576
+['2 company', '2.75 dollar']	['picture sheet']	0.0827346205535
+['2 company', '2.75 dollar']	['same amount']	0.0827346205535
+['same amount', '2.75 dollar']	['2 different picture package']	0.0908034291173
+['same amount', '2.75 dollar']	['john photo world']	0.096515242987
+['same amount', '2.75 dollar']	['sheet']	0.0774561735493
+['same amount', '2.75 dollar']	['125 dollar']	0.584269096576
+['same amount', '2.75 dollar']	['sam picture emporium charge']	0.0908034291173
+['same amount', '2.75 dollar']	['dollar']	0.347558844001
+['same amount', '2.75 dollar']	['1.50 dollar']	0.584269096576
+['same amount', '2.75 dollar']	['140 dollar']	0.584269096576
+['same amount', '2.75 dollar']	['picture sheet']	0.0827346205535
+['same amount', '2.75 dollar']	['2 company']	0.0827346205535
+['2 different picture package', 'sheet']	['john photo world']	0.137350001891
+['2 different picture package', 'sheet']	['2.75 dollar']	0.124856540438
+['2 different picture package', 'sheet']	['125 dollar']	0.124856540438
+['2 different picture package', 'sheet']	['sam picture emporium charge']	0.14252198158
+['2 different picture package', 'sheet']	['dollar']	0.0933308521319
+['2 different picture package', 'sheet']	['1.50 dollar']	0.124856540438
+['2 different picture package', 'sheet']	['140 dollar']	0.124856540438
+['2 different picture package', 'sheet']	['picture sheet']	0.698262002818
+['2 different picture package', 'sheet']	['2 company']	0.518812383106
+['2 different picture package', 'sheet']	['same amount']	0.124856540438
+['john photo world', 'sheet']	['2 different picture package']	0.138084883792
+['john photo world', 'sheet']	['2.75 dollar']	0.0696933362217
+['john photo world', 'sheet']	['125 dollar']	0.0696933362217
+['john photo world', 'sheet']	['sam picture emporium charge']	0.086216080975
+['john photo world', 'sheet']	['dollar']	0.0917339538845
+['john photo world', 'sheet']	['1.50 dollar']	0.0696933362217
+['john photo world', 'sheet']	['140 dollar']	0.0696933362217
+['john photo world', 'sheet']	['picture sheet']	0.685266078028
+['john photo world', 'sheet']	['2 company']	0.0689582110755
+['john photo world', 'sheet']	['same amount']	0.0703393045902
+['2.75 dollar', 'sheet']	['2 different picture package']	0.133567705115
+['2.75 dollar', 'sheet']	['john photo world']	0.0807707659053
+['2.75 dollar', 'sheet']	['125 dollar']	0.482679469303
+['2.75 dollar', 'sheet']	['sam picture emporium charge']	0.0841365058564
+['2.75 dollar', 'sheet']	['dollar']	0.508220546275
+['2.75 dollar', 'sheet']	['1.50 dollar']	0.482679469303
+['2.75 dollar', 'sheet']	['140 dollar']	0.482679469303
+['2.75 dollar', 'sheet']	['picture sheet']	0.659403281276
+['2.75 dollar', 'sheet']	['2 company']	0.0703393045902
+['2.75 dollar', 'sheet']	['same amount']	0.0737139440912
+['125 dollar', 'sheet']	['2 different picture package']	0.133567705115
+['125 dollar', 'sheet']	['john photo world']	0.0807707659053
+['125 dollar', 'sheet']	['2.75 dollar']	0.482679469303
+['125 dollar', 'sheet']	['sam picture emporium charge']	0.0841365058564
+['125 dollar', 'sheet']	['dollar']	0.502437056637
+['125 dollar', 'sheet']	['1.50 dollar']	0.482679469303
+['125 dollar', 'sheet']	['140 dollar']	0.482679469303
+['125 dollar', 'sheet']	['picture sheet']	0.659403281276
+['125 dollar', 'sheet']	['2 company']	0.0703393045902
+['125 dollar', 'sheet']	['same amount']	0.0737139440912
+['sam picture emporium charge', 'sheet']	['2 different picture package']	0.193406995947
+['sam picture emporium charge', 'sheet']	['john photo world']	0.137350001891
+['sam picture emporium charge', 'sheet']	['2.75 dollar']	0.124856540438
+['sam picture emporium charge', 'sheet']	['125 dollar']	0.124856540438
+['sam picture emporium charge', 'sheet']	['dollar']	0.0933308521319
+['sam picture emporium charge', 'sheet']	['1.50 dollar']	0.124856540438
+['sam picture emporium charge', 'sheet']	['140 dollar']	0.124856540438
+['sam picture emporium charge', 'sheet']	['picture sheet']	0.698262002818
+['sam picture emporium charge', 'sheet']	['2 company']	0.125502508807
+['sam picture emporium charge', 'sheet']	['same amount']	0.124856540438
+['dollar', 'sheet']	['2 different picture package']	0.0908130864972
+['dollar', 'sheet']	['john photo world']	0.0829349518718
+['dollar', 'sheet']	['2.75 dollar']	0.425413806829
+['dollar', 'sheet']	['125 dollar']	0.313917110354
+['dollar', 'sheet']	['sam picture emporium charge']	0.0863006918229
+['dollar', 'sheet']	['1.50 dollar']	0.425413806829
+['dollar', 'sheet']	['140 dollar']	0.313917110354
+['dollar', 'sheet']	['picture sheet']	0.297975799994
+['dollar', 'sheet']	['2 company']	0.0780842671024
+['dollar', 'sheet']	['same amount']	0.0787871379671
+['1.50 dollar', 'sheet']	['2 different picture package']	0.133567705115
+['1.50 dollar', 'sheet']	['john photo world']	0.0807707659053
+['1.50 dollar', 'sheet']	['2.75 dollar']	0.482679469303
+['1.50 dollar', 'sheet']	['125 dollar']	0.482679469303
+['1.50 dollar', 'sheet']	['sam picture emporium charge']	0.0841365058564
+['1.50 dollar', 'sheet']	['dollar']	0.508220546275
+['1.50 dollar', 'sheet']	['140 dollar']	0.482679469303
+['1.50 dollar', 'sheet']	['picture sheet']	0.659403281276
+['1.50 dollar', 'sheet']	['2 company']	0.0703393045902
+['1.50 dollar', 'sheet']	['same amount']	0.0737139440912
+['140 dollar', 'sheet']	['2 different picture package']	0.133567705115
+['140 dollar', 'sheet']	['john photo world']	0.0807707659053
+['140 dollar', 'sheet']	['2.75 dollar']	0.482679469303
+['140 dollar', 'sheet']	['125 dollar']	0.482679469303
+['140 dollar', 'sheet']	['sam picture emporium charge']	0.0841365058564
+['140 dollar', 'sheet']	['dollar']	0.502437056637
+['140 dollar', 'sheet']	['1.50 dollar']	0.482679469303
+['140 dollar', 'sheet']	['picture sheet']	0.659403281276
+['140 dollar', 'sheet']	['2 company']	0.0703393045902
+['140 dollar', 'sheet']	['same amount']	0.0737139440912
+['picture sheet', 'sheet']	['2 different picture package']	0.42667450807
+['picture sheet', 'sheet']	['john photo world']	0.387131024997
+['picture sheet', 'sheet']	['2.75 dollar']	0.22500681101
+['picture sheet', 'sheet']	['125 dollar']	0.22500681101
+['picture sheet', 'sheet']	['sam picture emporium charge']	0.364434162707
+['picture sheet', 'sheet']	['dollar']	0.200063093085
+['picture sheet', 'sheet']	['1.50 dollar']	0.22500681101
+['picture sheet', 'sheet']	['140 dollar']	0.22500681101
+['picture sheet', 'sheet']	['2 company']	0.21925775957
+['picture sheet', 'sheet']	['same amount']	0.139259023173
+['2 company', 'sheet']	['2 different picture package']	0.522601732533
+['2 company', 'sheet']	['john photo world']	0.080802298149
+['2 company', 'sheet']	['2.75 dollar']	0.0696933362217
+['2 company', 'sheet']	['125 dollar']	0.0696933362217
+['2 company', 'sheet']	['sam picture emporium charge']	0.0841680381001
+['2 company', 'sheet']	['dollar']	0.097359751261
+['2 company', 'sheet']	['1.50 dollar']	0.0696933362217
+['2 company', 'sheet']	['140 dollar']	0.0696933362217
+['2 company', 'sheet']	['picture sheet']	0.685963783853
+['2 company', 'sheet']	['same amount']	0.0696933362217
+['same amount', 'sheet']	['2 different picture package']	0.133567705115
+['same amount', 'sheet']	['john photo world']	0.0865141120187
+['same amount', 'sheet']	['2.75 dollar']	0.0696933362217
+['same amount', 'sheet']	['125 dollar']	0.0696933362217
+['same amount', 'sheet']	['sam picture emporium charge']	0.0841680381001
+['same amount', 'sheet']	['dollar']	0.161753690655
+['same amount', 'sheet']	['1.50 dollar']	0.0696933362217
+['same amount', 'sheet']	['140 dollar']	0.0696933362217
+['same amount', 'sheet']	['picture sheet']	0.70656606249
+['same amount', 'sheet']	['2 company']	0.0703393045902
+['2 different picture package', '125 dollar']	['john photo world']	0.102396614129
+['2 different picture package', '125 dollar']	['2.75 dollar']	0.630956863273
+['2 different picture package', '125 dollar']	['sheet']	0.110622711042
+['2 different picture package', '125 dollar']	['sam picture emporium charge']	0.104202853866
+['2 different picture package', '125 dollar']	['dollar']	0.272389279633
+['2 different picture package', '125 dollar']	['1.50 dollar']	0.630956863273
+['2 different picture package', '125 dollar']	['140 dollar']	0.630956863273
+['2 different picture package', '125 dollar']	['picture sheet']	0.0915001233665
+['2 different picture package', '125 dollar']	['2 company']	0.53638572704
+['2 different picture package', '125 dollar']	['same amount']	0.0915001233665
+['john photo world', '125 dollar']	['2 different picture package']	0.156579181386
+['john photo world', '125 dollar']	['2.75 dollar']	0.653642048458
+['john photo world', '125 dollar']	['sheet']	0.16381330446
+['john photo world', '125 dollar']	['sam picture emporium charge']	0.156579181386
+['john photo world', '125 dollar']	['dollar']	0.30942631667
+['john photo world', '125 dollar']	['1.50 dollar']	0.653642048458
+['john photo world', '125 dollar']	['140 dollar']	0.653642048458
+['john photo world', '125 dollar']	['picture sheet']	0.152884447848
+['john photo world', '125 dollar']	['2 company']	0.152238479479
+['john photo world', '125 dollar']	['same amount']	0.152884447848
+['2.75 dollar', '125 dollar']	['2 different picture package']	0.315265418903
+['2.75 dollar', '125 dollar']	['john photo world']	0.297805101442
+['2.75 dollar', '125 dollar']	['sheet']	0.374062030126
+['2.75 dollar', '125 dollar']	['sam picture emporium charge']	0.315265418903
+['2.75 dollar', '125 dollar']	['dollar']	0.707694262291
+['2.75 dollar', '125 dollar']	['1.50 dollar']	0.637144068101
+['2.75 dollar', '125 dollar']	['140 dollar']	0.637144068101
+['2.75 dollar', '125 dollar']	['picture sheet']	0.139258682248
+['2.75 dollar', '125 dollar']	['2 company']	0.139258682248
+['2.75 dollar', '125 dollar']	['same amount']	0.139258682248
+['sheet', '125 dollar']	['2 different picture package']	0.133567705115
+['sheet', '125 dollar']	['john photo world']	0.0807707659053
+['sheet', '125 dollar']	['2.75 dollar']	0.482679469303
+['sheet', '125 dollar']	['sam picture emporium charge']	0.0841365058564
+['sheet', '125 dollar']	['dollar']	0.502437056637
+['sheet', '125 dollar']	['1.50 dollar']	0.482679469303
+['sheet', '125 dollar']	['140 dollar']	0.482679469303
+['sheet', '125 dollar']	['picture sheet']	0.659403281276
+['sheet', '125 dollar']	['2 company']	0.0703393045902
+['sheet', '125 dollar']	['same amount']	0.0737139440912
+['sam picture emporium charge', '125 dollar']	['2 different picture package']	0.104202853866
+['sam picture emporium charge', '125 dollar']	['john photo world']	0.102396614129
+['sam picture emporium charge', '125 dollar']	['2.75 dollar']	0.630956863273
+['sam picture emporium charge', '125 dollar']	['sheet']	0.0857950278587
+['sam picture emporium charge', '125 dollar']	['dollar']	0.272389279633
+['sam picture emporium charge', '125 dollar']	['1.50 dollar']	0.630956863273
+['sam picture emporium charge', '125 dollar']	['140 dollar']	0.630956863273
+['sam picture emporium charge', '125 dollar']	['picture sheet']	0.0915001233665
+['sam picture emporium charge', '125 dollar']	['2 company']	0.0915001233665
+['sam picture emporium charge', '125 dollar']	['same amount']	0.0915001233665
+['dollar', '125 dollar']	['2 different picture package']	0.193299723861
+['dollar', '125 dollar']	['john photo world']	0.193299723861
+['dollar', '125 dollar']	['2.75 dollar']	0.732805939382
+['dollar', '125 dollar']	['sheet']	0.275335569328
+['dollar', '125 dollar']	['sam picture emporium charge']	0.193299723861
+['dollar', '125 dollar']	['1.50 dollar']	0.732805939382
+['dollar', '125 dollar']	['140 dollar']	0.690954327877
+['dollar', '125 dollar']	['picture sheet']	0.11034390648
+['dollar', '125 dollar']	['2 company']	0.0878776902641
+['dollar', '125 dollar']	['same amount']	0.108213661491
+['1.50 dollar', '125 dollar']	['2 different picture package']	0.315265418903
+['1.50 dollar', '125 dollar']	['john photo world']	0.297805101442
+['1.50 dollar', '125 dollar']	['2.75 dollar']	0.637144068101
+['1.50 dollar', '125 dollar']	['sheet']	0.374062030126
+['1.50 dollar', '125 dollar']	['sam picture emporium charge']	0.315265418903
+['1.50 dollar', '125 dollar']	['dollar']	0.707694262291
+['1.50 dollar', '125 dollar']	['140 dollar']	0.637144068101
+['1.50 dollar', '125 dollar']	['picture sheet']	0.139258682248
+['1.50 dollar', '125 dollar']	['2 company']	0.139258682248
+['1.50 dollar', '125 dollar']	['same amount']	0.139258682248
+['140 dollar', '125 dollar']	['2 different picture package']	0.315265418903
+['140 dollar', '125 dollar']	['john photo world']	0.297805101442
+['140 dollar', '125 dollar']	['2.75 dollar']	0.637144068101
+['140 dollar', '125 dollar']	['sheet']	0.374062030126
+['140 dollar', '125 dollar']	['sam picture emporium charge']	0.315265418903
+['140 dollar', '125 dollar']	['dollar']	0.704916484513
+['140 dollar', '125 dollar']	['1.50 dollar']	0.637144068101
+['140 dollar', '125 dollar']	['picture sheet']	0.139258682248
+['140 dollar', '125 dollar']	['2 company']	0.139258682248
+['140 dollar', '125 dollar']	['same amount']	0.139258682248
+['picture sheet', '125 dollar']	['2 different picture package']	0.0941266761548
+['picture sheet', '125 dollar']	['john photo world']	0.096515242987
+['picture sheet', '125 dollar']	['2.75 dollar']	0.584269096576
+['picture sheet', '125 dollar']	['sheet']	0.690967085855
+['picture sheet', '125 dollar']	['sam picture emporium charge']	0.0908034291173
+['picture sheet', '125 dollar']	['dollar']	0.24945929496
+['picture sheet', '125 dollar']	['1.50 dollar']	0.584269096576
+['picture sheet', '125 dollar']	['140 dollar']	0.584269096576
+['picture sheet', '125 dollar']	['2 company']	0.0901100077042
+['picture sheet', '125 dollar']	['same amount']	0.0901100077042
+['2 company', '125 dollar']	['2 different picture package']	0.489345190614
+['2 company', '125 dollar']	['john photo world']	0.0908034291173
+['2 company', '125 dollar']	['2.75 dollar']	0.584269096576
+['2 company', '125 dollar']	['sheet']	0.0741073489195
+['2 company', '125 dollar']	['sam picture emporium charge']	0.0908034291173
+['2 company', '125 dollar']	['dollar']	0.24945929496
+['2 company', '125 dollar']	['1.50 dollar']	0.584269096576
+['2 company', '125 dollar']	['140 dollar']	0.584269096576
+['2 company', '125 dollar']	['picture sheet']	0.0827346205535
+['2 company', '125 dollar']	['same amount']	0.0827346205535
+['same amount', '125 dollar']	['2 different picture package']	0.0908034291173
+['same amount', '125 dollar']	['john photo world']	0.096515242987
+['same amount', '125 dollar']	['2.75 dollar']	0.584269096576
+['same amount', '125 dollar']	['sheet']	0.0774561735493
+['same amount', '125 dollar']	['sam picture emporium charge']	0.0908034291173
+['same amount', '125 dollar']	['dollar']	0.280614388946
+['same amount', '125 dollar']	['1.50 dollar']	0.584269096576
+['same amount', '125 dollar']	['140 dollar']	0.584269096576
+['same amount', '125 dollar']	['picture sheet']	0.0827346205535
+['same amount', '125 dollar']	['2 company']	0.0827346205535
+['2 different picture package', 'sam picture emporium charge']	['john photo world']	0.102396614129
+['2 different picture package', 'sam picture emporium charge']	['2.75 dollar']	0.0988755105172
+['2 different picture package', 'sam picture emporium charge']	['sheet']	0.10940366544
+['2 different picture package', 'sam picture emporium charge']	['125 dollar']	0.0988755105172
+['2 different picture package', 'sam picture emporium charge']	['dollar']	0.0112670859603
+['2 different picture package', 'sam picture emporium charge']	['1.50 dollar']	0.0988755105172
+['2 different picture package', 'sam picture emporium charge']	['140 dollar']	0.0988755105172
+['2 different picture package', 'sam picture emporium charge']	['picture sheet']	0.0915001233665
+['2 different picture package', 'sam picture emporium charge']	['2 company']	0.511165925719
+['2 different picture package', 'sam picture emporium charge']	['same amount']	0.0915001233665
+['john photo world', 'sam picture emporium charge']	['2 different picture package']	0.102396614129
+['john photo world', 'sam picture emporium charge']	['2.75 dollar']	0.0988755105172
+['john photo world', 'sam picture emporium charge']	['sheet']	0.10940366544
+['john photo world', 'sam picture emporium charge']	['125 dollar']	0.0988755105172
+['john photo world', 'sam picture emporium charge']	['dollar']	0.0446004192937
+['john photo world', 'sam picture emporium charge']	['1.50 dollar']	0.0988755105172
+['john photo world', 'sam picture emporium charge']	['140 dollar']	0.0988755105172
+['john photo world', 'sam picture emporium charge']	['picture sheet']	0.0907649982203
+['john photo world', 'sam picture emporium charge']	['2 company']	0.0915001233665
+['john photo world', 'sam picture emporium charge']	['same amount']	0.0921460917349
+['2.75 dollar', 'sam picture emporium charge']	['2 different picture package']	0.104202853866
+['2.75 dollar', 'sam picture emporium charge']	['john photo world']	0.102396614129
+['2.75 dollar', 'sam picture emporium charge']	['sheet']	0.0857950278587
+['2.75 dollar', 'sam picture emporium charge']	['125 dollar']	0.630956863273
+['2.75 dollar', 'sam picture emporium charge']	['dollar']	0.353269625278
+['2.75 dollar', 'sam picture emporium charge']	['1.50 dollar']	0.630956863273
+['2.75 dollar', 'sam picture emporium charge']	['140 dollar']	0.630956863273
+['2.75 dollar', 'sam picture emporium charge']	['picture sheet']	0.0915001233665
+['2.75 dollar', 'sam picture emporium charge']	['2 company']	0.0915001233665
+['2.75 dollar', 'sam picture emporium charge']	['same amount']	0.0915001233665
+['sheet', 'sam picture emporium charge']	['2 different picture package']	0.193406995947
+['sheet', 'sam picture emporium charge']	['john photo world']	0.137350001891
+['sheet', 'sam picture emporium charge']	['2.75 dollar']	0.124856540438
+['sheet', 'sam picture emporium charge']	['125 dollar']	0.124856540438
+['sheet', 'sam picture emporium charge']	['dollar']	0.0933308521319
+['sheet', 'sam picture emporium charge']	['1.50 dollar']	0.124856540438
+['sheet', 'sam picture emporium charge']	['140 dollar']	0.124856540438
+['sheet', 'sam picture emporium charge']	['picture sheet']	0.698262002818
+['sheet', 'sam picture emporium charge']	['2 company']	0.125502508807
+['sheet', 'sam picture emporium charge']	['same amount']	0.124856540438
+['125 dollar', 'sam picture emporium charge']	['2 different picture package']	0.104202853866
+['125 dollar', 'sam picture emporium charge']	['john photo world']	0.102396614129
+['125 dollar', 'sam picture emporium charge']	['2.75 dollar']	0.630956863273
+['125 dollar', 'sam picture emporium charge']	['sheet']	0.0857950278587
+['125 dollar', 'sam picture emporium charge']	['dollar']	0.272389279633
+['125 dollar', 'sam picture emporium charge']	['1.50 dollar']	0.630956863273
+['125 dollar', 'sam picture emporium charge']	['140 dollar']	0.630956863273
+['125 dollar', 'sam picture emporium charge']	['picture sheet']	0.0915001233665
+['125 dollar', 'sam picture emporium charge']	['2 company']	0.0915001233665
+['125 dollar', 'sam picture emporium charge']	['same amount']	0.0915001233665
+['dollar', 'sam picture emporium charge']	['2 different picture package']	0.0272201813802
+['dollar', 'sam picture emporium charge']	['john photo world']	0.0238544414291
+['dollar', 'sam picture emporium charge']	['2.75 dollar']	0.427590939411
+['dollar', 'sam picture emporium charge']	['sheet']	0.0709095671151
+['dollar', 'sam picture emporium charge']	['125 dollar']	0.389802885714
+['dollar', 'sam picture emporium charge']	['1.50 dollar']	0.427590939411
+['dollar', 'sam picture emporium charge']	['140 dollar']	0.389802885714
+['dollar', 'sam picture emporium charge']	['picture sheet']	0.0148694161981
+['dollar', 'sam picture emporium charge']	['2 company']	0.0148694161981
+['dollar', 'sam picture emporium charge']	['same amount']	0.0162182554313
+['1.50 dollar', 'sam picture emporium charge']	['2 different picture package']	0.104202853866
+['1.50 dollar', 'sam picture emporium charge']	['john photo world']	0.102396614129
+['1.50 dollar', 'sam picture emporium charge']	['2.75 dollar']	0.630956863273
+['1.50 dollar', 'sam picture emporium charge']	['sheet']	0.0857950278587
+['1.50 dollar', 'sam picture emporium charge']	['125 dollar']	0.630956863273
+['1.50 dollar', 'sam picture emporium charge']	['dollar']	0.353269625278
+['1.50 dollar', 'sam picture emporium charge']	['140 dollar']	0.630956863273
+['1.50 dollar', 'sam picture emporium charge']	['picture sheet']	0.0915001233665
+['1.50 dollar', 'sam picture emporium charge']	['2 company']	0.0915001233665
+['1.50 dollar', 'sam picture emporium charge']	['same amount']	0.0915001233665
+['140 dollar', 'sam picture emporium charge']	['2 different picture package']	0.104202853866
+['140 dollar', 'sam picture emporium charge']	['john photo world']	0.102396614129
+['140 dollar', 'sam picture emporium charge']	['2.75 dollar']	0.630956863273
+['140 dollar', 'sam picture emporium charge']	['sheet']	0.0857950278587
+['140 dollar', 'sam picture emporium charge']	['125 dollar']	0.630956863273
+['140 dollar', 'sam picture emporium charge']	['dollar']	0.272389279633
+['140 dollar', 'sam picture emporium charge']	['1.50 dollar']	0.630956863273
+['140 dollar', 'sam picture emporium charge']	['picture sheet']	0.0915001233665
+['140 dollar', 'sam picture emporium charge']	['2 company']	0.0915001233665
+['140 dollar', 'sam picture emporium charge']	['same amount']	0.0915001233665
+['picture sheet', 'sam picture emporium charge']	['2 different picture package']	0.104202853866
+['picture sheet', 'sam picture emporium charge']	['john photo world']	0.108108427999
+['picture sheet', 'sam picture emporium charge']	['2.75 dollar']	0.0988755105172
+['picture sheet', 'sam picture emporium charge']	['sheet']	0.688780217516
+['picture sheet', 'sam picture emporium charge']	['125 dollar']	0.0988755105172
+['picture sheet', 'sam picture emporium charge']	['dollar']	0.0118960167779
+['picture sheet', 'sam picture emporium charge']	['1.50 dollar']	0.0988755105172
+['picture sheet', 'sam picture emporium charge']	['140 dollar']	0.0988755105172
+['picture sheet', 'sam picture emporium charge']	['2 company']	0.0915001233665
+['picture sheet', 'sam picture emporium charge']	['same amount']	0.0915001233665
+['2 company', 'sam picture emporium charge']	['2 different picture package']	0.55253931373
+['2 company', 'sam picture emporium charge']	['john photo world']	0.102396614129
+['2 company', 'sam picture emporium charge']	['2.75 dollar']	0.0988755105172
+['2 company', 'sam picture emporium charge']	['sheet']	0.0857950278587
+['2 company', 'sam picture emporium charge']	['125 dollar']	0.0988755105172
+['2 company', 'sam picture emporium charge']	['dollar']	0.0118960167779
+['2 company', 'sam picture emporium charge']	['1.50 dollar']	0.0988755105172
+['2 company', 'sam picture emporium charge']	['140 dollar']	0.0988755105172
+['2 company', 'sam picture emporium charge']	['picture sheet']	0.0915001233665
+['2 company', 'sam picture emporium charge']	['same amount']	0.0915001233665
+['same amount', 'sam picture emporium charge']	['2 different picture package']	0.102396614129
+['same amount', 'sam picture emporium charge']	['john photo world']	0.108108427999
+['same amount', 'sam picture emporium charge']	['2.75 dollar']	0.0988755105172
+['same amount', 'sam picture emporium charge']	['sheet']	0.0914560578477
+['same amount', 'sam picture emporium charge']	['125 dollar']	0.0988755105172
+['same amount', 'sam picture emporium charge']	['dollar']	0.0104996826156
+['same amount', 'sam picture emporium charge']	['1.50 dollar']	0.0988755105172
+['same amount', 'sam picture emporium charge']	['140 dollar']	0.0988755105172
+['same amount', 'sam picture emporium charge']	['picture sheet']	0.0915001233665
+['same amount', 'sam picture emporium charge']	['2 company']	0.0915001233665
+['2 different picture package', 'dollar']	['john photo world']	0.0238544414291
+['2 different picture package', 'dollar']	['2.75 dollar']	0.427590939411
+['2 different picture package', 'dollar']	['sheet']	0.112131192259
+['2 different picture package', 'dollar']	['125 dollar']	0.389802885714
+['2 different picture package', 'dollar']	['sam picture emporium charge']	0.0272201813802
+['2 different picture package', 'dollar']	['1.50 dollar']	0.427590939411
+['2 different picture package', 'dollar']	['140 dollar']	0.389802885714
+['2 different picture package', 'dollar']	['picture sheet']	0.0148694161981
+['2 different picture package', 'dollar']	['2 company']	0.208835835075
+['2 different picture package', 'dollar']	['same amount']	0.0162182554313
+['john photo world', 'dollar']	['2 different picture package']	0.0277112162341
+['john photo world', 'dollar']	['2.75 dollar']	0.356496055166
+['john photo world', 'dollar']	['sheet']	0.145479364306
+['john photo world', 'dollar']	['125 dollar']	0.280517755408
+['john photo world', 'dollar']	['sam picture emporium charge']	0.0277112162341
+['john photo world', 'dollar']	['1.50 dollar']	0.356496055166
+['john photo world', 'dollar']	['140 dollar']	0.280517755408
+['john photo world', 'dollar']	['picture sheet']	0.0160064194205
+['john photo world', 'dollar']	['2 company']	0.015360451052
+['john photo world', 'dollar']	['same amount']	0.0266637665627
+['2.75 dollar', 'dollar']	['2 different picture package']	0.193299723861
+['2.75 dollar', 'dollar']	['john photo world']	0.193299723861
+['2.75 dollar', 'dollar']	['sheet']	0.275335569328
+['2.75 dollar', 'dollar']	['125 dollar']	0.690954327877
+['2.75 dollar', 'dollar']	['sam picture emporium charge']	0.193299723861
+['2.75 dollar', 'dollar']	['1.50 dollar']	0.732805939382
+['2.75 dollar', 'dollar']	['140 dollar']	0.690954327877
+['2.75 dollar', 'dollar']	['picture sheet']	0.11034390648
+['2.75 dollar', 'dollar']	['2 company']	0.0878776902641
+['2.75 dollar', 'dollar']	['same amount']	0.108213661491
+['sheet', 'dollar']	['2 different picture package']	0.0908130864972
+['sheet', 'dollar']	['john photo world']	0.0829349518718
+['sheet', 'dollar']	['2.75 dollar']	0.425413806829
+['sheet', 'dollar']	['125 dollar']	0.313917110354
+['sheet', 'dollar']	['sam picture emporium charge']	0.0863006918229
+['sheet', 'dollar']	['1.50 dollar']	0.425413806829
+['sheet', 'dollar']	['140 dollar']	0.313917110354
+['sheet', 'dollar']	['picture sheet']	0.297975799994
+['sheet', 'dollar']	['2 company']	0.0780842671024
+['sheet', 'dollar']	['same amount']	0.0787871379671
+['125 dollar', 'dollar']	['2 different picture package']	0.193299723861
+['125 dollar', 'dollar']	['john photo world']	0.193299723861
+['125 dollar', 'dollar']	['2.75 dollar']	0.732805939382
+['125 dollar', 'dollar']	['sheet']	0.275335569328
+['125 dollar', 'dollar']	['sam picture emporium charge']	0.193299723861
+['125 dollar', 'dollar']	['1.50 dollar']	0.732805939382
+['125 dollar', 'dollar']	['140 dollar']	0.690954327877
+['125 dollar', 'dollar']	['picture sheet']	0.11034390648
+['125 dollar', 'dollar']	['2 company']	0.0878776902641
+['125 dollar', 'dollar']	['same amount']	0.108213661491
+['sam picture emporium charge', 'dollar']	['2 different picture package']	0.0272201813802
+['sam picture emporium charge', 'dollar']	['john photo world']	0.0238544414291
+['sam picture emporium charge', 'dollar']	['2.75 dollar']	0.427590939411
+['sam picture emporium charge', 'dollar']	['sheet']	0.0709095671151
+['sam picture emporium charge', 'dollar']	['125 dollar']	0.389802885714
+['sam picture emporium charge', 'dollar']	['1.50 dollar']	0.427590939411
+['sam picture emporium charge', 'dollar']	['140 dollar']	0.389802885714
+['sam picture emporium charge', 'dollar']	['picture sheet']	0.0148694161981
+['sam picture emporium charge', 'dollar']	['2 company']	0.0148694161981
+['sam picture emporium charge', 'dollar']	['same amount']	0.0162182554313
+['1.50 dollar', 'dollar']	['2 different picture package']	0.193299723861
+['1.50 dollar', 'dollar']	['john photo world']	0.193299723861
+['1.50 dollar', 'dollar']	['2.75 dollar']	0.732805939382
+['1.50 dollar', 'dollar']	['sheet']	0.275335569328
+['1.50 dollar', 'dollar']	['125 dollar']	0.690954327877
+['1.50 dollar', 'dollar']	['sam picture emporium charge']	0.193299723861
+['1.50 dollar', 'dollar']	['140 dollar']	0.690954327877
+['1.50 dollar', 'dollar']	['picture sheet']	0.11034390648
+['1.50 dollar', 'dollar']	['2 company']	0.0878776902641
+['1.50 dollar', 'dollar']	['same amount']	0.108213661491
+['140 dollar', 'dollar']	['2 different picture package']	0.193299723861
+['140 dollar', 'dollar']	['john photo world']	0.193299723861
+['140 dollar', 'dollar']	['2.75 dollar']	0.732805939382
+['140 dollar', 'dollar']	['sheet']	0.275335569328
+['140 dollar', 'dollar']	['125 dollar']	0.690954327877
+['140 dollar', 'dollar']	['sam picture emporium charge']	0.193299723861
+['140 dollar', 'dollar']	['1.50 dollar']	0.732805939382
+['140 dollar', 'dollar']	['picture sheet']	0.11034390648
+['140 dollar', 'dollar']	['2 company']	0.0878776902641
+['140 dollar', 'dollar']	['same amount']	0.108213661491
+['picture sheet', 'dollar']	['2 different picture package']	0.024222844141
+['picture sheet', 'dollar']	['john photo world']	0.0208571041899
+['picture sheet', 'dollar']	['2.75 dollar']	0.380321401688
+['picture sheet', 'dollar']	['sheet']	0.382656410836
+['picture sheet', 'dollar']	['125 dollar']	0.299367977552
+['picture sheet', 'dollar']	['sam picture emporium charge']	0.024222844141
+['picture sheet', 'dollar']	['1.50 dollar']	0.380321401688
+['picture sheet', 'dollar']	['140 dollar']	0.299367977552
+['picture sheet', 'dollar']	['2 company']	0.015360451052
+['picture sheet', 'dollar']	['same amount']	0.0221369896995
+['2 company', 'dollar']	['2 different picture package']	0.245871751136
+['2 company', 'dollar']	['john photo world']	0.0208571041899
+['2 company', 'dollar']	['2.75 dollar']	0.380321401688
+['2 company', 'dollar']	['sheet']	0.104640593734
+['2 company', 'dollar']	['125 dollar']	0.299367977552
+['2 company', 'dollar']	['sam picture emporium charge']	0.024222844141
+['2 company', 'dollar']	['1.50 dollar']	0.380321401688
+['2 company', 'dollar']	['140 dollar']	0.299367977552
+['2 company', 'dollar']	['picture sheet']	0.015360451052
+['2 company', 'dollar']	['same amount']	0.0221369896995
+['same amount', 'dollar']	['2 different picture package']	0.024222844141
+['same amount', 'dollar']	['john photo world']	0.0208571041899
+['same amount', 'dollar']	['2.75 dollar']	0.380321401688
+['same amount', 'dollar']	['sheet']	0.0786197716882
+['same amount', 'dollar']	['125 dollar']	0.299367977552
+['same amount', 'dollar']	['sam picture emporium charge']	0.024222844141
+['same amount', 'dollar']	['1.50 dollar']	0.380321401688
+['same amount', 'dollar']	['140 dollar']	0.299367977552
+['same amount', 'dollar']	['picture sheet']	0.015360451052
+['same amount', 'dollar']	['2 company']	0.015360451052
+['2 different picture package', '1.50 dollar']	['john photo world']	0.102396614129
+['2 different picture package', '1.50 dollar']	['2.75 dollar']	0.630956863273
+['2 different picture package', '1.50 dollar']	['sheet']	0.110622711042
+['2 different picture package', '1.50 dollar']	['125 dollar']	0.630956863273
+['2 different picture package', '1.50 dollar']	['sam picture emporium charge']	0.104202853866
+['2 different picture package', '1.50 dollar']	['dollar']	0.353269625278
+['2 different picture package', '1.50 dollar']	['140 dollar']	0.630956863273
+['2 different picture package', '1.50 dollar']	['picture sheet']	0.0915001233665
+['2 different picture package', '1.50 dollar']	['2 company']	0.53638572704
+['2 different picture package', '1.50 dollar']	['same amount']	0.0915001233665
+['john photo world', '1.50 dollar']	['2 different picture package']	0.156579181386
+['john photo world', '1.50 dollar']	['2.75 dollar']	0.653642048458
+['john photo world', '1.50 dollar']	['sheet']	0.16381330446
+['john photo world', '1.50 dollar']	['125 dollar']	0.653642048458
+['john photo world', '1.50 dollar']	['sam picture emporium charge']	0.156579181386
+['john photo world', '1.50 dollar']	['dollar']	0.390306662315
+['john photo world', '1.50 dollar']	['140 dollar']	0.653642048458
+['john photo world', '1.50 dollar']	['picture sheet']	0.152884447848
+['john photo world', '1.50 dollar']	['2 company']	0.152238479479
+['john photo world', '1.50 dollar']	['same amount']	0.152884447848
+['2.75 dollar', '1.50 dollar']	['2 different picture package']	0.315265418903
+['2.75 dollar', '1.50 dollar']	['john photo world']	0.297805101442
+['2.75 dollar', '1.50 dollar']	['sheet']	0.374062030126
+['2.75 dollar', '1.50 dollar']	['125 dollar']	0.637144068101
+['2.75 dollar', '1.50 dollar']	['sam picture emporium charge']	0.315265418903
+['2.75 dollar', '1.50 dollar']	['dollar']	0.786579749845
+['2.75 dollar', '1.50 dollar']	['140 dollar']	0.637144068101
+['2.75 dollar', '1.50 dollar']	['picture sheet']	0.139258682248
+['2.75 dollar', '1.50 dollar']	['2 company']	0.139258682248
+['2.75 dollar', '1.50 dollar']	['same amount']	0.139258682248
+['sheet', '1.50 dollar']	['2 different picture package']	0.133567705115
+['sheet', '1.50 dollar']	['john photo world']	0.0807707659053
+['sheet', '1.50 dollar']	['2.75 dollar']	0.482679469303
+['sheet', '1.50 dollar']	['125 dollar']	0.482679469303
+['sheet', '1.50 dollar']	['sam picture emporium charge']	0.0841365058564
+['sheet', '1.50 dollar']	['dollar']	0.508220546275
+['sheet', '1.50 dollar']	['140 dollar']	0.482679469303
+['sheet', '1.50 dollar']	['picture sheet']	0.659403281276
+['sheet', '1.50 dollar']	['2 company']	0.0703393045902
+['sheet', '1.50 dollar']	['same amount']	0.0737139440912
+['125 dollar', '1.50 dollar']	['2 different picture package']	0.315265418903
+['125 dollar', '1.50 dollar']	['john photo world']	0.297805101442
+['125 dollar', '1.50 dollar']	['2.75 dollar']	0.637144068101
+['125 dollar', '1.50 dollar']	['sheet']	0.374062030126
+['125 dollar', '1.50 dollar']	['sam picture emporium charge']	0.315265418903
+['125 dollar', '1.50 dollar']	['dollar']	0.707694262291
+['125 dollar', '1.50 dollar']	['140 dollar']	0.637144068101
+['125 dollar', '1.50 dollar']	['picture sheet']	0.139258682248
+['125 dollar', '1.50 dollar']	['2 company']	0.139258682248
+['125 dollar', '1.50 dollar']	['same amount']	0.139258682248
+['sam picture emporium charge', '1.50 dollar']	['2 different picture package']	0.104202853866
+['sam picture emporium charge', '1.50 dollar']	['john photo world']	0.102396614129
+['sam picture emporium charge', '1.50 dollar']	['2.75 dollar']	0.630956863273
+['sam picture emporium charge', '1.50 dollar']	['sheet']	0.0857950278587
+['sam picture emporium charge', '1.50 dollar']	['125 dollar']	0.630956863273
+['sam picture emporium charge', '1.50 dollar']	['dollar']	0.353269625278
+['sam picture emporium charge', '1.50 dollar']	['140 dollar']	0.630956863273
+['sam picture emporium charge', '1.50 dollar']	['picture sheet']	0.0915001233665
+['sam picture emporium charge', '1.50 dollar']	['2 company']	0.0915001233665
+['sam picture emporium charge', '1.50 dollar']	['same amount']	0.0915001233665
+['dollar', '1.50 dollar']	['2 different picture package']	0.193299723861
+['dollar', '1.50 dollar']	['john photo world']	0.193299723861
+['dollar', '1.50 dollar']	['2.75 dollar']	0.732805939382
+['dollar', '1.50 dollar']	['sheet']	0.275335569328
+['dollar', '1.50 dollar']	['125 dollar']	0.690954327877
+['dollar', '1.50 dollar']	['sam picture emporium charge']	0.193299723861
+['dollar', '1.50 dollar']	['140 dollar']	0.690954327877
+['dollar', '1.50 dollar']	['picture sheet']	0.11034390648
+['dollar', '1.50 dollar']	['2 company']	0.0878776902641
+['dollar', '1.50 dollar']	['same amount']	0.108213661491
+['140 dollar', '1.50 dollar']	['2 different picture package']	0.315265418903
+['140 dollar', '1.50 dollar']	['john photo world']	0.297805101442
+['140 dollar', '1.50 dollar']	['2.75 dollar']	0.637144068101
+['140 dollar', '1.50 dollar']	['sheet']	0.374062030126
+['140 dollar', '1.50 dollar']	['125 dollar']	0.637144068101
+['140 dollar', '1.50 dollar']	['sam picture emporium charge']	0.315265418903
+['140 dollar', '1.50 dollar']	['dollar']	0.707694262291
+['140 dollar', '1.50 dollar']	['picture sheet']	0.139258682248
+['140 dollar', '1.50 dollar']	['2 company']	0.139258682248
+['140 dollar', '1.50 dollar']	['same amount']	0.139258682248
+['picture sheet', '1.50 dollar']	['2 different picture package']	0.0941266761548
+['picture sheet', '1.50 dollar']	['john photo world']	0.096515242987
+['picture sheet', '1.50 dollar']	['2.75 dollar']	0.584269096576
+['picture sheet', '1.50 dollar']	['sheet']	0.690967085855
+['picture sheet', '1.50 dollar']	['125 dollar']	0.584269096576
+['picture sheet', '1.50 dollar']	['sam picture emporium charge']	0.0908034291173
+['picture sheet', '1.50 dollar']	['dollar']	0.34291890153
+['picture sheet', '1.50 dollar']	['140 dollar']	0.584269096576
+['picture sheet', '1.50 dollar']	['2 company']	0.0901100077042
+['picture sheet', '1.50 dollar']	['same amount']	0.0901100077042
+['2 company', '1.50 dollar']	['2 different picture package']	0.489345190614
+['2 company', '1.50 dollar']	['john photo world']	0.0908034291173
+['2 company', '1.50 dollar']	['2.75 dollar']	0.584269096576
+['2 company', '1.50 dollar']	['sheet']	0.0741073489195
+['2 company', '1.50 dollar']	['125 dollar']	0.584269096576
+['2 company', '1.50 dollar']	['sam picture emporium charge']	0.0908034291173
+['2 company', '1.50 dollar']	['dollar']	0.34291890153
+['2 company', '1.50 dollar']	['140 dollar']	0.584269096576
+['2 company', '1.50 dollar']	['picture sheet']	0.0827346205535
+['2 company', '1.50 dollar']	['same amount']	0.0827346205535
+['same amount', '1.50 dollar']	['2 different picture package']	0.0908034291173
+['same amount', '1.50 dollar']	['john photo world']	0.096515242987
+['same amount', '1.50 dollar']	['2.75 dollar']	0.584269096576
+['same amount', '1.50 dollar']	['sheet']	0.0774561735493
+['same amount', '1.50 dollar']	['125 dollar']	0.584269096576
+['same amount', '1.50 dollar']	['sam picture emporium charge']	0.0908034291173
+['same amount', '1.50 dollar']	['dollar']	0.347558844001
+['same amount', '1.50 dollar']	['140 dollar']	0.584269096576
+['same amount', '1.50 dollar']	['picture sheet']	0.0827346205535
+['same amount', '1.50 dollar']	['2 company']	0.0827346205535
+['2 different picture package', '140 dollar']	['john photo world']	0.102396614129
+['2 different picture package', '140 dollar']	['2.75 dollar']	0.630956863273
+['2 different picture package', '140 dollar']	['sheet']	0.110622711042
+['2 different picture package', '140 dollar']	['125 dollar']	0.630956863273
+['2 different picture package', '140 dollar']	['sam picture emporium charge']	0.104202853866
+['2 different picture package', '140 dollar']	['dollar']	0.272389279633
+['2 different picture package', '140 dollar']	['1.50 dollar']	0.630956863273
+['2 different picture package', '140 dollar']	['picture sheet']	0.0915001233665
+['2 different picture package', '140 dollar']	['2 company']	0.53638572704
+['2 different picture package', '140 dollar']	['same amount']	0.0915001233665
+['john photo world', '140 dollar']	['2 different picture package']	0.156579181386
+['john photo world', '140 dollar']	['2.75 dollar']	0.653642048458
+['john photo world', '140 dollar']	['sheet']	0.16381330446
+['john photo world', '140 dollar']	['125 dollar']	0.653642048458
+['john photo world', '140 dollar']	['sam picture emporium charge']	0.156579181386
+['john photo world', '140 dollar']	['dollar']	0.30942631667
+['john photo world', '140 dollar']	['1.50 dollar']	0.653642048458
+['john photo world', '140 dollar']	['picture sheet']	0.152884447848
+['john photo world', '140 dollar']	['2 company']	0.152238479479
+['john photo world', '140 dollar']	['same amount']	0.152884447848
+['2.75 dollar', '140 dollar']	['2 different picture package']	0.315265418903
+['2.75 dollar', '140 dollar']	['john photo world']	0.297805101442
+['2.75 dollar', '140 dollar']	['sheet']	0.374062030126
+['2.75 dollar', '140 dollar']	['125 dollar']	0.637144068101
+['2.75 dollar', '140 dollar']	['sam picture emporium charge']	0.315265418903
+['2.75 dollar', '140 dollar']	['dollar']	0.707694262291
+['2.75 dollar', '140 dollar']	['1.50 dollar']	0.637144068101
+['2.75 dollar', '140 dollar']	['picture sheet']	0.139258682248
+['2.75 dollar', '140 dollar']	['2 company']	0.139258682248
+['2.75 dollar', '140 dollar']	['same amount']	0.139258682248
+['sheet', '140 dollar']	['2 different picture package']	0.133567705115
+['sheet', '140 dollar']	['john photo world']	0.0807707659053
+['sheet', '140 dollar']	['2.75 dollar']	0.482679469303
+['sheet', '140 dollar']	['125 dollar']	0.482679469303
+['sheet', '140 dollar']	['sam picture emporium charge']	0.0841365058564
+['sheet', '140 dollar']	['dollar']	0.502437056637
+['sheet', '140 dollar']	['1.50 dollar']	0.482679469303
+['sheet', '140 dollar']	['picture sheet']	0.659403281276
+['sheet', '140 dollar']	['2 company']	0.0703393045902
+['sheet', '140 dollar']	['same amount']	0.0737139440912
+['125 dollar', '140 dollar']	['2 different picture package']	0.315265418903
+['125 dollar', '140 dollar']	['john photo world']	0.297805101442
+['125 dollar', '140 dollar']	['2.75 dollar']	0.637144068101
+['125 dollar', '140 dollar']	['sheet']	0.374062030126
+['125 dollar', '140 dollar']	['sam picture emporium charge']	0.315265418903
+['125 dollar', '140 dollar']	['dollar']	0.704916484513
+['125 dollar', '140 dollar']	['1.50 dollar']	0.637144068101
+['125 dollar', '140 dollar']	['picture sheet']	0.139258682248
+['125 dollar', '140 dollar']	['2 company']	0.139258682248
+['125 dollar', '140 dollar']	['same amount']	0.139258682248
+['sam picture emporium charge', '140 dollar']	['2 different picture package']	0.104202853866
+['sam picture emporium charge', '140 dollar']	['john photo world']	0.102396614129
+['sam picture emporium charge', '140 dollar']	['2.75 dollar']	0.630956863273
+['sam picture emporium charge', '140 dollar']	['sheet']	0.0857950278587
+['sam picture emporium charge', '140 dollar']	['125 dollar']	0.630956863273
+['sam picture emporium charge', '140 dollar']	['dollar']	0.272389279633
+['sam picture emporium charge', '140 dollar']	['1.50 dollar']	0.630956863273
+['sam picture emporium charge', '140 dollar']	['picture sheet']	0.0915001233665
+['sam picture emporium charge', '140 dollar']	['2 company']	0.0915001233665
+['sam picture emporium charge', '140 dollar']	['same amount']	0.0915001233665
+['dollar', '140 dollar']	['2 different picture package']	0.193299723861
+['dollar', '140 dollar']	['john photo world']	0.193299723861
+['dollar', '140 dollar']	['2.75 dollar']	0.732805939382
+['dollar', '140 dollar']	['sheet']	0.275335569328
+['dollar', '140 dollar']	['125 dollar']	0.690954327877
+['dollar', '140 dollar']	['sam picture emporium charge']	0.193299723861
+['dollar', '140 dollar']	['1.50 dollar']	0.732805939382
+['dollar', '140 dollar']	['picture sheet']	0.11034390648
+['dollar', '140 dollar']	['2 company']	0.0878776902641
+['dollar', '140 dollar']	['same amount']	0.108213661491
+['1.50 dollar', '140 dollar']	['2 different picture package']	0.315265418903
+['1.50 dollar', '140 dollar']	['john photo world']	0.297805101442
+['1.50 dollar', '140 dollar']	['2.75 dollar']	0.637144068101
+['1.50 dollar', '140 dollar']	['sheet']	0.374062030126
+['1.50 dollar', '140 dollar']	['125 dollar']	0.637144068101
+['1.50 dollar', '140 dollar']	['sam picture emporium charge']	0.315265418903
+['1.50 dollar', '140 dollar']	['dollar']	0.707694262291
+['1.50 dollar', '140 dollar']	['picture sheet']	0.139258682248
+['1.50 dollar', '140 dollar']	['2 company']	0.139258682248
+['1.50 dollar', '140 dollar']	['same amount']	0.139258682248
+['picture sheet', '140 dollar']	['2 different picture package']	0.0941266761548
+['picture sheet', '140 dollar']	['john photo world']	0.096515242987
+['picture sheet', '140 dollar']	['2.75 dollar']	0.584269096576
+['picture sheet', '140 dollar']	['sheet']	0.690967085855
+['picture sheet', '140 dollar']	['125 dollar']	0.584269096576
+['picture sheet', '140 dollar']	['sam picture emporium charge']	0.0908034291173
+['picture sheet', '140 dollar']	['dollar']	0.24945929496
+['picture sheet', '140 dollar']	['1.50 dollar']	0.584269096576
+['picture sheet', '140 dollar']	['2 company']	0.0901100077042
+['picture sheet', '140 dollar']	['same amount']	0.0901100077042
+['2 company', '140 dollar']	['2 different picture package']	0.489345190614
+['2 company', '140 dollar']	['john photo world']	0.0908034291173
+['2 company', '140 dollar']	['2.75 dollar']	0.584269096576
+['2 company', '140 dollar']	['sheet']	0.0741073489195
+['2 company', '140 dollar']	['125 dollar']	0.584269096576
+['2 company', '140 dollar']	['sam picture emporium charge']	0.0908034291173
+['2 company', '140 dollar']	['dollar']	0.24945929496
+['2 company', '140 dollar']	['1.50 dollar']	0.584269096576
+['2 company', '140 dollar']	['picture sheet']	0.0827346205535
+['2 company', '140 dollar']	['same amount']	0.0827346205535
+['same amount', '140 dollar']	['2 different picture package']	0.0908034291173
+['same amount', '140 dollar']	['john photo world']	0.096515242987
+['same amount', '140 dollar']	['2.75 dollar']	0.584269096576
+['same amount', '140 dollar']	['sheet']	0.0774561735493
+['same amount', '140 dollar']	['125 dollar']	0.584269096576
+['same amount', '140 dollar']	['sam picture emporium charge']	0.0908034291173
+['same amount', '140 dollar']	['dollar']	0.280614388946
+['same amount', '140 dollar']	['1.50 dollar']	0.584269096576
+['same amount', '140 dollar']	['picture sheet']	0.0827346205535
+['same amount', '140 dollar']	['2 company']	0.0827346205535
+['2 different picture package', 'picture sheet']	['john photo world']	0.108108427999
+['2 different picture package', 'picture sheet']	['2.75 dollar']	0.0988755105172
+['2 different picture package', 'picture sheet']	['sheet']	0.739407915113
+['2 different picture package', 'picture sheet']	['125 dollar']	0.0988755105172
+['2 different picture package', 'picture sheet']	['sam picture emporium charge']	0.102396614129
+['2 different picture package', 'picture sheet']	['dollar']	0.0118960167779
+['2 different picture package', 'picture sheet']	['1.50 dollar']	0.0988755105172
+['2 different picture package', 'picture sheet']	['140 dollar']	0.0988755105172
+['2 different picture package', 'picture sheet']	['2 company']	0.53638572704
+['2 different picture package', 'picture sheet']	['same amount']	0.0915001233665
+['john photo world', 'picture sheet']	['2 different picture package']	0.156579181386
+['john photo world', 'picture sheet']	['2.75 dollar']	0.15961386663
+['john photo world', 'picture sheet']	['sheet']	0.806864595406
+['john photo world', 'picture sheet']	['125 dollar']	0.15961386663
+['john photo world', 'picture sheet']	['sam picture emporium charge']	0.162290995256
+['john photo world', 'picture sheet']	['dollar']	0.00636410188432
+['john photo world', 'picture sheet']	['1.50 dollar']	0.15961386663
+['john photo world', 'picture sheet']	['140 dollar']	0.15961386663
+['john photo world', 'picture sheet']	['2 company']	0.152238479479
+['john photo world', 'picture sheet']	['same amount']	0.152884447848
+['2.75 dollar', 'picture sheet']	['2 different picture package']	0.0941266761548
+['2.75 dollar', 'picture sheet']	['john photo world']	0.096515242987
+['2.75 dollar', 'picture sheet']	['sheet']	0.690967085855
+['2.75 dollar', 'picture sheet']	['125 dollar']	0.584269096576
+['2.75 dollar', 'picture sheet']	['sam picture emporium charge']	0.0908034291173
+['2.75 dollar', 'picture sheet']	['dollar']	0.34291890153
+['2.75 dollar', 'picture sheet']	['1.50 dollar']	0.584269096576
+['2.75 dollar', 'picture sheet']	['140 dollar']	0.584269096576
+['2.75 dollar', 'picture sheet']	['2 company']	0.0901100077042
+['2.75 dollar', 'picture sheet']	['same amount']	0.0901100077042
+['sheet', 'picture sheet']	['2 different picture package']	0.42667450807
+['sheet', 'picture sheet']	['john photo world']	0.387131024997
+['sheet', 'picture sheet']	['2.75 dollar']	0.22500681101
+['sheet', 'picture sheet']	['125 dollar']	0.22500681101
+['sheet', 'picture sheet']	['sam picture emporium charge']	0.364434162707
+['sheet', 'picture sheet']	['dollar']	0.200063093085
+['sheet', 'picture sheet']	['1.50 dollar']	0.22500681101
+['sheet', 'picture sheet']	['140 dollar']	0.22500681101
+['sheet', 'picture sheet']	['2 company']	0.21925775957
+['sheet', 'picture sheet']	['same amount']	0.139259023173
+['125 dollar', 'picture sheet']	['2 different picture package']	0.0941266761548
+['125 dollar', 'picture sheet']	['john photo world']	0.096515242987
+['125 dollar', 'picture sheet']	['2.75 dollar']	0.584269096576
+['125 dollar', 'picture sheet']	['sheet']	0.690967085855
+['125 dollar', 'picture sheet']	['sam picture emporium charge']	0.0908034291173
+['125 dollar', 'picture sheet']	['dollar']	0.24945929496
+['125 dollar', 'picture sheet']	['1.50 dollar']	0.584269096576
+['125 dollar', 'picture sheet']	['140 dollar']	0.584269096576
+['125 dollar', 'picture sheet']	['2 company']	0.0901100077042
+['125 dollar', 'picture sheet']	['same amount']	0.0901100077042
+['sam picture emporium charge', 'picture sheet']	['2 different picture package']	0.104202853866
+['sam picture emporium charge', 'picture sheet']	['john photo world']	0.108108427999
+['sam picture emporium charge', 'picture sheet']	['2.75 dollar']	0.0988755105172
+['sam picture emporium charge', 'picture sheet']	['sheet']	0.688780217516
+['sam picture emporium charge', 'picture sheet']	['125 dollar']	0.0988755105172
+['sam picture emporium charge', 'picture sheet']	['dollar']	0.0118960167779
+['sam picture emporium charge', 'picture sheet']	['1.50 dollar']	0.0988755105172
+['sam picture emporium charge', 'picture sheet']	['140 dollar']	0.0988755105172
+['sam picture emporium charge', 'picture sheet']	['2 company']	0.0915001233665
+['sam picture emporium charge', 'picture sheet']	['same amount']	0.0915001233665
+['dollar', 'picture sheet']	['2 different picture package']	0.024222844141
+['dollar', 'picture sheet']	['john photo world']	0.0208571041899
+['dollar', 'picture sheet']	['2.75 dollar']	0.380321401688
+['dollar', 'picture sheet']	['sheet']	0.382656410836
+['dollar', 'picture sheet']	['125 dollar']	0.299367977552
+['dollar', 'picture sheet']	['sam picture emporium charge']	0.024222844141
+['dollar', 'picture sheet']	['1.50 dollar']	0.380321401688
+['dollar', 'picture sheet']	['140 dollar']	0.299367977552
+['dollar', 'picture sheet']	['2 company']	0.015360451052
+['dollar', 'picture sheet']	['same amount']	0.0221369896995
+['1.50 dollar', 'picture sheet']	['2 different picture package']	0.0941266761548
+['1.50 dollar', 'picture sheet']	['john photo world']	0.096515242987
+['1.50 dollar', 'picture sheet']	['2.75 dollar']	0.584269096576
+['1.50 dollar', 'picture sheet']	['sheet']	0.690967085855
+['1.50 dollar', 'picture sheet']	['125 dollar']	0.584269096576
+['1.50 dollar', 'picture sheet']	['sam picture emporium charge']	0.0908034291173
+['1.50 dollar', 'picture sheet']	['dollar']	0.34291890153
+['1.50 dollar', 'picture sheet']	['140 dollar']	0.584269096576
+['1.50 dollar', 'picture sheet']	['2 company']	0.0901100077042
+['1.50 dollar', 'picture sheet']	['same amount']	0.0901100077042
+['140 dollar', 'picture sheet']	['2 different picture package']	0.0941266761548
+['140 dollar', 'picture sheet']	['john photo world']	0.096515242987
+['140 dollar', 'picture sheet']	['2.75 dollar']	0.584269096576
+['140 dollar', 'picture sheet']	['sheet']	0.690967085855
+['140 dollar', 'picture sheet']	['125 dollar']	0.584269096576
+['140 dollar', 'picture sheet']	['sam picture emporium charge']	0.0908034291173
+['140 dollar', 'picture sheet']	['dollar']	0.24945929496
+['140 dollar', 'picture sheet']	['1.50 dollar']	0.584269096576
+['140 dollar', 'picture sheet']	['2 company']	0.0901100077042
+['140 dollar', 'picture sheet']	['same amount']	0.0901100077042
+['2 company', 'picture sheet']	['2 different picture package']	0.489345190614
+['2 company', 'picture sheet']	['john photo world']	0.096515242987
+['2 company', 'picture sheet']	['2.75 dollar']	0.0901100077042
+['2 company', 'picture sheet']	['sheet']	0.698332436818
+['2 company', 'picture sheet']	['125 dollar']	0.0901100077042
+['2 company', 'picture sheet']	['sam picture emporium charge']	0.0908034291173
+['2 company', 'picture sheet']	['dollar']	0.00424649792755
+['2 company', 'picture sheet']	['1.50 dollar']	0.0901100077042
+['2 company', 'picture sheet']	['140 dollar']	0.0901100077042
+['2 company', 'picture sheet']	['same amount']	0.0827346205535
+['same amount', 'picture sheet']	['2 different picture package']	0.0908034291173
+['same amount', 'picture sheet']	['john photo world']	0.102910980826
+['same amount', 'picture sheet']	['2.75 dollar']	0.0901100077042
+['same amount', 'picture sheet']	['sheet']	0.685469335656
+['same amount', 'picture sheet']	['125 dollar']	0.0901100077042
+['same amount', 'picture sheet']	['sam picture emporium charge']	0.0908034291173
+['same amount', 'picture sheet']	['dollar']	0.0077840051964
+['same amount', 'picture sheet']	['1.50 dollar']	0.0901100077042
+['same amount', 'picture sheet']	['140 dollar']	0.0901100077042
+['same amount', 'picture sheet']	['2 company']	0.0827346205535
+['2 different picture package', '2 company']	['john photo world']	0.102396614129
+['2 different picture package', '2 company']	['2.75 dollar']	0.0988755105172
+['2 different picture package', '2 company']	['sheet']	0.110622711042
+['2 different picture package', '2 company']	['125 dollar']	0.0988755105172
+['2 different picture package', '2 company']	['sam picture emporium charge']	0.102396614129
+['2 different picture package', '2 company']	['dollar']	0.0118960167779
+['2 different picture package', '2 company']	['1.50 dollar']	0.0988755105172
+['2 different picture package', '2 company']	['140 dollar']	0.0988755105172
+['2 different picture package', '2 company']	['picture sheet']	0.0915001233665
+['2 different picture package', '2 company']	['same amount']	0.0915001233665
+['john photo world', '2 company']	['2 different picture package']	0.610419843509
+['john photo world', '2 company']	['2.75 dollar']	0.15961386663
+['john photo world', '2 company']	['sheet']	0.16381330446
+['john photo world', '2 company']	['125 dollar']	0.15961386663
+['john photo world', '2 company']	['sam picture emporium charge']	0.156579181386
+['john photo world', '2 company']	['dollar']	0.00636410188432
+['john photo world', '2 company']	['1.50 dollar']	0.15961386663
+['john photo world', '2 company']	['140 dollar']	0.15961386663
+['john photo world', '2 company']	['picture sheet']	0.149535623218
+['john photo world', '2 company']	['same amount']	0.152884447848
+['2.75 dollar', '2 company']	['2 different picture package']	0.489345190614
+['2.75 dollar', '2 company']	['john photo world']	0.0908034291173
+['2.75 dollar', '2 company']	['sheet']	0.0741073489195
+['2.75 dollar', '2 company']	['125 dollar']	0.584269096576
+['2.75 dollar', '2 company']	['sam picture emporium charge']	0.0908034291173
+['2.75 dollar', '2 company']	['dollar']	0.34291890153
+['2.75 dollar', '2 company']	['1.50 dollar']	0.584269096576
+['2.75 dollar', '2 company']	['140 dollar']	0.584269096576
+['2.75 dollar', '2 company']	['picture sheet']	0.0827346205535
+['2.75 dollar', '2 company']	['same amount']	0.0827346205535
+['sheet', '2 company']	['2 different picture package']	0.522601732533
+['sheet', '2 company']	['john photo world']	0.080802298149
+['sheet', '2 company']	['2.75 dollar']	0.0696933362217
+['sheet', '2 company']	['125 dollar']	0.0696933362217
+['sheet', '2 company']	['sam picture emporium charge']	0.0841680381001
+['sheet', '2 company']	['dollar']	0.097359751261
+['sheet', '2 company']	['1.50 dollar']	0.0696933362217
+['sheet', '2 company']	['140 dollar']	0.0696933362217
+['sheet', '2 company']	['picture sheet']	0.685963783853
+['sheet', '2 company']	['same amount']	0.0696933362217
+['125 dollar', '2 company']	['2 different picture package']	0.489345190614
+['125 dollar', '2 company']	['john photo world']	0.0908034291173
+['125 dollar', '2 company']	['2.75 dollar']	0.584269096576
+['125 dollar', '2 company']	['sheet']	0.0741073489195
+['125 dollar', '2 company']	['sam picture emporium charge']	0.0908034291173
+['125 dollar', '2 company']	['dollar']	0.24945929496
+['125 dollar', '2 company']	['1.50 dollar']	0.584269096576
+['125 dollar', '2 company']	['140 dollar']	0.584269096576
+['125 dollar', '2 company']	['picture sheet']	0.0827346205535
+['125 dollar', '2 company']	['same amount']	0.0827346205535
+['sam picture emporium charge', '2 company']	['2 different picture package']	0.55253931373
+['sam picture emporium charge', '2 company']	['john photo world']	0.102396614129
+['sam picture emporium charge', '2 company']	['2.75 dollar']	0.0988755105172
+['sam picture emporium charge', '2 company']	['sheet']	0.0857950278587
+['sam picture emporium charge', '2 company']	['125 dollar']	0.0988755105172
+['sam picture emporium charge', '2 company']	['dollar']	0.0118960167779
+['sam picture emporium charge', '2 company']	['1.50 dollar']	0.0988755105172
+['sam picture emporium charge', '2 company']	['140 dollar']	0.0988755105172
+['sam picture emporium charge', '2 company']	['picture sheet']	0.0915001233665
+['sam picture emporium charge', '2 company']	['same amount']	0.0915001233665
+['dollar', '2 company']	['2 different picture package']	0.245871751136
+['dollar', '2 company']	['john photo world']	0.0208571041899
+['dollar', '2 company']	['2.75 dollar']	0.380321401688
+['dollar', '2 company']	['sheet']	0.104640593734
+['dollar', '2 company']	['125 dollar']	0.299367977552
+['dollar', '2 company']	['sam picture emporium charge']	0.024222844141
+['dollar', '2 company']	['1.50 dollar']	0.380321401688
+['dollar', '2 company']	['140 dollar']	0.299367977552
+['dollar', '2 company']	['picture sheet']	0.015360451052
+['dollar', '2 company']	['same amount']	0.0221369896995
+['1.50 dollar', '2 company']	['2 different picture package']	0.489345190614
+['1.50 dollar', '2 company']	['john photo world']	0.0908034291173
+['1.50 dollar', '2 company']	['2.75 dollar']	0.584269096576
+['1.50 dollar', '2 company']	['sheet']	0.0741073489195
+['1.50 dollar', '2 company']	['125 dollar']	0.584269096576
+['1.50 dollar', '2 company']	['sam picture emporium charge']	0.0908034291173
+['1.50 dollar', '2 company']	['dollar']	0.34291890153
+['1.50 dollar', '2 company']	['140 dollar']	0.584269096576
+['1.50 dollar', '2 company']	['picture sheet']	0.0827346205535
+['1.50 dollar', '2 company']	['same amount']	0.0827346205535
+['140 dollar', '2 company']	['2 different picture package']	0.489345190614
+['140 dollar', '2 company']	['john photo world']	0.0908034291173
+['140 dollar', '2 company']	['2.75 dollar']	0.584269096576
+['140 dollar', '2 company']	['sheet']	0.0741073489195
+['140 dollar', '2 company']	['125 dollar']	0.584269096576
+['140 dollar', '2 company']	['sam picture emporium charge']	0.0908034291173
+['140 dollar', '2 company']	['dollar']	0.24945929496
+['140 dollar', '2 company']	['1.50 dollar']	0.584269096576
+['140 dollar', '2 company']	['picture sheet']	0.0827346205535
+['140 dollar', '2 company']	['same amount']	0.0827346205535
+['picture sheet', '2 company']	['2 different picture package']	0.489345190614
+['picture sheet', '2 company']	['john photo world']	0.096515242987
+['picture sheet', '2 company']	['2.75 dollar']	0.0901100077042
+['picture sheet', '2 company']	['sheet']	0.698332436818
+['picture sheet', '2 company']	['125 dollar']	0.0901100077042
+['picture sheet', '2 company']	['sam picture emporium charge']	0.0908034291173
+['picture sheet', '2 company']	['dollar']	0.00424649792755
+['picture sheet', '2 company']	['1.50 dollar']	0.0901100077042
+['picture sheet', '2 company']	['140 dollar']	0.0901100077042
+['picture sheet', '2 company']	['same amount']	0.0827346205535
+['same amount', '2 company']	['2 different picture package']	0.489345190614
+['same amount', '2 company']	['john photo world']	0.096515242987
+['same amount', '2 company']	['2.75 dollar']	0.0901100077042
+['same amount', '2 company']	['sheet']	0.0774561735493
+['same amount', '2 company']	['125 dollar']	0.0901100077042
+['same amount', '2 company']	['sam picture emporium charge']	0.0908034291173
+['same amount', '2 company']	['dollar']	0.017587926765
+['same amount', '2 company']	['1.50 dollar']	0.0901100077042
+['same amount', '2 company']	['140 dollar']	0.0901100077042
+['same amount', '2 company']	['picture sheet']	0.0827346205535
+['2 different picture package', 'same amount']	['john photo world']	0.108108427999
+['2 different picture package', 'same amount']	['2.75 dollar']	0.0988755105172
+['2 different picture package', 'same amount']	['sheet']	0.10940366544
+['2 different picture package', 'same amount']	['125 dollar']	0.0988755105172
+['2 different picture package', 'same amount']	['sam picture emporium charge']	0.102396614129
+['2 different picture package', 'same amount']	['dollar']	0.0104996826156
+['2 different picture package', 'same amount']	['1.50 dollar']	0.0988755105172
+['2 different picture package', 'same amount']	['140 dollar']	0.0988755105172
+['2 different picture package', 'same amount']	['picture sheet']	0.0915001233665
+['2 different picture package', 'same amount']	['2 company']	0.53638572704
+['john photo world', 'same amount']	['2 different picture package']	0.156579181386
+['john photo world', 'same amount']	['2.75 dollar']	0.15961386663
+['john photo world', 'same amount']	['sheet']	0.170142021553
+['john photo world', 'same amount']	['125 dollar']	0.15961386663
+['john photo world', 'same amount']	['sam picture emporium charge']	0.156579181386
+['john photo world', 'same amount']	['dollar']	0.00766280318302
+['john photo world', 'same amount']	['1.50 dollar']	0.15961386663
+['john photo world', 'same amount']	['140 dollar']	0.15961386663
+['john photo world', 'same amount']	['picture sheet']	0.149535623218
+['john photo world', 'same amount']	['2 company']	0.152238479479
+['2.75 dollar', 'same amount']	['2 different picture package']	0.0908034291173
+['2.75 dollar', 'same amount']	['john photo world']	0.096515242987
+['2.75 dollar', 'same amount']	['sheet']	0.0774561735493
+['2.75 dollar', 'same amount']	['125 dollar']	0.584269096576
+['2.75 dollar', 'same amount']	['sam picture emporium charge']	0.0908034291173
+['2.75 dollar', 'same amount']	['dollar']	0.347558844001
+['2.75 dollar', 'same amount']	['1.50 dollar']	0.584269096576
+['2.75 dollar', 'same amount']	['140 dollar']	0.584269096576
+['2.75 dollar', 'same amount']	['picture sheet']	0.0827346205535
+['2.75 dollar', 'same amount']	['2 company']	0.0827346205535
+['sheet', 'same amount']	['2 different picture package']	0.133567705115
+['sheet', 'same amount']	['john photo world']	0.0865141120187
+['sheet', 'same amount']	['2.75 dollar']	0.0696933362217
+['sheet', 'same amount']	['125 dollar']	0.0696933362217
+['sheet', 'same amount']	['sam picture emporium charge']	0.0841680381001
+['sheet', 'same amount']	['dollar']	0.161753690655
+['sheet', 'same amount']	['1.50 dollar']	0.0696933362217
+['sheet', 'same amount']	['140 dollar']	0.0696933362217
+['sheet', 'same amount']	['picture sheet']	0.70656606249
+['sheet', 'same amount']	['2 company']	0.0703393045902
+['125 dollar', 'same amount']	['2 different picture package']	0.0908034291173
+['125 dollar', 'same amount']	['john photo world']	0.096515242987
+['125 dollar', 'same amount']	['2.75 dollar']	0.584269096576
+['125 dollar', 'same amount']	['sheet']	0.0774561735493
+['125 dollar', 'same amount']	['sam picture emporium charge']	0.0908034291173
+['125 dollar', 'same amount']	['dollar']	0.280614388946
+['125 dollar', 'same amount']	['1.50 dollar']	0.584269096576
+['125 dollar', 'same amount']	['140 dollar']	0.584269096576
+['125 dollar', 'same amount']	['picture sheet']	0.0827346205535
+['125 dollar', 'same amount']	['2 company']	0.0827346205535
+['sam picture emporium charge', 'same amount']	['2 different picture package']	0.102396614129
+['sam picture emporium charge', 'same amount']	['john photo world']	0.108108427999
+['sam picture emporium charge', 'same amount']	['2.75 dollar']	0.0988755105172
+['sam picture emporium charge', 'same amount']	['sheet']	0.0914560578477
+['sam picture emporium charge', 'same amount']	['125 dollar']	0.0988755105172
+['sam picture emporium charge', 'same amount']	['dollar']	0.0104996826156
+['sam picture emporium charge', 'same amount']	['1.50 dollar']	0.0988755105172
+['sam picture emporium charge', 'same amount']	['140 dollar']	0.0988755105172
+['sam picture emporium charge', 'same amount']	['picture sheet']	0.0915001233665
+['sam picture emporium charge', 'same amount']	['2 company']	0.0915001233665
+['dollar', 'same amount']	['2 different picture package']	0.024222844141
+['dollar', 'same amount']	['john photo world']	0.0208571041899
+['dollar', 'same amount']	['2.75 dollar']	0.380321401688
+['dollar', 'same amount']	['sheet']	0.0786197716882
+['dollar', 'same amount']	['125 dollar']	0.299367977552
+['dollar', 'same amount']	['sam picture emporium charge']	0.024222844141
+['dollar', 'same amount']	['1.50 dollar']	0.380321401688
+['dollar', 'same amount']	['140 dollar']	0.299367977552
+['dollar', 'same amount']	['picture sheet']	0.015360451052
+['dollar', 'same amount']	['2 company']	0.015360451052
+['1.50 dollar', 'same amount']	['2 different picture package']	0.0908034291173
+['1.50 dollar', 'same amount']	['john photo world']	0.096515242987
+['1.50 dollar', 'same amount']	['2.75 dollar']	0.584269096576
+['1.50 dollar', 'same amount']	['sheet']	0.0774561735493
+['1.50 dollar', 'same amount']	['125 dollar']	0.584269096576
+['1.50 dollar', 'same amount']	['sam picture emporium charge']	0.0908034291173
+['1.50 dollar', 'same amount']	['dollar']	0.347558844001
+['1.50 dollar', 'same amount']	['140 dollar']	0.584269096576
+['1.50 dollar', 'same amount']	['picture sheet']	0.0827346205535
+['1.50 dollar', 'same amount']	['2 company']	0.0827346205535
+['140 dollar', 'same amount']	['2 different picture package']	0.0908034291173
+['140 dollar', 'same amount']	['john photo world']	0.096515242987
+['140 dollar', 'same amount']	['2.75 dollar']	0.584269096576
+['140 dollar', 'same amount']	['sheet']	0.0774561735493
+['140 dollar', 'same amount']	['125 dollar']	0.584269096576
+['140 dollar', 'same amount']	['sam picture emporium charge']	0.0908034291173
+['140 dollar', 'same amount']	['dollar']	0.280614388946
+['140 dollar', 'same amount']	['1.50 dollar']	0.584269096576
+['140 dollar', 'same amount']	['picture sheet']	0.0827346205535
+['140 dollar', 'same amount']	['2 company']	0.0827346205535
+['picture sheet', 'same amount']	['2 different picture package']	0.0908034291173
+['picture sheet', 'same amount']	['john photo world']	0.102910980826
+['picture sheet', 'same amount']	['2.75 dollar']	0.0901100077042
+['picture sheet', 'same amount']	['sheet']	0.685469335656
+['picture sheet', 'same amount']	['125 dollar']	0.0901100077042
+['picture sheet', 'same amount']	['sam picture emporium charge']	0.0908034291173
+['picture sheet', 'same amount']	['dollar']	0.0077840051964
+['picture sheet', 'same amount']	['1.50 dollar']	0.0901100077042
+['picture sheet', 'same amount']	['140 dollar']	0.0901100077042
+['picture sheet', 'same amount']	['2 company']	0.0827346205535
+['2 company', 'same amount']	['2 different picture package']	0.489345190614
+['2 company', 'same amount']	['john photo world']	0.096515242987
+['2 company', 'same amount']	['2.75 dollar']	0.0901100077042
+['2 company', 'same amount']	['sheet']	0.0774561735493
+['2 company', 'same amount']	['125 dollar']	0.0901100077042
+['2 company', 'same amount']	['sam picture emporium charge']	0.0908034291173
+['2 company', 'same amount']	['dollar']	0.017587926765
+['2 company', 'same amount']	['1.50 dollar']	0.0901100077042
+['2 company', 'same amount']	['140 dollar']	0.0901100077042
+['2 company', 'same amount']	['picture sheet']	0.0827346205535

@@ -1,0 +1,58 @@
+(ROOT
+  (S
+    (NP (CD Two) (NNS investments))
+    (VP
+      (VBP earn)
+      (NP
+        (NP (DT an) (JJ annual) (NN income))
+        (PP (IN of) (NP (QP (CD 575) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (CD One) (NN investment))
+      (VP
+        (VBZ earns)
+        (NP
+          (NP
+            (DT an)
+            (JJ annual)
+            (JJ simple)
+            (NN interest)
+            (NN rate))
+          (PP (IN of) (NP (CD 8.5) (NN %))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ other) (NN investment))
+      (VP
+        (VBZ earns)
+        (NP
+          (NP
+            (DT an)
+            (JJ annual)
+            (JJ simple)
+            (NN interest)
+            (NN rate))
+          (PP (IN of) (NP (CD 6.4) (NN %))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NP (DT The) (NN amount)) (VP (VBN invested)))
+    (VP (VBZ is) (NP (CD 8000) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ much)) (NN money))
+    (SQ
+      (VBZ is)
+      (VP
+        (VBN invested)
+        (PP
+          (IN in)
+          (NP
+            (NP (DT the) (JJ first) (NN investment))
+            (CC and)
+            (NP (JJ second) (NN investment))))
+        (ADVP (RB respectively))))
+    (. ?)))

@@ -1,0 +1,16 @@
+1
+[['-', '"20', ' 000"', 'seat', '-', '-', 'dollar'], ['main seat ticket', 'x1', 'main seat', 'dollar', '55', '-', '-'], ['back seat ticket', 'x2', 'back seat', 'dollar', '45', '-', '-']]
+-1
+[['-', '"20', ' 000"', 'seat', '-', 'x2', 'dollar'], ['main seat ticket', 'x1', 'main seat', 'dollar', '55', '-', '-'], ['back seat ticket', 'seat', 'back seat', 'dollar', '45', '-', '-']]
+-1
+[['-', '"20', ' 000"', 'back seat ticket', '-', 'x2', 'dollar'], ['main seat ticket', 'x1', 'main seat', 'dollar', '55', '-', '-'], ['back seat ticket', 'x2', ' 000"', '"20', '45', '-', '-']]
+-1
+[['-', 'back seat ticket', ' 000"', 'seat', '-', '-', 'dollar'], ['main seat ticket', 'x1', 'main seat', 'dollar', '55', '-', '-'], ['back seat ticket', 'x2', 'back seat', 'seat', '45', '-', ' 000"']]
+-1
+[['x2', 'back seat ticket', ' 000"', 'seat', '45', '-', 'dollar'], ['main seat ticket', 'x1', 'main seat', 'dollar', '55', '-', '-'], ['back seat ticket', 'x2', ' 000"', 'dollar', '45', '-', '-']]
+-1
+[['-', '"20', ' 000"', 'seat', '-', '45', 'dollar'], ['main seat ticket', 'x1', 'main seat', 'dollar', '55', '-', '-'], ['back seat ticket', ' 000"', 'seat', '"20', '45', '-', 'dollar']]
+-1
+[['-', 'x2', ' 000"', 'back seat ticket', '-', '-', 'back seat'], ['main seat ticket', 'x1', 'main seat', 'dollar', '55', '-', '-'], ['back seat ticket', 'x2', 'back seat', 'dollar', 'seat', '-', ' 000"']]
+-1
+[['x2', 'back seat ticket', 'dollar', 'seat', '-', '-', 'back seat'], ['main seat ticket', 'x1', 'main seat', 'dollar', '55', '-', '-'], ['back seat ticket', 'x2', 'back seat', 'dollar', 'seat', '-', '-']]

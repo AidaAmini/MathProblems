@@ -1,0 +1,32 @@
+(ROOT
+  (S
+    (NP (DT A) (JJ 20-foot) (NN board))
+    (VP
+      (VBZ is)
+      (VP (VBN cut) (PP (IN into) (NP (CD 2) (NNS pieces)))))
+    (. .)))
+(ROOT
+  (S
+    (ADVP (RB Twice))
+    (NP
+      (NP (DT the) (NN length))
+      (PP (IN of) (NP (DT the) (JJR shorter) (NN piece))))
+    (VP
+      (VBZ is)
+      (ADJP
+        (NP (CD 4) (NNS feet))
+        (RBR more)
+        (PP
+          (IN than)
+          (NP
+            (NP (DT the) (NN length))
+            (PP (IN of) (NP (DT the) (JJR longer) (NN piece)))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN length))
+        (PP (IN of) (NP (DT the) (JJR shorter) (NN piece)))))
+    (. .)))

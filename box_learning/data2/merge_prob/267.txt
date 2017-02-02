@@ -1,0 +1,760 @@
+['soybean meal', '18 % protein', 'cornmeal', 'protein', '9 % protein', 'soybean', 'cornmeal pound', '360-pound mixture', 'mixture', '17 % protein']
+['soybean meal']	['18 % protein']	0.0828503410239
+['soybean meal']	['cornmeal']	0.359888703581
+['soybean meal']	['protein']	0.0433752898453
+['soybean meal']	['9 % protein']	0.0828503410239
+['soybean meal']	['cornmeal pound']	0.0696933362217
+['soybean meal']	['360-pound mixture']	0.0737139440912
+['soybean meal']	['mixture']	0.260748963089
+['soybean meal']	['17 % protein']	0.0828503410239
+['18 % protein']	['cornmeal']	0.0880692059685
+['18 % protein']	['9 % protein']	0.667079544992
+['18 % protein']	['soybean']	0.0880692059685
+['18 % protein']	['cornmeal pound']	0.0915001233665
+['18 % protein']	['360-pound mixture']	0.0988755105172
+['18 % protein']	['mixture']	0.0847746021728
+['18 % protein']	['17 % protein']	0.811753586716
+['cornmeal']	['protein']	0.0634239905792
+['cornmeal']	['9 % protein']	0.080802298149
+['cornmeal']	['soybean']	0.0908262014664
+['cornmeal']	['360-pound mixture']	0.150647383891
+['cornmeal']	['mixture']	0.0815943027613
+['cornmeal']	['17 % protein']	0.080802298149
+['protein']	['soybean']	0.0847885931502
+['protein']	['cornmeal pound']	0.0481566731782
+['protein']	['360-pound mixture']	0.0453544228225
+['protein']	['mixture']	0.0826161204008
+['9 % protein']	['soybean']	0.0880692059685
+['9 % protein']	['cornmeal pound']	0.0915001233665
+['9 % protein']	['360-pound mixture']	0.0988755105172
+['9 % protein']	['mixture']	0.0847746021728
+['9 % protein']	['17 % protein']	0.667079544992
+['soybean']	['cornmeal pound']	0.0696933362217
+['soybean']	['360-pound mixture']	0.0696933362217
+['soybean']	['mixture']	0.092303190591
+['soybean']	['17 % protein']	0.080802298149
+['cornmeal pound']	['360-pound mixture']	0.0901100077042
+['cornmeal pound']	['mixture']	0.0744376594044
+['cornmeal pound']	['17 % protein']	0.0908034291173
+['360-pound mixture']	['17 % protein']	0.0941266761548
+['mixture']	['17 % protein']	0.100862937951
+['18 % protein', 'soybean meal']	['cornmeal']	0.499948076205
+['18 % protein', 'soybean meal']	['protein']	0.782404478874
+['18 % protein', 'soybean meal']	['9 % protein']	0.688749570879
+['18 % protein', 'soybean meal']	['soybean']	0.507769184287
+['18 % protein', 'soybean meal']	['cornmeal pound']	0.124856540438
+['18 % protein', 'soybean meal']	['360-pound mixture']	0.128877148308
+['18 % protein', 'soybean meal']	['mixture']	0.323601064434
+['18 % protein', 'soybean meal']	['17 % protein']	0.803949108762
+['cornmeal', 'soybean meal']	['18 % protein']	0.142880145831
+['cornmeal', 'soybean meal']	['protein']	0.566039108786
+['cornmeal', 'soybean meal']	['9 % protein']	0.142880145831
+['cornmeal', 'soybean meal']	['soybean']	0.437618437713
+['cornmeal', 'soybean meal']	['cornmeal pound']	0.427308852641
+['cornmeal', 'soybean meal']	['360-pound mixture']	0.186698956661
+['cornmeal', 'soybean meal']	['mixture']	0.363501202966
+['cornmeal', 'soybean meal']	['17 % protein']	0.142880145831
+['protein', 'soybean meal']	['18 % protein']	0.716738224174
+['protein', 'soybean meal']	['cornmeal']	0.636509486124
+['protein', 'soybean meal']	['9 % protein']	0.696882147415
+['protein', 'soybean meal']	['soybean']	0.572382367704
+['protein', 'soybean meal']	['cornmeal pound']	0.10865661159
+['protein', 'soybean meal']	['360-pound mixture']	0.108128871038
+['protein', 'soybean meal']	['mixture']	0.744024389136
+['protein', 'soybean meal']	['17 % protein']	0.716738224174
+['9 % protein', 'soybean meal']	['18 % protein']	0.688749570879
+['9 % protein', 'soybean meal']	['cornmeal']	0.499948076205
+['9 % protein', 'soybean meal']	['protein']	0.742632298192
+['9 % protein', 'soybean meal']	['soybean']	0.507769184287
+['9 % protein', 'soybean meal']	['cornmeal pound']	0.124856540438
+['9 % protein', 'soybean meal']	['360-pound mixture']	0.128877148308
+['9 % protein', 'soybean meal']	['mixture']	0.323601064434
+['9 % protein', 'soybean meal']	['17 % protein']	0.688749570879
+['soybean', 'soybean meal']	['18 % protein']	0.142880145831
+['soybean', 'soybean meal']	['cornmeal']	0.590706251673
+['soybean', 'soybean meal']	['protein']	0.555064829654
+['soybean', 'soybean meal']	['9 % protein']	0.142880145831
+['soybean', 'soybean meal']	['cornmeal pound']	0.131771183904
+['soybean', 'soybean meal']	['360-pound mixture']	0.131771183904
+['soybean', 'soybean meal']	['mixture']	0.491899696749
+['soybean', 'soybean meal']	['17 % protein']	0.142880145831
+['cornmeal pound', 'soybean meal']	['18 % protein']	0.0828503410239
+['cornmeal pound', 'soybean meal']	['cornmeal']	0.557575856289
+['cornmeal pound', 'soybean meal']	['protein']	0.0433752898453
+['cornmeal pound', 'soybean meal']	['9 % protein']	0.0828503410239
+['cornmeal pound', 'soybean meal']	['soybean']	0.530792669321
+['cornmeal pound', 'soybean meal']	['360-pound mixture']	0.0737139440912
+['cornmeal pound', 'soybean meal']	['mixture']	0.263539242117
+['cornmeal pound', 'soybean meal']	['17 % protein']	0.0828503410239
+['360-pound mixture', 'soybean meal']	['18 % protein']	0.0828503410239
+['360-pound mixture', 'soybean meal']	['cornmeal']	0.486368748313
+['360-pound mixture', 'soybean meal']	['protein']	0.0422015809251
+['360-pound mixture', 'soybean meal']	['9 % protein']	0.0828503410239
+['360-pound mixture', 'soybean meal']	['soybean']	0.530792669321
+['360-pound mixture', 'soybean meal']	['cornmeal pound']	0.0696933362217
+['360-pound mixture', 'soybean meal']	['mixture']	0.669239571247
+['360-pound mixture', 'soybean meal']	['17 % protein']	0.0828503410239
+['mixture', 'soybean meal']	['18 % protein']	0.0865141120187
+['mixture', 'soybean meal']	['cornmeal']	0.561725069457
+['mixture', 'soybean meal']	['protein']	0.542047588274
+['mixture', 'soybean meal']	['9 % protein']	0.0865141120187
+['mixture', 'soybean meal']	['soybean']	0.409665180413
+['mixture', 'soybean meal']	['cornmeal pound']	0.0696933362217
+['mixture', 'soybean meal']	['360-pound mixture']	0.701554947584
+['mixture', 'soybean meal']	['17 % protein']	0.0865141120187
+['17 % protein', 'soybean meal']	['18 % protein']	0.803949108762
+['17 % protein', 'soybean meal']	['cornmeal']	0.499948076205
+['17 % protein', 'soybean meal']	['protein']	0.782404478874
+['17 % protein', 'soybean meal']	['9 % protein']	0.688749570879
+['17 % protein', 'soybean meal']	['soybean']	0.507769184287
+['17 % protein', 'soybean meal']	['cornmeal pound']	0.124856540438
+['17 % protein', 'soybean meal']	['360-pound mixture']	0.128877148308
+['17 % protein', 'soybean meal']	['mixture']	0.323601064434
+['soybean meal', '18 % protein']	['cornmeal']	0.499948076205
+['soybean meal', '18 % protein']	['protein']	0.782404478874
+['soybean meal', '18 % protein']	['9 % protein']	0.688749570879
+['soybean meal', '18 % protein']	['soybean']	0.507769184287
+['soybean meal', '18 % protein']	['cornmeal pound']	0.124856540438
+['soybean meal', '18 % protein']	['360-pound mixture']	0.128877148308
+['soybean meal', '18 % protein']	['mixture']	0.323601064434
+['soybean meal', '18 % protein']	['17 % protein']	0.803949108762
+['cornmeal', '18 % protein']	['soybean meal']	0.373881509619
+['cornmeal', '18 % protein']	['protein']	0.835279986237
+['cornmeal', '18 % protein']	['9 % protein']	0.563839784791
+['cornmeal', '18 % protein']	['soybean']	0.118373943445
+['cornmeal', '18 % protein']	['cornmeal pound']	0.392145703491
+['cornmeal', '18 % protein']	['360-pound mixture']	0.132517944196
+['cornmeal', '18 % protein']	['mixture']	0.0946432349268
+['cornmeal', '18 % protein']	['17 % protein']	0.687763202918
+['protein', '18 % protein']	['soybean meal']	0.168955628146
+['protein', '18 % protein']	['cornmeal']	0.591902833801
+['protein', '18 % protein']	['9 % protein']	0.879204652772
+['protein', '18 % protein']	['soybean']	0.580274647172
+['protein', '18 % protein']	['cornmeal pound']	0.132305814241
+['protein', '18 % protein']	['360-pound mixture']	0.171600772916
+['protein', '18 % protein']	['mixture']	0.595157712879
+['protein', '18 % protein']	['17 % protein']	0.879697263609
+['9 % protein', '18 % protein']	['soybean meal']	0.143803575199
+['9 % protein', '18 % protein']	['cornmeal']	0.326826928478
+['9 % protein', '18 % protein']	['protein']	0.861277997216
+['9 % protein', '18 % protein']	['soybean']	0.326826928478
+['9 % protein', '18 % protein']	['cornmeal pound']	0.142281589132
+['9 % protein', '18 % protein']	['360-pound mixture']	0.127952343303
+['9 % protein', '18 % protein']	['mixture']	0.325996575256
+['9 % protein', '18 % protein']	['17 % protein']	0.828547095987
+['soybean', '18 % protein']	['soybean meal']	0.3978339626
+['soybean', '18 % protein']	['cornmeal']	0.118373943445
+['soybean', '18 % protein']	['protein']	0.821761862569
+['soybean', '18 % protein']	['9 % protein']	0.563839784791
+['soybean', '18 % protein']	['cornmeal pound']	0.0696933362217
+['soybean', '18 % protein']	['360-pound mixture']	0.0696933362217
+['soybean', '18 % protein']	['mixture']	0.189088457409
+['soybean', '18 % protein']	['17 % protein']	0.687763202918
+['cornmeal pound', '18 % protein']	['soybean meal']	0.151484162343
+['cornmeal pound', '18 % protein']	['cornmeal']	0.454739744591
+['cornmeal pound', '18 % protein']	['protein']	0.829689819348
+['cornmeal pound', '18 % protein']	['9 % protein']	0.719639047476
+['cornmeal pound', '18 % protein']	['soybean']	0.146533383972
+['cornmeal pound', '18 % protein']	['360-pound mixture']	0.15961386663
+['cornmeal pound', '18 % protein']	['mixture']	0.14394151833
+['cornmeal pound', '18 % protein']	['17 % protein']	0.824752035523
+['360-pound mixture', '18 % protein']	['soybean meal']	0.151484162343
+['360-pound mixture', '18 % protein']	['cornmeal']	0.243382155254
+['360-pound mixture', '18 % protein']	['protein']	0.856405912463
+['360-pound mixture', '18 % protein']	['9 % protein']	0.719639047476
+['360-pound mixture', '18 % protein']	['soybean']	0.146533383972
+['360-pound mixture', '18 % protein']	['cornmeal pound']	0.152238479479
+['360-pound mixture', '18 % protein']	['mixture']	0.684948358374
+['360-pound mixture', '18 % protein']	['17 % protein']	0.824752035523
+['mixture', '18 % protein']	['soybean meal']	0.32440091698
+['mixture', '18 % protein']	['cornmeal']	0.15356185648
+['mixture', '18 % protein']	['protein']	0.831079821833
+['mixture', '18 % protein']	['9 % protein']	0.680220068558
+['mixture', '18 % protein']	['soybean']	0.170212894621
+['mixture', '18 % protein']	['cornmeal pound']	0.0827346205535
+['mixture', '18 % protein']	['360-pound mixture']	0.676847749152
+['mixture', '18 % protein']	['17 % protein']	0.772089897126
+['17 % protein', '18 % protein']	['soybean meal']	0.143803575199
+['17 % protein', '18 % protein']	['cornmeal']	0.326826928478
+['17 % protein', '18 % protein']	['protein']	0.875463011724
+['17 % protein', '18 % protein']	['9 % protein']	0.826957288865
+['17 % protein', '18 % protein']	['soybean']	0.326826928478
+['17 % protein', '18 % protein']	['cornmeal pound']	0.142281589132
+['17 % protein', '18 % protein']	['360-pound mixture']	0.127952343303
+['17 % protein', '18 % protein']	['mixture']	0.325996575256
+['soybean meal', 'cornmeal']	['18 % protein']	0.142880145831
+['soybean meal', 'cornmeal']	['protein']	0.566039108786
+['soybean meal', 'cornmeal']	['9 % protein']	0.142880145831
+['soybean meal', 'cornmeal']	['soybean']	0.437618437713
+['soybean meal', 'cornmeal']	['cornmeal pound']	0.427308852641
+['soybean meal', 'cornmeal']	['360-pound mixture']	0.186698956661
+['soybean meal', 'cornmeal']	['mixture']	0.363501202966
+['soybean meal', 'cornmeal']	['17 % protein']	0.142880145831
+['18 % protein', 'cornmeal']	['soybean meal']	0.373881509619
+['18 % protein', 'cornmeal']	['protein']	0.835279986237
+['18 % protein', 'cornmeal']	['9 % protein']	0.563839784791
+['18 % protein', 'cornmeal']	['soybean']	0.118373943445
+['18 % protein', 'cornmeal']	['cornmeal pound']	0.392145703491
+['18 % protein', 'cornmeal']	['360-pound mixture']	0.132517944196
+['18 % protein', 'cornmeal']	['mixture']	0.0946432349268
+['18 % protein', 'cornmeal']	['17 % protein']	0.687763202918
+['protein', 'cornmeal']	['soybean meal']	0.307506470426
+['protein', 'cornmeal']	['18 % protein']	0.757978904992
+['protein', 'cornmeal']	['9 % protein']	0.759948225058
+['protein', 'cornmeal']	['soybean']	0.514186700064
+['protein', 'cornmeal']	['cornmeal pound']	0.507692564454
+['protein', 'cornmeal']	['360-pound mixture']	0.181567421086
+['protein', 'cornmeal']	['mixture']	0.472611386467
+['protein', 'cornmeal']	['17 % protein']	0.757978904992
+['9 % protein', 'cornmeal']	['soybean meal']	0.373881509619
+['9 % protein', 'cornmeal']	['18 % protein']	0.563839784791
+['9 % protein', 'cornmeal']	['protein']	0.762696276938
+['9 % protein', 'cornmeal']	['soybean']	0.118373943445
+['9 % protein', 'cornmeal']	['cornmeal pound']	0.392145703491
+['9 % protein', 'cornmeal']	['360-pound mixture']	0.132517944196
+['9 % protein', 'cornmeal']	['mixture']	0.0946432349268
+['9 % protein', 'cornmeal']	['17 % protein']	0.563839784791
+['soybean', 'cornmeal']	['soybean meal']	0.468708001786
+['soybean', 'cornmeal']	['18 % protein']	0.142880145831
+['soybean', 'cornmeal']	['protein']	0.132273154595
+['soybean', 'cornmeal']	['9 % protein']	0.142880145831
+['soybean', 'cornmeal']	['cornmeal pound']	0.605215309309
+['soybean', 'cornmeal']	['360-pound mixture']	0.221453015432
+['soybean', 'cornmeal']	['mixture']	0.165824491463
+['soybean', 'cornmeal']	['17 % protein']	0.142880145831
+['cornmeal pound', 'cornmeal']	['soybean meal']	0.452105860098
+['cornmeal pound', 'cornmeal']	['18 % protein']	0.080802298149
+['cornmeal pound', 'cornmeal']	['protein']	0.553021867406
+['cornmeal pound', 'cornmeal']	['9 % protein']	0.080802298149
+['cornmeal pound', 'cornmeal']	['soybean']	0.153317037353
+['cornmeal pound', 'cornmeal']	['360-pound mixture']	0.130048808393
+['cornmeal pound', 'cornmeal']	['mixture']	0.127211384138
+['cornmeal pound', 'cornmeal']	['17 % protein']	0.080802298149
+['360-pound mixture', 'cornmeal']	['soybean meal']	0.398081642588
+['360-pound mixture', 'cornmeal']	['18 % protein']	0.080802298149
+['360-pound mixture', 'cornmeal']	['protein']	0.545341144938
+['360-pound mixture', 'cornmeal']	['9 % protein']	0.080802298149
+['360-pound mixture', 'cornmeal']	['soybean']	0.153317037353
+['360-pound mixture', 'cornmeal']	['cornmeal pound']	0.279800024479
+['360-pound mixture', 'cornmeal']	['mixture']	0.711667014921
+['360-pound mixture', 'cornmeal']	['17 % protein']	0.080802298149
+['mixture', 'cornmeal']	['soybean meal']	0.421654075885
+['mixture', 'cornmeal']	['18 % protein']	0.0865141120187
+['mixture', 'cornmeal']	['protein']	0.0727618306779
+['mixture', 'cornmeal']	['9 % protein']	0.0865141120187
+['mixture', 'cornmeal']	['soybean']	0.119853613107
+['mixture', 'cornmeal']	['cornmeal pound']	0.531784656776
+['mixture', 'cornmeal']	['360-pound mixture']	0.741935567693
+['mixture', 'cornmeal']	['17 % protein']	0.0865141120187
+['17 % protein', 'cornmeal']	['soybean meal']	0.373881509619
+['17 % protein', 'cornmeal']	['18 % protein']	0.687763202918
+['17 % protein', 'cornmeal']	['protein']	0.835279986237
+['17 % protein', 'cornmeal']	['9 % protein']	0.563839784791
+['17 % protein', 'cornmeal']	['soybean']	0.118373943445
+['17 % protein', 'cornmeal']	['cornmeal pound']	0.392145703491
+['17 % protein', 'cornmeal']	['360-pound mixture']	0.132517944196
+['17 % protein', 'cornmeal']	['mixture']	0.0946432349268
+['soybean meal', 'protein']	['18 % protein']	0.716738224174
+['soybean meal', 'protein']	['cornmeal']	0.636509486124
+['soybean meal', 'protein']	['9 % protein']	0.696882147415
+['soybean meal', 'protein']	['soybean']	0.572382367704
+['soybean meal', 'protein']	['cornmeal pound']	0.10865661159
+['soybean meal', 'protein']	['360-pound mixture']	0.108128871038
+['soybean meal', 'protein']	['mixture']	0.744024389136
+['soybean meal', 'protein']	['17 % protein']	0.716738224174
+['18 % protein', 'protein']	['soybean meal']	0.168955628146
+['18 % protein', 'protein']	['cornmeal']	0.591902833801
+['18 % protein', 'protein']	['9 % protein']	0.879204652772
+['18 % protein', 'protein']	['soybean']	0.580274647172
+['18 % protein', 'protein']	['cornmeal pound']	0.132305814241
+['18 % protein', 'protein']	['360-pound mixture']	0.171600772916
+['18 % protein', 'protein']	['mixture']	0.595157712879
+['18 % protein', 'protein']	['17 % protein']	0.879697263609
+['cornmeal', 'protein']	['soybean meal']	0.307506470426
+['cornmeal', 'protein']	['18 % protein']	0.757978904992
+['cornmeal', 'protein']	['9 % protein']	0.759948225058
+['cornmeal', 'protein']	['soybean']	0.514186700064
+['cornmeal', 'protein']	['cornmeal pound']	0.507692564454
+['cornmeal', 'protein']	['360-pound mixture']	0.181567421086
+['cornmeal', 'protein']	['mixture']	0.472611386467
+['cornmeal', 'protein']	['17 % protein']	0.757978904992
+['9 % protein', 'protein']	['soybean meal']	0.168955628146
+['9 % protein', 'protein']	['18 % protein']	0.879204652772
+['9 % protein', 'protein']	['cornmeal']	0.591902833801
+['9 % protein', 'protein']	['soybean']	0.580274647172
+['9 % protein', 'protein']	['cornmeal pound']	0.132305814241
+['9 % protein', 'protein']	['360-pound mixture']	0.171600772916
+['9 % protein', 'protein']	['mixture']	0.595157712879
+['9 % protein', 'protein']	['17 % protein']	0.879204652772
+['soybean', 'protein']	['soybean meal']	0.534429372672
+['soybean', 'protein']	['18 % protein']	0.737418023793
+['soybean', 'protein']	['cornmeal']	0.294163729506
+['soybean', 'protein']	['9 % protein']	0.739387343859
+['soybean', 'protein']	['cornmeal pound']	0.10906081194
+['soybean', 'protein']	['360-pound mixture']	0.107432270504
+['soybean', 'protein']	['mixture']	0.469983878296
+['soybean', 'protein']	['17 % protein']	0.737418023793
+['cornmeal pound', 'protein']	['soybean meal']	0.0529489101667
+['cornmeal pound', 'protein']	['18 % protein']	0.725248862472
+['cornmeal pound', 'protein']	['cornmeal']	0.431664779848
+['cornmeal pound', 'protein']	['9 % protein']	0.705392785713
+['cornmeal pound', 'protein']	['soybean']	0.504498518467
+['cornmeal pound', 'protein']	['360-pound mixture']	0.0460510233562
+['cornmeal pound', 'protein']	['mixture']	0.559869112314
+['cornmeal pound', 'protein']	['17 % protein']	0.725248862472
+['360-pound mixture', 'protein']	['soybean meal']	0.0529489101667
+['360-pound mixture', 'protein']	['18 % protein']	0.716738224174
+['360-pound mixture', 'protein']	['cornmeal']	0.715061203722
+['360-pound mixture', 'protein']	['9 % protein']	0.696882147415
+['360-pound mixture', 'protein']	['soybean']	0.504498518467
+['360-pound mixture', 'protein']	['cornmeal pound']	0.0465787639079
+['360-pound mixture', 'protein']	['mixture']	0.775929370467
+['360-pound mixture', 'protein']	['17 % protein']	0.716738224174
+['mixture', 'protein']	['soybean meal']	0.23319712433
+['mixture', 'protein']	['18 % protein']	0.79958496031
+['mixture', 'protein']	['cornmeal']	0.462178867485
+['mixture', 'protein']	['9 % protein']	0.782358016965
+['mixture', 'protein']	['soybean']	0.438008297113
+['mixture', 'protein']	['cornmeal pound']	0.046982964258
+['mixture', 'protein']	['360-pound mixture']	0.720105410751
+['mixture', 'protein']	['17 % protein']	0.79958496031
+['17 % protein', 'protein']	['soybean meal']	0.168955628146
+['17 % protein', 'protein']	['18 % protein']	0.879697263609
+['17 % protein', 'protein']	['cornmeal']	0.591902833801
+['17 % protein', 'protein']	['9 % protein']	0.879204652772
+['17 % protein', 'protein']	['soybean']	0.580274647172
+['17 % protein', 'protein']	['cornmeal pound']	0.132305814241
+['17 % protein', 'protein']	['360-pound mixture']	0.171600772916
+['17 % protein', 'protein']	['mixture']	0.595157712879
+['soybean meal', '9 % protein']	['18 % protein']	0.688749570879
+['soybean meal', '9 % protein']	['cornmeal']	0.499948076205
+['soybean meal', '9 % protein']	['protein']	0.742632298192
+['soybean meal', '9 % protein']	['soybean']	0.507769184287
+['soybean meal', '9 % protein']	['cornmeal pound']	0.124856540438
+['soybean meal', '9 % protein']	['360-pound mixture']	0.128877148308
+['soybean meal', '9 % protein']	['mixture']	0.323601064434
+['soybean meal', '9 % protein']	['17 % protein']	0.688749570879
+['18 % protein', '9 % protein']	['soybean meal']	0.143803575199
+['18 % protein', '9 % protein']	['cornmeal']	0.326826928478
+['18 % protein', '9 % protein']	['protein']	0.861277997216
+['18 % protein', '9 % protein']	['soybean']	0.326826928478
+['18 % protein', '9 % protein']	['cornmeal pound']	0.142281589132
+['18 % protein', '9 % protein']	['360-pound mixture']	0.127952343303
+['18 % protein', '9 % protein']	['mixture']	0.325996575256
+['18 % protein', '9 % protein']	['17 % protein']	0.828547095987
+['cornmeal', '9 % protein']	['soybean meal']	0.373881509619
+['cornmeal', '9 % protein']	['18 % protein']	0.563839784791
+['cornmeal', '9 % protein']	['protein']	0.762696276938
+['cornmeal', '9 % protein']	['soybean']	0.118373943445
+['cornmeal', '9 % protein']	['cornmeal pound']	0.392145703491
+['cornmeal', '9 % protein']	['360-pound mixture']	0.132517944196
+['cornmeal', '9 % protein']	['mixture']	0.0946432349268
+['cornmeal', '9 % protein']	['17 % protein']	0.563839784791
+['protein', '9 % protein']	['soybean meal']	0.168955628146
+['protein', '9 % protein']	['18 % protein']	0.879204652772
+['protein', '9 % protein']	['cornmeal']	0.591902833801
+['protein', '9 % protein']	['soybean']	0.580274647172
+['protein', '9 % protein']	['cornmeal pound']	0.132305814241
+['protein', '9 % protein']	['360-pound mixture']	0.171600772916
+['protein', '9 % protein']	['mixture']	0.595157712879
+['protein', '9 % protein']	['17 % protein']	0.879204652772
+['soybean', '9 % protein']	['soybean meal']	0.3978339626
+['soybean', '9 % protein']	['18 % protein']	0.563839784791
+['soybean', '9 % protein']	['cornmeal']	0.118373943445
+['soybean', '9 % protein']	['protein']	0.749178153271
+['soybean', '9 % protein']	['cornmeal pound']	0.0696933362217
+['soybean', '9 % protein']	['360-pound mixture']	0.0696933362217
+['soybean', '9 % protein']	['mixture']	0.189088457409
+['soybean', '9 % protein']	['17 % protein']	0.563839784791
+['cornmeal pound', '9 % protein']	['soybean meal']	0.151484162343
+['cornmeal pound', '9 % protein']	['18 % protein']	0.719639047476
+['cornmeal pound', '9 % protein']	['cornmeal']	0.454739744591
+['cornmeal pound', '9 % protein']	['protein']	0.789917638667
+['cornmeal pound', '9 % protein']	['soybean']	0.146533383972
+['cornmeal pound', '9 % protein']	['360-pound mixture']	0.15961386663
+['cornmeal pound', '9 % protein']	['mixture']	0.14394151833
+['cornmeal pound', '9 % protein']	['17 % protein']	0.719639047476
+['360-pound mixture', '9 % protein']	['soybean meal']	0.151484162343
+['360-pound mixture', '9 % protein']	['18 % protein']	0.719639047476
+['360-pound mixture', '9 % protein']	['cornmeal']	0.243382155254
+['360-pound mixture', '9 % protein']	['protein']	0.769937468371
+['360-pound mixture', '9 % protein']	['soybean']	0.146533383972
+['360-pound mixture', '9 % protein']	['cornmeal pound']	0.152238479479
+['360-pound mixture', '9 % protein']	['mixture']	0.684948358374
+['360-pound mixture', '9 % protein']	['17 % protein']	0.719639047476
+['mixture', '9 % protein']	['soybean meal']	0.32440091698
+['mixture', '9 % protein']	['18 % protein']	0.680220068558
+['mixture', '9 % protein']	['cornmeal']	0.15356185648
+['mixture', '9 % protein']	['protein']	0.751829445868
+['mixture', '9 % protein']	['soybean']	0.170212894621
+['mixture', '9 % protein']	['cornmeal pound']	0.0827346205535
+['mixture', '9 % protein']	['360-pound mixture']	0.676847749152
+['mixture', '9 % protein']	['17 % protein']	0.680220068558
+['17 % protein', '9 % protein']	['soybean meal']	0.143803575199
+['17 % protein', '9 % protein']	['18 % protein']	0.828547095987
+['17 % protein', '9 % protein']	['cornmeal']	0.326826928478
+['17 % protein', '9 % protein']	['protein']	0.861277997216
+['17 % protein', '9 % protein']	['soybean']	0.326826928478
+['17 % protein', '9 % protein']	['cornmeal pound']	0.142281589132
+['17 % protein', '9 % protein']	['360-pound mixture']	0.127952343303
+['17 % protein', '9 % protein']	['mixture']	0.325996575256
+['soybean meal', 'soybean']	['18 % protein']	0.142880145831
+['soybean meal', 'soybean']	['cornmeal']	0.590706251673
+['soybean meal', 'soybean']	['protein']	0.555064829654
+['soybean meal', 'soybean']	['9 % protein']	0.142880145831
+['soybean meal', 'soybean']	['cornmeal pound']	0.131771183904
+['soybean meal', 'soybean']	['360-pound mixture']	0.131771183904
+['soybean meal', 'soybean']	['mixture']	0.491899696749
+['soybean meal', 'soybean']	['17 % protein']	0.142880145831
+['18 % protein', 'soybean']	['soybean meal']	0.3978339626
+['18 % protein', 'soybean']	['cornmeal']	0.118373943445
+['18 % protein', 'soybean']	['protein']	0.821761862569
+['18 % protein', 'soybean']	['9 % protein']	0.563839784791
+['18 % protein', 'soybean']	['cornmeal pound']	0.0696933362217
+['18 % protein', 'soybean']	['360-pound mixture']	0.0696933362217
+['18 % protein', 'soybean']	['mixture']	0.189088457409
+['18 % protein', 'soybean']	['17 % protein']	0.687763202918
+['cornmeal', 'soybean']	['soybean meal']	0.468708001786
+['cornmeal', 'soybean']	['18 % protein']	0.142880145831
+['cornmeal', 'soybean']	['protein']	0.132273154595
+['cornmeal', 'soybean']	['9 % protein']	0.142880145831
+['cornmeal', 'soybean']	['cornmeal pound']	0.605215309309
+['cornmeal', 'soybean']	['360-pound mixture']	0.221453015432
+['cornmeal', 'soybean']	['mixture']	0.165824491463
+['cornmeal', 'soybean']	['17 % protein']	0.142880145831
+['protein', 'soybean']	['soybean meal']	0.534429372672
+['protein', 'soybean']	['18 % protein']	0.737418023793
+['protein', 'soybean']	['cornmeal']	0.294163729506
+['protein', 'soybean']	['9 % protein']	0.739387343859
+['protein', 'soybean']	['cornmeal pound']	0.10906081194
+['protein', 'soybean']	['360-pound mixture']	0.107432270504
+['protein', 'soybean']	['mixture']	0.469983878296
+['protein', 'soybean']	['17 % protein']	0.737418023793
+['9 % protein', 'soybean']	['soybean meal']	0.3978339626
+['9 % protein', 'soybean']	['18 % protein']	0.563839784791
+['9 % protein', 'soybean']	['cornmeal']	0.118373943445
+['9 % protein', 'soybean']	['protein']	0.749178153271
+['9 % protein', 'soybean']	['cornmeal pound']	0.0696933362217
+['9 % protein', 'soybean']	['360-pound mixture']	0.0696933362217
+['9 % protein', 'soybean']	['mixture']	0.189088457409
+['9 % protein', 'soybean']	['17 % protein']	0.563839784791
+['cornmeal pound', 'soybean']	['soybean meal']	0.40164348641
+['cornmeal pound', 'soybean']	['18 % protein']	0.080802298149
+['cornmeal pound', 'soybean']	['cornmeal']	0.318657771621
+['cornmeal pound', 'soybean']	['protein']	0.542047588274
+['cornmeal pound', 'soybean']	['9 % protein']	0.080802298149
+['cornmeal pound', 'soybean']	['360-pound mixture']	0.0696933362217
+['cornmeal pound', 'soybean']	['mixture']	0.189088457409
+['cornmeal pound', 'soybean']	['17 % protein']	0.080802298149
+['360-pound mixture', 'soybean']	['soybean meal']	0.318821616921
+['360-pound mixture', 'soybean']	['18 % protein']	0.080802298149
+['360-pound mixture', 'soybean']	['cornmeal']	0.251698926678
+['360-pound mixture', 'soybean']	['protein']	0.541774273213
+['360-pound mixture', 'soybean']	['9 % protein']	0.080802298149
+['360-pound mixture', 'soybean']	['cornmeal pound']	0.0696933362217
+['360-pound mixture', 'soybean']	['mixture']	0.623434844882
+['360-pound mixture', 'soybean']	['17 % protein']	0.080802298149
+['mixture', 'soybean']	['soybean meal']	0.531717480321
+['mixture', 'soybean']	['18 % protein']	0.0865141120187
+['mixture', 'soybean']	['cornmeal']	0.0977012720865
+['mixture', 'soybean']	['protein']	0.0847885931502
+['mixture', 'soybean']	['9 % protein']	0.0865141120187
+['mixture', 'soybean']	['cornmeal pound']	0.0663445115919
+['mixture', 'soybean']	['360-pound mixture']	0.683604447678
+['mixture', 'soybean']	['17 % protein']	0.0865141120187
+['17 % protein', 'soybean']	['soybean meal']	0.3978339626
+['17 % protein', 'soybean']	['18 % protein']	0.687763202918
+['17 % protein', 'soybean']	['cornmeal']	0.118373943445
+['17 % protein', 'soybean']	['protein']	0.821761862569
+['17 % protein', 'soybean']	['9 % protein']	0.563839784791
+['17 % protein', 'soybean']	['cornmeal pound']	0.0696933362217
+['17 % protein', 'soybean']	['360-pound mixture']	0.0696933362217
+['17 % protein', 'soybean']	['mixture']	0.189088457409
+['soybean meal', 'cornmeal pound']	['18 % protein']	0.0828503410239
+['soybean meal', 'cornmeal pound']	['cornmeal']	0.557575856289
+['soybean meal', 'cornmeal pound']	['protein']	0.0433752898453
+['soybean meal', 'cornmeal pound']	['9 % protein']	0.0828503410239
+['soybean meal', 'cornmeal pound']	['soybean']	0.530792669321
+['soybean meal', 'cornmeal pound']	['360-pound mixture']	0.0737139440912
+['soybean meal', 'cornmeal pound']	['mixture']	0.263539242117
+['soybean meal', 'cornmeal pound']	['17 % protein']	0.0828503410239
+['18 % protein', 'cornmeal pound']	['soybean meal']	0.151484162343
+['18 % protein', 'cornmeal pound']	['cornmeal']	0.454739744591
+['18 % protein', 'cornmeal pound']	['protein']	0.829689819348
+['18 % protein', 'cornmeal pound']	['9 % protein']	0.719639047476
+['18 % protein', 'cornmeal pound']	['soybean']	0.146533383972
+['18 % protein', 'cornmeal pound']	['360-pound mixture']	0.15961386663
+['18 % protein', 'cornmeal pound']	['mixture']	0.14394151833
+['18 % protein', 'cornmeal pound']	['17 % protein']	0.824752035523
+['cornmeal', 'cornmeal pound']	['soybean meal']	0.452105860098
+['cornmeal', 'cornmeal pound']	['18 % protein']	0.080802298149
+['cornmeal', 'cornmeal pound']	['protein']	0.553021867406
+['cornmeal', 'cornmeal pound']	['9 % protein']	0.080802298149
+['cornmeal', 'cornmeal pound']	['soybean']	0.153317037353
+['cornmeal', 'cornmeal pound']	['360-pound mixture']	0.130048808393
+['cornmeal', 'cornmeal pound']	['mixture']	0.127211384138
+['cornmeal', 'cornmeal pound']	['17 % protein']	0.080802298149
+['protein', 'cornmeal pound']	['soybean meal']	0.0529489101667
+['protein', 'cornmeal pound']	['18 % protein']	0.725248862472
+['protein', 'cornmeal pound']	['cornmeal']	0.431664779848
+['protein', 'cornmeal pound']	['9 % protein']	0.705392785713
+['protein', 'cornmeal pound']	['soybean']	0.504498518467
+['protein', 'cornmeal pound']	['360-pound mixture']	0.0460510233562
+['protein', 'cornmeal pound']	['mixture']	0.559869112314
+['protein', 'cornmeal pound']	['17 % protein']	0.725248862472
+['9 % protein', 'cornmeal pound']	['soybean meal']	0.151484162343
+['9 % protein', 'cornmeal pound']	['18 % protein']	0.719639047476
+['9 % protein', 'cornmeal pound']	['cornmeal']	0.454739744591
+['9 % protein', 'cornmeal pound']	['protein']	0.789917638667
+['9 % protein', 'cornmeal pound']	['soybean']	0.146533383972
+['9 % protein', 'cornmeal pound']	['360-pound mixture']	0.15961386663
+['9 % protein', 'cornmeal pound']	['mixture']	0.14394151833
+['9 % protein', 'cornmeal pound']	['17 % protein']	0.719639047476
+['soybean', 'cornmeal pound']	['soybean meal']	0.40164348641
+['soybean', 'cornmeal pound']	['18 % protein']	0.080802298149
+['soybean', 'cornmeal pound']	['cornmeal']	0.318657771621
+['soybean', 'cornmeal pound']	['protein']	0.542047588274
+['soybean', 'cornmeal pound']	['9 % protein']	0.080802298149
+['soybean', 'cornmeal pound']	['360-pound mixture']	0.0696933362217
+['soybean', 'cornmeal pound']	['mixture']	0.189088457409
+['soybean', 'cornmeal pound']	['17 % protein']	0.080802298149
+['360-pound mixture', 'cornmeal pound']	['soybean meal']	0.0824069519204
+['360-pound mixture', 'cornmeal pound']	['18 % protein']	0.0908034291173
+['360-pound mixture', 'cornmeal pound']	['cornmeal']	0.401727023207
+['360-pound mixture', 'cornmeal pound']	['protein']	0.0523274735279
+['360-pound mixture', 'cornmeal pound']	['9 % protein']	0.0908034291173
+['360-pound mixture', 'cornmeal pound']	['soybean']	0.0774561735493
+['360-pound mixture', 'cornmeal pound']	['mixture']	0.612081485761
+['360-pound mixture', 'cornmeal pound']	['17 % protein']	0.0908034291173
+['mixture', 'cornmeal pound']	['soybean meal']	0.329569518417
+['mixture', 'cornmeal pound']	['18 % protein']	0.094467200112
+['mixture', 'cornmeal pound']	['cornmeal']	0.276825733757
+['mixture', 'cornmeal pound']	['protein']	0.597453259829
+['mixture', 'cornmeal pound']	['9 % protein']	0.094467200112
+['mixture', 'cornmeal pound']	['soybean']	0.170212894621
+['mixture', 'cornmeal pound']	['360-pound mixture']	0.722275537002
+['mixture', 'cornmeal pound']	['17 % protein']	0.094467200112
+['17 % protein', 'cornmeal pound']	['soybean meal']	0.151484162343
+['17 % protein', 'cornmeal pound']	['18 % protein']	0.824752035523
+['17 % protein', 'cornmeal pound']	['cornmeal']	0.454739744591
+['17 % protein', 'cornmeal pound']	['protein']	0.829689819348
+['17 % protein', 'cornmeal pound']	['9 % protein']	0.719639047476
+['17 % protein', 'cornmeal pound']	['soybean']	0.146533383972
+['17 % protein', 'cornmeal pound']	['360-pound mixture']	0.15961386663
+['17 % protein', 'cornmeal pound']	['mixture']	0.14394151833
+['soybean meal', '360-pound mixture']	['18 % protein']	0.0828503410239
+['soybean meal', '360-pound mixture']	['cornmeal']	0.486368748313
+['soybean meal', '360-pound mixture']	['protein']	0.0422015809251
+['soybean meal', '360-pound mixture']	['9 % protein']	0.0828503410239
+['soybean meal', '360-pound mixture']	['soybean']	0.530792669321
+['soybean meal', '360-pound mixture']	['cornmeal pound']	0.0696933362217
+['soybean meal', '360-pound mixture']	['mixture']	0.669239571247
+['soybean meal', '360-pound mixture']	['17 % protein']	0.0828503410239
+['18 % protein', '360-pound mixture']	['soybean meal']	0.151484162343
+['18 % protein', '360-pound mixture']	['cornmeal']	0.243382155254
+['18 % protein', '360-pound mixture']	['protein']	0.856405912463
+['18 % protein', '360-pound mixture']	['9 % protein']	0.719639047476
+['18 % protein', '360-pound mixture']	['soybean']	0.146533383972
+['18 % protein', '360-pound mixture']	['cornmeal pound']	0.152238479479
+['18 % protein', '360-pound mixture']	['mixture']	0.684948358374
+['18 % protein', '360-pound mixture']	['17 % protein']	0.824752035523
+['cornmeal', '360-pound mixture']	['soybean meal']	0.398081642588
+['cornmeal', '360-pound mixture']	['18 % protein']	0.080802298149
+['cornmeal', '360-pound mixture']	['protein']	0.545341144938
+['cornmeal', '360-pound mixture']	['9 % protein']	0.080802298149
+['cornmeal', '360-pound mixture']	['soybean']	0.153317037353
+['cornmeal', '360-pound mixture']	['cornmeal pound']	0.279800024479
+['cornmeal', '360-pound mixture']	['mixture']	0.711667014921
+['cornmeal', '360-pound mixture']	['17 % protein']	0.080802298149
+['protein', '360-pound mixture']	['soybean meal']	0.0529489101667
+['protein', '360-pound mixture']	['18 % protein']	0.716738224174
+['protein', '360-pound mixture']	['cornmeal']	0.715061203722
+['protein', '360-pound mixture']	['9 % protein']	0.696882147415
+['protein', '360-pound mixture']	['soybean']	0.504498518467
+['protein', '360-pound mixture']	['cornmeal pound']	0.0465787639079
+['protein', '360-pound mixture']	['mixture']	0.775929370467
+['protein', '360-pound mixture']	['17 % protein']	0.716738224174
+['9 % protein', '360-pound mixture']	['soybean meal']	0.151484162343
+['9 % protein', '360-pound mixture']	['18 % protein']	0.719639047476
+['9 % protein', '360-pound mixture']	['cornmeal']	0.243382155254
+['9 % protein', '360-pound mixture']	['protein']	0.769937468371
+['9 % protein', '360-pound mixture']	['soybean']	0.146533383972
+['9 % protein', '360-pound mixture']	['cornmeal pound']	0.152238479479
+['9 % protein', '360-pound mixture']	['mixture']	0.684948358374
+['9 % protein', '360-pound mixture']	['17 % protein']	0.719639047476
+['soybean', '360-pound mixture']	['soybean meal']	0.318821616921
+['soybean', '360-pound mixture']	['18 % protein']	0.080802298149
+['soybean', '360-pound mixture']	['cornmeal']	0.251698926678
+['soybean', '360-pound mixture']	['protein']	0.541774273213
+['soybean', '360-pound mixture']	['9 % protein']	0.080802298149
+['soybean', '360-pound mixture']	['cornmeal pound']	0.0696933362217
+['soybean', '360-pound mixture']	['mixture']	0.623434844882
+['soybean', '360-pound mixture']	['17 % protein']	0.080802298149
+['cornmeal pound', '360-pound mixture']	['soybean meal']	0.0824069519204
+['cornmeal pound', '360-pound mixture']	['18 % protein']	0.0908034291173
+['cornmeal pound', '360-pound mixture']	['cornmeal']	0.401727023207
+['cornmeal pound', '360-pound mixture']	['protein']	0.0523274735279
+['cornmeal pound', '360-pound mixture']	['9 % protein']	0.0908034291173
+['cornmeal pound', '360-pound mixture']	['soybean']	0.0774561735493
+['cornmeal pound', '360-pound mixture']	['mixture']	0.612081485761
+['cornmeal pound', '360-pound mixture']	['17 % protein']	0.0908034291173
+['mixture', '360-pound mixture']	['soybean meal']	0.567637017095
+['mixture', '360-pound mixture']	['18 % protein']	0.414095288227
+['mixture', '360-pound mixture']	['cornmeal']	0.623700550462
+['mixture', '360-pound mixture']	['protein']	0.642569721161
+['mixture', '360-pound mixture']	['9 % protein']	0.414095288227
+['mixture', '360-pound mixture']	['soybean']	0.453852047629
+['mixture', '360-pound mixture']	['cornmeal pound']	0.237223524492
+['mixture', '360-pound mixture']	['17 % protein']	0.414095288227
+['17 % protein', '360-pound mixture']	['soybean meal']	0.151484162343
+['17 % protein', '360-pound mixture']	['18 % protein']	0.824752035523
+['17 % protein', '360-pound mixture']	['cornmeal']	0.243382155254
+['17 % protein', '360-pound mixture']	['protein']	0.856405912463
+['17 % protein', '360-pound mixture']	['9 % protein']	0.719639047476
+['17 % protein', '360-pound mixture']	['soybean']	0.146533383972
+['17 % protein', '360-pound mixture']	['cornmeal pound']	0.152238479479
+['17 % protein', '360-pound mixture']	['mixture']	0.684948358374
+['soybean meal', 'mixture']	['18 % protein']	0.0865141120187
+['soybean meal', 'mixture']	['cornmeal']	0.561725069457
+['soybean meal', 'mixture']	['protein']	0.542047588274
+['soybean meal', 'mixture']	['9 % protein']	0.0865141120187
+['soybean meal', 'mixture']	['soybean']	0.409665180413
+['soybean meal', 'mixture']	['cornmeal pound']	0.0696933362217
+['soybean meal', 'mixture']	['360-pound mixture']	0.701554947584
+['soybean meal', 'mixture']	['17 % protein']	0.0865141120187
+['18 % protein', 'mixture']	['soybean meal']	0.32440091698
+['18 % protein', 'mixture']	['cornmeal']	0.15356185648
+['18 % protein', 'mixture']	['protein']	0.831079821833
+['18 % protein', 'mixture']	['9 % protein']	0.680220068558
+['18 % protein', 'mixture']	['soybean']	0.170212894621
+['18 % protein', 'mixture']	['cornmeal pound']	0.0827346205535
+['18 % protein', 'mixture']	['360-pound mixture']	0.676847749152
+['18 % protein', 'mixture']	['17 % protein']	0.772089897126
+['cornmeal', 'mixture']	['soybean meal']	0.421654075885
+['cornmeal', 'mixture']	['18 % protein']	0.0865141120187
+['cornmeal', 'mixture']	['protein']	0.0727618306779
+['cornmeal', 'mixture']	['9 % protein']	0.0865141120187
+['cornmeal', 'mixture']	['soybean']	0.119853613107
+['cornmeal', 'mixture']	['cornmeal pound']	0.531784656776
+['cornmeal', 'mixture']	['360-pound mixture']	0.741935567693
+['cornmeal', 'mixture']	['17 % protein']	0.0865141120187
+['protein', 'mixture']	['soybean meal']	0.23319712433
+['protein', 'mixture']	['18 % protein']	0.79958496031
+['protein', 'mixture']	['cornmeal']	0.462178867485
+['protein', 'mixture']	['9 % protein']	0.782358016965
+['protein', 'mixture']	['soybean']	0.438008297113
+['protein', 'mixture']	['cornmeal pound']	0.046982964258
+['protein', 'mixture']	['360-pound mixture']	0.720105410751
+['protein', 'mixture']	['17 % protein']	0.79958496031
+['9 % protein', 'mixture']	['soybean meal']	0.32440091698
+['9 % protein', 'mixture']	['18 % protein']	0.680220068558
+['9 % protein', 'mixture']	['cornmeal']	0.15356185648
+['9 % protein', 'mixture']	['protein']	0.751829445868
+['9 % protein', 'mixture']	['soybean']	0.170212894621
+['9 % protein', 'mixture']	['cornmeal pound']	0.0827346205535
+['9 % protein', 'mixture']	['360-pound mixture']	0.676847749152
+['9 % protein', 'mixture']	['17 % protein']	0.680220068558
+['soybean', 'mixture']	['soybean meal']	0.531717480321
+['soybean', 'mixture']	['18 % protein']	0.0865141120187
+['soybean', 'mixture']	['cornmeal']	0.0977012720865
+['soybean', 'mixture']	['protein']	0.0847885931502
+['soybean', 'mixture']	['9 % protein']	0.0865141120187
+['soybean', 'mixture']	['cornmeal pound']	0.0663445115919
+['soybean', 'mixture']	['360-pound mixture']	0.683604447678
+['soybean', 'mixture']	['17 % protein']	0.0865141120187
+['cornmeal pound', 'mixture']	['soybean meal']	0.329569518417
+['cornmeal pound', 'mixture']	['18 % protein']	0.094467200112
+['cornmeal pound', 'mixture']	['cornmeal']	0.276825733757
+['cornmeal pound', 'mixture']	['protein']	0.597453259829
+['cornmeal pound', 'mixture']	['9 % protein']	0.094467200112
+['cornmeal pound', 'mixture']	['soybean']	0.170212894621
+['cornmeal pound', 'mixture']	['360-pound mixture']	0.722275537002
+['cornmeal pound', 'mixture']	['17 % protein']	0.094467200112
+['360-pound mixture', 'mixture']	['soybean meal']	0.567637017095
+['360-pound mixture', 'mixture']	['18 % protein']	0.414095288227
+['360-pound mixture', 'mixture']	['cornmeal']	0.623700550462
+['360-pound mixture', 'mixture']	['protein']	0.642569721161
+['360-pound mixture', 'mixture']	['9 % protein']	0.414095288227
+['360-pound mixture', 'mixture']	['soybean']	0.453852047629
+['360-pound mixture', 'mixture']	['cornmeal pound']	0.237223524492
+['360-pound mixture', 'mixture']	['17 % protein']	0.414095288227
+['17 % protein', 'mixture']	['soybean meal']	0.32440091698
+['17 % protein', 'mixture']	['18 % protein']	0.772089897126
+['17 % protein', 'mixture']	['cornmeal']	0.15356185648
+['17 % protein', 'mixture']	['protein']	0.831079821833
+['17 % protein', 'mixture']	['9 % protein']	0.680220068558
+['17 % protein', 'mixture']	['soybean']	0.170212894621
+['17 % protein', 'mixture']	['cornmeal pound']	0.0827346205535
+['17 % protein', 'mixture']	['360-pound mixture']	0.676847749152
+['soybean meal', '17 % protein']	['18 % protein']	0.803949108762
+['soybean meal', '17 % protein']	['cornmeal']	0.499948076205
+['soybean meal', '17 % protein']	['protein']	0.782404478874
+['soybean meal', '17 % protein']	['9 % protein']	0.688749570879
+['soybean meal', '17 % protein']	['soybean']	0.507769184287
+['soybean meal', '17 % protein']	['cornmeal pound']	0.124856540438
+['soybean meal', '17 % protein']	['360-pound mixture']	0.128877148308
+['soybean meal', '17 % protein']	['mixture']	0.323601064434
+['18 % protein', '17 % protein']	['soybean meal']	0.143803575199
+['18 % protein', '17 % protein']	['cornmeal']	0.326826928478
+['18 % protein', '17 % protein']	['protein']	0.875463011724
+['18 % protein', '17 % protein']	['9 % protein']	0.826957288865
+['18 % protein', '17 % protein']	['soybean']	0.326826928478
+['18 % protein', '17 % protein']	['cornmeal pound']	0.142281589132
+['18 % protein', '17 % protein']	['360-pound mixture']	0.127952343303
+['18 % protein', '17 % protein']	['mixture']	0.325996575256
+['cornmeal', '17 % protein']	['soybean meal']	0.373881509619
+['cornmeal', '17 % protein']	['18 % protein']	0.687763202918
+['cornmeal', '17 % protein']	['protein']	0.835279986237
+['cornmeal', '17 % protein']	['9 % protein']	0.563839784791
+['cornmeal', '17 % protein']	['soybean']	0.118373943445
+['cornmeal', '17 % protein']	['cornmeal pound']	0.392145703491
+['cornmeal', '17 % protein']	['360-pound mixture']	0.132517944196
+['cornmeal', '17 % protein']	['mixture']	0.0946432349268
+['protein', '17 % protein']	['soybean meal']	0.168955628146
+['protein', '17 % protein']	['18 % protein']	0.879697263609
+['protein', '17 % protein']	['cornmeal']	0.591902833801
+['protein', '17 % protein']	['9 % protein']	0.879204652772
+['protein', '17 % protein']	['soybean']	0.580274647172
+['protein', '17 % protein']	['cornmeal pound']	0.132305814241
+['protein', '17 % protein']	['360-pound mixture']	0.171600772916
+['protein', '17 % protein']	['mixture']	0.595157712879
+['9 % protein', '17 % protein']	['soybean meal']	0.143803575199
+['9 % protein', '17 % protein']	['18 % protein']	0.828547095987
+['9 % protein', '17 % protein']	['cornmeal']	0.326826928478
+['9 % protein', '17 % protein']	['protein']	0.861277997216
+['9 % protein', '17 % protein']	['soybean']	0.326826928478
+['9 % protein', '17 % protein']	['cornmeal pound']	0.142281589132
+['9 % protein', '17 % protein']	['360-pound mixture']	0.127952343303
+['9 % protein', '17 % protein']	['mixture']	0.325996575256
+['soybean', '17 % protein']	['soybean meal']	0.3978339626
+['soybean', '17 % protein']	['18 % protein']	0.687763202918
+['soybean', '17 % protein']	['cornmeal']	0.118373943445
+['soybean', '17 % protein']	['protein']	0.821761862569
+['soybean', '17 % protein']	['9 % protein']	0.563839784791
+['soybean', '17 % protein']	['cornmeal pound']	0.0696933362217
+['soybean', '17 % protein']	['360-pound mixture']	0.0696933362217
+['soybean', '17 % protein']	['mixture']	0.189088457409
+['cornmeal pound', '17 % protein']	['soybean meal']	0.151484162343
+['cornmeal pound', '17 % protein']	['18 % protein']	0.824752035523
+['cornmeal pound', '17 % protein']	['cornmeal']	0.454739744591
+['cornmeal pound', '17 % protein']	['protein']	0.829689819348
+['cornmeal pound', '17 % protein']	['9 % protein']	0.719639047476
+['cornmeal pound', '17 % protein']	['soybean']	0.146533383972
+['cornmeal pound', '17 % protein']	['360-pound mixture']	0.15961386663
+['cornmeal pound', '17 % protein']	['mixture']	0.14394151833
+['360-pound mixture', '17 % protein']	['soybean meal']	0.151484162343
+['360-pound mixture', '17 % protein']	['18 % protein']	0.824752035523
+['360-pound mixture', '17 % protein']	['cornmeal']	0.243382155254
+['360-pound mixture', '17 % protein']	['protein']	0.856405912463
+['360-pound mixture', '17 % protein']	['9 % protein']	0.719639047476
+['360-pound mixture', '17 % protein']	['soybean']	0.146533383972
+['360-pound mixture', '17 % protein']	['cornmeal pound']	0.152238479479
+['360-pound mixture', '17 % protein']	['mixture']	0.684948358374
+['mixture', '17 % protein']	['soybean meal']	0.32440091698
+['mixture', '17 % protein']	['18 % protein']	0.772089897126
+['mixture', '17 % protein']	['cornmeal']	0.15356185648
+['mixture', '17 % protein']	['protein']	0.831079821833
+['mixture', '17 % protein']	['9 % protein']	0.680220068558
+['mixture', '17 % protein']	['soybean']	0.170212894621
+['mixture', '17 % protein']	['cornmeal pound']	0.0827346205535
+['mixture', '17 % protein']	['360-pound mixture']	0.676847749152

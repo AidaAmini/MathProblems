@@ -1,0 +1,68 @@
+['2 number', '3 time', 'smaller number', 'number', 'larger number']
+['2 number']	['3 time']	0.387929093691
+['2 number']	['smaller number']	0.643440930505
+['2 number']	['larger number']	0.643440930505
+['3 time']	['smaller number']	0.0901100077042
+['3 time']	['number']	0.0568482879172
+['3 time']	['larger number']	0.0901100077042
+['smaller number']	['larger number']	0.643440930505
+['3 time', '2 number']	['smaller number']	0.584269096576
+['3 time', '2 number']	['number']	0.501949006384
+['3 time', '2 number']	['larger number']	0.584269096576
+['smaller number', '2 number']	['3 time']	0.59564157713
+['smaller number', '2 number']	['number']	0.72283494424
+['smaller number', '2 number']	['larger number']	0.637144068101
+['number', '2 number']	['3 time']	0.605835215689
+['number', '2 number']	['smaller number']	0.723385891044
+['number', '2 number']	['larger number']	0.733657586072
+['larger number', '2 number']	['3 time']	0.59564157713
+['larger number', '2 number']	['smaller number']	0.637144068101
+['larger number', '2 number']	['number']	0.700625959229
+['2 number', '3 time']	['smaller number']	0.584269096576
+['2 number', '3 time']	['number']	0.501949006384
+['2 number', '3 time']	['larger number']	0.584269096576
+['smaller number', '3 time']	['2 number']	0.754360422532
+['smaller number', '3 time']	['number']	0.66851780006
+['smaller number', '3 time']	['larger number']	0.584269096576
+['number', '3 time']	['2 number']	0.609124078728
+['number', '3 time']	['smaller number']	0.653231233053
+['number', '3 time']	['larger number']	0.656207470134
+['larger number', '3 time']	['2 number']	0.754360422532
+['larger number', '3 time']	['smaller number']	0.584269096576
+['larger number', '3 time']	['number']	0.644467076647
+['2 number', 'smaller number']	['3 time']	0.59564157713
+['2 number', 'smaller number']	['number']	0.72283494424
+['2 number', 'smaller number']	['larger number']	0.637144068101
+['3 time', 'smaller number']	['2 number']	0.754360422532
+['3 time', 'smaller number']	['number']	0.66851780006
+['3 time', 'smaller number']	['larger number']	0.584269096576
+['number', 'smaller number']	['2 number']	0.766993776513
+['number', 'smaller number']	['3 time']	0.157502141539
+['number', 'smaller number']	['larger number']	0.733657586072
+['larger number', 'smaller number']	['2 number']	0.637144068101
+['larger number', 'smaller number']	['3 time']	0.139258682248
+['larger number', 'smaller number']	['number']	0.689651022285
+['2 number', 'number']	['3 time']	0.605835215689
+['2 number', 'number']	['smaller number']	0.723385891044
+['2 number', 'number']	['larger number']	0.733657586072
+['3 time', 'number']	['2 number']	0.609124078728
+['3 time', 'number']	['smaller number']	0.653231233053
+['3 time', 'number']	['larger number']	0.656207470134
+['smaller number', 'number']	['2 number']	0.766993776513
+['smaller number', 'number']	['3 time']	0.157502141539
+['smaller number', 'number']	['larger number']	0.733657586072
+['larger number', 'number']	['2 number']	0.766993776513
+['larger number', 'number']	['3 time']	0.157502141539
+['larger number', 'number']	['smaller number']	0.723385891044
+['2 number', 'larger number']	['3 time']	0.59564157713
+['2 number', 'larger number']	['smaller number']	0.637144068101
+['2 number', 'larger number']	['number']	0.700625959229
+['3 time', 'larger number']	['2 number']	0.754360422532
+['3 time', 'larger number']	['smaller number']	0.584269096576
+['3 time', 'larger number']	['number']	0.644467076647
+['smaller number', 'larger number']	['2 number']	0.637144068101
+['smaller number', 'larger number']	['3 time']	0.139258682248
+['smaller number', 'larger number']	['number']	0.689651022285
+['number', 'larger number']	['2 number']	0.766993776513
+['number', 'larger number']	['3 time']	0.157502141539
+['number', 'larger number']	['smaller number']	0.723385891044

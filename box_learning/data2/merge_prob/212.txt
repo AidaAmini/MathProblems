@@ -1,0 +1,1383 @@
+['grand opening', 'open', 'guthrie market', 'two souvenir different typess', '20 cent', 'type', 'cent', '25 cent', 'thousand souvenir', 'souvenir', '220 dollar', '25 cent souvenier']
+['grand opening']	['open']	0.0996645993899
+['grand opening']	['guthrie market']	0.0827346205535
+['grand opening']	['two souvenir different typess']	0.160701079379
+['grand opening']	['20 cent']	0.408341208225
+['grand opening']	['type']	0.077819629741
+['grand opening']	['cent']	0.0179192712897
+['grand opening']	['25 cent']	0.408341208225
+['grand opening']	['thousand souvenir']	0.412217785115
+['grand opening']	['souvenir']	0.100139208296
+['grand opening']	['220 dollar']	0.0901100077042
+['grand opening']	['25 cent souvenier']	0.379457278768
+['open']	['guthrie market']	0.0901100077042
+['open']	['two souvenir different typess']	0.0920786332799
+['open']	['20 cent']	0.0897823390711
+['open']	['type']	0.0825734286272
+['open']	['cent']	0.0303742514954
+['open']	['25 cent']	0.0897823390711
+['open']	['thousand souvenir']	0.0816612840118
+['open']	['souvenir']	0.122840736639
+['open']	['220 dollar']	0.0901100077042
+['open']	['25 cent souvenier']	0.0920786332799
+['guthrie market']	['two souvenir different typess']	0.0908034291173
+['guthrie market']	['20 cent']	0.0824069519204
+['guthrie market']	['type']	0.050052963724
+['guthrie market']	['cent']	0.0132263547461
+['guthrie market']	['25 cent']	0.0824069519204
+['guthrie market']	['thousand souvenir']	0.0827346205535
+['guthrie market']	['souvenir']	0.0831172035382
+['guthrie market']	['220 dollar']	0.0901100077042
+['guthrie market']	['25 cent souvenier']	0.0908034291173
+['two souvenir different typess']	['20 cent']	0.112390219598
+['two souvenir different typess']	['type']	0.474536969644
+['two souvenir different typess']	['cent']	0.012852508684
+['two souvenir different typess']	['25 cent']	0.112390219598
+['two souvenir different typess']	['thousand souvenir']	0.125410729912
+['two souvenir different typess']	['souvenir']	0.142188396516
+['two souvenir different typess']	['220 dollar']	0.0988755105172
+['two souvenir different typess']	['25 cent souvenier']	0.171136944764
+['20 cent']	['type']	0.0440715586848
+['20 cent']	['25 cent']	0.80258510212
+['20 cent']	['thousand souvenir']	0.306401857307
+['20 cent']	['souvenir']	0.0673701015291
+['20 cent']	['220 dollar']	0.0737139440912
+['20 cent']	['25 cent souvenier']	0.313690964596
+['type']	['cent']	0.0074803794959
+['type']	['25 cent']	0.0529489101667
+['type']	['thousand souvenir']	0.0460318882245
+['type']	['souvenir']	0.0569280451229
+['type']	['220 dollar']	0.0904486092048
+['type']	['25 cent souvenier']	0.0441669054693
+['cent']	['thousand souvenir']	0.0160076877108
+['cent']	['souvenir']	0.0240886330375
+['cent']	['220 dollar']	0.407077099357
+['cent']	['25 cent souvenier']	0.0659410743388
+['25 cent']	['thousand souvenir']	0.306401857307
+['25 cent']	['souvenir']	0.0673701015291
+['25 cent']	['220 dollar']	0.0737139440912
+['thousand souvenir']	['220 dollar']	0.0901100077042
+['thousand souvenir']	['25 cent souvenier']	0.379457278768
+['souvenir']	['220 dollar']	0.0683122427071
+['souvenir']	['25 cent souvenier']	0.0807707659053
+['220 dollar']	['25 cent souvenier']	0.0941266761548
+['open', 'grand opening']	['guthrie market']	0.0827346205535
+['open', 'grand opening']	['two souvenir different typess']	0.155842182951
+['open', 'grand opening']	['20 cent']	0.334357794603
+['open', 'grand opening']	['type']	0.250256209574
+['open', 'grand opening']	['cent']	0.118789947217
+['open', 'grand opening']	['25 cent']	0.334357794603
+['open', 'grand opening']	['thousand souvenir']	0.546280394661
+['open', 'grand opening']	['souvenir']	0.843342790847
+['open', 'grand opening']	['220 dollar']	0.0901100077042
+['open', 'grand opening']	['25 cent souvenier']	0.33845188701
+['guthrie market', 'grand opening']	['open']	0.246461502376
+['guthrie market', 'grand opening']	['two souvenir different typess']	0.174332938864
+['guthrie market', 'grand opening']	['20 cent']	0.341495179861
+['guthrie market', 'grand opening']	['type']	0.115682209346
+['guthrie market', 'grand opening']	['cent']	0.0132263547461
+['guthrie market', 'grand opening']	['25 cent']	0.341495179861
+['guthrie market', 'grand opening']	['thousand souvenir']	0.498338895266
+['guthrie market', 'grand opening']	['souvenir']	0.105969303899
+['guthrie market', 'grand opening']	['220 dollar']	0.0901100077042
+['guthrie market', 'grand opening']	['25 cent souvenier']	0.365426502964
+['two souvenir different typess', 'grand opening']	['open']	0.370884653974
+['two souvenir different typess', 'grand opening']	['guthrie market']	0.0915001233665
+['two souvenir different typess', 'grand opening']	['20 cent']	0.458142672201
+['two souvenir different typess', 'grand opening']	['type']	0.579908825458
+['two souvenir different typess', 'grand opening']	['cent']	0.012852508684
+['two souvenir different typess', 'grand opening']	['25 cent']	0.458142672201
+['two souvenir different typess', 'grand opening']	['thousand souvenir']	0.531822377869
+['two souvenir different typess', 'grand opening']	['souvenir']	0.284680711974
+['two souvenir different typess', 'grand opening']	['220 dollar']	0.0988755105172
+['two souvenir different typess', 'grand opening']	['25 cent souvenier']	0.461265101813
+['20 cent', 'grand opening']	['open']	0.282743574859
+['20 cent', 'grand opening']	['guthrie market']	0.0696933362217
+['20 cent', 'grand opening']	['two souvenir different typess']	0.260639003392
+['20 cent', 'grand opening']	['type']	0.0961411516641
+['20 cent', 'grand opening']	['cent']	0.471678880869
+['20 cent', 'grand opening']	['25 cent']	0.796432477039
+['20 cent', 'grand opening']	['thousand souvenir']	0.490039899844
+['20 cent', 'grand opening']	['souvenir']	0.0936090537696
+['20 cent', 'grand opening']	['220 dollar']	0.0737139440912
+['20 cent', 'grand opening']	['25 cent souvenier']	0.369831327203
+['type', 'grand opening']	['open']	0.193967193959
+['type', 'grand opening']	['guthrie market']	0.0476289326264
+['type', 'grand opening']	['two souvenir different typess']	0.369214157926
+['type', 'grand opening']	['20 cent']	0.278246973497
+['type', 'grand opening']	['cent']	0.167119015487
+['type', 'grand opening']	['25 cent']	0.278246973497
+['type', 'grand opening']	['thousand souvenir']	0.330270654929
+['type', 'grand opening']	['souvenir']	0.195944301231
+['type', 'grand opening']	['220 dollar']	0.112270510071
+['type', 'grand opening']	['25 cent souvenier']	0.21135148233
+['cent', 'grand opening']	['open']	0.178062274385
+['cent', 'grand opening']	['guthrie market']	0.0361569291624
+['cent', 'grand opening']	['two souvenir different typess']	0.088897638925
+['cent', 'grand opening']	['20 cent']	0.69698447225
+['cent', 'grand opening']	['type']	0.434414340449
+['cent', 'grand opening']	['25 cent']	0.69698447225
+['cent', 'grand opening']	['thousand souvenir']	0.46082305538
+['cent', 'grand opening']	['souvenir']	0.170570680165
+['cent', 'grand opening']	['220 dollar']	0.315074288357
+['cent', 'grand opening']	['25 cent souvenier']	0.164135099213
+['25 cent', 'grand opening']	['open']	0.282743574859
+['25 cent', 'grand opening']	['guthrie market']	0.0696933362217
+['25 cent', 'grand opening']	['two souvenir different typess']	0.260639003392
+['25 cent', 'grand opening']	['20 cent']	0.796432477039
+['25 cent', 'grand opening']	['type']	0.0961411516641
+['25 cent', 'grand opening']	['cent']	0.471678880869
+['25 cent', 'grand opening']	['thousand souvenir']	0.490039899844
+['25 cent', 'grand opening']	['souvenir']	0.0936090537696
+['25 cent', 'grand opening']	['220 dollar']	0.0737139440912
+['25 cent', 'grand opening']	['25 cent souvenier']	0.483528961126
+['thousand souvenir', 'grand opening']	['open']	0.216514195813
+['thousand souvenir', 'grand opening']	['guthrie market']	0.0827346205535
+['thousand souvenir', 'grand opening']	['two souvenir different typess']	0.256272974513
+['thousand souvenir', 'grand opening']	['20 cent']	0.42135232689
+['thousand souvenir', 'grand opening']	['type']	0.077819629741
+['thousand souvenir', 'grand opening']	['cent']	0.0132263547461
+['thousand souvenir', 'grand opening']	['25 cent']	0.42135232689
+['thousand souvenir', 'grand opening']	['souvenir']	0.661103813991
+['thousand souvenir', 'grand opening']	['220 dollar']	0.0901100077042
+['thousand souvenir', 'grand opening']	['25 cent souvenier']	0.392633798017
+['souvenir', 'grand opening']	['open']	0.523777275009
+['souvenir', 'grand opening']	['guthrie market']	0.0696933362217
+['souvenir', 'grand opening']	['two souvenir different typess']	0.250049491462
+['souvenir', 'grand opening']	['20 cent']	0.338867407738
+['souvenir', 'grand opening']	['type']	0.208099572107
+['souvenir', 'grand opening']	['cent']	0.0831640509808
+['souvenir', 'grand opening']	['25 cent']	0.338867407738
+['souvenir', 'grand opening']	['thousand souvenir']	0.683494632407
+['souvenir', 'grand opening']	['220 dollar']	0.0696933362217
+['souvenir', 'grand opening']	['25 cent souvenier']	0.273189578515
+['220 dollar', 'grand opening']	['open']	0.263299567304
+['220 dollar', 'grand opening']	['guthrie market']	0.0827346205535
+['220 dollar', 'grand opening']	['two souvenir different typess']	0.160359361629
+['220 dollar', 'grand opening']	['20 cent']	0.329189193165
+['220 dollar', 'grand opening']	['type']	0.0786638934798
+['220 dollar', 'grand opening']	['cent']	0.388471619656
+['220 dollar', 'grand opening']	['25 cent']	0.329189193165
+['220 dollar', 'grand opening']	['thousand souvenir']	0.498338895266
+['220 dollar', 'grand opening']	['souvenir']	0.110158891101
+['220 dollar', 'grand opening']	['25 cent souvenier']	0.335677399021
+['25 cent souvenier', 'grand opening']	['open']	0.345884653974
+['25 cent souvenier', 'grand opening']	['guthrie market']	0.152238479479
+['25 cent souvenier', 'grand opening']	['two souvenir different typess']	0.312620028872
+['25 cent souvenier', 'grand opening']	['20 cent']	0.490167094164
+['25 cent souvenier', 'grand opening']	['type']	0.115677899527
+['25 cent souvenier', 'grand opening']	['cent']	0.187975926381
+['25 cent souvenier', 'grand opening']	['25 cent']	0.521964515369
+['25 cent souvenier', 'grand opening']	['thousand souvenir']	0.556675323339
+['25 cent souvenier', 'grand opening']	['souvenir']	0.170142021553
+['25 cent souvenier', 'grand opening']	['220 dollar']	0.15961386663
+['grand opening', 'open']	['guthrie market']	0.0827346205535
+['grand opening', 'open']	['two souvenir different typess']	0.155842182951
+['grand opening', 'open']	['20 cent']	0.334357794603
+['grand opening', 'open']	['type']	0.250256209574
+['grand opening', 'open']	['cent']	0.118789947217
+['grand opening', 'open']	['25 cent']	0.334357794603
+['grand opening', 'open']	['thousand souvenir']	0.546280394661
+['grand opening', 'open']	['souvenir']	0.843342790847
+['grand opening', 'open']	['220 dollar']	0.0901100077042
+['grand opening', 'open']	['25 cent souvenier']	0.33845188701
+['guthrie market', 'open']	['grand opening']	0.225385310072
+['guthrie market', 'open']	['two souvenir different typess']	0.0887553862424
+['guthrie market', 'open']	['20 cent']	0.0824069519204
+['guthrie market', 'open']	['type']	0.172942190667
+['guthrie market', 'open']	['cent']	0.11596780482
+['guthrie market', 'open']	['25 cent']	0.0824069519204
+['guthrie market', 'open']	['thousand souvenir']	0.0800317642921
+['guthrie market', 'open']	['souvenir']	0.69319057077
+['guthrie market', 'open']	['220 dollar']	0.0901100077042
+['guthrie market', 'open']	['25 cent souvenier']	0.0887553862424
+['two souvenir different typess', 'open']	['grand opening']	0.312401864201
+['two souvenir different typess', 'open']	['guthrie market']	0.152238479479
+['two souvenir different typess', 'open']	['20 cent']	0.171176153595
+['two souvenir different typess', 'open']	['type']	0.538019534462
+['two souvenir different typess', 'open']	['cent']	0.118959946751
+['two souvenir different typess', 'open']	['25 cent']	0.171176153595
+['two souvenir different typess', 'open']	['thousand souvenir']	0.1993941562
+['two souvenir different typess', 'open']	['souvenir']	0.514865876162
+['two souvenir different typess', 'open']	['220 dollar']	0.15961386663
+['two souvenir different typess', 'open']	['25 cent souvenier']	0.220456529988
+['20 cent', 'open']	['grand opening']	0.360002673457
+['20 cent', 'open']	['guthrie market']	0.0696933362217
+['20 cent', 'open']	['two souvenir different typess']	0.133567705115
+['20 cent', 'open']	['type']	0.142063003052
+['20 cent', 'open']	['cent']	0.806548638047
+['20 cent', 'open']	['25 cent']	0.72021221181
+['20 cent', 'open']	['thousand souvenir']	0.383542576817
+['20 cent', 'open']	['souvenir']	0.722984620103
+['20 cent', 'open']	['220 dollar']	0.0737139440912
+['20 cent', 'open']	['25 cent souvenier']	0.273189578515
+['type', 'open']	['grand opening']	0.11300813844
+['type', 'open']	['guthrie market']	0.0476289326264
+['type', 'open']	['two souvenir different typess']	0.308669474868
+['type', 'open']	['20 cent']	0.0529489101667
+['type', 'open']	['cent']	0.107151499302
+['type', 'open']	['25 cent']	0.0529489101667
+['type', 'open']	['thousand souvenir']	0.0460318882245
+['type', 'open']	['souvenir']	0.495512200818
+['type', 'open']	['220 dollar']	0.112270510071
+['type', 'open']	['25 cent souvenier']	0.0441669054693
+['cent', 'open']	['grand opening']	0.103279950981
+['cent', 'open']	['guthrie market']	0.0361569291624
+['cent', 'open']	['two souvenir different typess']	0.0444435333372
+['cent', 'open']	['20 cent']	0.466956305598
+['cent', 'open']	['type']	0.17855218673
+['cent', 'open']	['25 cent']	0.466956305598
+['cent', 'open']	['thousand souvenir']	0.0368701550083
+['cent', 'open']	['souvenir']	0.289497585797
+['cent', 'open']	['220 dollar']	0.281740955024
+['cent', 'open']	['25 cent souvenier']	0.128794836381
+['25 cent', 'open']	['grand opening']	0.360002673457
+['25 cent', 'open']	['guthrie market']	0.0696933362217
+['25 cent', 'open']	['two souvenir different typess']	0.133567705115
+['25 cent', 'open']	['20 cent']	0.72021221181
+['25 cent', 'open']	['type']	0.142063003052
+['25 cent', 'open']	['cent']	0.806548638047
+['25 cent', 'open']	['thousand souvenir']	0.383542576817
+['25 cent', 'open']	['souvenir']	0.722984620103
+['25 cent', 'open']	['220 dollar']	0.0737139440912
+['25 cent', 'open']	['25 cent souvenier']	0.430211364054
+['thousand souvenir', 'open']	['grand opening']	0.689690602358
+['thousand souvenir', 'open']	['guthrie market']	0.0827346205535
+['thousand souvenir', 'open']	['two souvenir different typess']	0.155842182951
+['thousand souvenir', 'open']	['20 cent']	0.334357794603
+['thousand souvenir', 'open']	['type']	0.17627094573
+['thousand souvenir', 'open']	['cent']	0.11596780482
+['thousand souvenir', 'open']	['25 cent']	0.334357794603
+['thousand souvenir', 'open']	['souvenir']	0.789928976918
+['thousand souvenir', 'open']	['220 dollar']	0.0901100077042
+['thousand souvenir', 'open']	['25 cent souvenier']	0.33845188701
+['souvenir', 'open']	['grand opening']	0.201314863969
+['souvenir', 'open']	['guthrie market']	0.0696933362217
+['souvenir', 'open']	['two souvenir different typess']	0.210350911093
+['souvenir', 'open']	['20 cent']	0.0746958245975
+['souvenir', 'open']	['type']	0.0822747691784
+['souvenir', 'open']	['cent']	0.0240886330375
+['souvenir', 'open']	['25 cent']	0.0746958245975
+['souvenir', 'open']	['thousand souvenir']	0.692205356686
+['souvenir', 'open']	['220 dollar']	0.0696933362217
+['souvenir', 'open']	['25 cent souvenier']	0.0807707659053
+['220 dollar', 'open']	['grand opening']	0.226633386437
+['220 dollar', 'open']	['guthrie market']	0.0901100077042
+['220 dollar', 'open']	['two souvenir different typess']	0.0920786332799
+['220 dollar', 'open']	['20 cent']	0.0897823390711
+['220 dollar', 'open']	['type']	0.259989362202
+['220 dollar', 'open']	['cent']	0.758044705089
+['220 dollar', 'open']	['25 cent']	0.0897823390711
+['220 dollar', 'open']	['thousand souvenir']	0.0833805889219
+['220 dollar', 'open']	['souvenir']	0.715144386316
+['220 dollar', 'open']	['25 cent souvenier']	0.0920786332799
+['25 cent souvenier', 'open']	['grand opening']	0.432370124106
+['25 cent souvenier', 'open']	['guthrie market']	0.0827346205535
+['25 cent souvenier', 'open']	['two souvenir different typess']	0.160359361629
+['25 cent souvenier', 'open']	['20 cent']	0.329189193165
+['25 cent souvenier', 'open']	['type']	0.150926624727
+['25 cent souvenier', 'open']	['cent']	0.175610707916
+['25 cent souvenier', 'open']	['25 cent']	0.480735518393
+['25 cent souvenier', 'open']	['thousand souvenir']	0.431974313041
+['25 cent souvenier', 'open']	['souvenir']	0.69319057077
+['25 cent souvenier', 'open']	['220 dollar']	0.0901100077042
+['grand opening', 'guthrie market']	['open']	0.246461502376
+['grand opening', 'guthrie market']	['two souvenir different typess']	0.174332938864
+['grand opening', 'guthrie market']	['20 cent']	0.341495179861
+['grand opening', 'guthrie market']	['type']	0.115682209346
+['grand opening', 'guthrie market']	['cent']	0.0132263547461
+['grand opening', 'guthrie market']	['25 cent']	0.341495179861
+['grand opening', 'guthrie market']	['thousand souvenir']	0.498338895266
+['grand opening', 'guthrie market']	['souvenir']	0.105969303899
+['grand opening', 'guthrie market']	['220 dollar']	0.0901100077042
+['grand opening', 'guthrie market']	['25 cent souvenier']	0.365426502964
+['open', 'guthrie market']	['grand opening']	0.225385310072
+['open', 'guthrie market']	['two souvenir different typess']	0.0887553862424
+['open', 'guthrie market']	['20 cent']	0.0824069519204
+['open', 'guthrie market']	['type']	0.172942190667
+['open', 'guthrie market']	['cent']	0.11596780482
+['open', 'guthrie market']	['25 cent']	0.0824069519204
+['open', 'guthrie market']	['thousand souvenir']	0.0800317642921
+['open', 'guthrie market']	['souvenir']	0.69319057077
+['open', 'guthrie market']	['220 dollar']	0.0901100077042
+['open', 'guthrie market']	['25 cent souvenier']	0.0887553862424
+['two souvenir different typess', 'guthrie market']	['grand opening']	0.136872586061
+['two souvenir different typess', 'guthrie market']	['open']	0.0976030424116
+['two souvenir different typess', 'guthrie market']	['20 cent']	0.110437797482
+['two souvenir different typess', 'guthrie market']	['type']	0.497467557117
+['two souvenir different typess', 'guthrie market']	['cent']	0.012852508684
+['two souvenir different typess', 'guthrie market']	['25 cent']	0.110437797482
+['two souvenir different typess', 'guthrie market']	['thousand souvenir']	0.136872586061
+['two souvenir different typess', 'guthrie market']	['souvenir']	0.239146668484
+['two souvenir different typess', 'guthrie market']	['220 dollar']	0.0988755105172
+['two souvenir different typess', 'guthrie market']	['25 cent souvenier']	0.180247539967
+['20 cent', 'guthrie market']	['grand opening']	0.286862480671
+['20 cent', 'guthrie market']	['open']	0.0690378963307
+['20 cent', 'guthrie market']	['two souvenir different typess']	0.138084883792
+['20 cent', 'guthrie market']	['type']	0.0399270711212
+['20 cent', 'guthrie market']	['cent']	0.542443262272
+['20 cent', 'guthrie market']	['25 cent']	0.72021221181
+['20 cent', 'guthrie market']	['thousand souvenir']	0.286862480671
+['20 cent', 'guthrie market']	['souvenir']	0.0673701015291
+['20 cent', 'guthrie market']	['220 dollar']	0.0737139440912
+['20 cent', 'guthrie market']	['25 cent souvenier']	0.272496363872
+['type', 'guthrie market']	['grand opening']	0.0852971628041
+['type', 'guthrie market']	['open']	0.139233701321
+['type', 'guthrie market']	['two souvenir different typess']	0.308669474868
+['type', 'guthrie market']	['20 cent']	0.0529489101667
+['type', 'guthrie market']	['cent']	0.197894378929
+['type', 'guthrie market']	['25 cent']	0.0529489101667
+['type', 'guthrie market']	['thousand souvenir']	0.0453544228225
+['type', 'guthrie market']	['souvenir']	0.115608102512
+['type', 'guthrie market']	['220 dollar']	0.112270510071
+['type', 'guthrie market']	['25 cent souvenier']	0.0518391118061
+['cent', 'guthrie market']	['grand opening']	0.0361569291624
+['cent', 'guthrie market']	['open']	0.110225443993
+['cent', 'guthrie market']	['two souvenir different typess']	0.0444435333372
+['cent', 'guthrie market']	['20 cent']	0.469762629709
+['cent', 'guthrie market']	['type']	0.290437893167
+['cent', 'guthrie market']	['25 cent']	0.469762629709
+['cent', 'guthrie market']	['thousand souvenir']	0.0361569291624
+['cent', 'guthrie market']	['souvenir']	0.111172421365
+['cent', 'guthrie market']	['220 dollar']	0.315074288357
+['cent', 'guthrie market']	['25 cent souvenier']	0.160870126422
+['25 cent', 'guthrie market']	['grand opening']	0.286862480671
+['25 cent', 'guthrie market']	['open']	0.0690378963307
+['25 cent', 'guthrie market']	['two souvenir different typess']	0.138084883792
+['25 cent', 'guthrie market']	['20 cent']	0.72021221181
+['25 cent', 'guthrie market']	['type']	0.0399270711212
+['25 cent', 'guthrie market']	['cent']	0.542443262272
+['25 cent', 'guthrie market']	['thousand souvenir']	0.286862480671
+['25 cent', 'guthrie market']	['souvenir']	0.0673701015291
+['25 cent', 'guthrie market']	['220 dollar']	0.0737139440912
+['25 cent', 'guthrie market']	['25 cent souvenier']	0.456253030721
+['thousand souvenir', 'guthrie market']	['grand opening']	0.498338895266
+['thousand souvenir', 'guthrie market']	['open']	0.0777864840342
+['thousand souvenir', 'guthrie market']	['two souvenir different typess']	0.174332938864
+['thousand souvenir', 'guthrie market']	['20 cent']	0.341495179861
+['thousand souvenir', 'guthrie market']	['type']	0.0542425509254
+['thousand souvenir', 'guthrie market']	['cent']	0.0132263547461
+['thousand souvenir', 'guthrie market']	['25 cent']	0.341495179861
+['thousand souvenir', 'guthrie market']	['souvenir']	0.597810090929
+['thousand souvenir', 'guthrie market']	['220 dollar']	0.0901100077042
+['thousand souvenir', 'guthrie market']	['25 cent souvenier']	0.365426502964
+['souvenir', 'guthrie market']	['grand opening']	0.103222748661
+['souvenir', 'guthrie market']	['open']	0.698536001133
+['souvenir', 'guthrie market']	['two souvenir different typess']	0.196478418073
+['souvenir', 'guthrie market']	['20 cent']	0.0746958245975
+['souvenir', 'guthrie market']	['type']	0.112485887831
+['souvenir', 'guthrie market']	['cent']	0.0806965185133
+['souvenir', 'guthrie market']	['25 cent']	0.0746958245975
+['souvenir', 'guthrie market']	['thousand souvenir']	0.701554947584
+['souvenir', 'guthrie market']	['220 dollar']	0.0696933362217
+['souvenir', 'guthrie market']	['25 cent souvenier']	0.080802298149
+['220 dollar', 'guthrie market']	['grand opening']	0.0827346205535
+['220 dollar', 'guthrie market']	['open']	0.0777864840342
+['220 dollar', 'guthrie market']	['two souvenir different typess']	0.0908034291173
+['220 dollar', 'guthrie market']	['20 cent']	0.0824069519204
+['220 dollar', 'guthrie market']	['type']	0.0742194490354
+['220 dollar', 'guthrie market']	['cent']	0.402837341653
+['220 dollar', 'guthrie market']	['25 cent']	0.0824069519204
+['220 dollar', 'guthrie market']	['thousand souvenir']	0.0827346205535
+['220 dollar', 'guthrie market']	['souvenir']	0.0774561735493
+['220 dollar', 'guthrie market']	['25 cent souvenier']	0.0908034291173
+['25 cent souvenier', 'guthrie market']	['grand opening']	0.481561194969
+['25 cent souvenier', 'guthrie market']	['open']	0.158341398524
+['25 cent souvenier', 'guthrie market']	['two souvenir different typess']	0.240931142421
+['25 cent souvenier', 'guthrie market']	['20 cent']	0.433028455502
+['25 cent souvenier', 'guthrie market']	['type']	0.0864785250676
+['25 cent souvenier', 'guthrie market']	['cent']	0.226858887846
+['25 cent souvenier', 'guthrie market']	['25 cent']	0.486385005071
+['25 cent souvenier', 'guthrie market']	['thousand souvenir']	0.481561194969
+['25 cent souvenier', 'guthrie market']	['souvenir']	0.15219441396
+['25 cent souvenier', 'guthrie market']	['220 dollar']	0.15961386663
+['grand opening', 'two souvenir different typess']	['open']	0.370884653974
+['grand opening', 'two souvenir different typess']	['guthrie market']	0.0915001233665
+['grand opening', 'two souvenir different typess']	['20 cent']	0.458142672201
+['grand opening', 'two souvenir different typess']	['type']	0.579908825458
+['grand opening', 'two souvenir different typess']	['cent']	0.012852508684
+['grand opening', 'two souvenir different typess']	['25 cent']	0.458142672201
+['grand opening', 'two souvenir different typess']	['thousand souvenir']	0.531822377869
+['grand opening', 'two souvenir different typess']	['souvenir']	0.284680711974
+['grand opening', 'two souvenir different typess']	['220 dollar']	0.0988755105172
+['grand opening', 'two souvenir different typess']	['25 cent souvenier']	0.461265101813
+['open', 'two souvenir different typess']	['grand opening']	0.312401864201
+['open', 'two souvenir different typess']	['guthrie market']	0.152238479479
+['open', 'two souvenir different typess']	['20 cent']	0.171176153595
+['open', 'two souvenir different typess']	['type']	0.538019534462
+['open', 'two souvenir different typess']	['cent']	0.118959946751
+['open', 'two souvenir different typess']	['25 cent']	0.171176153595
+['open', 'two souvenir different typess']	['thousand souvenir']	0.1993941562
+['open', 'two souvenir different typess']	['souvenir']	0.514865876162
+['open', 'two souvenir different typess']	['220 dollar']	0.15961386663
+['open', 'two souvenir different typess']	['25 cent souvenier']	0.220456529988
+['guthrie market', 'two souvenir different typess']	['grand opening']	0.136872586061
+['guthrie market', 'two souvenir different typess']	['open']	0.0976030424116
+['guthrie market', 'two souvenir different typess']	['20 cent']	0.110437797482
+['guthrie market', 'two souvenir different typess']	['type']	0.497467557117
+['guthrie market', 'two souvenir different typess']	['cent']	0.012852508684
+['guthrie market', 'two souvenir different typess']	['25 cent']	0.110437797482
+['guthrie market', 'two souvenir different typess']	['thousand souvenir']	0.136872586061
+['guthrie market', 'two souvenir different typess']	['souvenir']	0.239146668484
+['guthrie market', 'two souvenir different typess']	['220 dollar']	0.0988755105172
+['guthrie market', 'two souvenir different typess']	['25 cent souvenier']	0.180247539967
+['20 cent', 'two souvenir different typess']	['grand opening']	0.367793761987
+['20 cent', 'two souvenir different typess']	['open']	0.0634627444343
+['20 cent', 'two souvenir different typess']	['guthrie market']	0.0641181843254
+['20 cent', 'two souvenir different typess']	['type']	0.452315607446
+['20 cent', 'two souvenir different typess']	['cent']	0.491411212392
+['20 cent', 'two souvenir different typess']	['25 cent']	0.774108598795
+['20 cent', 'two souvenir different typess']	['thousand souvenir']	0.367793761987
+['20 cent', 'two souvenir different typess']	['souvenir']	0.224303526252
+['20 cent', 'two souvenir different typess']	['220 dollar']	0.0681387921949
+['20 cent', 'two souvenir different typess']	['25 cent souvenier']	0.399325293519
+['type', 'two souvenir different typess']	['grand opening']	0.170308721787
+['type', 'two souvenir different typess']	['open']	0.162381313303
+['type', 'two souvenir different typess']	['guthrie market']	0.0713213227108
+['type', 'two souvenir different typess']	['20 cent']	0.0781810592235
+['type', 'two souvenir different typess']	['cent']	0.194621147306
+['type', 'two souvenir different typess']	['25 cent']	0.0781810592235
+['type', 'two souvenir different typess']	['thousand souvenir']	0.114562876469
+['type', 'two souvenir different typess']	['souvenir']	0.147142501444
+['type', 'two souvenir different typess']	['220 dollar']	0.15301964649
+['type', 'two souvenir different typess']	['25 cent souvenier']	0.0949001660169
+['cent', 'two souvenir different typess']	['grand opening']	0.0874257981742
+['cent', 'two souvenir different typess']	['open']	0.139073088995
+['cent', 'two souvenir different typess']	['guthrie market']	0.0660803704124
+['cent', 'two souvenir different typess']	['20 cent']	0.621371747931
+['cent', 'two souvenir different typess']	['type']	0.630837980838
+['cent', 'two souvenir different typess']	['25 cent']	0.621371747931
+['cent', 'two souvenir different typess']	['thousand souvenir']	0.0874257981742
+['cent', 'two souvenir different typess']	['souvenir']	0.155120226292
+['cent', 'two souvenir different typess']	['220 dollar']	0.258187982655
+['cent', 'two souvenir different typess']	['25 cent souvenier']	0.179606991544
+['25 cent', 'two souvenir different typess']	['grand opening']	0.367793761987
+['25 cent', 'two souvenir different typess']	['open']	0.0634627444343
+['25 cent', 'two souvenir different typess']	['guthrie market']	0.0641181843254
+['25 cent', 'two souvenir different typess']	['20 cent']	0.774108598795
+['25 cent', 'two souvenir different typess']	['type']	0.452315607446
+['25 cent', 'two souvenir different typess']	['cent']	0.491411212392
+['25 cent', 'two souvenir different typess']	['thousand souvenir']	0.367793761987
+['25 cent', 'two souvenir different typess']	['souvenir']	0.224303526252
+['25 cent', 'two souvenir different typess']	['220 dollar']	0.0681387921949
+['25 cent', 'two souvenir different typess']	['25 cent souvenier']	0.512977146241
+['thousand souvenir', 'two souvenir different typess']	['grand opening']	0.531822377869
+['thousand souvenir', 'two souvenir different typess']	['open']	0.0865519868472
+['thousand souvenir', 'two souvenir different typess']	['guthrie market']	0.0915001233665
+['thousand souvenir', 'two souvenir different typess']	['20 cent']	0.458142672201
+['thousand souvenir', 'two souvenir different typess']	['type']	0.579908825458
+['thousand souvenir', 'two souvenir different typess']	['cent']	0.012852508684
+['thousand souvenir', 'two souvenir different typess']	['25 cent']	0.458142672201
+['thousand souvenir', 'two souvenir different typess']	['souvenir']	0.783435394745
+['thousand souvenir', 'two souvenir different typess']	['220 dollar']	0.0988755105172
+['thousand souvenir', 'two souvenir different typess']	['25 cent souvenier']	0.461265101813
+['souvenir', 'two souvenir different typess']	['grand opening']	0.153571110153
+['souvenir', 'two souvenir different typess']	['open']	0.643758005088
+['souvenir', 'two souvenir different typess']	['guthrie market']	0.124856540438
+['souvenir', 'two souvenir different typess']	['20 cent']	0.1522550524
+['souvenir', 'two souvenir different typess']	['type']	0.559052583477
+['souvenir', 'two souvenir different typess']	['cent']	0.0836886604443
+['souvenir', 'two souvenir different typess']	['25 cent']	0.1522550524
+['souvenir', 'two souvenir different typess']	['thousand souvenir']	0.722715611811
+['souvenir', 'two souvenir different typess']	['220 dollar']	0.124856540438
+['souvenir', 'two souvenir different typess']	['25 cent souvenier']	0.183540220799
+['220 dollar', 'two souvenir different typess']	['grand opening']	0.122899008826
+['220 dollar', 'two souvenir different typess']	['open']	0.0865519868472
+['220 dollar', 'two souvenir different typess']	['guthrie market']	0.0915001233665
+['220 dollar', 'two souvenir different typess']	['20 cent']	0.110437797482
+['220 dollar', 'two souvenir different typess']	['type']	0.521451233667
+['220 dollar', 'two souvenir different typess']	['cent']	0.274133421759
+['220 dollar', 'two souvenir different typess']	['25 cent']	0.110437797482
+['220 dollar', 'two souvenir different typess']	['thousand souvenir']	0.122899008826
+['220 dollar', 'two souvenir different typess']	['souvenir']	0.225417043991
+['220 dollar', 'two souvenir different typess']	['25 cent souvenier']	0.166273962731
+['25 cent souvenier', 'two souvenir different typess']	['grand opening']	0.445494492494
+['25 cent souvenier', 'two souvenir different typess']	['open']	0.0976030424116
+['25 cent souvenier', 'two souvenir different typess']	['guthrie market']	0.0915001233665
+['25 cent souvenier', 'two souvenir different typess']	['20 cent']	0.458142672201
+['25 cent souvenier', 'two souvenir different typess']	['type']	0.428287082511
+['25 cent souvenier', 'two souvenir different typess']	['cent']	0.217306733651
+['25 cent souvenier', 'two souvenir different typess']	['25 cent']	0.477463458007
+['25 cent souvenier', 'two souvenir different typess']	['thousand souvenir']	0.445494492494
+['25 cent souvenier', 'two souvenir different typess']	['souvenir']	0.26167516637
+['25 cent souvenier', 'two souvenir different typess']	['220 dollar']	0.0988755105172
+['grand opening', '20 cent']	['open']	0.282743574859
+['grand opening', '20 cent']	['guthrie market']	0.0696933362217
+['grand opening', '20 cent']	['two souvenir different typess']	0.260639003392
+['grand opening', '20 cent']	['type']	0.0961411516641
+['grand opening', '20 cent']	['cent']	0.471678880869
+['grand opening', '20 cent']	['25 cent']	0.796432477039
+['grand opening', '20 cent']	['thousand souvenir']	0.490039899844
+['grand opening', '20 cent']	['souvenir']	0.0936090537696
+['grand opening', '20 cent']	['220 dollar']	0.0737139440912
+['grand opening', '20 cent']	['25 cent souvenier']	0.369831327203
+['open', '20 cent']	['grand opening']	0.360002673457
+['open', '20 cent']	['guthrie market']	0.0696933362217
+['open', '20 cent']	['two souvenir different typess']	0.133567705115
+['open', '20 cent']	['type']	0.142063003052
+['open', '20 cent']	['cent']	0.806548638047
+['open', '20 cent']	['25 cent']	0.72021221181
+['open', '20 cent']	['thousand souvenir']	0.383542576817
+['open', '20 cent']	['souvenir']	0.722984620103
+['open', '20 cent']	['220 dollar']	0.0737139440912
+['open', '20 cent']	['25 cent souvenier']	0.273189578515
+['guthrie market', '20 cent']	['grand opening']	0.286862480671
+['guthrie market', '20 cent']	['open']	0.0690378963307
+['guthrie market', '20 cent']	['two souvenir different typess']	0.138084883792
+['guthrie market', '20 cent']	['type']	0.0399270711212
+['guthrie market', '20 cent']	['cent']	0.542443262272
+['guthrie market', '20 cent']	['25 cent']	0.72021221181
+['guthrie market', '20 cent']	['thousand souvenir']	0.286862480671
+['guthrie market', '20 cent']	['souvenir']	0.0673701015291
+['guthrie market', '20 cent']	['220 dollar']	0.0737139440912
+['guthrie market', '20 cent']	['25 cent souvenier']	0.272496363872
+['two souvenir different typess', '20 cent']	['grand opening']	0.367793761987
+['two souvenir different typess', '20 cent']	['open']	0.0634627444343
+['two souvenir different typess', '20 cent']	['guthrie market']	0.0641181843254
+['two souvenir different typess', '20 cent']	['type']	0.452315607446
+['two souvenir different typess', '20 cent']	['cent']	0.491411212392
+['two souvenir different typess', '20 cent']	['25 cent']	0.774108598795
+['two souvenir different typess', '20 cent']	['thousand souvenir']	0.367793761987
+['two souvenir different typess', '20 cent']	['souvenir']	0.224303526252
+['two souvenir different typess', '20 cent']	['220 dollar']	0.0681387921949
+['two souvenir different typess', '20 cent']	['25 cent souvenier']	0.399325293519
+['type', '20 cent']	['grand opening']	0.318184552735
+['type', '20 cent']	['open']	0.201279476405
+['type', '20 cent']	['guthrie market']	0.109706780308
+['type', '20 cent']	['two souvenir different typess']	0.369214157926
+['type', '20 cent']	['cent']	0.518971632978
+['type', '20 cent']	['25 cent']	0.652489213294
+['type', '20 cent']	['thousand souvenir']	0.326794209512
+['type', '20 cent']	['souvenir']	0.176434044966
+['type', '20 cent']	['220 dollar']	0.168920658339
+['type', '20 cent']	['25 cent souvenier']	0.237277408256
+['cent', '20 cent']	['grand opening']	0.451088678848
+['cent', '20 cent']	['open']	0.355121265862
+['cent', '20 cent']	['guthrie market']	0.147580659745
+['cent', '20 cent']	['two souvenir different typess']	0.391481739308
+['cent', '20 cent']	['type']	0.488822617605
+['cent', '20 cent']	['25 cent']	0.748886101817
+['cent', '20 cent']	['thousand souvenir']	0.465454400845
+['cent', '20 cent']	['souvenir']	0.356422853163
+['cent', '20 cent']	['220 dollar']	0.49411505328
+['cent', '20 cent']	['25 cent souvenier']	0.487807129242
+['25 cent', '20 cent']	['grand opening']	0.666513488124
+['25 cent', '20 cent']	['open']	0.379955862467
+['25 cent', '20 cent']	['guthrie market']	0.187609861285
+['25 cent', '20 cent']	['two souvenir different typess']	0.549741738207
+['25 cent', '20 cent']	['type']	0.354370796098
+['25 cent', '20 cent']	['cent']	0.780207944125
+['25 cent', '20 cent']	['thousand souvenir']	0.666513488124
+['25 cent', '20 cent']	['souvenir']	0.394498633382
+['25 cent', '20 cent']	['220 dollar']	0.177915983734
+['25 cent', '20 cent']	['25 cent souvenier']	0.541051678388
+['thousand souvenir', '20 cent']	['grand opening']	0.490039899844
+['thousand souvenir', '20 cent']	['open']	0.0634148935911
+['thousand souvenir', '20 cent']	['guthrie market']	0.0696933362217
+['thousand souvenir', '20 cent']	['two souvenir different typess']	0.260639003392
+['thousand souvenir', '20 cent']	['type']	0.0399270711212
+['thousand souvenir', '20 cent']	['cent']	0.542443262272
+['thousand souvenir', '20 cent']	['25 cent']	0.796432477039
+['thousand souvenir', '20 cent']	['souvenir']	0.537007741999
+['thousand souvenir', '20 cent']	['220 dollar']	0.0737139440912
+['thousand souvenir', '20 cent']	['25 cent souvenier']	0.369831327203
+['souvenir', '20 cent']	['grand opening']	0.383542576817
+['souvenir', '20 cent']	['open']	0.743649143518
+['souvenir', '20 cent']	['guthrie market']	0.131771183904
+['souvenir', '20 cent']	['two souvenir different typess']	0.279484189318
+['souvenir', '20 cent']	['type']	0.176434044966
+['souvenir', '20 cent']	['cent']	0.806548638047
+['souvenir', '20 cent']	['25 cent']	0.741109566307
+['souvenir', '20 cent']	['thousand souvenir']	0.769336710186
+['souvenir', '20 cent']	['220 dollar']	0.131771183904
+['souvenir', '20 cent']	['25 cent souvenier']	0.299115504441
+['220 dollar', '20 cent']	['grand opening']	0.274556493975
+['220 dollar', '20 cent']	['open']	0.0667637182209
+['220 dollar', '20 cent']	['guthrie market']	0.0696933362217
+['220 dollar', '20 cent']	['two souvenir different typess']	0.138084883792
+['220 dollar', '20 cent']	['type']	0.118678065215
+['220 dollar', '20 cent']	['cent']	0.7285732342
+['220 dollar', '20 cent']	['25 cent']	0.72021221181
+['220 dollar', '20 cent']	['thousand souvenir']	0.274556493975
+['220 dollar', '20 cent']	['souvenir']	0.0650959234194
+['220 dollar', '20 cent']	['25 cent souvenier']	0.258675225661
+['25 cent souvenier', '20 cent']	['grand opening']	0.407737880173
+['25 cent souvenier', '20 cent']	['open']	0.124201100547
+['25 cent souvenier', '20 cent']	['guthrie market']	0.124856540438
+['25 cent souvenier', '20 cent']	['two souvenir different typess']	0.308225336589
+['25 cent souvenier', '20 cent']	['type']	0.0739433949901
+['25 cent souvenier', '20 cent']	['cent']	0.50425218951
+['25 cent souvenier', '20 cent']	['25 cent']	0.789653667823
+['25 cent souvenier', '20 cent']	['thousand souvenir']	0.407737880173
+['25 cent souvenier', '20 cent']	['souvenir']	0.129886460887
+['25 cent souvenier', '20 cent']	['220 dollar']	0.128877148308
+['grand opening', 'type']	['open']	0.193967193959
+['grand opening', 'type']	['guthrie market']	0.0476289326264
+['grand opening', 'type']	['two souvenir different typess']	0.369214157926
+['grand opening', 'type']	['20 cent']	0.278246973497
+['grand opening', 'type']	['cent']	0.167119015487
+['grand opening', 'type']	['25 cent']	0.278246973497
+['grand opening', 'type']	['thousand souvenir']	0.330270654929
+['grand opening', 'type']	['souvenir']	0.195944301231
+['grand opening', 'type']	['220 dollar']	0.112270510071
+['grand opening', 'type']	['25 cent souvenier']	0.21135148233
+['open', 'type']	['grand opening']	0.11300813844
+['open', 'type']	['guthrie market']	0.0476289326264
+['open', 'type']	['two souvenir different typess']	0.308669474868
+['open', 'type']	['20 cent']	0.0529489101667
+['open', 'type']	['cent']	0.107151499302
+['open', 'type']	['25 cent']	0.0529489101667
+['open', 'type']	['thousand souvenir']	0.0460318882245
+['open', 'type']	['souvenir']	0.495512200818
+['open', 'type']	['220 dollar']	0.112270510071
+['open', 'type']	['25 cent souvenier']	0.0441669054693
+['guthrie market', 'type']	['grand opening']	0.0852971628041
+['guthrie market', 'type']	['open']	0.139233701321
+['guthrie market', 'type']	['two souvenir different typess']	0.308669474868
+['guthrie market', 'type']	['20 cent']	0.0529489101667
+['guthrie market', 'type']	['cent']	0.197894378929
+['guthrie market', 'type']	['25 cent']	0.0529489101667
+['guthrie market', 'type']	['thousand souvenir']	0.0453544228225
+['guthrie market', 'type']	['souvenir']	0.115608102512
+['guthrie market', 'type']	['220 dollar']	0.112270510071
+['guthrie market', 'type']	['25 cent souvenier']	0.0518391118061
+['two souvenir different typess', 'type']	['grand opening']	0.170308721787
+['two souvenir different typess', 'type']	['open']	0.162381313303
+['two souvenir different typess', 'type']	['guthrie market']	0.0713213227108
+['two souvenir different typess', 'type']	['20 cent']	0.0781810592235
+['two souvenir different typess', 'type']	['cent']	0.194621147306
+['two souvenir different typess', 'type']	['25 cent']	0.0781810592235
+['two souvenir different typess', 'type']	['thousand souvenir']	0.114562876469
+['two souvenir different typess', 'type']	['souvenir']	0.147142501444
+['two souvenir different typess', 'type']	['220 dollar']	0.15301964649
+['two souvenir different typess', 'type']	['25 cent souvenier']	0.0949001660169
+['20 cent', 'type']	['grand opening']	0.318184552735
+['20 cent', 'type']	['open']	0.201279476405
+['20 cent', 'type']	['guthrie market']	0.109706780308
+['20 cent', 'type']	['two souvenir different typess']	0.369214157926
+['20 cent', 'type']	['cent']	0.518971632978
+['20 cent', 'type']	['25 cent']	0.652489213294
+['20 cent', 'type']	['thousand souvenir']	0.326794209512
+['20 cent', 'type']	['souvenir']	0.176434044966
+['20 cent', 'type']	['220 dollar']	0.168920658339
+['20 cent', 'type']	['25 cent souvenier']	0.237277408256
+['cent', 'type']	['grand opening']	0.101474252747
+['cent', 'type']	['open']	0.0994039457006
+['cent', 'type']	['guthrie market']	0.0780842671024
+['cent', 'type']	['two souvenir different typess']	0.239015788418
+['cent', 'type']	['20 cent']	0.284531452873
+['cent', 'type']	['25 cent']	0.284531452873
+['cent', 'type']	['thousand souvenir']	0.0780842671024
+['cent', 'type']	['souvenir']	0.0860063051719
+['cent', 'type']	['220 dollar']	0.230391764105
+['cent', 'type']	['25 cent souvenier']	0.0848084541924
+['25 cent', 'type']	['grand opening']	0.318184552735
+['25 cent', 'type']	['open']	0.201279476405
+['25 cent', 'type']	['guthrie market']	0.109706780308
+['25 cent', 'type']	['two souvenir different typess']	0.369214157926
+['25 cent', 'type']	['20 cent']	0.652489213294
+['25 cent', 'type']	['cent']	0.518971632978
+['25 cent', 'type']	['thousand souvenir']	0.326794209512
+['25 cent', 'type']	['souvenir']	0.176434044966
+['25 cent', 'type']	['220 dollar']	0.168920658339
+['25 cent', 'type']	['25 cent souvenier']	0.255667622442
+['thousand souvenir', 'type']	['grand opening']	0.330270654929
+['thousand souvenir', 'type']	['open']	0.171342118004
+['thousand souvenir', 'type']	['guthrie market']	0.0476289326264
+['thousand souvenir', 'type']	['two souvenir different typess']	0.369214157926
+['thousand souvenir', 'type']	['20 cent']	0.278246973497
+['thousand souvenir', 'type']	['cent']	0.197894378929
+['thousand souvenir', 'type']	['25 cent']	0.278246973497
+['thousand souvenir', 'type']	['souvenir']	0.686314198791
+['thousand souvenir', 'type']	['220 dollar']	0.112270510071
+['thousand souvenir', 'type']	['25 cent souvenier']	0.21135148233
+['souvenir', 'type']	['grand opening']	0.119698912696
+['souvenir', 'type']	['open']	0.460314819285
+['souvenir', 'type']	['guthrie market']	0.107432270504
+['souvenir', 'type']	['two souvenir different typess']	0.380380612233
+['souvenir', 'type']	['20 cent']	0.115026757849
+['souvenir', 'type']	['cent']	0.173818165969
+['souvenir', 'type']	['25 cent']	0.115026757849
+['souvenir', 'type']	['thousand souvenir']	0.700458633801
+['souvenir', 'type']	['220 dollar']	0.18092475672
+['souvenir', 'type']	['25 cent souvenier']	0.106244753151
+['220 dollar', 'type']	['grand opening']	0.0852971628041
+['220 dollar', 'type']	['open']	0.171748686216
+['220 dollar', 'type']	['guthrie market']	0.0476289326264
+['220 dollar', 'type']	['two souvenir different typess']	0.308669474868
+['220 dollar', 'type']	['20 cent']	0.0529489101667
+['220 dollar', 'type']	['cent']	0.638724590447
+['220 dollar', 'type']	['25 cent']	0.0529489101667
+['220 dollar', 'type']	['thousand souvenir']	0.0476289326264
+['220 dollar', 'type']	['souvenir']	0.114760397634
+['220 dollar', 'type']	['25 cent souvenier']	0.0441669054693
+['25 cent souvenier', 'type']	['grand opening']	0.299153021203
+['25 cent souvenier', 'type']	['open']	0.139233701321
+['25 cent souvenier', 'type']	['guthrie market']	0.0476289326264
+['25 cent souvenier', 'type']	['two souvenir different typess']	0.361842363054
+['25 cent souvenier', 'type']	['20 cent']	0.254046840528
+['25 cent souvenier', 'type']	['cent']	0.170853614789
+['25 cent souvenier', 'type']	['25 cent']	0.266478276408
+['25 cent souvenier', 'type']	['thousand souvenir']	0.307762677981
+['25 cent souvenier', 'type']	['souvenir']	0.0806650086036
+['25 cent souvenier', 'type']	['220 dollar']	0.114739645874
+['grand opening', 'cent']	['open']	0.178062274385
+['grand opening', 'cent']	['guthrie market']	0.0361569291624
+['grand opening', 'cent']	['two souvenir different typess']	0.088897638925
+['grand opening', 'cent']	['20 cent']	0.69698447225
+['grand opening', 'cent']	['type']	0.434414340449
+['grand opening', 'cent']	['25 cent']	0.69698447225
+['grand opening', 'cent']	['thousand souvenir']	0.46082305538
+['grand opening', 'cent']	['souvenir']	0.170570680165
+['grand opening', 'cent']	['220 dollar']	0.315074288357
+['grand opening', 'cent']	['25 cent souvenier']	0.164135099213
+['open', 'cent']	['grand opening']	0.103279950981
+['open', 'cent']	['guthrie market']	0.0361569291624
+['open', 'cent']	['two souvenir different typess']	0.0444435333372
+['open', 'cent']	['20 cent']	0.466956305598
+['open', 'cent']	['type']	0.17855218673
+['open', 'cent']	['25 cent']	0.466956305598
+['open', 'cent']	['thousand souvenir']	0.0368701550083
+['open', 'cent']	['souvenir']	0.289497585797
+['open', 'cent']	['220 dollar']	0.281740955024
+['open', 'cent']	['25 cent souvenier']	0.128794836381
+['guthrie market', 'cent']	['grand opening']	0.0361569291624
+['guthrie market', 'cent']	['open']	0.110225443993
+['guthrie market', 'cent']	['two souvenir different typess']	0.0444435333372
+['guthrie market', 'cent']	['20 cent']	0.469762629709
+['guthrie market', 'cent']	['type']	0.290437893167
+['guthrie market', 'cent']	['25 cent']	0.469762629709
+['guthrie market', 'cent']	['thousand souvenir']	0.0361569291624
+['guthrie market', 'cent']	['souvenir']	0.111172421365
+['guthrie market', 'cent']	['220 dollar']	0.315074288357
+['guthrie market', 'cent']	['25 cent souvenier']	0.160870126422
+['two souvenir different typess', 'cent']	['grand opening']	0.0874257981742
+['two souvenir different typess', 'cent']	['open']	0.139073088995
+['two souvenir different typess', 'cent']	['guthrie market']	0.0660803704124
+['two souvenir different typess', 'cent']	['20 cent']	0.621371747931
+['two souvenir different typess', 'cent']	['type']	0.630837980838
+['two souvenir different typess', 'cent']	['25 cent']	0.621371747931
+['two souvenir different typess', 'cent']	['thousand souvenir']	0.0874257981742
+['two souvenir different typess', 'cent']	['souvenir']	0.155120226292
+['two souvenir different typess', 'cent']	['220 dollar']	0.258187982655
+['two souvenir different typess', 'cent']	['25 cent souvenier']	0.179606991544
+['20 cent', 'cent']	['grand opening']	0.451088678848
+['20 cent', 'cent']	['open']	0.355121265862
+['20 cent', 'cent']	['guthrie market']	0.147580659745
+['20 cent', 'cent']	['two souvenir different typess']	0.391481739308
+['20 cent', 'cent']	['type']	0.488822617605
+['20 cent', 'cent']	['25 cent']	0.748886101817
+['20 cent', 'cent']	['thousand souvenir']	0.465454400845
+['20 cent', 'cent']	['souvenir']	0.356422853163
+['20 cent', 'cent']	['220 dollar']	0.49411505328
+['20 cent', 'cent']	['25 cent souvenier']	0.487807129242
+['type', 'cent']	['grand opening']	0.101474252747
+['type', 'cent']	['open']	0.0994039457006
+['type', 'cent']	['guthrie market']	0.0780842671024
+['type', 'cent']	['two souvenir different typess']	0.239015788418
+['type', 'cent']	['20 cent']	0.284531452873
+['type', 'cent']	['25 cent']	0.284531452873
+['type', 'cent']	['thousand souvenir']	0.0780842671024
+['type', 'cent']	['souvenir']	0.0860063051719
+['type', 'cent']	['220 dollar']	0.230391764105
+['type', 'cent']	['25 cent souvenier']	0.0848084541924
+['25 cent', 'cent']	['grand opening']	0.451088678848
+['25 cent', 'cent']	['open']	0.355121265862
+['25 cent', 'cent']	['guthrie market']	0.147580659745
+['25 cent', 'cent']	['two souvenir different typess']	0.391481739308
+['25 cent', 'cent']	['20 cent']	0.748886101817
+['25 cent', 'cent']	['type']	0.488822617605
+['25 cent', 'cent']	['thousand souvenir']	0.465454400845
+['25 cent', 'cent']	['souvenir']	0.356422853163
+['25 cent', 'cent']	['220 dollar']	0.49411505328
+['25 cent', 'cent']	['25 cent souvenier']	0.63228071952
+['thousand souvenir', 'cent']	['grand opening']	0.453532329015
+['thousand souvenir', 'cent']	['open']	0.148750379499
+['thousand souvenir', 'cent']	['guthrie market']	0.0361569291624
+['thousand souvenir', 'cent']	['two souvenir different typess']	0.088897638925
+['thousand souvenir', 'cent']	['20 cent']	0.69698447225
+['thousand souvenir', 'cent']	['type']	0.333786634821
+['thousand souvenir', 'cent']	['25 cent']	0.69698447225
+['thousand souvenir', 'cent']	['souvenir']	0.425431454769
+['thousand souvenir', 'cent']	['220 dollar']	0.315074288357
+['thousand souvenir', 'cent']	['25 cent souvenier']	0.164135099213
+['souvenir', 'cent']	['grand opening']	0.118523866578
+['souvenir', 'cent']	['open']	0.388119944294
+['souvenir', 'cent']	['guthrie market']	0.0982347768443
+['souvenir', 'cent']	['two souvenir different typess']	0.149528425631
+['souvenir', 'cent']	['20 cent']	0.493276242557
+['souvenir', 'cent']	['type']	0.299214064086
+['souvenir', 'cent']	['25 cent']	0.493276242557
+['souvenir', 'cent']	['thousand souvenir']	0.354521033799
+['souvenir', 'cent']	['220 dollar']	0.367881615558
+['souvenir', 'cent']	['25 cent souvenier']	0.160148461721
+['220 dollar', 'cent']	['grand opening']	0.0361569291624
+['220 dollar', 'cent']	['open']	0.109561042279
+['220 dollar', 'cent']	['guthrie market']	0.0361569291624
+['220 dollar', 'cent']	['two souvenir different typess']	0.0444435333372
+['220 dollar', 'cent']	['20 cent']	0.469762629709
+['220 dollar', 'cent']	['type']	0.467747673782
+['220 dollar', 'cent']	['25 cent']	0.469762629709
+['220 dollar', 'cent']	['thousand souvenir']	0.0361569291624
+['220 dollar', 'cent']	['souvenir']	0.11086262958
+['220 dollar', 'cent']	['25 cent souvenier']	0.177726668395
+['25 cent souvenier', 'cent']	['grand opening']	0.181962230044
+['25 cent souvenier', 'cent']	['open']	0.080987287783
+['25 cent souvenier', 'cent']	['guthrie market']	0.0351005911342
+['25 cent souvenier', 'cent']	['two souvenir different typess']	0.0934148176024
+['25 cent souvenier', 'cent']	['20 cent']	0.653818570987
+['25 cent souvenier', 'cent']	['type']	0.258215023444
+['25 cent souvenier', 'cent']	['25 cent']	0.7858257382
+['25 cent souvenier', 'cent']	['thousand souvenir']	0.196327952041
+['25 cent souvenier', 'cent']	['souvenir']	0.0819342651555
+['25 cent souvenier', 'cent']	['220 dollar']	0.265178559295
+['grand opening', '25 cent']	['open']	0.282743574859
+['grand opening', '25 cent']	['guthrie market']	0.0696933362217
+['grand opening', '25 cent']	['two souvenir different typess']	0.260639003392
+['grand opening', '25 cent']	['20 cent']	0.796432477039
+['grand opening', '25 cent']	['type']	0.0961411516641
+['grand opening', '25 cent']	['cent']	0.471678880869
+['grand opening', '25 cent']	['thousand souvenir']	0.490039899844
+['grand opening', '25 cent']	['souvenir']	0.0936090537696
+['grand opening', '25 cent']	['220 dollar']	0.0737139440912
+['grand opening', '25 cent']	['25 cent souvenier']	0.483528961126
+['open', '25 cent']	['grand opening']	0.360002673457
+['open', '25 cent']	['guthrie market']	0.0696933362217
+['open', '25 cent']	['two souvenir different typess']	0.133567705115
+['open', '25 cent']	['20 cent']	0.72021221181
+['open', '25 cent']	['type']	0.142063003052
+['open', '25 cent']	['cent']	0.806548638047
+['open', '25 cent']	['thousand souvenir']	0.383542576817
+['open', '25 cent']	['souvenir']	0.722984620103
+['open', '25 cent']	['220 dollar']	0.0737139440912
+['open', '25 cent']	['25 cent souvenier']	0.430211364054
+['guthrie market', '25 cent']	['grand opening']	0.286862480671
+['guthrie market', '25 cent']	['open']	0.0690378963307
+['guthrie market', '25 cent']	['two souvenir different typess']	0.138084883792
+['guthrie market', '25 cent']	['20 cent']	0.72021221181
+['guthrie market', '25 cent']	['type']	0.0399270711212
+['guthrie market', '25 cent']	['cent']	0.542443262272
+['guthrie market', '25 cent']	['thousand souvenir']	0.286862480671
+['guthrie market', '25 cent']	['souvenir']	0.0673701015291
+['guthrie market', '25 cent']	['220 dollar']	0.0737139440912
+['guthrie market', '25 cent']	['25 cent souvenier']	0.456253030721
+['two souvenir different typess', '25 cent']	['grand opening']	0.367793761987
+['two souvenir different typess', '25 cent']	['open']	0.0634627444343
+['two souvenir different typess', '25 cent']	['guthrie market']	0.0641181843254
+['two souvenir different typess', '25 cent']	['20 cent']	0.774108598795
+['two souvenir different typess', '25 cent']	['type']	0.452315607446
+['two souvenir different typess', '25 cent']	['cent']	0.491411212392
+['two souvenir different typess', '25 cent']	['thousand souvenir']	0.367793761987
+['two souvenir different typess', '25 cent']	['souvenir']	0.224303526252
+['two souvenir different typess', '25 cent']	['220 dollar']	0.0681387921949
+['two souvenir different typess', '25 cent']	['25 cent souvenier']	0.512977146241
+['20 cent', '25 cent']	['grand opening']	0.666513488124
+['20 cent', '25 cent']	['open']	0.379955862467
+['20 cent', '25 cent']	['guthrie market']	0.187609861285
+['20 cent', '25 cent']	['two souvenir different typess']	0.549741738207
+['20 cent', '25 cent']	['type']	0.354370796098
+['20 cent', '25 cent']	['cent']	0.780207944125
+['20 cent', '25 cent']	['thousand souvenir']	0.666513488124
+['20 cent', '25 cent']	['souvenir']	0.394498633382
+['20 cent', '25 cent']	['220 dollar']	0.177915983734
+['20 cent', '25 cent']	['25 cent souvenier']	0.541051678388
+['type', '25 cent']	['grand opening']	0.318184552735
+['type', '25 cent']	['open']	0.201279476405
+['type', '25 cent']	['guthrie market']	0.109706780308
+['type', '25 cent']	['two souvenir different typess']	0.369214157926
+['type', '25 cent']	['20 cent']	0.652489213294
+['type', '25 cent']	['cent']	0.518971632978
+['type', '25 cent']	['thousand souvenir']	0.326794209512
+['type', '25 cent']	['souvenir']	0.176434044966
+['type', '25 cent']	['220 dollar']	0.168920658339
+['type', '25 cent']	['25 cent souvenier']	0.255667622442
+['cent', '25 cent']	['grand opening']	0.451088678848
+['cent', '25 cent']	['open']	0.355121265862
+['cent', '25 cent']	['guthrie market']	0.147580659745
+['cent', '25 cent']	['two souvenir different typess']	0.391481739308
+['cent', '25 cent']	['20 cent']	0.748886101817
+['cent', '25 cent']	['type']	0.488822617605
+['cent', '25 cent']	['thousand souvenir']	0.465454400845
+['cent', '25 cent']	['souvenir']	0.356422853163
+['cent', '25 cent']	['220 dollar']	0.49411505328
+['cent', '25 cent']	['25 cent souvenier']	0.63228071952
+['thousand souvenir', '25 cent']	['grand opening']	0.490039899844
+['thousand souvenir', '25 cent']	['open']	0.0634148935911
+['thousand souvenir', '25 cent']	['guthrie market']	0.0696933362217
+['thousand souvenir', '25 cent']	['two souvenir different typess']	0.260639003392
+['thousand souvenir', '25 cent']	['20 cent']	0.796432477039
+['thousand souvenir', '25 cent']	['type']	0.0399270711212
+['thousand souvenir', '25 cent']	['cent']	0.542443262272
+['thousand souvenir', '25 cent']	['souvenir']	0.537007741999
+['thousand souvenir', '25 cent']	['220 dollar']	0.0737139440912
+['thousand souvenir', '25 cent']	['25 cent souvenier']	0.483528961126
+['souvenir', '25 cent']	['grand opening']	0.383542576817
+['souvenir', '25 cent']	['open']	0.743649143518
+['souvenir', '25 cent']	['guthrie market']	0.131771183904
+['souvenir', '25 cent']	['two souvenir different typess']	0.279484189318
+['souvenir', '25 cent']	['20 cent']	0.741109566307
+['souvenir', '25 cent']	['type']	0.176434044966
+['souvenir', '25 cent']	['cent']	0.806548638047
+['souvenir', '25 cent']	['thousand souvenir']	0.769336710186
+['souvenir', '25 cent']	['220 dollar']	0.131771183904
+['souvenir', '25 cent']	['25 cent souvenier']	0.430211364054
+['220 dollar', '25 cent']	['grand opening']	0.274556493975
+['220 dollar', '25 cent']	['open']	0.0667637182209
+['220 dollar', '25 cent']	['guthrie market']	0.0696933362217
+['220 dollar', '25 cent']	['two souvenir different typess']	0.138084883792
+['220 dollar', '25 cent']	['20 cent']	0.72021221181
+['220 dollar', '25 cent']	['type']	0.118678065215
+['220 dollar', '25 cent']	['cent']	0.7285732342
+['220 dollar', '25 cent']	['thousand souvenir']	0.274556493975
+['220 dollar', '25 cent']	['souvenir']	0.0650959234194
+['220 dollar', '25 cent']	['25 cent souvenier']	0.456253030721
+['25 cent souvenier', '25 cent']	['grand opening']	0.407737880173
+['25 cent souvenier', '25 cent']	['open']	0.124201100547
+['25 cent souvenier', '25 cent']	['guthrie market']	0.124856540438
+['25 cent souvenier', '25 cent']	['two souvenir different typess']	0.308225336589
+['25 cent souvenier', '25 cent']	['20 cent']	0.827542261618
+['25 cent souvenier', '25 cent']	['type']	0.0739433949901
+['25 cent souvenier', '25 cent']	['cent']	0.50425218951
+['25 cent souvenier', '25 cent']	['thousand souvenir']	0.407737880173
+['25 cent souvenier', '25 cent']	['souvenir']	0.129886460887
+['25 cent souvenier', '25 cent']	['220 dollar']	0.128877148308
+['grand opening', 'thousand souvenir']	['open']	0.216514195813
+['grand opening', 'thousand souvenir']	['guthrie market']	0.0827346205535
+['grand opening', 'thousand souvenir']	['two souvenir different typess']	0.256272974513
+['grand opening', 'thousand souvenir']	['20 cent']	0.42135232689
+['grand opening', 'thousand souvenir']	['type']	0.077819629741
+['grand opening', 'thousand souvenir']	['cent']	0.0132263547461
+['grand opening', 'thousand souvenir']	['25 cent']	0.42135232689
+['grand opening', 'thousand souvenir']	['souvenir']	0.661103813991
+['grand opening', 'thousand souvenir']	['220 dollar']	0.0901100077042
+['grand opening', 'thousand souvenir']	['25 cent souvenier']	0.392633798017
+['open', 'thousand souvenir']	['grand opening']	0.689690602358
+['open', 'thousand souvenir']	['guthrie market']	0.0827346205535
+['open', 'thousand souvenir']	['two souvenir different typess']	0.155842182951
+['open', 'thousand souvenir']	['20 cent']	0.334357794603
+['open', 'thousand souvenir']	['type']	0.17627094573
+['open', 'thousand souvenir']	['cent']	0.11596780482
+['open', 'thousand souvenir']	['25 cent']	0.334357794603
+['open', 'thousand souvenir']	['souvenir']	0.789928976918
+['open', 'thousand souvenir']	['220 dollar']	0.0901100077042
+['open', 'thousand souvenir']	['25 cent souvenier']	0.33845188701
+['guthrie market', 'thousand souvenir']	['grand opening']	0.498338895266
+['guthrie market', 'thousand souvenir']	['open']	0.0777864840342
+['guthrie market', 'thousand souvenir']	['two souvenir different typess']	0.174332938864
+['guthrie market', 'thousand souvenir']	['20 cent']	0.341495179861
+['guthrie market', 'thousand souvenir']	['type']	0.0542425509254
+['guthrie market', 'thousand souvenir']	['cent']	0.0132263547461
+['guthrie market', 'thousand souvenir']	['25 cent']	0.341495179861
+['guthrie market', 'thousand souvenir']	['souvenir']	0.597810090929
+['guthrie market', 'thousand souvenir']	['220 dollar']	0.0901100077042
+['guthrie market', 'thousand souvenir']	['25 cent souvenier']	0.365426502964
+['two souvenir different typess', 'thousand souvenir']	['grand opening']	0.531822377869
+['two souvenir different typess', 'thousand souvenir']	['open']	0.0865519868472
+['two souvenir different typess', 'thousand souvenir']	['guthrie market']	0.0915001233665
+['two souvenir different typess', 'thousand souvenir']	['20 cent']	0.458142672201
+['two souvenir different typess', 'thousand souvenir']	['type']	0.579908825458
+['two souvenir different typess', 'thousand souvenir']	['cent']	0.012852508684
+['two souvenir different typess', 'thousand souvenir']	['25 cent']	0.458142672201
+['two souvenir different typess', 'thousand souvenir']	['souvenir']	0.783435394745
+['two souvenir different typess', 'thousand souvenir']	['220 dollar']	0.0988755105172
+['two souvenir different typess', 'thousand souvenir']	['25 cent souvenier']	0.461265101813
+['20 cent', 'thousand souvenir']	['grand opening']	0.490039899844
+['20 cent', 'thousand souvenir']	['open']	0.0634148935911
+['20 cent', 'thousand souvenir']	['guthrie market']	0.0696933362217
+['20 cent', 'thousand souvenir']	['two souvenir different typess']	0.260639003392
+['20 cent', 'thousand souvenir']	['type']	0.0399270711212
+['20 cent', 'thousand souvenir']	['cent']	0.542443262272
+['20 cent', 'thousand souvenir']	['25 cent']	0.796432477039
+['20 cent', 'thousand souvenir']	['souvenir']	0.537007741999
+['20 cent', 'thousand souvenir']	['220 dollar']	0.0737139440912
+['20 cent', 'thousand souvenir']	['25 cent souvenier']	0.369831327203
+['type', 'thousand souvenir']	['grand opening']	0.330270654929
+['type', 'thousand souvenir']	['open']	0.171342118004
+['type', 'thousand souvenir']	['guthrie market']	0.0476289326264
+['type', 'thousand souvenir']	['two souvenir different typess']	0.369214157926
+['type', 'thousand souvenir']	['20 cent']	0.278246973497
+['type', 'thousand souvenir']	['cent']	0.197894378929
+['type', 'thousand souvenir']	['25 cent']	0.278246973497
+['type', 'thousand souvenir']	['souvenir']	0.686314198791
+['type', 'thousand souvenir']	['220 dollar']	0.112270510071
+['type', 'thousand souvenir']	['25 cent souvenier']	0.21135148233
+['cent', 'thousand souvenir']	['grand opening']	0.453532329015
+['cent', 'thousand souvenir']	['open']	0.148750379499
+['cent', 'thousand souvenir']	['guthrie market']	0.0361569291624
+['cent', 'thousand souvenir']	['two souvenir different typess']	0.088897638925
+['cent', 'thousand souvenir']	['20 cent']	0.69698447225
+['cent', 'thousand souvenir']	['type']	0.333786634821
+['cent', 'thousand souvenir']	['25 cent']	0.69698447225
+['cent', 'thousand souvenir']	['souvenir']	0.425431454769
+['cent', 'thousand souvenir']	['220 dollar']	0.315074288357
+['cent', 'thousand souvenir']	['25 cent souvenier']	0.164135099213
+['25 cent', 'thousand souvenir']	['grand opening']	0.490039899844
+['25 cent', 'thousand souvenir']	['open']	0.0634148935911
+['25 cent', 'thousand souvenir']	['guthrie market']	0.0696933362217
+['25 cent', 'thousand souvenir']	['two souvenir different typess']	0.260639003392
+['25 cent', 'thousand souvenir']	['20 cent']	0.796432477039
+['25 cent', 'thousand souvenir']	['type']	0.0399270711212
+['25 cent', 'thousand souvenir']	['cent']	0.542443262272
+['25 cent', 'thousand souvenir']	['souvenir']	0.537007741999
+['25 cent', 'thousand souvenir']	['220 dollar']	0.0737139440912
+['25 cent', 'thousand souvenir']	['25 cent souvenier']	0.483528961126
+['souvenir', 'thousand souvenir']	['grand opening']	0.624438403168
+['souvenir', 'thousand souvenir']	['open']	0.811537628335
+['souvenir', 'thousand souvenir']	['guthrie market']	0.192186220485
+['souvenir', 'thousand souvenir']	['two souvenir different typess']	0.553790608658
+['souvenir', 'thousand souvenir']	['20 cent']	0.601649099634
+['souvenir', 'thousand souvenir']	['type']	0.475188329281
+['souvenir', 'thousand souvenir']	['cent']	0.202268568856
+['souvenir', 'thousand souvenir']	['25 cent']	0.601649099634
+['souvenir', 'thousand souvenir']	['220 dollar']	0.214509269487
+['souvenir', 'thousand souvenir']	['25 cent souvenier']	0.672809342972
+['220 dollar', 'thousand souvenir']	['grand opening']	0.498338895266
+['220 dollar', 'thousand souvenir']	['open']	0.0744376594044
+['220 dollar', 'thousand souvenir']	['guthrie market']	0.0827346205535
+['220 dollar', 'thousand souvenir']	['two souvenir different typess']	0.160359361629
+['220 dollar', 'thousand souvenir']	['20 cent']	0.329189193165
+['220 dollar', 'thousand souvenir']	['type']	0.0742194490354
+['220 dollar', 'thousand souvenir']	['cent']	0.402837341653
+['220 dollar', 'thousand souvenir']	['25 cent']	0.329189193165
+['220 dollar', 'thousand souvenir']	['souvenir']	0.648240712829
+['220 dollar', 'thousand souvenir']	['25 cent souvenier']	0.335677399021
+['25 cent souvenier', 'thousand souvenir']	['grand opening']	0.556675323339
+['25 cent souvenier', 'thousand souvenir']	['open']	0.14729034296
+['25 cent souvenier', 'thousand souvenir']	['guthrie market']	0.152238479479
+['25 cent souvenier', 'thousand souvenir']	['two souvenir different typess']	0.312620028872
+['25 cent souvenier', 'thousand souvenir']	['20 cent']	0.490167094164
+['25 cent souvenier', 'thousand souvenir']	['type']	0.0864785250676
+['25 cent souvenier', 'thousand souvenir']	['cent']	0.226858887846
+['25 cent souvenier', 'thousand souvenir']	['25 cent']	0.521964515369
+['25 cent souvenier', 'thousand souvenir']	['souvenir']	0.644179713906
+['25 cent souvenier', 'thousand souvenir']	['220 dollar']	0.15961386663
+['grand opening', 'souvenir']	['open']	0.523777275009
+['grand opening', 'souvenir']	['guthrie market']	0.0696933362217
+['grand opening', 'souvenir']	['two souvenir different typess']	0.250049491462
+['grand opening', 'souvenir']	['20 cent']	0.338867407738
+['grand opening', 'souvenir']	['type']	0.208099572107
+['grand opening', 'souvenir']	['cent']	0.0831640509808
+['grand opening', 'souvenir']	['25 cent']	0.338867407738
+['grand opening', 'souvenir']	['thousand souvenir']	0.683494632407
+['grand opening', 'souvenir']	['220 dollar']	0.0696933362217
+['grand opening', 'souvenir']	['25 cent souvenier']	0.273189578515
+['open', 'souvenir']	['grand opening']	0.201314863969
+['open', 'souvenir']	['guthrie market']	0.0696933362217
+['open', 'souvenir']	['two souvenir different typess']	0.210350911093
+['open', 'souvenir']	['20 cent']	0.0746958245975
+['open', 'souvenir']	['type']	0.0822747691784
+['open', 'souvenir']	['cent']	0.0240886330375
+['open', 'souvenir']	['25 cent']	0.0746958245975
+['open', 'souvenir']	['thousand souvenir']	0.692205356686
+['open', 'souvenir']	['220 dollar']	0.0696933362217
+['open', 'souvenir']	['25 cent souvenier']	0.0807707659053
+['guthrie market', 'souvenir']	['grand opening']	0.103222748661
+['guthrie market', 'souvenir']	['open']	0.698536001133
+['guthrie market', 'souvenir']	['two souvenir different typess']	0.196478418073
+['guthrie market', 'souvenir']	['20 cent']	0.0746958245975
+['guthrie market', 'souvenir']	['type']	0.112485887831
+['guthrie market', 'souvenir']	['cent']	0.0806965185133
+['guthrie market', 'souvenir']	['25 cent']	0.0746958245975
+['guthrie market', 'souvenir']	['thousand souvenir']	0.701554947584
+['guthrie market', 'souvenir']	['220 dollar']	0.0696933362217
+['guthrie market', 'souvenir']	['25 cent souvenier']	0.080802298149
+['two souvenir different typess', 'souvenir']	['grand opening']	0.153571110153
+['two souvenir different typess', 'souvenir']	['open']	0.643758005088
+['two souvenir different typess', 'souvenir']	['guthrie market']	0.124856540438
+['two souvenir different typess', 'souvenir']	['20 cent']	0.1522550524
+['two souvenir different typess', 'souvenir']	['type']	0.559052583477
+['two souvenir different typess', 'souvenir']	['cent']	0.0836886604443
+['two souvenir different typess', 'souvenir']	['25 cent']	0.1522550524
+['two souvenir different typess', 'souvenir']	['thousand souvenir']	0.722715611811
+['two souvenir different typess', 'souvenir']	['220 dollar']	0.124856540438
+['two souvenir different typess', 'souvenir']	['25 cent souvenier']	0.183540220799
+['20 cent', 'souvenir']	['grand opening']	0.383542576817
+['20 cent', 'souvenir']	['open']	0.743649143518
+['20 cent', 'souvenir']	['guthrie market']	0.131771183904
+['20 cent', 'souvenir']	['two souvenir different typess']	0.279484189318
+['20 cent', 'souvenir']	['type']	0.176434044966
+['20 cent', 'souvenir']	['cent']	0.806548638047
+['20 cent', 'souvenir']	['25 cent']	0.741109566307
+['20 cent', 'souvenir']	['thousand souvenir']	0.769336710186
+['20 cent', 'souvenir']	['220 dollar']	0.131771183904
+['20 cent', 'souvenir']	['25 cent souvenier']	0.299115504441
+['type', 'souvenir']	['grand opening']	0.119698912696
+['type', 'souvenir']	['open']	0.460314819285
+['type', 'souvenir']	['guthrie market']	0.107432270504
+['type', 'souvenir']	['two souvenir different typess']	0.380380612233
+['type', 'souvenir']	['20 cent']	0.115026757849
+['type', 'souvenir']	['cent']	0.173818165969
+['type', 'souvenir']	['25 cent']	0.115026757849
+['type', 'souvenir']	['thousand souvenir']	0.700458633801
+['type', 'souvenir']	['220 dollar']	0.18092475672
+['type', 'souvenir']	['25 cent souvenier']	0.106244753151
+['cent', 'souvenir']	['grand opening']	0.118523866578
+['cent', 'souvenir']	['open']	0.388119944294
+['cent', 'souvenir']	['guthrie market']	0.0982347768443
+['cent', 'souvenir']	['two souvenir different typess']	0.149528425631
+['cent', 'souvenir']	['20 cent']	0.493276242557
+['cent', 'souvenir']	['type']	0.299214064086
+['cent', 'souvenir']	['25 cent']	0.493276242557
+['cent', 'souvenir']	['thousand souvenir']	0.354521033799
+['cent', 'souvenir']	['220 dollar']	0.367881615558
+['cent', 'souvenir']	['25 cent souvenier']	0.160148461721
+['25 cent', 'souvenir']	['grand opening']	0.383542576817
+['25 cent', 'souvenir']	['open']	0.743649143518
+['25 cent', 'souvenir']	['guthrie market']	0.131771183904
+['25 cent', 'souvenir']	['two souvenir different typess']	0.279484189318
+['25 cent', 'souvenir']	['20 cent']	0.741109566307
+['25 cent', 'souvenir']	['type']	0.176434044966
+['25 cent', 'souvenir']	['cent']	0.806548638047
+['25 cent', 'souvenir']	['thousand souvenir']	0.769336710186
+['25 cent', 'souvenir']	['220 dollar']	0.131771183904
+['25 cent', 'souvenir']	['25 cent souvenier']	0.430211364054
+['thousand souvenir', 'souvenir']	['grand opening']	0.624438403168
+['thousand souvenir', 'souvenir']	['open']	0.811537628335
+['thousand souvenir', 'souvenir']	['guthrie market']	0.192186220485
+['thousand souvenir', 'souvenir']	['two souvenir different typess']	0.553790608658
+['thousand souvenir', 'souvenir']	['20 cent']	0.601649099634
+['thousand souvenir', 'souvenir']	['type']	0.475188329281
+['thousand souvenir', 'souvenir']	['cent']	0.202268568856
+['thousand souvenir', 'souvenir']	['25 cent']	0.601649099634
+['thousand souvenir', 'souvenir']	['220 dollar']	0.214509269487
+['thousand souvenir', 'souvenir']	['25 cent souvenier']	0.672809342972
+['220 dollar', 'souvenir']	['grand opening']	0.103222748661
+['220 dollar', 'souvenir']	['open']	0.718289040404
+['220 dollar', 'souvenir']	['guthrie market']	0.0696933362217
+['220 dollar', 'souvenir']	['two souvenir different typess']	0.198446149188
+['220 dollar', 'souvenir']	['20 cent']	0.0746958245975
+['220 dollar', 'souvenir']	['type']	0.212798788083
+['220 dollar', 'souvenir']	['cent']	0.735808334453
+['220 dollar', 'souvenir']	['25 cent']	0.0746958245975
+['220 dollar', 'souvenir']	['thousand souvenir']	0.67619752251
+['220 dollar', 'souvenir']	['25 cent souvenier']	0.0807707659053
+['25 cent souvenier', 'souvenir']	['grand opening']	0.364511045285
+['25 cent souvenier', 'souvenir']	['open']	0.698536001133
+['25 cent souvenier', 'souvenir']	['guthrie market']	0.0696933362217
+['25 cent souvenier', 'souvenir']	['two souvenir different typess']	0.252518627265
+['25 cent souvenier', 'souvenir']	['20 cent']	0.314667274769
+['25 cent souvenier', 'souvenir']	['type']	0.0806650086036
+['25 cent souvenier', 'souvenir']	['cent']	0.177277374583
+['25 cent souvenier', 'souvenir']	['25 cent']	0.482979385637
+['25 cent souvenier', 'souvenir']	['thousand souvenir']	0.738199510374
+['25 cent souvenier', 'souvenir']	['220 dollar']	0.0696933362217
+['grand opening', '220 dollar']	['open']	0.263299567304
+['grand opening', '220 dollar']	['guthrie market']	0.0827346205535
+['grand opening', '220 dollar']	['two souvenir different typess']	0.160359361629
+['grand opening', '220 dollar']	['20 cent']	0.329189193165
+['grand opening', '220 dollar']	['type']	0.0786638934798
+['grand opening', '220 dollar']	['cent']	0.388471619656
+['grand opening', '220 dollar']	['25 cent']	0.329189193165
+['grand opening', '220 dollar']	['thousand souvenir']	0.498338895266
+['grand opening', '220 dollar']	['souvenir']	0.110158891101
+['grand opening', '220 dollar']	['25 cent souvenier']	0.335677399021
+['open', '220 dollar']	['grand opening']	0.226633386437
+['open', '220 dollar']	['guthrie market']	0.0901100077042
+['open', '220 dollar']	['two souvenir different typess']	0.0920786332799
+['open', '220 dollar']	['20 cent']	0.0897823390711
+['open', '220 dollar']	['type']	0.259989362202
+['open', '220 dollar']	['cent']	0.758044705089
+['open', '220 dollar']	['25 cent']	0.0897823390711
+['open', '220 dollar']	['thousand souvenir']	0.0833805889219
+['open', '220 dollar']	['souvenir']	0.715144386316
+['open', '220 dollar']	['25 cent souvenier']	0.0920786332799
+['guthrie market', '220 dollar']	['grand opening']	0.0827346205535
+['guthrie market', '220 dollar']	['open']	0.0777864840342
+['guthrie market', '220 dollar']	['two souvenir different typess']	0.0908034291173
+['guthrie market', '220 dollar']	['20 cent']	0.0824069519204
+['guthrie market', '220 dollar']	['type']	0.0742194490354
+['guthrie market', '220 dollar']	['cent']	0.402837341653
+['guthrie market', '220 dollar']	['25 cent']	0.0824069519204
+['guthrie market', '220 dollar']	['thousand souvenir']	0.0827346205535
+['guthrie market', '220 dollar']	['souvenir']	0.0774561735493
+['guthrie market', '220 dollar']	['25 cent souvenier']	0.0908034291173
+['two souvenir different typess', '220 dollar']	['grand opening']	0.122899008826
+['two souvenir different typess', '220 dollar']	['open']	0.0865519868472
+['two souvenir different typess', '220 dollar']	['guthrie market']	0.0915001233665
+['two souvenir different typess', '220 dollar']	['20 cent']	0.110437797482
+['two souvenir different typess', '220 dollar']	['type']	0.521451233667
+['two souvenir different typess', '220 dollar']	['cent']	0.274133421759
+['two souvenir different typess', '220 dollar']	['25 cent']	0.110437797482
+['two souvenir different typess', '220 dollar']	['thousand souvenir']	0.122899008826
+['two souvenir different typess', '220 dollar']	['souvenir']	0.225417043991
+['two souvenir different typess', '220 dollar']	['25 cent souvenier']	0.166273962731
+['20 cent', '220 dollar']	['grand opening']	0.274556493975
+['20 cent', '220 dollar']	['open']	0.0667637182209
+['20 cent', '220 dollar']	['guthrie market']	0.0696933362217
+['20 cent', '220 dollar']	['two souvenir different typess']	0.138084883792
+['20 cent', '220 dollar']	['type']	0.118678065215
+['20 cent', '220 dollar']	['cent']	0.7285732342
+['20 cent', '220 dollar']	['25 cent']	0.72021221181
+['20 cent', '220 dollar']	['thousand souvenir']	0.274556493975
+['20 cent', '220 dollar']	['souvenir']	0.0650959234194
+['20 cent', '220 dollar']	['25 cent souvenier']	0.258675225661
+['type', '220 dollar']	['grand opening']	0.0852971628041
+['type', '220 dollar']	['open']	0.171748686216
+['type', '220 dollar']	['guthrie market']	0.0476289326264
+['type', '220 dollar']	['two souvenir different typess']	0.308669474868
+['type', '220 dollar']	['20 cent']	0.0529489101667
+['type', '220 dollar']	['cent']	0.638724590447
+['type', '220 dollar']	['25 cent']	0.0529489101667
+['type', '220 dollar']	['thousand souvenir']	0.0476289326264
+['type', '220 dollar']	['souvenir']	0.114760397634
+['type', '220 dollar']	['25 cent souvenier']	0.0441669054693
+['cent', '220 dollar']	['grand opening']	0.0361569291624
+['cent', '220 dollar']	['open']	0.109561042279
+['cent', '220 dollar']	['guthrie market']	0.0361569291624
+['cent', '220 dollar']	['two souvenir different typess']	0.0444435333372
+['cent', '220 dollar']	['20 cent']	0.469762629709
+['cent', '220 dollar']	['type']	0.467747673782
+['cent', '220 dollar']	['25 cent']	0.469762629709
+['cent', '220 dollar']	['thousand souvenir']	0.0361569291624
+['cent', '220 dollar']	['souvenir']	0.11086262958
+['cent', '220 dollar']	['25 cent souvenier']	0.177726668395
+['25 cent', '220 dollar']	['grand opening']	0.274556493975
+['25 cent', '220 dollar']	['open']	0.0667637182209
+['25 cent', '220 dollar']	['guthrie market']	0.0696933362217
+['25 cent', '220 dollar']	['two souvenir different typess']	0.138084883792
+['25 cent', '220 dollar']	['20 cent']	0.72021221181
+['25 cent', '220 dollar']	['type']	0.118678065215
+['25 cent', '220 dollar']	['cent']	0.7285732342
+['25 cent', '220 dollar']	['thousand souvenir']	0.274556493975
+['25 cent', '220 dollar']	['souvenir']	0.0650959234194
+['25 cent', '220 dollar']	['25 cent souvenier']	0.456253030721
+['thousand souvenir', '220 dollar']	['grand opening']	0.498338895266
+['thousand souvenir', '220 dollar']	['open']	0.0744376594044
+['thousand souvenir', '220 dollar']	['guthrie market']	0.0827346205535
+['thousand souvenir', '220 dollar']	['two souvenir different typess']	0.160359361629
+['thousand souvenir', '220 dollar']	['20 cent']	0.329189193165
+['thousand souvenir', '220 dollar']	['type']	0.0742194490354
+['thousand souvenir', '220 dollar']	['cent']	0.402837341653
+['thousand souvenir', '220 dollar']	['25 cent']	0.329189193165
+['thousand souvenir', '220 dollar']	['souvenir']	0.648240712829
+['thousand souvenir', '220 dollar']	['25 cent souvenier']	0.335677399021
+['souvenir', '220 dollar']	['grand opening']	0.103222748661
+['souvenir', '220 dollar']	['open']	0.718289040404
+['souvenir', '220 dollar']	['guthrie market']	0.0696933362217
+['souvenir', '220 dollar']	['two souvenir different typess']	0.198446149188
+['souvenir', '220 dollar']	['20 cent']	0.0746958245975
+['souvenir', '220 dollar']	['type']	0.212798788083
+['souvenir', '220 dollar']	['cent']	0.735808334453
+['souvenir', '220 dollar']	['25 cent']	0.0746958245975
+['souvenir', '220 dollar']	['thousand souvenir']	0.67619752251
+['souvenir', '220 dollar']	['25 cent souvenier']	0.0807707659053
+['25 cent souvenier', '220 dollar']	['grand opening']	0.453327242541
+['25 cent souvenier', '220 dollar']	['open']	0.14729034296
+['25 cent souvenier', '220 dollar']	['guthrie market']	0.152238479479
+['25 cent souvenier', '220 dollar']	['two souvenir different typess']	0.226957565185
+['25 cent souvenier', '220 dollar']	['20 cent']	0.420722468806
+['25 cent souvenier', '220 dollar']	['type']	0.188706518067
+['25 cent souvenier', '220 dollar']	['cent']	0.297763511313
+['25 cent souvenier', '220 dollar']	['25 cent']	0.486385005071
+['25 cent souvenier', '220 dollar']	['thousand souvenir']	0.453327242541
+['25 cent souvenier', '220 dollar']	['souvenir']	0.146533383972
+['grand opening', '25 cent souvenier']	['open']	0.345884653974
+['grand opening', '25 cent souvenier']	['guthrie market']	0.152238479479
+['grand opening', '25 cent souvenier']	['two souvenir different typess']	0.312620028872
+['grand opening', '25 cent souvenier']	['20 cent']	0.490167094164
+['grand opening', '25 cent souvenier']	['type']	0.115677899527
+['grand opening', '25 cent souvenier']	['cent']	0.187975926381
+['grand opening', '25 cent souvenier']	['25 cent']	0.521964515369
+['grand opening', '25 cent souvenier']	['thousand souvenir']	0.556675323339
+['grand opening', '25 cent souvenier']	['souvenir']	0.170142021553
+['grand opening', '25 cent souvenier']	['220 dollar']	0.15961386663
+['open', '25 cent souvenier']	['grand opening']	0.432370124106
+['open', '25 cent souvenier']	['guthrie market']	0.0827346205535
+['open', '25 cent souvenier']	['two souvenir different typess']	0.160359361629
+['open', '25 cent souvenier']	['20 cent']	0.329189193165
+['open', '25 cent souvenier']	['type']	0.150926624727
+['open', '25 cent souvenier']	['cent']	0.175610707916
+['open', '25 cent souvenier']	['25 cent']	0.480735518393
+['open', '25 cent souvenier']	['thousand souvenir']	0.431974313041
+['open', '25 cent souvenier']	['souvenir']	0.69319057077
+['open', '25 cent souvenier']	['220 dollar']	0.0901100077042
+['guthrie market', '25 cent souvenier']	['grand opening']	0.481561194969
+['guthrie market', '25 cent souvenier']	['open']	0.158341398524
+['guthrie market', '25 cent souvenier']	['two souvenir different typess']	0.240931142421
+['guthrie market', '25 cent souvenier']	['20 cent']	0.433028455502
+['guthrie market', '25 cent souvenier']	['type']	0.0864785250676
+['guthrie market', '25 cent souvenier']	['cent']	0.226858887846
+['guthrie market', '25 cent souvenier']	['25 cent']	0.486385005071
+['guthrie market', '25 cent souvenier']	['thousand souvenir']	0.481561194969
+['guthrie market', '25 cent souvenier']	['souvenir']	0.15219441396
+['guthrie market', '25 cent souvenier']	['220 dollar']	0.15961386663
+['two souvenir different typess', '25 cent souvenier']	['grand opening']	0.445494492494
+['two souvenir different typess', '25 cent souvenier']	['open']	0.0976030424116
+['two souvenir different typess', '25 cent souvenier']	['guthrie market']	0.0915001233665
+['two souvenir different typess', '25 cent souvenier']	['20 cent']	0.458142672201
+['two souvenir different typess', '25 cent souvenier']	['type']	0.428287082511
+['two souvenir different typess', '25 cent souvenier']	['cent']	0.217306733651
+['two souvenir different typess', '25 cent souvenier']	['25 cent']	0.477463458007
+['two souvenir different typess', '25 cent souvenier']	['thousand souvenir']	0.445494492494
+['two souvenir different typess', '25 cent souvenier']	['souvenir']	0.26167516637
+['two souvenir different typess', '25 cent souvenier']	['220 dollar']	0.0988755105172
+['20 cent', '25 cent souvenier']	['grand opening']	0.407737880173
+['20 cent', '25 cent souvenier']	['open']	0.124201100547
+['20 cent', '25 cent souvenier']	['guthrie market']	0.124856540438
+['20 cent', '25 cent souvenier']	['two souvenir different typess']	0.308225336589
+['20 cent', '25 cent souvenier']	['type']	0.0739433949901
+['20 cent', '25 cent souvenier']	['cent']	0.50425218951
+['20 cent', '25 cent souvenier']	['25 cent']	0.789653667823
+['20 cent', '25 cent souvenier']	['thousand souvenir']	0.407737880173
+['20 cent', '25 cent souvenier']	['souvenir']	0.129886460887
+['20 cent', '25 cent souvenier']	['220 dollar']	0.128877148308
+['type', '25 cent souvenier']	['grand opening']	0.299153021203
+['type', '25 cent souvenier']	['open']	0.139233701321
+['type', '25 cent souvenier']	['guthrie market']	0.0476289326264
+['type', '25 cent souvenier']	['two souvenir different typess']	0.361842363054
+['type', '25 cent souvenier']	['20 cent']	0.254046840528
+['type', '25 cent souvenier']	['cent']	0.170853614789
+['type', '25 cent souvenier']	['25 cent']	0.266478276408
+['type', '25 cent souvenier']	['thousand souvenir']	0.307762677981
+['type', '25 cent souvenier']	['souvenir']	0.0806650086036
+['type', '25 cent souvenier']	['220 dollar']	0.114739645874
+['cent', '25 cent souvenier']	['grand opening']	0.181962230044
+['cent', '25 cent souvenier']	['open']	0.080987287783
+['cent', '25 cent souvenier']	['guthrie market']	0.0351005911342
+['cent', '25 cent souvenier']	['two souvenir different typess']	0.0934148176024
+['cent', '25 cent souvenier']	['20 cent']	0.653818570987
+['cent', '25 cent souvenier']	['type']	0.258215023444
+['cent', '25 cent souvenier']	['25 cent']	0.7858257382
+['cent', '25 cent souvenier']	['thousand souvenir']	0.196327952041
+['cent', '25 cent souvenier']	['souvenir']	0.0819342651555
+['cent', '25 cent souvenier']	['220 dollar']	0.265178559295
+['25 cent', '25 cent souvenier']	['grand opening']	0.407737880173
+['25 cent', '25 cent souvenier']	['open']	0.124201100547
+['25 cent', '25 cent souvenier']	['guthrie market']	0.124856540438
+['25 cent', '25 cent souvenier']	['two souvenir different typess']	0.308225336589
+['25 cent', '25 cent souvenier']	['20 cent']	0.827542261618
+['25 cent', '25 cent souvenier']	['type']	0.0739433949901
+['25 cent', '25 cent souvenier']	['cent']	0.50425218951
+['25 cent', '25 cent souvenier']	['thousand souvenir']	0.407737880173
+['25 cent', '25 cent souvenier']	['souvenir']	0.129886460887
+['25 cent', '25 cent souvenier']	['220 dollar']	0.128877148308
+['thousand souvenir', '25 cent souvenier']	['grand opening']	0.556675323339
+['thousand souvenir', '25 cent souvenier']	['open']	0.14729034296
+['thousand souvenir', '25 cent souvenier']	['guthrie market']	0.152238479479
+['thousand souvenir', '25 cent souvenier']	['two souvenir different typess']	0.312620028872
+['thousand souvenir', '25 cent souvenier']	['20 cent']	0.490167094164
+['thousand souvenir', '25 cent souvenier']	['type']	0.0864785250676
+['thousand souvenir', '25 cent souvenier']	['cent']	0.226858887846
+['thousand souvenir', '25 cent souvenier']	['25 cent']	0.521964515369
+['thousand souvenir', '25 cent souvenier']	['souvenir']	0.644179713906
+['thousand souvenir', '25 cent souvenier']	['220 dollar']	0.15961386663
+['souvenir', '25 cent souvenier']	['grand opening']	0.364511045285
+['souvenir', '25 cent souvenier']	['open']	0.698536001133
+['souvenir', '25 cent souvenier']	['guthrie market']	0.0696933362217
+['souvenir', '25 cent souvenier']	['two souvenir different typess']	0.252518627265
+['souvenir', '25 cent souvenier']	['20 cent']	0.314667274769
+['souvenir', '25 cent souvenier']	['type']	0.0806650086036
+['souvenir', '25 cent souvenier']	['cent']	0.177277374583
+['souvenir', '25 cent souvenier']	['25 cent']	0.482979385637
+['souvenir', '25 cent souvenier']	['thousand souvenir']	0.738199510374
+['souvenir', '25 cent souvenier']	['220 dollar']	0.0696933362217
+['220 dollar', '25 cent souvenier']	['grand opening']	0.453327242541
+['220 dollar', '25 cent souvenier']	['open']	0.14729034296
+['220 dollar', '25 cent souvenier']	['guthrie market']	0.152238479479
+['220 dollar', '25 cent souvenier']	['two souvenir different typess']	0.226957565185
+['220 dollar', '25 cent souvenier']	['20 cent']	0.420722468806
+['220 dollar', '25 cent souvenier']	['type']	0.188706518067
+['220 dollar', '25 cent souvenier']	['cent']	0.297763511313
+['220 dollar', '25 cent souvenier']	['25 cent']	0.486385005071
+['220 dollar', '25 cent souvenier']	['thousand souvenir']	0.453327242541
+['220 dollar', '25 cent souvenier']	['souvenir']	0.146533383972

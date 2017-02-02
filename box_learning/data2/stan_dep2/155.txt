@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NP (DT The) (NNPS Kings))
+    (VP
+      (VBD won)
+      (NP (CD two))
+      (ADVP
+        (QP
+          (JJR less)
+          (IN than)
+          (CD three)
+          (NNS times)
+          (IN as)
+          (JJ many))
+        (NNS games))
+      (SBAR (IN as) (S (NP (PRP they)) (VP (VBD lost)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD played) (NP (CD 82) (NNS games)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NNS wins)) (CC and) (NP (NNS losses))))
+    (SQ (VBD did) (NP (DT the) (NN team)) (VP (VB have)))
+    (. ?)))

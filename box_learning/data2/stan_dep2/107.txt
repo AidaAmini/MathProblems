@@ -1,0 +1,35 @@
+(ROOT
+  (S
+    (NP (NP (DT A) (NN physician) (POS 's)) (NN assistant))
+    (VP
+      (VP (VBZ measures) (NP (DT a) (NN child)))
+      (CC and)
+      (VP
+        (VBZ finds)
+        (SBAR
+          (IN that)
+          (S
+            (NP (PRP$ his) (NN height))
+            (VP (VBZ is) (NP (CD 41.5) (NNS inches)))))))
+    (. .)))
+(ROOT
+  (S
+    (PP
+      (IN At)
+      (NP
+        (NP (PRP$ his) (JJ last) (NN visit))
+        (PP
+          (TO to)
+          (NP (NP (DT the) (NN doctor) (POS 's)) (NN office)))))
+    (, ,)
+    (NP (DT the) (NN child))
+    (VP (VBD was) (ADJP (NP (CD 38.5) (NNS inches)) (JJ tall)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VBD did)
+      (NP (DT the) (NN child))
+      (VP (VB grow) (, ,) (PP (IN in) (NP (NNS inches)))))
+    (. ?)))

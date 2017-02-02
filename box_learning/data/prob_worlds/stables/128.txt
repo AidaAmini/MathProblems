@@ -1,0 +1,16 @@
+1
+[['10 % orange juice', '25', 'liter', '% orange juice', '10', '-', '-'], ['5 % orange juice', 'x1', 'liter', '% orange juice', '5', '-', '-'], ['30 % orange juice', 'x2', 'liter', '% orange juice', '30', '-', '-']]
+-1
+[['10 % orange juice', '25', 'liter', '30', '10', 'x2', '-'], ['5 % orange juice', 'x1', 'liter', '% orange juice', '5', '-', '-'], ['10', '10 % orange juice', 'liter', '25', '30', '-', '-']]
+-1
+[['10 % orange juice', '25', 'liter', '% orange juice', '10', '-', '30 % orange juice'], ['5 % orange juice', 'x1', 'liter', '% orange juice', '5', '-', '-'], ['30 % orange juice', 'x2', 'liter', '% orange juice', '30', '10 % orange juice', '25']]
+-1
+[['10 % orange juice', '30 % orange juice', '25', 'x2', '30', '-', '-'], ['5 % orange juice', 'x1', 'liter', '% orange juice', '5', '-', '-'], ['30 % orange juice', 'x2', 'liter', '10 % orange juice', '30', '-', '25']]
+-1
+[['10 % orange juice', 'x2', 'liter', '% orange juice', '10', '-', '30'], ['5 % orange juice', 'x1', 'liter', '% orange juice', '5', '-', '-'], ['10 % orange juice', 'x2', '30', '10', '% orange juice', '-', '-']]
+-1
+[['30', '25', 'liter', '% orange juice', 'x2', '-', '-'], ['5 % orange juice', 'x1', 'liter', '% orange juice', '5', '-', '-'], ['10 % orange juice', 'x2', 'liter', '% orange juice', '30', '25', '-']]
+-1
+[['x2', '25', 'liter', '% orange juice', '10', '10 % orange juice', '-'], ['5 % orange juice', 'x1', 'liter', '% orange juice', '5', '-', '-'], ['25', 'x2', 'liter', '% orange juice', '10 % orange juice', '10', '-']]
+-1
+[['x2', '25', 'liter', '30', '10', '30 % orange juice', '-'], ['5 % orange juice', 'x1', 'liter', '% orange juice', '5', '-', '-'], ['25', 'x2', 'liter', '% orange juice', '10', '-', '-']]

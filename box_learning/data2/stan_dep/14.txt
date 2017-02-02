@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Suzy))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT a) (NN piggy) (NN bank))
+        (VP
+          (VBG consisting)
+          (PP (IN of) (NP (NNS nickels) (CC and) (NNS dimes))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (EX there))
+        (VP
+          (VBP are)
+          (NP
+            (NP (CD 30) (NNS coins))
+            (ADJP (JJ worth) (NP (CD 1.90) (NNS dollars)))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (NNS nickels)) (CC and) (NP (NNS dimes))))
+    (SQ (VBP are) (PP (IN in) (NP (DT the) (NN bank))))
+    (. ?)))

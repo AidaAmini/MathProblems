@@ -1,0 +1,14 @@
+1
+[['-', '55', 'gallon', 'percent antifreeze', '20', '-', '-'], ['-', 'x1', 'gallon', 'percent antifreeze', '10', '-', '-'], ['-', 'x2', 'gallon', 'percent antifreeze', '100', '-', '-']]
+-1
+[['-', '55', 'gallon', 'x2', '20', '-', '100'], ['-', 'x1', 'gallon', 'percent antifreeze', '10', '-', '-'], ['-', 'x2', 'gallon', '55', '100', '20', '-']]
+-1
+[['-', '100', 'gallon', 'percent antifreeze', '20', '-', '55'], ['-', 'x1', 'gallon', 'percent antifreeze', '10', '-', '-'], ['-', '20', 'gallon', 'percent antifreeze', '100', '-', '55']]
+-1
+[['100', '55', 'gallon', 'x2', '20', '-', '-'], ['-', 'x1', 'gallon', 'percent antifreeze', '10', '-', '-'], ['-', 'x2', 'gallon', '20', '100', '-', '-']]
+-1
+[['-', '100', 'gallon', 'percent antifreeze', '20', '-', 'x2'], ['-', 'x1', 'gallon', 'percent antifreeze', '10', '-', '-'], ['-', 'x2', 'gallon', 'percent antifreeze', '100', '-', '-']]
+-1
+[['-', '100', 'gallon', 'percent antifreeze', '20', '-', '-'], ['-', 'x1', 'gallon', 'percent antifreeze', '10', '-', '-'], ['-', '55', 'gallon', 'percent antifreeze', '100', '-', '20']]
+-1
+[['-', '55', 'gallon', 'percent antifreeze', '20', '100', '-'], ['-', 'x1', 'gallon', 'percent antifreeze', '10', '-', '-'], ['-', 'x2', '55', 'percent antifreeze', '100', '-', '-']]

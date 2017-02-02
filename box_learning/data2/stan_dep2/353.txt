@@ -1,0 +1,49 @@
+(ROOT
+  (S
+    (NP (CD Two) (NNS cars))
+    (VP
+      (VBP leave)
+      (NP (DT the) (JJ same) (NN point))
+      (, ,)
+      (S
+        (VP
+          (VBG traveling)
+          (PP (IN in) (NP (JJ opposite) (NNS directions))))))
+    (. .)))
+(ROOT
+  (FRAG
+    (PP
+      (IN If)
+      (NP
+        (NP (CD one) (NNS travels))
+        (PP
+          (IN at)
+          (NP
+            (NP (DT a) (JJ constant) (NN speed))
+            (PP
+              (IN of)
+              (NP
+                (NP
+                  (NP (CD 52) (NNS miles))
+                  (PP (IN per) (NP (NN hour))))
+                (CC and)
+                (NP
+                  (NP (DT the) (JJ other) (NNS travels))
+                  (PP
+                    (IN at)
+                    (NP
+                      (NP (DT a) (JJ constant) (NN speed))
+                      (PP
+                        (IN of)
+                        (NP
+                          (NP (CD 58) (NNS miles))
+                          (PP (IN per) (NP (NN hour))))))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHPP (IN In) (WHNP (WHADJP (WRB how) (JJ many)) (NNS hours)))
+    (SQ
+      (MD will)
+      (NP (PRP they))
+      (VP (VB be) (ADVP (NP (CD 385) (NNS miles)) (RB apart))))
+    (. ?)))

@@ -1,0 +1,14 @@
+1
+[['person', '280', 'person', '-', '-', 'dollar', '140'], ['adult', 'x1', '-', 'cent', '60', '-', '-'], ['child', 'x2', '-', 'cent', '25', '-', '-']]
+-1
+[['person', '280', 'dollar', '-', '-', 'child', '140'], ['adult', 'x1', '-', 'cent', '60', '-', '-'], ['child', '140', '-', 'dollar', '280', '-', 'person']]
+-1
+[['person', '25', 'person', 'x2', 'cent', '-', '140'], ['adult', 'x1', '-', 'cent', '60', '-', '-'], ['child', 'x2', '-', 'person', '25', '-', '-']]
+-1
+[['x2', '280', 'person', 'cent', '25', 'child', '140'], ['adult', 'x1', '-', 'cent', '60', '-', '-'], ['child', 'x2', '280', 'cent', 'person', '-', '-']]
+-1
+[['person', 'x2', 'person', '-', 'child', 'dollar', '140'], ['adult', 'x1', '-', 'cent', '60', '-', '-'], ['child', 'x2', 'dollar', 'cent', '25', '140', '-']]
+-1
+[['person', 'child', 'person', '-', 'dollar', 'x2', '25'], ['adult', 'x1', '-', 'cent', '60', '-', '-'], ['child', 'x2', 'person', 'cent', '25', '-', 'dollar']]
+-1
+[['person', 'child', 'x2', '-', '-', 'dollar', 'cent'], ['adult', 'x1', '-', 'cent', '60', '-', '-'], ['child', 'x2', '-', 'cent', '280', 'person', '-']]

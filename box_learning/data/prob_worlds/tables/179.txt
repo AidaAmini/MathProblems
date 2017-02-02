@@ -1,0 +1,22 @@
+1
+[['first plan', '-', '-', '-', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.4', '-', '-'], ['second plan', '-', '-', '-', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '-', '-']]
+-1
+[['first plan', 'mile', 'second plan', '-', '-', 'x1', 'additional cost'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.4', '-', '-'], ['second plan', '-', '-', 'first plan', '-', '-', 'x1'], ['initial fee', '1', '-', 'dollar', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', 'first plan', '-']]
+-1
+[['first plan', '-', '-', 'dollar', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'x1', 'mile', 'second plan', '0.4', '-', '0.6'], ['second plan', 'additional cost', '0.4', 'x1', '-', '-', '-'], ['initial fee', '1', '-', '65', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '0.4', '-']]
+-1
+[['first plan', 'dollar', '-', 'mile', '-', '-', 'x1'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.4', '-', '-'], ['additional cost', 'dollar', '-', '-', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '-', '-']]
+-1
+[['first plan', '-', '-', '-', 'second plan', '0.4', '-'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.4', '-', '0.6'], ['second plan', '-', '-', 'dollar', 'mile', '-', 'first plan'], ['initial fee', '1', '-', 'dollar', '0', '-', '-'], ['0.4', 'x1', 'first plan', 'dollar', 'additional cost', '-', '-']]
+-1
+[['first plan', '-', '-', '-', 'second plan', '-', '-'], ['initial fee', '0', '-', 'dollar', '65', '-', '-'], ['additional cost', 'second plan', 'mile', 'first plan', '0.4', '0.6', '-'], ['second plan', 'x1', 'additional cost', '-', '-', '-', '0.6'], ['initial fee', '1', '-', 'dollar', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '-', '-']]
+-1
+[['x1', '-', '-', 'additional cost', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.4', '-', '-'], ['additional cost', '-', '-', '-', '-', 'mile', '-'], ['initial fee', '1', '-', 'dollar', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '-', '-']]
+-1
+[['additional cost', '-', '-', '0.4', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.4', '-', '-'], ['dollar', 'additional cost', '0.4', '-', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '-', '-']]
+-1
+[['dollar', '-', '-', '-', 'second plan', '-', 'mile'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'second plan', 'mile', 'dollar', '0.4', '-', '-'], ['second plan', '-', '0.4', '0.6', '-', '-', '-'], ['65', '1', '-', 'dollar', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '-', '-']]
+-1
+[['0.6', 'second plan', 'dollar', '-', '-', 'x1', '-'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['second plan', 'x1', 'mile', 'dollar', '0.4', '-', 'additional cost'], ['second plan', 'dollar', '-', 'additional cost', '0.6', '-', '-'], ['initial fee', '1', '-', 'dollar', '0', '-', '-'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '-', '-']]
+-1
+[['mile', '-', '0.6', 'dollar', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '65', '-', '-'], ['additional cost', 'x1', 'mile', '0.6', '0.4', '-', '-'], ['second plan', '-', 'mile', '0.4', '-', '-', '-'], ['initial fee', '1', '-', 'dollar', '0', '-', '65'], ['additional cost', 'x1', 'mile', 'dollar', '0.6', '-', '-']]

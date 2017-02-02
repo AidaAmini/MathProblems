@@ -1,0 +1,16 @@
+1
+[['table', '36', 'table', '-', '-', 'leg', '124'], ['4 leg table', 'x1', 'table', 'leg', '4', '-', '-'], ['3 leg table', 'x2', 'table', 'leg', '3', '-', '-']]
+-1
+[['table', 'leg', 'table', '-', '-', '3 leg table', 'x2'], ['4 leg table', 'x1', 'table', 'leg', '4', '-', '-'], ['3 leg table', 'x2', 'table', 'leg', '3', '-', '-']]
+-1
+[['table', '36', 'x2', '-', '-', 'leg', '124'], ['4 leg table', 'x1', 'table', 'leg', '4', '-', '-'], ['36', 'x2', 'table', 'leg', '3', '-', '124']]
+-1
+[['leg', '36', 'table', '-', '-', '3 leg table', '124'], ['4 leg table', 'x1', 'table', 'leg', '4', '-', '-'], ['3 leg table', '124', 'table', 'leg', '3', '36', '-']]
+-1
+[['table', 'x2', 'table', '-', '-', 'leg', '124'], ['4 leg table', 'x1', 'table', 'leg', '4', '-', '-'], ['3 leg table', 'x2', 'table', 'leg', '3', '124', '-']]
+-1
+[['table', '36', 'table', '-', 'x2', 'leg', '124'], ['4 leg table', 'x1', 'table', 'leg', '4', '-', '-'], ['leg', 'x2', 'table', '124', '36', '-', '-']]
+-1
+[['table', '36', 'table', '-', '-', 'leg', '124'], ['4 leg table', 'x1', 'table', 'leg', '4', '-', '-'], ['3 leg table', '124', '36', 'leg', '3', 'table', '-']]
+-1
+[['table', '36', 'table', '-', '-', '3', 'leg'], ['4 leg table', 'x1', 'table', 'leg', '4', '-', '-'], ['36', 'x2', 'table', 'leg', '3', '-', '-']]

@@ -1,0 +1,30 @@
+['24 kid', "mr jone ' class", 'girl', 'boy and girl']
+['24 kid']	["mr jone ' class"]	0.0908034291173
+['24 kid']	['girl']	0.522914149823
+['24 kid']	['boy and girl']	0.0908034291173
+["mr jone ' class"]	['girl']	0.0857950278587
+["mr jone ' class"]	['boy and girl']	0.102396614129
+["mr jone ' class", '24 kid']	['girl']	0.444305292645
+["mr jone ' class", '24 kid']	['boy and girl']	0.102396614129
+['girl', '24 kid']	["mr jone ' class"]	0.0898798519698
+['girl', '24 kid']	['boy and girl']	0.745167855836
+['boy and girl', '24 kid']	["mr jone ' class"]	0.156579181386
+['boy and girl', '24 kid']	['girl']	0.877920803137
+['24 kid', "mr jone ' class"]	['girl']	0.444305292645
+['24 kid', "mr jone ' class"]	['boy and girl']	0.102396614129
+['girl', "mr jone ' class"]	['24 kid']	0.396223223707
+['girl', "mr jone ' class"]	['boy and girl']	0.804513200027
+['boy and girl', "mr jone ' class"]	['24 kid']	0.0915001233665
+['boy and girl', "mr jone ' class"]	['girl']	0.876232442902
+['24 kid', 'girl']	["mr jone ' class"]	0.0898798519698
+['24 kid', 'girl']	['boy and girl']	0.745167855836
+["mr jone ' class", 'girl']	['24 kid']	0.396223223707
+["mr jone ' class", 'girl']	['boy and girl']	0.804513200027
+['boy and girl', 'girl']	['24 kid']	0.600504315231
+['boy and girl', 'girl']	["mr jone ' class"]	0.343366086048
+['24 kid', 'boy and girl']	["mr jone ' class"]	0.156579181386
+['24 kid', 'boy and girl']	['girl']	0.877920803137
+["mr jone ' class", 'boy and girl']	['24 kid']	0.0915001233665
+["mr jone ' class", 'boy and girl']	['girl']	0.876232442902
+['girl', 'boy and girl']	['24 kid']	0.600504315231
+['girl', 'boy and girl']	["mr jone ' class"]	0.343366086048

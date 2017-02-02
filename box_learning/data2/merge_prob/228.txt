@@ -1,0 +1,31 @@
+['41 animal', 'pig', 'chicken', '100 leg']
+['41 animal']	['pig']	0.0741073489195
+['41 animal']	['chicken']	0.100696756518
+['41 animal']	['100 leg']	0.0901100077042
+['pig']	['chicken']	0.167617902365
+['pig']	['100 leg']	0.0669904799604
+['chicken']	['100 leg']	0.0946073395521
+['pig', '41 animal']	['chicken']	0.844341605902
+['pig', '41 animal']	['100 leg']	0.0703393045902
+['chicken', '41 animal']	['pig']	0.727004702426
+['chicken', '41 animal']	['100 leg']	0.0939298741501
+['100 leg', '41 animal']	['pig']	0.0741073489195
+['100 leg', '41 animal']	['chicken']	0.10397274702
+['41 animal', 'pig']	['chicken']	0.844341605902
+['41 animal', 'pig']	['100 leg']	0.0703393045902
+['chicken', 'pig']	['41 animal']	0.159872896928
+['chicken', 'pig']	['100 leg']	0.158178926018
+['100 leg', 'pig']	['41 animal']	0.0737139440912
+['100 leg', 'pig']	['chicken']	0.824454932697
+['41 animal', 'chicken']	['pig']	0.727004702426
+['41 animal', 'chicken']	['100 leg']	0.0939298741501
+['pig', 'chicken']	['41 animal']	0.159872896928
+['pig', 'chicken']	['100 leg']	0.158178926018
+['100 leg', 'chicken']	['41 animal']	0.103222748661
+['100 leg', 'chicken']	['pig']	0.727004702426
+['41 animal', '100 leg']	['pig']	0.0741073489195
+['41 animal', '100 leg']	['chicken']	0.10397274702
+['pig', '100 leg']	['41 animal']	0.0737139440912
+['pig', '100 leg']	['chicken']	0.824454932697
+['chicken', '100 leg']	['41 animal']	0.103222748661
+['chicken', '100 leg']	['pig']	0.727004702426

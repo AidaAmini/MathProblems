@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP (DT A) (NN water) (NN flow) (NN restrictor))
+    (VP
+      (VBZ has)
+      (VP
+        (VBN reduced)
+        (NP (NP (DT the) (NN flow)) (PP (IN of) (NP (NN water))))
+        (PP
+          (TO to)
+          (NP
+            (NP (CD 2) (NNS gallons))
+            (PP (IN per) (NP (NN minute)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT This) (NN amount))
+    (VP
+      (VBZ is)
+      (NP
+        (NP (CD 1) (NN gallon))
+        (PP (IN per) (NP (NN minute)))
+        (ADVP (RBR less) (PP (IN than) (NP (CD 0.6))))
+        (NP (DT the) (JJ original) (NN flow) (NN rate))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP (DT the) (JJ original) (NN rate))
+      (PP
+        (IN in)
+        (NP (NP (NNS gallons)) (PP (IN per) (NP (NN minute))))))
+    (. .)))

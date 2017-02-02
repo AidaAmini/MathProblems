@@ -1,0 +1,47 @@
+(ROOT
+  (S
+    (NP (CD Two) (NNS planes))
+    (VP
+      (VP
+        (VBP start)
+        (PP
+          (IN from)
+          (NP
+            (NP (NNP Chicago))
+            (PP (IN at) (NP (DT the) (JJ same) (NN time))))))
+      (CC and)
+      (VP
+        (VB fly)
+        (PP
+          (IN in)
+          (NP
+            (NP (JJ opposite) (NNS directions))
+            (, ,)
+            (NP
+              (NP (CD one))
+              (VP
+                (VBG averaging)
+                (NP
+                  (NP (DT a) (NN speed))
+                  (PP
+                    (IN of)
+                    (NP
+                      (NP (CD 40) (NNS miles))
+                      (PP (IN per) (NP (NN hour))))))))))
+        (ADJP
+          (ADJP (JJR greater))
+          (PP (IN than) (NP (DT the) (JJ other))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP they))
+        (VP
+          (VBP are)
+          (ADVP (NP (CD 2000) (NNS miles)) (RB apart))
+          (PP (IN after) (NP (CD 5) (NNS hours)))))
+      (, ,))
+    (VP (VBP find) (NP (PRP$ their) (JJ average) (NNS speeds)))
+    (. .)))

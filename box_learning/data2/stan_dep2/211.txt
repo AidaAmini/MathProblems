@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (PP (IN In) (NP (NN college)))
+    (NP (EX there))
+    (VP
+      (VBP are)
+      (NP
+        (NP
+          (QP (CD 15) (NNS times) (IN as) (JJ many))
+          (NNS students))
+        (PP (IN as) (NP (NNS professors)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (PP
+      (IN If)
+      (NP
+        (NP
+          (RB together)
+          (DT the)
+          (NNS students)
+          (CC and)
+          (NNS professors))
+        (NP (NN number) (CD 40,000))))
+    (, ,)
+    (WHNP (WHADJP (WRB how) (JJ many)) (NNS students))
+    (SQ (VBP are) (NP (EX there)) (PP (IN in) (NP (NN college))))
+    (. ?)))

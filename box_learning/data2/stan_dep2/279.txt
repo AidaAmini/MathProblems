@@ -1,0 +1,38 @@
+(ROOT
+  (NP
+    (NP (NP (DT The) (NN carpenter)) (NNS saws))
+    (NP
+      (NP (DT a) (NN board))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP
+            (VBZ is)
+            (ADVP (NP (CD 22) (NNS feet)) (RB long))
+            (PP (IN into) (NP (CD two) (NNS pieces)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (CD One) (NN piece))
+    (VP
+      (VBZ is)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB be)
+            (ADVP (NP (CD 1) (NN foot)) (JJR longer))
+            (PP
+              (IN than)
+              (NP
+                (NP (RB twice) (DT the) (NN length))
+                (PP (IN of) (NP (DT the) (JJR shorter) (NN piece)))))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN Length))
+        (PP (IN of) (NP (DT each) (NN piece)))))
+    (. .)))

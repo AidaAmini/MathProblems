@@ -1,0 +1,537 @@
+['chemistry lab', '38 student', '16 work-station', 'set', 'student', '2 student', 'other', '3 student', 'work-station']
+['chemistry lab']	['38 student']	0.0901100077042
+['chemistry lab']	['16 work-station']	0.0827346205535
+['chemistry lab']	['set']	0.0774561735493
+['chemistry lab']	['student']	0.0541974512876
+['chemistry lab']	['2 student']	0.0824069519204
+['chemistry lab']	['other']	0.0888375395985
+['chemistry lab']	['3 student']	0.0827346205535
+['chemistry lab']	['work-station']	0.0575843031668
+['38 student']	['16 work-station']	0.0901100077042
+['38 student']	['set']	0.0741073489195
+['38 student']	['2 student']	0.644695369786
+['38 student']	['other']	0.0888375395985
+['38 student']	['3 student']	0.643440930505
+['38 student']	['work-station']	0.0575843031668
+['16 work-station']	['set']	0.0831172035382
+['16 work-station']	['student']	0.0575843031668
+['16 work-station']	['2 student']	0.103176153012
+['16 work-station']	['other']	0.0888375395985
+['16 work-station']	['3 student']	0.125971854627
+['set']	['student']	0.0553228714078
+['set']	['2 student']	0.0713469999677
+['set']	['other']	0.0936140722507
+['set']	['3 student']	0.0663445115919
+['set']	['work-station']	0.046933224487
+['student']	['other']	0.0567729525493
+['student']	['work-station']	0.046933224487
+['2 student']	['other']	0.0690699689286
+['2 student']	['3 student']	0.812190840137
+['2 student']	['work-station']	0.0453234639121
+['other']	['3 student']	0.0901100077042
+['other']	['work-station']	0.0545449409346
+['3 student']	['work-station']	0.0575843031668
+['38 student', 'chemistry lab']	['16 work-station']	0.0827346205535
+['38 student', 'chemistry lab']	['set']	0.0741073489195
+['38 student', 'chemistry lab']	['student']	0.57497188336
+['38 student', 'chemistry lab']	['2 student']	0.542633257095
+['38 student', 'chemistry lab']	['other']	0.0888375395985
+['38 student', 'chemistry lab']	['3 student']	0.549852778125
+['38 student', 'chemistry lab']	['work-station']	0.0575843031668
+['16 work-station', 'chemistry lab']	['38 student']	0.0901100077042
+['16 work-station', 'chemistry lab']	['set']	0.0774561735493
+['16 work-station', 'chemistry lab']	['student']	0.0541974512876
+['16 work-station', 'chemistry lab']	['2 student']	0.11192831726
+['16 work-station', 'chemistry lab']	['other']	0.0888375395985
+['16 work-station', 'chemistry lab']	['3 student']	0.151505567125
+['16 work-station', 'chemistry lab']	['work-station']	0.604191949864
+['set', 'chemistry lab']	['38 student']	0.0696933362217
+['set', 'chemistry lab']	['16 work-station']	0.0696933362217
+['set', 'chemistry lab']	['student']	0.0874042995138
+['set', 'chemistry lab']	['2 student']	0.0713469999677
+['set', 'chemistry lab']	['other']	0.367054509198
+['set', 'chemistry lab']	['3 student']	0.0663445115919
+['set', 'chemistry lab']	['work-station']	0.0802665578203
+['student', 'chemistry lab']	['38 student']	0.540072524315
+['student', 'chemistry lab']	['16 work-station']	0.0454050549877
+['student', 'chemistry lab']	['set']	0.0878084998638
+['student', 'chemistry lab']	['2 student']	0.597095823072
+['student', 'chemistry lab']	['other']	0.115909752451
+['student', 'chemistry lab']	['3 student']	0.605462119699
+['student', 'chemistry lab']	['work-station']	0.0802665578203
+['2 student', 'chemistry lab']	['38 student']	0.544221442934
+['2 student', 'chemistry lab']	['16 work-station']	0.11995745473
+['2 student', 'chemistry lab']	['set']	0.0617470987896
+['2 student', 'chemistry lab']	['student']	0.515821799889
+['2 student', 'chemistry lab']	['other']	0.0690699689286
+['2 student', 'chemistry lab']	['3 student']	0.73028733598
+['2 student', 'chemistry lab']	['work-station']	0.0453234639121
+['other', 'chemistry lab']	['38 student']	0.0901100077042
+['other', 'chemistry lab']	['16 work-station']	0.0827346205535
+['other', 'chemistry lab']	['set']	0.413846569571
+['other', 'chemistry lab']	['student']	0.1367543638
+['other', 'chemistry lab']	['2 student']	0.0824069519204
+['other', 'chemistry lab']	['3 student']	0.0827346205535
+['other', 'chemistry lab']	['work-station']	0.0878782742679
+['3 student', 'chemistry lab']	['38 student']	0.584269096576
+['3 student', 'chemistry lab']	['16 work-station']	0.151505567125
+['3 student', 'chemistry lab']	['set']	0.0741073489195
+['3 student', 'chemistry lab']	['student']	0.52773240786
+['3 student', 'chemistry lab']	['2 student']	0.757481135075
+['3 student', 'chemistry lab']	['other']	0.0888375395985
+['3 student', 'chemistry lab']	['work-station']	0.0575843031668
+['work-station', 'chemistry lab']	['38 student']	0.0429586976843
+['work-station', 'chemistry lab']	['16 work-station']	0.788143748765
+['work-station', 'chemistry lab']	['set']	0.079418852943
+['work-station', 'chemistry lab']	['student']	0.079014652593
+['work-station', 'chemistry lab']	['2 student']	0.0517752012465
+['work-station', 'chemistry lab']	['other']	0.076185350862
+['work-station', 'chemistry lab']	['3 student']	0.0454050549877
+['chemistry lab', '38 student']	['16 work-station']	0.0827346205535
+['chemistry lab', '38 student']	['set']	0.0741073489195
+['chemistry lab', '38 student']	['student']	0.57497188336
+['chemistry lab', '38 student']	['2 student']	0.542633257095
+['chemistry lab', '38 student']	['other']	0.0888375395985
+['chemistry lab', '38 student']	['3 student']	0.549852778125
+['chemistry lab', '38 student']	['work-station']	0.0575843031668
+['16 work-station', '38 student']	['chemistry lab']	0.0827346205535
+['16 work-station', '38 student']	['set']	0.0774561735493
+['16 work-station', '38 student']	['student']	0.428045198947
+['16 work-station', '38 student']	['2 student']	0.562619306136
+['16 work-station', '38 student']	['other']	0.0888375395985
+['16 work-station', '38 student']	['3 student']	0.604308352538
+['16 work-station', '38 student']	['work-station']	0.604191949864
+['set', '38 student']	['chemistry lab']	0.0696933362217
+['set', '38 student']	['16 work-station']	0.0737139440912
+['set', '38 student']	['student']	0.671340809466
+['set', '38 student']	['2 student']	0.480668844185
+['set', '38 student']	['other']	0.367054509198
+['set', '38 student']	['3 student']	0.482679469303
+['set', '38 student']	['work-station']	0.0802665578203
+['student', '38 student']	['chemistry lab']	0.132305814241
+['student', '38 student']	['16 work-station']	0.114915343922
+['student', '38 student']	['set']	0.45874470581
+['student', '38 student']	['2 student']	0.836514249462
+['student', '38 student']	['other']	0.443569768949
+['student', '38 student']	['3 student']	0.861547212756
+['student', '38 student']	['work-station']	0.263185949211
+['2 student', '38 student']	['chemistry lab']	0.167427262452
+['2 student', '38 student']	['16 work-station']	0.247627320934
+['2 student', '38 student']	['set']	0.367128906718
+['2 student', '38 student']	['student']	0.776161723926
+['2 student', '38 student']	['other']	0.311787219466
+['2 student', '38 student']	['3 student']	0.868355241542
+['2 student', '38 student']	['work-station']	0.263185949211
+['other', '38 student']	['chemistry lab']	0.0901100077042
+['other', '38 student']	['16 work-station']	0.0901100077042
+['other', '38 student']	['set']	0.375576317447
+['other', '38 student']	['student']	0.701350141921
+['other', '38 student']	['2 student']	0.555532434772
+['other', '38 student']	['3 student']	0.584269096576
+['other', '38 student']	['work-station']	0.0878782742679
+['3 student', '38 student']	['chemistry lab']	0.176486909159
+['3 student', '38 student']	['16 work-station']	0.264907405557
+['3 student', '38 student']	['set']	0.374062030126
+['3 student', '38 student']	['student']	0.799098406808
+['3 student', '38 student']	['2 student']	0.837054663803
+['3 student', '38 student']	['other']	0.325390866884
+['3 student', '38 student']	['work-station']	0.268856068315
+['work-station', '38 student']	['chemistry lab']	0.0429586976843
+['work-station', '38 student']	['16 work-station']	0.759940093102
+['work-station', '38 student']	['set']	0.0771443431391
+['work-station', '38 student']	['student']	0.617726082323
+['work-station', '38 student']	['2 student']	0.37994565891
+['work-station', '38 student']	['other']	0.076185350862
+['work-station', '38 student']	['3 student']	0.369598189076
+['chemistry lab', '16 work-station']	['38 student']	0.0901100077042
+['chemistry lab', '16 work-station']	['set']	0.0774561735493
+['chemistry lab', '16 work-station']	['student']	0.0541974512876
+['chemistry lab', '16 work-station']	['2 student']	0.11192831726
+['chemistry lab', '16 work-station']	['other']	0.0888375395985
+['chemistry lab', '16 work-station']	['3 student']	0.151505567125
+['chemistry lab', '16 work-station']	['work-station']	0.604191949864
+['38 student', '16 work-station']	['chemistry lab']	0.0827346205535
+['38 student', '16 work-station']	['set']	0.0774561735493
+['38 student', '16 work-station']	['student']	0.428045198947
+['38 student', '16 work-station']	['2 student']	0.562619306136
+['38 student', '16 work-station']	['other']	0.0888375395985
+['38 student', '16 work-station']	['3 student']	0.604308352538
+['38 student', '16 work-station']	['work-station']	0.604191949864
+['set', '16 work-station']	['chemistry lab']	0.0696933362217
+['set', '16 work-station']	['38 student']	0.0696933362217
+['set', '16 work-station']	['student']	0.0886562047411
+['set', '16 work-station']	['2 student']	0.105873669575
+['set', '16 work-station']	['other']	0.367054509198
+['set', '16 work-station']	['3 student']	0.110566880729
+['set', '16 work-station']	['work-station']	0.575965498114
+['student', '16 work-station']	['chemistry lab']	0.046982964258
+['student', '16 work-station']	['38 student']	0.540072524315
+['student', '16 work-station']	['set']	0.0886562047411
+['student', '16 work-station']	['2 student']	0.717467749675
+['student', '16 work-station']	['other']	0.115909752451
+['student', '16 work-station']	['3 student']	0.72602272602
+['student', '16 work-station']	['work-station']	0.575965498114
+['2 student', '16 work-station']	['chemistry lab']	0.0696933362217
+['2 student', '16 work-station']	['38 student']	0.544221442934
+['2 student', '16 work-station']	['set']	0.0650959234194
+['2 student', '16 work-station']	['student']	0.413868660449
+['2 student', '16 work-station']	['other']	0.0690699689286
+['2 student', '16 work-station']	['3 student']	0.781116950393
+['2 student', '16 work-station']	['work-station']	0.596335868484
+['other', '16 work-station']	['chemistry lab']	0.0827346205535
+['other', '16 work-station']	['38 student']	0.0901100077042
+['other', '16 work-station']	['set']	0.345832790555
+['other', '16 work-station']	['student']	0.135903613999
+['other', '16 work-station']	['2 student']	0.112172037378
+['other', '16 work-station']	['3 student']	0.124206600218
+['other', '16 work-station']	['work-station']	0.573295263704
+['3 student', '16 work-station']	['chemistry lab']	0.0827346205535
+['3 student', '16 work-station']	['38 student']	0.584269096576
+['3 student', '16 work-station']	['set']	0.0774561735493
+['3 student', '16 work-station']	['student']	0.435964453605
+['3 student', '16 work-station']	['2 student']	0.812835846014
+['3 student', '16 work-station']	['other']	0.0888375395985
+['3 student', '16 work-station']	['work-station']	0.604191949864
+['work-station', '16 work-station']	['chemistry lab']	0.124829049051
+['work-station', '16 work-station']	['38 student']	0.114915343922
+['work-station', '16 work-station']	['set']	0.263185949211
+['work-station', '16 work-station']	['student']	0.263185949211
+['work-station', '16 work-station']	['2 student']	0.180755709649
+['work-station', '16 work-station']	['other']	0.264731227956
+['work-station', '16 work-station']	['3 student']	0.157502141539
+['chemistry lab', 'set']	['38 student']	0.0696933362217
+['chemistry lab', 'set']	['16 work-station']	0.0696933362217
+['chemistry lab', 'set']	['student']	0.0874042995138
+['chemistry lab', 'set']	['2 student']	0.0713469999677
+['chemistry lab', 'set']	['other']	0.367054509198
+['chemistry lab', 'set']	['3 student']	0.0663445115919
+['chemistry lab', 'set']	['work-station']	0.0802665578203
+['38 student', 'set']	['chemistry lab']	0.0696933362217
+['38 student', 'set']	['16 work-station']	0.0737139440912
+['38 student', 'set']	['student']	0.671340809466
+['38 student', 'set']	['2 student']	0.480668844185
+['38 student', 'set']	['other']	0.367054509198
+['38 student', 'set']	['3 student']	0.482679469303
+['38 student', 'set']	['work-station']	0.0802665578203
+['16 work-station', 'set']	['chemistry lab']	0.0696933362217
+['16 work-station', 'set']	['38 student']	0.0696933362217
+['16 work-station', 'set']	['student']	0.0886562047411
+['16 work-station', 'set']	['2 student']	0.105873669575
+['16 work-station', 'set']	['other']	0.367054509198
+['16 work-station', 'set']	['3 student']	0.110566880729
+['16 work-station', 'set']	['work-station']	0.575965498114
+['student', 'set']	['chemistry lab']	0.10906081194
+['student', 'set']	['38 student']	0.678422041768
+['student', 'set']	['16 work-station']	0.105036545366
+['student', 'set']	['2 student']	0.635692086737
+['student', 'set']	['other']	0.239650972625
+['student', 'set']	['3 student']	0.652613359709
+['student', 'set']	['work-station']	0.109011072169
+['2 student', 'set']	['chemistry lab']	0.131771183904
+['2 student', 'set']	['38 student']	0.511515545547
+['2 student', 'set']	['16 work-station']	0.159872896928
+['2 student', 'set']	['student']	0.661967312593
+['2 student', 'set']	['other']	0.398408134539
+['2 student', 'set']	['3 student']	0.785599553582
+['2 student', 'set']	['work-station']	0.142344405502
+['other', 'set']	['chemistry lab']	0.0696933362217
+['other', 'set']	['38 student']	0.0696933362217
+['other', 'set']	['16 work-station']	0.0737139440912
+['other', 'set']	['student']	0.074920219668
+['other', 'set']	['2 student']	0.0746958245975
+['other', 'set']	['3 student']	0.0696933362217
+['other', 'set']	['work-station']	0.046933224487
+['3 student', 'set']	['chemistry lab']	0.0696933362217
+['3 student', 'set']	['38 student']	0.482679469303
+['3 student', 'set']	['16 work-station']	0.103222748661
+['3 student', 'set']	['student']	0.661967312593
+['3 student', 'set']	['2 student']	0.742624323356
+['3 student', 'set']	['other']	0.367054509198
+['3 student', 'set']	['work-station']	0.0802665578203
+['work-station', 'set']	['chemistry lab']	0.10748290267
+['work-station', 'set']	['38 student']	0.10748290267
+['work-station', 'set']	['16 work-station']	0.666424587486
+['work-station', 'set']	['student']	0.11740071909
+['work-station', 'set']	['2 student']	0.113853048928
+['work-station', 'set']	['other']	0.256836927847
+['work-station', 'set']	['3 student']	0.10748290267
+['chemistry lab', 'student']	['38 student']	0.540072524315
+['chemistry lab', 'student']	['16 work-station']	0.0454050549877
+['chemistry lab', 'student']	['set']	0.0878084998638
+['chemistry lab', 'student']	['2 student']	0.597095823072
+['chemistry lab', 'student']	['other']	0.115909752451
+['chemistry lab', 'student']	['3 student']	0.605462119699
+['chemistry lab', 'student']	['work-station']	0.0802665578203
+['38 student', 'student']	['chemistry lab']	0.132305814241
+['38 student', 'student']	['16 work-station']	0.114915343922
+['38 student', 'student']	['set']	0.45874470581
+['38 student', 'student']	['2 student']	0.836514249462
+['38 student', 'student']	['other']	0.443569768949
+['38 student', 'student']	['3 student']	0.861547212756
+['38 student', 'student']	['work-station']	0.263185949211
+['16 work-station', 'student']	['chemistry lab']	0.046982964258
+['16 work-station', 'student']	['38 student']	0.540072524315
+['16 work-station', 'student']	['set']	0.0886562047411
+['16 work-station', 'student']	['2 student']	0.717467749675
+['16 work-station', 'student']	['other']	0.115909752451
+['16 work-station', 'student']	['3 student']	0.72602272602
+['16 work-station', 'student']	['work-station']	0.575965498114
+['set', 'student']	['chemistry lab']	0.10906081194
+['set', 'student']	['38 student']	0.678422041768
+['set', 'student']	['16 work-station']	0.105036545366
+['set', 'student']	['2 student']	0.635692086737
+['set', 'student']	['other']	0.239650972625
+['set', 'student']	['3 student']	0.652613359709
+['set', 'student']	['work-station']	0.109011072169
+['2 student', 'student']	['chemistry lab']	0.184283064516
+['2 student', 'student']	['38 student']	0.864765848837
+['2 student', 'student']	['16 work-station']	0.215378247734
+['2 student', 'student']	['set']	0.483287478671
+['2 student', 'student']	['other']	0.501445875144
+['2 student', 'student']	['3 student']	0.889634442228
+['2 student', 'student']	['work-station']	0.321062055406
+['other', 'student']	['chemistry lab']	0.0465787639079
+['other', 'student']	['38 student']	0.540072524315
+['other', 'student']	['16 work-station']	0.0429586976843
+['other', 'student']	['set']	0.225180475888
+['other', 'student']	['2 student']	0.534962783934
+['other', 'student']	['3 student']	0.539625376857
+['other', 'student']	['work-station']	0.046933224487
+['3 student', 'student']	['chemistry lab']	0.126406958321
+['3 student', 'student']	['38 student']	0.857199386669
+['3 student', 'student']	['16 work-station']	0.157502141539
+['3 student', 'student']	['set']	0.45874470581
+['3 student', 'student']	['2 student']	0.88206798006
+['3 student', 'student']	['other']	0.443569768949
+['3 student', 'student']	['work-station']	0.263185949211
+['work-station', 'student']	['chemistry lab']	0.10865661159
+['work-station', 'student']	['38 student']	0.540072524315
+['work-station', 'student']	['16 work-station']	0.666424587486
+['work-station', 'student']	['set']	0.11740071909
+['work-station', 'student']	['2 student']	0.534962783934
+['work-station', 'student']	['other']	0.139915628539
+['work-station', 'student']	['3 student']	0.539625376857
+['chemistry lab', '2 student']	['38 student']	0.544221442934
+['chemistry lab', '2 student']	['16 work-station']	0.11995745473
+['chemistry lab', '2 student']	['set']	0.0617470987896
+['chemistry lab', '2 student']	['student']	0.515821799889
+['chemistry lab', '2 student']	['other']	0.0690699689286
+['chemistry lab', '2 student']	['3 student']	0.73028733598
+['chemistry lab', '2 student']	['work-station']	0.0453234639121
+['38 student', '2 student']	['chemistry lab']	0.167427262452
+['38 student', '2 student']	['16 work-station']	0.247627320934
+['38 student', '2 student']	['set']	0.367128906718
+['38 student', '2 student']	['student']	0.776161723926
+['38 student', '2 student']	['other']	0.311787219466
+['38 student', '2 student']	['3 student']	0.868355241542
+['38 student', '2 student']	['work-station']	0.263185949211
+['16 work-station', '2 student']	['chemistry lab']	0.0696933362217
+['16 work-station', '2 student']	['38 student']	0.544221442934
+['16 work-station', '2 student']	['set']	0.0650959234194
+['16 work-station', '2 student']	['student']	0.413868660449
+['16 work-station', '2 student']	['other']	0.0690699689286
+['16 work-station', '2 student']	['3 student']	0.781116950393
+['16 work-station', '2 student']	['work-station']	0.596335868484
+['set', '2 student']	['chemistry lab']	0.131771183904
+['set', '2 student']	['38 student']	0.511515545547
+['set', '2 student']	['16 work-station']	0.159872896928
+['set', '2 student']	['student']	0.661967312593
+['set', '2 student']	['other']	0.398408134539
+['set', '2 student']	['3 student']	0.785599553582
+['set', '2 student']	['work-station']	0.142344405502
+['student', '2 student']	['chemistry lab']	0.184283064516
+['student', '2 student']	['38 student']	0.864765848837
+['student', '2 student']	['16 work-station']	0.215378247734
+['student', '2 student']	['set']	0.483287478671
+['student', '2 student']	['other']	0.501445875144
+['student', '2 student']	['3 student']	0.889634442228
+['student', '2 student']	['work-station']	0.321062055406
+['other', '2 student']	['chemistry lab']	0.0696933362217
+['other', '2 student']	['38 student']	0.522652815483
+['other', '2 student']	['16 work-station']	0.103222748661
+['other', '2 student']	['set']	0.37208338602
+['other', '2 student']	['student']	0.673078423704
+['other', '2 student']	['3 student']	0.736313764211
+['other', '2 student']	['work-station']	0.0802665578203
+['3 student', '2 student']	['chemistry lab']	0.175935752697
+['3 student', '2 student']	['38 student']	0.619879171367
+['3 student', '2 student']	['16 work-station']	0.350927326657
+['3 student', '2 student']	['set']	0.367128906718
+['3 student', '2 student']	['student']	0.772828390593
+['3 student', '2 student']	['other']	0.311787219466
+['3 student', '2 student']	['work-station']	0.263185949211
+['work-station', '2 student']	['chemistry lab']	0.10748290267
+['work-station', '2 student']	['38 student']	0.394545197623
+['work-station', '2 student']	['16 work-station']	0.626765686943
+['work-station', '2 student']	['set']	0.139222190821
+['work-station', '2 student']	['student']	0.607540897138
+['work-station', '2 student']	['other']	0.138263198544
+['work-station', '2 student']	['3 student']	0.693535992832
+['chemistry lab', 'other']	['38 student']	0.0901100077042
+['chemistry lab', 'other']	['16 work-station']	0.0827346205535
+['chemistry lab', 'other']	['set']	0.413846569571
+['chemistry lab', 'other']	['student']	0.1367543638
+['chemistry lab', 'other']	['2 student']	0.0824069519204
+['chemistry lab', 'other']	['3 student']	0.0827346205535
+['chemistry lab', 'other']	['work-station']	0.0878782742679
+['38 student', 'other']	['chemistry lab']	0.0901100077042
+['38 student', 'other']	['16 work-station']	0.0901100077042
+['38 student', 'other']	['set']	0.375576317447
+['38 student', 'other']	['student']	0.701350141921
+['38 student', 'other']	['2 student']	0.555532434772
+['38 student', 'other']	['3 student']	0.584269096576
+['38 student', 'other']	['work-station']	0.0878782742679
+['16 work-station', 'other']	['chemistry lab']	0.0827346205535
+['16 work-station', 'other']	['38 student']	0.0901100077042
+['16 work-station', 'other']	['set']	0.345832790555
+['16 work-station', 'other']	['student']	0.135903613999
+['16 work-station', 'other']	['2 student']	0.112172037378
+['16 work-station', 'other']	['3 student']	0.124206600218
+['16 work-station', 'other']	['work-station']	0.573295263704
+['set', 'other']	['chemistry lab']	0.0696933362217
+['set', 'other']	['38 student']	0.0696933362217
+['set', 'other']	['16 work-station']	0.0737139440912
+['set', 'other']	['student']	0.074920219668
+['set', 'other']	['2 student']	0.0746958245975
+['set', 'other']	['3 student']	0.0696933362217
+['set', 'other']	['work-station']	0.046933224487
+['student', 'other']	['chemistry lab']	0.0465787639079
+['student', 'other']	['38 student']	0.540072524315
+['student', 'other']	['16 work-station']	0.0429586976843
+['student', 'other']	['set']	0.225180475888
+['student', 'other']	['2 student']	0.534962783934
+['student', 'other']	['3 student']	0.539625376857
+['student', 'other']	['work-station']	0.046933224487
+['2 student', 'other']	['chemistry lab']	0.0696933362217
+['2 student', 'other']	['38 student']	0.522652815483
+['2 student', 'other']	['16 work-station']	0.103222748661
+['2 student', 'other']	['set']	0.37208338602
+['2 student', 'other']	['student']	0.673078423704
+['2 student', 'other']	['3 student']	0.736313764211
+['2 student', 'other']	['work-station']	0.0802665578203
+['3 student', 'other']	['chemistry lab']	0.0827346205535
+['3 student', 'other']	['38 student']	0.584269096576
+['3 student', 'other']	['16 work-station']	0.124206600218
+['3 student', 'other']	['set']	0.375576317447
+['3 student', 'other']	['student']	0.68684843992
+['3 student', 'other']	['2 student']	0.753928324398
+['3 student', 'other']	['work-station']	0.0878782742679
+['work-station', 'other']	['chemistry lab']	0.0429586976843
+['work-station', 'other']	['38 student']	0.0429586976843
+['work-station', 'other']	['16 work-station']	0.666424587486
+['work-station', 'other']	['set']	0.182018652437
+['work-station', 'other']	['student']	0.0850831835176
+['work-station', 'other']	['2 student']	0.0505486765724
+['work-station', 'other']	['3 student']	0.0429586976843
+['chemistry lab', '3 student']	['38 student']	0.584269096576
+['chemistry lab', '3 student']	['16 work-station']	0.151505567125
+['chemistry lab', '3 student']	['set']	0.0741073489195
+['chemistry lab', '3 student']	['student']	0.52773240786
+['chemistry lab', '3 student']	['2 student']	0.757481135075
+['chemistry lab', '3 student']	['other']	0.0888375395985
+['chemistry lab', '3 student']	['work-station']	0.0575843031668
+['38 student', '3 student']	['chemistry lab']	0.176486909159
+['38 student', '3 student']	['16 work-station']	0.264907405557
+['38 student', '3 student']	['set']	0.374062030126
+['38 student', '3 student']	['student']	0.799098406808
+['38 student', '3 student']	['2 student']	0.837054663803
+['38 student', '3 student']	['other']	0.325390866884
+['38 student', '3 student']	['work-station']	0.268856068315
+['16 work-station', '3 student']	['chemistry lab']	0.0827346205535
+['16 work-station', '3 student']	['38 student']	0.584269096576
+['16 work-station', '3 student']	['set']	0.0774561735493
+['16 work-station', '3 student']	['student']	0.435964453605
+['16 work-station', '3 student']	['2 student']	0.812835846014
+['16 work-station', '3 student']	['other']	0.0888375395985
+['16 work-station', '3 student']	['work-station']	0.604191949864
+['set', '3 student']	['chemistry lab']	0.0696933362217
+['set', '3 student']	['38 student']	0.482679469303
+['set', '3 student']	['16 work-station']	0.103222748661
+['set', '3 student']	['student']	0.661967312593
+['set', '3 student']	['2 student']	0.742624323356
+['set', '3 student']	['other']	0.367054509198
+['set', '3 student']	['work-station']	0.0802665578203
+['student', '3 student']	['chemistry lab']	0.126406958321
+['student', '3 student']	['38 student']	0.857199386669
+['student', '3 student']	['16 work-station']	0.157502141539
+['student', '3 student']	['set']	0.45874470581
+['student', '3 student']	['2 student']	0.88206798006
+['student', '3 student']	['other']	0.443569768949
+['student', '3 student']	['work-station']	0.263185949211
+['2 student', '3 student']	['chemistry lab']	0.175935752697
+['2 student', '3 student']	['38 student']	0.619879171367
+['2 student', '3 student']	['16 work-station']	0.350927326657
+['2 student', '3 student']	['set']	0.367128906718
+['2 student', '3 student']	['student']	0.772828390593
+['2 student', '3 student']	['other']	0.311787219466
+['2 student', '3 student']	['work-station']	0.263185949211
+['other', '3 student']	['chemistry lab']	0.0827346205535
+['other', '3 student']	['38 student']	0.584269096576
+['other', '3 student']	['16 work-station']	0.124206600218
+['other', '3 student']	['set']	0.375576317447
+['other', '3 student']	['student']	0.68684843992
+['other', '3 student']	['2 student']	0.753928324398
+['other', '3 student']	['work-station']	0.0878782742679
+['work-station', '3 student']	['chemistry lab']	0.0454050549877
+['work-station', '3 student']	['38 student']	0.369598189076
+['work-station', '3 student']	['16 work-station']	0.626765686943
+['work-station', '3 student']	['set']	0.0771443431391
+['work-station', '3 student']	['student']	0.607540897138
+['work-station', '3 student']	['2 student']	0.631591858797
+['work-station', '3 student']	['other']	0.076185350862
+['chemistry lab', 'work-station']	['38 student']	0.0429586976843
+['chemistry lab', 'work-station']	['16 work-station']	0.788143748765
+['chemistry lab', 'work-station']	['set']	0.079418852943
+['chemistry lab', 'work-station']	['student']	0.079014652593
+['chemistry lab', 'work-station']	['2 student']	0.0517752012465
+['chemistry lab', 'work-station']	['other']	0.076185350862
+['chemistry lab', 'work-station']	['3 student']	0.0454050549877
+['38 student', 'work-station']	['chemistry lab']	0.0429586976843
+['38 student', 'work-station']	['16 work-station']	0.759940093102
+['38 student', 'work-station']	['set']	0.0771443431391
+['38 student', 'work-station']	['student']	0.617726082323
+['38 student', 'work-station']	['2 student']	0.37994565891
+['38 student', 'work-station']	['other']	0.076185350862
+['38 student', 'work-station']	['3 student']	0.369598189076
+['16 work-station', 'work-station']	['chemistry lab']	0.124829049051
+['16 work-station', 'work-station']	['38 student']	0.114915343922
+['16 work-station', 'work-station']	['set']	0.263185949211
+['16 work-station', 'work-station']	['student']	0.263185949211
+['16 work-station', 'work-station']	['2 student']	0.180755709649
+['16 work-station', 'work-station']	['other']	0.264731227956
+['16 work-station', 'work-station']	['3 student']	0.157502141539
+['set', 'work-station']	['chemistry lab']	0.10748290267
+['set', 'work-station']	['38 student']	0.10748290267
+['set', 'work-station']	['16 work-station']	0.666424587486
+['set', 'work-station']	['student']	0.11740071909
+['set', 'work-station']	['2 student']	0.113853048928
+['set', 'work-station']	['other']	0.256836927847
+['set', 'work-station']	['3 student']	0.10748290267
+['student', 'work-station']	['chemistry lab']	0.10865661159
+['student', 'work-station']	['38 student']	0.540072524315
+['student', 'work-station']	['16 work-station']	0.666424587486
+['student', 'work-station']	['set']	0.11740071909
+['student', 'work-station']	['2 student']	0.534962783934
+['student', 'work-station']	['other']	0.139915628539
+['student', 'work-station']	['3 student']	0.539625376857
+['2 student', 'work-station']	['chemistry lab']	0.10748290267
+['2 student', 'work-station']	['38 student']	0.394545197623
+['2 student', 'work-station']	['16 work-station']	0.626765686943
+['2 student', 'work-station']	['set']	0.139222190821
+['2 student', 'work-station']	['student']	0.607540897138
+['2 student', 'work-station']	['other']	0.138263198544
+['2 student', 'work-station']	['3 student']	0.693535992832
+['other', 'work-station']	['chemistry lab']	0.0429586976843
+['other', 'work-station']	['38 student']	0.0429586976843
+['other', 'work-station']	['16 work-station']	0.666424587486
+['other', 'work-station']	['set']	0.182018652437
+['other', 'work-station']	['student']	0.0850831835176
+['other', 'work-station']	['2 student']	0.0505486765724
+['other', 'work-station']	['3 student']	0.0429586976843
+['3 student', 'work-station']	['chemistry lab']	0.0454050549877
+['3 student', 'work-station']	['38 student']	0.369598189076
+['3 student', 'work-station']	['16 work-station']	0.626765686943
+['3 student', 'work-station']	['set']	0.0771443431391
+['3 student', 'work-station']	['student']	0.607540897138
+['3 student', 'work-station']	['2 student']	0.631591858797
+['3 student', 'work-station']	['other']	0.076185350862

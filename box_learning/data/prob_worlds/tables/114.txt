@@ -1,0 +1,16 @@
+1
+[['cover', '1', '-', '-', '-', 'dollar', '980'], ['hourly rate', 'x1', 'hour', 'dollar', '28', '-', '-'], ['material', '1', '', 'dollar', '560', '-', '-']]
+-1
+[['cover', '1', '-', '-', '-', 'dollar', '980'], ['hourly rate', 'x1', 'hour', 'dollar', '28', '-', '-'], ['980', '1', 'cover', 'dollar', '560', '-', '-']]
+-1
+[['material', '1', '-', '-', '-', 'dollar', '980'], ['hourly rate', 'x1', 'hour', 'dollar', '28', '-', '-'], ['material', '1', '', 'dollar', '560', '-', '980']]
+-1
+[['560', '1', '-', '-', '-', 'dollar', 'material'], ['hourly rate', 'x1', 'hour', 'dollar', '28', '-', '-'], ['material', '1', '', 'dollar', '560', '-', '980']]
+-1
+[['cover', 'dollar', '-', '-', '-', 'material', ''], ['hourly rate', 'x1', 'hour', 'dollar', '28', '-', '-'], ['material', '1', '', 'dollar', '560', '-', 'cover']]
+-1
+[['cover', '560', '-', '-', '-', 'dollar', '980'], ['hourly rate', 'x1', 'hour', 'dollar', '28', '-', '-'], ['dollar', '1', '', '980', '560', '-', '-']]
+-1
+[['cover', '1', '560', '-', '-', '', '980'], ['hourly rate', 'x1', 'hour', 'dollar', '28', '-', '-'], ['material', '980', '', 'dollar', '560', '-', 'cover']]
+-1
+[['', '1', 'dollar', 'cover', '560', 'material', '980'], ['hourly rate', 'x1', 'hour', 'dollar', '28', '-', '-'], ['980', '1', '', 'dollar', '560', 'cover', '-']]

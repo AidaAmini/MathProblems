@@ -1,0 +1,16 @@
+1
+[['70 % alcohol', '10.5', 'liter', '% alcohol', '70', '-', '-'], ['50 % alcohol', 'x1', 'liter', '% alcohol', '50', '-', '-'], ['80 % alcohol', 'x2', 'liter', '% alcohol', '80', '-', '-']]
+-1
+[['70 % alcohol', '80', 'x2', '% alcohol', '70', 'liter', '80 % alcohol'], ['50 % alcohol', 'x1', 'liter', '% alcohol', '50', '-', '-'], ['70 % alcohol', 'x2', 'liter', '% alcohol', '80', '-', '-']]
+-1
+[['70 % alcohol', '10.5', 'liter', '% alcohol', '70', '80 % alcohol', 'x2'], ['50 % alcohol', 'x1', 'liter', '% alcohol', '50', '-', '-'], ['80 % alcohol', 'x2', 'liter', '% alcohol', '80', '70 % alcohol', '-']]
+-1
+[['70 % alcohol', '10.5', 'liter', 'x2', '70', '-', '-'], ['50 % alcohol', 'x1', 'liter', '% alcohol', '50', '-', '-'], ['80 % alcohol', 'x2', '70', '% alcohol', '10.5', '70 % alcohol', '-']]
+-1
+[['x2', '10.5', 'liter', '% alcohol', '70', '-', '-'], ['50 % alcohol', 'x1', 'liter', '% alcohol', '50', '-', '-'], ['80 % alcohol', 'x2', 'liter', '% alcohol', '70', '-', '-']]
+-1
+[['70 % alcohol', '10.5', 'x2', '80', '70', '-', 'liter'], ['50 % alcohol', 'x1', 'liter', '% alcohol', '50', '-', '-'], ['70', '10.5', 'liter', '% alcohol', '80', 'x2', '70 % alcohol']]
+-1
+[['70 % alcohol', '10.5', 'liter', '% alcohol', '70', '80', '-'], ['50 % alcohol', 'x1', 'liter', '% alcohol', '50', '-', '-'], ['70 % alcohol', '70', 'liter', '% alcohol', '80', '-', '-']]
+-1
+[['70 % alcohol', '10.5', 'liter', '% alcohol', '80', '-', '-'], ['50 % alcohol', 'x1', 'liter', '% alcohol', '50', '-', '-'], ['80', '10.5', 'liter', '% alcohol', '70 % alcohol', '-', '-']]

@@ -1,0 +1,42 @@
+(ROOT
+  (NP
+    (NP (NP (DT A) (NN peach)) (CC and) (NP (DT a) (NN apple)))
+    (NP (NP (NN cost)) (NP (CD 70) (NNS cents)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN peach))
+    (VP
+      (VBZ is)
+      (ADJP
+        (RBR more)
+        (JJ expensive)
+        (PP (IN than) (NP (DT the) (NN apple))))
+      (PP (IN by) (NP (CD 60) (NNS cents))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN cost))
+        (NP
+          (NP (DT a) (NN peach))
+          (, ,)
+          (PP (IN in) (NP (NNS cents))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT an) (NN apple))
+            (, ,)
+            (PP (IN in) (NP (NNS cents)))))))
+    (. ?)))

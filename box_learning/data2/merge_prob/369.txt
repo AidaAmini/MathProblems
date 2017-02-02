@@ -1,0 +1,360 @@
+['store', 'compact disc', 'disc', '10.50 dollar', '8.50 dollar', '10 disc', 'dollar', '93 dollar']
+['store']	['compact disc']	0.456783982205
+['store']	['disc']	0.122840736639
+['store']	['10.50 dollar']	0.0897823390711
+['store']	['8.50 dollar']	0.0897823390711
+['store']	['10 disc']	0.43458438425
+['store']	['dollar']	0.0108687908977
+['store']	['93 dollar']	0.0901100077042
+['compact disc']	['10.50 dollar']	0.0752871422893
+['compact disc']	['8.50 dollar']	0.0752871422893
+['compact disc']	['10 disc']	0.556137096067
+['compact disc']	['dollar']	0.00222717737084
+['compact disc']	['93 dollar']	0.0737139440912
+['disc']	['10.50 dollar']	0.0733147310829
+['disc']	['8.50 dollar']	0.0733147310829
+['disc']	['dollar']	0.00388540021915
+['disc']	['93 dollar']	0.0683122427071
+['10.50 dollar']	['8.50 dollar']	0.636793130373
+['10.50 dollar']	['10 disc']	0.0737139440912
+['10.50 dollar']	['93 dollar']	0.556137096067
+['8.50 dollar']	['10 disc']	0.0737139440912
+['8.50 dollar']	['93 dollar']	0.556137096067
+['10 disc']	['dollar']	0.00424649792755
+['10 disc']	['93 dollar']	0.0901100077042
+['compact disc', 'store']	['disc']	0.804468274287
+['compact disc', 'store']	['10.50 dollar']	0.0799362650964
+['compact disc', 'store']	['8.50 dollar']	0.0799362650964
+['compact disc', 'store']	['10 disc']	0.736313764211
+['compact disc', 'store']	['dollar']	0.00298284487713
+['compact disc', 'store']	['93 dollar']	0.0737139440912
+['disc', 'store']	['compact disc']	0.670517393647
+['disc', 'store']	['10.50 dollar']	0.0746958245975
+['disc', 'store']	['8.50 dollar']	0.0746958245975
+['disc', 'store']	['10 disc']	0.906233540337
+['disc', 'store']	['dollar']	0.0241916360859
+['disc', 'store']	['93 dollar']	0.0696933362217
+['10.50 dollar', 'store']	['compact disc']	0.326267892932
+['10.50 dollar', 'store']	['disc']	0.740006837733
+['10.50 dollar', 'store']	['8.50 dollar']	0.540909642042
+['10.50 dollar', 'store']	['10 disc']	0.331894797058
+['10.50 dollar', 'store']	['dollar']	0.479152403271
+['10.50 dollar', 'store']	['93 dollar']	0.522652815483
+['8.50 dollar', 'store']	['compact disc']	0.326267892932
+['8.50 dollar', 'store']	['disc']	0.740006837733
+['8.50 dollar', 'store']	['10.50 dollar']	0.540909642042
+['8.50 dollar', 'store']	['10 disc']	0.331894797058
+['8.50 dollar', 'store']	['dollar']	0.445053930822
+['8.50 dollar', 'store']	['93 dollar']	0.522652815483
+['10 disc', 'store']	['compact disc']	0.753928324398
+['10 disc', 'store']	['disc']	0.948300380249
+['10 disc', 'store']	['10.50 dollar']	0.0897823390711
+['10 disc', 'store']	['8.50 dollar']	0.0897823390711
+['10 disc', 'store']	['dollar']	0.00500216543384
+['10 disc', 'store']	['93 dollar']	0.0901100077042
+['dollar', 'store']	['compact disc']	0.160190552089
+['dollar', 'store']	['disc']	0.172936696819
+['dollar', 'store']	['10.50 dollar']	0.324394621612
+['dollar', 'store']	['8.50 dollar']	0.277796149163
+['dollar', 'store']	['10 disc']	0.159540757646
+['dollar', 'store']	['93 dollar']	0.302398280583
+['93 dollar', 'store']	['compact disc']	0.375133701956
+['93 dollar', 'store']	['disc']	0.738953910125
+['93 dollar', 'store']	['10.50 dollar']	0.555532434772
+['93 dollar', 'store']	['8.50 dollar']	0.555532434772
+['93 dollar', 'store']	['10 disc']	0.415222055063
+['93 dollar', 'store']	['dollar']	0.385417421795
+['store', 'compact disc']	['disc']	0.804468274287
+['store', 'compact disc']	['10.50 dollar']	0.0799362650964
+['store', 'compact disc']	['8.50 dollar']	0.0799362650964
+['store', 'compact disc']	['10 disc']	0.736313764211
+['store', 'compact disc']	['dollar']	0.00298284487713
+['store', 'compact disc']	['93 dollar']	0.0737139440912
+['disc', 'compact disc']	['store']	0.914222021331
+['disc', 'compact disc']	['10.50 dollar']	0.282916074519
+['disc', 'compact disc']	['8.50 dollar']	0.282916074519
+['disc', 'compact disc']	['10 disc']	0.904854829857
+['disc', 'compact disc']	['dollar']	0.188653768891
+['disc', 'compact disc']	['93 dollar']	0.265287442169
+['10.50 dollar', 'compact disc']	['store']	0.370306431368
+['10.50 dollar', 'compact disc']	['disc']	0.747230627483
+['10.50 dollar', 'compact disc']	['8.50 dollar']	0.598993010156
+['10.50 dollar', 'compact disc']	['10 disc']	0.580736183597
+['10.50 dollar', 'compact disc']	['dollar']	0.368389923
+['10.50 dollar', 'compact disc']	['93 dollar']	0.580736183597
+['8.50 dollar', 'compact disc']	['store']	0.370306431368
+['8.50 dollar', 'compact disc']	['disc']	0.747230627483
+['8.50 dollar', 'compact disc']	['10.50 dollar']	0.598993010156
+['8.50 dollar', 'compact disc']	['10 disc']	0.580736183597
+['8.50 dollar', 'compact disc']	['dollar']	0.33429145055
+['8.50 dollar', 'compact disc']	['93 dollar']	0.580736183597
+['10 disc', 'compact disc']	['store']	0.690760122104
+['10 disc', 'compact disc']	['disc']	0.85198561642
+['10 disc', 'compact disc']	['10.50 dollar']	0.128848173029
+['10 disc', 'compact disc']	['8.50 dollar']	0.128848173029
+['10 disc', 'compact disc']	['dollar']	0.0920216743935
+['10 disc', 'compact disc']	['93 dollar']	0.127137811052
+['dollar', 'compact disc']	['store']	0.260697876385
+['dollar', 'compact disc']	['disc']	0.3996045201
+['dollar', 'compact disc']	['10.50 dollar']	0.324394621612
+['dollar', 'compact disc']	['8.50 dollar']	0.277796149163
+['dollar', 'compact disc']	['10 disc']	0.0852471420558
+['dollar', 'compact disc']	['93 dollar']	0.302398280583
+['93 dollar', 'compact disc']	['store']	0.346849641244
+['93 dollar', 'compact disc']	['disc']	0.715858078464
+['93 dollar', 'compact disc']	['10.50 dollar']	0.562478269493
+['93 dollar', 'compact disc']	['8.50 dollar']	0.562478269493
+['93 dollar', 'compact disc']	['10 disc']	0.544221442934
+['93 dollar', 'compact disc']	['dollar']	0.257518902357
+['store', 'disc']	['compact disc']	0.670517393647
+['store', 'disc']	['10.50 dollar']	0.0746958245975
+['store', 'disc']	['8.50 dollar']	0.0746958245975
+['store', 'disc']	['10 disc']	0.906233540337
+['store', 'disc']	['dollar']	0.0241916360859
+['store', 'disc']	['93 dollar']	0.0696933362217
+['compact disc', 'disc']	['store']	0.914222021331
+['compact disc', 'disc']	['10.50 dollar']	0.282916074519
+['compact disc', 'disc']	['8.50 dollar']	0.282916074519
+['compact disc', 'disc']	['10 disc']	0.904854829857
+['compact disc', 'disc']	['dollar']	0.188653768891
+['compact disc', 'disc']	['93 dollar']	0.265287442169
+['10.50 dollar', 'disc']	['store']	0.767458667327
+['10.50 dollar', 'disc']	['compact disc']	0.651081235303
+['10.50 dollar', 'disc']	['8.50 dollar']	0.509504920429
+['10.50 dollar', 'disc']	['10 disc']	0.867580480633
+['10.50 dollar', 'disc']	['dollar']	0.514895375159
+['10.50 dollar', 'disc']	['93 dollar']	0.511515545547
+['8.50 dollar', 'disc']	['store']	0.767458667327
+['8.50 dollar', 'disc']	['compact disc']	0.651081235303
+['8.50 dollar', 'disc']	['10.50 dollar']	0.509504920429
+['8.50 dollar', 'disc']	['10 disc']	0.867580480633
+['8.50 dollar', 'disc']	['dollar']	0.480796902709
+['8.50 dollar', 'disc']	['93 dollar']	0.511515545547
+['10 disc', 'disc']	['store']	0.914222021331
+['10 disc', 'disc']	['compact disc']	0.677591143304
+['10 disc', 'disc']	['10.50 dollar']	0.232137901837
+['10 disc', 'disc']	['8.50 dollar']	0.232137901837
+['10 disc', 'disc']	['dollar']	0.12274276973
+['10 disc', 'disc']	['93 dollar']	0.214509269487
+['dollar', 'disc']	['store']	0.274225168055
+['dollar', 'disc']	['compact disc']	0.29642485317
+['dollar', 'disc']	['10.50 dollar']	0.402820360087
+['dollar', 'disc']	['8.50 dollar']	0.356221887638
+['dollar', 'disc']	['10 disc']	0.352721981661
+['dollar', 'disc']	['93 dollar']	0.290604168731
+['93 dollar', 'disc']	['store']	0.754441425948
+['93 dollar', 'disc']	['compact disc']	0.602342999608
+['93 dollar', 'disc']	['10.50 dollar']	0.480668844185
+['93 dollar', 'disc']	['8.50 dollar']	0.480668844185
+['93 dollar', 'disc']	['10 disc']	0.867580480633
+['93 dollar', 'disc']	['dollar']	0.466339520364
+['store', '10.50 dollar']	['compact disc']	0.326267892932
+['store', '10.50 dollar']	['disc']	0.740006837733
+['store', '10.50 dollar']	['8.50 dollar']	0.540909642042
+['store', '10.50 dollar']	['10 disc']	0.331894797058
+['store', '10.50 dollar']	['dollar']	0.479152403271
+['store', '10.50 dollar']	['93 dollar']	0.522652815483
+['compact disc', '10.50 dollar']	['store']	0.370306431368
+['compact disc', '10.50 dollar']	['disc']	0.747230627483
+['compact disc', '10.50 dollar']	['8.50 dollar']	0.598993010156
+['compact disc', '10.50 dollar']	['10 disc']	0.580736183597
+['compact disc', '10.50 dollar']	['dollar']	0.368389923
+['compact disc', '10.50 dollar']	['93 dollar']	0.580736183597
+['disc', '10.50 dollar']	['store']	0.767458667327
+['disc', '10.50 dollar']	['compact disc']	0.651081235303
+['disc', '10.50 dollar']	['8.50 dollar']	0.509504920429
+['disc', '10.50 dollar']	['10 disc']	0.867580480633
+['disc', '10.50 dollar']	['dollar']	0.514895375159
+['disc', '10.50 dollar']	['93 dollar']	0.511515545547
+['8.50 dollar', '10.50 dollar']	['store']	0.379955862467
+['8.50 dollar', '10.50 dollar']	['compact disc']	0.179626345711
+['8.50 dollar', '10.50 dollar']	['disc']	0.419806302569
+['8.50 dollar', '10.50 dollar']	['10 disc']	0.177915983734
+['8.50 dollar', '10.50 dollar']	['dollar']	0.788200120216
+['8.50 dollar', '10.50 dollar']	['93 dollar']	0.633981735469
+['10 disc', '10.50 dollar']	['store']	0.346849641244
+['10 disc', '10.50 dollar']	['compact disc']	0.523933849778
+['10 disc', '10.50 dollar']	['disc']	0.856819217059
+['10 disc', '10.50 dollar']	['8.50 dollar']	0.562478269493
+['10 disc', '10.50 dollar']	['dollar']	0.368389923
+['10 disc', '10.50 dollar']	['93 dollar']	0.544221442934
+['dollar', '10.50 dollar']	['store']	0.248552014471
+['dollar', '10.50 dollar']	['compact disc']	0.167860839449
+['dollar', '10.50 dollar']	['disc']	0.284217211659
+['dollar', '10.50 dollar']	['8.50 dollar']	0.699725131301
+['dollar', '10.50 dollar']	['10 disc']	0.145753796459
+['dollar', '10.50 dollar']	['93 dollar']	0.693984630908
+['93 dollar', '10.50 dollar']	['store']	0.329177689786
+['93 dollar', '10.50 dollar']	['compact disc']	0.128848173029
+['93 dollar', '10.50 dollar']	['disc']	0.369028129887
+['93 dollar', '10.50 dollar']	['8.50 dollar']	0.640616739236
+['93 dollar', '10.50 dollar']	['10 disc']	0.127137811052
+['93 dollar', '10.50 dollar']	['dollar']	0.734461448873
+['store', '8.50 dollar']	['compact disc']	0.326267892932
+['store', '8.50 dollar']	['disc']	0.740006837733
+['store', '8.50 dollar']	['10.50 dollar']	0.540909642042
+['store', '8.50 dollar']	['10 disc']	0.331894797058
+['store', '8.50 dollar']	['dollar']	0.445053930822
+['store', '8.50 dollar']	['93 dollar']	0.522652815483
+['compact disc', '8.50 dollar']	['store']	0.370306431368
+['compact disc', '8.50 dollar']	['disc']	0.747230627483
+['compact disc', '8.50 dollar']	['10.50 dollar']	0.598993010156
+['compact disc', '8.50 dollar']	['10 disc']	0.580736183597
+['compact disc', '8.50 dollar']	['dollar']	0.33429145055
+['compact disc', '8.50 dollar']	['93 dollar']	0.580736183597
+['disc', '8.50 dollar']	['store']	0.767458667327
+['disc', '8.50 dollar']	['compact disc']	0.651081235303
+['disc', '8.50 dollar']	['10.50 dollar']	0.509504920429
+['disc', '8.50 dollar']	['10 disc']	0.867580480633
+['disc', '8.50 dollar']	['dollar']	0.480796902709
+['disc', '8.50 dollar']	['93 dollar']	0.511515545547
+['10.50 dollar', '8.50 dollar']	['store']	0.379955862467
+['10.50 dollar', '8.50 dollar']	['compact disc']	0.179626345711
+['10.50 dollar', '8.50 dollar']	['disc']	0.419806302569
+['10.50 dollar', '8.50 dollar']	['10 disc']	0.177915983734
+['10.50 dollar', '8.50 dollar']	['dollar']	0.788200120216
+['10.50 dollar', '8.50 dollar']	['93 dollar']	0.633981735469
+['10 disc', '8.50 dollar']	['store']	0.346849641244
+['10 disc', '8.50 dollar']	['compact disc']	0.523933849778
+['10 disc', '8.50 dollar']	['disc']	0.856819217059
+['10 disc', '8.50 dollar']	['10.50 dollar']	0.562478269493
+['10 disc', '8.50 dollar']	['dollar']	0.33429145055
+['10 disc', '8.50 dollar']	['93 dollar']	0.544221442934
+['dollar', '8.50 dollar']	['store']	0.248552014471
+['dollar', '8.50 dollar']	['compact disc']	0.167860839449
+['dollar', '8.50 dollar']	['disc']	0.284217211659
+['dollar', '8.50 dollar']	['10.50 dollar']	0.720142586735
+['dollar', '8.50 dollar']	['10 disc']	0.145753796459
+['dollar', '8.50 dollar']	['93 dollar']	0.693984630908
+['93 dollar', '8.50 dollar']	['store']	0.329177689786
+['93 dollar', '8.50 dollar']	['compact disc']	0.128848173029
+['93 dollar', '8.50 dollar']	['disc']	0.369028129887
+['93 dollar', '8.50 dollar']	['10.50 dollar']	0.640616739236
+['93 dollar', '8.50 dollar']	['10 disc']	0.127137811052
+['93 dollar', '8.50 dollar']	['dollar']	0.769741331028
+['store', '10 disc']	['compact disc']	0.753928324398
+['store', '10 disc']	['disc']	0.948300380249
+['store', '10 disc']	['10.50 dollar']	0.0897823390711
+['store', '10 disc']	['8.50 dollar']	0.0897823390711
+['store', '10 disc']	['dollar']	0.00500216543384
+['store', '10 disc']	['93 dollar']	0.0901100077042
+['compact disc', '10 disc']	['store']	0.690760122104
+['compact disc', '10 disc']	['disc']	0.85198561642
+['compact disc', '10 disc']	['10.50 dollar']	0.128848173029
+['compact disc', '10 disc']	['8.50 dollar']	0.128848173029
+['compact disc', '10 disc']	['dollar']	0.0920216743935
+['compact disc', '10 disc']	['93 dollar']	0.127137811052
+['disc', '10 disc']	['store']	0.914222021331
+['disc', '10 disc']	['compact disc']	0.677591143304
+['disc', '10 disc']	['10.50 dollar']	0.232137901837
+['disc', '10 disc']	['8.50 dollar']	0.232137901837
+['disc', '10 disc']	['dollar']	0.12274276973
+['disc', '10 disc']	['93 dollar']	0.214509269487
+['10.50 dollar', '10 disc']	['store']	0.346849641244
+['10.50 dollar', '10 disc']	['compact disc']	0.523933849778
+['10.50 dollar', '10 disc']	['disc']	0.856819217059
+['10.50 dollar', '10 disc']	['8.50 dollar']	0.562478269493
+['10.50 dollar', '10 disc']	['dollar']	0.368389923
+['10.50 dollar', '10 disc']	['93 dollar']	0.544221442934
+['8.50 dollar', '10 disc']	['store']	0.346849641244
+['8.50 dollar', '10 disc']	['compact disc']	0.523933849778
+['8.50 dollar', '10 disc']	['disc']	0.856819217059
+['8.50 dollar', '10 disc']	['10.50 dollar']	0.562478269493
+['8.50 dollar', '10 disc']	['dollar']	0.33429145055
+['8.50 dollar', '10 disc']	['93 dollar']	0.544221442934
+['dollar', '10 disc']	['store']	0.260697876385
+['dollar', '10 disc']	['compact disc']	0.0965669976112
+['dollar', '10 disc']	['disc']	0.45644273365
+['dollar', '10 disc']	['10.50 dollar']	0.324394621612
+['dollar', '10 disc']	['8.50 dollar']	0.277796149163
+['dollar', '10 disc']	['93 dollar']	0.302398280583
+['93 dollar', '10 disc']	['store']	0.473045239078
+['93 dollar', '10 disc']	['compact disc']	0.566188865804
+['93 dollar', '10 disc']	['disc']	0.884988269954
+['93 dollar', '10 disc']	['10.50 dollar']	0.577101062223
+['93 dollar', '10 disc']	['8.50 dollar']	0.577101062223
+['93 dollar', '10 disc']	['dollar']	0.226146353337
+['store', 'dollar']	['compact disc']	0.160190552089
+['store', 'dollar']	['disc']	0.172936696819
+['store', 'dollar']	['10.50 dollar']	0.324394621612
+['store', 'dollar']	['8.50 dollar']	0.277796149163
+['store', 'dollar']	['10 disc']	0.159540757646
+['store', 'dollar']	['93 dollar']	0.302398280583
+['compact disc', 'dollar']	['store']	0.260697876385
+['compact disc', 'dollar']	['disc']	0.3996045201
+['compact disc', 'dollar']	['10.50 dollar']	0.324394621612
+['compact disc', 'dollar']	['8.50 dollar']	0.277796149163
+['compact disc', 'dollar']	['10 disc']	0.0852471420558
+['compact disc', 'dollar']	['93 dollar']	0.302398280583
+['disc', 'dollar']	['store']	0.274225168055
+['disc', 'dollar']	['compact disc']	0.29642485317
+['disc', 'dollar']	['10.50 dollar']	0.402820360087
+['disc', 'dollar']	['8.50 dollar']	0.356221887638
+['disc', 'dollar']	['10 disc']	0.352721981661
+['disc', 'dollar']	['93 dollar']	0.290604168731
+['10.50 dollar', 'dollar']	['store']	0.248552014471
+['10.50 dollar', 'dollar']	['compact disc']	0.167860839449
+['10.50 dollar', 'dollar']	['disc']	0.284217211659
+['10.50 dollar', 'dollar']	['8.50 dollar']	0.699725131301
+['10.50 dollar', 'dollar']	['10 disc']	0.145753796459
+['10.50 dollar', 'dollar']	['93 dollar']	0.693984630908
+['8.50 dollar', 'dollar']	['store']	0.248552014471
+['8.50 dollar', 'dollar']	['compact disc']	0.167860839449
+['8.50 dollar', 'dollar']	['disc']	0.284217211659
+['8.50 dollar', 'dollar']	['10.50 dollar']	0.720142586735
+['8.50 dollar', 'dollar']	['10 disc']	0.145753796459
+['8.50 dollar', 'dollar']	['93 dollar']	0.693984630908
+['10 disc', 'dollar']	['store']	0.260697876385
+['10 disc', 'dollar']	['compact disc']	0.0965669976112
+['10 disc', 'dollar']	['disc']	0.45644273365
+['10 disc', 'dollar']	['10.50 dollar']	0.324394621612
+['10 disc', 'dollar']	['8.50 dollar']	0.277796149163
+['10 disc', 'dollar']	['93 dollar']	0.302398280583
+['93 dollar', 'dollar']	['store']	0.190675908277
+['93 dollar', 'dollar']	['compact disc']	0.109984733254
+['93 dollar', 'dollar']	['disc']	0.226341105465
+['93 dollar', 'dollar']	['10.50 dollar']	0.720142586735
+['93 dollar', 'dollar']	['8.50 dollar']	0.699725131301
+['93 dollar', 'dollar']	['10 disc']	0.0878776902641
+['store', '93 dollar']	['compact disc']	0.375133701956
+['store', '93 dollar']	['disc']	0.738953910125
+['store', '93 dollar']	['10.50 dollar']	0.555532434772
+['store', '93 dollar']	['8.50 dollar']	0.555532434772
+['store', '93 dollar']	['10 disc']	0.415222055063
+['store', '93 dollar']	['dollar']	0.385417421795
+['compact disc', '93 dollar']	['store']	0.346849641244
+['compact disc', '93 dollar']	['disc']	0.715858078464
+['compact disc', '93 dollar']	['10.50 dollar']	0.562478269493
+['compact disc', '93 dollar']	['8.50 dollar']	0.562478269493
+['compact disc', '93 dollar']	['10 disc']	0.544221442934
+['compact disc', '93 dollar']	['dollar']	0.257518902357
+['disc', '93 dollar']	['store']	0.754441425948
+['disc', '93 dollar']	['compact disc']	0.602342999608
+['disc', '93 dollar']	['10.50 dollar']	0.480668844185
+['disc', '93 dollar']	['8.50 dollar']	0.480668844185
+['disc', '93 dollar']	['10 disc']	0.867580480633
+['disc', '93 dollar']	['dollar']	0.466339520364
+['10.50 dollar', '93 dollar']	['store']	0.329177689786
+['10.50 dollar', '93 dollar']	['compact disc']	0.128848173029
+['10.50 dollar', '93 dollar']	['disc']	0.369028129887
+['10.50 dollar', '93 dollar']	['8.50 dollar']	0.640616739236
+['10.50 dollar', '93 dollar']	['10 disc']	0.127137811052
+['10.50 dollar', '93 dollar']	['dollar']	0.734461448873
+['8.50 dollar', '93 dollar']	['store']	0.329177689786
+['8.50 dollar', '93 dollar']	['compact disc']	0.128848173029
+['8.50 dollar', '93 dollar']	['disc']	0.369028129887
+['8.50 dollar', '93 dollar']	['10.50 dollar']	0.640616739236
+['8.50 dollar', '93 dollar']	['10 disc']	0.127137811052
+['8.50 dollar', '93 dollar']	['dollar']	0.769741331028
+['10 disc', '93 dollar']	['store']	0.473045239078
+['10 disc', '93 dollar']	['compact disc']	0.566188865804
+['10 disc', '93 dollar']	['disc']	0.884988269954
+['10 disc', '93 dollar']	['10.50 dollar']	0.577101062223
+['10 disc', '93 dollar']	['8.50 dollar']	0.577101062223
+['10 disc', '93 dollar']	['dollar']	0.226146353337
+['dollar', '93 dollar']	['store']	0.190675908277
+['dollar', '93 dollar']	['compact disc']	0.109984733254
+['dollar', '93 dollar']	['disc']	0.226341105465
+['dollar', '93 dollar']	['10.50 dollar']	0.720142586735
+['dollar', '93 dollar']	['8.50 dollar']	0.699725131301
+['dollar', '93 dollar']	['10 disc']	0.0878776902641

@@ -1,0 +1,16 @@
+1
+[['bill', '15', 'bill', '-', '-', 'dollar', '390'], ['20-dollar bill', 'x1', 'bill', 'dollar', '20', '-', '-'], ['50-dollar bill', 'x2', 'bill', 'dollar', '50', '-', '-']]
+-1
+[['bill', '15', '50', 'x2', '-', 'dollar', '50-dollar bill'], ['20-dollar bill', 'x1', 'bill', 'dollar', '20', '-', '-'], ['50-dollar bill', 'x2', 'bill', 'dollar', '50', '-', '-']]
+-1
+[['x2', '15', 'bill', '-', '-', 'dollar', '390'], ['20-dollar bill', 'x1', 'bill', 'dollar', '20', '-', '-'], ['390', 'x2', 'bill', 'dollar', '15', '-', '-']]
+-1
+[['bill', '50', 'bill', '-', '390', 'dollar', 'x2'], ['20-dollar bill', 'x1', 'bill', 'dollar', '20', '-', '-'], ['50-dollar bill', 'x2', 'bill', 'dollar', '390', '-', '-']]
+-1
+[['bill', '50', 'bill', 'x2', '-', 'dollar', '390'], ['20-dollar bill', 'x1', 'bill', 'dollar', '20', '-', '-'], ['390', 'x2', 'bill', 'dollar', '50', '-', '-']]
+-1
+[['bill', '15', 'bill', '-', '-', 'dollar', '50-dollar bill'], ['20-dollar bill', 'x1', 'bill', 'dollar', '20', '-', '-'], ['50-dollar bill', 'x2', '390', 'dollar', '50', '-', 'bill']]
+-1
+[['bill', '15', 'bill', '-', '-', 'x2', '390'], ['20-dollar bill', 'x1', 'bill', 'dollar', '20', '-', '-'], ['50-dollar bill', 'x2', '15', 'dollar', '50', '-', '-']]
+-1
+[['x2', '15', '50-dollar bill', '-', '-', 'dollar', '50'], ['20-dollar bill', 'x1', 'bill', 'dollar', '20', '-', '-'], ['390', 'x2', 'bill', 'dollar', '50', '15', '-']]

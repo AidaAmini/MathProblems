@@ -1,0 +1,31 @@
+(ROOT
+  (S
+    (NP (DT A) (VBG writing) (NN workshop))
+    (VP
+      (VBZ enrolls)
+      (NP (NNS novelists) (CC and) (NNS poets))
+      (PP
+        (IN in)
+        (NP
+          (NP (DT a) (NN ratio))
+          (PP (IN of) (NP (QP (CD 5) (TO to) (CD 3)))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 24) (NNS people))
+        (PP (IN at) (NP (DT the) (NN workshop)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (NP (JJ many) (NNS novelists)))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (NP (JJ many) (NNS poets)))
+    (SQ (VBP are) (NP (EX there)))
+    (. ?)))

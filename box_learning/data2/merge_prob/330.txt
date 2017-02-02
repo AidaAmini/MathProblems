@@ -1,0 +1,762 @@
+['wal-mart', 'thermometer', '2 dollar , and hot-water hot-water bottle', '2 item', 'month', '1,200 dollar', '7 time', 'hot-water bottle', 'bottle', 'hot-water']
+['wal-mart']	['thermometer']	0.0865655370555
+['wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.0920786332799
+['wal-mart']	['2 item']	0.0901100077042
+['wal-mart']	['month']	0.025638585255
+['wal-mart']	['1,200 dollar']	0.0901100077042
+['wal-mart']	['7 time']	0.0901100077042
+['wal-mart']	['hot-water bottle']	0.0897823390711
+['wal-mart']	['bottle']	0.0865655370555
+['wal-mart']	['hot-water']	0.0865655370555
+['thermometer']	['2 dollar , and hot-water hot-water bottle']	0.08653102734
+['thermometer']	['2 item']	0.0669904799604
+['thermometer']	['month']	0.0379881962689
+['thermometer']	['1,200 dollar']	0.0696933362217
+['thermometer']	['7 time']	0.0696933362217
+['thermometer']	['hot-water bottle']	0.0719929683361
+['thermometer']	['bottle']	0.149413446641
+['thermometer']	['hot-water']	0.0767194630807
+['2 dollar , and hot-water hot-water bottle']	['2 item']	0.389228165259
+['2 dollar , and hot-water hot-water bottle']	['month']	0.0292883886109
+['2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.0988755105172
+['2 dollar , and hot-water hot-water bottle']	['7 time']	0.357681422474
+['2 dollar , and hot-water hot-water bottle']	['hot-water']	0.0914560578477
+['2 item']	['month']	0.016864172895
+['2 item']	['1,200 dollar']	0.0901100077042
+['2 item']	['7 time']	0.387929093691
+['2 item']	['hot-water bottle']	0.0897823390711
+['2 item']	['bottle']	0.0741073489195
+['2 item']	['hot-water']	0.0831172035382
+['month']	['1,200 dollar']	0.0215505325421
+['month']	['7 time']	0.111019800693
+['month']	['hot-water bottle']	0.0215743332859
+['month']	['bottle']	0.0284860458609
+['month']	['hot-water']	0.0212464283393
+['1,200 dollar']	['7 time']	0.0901100077042
+['1,200 dollar']	['hot-water bottle']	0.0897823390711
+['1,200 dollar']	['bottle']	0.0741073489195
+['1,200 dollar']	['hot-water']	0.0831172035382
+['7 time']	['hot-water bottle']	0.0897823390711
+['7 time']	['bottle']	0.0741073489195
+['7 time']	['hot-water']	0.0831172035382
+['bottle']	['hot-water']	0.0767194630807
+['thermometer', 'wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.0898798519698
+['thermometer', 'wal-mart']	['2 item']	0.0703393045902
+['thermometer', 'wal-mart']	['month']	0.264370118633
+['thermometer', 'wal-mart']	['1,200 dollar']	0.0696933362217
+['thermometer', 'wal-mart']	['7 time']	0.0696933362217
+['thermometer', 'wal-mart']	['hot-water bottle']	0.0753417929659
+['thermometer', 'wal-mart']	['bottle']	0.62652248936
+['thermometer', 'wal-mart']	['hot-water']	0.0767194630807
+['2 dollar , and hot-water hot-water bottle', 'wal-mart']	['thermometer']	0.0840176431843
+['2 dollar , and hot-water hot-water bottle', 'wal-mart']	['2 item']	0.511165925719
+['2 dollar , and hot-water hot-water bottle', 'wal-mart']	['month']	0.019764579087
+['2 dollar , and hot-water hot-water bottle', 'wal-mart']	['1,200 dollar']	0.0988755105172
+['2 dollar , and hot-water hot-water bottle', 'wal-mart']	['7 time']	0.362489840215
+['2 dollar , and hot-water hot-water bottle', 'wal-mart']	['hot-water bottle']	0.567954588345
+['2 dollar , and hot-water hot-water bottle', 'wal-mart']	['bottle']	0.766572753605
+['2 dollar , and hot-water hot-water bottle', 'wal-mart']	['hot-water']	0.0914560578477
+['2 item', 'wal-mart']	['thermometer']	0.10667549813
+['2 item', 'wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.498102650629
+['2 item', 'wal-mart']	['month']	0.0176198404013
+['2 item', 'wal-mart']	['1,200 dollar']	0.0901100077042
+['2 item', 'wal-mart']	['7 time']	0.36707894687
+['2 item', 'wal-mart']	['hot-water bottle']	0.0897823390711
+['2 item', 'wal-mart']	['bottle']	0.10667549813
+['2 item', 'wal-mart']	['hot-water']	0.113411174639
+['month', 'wal-mart']	['thermometer']	0.369916621962
+['month', 'wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.0506011684966
+['month', 'wal-mart']	['2 item']	0.04570265501
+['month', 'wal-mart']	['1,200 dollar']	0.04570265501
+['month', 'wal-mart']	['7 time']	0.18250857426
+['month', 'wal-mart']	['hot-water bottle']	0.0490854479521
+['month', 'wal-mart']	['bottle']	0.35187150918
+['month', 'wal-mart']	['hot-water']	0.048763645292
+['1,200 dollar', 'wal-mart']	['thermometer']	0.11002432276
+['1,200 dollar', 'wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.0920786332799
+['1,200 dollar', 'wal-mart']	['2 item']	0.0901100077042
+['1,200 dollar', 'wal-mart']	['month']	0.0176198404013
+['1,200 dollar', 'wal-mart']	['7 time']	0.0901100077042
+['1,200 dollar', 'wal-mart']	['hot-water bottle']	0.0897823390711
+['1,200 dollar', 'wal-mart']	['bottle']	0.10667549813
+['1,200 dollar', 'wal-mart']	['hot-water']	0.113411174639
+['7 time', 'wal-mart']	['thermometer']	0.11002432276
+['7 time', 'wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.315486681484
+['7 time', 'wal-mart']	['2 item']	0.36707894687
+['7 time', 'wal-mart']	['month']	0.122851942689
+['7 time', 'wal-mart']	['1,200 dollar']	0.0901100077042
+['7 time', 'wal-mart']	['hot-water bottle']	0.0897823390711
+['7 time', 'wal-mart']	['bottle']	0.10667549813
+['7 time', 'wal-mart']	['hot-water']	0.113411174639
+['hot-water bottle', 'wal-mart']	['thermometer']	0.0989643708075
+['hot-water bottle', 'wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.423160688857
+['hot-water bottle', 'wal-mart']	['2 item']	0.0737139440912
+['hot-water bottle', 'wal-mart']	['month']	0.01333679174
+['hot-water bottle', 'wal-mart']	['1,200 dollar']	0.0737139440912
+['hot-water bottle', 'wal-mart']	['7 time']	0.0737139440912
+['hot-water bottle', 'wal-mart']	['bottle']	0.703222061318
+['hot-water bottle', 'wal-mart']	['hot-water']	0.244652260517
+['bottle', 'wal-mart']	['thermometer']	0.62652248936
+['bottle', 'wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.529871181915
+['bottle', 'wal-mart']	['2 item']	0.0737139440912
+['bottle', 'wal-mart']	['month']	0.241563101089
+['bottle', 'wal-mart']	['1,200 dollar']	0.0696933362217
+['bottle', 'wal-mart']	['7 time']	0.0703393045902
+['bottle', 'wal-mart']	['hot-water bottle']	0.558186592521
+['bottle', 'wal-mart']	['hot-water']	0.0767194630807
+['hot-water', 'wal-mart']	['thermometer']	0.0767194630807
+['hot-water', 'wal-mart']	['2 dollar , and hot-water hot-water bottle']	0.0841365058564
+['hot-water', 'wal-mart']	['2 item']	0.0737139440912
+['hot-water', 'wal-mart']	['month']	0.0160617729791
+['hot-water', 'wal-mart']	['1,200 dollar']	0.0737139440912
+['hot-water', 'wal-mart']	['7 time']	0.0737139440912
+['hot-water', 'wal-mart']	['hot-water bottle']	0.207675839248
+['hot-water', 'wal-mart']	['bottle']	0.0767194630807
+['wal-mart', 'thermometer']	['2 dollar , and hot-water hot-water bottle']	0.0898798519698
+['wal-mart', 'thermometer']	['2 item']	0.0703393045902
+['wal-mart', 'thermometer']	['month']	0.264370118633
+['wal-mart', 'thermometer']	['1,200 dollar']	0.0696933362217
+['wal-mart', 'thermometer']	['7 time']	0.0696933362217
+['wal-mart', 'thermometer']	['hot-water bottle']	0.0753417929659
+['wal-mart', 'thermometer']	['bottle']	0.62652248936
+['wal-mart', 'thermometer']	['hot-water']	0.0767194630807
+['2 dollar , and hot-water hot-water bottle', 'thermometer']	['wal-mart']	0.0634948170323
+['2 dollar , and hot-water hot-water bottle', 'thermometer']	['2 item']	0.447958240686
+['2 dollar , and hot-water hot-water bottle', 'thermometer']	['month']	0.369752094779
+['2 dollar , and hot-water hot-water bottle', 'thermometer']	['1,200 dollar']	0.0641181843254
+['2 dollar , and hot-water hot-water bottle', 'thermometer']	['7 time']	0.312519109889
+['2 dollar , and hot-water hot-water bottle', 'thermometer']	['hot-water bottle']	0.449358572012
+['2 dollar , and hot-water hot-water bottle', 'thermometer']	['bottle']	0.906454896728
+['2 dollar , and hot-water hot-water bottle', 'thermometer']	['hot-water']	0.080905708007
+['2 item', 'thermometer']	['wal-mart']	0.0993639400298
+['2 item', 'thermometer']	['2 dollar , and hot-water hot-water bottle']	0.470227321463
+['2 item', 'thermometer']	['month']	0.349973938222
+['2 item', 'thermometer']	['1,200 dollar']	0.0696933362217
+['2 item', 'thermometer']	['7 time']	0.330128589866
+['2 item', 'thermometer']	['hot-water bottle']	0.0753417929659
+['2 item', 'thermometer']	['bottle']	0.71836833879
+['2 item', 'thermometer']	['hot-water']	0.103565100665
+['month', 'thermometer']	['wal-mart']	0.0359411267535
+['month', 'thermometer']	['2 dollar , and hot-water hot-water bottle']	0.0502226046843
+['month', 'thermometer']	['2 item']	0.0368701550083
+['month', 'thermometer']	['1,200 dollar']	0.0368028975308
+['month', 'thermometer']	['7 time']	0.0895790146847
+['month', 'thermometer']	['hot-water bottle']	0.0428595693468
+['month', 'thermometer']	['bottle']	0.080138444623
+['month', 'thermometer']	['hot-water']	0.0403355625575
+['1,200 dollar', 'thermometer']	['wal-mart']	0.0993639400298
+['1,200 dollar', 'thermometer']	['2 dollar , and hot-water hot-water bottle']	0.0898798519698
+['1,200 dollar', 'thermometer']	['2 item']	0.0703393045902
+['1,200 dollar', 'thermometer']	['month']	0.349973938222
+['1,200 dollar', 'thermometer']	['7 time']	0.0696933362217
+['1,200 dollar', 'thermometer']	['hot-water bottle']	0.0753417929659
+['1,200 dollar', 'thermometer']	['bottle']	0.72323846866
+['1,200 dollar', 'thermometer']	['hot-water']	0.103565100665
+['7 time', 'thermometer']	['wal-mart']	0.0993639400298
+['7 time', 'thermometer']	['2 dollar , and hot-water hot-water bottle']	0.334453085467
+['7 time', 'thermometer']	['2 item']	0.378243431518
+['7 time', 'thermometer']	['month']	0.520492885958
+['7 time', 'thermometer']	['1,200 dollar']	0.0696933362217
+['7 time', 'thermometer']	['hot-water bottle']	0.0753417929659
+['7 time', 'thermometer']	['bottle']	0.71836833879
+['7 time', 'thermometer']	['hot-water']	0.103565100665
+['hot-water bottle', 'thermometer']	['wal-mart']	0.161441787712
+['hot-water bottle', 'thermometer']	['2 dollar , and hot-water hot-water bottle']	0.415325278255
+['hot-water bottle', 'thermometer']	['2 item']	0.132417152272
+['hot-water bottle', 'thermometer']	['month']	0.465028780021
+['hot-water bottle', 'thermometer']	['1,200 dollar']	0.131771183904
+['hot-water bottle', 'thermometer']	['7 time']	0.131771183904
+['hot-water bottle', 'thermometer']	['bottle']	0.893528633195
+['hot-water bottle', 'thermometer']	['hot-water']	0.276005885857
+['bottle', 'thermometer']	['wal-mart']	0.134596150128
+['bottle', 'thermometer']	['2 dollar , and hot-water hot-water bottle']	0.594982788347
+['bottle', 'thermometer']	['2 item']	0.132417152272
+['bottle', 'thermometer']	['month']	0.0977294553196
+['bottle', 'thermometer']	['1,200 dollar']	0.131771183904
+['bottle', 'thermometer']	['7 time']	0.131036058757
+['bottle', 'thermometer']	['hot-water bottle']	0.696026929355
+['bottle', 'thermometer']	['hot-water']	0.138797310763
+['hot-water', 'thermometer']	['wal-mart']	0.134596150128
+['hot-water', 'thermometer']	['2 dollar , and hot-water hot-water bottle']	0.151957699652
+['hot-water', 'thermometer']	['2 item']	0.132417152272
+['hot-water', 'thermometer']	['month']	0.331036785299
+['hot-water', 'thermometer']	['1,200 dollar']	0.131771183904
+['hot-water', 'thermometer']	['7 time']	0.131771183904
+['hot-water', 'thermometer']	['hot-water bottle']	0.607639117538
+['hot-water', 'thermometer']	['bottle']	0.639539730739
+['wal-mart', '2 dollar , and hot-water hot-water bottle']	['thermometer']	0.0840176431843
+['wal-mart', '2 dollar , and hot-water hot-water bottle']	['2 item']	0.511165925719
+['wal-mart', '2 dollar , and hot-water hot-water bottle']	['month']	0.019764579087
+['wal-mart', '2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.0988755105172
+['wal-mart', '2 dollar , and hot-water hot-water bottle']	['7 time']	0.362489840215
+['wal-mart', '2 dollar , and hot-water hot-water bottle']	['hot-water bottle']	0.567954588345
+['wal-mart', '2 dollar , and hot-water hot-water bottle']	['bottle']	0.766572753605
+['wal-mart', '2 dollar , and hot-water hot-water bottle']	['hot-water']	0.0914560578477
+['thermometer', '2 dollar , and hot-water hot-water bottle']	['wal-mart']	0.0634948170323
+['thermometer', '2 dollar , and hot-water hot-water bottle']	['2 item']	0.447958240686
+['thermometer', '2 dollar , and hot-water hot-water bottle']	['month']	0.369752094779
+['thermometer', '2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.0641181843254
+['thermometer', '2 dollar , and hot-water hot-water bottle']	['7 time']	0.312519109889
+['thermometer', '2 dollar , and hot-water hot-water bottle']	['hot-water bottle']	0.449358572012
+['thermometer', '2 dollar , and hot-water hot-water bottle']	['bottle']	0.906454896728
+['thermometer', '2 dollar , and hot-water hot-water bottle']	['hot-water']	0.080905708007
+['2 item', '2 dollar , and hot-water hot-water bottle']	['wal-mart']	0.0976030424116
+['2 item', '2 dollar , and hot-water hot-water bottle']	['thermometer']	0.0840176431843
+['2 item', '2 dollar , and hot-water hot-water bottle']	['month']	0.0295685006557
+['2 item', '2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.0988755105172
+['2 item', '2 dollar , and hot-water hot-water bottle']	['7 time']	0.380074949777
+['2 item', '2 dollar , and hot-water hot-water bottle']	['hot-water bottle']	0.567954588345
+['2 item', '2 dollar , and hot-water hot-water bottle']	['bottle']	0.805838541634
+['2 item', '2 dollar , and hot-water hot-water bottle']	['hot-water']	0.0914560578477
+['month', '2 dollar , and hot-water hot-water bottle']	['wal-mart']	0.0514891086242
+['month', '2 dollar , and hot-water hot-water bottle']	['thermometer']	0.412758122247
+['month', '2 dollar , and hot-water hot-water bottle']	['2 item']	0.404251756861
+['month', '2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.0469870282168
+['month', '2 dollar , and hot-water hot-water bottle']	['7 time']	0.253182076725
+['month', '2 dollar , and hot-water hot-water bottle']	['hot-water bottle']	0.174427086238
+['month', '2 dollar , and hot-water hot-water bottle']	['bottle']	0.5117889648
+['month', '2 dollar , and hot-water hot-water bottle']	['hot-water']	0.0428618007168
+['1,200 dollar', '2 dollar , and hot-water hot-water bottle']	['wal-mart']	0.0976030424116
+['1,200 dollar', '2 dollar , and hot-water hot-water bottle']	['thermometer']	0.0857950278587
+['1,200 dollar', '2 dollar , and hot-water hot-water bottle']	['2 item']	0.511165925719
+['1,200 dollar', '2 dollar , and hot-water hot-water bottle']	['month']	0.0295685006557
+['1,200 dollar', '2 dollar , and hot-water hot-water bottle']	['7 time']	0.362489840215
+['1,200 dollar', '2 dollar , and hot-water hot-water bottle']	['hot-water bottle']	0.567954588345
+['1,200 dollar', '2 dollar , and hot-water hot-water bottle']	['bottle']	0.805838541634
+['1,200 dollar', '2 dollar , and hot-water hot-water bottle']	['hot-water']	0.0914560578477
+['7 time', '2 dollar , and hot-water hot-water bottle']	['wal-mart']	0.0976030424116
+['7 time', '2 dollar , and hot-water hot-water bottle']	['thermometer']	0.0857950278587
+['7 time', '2 dollar , and hot-water hot-water bottle']	['2 item']	0.443175366573
+['7 time', '2 dollar , and hot-water hot-water bottle']	['month']	0.0854678387488
+['7 time', '2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.0988755105172
+['7 time', '2 dollar , and hot-water hot-water bottle']	['hot-water bottle']	0.567954588345
+['7 time', '2 dollar , and hot-water hot-water bottle']	['bottle']	0.805838541634
+['7 time', '2 dollar , and hot-water hot-water bottle']	['hot-water']	0.0914560578477
+['hot-water bottle', '2 dollar , and hot-water hot-water bottle']	['wal-mart']	0.294018786889
+['hot-water bottle', '2 dollar , and hot-water hot-water bottle']	['thermometer']	0.345966378438
+['hot-water bottle', '2 dollar , and hot-water hot-water bottle']	['2 item']	0.646383854722
+['hot-water bottle', '2 dollar , and hot-water hot-water bottle']	['month']	0.192525553503
+['hot-water bottle', '2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.109369378475
+['hot-water bottle', '2 dollar , and hot-water hot-water bottle']	['7 time']	0.582468641579
+['hot-water bottle', '2 dollar , and hot-water hot-water bottle']	['bottle']	0.592360815327
+['hot-water bottle', '2 dollar , and hot-water hot-water bottle']	['hot-water']	0.664712246621
+['bottle', '2 dollar , and hot-water hot-water bottle']	['wal-mart']	0.294018786889
+['bottle', '2 dollar , and hot-water hot-water bottle']	['thermometer']	0.742838569018
+['bottle', '2 dollar , and hot-water hot-water bottle']	['2 item']	0.646383854722
+['bottle', '2 dollar , and hot-water hot-water bottle']	['month']	0.515583452939
+['bottle', '2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.194142301367
+['bottle', '2 dollar , and hot-water hot-water bottle']	['7 time']	0.694392834991
+['bottle', '2 dollar , and hot-water hot-water bottle']	['hot-water bottle']	0.622658793693
+['bottle', '2 dollar , and hot-water hot-water bottle']	['hot-water']	0.297422259952
+['hot-water', '2 dollar , and hot-water hot-water bottle']	['wal-mart']	0.0634948170323
+['hot-water', '2 dollar , and hot-water hot-water bottle']	['thermometer']	0.0650965419898
+['hot-water', '2 dollar , and hot-water hot-water bottle']	['2 item']	0.447958240686
+['hot-water', '2 dollar , and hot-water hot-water bottle']	['month']	0.0163428206911
+['hot-water', '2 dollar , and hot-water hot-water bottle']	['1,200 dollar']	0.0681387921949
+['hot-water', '2 dollar , and hot-water hot-water bottle']	['7 time']	0.271994258212
+['hot-water', '2 dollar , and hot-water hot-water bottle']	['hot-water bottle']	0.863039799795
+['hot-water', '2 dollar , and hot-water hot-water bottle']	['bottle']	0.765224596659
+['wal-mart', '2 item']	['thermometer']	0.10667549813
+['wal-mart', '2 item']	['2 dollar , and hot-water hot-water bottle']	0.498102650629
+['wal-mart', '2 item']	['month']	0.0176198404013
+['wal-mart', '2 item']	['1,200 dollar']	0.0901100077042
+['wal-mart', '2 item']	['7 time']	0.36707894687
+['wal-mart', '2 item']	['hot-water bottle']	0.0897823390711
+['wal-mart', '2 item']	['bottle']	0.10667549813
+['wal-mart', '2 item']	['hot-water']	0.113411174639
+['thermometer', '2 item']	['wal-mart']	0.0993639400298
+['thermometer', '2 item']	['2 dollar , and hot-water hot-water bottle']	0.470227321463
+['thermometer', '2 item']	['month']	0.349973938222
+['thermometer', '2 item']	['1,200 dollar']	0.0696933362217
+['thermometer', '2 item']	['7 time']	0.330128589866
+['thermometer', '2 item']	['hot-water bottle']	0.0753417929659
+['thermometer', '2 item']	['bottle']	0.71836833879
+['thermometer', '2 item']	['hot-water']	0.103565100665
+['2 dollar , and hot-water hot-water bottle', '2 item']	['wal-mart']	0.0976030424116
+['2 dollar , and hot-water hot-water bottle', '2 item']	['thermometer']	0.0840176431843
+['2 dollar , and hot-water hot-water bottle', '2 item']	['month']	0.0295685006557
+['2 dollar , and hot-water hot-water bottle', '2 item']	['1,200 dollar']	0.0988755105172
+['2 dollar , and hot-water hot-water bottle', '2 item']	['7 time']	0.380074949777
+['2 dollar , and hot-water hot-water bottle', '2 item']	['hot-water bottle']	0.567954588345
+['2 dollar , and hot-water hot-water bottle', '2 item']	['bottle']	0.805838541634
+['2 dollar , and hot-water hot-water bottle', '2 item']	['hot-water']	0.0914560578477
+['month', '2 item']	['wal-mart']	0.0517198869325
+['month', '2 item']	['thermometer']	0.469841476796
+['month', '2 item']	['2 dollar , and hot-water hot-water bottle']	0.478083548713
+['month', '2 item']	['1,200 dollar']	0.04570265501
+['month', '2 item']	['7 time']	0.328113899344
+['month', '2 item']	['hot-water bottle']	0.0490854479521
+['month', '2 item']	['bottle']	0.464971346926
+['month', '2 item']	['hot-water']	0.048763645292
+['1,200 dollar', '2 item']	['wal-mart']	0.0888375395985
+['1,200 dollar', '2 item']	['thermometer']	0.0774561735493
+['1,200 dollar', '2 item']	['2 dollar , and hot-water hot-water bottle']	0.448305284874
+['1,200 dollar', '2 item']	['month']	0.016864172895
+['1,200 dollar', '2 item']	['7 time']	0.362256416006
+['1,200 dollar', '2 item']	['hot-water bottle']	0.0897823390711
+['1,200 dollar', '2 item']	['bottle']	0.0741073489195
+['1,200 dollar', '2 item']	['hot-water']	0.0831172035382
+['7 time', '2 item']	['wal-mart']	0.0888375395985
+['7 time', '2 item']	['thermometer']	0.0774561735493
+['7 time', '2 item']	['2 dollar , and hot-water hot-water bottle']	0.435860958999
+['7 time', '2 item']	['month']	0.0941573875439
+['7 time', '2 item']	['1,200 dollar']	0.0901100077042
+['7 time', '2 item']	['hot-water bottle']	0.0897823390711
+['7 time', '2 item']	['bottle']	0.0741073489195
+['7 time', '2 item']	['hot-water']	0.0831172035382
+['hot-water bottle', '2 item']	['wal-mart']	0.0690699689286
+['hot-water bottle', '2 item']	['thermometer']	0.0617470987896
+['hot-water bottle', '2 item']	['2 dollar , and hot-water hot-water bottle']	0.485980493533
+['hot-water bottle', '2 item']	['month']	0.0215303449476
+['hot-water bottle', '2 item']	['1,200 dollar']	0.0737139440912
+['hot-water bottle', '2 item']	['7 time']	0.274556493975
+['hot-water bottle', '2 item']	['bottle']	0.75081612851
+['hot-water bottle', '2 item']	['hot-water']	0.244652260517
+['bottle', '2 item']	['wal-mart']	0.0993639400298
+['bottle', '2 item']	['thermometer']	0.72323846866
+['bottle', '2 item']	['2 dollar , and hot-water hot-water bottle']	0.589547844775
+['bottle', '2 item']	['month']	0.349973938222
+['bottle', '2 item']	['1,200 dollar']	0.0696933362217
+['bottle', '2 item']	['7 time']	0.378243431518
+['bottle', '2 item']	['hot-water bottle']	0.591457924585
+['bottle', '2 item']	['hot-water']	0.103565100665
+['hot-water', '2 item']	['wal-mart']	0.0993639400298
+['hot-water', '2 item']	['thermometer']	0.0989643708075
+['hot-water', '2 item']	['2 dollar , and hot-water hot-water bottle']	0.470227321463
+['hot-water', '2 item']	['month']	0.0124820908853
+['hot-water', '2 item']	['1,200 dollar']	0.0737139440912
+['hot-water', '2 item']	['7 time']	0.291118889704
+['hot-water', '2 item']	['hot-water bottle']	0.267631140731
+['hot-water', '2 item']	['bottle']	0.0989643708075
+['wal-mart', 'month']	['thermometer']	0.369916621962
+['wal-mart', 'month']	['2 dollar , and hot-water hot-water bottle']	0.0506011684966
+['wal-mart', 'month']	['2 item']	0.04570265501
+['wal-mart', 'month']	['1,200 dollar']	0.04570265501
+['wal-mart', 'month']	['7 time']	0.18250857426
+['wal-mart', 'month']	['hot-water bottle']	0.0490854479521
+['wal-mart', 'month']	['bottle']	0.35187150918
+['wal-mart', 'month']	['hot-water']	0.048763645292
+['thermometer', 'month']	['wal-mart']	0.0359411267535
+['thermometer', 'month']	['2 dollar , and hot-water hot-water bottle']	0.0502226046843
+['thermometer', 'month']	['2 item']	0.0368701550083
+['thermometer', 'month']	['1,200 dollar']	0.0368028975308
+['thermometer', 'month']	['7 time']	0.0895790146847
+['thermometer', 'month']	['hot-water bottle']	0.0428595693468
+['thermometer', 'month']	['bottle']	0.080138444623
+['thermometer', 'month']	['hot-water']	0.0403355625575
+['2 dollar , and hot-water hot-water bottle', 'month']	['wal-mart']	0.0514891086242
+['2 dollar , and hot-water hot-water bottle', 'month']	['thermometer']	0.412758122247
+['2 dollar , and hot-water hot-water bottle', 'month']	['2 item']	0.404251756861
+['2 dollar , and hot-water hot-water bottle', 'month']	['1,200 dollar']	0.0469870282168
+['2 dollar , and hot-water hot-water bottle', 'month']	['7 time']	0.253182076725
+['2 dollar , and hot-water hot-water bottle', 'month']	['hot-water bottle']	0.174427086238
+['2 dollar , and hot-water hot-water bottle', 'month']	['bottle']	0.5117889648
+['2 dollar , and hot-water hot-water bottle', 'month']	['hot-water']	0.0428618007168
+['2 item', 'month']	['wal-mart']	0.0517198869325
+['2 item', 'month']	['thermometer']	0.469841476796
+['2 item', 'month']	['2 dollar , and hot-water hot-water bottle']	0.478083548713
+['2 item', 'month']	['1,200 dollar']	0.04570265501
+['2 item', 'month']	['7 time']	0.328113899344
+['2 item', 'month']	['hot-water bottle']	0.0490854479521
+['2 item', 'month']	['bottle']	0.464971346926
+['2 item', 'month']	['hot-water']	0.048763645292
+['1,200 dollar', 'month']	['wal-mart']	0.0517198869325
+['1,200 dollar', 'month']	['thermometer']	0.456149880694
+['1,200 dollar', 'month']	['2 dollar , and hot-water hot-water bottle']	0.0506011684966
+['1,200 dollar', 'month']	['2 item']	0.04570265501
+['1,200 dollar', 'month']	['7 time']	0.18250857426
+['1,200 dollar', 'month']	['hot-water bottle']	0.0490854479521
+['1,200 dollar', 'month']	['bottle']	0.469841476796
+['1,200 dollar', 'month']	['hot-water']	0.048763645292
+['7 time', 'month']	['wal-mart']	0.0517198869325
+['7 time', 'month']	['thermometer']	0.456149880694
+['7 time', 'month']	['2 dollar , and hot-water hot-water bottle']	0.299565848619
+['7 time', 'month']	['2 item']	0.338398736697
+['7 time', 'month']	['1,200 dollar']	0.04570265501
+['7 time', 'month']	['hot-water bottle']	0.0490854479521
+['7 time', 'month']	['bottle']	0.464971346926
+['7 time', 'month']	['hot-water']	0.048763645292
+['hot-water bottle', 'month']	['wal-mart']	0.0359411267535
+['hot-water bottle', 'month']	['thermometer']	0.469841476796
+['hot-water bottle', 'month']	['2 dollar , and hot-water hot-water bottle']	0.145580467989
+['hot-water bottle', 'month']	['2 item']	0.0368028975308
+['hot-water bottle', 'month']	['1,200 dollar']	0.0368028975308
+['hot-water bottle', 'month']	['7 time']	0.0953909804967
+['hot-water bottle', 'month']	['bottle']	0.55532602495
+['hot-water bottle', 'month']	['hot-water']	0.189139013236
+['bottle', 'month']	['wal-mart']	0.0359411267535
+['bottle', 'month']	['thermometer']	0.0842200772761
+['bottle', 'month']	['2 dollar , and hot-water hot-water bottle']	0.20298602978
+['bottle', 'month']	['2 item']	0.0368028975308
+['bottle', 'month']	['1,200 dollar']	0.0368701550083
+['bottle', 'month']	['7 time']	0.116343708628
+['bottle', 'month']	['hot-water bottle']	0.324441362422
+['bottle', 'month']	['hot-water']	0.0403355625575
+['hot-water', 'month']	['wal-mart']	0.0359411267535
+['hot-water', 'month']	['thermometer']	0.343641827063
+['hot-water', 'month']	['2 dollar , and hot-water hot-water bottle']	0.0501553472069
+['hot-water', 'month']	['2 item']	0.0368028975308
+['hot-water', 'month']	['1,200 dollar']	0.0368028975308
+['hot-water', 'month']	['7 time']	0.0953909804967
+['hot-water', 'month']	['hot-water bottle']	0.362321483966
+['hot-water', 'month']	['bottle']	0.325596714281
+['wal-mart', '1,200 dollar']	['thermometer']	0.11002432276
+['wal-mart', '1,200 dollar']	['2 dollar , and hot-water hot-water bottle']	0.0920786332799
+['wal-mart', '1,200 dollar']	['2 item']	0.0901100077042
+['wal-mart', '1,200 dollar']	['month']	0.0176198404013
+['wal-mart', '1,200 dollar']	['7 time']	0.0901100077042
+['wal-mart', '1,200 dollar']	['hot-water bottle']	0.0897823390711
+['wal-mart', '1,200 dollar']	['bottle']	0.10667549813
+['wal-mart', '1,200 dollar']	['hot-water']	0.113411174639
+['thermometer', '1,200 dollar']	['wal-mart']	0.0993639400298
+['thermometer', '1,200 dollar']	['2 dollar , and hot-water hot-water bottle']	0.0898798519698
+['thermometer', '1,200 dollar']	['2 item']	0.0703393045902
+['thermometer', '1,200 dollar']	['month']	0.349973938222
+['thermometer', '1,200 dollar']	['7 time']	0.0696933362217
+['thermometer', '1,200 dollar']	['hot-water bottle']	0.0753417929659
+['thermometer', '1,200 dollar']	['bottle']	0.72323846866
+['thermometer', '1,200 dollar']	['hot-water']	0.103565100665
+['2 dollar , and hot-water hot-water bottle', '1,200 dollar']	['wal-mart']	0.0976030424116
+['2 dollar , and hot-water hot-water bottle', '1,200 dollar']	['thermometer']	0.0857950278587
+['2 dollar , and hot-water hot-water bottle', '1,200 dollar']	['2 item']	0.511165925719
+['2 dollar , and hot-water hot-water bottle', '1,200 dollar']	['month']	0.0295685006557
+['2 dollar , and hot-water hot-water bottle', '1,200 dollar']	['7 time']	0.362489840215
+['2 dollar , and hot-water hot-water bottle', '1,200 dollar']	['hot-water bottle']	0.567954588345
+['2 dollar , and hot-water hot-water bottle', '1,200 dollar']	['bottle']	0.805838541634
+['2 dollar , and hot-water hot-water bottle', '1,200 dollar']	['hot-water']	0.0914560578477
+['2 item', '1,200 dollar']	['wal-mart']	0.0888375395985
+['2 item', '1,200 dollar']	['thermometer']	0.0774561735493
+['2 item', '1,200 dollar']	['2 dollar , and hot-water hot-water bottle']	0.448305284874
+['2 item', '1,200 dollar']	['month']	0.016864172895
+['2 item', '1,200 dollar']	['7 time']	0.362256416006
+['2 item', '1,200 dollar']	['hot-water bottle']	0.0897823390711
+['2 item', '1,200 dollar']	['bottle']	0.0741073489195
+['2 item', '1,200 dollar']	['hot-water']	0.0831172035382
+['month', '1,200 dollar']	['wal-mart']	0.0517198869325
+['month', '1,200 dollar']	['thermometer']	0.456149880694
+['month', '1,200 dollar']	['2 dollar , and hot-water hot-water bottle']	0.0506011684966
+['month', '1,200 dollar']	['2 item']	0.04570265501
+['month', '1,200 dollar']	['7 time']	0.18250857426
+['month', '1,200 dollar']	['hot-water bottle']	0.0490854479521
+['month', '1,200 dollar']	['bottle']	0.469841476796
+['month', '1,200 dollar']	['hot-water']	0.048763645292
+['7 time', '1,200 dollar']	['wal-mart']	0.0888375395985
+['7 time', '1,200 dollar']	['thermometer']	0.079730351659
+['7 time', '1,200 dollar']	['2 dollar , and hot-water hot-water bottle']	0.296723821402
+['7 time', '1,200 dollar']	['2 item']	0.362256416006
+['7 time', '1,200 dollar']	['month']	0.0941573875439
+['7 time', '1,200 dollar']	['hot-water bottle']	0.0897823390711
+['7 time', '1,200 dollar']	['bottle']	0.0741073489195
+['7 time', '1,200 dollar']	['hot-water']	0.0831172035382
+['hot-water bottle', '1,200 dollar']	['wal-mart']	0.0690699689286
+['hot-water bottle', '1,200 dollar']	['thermometer']	0.0650959234194
+['hot-water bottle', '1,200 dollar']	['2 dollar , and hot-water hot-water bottle']	0.444729316308
+['hot-water bottle', '1,200 dollar']	['2 item']	0.0737139440912
+['hot-water bottle', '1,200 dollar']	['month']	0.0215303449476
+['hot-water bottle', '1,200 dollar']	['7 time']	0.0737139440912
+['hot-water bottle', '1,200 dollar']	['bottle']	0.714879348977
+['hot-water bottle', '1,200 dollar']	['hot-water']	0.244652260517
+['bottle', '1,200 dollar']	['wal-mart']	0.0993639400298
+['bottle', '1,200 dollar']	['thermometer']	0.724586098546
+['bottle', '1,200 dollar']	['2 dollar , and hot-water hot-water bottle']	0.540097246489
+['bottle', '1,200 dollar']	['2 item']	0.0737139440912
+['bottle', '1,200 dollar']	['month']	0.349973938222
+['bottle', '1,200 dollar']	['7 time']	0.0703393045902
+['bottle', '1,200 dollar']	['hot-water bottle']	0.591457924585
+['bottle', '1,200 dollar']	['hot-water']	0.103565100665
+['hot-water', '1,200 dollar']	['wal-mart']	0.0993639400298
+['hot-water', '1,200 dollar']	['thermometer']	0.102313195437
+['hot-water', '1,200 dollar']	['2 dollar , and hot-water hot-water bottle']	0.0841365058564
+['hot-water', '1,200 dollar']	['2 item']	0.0737139440912
+['hot-water', '1,200 dollar']	['month']	0.0124820908853
+['hot-water', '1,200 dollar']	['7 time']	0.0737139440912
+['hot-water', '1,200 dollar']	['hot-water bottle']	0.267631140731
+['hot-water', '1,200 dollar']	['bottle']	0.0989643708075
+['wal-mart', '7 time']	['thermometer']	0.11002432276
+['wal-mart', '7 time']	['2 dollar , and hot-water hot-water bottle']	0.315486681484
+['wal-mart', '7 time']	['2 item']	0.36707894687
+['wal-mart', '7 time']	['month']	0.122851942689
+['wal-mart', '7 time']	['1,200 dollar']	0.0901100077042
+['wal-mart', '7 time']	['hot-water bottle']	0.0897823390711
+['wal-mart', '7 time']	['bottle']	0.10667549813
+['wal-mart', '7 time']	['hot-water']	0.113411174639
+['thermometer', '7 time']	['wal-mart']	0.0993639400298
+['thermometer', '7 time']	['2 dollar , and hot-water hot-water bottle']	0.334453085467
+['thermometer', '7 time']	['2 item']	0.378243431518
+['thermometer', '7 time']	['month']	0.520492885958
+['thermometer', '7 time']	['1,200 dollar']	0.0696933362217
+['thermometer', '7 time']	['hot-water bottle']	0.0753417929659
+['thermometer', '7 time']	['bottle']	0.71836833879
+['thermometer', '7 time']	['hot-water']	0.103565100665
+['2 dollar , and hot-water hot-water bottle', '7 time']	['wal-mart']	0.0976030424116
+['2 dollar , and hot-water hot-water bottle', '7 time']	['thermometer']	0.0857950278587
+['2 dollar , and hot-water hot-water bottle', '7 time']	['2 item']	0.443175366573
+['2 dollar , and hot-water hot-water bottle', '7 time']	['month']	0.0854678387488
+['2 dollar , and hot-water hot-water bottle', '7 time']	['1,200 dollar']	0.0988755105172
+['2 dollar , and hot-water hot-water bottle', '7 time']	['hot-water bottle']	0.567954588345
+['2 dollar , and hot-water hot-water bottle', '7 time']	['bottle']	0.805838541634
+['2 dollar , and hot-water hot-water bottle', '7 time']	['hot-water']	0.0914560578477
+['2 item', '7 time']	['wal-mart']	0.0888375395985
+['2 item', '7 time']	['thermometer']	0.0774561735493
+['2 item', '7 time']	['2 dollar , and hot-water hot-water bottle']	0.435860958999
+['2 item', '7 time']	['month']	0.0941573875439
+['2 item', '7 time']	['1,200 dollar']	0.0901100077042
+['2 item', '7 time']	['hot-water bottle']	0.0897823390711
+['2 item', '7 time']	['bottle']	0.0741073489195
+['2 item', '7 time']	['hot-water']	0.0831172035382
+['month', '7 time']	['wal-mart']	0.0517198869325
+['month', '7 time']	['thermometer']	0.456149880694
+['month', '7 time']	['2 dollar , and hot-water hot-water bottle']	0.299565848619
+['month', '7 time']	['2 item']	0.338398736697
+['month', '7 time']	['1,200 dollar']	0.04570265501
+['month', '7 time']	['hot-water bottle']	0.0490854479521
+['month', '7 time']	['bottle']	0.464971346926
+['month', '7 time']	['hot-water']	0.048763645292
+['1,200 dollar', '7 time']	['wal-mart']	0.0888375395985
+['1,200 dollar', '7 time']	['thermometer']	0.079730351659
+['1,200 dollar', '7 time']	['2 dollar , and hot-water hot-water bottle']	0.296723821402
+['1,200 dollar', '7 time']	['2 item']	0.362256416006
+['1,200 dollar', '7 time']	['month']	0.0941573875439
+['1,200 dollar', '7 time']	['hot-water bottle']	0.0897823390711
+['1,200 dollar', '7 time']	['bottle']	0.0741073489195
+['1,200 dollar', '7 time']	['hot-water']	0.0831172035382
+['hot-water bottle', '7 time']	['wal-mart']	0.0690699689286
+['hot-water bottle', '7 time']	['thermometer']	0.0650959234194
+['hot-water bottle', '7 time']	['2 dollar , and hot-water hot-water bottle']	0.556411047339
+['hot-water bottle', '7 time']	['2 item']	0.274556493975
+['hot-water bottle', '7 time']	['month']	0.0788194249491
+['hot-water bottle', '7 time']	['1,200 dollar']	0.0737139440912
+['hot-water bottle', '7 time']	['bottle']	0.75081612851
+['hot-water bottle', '7 time']	['hot-water']	0.244652260517
+['bottle', '7 time']	['wal-mart']	0.0993639400298
+['bottle', '7 time']	['thermometer']	0.724586098546
+['bottle', '7 time']	['2 dollar , and hot-water hot-water bottle']	0.600484736297
+['bottle', '7 time']	['2 item']	0.291118889704
+['bottle', '7 time']	['month']	0.520492885958
+['bottle', '7 time']	['1,200 dollar']	0.0696933362217
+['bottle', '7 time']	['hot-water bottle']	0.591457924585
+['bottle', '7 time']	['hot-water']	0.103565100665
+['hot-water', '7 time']	['wal-mart']	0.0993639400298
+['hot-water', '7 time']	['thermometer']	0.102313195437
+['hot-water', '7 time']	['2 dollar , and hot-water hot-water bottle']	0.25359011294
+['hot-water', '7 time']	['2 item']	0.291118889704
+['hot-water', '7 time']	['month']	0.107513980094
+['hot-water', '7 time']	['1,200 dollar']	0.0737139440912
+['hot-water', '7 time']	['hot-water bottle']	0.267631140731
+['hot-water', '7 time']	['bottle']	0.0989643708075
+['wal-mart', 'hot-water bottle']	['thermometer']	0.0989643708075
+['wal-mart', 'hot-water bottle']	['2 dollar , and hot-water hot-water bottle']	0.423160688857
+['wal-mart', 'hot-water bottle']	['2 item']	0.0737139440912
+['wal-mart', 'hot-water bottle']	['month']	0.01333679174
+['wal-mart', 'hot-water bottle']	['1,200 dollar']	0.0737139440912
+['wal-mart', 'hot-water bottle']	['7 time']	0.0737139440912
+['wal-mart', 'hot-water bottle']	['bottle']	0.703222061318
+['wal-mart', 'hot-water bottle']	['hot-water']	0.244652260517
+['thermometer', 'hot-water bottle']	['wal-mart']	0.161441787712
+['thermometer', 'hot-water bottle']	['2 dollar , and hot-water hot-water bottle']	0.415325278255
+['thermometer', 'hot-water bottle']	['2 item']	0.132417152272
+['thermometer', 'hot-water bottle']	['month']	0.465028780021
+['thermometer', 'hot-water bottle']	['1,200 dollar']	0.131771183904
+['thermometer', 'hot-water bottle']	['7 time']	0.131771183904
+['thermometer', 'hot-water bottle']	['bottle']	0.893528633195
+['thermometer', 'hot-water bottle']	['hot-water']	0.276005885857
+['2 dollar , and hot-water hot-water bottle', 'hot-water bottle']	['wal-mart']	0.294018786889
+['2 dollar , and hot-water hot-water bottle', 'hot-water bottle']	['thermometer']	0.345966378438
+['2 dollar , and hot-water hot-water bottle', 'hot-water bottle']	['2 item']	0.646383854722
+['2 dollar , and hot-water hot-water bottle', 'hot-water bottle']	['month']	0.192525553503
+['2 dollar , and hot-water hot-water bottle', 'hot-water bottle']	['1,200 dollar']	0.109369378475
+['2 dollar , and hot-water hot-water bottle', 'hot-water bottle']	['7 time']	0.582468641579
+['2 dollar , and hot-water hot-water bottle', 'hot-water bottle']	['bottle']	0.592360815327
+['2 dollar , and hot-water hot-water bottle', 'hot-water bottle']	['hot-water']	0.664712246621
+['2 item', 'hot-water bottle']	['wal-mart']	0.0690699689286
+['2 item', 'hot-water bottle']	['thermometer']	0.0617470987896
+['2 item', 'hot-water bottle']	['2 dollar , and hot-water hot-water bottle']	0.485980493533
+['2 item', 'hot-water bottle']	['month']	0.0215303449476
+['2 item', 'hot-water bottle']	['1,200 dollar']	0.0737139440912
+['2 item', 'hot-water bottle']	['7 time']	0.274556493975
+['2 item', 'hot-water bottle']	['bottle']	0.75081612851
+['2 item', 'hot-water bottle']	['hot-water']	0.244652260517
+['month', 'hot-water bottle']	['wal-mart']	0.0359411267535
+['month', 'hot-water bottle']	['thermometer']	0.469841476796
+['month', 'hot-water bottle']	['2 dollar , and hot-water hot-water bottle']	0.145580467989
+['month', 'hot-water bottle']	['2 item']	0.0368028975308
+['month', 'hot-water bottle']	['1,200 dollar']	0.0368028975308
+['month', 'hot-water bottle']	['7 time']	0.0953909804967
+['month', 'hot-water bottle']	['bottle']	0.55532602495
+['month', 'hot-water bottle']	['hot-water']	0.189139013236
+['1,200 dollar', 'hot-water bottle']	['wal-mart']	0.0690699689286
+['1,200 dollar', 'hot-water bottle']	['thermometer']	0.0650959234194
+['1,200 dollar', 'hot-water bottle']	['2 dollar , and hot-water hot-water bottle']	0.444729316308
+['1,200 dollar', 'hot-water bottle']	['2 item']	0.0737139440912
+['1,200 dollar', 'hot-water bottle']	['month']	0.0215303449476
+['1,200 dollar', 'hot-water bottle']	['7 time']	0.0737139440912
+['1,200 dollar', 'hot-water bottle']	['bottle']	0.714879348977
+['1,200 dollar', 'hot-water bottle']	['hot-water']	0.244652260517
+['7 time', 'hot-water bottle']	['wal-mart']	0.0690699689286
+['7 time', 'hot-water bottle']	['thermometer']	0.0650959234194
+['7 time', 'hot-water bottle']	['2 dollar , and hot-water hot-water bottle']	0.556411047339
+['7 time', 'hot-water bottle']	['2 item']	0.274556493975
+['7 time', 'hot-water bottle']	['month']	0.0788194249491
+['7 time', 'hot-water bottle']	['1,200 dollar']	0.0737139440912
+['7 time', 'hot-water bottle']	['bottle']	0.75081612851
+['7 time', 'hot-water bottle']	['hot-water']	0.244652260517
+['bottle', 'hot-water bottle']	['wal-mart']	0.374686604269
+['bottle', 'hot-water bottle']	['thermometer']	0.808656964304
+['bottle', 'hot-water bottle']	['2 dollar , and hot-water hot-water bottle']	0.651093907817
+['bottle', 'hot-water bottle']	['2 item']	0.190037195855
+['bottle', 'hot-water bottle']	['month']	0.598427077086
+['bottle', 'hot-water bottle']	['1,200 dollar']	0.275784983691
+['bottle', 'hot-water bottle']	['7 time']	0.270035932252
+['bottle', 'hot-water bottle']	['hot-water']	0.600184000612
+['hot-water', 'hot-water bottle']	['wal-mart']	0.161441787712
+['hot-water', 'hot-water bottle']	['thermometer']	0.161042218489
+['hot-water', 'hot-water bottle']	['2 dollar , and hot-water hot-water bottle']	0.45967542952
+['hot-water', 'hot-water bottle']	['2 item']	0.135791791773
+['hot-water', 'hot-water bottle']	['month']	0.0792477909004
+['hot-water', 'hot-water bottle']	['1,200 dollar']	0.135791791773
+['hot-water', 'hot-water bottle']	['7 time']	0.135791791773
+['hot-water', 'hot-water bottle']	['bottle']	0.734594610337
+['wal-mart', 'bottle']	['thermometer']	0.62652248936
+['wal-mart', 'bottle']	['2 dollar , and hot-water hot-water bottle']	0.529871181915
+['wal-mart', 'bottle']	['2 item']	0.0737139440912
+['wal-mart', 'bottle']	['month']	0.241563101089
+['wal-mart', 'bottle']	['1,200 dollar']	0.0696933362217
+['wal-mart', 'bottle']	['7 time']	0.0703393045902
+['wal-mart', 'bottle']	['hot-water bottle']	0.558186592521
+['wal-mart', 'bottle']	['hot-water']	0.0767194630807
+['thermometer', 'bottle']	['wal-mart']	0.134596150128
+['thermometer', 'bottle']	['2 dollar , and hot-water hot-water bottle']	0.594982788347
+['thermometer', 'bottle']	['2 item']	0.132417152272
+['thermometer', 'bottle']	['month']	0.0977294553196
+['thermometer', 'bottle']	['1,200 dollar']	0.131771183904
+['thermometer', 'bottle']	['7 time']	0.131036058757
+['thermometer', 'bottle']	['hot-water bottle']	0.696026929355
+['thermometer', 'bottle']	['hot-water']	0.138797310763
+['2 dollar , and hot-water hot-water bottle', 'bottle']	['wal-mart']	0.294018786889
+['2 dollar , and hot-water hot-water bottle', 'bottle']	['thermometer']	0.742838569018
+['2 dollar , and hot-water hot-water bottle', 'bottle']	['2 item']	0.646383854722
+['2 dollar , and hot-water hot-water bottle', 'bottle']	['month']	0.515583452939
+['2 dollar , and hot-water hot-water bottle', 'bottle']	['1,200 dollar']	0.194142301367
+['2 dollar , and hot-water hot-water bottle', 'bottle']	['7 time']	0.694392834991
+['2 dollar , and hot-water hot-water bottle', 'bottle']	['hot-water bottle']	0.622658793693
+['2 dollar , and hot-water hot-water bottle', 'bottle']	['hot-water']	0.297422259952
+['2 item', 'bottle']	['wal-mart']	0.0993639400298
+['2 item', 'bottle']	['thermometer']	0.72323846866
+['2 item', 'bottle']	['2 dollar , and hot-water hot-water bottle']	0.589547844775
+['2 item', 'bottle']	['month']	0.349973938222
+['2 item', 'bottle']	['1,200 dollar']	0.0696933362217
+['2 item', 'bottle']	['7 time']	0.378243431518
+['2 item', 'bottle']	['hot-water bottle']	0.591457924585
+['2 item', 'bottle']	['hot-water']	0.103565100665
+['month', 'bottle']	['wal-mart']	0.0359411267535
+['month', 'bottle']	['thermometer']	0.0842200772761
+['month', 'bottle']	['2 dollar , and hot-water hot-water bottle']	0.20298602978
+['month', 'bottle']	['2 item']	0.0368028975308
+['month', 'bottle']	['1,200 dollar']	0.0368701550083
+['month', 'bottle']	['7 time']	0.116343708628
+['month', 'bottle']	['hot-water bottle']	0.324441362422
+['month', 'bottle']	['hot-water']	0.0403355625575
+['1,200 dollar', 'bottle']	['wal-mart']	0.0993639400298
+['1,200 dollar', 'bottle']	['thermometer']	0.724586098546
+['1,200 dollar', 'bottle']	['2 dollar , and hot-water hot-water bottle']	0.540097246489
+['1,200 dollar', 'bottle']	['2 item']	0.0737139440912
+['1,200 dollar', 'bottle']	['month']	0.349973938222
+['1,200 dollar', 'bottle']	['7 time']	0.0703393045902
+['1,200 dollar', 'bottle']	['hot-water bottle']	0.591457924585
+['1,200 dollar', 'bottle']	['hot-water']	0.103565100665
+['7 time', 'bottle']	['wal-mart']	0.0993639400298
+['7 time', 'bottle']	['thermometer']	0.724586098546
+['7 time', 'bottle']	['2 dollar , and hot-water hot-water bottle']	0.600484736297
+['7 time', 'bottle']	['2 item']	0.291118889704
+['7 time', 'bottle']	['month']	0.520492885958
+['7 time', 'bottle']	['1,200 dollar']	0.0696933362217
+['7 time', 'bottle']	['hot-water bottle']	0.591457924585
+['7 time', 'bottle']	['hot-water']	0.103565100665
+['hot-water bottle', 'bottle']	['wal-mart']	0.374686604269
+['hot-water bottle', 'bottle']	['thermometer']	0.808656964304
+['hot-water bottle', 'bottle']	['2 dollar , and hot-water hot-water bottle']	0.651093907817
+['hot-water bottle', 'bottle']	['2 item']	0.190037195855
+['hot-water bottle', 'bottle']	['month']	0.598427077086
+['hot-water bottle', 'bottle']	['1,200 dollar']	0.275784983691
+['hot-water bottle', 'bottle']	['7 time']	0.270035932252
+['hot-water bottle', 'bottle']	['hot-water']	0.600184000612
+['hot-water', 'bottle']	['wal-mart']	0.134596150128
+['hot-water', 'bottle']	['thermometer']	0.639539730739
+['hot-water', 'bottle']	['2 dollar , and hot-water hot-water bottle']	0.536888725775
+['hot-water', 'bottle']	['2 item']	0.135791791773
+['hot-water', 'bottle']	['month']	0.308229767756
+['hot-water', 'bottle']	['1,200 dollar']	0.131771183904
+['hot-water', 'bottle']	['7 time']	0.132417152272
+['hot-water', 'bottle']	['hot-water bottle']	0.653985398274
+['wal-mart', 'hot-water']	['thermometer']	0.0767194630807
+['wal-mart', 'hot-water']	['2 dollar , and hot-water hot-water bottle']	0.0841365058564
+['wal-mart', 'hot-water']	['2 item']	0.0737139440912
+['wal-mart', 'hot-water']	['month']	0.0160617729791
+['wal-mart', 'hot-water']	['1,200 dollar']	0.0737139440912
+['wal-mart', 'hot-water']	['7 time']	0.0737139440912
+['wal-mart', 'hot-water']	['hot-water bottle']	0.207675839248
+['wal-mart', 'hot-water']	['bottle']	0.0767194630807
+['thermometer', 'hot-water']	['wal-mart']	0.134596150128
+['thermometer', 'hot-water']	['2 dollar , and hot-water hot-water bottle']	0.151957699652
+['thermometer', 'hot-water']	['2 item']	0.132417152272
+['thermometer', 'hot-water']	['month']	0.331036785299
+['thermometer', 'hot-water']	['1,200 dollar']	0.131771183904
+['thermometer', 'hot-water']	['7 time']	0.131771183904
+['thermometer', 'hot-water']	['hot-water bottle']	0.607639117538
+['thermometer', 'hot-water']	['bottle']	0.639539730739
+['2 dollar , and hot-water hot-water bottle', 'hot-water']	['wal-mart']	0.0634948170323
+['2 dollar , and hot-water hot-water bottle', 'hot-water']	['thermometer']	0.0650965419898
+['2 dollar , and hot-water hot-water bottle', 'hot-water']	['2 item']	0.447958240686
+['2 dollar , and hot-water hot-water bottle', 'hot-water']	['month']	0.0163428206911
+['2 dollar , and hot-water hot-water bottle', 'hot-water']	['1,200 dollar']	0.0681387921949
+['2 dollar , and hot-water hot-water bottle', 'hot-water']	['7 time']	0.271994258212
+['2 dollar , and hot-water hot-water bottle', 'hot-water']	['hot-water bottle']	0.863039799795
+['2 dollar , and hot-water hot-water bottle', 'hot-water']	['bottle']	0.765224596659
+['2 item', 'hot-water']	['wal-mart']	0.0993639400298
+['2 item', 'hot-water']	['thermometer']	0.0989643708075
+['2 item', 'hot-water']	['2 dollar , and hot-water hot-water bottle']	0.470227321463
+['2 item', 'hot-water']	['month']	0.0124820908853
+['2 item', 'hot-water']	['1,200 dollar']	0.0737139440912
+['2 item', 'hot-water']	['7 time']	0.291118889704
+['2 item', 'hot-water']	['hot-water bottle']	0.267631140731
+['2 item', 'hot-water']	['bottle']	0.0989643708075
+['month', 'hot-water']	['wal-mart']	0.0359411267535
+['month', 'hot-water']	['thermometer']	0.343641827063
+['month', 'hot-water']	['2 dollar , and hot-water hot-water bottle']	0.0501553472069
+['month', 'hot-water']	['2 item']	0.0368028975308
+['month', 'hot-water']	['1,200 dollar']	0.0368028975308
+['month', 'hot-water']	['7 time']	0.0953909804967
+['month', 'hot-water']	['hot-water bottle']	0.362321483966
+['month', 'hot-water']	['bottle']	0.325596714281
+['1,200 dollar', 'hot-water']	['wal-mart']	0.0993639400298
+['1,200 dollar', 'hot-water']	['thermometer']	0.102313195437
+['1,200 dollar', 'hot-water']	['2 dollar , and hot-water hot-water bottle']	0.0841365058564
+['1,200 dollar', 'hot-water']	['2 item']	0.0737139440912
+['1,200 dollar', 'hot-water']	['month']	0.0124820908853
+['1,200 dollar', 'hot-water']	['7 time']	0.0737139440912
+['1,200 dollar', 'hot-water']	['hot-water bottle']	0.267631140731
+['1,200 dollar', 'hot-water']	['bottle']	0.0989643708075
+['7 time', 'hot-water']	['wal-mart']	0.0993639400298
+['7 time', 'hot-water']	['thermometer']	0.102313195437
+['7 time', 'hot-water']	['2 dollar , and hot-water hot-water bottle']	0.25359011294
+['7 time', 'hot-water']	['2 item']	0.291118889704
+['7 time', 'hot-water']	['month']	0.107513980094
+['7 time', 'hot-water']	['1,200 dollar']	0.0737139440912
+['7 time', 'hot-water']	['hot-water bottle']	0.267631140731
+['7 time', 'hot-water']	['bottle']	0.0989643708075
+['hot-water bottle', 'hot-water']	['wal-mart']	0.161441787712
+['hot-water bottle', 'hot-water']	['thermometer']	0.161042218489
+['hot-water bottle', 'hot-water']	['2 dollar , and hot-water hot-water bottle']	0.45967542952
+['hot-water bottle', 'hot-water']	['2 item']	0.135791791773
+['hot-water bottle', 'hot-water']	['month']	0.0792477909004
+['hot-water bottle', 'hot-water']	['1,200 dollar']	0.135791791773
+['hot-water bottle', 'hot-water']	['7 time']	0.135791791773
+['hot-water bottle', 'hot-water']	['bottle']	0.734594610337
+['bottle', 'hot-water']	['wal-mart']	0.134596150128
+['bottle', 'hot-water']	['thermometer']	0.639539730739
+['bottle', 'hot-water']	['2 dollar , and hot-water hot-water bottle']	0.536888725775
+['bottle', 'hot-water']	['2 item']	0.135791791773
+['bottle', 'hot-water']	['month']	0.308229767756
+['bottle', 'hot-water']	['1,200 dollar']	0.131771183904
+['bottle', 'hot-water']	['7 time']	0.132417152272
+['bottle', 'hot-water']	['hot-water bottle']	0.653985398274

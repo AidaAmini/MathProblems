@@ -1,0 +1,14 @@
+1
+[['dougla fir and ponderosa pine tree', '850', '-', '-', '-', 'dollar', '217, 500'], ['dougla fir', 'x1', '-', 'dollar', '300', '-', '-'], ['ponderosa pine tree', 'x2', '-', 'dollar', '250', '-', '-']]
+-1
+[['dougla fir and ponderosa pine tree', '850', '-', '250', '-', 'dollar', '217, 500'], ['dougla fir', 'x1', '-', 'dollar', '300', '-', '-'], ['217, 500', 'dougla fir and ponderosa pine tree', '-', '850', '250', '-', '-']]
+-1
+[['dougla fir and ponderosa pine tree', '850', '-', '-', 'x2', 'dollar', 'ponderosa pine tree'], ['dougla fir', 'x1', '-', 'dollar', '300', '-', '-'], ['ponderosa pine tree', 'x2', '-', 'dollar', 'dougla fir and ponderosa pine tree', '850', '-']]
+-1
+[['dougla fir and ponderosa pine tree', '850', '-', '-', 'x2', 'ponderosa pine tree', 'dollar'], ['dougla fir', 'x1', '-', 'dollar', '300', '-', '-'], ['ponderosa pine tree', 'x2', '-', 'dougla fir and ponderosa pine tree', '250', '-', '-']]
+-1
+[['dougla fir and ponderosa pine tree', 'x2', '-', '-', 'ponderosa pine tree', 'dollar', '217, 500'], ['dougla fir', 'x1', '-', 'dollar', '300', '-', '-'], ['ponderosa pine tree', 'x2', '-', 'dougla fir and ponderosa pine tree', '250', '-', '-']]
+-1
+[['dougla fir and ponderosa pine tree', '850', '-', '250', 'ponderosa pine tree', 'dollar', 'x2'], ['dougla fir', 'x1', '-', 'dollar', '300', '-', '-'], ['ponderosa pine tree', 'x2', '-', 'dollar', '250', '850', '-']]
+-1
+[['dougla fir and ponderosa pine tree', 'ponderosa pine tree', 'dollar', '-', '-', '250', '217, 500'], ['dougla fir', 'x1', '-', 'dollar', '300', '-', '-'], ['dougla fir and ponderosa pine tree', 'x2', '217, 500', 'dollar', '250', '-', '-']]

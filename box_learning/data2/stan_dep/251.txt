@@ -1,0 +1,77 @@
+(ROOT
+  (S
+    (PP (IN In) (NP (DT a) (NN family)))
+    (NP (EX there))
+    (VP (VBP are) (NP (CD two) (NNS cars)))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN In) (NP (DT a) (VBN given) (NN week)))
+    (, ,)
+    (S
+      (NP (DT the) (JJ first) (NN car))
+      (VP
+        (VBZ gets)
+        (NP
+          (NP (DT an) (NN average))
+          (PP
+            (IN of)
+            (NP (NP (CD 25) (NNS miles)) (ADJP (IN per) (NN gallon)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ second) (NN car))
+      (VP
+        (VBZ gets)
+        (NP (NP (CD 40) (NNS miles)) (ADJP (IN per) (NN gallon)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (CD two) (NNS cars))
+    (VP
+      (VBN combined)
+      (NP (NNS drives))
+      (PP
+        (NP (QP (DT a) (NN total) (IN of) (CD 1825)) (NNS miles))
+        (IN in)
+        (NP (DT that) (CD one)))
+      (NP-TMP (NN week))
+      (, ,)
+      (PP
+        (IN for)
+        (NP
+          (NP (DT a) (JJ total) (NN gas) (NN consumption))
+          (PP (IN of) (NP (CD 55) (NNS gallons))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS gallons))
+    (SQ
+      (VBD were)
+      (VP
+        (VBN consumed)
+        (PP
+          (IN by)
+          (NP
+            (NP
+              (NP (DT the) (CD 25) (NN mile))
+              (PP (IN per) (NP (NN gallon) (NN car))))
+            (CC and)
+            (SBAR
+              (WHNP (WHADJP (WRB how) (JJ many)) (NNS gallons))
+              (S
+                (VP
+                  (VBD were)
+                  (VP
+                    (VBN consumed)
+                    (PP
+                      (IN by)
+                      (NP
+                        (NP (DT the) (CD 40) (NN mile))
+                        (PP
+                          (IN per)
+                          (NP
+                            (NP (NN gallon) (NN car))
+                            (SBAR (WHNP (WDT that)))))))
+                    (NP-TMP (NN week))))))))))
+    (. ?)))

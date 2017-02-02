@@ -1,0 +1,68 @@
+['2-dollar coin', 'coin', '5-dollar coin', '40 coin', '125 dollar']
+['2-dollar coin']	['5-dollar coin']	0.636793130373
+['2-dollar coin']	['40 coin']	0.556137096067
+['2-dollar coin']	['125 dollar']	0.0737139440912
+['coin']	['125 dollar']	0.448288182609
+['5-dollar coin']	['40 coin']	0.556137096067
+['5-dollar coin']	['125 dollar']	0.0737139440912
+['40 coin']	['125 dollar']	0.0901100077042
+['coin', '2-dollar coin']	['5-dollar coin']	0.72831240127
+['coin', '2-dollar coin']	['40 coin']	0.874098929709
+['coin', '2-dollar coin']	['125 dollar']	0.603603496605
+['5-dollar coin', '2-dollar coin']	['coin']	0.571393202257
+['5-dollar coin', '2-dollar coin']	['40 coin']	0.633981735469
+['5-dollar coin', '2-dollar coin']	['125 dollar']	0.177915983734
+['40 coin', '2-dollar coin']	['coin']	0.85198561642
+['40 coin', '2-dollar coin']	['5-dollar coin']	0.640616739236
+['40 coin', '2-dollar coin']	['125 dollar']	0.127137811052
+['125 dollar', '2-dollar coin']	['coin']	0.719589735256
+['125 dollar', '2-dollar coin']	['5-dollar coin']	0.562478269493
+['125 dollar', '2-dollar coin']	['40 coin']	0.544221442934
+['2-dollar coin', 'coin']	['5-dollar coin']	0.72831240127
+['2-dollar coin', 'coin']	['40 coin']	0.874098929709
+['2-dollar coin', 'coin']	['125 dollar']	0.603603496605
+['5-dollar coin', 'coin']	['2-dollar coin']	0.72831240127
+['5-dollar coin', 'coin']	['40 coin']	0.874098929709
+['5-dollar coin', 'coin']	['125 dollar']	0.603603496605
+['40 coin', 'coin']	['2-dollar coin']	0.686917623033
+['40 coin', 'coin']	['5-dollar coin']	0.686917623033
+['40 coin', 'coin']	['125 dollar']	0.577368096785
+['125 dollar', 'coin']	['2-dollar coin']	0.591457924585
+['125 dollar', 'coin']	['5-dollar coin']	0.591457924585
+['125 dollar', 'coin']	['40 coin']	0.750905054075
+['2-dollar coin', '5-dollar coin']	['coin']	0.571393202257
+['2-dollar coin', '5-dollar coin']	['40 coin']	0.633981735469
+['2-dollar coin', '5-dollar coin']	['125 dollar']	0.177915983734
+['coin', '5-dollar coin']	['2-dollar coin']	0.72831240127
+['coin', '5-dollar coin']	['40 coin']	0.874098929709
+['coin', '5-dollar coin']	['125 dollar']	0.603603496605
+['40 coin', '5-dollar coin']	['2-dollar coin']	0.640616739236
+['40 coin', '5-dollar coin']	['coin']	0.85198561642
+['40 coin', '5-dollar coin']	['125 dollar']	0.127137811052
+['125 dollar', '5-dollar coin']	['2-dollar coin']	0.562478269493
+['125 dollar', '5-dollar coin']	['coin']	0.719589735256
+['125 dollar', '5-dollar coin']	['40 coin']	0.544221442934
+['2-dollar coin', '40 coin']	['coin']	0.85198561642
+['2-dollar coin', '40 coin']	['5-dollar coin']	0.640616739236
+['2-dollar coin', '40 coin']	['125 dollar']	0.127137811052
+['coin', '40 coin']	['2-dollar coin']	0.686917623033
+['coin', '40 coin']	['5-dollar coin']	0.686917623033
+['coin', '40 coin']	['125 dollar']	0.577368096785
+['5-dollar coin', '40 coin']	['2-dollar coin']	0.640616739236
+['5-dollar coin', '40 coin']	['coin']	0.85198561642
+['5-dollar coin', '40 coin']	['125 dollar']	0.127137811052
+['125 dollar', '40 coin']	['2-dollar coin']	0.577101062223
+['125 dollar', '40 coin']	['coin']	0.919743766019
+['125 dollar', '40 coin']	['5-dollar coin']	0.577101062223
+['2-dollar coin', '125 dollar']	['coin']	0.719589735256
+['2-dollar coin', '125 dollar']	['5-dollar coin']	0.562478269493
+['2-dollar coin', '125 dollar']	['40 coin']	0.544221442934
+['coin', '125 dollar']	['2-dollar coin']	0.591457924585
+['coin', '125 dollar']	['5-dollar coin']	0.591457924585
+['coin', '125 dollar']	['40 coin']	0.750905054075
+['5-dollar coin', '125 dollar']	['2-dollar coin']	0.562478269493
+['5-dollar coin', '125 dollar']	['coin']	0.719589735256
+['5-dollar coin', '125 dollar']	['40 coin']	0.544221442934
+['40 coin', '125 dollar']	['2-dollar coin']	0.577101062223
+['40 coin', '125 dollar']	['coin']	0.919743766019
+['40 coin', '125 dollar']	['5-dollar coin']	0.577101062223

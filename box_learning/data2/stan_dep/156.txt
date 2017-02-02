@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (NNP Rowan))
+    (VP
+      (MD can)
+      (VP
+        (VB row)
+        (ADVP (NP (CD 26) (NNS kilometers)) (RB downstream))
+        (PP (IN in) (NP (CD 2) (NNS hours)))))
+    (. .)))
+(ROOT
+  (S
+    (S (VP (VBG Returning) (NP (JJ upstream))))
+    (NP (PRP it))
+    (VP
+      (VBZ takes)
+      (NP (CD 4) (NNS hours))
+      (S (VP (TO to) (VP (VB complete) (NP (DT the) (NN trip))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP (PRP$ his) (NN rate))
+      (PP
+        (IN in)
+        (NP
+          (NP
+            (ADVP (RB still))
+            (NP (NN water))
+            (PP
+              (IN in)
+              (NP (NP (NNS kilometers)) (PP (IN per) (NP (NN hour))))))
+          (CC and)
+          (NP
+            (NP (DT the) (NN rate))
+            (PP (IN of) (NP (DT the) (JJ current)))))))
+    (. .)))

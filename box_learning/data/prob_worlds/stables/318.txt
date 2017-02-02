@@ -1,0 +1,16 @@
+1
+[['Jason', '18', 'hour', '-', '-', 'dollar', '88'], ['after school', 'x1', 'hour', 'dollar', '4', '-', '-'], ['Saturday', 'x2', 'hour', 'dollar', '6', '-', '-']]
+-1
+[['Jason', '18', 'hour', 'x2', '-', 'Saturday', '88'], ['after school', 'x1', 'hour', 'dollar', '4', '-', '-'], ['Saturday', 'x2', 'hour', '18', '88', '-', 'Jason']]
+-1
+[['Jason', '18', 'hour', '-', '6', 'dollar', '88'], ['after school', 'x1', 'hour', 'dollar', '4', '-', '-'], ['Saturday', '18', 'dollar', 'Jason', '6', '-', '-']]
+-1
+[['Jason', '18', 'hour', '-', 'x2', 'Saturday', '88'], ['after school', 'x1', 'hour', 'dollar', '4', '-', '-'], ['Saturday', 'x2', 'Jason', 'dollar', '18', '-', '-']]
+-1
+[['Jason', '18', 'hour', '6', 'Saturday', 'dollar', '88'], ['after school', 'x1', 'hour', 'dollar', '4', '-', '-'], ['88', 'Jason', 'hour', 'dollar', '6', '18', '-']]
+-1
+[['Jason', '18', 'hour', '-', 'Saturday', 'dollar', '88'], ['after school', 'x1', 'hour', 'dollar', '4', '-', '-'], ['88', 'Jason', 'dollar', '18', '6', 'Saturday', '-']]
+-1
+[['Jason', '18', 'x2', '-', '-', 'dollar', '88'], ['after school', 'x1', 'hour', 'dollar', '4', '-', '-'], ['Saturday', 'x2', '88', 'Jason', 'hour', '-', '18']]
+-1
+[['Jason', 'Saturday', 'hour', '-', 'x2', 'dollar', '88'], ['after school', 'x1', 'hour', 'dollar', '4', '-', '-'], ['Jason', 'x2', 'hour', '88', '6', 'dollar', '-']]

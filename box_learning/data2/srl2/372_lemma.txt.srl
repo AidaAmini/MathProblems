@@ -1,0 +1,20 @@
+convert arg0 snooker Lumber
+convert MOD can
+convert arg2 either lumber or plywood
+convert arg1 log
+turn_out loc in a give day
+give arg1 a give day
+turn_out arg0 the mill
+turn_out arg1 as many unit of plywood as lumber
+turn_out tmp three time
+make arg0 it
+make arg1 a profit of 30 dollar on a unit of lumber and 50 dollar on a unit of plywood
+make arg0 snooker lumber
+sell arg0 snooker lumber
+produce arg0 snooker lumber
+produce MOD must
+sell MOD must
+produce arg1 a profit of 18360 dollar
+make arg1 a profit of 18360 dollar
+sell PNC to make
+sell arg1 ___ unit of lumber and ___ unit of plywood

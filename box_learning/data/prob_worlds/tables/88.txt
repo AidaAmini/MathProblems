@@ -1,0 +1,14 @@
+1
+[['72 % solution', '20', 'liter', '%', '72', '-', '-'], ['60 % acid solution', 'x1', '-', '%', '60', '-', '-'], ['75 % acid solution', 'x2', '-', '%', '75', '-', '-']]
+-1
+[['72 % solution', '20', '75', '%', '72', '-', '-'], ['60 % acid solution', 'x1', '-', '%', '60', '-', '-'], ['75 % acid solution', '72', '-', '72 % solution', '75', '20', '-']]
+-1
+[['72 % solution', '75', 'liter', '%', '72', '75 % acid solution', '-'], ['60 % acid solution', 'x1', '-', '%', '60', '-', '-'], ['75 % acid solution', 'x2', '-', '72 % solution', '75', 'liter', '72']]
+-1
+[['72 % solution', '20', 'liter', '%', '72', '75 % acid solution', '-'], ['60 % acid solution', 'x1', '-', '%', '60', '-', '-'], ['75 % acid solution', '72 % solution', '-', '%', '75', '-', '-']]
+-1
+[['72 % solution', '75 % acid solution', 'liter', '%', '72', 'x2', '75'], ['60 % acid solution', 'x1', '-', '%', '60', '-', '-'], ['75 % acid solution', 'x2', '-', '%', '75', '72 % solution', '-']]
+-1
+[['72 % solution', '20', 'liter', '%', '72', '-', '-'], ['60 % acid solution', 'x1', '-', '%', '60', '-', '-'], ['72', 'x2', 'liter', '%', '20', '-', '-']]
+-1
+[['75', 'x2', 'liter', '%', '72', '-', '-'], ['60 % acid solution', 'x1', '-', '%', '60', '-', '-'], ['75 % acid solution', 'x2', '72 % solution', '%', '75', '-', '-']]

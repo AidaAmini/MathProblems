@@ -1,0 +1,754 @@
+['3 football', '1 soccer ball', '155 dollar', 'football', '2 football', '3 soccer ball', 'dollar', '220 dollar', 'ball', 'soccer ball']
+['3 football']	['1 soccer ball']	0.379457278768
+['3 football']	['155 dollar']	0.0901100077042
+['3 football']	['2 football']	0.828768839235
+['3 football']	['3 soccer ball']	0.403745970191
+['3 football']	['dollar']	0.00542020684774
+['3 football']	['220 dollar']	0.0901100077042
+['3 football']	['soccer ball']	0.0824069519204
+['1 soccer ball']	['155 dollar']	0.0988755105172
+['1 soccer ball']	['football']	0.463077113582
+['1 soccer ball']	['2 football']	0.392705145363
+['1 soccer ball']	['3 soccer ball']	0.811753586716
+['1 soccer ball']	['dollar']	0.00920098131694
+['1 soccer ball']	['220 dollar']	0.0988755105172
+['155 dollar']	['football']	0.079730351659
+['155 dollar']	['2 football']	0.0901100077042
+['155 dollar']	['3 soccer ball']	0.0941266761548
+['155 dollar']	['220 dollar']	0.643440930505
+['155 dollar']	['ball']	0.0523274735279
+['155 dollar']	['soccer ball']	0.0897823390711
+['football']	['3 soccer ball']	0.463818391116
+['football']	['dollar']	0.00690352170971
+['football']	['220 dollar']	0.0696933362217
+['football']	['soccer ball']	0.48115458211
+['2 football']	['3 soccer ball']	0.379457278768
+['2 football']	['dollar']	0.00542020684774
+['2 football']	['220 dollar']	0.0901100077042
+['2 football']	['soccer ball']	0.0824069519204
+['3 soccer ball']	['dollar']	0.00920098131694
+['3 soccer ball']	['220 dollar']	0.0988755105172
+['dollar']	['ball']	0.0473170215554
+['dollar']	['soccer ball']	0.0581755169633
+['220 dollar']	['ball']	0.0523274735279
+['220 dollar']	['soccer ball']	0.0897823390711
+['1 soccer ball', '3 football']	['155 dollar']	0.15961386663
+['1 soccer ball', '3 football']	['football']	0.924644017737
+['1 soccer ball', '3 football']	['2 football']	0.861862481018
+['1 soccer ball', '3 football']	['3 soccer ball']	0.712838629179
+['1 soccer ball', '3 football']	['dollar']	0.00636410188432
+['1 soccer ball', '3 football']	['220 dollar']	0.15961386663
+['1 soccer ball', '3 football']	['ball']	0.855397332942
+['1 soccer ball', '3 football']	['soccer ball']	0.956197866972
+['155 dollar', '3 football']	['1 soccer ball']	0.335677399021
+['155 dollar', '3 football']	['football']	0.766808814145
+['155 dollar', '3 football']	['2 football']	0.754360422532
+['155 dollar', '3 football']	['3 soccer ball']	0.506763013357
+['155 dollar', '3 football']	['dollar']	0.236839587224
+['155 dollar', '3 football']	['220 dollar']	0.584269096576
+['155 dollar', '3 football']	['ball']	0.456738414507
+['155 dollar', '3 football']	['soccer ball']	0.0824069519204
+['football', '3 football']	['1 soccer ball']	0.697955429516
+['football', '3 football']	['155 dollar']	0.136831688603
+['football', '3 football']	['2 football']	0.912595253951
+['football', '3 football']	['3 soccer ball']	0.668571392203
+['football', '3 football']	['dollar']	0.143795401309
+['football', '3 football']	['220 dollar']	0.136831688603
+['football', '3 football']	['ball']	0.746212647296
+['football', '3 football']	['soccer ball']	0.679861034061
+['2 football', '3 football']	['1 soccer ball']	0.7450841911
+['2 football', '3 football']	['155 dollar']	0.139258682248
+['2 football', '3 football']	['football']	0.850213551543
+['2 football', '3 football']	['3 soccer ball']	0.592587968184
+['2 football', '3 football']	['dollar']	0.116502537816
+['2 football', '3 football']	['220 dollar']	0.139258682248
+['2 football', '3 football']	['ball']	0.644044385045
+['2 football', '3 football']	['soccer ball']	0.16132566236
+['3 soccer ball', '3 football']	['1 soccer ball']	0.88146055982
+['3 soccer ball', '3 football']	['155 dollar']	0.15961386663
+['3 soccer ball', '3 football']	['football']	0.924644017737
+['3 soccer ball', '3 football']	['2 football']	0.861862481018
+['3 soccer ball', '3 football']	['dollar']	0.00636410188432
+['3 soccer ball', '3 football']	['220 dollar']	0.15961386663
+['3 soccer ball', '3 football']	['ball']	0.855397332942
+['3 soccer ball', '3 football']	['soccer ball']	0.956197866972
+['dollar', '3 football']	['1 soccer ball']	0.201291599397
+['dollar', '3 football']	['155 dollar']	0.299367977552
+['dollar', '3 football']	['football']	0.50901695988
+['dollar', '3 football']	['2 football']	0.267251620421
+['dollar', '3 football']	['3 soccer ball']	0.242222411819
+['dollar', '3 football']	['220 dollar']	0.299367977552
+['dollar', '3 football']	['ball']	0.538972078777
+['dollar', '3 football']	['soccer ball']	0.0885083074879
+['220 dollar', '3 football']	['1 soccer ball']	0.335677399021
+['220 dollar', '3 football']	['155 dollar']	0.584269096576
+['220 dollar', '3 football']	['football']	0.766808814145
+['220 dollar', '3 football']	['2 football']	0.754360422532
+['220 dollar', '3 football']	['3 soccer ball']	0.506763013357
+['220 dollar', '3 football']	['dollar']	0.236839587224
+['220 dollar', '3 football']	['ball']	0.456738414507
+['220 dollar', '3 football']	['soccer ball']	0.0824069519204
+['ball', '3 football']	['1 soccer ball']	0.8344473917
+['ball', '3 football']	['155 dollar']	0.0454050549877
+['ball', '3 football']	['football']	0.672860430597
+['ball', '3 football']	['2 football']	0.874883188002
+['ball', '3 football']	['3 soccer ball']	0.801784923982
+['ball', '3 football']	['dollar']	0.0652168941181
+['ball', '3 football']	['220 dollar']	0.0454050549877
+['ball', '3 football']	['soccer ball']	0.533842435077
+['soccer ball', '3 football']	['1 soccer ball']	0.846143403874
+['soccer ball', '3 football']	['155 dollar']	0.0737139440912
+['soccer ball', '3 football']	['football']	0.94905255186
+['soccer ball', '3 football']	['2 football']	0.73028733598
+['soccer ball', '3 football']	['3 soccer ball']	0.589443864565
+['soccer ball', '3 football']	['dollar']	0.0165331776493
+['soccer ball', '3 football']	['220 dollar']	0.0737139440912
+['soccer ball', '3 football']	['ball']	0.802639748619
+['3 football', '1 soccer ball']	['155 dollar']	0.15961386663
+['3 football', '1 soccer ball']	['football']	0.924644017737
+['3 football', '1 soccer ball']	['2 football']	0.861862481018
+['3 football', '1 soccer ball']	['3 soccer ball']	0.712838629179
+['3 football', '1 soccer ball']	['dollar']	0.00636410188432
+['3 football', '1 soccer ball']	['220 dollar']	0.15961386663
+['3 football', '1 soccer ball']	['ball']	0.855397332942
+['3 football', '1 soccer ball']	['soccer ball']	0.956197866972
+['155 dollar', '1 soccer ball']	['3 football']	0.453327242541
+['155 dollar', '1 soccer ball']	['football']	0.612786698997
+['155 dollar', '1 soccer ball']	['2 football']	0.453327242541
+['155 dollar', '1 soccer ball']	['3 soccer ball']	0.824752035523
+['155 dollar', '1 soccer ball']	['dollar']	0.30942631667
+['155 dollar', '1 soccer ball']	['220 dollar']	0.653642048458
+['155 dollar', '1 soccer ball']	['ball']	0.790188373891
+['155 dollar', '1 soccer ball']	['soccer ball']	0.951950578313
+['football', '1 soccer ball']	['3 football']	0.912982727206
+['football', '1 soccer ball']	['155 dollar']	0.0696933362217
+['football', '1 soccer ball']	['2 football']	0.912982727206
+['football', '1 soccer ball']	['3 soccer ball']	0.740976492769
+['football', '1 soccer ball']	['dollar']	0.0367895879057
+['football', '1 soccer ball']	['220 dollar']	0.0696933362217
+['football', '1 soccer ball']	['ball']	0.742629550366
+['football', '1 soccer ball']	['soccer ball']	0.660174213997
+['2 football', '1 soccer ball']	['3 football']	0.861862481018
+['2 football', '1 soccer ball']	['155 dollar']	0.15961386663
+['2 football', '1 soccer ball']	['football']	0.924644017737
+['2 football', '1 soccer ball']	['3 soccer ball']	0.88146055982
+['2 football', '1 soccer ball']	['dollar']	0.00636410188432
+['2 football', '1 soccer ball']	['220 dollar']	0.15961386663
+['2 football', '1 soccer ball']	['ball']	0.855397332942
+['2 football', '1 soccer ball']	['soccer ball']	0.956197866972
+['3 soccer ball', '1 soccer ball']	['3 football']	0.656313005721
+['3 soccer ball', '1 soccer ball']	['155 dollar']	0.127952343303
+['3 soccer ball', '1 soccer ball']	['football']	0.717610401225
+['3 soccer ball', '1 soccer ball']	['2 football']	0.71455458354
+['3 soccer ball', '1 soccer ball']	['dollar']	0.0937010061869
+['3 soccer ball', '1 soccer ball']	['220 dollar']	0.127952343303
+['3 soccer ball', '1 soccer ball']	['ball']	0.750501318875
+['3 soccer ball', '1 soccer ball']	['soccer ball']	0.746207658926
+['dollar', '1 soccer ball']	['3 football']	0.137030148337
+['dollar', '1 soccer ball']	['155 dollar']	0.280517755408
+['dollar', '1 soccer ball']	['football']	0.468082948197
+['dollar', '1 soccer ball']	['2 football']	0.137030148337
+['dollar', '1 soccer ball']	['3 soccer ball']	0.233918287087
+['dollar', '1 soccer ball']	['220 dollar']	0.280517755408
+['dollar', '1 soccer ball']	['ball']	0.301247047782
+['dollar', '1 soccer ball']	['soccer ball']	0.353276860115
+['220 dollar', '1 soccer ball']	['3 football']	0.453327242541
+['220 dollar', '1 soccer ball']	['155 dollar']	0.653642048458
+['220 dollar', '1 soccer ball']	['football']	0.612786698997
+['220 dollar', '1 soccer ball']	['2 football']	0.453327242541
+['220 dollar', '1 soccer ball']	['3 soccer ball']	0.824752035523
+['220 dollar', '1 soccer ball']	['dollar']	0.30942631667
+['220 dollar', '1 soccer ball']	['ball']	0.790188373891
+['220 dollar', '1 soccer ball']	['soccer ball']	0.951950578313
+['ball', '1 soccer ball']	['3 football']	0.519122587032
+['ball', '1 soccer ball']	['155 dollar']	0.156776549614
+['ball', '1 soccer ball']	['football']	0.683979642206
+['ball', '1 soccer ball']	['2 football']	0.519122587032
+['ball', '1 soccer ball']	['3 soccer ball']	0.763339952674
+['ball', '1 soccer ball']	['dollar']	0.231107642905
+['ball', '1 soccer ball']	['220 dollar']	0.156776549614
+['ball', '1 soccer ball']	['soccer ball']	0.751096926089
+['soccer ball', '1 soccer ball']	['3 football']	0.622983247032
+['soccer ball', '1 soccer ball']	['155 dollar']	0.170107734588
+['soccer ball', '1 soccer ball']	['football']	0.745004176887
+['soccer ball', '1 soccer ball']	['2 football']	0.622983247032
+['soccer ball', '1 soccer ball']	['3 soccer ball']	0.969894009684
+['soccer ball', '1 soccer ball']	['dollar']	0.116955817719
+['soccer ball', '1 soccer ball']	['220 dollar']	0.170107734588
+['soccer ball', '1 soccer ball']	['ball']	0.677756017671
+['3 football', '155 dollar']	['1 soccer ball']	0.335677399021
+['3 football', '155 dollar']	['football']	0.766808814145
+['3 football', '155 dollar']	['2 football']	0.754360422532
+['3 football', '155 dollar']	['3 soccer ball']	0.506763013357
+['3 football', '155 dollar']	['dollar']	0.236839587224
+['3 football', '155 dollar']	['220 dollar']	0.584269096576
+['3 football', '155 dollar']	['ball']	0.456738414507
+['3 football', '155 dollar']	['soccer ball']	0.0824069519204
+['1 soccer ball', '155 dollar']	['3 football']	0.453327242541
+['1 soccer ball', '155 dollar']	['football']	0.612786698997
+['1 soccer ball', '155 dollar']	['2 football']	0.453327242541
+['1 soccer ball', '155 dollar']	['3 soccer ball']	0.824752035523
+['1 soccer ball', '155 dollar']	['dollar']	0.30942631667
+['1 soccer ball', '155 dollar']	['220 dollar']	0.653642048458
+['1 soccer ball', '155 dollar']	['ball']	0.790188373891
+['1 soccer ball', '155 dollar']	['soccer ball']	0.951950578313
+['football', '155 dollar']	['3 football']	0.798366451366
+['football', '155 dollar']	['1 soccer ball']	0.417449587231
+['football', '155 dollar']	['2 football']	0.798366451366
+['football', '155 dollar']	['3 soccer ball']	0.417449587231
+['football', '155 dollar']	['dollar']	0.417604861952
+['football', '155 dollar']	['220 dollar']	0.525944474896
+['football', '155 dollar']	['ball']	0.260119097575
+['football', '155 dollar']	['soccer ball']	0.483593653317
+['2 football', '155 dollar']	['3 football']	0.754360422532
+['2 football', '155 dollar']	['1 soccer ball']	0.335677399021
+['2 football', '155 dollar']	['football']	0.766808814145
+['2 football', '155 dollar']	['3 soccer ball']	0.335677399021
+['2 football', '155 dollar']	['dollar']	0.236839587224
+['2 football', '155 dollar']	['220 dollar']	0.584269096576
+['2 football', '155 dollar']	['ball']	0.456738414507
+['2 football', '155 dollar']	['soccer ball']	0.0824069519204
+['3 soccer ball', '155 dollar']	['3 football']	0.601995725418
+['3 soccer ball', '155 dollar']	['1 soccer ball']	0.824752035523
+['3 soccer ball', '155 dollar']	['football']	0.612786698997
+['3 soccer ball', '155 dollar']	['2 football']	0.453327242541
+['3 soccer ball', '155 dollar']	['dollar']	0.30942631667
+['3 soccer ball', '155 dollar']	['220 dollar']	0.653642048458
+['3 soccer ball', '155 dollar']	['ball']	0.790188373891
+['3 soccer ball', '155 dollar']	['soccer ball']	0.951950578313
+['dollar', '155 dollar']	['3 football']	0.0798131677782
+['dollar', '155 dollar']	['1 soccer ball']	0.201519460286
+['dollar', '155 dollar']	['football']	0.243582706012
+['dollar', '155 dollar']	['2 football']	0.0798131677782
+['dollar', '155 dollar']	['3 soccer ball']	0.201519460286
+['dollar', '155 dollar']	['220 dollar']	0.690954327877
+['dollar', '155 dollar']	['ball']	0.307135786654
+['dollar', '155 dollar']	['soccer ball']	0.207446506558
+['220 dollar', '155 dollar']	['3 football']	0.139258682248
+['220 dollar', '155 dollar']	['1 soccer ball']	0.297805101442
+['220 dollar', '155 dollar']	['football']	0.33665242287
+['220 dollar', '155 dollar']	['2 football']	0.139258682248
+['220 dollar', '155 dollar']	['3 soccer ball']	0.297805101442
+['220 dollar', '155 dollar']	['dollar']	0.704916484513
+['220 dollar', '155 dollar']	['ball']	0.290297268918
+['220 dollar', '155 dollar']	['soccer ball']	0.14699641653
+['ball', '155 dollar']	['3 football']	0.30442215441
+['ball', '155 dollar']	['1 soccer ball']	0.615082600947
+['ball', '155 dollar']	['football']	0.210230845104
+['ball', '155 dollar']	['2 football']	0.30442215441
+['ball', '155 dollar']	['3 soccer ball']	0.615082600947
+['ball', '155 dollar']	['dollar']	0.417208132045
+['ball', '155 dollar']	['220 dollar']	0.388432812021
+['ball', '155 dollar']	['soccer ball']	0.514963262508
+['soccer ball', '155 dollar']	['3 football']	0.0696933362217
+['soccer ball', '155 dollar']	['1 soccer ball']	0.887157968778
+['soccer ball', '155 dollar']	['football']	0.529176480616
+['soccer ball', '155 dollar']	['2 football']	0.0696933362217
+['soccer ball', '155 dollar']	['3 soccer ball']	0.887157968778
+['soccer ball', '155 dollar']	['dollar']	0.256340451178
+['soccer ball', '155 dollar']	['220 dollar']	0.544221442934
+['soccer ball', '155 dollar']	['ball']	0.658795230942
+['3 football', 'football']	['1 soccer ball']	0.697955429516
+['3 football', 'football']	['155 dollar']	0.136831688603
+['3 football', 'football']	['2 football']	0.912595253951
+['3 football', 'football']	['3 soccer ball']	0.668571392203
+['3 football', 'football']	['dollar']	0.143795401309
+['3 football', 'football']	['220 dollar']	0.136831688603
+['3 football', 'football']	['ball']	0.746212647296
+['3 football', 'football']	['soccer ball']	0.679861034061
+['1 soccer ball', 'football']	['3 football']	0.912982727206
+['1 soccer ball', 'football']	['155 dollar']	0.0696933362217
+['1 soccer ball', 'football']	['2 football']	0.912982727206
+['1 soccer ball', 'football']	['3 soccer ball']	0.740976492769
+['1 soccer ball', 'football']	['dollar']	0.0367895879057
+['1 soccer ball', 'football']	['220 dollar']	0.0696933362217
+['1 soccer ball', 'football']	['ball']	0.742629550366
+['1 soccer ball', 'football']	['soccer ball']	0.660174213997
+['155 dollar', 'football']	['3 football']	0.798366451366
+['155 dollar', 'football']	['1 soccer ball']	0.417449587231
+['155 dollar', 'football']	['2 football']	0.798366451366
+['155 dollar', 'football']	['3 soccer ball']	0.417449587231
+['155 dollar', 'football']	['dollar']	0.417604861952
+['155 dollar', 'football']	['220 dollar']	0.525944474896
+['155 dollar', 'football']	['ball']	0.260119097575
+['155 dollar', 'football']	['soccer ball']	0.483593653317
+['2 football', 'football']	['3 football']	0.912595253951
+['2 football', 'football']	['1 soccer ball']	0.697955429516
+['2 football', 'football']	['155 dollar']	0.136831688603
+['2 football', 'football']	['3 soccer ball']	0.697955429516
+['2 football', 'football']	['dollar']	0.143795401309
+['2 football', 'football']	['220 dollar']	0.136831688603
+['2 football', 'football']	['ball']	0.746212647296
+['2 football', 'football']	['soccer ball']	0.679861034061
+['3 soccer ball', 'football']	['3 football']	0.907296032774
+['3 soccer ball', 'football']	['1 soccer ball']	0.740976492769
+['3 soccer ball', 'football']	['155 dollar']	0.0696933362217
+['3 soccer ball', 'football']	['2 football']	0.912982727206
+['3 soccer ball', 'football']	['dollar']	0.0367895879057
+['3 soccer ball', 'football']	['220 dollar']	0.0696933362217
+['3 soccer ball', 'football']	['ball']	0.742629550366
+['3 soccer ball', 'football']	['soccer ball']	0.660174213997
+['dollar', 'football']	['3 football']	0.321486672684
+['dollar', 'football']	['1 soccer ball']	0.238332068596
+['dollar', 'football']	['155 dollar']	0.332721804216
+['dollar', 'football']	['2 football']	0.321486672684
+['dollar', 'football']	['3 soccer ball']	0.238332068596
+['dollar', 'football']	['220 dollar']	0.332721804216
+['dollar', 'football']	['ball']	0.120686827178
+['dollar', 'football']	['soccer ball']	0.285552779578
+['220 dollar', 'football']	['3 football']	0.798366451366
+['220 dollar', 'football']	['1 soccer ball']	0.417449587231
+['220 dollar', 'football']	['155 dollar']	0.525944474896
+['220 dollar', 'football']	['2 football']	0.798366451366
+['220 dollar', 'football']	['3 soccer ball']	0.417449587231
+['220 dollar', 'football']	['dollar']	0.417604861952
+['220 dollar', 'football']	['ball']	0.260119097575
+['220 dollar', 'football']	['soccer ball']	0.483593653317
+['ball', 'football']	['3 football']	0.797676743247
+['ball', 'football']	['1 soccer ball']	0.831253390063
+['ball', 'football']	['155 dollar']	0.10906081194
+['ball', 'football']	['2 football']	0.797676743247
+['ball', 'football']	['3 soccer ball']	0.831253390063
+['ball', 'football']	['dollar']	0.0986763122924
+['ball', 'football']	['220 dollar']	0.10906081194
+['ball', 'football']	['soccer ball']	0.743581667635
+['soccer ball', 'football']	['3 football']	0.798366451366
+['soccer ball', 'football']	['1 soccer ball']	0.744263762932
+['soccer ball', 'football']	['155 dollar']	0.131771183904
+['soccer ball', 'football']	['2 football']	0.798366451366
+['soccer ball', 'football']	['3 soccer ball']	0.744263762932
+['soccer ball', 'football']	['dollar']	0.103456254572
+['soccer ball', 'football']	['220 dollar']	0.131771183904
+['soccer ball', 'football']	['ball']	0.733740661477
+['3 football', '2 football']	['1 soccer ball']	0.7450841911
+['3 football', '2 football']	['155 dollar']	0.139258682248
+['3 football', '2 football']	['football']	0.850213551543
+['3 football', '2 football']	['3 soccer ball']	0.592587968184
+['3 football', '2 football']	['dollar']	0.116502537816
+['3 football', '2 football']	['220 dollar']	0.139258682248
+['3 football', '2 football']	['ball']	0.644044385045
+['3 football', '2 football']	['soccer ball']	0.16132566236
+['1 soccer ball', '2 football']	['3 football']	0.861862481018
+['1 soccer ball', '2 football']	['155 dollar']	0.15961386663
+['1 soccer ball', '2 football']	['football']	0.924644017737
+['1 soccer ball', '2 football']	['3 soccer ball']	0.88146055982
+['1 soccer ball', '2 football']	['dollar']	0.00636410188432
+['1 soccer ball', '2 football']	['220 dollar']	0.15961386663
+['1 soccer ball', '2 football']	['ball']	0.855397332942
+['1 soccer ball', '2 football']	['soccer ball']	0.956197866972
+['155 dollar', '2 football']	['3 football']	0.754360422532
+['155 dollar', '2 football']	['1 soccer ball']	0.335677399021
+['155 dollar', '2 football']	['football']	0.766808814145
+['155 dollar', '2 football']	['3 soccer ball']	0.335677399021
+['155 dollar', '2 football']	['dollar']	0.236839587224
+['155 dollar', '2 football']	['220 dollar']	0.584269096576
+['155 dollar', '2 football']	['ball']	0.456738414507
+['155 dollar', '2 football']	['soccer ball']	0.0824069519204
+['football', '2 football']	['3 football']	0.912595253951
+['football', '2 football']	['1 soccer ball']	0.697955429516
+['football', '2 football']	['155 dollar']	0.136831688603
+['football', '2 football']	['3 soccer ball']	0.697955429516
+['football', '2 football']	['dollar']	0.143795401309
+['football', '2 football']	['220 dollar']	0.136831688603
+['football', '2 football']	['ball']	0.746212647296
+['football', '2 football']	['soccer ball']	0.679861034061
+['3 soccer ball', '2 football']	['3 football']	0.70795490458
+['3 soccer ball', '2 football']	['1 soccer ball']	0.88146055982
+['3 soccer ball', '2 football']	['155 dollar']	0.15961386663
+['3 soccer ball', '2 football']	['football']	0.924644017737
+['3 soccer ball', '2 football']	['dollar']	0.00636410188432
+['3 soccer ball', '2 football']	['220 dollar']	0.15961386663
+['3 soccer ball', '2 football']	['ball']	0.855397332942
+['3 soccer ball', '2 football']	['soccer ball']	0.956197866972
+['dollar', '2 football']	['3 football']	0.267251620421
+['dollar', '2 football']	['1 soccer ball']	0.201291599397
+['dollar', '2 football']	['155 dollar']	0.299367977552
+['dollar', '2 football']	['football']	0.50901695988
+['dollar', '2 football']	['3 soccer ball']	0.201291599397
+['dollar', '2 football']	['220 dollar']	0.299367977552
+['dollar', '2 football']	['ball']	0.538972078777
+['dollar', '2 football']	['soccer ball']	0.0885083074879
+['220 dollar', '2 football']	['3 football']	0.754360422532
+['220 dollar', '2 football']	['1 soccer ball']	0.335677399021
+['220 dollar', '2 football']	['155 dollar']	0.584269096576
+['220 dollar', '2 football']	['football']	0.766808814145
+['220 dollar', '2 football']	['3 soccer ball']	0.335677399021
+['220 dollar', '2 football']	['dollar']	0.236839587224
+['220 dollar', '2 football']	['ball']	0.456738414507
+['220 dollar', '2 football']	['soccer ball']	0.0824069519204
+['ball', '2 football']	['3 football']	0.874883188002
+['ball', '2 football']	['1 soccer ball']	0.8344473917
+['ball', '2 football']	['155 dollar']	0.0454050549877
+['ball', '2 football']	['football']	0.672860430597
+['ball', '2 football']	['3 soccer ball']	0.8344473917
+['ball', '2 football']	['dollar']	0.0652168941181
+['ball', '2 football']	['220 dollar']	0.0454050549877
+['ball', '2 football']	['soccer ball']	0.533842435077
+['soccer ball', '2 football']	['3 football']	0.73028733598
+['soccer ball', '2 football']	['1 soccer ball']	0.846143403874
+['soccer ball', '2 football']	['155 dollar']	0.0737139440912
+['soccer ball', '2 football']	['football']	0.94905255186
+['soccer ball', '2 football']	['3 soccer ball']	0.846143403874
+['soccer ball', '2 football']	['dollar']	0.0165331776493
+['soccer ball', '2 football']	['220 dollar']	0.0737139440912
+['soccer ball', '2 football']	['ball']	0.802639748619
+['3 football', '3 soccer ball']	['1 soccer ball']	0.88146055982
+['3 football', '3 soccer ball']	['155 dollar']	0.15961386663
+['3 football', '3 soccer ball']	['football']	0.924644017737
+['3 football', '3 soccer ball']	['2 football']	0.861862481018
+['3 football', '3 soccer ball']	['dollar']	0.00636410188432
+['3 football', '3 soccer ball']	['220 dollar']	0.15961386663
+['3 football', '3 soccer ball']	['ball']	0.855397332942
+['3 football', '3 soccer ball']	['soccer ball']	0.956197866972
+['1 soccer ball', '3 soccer ball']	['3 football']	0.656313005721
+['1 soccer ball', '3 soccer ball']	['155 dollar']	0.127952343303
+['1 soccer ball', '3 soccer ball']	['football']	0.717610401225
+['1 soccer ball', '3 soccer ball']	['2 football']	0.71455458354
+['1 soccer ball', '3 soccer ball']	['dollar']	0.0937010061869
+['1 soccer ball', '3 soccer ball']	['220 dollar']	0.127952343303
+['1 soccer ball', '3 soccer ball']	['ball']	0.750501318875
+['1 soccer ball', '3 soccer ball']	['soccer ball']	0.746207658926
+['155 dollar', '3 soccer ball']	['3 football']	0.601995725418
+['155 dollar', '3 soccer ball']	['1 soccer ball']	0.824752035523
+['155 dollar', '3 soccer ball']	['football']	0.612786698997
+['155 dollar', '3 soccer ball']	['2 football']	0.453327242541
+['155 dollar', '3 soccer ball']	['dollar']	0.30942631667
+['155 dollar', '3 soccer ball']	['220 dollar']	0.653642048458
+['155 dollar', '3 soccer ball']	['ball']	0.790188373891
+['155 dollar', '3 soccer ball']	['soccer ball']	0.951950578313
+['football', '3 soccer ball']	['3 football']	0.907296032774
+['football', '3 soccer ball']	['1 soccer ball']	0.740976492769
+['football', '3 soccer ball']	['155 dollar']	0.0696933362217
+['football', '3 soccer ball']	['2 football']	0.912982727206
+['football', '3 soccer ball']	['dollar']	0.0367895879057
+['football', '3 soccer ball']	['220 dollar']	0.0696933362217
+['football', '3 soccer ball']	['ball']	0.742629550366
+['football', '3 soccer ball']	['soccer ball']	0.660174213997
+['2 football', '3 soccer ball']	['3 football']	0.70795490458
+['2 football', '3 soccer ball']	['1 soccer ball']	0.88146055982
+['2 football', '3 soccer ball']	['155 dollar']	0.15961386663
+['2 football', '3 soccer ball']	['football']	0.924644017737
+['2 football', '3 soccer ball']	['dollar']	0.00636410188432
+['2 football', '3 soccer ball']	['220 dollar']	0.15961386663
+['2 football', '3 soccer ball']	['ball']	0.855397332942
+['2 football', '3 soccer ball']	['soccer ball']	0.956197866972
+['dollar', '3 soccer ball']	['3 football']	0.201598352121
+['dollar', '3 soccer ball']	['1 soccer ball']	0.233918287087
+['dollar', '3 soccer ball']	['155 dollar']	0.280517755408
+['dollar', '3 soccer ball']	['football']	0.468082948197
+['dollar', '3 soccer ball']	['2 football']	0.137030148337
+['dollar', '3 soccer ball']	['220 dollar']	0.280517755408
+['dollar', '3 soccer ball']	['ball']	0.301247047782
+['dollar', '3 soccer ball']	['soccer ball']	0.353276860115
+['220 dollar', '3 soccer ball']	['3 football']	0.601995725418
+['220 dollar', '3 soccer ball']	['1 soccer ball']	0.824752035523
+['220 dollar', '3 soccer ball']	['155 dollar']	0.653642048458
+['220 dollar', '3 soccer ball']	['football']	0.612786698997
+['220 dollar', '3 soccer ball']	['2 football']	0.453327242541
+['220 dollar', '3 soccer ball']	['dollar']	0.30942631667
+['220 dollar', '3 soccer ball']	['ball']	0.790188373891
+['220 dollar', '3 soccer ball']	['soccer ball']	0.951950578313
+['ball', '3 soccer ball']	['3 football']	0.522380562213
+['ball', '3 soccer ball']	['1 soccer ball']	0.763339952674
+['ball', '3 soccer ball']	['155 dollar']	0.156776549614
+['ball', '3 soccer ball']	['football']	0.683979642206
+['ball', '3 soccer ball']	['2 football']	0.519122587032
+['ball', '3 soccer ball']	['dollar']	0.231107642905
+['ball', '3 soccer ball']	['220 dollar']	0.156776549614
+['ball', '3 soccer ball']	['soccer ball']	0.751096926089
+['soccer ball', '3 soccer ball']	['3 football']	0.684061100428
+['soccer ball', '3 soccer ball']	['1 soccer ball']	0.969894009684
+['soccer ball', '3 soccer ball']	['155 dollar']	0.170107734588
+['soccer ball', '3 soccer ball']	['football']	0.745004176887
+['soccer ball', '3 soccer ball']	['2 football']	0.622983247032
+['soccer ball', '3 soccer ball']	['dollar']	0.116955817719
+['soccer ball', '3 soccer ball']	['220 dollar']	0.170107734588
+['soccer ball', '3 soccer ball']	['ball']	0.677756017671
+['3 football', 'dollar']	['1 soccer ball']	0.201291599397
+['3 football', 'dollar']	['155 dollar']	0.299367977552
+['3 football', 'dollar']	['football']	0.50901695988
+['3 football', 'dollar']	['2 football']	0.267251620421
+['3 football', 'dollar']	['3 soccer ball']	0.242222411819
+['3 football', 'dollar']	['220 dollar']	0.299367977552
+['3 football', 'dollar']	['ball']	0.538972078777
+['3 football', 'dollar']	['soccer ball']	0.0885083074879
+['1 soccer ball', 'dollar']	['3 football']	0.137030148337
+['1 soccer ball', 'dollar']	['155 dollar']	0.280517755408
+['1 soccer ball', 'dollar']	['football']	0.468082948197
+['1 soccer ball', 'dollar']	['2 football']	0.137030148337
+['1 soccer ball', 'dollar']	['3 soccer ball']	0.233918287087
+['1 soccer ball', 'dollar']	['220 dollar']	0.280517755408
+['1 soccer ball', 'dollar']	['ball']	0.301247047782
+['1 soccer ball', 'dollar']	['soccer ball']	0.353276860115
+['155 dollar', 'dollar']	['3 football']	0.0798131677782
+['155 dollar', 'dollar']	['1 soccer ball']	0.201519460286
+['155 dollar', 'dollar']	['football']	0.243582706012
+['155 dollar', 'dollar']	['2 football']	0.0798131677782
+['155 dollar', 'dollar']	['3 soccer ball']	0.201519460286
+['155 dollar', 'dollar']	['220 dollar']	0.690954327877
+['155 dollar', 'dollar']	['ball']	0.307135786654
+['155 dollar', 'dollar']	['soccer ball']	0.207446506558
+['football', 'dollar']	['3 football']	0.321486672684
+['football', 'dollar']	['1 soccer ball']	0.238332068596
+['football', 'dollar']	['155 dollar']	0.332721804216
+['football', 'dollar']	['2 football']	0.321486672684
+['football', 'dollar']	['3 soccer ball']	0.238332068596
+['football', 'dollar']	['220 dollar']	0.332721804216
+['football', 'dollar']	['ball']	0.120686827178
+['football', 'dollar']	['soccer ball']	0.285552779578
+['2 football', 'dollar']	['3 football']	0.267251620421
+['2 football', 'dollar']	['1 soccer ball']	0.201291599397
+['2 football', 'dollar']	['155 dollar']	0.299367977552
+['2 football', 'dollar']	['football']	0.50901695988
+['2 football', 'dollar']	['3 soccer ball']	0.201291599397
+['2 football', 'dollar']	['220 dollar']	0.299367977552
+['2 football', 'dollar']	['ball']	0.538972078777
+['2 football', 'dollar']	['soccer ball']	0.0885083074879
+['3 soccer ball', 'dollar']	['3 football']	0.201598352121
+['3 soccer ball', 'dollar']	['1 soccer ball']	0.233918287087
+['3 soccer ball', 'dollar']	['155 dollar']	0.280517755408
+['3 soccer ball', 'dollar']	['football']	0.468082948197
+['3 soccer ball', 'dollar']	['2 football']	0.137030148337
+['3 soccer ball', 'dollar']	['220 dollar']	0.280517755408
+['3 soccer ball', 'dollar']	['ball']	0.301247047782
+['3 soccer ball', 'dollar']	['soccer ball']	0.353276860115
+['220 dollar', 'dollar']	['3 football']	0.0798131677782
+['220 dollar', 'dollar']	['1 soccer ball']	0.201519460286
+['220 dollar', 'dollar']	['155 dollar']	0.690954327877
+['220 dollar', 'dollar']	['football']	0.243582706012
+['220 dollar', 'dollar']	['2 football']	0.0798131677782
+['220 dollar', 'dollar']	['3 soccer ball']	0.201519460286
+['220 dollar', 'dollar']	['ball']	0.307135786654
+['220 dollar', 'dollar']	['soccer ball']	0.207446506558
+['ball', 'dollar']	['3 football']	0.243877169983
+['ball', 'dollar']	['1 soccer ball']	0.298939739414
+['ball', 'dollar']	['155 dollar']	0.313917110354
+['ball', 'dollar']	['football']	0.159741722813
+['ball', 'dollar']	['2 football']	0.243877169983
+['ball', 'dollar']	['3 soccer ball']	0.298939739414
+['ball', 'dollar']	['220 dollar']	0.313917110354
+['ball', 'dollar']	['soccer ball']	0.270111906554
+['soccer ball', 'dollar']	['3 football']	0.0786120076541
+['soccer ball', 'dollar']	['1 soccer ball']	0.298770352561
+['soccer ball', 'dollar']	['155 dollar']	0.299367977552
+['soccer ball', 'dollar']	['football']	0.487114479728
+['soccer ball', 'dollar']	['2 football']	0.0786120076541
+['soccer ball', 'dollar']	['3 soccer ball']	0.298770352561
+['soccer ball', 'dollar']	['220 dollar']	0.299367977552
+['soccer ball', 'dollar']	['ball']	0.298216744752
+['3 football', '220 dollar']	['1 soccer ball']	0.335677399021
+['3 football', '220 dollar']	['155 dollar']	0.584269096576
+['3 football', '220 dollar']	['football']	0.766808814145
+['3 football', '220 dollar']	['2 football']	0.754360422532
+['3 football', '220 dollar']	['3 soccer ball']	0.506763013357
+['3 football', '220 dollar']	['dollar']	0.236839587224
+['3 football', '220 dollar']	['ball']	0.456738414507
+['3 football', '220 dollar']	['soccer ball']	0.0824069519204
+['1 soccer ball', '220 dollar']	['3 football']	0.453327242541
+['1 soccer ball', '220 dollar']	['155 dollar']	0.653642048458
+['1 soccer ball', '220 dollar']	['football']	0.612786698997
+['1 soccer ball', '220 dollar']	['2 football']	0.453327242541
+['1 soccer ball', '220 dollar']	['3 soccer ball']	0.824752035523
+['1 soccer ball', '220 dollar']	['dollar']	0.30942631667
+['1 soccer ball', '220 dollar']	['ball']	0.790188373891
+['1 soccer ball', '220 dollar']	['soccer ball']	0.951950578313
+['155 dollar', '220 dollar']	['3 football']	0.139258682248
+['155 dollar', '220 dollar']	['1 soccer ball']	0.297805101442
+['155 dollar', '220 dollar']	['football']	0.33665242287
+['155 dollar', '220 dollar']	['2 football']	0.139258682248
+['155 dollar', '220 dollar']	['3 soccer ball']	0.297805101442
+['155 dollar', '220 dollar']	['dollar']	0.704916484513
+['155 dollar', '220 dollar']	['ball']	0.290297268918
+['155 dollar', '220 dollar']	['soccer ball']	0.14699641653
+['football', '220 dollar']	['3 football']	0.798366451366
+['football', '220 dollar']	['1 soccer ball']	0.417449587231
+['football', '220 dollar']	['155 dollar']	0.525944474896
+['football', '220 dollar']	['2 football']	0.798366451366
+['football', '220 dollar']	['3 soccer ball']	0.417449587231
+['football', '220 dollar']	['dollar']	0.417604861952
+['football', '220 dollar']	['ball']	0.260119097575
+['football', '220 dollar']	['soccer ball']	0.483593653317
+['2 football', '220 dollar']	['3 football']	0.754360422532
+['2 football', '220 dollar']	['1 soccer ball']	0.335677399021
+['2 football', '220 dollar']	['155 dollar']	0.584269096576
+['2 football', '220 dollar']	['football']	0.766808814145
+['2 football', '220 dollar']	['3 soccer ball']	0.335677399021
+['2 football', '220 dollar']	['dollar']	0.236839587224
+['2 football', '220 dollar']	['ball']	0.456738414507
+['2 football', '220 dollar']	['soccer ball']	0.0824069519204
+['3 soccer ball', '220 dollar']	['3 football']	0.601995725418
+['3 soccer ball', '220 dollar']	['1 soccer ball']	0.824752035523
+['3 soccer ball', '220 dollar']	['155 dollar']	0.653642048458
+['3 soccer ball', '220 dollar']	['football']	0.612786698997
+['3 soccer ball', '220 dollar']	['2 football']	0.453327242541
+['3 soccer ball', '220 dollar']	['dollar']	0.30942631667
+['3 soccer ball', '220 dollar']	['ball']	0.790188373891
+['3 soccer ball', '220 dollar']	['soccer ball']	0.951950578313
+['dollar', '220 dollar']	['3 football']	0.0798131677782
+['dollar', '220 dollar']	['1 soccer ball']	0.201519460286
+['dollar', '220 dollar']	['155 dollar']	0.690954327877
+['dollar', '220 dollar']	['football']	0.243582706012
+['dollar', '220 dollar']	['2 football']	0.0798131677782
+['dollar', '220 dollar']	['3 soccer ball']	0.201519460286
+['dollar', '220 dollar']	['ball']	0.307135786654
+['dollar', '220 dollar']	['soccer ball']	0.207446506558
+['ball', '220 dollar']	['3 football']	0.30442215441
+['ball', '220 dollar']	['1 soccer ball']	0.615082600947
+['ball', '220 dollar']	['155 dollar']	0.388432812021
+['ball', '220 dollar']	['football']	0.210230845104
+['ball', '220 dollar']	['2 football']	0.30442215441
+['ball', '220 dollar']	['3 soccer ball']	0.615082600947
+['ball', '220 dollar']	['dollar']	0.417208132045
+['ball', '220 dollar']	['soccer ball']	0.514963262508
+['soccer ball', '220 dollar']	['3 football']	0.0696933362217
+['soccer ball', '220 dollar']	['1 soccer ball']	0.887157968778
+['soccer ball', '220 dollar']	['155 dollar']	0.544221442934
+['soccer ball', '220 dollar']	['football']	0.529176480616
+['soccer ball', '220 dollar']	['2 football']	0.0696933362217
+['soccer ball', '220 dollar']	['3 soccer ball']	0.887157968778
+['soccer ball', '220 dollar']	['dollar']	0.256340451178
+['soccer ball', '220 dollar']	['ball']	0.658795230942
+['3 football', 'ball']	['1 soccer ball']	0.8344473917
+['3 football', 'ball']	['155 dollar']	0.0454050549877
+['3 football', 'ball']	['football']	0.672860430597
+['3 football', 'ball']	['2 football']	0.874883188002
+['3 football', 'ball']	['3 soccer ball']	0.801784923982
+['3 football', 'ball']	['dollar']	0.0652168941181
+['3 football', 'ball']	['220 dollar']	0.0454050549877
+['3 football', 'ball']	['soccer ball']	0.533842435077
+['1 soccer ball', 'ball']	['3 football']	0.519122587032
+['1 soccer ball', 'ball']	['155 dollar']	0.156776549614
+['1 soccer ball', 'ball']	['football']	0.683979642206
+['1 soccer ball', 'ball']	['2 football']	0.519122587032
+['1 soccer ball', 'ball']	['3 soccer ball']	0.763339952674
+['1 soccer ball', 'ball']	['dollar']	0.231107642905
+['1 soccer ball', 'ball']	['220 dollar']	0.156776549614
+['1 soccer ball', 'ball']	['soccer ball']	0.751096926089
+['155 dollar', 'ball']	['3 football']	0.30442215441
+['155 dollar', 'ball']	['1 soccer ball']	0.615082600947
+['155 dollar', 'ball']	['football']	0.210230845104
+['155 dollar', 'ball']	['2 football']	0.30442215441
+['155 dollar', 'ball']	['3 soccer ball']	0.615082600947
+['155 dollar', 'ball']	['dollar']	0.417208132045
+['155 dollar', 'ball']	['220 dollar']	0.388432812021
+['155 dollar', 'ball']	['soccer ball']	0.514963262508
+['football', 'ball']	['3 football']	0.797676743247
+['football', 'ball']	['1 soccer ball']	0.831253390063
+['football', 'ball']	['155 dollar']	0.10906081194
+['football', 'ball']	['2 football']	0.797676743247
+['football', 'ball']	['3 soccer ball']	0.831253390063
+['football', 'ball']	['dollar']	0.0986763122924
+['football', 'ball']	['220 dollar']	0.10906081194
+['football', 'ball']	['soccer ball']	0.743581667635
+['2 football', 'ball']	['3 football']	0.874883188002
+['2 football', 'ball']	['1 soccer ball']	0.8344473917
+['2 football', 'ball']	['155 dollar']	0.0454050549877
+['2 football', 'ball']	['football']	0.672860430597
+['2 football', 'ball']	['3 soccer ball']	0.8344473917
+['2 football', 'ball']	['dollar']	0.0652168941181
+['2 football', 'ball']	['220 dollar']	0.0454050549877
+['2 football', 'ball']	['soccer ball']	0.533842435077
+['3 soccer ball', 'ball']	['3 football']	0.522380562213
+['3 soccer ball', 'ball']	['1 soccer ball']	0.763339952674
+['3 soccer ball', 'ball']	['155 dollar']	0.156776549614
+['3 soccer ball', 'ball']	['football']	0.683979642206
+['3 soccer ball', 'ball']	['2 football']	0.519122587032
+['3 soccer ball', 'ball']	['dollar']	0.231107642905
+['3 soccer ball', 'ball']	['220 dollar']	0.156776549614
+['3 soccer ball', 'ball']	['soccer ball']	0.751096926089
+['dollar', 'ball']	['3 football']	0.243877169983
+['dollar', 'ball']	['1 soccer ball']	0.298939739414
+['dollar', 'ball']	['155 dollar']	0.313917110354
+['dollar', 'ball']	['football']	0.159741722813
+['dollar', 'ball']	['2 football']	0.243877169983
+['dollar', 'ball']	['3 soccer ball']	0.298939739414
+['dollar', 'ball']	['220 dollar']	0.313917110354
+['dollar', 'ball']	['soccer ball']	0.270111906554
+['220 dollar', 'ball']	['3 football']	0.30442215441
+['220 dollar', 'ball']	['1 soccer ball']	0.615082600947
+['220 dollar', 'ball']	['155 dollar']	0.388432812021
+['220 dollar', 'ball']	['football']	0.210230845104
+['220 dollar', 'ball']	['2 football']	0.30442215441
+['220 dollar', 'ball']	['3 soccer ball']	0.615082600947
+['220 dollar', 'ball']	['dollar']	0.417208132045
+['220 dollar', 'ball']	['soccer ball']	0.514963262508
+['soccer ball', 'ball']	['3 football']	0.496097959733
+['soccer ball', 'ball']	['1 soccer ball']	0.890457702598
+['soccer ball', 'ball']	['155 dollar']	0.214652655808
+['soccer ball', 'ball']	['football']	0.708222066449
+['soccer ball', 'ball']	['2 football']	0.496097959733
+['soccer ball', 'ball']	['3 soccer ball']	0.890457702598
+['soccer ball', 'ball']	['dollar']	0.267005078803
+['soccer ball', 'ball']	['220 dollar']	0.214652655808
+['3 football', 'soccer ball']	['1 soccer ball']	0.846143403874
+['3 football', 'soccer ball']	['155 dollar']	0.0737139440912
+['3 football', 'soccer ball']	['football']	0.94905255186
+['3 football', 'soccer ball']	['2 football']	0.73028733598
+['3 football', 'soccer ball']	['3 soccer ball']	0.589443864565
+['3 football', 'soccer ball']	['dollar']	0.0165331776493
+['3 football', 'soccer ball']	['220 dollar']	0.0737139440912
+['3 football', 'soccer ball']	['ball']	0.802639748619
+['1 soccer ball', 'soccer ball']	['3 football']	0.622983247032
+['1 soccer ball', 'soccer ball']	['155 dollar']	0.170107734588
+['1 soccer ball', 'soccer ball']	['football']	0.745004176887
+['1 soccer ball', 'soccer ball']	['2 football']	0.622983247032
+['1 soccer ball', 'soccer ball']	['3 soccer ball']	0.969894009684
+['1 soccer ball', 'soccer ball']	['dollar']	0.116955817719
+['1 soccer ball', 'soccer ball']	['220 dollar']	0.170107734588
+['1 soccer ball', 'soccer ball']	['ball']	0.677756017671
+['155 dollar', 'soccer ball']	['3 football']	0.0696933362217
+['155 dollar', 'soccer ball']	['1 soccer ball']	0.887157968778
+['155 dollar', 'soccer ball']	['football']	0.529176480616
+['155 dollar', 'soccer ball']	['2 football']	0.0696933362217
+['155 dollar', 'soccer ball']	['3 soccer ball']	0.887157968778
+['155 dollar', 'soccer ball']	['dollar']	0.256340451178
+['155 dollar', 'soccer ball']	['220 dollar']	0.544221442934
+['155 dollar', 'soccer ball']	['ball']	0.658795230942
+['football', 'soccer ball']	['3 football']	0.798366451366
+['football', 'soccer ball']	['1 soccer ball']	0.744263762932
+['football', 'soccer ball']	['155 dollar']	0.131771183904
+['football', 'soccer ball']	['2 football']	0.798366451366
+['football', 'soccer ball']	['3 soccer ball']	0.744263762932
+['football', 'soccer ball']	['dollar']	0.103456254572
+['football', 'soccer ball']	['220 dollar']	0.131771183904
+['football', 'soccer ball']	['ball']	0.733740661477
+['2 football', 'soccer ball']	['3 football']	0.73028733598
+['2 football', 'soccer ball']	['1 soccer ball']	0.846143403874
+['2 football', 'soccer ball']	['155 dollar']	0.0737139440912
+['2 football', 'soccer ball']	['football']	0.94905255186
+['2 football', 'soccer ball']	['3 soccer ball']	0.846143403874
+['2 football', 'soccer ball']	['dollar']	0.0165331776493
+['2 football', 'soccer ball']	['220 dollar']	0.0737139440912
+['2 football', 'soccer ball']	['ball']	0.802639748619
+['3 soccer ball', 'soccer ball']	['3 football']	0.684061100428
+['3 soccer ball', 'soccer ball']	['1 soccer ball']	0.969894009684
+['3 soccer ball', 'soccer ball']	['155 dollar']	0.170107734588
+['3 soccer ball', 'soccer ball']	['football']	0.745004176887
+['3 soccer ball', 'soccer ball']	['2 football']	0.622983247032
+['3 soccer ball', 'soccer ball']	['dollar']	0.116955817719
+['3 soccer ball', 'soccer ball']	['220 dollar']	0.170107734588
+['3 soccer ball', 'soccer ball']	['ball']	0.677756017671
+['dollar', 'soccer ball']	['3 football']	0.0786120076541
+['dollar', 'soccer ball']	['1 soccer ball']	0.298770352561
+['dollar', 'soccer ball']	['155 dollar']	0.299367977552
+['dollar', 'soccer ball']	['football']	0.487114479728
+['dollar', 'soccer ball']	['2 football']	0.0786120076541
+['dollar', 'soccer ball']	['3 soccer ball']	0.298770352561
+['dollar', 'soccer ball']	['220 dollar']	0.299367977552
+['dollar', 'soccer ball']	['ball']	0.298216744752
+['220 dollar', 'soccer ball']	['3 football']	0.0696933362217
+['220 dollar', 'soccer ball']	['1 soccer ball']	0.887157968778
+['220 dollar', 'soccer ball']	['155 dollar']	0.544221442934
+['220 dollar', 'soccer ball']	['football']	0.529176480616
+['220 dollar', 'soccer ball']	['2 football']	0.0696933362217
+['220 dollar', 'soccer ball']	['3 soccer ball']	0.887157968778
+['220 dollar', 'soccer ball']	['dollar']	0.256340451178
+['220 dollar', 'soccer ball']	['ball']	0.658795230942
+['ball', 'soccer ball']	['3 football']	0.496097959733
+['ball', 'soccer ball']	['1 soccer ball']	0.890457702598
+['ball', 'soccer ball']	['155 dollar']	0.214652655808
+['ball', 'soccer ball']	['football']	0.708222066449
+['ball', 'soccer ball']	['2 football']	0.496097959733
+['ball', 'soccer ball']	['3 soccer ball']	0.890457702598
+['ball', 'soccer ball']	['dollar']	0.267005078803
+['ball', 'soccer ball']	['220 dollar']	0.214652655808

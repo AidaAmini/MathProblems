@@ -1,0 +1,14 @@
+1
+[['snooker lumber', '-', '-', '-', '-', 'dollar', '18360'], ['plywood', '3*x1', 'unit', 'dollar', '50', '-', '-'], ['lumber', 'x1', 'unit', 'dollar', '30', '-', '-']]
+-1
+[['snooker lumber', '-', '-', 'x1', '-', 'lumber', 'dollar'], ['plywood', '3*x1', 'unit', 'dollar', '50', '-', '-'], ['lumber', 'x1', 'snooker lumber', 'dollar', '30', '-', '-']]
+-1
+[['x1', '-', 'unit', '-', '-', 'lumber', 'snooker lumber'], ['plywood', '3*x1', 'unit', 'dollar', '50', '-', '-'], ['lumber', 'x1', 'unit', '18360', '30', 'snooker lumber', '-']]
+-1
+[['snooker lumber', '-', 'x1', '30', '-', 'dollar', 'lumber'], ['plywood', '3*x1', 'unit', 'dollar', '50', '-', '-'], ['lumber', 'x1', 'snooker lumber', 'dollar', '30', '-', '-']]
+-1
+[['snooker lumber', '-', '-', '30', 'unit', 'dollar', '18360'], ['plywood', '3*x1', 'unit', 'dollar', '50', '-', '-'], ['lumber', 'snooker lumber', 'unit', 'dollar', '30', '-', '18360']]
+-1
+[['lumber', '-', 'dollar', '-', '-', '30', 'x1'], ['plywood', '3*x1', 'unit', 'dollar', '50', '-', '-'], ['lumber', 'x1', 'unit', 'dollar', '30', '-', '-']]
+-1
+[['snooker lumber', '30', '-', '-', 'lumber', 'unit', '18360'], ['plywood', '3*x1', 'unit', 'dollar', '50', '-', '-'], ['lumber', 'x1', 'unit', 'dollar', 'snooker lumber', '-', '-']]

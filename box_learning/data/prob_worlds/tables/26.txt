@@ -1,0 +1,10 @@
+1
+[['exercising', '250', 'minute', '-', '-', '-', '-'], ['aerobics', '3*x1', 'minute', '-', '-', '-', '-'], ['weight training', '2*x1', 'minute', '-', '-', '-', '-']]
+-1
+[['exercising', '250', 'minute', '-', '-', '-', '-'], ['aerobics', '3*x1', 'minute', '-', '-', '-', '-'], ['250', '2*x1', 'minute', '-', 'exercising', '-', '-']]
+-1
+[['exercising', 'weight training', 'minute', '2*x1', '-', '-', '-'], ['aerobics', '3*x1', 'minute', '-', '-', '-', '-'], ['weight training', '2*x1', 'exercising', '-', '-', '-', '-']]
+-1
+[['weight training', '250', 'minute', '-', '-', '-', '-'], ['aerobics', '3*x1', 'minute', '-', '-', '-', '-'], ['weight training', '250', 'minute', '-', '-', '-', '-']]
+-1
+[['2*x1', '250', 'minute', '-', '-', '-', '-'], ['aerobics', '3*x1', 'minute', '-', '-', '-', '-'], ['weight training', '2*x1', 'minute', '-', 'exercising', '-', '-']]

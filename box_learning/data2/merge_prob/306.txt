@@ -1,0 +1,756 @@
+['local bus tour', 'tour', 'bus tour', '65 ticket', 'senior citizen ticket', 'ticket', 'citizen ticket', '10 dollar and regular regular ticket', '15 dollar', 'regular ticket']
+['local bus tour']	['65 ticket']	0.0988755105172
+['local bus tour']	['senior citizen ticket']	0.130784829743
+['local bus tour']	['ticket']	0.063002049448
+['local bus tour']	['citizen ticket']	0.107353083391
+['local bus tour']	['10 dollar and regular regular ticket']	0.0989082420359
+['local bus tour']	['15 dollar']	0.0915001233665
+['local bus tour']	['regular ticket']	0.107353083391
+['tour']	['65 ticket']	0.0901100077042
+['tour']	['senior citizen ticket']	0.0994179567344
+['tour']	['ticket']	0.0843579964561
+['tour']	['citizen ticket']	0.0897823390711
+['tour']	['10 dollar and regular regular ticket']	0.0920786332799
+['tour']	['15 dollar']	0.0793857959237
+['tour']	['regular ticket']	0.0897823390711
+['bus tour']	['65 ticket']	0.0901100077042
+['bus tour']	['senior citizen ticket']	0.101465999609
+['bus tour']	['ticket']	0.0575843031668
+['bus tour']	['citizen ticket']	0.0824069519204
+['bus tour']	['10 dollar and regular regular ticket']	0.0906383040618
+['bus tour']	['15 dollar']	0.0901100077042
+['bus tour']	['regular ticket']	0.0897823390711
+['65 ticket']	['senior citizen ticket']	0.611719055141
+['65 ticket']	['citizen ticket']	0.644695369786
+['65 ticket']	['10 dollar and regular regular ticket']	0.309032243208
+['65 ticket']	['15 dollar']	0.0901100077042
+['65 ticket']	['regular ticket']	0.644695369786
+['senior citizen ticket']	['10 dollar and regular regular ticket']	0.217215791148
+['senior citizen ticket']	['15 dollar']	0.0641181843254
+['senior citizen ticket']	['regular ticket']	0.652581208085
+['ticket']	['15 dollar']	0.0759699769581
+['citizen ticket']	['10 dollar and regular regular ticket']	0.215729357988
+['citizen ticket']	['15 dollar']	0.0696933362217
+['citizen ticket']	['regular ticket']	0.681729299145
+['10 dollar and regular regular ticket']	['15 dollar']	0.357681422474
+['15 dollar']	['regular ticket']	0.0824069519204
+['tour', 'local bus tour']	['bus tour']	0.777144303994
+['tour', 'local bus tour']	['65 ticket']	0.139258682248
+['tour', 'local bus tour']	['senior citizen ticket']	0.312867631467
+['tour', 'local bus tour']	['ticket']	0.510338618797
+['tour', 'local bus tour']	['citizen ticket']	0.236891513875
+['tour', 'local bus tour']	['10 dollar and regular regular ticket']	0.289616112956
+['tour', 'local bus tour']	['15 dollar']	0.237223524492
+['tour', 'local bus tour']	['regular ticket']	0.236891513875
+['bus tour', 'local bus tour']	['tour']	0.84868139942
+['bus tour', 'local bus tour']	['65 ticket']	0.188690699416
+['bus tour', 'local bus tour']	['senior citizen ticket']	0.38590936002
+['bus tour', 'local bus tour']	['ticket']	0.29816674564
+['bus tour', 'local bus tour']	['citizen ticket']	0.294083757276
+['bus tour', 'local bus tour']	['10 dollar and regular regular ticket']	0.347223417655
+['bus tour', 'local bus tour']	['15 dollar']	0.195323352477
+['bus tour', 'local bus tour']	['regular ticket']	0.27470829853
+['65 ticket', 'local bus tour']	['tour']	0.820737519906
+['65 ticket', 'local bus tour']	['bus tour']	0.877170189131
+['65 ticket', 'local bus tour']	['senior citizen ticket']	0.696375563213
+['65 ticket', 'local bus tour']	['ticket']	0.649562745385
+['65 ticket', 'local bus tour']	['citizen ticket']	0.604711308717
+['65 ticket', 'local bus tour']	['10 dollar and regular regular ticket']	0.513018373525
+['65 ticket', 'local bus tour']	['15 dollar']	0.152238479479
+['65 ticket', 'local bus tour']	['regular ticket']	0.604711308717
+['senior citizen ticket', 'local bus tour']	['tour']	0.800495997256
+['senior citizen ticket', 'local bus tour']	['bus tour']	0.861794917139
+['senior citizen ticket', 'local bus tour']	['65 ticket']	0.622645222773
+['senior citizen ticket', 'local bus tour']	['ticket']	0.505156547071
+['senior citizen ticket', 'local bus tour']	['citizen ticket']	0.590758615277
+['senior citizen ticket', 'local bus tour']	['10 dollar and regular regular ticket']	0.440971981597
+['senior citizen ticket', 'local bus tour']	['15 dollar']	0.0641181843254
+['senior citizen ticket', 'local bus tour']	['regular ticket']	0.590758615277
+['ticket', 'local bus tour']	['tour']	0.833537626578
+['ticket', 'local bus tour']	['bus tour']	0.831204023279
+['ticket', 'local bus tour']	['65 ticket']	0.490236381009
+['ticket', 'local bus tour']	['senior citizen ticket']	0.61112707648
+['ticket', 'local bus tour']	['citizen ticket']	0.583447125203
+['ticket', 'local bus tour']	['10 dollar and regular regular ticket']	0.439147618035
+['ticket', 'local bus tour']	['15 dollar']	0.0588631083731
+['ticket', 'local bus tour']	['regular ticket']	0.583447125203
+['citizen ticket', 'local bus tour']	['tour']	0.81026737607
+['citizen ticket', 'local bus tour']	['bus tour']	0.879923820271
+['citizen ticket', 'local bus tour']	['65 ticket']	0.645330407958
+['citizen ticket', 'local bus tour']	['senior citizen ticket']	0.717388516008
+['citizen ticket', 'local bus tour']	['ticket']	0.558978095893
+['citizen ticket', 'local bus tour']	['10 dollar and regular regular ticket']	0.446990500116
+['citizen ticket', 'local bus tour']	['15 dollar']	0.124856540438
+['citizen ticket', 'local bus tour']	['regular ticket']	0.604470199202
+['10 dollar and regular regular ticket', 'local bus tour']	['tour']	0.795986327155
+['10 dollar and regular regular ticket', 'local bus tour']	['bus tour']	0.82053929809
+['10 dollar and regular regular ticket', 'local bus tour']	['65 ticket']	0.601830528082
+['10 dollar and regular regular ticket', 'local bus tour']	['senior citizen ticket']	0.64643123256
+['10 dollar and regular regular ticket', 'local bus tour']	['ticket']	0.572985324976
+['10 dollar and regular regular ticket', 'local bus tour']	['citizen ticket']	0.526574079283
+['10 dollar and regular regular ticket', 'local bus tour']	['15 dollar']	0.392238944158
+['10 dollar and regular regular ticket', 'local bus tour']	['regular ticket']	0.526574079283
+['15 dollar', 'local bus tour']	['tour']	0.828511653111
+['15 dollar', 'local bus tour']	['bus tour']	0.854287306248
+['15 dollar', 'local bus tour']	['65 ticket']	0.15961386663
+['15 dollar', 'local bus tour']	['senior citizen ticket']	0.163363928962
+['15 dollar', 'local bus tour']	['ticket']	0.0888266976853
+['15 dollar', 'local bus tour']	['citizen ticket']	0.169868824178
+['15 dollar', 'local bus tour']	['10 dollar and regular regular ticket']	0.480610129946
+['15 dollar', 'local bus tour']	['regular ticket']	0.168487730664
+['regular ticket', 'local bus tour']	['tour']	0.81026737607
+['regular ticket', 'local bus tour']	['bus tour']	0.879923820271
+['regular ticket', 'local bus tour']	['65 ticket']	0.645330407958
+['regular ticket', 'local bus tour']	['senior citizen ticket']	0.717388516008
+['regular ticket', 'local bus tour']	['ticket']	0.558978095893
+['regular ticket', 'local bus tour']	['citizen ticket']	0.604470199202
+['regular ticket', 'local bus tour']	['10 dollar and regular regular ticket']	0.473126038236
+['regular ticket', 'local bus tour']	['15 dollar']	0.124856540438
+['local bus tour', 'tour']	['bus tour']	0.777144303994
+['local bus tour', 'tour']	['65 ticket']	0.139258682248
+['local bus tour', 'tour']	['senior citizen ticket']	0.312867631467
+['local bus tour', 'tour']	['ticket']	0.510338618797
+['local bus tour', 'tour']	['citizen ticket']	0.236891513875
+['local bus tour', 'tour']	['10 dollar and regular regular ticket']	0.289616112956
+['local bus tour', 'tour']	['15 dollar']	0.237223524492
+['local bus tour', 'tour']	['regular ticket']	0.236891513875
+['bus tour', 'tour']	['local bus tour']	0.81300335462
+['bus tour', 'tour']	['65 ticket']	0.14831866988
+['bus tour', 'tour']	['senior citizen ticket']	0.286550816339
+['bus tour', 'tour']	['ticket']	0.507277394308
+['bus tour', 'tour']	['citizen ticket']	0.177243932733
+['bus tour', 'tour']	['10 dollar and regular regular ticket']	0.306016062595
+['bus tour', 'tour']	['15 dollar']	0.237223524492
+['bus tour', 'tour']	['regular ticket']	0.156056404162
+['65 ticket', 'tour']	['local bus tour']	0.675322341397
+['65 ticket', 'tour']	['bus tour']	0.805846585
+['65 ticket', 'tour']	['senior citizen ticket']	0.610963770673
+['65 ticket', 'tour']	['ticket']	0.639154047244
+['65 ticket', 'tour']	['citizen ticket']	0.555532434772
+['65 ticket', 'tour']	['10 dollar and regular regular ticket']	0.47557248481
+['65 ticket', 'tour']	['15 dollar']	0.0827346205535
+['65 ticket', 'tour']	['regular ticket']	0.555532434772
+['senior citizen ticket', 'tour']	['local bus tour']	0.731002892799
+['senior citizen ticket', 'tour']	['bus tour']	0.814226552756
+['senior citizen ticket', 'tour']	['65 ticket']	0.544221442934
+['senior citizen ticket', 'tour']	['ticket']	0.718377441942
+['senior citizen ticket', 'tour']	['citizen ticket']	0.517664319818
+['senior citizen ticket', 'tour']	['10 dollar and regular regular ticket']	0.438742501918
+['senior citizen ticket', 'tour']	['15 dollar']	0.0696933362217
+['senior citizen ticket', 'tour']	['regular ticket']	0.517664319818
+['ticket', 'tour']	['local bus tour']	0.660551979547
+['ticket', 'tour']	['bus tour']	0.674263099796
+['ticket', 'tour']	['65 ticket']	0.509086603153
+['ticket', 'tour']	['senior citizen ticket']	0.517873286655
+['ticket', 'tour']	['citizen ticket']	0.456860002045
+['ticket', 'tour']	['10 dollar and regular regular ticket']	0.425991709342
+['ticket', 'tour']	['15 dollar']	0.0637381046393
+['ticket', 'tour']	['regular ticket']	0.456860002045
+['citizen ticket', 'tour']	['local bus tour']	0.73702932103
+['citizen ticket', 'tour']	['bus tour']	0.816430915557
+['citizen ticket', 'tour']	['65 ticket']	0.522652815483
+['citizen ticket', 'tour']	['senior citizen ticket']	0.571260768781
+['citizen ticket', 'tour']	['ticket']	0.718377441942
+['citizen ticket', 'tour']	['10 dollar and regular regular ticket']	0.438742501918
+['citizen ticket', 'tour']	['15 dollar']	0.0696933362217
+['citizen ticket', 'tour']	['regular ticket']	0.517664319818
+['10 dollar and regular regular ticket', 'tour']	['local bus tour']	0.744056827042
+['10 dollar and regular regular ticket', 'tour']	['bus tour']	0.859345120598
+['10 dollar and regular regular ticket', 'tour']	['65 ticket']	0.630956863273
+['10 dollar and regular regular ticket', 'tour']	['senior citizen ticket']	0.713912653404
+['10 dollar and regular regular ticket', 'tour']	['ticket']	0.747299449366
+['10 dollar and regular regular ticket', 'tour']	['citizen ticket']	0.634093437928
+['10 dollar and regular regular ticket', 'tour']	['15 dollar']	0.445494492494
+['10 dollar and regular regular ticket', 'tour']	['regular ticket']	0.610537829218
+['15 dollar', 'tour']	['local bus tour']	0.675322341397
+['15 dollar', 'tour']	['bus tour']	0.823563219395
+['15 dollar', 'tour']	['65 ticket']	0.0901100077042
+['15 dollar', 'tour']	['senior citizen ticket']	0.0960947096969
+['15 dollar', 'tour']	['ticket']	0.684712441263
+['15 dollar', 'tour']	['citizen ticket']	0.0824069519204
+['15 dollar', 'tour']	['10 dollar and regular regular ticket']	0.315486681484
+['15 dollar', 'tour']	['regular ticket']	0.0824069519204
+['regular ticket', 'tour']	['local bus tour']	0.73702932103
+['regular ticket', 'tour']	['bus tour']	0.816430915557
+['regular ticket', 'tour']	['65 ticket']	0.522652815483
+['regular ticket', 'tour']	['senior citizen ticket']	0.571260768781
+['regular ticket', 'tour']	['ticket']	0.718377441942
+['regular ticket', 'tour']	['citizen ticket']	0.517664319818
+['regular ticket', 'tour']	['10 dollar and regular regular ticket']	0.386489202011
+['regular ticket', 'tour']	['15 dollar']	0.0696933362217
+['local bus tour', 'bus tour']	['tour']	0.84868139942
+['local bus tour', 'bus tour']	['65 ticket']	0.188690699416
+['local bus tour', 'bus tour']	['senior citizen ticket']	0.38590936002
+['local bus tour', 'bus tour']	['ticket']	0.29816674564
+['local bus tour', 'bus tour']	['citizen ticket']	0.294083757276
+['local bus tour', 'bus tour']	['10 dollar and regular regular ticket']	0.347223417655
+['local bus tour', 'bus tour']	['15 dollar']	0.195323352477
+['local bus tour', 'bus tour']	['regular ticket']	0.27470829853
+['tour', 'bus tour']	['local bus tour']	0.81300335462
+['tour', 'bus tour']	['65 ticket']	0.14831866988
+['tour', 'bus tour']	['senior citizen ticket']	0.286550816339
+['tour', 'bus tour']	['ticket']	0.507277394308
+['tour', 'bus tour']	['citizen ticket']	0.177243932733
+['tour', 'bus tour']	['10 dollar and regular regular ticket']	0.306016062595
+['tour', 'bus tour']	['15 dollar']	0.237223524492
+['tour', 'bus tour']	['regular ticket']	0.156056404162
+['65 ticket', 'bus tour']	['local bus tour']	0.795973471758
+['65 ticket', 'bus tour']	['tour']	0.828428362647
+['65 ticket', 'bus tour']	['senior citizen ticket']	0.632532398124
+['65 ticket', 'bus tour']	['ticket']	0.421420478144
+['65 ticket', 'bus tour']	['citizen ticket']	0.542633257095
+['65 ticket', 'bus tour']	['10 dollar and regular regular ticket']	0.47557248481
+['65 ticket', 'bus tour']	['15 dollar']	0.0901100077042
+['65 ticket', 'bus tour']	['regular ticket']	0.577101062223
+['senior citizen ticket', 'bus tour']	['local bus tour']	0.875189642289
+['senior citizen ticket', 'bus tour']	['tour']	0.893899537066
+['senior citizen ticket', 'bus tour']	['65 ticket']	0.645330407958
+['senior citizen ticket', 'bus tour']	['ticket']	0.558978095893
+['senior citizen ticket', 'bus tour']	['citizen ticket']	0.549179721102
+['senior citizen ticket', 'bus tour']	['10 dollar and regular regular ticket']	0.525379338144
+['senior citizen ticket', 'bus tour']	['15 dollar']	0.124856540438
+['senior citizen ticket', 'bus tour']	['regular ticket']	0.565846387769
+['ticket', 'bus tour']	['local bus tour']	0.715950586266
+['ticket', 'bus tour']	['tour']	0.753764557857
+['ticket', 'bus tour']	['65 ticket']	0.509086603153
+['ticket', 'bus tour']	['senior citizen ticket']	0.528099351229
+['ticket', 'bus tour']	['citizen ticket']	0.542154539893
+['ticket', 'bus tour']	['10 dollar and regular regular ticket']	0.436217773916
+['ticket', 'bus tour']	['15 dollar']	0.0563939725707
+['ticket', 'bus tour']	['regular ticket']	0.467086066619
+['citizen ticket', 'bus tour']	['local bus tour']	0.832330186442
+['citizen ticket', 'bus tour']	['tour']	0.832081786506
+['citizen ticket', 'bus tour']	['65 ticket']	0.544221442934
+['citizen ticket', 'bus tour']	['senior citizen ticket']	0.571260768781
+['citizen ticket', 'bus tour']	['ticket']	0.471970424398
+['citizen ticket', 'bus tour']	['10 dollar and regular regular ticket']	0.438742501918
+['citizen ticket', 'bus tour']	['15 dollar']	0.0696933362217
+['citizen ticket', 'bus tour']	['regular ticket']	0.517664319818
+['10 dollar and regular regular ticket', 'bus tour']	['local bus tour']	0.816619851008
+['10 dollar and regular regular ticket', 'bus tour']	['tour']	0.829984573341
+['10 dollar and regular regular ticket', 'bus tour']	['65 ticket']	0.601830528082
+['10 dollar and regular regular ticket', 'bus tour']	['senior citizen ticket']	0.670966654393
+['10 dollar and regular regular ticket', 'bus tour']	['ticket']	0.572985324976
+['10 dollar and regular regular ticket', 'bus tour']	['citizen ticket']	0.539398931426
+['10 dollar and regular regular ticket', 'bus tour']	['15 dollar']	0.362489840215
+['10 dollar and regular regular ticket', 'bus tour']	['regular ticket']	0.539398931426
+['15 dollar', 'bus tour']	['local bus tour']	0.773090588875
+['15 dollar', 'bus tour']	['tour']	0.883313004784
+['15 dollar', 'bus tour']	['65 ticket']	0.0901100077042
+['15 dollar', 'bus tour']	['senior citizen ticket']	0.0981427525718
+['15 dollar', 'bus tour']	['ticket']	0.0595801389141
+['15 dollar', 'bus tour']	['citizen ticket']	0.0824069519204
+['15 dollar', 'bus tour']	['10 dollar and regular regular ticket']	0.296723821402
+['15 dollar', 'bus tour']	['regular ticket']	0.0824069519204
+['regular ticket', 'bus tour']	['local bus tour']	0.832330186442
+['regular ticket', 'bus tour']	['tour']	0.832081786506
+['regular ticket', 'bus tour']	['65 ticket']	0.544221442934
+['regular ticket', 'bus tour']	['senior citizen ticket']	0.571260768781
+['regular ticket', 'bus tour']	['ticket']	0.471970424398
+['regular ticket', 'bus tour']	['citizen ticket']	0.500997653152
+['regular ticket', 'bus tour']	['10 dollar and regular regular ticket']	0.386489202011
+['regular ticket', 'bus tour']	['15 dollar']	0.0696933362217
+['local bus tour', '65 ticket']	['tour']	0.820737519906
+['local bus tour', '65 ticket']	['bus tour']	0.877170189131
+['local bus tour', '65 ticket']	['senior citizen ticket']	0.696375563213
+['local bus tour', '65 ticket']	['ticket']	0.649562745385
+['local bus tour', '65 ticket']	['citizen ticket']	0.604711308717
+['local bus tour', '65 ticket']	['10 dollar and regular regular ticket']	0.513018373525
+['local bus tour', '65 ticket']	['15 dollar']	0.152238479479
+['local bus tour', '65 ticket']	['regular ticket']	0.604711308717
+['tour', '65 ticket']	['local bus tour']	0.675322341397
+['tour', '65 ticket']	['bus tour']	0.805846585
+['tour', '65 ticket']	['senior citizen ticket']	0.610963770673
+['tour', '65 ticket']	['ticket']	0.639154047244
+['tour', '65 ticket']	['citizen ticket']	0.555532434772
+['tour', '65 ticket']	['10 dollar and regular regular ticket']	0.47557248481
+['tour', '65 ticket']	['15 dollar']	0.0827346205535
+['tour', '65 ticket']	['regular ticket']	0.555532434772
+['bus tour', '65 ticket']	['local bus tour']	0.795973471758
+['bus tour', '65 ticket']	['tour']	0.828428362647
+['bus tour', '65 ticket']	['senior citizen ticket']	0.632532398124
+['bus tour', '65 ticket']	['ticket']	0.421420478144
+['bus tour', '65 ticket']	['citizen ticket']	0.542633257095
+['bus tour', '65 ticket']	['10 dollar and regular regular ticket']	0.47557248481
+['bus tour', '65 ticket']	['15 dollar']	0.0901100077042
+['bus tour', '65 ticket']	['regular ticket']	0.577101062223
+['senior citizen ticket', '65 ticket']	['local bus tour']	0.435213916091
+['senior citizen ticket', '65 ticket']	['tour']	0.354757143002
+['senior citizen ticket', '65 ticket']	['bus tour']	0.187498204907
+['senior citizen ticket', '65 ticket']	['ticket']	0.782772511137
+['senior citizen ticket', '65 ticket']	['citizen ticket']	0.775901224413
+['senior citizen ticket', '65 ticket']	['10 dollar and regular regular ticket']	0.474467943045
+['senior citizen ticket', '65 ticket']	['15 dollar']	0.179801612139
+['senior citizen ticket', '65 ticket']	['regular ticket']	0.775901224413
+['ticket', '65 ticket']	['local bus tour']	0.251227153026
+['ticket', '65 ticket']	['tour']	0.514672545288
+['ticket', '65 ticket']	['bus tour']	0.114915343922
+['ticket', '65 ticket']	['senior citizen ticket']	0.656178121387
+['ticket', '65 ticket']	['citizen ticket']	0.606867499627
+['ticket', '65 ticket']	['10 dollar and regular regular ticket']	0.604706536911
+['ticket', '65 ticket']	['15 dollar']	0.157502141539
+['ticket', '65 ticket']	['regular ticket']	0.606867499627
+['citizen ticket', '65 ticket']	['local bus tour']	0.376346711271
+['citizen ticket', '65 ticket']	['tour']	0.311787219466
+['citizen ticket', '65 ticket']	['bus tour']	0.144528281371
+['citizen ticket', '65 ticket']	['senior citizen ticket']	0.751822593779
+['citizen ticket', '65 ticket']	['ticket']	0.719561670967
+['citizen ticket', '65 ticket']	['10 dollar and regular regular ticket']	0.362055803882
+['citizen ticket', '65 ticket']	['15 dollar']	0.136831688603
+['citizen ticket', '65 ticket']	['regular ticket']	0.768791503865
+['10 dollar and regular regular ticket', '65 ticket']	['local bus tour']	0.298596405953
+['10 dollar and regular regular ticket', '65 ticket']	['tour']	0.314084527938
+['10 dollar and regular regular ticket', '65 ticket']	['bus tour']	0.134584996364
+['10 dollar and regular regular ticket', '65 ticket']	['senior citizen ticket']	0.666292158959
+['10 dollar and regular regular ticket', '65 ticket']	['ticket']	0.767051053671
+['10 dollar and regular regular ticket', '65 ticket']	['citizen ticket']	0.65563239517
+['10 dollar and regular regular ticket', '65 ticket']	['15 dollar']	0.621877755731
+['10 dollar and regular regular ticket', '65 ticket']	['regular ticket']	0.69590999414
+['15 dollar', '65 ticket']	['local bus tour']	0.0908034291173
+['15 dollar', '65 ticket']	['tour']	0.0777864840342
+['15 dollar', '65 ticket']	['bus tour']	0.0827346205535
+['15 dollar', '65 ticket']	['senior citizen ticket']	0.64316676561
+['15 dollar', '65 ticket']	['ticket']	0.527855161793
+['15 dollar', '65 ticket']	['citizen ticket']	0.566188865804
+['15 dollar', '65 ticket']	['10 dollar and regular regular ticket']	0.585547307433
+['15 dollar', '65 ticket']	['regular ticket']	0.542633257095
+['regular ticket', '65 ticket']	['local bus tour']	0.376346711271
+['regular ticket', '65 ticket']	['tour']	0.311787219466
+['regular ticket', '65 ticket']	['bus tour']	0.144528281371
+['regular ticket', '65 ticket']	['senior citizen ticket']	0.751822593779
+['regular ticket', '65 ticket']	['ticket']	0.719561670967
+['regular ticket', '65 ticket']	['citizen ticket']	0.768791503865
+['regular ticket', '65 ticket']	['10 dollar and regular regular ticket']	0.424833402852
+['regular ticket', '65 ticket']	['15 dollar']	0.144528281371
+['local bus tour', 'senior citizen ticket']	['tour']	0.800495997256
+['local bus tour', 'senior citizen ticket']	['bus tour']	0.861794917139
+['local bus tour', 'senior citizen ticket']	['65 ticket']	0.622645222773
+['local bus tour', 'senior citizen ticket']	['ticket']	0.505156547071
+['local bus tour', 'senior citizen ticket']	['citizen ticket']	0.590758615277
+['local bus tour', 'senior citizen ticket']	['10 dollar and regular regular ticket']	0.440971981597
+['local bus tour', 'senior citizen ticket']	['15 dollar']	0.0641181843254
+['local bus tour', 'senior citizen ticket']	['regular ticket']	0.590758615277
+['tour', 'senior citizen ticket']	['local bus tour']	0.731002892799
+['tour', 'senior citizen ticket']	['bus tour']	0.814226552756
+['tour', 'senior citizen ticket']	['65 ticket']	0.544221442934
+['tour', 'senior citizen ticket']	['ticket']	0.718377441942
+['tour', 'senior citizen ticket']	['citizen ticket']	0.517664319818
+['tour', 'senior citizen ticket']	['10 dollar and regular regular ticket']	0.438742501918
+['tour', 'senior citizen ticket']	['15 dollar']	0.0696933362217
+['tour', 'senior citizen ticket']	['regular ticket']	0.517664319818
+['bus tour', 'senior citizen ticket']	['local bus tour']	0.875189642289
+['bus tour', 'senior citizen ticket']	['tour']	0.893899537066
+['bus tour', 'senior citizen ticket']	['65 ticket']	0.645330407958
+['bus tour', 'senior citizen ticket']	['ticket']	0.558978095893
+['bus tour', 'senior citizen ticket']	['citizen ticket']	0.549179721102
+['bus tour', 'senior citizen ticket']	['10 dollar and regular regular ticket']	0.525379338144
+['bus tour', 'senior citizen ticket']	['15 dollar']	0.124856540438
+['bus tour', 'senior citizen ticket']	['regular ticket']	0.565846387769
+['65 ticket', 'senior citizen ticket']	['local bus tour']	0.435213916091
+['65 ticket', 'senior citizen ticket']	['tour']	0.354757143002
+['65 ticket', 'senior citizen ticket']	['bus tour']	0.187498204907
+['65 ticket', 'senior citizen ticket']	['ticket']	0.782772511137
+['65 ticket', 'senior citizen ticket']	['citizen ticket']	0.775901224413
+['65 ticket', 'senior citizen ticket']	['10 dollar and regular regular ticket']	0.474467943045
+['65 ticket', 'senior citizen ticket']	['15 dollar']	0.179801612139
+['65 ticket', 'senior citizen ticket']	['regular ticket']	0.775901224413
+['ticket', 'senior citizen ticket']	['local bus tour']	0.304900270751
+['ticket', 'senior citizen ticket']	['tour']	0.553523120001
+['ticket', 'senior citizen ticket']	['bus tour']	0.190181920436
+['ticket', 'senior citizen ticket']	['65 ticket']	0.727271297294
+['ticket', 'senior citizen ticket']	['citizen ticket']	0.643416246597
+['ticket', 'senior citizen ticket']	['10 dollar and regular regular ticket']	0.604944073339
+['ticket', 'senior citizen ticket']	['15 dollar']	0.215378247734
+['ticket', 'senior citizen ticket']	['regular ticket']	0.643416246597
+['citizen ticket', 'senior citizen ticket']	['local bus tour']	0.454630488206
+['citizen ticket', 'senior citizen ticket']	['tour']	0.379299915863
+['citizen ticket', 'senior citizen ticket']	['bus tour']	0.212040977768
+['citizen ticket', 'senior citizen ticket']	['65 ticket']	0.751926651862
+['citizen ticket', 'senior citizen ticket']	['ticket']	0.717701964042
+['citizen ticket', 'senior citizen ticket']	['10 dollar and regular regular ticket']	0.526348284925
+['citizen ticket', 'senior citizen ticket']	['15 dollar']	0.212040977768
+['citizen ticket', 'senior citizen ticket']	['regular ticket']	0.870640580702
+['10 dollar and regular regular ticket', 'senior citizen ticket']	['local bus tour']	0.381031348834
+['10 dollar and regular regular ticket', 'senior citizen ticket']	['tour']	0.294018786889
+['10 dollar and regular regular ticket', 'senior citizen ticket']	['bus tour']	0.126759848794
+['10 dollar and regular regular ticket', 'senior citizen ticket']	['65 ticket']	0.708678826986
+['10 dollar and regular regular ticket', 'senior citizen ticket']	['ticket']	0.665588726402
+['10 dollar and regular regular ticket', 'senior citizen ticket']	['citizen ticket']	0.759856639913
+['10 dollar and regular regular ticket', 'senior citizen ticket']	['15 dollar']	0.630746984003
+['10 dollar and regular regular ticket', 'senior citizen ticket']	['regular ticket']	0.759856639913
+['15 dollar', 'senior citizen ticket']	['local bus tour']	0.143061815761
+['15 dollar', 'senior citizen ticket']	['tour']	0.121926922437
+['15 dollar', 'senior citizen ticket']	['bus tour']	0.124856540438
+['15 dollar', 'senior citizen ticket']	['65 ticket']	0.645330407958
+['15 dollar', 'senior citizen ticket']	['ticket']	0.705157319022
+['15 dollar', 'senior citizen ticket']	['citizen ticket']	0.549179721102
+['15 dollar', 'senior citizen ticket']	['10 dollar and regular regular ticket']	0.685590807501
+['15 dollar', 'senior citizen ticket']	['regular ticket']	0.549179721102
+['regular ticket', 'senior citizen ticket']	['local bus tour']	0.454630488206
+['regular ticket', 'senior citizen ticket']	['tour']	0.379299915863
+['regular ticket', 'senior citizen ticket']	['bus tour']	0.212040977768
+['regular ticket', 'senior citizen ticket']	['65 ticket']	0.751926651862
+['regular ticket', 'senior citizen ticket']	['ticket']	0.717701964042
+['regular ticket', 'senior citizen ticket']	['citizen ticket']	0.870640580702
+['regular ticket', 'senior citizen ticket']	['10 dollar and regular regular ticket']	0.526348284925
+['regular ticket', 'senior citizen ticket']	['15 dollar']	0.212040977768
+['local bus tour', 'ticket']	['tour']	0.833537626578
+['local bus tour', 'ticket']	['bus tour']	0.831204023279
+['local bus tour', 'ticket']	['65 ticket']	0.490236381009
+['local bus tour', 'ticket']	['senior citizen ticket']	0.61112707648
+['local bus tour', 'ticket']	['citizen ticket']	0.583447125203
+['local bus tour', 'ticket']	['10 dollar and regular regular ticket']	0.439147618035
+['local bus tour', 'ticket']	['15 dollar']	0.0588631083731
+['local bus tour', 'ticket']	['regular ticket']	0.583447125203
+['tour', 'ticket']	['local bus tour']	0.660551979547
+['tour', 'ticket']	['bus tour']	0.674263099796
+['tour', 'ticket']	['65 ticket']	0.509086603153
+['tour', 'ticket']	['senior citizen ticket']	0.517873286655
+['tour', 'ticket']	['citizen ticket']	0.456860002045
+['tour', 'ticket']	['10 dollar and regular regular ticket']	0.425991709342
+['tour', 'ticket']	['15 dollar']	0.0637381046393
+['tour', 'ticket']	['regular ticket']	0.456860002045
+['bus tour', 'ticket']	['local bus tour']	0.715950586266
+['bus tour', 'ticket']	['tour']	0.753764557857
+['bus tour', 'ticket']	['65 ticket']	0.509086603153
+['bus tour', 'ticket']	['senior citizen ticket']	0.528099351229
+['bus tour', 'ticket']	['citizen ticket']	0.542154539893
+['bus tour', 'ticket']	['10 dollar and regular regular ticket']	0.436217773916
+['bus tour', 'ticket']	['15 dollar']	0.0563939725707
+['bus tour', 'ticket']	['regular ticket']	0.467086066619
+['65 ticket', 'ticket']	['local bus tour']	0.251227153026
+['65 ticket', 'ticket']	['tour']	0.514672545288
+['65 ticket', 'ticket']	['bus tour']	0.114915343922
+['65 ticket', 'ticket']	['senior citizen ticket']	0.656178121387
+['65 ticket', 'ticket']	['citizen ticket']	0.606867499627
+['65 ticket', 'ticket']	['10 dollar and regular regular ticket']	0.604706536911
+['65 ticket', 'ticket']	['15 dollar']	0.157502141539
+['65 ticket', 'ticket']	['regular ticket']	0.606867499627
+['senior citizen ticket', 'ticket']	['local bus tour']	0.304900270751
+['senior citizen ticket', 'ticket']	['tour']	0.553523120001
+['senior citizen ticket', 'ticket']	['bus tour']	0.190181920436
+['senior citizen ticket', 'ticket']	['65 ticket']	0.727271297294
+['senior citizen ticket', 'ticket']	['citizen ticket']	0.643416246597
+['senior citizen ticket', 'ticket']	['10 dollar and regular regular ticket']	0.604944073339
+['senior citizen ticket', 'ticket']	['15 dollar']	0.215378247734
+['senior citizen ticket', 'ticket']	['regular ticket']	0.643416246597
+['citizen ticket', 'ticket']	['local bus tour']	0.315684584477
+['citizen ticket', 'ticket']	['tour']	0.553523120001
+['citizen ticket', 'ticket']	['bus tour']	0.190181920436
+['citizen ticket', 'ticket']	['65 ticket']	0.739278495958
+['citizen ticket', 'ticket']	['senior citizen ticket']	0.709585856364
+['citizen ticket', 'ticket']	['10 dollar and regular regular ticket']	0.629379360274
+['citizen ticket', 'ticket']	['15 dollar']	0.215378247734
+['citizen ticket', 'ticket']	['regular ticket']	0.678308021489
+['10 dollar and regular regular ticket', 'ticket']	['local bus tour']	0.28414164065
+['10 dollar and regular regular ticket', 'ticket']	['tour']	0.534760015331
+['10 dollar and regular regular ticket', 'ticket']	['bus tour']	0.114951554025
+['10 dollar and regular regular ticket', 'ticket']	['65 ticket']	0.705805020753
+['10 dollar and regular regular ticket', 'ticket']	['senior citizen ticket']	0.664731917396
+['10 dollar and regular regular ticket', 'ticket']	['citizen ticket']	0.602690103868
+['10 dollar and regular regular ticket', 'ticket']	['15 dollar']	0.68268228819
+['10 dollar and regular regular ticket', 'ticket']	['regular ticket']	0.614193915372
+['15 dollar', 'ticket']	['local bus tour']	0.0518391118061
+['15 dollar', 'ticket']	['tour']	0.559869112314
+['15 dollar', 'ticket']	['bus tour']	0.0465787639079
+['15 dollar', 'ticket']	['65 ticket']	0.509086603153
+['15 dollar', 'ticket']	['senior citizen ticket']	0.564042015862
+['15 dollar', 'ticket']	['citizen ticket']	0.503028731252
+['15 dollar', 'ticket']	['10 dollar and regular regular ticket']	0.512664178079
+['15 dollar', 'ticket']	['regular ticket']	0.542154539893
+['regular ticket', 'ticket']	['local bus tour']	0.315684584477
+['regular ticket', 'ticket']	['tour']	0.553523120001
+['regular ticket', 'ticket']	['bus tour']	0.190181920436
+['regular ticket', 'ticket']	['65 ticket']	0.739278495958
+['regular ticket', 'ticket']	['senior citizen ticket']	0.709585856364
+['regular ticket', 'ticket']	['citizen ticket']	0.678308021489
+['regular ticket', 'ticket']	['10 dollar and regular regular ticket']	0.633179563419
+['regular ticket', 'ticket']	['15 dollar']	0.201343160015
+['local bus tour', 'citizen ticket']	['tour']	0.81026737607
+['local bus tour', 'citizen ticket']	['bus tour']	0.879923820271
+['local bus tour', 'citizen ticket']	['65 ticket']	0.645330407958
+['local bus tour', 'citizen ticket']	['senior citizen ticket']	0.717388516008
+['local bus tour', 'citizen ticket']	['ticket']	0.558978095893
+['local bus tour', 'citizen ticket']	['10 dollar and regular regular ticket']	0.446990500116
+['local bus tour', 'citizen ticket']	['15 dollar']	0.124856540438
+['local bus tour', 'citizen ticket']	['regular ticket']	0.604470199202
+['tour', 'citizen ticket']	['local bus tour']	0.73702932103
+['tour', 'citizen ticket']	['bus tour']	0.816430915557
+['tour', 'citizen ticket']	['65 ticket']	0.522652815483
+['tour', 'citizen ticket']	['senior citizen ticket']	0.571260768781
+['tour', 'citizen ticket']	['ticket']	0.718377441942
+['tour', 'citizen ticket']	['10 dollar and regular regular ticket']	0.438742501918
+['tour', 'citizen ticket']	['15 dollar']	0.0696933362217
+['tour', 'citizen ticket']	['regular ticket']	0.517664319818
+['bus tour', 'citizen ticket']	['local bus tour']	0.832330186442
+['bus tour', 'citizen ticket']	['tour']	0.832081786506
+['bus tour', 'citizen ticket']	['65 ticket']	0.544221442934
+['bus tour', 'citizen ticket']	['senior citizen ticket']	0.571260768781
+['bus tour', 'citizen ticket']	['ticket']	0.471970424398
+['bus tour', 'citizen ticket']	['10 dollar and regular regular ticket']	0.438742501918
+['bus tour', 'citizen ticket']	['15 dollar']	0.0696933362217
+['bus tour', 'citizen ticket']	['regular ticket']	0.517664319818
+['65 ticket', 'citizen ticket']	['local bus tour']	0.376346711271
+['65 ticket', 'citizen ticket']	['tour']	0.311787219466
+['65 ticket', 'citizen ticket']	['bus tour']	0.144528281371
+['65 ticket', 'citizen ticket']	['senior citizen ticket']	0.751822593779
+['65 ticket', 'citizen ticket']	['ticket']	0.719561670967
+['65 ticket', 'citizen ticket']	['10 dollar and regular regular ticket']	0.362055803882
+['65 ticket', 'citizen ticket']	['15 dollar']	0.136831688603
+['65 ticket', 'citizen ticket']	['regular ticket']	0.768791503865
+['senior citizen ticket', 'citizen ticket']	['local bus tour']	0.454630488206
+['senior citizen ticket', 'citizen ticket']	['tour']	0.379299915863
+['senior citizen ticket', 'citizen ticket']	['bus tour']	0.212040977768
+['senior citizen ticket', 'citizen ticket']	['65 ticket']	0.751926651862
+['senior citizen ticket', 'citizen ticket']	['ticket']	0.717701964042
+['senior citizen ticket', 'citizen ticket']	['10 dollar and regular regular ticket']	0.526348284925
+['senior citizen ticket', 'citizen ticket']	['15 dollar']	0.212040977768
+['senior citizen ticket', 'citizen ticket']	['regular ticket']	0.870640580702
+['ticket', 'citizen ticket']	['local bus tour']	0.315684584477
+['ticket', 'citizen ticket']	['tour']	0.553523120001
+['ticket', 'citizen ticket']	['bus tour']	0.190181920436
+['ticket', 'citizen ticket']	['65 ticket']	0.739278495958
+['ticket', 'citizen ticket']	['senior citizen ticket']	0.709585856364
+['ticket', 'citizen ticket']	['10 dollar and regular regular ticket']	0.629379360274
+['ticket', 'citizen ticket']	['15 dollar']	0.215378247734
+['ticket', 'citizen ticket']	['regular ticket']	0.678308021489
+['10 dollar and regular regular ticket', 'citizen ticket']	['local bus tour']	0.381031348834
+['10 dollar and regular regular ticket', 'citizen ticket']	['tour']	0.294018786889
+['10 dollar and regular regular ticket', 'citizen ticket']	['bus tour']	0.126759848794
+['10 dollar and regular regular ticket', 'citizen ticket']	['65 ticket']	0.708678826986
+['10 dollar and regular regular ticket', 'citizen ticket']	['senior citizen ticket']	0.76685778909
+['10 dollar and regular regular ticket', 'citizen ticket']	['ticket']	0.665588726402
+['10 dollar and regular regular ticket', 'citizen ticket']	['15 dollar']	0.630746984003
+['10 dollar and regular regular ticket', 'citizen ticket']	['regular ticket']	0.759856639913
+['15 dollar', 'citizen ticket']	['local bus tour']	0.0885621548936
+['15 dollar', 'citizen ticket']	['tour']	0.0667637182209
+['15 dollar', 'citizen ticket']	['bus tour']	0.0696933362217
+['15 dollar', 'citizen ticket']	['65 ticket']	0.544221442934
+['15 dollar', 'citizen ticket']	['senior citizen ticket']	0.571260768781
+['15 dollar', 'citizen ticket']	['ticket']	0.631268966744
+['15 dollar', 'citizen ticket']	['10 dollar and regular regular ticket']	0.556411047339
+['15 dollar', 'citizen ticket']	['regular ticket']	0.500997653152
+['regular ticket', 'citizen ticket']	['local bus tour']	0.416426051417
+['regular ticket', 'citizen ticket']	['tour']	0.362565392148
+['regular ticket', 'citizen ticket']	['bus tour']	0.195306454053
+['regular ticket', 'citizen ticket']	['65 ticket']	0.633981735469
+['regular ticket', 'citizen ticket']	['senior citizen ticket']	0.833786644538
+['regular ticket', 'citizen ticket']	['ticket']	0.633801127722
+['regular ticket', 'citizen ticket']	['10 dollar and regular regular ticket']	0.473128064954
+['regular ticket', 'citizen ticket']	['15 dollar']	0.195306454053
+['local bus tour', '10 dollar and regular regular ticket']	['tour']	0.795986327155
+['local bus tour', '10 dollar and regular regular ticket']	['bus tour']	0.82053929809
+['local bus tour', '10 dollar and regular regular ticket']	['65 ticket']	0.601830528082
+['local bus tour', '10 dollar and regular regular ticket']	['senior citizen ticket']	0.64643123256
+['local bus tour', '10 dollar and regular regular ticket']	['ticket']	0.572985324976
+['local bus tour', '10 dollar and regular regular ticket']	['citizen ticket']	0.526574079283
+['local bus tour', '10 dollar and regular regular ticket']	['15 dollar']	0.392238944158
+['local bus tour', '10 dollar and regular regular ticket']	['regular ticket']	0.526574079283
+['tour', '10 dollar and regular regular ticket']	['local bus tour']	0.744056827042
+['tour', '10 dollar and regular regular ticket']	['bus tour']	0.859345120598
+['tour', '10 dollar and regular regular ticket']	['65 ticket']	0.630956863273
+['tour', '10 dollar and regular regular ticket']	['senior citizen ticket']	0.713912653404
+['tour', '10 dollar and regular regular ticket']	['ticket']	0.747299449366
+['tour', '10 dollar and regular regular ticket']	['citizen ticket']	0.634093437928
+['tour', '10 dollar and regular regular ticket']	['15 dollar']	0.445494492494
+['tour', '10 dollar and regular regular ticket']	['regular ticket']	0.610537829218
+['bus tour', '10 dollar and regular regular ticket']	['local bus tour']	0.816619851008
+['bus tour', '10 dollar and regular regular ticket']	['tour']	0.829984573341
+['bus tour', '10 dollar and regular regular ticket']	['65 ticket']	0.601830528082
+['bus tour', '10 dollar and regular regular ticket']	['senior citizen ticket']	0.670966654393
+['bus tour', '10 dollar and regular regular ticket']	['ticket']	0.572985324976
+['bus tour', '10 dollar and regular regular ticket']	['citizen ticket']	0.539398931426
+['bus tour', '10 dollar and regular regular ticket']	['15 dollar']	0.362489840215
+['bus tour', '10 dollar and regular regular ticket']	['regular ticket']	0.539398931426
+['65 ticket', '10 dollar and regular regular ticket']	['local bus tour']	0.298596405953
+['65 ticket', '10 dollar and regular regular ticket']	['tour']	0.314084527938
+['65 ticket', '10 dollar and regular regular ticket']	['bus tour']	0.134584996364
+['65 ticket', '10 dollar and regular regular ticket']	['senior citizen ticket']	0.666292158959
+['65 ticket', '10 dollar and regular regular ticket']	['ticket']	0.767051053671
+['65 ticket', '10 dollar and regular regular ticket']	['citizen ticket']	0.65563239517
+['65 ticket', '10 dollar and regular regular ticket']	['15 dollar']	0.621877755731
+['65 ticket', '10 dollar and regular regular ticket']	['regular ticket']	0.69590999414
+['senior citizen ticket', '10 dollar and regular regular ticket']	['local bus tour']	0.381031348834
+['senior citizen ticket', '10 dollar and regular regular ticket']	['tour']	0.294018786889
+['senior citizen ticket', '10 dollar and regular regular ticket']	['bus tour']	0.126759848794
+['senior citizen ticket', '10 dollar and regular regular ticket']	['65 ticket']	0.708678826986
+['senior citizen ticket', '10 dollar and regular regular ticket']	['ticket']	0.665588726402
+['senior citizen ticket', '10 dollar and regular regular ticket']	['citizen ticket']	0.759856639913
+['senior citizen ticket', '10 dollar and regular regular ticket']	['15 dollar']	0.630746984003
+['senior citizen ticket', '10 dollar and regular regular ticket']	['regular ticket']	0.759856639913
+['ticket', '10 dollar and regular regular ticket']	['local bus tour']	0.28414164065
+['ticket', '10 dollar and regular regular ticket']	['tour']	0.534760015331
+['ticket', '10 dollar and regular regular ticket']	['bus tour']	0.114951554025
+['ticket', '10 dollar and regular regular ticket']	['65 ticket']	0.705805020753
+['ticket', '10 dollar and regular regular ticket']	['senior citizen ticket']	0.664731917396
+['ticket', '10 dollar and regular regular ticket']	['citizen ticket']	0.602690103868
+['ticket', '10 dollar and regular regular ticket']	['15 dollar']	0.68268228819
+['ticket', '10 dollar and regular regular ticket']	['regular ticket']	0.614193915372
+['citizen ticket', '10 dollar and regular regular ticket']	['local bus tour']	0.381031348834
+['citizen ticket', '10 dollar and regular regular ticket']	['tour']	0.294018786889
+['citizen ticket', '10 dollar and regular regular ticket']	['bus tour']	0.126759848794
+['citizen ticket', '10 dollar and regular regular ticket']	['65 ticket']	0.708678826986
+['citizen ticket', '10 dollar and regular regular ticket']	['senior citizen ticket']	0.76685778909
+['citizen ticket', '10 dollar and regular regular ticket']	['ticket']	0.665588726402
+['citizen ticket', '10 dollar and regular regular ticket']	['15 dollar']	0.630746984003
+['citizen ticket', '10 dollar and regular regular ticket']	['regular ticket']	0.759856639913
+['15 dollar', '10 dollar and regular regular ticket']	['local bus tour']	0.102396614129
+['15 dollar', '10 dollar and regular regular ticket']	['tour']	0.0865519868472
+['15 dollar', '10 dollar and regular regular ticket']	['bus tour']	0.0915001233665
+['15 dollar', '10 dollar and regular regular ticket']	['65 ticket']	0.601830528082
+['15 dollar', '10 dollar and regular regular ticket']	['senior citizen ticket']	0.600347239924
+['15 dollar', '10 dollar and regular regular ticket']	['ticket']	0.625551641749
+['15 dollar', '10 dollar and regular regular ticket']	['citizen ticket']	0.488168459
+['15 dollar', '10 dollar and regular regular ticket']	['regular ticket']	0.522257502141
+['regular ticket', '10 dollar and regular regular ticket']	['local bus tour']	0.381031348834
+['regular ticket', '10 dollar and regular regular ticket']	['tour']	0.294018786889
+['regular ticket', '10 dollar and regular regular ticket']	['bus tour']	0.126759848794
+['regular ticket', '10 dollar and regular regular ticket']	['65 ticket']	0.708678826986
+['regular ticket', '10 dollar and regular regular ticket']	['senior citizen ticket']	0.76685778909
+['regular ticket', '10 dollar and regular regular ticket']	['ticket']	0.665588726402
+['regular ticket', '10 dollar and regular regular ticket']	['citizen ticket']	0.759856639913
+['regular ticket', '10 dollar and regular regular ticket']	['15 dollar']	0.645112706
+['local bus tour', '15 dollar']	['tour']	0.828511653111
+['local bus tour', '15 dollar']	['bus tour']	0.854287306248
+['local bus tour', '15 dollar']	['65 ticket']	0.15961386663
+['local bus tour', '15 dollar']	['senior citizen ticket']	0.163363928962
+['local bus tour', '15 dollar']	['ticket']	0.0888266976853
+['local bus tour', '15 dollar']	['citizen ticket']	0.169868824178
+['local bus tour', '15 dollar']	['10 dollar and regular regular ticket']	0.480610129946
+['local bus tour', '15 dollar']	['regular ticket']	0.168487730664
+['tour', '15 dollar']	['local bus tour']	0.675322341397
+['tour', '15 dollar']	['bus tour']	0.823563219395
+['tour', '15 dollar']	['65 ticket']	0.0901100077042
+['tour', '15 dollar']	['senior citizen ticket']	0.0960947096969
+['tour', '15 dollar']	['ticket']	0.684712441263
+['tour', '15 dollar']	['citizen ticket']	0.0824069519204
+['tour', '15 dollar']	['10 dollar and regular regular ticket']	0.315486681484
+['tour', '15 dollar']	['regular ticket']	0.0824069519204
+['bus tour', '15 dollar']	['local bus tour']	0.773090588875
+['bus tour', '15 dollar']	['tour']	0.883313004784
+['bus tour', '15 dollar']	['65 ticket']	0.0901100077042
+['bus tour', '15 dollar']	['senior citizen ticket']	0.0981427525718
+['bus tour', '15 dollar']	['ticket']	0.0595801389141
+['bus tour', '15 dollar']	['citizen ticket']	0.0824069519204
+['bus tour', '15 dollar']	['10 dollar and regular regular ticket']	0.296723821402
+['bus tour', '15 dollar']	['regular ticket']	0.0824069519204
+['65 ticket', '15 dollar']	['local bus tour']	0.0908034291173
+['65 ticket', '15 dollar']	['tour']	0.0777864840342
+['65 ticket', '15 dollar']	['bus tour']	0.0827346205535
+['65 ticket', '15 dollar']	['senior citizen ticket']	0.64316676561
+['65 ticket', '15 dollar']	['ticket']	0.527855161793
+['65 ticket', '15 dollar']	['citizen ticket']	0.566188865804
+['65 ticket', '15 dollar']	['10 dollar and regular regular ticket']	0.585547307433
+['65 ticket', '15 dollar']	['regular ticket']	0.542633257095
+['senior citizen ticket', '15 dollar']	['local bus tour']	0.143061815761
+['senior citizen ticket', '15 dollar']	['tour']	0.121926922437
+['senior citizen ticket', '15 dollar']	['bus tour']	0.124856540438
+['senior citizen ticket', '15 dollar']	['65 ticket']	0.645330407958
+['senior citizen ticket', '15 dollar']	['ticket']	0.705157319022
+['senior citizen ticket', '15 dollar']	['citizen ticket']	0.549179721102
+['senior citizen ticket', '15 dollar']	['10 dollar and regular regular ticket']	0.685590807501
+['senior citizen ticket', '15 dollar']	['regular ticket']	0.549179721102
+['ticket', '15 dollar']	['local bus tour']	0.0518391118061
+['ticket', '15 dollar']	['tour']	0.559869112314
+['ticket', '15 dollar']	['bus tour']	0.0465787639079
+['ticket', '15 dollar']	['65 ticket']	0.509086603153
+['ticket', '15 dollar']	['senior citizen ticket']	0.564042015862
+['ticket', '15 dollar']	['citizen ticket']	0.503028731252
+['ticket', '15 dollar']	['10 dollar and regular regular ticket']	0.512664178079
+['ticket', '15 dollar']	['regular ticket']	0.542154539893
+['citizen ticket', '15 dollar']	['local bus tour']	0.0885621548936
+['citizen ticket', '15 dollar']	['tour']	0.0667637182209
+['citizen ticket', '15 dollar']	['bus tour']	0.0696933362217
+['citizen ticket', '15 dollar']	['65 ticket']	0.544221442934
+['citizen ticket', '15 dollar']	['senior citizen ticket']	0.571260768781
+['citizen ticket', '15 dollar']	['ticket']	0.631268966744
+['citizen ticket', '15 dollar']	['10 dollar and regular regular ticket']	0.556411047339
+['citizen ticket', '15 dollar']	['regular ticket']	0.500997653152
+['10 dollar and regular regular ticket', '15 dollar']	['local bus tour']	0.102396614129
+['10 dollar and regular regular ticket', '15 dollar']	['tour']	0.0865519868472
+['10 dollar and regular regular ticket', '15 dollar']	['bus tour']	0.0915001233665
+['10 dollar and regular regular ticket', '15 dollar']	['65 ticket']	0.601830528082
+['10 dollar and regular regular ticket', '15 dollar']	['senior citizen ticket']	0.600347239924
+['10 dollar and regular regular ticket', '15 dollar']	['ticket']	0.625551641749
+['10 dollar and regular regular ticket', '15 dollar']	['citizen ticket']	0.488168459
+['10 dollar and regular regular ticket', '15 dollar']	['regular ticket']	0.522257502141
+['regular ticket', '15 dollar']	['local bus tour']	0.0885621548936
+['regular ticket', '15 dollar']	['tour']	0.0667637182209
+['regular ticket', '15 dollar']	['bus tour']	0.0696933362217
+['regular ticket', '15 dollar']	['65 ticket']	0.544221442934
+['regular ticket', '15 dollar']	['senior citizen ticket']	0.571260768781
+['regular ticket', '15 dollar']	['ticket']	0.631268966744
+['regular ticket', '15 dollar']	['citizen ticket']	0.500997653152
+['regular ticket', '15 dollar']	['10 dollar and regular regular ticket']	0.556411047339
+['local bus tour', 'regular ticket']	['tour']	0.81026737607
+['local bus tour', 'regular ticket']	['bus tour']	0.879923820271
+['local bus tour', 'regular ticket']	['65 ticket']	0.645330407958
+['local bus tour', 'regular ticket']	['senior citizen ticket']	0.717388516008
+['local bus tour', 'regular ticket']	['ticket']	0.558978095893
+['local bus tour', 'regular ticket']	['citizen ticket']	0.604470199202
+['local bus tour', 'regular ticket']	['10 dollar and regular regular ticket']	0.473126038236
+['local bus tour', 'regular ticket']	['15 dollar']	0.124856540438
+['tour', 'regular ticket']	['local bus tour']	0.73702932103
+['tour', 'regular ticket']	['bus tour']	0.816430915557
+['tour', 'regular ticket']	['65 ticket']	0.522652815483
+['tour', 'regular ticket']	['senior citizen ticket']	0.571260768781
+['tour', 'regular ticket']	['ticket']	0.718377441942
+['tour', 'regular ticket']	['citizen ticket']	0.517664319818
+['tour', 'regular ticket']	['10 dollar and regular regular ticket']	0.386489202011
+['tour', 'regular ticket']	['15 dollar']	0.0696933362217
+['bus tour', 'regular ticket']	['local bus tour']	0.832330186442
+['bus tour', 'regular ticket']	['tour']	0.832081786506
+['bus tour', 'regular ticket']	['65 ticket']	0.544221442934
+['bus tour', 'regular ticket']	['senior citizen ticket']	0.571260768781
+['bus tour', 'regular ticket']	['ticket']	0.471970424398
+['bus tour', 'regular ticket']	['citizen ticket']	0.500997653152
+['bus tour', 'regular ticket']	['10 dollar and regular regular ticket']	0.386489202011
+['bus tour', 'regular ticket']	['15 dollar']	0.0696933362217
+['65 ticket', 'regular ticket']	['local bus tour']	0.376346711271
+['65 ticket', 'regular ticket']	['tour']	0.311787219466
+['65 ticket', 'regular ticket']	['bus tour']	0.144528281371
+['65 ticket', 'regular ticket']	['senior citizen ticket']	0.751822593779
+['65 ticket', 'regular ticket']	['ticket']	0.719561670967
+['65 ticket', 'regular ticket']	['citizen ticket']	0.768791503865
+['65 ticket', 'regular ticket']	['10 dollar and regular regular ticket']	0.424833402852
+['65 ticket', 'regular ticket']	['15 dollar']	0.144528281371
+['senior citizen ticket', 'regular ticket']	['local bus tour']	0.454630488206
+['senior citizen ticket', 'regular ticket']	['tour']	0.379299915863
+['senior citizen ticket', 'regular ticket']	['bus tour']	0.212040977768
+['senior citizen ticket', 'regular ticket']	['65 ticket']	0.751926651862
+['senior citizen ticket', 'regular ticket']	['ticket']	0.717701964042
+['senior citizen ticket', 'regular ticket']	['citizen ticket']	0.870640580702
+['senior citizen ticket', 'regular ticket']	['10 dollar and regular regular ticket']	0.526348284925
+['senior citizen ticket', 'regular ticket']	['15 dollar']	0.212040977768
+['ticket', 'regular ticket']	['local bus tour']	0.315684584477
+['ticket', 'regular ticket']	['tour']	0.553523120001
+['ticket', 'regular ticket']	['bus tour']	0.190181920436
+['ticket', 'regular ticket']	['65 ticket']	0.739278495958
+['ticket', 'regular ticket']	['senior citizen ticket']	0.709585856364
+['ticket', 'regular ticket']	['citizen ticket']	0.678308021489
+['ticket', 'regular ticket']	['10 dollar and regular regular ticket']	0.633179563419
+['ticket', 'regular ticket']	['15 dollar']	0.201343160015
+['citizen ticket', 'regular ticket']	['local bus tour']	0.416426051417
+['citizen ticket', 'regular ticket']	['tour']	0.362565392148
+['citizen ticket', 'regular ticket']	['bus tour']	0.195306454053
+['citizen ticket', 'regular ticket']	['65 ticket']	0.633981735469
+['citizen ticket', 'regular ticket']	['senior citizen ticket']	0.833786644538
+['citizen ticket', 'regular ticket']	['ticket']	0.633801127722
+['citizen ticket', 'regular ticket']	['10 dollar and regular regular ticket']	0.473128064954
+['citizen ticket', 'regular ticket']	['15 dollar']	0.195306454053
+['10 dollar and regular regular ticket', 'regular ticket']	['local bus tour']	0.381031348834
+['10 dollar and regular regular ticket', 'regular ticket']	['tour']	0.294018786889
+['10 dollar and regular regular ticket', 'regular ticket']	['bus tour']	0.126759848794
+['10 dollar and regular regular ticket', 'regular ticket']	['65 ticket']	0.708678826986
+['10 dollar and regular regular ticket', 'regular ticket']	['senior citizen ticket']	0.76685778909
+['10 dollar and regular regular ticket', 'regular ticket']	['ticket']	0.665588726402
+['10 dollar and regular regular ticket', 'regular ticket']	['citizen ticket']	0.759856639913
+['10 dollar and regular regular ticket', 'regular ticket']	['15 dollar']	0.645112706
+['15 dollar', 'regular ticket']	['local bus tour']	0.0885621548936
+['15 dollar', 'regular ticket']	['tour']	0.0667637182209
+['15 dollar', 'regular ticket']	['bus tour']	0.0696933362217
+['15 dollar', 'regular ticket']	['65 ticket']	0.544221442934
+['15 dollar', 'regular ticket']	['senior citizen ticket']	0.571260768781
+['15 dollar', 'regular ticket']	['ticket']	0.631268966744
+['15 dollar', 'regular ticket']	['citizen ticket']	0.500997653152
+['15 dollar', 'regular ticket']	['10 dollar and regular regular ticket']	0.556411047339

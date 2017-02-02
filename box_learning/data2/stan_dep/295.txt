@@ -1,0 +1,36 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VP
+        (VBP buy)
+        (NP (NP (CD 25) (NNS boxes)) (PP (IN of) (NP (NN candy)))))
+      (CC and)
+      (VP (VB spend) (NP (CD 28.00) (NNS dollars))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (NP (DT A) (NN box)) (PP (IN of) (NP (NN peppermint))))
+      (VP
+        (VBP are)
+        (NP (NP (CD 1.00) (NNS dollars)) (NP (DT a) (NN box)))))
+    (CC and)
+    (S
+      (NP (NN candy) (NNS canes))
+      (VP
+        (VBP are)
+        (NP (NP (CD 1.30) (NNS dollars)) (NP (DT a) (NN box)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS boxes))
+      (PP (IN of) (NP (NN peppermint))))
+    (SQ (VBD did) (NP (PRP you)) (VP (VB buy)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS boxes))
+    (PP (IN of) (NP (NN candy) (NNS canes)))
+    (. ?)))

@@ -1,0 +1,14 @@
+1
+[['-', '-', '-', '-', '-', 'mile', '200'], ['paved road', '2', 'hour', 'mile', 'x1 + 20', '-', '-'], ['dirt road', '3', 'hour', 'mile', 'x1 + 20', '-', '-']]
+-1
+[['-', '-', 'dirt road', 'hour', '-', 'mile', '3'], ['paved road', '2', 'hour', 'mile', 'x1 + 20', '-', '-'], ['dirt road', '3', 'hour', 'mile', 'x1 + 20', '-', '-']]
+-1
+[['-', '-', '-', '3', 'dirt road', 'mile', 'hour'], ['paved road', '2', 'hour', 'mile', 'x1 + 20', '-', '-'], ['dirt road', '3', 'hour', 'mile', 'x1 + 20', '-', '-']]
+-1
+[['dirt road', '-', '-', '-', 'x1 + 20', 'hour', '200'], ['paved road', '2', 'hour', 'mile', 'x1 + 20', '-', '-'], ['dirt road', '3', 'hour', 'mile', 'x1 + 20', '-', '-']]
+-1
+[['-', 'x1 + 20', '-', '-', 'mile', 'hour', '200'], ['paved road', '2', 'hour', 'mile', 'x1 + 20', '-', '-'], ['dirt road', '3', '200', 'mile', 'x1 + 20', '-', 'hour']]
+-1
+[['-', 'dirt road', '-', 'x1 + 20', '-', 'hour', '200'], ['paved road', '2', 'hour', 'mile', 'x1 + 20', '-', '-'], ['dirt road', '3', 'hour', 'mile', 'x1 + 20', '-', '-']]
+-1
+[['-', 'mile', 'x1 + 20', 'hour', '-', 'dirt road', '3'], ['paved road', '2', 'hour', 'mile', 'x1 + 20', '-', '-'], ['dirt road', '3', 'hour', 'mile', '200', '-', '-']]

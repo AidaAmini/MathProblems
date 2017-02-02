@@ -1,0 +1,30 @@
+['state market', '27 more apple', '301 apple and orange', 'apple']
+['state market']	['27 more apple']	0.0941266761548
+['state market']	['301 apple and orange']	0.0941266761548
+['state market']	['apple']	0.0831172035382
+['27 more apple']	['301 apple and orange']	0.107526100904
+['301 apple and orange']	['apple']	0.30525175409
+['27 more apple', 'state market']	['301 apple and orange']	0.161708668161
+['27 more apple', 'state market']	['apple']	0.811752172578
+['301 apple and orange', 'state market']	['27 more apple']	0.107526100904
+['301 apple and orange', 'state market']	['apple']	0.244554492221
+['apple', 'state market']	['27 more apple']	0.690330851979
+['apple', 'state market']	['301 apple and orange']	0.214171369863
+['state market', '27 more apple']	['301 apple and orange']	0.161708668161
+['state market', '27 more apple']	['apple']	0.811752172578
+['301 apple and orange', '27 more apple']	['state market']	0.0915001233665
+['301 apple and orange', '27 more apple']	['apple']	0.941519737514
+['apple', '27 more apple']	['state market']	0.22500681101
+['apple', '27 more apple']	['301 apple and orange']	0.527118281264
+['state market', '301 apple and orange']	['27 more apple']	0.107526100904
+['state market', '301 apple and orange']	['apple']	0.244554492221
+['27 more apple', '301 apple and orange']	['state market']	0.0915001233665
+['27 more apple', '301 apple and orange']	['apple']	0.941519737514
+['apple', '301 apple and orange']	['state market']	0.124856540438
+['apple', '301 apple and orange']	['27 more apple']	0.74967619617
+['state market', 'apple']	['27 more apple']	0.690330851979
+['state market', 'apple']	['301 apple and orange']	0.214171369863
+['27 more apple', 'apple']	['state market']	0.22500681101
+['27 more apple', 'apple']	['301 apple and orange']	0.527118281264
+['301 apple and orange', 'apple']	['state market']	0.124856540438
+['301 apple and orange', 'apple']	['27 more apple']	0.74967619617

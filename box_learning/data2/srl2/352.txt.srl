@@ -1,0 +1,16 @@
+take ARG0 You
+take ARG1 a test in which multiple choice questions are worth 9 points and essay questions are worth 12 points
+
+answer ARG0 You
+answer MNR correctly
+answer ARG1 16 questions
+
+Find ARG1 how many multiple choice questions you got right
+get ARG1 you got right
+get ARG0 you
+get MNR right
+
+get ARG1 questions
+get ARG0 you
+get MNR right
+

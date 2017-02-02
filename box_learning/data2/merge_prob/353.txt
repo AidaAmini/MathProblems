@@ -1,0 +1,1041 @@
+['matinee', 'movie theater', '4.50 dollar', 'child', 'dollar', '6.75 dollar', 'adult', 'today matinee', '20 more child', 'receipt', '405 dollar']
+['matinee']	['movie theater']	0.0663445115919
+['matinee']	['4.50 dollar']	0.0696933362217
+['matinee']	['child']	0.111091081699
+['matinee']	['dollar']	0.0082360470022
+['matinee']	['6.75 dollar']	0.0696933362217
+['matinee']	['adult']	0.151244210964
+['matinee']	['20 more child']	0.080802298149
+['matinee']	['receipt']	0.0734239376973
+['matinee']	['405 dollar']	0.0696933362217
+['movie theater']	['4.50 dollar']	0.0901100077042
+['movie theater']	['child']	0.0741073489195
+['movie theater']	['dollar']	0.00424649792755
+['movie theater']	['6.75 dollar']	0.0901100077042
+['movie theater']	['adult']	0.0741073489195
+['movie theater']	['today matinee']	0.0824069519204
+['movie theater']	['20 more child']	0.0908034291173
+['movie theater']	['receipt']	0.150291470448
+['movie theater']	['405 dollar']	0.0901100077042
+['4.50 dollar']	['child']	0.0774561735493
+['4.50 dollar']	['6.75 dollar']	0.643440930505
+['4.50 dollar']	['adult']	0.0774561735493
+['4.50 dollar']	['today matinee']	0.0897823390711
+['4.50 dollar']	['20 more child']	0.0941266761548
+['4.50 dollar']	['receipt']	0.0744376594044
+['4.50 dollar']	['405 dollar']	0.643440930505
+['child']	['dollar']	0.0074803794959
+['child']	['6.75 dollar']	0.0696933362217
+['child']	['adult']	0.145047417933
+['child']	['today matinee']	0.0746958245975
+['child']	['receipt']	0.0834098541484
+['child']	['405 dollar']	0.0696933362217
+['dollar']	['adult']	0.00756619970697
+['dollar']	['today matinee']	0.00880818287
+['dollar']	['20 more child']	0.00595425337759
+['dollar']	['receipt']	0.0162174383655
+['6.75 dollar']	['adult']	0.0774561735493
+['6.75 dollar']	['today matinee']	0.0897823390711
+['6.75 dollar']	['20 more child']	0.0941266761548
+['6.75 dollar']	['receipt']	0.0744376594044
+['6.75 dollar']	['405 dollar']	0.643440930505
+['adult']	['today matinee']	0.0746958245975
+['adult']	['20 more child']	0.315999992782
+['adult']	['receipt']	0.136166307929
+['adult']	['405 dollar']	0.0696933362217
+['today matinee']	['20 more child']	0.0852133302638
+['today matinee']	['receipt']	0.0634148935911
+['today matinee']	['405 dollar']	0.0737139440912
+['20 more child']	['receipt']	0.0865519868472
+['20 more child']	['405 dollar']	0.0988755105172
+['receipt']	['405 dollar']	0.0800317642921
+['movie theater', 'matinee']	['4.50 dollar']	0.0696933362217
+['movie theater', 'matinee']	['child']	0.738039106618
+['movie theater', 'matinee']	['dollar']	0.139390787176
+['movie theater', 'matinee']	['6.75 dollar']	0.0696933362217
+['movie theater', 'matinee']	['adult']	0.249411055421
+['movie theater', 'matinee']	['today matinee']	0.714377407396
+['movie theater', 'matinee']	['20 more child']	0.080802298149
+['movie theater', 'matinee']	['receipt']	0.416981638672
+['movie theater', 'matinee']	['405 dollar']	0.0696933362217
+['4.50 dollar', 'matinee']	['movie theater']	0.0696933362217
+['4.50 dollar', 'matinee']	['child']	0.735171000031
+['4.50 dollar', 'matinee']	['dollar']	0.476336488304
+['4.50 dollar', 'matinee']	['6.75 dollar']	0.488722073866
+['4.50 dollar', 'matinee']	['adult']	0.233883475557
+['4.50 dollar', 'matinee']	['today matinee']	0.609263071078
+['4.50 dollar', 'matinee']	['20 more child']	0.080802298149
+['4.50 dollar', 'matinee']	['receipt']	0.301808200776
+['4.50 dollar', 'matinee']	['405 dollar']	0.488722073866
+['child', 'matinee']	['movie theater']	0.128422359274
+['child', 'matinee']	['4.50 dollar']	0.131771183904
+['child', 'matinee']	['dollar']	0.0736221117794
+['child', 'matinee']	['6.75 dollar']	0.131771183904
+['child', 'matinee']	['adult']	0.639011322706
+['child', 'matinee']	['today matinee']	0.606004061622
+['child', 'matinee']	['20 more child']	0.689188810776
+['child', 'matinee']	['receipt']	0.161445751717
+['child', 'matinee']	['405 dollar']	0.131771183904
+['dollar', 'matinee']	['movie theater']	0.0774382987339
+['dollar', 'matinee']	['4.50 dollar']	0.391849831526
+['dollar', 'matinee']	['child']	0.0813779484514
+['dollar', 'matinee']	['6.75 dollar']	0.391849831526
+['dollar', 'matinee']	['adult']	0.0884635701291
+['dollar', 'matinee']	['today matinee']	0.29774979676
+['dollar', 'matinee']	['20 more child']	0.0829349518718
+['dollar', 'matinee']	['receipt']	0.139444825107
+['dollar', 'matinee']	['405 dollar']	0.332721804216
+['6.75 dollar', 'matinee']	['movie theater']	0.0696933362217
+['6.75 dollar', 'matinee']	['4.50 dollar']	0.488722073866
+['6.75 dollar', 'matinee']	['child']	0.735171000031
+['6.75 dollar', 'matinee']	['dollar']	0.476336488304
+['6.75 dollar', 'matinee']	['adult']	0.233883475557
+['6.75 dollar', 'matinee']	['today matinee']	0.609263071078
+['6.75 dollar', 'matinee']	['20 more child']	0.080802298149
+['6.75 dollar', 'matinee']	['receipt']	0.301808200776
+['6.75 dollar', 'matinee']	['405 dollar']	0.488722073866
+['adult', 'matinee']	['movie theater']	0.128422359274
+['adult', 'matinee']	['4.50 dollar']	0.131771183904
+['adult', 'matinee']	['child']	0.182144265315
+['adult', 'matinee']	['dollar']	0.175349505
+['adult', 'matinee']	['6.75 dollar']	0.131771183904
+['adult', 'matinee']	['today matinee']	0.606004061622
+['adult', 'matinee']	['20 more child']	0.303375506621
+['adult', 'matinee']	['receipt']	0.460970379302
+['adult', 'matinee']	['405 dollar']	0.131771183904
+['today matinee', 'matinee']	['movie theater']	0.293845130856
+['today matinee', 'matinee']	['4.50 dollar']	0.195306454053
+['today matinee', 'matinee']	['child']	0.780842053053
+['today matinee', 'matinee']	['dollar']	0.291412897447
+['today matinee', 'matinee']	['6.75 dollar']	0.195306454053
+['today matinee', 'matinee']	['adult']	0.614715258476
+['today matinee', 'matinee']	['20 more child']	0.422784908969
+['today matinee', 'matinee']	['receipt']	0.600251821886
+['today matinee', 'matinee']	['405 dollar']	0.195306454053
+['20 more child', 'matinee']	['movie theater']	0.0696933362217
+['20 more child', 'matinee']	['4.50 dollar']	0.0696933362217
+['20 more child', 'matinee']	['child']	0.858564613917
+['20 more child', 'matinee']	['dollar']	0.13863511967
+['20 more child', 'matinee']	['6.75 dollar']	0.0696933362217
+['20 more child', 'matinee']	['adult']	0.380777802779
+['20 more child', 'matinee']	['today matinee']	0.723615534644
+['20 more child', 'matinee']	['receipt']	0.2445509648
+['20 more child', 'matinee']	['405 dollar']	0.0696933362217
+['receipt', 'matinee']	['movie theater']	0.110821652261
+['receipt', 'matinee']	['4.50 dollar']	0.0669904799604
+['receipt', 'matinee']	['child']	0.39693354571
+['receipt', 'matinee']	['dollar']	0.0074803794959
+['receipt', 'matinee']	['6.75 dollar']	0.0669904799604
+['receipt', 'matinee']	['adult']	0.625994081327
+['receipt', 'matinee']	['today matinee']	0.724971976556
+['receipt', 'matinee']	['20 more child']	0.0865141120187
+['receipt', 'matinee']	['405 dollar']	0.0669904799604
+['405 dollar', 'matinee']	['movie theater']	0.0696933362217
+['405 dollar', 'matinee']	['4.50 dollar']	0.488722073866
+['405 dollar', 'matinee']	['child']	0.735171000031
+['405 dollar', 'matinee']	['dollar']	0.470552998665
+['405 dollar', 'matinee']	['6.75 dollar']	0.488722073866
+['405 dollar', 'matinee']	['adult']	0.233883475557
+['405 dollar', 'matinee']	['today matinee']	0.609263071078
+['405 dollar', 'matinee']	['20 more child']	0.080802298149
+['405 dollar', 'matinee']	['receipt']	0.301808200776
+['matinee', 'movie theater']	['4.50 dollar']	0.0696933362217
+['matinee', 'movie theater']	['child']	0.738039106618
+['matinee', 'movie theater']	['dollar']	0.139390787176
+['matinee', 'movie theater']	['6.75 dollar']	0.0696933362217
+['matinee', 'movie theater']	['adult']	0.249411055421
+['matinee', 'movie theater']	['today matinee']	0.714377407396
+['matinee', 'movie theater']	['20 more child']	0.080802298149
+['matinee', 'movie theater']	['receipt']	0.416981638672
+['matinee', 'movie theater']	['405 dollar']	0.0696933362217
+['4.50 dollar', 'movie theater']	['matinee']	0.0774561735493
+['4.50 dollar', 'movie theater']	['child']	0.0741073489195
+['4.50 dollar', 'movie theater']	['dollar']	0.265381505022
+['4.50 dollar', 'movie theater']	['6.75 dollar']	0.584269096576
+['4.50 dollar', 'movie theater']	['adult']	0.0741073489195
+['4.50 dollar', 'movie theater']	['today matinee']	0.0824069519204
+['4.50 dollar', 'movie theater']	['20 more child']	0.0908034291173
+['4.50 dollar', 'movie theater']	['receipt']	0.170171263305
+['4.50 dollar', 'movie theater']	['405 dollar']	0.584269096576
+['child', 'movie theater']	['matinee']	0.738039106618
+['child', 'movie theater']	['4.50 dollar']	0.0696933362217
+['child', 'movie theater']	['dollar']	0.176682257717
+['child', 'movie theater']	['6.75 dollar']	0.0696933362217
+['child', 'movie theater']	['adult']	0.730631699211
+['child', 'movie theater']	['today matinee']	0.0746958245975
+['child', 'movie theater']	['20 more child']	0.678430540939
+['child', 'movie theater']	['receipt']	0.528162240829
+['child', 'movie theater']	['405 dollar']	0.0696933362217
+['dollar', 'movie theater']	['matinee']	0.245509819925
+['dollar', 'movie theater']	['4.50 dollar']	0.380321401688
+['dollar', 'movie theater']	['child']	0.274095901825
+['dollar', 'movie theater']	['6.75 dollar']	0.380321401688
+['dollar', 'movie theater']	['adult']	0.0253902274763
+['dollar', 'movie theater']	['today matinee']	0.0187492693053
+['dollar', 'movie theater']	['20 more child']	0.0208571041899
+['dollar', 'movie theater']	['receipt']	0.408969869121
+['dollar', 'movie theater']	['405 dollar']	0.299367977552
+['6.75 dollar', 'movie theater']	['matinee']	0.0774561735493
+['6.75 dollar', 'movie theater']	['4.50 dollar']	0.584269096576
+['6.75 dollar', 'movie theater']	['child']	0.0741073489195
+['6.75 dollar', 'movie theater']	['dollar']	0.265381505022
+['6.75 dollar', 'movie theater']	['adult']	0.0741073489195
+['6.75 dollar', 'movie theater']	['today matinee']	0.0824069519204
+['6.75 dollar', 'movie theater']	['20 more child']	0.0908034291173
+['6.75 dollar', 'movie theater']	['receipt']	0.170171263305
+['6.75 dollar', 'movie theater']	['405 dollar']	0.584269096576
+['adult', 'movie theater']	['matinee']	0.249411055421
+['adult', 'movie theater']	['4.50 dollar']	0.0696933362217
+['adult', 'movie theater']	['child']	0.730631699211
+['adult', 'movie theater']	['dollar']	0.0132392551335
+['adult', 'movie theater']	['6.75 dollar']	0.0696933362217
+['adult', 'movie theater']	['today matinee']	0.0746958245975
+['adult', 'movie theater']	['20 more child']	0.278894845147
+['adult', 'movie theater']	['receipt']	0.850998723131
+['adult', 'movie theater']	['405 dollar']	0.0696933362217
+['today matinee', 'movie theater']	['matinee']	0.707134848558
+['today matinee', 'movie theater']	['4.50 dollar']	0.0737139440912
+['today matinee', 'movie theater']	['child']	0.0650959234194
+['today matinee', 'movie theater']	['dollar']	0.00222717737084
+['today matinee', 'movie theater']	['6.75 dollar']	0.0737139440912
+['today matinee', 'movie theater']	['adult']	0.0650959234194
+['today matinee', 'movie theater']	['20 more child']	0.0885621548936
+['today matinee', 'movie theater']	['receipt']	0.114277816392
+['today matinee', 'movie theater']	['405 dollar']	0.0737139440912
+['20 more child', 'movie theater']	['matinee']	0.146533383972
+['20 more child', 'movie theater']	['4.50 dollar']	0.15961386663
+['20 more child', 'movie theater']	['child']	0.855361417678
+['20 more child', 'movie theater']	['dollar']	0.00636410188432
+['20 more child', 'movie theater']	['6.75 dollar']	0.15961386663
+['20 more child', 'movie theater']	['adult']	0.408334539267
+['20 more child', 'movie theater']	['today matinee']	0.151484162343
+['20 more child', 'movie theater']	['receipt']	0.226621787345
+['20 more child', 'movie theater']	['405 dollar']	0.15961386663
+['receipt', 'movie theater']	['matinee']	0.314747259102
+['receipt', 'movie theater']	['4.50 dollar']	0.0833805889219
+['receipt', 'movie theater']	['child']	0.352264525349
+['receipt', 'movie theater']	['dollar']	0.203974190213
+['receipt', 'movie theater']	['6.75 dollar']	0.0833805889219
+['receipt', 'movie theater']	['adult']	0.717687933396
+['receipt', 'movie theater']	['today matinee']	0.0824069519204
+['receipt', 'movie theater']	['20 more child']	0.094467200112
+['receipt', 'movie theater']	['405 dollar']	0.0833805889219
+['405 dollar', 'movie theater']	['matinee']	0.0774561735493
+['405 dollar', 'movie theater']	['4.50 dollar']	0.584269096576
+['405 dollar', 'movie theater']	['child']	0.0741073489195
+['405 dollar', 'movie theater']	['dollar']	0.236839587224
+['405 dollar', 'movie theater']	['6.75 dollar']	0.584269096576
+['405 dollar', 'movie theater']	['adult']	0.0741073489195
+['405 dollar', 'movie theater']	['today matinee']	0.0824069519204
+['405 dollar', 'movie theater']	['20 more child']	0.0908034291173
+['405 dollar', 'movie theater']	['receipt']	0.170171263305
+['matinee', '4.50 dollar']	['movie theater']	0.0696933362217
+['matinee', '4.50 dollar']	['child']	0.735171000031
+['matinee', '4.50 dollar']	['dollar']	0.476336488304
+['matinee', '4.50 dollar']	['6.75 dollar']	0.488722073866
+['matinee', '4.50 dollar']	['adult']	0.233883475557
+['matinee', '4.50 dollar']	['today matinee']	0.609263071078
+['matinee', '4.50 dollar']	['20 more child']	0.080802298149
+['matinee', '4.50 dollar']	['receipt']	0.301808200776
+['matinee', '4.50 dollar']	['405 dollar']	0.488722073866
+['movie theater', '4.50 dollar']	['matinee']	0.0774561735493
+['movie theater', '4.50 dollar']	['child']	0.0741073489195
+['movie theater', '4.50 dollar']	['dollar']	0.265381505022
+['movie theater', '4.50 dollar']	['6.75 dollar']	0.584269096576
+['movie theater', '4.50 dollar']	['adult']	0.0741073489195
+['movie theater', '4.50 dollar']	['today matinee']	0.0824069519204
+['movie theater', '4.50 dollar']	['20 more child']	0.0908034291173
+['movie theater', '4.50 dollar']	['receipt']	0.170171263305
+['movie theater', '4.50 dollar']	['405 dollar']	0.584269096576
+['child', '4.50 dollar']	['matinee']	0.746794143912
+['child', '4.50 dollar']	['movie theater']	0.0696933362217
+['child', '4.50 dollar']	['dollar']	0.479622873281
+['child', '4.50 dollar']	['6.75 dollar']	0.494524508322
+['child', '4.50 dollar']	['adult']	0.727763592624
+['child', '4.50 dollar']	['today matinee']	0.0746958245975
+['child', '4.50 dollar']	['20 more child']	0.676492752268
+['child', '4.50 dollar']	['receipt']	0.34144854005
+['child', '4.50 dollar']	['405 dollar']	0.494524508322
+['dollar', '4.50 dollar']	['matinee']	0.313982861585
+['dollar', '4.50 dollar']	['movie theater']	0.0698675290335
+['dollar', '4.50 dollar']	['child']	0.413384021113
+['dollar', '4.50 dollar']	['6.75 dollar']	0.732805939382
+['dollar', '4.50 dollar']	['adult']	0.242098951783
+['dollar', '4.50 dollar']	['today matinee']	0.101920210768
+['dollar', '4.50 dollar']	['20 more child']	0.18893649943
+['dollar', '4.50 dollar']	['receipt']	0.44823393508
+['dollar', '4.50 dollar']	['405 dollar']	0.690954327877
+['6.75 dollar', '4.50 dollar']	['matinee']	0.33665242287
+['6.75 dollar', '4.50 dollar']	['movie theater']	0.139258682248
+['6.75 dollar', '4.50 dollar']	['child']	0.345269105941
+['6.75 dollar', '4.50 dollar']	['dollar']	0.786579749845
+['6.75 dollar', '4.50 dollar']	['adult']	0.345269105941
+['6.75 dollar', '4.50 dollar']	['today matinee']	0.14699641653
+['6.75 dollar', '4.50 dollar']	['20 more child']	0.297805101442
+['6.75 dollar', '4.50 dollar']	['receipt']	0.37370815508
+['6.75 dollar', '4.50 dollar']	['405 dollar']	0.637144068101
+['adult', '4.50 dollar']	['matinee']	0.233883475557
+['adult', '4.50 dollar']	['movie theater']	0.0696933362217
+['adult', '4.50 dollar']	['child']	0.727763592624
+['adult', '4.50 dollar']	['dollar']	0.478387264155
+['adult', '4.50 dollar']	['6.75 dollar']	0.494524508322
+['adult', '4.50 dollar']	['today matinee']	0.0746958245975
+['adult', '4.50 dollar']	['20 more child']	0.277449580695
+['adult', '4.50 dollar']	['receipt']	0.715962457614
+['adult', '4.50 dollar']	['405 dollar']	0.494524508322
+['today matinee', '4.50 dollar']	['matinee']	0.568210810472
+['today matinee', '4.50 dollar']	['movie theater']	0.0696933362217
+['today matinee', '4.50 dollar']	['child']	0.0650959234194
+['today matinee', '4.50 dollar']	['dollar']	0.279641754576
+['today matinee', '4.50 dollar']	['6.75 dollar']	0.544221442934
+['today matinee', '4.50 dollar']	['adult']	0.0650959234194
+['today matinee', '4.50 dollar']	['20 more child']	0.0828503410239
+['today matinee', '4.50 dollar']	['receipt']	0.0634148935911
+['today matinee', '4.50 dollar']	['405 dollar']	0.544221442934
+['20 more child', '4.50 dollar']	['matinee']	0.148807562081
+['20 more child', '4.50 dollar']	['movie theater']	0.152238479479
+['20 more child', '4.50 dollar']	['child']	0.852578612249
+['20 more child', '4.50 dollar']	['dollar']	0.372988795832
+['20 more child', '4.50 dollar']	['6.75 dollar']	0.653642048458
+['20 more child', '4.50 dollar']	['adult']	0.420402666457
+['20 more child', '4.50 dollar']	['today matinee']	0.151484162343
+['20 more child', '4.50 dollar']	['receipt']	0.14394151833
+['20 more child', '4.50 dollar']	['405 dollar']	0.653642048458
+['receipt', '4.50 dollar']	['matinee']	0.252619893256
+['receipt', '4.50 dollar']	['movie theater']	0.124206600218
+['receipt', '4.50 dollar']	['child']	0.290137159502
+['receipt', '4.50 dollar']	['dollar']	0.488250324261
+['receipt', '4.50 dollar']	['6.75 dollar']	0.520866309821
+['receipt', '4.50 dollar']	['adult']	0.714819826809
+['receipt', '4.50 dollar']	['today matinee']	0.0824069519204
+['receipt', '4.50 dollar']	['20 more child']	0.0887553862424
+['receipt', '4.50 dollar']	['405 dollar']	0.520866309821
+['405 dollar', '4.50 dollar']	['matinee']	0.33665242287
+['405 dollar', '4.50 dollar']	['movie theater']	0.139258682248
+['405 dollar', '4.50 dollar']	['child']	0.345269105941
+['405 dollar', '4.50 dollar']	['dollar']	0.707694262291
+['405 dollar', '4.50 dollar']	['6.75 dollar']	0.637144068101
+['405 dollar', '4.50 dollar']	['adult']	0.345269105941
+['405 dollar', '4.50 dollar']	['today matinee']	0.14699641653
+['405 dollar', '4.50 dollar']	['20 more child']	0.297805101442
+['405 dollar', '4.50 dollar']	['receipt']	0.37370815508
+['matinee', 'child']	['movie theater']	0.128422359274
+['matinee', 'child']	['4.50 dollar']	0.131771183904
+['matinee', 'child']	['dollar']	0.0736221117794
+['matinee', 'child']	['6.75 dollar']	0.131771183904
+['matinee', 'child']	['adult']	0.639011322706
+['matinee', 'child']	['today matinee']	0.606004061622
+['matinee', 'child']	['20 more child']	0.689188810776
+['matinee', 'child']	['receipt']	0.161445751717
+['matinee', 'child']	['405 dollar']	0.131771183904
+['movie theater', 'child']	['matinee']	0.738039106618
+['movie theater', 'child']	['4.50 dollar']	0.0696933362217
+['movie theater', 'child']	['dollar']	0.176682257717
+['movie theater', 'child']	['6.75 dollar']	0.0696933362217
+['movie theater', 'child']	['adult']	0.730631699211
+['movie theater', 'child']	['today matinee']	0.0746958245975
+['movie theater', 'child']	['20 more child']	0.678430540939
+['movie theater', 'child']	['receipt']	0.528162240829
+['movie theater', 'child']	['405 dollar']	0.0696933362217
+['4.50 dollar', 'child']	['matinee']	0.746794143912
+['4.50 dollar', 'child']	['movie theater']	0.0696933362217
+['4.50 dollar', 'child']	['dollar']	0.479622873281
+['4.50 dollar', 'child']	['6.75 dollar']	0.494524508322
+['4.50 dollar', 'child']	['adult']	0.727763592624
+['4.50 dollar', 'child']	['today matinee']	0.0746958245975
+['4.50 dollar', 'child']	['20 more child']	0.676492752268
+['4.50 dollar', 'child']	['receipt']	0.34144854005
+['4.50 dollar', 'child']	['405 dollar']	0.494524508322
+['dollar', 'child']	['matinee']	0.103553874377
+['dollar', 'child']	['movie theater']	0.0774382987339
+['dollar', 'child']	['4.50 dollar']	0.391849831526
+['dollar', 'child']	['6.75 dollar']	0.391849831526
+['dollar', 'child']	['adult']	0.299214064086
+['dollar', 'child']	['today matinee']	0.0820008259074
+['dollar', 'child']	['20 more child']	0.298939739414
+['dollar', 'child']	['receipt']	0.107529028485
+['dollar', 'child']	['405 dollar']	0.332721804216
+['6.75 dollar', 'child']	['matinee']	0.746794143912
+['6.75 dollar', 'child']	['movie theater']	0.0696933362217
+['6.75 dollar', 'child']	['4.50 dollar']	0.494524508322
+['6.75 dollar', 'child']	['dollar']	0.479622873281
+['6.75 dollar', 'child']	['adult']	0.727763592624
+['6.75 dollar', 'child']	['today matinee']	0.0746958245975
+['6.75 dollar', 'child']	['20 more child']	0.676492752268
+['6.75 dollar', 'child']	['receipt']	0.34144854005
+['6.75 dollar', 'child']	['405 dollar']	0.494524508322
+['adult', 'child']	['matinee']	0.630122433817
+['adult', 'child']	['movie theater']	0.128422359274
+['adult', 'child']	['4.50 dollar']	0.131771183904
+['adult', 'child']	['dollar']	0.250449323984
+['adult', 'child']	['6.75 dollar']	0.131771183904
+['adult', 'child']	['today matinee']	0.136773672279
+['adult', 'child']	['20 more child']	0.769481446244
+['adult', 'child']	['receipt']	0.445012329415
+['adult', 'child']	['405 dollar']	0.131771183904
+['today matinee', 'child']	['matinee']	0.850355866501
+['today matinee', 'child']	['movie theater']	0.128422359274
+['today matinee', 'child']	['4.50 dollar']	0.131771183904
+['today matinee', 'child']	['dollar']	0.243348924383
+['today matinee', 'child']	['6.75 dollar']	0.131771183904
+['today matinee', 'child']	['adult']	0.752403977884
+['today matinee', 'child']	['20 more child']	0.770482459279
+['today matinee', 'child']	['receipt']	0.408396517602
+['today matinee', 'child']	['405 dollar']	0.131771183904
+['20 more child', 'child']	['matinee']	0.749089411854
+['20 more child', 'child']	['movie theater']	0.243066958174
+['20 more child', 'child']	['4.50 dollar']	0.137226694069
+['20 more child', 'child']	['dollar']	0.317338823373
+['20 more child', 'child']	['6.75 dollar']	0.137226694069
+['20 more child', 'child']	['adult']	0.916245119698
+['20 more child', 'child']	['today matinee']	0.220169227143
+['20 more child', 'child']	['receipt']	0.492507671521
+['20 more child', 'child']	['405 dollar']	0.137226694069
+['receipt', 'child']	['matinee']	0.412891595597
+['receipt', 'child']	['movie theater']	0.103900214063
+['receipt', 'child']	['4.50 dollar']	0.0669904799604
+['receipt', 'child']	['dollar']	0.0074803794959
+['receipt', 'child']	['6.75 dollar']	0.0669904799604
+['receipt', 'child']	['adult']	0.145047417933
+['receipt', 'child']	['today matinee']	0.0746958245975
+['receipt', 'child']	['20 more child']	0.721091434079
+['receipt', 'child']	['405 dollar']	0.0669904799604
+['405 dollar', 'child']	['matinee']	0.746794143912
+['405 dollar', 'child']	['movie theater']	0.0696933362217
+['405 dollar', 'child']	['4.50 dollar']	0.494524508322
+['405 dollar', 'child']	['dollar']	0.473839383642
+['405 dollar', 'child']	['6.75 dollar']	0.494524508322
+['405 dollar', 'child']	['adult']	0.727763592624
+['405 dollar', 'child']	['today matinee']	0.0746958245975
+['405 dollar', 'child']	['20 more child']	0.676492752268
+['405 dollar', 'child']	['receipt']	0.34144854005
+['matinee', 'dollar']	['movie theater']	0.0774382987339
+['matinee', 'dollar']	['4.50 dollar']	0.391849831526
+['matinee', 'dollar']	['child']	0.0813779484514
+['matinee', 'dollar']	['6.75 dollar']	0.391849831526
+['matinee', 'dollar']	['adult']	0.0884635701291
+['matinee', 'dollar']	['today matinee']	0.29774979676
+['matinee', 'dollar']	['20 more child']	0.0829349518718
+['matinee', 'dollar']	['receipt']	0.139444825107
+['matinee', 'dollar']	['405 dollar']	0.332721804216
+['movie theater', 'dollar']	['matinee']	0.245509819925
+['movie theater', 'dollar']	['4.50 dollar']	0.380321401688
+['movie theater', 'dollar']	['child']	0.274095901825
+['movie theater', 'dollar']	['6.75 dollar']	0.380321401688
+['movie theater', 'dollar']	['adult']	0.0253902274763
+['movie theater', 'dollar']	['today matinee']	0.0187492693053
+['movie theater', 'dollar']	['20 more child']	0.0208571041899
+['movie theater', 'dollar']	['receipt']	0.408969869121
+['movie theater', 'dollar']	['405 dollar']	0.299367977552
+['4.50 dollar', 'dollar']	['matinee']	0.313982861585
+['4.50 dollar', 'dollar']	['movie theater']	0.0698675290335
+['4.50 dollar', 'dollar']	['child']	0.413384021113
+['4.50 dollar', 'dollar']	['6.75 dollar']	0.732805939382
+['4.50 dollar', 'dollar']	['adult']	0.242098951783
+['4.50 dollar', 'dollar']	['today matinee']	0.101920210768
+['4.50 dollar', 'dollar']	['20 more child']	0.18893649943
+['4.50 dollar', 'dollar']	['receipt']	0.44823393508
+['4.50 dollar', 'dollar']	['405 dollar']	0.690954327877
+['child', 'dollar']	['matinee']	0.103553874377
+['child', 'dollar']	['movie theater']	0.0774382987339
+['child', 'dollar']	['4.50 dollar']	0.391849831526
+['child', 'dollar']	['6.75 dollar']	0.391849831526
+['child', 'dollar']	['adult']	0.299214064086
+['child', 'dollar']	['today matinee']	0.0820008259074
+['child', 'dollar']	['20 more child']	0.298939739414
+['child', 'dollar']	['receipt']	0.107529028485
+['child', 'dollar']	['405 dollar']	0.332721804216
+['6.75 dollar', 'dollar']	['matinee']	0.313982861585
+['6.75 dollar', 'dollar']	['movie theater']	0.0698675290335
+['6.75 dollar', 'dollar']	['4.50 dollar']	0.732805939382
+['6.75 dollar', 'dollar']	['child']	0.413384021113
+['6.75 dollar', 'dollar']	['adult']	0.242098951783
+['6.75 dollar', 'dollar']	['today matinee']	0.101920210768
+['6.75 dollar', 'dollar']	['20 more child']	0.18893649943
+['6.75 dollar', 'dollar']	['receipt']	0.44823393508
+['6.75 dollar', 'dollar']	['405 dollar']	0.690954327877
+['adult', 'dollar']	['matinee']	0.181509585182
+['adult', 'dollar']	['movie theater']	0.0774382987339
+['adult', 'dollar']	['4.50 dollar']	0.391849831526
+['adult', 'dollar']	['child']	0.0880181600916
+['adult', 'dollar']	['6.75 dollar']	0.391849831526
+['adult', 'dollar']	['today matinee']	0.0820008259074
+['adult', 'dollar']	['20 more child']	0.146609015566
+['adult', 'dollar']	['receipt']	0.0919933141992
+['adult', 'dollar']	['405 dollar']	0.332721804216
+['today matinee', 'dollar']	['matinee']	0.422452507824
+['today matinee', 'dollar']	['movie theater']	0.0774382987339
+['today matinee', 'dollar']	['4.50 dollar']	0.380321401688
+['today matinee', 'dollar']	['child']	0.308712303942
+['today matinee', 'dollar']	['6.75 dollar']	0.380321401688
+['today matinee', 'dollar']	['adult']	0.0886417840784
+['today matinee', 'dollar']	['20 more child']	0.0829349518718
+['today matinee', 'dollar']	['receipt']	0.315999915346
+['today matinee', 'dollar']	['405 dollar']	0.299367977552
+['20 more child', 'dollar']	['matinee']	0.180033629449
+['20 more child', 'dollar']	['movie theater']	0.015360451052
+['20 more child', 'dollar']	['4.50 dollar']	0.356496055166
+['20 more child', 'dollar']	['child']	0.475399284435
+['20 more child', 'dollar']	['6.75 dollar']	0.356496055166
+['20 more child', 'dollar']	['adult']	0.21871797188
+['20 more child', 'dollar']	['today matinee']	0.0187492693053
+['20 more child', 'dollar']	['receipt']	0.274505206352
+['20 more child', 'dollar']	['405 dollar']	0.280517755408
+['receipt', 'dollar']	['matinee']	0.0519802710688
+['receipt', 'dollar']	['movie theater']	0.0311160689586
+['receipt', 'dollar']	['4.50 dollar']	0.425413806829
+['receipt', 'dollar']	['child']	0.062720541044
+['receipt', 'dollar']	['6.75 dollar']	0.425413806829
+['receipt', 'dollar']	['adult']	0.258380730753
+['receipt', 'dollar']	['today matinee']	0.0187492693053
+['receipt', 'dollar']	['20 more child']	0.0208571041899
+['receipt', 'dollar']	['405 dollar']	0.313917110354
+['405 dollar', 'dollar']	['matinee']	0.313982861585
+['405 dollar', 'dollar']	['movie theater']	0.0698675290335
+['405 dollar', 'dollar']	['4.50 dollar']	0.732805939382
+['405 dollar', 'dollar']	['child']	0.413384021113
+['405 dollar', 'dollar']	['6.75 dollar']	0.732805939382
+['405 dollar', 'dollar']	['adult']	0.242098951783
+['405 dollar', 'dollar']	['today matinee']	0.101920210768
+['405 dollar', 'dollar']	['20 more child']	0.18893649943
+['405 dollar', 'dollar']	['receipt']	0.44823393508
+['matinee', '6.75 dollar']	['movie theater']	0.0696933362217
+['matinee', '6.75 dollar']	['4.50 dollar']	0.488722073866
+['matinee', '6.75 dollar']	['child']	0.735171000031
+['matinee', '6.75 dollar']	['dollar']	0.476336488304
+['matinee', '6.75 dollar']	['adult']	0.233883475557
+['matinee', '6.75 dollar']	['today matinee']	0.609263071078
+['matinee', '6.75 dollar']	['20 more child']	0.080802298149
+['matinee', '6.75 dollar']	['receipt']	0.301808200776
+['matinee', '6.75 dollar']	['405 dollar']	0.488722073866
+['movie theater', '6.75 dollar']	['matinee']	0.0774561735493
+['movie theater', '6.75 dollar']	['4.50 dollar']	0.584269096576
+['movie theater', '6.75 dollar']	['child']	0.0741073489195
+['movie theater', '6.75 dollar']	['dollar']	0.265381505022
+['movie theater', '6.75 dollar']	['adult']	0.0741073489195
+['movie theater', '6.75 dollar']	['today matinee']	0.0824069519204
+['movie theater', '6.75 dollar']	['20 more child']	0.0908034291173
+['movie theater', '6.75 dollar']	['receipt']	0.170171263305
+['movie theater', '6.75 dollar']	['405 dollar']	0.584269096576
+['4.50 dollar', '6.75 dollar']	['matinee']	0.33665242287
+['4.50 dollar', '6.75 dollar']	['movie theater']	0.139258682248
+['4.50 dollar', '6.75 dollar']	['child']	0.345269105941
+['4.50 dollar', '6.75 dollar']	['dollar']	0.786579749845
+['4.50 dollar', '6.75 dollar']	['adult']	0.345269105941
+['4.50 dollar', '6.75 dollar']	['today matinee']	0.14699641653
+['4.50 dollar', '6.75 dollar']	['20 more child']	0.297805101442
+['4.50 dollar', '6.75 dollar']	['receipt']	0.37370815508
+['4.50 dollar', '6.75 dollar']	['405 dollar']	0.637144068101
+['child', '6.75 dollar']	['matinee']	0.746794143912
+['child', '6.75 dollar']	['movie theater']	0.0696933362217
+['child', '6.75 dollar']	['4.50 dollar']	0.494524508322
+['child', '6.75 dollar']	['dollar']	0.479622873281
+['child', '6.75 dollar']	['adult']	0.727763592624
+['child', '6.75 dollar']	['today matinee']	0.0746958245975
+['child', '6.75 dollar']	['20 more child']	0.676492752268
+['child', '6.75 dollar']	['receipt']	0.34144854005
+['child', '6.75 dollar']	['405 dollar']	0.494524508322
+['dollar', '6.75 dollar']	['matinee']	0.313982861585
+['dollar', '6.75 dollar']	['movie theater']	0.0698675290335
+['dollar', '6.75 dollar']	['4.50 dollar']	0.732805939382
+['dollar', '6.75 dollar']	['child']	0.413384021113
+['dollar', '6.75 dollar']	['adult']	0.242098951783
+['dollar', '6.75 dollar']	['today matinee']	0.101920210768
+['dollar', '6.75 dollar']	['20 more child']	0.18893649943
+['dollar', '6.75 dollar']	['receipt']	0.44823393508
+['dollar', '6.75 dollar']	['405 dollar']	0.690954327877
+['adult', '6.75 dollar']	['matinee']	0.233883475557
+['adult', '6.75 dollar']	['movie theater']	0.0696933362217
+['adult', '6.75 dollar']	['4.50 dollar']	0.494524508322
+['adult', '6.75 dollar']	['child']	0.727763592624
+['adult', '6.75 dollar']	['dollar']	0.478387264155
+['adult', '6.75 dollar']	['today matinee']	0.0746958245975
+['adult', '6.75 dollar']	['20 more child']	0.277449580695
+['adult', '6.75 dollar']	['receipt']	0.715962457614
+['adult', '6.75 dollar']	['405 dollar']	0.494524508322
+['today matinee', '6.75 dollar']	['matinee']	0.568210810472
+['today matinee', '6.75 dollar']	['movie theater']	0.0696933362217
+['today matinee', '6.75 dollar']	['4.50 dollar']	0.544221442934
+['today matinee', '6.75 dollar']	['child']	0.0650959234194
+['today matinee', '6.75 dollar']	['dollar']	0.279641754576
+['today matinee', '6.75 dollar']	['adult']	0.0650959234194
+['today matinee', '6.75 dollar']	['20 more child']	0.0828503410239
+['today matinee', '6.75 dollar']	['receipt']	0.0634148935911
+['today matinee', '6.75 dollar']	['405 dollar']	0.544221442934
+['20 more child', '6.75 dollar']	['matinee']	0.148807562081
+['20 more child', '6.75 dollar']	['movie theater']	0.152238479479
+['20 more child', '6.75 dollar']	['4.50 dollar']	0.653642048458
+['20 more child', '6.75 dollar']	['child']	0.852578612249
+['20 more child', '6.75 dollar']	['dollar']	0.372988795832
+['20 more child', '6.75 dollar']	['adult']	0.420402666457
+['20 more child', '6.75 dollar']	['today matinee']	0.151484162343
+['20 more child', '6.75 dollar']	['receipt']	0.14394151833
+['20 more child', '6.75 dollar']	['405 dollar']	0.653642048458
+['receipt', '6.75 dollar']	['matinee']	0.252619893256
+['receipt', '6.75 dollar']	['movie theater']	0.124206600218
+['receipt', '6.75 dollar']	['4.50 dollar']	0.520866309821
+['receipt', '6.75 dollar']	['child']	0.290137159502
+['receipt', '6.75 dollar']	['dollar']	0.488250324261
+['receipt', '6.75 dollar']	['adult']	0.714819826809
+['receipt', '6.75 dollar']	['today matinee']	0.0824069519204
+['receipt', '6.75 dollar']	['20 more child']	0.0887553862424
+['receipt', '6.75 dollar']	['405 dollar']	0.520866309821
+['405 dollar', '6.75 dollar']	['matinee']	0.33665242287
+['405 dollar', '6.75 dollar']	['movie theater']	0.139258682248
+['405 dollar', '6.75 dollar']	['4.50 dollar']	0.637144068101
+['405 dollar', '6.75 dollar']	['child']	0.345269105941
+['405 dollar', '6.75 dollar']	['dollar']	0.707694262291
+['405 dollar', '6.75 dollar']	['adult']	0.345269105941
+['405 dollar', '6.75 dollar']	['today matinee']	0.14699641653
+['405 dollar', '6.75 dollar']	['20 more child']	0.297805101442
+['405 dollar', '6.75 dollar']	['receipt']	0.37370815508
+['matinee', 'adult']	['movie theater']	0.128422359274
+['matinee', 'adult']	['4.50 dollar']	0.131771183904
+['matinee', 'adult']	['child']	0.182144265315
+['matinee', 'adult']	['dollar']	0.175349505
+['matinee', 'adult']	['6.75 dollar']	0.131771183904
+['matinee', 'adult']	['today matinee']	0.606004061622
+['matinee', 'adult']	['20 more child']	0.303375506621
+['matinee', 'adult']	['receipt']	0.460970379302
+['matinee', 'adult']	['405 dollar']	0.131771183904
+['movie theater', 'adult']	['matinee']	0.249411055421
+['movie theater', 'adult']	['4.50 dollar']	0.0696933362217
+['movie theater', 'adult']	['child']	0.730631699211
+['movie theater', 'adult']	['dollar']	0.0132392551335
+['movie theater', 'adult']	['6.75 dollar']	0.0696933362217
+['movie theater', 'adult']	['today matinee']	0.0746958245975
+['movie theater', 'adult']	['20 more child']	0.278894845147
+['movie theater', 'adult']	['receipt']	0.850998723131
+['movie theater', 'adult']	['405 dollar']	0.0696933362217
+['4.50 dollar', 'adult']	['matinee']	0.233883475557
+['4.50 dollar', 'adult']	['movie theater']	0.0696933362217
+['4.50 dollar', 'adult']	['child']	0.727763592624
+['4.50 dollar', 'adult']	['dollar']	0.478387264155
+['4.50 dollar', 'adult']	['6.75 dollar']	0.494524508322
+['4.50 dollar', 'adult']	['today matinee']	0.0746958245975
+['4.50 dollar', 'adult']	['20 more child']	0.277449580695
+['4.50 dollar', 'adult']	['receipt']	0.715962457614
+['4.50 dollar', 'adult']	['405 dollar']	0.494524508322
+['child', 'adult']	['matinee']	0.630122433817
+['child', 'adult']	['movie theater']	0.128422359274
+['child', 'adult']	['4.50 dollar']	0.131771183904
+['child', 'adult']	['dollar']	0.250449323984
+['child', 'adult']	['6.75 dollar']	0.131771183904
+['child', 'adult']	['today matinee']	0.136773672279
+['child', 'adult']	['20 more child']	0.769481446244
+['child', 'adult']	['receipt']	0.445012329415
+['child', 'adult']	['405 dollar']	0.131771183904
+['dollar', 'adult']	['matinee']	0.181509585182
+['dollar', 'adult']	['movie theater']	0.0774382987339
+['dollar', 'adult']	['4.50 dollar']	0.391849831526
+['dollar', 'adult']	['child']	0.0880181600916
+['dollar', 'adult']	['6.75 dollar']	0.391849831526
+['dollar', 'adult']	['today matinee']	0.0820008259074
+['dollar', 'adult']	['20 more child']	0.146609015566
+['dollar', 'adult']	['receipt']	0.0919933141992
+['dollar', 'adult']	['405 dollar']	0.332721804216
+['6.75 dollar', 'adult']	['matinee']	0.233883475557
+['6.75 dollar', 'adult']	['movie theater']	0.0696933362217
+['6.75 dollar', 'adult']	['4.50 dollar']	0.494524508322
+['6.75 dollar', 'adult']	['child']	0.727763592624
+['6.75 dollar', 'adult']	['dollar']	0.478387264155
+['6.75 dollar', 'adult']	['today matinee']	0.0746958245975
+['6.75 dollar', 'adult']	['20 more child']	0.277449580695
+['6.75 dollar', 'adult']	['receipt']	0.715962457614
+['6.75 dollar', 'adult']	['405 dollar']	0.494524508322
+['today matinee', 'adult']	['matinee']	0.707959729355
+['today matinee', 'adult']	['movie theater']	0.128422359274
+['today matinee', 'adult']	['4.50 dollar']	0.131771183904
+['today matinee', 'adult']	['child']	0.752403977884
+['today matinee', 'adult']	['dollar']	0.0803239632141
+['today matinee', 'adult']	['6.75 dollar']	0.131771183904
+['today matinee', 'adult']	['20 more child']	0.31918649307
+['today matinee', 'adult']	['receipt']	0.733849828863
+['today matinee', 'adult']	['405 dollar']	0.131771183904
+['20 more child', 'adult']	['matinee']	0.198940381648
+['20 more child', 'adult']	['movie theater']	0.0696933362217
+['20 more child', 'adult']	['4.50 dollar']	0.0696933362217
+['20 more child', 'adult']	['child']	0.862156084175
+['20 more child', 'adult']	['dollar']	0.0124835876272
+['20 more child', 'adult']	['6.75 dollar']	0.0696933362217
+['20 more child', 'adult']	['today matinee']	0.0700467017905
+['20 more child', 'adult']	['receipt']	0.723520036452
+['20 more child', 'adult']	['405 dollar']	0.0696933362217
+['receipt', 'adult']	['matinee']	0.288831935037
+['receipt', 'adult']	['movie theater']	0.103900214063
+['receipt', 'adult']	['4.50 dollar']	0.0669904799604
+['receipt', 'adult']	['child']	0.405822434599
+['receipt', 'adult']	['dollar']	0.183782657317
+['receipt', 'adult']	['6.75 dollar']	0.0669904799604
+['receipt', 'adult']	['today matinee']	0.0746958245975
+['receipt', 'adult']	['20 more child']	0.293260567145
+['receipt', 'adult']	['405 dollar']	0.0669904799604
+['405 dollar', 'adult']	['matinee']	0.233883475557
+['405 dollar', 'adult']	['movie theater']	0.0696933362217
+['405 dollar', 'adult']	['4.50 dollar']	0.494524508322
+['405 dollar', 'adult']	['child']	0.727763592624
+['405 dollar', 'adult']	['dollar']	0.460278072935
+['405 dollar', 'adult']	['6.75 dollar']	0.494524508322
+['405 dollar', 'adult']	['today matinee']	0.0746958245975
+['405 dollar', 'adult']	['20 more child']	0.277449580695
+['405 dollar', 'adult']	['receipt']	0.715962457614
+['matinee', 'today matinee']	['movie theater']	0.293845130856
+['matinee', 'today matinee']	['4.50 dollar']	0.195306454053
+['matinee', 'today matinee']	['child']	0.780842053053
+['matinee', 'today matinee']	['dollar']	0.291412897447
+['matinee', 'today matinee']	['6.75 dollar']	0.195306454053
+['matinee', 'today matinee']	['adult']	0.614715258476
+['matinee', 'today matinee']	['20 more child']	0.422784908969
+['matinee', 'today matinee']	['receipt']	0.600251821886
+['matinee', 'today matinee']	['405 dollar']	0.195306454053
+['movie theater', 'today matinee']	['matinee']	0.707134848558
+['movie theater', 'today matinee']	['4.50 dollar']	0.0737139440912
+['movie theater', 'today matinee']	['child']	0.0650959234194
+['movie theater', 'today matinee']	['dollar']	0.00222717737084
+['movie theater', 'today matinee']	['6.75 dollar']	0.0737139440912
+['movie theater', 'today matinee']	['adult']	0.0650959234194
+['movie theater', 'today matinee']	['20 more child']	0.0885621548936
+['movie theater', 'today matinee']	['receipt']	0.114277816392
+['movie theater', 'today matinee']	['405 dollar']	0.0737139440912
+['4.50 dollar', 'today matinee']	['matinee']	0.568210810472
+['4.50 dollar', 'today matinee']	['movie theater']	0.0696933362217
+['4.50 dollar', 'today matinee']	['child']	0.0650959234194
+['4.50 dollar', 'today matinee']	['dollar']	0.279641754576
+['4.50 dollar', 'today matinee']	['6.75 dollar']	0.544221442934
+['4.50 dollar', 'today matinee']	['adult']	0.0650959234194
+['4.50 dollar', 'today matinee']	['20 more child']	0.0828503410239
+['4.50 dollar', 'today matinee']	['receipt']	0.0634148935911
+['4.50 dollar', 'today matinee']	['405 dollar']	0.544221442934
+['child', 'today matinee']	['matinee']	0.850355866501
+['child', 'today matinee']	['movie theater']	0.128422359274
+['child', 'today matinee']	['4.50 dollar']	0.131771183904
+['child', 'today matinee']	['dollar']	0.243348924383
+['child', 'today matinee']	['6.75 dollar']	0.131771183904
+['child', 'today matinee']	['adult']	0.752403977884
+['child', 'today matinee']	['20 more child']	0.770482459279
+['child', 'today matinee']	['receipt']	0.408396517602
+['child', 'today matinee']	['405 dollar']	0.131771183904
+['dollar', 'today matinee']	['matinee']	0.422452507824
+['dollar', 'today matinee']	['movie theater']	0.0774382987339
+['dollar', 'today matinee']	['4.50 dollar']	0.380321401688
+['dollar', 'today matinee']	['child']	0.308712303942
+['dollar', 'today matinee']	['6.75 dollar']	0.380321401688
+['dollar', 'today matinee']	['adult']	0.0886417840784
+['dollar', 'today matinee']	['20 more child']	0.0829349518718
+['dollar', 'today matinee']	['receipt']	0.315999915346
+['dollar', 'today matinee']	['405 dollar']	0.299367977552
+['6.75 dollar', 'today matinee']	['matinee']	0.568210810472
+['6.75 dollar', 'today matinee']	['movie theater']	0.0696933362217
+['6.75 dollar', 'today matinee']	['4.50 dollar']	0.544221442934
+['6.75 dollar', 'today matinee']	['child']	0.0650959234194
+['6.75 dollar', 'today matinee']	['dollar']	0.279641754576
+['6.75 dollar', 'today matinee']	['adult']	0.0650959234194
+['6.75 dollar', 'today matinee']	['20 more child']	0.0828503410239
+['6.75 dollar', 'today matinee']	['receipt']	0.0634148935911
+['6.75 dollar', 'today matinee']	['405 dollar']	0.544221442934
+['adult', 'today matinee']	['matinee']	0.707959729355
+['adult', 'today matinee']	['movie theater']	0.128422359274
+['adult', 'today matinee']	['4.50 dollar']	0.131771183904
+['adult', 'today matinee']	['child']	0.752403977884
+['adult', 'today matinee']	['dollar']	0.0803239632141
+['adult', 'today matinee']	['6.75 dollar']	0.131771183904
+['adult', 'today matinee']	['20 more child']	0.31918649307
+['adult', 'today matinee']	['receipt']	0.733849828863
+['adult', 'today matinee']	['405 dollar']	0.131771183904
+['20 more child', 'today matinee']	['matinee']	0.679383863187
+['20 more child', 'today matinee']	['movie theater']	0.124856540438
+['20 more child', 'today matinee']	['4.50 dollar']	0.128877148308
+['20 more child', 'today matinee']	['child']	0.716216072288
+['20 more child', 'today matinee']	['dollar']	0.00371585050999
+['20 more child', 'today matinee']	['6.75 dollar']	0.128877148308
+['20 more child', 'today matinee']	['adult']	0.332617708131
+['20 more child', 'today matinee']	['receipt']	0.121926922437
+['20 more child', 'today matinee']	['405 dollar']	0.128877148308
+['receipt', 'today matinee']	['matinee']	0.813226236872
+['receipt', 'today matinee']	['movie theater']	0.110821652261
+['receipt', 'today matinee']	['4.50 dollar']	0.0703393045902
+['receipt', 'today matinee']	['child']	0.287172632079
+['receipt', 'today matinee']	['dollar']	0.176682257717
+['receipt', 'today matinee']	['6.75 dollar']	0.0703393045902
+['receipt', 'today matinee']	['adult']	0.739386736505
+['receipt', 'today matinee']	['20 more child']	0.0865141120187
+['receipt', 'today matinee']	['405 dollar']	0.0703393045902
+['405 dollar', 'today matinee']	['matinee']	0.568210810472
+['405 dollar', 'today matinee']	['movie theater']	0.0696933362217
+['405 dollar', 'today matinee']	['4.50 dollar']	0.544221442934
+['405 dollar', 'today matinee']	['child']	0.0650959234194
+['405 dollar', 'today matinee']	['dollar']	0.284433170112
+['405 dollar', 'today matinee']	['6.75 dollar']	0.544221442934
+['405 dollar', 'today matinee']	['adult']	0.0650959234194
+['405 dollar', 'today matinee']	['20 more child']	0.0828503410239
+['405 dollar', 'today matinee']	['receipt']	0.0634148935911
+['matinee', '20 more child']	['movie theater']	0.0696933362217
+['matinee', '20 more child']	['4.50 dollar']	0.0696933362217
+['matinee', '20 more child']	['child']	0.858564613917
+['matinee', '20 more child']	['dollar']	0.13863511967
+['matinee', '20 more child']	['6.75 dollar']	0.0696933362217
+['matinee', '20 more child']	['adult']	0.380777802779
+['matinee', '20 more child']	['today matinee']	0.723615534644
+['matinee', '20 more child']	['receipt']	0.2445509648
+['matinee', '20 more child']	['405 dollar']	0.0696933362217
+['movie theater', '20 more child']	['matinee']	0.146533383972
+['movie theater', '20 more child']	['4.50 dollar']	0.15961386663
+['movie theater', '20 more child']	['child']	0.855361417678
+['movie theater', '20 more child']	['dollar']	0.00636410188432
+['movie theater', '20 more child']	['6.75 dollar']	0.15961386663
+['movie theater', '20 more child']	['adult']	0.408334539267
+['movie theater', '20 more child']	['today matinee']	0.151484162343
+['movie theater', '20 more child']	['receipt']	0.226621787345
+['movie theater', '20 more child']	['405 dollar']	0.15961386663
+['4.50 dollar', '20 more child']	['matinee']	0.148807562081
+['4.50 dollar', '20 more child']	['movie theater']	0.152238479479
+['4.50 dollar', '20 more child']	['child']	0.852578612249
+['4.50 dollar', '20 more child']	['dollar']	0.372988795832
+['4.50 dollar', '20 more child']	['6.75 dollar']	0.653642048458
+['4.50 dollar', '20 more child']	['adult']	0.420402666457
+['4.50 dollar', '20 more child']	['today matinee']	0.151484162343
+['4.50 dollar', '20 more child']	['receipt']	0.14394151833
+['4.50 dollar', '20 more child']	['405 dollar']	0.653642048458
+['child', '20 more child']	['matinee']	0.749089411854
+['child', '20 more child']	['movie theater']	0.243066958174
+['child', '20 more child']	['4.50 dollar']	0.137226694069
+['child', '20 more child']	['dollar']	0.317338823373
+['child', '20 more child']	['6.75 dollar']	0.137226694069
+['child', '20 more child']	['adult']	0.916245119698
+['child', '20 more child']	['today matinee']	0.220169227143
+['child', '20 more child']	['receipt']	0.492507671521
+['child', '20 more child']	['405 dollar']	0.137226694069
+['dollar', '20 more child']	['matinee']	0.180033629449
+['dollar', '20 more child']	['movie theater']	0.015360451052
+['dollar', '20 more child']	['4.50 dollar']	0.356496055166
+['dollar', '20 more child']	['child']	0.475399284435
+['dollar', '20 more child']	['6.75 dollar']	0.356496055166
+['dollar', '20 more child']	['adult']	0.21871797188
+['dollar', '20 more child']	['today matinee']	0.0187492693053
+['dollar', '20 more child']	['receipt']	0.274505206352
+['dollar', '20 more child']	['405 dollar']	0.280517755408
+['6.75 dollar', '20 more child']	['matinee']	0.148807562081
+['6.75 dollar', '20 more child']	['movie theater']	0.152238479479
+['6.75 dollar', '20 more child']	['4.50 dollar']	0.653642048458
+['6.75 dollar', '20 more child']	['child']	0.852578612249
+['6.75 dollar', '20 more child']	['dollar']	0.372988795832
+['6.75 dollar', '20 more child']	['adult']	0.420402666457
+['6.75 dollar', '20 more child']	['today matinee']	0.151484162343
+['6.75 dollar', '20 more child']	['receipt']	0.14394151833
+['6.75 dollar', '20 more child']	['405 dollar']	0.653642048458
+['adult', '20 more child']	['matinee']	0.198940381648
+['adult', '20 more child']	['movie theater']	0.0696933362217
+['adult', '20 more child']	['4.50 dollar']	0.0696933362217
+['adult', '20 more child']	['child']	0.862156084175
+['adult', '20 more child']	['dollar']	0.0124835876272
+['adult', '20 more child']	['6.75 dollar']	0.0696933362217
+['adult', '20 more child']	['today matinee']	0.0700467017905
+['adult', '20 more child']	['receipt']	0.723520036452
+['adult', '20 more child']	['405 dollar']	0.0696933362217
+['today matinee', '20 more child']	['matinee']	0.679383863187
+['today matinee', '20 more child']	['movie theater']	0.124856540438
+['today matinee', '20 more child']	['4.50 dollar']	0.128877148308
+['today matinee', '20 more child']	['child']	0.716216072288
+['today matinee', '20 more child']	['dollar']	0.00371585050999
+['today matinee', '20 more child']	['6.75 dollar']	0.128877148308
+['today matinee', '20 more child']	['adult']	0.332617708131
+['today matinee', '20 more child']	['receipt']	0.121926922437
+['today matinee', '20 more child']	['405 dollar']	0.128877148308
+['receipt', '20 more child']	['matinee']	0.252619893256
+['receipt', '20 more child']	['movie theater']	0.140649313257
+['receipt', '20 more child']	['4.50 dollar']	0.0833805889219
+['receipt', '20 more child']	['child']	0.829089005141
+['receipt', '20 more child']	['dollar']	0.203974190213
+['receipt', '20 more child']	['6.75 dollar']	0.0833805889219
+['receipt', '20 more child']	['adult']	0.767679689218
+['receipt', '20 more child']	['today matinee']	0.0790581272906
+['receipt', '20 more child']	['405 dollar']	0.0833805889219
+['405 dollar', '20 more child']	['matinee']	0.148807562081
+['405 dollar', '20 more child']	['movie theater']	0.152238479479
+['405 dollar', '20 more child']	['4.50 dollar']	0.653642048458
+['405 dollar', '20 more child']	['child']	0.852578612249
+['405 dollar', '20 more child']	['dollar']	0.35702613896
+['405 dollar', '20 more child']	['6.75 dollar']	0.653642048458
+['405 dollar', '20 more child']	['adult']	0.420402666457
+['405 dollar', '20 more child']	['today matinee']	0.151484162343
+['405 dollar', '20 more child']	['receipt']	0.14394151833
+['matinee', 'receipt']	['movie theater']	0.110821652261
+['matinee', 'receipt']	['4.50 dollar']	0.0669904799604
+['matinee', 'receipt']	['child']	0.39693354571
+['matinee', 'receipt']	['dollar']	0.0074803794959
+['matinee', 'receipt']	['6.75 dollar']	0.0669904799604
+['matinee', 'receipt']	['adult']	0.625994081327
+['matinee', 'receipt']	['today matinee']	0.724971976556
+['matinee', 'receipt']	['20 more child']	0.0865141120187
+['matinee', 'receipt']	['405 dollar']	0.0669904799604
+['movie theater', 'receipt']	['matinee']	0.314747259102
+['movie theater', 'receipt']	['4.50 dollar']	0.0833805889219
+['movie theater', 'receipt']	['child']	0.352264525349
+['movie theater', 'receipt']	['dollar']	0.203974190213
+['movie theater', 'receipt']	['6.75 dollar']	0.0833805889219
+['movie theater', 'receipt']	['adult']	0.717687933396
+['movie theater', 'receipt']	['today matinee']	0.0824069519204
+['movie theater', 'receipt']	['20 more child']	0.094467200112
+['movie theater', 'receipt']	['405 dollar']	0.0833805889219
+['4.50 dollar', 'receipt']	['matinee']	0.252619893256
+['4.50 dollar', 'receipt']	['movie theater']	0.124206600218
+['4.50 dollar', 'receipt']	['child']	0.290137159502
+['4.50 dollar', 'receipt']	['dollar']	0.488250324261
+['4.50 dollar', 'receipt']	['6.75 dollar']	0.520866309821
+['4.50 dollar', 'receipt']	['adult']	0.714819826809
+['4.50 dollar', 'receipt']	['today matinee']	0.0824069519204
+['4.50 dollar', 'receipt']	['20 more child']	0.0887553862424
+['4.50 dollar', 'receipt']	['405 dollar']	0.520866309821
+['child', 'receipt']	['matinee']	0.412891595597
+['child', 'receipt']	['movie theater']	0.103900214063
+['child', 'receipt']	['4.50 dollar']	0.0669904799604
+['child', 'receipt']	['dollar']	0.0074803794959
+['child', 'receipt']	['6.75 dollar']	0.0669904799604
+['child', 'receipt']	['adult']	0.145047417933
+['child', 'receipt']	['today matinee']	0.0746958245975
+['child', 'receipt']	['20 more child']	0.721091434079
+['child', 'receipt']	['405 dollar']	0.0669904799604
+['dollar', 'receipt']	['matinee']	0.0519802710688
+['dollar', 'receipt']	['movie theater']	0.0311160689586
+['dollar', 'receipt']	['4.50 dollar']	0.425413806829
+['dollar', 'receipt']	['child']	0.062720541044
+['dollar', 'receipt']	['6.75 dollar']	0.425413806829
+['dollar', 'receipt']	['adult']	0.258380730753
+['dollar', 'receipt']	['today matinee']	0.0187492693053
+['dollar', 'receipt']	['20 more child']	0.0208571041899
+['dollar', 'receipt']	['405 dollar']	0.313917110354
+['6.75 dollar', 'receipt']	['matinee']	0.252619893256
+['6.75 dollar', 'receipt']	['movie theater']	0.124206600218
+['6.75 dollar', 'receipt']	['4.50 dollar']	0.520866309821
+['6.75 dollar', 'receipt']	['child']	0.290137159502
+['6.75 dollar', 'receipt']	['dollar']	0.488250324261
+['6.75 dollar', 'receipt']	['adult']	0.714819826809
+['6.75 dollar', 'receipt']	['today matinee']	0.0824069519204
+['6.75 dollar', 'receipt']	['20 more child']	0.0887553862424
+['6.75 dollar', 'receipt']	['405 dollar']	0.520866309821
+['adult', 'receipt']	['matinee']	0.288831935037
+['adult', 'receipt']	['movie theater']	0.103900214063
+['adult', 'receipt']	['4.50 dollar']	0.0669904799604
+['adult', 'receipt']	['child']	0.405822434599
+['adult', 'receipt']	['dollar']	0.183782657317
+['adult', 'receipt']	['6.75 dollar']	0.0669904799604
+['adult', 'receipt']	['today matinee']	0.0746958245975
+['adult', 'receipt']	['20 more child']	0.293260567145
+['adult', 'receipt']	['405 dollar']	0.0669904799604
+['today matinee', 'receipt']	['matinee']	0.813226236872
+['today matinee', 'receipt']	['movie theater']	0.110821652261
+['today matinee', 'receipt']	['4.50 dollar']	0.0703393045902
+['today matinee', 'receipt']	['child']	0.287172632079
+['today matinee', 'receipt']	['dollar']	0.176682257717
+['today matinee', 'receipt']	['6.75 dollar']	0.0703393045902
+['today matinee', 'receipt']	['adult']	0.739386736505
+['today matinee', 'receipt']	['20 more child']	0.0865141120187
+['today matinee', 'receipt']	['405 dollar']	0.0703393045902
+['20 more child', 'receipt']	['matinee']	0.252619893256
+['20 more child', 'receipt']	['movie theater']	0.140649313257
+['20 more child', 'receipt']	['4.50 dollar']	0.0833805889219
+['20 more child', 'receipt']	['child']	0.829089005141
+['20 more child', 'receipt']	['dollar']	0.203974190213
+['20 more child', 'receipt']	['6.75 dollar']	0.0833805889219
+['20 more child', 'receipt']	['adult']	0.767679689218
+['20 more child', 'receipt']	['today matinee']	0.0790581272906
+['20 more child', 'receipt']	['405 dollar']	0.0833805889219
+['405 dollar', 'receipt']	['matinee']	0.252619893256
+['405 dollar', 'receipt']	['movie theater']	0.124206600218
+['405 dollar', 'receipt']	['4.50 dollar']	0.520866309821
+['405 dollar', 'receipt']	['child']	0.290137159502
+['405 dollar', 'receipt']	['dollar']	0.442466834622
+['405 dollar', 'receipt']	['6.75 dollar']	0.520866309821
+['405 dollar', 'receipt']	['adult']	0.714819826809
+['405 dollar', 'receipt']	['today matinee']	0.0824069519204
+['405 dollar', 'receipt']	['20 more child']	0.0887553862424
+['matinee', '405 dollar']	['movie theater']	0.0696933362217
+['matinee', '405 dollar']	['4.50 dollar']	0.488722073866
+['matinee', '405 dollar']	['child']	0.735171000031
+['matinee', '405 dollar']	['dollar']	0.470552998665
+['matinee', '405 dollar']	['6.75 dollar']	0.488722073866
+['matinee', '405 dollar']	['adult']	0.233883475557
+['matinee', '405 dollar']	['today matinee']	0.609263071078
+['matinee', '405 dollar']	['20 more child']	0.080802298149
+['matinee', '405 dollar']	['receipt']	0.301808200776
+['movie theater', '405 dollar']	['matinee']	0.0774561735493
+['movie theater', '405 dollar']	['4.50 dollar']	0.584269096576
+['movie theater', '405 dollar']	['child']	0.0741073489195
+['movie theater', '405 dollar']	['dollar']	0.236839587224
+['movie theater', '405 dollar']	['6.75 dollar']	0.584269096576
+['movie theater', '405 dollar']	['adult']	0.0741073489195
+['movie theater', '405 dollar']	['today matinee']	0.0824069519204
+['movie theater', '405 dollar']	['20 more child']	0.0908034291173
+['movie theater', '405 dollar']	['receipt']	0.170171263305
+['4.50 dollar', '405 dollar']	['matinee']	0.33665242287
+['4.50 dollar', '405 dollar']	['movie theater']	0.139258682248
+['4.50 dollar', '405 dollar']	['child']	0.345269105941
+['4.50 dollar', '405 dollar']	['dollar']	0.707694262291
+['4.50 dollar', '405 dollar']	['6.75 dollar']	0.637144068101
+['4.50 dollar', '405 dollar']	['adult']	0.345269105941
+['4.50 dollar', '405 dollar']	['today matinee']	0.14699641653
+['4.50 dollar', '405 dollar']	['20 more child']	0.297805101442
+['4.50 dollar', '405 dollar']	['receipt']	0.37370815508
+['child', '405 dollar']	['matinee']	0.746794143912
+['child', '405 dollar']	['movie theater']	0.0696933362217
+['child', '405 dollar']	['4.50 dollar']	0.494524508322
+['child', '405 dollar']	['dollar']	0.473839383642
+['child', '405 dollar']	['6.75 dollar']	0.494524508322
+['child', '405 dollar']	['adult']	0.727763592624
+['child', '405 dollar']	['today matinee']	0.0746958245975
+['child', '405 dollar']	['20 more child']	0.676492752268
+['child', '405 dollar']	['receipt']	0.34144854005
+['dollar', '405 dollar']	['matinee']	0.313982861585
+['dollar', '405 dollar']	['movie theater']	0.0698675290335
+['dollar', '405 dollar']	['4.50 dollar']	0.732805939382
+['dollar', '405 dollar']	['child']	0.413384021113
+['dollar', '405 dollar']	['6.75 dollar']	0.732805939382
+['dollar', '405 dollar']	['adult']	0.242098951783
+['dollar', '405 dollar']	['today matinee']	0.101920210768
+['dollar', '405 dollar']	['20 more child']	0.18893649943
+['dollar', '405 dollar']	['receipt']	0.44823393508
+['6.75 dollar', '405 dollar']	['matinee']	0.33665242287
+['6.75 dollar', '405 dollar']	['movie theater']	0.139258682248
+['6.75 dollar', '405 dollar']	['4.50 dollar']	0.637144068101
+['6.75 dollar', '405 dollar']	['child']	0.345269105941
+['6.75 dollar', '405 dollar']	['dollar']	0.707694262291
+['6.75 dollar', '405 dollar']	['adult']	0.345269105941
+['6.75 dollar', '405 dollar']	['today matinee']	0.14699641653
+['6.75 dollar', '405 dollar']	['20 more child']	0.297805101442
+['6.75 dollar', '405 dollar']	['receipt']	0.37370815508
+['adult', '405 dollar']	['matinee']	0.233883475557
+['adult', '405 dollar']	['movie theater']	0.0696933362217
+['adult', '405 dollar']	['4.50 dollar']	0.494524508322
+['adult', '405 dollar']	['child']	0.727763592624
+['adult', '405 dollar']	['dollar']	0.460278072935
+['adult', '405 dollar']	['6.75 dollar']	0.494524508322
+['adult', '405 dollar']	['today matinee']	0.0746958245975
+['adult', '405 dollar']	['20 more child']	0.277449580695
+['adult', '405 dollar']	['receipt']	0.715962457614
+['today matinee', '405 dollar']	['matinee']	0.568210810472
+['today matinee', '405 dollar']	['movie theater']	0.0696933362217
+['today matinee', '405 dollar']	['4.50 dollar']	0.544221442934
+['today matinee', '405 dollar']	['child']	0.0650959234194
+['today matinee', '405 dollar']	['dollar']	0.284433170112
+['today matinee', '405 dollar']	['6.75 dollar']	0.544221442934
+['today matinee', '405 dollar']	['adult']	0.0650959234194
+['today matinee', '405 dollar']	['20 more child']	0.0828503410239
+['today matinee', '405 dollar']	['receipt']	0.0634148935911
+['20 more child', '405 dollar']	['matinee']	0.148807562081
+['20 more child', '405 dollar']	['movie theater']	0.152238479479
+['20 more child', '405 dollar']	['4.50 dollar']	0.653642048458
+['20 more child', '405 dollar']	['child']	0.852578612249
+['20 more child', '405 dollar']	['dollar']	0.35702613896
+['20 more child', '405 dollar']	['6.75 dollar']	0.653642048458
+['20 more child', '405 dollar']	['adult']	0.420402666457
+['20 more child', '405 dollar']	['today matinee']	0.151484162343
+['20 more child', '405 dollar']	['receipt']	0.14394151833
+['receipt', '405 dollar']	['matinee']	0.252619893256
+['receipt', '405 dollar']	['movie theater']	0.124206600218
+['receipt', '405 dollar']	['4.50 dollar']	0.520866309821
+['receipt', '405 dollar']	['child']	0.290137159502
+['receipt', '405 dollar']	['dollar']	0.442466834622
+['receipt', '405 dollar']	['6.75 dollar']	0.520866309821
+['receipt', '405 dollar']	['adult']	0.714819826809
+['receipt', '405 dollar']	['today matinee']	0.0824069519204
+['receipt', '405 dollar']	['20 more child']	0.0887553862424

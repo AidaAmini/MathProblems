@@ -1,0 +1,361 @@
+['car rent', '29 dollar', 'dollar', '0.08 dollar', 'mile', '46.12 dollar', '1-day rental', 'rental']
+['car rent']	['car rent']	0.0767768048648
+['car rent']	['car rent']	0.023207382865
+['car rent']	['car rent']	0.0690143673113
+['car rent']	['car rent']	0.0213708734469
+['car rent']	['car rent']	0.0690143673113
+['car rent']	['car rent']	0.0690143673113
+['car rent']	['car rent']	0.12004197838
+['29 dollar']	['29 dollar']	0.619435082006
+['29 dollar']	['29 dollar']	0.0184977125563
+['29 dollar']	['29 dollar']	0.619435082006
+['29 dollar']	['29 dollar']	0.0690143673113
+['29 dollar']	['29 dollar']	0.0824169897896
+['dollar']	['dollar']	0.00825528679991
+['dollar']	['dollar']	0.0326699370744
+['dollar']	['dollar']	0.0199600610041
+['0.08 dollar']	['0.08 dollar']	0.0184977125563
+['0.08 dollar']	['0.08 dollar']	0.619435082006
+['0.08 dollar']	['0.08 dollar']	0.0690143673113
+['0.08 dollar']	['0.08 dollar']	0.0824169897896
+['mile']	['mile']	0.0328251038874
+['mile']	['mile']	0.0276968987592
+['mile']	['mile']	0.02746429094
+['46.12 dollar']	['46.12 dollar']	0.0690143673113
+['46.12 dollar']	['46.12 dollar']	0.0824169897896
+['29 dollar', 'car rent']	['29 dollar', 'car rent']	0.0799225382152
+['29 dollar', 'car rent']	['29 dollar', 'car rent']	0.251529580944
+['29 dollar', 'car rent']	['29 dollar', 'car rent']	0.017490982363
+['29 dollar', 'car rent']	['29 dollar', 'car rent']	0.251529580944
+['29 dollar', 'car rent']	['29 dollar', 'car rent']	0.0690143673113
+['29 dollar', 'car rent']	['29 dollar', 'car rent']	0.0824169897896
+['dollar', 'car rent']	['dollar', 'car rent']	0.0375282575365
+['dollar', 'car rent']	['dollar', 'car rent']	0.0264252979482
+['dollar', 'car rent']	['dollar', 'car rent']	0.0301078198109
+['dollar', 'car rent']	['dollar', 'car rent']	0.0304791007758
+['dollar', 'car rent']	['dollar', 'car rent']	0.0416516782823
+['dollar', 'car rent']	['dollar', 'car rent']	0.023866648102
+['0.08 dollar', 'car rent']	['0.08 dollar', 'car rent']	0.214757880897
+['0.08 dollar', 'car rent']	['0.08 dollar', 'car rent']	0.0161976727282
+['0.08 dollar', 'car rent']	['0.08 dollar', 'car rent']	0.017490982363
+['0.08 dollar', 'car rent']	['0.08 dollar', 'car rent']	0.251529580944
+['0.08 dollar', 'car rent']	['0.08 dollar', 'car rent']	0.0690143673113
+['0.08 dollar', 'car rent']	['0.08 dollar', 'car rent']	0.0824169897896
+['mile', 'car rent']	['mile', 'car rent']	0.0340066916006
+['mile', 'car rent']	['mile', 'car rent']	0.0301078198109
+['mile', 'car rent']	['mile', 'car rent']	0.0340066916006
+['mile', 'car rent']	['mile', 'car rent']	0.0340066916006
+['mile', 'car rent']	['mile', 'car rent']	0.0340066916006
+['mile', 'car rent']	['mile', 'car rent']	0.0707979600057
+['46.12 dollar', 'car rent']	['46.12 dollar', 'car rent']	0.214757880897
+['46.12 dollar', 'car rent']	['46.12 dollar', 'car rent']	0.0161976727282
+['46.12 dollar', 'car rent']	['46.12 dollar', 'car rent']	0.251529580944
+['46.12 dollar', 'car rent']	['46.12 dollar', 'car rent']	0.017490982363
+['46.12 dollar', 'car rent']	['46.12 dollar', 'car rent']	0.0690143673113
+['46.12 dollar', 'car rent']	['46.12 dollar', 'car rent']	0.0824169897896
+['1-day rental', 'car rent']	['1-day rental', 'car rent']	0.0767768048648
+['1-day rental', 'car rent']	['1-day rental', 'car rent']	0.0193931085789
+['1-day rental', 'car rent']	['1-day rental', 'car rent']	0.0690143673113
+['1-day rental', 'car rent']	['1-day rental', 'car rent']	0.017490982363
+['1-day rental', 'car rent']	['1-day rental', 'car rent']	0.0690143673113
+['1-day rental', 'car rent']	['1-day rental', 'car rent']	0.0624594513237
+['rental', 'car rent']	['rental', 'car rent']	0.0821022377173
+['rental', 'car rent']	['rental', 'car rent']	0.0220457310252
+['rental', 'car rent']	['rental', 'car rent']	0.0821022377173
+['rental', 'car rent']	['rental', 'car rent']	0.0403634398029
+['rental', 'car rent']	['rental', 'car rent']	0.0821022377173
+['rental', 'car rent']	['rental', 'car rent']	0.0760860361827
+['car rent', '29 dollar']	['car rent', '29 dollar']	0.0799225382152
+['car rent', '29 dollar']	['car rent', '29 dollar']	0.251529580944
+['car rent', '29 dollar']	['car rent', '29 dollar']	0.017490982363
+['car rent', '29 dollar']	['car rent', '29 dollar']	0.251529580944
+['car rent', '29 dollar']	['car rent', '29 dollar']	0.0690143673113
+['car rent', '29 dollar']	['car rent', '29 dollar']	0.0824169897896
+['dollar', '29 dollar']	['dollar', '29 dollar']	0.0408637657269
+['dollar', '29 dollar']	['dollar', '29 dollar']	0.0440238238086
+['dollar', '29 dollar']	['dollar', '29 dollar']	0.00555301853642
+['dollar', '29 dollar']	['dollar', '29 dollar']	0.127621155007
+['dollar', '29 dollar']	['dollar', '29 dollar']	0.0403930218738
+['dollar', '29 dollar']	['dollar', '29 dollar']	0.0470129776812
+['0.08 dollar', '29 dollar']	['0.08 dollar', '29 dollar']	0.126085532335
+['0.08 dollar', '29 dollar']	['0.08 dollar', '29 dollar']	0.0212106636165
+['0.08 dollar', '29 dollar']	['0.08 dollar', '29 dollar']	0.0712628945652
+['0.08 dollar', '29 dollar']	['0.08 dollar', '29 dollar']	0.629369170797
+['0.08 dollar', '29 dollar']	['0.08 dollar', '29 dollar']	0.0922575126852
+['0.08 dollar', '29 dollar']	['0.08 dollar', '29 dollar']	0.207135603763
+['mile', '29 dollar']	['mile', '29 dollar']	0.0340066916006
+['mile', '29 dollar']	['mile', '29 dollar']	0.0561777068546
+['mile', '29 dollar']	['mile', '29 dollar']	0.112843675792
+['mile', '29 dollar']	['mile', '29 dollar']	0.112843675792
+['mile', '29 dollar']	['mile', '29 dollar']	0.0340066916006
+['mile', '29 dollar']	['mile', '29 dollar']	0.0620560548837
+['46.12 dollar', '29 dollar']	['46.12 dollar', '29 dollar']	0.126085532335
+['46.12 dollar', '29 dollar']	['46.12 dollar', '29 dollar']	0.027273296675
+['46.12 dollar', '29 dollar']	['46.12 dollar', '29 dollar']	0.629369170797
+['46.12 dollar', '29 dollar']	['46.12 dollar', '29 dollar']	0.0712628945652
+['46.12 dollar', '29 dollar']	['46.12 dollar', '29 dollar']	0.0922575126852
+['46.12 dollar', '29 dollar']	['46.12 dollar', '29 dollar']	0.207135603763
+['1-day rental', '29 dollar']	['1-day rental', '29 dollar']	0.0767768048648
+['1-day rental', '29 dollar']	['1-day rental', '29 dollar']	0.0531177144657
+['1-day rental', '29 dollar']	['1-day rental', '29 dollar']	0.251529580944
+['1-day rental', '29 dollar']	['1-day rental', '29 dollar']	0.017490982363
+['1-day rental', '29 dollar']	['1-day rental', '29 dollar']	0.251529580944
+['1-day rental', '29 dollar']	['1-day rental', '29 dollar']	0.0588041620475
+['rental', '29 dollar']	['rental', '29 dollar']	0.0821022377173
+['rental', '29 dollar']	['rental', '29 dollar']	0.0245387830631
+['rental', '29 dollar']	['rental', '29 dollar']	0.199671667608
+['rental', '29 dollar']	['rental', '29 dollar']	0.0443823919913
+['rental', '29 dollar']	['rental', '29 dollar']	0.199671667608
+['rental', '29 dollar']	['rental', '29 dollar']	0.0760860361827
+['car rent', 'dollar']	['car rent', 'dollar']	0.0375282575365
+['car rent', 'dollar']	['car rent', 'dollar']	0.0264252979482
+['car rent', 'dollar']	['car rent', 'dollar']	0.0301078198109
+['car rent', 'dollar']	['car rent', 'dollar']	0.0304791007758
+['car rent', 'dollar']	['car rent', 'dollar']	0.0416516782823
+['car rent', 'dollar']	['car rent', 'dollar']	0.023866648102
+['29 dollar', 'dollar']	['29 dollar', 'dollar']	0.0408637657269
+['29 dollar', 'dollar']	['29 dollar', 'dollar']	0.0440238238086
+['29 dollar', 'dollar']	['29 dollar', 'dollar']	0.00555301853642
+['29 dollar', 'dollar']	['29 dollar', 'dollar']	0.127621155007
+['29 dollar', 'dollar']	['29 dollar', 'dollar']	0.0403930218738
+['29 dollar', 'dollar']	['29 dollar', 'dollar']	0.0470129776812
+['0.08 dollar', 'dollar']	['0.08 dollar', 'dollar']	0.0401631701986
+['0.08 dollar', 'dollar']	['0.08 dollar', 'dollar']	0.0552139427169
+['0.08 dollar', 'dollar']	['0.08 dollar', 'dollar']	0.00555301853642
+['0.08 dollar', 'dollar']	['0.08 dollar', 'dollar']	0.127621155007
+['0.08 dollar', 'dollar']	['0.08 dollar', 'dollar']	0.0403930218738
+['0.08 dollar', 'dollar']	['0.08 dollar', 'dollar']	0.0470129776812
+['mile', 'dollar']	['mile', 'dollar']	0.0276968987592
+['mile', 'dollar']	['mile', 'dollar']	0.0381387889571
+['mile', 'dollar']	['mile', 'dollar']	0.0428835754346
+['mile', 'dollar']	['mile', 'dollar']	0.0625942540432
+['mile', 'dollar']	['mile', 'dollar']	0.0276968987592
+['mile', 'dollar']	['mile', 'dollar']	0.0607976242733
+['46.12 dollar', 'dollar']	['46.12 dollar', 'dollar']	0.0401631701986
+['46.12 dollar', 'dollar']	['46.12 dollar', 'dollar']	0.0552139427169
+['46.12 dollar', 'dollar']	['46.12 dollar', 'dollar']	0.0440238238086
+['46.12 dollar', 'dollar']	['46.12 dollar', 'dollar']	0.00555301853642
+['46.12 dollar', 'dollar']	['46.12 dollar', 'dollar']	0.0403930218738
+['46.12 dollar', 'dollar']	['46.12 dollar', 'dollar']	0.0470129776812
+['1-day rental', 'dollar']	['1-day rental', 'dollar']	0.0409510827539
+['1-day rental', 'dollar']	['1-day rental', 'dollar']	0.0375282575365
+['1-day rental', 'dollar']	['1-day rental', 'dollar']	0.0264252979482
+['1-day rental', 'dollar']	['1-day rental', 'dollar']	0.00473280255103
+['1-day rental', 'dollar']	['1-day rental', 'dollar']	0.0304791007758
+['1-day rental', 'dollar']	['1-day rental', 'dollar']	0.0498219961369
+['rental', 'dollar']	['rental', 'dollar']	0.0491777008986
+['rental', 'dollar']	['rental', 'dollar']	0.0328264908175
+['rental', 'dollar']	['rental', 'dollar']	0.0267778750262
+['rental', 'dollar']	['rental', 'dollar']	0.0197896782362
+['rental', 'dollar']	['rental', 'dollar']	0.0368056937416
+['rental', 'dollar']	['rental', 'dollar']	0.0368056937416
+['car rent', '0.08 dollar']	['car rent', '0.08 dollar']	0.214757880897
+['car rent', '0.08 dollar']	['car rent', '0.08 dollar']	0.0161976727282
+['car rent', '0.08 dollar']	['car rent', '0.08 dollar']	0.017490982363
+['car rent', '0.08 dollar']	['car rent', '0.08 dollar']	0.251529580944
+['car rent', '0.08 dollar']	['car rent', '0.08 dollar']	0.0690143673113
+['car rent', '0.08 dollar']	['car rent', '0.08 dollar']	0.0824169897896
+['29 dollar', '0.08 dollar']	['29 dollar', '0.08 dollar']	0.126085532335
+['29 dollar', '0.08 dollar']	['29 dollar', '0.08 dollar']	0.0212106636165
+['29 dollar', '0.08 dollar']	['29 dollar', '0.08 dollar']	0.0712628945652
+['29 dollar', '0.08 dollar']	['29 dollar', '0.08 dollar']	0.629369170797
+['29 dollar', '0.08 dollar']	['29 dollar', '0.08 dollar']	0.0922575126852
+['29 dollar', '0.08 dollar']	['29 dollar', '0.08 dollar']	0.207135603763
+['dollar', '0.08 dollar']	['dollar', '0.08 dollar']	0.0401631701986
+['dollar', '0.08 dollar']	['dollar', '0.08 dollar']	0.0552139427169
+['dollar', '0.08 dollar']	['dollar', '0.08 dollar']	0.00555301853642
+['dollar', '0.08 dollar']	['dollar', '0.08 dollar']	0.127621155007
+['dollar', '0.08 dollar']	['dollar', '0.08 dollar']	0.0403930218738
+['dollar', '0.08 dollar']	['dollar', '0.08 dollar']	0.0470129776812
+['mile', '0.08 dollar']	['mile', '0.08 dollar']	0.0333060960722
+['mile', '0.08 dollar']	['mile', '0.08 dollar']	0.112843675792
+['mile', '0.08 dollar']	['mile', '0.08 dollar']	0.0364645429985
+['mile', '0.08 dollar']	['mile', '0.08 dollar']	0.112843675792
+['mile', '0.08 dollar']	['mile', '0.08 dollar']	0.0340066916006
+['mile', '0.08 dollar']	['mile', '0.08 dollar']	0.0620560548837
+['46.12 dollar', '0.08 dollar']	['46.12 dollar', '0.08 dollar']	0.0922575126852
+['46.12 dollar', '0.08 dollar']	['46.12 dollar', '0.08 dollar']	0.629369170797
+['46.12 dollar', '0.08 dollar']	['46.12 dollar', '0.08 dollar']	0.0166186330898
+['46.12 dollar', '0.08 dollar']	['46.12 dollar', '0.08 dollar']	0.0712628945652
+['46.12 dollar', '0.08 dollar']	['46.12 dollar', '0.08 dollar']	0.0922575126852
+['46.12 dollar', '0.08 dollar']	['46.12 dollar', '0.08 dollar']	0.207135603763
+['1-day rental', '0.08 dollar']	['1-day rental', '0.08 dollar']	0.0690143673113
+['1-day rental', '0.08 dollar']	['1-day rental', '0.08 dollar']	0.251529580944
+['1-day rental', '0.08 dollar']	['1-day rental', '0.08 dollar']	0.0147458038902
+['1-day rental', '0.08 dollar']	['1-day rental', '0.08 dollar']	0.017490982363
+['1-day rental', '0.08 dollar']	['1-day rental', '0.08 dollar']	0.251529580944
+['1-day rental', '0.08 dollar']	['1-day rental', '0.08 dollar']	0.0588041620475
+['rental', '0.08 dollar']	['rental', '0.08 dollar']	0.0821022377173
+['rental', '0.08 dollar']	['rental', '0.08 dollar']	0.199671667608
+['rental', '0.08 dollar']	['rental', '0.08 dollar']	0.00636083648959
+['rental', '0.08 dollar']	['rental', '0.08 dollar']	0.0443823919913
+['rental', '0.08 dollar']	['rental', '0.08 dollar']	0.199671667608
+['rental', '0.08 dollar']	['rental', '0.08 dollar']	0.0760860361827
+['car rent', 'mile']	['car rent', 'mile']	0.0340066916006
+['car rent', 'mile']	['car rent', 'mile']	0.0301078198109
+['car rent', 'mile']	['car rent', 'mile']	0.0340066916006
+['car rent', 'mile']	['car rent', 'mile']	0.0340066916006
+['car rent', 'mile']	['car rent', 'mile']	0.0340066916006
+['car rent', 'mile']	['car rent', 'mile']	0.0707979600057
+['29 dollar', 'mile']	['29 dollar', 'mile']	0.0340066916006
+['29 dollar', 'mile']	['29 dollar', 'mile']	0.0561777068546
+['29 dollar', 'mile']	['29 dollar', 'mile']	0.112843675792
+['29 dollar', 'mile']	['29 dollar', 'mile']	0.112843675792
+['29 dollar', 'mile']	['29 dollar', 'mile']	0.0340066916006
+['29 dollar', 'mile']	['29 dollar', 'mile']	0.0620560548837
+['dollar', 'mile']	['dollar', 'mile']	0.0276968987592
+['dollar', 'mile']	['dollar', 'mile']	0.0381387889571
+['dollar', 'mile']	['dollar', 'mile']	0.0428835754346
+['dollar', 'mile']	['dollar', 'mile']	0.0625942540432
+['dollar', 'mile']	['dollar', 'mile']	0.0276968987592
+['dollar', 'mile']	['dollar', 'mile']	0.0607976242733
+['0.08 dollar', 'mile']	['0.08 dollar', 'mile']	0.0333060960722
+['0.08 dollar', 'mile']	['0.08 dollar', 'mile']	0.112843675792
+['0.08 dollar', 'mile']	['0.08 dollar', 'mile']	0.0364645429985
+['0.08 dollar', 'mile']	['0.08 dollar', 'mile']	0.112843675792
+['0.08 dollar', 'mile']	['0.08 dollar', 'mile']	0.0340066916006
+['0.08 dollar', 'mile']	['0.08 dollar', 'mile']	0.0620560548837
+['46.12 dollar', 'mile']	['46.12 dollar', 'mile']	0.0333060960722
+['46.12 dollar', 'mile']	['46.12 dollar', 'mile']	0.112843675792
+['46.12 dollar', 'mile']	['46.12 dollar', 'mile']	0.0189047184359
+['46.12 dollar', 'mile']	['46.12 dollar', 'mile']	0.112843675792
+['46.12 dollar', 'mile']	['46.12 dollar', 'mile']	0.0340066916006
+['46.12 dollar', 'mile']	['46.12 dollar', 'mile']	0.0620560548837
+['1-day rental', 'mile']	['1-day rental', 'mile']	0.0333060960722
+['1-day rental', 'mile']	['1-day rental', 'mile']	0.0340066916006
+['1-day rental', 'mile']	['1-day rental', 'mile']	0.00473280255103
+['1-day rental', 'mile']	['1-day rental', 'mile']	0.0340066916006
+['1-day rental', 'mile']	['1-day rental', 'mile']	0.0340066916006
+['1-day rental', 'mile']	['1-day rental', 'mile']	0.0778778279024
+['rental', 'mile']	['rental', 'mile']	0.0332277349527
+['rental', 'mile']	['rental', 'mile']	0.0332277349527
+['rental', 'mile']	['rental', 'mile']	0.0391008743017
+['rental', 'mile']	['rental', 'mile']	0.0332277349527
+['rental', 'mile']	['rental', 'mile']	0.0332277349527
+['rental', 'mile']	['rental', 'mile']	0.0600987924715
+['car rent', '46.12 dollar']	['car rent', '46.12 dollar']	0.214757880897
+['car rent', '46.12 dollar']	['car rent', '46.12 dollar']	0.0161976727282
+['car rent', '46.12 dollar']	['car rent', '46.12 dollar']	0.251529580944
+['car rent', '46.12 dollar']	['car rent', '46.12 dollar']	0.017490982363
+['car rent', '46.12 dollar']	['car rent', '46.12 dollar']	0.0690143673113
+['car rent', '46.12 dollar']	['car rent', '46.12 dollar']	0.0824169897896
+['29 dollar', '46.12 dollar']	['29 dollar', '46.12 dollar']	0.126085532335
+['29 dollar', '46.12 dollar']	['29 dollar', '46.12 dollar']	0.027273296675
+['29 dollar', '46.12 dollar']	['29 dollar', '46.12 dollar']	0.629369170797
+['29 dollar', '46.12 dollar']	['29 dollar', '46.12 dollar']	0.0712628945652
+['29 dollar', '46.12 dollar']	['29 dollar', '46.12 dollar']	0.0922575126852
+['29 dollar', '46.12 dollar']	['29 dollar', '46.12 dollar']	0.207135603763
+['dollar', '46.12 dollar']	['dollar', '46.12 dollar']	0.0401631701986
+['dollar', '46.12 dollar']	['dollar', '46.12 dollar']	0.0552139427169
+['dollar', '46.12 dollar']	['dollar', '46.12 dollar']	0.0440238238086
+['dollar', '46.12 dollar']	['dollar', '46.12 dollar']	0.00555301853642
+['dollar', '46.12 dollar']	['dollar', '46.12 dollar']	0.0403930218738
+['dollar', '46.12 dollar']	['dollar', '46.12 dollar']	0.0470129776812
+['0.08 dollar', '46.12 dollar']	['0.08 dollar', '46.12 dollar']	0.0922575126852
+['0.08 dollar', '46.12 dollar']	['0.08 dollar', '46.12 dollar']	0.629369170797
+['0.08 dollar', '46.12 dollar']	['0.08 dollar', '46.12 dollar']	0.0166186330898
+['0.08 dollar', '46.12 dollar']	['0.08 dollar', '46.12 dollar']	0.0712628945652
+['0.08 dollar', '46.12 dollar']	['0.08 dollar', '46.12 dollar']	0.0922575126852
+['0.08 dollar', '46.12 dollar']	['0.08 dollar', '46.12 dollar']	0.207135603763
+['mile', '46.12 dollar']	['mile', '46.12 dollar']	0.0333060960722
+['mile', '46.12 dollar']	['mile', '46.12 dollar']	0.112843675792
+['mile', '46.12 dollar']	['mile', '46.12 dollar']	0.0189047184359
+['mile', '46.12 dollar']	['mile', '46.12 dollar']	0.112843675792
+['mile', '46.12 dollar']	['mile', '46.12 dollar']	0.0340066916006
+['mile', '46.12 dollar']	['mile', '46.12 dollar']	0.0620560548837
+['1-day rental', '46.12 dollar']	['1-day rental', '46.12 dollar']	0.0690143673113
+['1-day rental', '46.12 dollar']	['1-day rental', '46.12 dollar']	0.251529580944
+['1-day rental', '46.12 dollar']	['1-day rental', '46.12 dollar']	0.0147458038902
+['1-day rental', '46.12 dollar']	['1-day rental', '46.12 dollar']	0.251529580944
+['1-day rental', '46.12 dollar']	['1-day rental', '46.12 dollar']	0.017490982363
+['1-day rental', '46.12 dollar']	['1-day rental', '46.12 dollar']	0.0588041620475
+['rental', '46.12 dollar']	['rental', '46.12 dollar']	0.0821022377173
+['rental', '46.12 dollar']	['rental', '46.12 dollar']	0.199671667608
+['rental', '46.12 dollar']	['rental', '46.12 dollar']	0.00636083648959
+['rental', '46.12 dollar']	['rental', '46.12 dollar']	0.199671667608
+['rental', '46.12 dollar']	['rental', '46.12 dollar']	0.0443823919913
+['rental', '46.12 dollar']	['rental', '46.12 dollar']	0.0760860361827
+['car rent', '1-day rental']	['car rent', '1-day rental']	0.0767768048648
+['car rent', '1-day rental']	['car rent', '1-day rental']	0.0193931085789
+['car rent', '1-day rental']	['car rent', '1-day rental']	0.0690143673113
+['car rent', '1-day rental']	['car rent', '1-day rental']	0.017490982363
+['car rent', '1-day rental']	['car rent', '1-day rental']	0.0690143673113
+['car rent', '1-day rental']	['car rent', '1-day rental']	0.0624594513237
+['29 dollar', '1-day rental']	['29 dollar', '1-day rental']	0.0767768048648
+['29 dollar', '1-day rental']	['29 dollar', '1-day rental']	0.0531177144657
+['29 dollar', '1-day rental']	['29 dollar', '1-day rental']	0.251529580944
+['29 dollar', '1-day rental']	['29 dollar', '1-day rental']	0.017490982363
+['29 dollar', '1-day rental']	['29 dollar', '1-day rental']	0.251529580944
+['29 dollar', '1-day rental']	['29 dollar', '1-day rental']	0.0588041620475
+['dollar', '1-day rental']	['dollar', '1-day rental']	0.0409510827539
+['dollar', '1-day rental']	['dollar', '1-day rental']	0.0375282575365
+['dollar', '1-day rental']	['dollar', '1-day rental']	0.0264252979482
+['dollar', '1-day rental']	['dollar', '1-day rental']	0.00473280255103
+['dollar', '1-day rental']	['dollar', '1-day rental']	0.0304791007758
+['dollar', '1-day rental']	['dollar', '1-day rental']	0.0498219961369
+['0.08 dollar', '1-day rental']	['0.08 dollar', '1-day rental']	0.0690143673113
+['0.08 dollar', '1-day rental']	['0.08 dollar', '1-day rental']	0.251529580944
+['0.08 dollar', '1-day rental']	['0.08 dollar', '1-day rental']	0.0147458038902
+['0.08 dollar', '1-day rental']	['0.08 dollar', '1-day rental']	0.017490982363
+['0.08 dollar', '1-day rental']	['0.08 dollar', '1-day rental']	0.251529580944
+['0.08 dollar', '1-day rental']	['0.08 dollar', '1-day rental']	0.0588041620475
+['mile', '1-day rental']	['mile', '1-day rental']	0.0333060960722
+['mile', '1-day rental']	['mile', '1-day rental']	0.0340066916006
+['mile', '1-day rental']	['mile', '1-day rental']	0.00473280255103
+['mile', '1-day rental']	['mile', '1-day rental']	0.0340066916006
+['mile', '1-day rental']	['mile', '1-day rental']	0.0340066916006
+['mile', '1-day rental']	['mile', '1-day rental']	0.0778778279024
+['46.12 dollar', '1-day rental']	['46.12 dollar', '1-day rental']	0.0690143673113
+['46.12 dollar', '1-day rental']	['46.12 dollar', '1-day rental']	0.251529580944
+['46.12 dollar', '1-day rental']	['46.12 dollar', '1-day rental']	0.0147458038902
+['46.12 dollar', '1-day rental']	['46.12 dollar', '1-day rental']	0.251529580944
+['46.12 dollar', '1-day rental']	['46.12 dollar', '1-day rental']	0.017490982363
+['46.12 dollar', '1-day rental']	['46.12 dollar', '1-day rental']	0.0588041620475
+['rental', '1-day rental']	['rental', '1-day rental']	0.137426668411
+['rental', '1-day rental']	['rental', '1-day rental']	0.137426668411
+['rental', '1-day rental']	['rental', '1-day rental']	0.039487583963
+['rental', '1-day rental']	['rental', '1-day rental']	0.137426668411
+['rental', '1-day rental']	['rental', '1-day rental']	0.179875852625
+['rental', '1-day rental']	['rental', '1-day rental']	0.137426668411
+['car rent', 'rental']	['car rent', 'rental']	0.0821022377173
+['car rent', 'rental']	['car rent', 'rental']	0.0220457310252
+['car rent', 'rental']	['car rent', 'rental']	0.0821022377173
+['car rent', 'rental']	['car rent', 'rental']	0.0403634398029
+['car rent', 'rental']	['car rent', 'rental']	0.0821022377173
+['car rent', 'rental']	['car rent', 'rental']	0.0760860361827
+['29 dollar', 'rental']	['29 dollar', 'rental']	0.0821022377173
+['29 dollar', 'rental']	['29 dollar', 'rental']	0.0245387830631
+['29 dollar', 'rental']	['29 dollar', 'rental']	0.199671667608
+['29 dollar', 'rental']	['29 dollar', 'rental']	0.0443823919913
+['29 dollar', 'rental']	['29 dollar', 'rental']	0.199671667608
+['29 dollar', 'rental']	['29 dollar', 'rental']	0.0760860361827
+['dollar', 'rental']	['dollar', 'rental']	0.0491777008986
+['dollar', 'rental']	['dollar', 'rental']	0.0328264908175
+['dollar', 'rental']	['dollar', 'rental']	0.0267778750262
+['dollar', 'rental']	['dollar', 'rental']	0.0197896782362
+['dollar', 'rental']	['dollar', 'rental']	0.0368056937416
+['dollar', 'rental']	['dollar', 'rental']	0.0368056937416
+['0.08 dollar', 'rental']	['0.08 dollar', 'rental']	0.0821022377173
+['0.08 dollar', 'rental']	['0.08 dollar', 'rental']	0.199671667608
+['0.08 dollar', 'rental']	['0.08 dollar', 'rental']	0.00636083648959
+['0.08 dollar', 'rental']	['0.08 dollar', 'rental']	0.0443823919913
+['0.08 dollar', 'rental']	['0.08 dollar', 'rental']	0.199671667608
+['0.08 dollar', 'rental']	['0.08 dollar', 'rental']	0.0760860361827
+['mile', 'rental']	['mile', 'rental']	0.0332277349527
+['mile', 'rental']	['mile', 'rental']	0.0332277349527
+['mile', 'rental']	['mile', 'rental']	0.0391008743017
+['mile', 'rental']	['mile', 'rental']	0.0332277349527
+['mile', 'rental']	['mile', 'rental']	0.0332277349527
+['mile', 'rental']	['mile', 'rental']	0.0600987924715
+['46.12 dollar', 'rental']	['46.12 dollar', 'rental']	0.0821022377173
+['46.12 dollar', 'rental']	['46.12 dollar', 'rental']	0.199671667608
+['46.12 dollar', 'rental']	['46.12 dollar', 'rental']	0.00636083648959
+['46.12 dollar', 'rental']	['46.12 dollar', 'rental']	0.199671667608
+['46.12 dollar', 'rental']	['46.12 dollar', 'rental']	0.0443823919913
+['46.12 dollar', 'rental']	['46.12 dollar', 'rental']	0.0760860361827
+['1-day rental', 'rental']	['1-day rental', 'rental']	0.137426668411
+['1-day rental', 'rental']	['1-day rental', 'rental']	0.137426668411
+['1-day rental', 'rental']	['1-day rental', 'rental']	0.039487583963
+['1-day rental', 'rental']	['1-day rental', 'rental']	0.137426668411
+['1-day rental', 'rental']	['1-day rental', 'rental']	0.179875852625
+['1-day rental', 'rental']	['1-day rental', 'rental']	0.137426668411

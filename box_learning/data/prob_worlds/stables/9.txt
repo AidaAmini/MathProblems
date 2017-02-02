@@ -1,0 +1,16 @@
+1
+[['mix', '40', 'pound', 'dollar', '4.6', '-', '-'], ['Peruvian coffee bean', 'x1', 'pound', 'dollar', '4.25', '-', '-'], ['Colombian coffee bean', 'x2', 'pound', 'dollar', '5.5', '-', '-']]
+-1
+[['mix', '40', '5.5', 'pound', 'dollar', '-', '-'], ['Peruvian coffee bean', 'x1', 'pound', 'dollar', '4.25', '-', '-'], ['Colombian coffee bean', 'mix', 'pound', 'dollar', '5.5', '-', '-']]
+-1
+[['mix', 'Colombian coffee bean', '5.5', 'dollar', '4.6', '-', '-'], ['Peruvian coffee bean', 'x1', 'pound', 'dollar', '4.25', '-', '-'], ['Colombian coffee bean', 'dollar', '40', '4.6', '5.5', 'mix', '-']]
+-1
+[['mix', '40', 'pound', 'dollar', '4.6', 'x2', '-'], ['Peruvian coffee bean', 'x1', 'pound', 'dollar', '4.25', '-', '-'], ['40', '4.6', 'pound', 'dollar', '5.5', '-', '-']]
+-1
+[['5.5', '40', 'pound', 'dollar', '4.6', '-', 'x2'], ['Peruvian coffee bean', 'x1', 'pound', 'dollar', '4.25', '-', '-'], ['40', 'x2', '4.6', 'pound', '5.5', '-', 'mix']]
+-1
+[['5.5', 'Colombian coffee bean', 'pound', 'dollar', 'x2', '-', '-'], ['Peruvian coffee bean', 'x1', 'pound', 'dollar', '4.25', '-', '-'], ['Colombian coffee bean', 'x2', 'pound', 'dollar', '5.5', '-', '-']]
+-1
+[['Colombian coffee bean', 'x2', 'pound', 'dollar', '4.6', '-', '-'], ['Peruvian coffee bean', 'x1', 'pound', 'dollar', '4.25', '-', '-'], ['Colombian coffee bean', 'x2', 'pound', 'dollar', '5.5', '4.6', '-']]
+-1
+[['4.6', '40', 'x2', 'dollar', 'Colombian coffee bean', '-', '-'], ['Peruvian coffee bean', 'x1', 'pound', 'dollar', '4.25', '-', '-'], ['Colombian coffee bean', '-', 'pound', '40', '5.5', 'mix', '4.6']]

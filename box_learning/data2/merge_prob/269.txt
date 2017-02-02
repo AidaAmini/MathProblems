@@ -1,0 +1,361 @@
+['4 apple', '2 orange', '1 dollar', 'apple', '2 apple', '3 orange', 'dollar', '0.70 dollar']
+['4 apple']	['2 orange']	0.387929093691
+['4 apple']	['1 dollar']	0.387929093691
+['4 apple']	['2 apple']	0.828768839235
+['4 apple']	['3 orange']	0.387929093691
+['4 apple']	['dollar']	0.0132263547461
+['4 apple']	['0.70 dollar']	0.0901100077042
+['2 orange']	['1 dollar']	0.387929093691
+['2 orange']	['apple']	0.212460008366
+['2 orange']	['2 apple']	0.412217785115
+['2 orange']	['3 orange']	0.828768839235
+['2 orange']	['dollar']	0.0132263547461
+['2 orange']	['0.70 dollar']	0.0901100077042
+['1 dollar']	['apple']	0.079730351659
+['1 dollar']	['2 apple']	0.387929093691
+['1 dollar']	['3 orange']	0.387929093691
+['1 dollar']	['0.70 dollar']	0.643440930505
+['apple']	['3 orange']	0.159095628616
+['apple']	['dollar']	0.213254502768
+['apple']	['0.70 dollar']	0.0696933362217
+['2 apple']	['3 orange']	0.387929093691
+['2 apple']	['dollar']	0.0132263547461
+['2 apple']	['0.70 dollar']	0.0901100077042
+['3 orange']	['dollar']	0.0132263547461
+['3 orange']	['0.70 dollar']	0.0901100077042
+['2 orange', '4 apple']	['1 dollar']	0.40110561294
+['2 orange', '4 apple']	['apple']	0.934649677604
+['2 orange', '4 apple']	['2 apple']	0.589771426186
+['2 orange', '4 apple']	['3 orange']	0.837596040951
+['2 orange', '4 apple']	['dollar']	0.0132263547461
+['2 orange', '4 apple']	['0.70 dollar']	0.0901100077042
+['1 dollar', '4 apple']	['2 orange']	0.40110561294
+['1 dollar', '4 apple']	['apple']	0.766808814145
+['1 dollar', '4 apple']	['2 apple']	0.837596040951
+['1 dollar', '4 apple']	['3 orange']	0.40110561294
+['1 dollar', '4 apple']	['dollar']	0.377775525237
+['1 dollar', '4 apple']	['0.70 dollar']	0.584269096576
+['apple', '4 apple']	['2 orange']	0.671363989872
+['apple', '4 apple']	['1 dollar']	0.610501978938
+['apple', '4 apple']	['2 apple']	0.912595253951
+['apple', '4 apple']	['3 orange']	0.671363989872
+['apple', '4 apple']	['dollar']	0.288659535508
+['apple', '4 apple']	['0.70 dollar']	0.136831688603
+['2 apple', '4 apple']	['2 orange']	0.579873232651
+['2 apple', '4 apple']	['1 dollar']	0.679208007308
+['2 apple', '4 apple']	['apple']	0.850213551543
+['2 apple', '4 apple']	['3 orange']	0.679208007308
+['2 apple', '4 apple']	['dollar']	0.174131759786
+['2 apple', '4 apple']	['0.70 dollar']	0.139258682248
+['3 orange', '4 apple']	['2 orange']	0.837596040951
+['3 orange', '4 apple']	['1 dollar']	0.40110561294
+['3 orange', '4 apple']	['apple']	0.934649677604
+['3 orange', '4 apple']	['2 apple']	0.837596040951
+['3 orange', '4 apple']	['dollar']	0.0132263547461
+['3 orange', '4 apple']	['0.70 dollar']	0.0901100077042
+['dollar', '4 apple']	['2 orange']	0.246223681103
+['dollar', '4 apple']	['1 dollar']	0.598401148738
+['dollar', '4 apple']	['apple']	0.736340602934
+['dollar', '4 apple']	['2 apple']	0.346557107299
+['dollar', '4 apple']	['3 orange']	0.246223681103
+['dollar', '4 apple']	['0.70 dollar']	0.442012633359
+['0.70 dollar', '4 apple']	['2 orange']	0.362256416006
+['0.70 dollar', '4 apple']	['1 dollar']	0.754360422532
+['0.70 dollar', '4 apple']	['apple']	0.766808814145
+['0.70 dollar', '4 apple']	['2 apple']	0.754360422532
+['0.70 dollar', '4 apple']	['3 orange']	0.362256416006
+['0.70 dollar', '4 apple']	['dollar']	0.407600660108
+['4 apple', '2 orange']	['1 dollar']	0.40110561294
+['4 apple', '2 orange']	['apple']	0.934649677604
+['4 apple', '2 orange']	['2 apple']	0.589771426186
+['4 apple', '2 orange']	['3 orange']	0.837596040951
+['4 apple', '2 orange']	['dollar']	0.0132263547461
+['4 apple', '2 orange']	['0.70 dollar']	0.0901100077042
+['1 dollar', '2 orange']	['4 apple']	0.40110561294
+['1 dollar', '2 orange']	['apple']	0.15778339759
+['1 dollar', '2 orange']	['2 apple']	0.479698866552
+['1 dollar', '2 orange']	['3 orange']	0.837596040951
+['1 dollar', '2 orange']	['dollar']	0.389946414457
+['1 dollar', '2 orange']	['0.70 dollar']	0.584269096576
+['apple', '2 orange']	['4 apple']	0.916853756674
+['apple', '2 orange']	['1 dollar']	0.330128589866
+['apple', '2 orange']	['2 apple']	0.911167062242
+['apple', '2 orange']	['3 orange']	0.795744287633
+['apple', '2 orange']	['dollar']	0.164385893116
+['apple', '2 orange']	['0.70 dollar']	0.0696933362217
+['2 apple', '2 orange']	['4 apple']	0.837596040951
+['2 apple', '2 orange']	['1 dollar']	0.40110561294
+['2 apple', '2 orange']	['apple']	0.934649677604
+['2 apple', '2 orange']	['3 orange']	0.837596040951
+['2 apple', '2 orange']	['dollar']	0.0132263547461
+['2 apple', '2 orange']	['0.70 dollar']	0.0901100077042
+['3 orange', '2 orange']	['4 apple']	0.679208007308
+['3 orange', '2 orange']	['1 dollar']	0.679208007308
+['3 orange', '2 orange']	['apple']	0.521948791892
+['3 orange', '2 orange']	['2 apple']	0.579873232651
+['3 orange', '2 orange']	['dollar']	0.174131759786
+['3 orange', '2 orange']	['0.70 dollar']	0.139258682248
+['dollar', '2 orange']	['4 apple']	0.231857959106
+['dollar', '2 orange']	['1 dollar']	0.598401148738
+['dollar', '2 orange']	['apple']	0.384125022829
+['dollar', '2 orange']	['2 apple']	0.453532329015
+['dollar', '2 orange']	['3 orange']	0.346557107299
+['dollar', '2 orange']	['0.70 dollar']	0.442012633359
+['0.70 dollar', '2 orange']	['4 apple']	0.362256416006
+['0.70 dollar', '2 orange']	['1 dollar']	0.754360422532
+['0.70 dollar', '2 orange']	['apple']	0.15778339759
+['0.70 dollar', '2 orange']	['2 apple']	0.498338895266
+['0.70 dollar', '2 orange']	['3 orange']	0.754360422532
+['0.70 dollar', '2 orange']	['dollar']	0.419771549328
+['4 apple', '1 dollar']	['2 orange']	0.40110561294
+['4 apple', '1 dollar']	['apple']	0.766808814145
+['4 apple', '1 dollar']	['2 apple']	0.837596040951
+['4 apple', '1 dollar']	['3 orange']	0.40110561294
+['4 apple', '1 dollar']	['dollar']	0.377775525237
+['4 apple', '1 dollar']	['0.70 dollar']	0.584269096576
+['2 orange', '1 dollar']	['4 apple']	0.40110561294
+['2 orange', '1 dollar']	['apple']	0.15778339759
+['2 orange', '1 dollar']	['2 apple']	0.479698866552
+['2 orange', '1 dollar']	['3 orange']	0.837596040951
+['2 orange', '1 dollar']	['dollar']	0.389946414457
+['2 orange', '1 dollar']	['0.70 dollar']	0.584269096576
+['apple', '1 dollar']	['4 apple']	0.916853756674
+['apple', '1 dollar']	['2 orange']	0.374932920039
+['apple', '1 dollar']	['2 apple']	0.916853756674
+['apple', '1 dollar']	['3 orange']	0.374932920039
+['apple', '1 dollar']	['dollar']	0.66482434715
+['apple', '1 dollar']	['0.70 dollar']	0.525944474896
+['2 apple', '1 dollar']	['4 apple']	0.837596040951
+['2 apple', '1 dollar']	['2 orange']	0.479698866552
+['2 apple', '1 dollar']	['apple']	0.766808814145
+['2 apple', '1 dollar']	['3 orange']	0.40110561294
+['2 apple', '1 dollar']	['dollar']	0.377775525237
+['2 apple', '1 dollar']	['0.70 dollar']	0.584269096576
+['3 orange', '1 dollar']	['4 apple']	0.40110561294
+['3 orange', '1 dollar']	['2 orange']	0.837596040951
+['3 orange', '1 dollar']	['apple']	0.15778339759
+['3 orange', '1 dollar']	['2 apple']	0.40110561294
+['3 orange', '1 dollar']	['dollar']	0.389946414457
+['3 orange', '1 dollar']	['0.70 dollar']	0.584269096576
+['dollar', '1 dollar']	['4 apple']	0.424853279028
+['dollar', '1 dollar']	['2 orange']	0.439219001025
+['dollar', '1 dollar']	['apple']	0.352790288223
+['dollar', '1 dollar']	['2 apple']	0.424853279028
+['dollar', '1 dollar']	['3 orange']	0.439219001025
+['dollar', '1 dollar']	['0.70 dollar']	0.676555862245
+['0.70 dollar', '1 dollar']	['4 apple']	0.59564157713
+['0.70 dollar', '1 dollar']	['2 orange']	0.59564157713
+['0.70 dollar', '1 dollar']	['apple']	0.33665242287
+['0.70 dollar', '1 dollar']	['2 apple']	0.59564157713
+['0.70 dollar', '1 dollar']	['3 orange']	0.59564157713
+['0.70 dollar', '1 dollar']	['dollar']	0.766295816382
+['4 apple', 'apple']	['2 orange']	0.671363989872
+['4 apple', 'apple']	['1 dollar']	0.610501978938
+['4 apple', 'apple']	['2 apple']	0.912595253951
+['4 apple', 'apple']	['3 orange']	0.671363989872
+['4 apple', 'apple']	['dollar']	0.288659535508
+['4 apple', 'apple']	['0.70 dollar']	0.136831688603
+['2 orange', 'apple']	['4 apple']	0.916853756674
+['2 orange', 'apple']	['1 dollar']	0.330128589866
+['2 orange', 'apple']	['2 apple']	0.911167062242
+['2 orange', 'apple']	['3 orange']	0.795744287633
+['2 orange', 'apple']	['dollar']	0.164385893116
+['2 orange', 'apple']	['0.70 dollar']	0.0696933362217
+['1 dollar', 'apple']	['4 apple']	0.916853756674
+['1 dollar', 'apple']	['2 orange']	0.374932920039
+['1 dollar', 'apple']	['2 apple']	0.916853756674
+['1 dollar', 'apple']	['3 orange']	0.374932920039
+['1 dollar', 'apple']	['dollar']	0.66482434715
+['1 dollar', 'apple']	['0.70 dollar']	0.525944474896
+['2 apple', 'apple']	['4 apple']	0.912595253951
+['2 apple', 'apple']	['2 orange']	0.63246375501
+['2 apple', 'apple']	['1 dollar']	0.610501978938
+['2 apple', 'apple']	['3 orange']	0.671363989872
+['2 apple', 'apple']	['dollar']	0.288659535508
+['2 apple', 'apple']	['0.70 dollar']	0.136831688603
+['3 orange', 'apple']	['4 apple']	0.916853756674
+['3 orange', 'apple']	['2 orange']	0.795744287633
+['3 orange', 'apple']	['1 dollar']	0.330128589866
+['3 orange', 'apple']	['2 apple']	0.916853756674
+['3 orange', 'apple']	['dollar']	0.164385893116
+['3 orange', 'apple']	['0.70 dollar']	0.0696933362217
+['dollar', 'apple']	['4 apple']	0.575673810929
+['dollar', 'apple']	['2 orange']	0.146229162952
+['dollar', 'apple']	['1 dollar']	0.397268490074
+['dollar', 'apple']	['2 apple']	0.575673810929
+['dollar', 'apple']	['3 orange']	0.146229162952
+['dollar', 'apple']	['0.70 dollar']	0.447673452072
+['0.70 dollar', 'apple']	['4 apple']	0.798366451366
+['0.70 dollar', 'apple']	['2 orange']	0.130048808393
+['0.70 dollar', 'apple']	['1 dollar']	0.525944474896
+['0.70 dollar', 'apple']	['2 apple']	0.798366451366
+['0.70 dollar', 'apple']	['3 orange']	0.130048808393
+['0.70 dollar', 'apple']	['dollar']	0.705340414376
+['4 apple', '2 apple']	['2 orange']	0.579873232651
+['4 apple', '2 apple']	['1 dollar']	0.679208007308
+['4 apple', '2 apple']	['apple']	0.850213551543
+['4 apple', '2 apple']	['3 orange']	0.679208007308
+['4 apple', '2 apple']	['dollar']	0.174131759786
+['4 apple', '2 apple']	['0.70 dollar']	0.139258682248
+['2 orange', '2 apple']	['4 apple']	0.837596040951
+['2 orange', '2 apple']	['1 dollar']	0.40110561294
+['2 orange', '2 apple']	['apple']	0.934649677604
+['2 orange', '2 apple']	['3 orange']	0.837596040951
+['2 orange', '2 apple']	['dollar']	0.0132263547461
+['2 orange', '2 apple']	['0.70 dollar']	0.0901100077042
+['1 dollar', '2 apple']	['4 apple']	0.837596040951
+['1 dollar', '2 apple']	['2 orange']	0.479698866552
+['1 dollar', '2 apple']	['apple']	0.766808814145
+['1 dollar', '2 apple']	['3 orange']	0.40110561294
+['1 dollar', '2 apple']	['dollar']	0.377775525237
+['1 dollar', '2 apple']	['0.70 dollar']	0.584269096576
+['apple', '2 apple']	['4 apple']	0.912595253951
+['apple', '2 apple']	['2 orange']	0.63246375501
+['apple', '2 apple']	['1 dollar']	0.610501978938
+['apple', '2 apple']	['3 orange']	0.671363989872
+['apple', '2 apple']	['dollar']	0.288659535508
+['apple', '2 apple']	['0.70 dollar']	0.136831688603
+['3 orange', '2 apple']	['4 apple']	0.837596040951
+['3 orange', '2 apple']	['2 orange']	0.589771426186
+['3 orange', '2 apple']	['1 dollar']	0.40110561294
+['3 orange', '2 apple']	['apple']	0.934649677604
+['3 orange', '2 apple']	['dollar']	0.0132263547461
+['3 orange', '2 apple']	['0.70 dollar']	0.0901100077042
+['dollar', '2 apple']	['4 apple']	0.346557107299
+['dollar', '2 apple']	['2 orange']	0.46082305538
+['dollar', '2 apple']	['1 dollar']	0.598401148738
+['dollar', '2 apple']	['apple']	0.736340602934
+['dollar', '2 apple']	['3 orange']	0.246223681103
+['dollar', '2 apple']	['0.70 dollar']	0.442012633359
+['0.70 dollar', '2 apple']	['4 apple']	0.754360422532
+['0.70 dollar', '2 apple']	['2 orange']	0.498338895266
+['0.70 dollar', '2 apple']	['1 dollar']	0.754360422532
+['0.70 dollar', '2 apple']	['apple']	0.766808814145
+['0.70 dollar', '2 apple']	['3 orange']	0.362256416006
+['0.70 dollar', '2 apple']	['dollar']	0.407600660108
+['4 apple', '3 orange']	['2 orange']	0.837596040951
+['4 apple', '3 orange']	['1 dollar']	0.40110561294
+['4 apple', '3 orange']	['apple']	0.934649677604
+['4 apple', '3 orange']	['2 apple']	0.837596040951
+['4 apple', '3 orange']	['dollar']	0.0132263547461
+['4 apple', '3 orange']	['0.70 dollar']	0.0901100077042
+['2 orange', '3 orange']	['4 apple']	0.679208007308
+['2 orange', '3 orange']	['1 dollar']	0.679208007308
+['2 orange', '3 orange']	['apple']	0.521948791892
+['2 orange', '3 orange']	['2 apple']	0.579873232651
+['2 orange', '3 orange']	['dollar']	0.174131759786
+['2 orange', '3 orange']	['0.70 dollar']	0.139258682248
+['1 dollar', '3 orange']	['4 apple']	0.40110561294
+['1 dollar', '3 orange']	['2 orange']	0.837596040951
+['1 dollar', '3 orange']	['apple']	0.15778339759
+['1 dollar', '3 orange']	['2 apple']	0.40110561294
+['1 dollar', '3 orange']	['dollar']	0.389946414457
+['1 dollar', '3 orange']	['0.70 dollar']	0.584269096576
+['apple', '3 orange']	['4 apple']	0.916853756674
+['apple', '3 orange']	['2 orange']	0.795744287633
+['apple', '3 orange']	['1 dollar']	0.330128589866
+['apple', '3 orange']	['2 apple']	0.916853756674
+['apple', '3 orange']	['dollar']	0.164385893116
+['apple', '3 orange']	['0.70 dollar']	0.0696933362217
+['2 apple', '3 orange']	['4 apple']	0.837596040951
+['2 apple', '3 orange']	['2 orange']	0.589771426186
+['2 apple', '3 orange']	['1 dollar']	0.40110561294
+['2 apple', '3 orange']	['apple']	0.934649677604
+['2 apple', '3 orange']	['dollar']	0.0132263547461
+['2 apple', '3 orange']	['0.70 dollar']	0.0901100077042
+['dollar', '3 orange']	['4 apple']	0.231857959106
+['dollar', '3 orange']	['2 orange']	0.346557107299
+['dollar', '3 orange']	['1 dollar']	0.598401148738
+['dollar', '3 orange']	['apple']	0.384125022829
+['dollar', '3 orange']	['2 apple']	0.231857959106
+['dollar', '3 orange']	['0.70 dollar']	0.442012633359
+['0.70 dollar', '3 orange']	['4 apple']	0.362256416006
+['0.70 dollar', '3 orange']	['2 orange']	0.754360422532
+['0.70 dollar', '3 orange']	['1 dollar']	0.754360422532
+['0.70 dollar', '3 orange']	['apple']	0.15778339759
+['0.70 dollar', '3 orange']	['2 apple']	0.362256416006
+['0.70 dollar', '3 orange']	['dollar']	0.419771549328
+['4 apple', 'dollar']	['2 orange']	0.246223681103
+['4 apple', 'dollar']	['1 dollar']	0.598401148738
+['4 apple', 'dollar']	['apple']	0.736340602934
+['4 apple', 'dollar']	['2 apple']	0.346557107299
+['4 apple', 'dollar']	['3 orange']	0.246223681103
+['4 apple', 'dollar']	['0.70 dollar']	0.442012633359
+['2 orange', 'dollar']	['4 apple']	0.231857959106
+['2 orange', 'dollar']	['1 dollar']	0.598401148738
+['2 orange', 'dollar']	['apple']	0.384125022829
+['2 orange', 'dollar']	['2 apple']	0.453532329015
+['2 orange', 'dollar']	['3 orange']	0.346557107299
+['2 orange', 'dollar']	['0.70 dollar']	0.442012633359
+['1 dollar', 'dollar']	['4 apple']	0.424853279028
+['1 dollar', 'dollar']	['2 orange']	0.439219001025
+['1 dollar', 'dollar']	['apple']	0.352790288223
+['1 dollar', 'dollar']	['2 apple']	0.424853279028
+['1 dollar', 'dollar']	['3 orange']	0.439219001025
+['1 dollar', 'dollar']	['0.70 dollar']	0.676555862245
+['apple', 'dollar']	['4 apple']	0.575673810929
+['apple', 'dollar']	['2 orange']	0.146229162952
+['apple', 'dollar']	['1 dollar']	0.397268490074
+['apple', 'dollar']	['2 apple']	0.575673810929
+['apple', 'dollar']	['3 orange']	0.146229162952
+['apple', 'dollar']	['0.70 dollar']	0.447673452072
+['2 apple', 'dollar']	['4 apple']	0.346557107299
+['2 apple', 'dollar']	['2 orange']	0.46082305538
+['2 apple', 'dollar']	['1 dollar']	0.598401148738
+['2 apple', 'dollar']	['apple']	0.736340602934
+['2 apple', 'dollar']	['3 orange']	0.246223681103
+['2 apple', 'dollar']	['0.70 dollar']	0.442012633359
+['3 orange', 'dollar']	['4 apple']	0.231857959106
+['3 orange', 'dollar']	['2 orange']	0.346557107299
+['3 orange', 'dollar']	['1 dollar']	0.598401148738
+['3 orange', 'dollar']	['apple']	0.384125022829
+['3 orange', 'dollar']	['2 apple']	0.231857959106
+['3 orange', 'dollar']	['0.70 dollar']	0.442012633359
+['0.70 dollar', 'dollar']	['4 apple']	0.0968024870635
+['0.70 dollar', 'dollar']	['2 orange']	0.0968024870635
+['0.70 dollar', 'dollar']	['1 dollar']	0.689544863391
+['0.70 dollar', 'dollar']	['apple']	0.352790288223
+['0.70 dollar', 'dollar']	['2 apple']	0.0968024870635
+['0.70 dollar', 'dollar']	['3 orange']	0.0968024870635
+['4 apple', '0.70 dollar']	['2 orange']	0.362256416006
+['4 apple', '0.70 dollar']	['1 dollar']	0.754360422532
+['4 apple', '0.70 dollar']	['apple']	0.766808814145
+['4 apple', '0.70 dollar']	['2 apple']	0.754360422532
+['4 apple', '0.70 dollar']	['3 orange']	0.362256416006
+['4 apple', '0.70 dollar']	['dollar']	0.407600660108
+['2 orange', '0.70 dollar']	['4 apple']	0.362256416006
+['2 orange', '0.70 dollar']	['1 dollar']	0.754360422532
+['2 orange', '0.70 dollar']	['apple']	0.15778339759
+['2 orange', '0.70 dollar']	['2 apple']	0.498338895266
+['2 orange', '0.70 dollar']	['3 orange']	0.754360422532
+['2 orange', '0.70 dollar']	['dollar']	0.419771549328
+['1 dollar', '0.70 dollar']	['4 apple']	0.59564157713
+['1 dollar', '0.70 dollar']	['2 orange']	0.59564157713
+['1 dollar', '0.70 dollar']	['apple']	0.33665242287
+['1 dollar', '0.70 dollar']	['2 apple']	0.59564157713
+['1 dollar', '0.70 dollar']	['3 orange']	0.59564157713
+['1 dollar', '0.70 dollar']	['dollar']	0.766295816382
+['apple', '0.70 dollar']	['4 apple']	0.798366451366
+['apple', '0.70 dollar']	['2 orange']	0.130048808393
+['apple', '0.70 dollar']	['1 dollar']	0.525944474896
+['apple', '0.70 dollar']	['2 apple']	0.798366451366
+['apple', '0.70 dollar']	['3 orange']	0.130048808393
+['apple', '0.70 dollar']	['dollar']	0.705340414376
+['2 apple', '0.70 dollar']	['4 apple']	0.754360422532
+['2 apple', '0.70 dollar']	['2 orange']	0.498338895266
+['2 apple', '0.70 dollar']	['1 dollar']	0.754360422532
+['2 apple', '0.70 dollar']	['apple']	0.766808814145
+['2 apple', '0.70 dollar']	['3 orange']	0.362256416006
+['2 apple', '0.70 dollar']	['dollar']	0.407600660108
+['3 orange', '0.70 dollar']	['4 apple']	0.362256416006
+['3 orange', '0.70 dollar']	['2 orange']	0.754360422532
+['3 orange', '0.70 dollar']	['1 dollar']	0.754360422532
+['3 orange', '0.70 dollar']	['apple']	0.15778339759
+['3 orange', '0.70 dollar']	['2 apple']	0.362256416006
+['3 orange', '0.70 dollar']	['dollar']	0.419771549328
+['dollar', '0.70 dollar']	['4 apple']	0.0968024870635
+['dollar', '0.70 dollar']	['2 orange']	0.0968024870635
+['dollar', '0.70 dollar']	['1 dollar']	0.689544863391
+['dollar', '0.70 dollar']	['apple']	0.352790288223
+['dollar', '0.70 dollar']	['2 apple']	0.0968024870635
+['dollar', '0.70 dollar']	['3 orange']	0.0968024870635

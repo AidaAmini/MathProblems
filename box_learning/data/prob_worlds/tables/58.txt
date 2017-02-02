@@ -1,0 +1,16 @@
+1
+[['', '100', 'carton', '-', '-', 'dollar', '360'], ['pencil', 'x1', 'carton', 'dollar', '6', '-', '-'], ['eraser', 'x2', 'carton', 'dollar', '3', '-', '-']]
+-1
+[['eraser', '100', 'carton', '-', '-', 'dollar', '3'], ['pencil', 'x1', 'carton', 'dollar', '6', '-', '-'], ['eraser', 'x2', 'carton', 'dollar', '3', '-', '-']]
+-1
+[['', 'x2', 'carton', 'eraser', '-', 'dollar', '360'], ['pencil', 'x1', 'carton', 'dollar', '6', '-', '-'], ['eraser', 'x2', '', 'dollar', '360', '-', '-']]
+-1
+[['', '100', 'carton', '-', '3', 'dollar', '360'], ['pencil', 'x1', 'carton', 'dollar', '6', '-', '-'], ['360', 'x2', 'carton', 'dollar', '3', '-', '100']]
+-1
+[['', '100', 'eraser', '-', '-', '3', 'dollar'], ['pencil', 'x1', 'carton', 'dollar', '6', '-', '-'], ['eraser', 'x2', '', 'dollar', '3', '-', '100']]
+-1
+[['', 'x2', '3', '-', 'carton', 'dollar', '360'], ['pencil', 'x1', 'carton', 'dollar', '6', '-', '-'], ['', 'x2', 'carton', 'dollar', '3', '100', '-']]
+-1
+[['', '100', '3', '-', '-', 'dollar', '360'], ['pencil', 'x1', 'carton', 'dollar', '6', '-', '-'], ['100', 'x2', '', 'dollar', '3', '360', '-']]
+-1
+[['', '360', 'carton', '-', '-', 'dollar', 'eraser'], ['pencil', 'x1', 'carton', 'dollar', '6', '-', '-'], ['eraser', 'dollar', 'carton', '360', '100', '-', '-']]

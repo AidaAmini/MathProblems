@@ -1,0 +1,14 @@
+1
+[['two car combine', '-', '-', 'mile', '45', 'mile', '1400'], ['first car', '40', 'gallon', '-', 'x1', '-', '-'], ['second car', '20', 'gallon', '-', 'x2', '-', '-']]
+-1
+[['two car combine', '45', '-', 'mile', 'x2', 'mile', '1400'], ['first car', '40', 'gallon', '-', 'x1', '-', '-'], ['mile', '20', 'gallon', '-', 'x2', '45', '-']]
+-1
+[['two car combine', '-', '20', 'mile', '45', 'mile', '1400'], ['first car', '40', 'gallon', '-', 'x1', '-', '-'], ['45', 'two car combine', 'gallon', 'mile', '1400', '-', '-']]
+-1
+[['two car combine', '20', 'x2', 'mile', '45', 'mile', '1400'], ['first car', '40', 'gallon', '-', 'x1', '-', '-'], ['second car', '20', 'two car combine', '-', 'x2', 'mile', '-']]
+-1
+[['second car', 'x2', '-', '20', '45', 'mile', '1400'], ['first car', '40', 'gallon', '-', 'x1', '-', '-'], ['second car', '20', 'gallon', 'mile', 'x2', '-', '-']]
+-1
+[['two car combine', '-', '-', 'mile', '45', 'second car', 'gallon'], ['first car', '40', 'gallon', '-', 'x1', '-', '-'], ['two car combine', '20', 'gallon', '-', 'x2', 'mile', '1400']]
+-1
+[['two car combine', '-', '20', 'second car', 'x2', 'mile', '1400'], ['first car', '40', 'gallon', '-', 'x1', '-', '-'], ['second car', '20', 'mile', '-', '1400', '-', '-']]

@@ -1,0 +1,24 @@
+suppose arg1 suppose you invest 1,500 dollar in equipment to put picture on t-shirt
+put arg0 you
+invest arg0 you
+invest PNC to put picture on t-shirt
+invest arg2 equipment
+invest arg1 1,500 dollar
+put arg2 t-shirt
+put arg1 picture
+buy ARG0 you
+buy arg3 3 dollar
+buy arg1 each t-shirt
+sell TMP after you have place the picture on a shirt
+place arg0 you
+place arg2 a shirt
+place arg1 the picture
+sell arg0 you
+sell arg3 20 dollar
+sell arg1 it
+sell arg1 t-shirt
+break arg1 you
+sell arg0 you
+sell MOD must you
+sell PNC to break even
+break adv even

@@ -1,0 +1,298 @@
+1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+1
+[['dinner', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', '-'], ['adult plate', '-', '-', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['child plate', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['child plate', '-', '-', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['child plate', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['dinner', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+1
+[['dinner', '-', '-', '-'], ['adult plate', '-', '-', '-'], ['child plate', '-', '-', '-']]
+1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['child plate', '-', '-', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['dinner', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['dinner', '-', '-', '-'], ['adult plate', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['dinner', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['adult plate', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['dinner', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['child plate', '-', '-', 'dollar'], ['child plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', 'adult plate', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['adult plate', 'dinner', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'child plate'], ['adult plate', '-', 'child plate', 'dollar'], ['child plate', '-', 'dollar', '-']]
+-1
+[['adult plate', '-', '-', 'dollar'], ['adult plate', 'dinner', 'dollar', '-'], ['adult plate', '-', 'dollar', '-']]
+-1
+[['dinner', 'child plate', '-', 'dollar'], ['adult plate', 'child plate', 'dinner', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'serve', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'child plate', '-'], ['child plate', 'adult plate', 'dollar', '-']]
+-1
+[['-', 'child plate', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'child plate', '-'], ['child plate', '-', 'dollar', 'adult plate']]
+-1
+[['-', 'adult plate', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', 'adult plate']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', 'child plate', 'dollar', '-'], ['child plate', '-', 'dollar', 'adult plate']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', 'serve'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['adult plate', '-', 'dollar', 'dinner']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', 'dinner'], ['dinner', '-', 'dollar', '-']]
+-1
+[['dinner', '-', 'child plate', '-'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'adult plate'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dinner', '-']]
+-1
+[['dollar', '-', '-', 'adult plate'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'serve'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', 'dinner'], ['dinner', '-', 'dollar', '-']]
+-1
+[['child plate', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child plate', '-', 'dollar', 'dinner']]
+-1
+[['dinner', '-', '-', 'dollar'], ['dinner', '-', 'dollar', '-'], ['dinner', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', 'dinner', 'dollar', '-'], ['dinner', '-', 'dollar', '-']]
+-1
+[['dinner', 'child plate', '-', 'dollar'], ['-', '-', 'child plate', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', 'serve', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['child plate', '-', '-', 'dollar'], ['adult plate', '-', 'child plate', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', 'adult plate', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['child plate', '-', 'dollar', 'adult plate']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', 'dinner'], ['child plate', '-', 'dollar', 'adult plate']]
+-1
+[['dinner', '-', '-', 'child plate'], ['dollar', '-', '-', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', 'dollar'], ['child plate', 'adult plate', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['child plate', '-', 'dollar', 'serve']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', 'dinner', 'dollar', '-'], ['adult plate', '-', 'dollar', '-']]
+-1
+[['dinner', 'adult plate', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'dollar', 'adult plate']]
+-1
+[['adult plate', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'dinner', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', 'dinner'], ['-', '-', 'dollar', 'adult plate']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'dollar', 'dinner']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'serve', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', 'adult plate', '-', 'dollar']]
+-1
+[['dinner', '-', 'adult plate', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', 'dollar']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', 'dollar', '-', 'dinner']]
+-1
+[['adult plate', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['adult plate', '-', '-', '-']]
+-1
+[['child plate', '-', '-', 'adult plate'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'mark community barbecue', '-'], ['child plate', '-', '-', '-']]
+-1
+[['-', 'adult plate', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', 'adult plate']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', 'adult plate', '-', 'dollar']]
+-1
+[['-', '-', '-', 'adult plate'], ['adult plate', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['adult plate', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', 'dollar', '-', '-']]
+-1
+[['child plate', 'adult plate', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['mark community barbecue', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'adult plate'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', 'adult plate', '-']]
+-1
+[['dinner', '-', '-', 'child plate'], ['adult plate', '-', 'dinner', '-'], ['child plate', '-', '-', '-']]
+-1
+[['child plate', '-', '-', '-'], ['dinner', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+-1
+[['dinner', '-', 'adult plate', '-'], ['adult plate', '-', 'dollar', '-'], ['child plate', 'dinner', '-', '-']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['dollar', '-', 'dinner', '-']]
+-1
+[['dinner', '-', 'mark community barbecue', '-'], ['adult plate', '-', 'dollar', '-'], ['child plate', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dinner', '-'], ['dinner', '-', '-', '-']]
+-1
+[['dinner', 'child plate', '-', 'dollar'], ['-', '-', 'dollar', 'child plate'], ['child plate', '-', '-', '-']]
+-1
+[['dinner', 'child plate', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', 'child plate', 'dollar'], ['-', '-', 'dollar', '-'], ['child plate', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['child plate', '-', 'dollar', '-'], ['child plate', '-', '-', 'dollar']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child plate', 'serve', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', 'dinner', '-', '-'], ['child plate', 'adult plate', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', 'dollar', '-', '-'], ['child plate', '-', '-', 'dinner']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dinner', '-'], ['child plate', 'dollar', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['dinner', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['dinner', 'adult plate', '-', 'dollar'], ['adult plate', 'dinner', '-', '-'], ['child plate', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['serve', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['dinner', '-', 'dollar', '-'], ['-', '-', 'dinner', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dinner', '-'], ['-', '-', 'dinner', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['dinner', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'adult plate', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', 'dinner'], ['-', '-', 'dollar', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', 'mark community barbecue'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', 'adult plate', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'adult plate', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dinner', '-'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['-', '-', 'dinner', '-']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', 'dollar', '-'], ['dinner', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', 'dinner', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['dinner', '-', '-', 'dollar'], ['dinner', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'dinner', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', 'dinner'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['dinner', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['-', '-', '-', 'adult plate']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['adult plate', '-', 'dinner', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['adult plate', '-', '-', '-']]
+-1
+[['-', '-', '-', 'adult plate'], ['adult plate', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['-', 'adult plate', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult plate', '-', '-', '-'], ['-', '-', '-', 'adult plate']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', '-', '-'], ['adult plate', '-', '-', '-']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', '-', '-'], ['-', '-', '-', 'dinner']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', 'dinner', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['dinner', 'adult plate', '-', '-'], ['adult plate', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', '-'], ['adult plate', '-', '-', '-'], ['dinner', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', '-', 'dinner'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', '-', 'dollar'], ['-', '-', '-', '-']]
+-1
+[['dinner', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['dinner', '-', '-', '-']]

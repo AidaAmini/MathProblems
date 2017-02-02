@@ -1,0 +1,24 @@
+(ROOT
+  (NP
+    (NP (DT The) (JJ Jurassic) (NN Zoo) (NNS charges))
+    (NP
+      (NP
+        (NP (CD 8) (NNS dollars))
+        (PP (IN for) (NP (DT each) (NN adult))))
+      (CC and)
+      (NP
+        (NP (CD 4) (NNS dollars))
+        (PP (IN for) (NP (DT each) (NN child)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (JJ Total) (NN bill))
+      (PP (IN for) (NP (DT the) (CD 201) (NNS people))))
+    (VP (VBD was) (NP (CD 964) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS children))
+    (SQ (VP (VBD were) (PP (IN at) (NP (DT the) (NN zoo)))))
+    (. ?)))

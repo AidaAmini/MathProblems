@@ -1,0 +1,20 @@
+1
+[['-', '-', '-', '-', '-', 'dollar', 'x2'], ['base salary', '1', '-', 'dollar', '1600', '-', '-'], ['commission', 'x1', 'dollar', '%', '4', '-', '-'], ['-', '-', '-', '-', '-', 'dollar', 'x2'], ['monthly salary', '1', 'month', 'dollar', '1800', '-', '-']]
+-1
+[['%', 'dollar', '-', '-', '-', 'commission', 'x2'], ['1', 'monthly salary', '-', 'dollar', '1600', '-', '-'], ['commission', 'x1', 'dollar', '%', '4', 'x2', '-'], ['commission', '-', '-', '-', '-', 'dollar', 'x2'], ['monthly salary', '1', 'base salary', 'dollar', '1800', '-', '-']]
+-1
+[['commission', '-', '-', '-', '-', 'dollar', 'x2'], ['monthly salary', '1', '-', 'dollar', '1600', '1800', '-'], ['commission', 'x1', 'dollar', 'x2', '4', '-', '-'], ['-', 'commission', 'dollar', '-', '-', '4', 'x2'], ['monthly salary', '1', 'month', 'dollar', '1800', '-', '-']]
+-1
+[['-', '-', '-', '-', '%', 'dollar', 'x2'], ['base salary', '1', '-', 'dollar', 'month', '-', '-'], ['commission', 'x1', 'dollar', '%', '4', '-', '-'], ['-', '-', '-', '-', '-', 'dollar', '%'], ['monthly salary', '1600', 'month', 'dollar', '1800', '-', '1']]
+-1
+[['-', 'x1', '-', '-', 'commission', 'dollar', '4'], ['base salary', '1800', '-', 'dollar', '1600', '-', '-'], ['commission', 'x1', 'dollar', '%', '4', '-', '-'], ['-', 'commission', '-', '-', '-', 'dollar', 'x2'], ['monthly salary', '1', 'month', 'base salary', '1800', '-', '-']]
+-1
+[['-', '-', '-', '-', '-', 'x1', 'x2'], ['base salary', 'monthly salary', '-', 'dollar', '1600', 'month', '-'], ['commission', 'x1', 'dollar', '%', 'x2', '-', '-'], ['-', '-', '-', '-', '-', 'dollar', 'x2'], ['monthly salary', '1', 'month', 'dollar', '1800', '-', '-']]
+-1
+[['-', '-', '-', '-', '%', 'dollar', 'x2'], ['base salary', '1', 'monthly salary', 'dollar', '1600', '-', '-'], ['x2', 'x1', 'dollar', '%', '4', '-', '-'], ['-', '4', '-', '-', '-', 'dollar', 'x2'], ['monthly salary', '1', 'month', 'dollar', '1800', '-', '-']]
+-1
+[['-', '-', '%', '-', '-', 'dollar', 'commission'], ['base salary', '1', '-', 'dollar', '1600', '-', '-'], ['commission', 'x1', 'dollar', '%', '4', '-', '-'], ['%', '-', '-', '-', '-', 'dollar', 'x1'], ['monthly salary', '1', 'month', 'dollar', '1600', '-', 'base salary']]
+-1
+[['-', '-', '-', 'commission', '4', 'dollar', 'x2'], ['dollar', '1', '-', 'month', '1600', '-', '-'], ['commission', 'x1', 'dollar', '%', '4', '-', '-'], ['commission', '-', '-', '4', '-', 'dollar', 'x2'], ['monthly salary', '1', 'month', 'dollar', '1800', '-', '-']]
+-1
+[['-', 'x1', 'x2', '-', '-', 'dollar', 'commission'], ['base salary', '1', '-', 'monthly salary', '1600', '-', '-'], ['commission', 'x1', 'x2', '%', '4', '-', '-'], ['x1', '-', '-', '-', 'dollar', '4', 'x2'], ['monthly salary', '1', 'month', '1600', '1800', '-', '-']]

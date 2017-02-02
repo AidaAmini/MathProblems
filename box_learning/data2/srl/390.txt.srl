@@ -1,0 +1,18 @@
+sell ARG0 Stefans school
+sell ARG2 a choral performance
+sell ARG1 tickets
+
+sell TMP On the first day of ticket sales
+sell ARG0 the school
+sell ARG3 79 dollars
+sell ARG1 4 senior citizen tickets and 3 student tickets
+
+take ARG0 The school
+sell ARG0 The school
+take MNR by selling 12 senior citizen tickets and 10 student tickets
+take TMP on the second day
+take ARG1 246 dollars
+sell ARG1 12 senior citizen tickets and 10 student tickets
+
+Find ARG1 the price of a senior citizen ticket and the price of a student ticket
+

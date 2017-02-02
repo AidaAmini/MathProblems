@@ -1,0 +1,37 @@
+(ROOT
+  (S
+    (NP (CD 586) (NNS people))
+    (VP
+      (VBP attend)
+      (NP (NP (DT a) (NN banquet)) (PP (IN at) (NP (NNP Disney)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNS Residents))
+    (VP
+      (VBD paid)
+      (SBAR
+        (S
+          (NP
+            (NP (CD 12.95) (NNS dollars))
+            (CC and)
+            (NP (NNS non-residents)))
+          (VP (VBD paid) (NP (CD 17.95) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (NNP Disney))
+        (VP
+          (VBD made)
+          (NP (CD 9423.70) (NNS dollars))
+          (PP (IN from) (NP (NN ticket) (NNS sales)))
+          (PP (IN for) (NP (DT the) (NN event))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (NNS residents)) (CC and) (NP (NNS non-residents))))
+    (S (VP (VBN attended)))
+    (. ?)))

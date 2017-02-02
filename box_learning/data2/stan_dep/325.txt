@@ -1,0 +1,33 @@
+(ROOT
+  (S
+    (NP (NNP Angus))
+    (VP
+      (VBD invested)
+      (NP
+        (NP (CD 18,000) (NNS dollars))
+        (, ,)
+        (NP (NP (NN part)) (PP (IN at) (NP (CD 3) (NN %))))
+        (CC and)
+        (NP (NP (NN part)) (PP (IN at) (NP (CD 5) (NN %))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (JJ total) (NN interest))
+          (PP
+            (IN at)
+            (NP
+              (NP (DT the) (NN end))
+              (PP (IN of) (NP (DT the) (NN year))))))
+        (VP (VBZ is) (NP (CD 660) (NNS dollars)))))
+    (, ,)
+    (WHNP (WRB how) (JJ much))
+    (SQ
+      (VBD did)
+      (NP (PRP he))
+      (VP (VB invest) (PP (IN at) (NP (CD 3) (NN %)))))
+    (. ?)))
+(ROOT (FRAG (PP (IN At) (NP (CD 5) (NN %))) (. ?)))

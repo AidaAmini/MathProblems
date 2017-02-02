@@ -1,0 +1,761 @@
+['theater', '80 seat', 'open night', 'adult ticket', 'ticket', '12 dollar', 'child ticket', 'dollar', '5 dollar', '519 dollar']
+['theater']	['80 seat']	0.16060792936
+['theater']	['open night']	0.0793857959237
+['theater']	['adult ticket']	0.0827346205535
+['theater']	['ticket']	0.122840736639
+['theater']	['12 dollar']	0.0827346205535
+['theater']	['child ticket']	0.0824069519204
+['theater']	['dollar']	0.0303742514954
+['theater']	['5 dollar']	0.0827346205535
+['theater']	['519 dollar']	0.0827346205535
+['80 seat']	['open night']	0.0827346205535
+['80 seat']	['adult ticket']	0.0827346205535
+['80 seat']	['ticket']	0.151982381418
+['80 seat']	['12 dollar']	0.387929093691
+['80 seat']	['child ticket']	0.0824069519204
+['80 seat']	['dollar']	0.0179192712897
+['80 seat']	['5 dollar']	0.125971854627
+['80 seat']	['519 dollar']	0.0901100077042
+['open night']	['adult ticket']	0.0901100077042
+['open night']	['ticket']	0.0741073489195
+['open night']	['12 dollar']	0.0901100077042
+['open night']	['child ticket']	0.0897823390711
+['open night']	['dollar']	0.0143499502517
+['open night']	['5 dollar']	0.0901100077042
+['open night']	['519 dollar']	0.0901100077042
+['adult ticket']	['12 dollar']	0.0827346205535
+['adult ticket']	['child ticket']	0.775533042191
+['adult ticket']	['dollar']	0.0256410450838
+['adult ticket']	['5 dollar']	0.0827346205535
+['adult ticket']	['519 dollar']	0.0901100077042
+['ticket']	['12 dollar']	0.10873615468
+['ticket']	['dollar']	0.0240886330375
+['ticket']	['5 dollar']	0.10873615468
+['ticket']	['519 dollar']	0.10873615468
+['12 dollar']	['child ticket']	0.0824069519204
+['12 dollar']	['5 dollar']	0.669829166534
+['12 dollar']	['519 dollar']	0.643440930505
+['child ticket']	['dollar']	0.0230175182111
+['child ticket']	['5 dollar']	0.0696933362217
+['child ticket']	['519 dollar']	0.0737139440912
+['5 dollar']	['519 dollar']	0.643440930505
+['80 seat', 'theater']	['open night']	0.0827346205535
+['80 seat', 'theater']	['adult ticket']	0.0827346205535
+['80 seat', 'theater']	['ticket']	0.814381196819
+['80 seat', 'theater']	['12 dollar']	0.422016612763
+['80 seat', 'theater']	['child ticket']	0.0824069519204
+['80 seat', 'theater']	['dollar']	0.118789947217
+['80 seat', 'theater']	['5 dollar']	0.149036431322
+['80 seat', 'theater']	['519 dollar']	0.0827346205535
+['open night', 'theater']	['80 seat']	0.199270042535
+['open night', 'theater']	['adult ticket']	0.0827346205535
+['open night', 'theater']	['ticket']	0.713176655201
+['open night', 'theater']	['12 dollar']	0.0827346205535
+['open night', 'theater']	['child ticket']	0.0824069519204
+['open night', 'theater']	['dollar']	0.134911466792
+['open night', 'theater']	['5 dollar']	0.0827346205535
+['open night', 'theater']	['519 dollar']	0.0827346205535
+['adult ticket', 'theater']	['80 seat']	0.210126296403
+['adult ticket', 'theater']	['open night']	0.0793857959237
+['adult ticket', 'theater']	['ticket']	0.798861542131
+['adult ticket', 'theater']	['12 dollar']	0.0827346205535
+['adult ticket', 'theater']	['child ticket']	0.764705168097
+['adult ticket', 'theater']	['dollar']	0.144352057042
+['adult ticket', 'theater']	['5 dollar']	0.0827346205535
+['adult ticket', 'theater']	['519 dollar']	0.0827346205535
+['ticket', 'theater']	['80 seat']	0.159095628616
+['ticket', 'theater']	['open night']	0.0663445115919
+['ticket', 'theater']	['adult ticket']	0.722297777211
+['ticket', 'theater']	['12 dollar']	0.117488318928
+['ticket', 'theater']	['child ticket']	0.571744128048
+['ticket', 'theater']	['dollar']	0.0240886330375
+['ticket', 'theater']	['5 dollar']	0.117488318928
+['ticket', 'theater']	['519 dollar']	0.117488318928
+['12 dollar', 'theater']	['80 seat']	0.423364656264
+['12 dollar', 'theater']	['open night']	0.0827346205535
+['12 dollar', 'theater']	['adult ticket']	0.0827346205535
+['12 dollar', 'theater']	['ticket']	0.843342790847
+['12 dollar', 'theater']	['child ticket']	0.0824069519204
+['12 dollar', 'theater']	['dollar']	0.627173633678
+['12 dollar', 'theater']	['5 dollar']	0.600600090067
+['12 dollar', 'theater']	['519 dollar']	0.549852778125
+['child ticket', 'theater']	['80 seat']	0.171724305362
+['child ticket', 'theater']	['open night']	0.0663445115919
+['child ticket', 'theater']	['adult ticket']	0.737511369001
+['child ticket', 'theater']	['ticket']	0.764569287469
+['child ticket', 'theater']	['12 dollar']	0.0696933362217
+['child ticket', 'theater']	['dollar']	0.109080770735
+['child ticket', 'theater']	['5 dollar']	0.0696933362217
+['child ticket', 'theater']	['519 dollar']	0.0696933362217
+['dollar', 'theater']	['80 seat']	0.0902216790505
+['dollar', 'theater']	['open night']	0.0368701550083
+['dollar', 'theater']	['adult ticket']	0.0618737183104
+['dollar', 'theater']	['ticket']	0.344438942289
+['dollar', 'theater']	['12 dollar']	0.391516700063
+['dollar', 'theater']	['child ticket']	0.0650051934866
+['dollar', 'theater']	['5 dollar']	0.397268490074
+['dollar', 'theater']	['519 dollar']	0.371062249217
+['5 dollar', 'theater']	['80 seat']	0.16060792936
+['5 dollar', 'theater']	['open night']	0.0827346205535
+['5 dollar', 'theater']	['adult ticket']	0.0827346205535
+['5 dollar', 'theater']	['ticket']	0.843342790847
+['5 dollar', 'theater']	['12 dollar']	0.600600090067
+['5 dollar', 'theater']	['child ticket']	0.0824069519204
+['5 dollar', 'theater']	['dollar']	0.647286633107
+['5 dollar', 'theater']	['519 dollar']	0.549852778125
+['519 dollar', 'theater']	['80 seat']	0.199270042535
+['519 dollar', 'theater']	['open night']	0.0827346205535
+['519 dollar', 'theater']	['adult ticket']	0.0827346205535
+['519 dollar', 'theater']	['ticket']	0.843342790847
+['519 dollar', 'theater']	['12 dollar']	0.549852778125
+['519 dollar', 'theater']	['child ticket']	0.0824069519204
+['519 dollar', 'theater']	['dollar']	0.629068333815
+['519 dollar', 'theater']	['5 dollar']	0.549852778125
+['theater', '80 seat']	['open night']	0.0827346205535
+['theater', '80 seat']	['adult ticket']	0.0827346205535
+['theater', '80 seat']	['ticket']	0.814381196819
+['theater', '80 seat']	['12 dollar']	0.422016612763
+['theater', '80 seat']	['child ticket']	0.0824069519204
+['theater', '80 seat']	['dollar']	0.118789947217
+['theater', '80 seat']	['5 dollar']	0.149036431322
+['theater', '80 seat']	['519 dollar']	0.0827346205535
+['open night', '80 seat']	['theater']	0.229348801121
+['open night', '80 seat']	['adult ticket']	0.0827346205535
+['open night', '80 seat']	['ticket']	0.179087665818
+['open night', '80 seat']	['12 dollar']	0.362256416006
+['open night', '80 seat']	['child ticket']	0.0824069519204
+['open night', '80 seat']	['dollar']	0.0132263547461
+['open night', '80 seat']	['5 dollar']	0.126675736021
+['open night', '80 seat']	['519 dollar']	0.0901100077042
+['adult ticket', '80 seat']	['theater']	0.236270239319
+['adult ticket', '80 seat']	['open night']	0.0827346205535
+['adult ticket', '80 seat']	['ticket']	0.719560951185
+['adult ticket', '80 seat']	['12 dollar']	0.417194081899
+['adult ticket', '80 seat']	['child ticket']	0.749099500957
+['adult ticket', '80 seat']	['dollar']	0.0249057509662
+['adult ticket', '80 seat']	['5 dollar']	0.140649313257
+['adult ticket', '80 seat']	['519 dollar']	0.0901100077042
+['ticket', '80 seat']	['theater']	0.858175815942
+['ticket', '80 seat']	['open night']	0.0696933362217
+['ticket', '80 seat']	['adult ticket']	0.751760536674
+['ticket', '80 seat']	['12 dollar']	0.374932920039
+['ticket', '80 seat']	['child ticket']	0.624252155
+['ticket', '80 seat']	['dollar']	0.0831640509808
+['ticket', '80 seat']	['5 dollar']	0.235706336274
+['ticket', '80 seat']	['519 dollar']	0.103222748661
+['12 dollar', '80 seat']	['theater']	0.229348801121
+['12 dollar', '80 seat']	['open night']	0.0827346205535
+['12 dollar', '80 seat']	['adult ticket']	0.0827346205535
+['12 dollar', '80 seat']	['ticket']	0.153187994599
+['12 dollar', '80 seat']	['child ticket']	0.0824069519204
+['12 dollar', '80 seat']	['dollar']	0.306370088568
+['12 dollar', '80 seat']	['5 dollar']	0.677848280594
+['12 dollar', '80 seat']	['519 dollar']	0.584269096576
+['child ticket', '80 seat']	['theater']	0.178254512946
+['child ticket', '80 seat']	['open night']	0.0696933362217
+['child ticket', '80 seat']	['adult ticket']	0.73148494077
+['child ticket', '80 seat']	['ticket']	0.628293903976
+['child ticket', '80 seat']	['12 dollar']	0.313566194137
+['child ticket', '80 seat']	['dollar']	0.0222822240935
+['child ticket', '80 seat']	['5 dollar']	0.105691884463
+['child ticket', '80 seat']	['519 dollar']	0.0737139440912
+['dollar', '80 seat']	['theater']	0.25526882594
+['dollar', '80 seat']	['open night']	0.0368701550083
+['dollar', '80 seat']	['adult ticket']	0.0618737183104
+['dollar', '80 seat']	['ticket']	0.254319823726
+['dollar', '80 seat']	['12 dollar']	0.565841479934
+['dollar', '80 seat']	['child ticket']	0.0650051934866
+['dollar', '80 seat']	['5 dollar']	0.570628932896
+['dollar', '80 seat']	['519 dollar']	0.365401430504
+['5 dollar', '80 seat']	['theater']	0.229348801121
+['5 dollar', '80 seat']	['open night']	0.0827346205535
+['5 dollar', '80 seat']	['adult ticket']	0.0827346205535
+['5 dollar', '80 seat']	['ticket']	0.153187994599
+['5 dollar', '80 seat']	['12 dollar']	0.800552772617
+['5 dollar', '80 seat']	['child ticket']	0.0824069519204
+['5 dollar', '80 seat']	['dollar']	0.344442191904
+['5 dollar', '80 seat']	['519 dollar']	0.584269096576
+['519 dollar', '80 seat']	['theater']	0.229348801121
+['519 dollar', '80 seat']	['open night']	0.0827346205535
+['519 dollar', '80 seat']	['adult ticket']	0.0827346205535
+['519 dollar', '80 seat']	['ticket']	0.153187994599
+['519 dollar', '80 seat']	['12 dollar']	0.754360422532
+['519 dollar', '80 seat']	['child ticket']	0.0824069519204
+['519 dollar', '80 seat']	['dollar']	0.276426897145
+['519 dollar', '80 seat']	['5 dollar']	0.604308352538
+['theater', 'open night']	['80 seat']	0.199270042535
+['theater', 'open night']	['adult ticket']	0.0827346205535
+['theater', 'open night']	['ticket']	0.713176655201
+['theater', 'open night']	['12 dollar']	0.0827346205535
+['theater', 'open night']	['child ticket']	0.0824069519204
+['theater', 'open night']	['dollar']	0.134911466792
+['theater', 'open night']	['5 dollar']	0.0827346205535
+['theater', 'open night']	['519 dollar']	0.0827346205535
+['80 seat', 'open night']	['theater']	0.229348801121
+['80 seat', 'open night']	['adult ticket']	0.0827346205535
+['80 seat', 'open night']	['ticket']	0.179087665818
+['80 seat', 'open night']	['12 dollar']	0.362256416006
+['80 seat', 'open night']	['child ticket']	0.0824069519204
+['80 seat', 'open night']	['dollar']	0.0132263547461
+['80 seat', 'open night']	['5 dollar']	0.126675736021
+['80 seat', 'open night']	['519 dollar']	0.0901100077042
+['adult ticket', 'open night']	['theater']	0.0777864840342
+['adult ticket', 'open night']	['80 seat']	0.0827346205535
+['adult ticket', 'open night']	['ticket']	0.673317179343
+['adult ticket', 'open night']	['12 dollar']	0.0827346205535
+['adult ticket', 'open night']	['child ticket']	0.738774087425
+['adult ticket', 'open night']	['dollar']	0.0264957459385
+['adult ticket', 'open night']	['5 dollar']	0.0827346205535
+['adult ticket', 'open night']	['519 dollar']	0.0901100077042
+['ticket', 'open night']	['theater']	0.716321309289
+['ticket', 'open night']	['80 seat']	0.130048808393
+['ticket', 'open night']	['adult ticket']	0.722227658089
+['ticket', 'open night']	['12 dollar']	0.103222748661
+['ticket', 'open night']	['child ticket']	0.604465896967
+['ticket', 'open night']	['dollar']	0.0996401804851
+['ticket', 'open night']	['5 dollar']	0.103222748661
+['ticket', 'open night']	['519 dollar']	0.103222748661
+['12 dollar', 'open night']	['theater']	0.0777864840342
+['12 dollar', 'open night']	['80 seat']	0.362256416006
+['12 dollar', 'open night']	['adult ticket']	0.0827346205535
+['12 dollar', 'open night']	['ticket']	0.110894185219
+['12 dollar', 'open night']	['child ticket']	0.0824069519204
+['12 dollar', 'open night']	['dollar']	0.388108272712
+['12 dollar', 'open night']	['5 dollar']	0.604308352538
+['12 dollar', 'open night']	['519 dollar']	0.584269096576
+['child ticket', 'open night']	['theater']	0.0667637182209
+['child ticket', 'open night']	['80 seat']	0.0696933362217
+['child ticket', 'open night']	['adult ticket']	0.715624131435
+['child ticket', 'open night']	['ticket']	0.568819923854
+['child ticket', 'open night']	['12 dollar']	0.0696933362217
+['child ticket', 'open night']	['dollar']	0.0238722190658
+['child ticket', 'open night']	['5 dollar']	0.0696933362217
+['child ticket', 'open night']	['519 dollar']	0.0737139440912
+['dollar', 'open night']	['theater']	0.12850470425
+['dollar', 'open night']	['80 seat']	0.0361569291624
+['dollar', 'open night']	['adult ticket']	0.0618737183104
+['dollar', 'open night']	['ticket']	0.129806291552
+['dollar', 'open night']	['12 dollar']	0.391516700063
+['dollar', 'open night']	['child ticket']	0.0650051934866
+['dollar', 'open night']	['5 dollar']	0.397268490074
+['dollar', 'open night']	['519 dollar']	0.365401430504
+['5 dollar', 'open night']	['theater']	0.0777864840342
+['5 dollar', 'open night']	['80 seat']	0.126675736021
+['5 dollar', 'open night']	['adult ticket']	0.0827346205535
+['5 dollar', 'open night']	['ticket']	0.110894185219
+['5 dollar', 'open night']	['12 dollar']	0.604308352538
+['5 dollar', 'open night']	['child ticket']	0.0824069519204
+['5 dollar', 'open night']	['dollar']	0.425127995919
+['5 dollar', 'open night']	['519 dollar']	0.584269096576
+['519 dollar', 'open night']	['theater']	0.0777864840342
+['519 dollar', 'open night']	['80 seat']	0.0901100077042
+['519 dollar', 'open night']	['adult ticket']	0.0901100077042
+['519 dollar', 'open night']	['ticket']	0.110894185219
+['519 dollar', 'open night']	['12 dollar']	0.584269096576
+['519 dollar', 'open night']	['child ticket']	0.0897823390711
+['519 dollar', 'open night']	['dollar']	0.384528877052
+['519 dollar', 'open night']	['5 dollar']	0.584269096576
+['theater', 'adult ticket']	['80 seat']	0.210126296403
+['theater', 'adult ticket']	['open night']	0.0793857959237
+['theater', 'adult ticket']	['ticket']	0.798861542131
+['theater', 'adult ticket']	['12 dollar']	0.0827346205535
+['theater', 'adult ticket']	['child ticket']	0.764705168097
+['theater', 'adult ticket']	['dollar']	0.144352057042
+['theater', 'adult ticket']	['5 dollar']	0.0827346205535
+['theater', 'adult ticket']	['519 dollar']	0.0827346205535
+['80 seat', 'adult ticket']	['theater']	0.236270239319
+['80 seat', 'adult ticket']	['open night']	0.0827346205535
+['80 seat', 'adult ticket']	['ticket']	0.719560951185
+['80 seat', 'adult ticket']	['12 dollar']	0.417194081899
+['80 seat', 'adult ticket']	['child ticket']	0.749099500957
+['80 seat', 'adult ticket']	['dollar']	0.0249057509662
+['80 seat', 'adult ticket']	['5 dollar']	0.140649313257
+['80 seat', 'adult ticket']	['519 dollar']	0.0901100077042
+['open night', 'adult ticket']	['theater']	0.0777864840342
+['open night', 'adult ticket']	['80 seat']	0.0827346205535
+['open night', 'adult ticket']	['ticket']	0.673317179343
+['open night', 'adult ticket']	['12 dollar']	0.0827346205535
+['open night', 'adult ticket']	['child ticket']	0.738774087425
+['open night', 'adult ticket']	['dollar']	0.0264957459385
+['open night', 'adult ticket']	['5 dollar']	0.0827346205535
+['open night', 'adult ticket']	['519 dollar']	0.0901100077042
+['ticket', 'adult ticket']	['theater']	0.759797192234
+['ticket', 'adult ticket']	['80 seat']	0.399613100377
+['ticket', 'adult ticket']	['open night']	0.229432267183
+['ticket', 'adult ticket']	['12 dollar']	0.247627320934
+['ticket', 'adult ticket']	['child ticket']	0.80220817892
+['ticket', 'adult ticket']	['dollar']	0.347535848514
+['ticket', 'adult ticket']	['5 dollar']	0.247627320934
+['ticket', 'adult ticket']	['519 dollar']	0.247627320934
+['12 dollar', 'adult ticket']	['theater']	0.0777864840342
+['12 dollar', 'adult ticket']	['80 seat']	0.417194081899
+['12 dollar', 'adult ticket']	['open night']	0.0827346205535
+['12 dollar', 'adult ticket']	['ticket']	0.700846684836
+['12 dollar', 'adult ticket']	['child ticket']	0.749099500957
+['12 dollar', 'adult ticket']	['dollar']	0.458677718285
+['12 dollar', 'adult ticket']	['5 dollar']	0.587641685872
+['12 dollar', 'adult ticket']	['519 dollar']	0.584269096576
+['child ticket', 'adult ticket']	['theater']	0.329177689786
+['child ticket', 'adult ticket']	['80 seat']	0.144528281371
+['child ticket', 'adult ticket']	['open night']	0.229432267183
+['child ticket', 'adult ticket']	['ticket']	0.786949415788
+['child ticket', 'adult ticket']	['12 dollar']	0.144528281371
+['child ticket', 'adult ticket']	['dollar']	0.296242423731
+['child ticket', 'adult ticket']	['5 dollar']	0.144528281371
+['child ticket', 'adult ticket']	['519 dollar']	0.127137811052
+['dollar', 'adult ticket']	['theater']	0.109561042279
+['dollar', 'adult ticket']	['80 seat']	0.0361569291624
+['dollar', 'adult ticket']	['open night']	0.0368701550083
+['dollar', 'adult ticket']	['ticket']	0.600796035125
+['dollar', 'adult ticket']	['12 dollar']	0.391516700063
+['dollar', 'adult ticket']	['child ticket']	0.458978284107
+['dollar', 'adult ticket']	['5 dollar']	0.397268490074
+['dollar', 'adult ticket']	['519 dollar']	0.365401430504
+['5 dollar', 'adult ticket']	['theater']	0.0777864840342
+['5 dollar', 'adult ticket']	['80 seat']	0.140649313257
+['5 dollar', 'adult ticket']	['open night']	0.0827346205535
+['5 dollar', 'adult ticket']	['ticket']	0.700846684836
+['5 dollar', 'adult ticket']	['12 dollar']	0.587641685872
+['5 dollar', 'adult ticket']	['child ticket']	0.749099500957
+['5 dollar', 'adult ticket']	['dollar']	0.517803201643
+['5 dollar', 'adult ticket']	['519 dollar']	0.584269096576
+['519 dollar', 'adult ticket']	['theater']	0.0777864840342
+['519 dollar', 'adult ticket']	['80 seat']	0.0827346205535
+['519 dollar', 'adult ticket']	['open night']	0.0827346205535
+['519 dollar', 'adult ticket']	['ticket']	0.700846684836
+['519 dollar', 'adult ticket']	['12 dollar']	0.569519319138
+['519 dollar', 'adult ticket']	['child ticket']	0.738774087425
+['519 dollar', 'adult ticket']	['dollar']	0.45661347414
+['519 dollar', 'adult ticket']	['5 dollar']	0.569519319138
+['theater', 'ticket']	['80 seat']	0.159095628616
+['theater', 'ticket']	['open night']	0.0663445115919
+['theater', 'ticket']	['adult ticket']	0.722297777211
+['theater', 'ticket']	['12 dollar']	0.117488318928
+['theater', 'ticket']	['child ticket']	0.571744128048
+['theater', 'ticket']	['dollar']	0.0240886330375
+['theater', 'ticket']	['5 dollar']	0.117488318928
+['theater', 'ticket']	['519 dollar']	0.117488318928
+['80 seat', 'ticket']	['theater']	0.858175815942
+['80 seat', 'ticket']	['open night']	0.0696933362217
+['80 seat', 'ticket']	['adult ticket']	0.751760536674
+['80 seat', 'ticket']	['12 dollar']	0.374932920039
+['80 seat', 'ticket']	['child ticket']	0.624252155
+['80 seat', 'ticket']	['dollar']	0.0831640509808
+['80 seat', 'ticket']	['5 dollar']	0.235706336274
+['80 seat', 'ticket']	['519 dollar']	0.103222748661
+['open night', 'ticket']	['theater']	0.716321309289
+['open night', 'ticket']	['80 seat']	0.130048808393
+['open night', 'ticket']	['adult ticket']	0.722227658089
+['open night', 'ticket']	['12 dollar']	0.103222748661
+['open night', 'ticket']	['child ticket']	0.604465896967
+['open night', 'ticket']	['dollar']	0.0996401804851
+['open night', 'ticket']	['5 dollar']	0.103222748661
+['open night', 'ticket']	['519 dollar']	0.103222748661
+['adult ticket', 'ticket']	['theater']	0.759797192234
+['adult ticket', 'ticket']	['80 seat']	0.399613100377
+['adult ticket', 'ticket']	['open night']	0.229432267183
+['adult ticket', 'ticket']	['12 dollar']	0.247627320934
+['adult ticket', 'ticket']	['child ticket']	0.80220817892
+['adult ticket', 'ticket']	['dollar']	0.347535848514
+['adult ticket', 'ticket']	['5 dollar']	0.247627320934
+['adult ticket', 'ticket']	['519 dollar']	0.247627320934
+['12 dollar', 'ticket']	['theater']	0.719008758257
+['12 dollar', 'ticket']	['80 seat']	0.374932920039
+['12 dollar', 'ticket']	['open night']	0.0696933362217
+['12 dollar', 'ticket']	['adult ticket']	0.751760536674
+['12 dollar', 'ticket']	['child ticket']	0.624252155
+['12 dollar', 'ticket']	['dollar']	0.679196039815
+['12 dollar', 'ticket']	['5 dollar']	0.567067802557
+['12 dollar', 'ticket']	['519 dollar']	0.525526174317
+['child ticket', 'ticket']	['theater']	0.791549833433
+['child ticket', 'ticket']	['80 seat']	0.450391273059
+['child ticket', 'ticket']	['open night']	0.280210439865
+['child ticket', 'ticket']	['adult ticket']	0.823599665639
+['child ticket', 'ticket']	['12 dollar']	0.298405493616
+['child ticket', 'ticket']	['dollar']	0.413446847674
+['child ticket', 'ticket']	['5 dollar']	0.298405493616
+['child ticket', 'ticket']	['519 dollar']	0.298405493616
+['dollar', 'ticket']	['theater']	0.401309532484
+['dollar', 'ticket']	['80 seat']	0.146229162952
+['dollar', 'ticket']	['open night']	0.0989480026901
+['dollar', 'ticket']	['adult ticket']	0.582053000015
+['dollar', 'ticket']	['12 dollar']	0.538150963439
+['dollar', 'ticket']	['child ticket']	0.463940607453
+['dollar', 'ticket']	['5 dollar']	0.572396609663
+['dollar', 'ticket']	['519 dollar']	0.520954191004
+['5 dollar', 'ticket']	['theater']	0.719008758257
+['5 dollar', 'ticket']	['80 seat']	0.150004719525
+['5 dollar', 'ticket']	['open night']	0.0696933362217
+['5 dollar', 'ticket']	['adult ticket']	0.751760536674
+['5 dollar', 'ticket']	['12 dollar']	0.567067802557
+['5 dollar', 'ticket']	['child ticket']	0.624252155
+['5 dollar', 'ticket']	['dollar']	0.712205864641
+['5 dollar', 'ticket']	['519 dollar']	0.525526174317
+['519 dollar', 'ticket']	['theater']	0.719008758257
+['519 dollar', 'ticket']	['80 seat']	0.130048808393
+['519 dollar', 'ticket']	['open night']	0.0696933362217
+['519 dollar', 'ticket']	['adult ticket']	0.722227658089
+['519 dollar', 'ticket']	['12 dollar']	0.525526174317
+['519 dollar', 'ticket']	['child ticket']	0.604465896967
+['519 dollar', 'ticket']	['dollar']	0.65389882076
+['519 dollar', 'ticket']	['5 dollar']	0.525526174317
+['theater', '12 dollar']	['80 seat']	0.423364656264
+['theater', '12 dollar']	['open night']	0.0827346205535
+['theater', '12 dollar']	['adult ticket']	0.0827346205535
+['theater', '12 dollar']	['ticket']	0.843342790847
+['theater', '12 dollar']	['child ticket']	0.0824069519204
+['theater', '12 dollar']	['dollar']	0.627173633678
+['theater', '12 dollar']	['5 dollar']	0.600600090067
+['theater', '12 dollar']	['519 dollar']	0.549852778125
+['80 seat', '12 dollar']	['theater']	0.229348801121
+['80 seat', '12 dollar']	['open night']	0.0827346205535
+['80 seat', '12 dollar']	['adult ticket']	0.0827346205535
+['80 seat', '12 dollar']	['ticket']	0.153187994599
+['80 seat', '12 dollar']	['child ticket']	0.0824069519204
+['80 seat', '12 dollar']	['dollar']	0.306370088568
+['80 seat', '12 dollar']	['5 dollar']	0.677848280594
+['80 seat', '12 dollar']	['519 dollar']	0.584269096576
+['open night', '12 dollar']	['theater']	0.0777864840342
+['open night', '12 dollar']	['80 seat']	0.362256416006
+['open night', '12 dollar']	['adult ticket']	0.0827346205535
+['open night', '12 dollar']	['ticket']	0.110894185219
+['open night', '12 dollar']	['child ticket']	0.0824069519204
+['open night', '12 dollar']	['dollar']	0.388108272712
+['open night', '12 dollar']	['5 dollar']	0.604308352538
+['open night', '12 dollar']	['519 dollar']	0.584269096576
+['adult ticket', '12 dollar']	['theater']	0.0777864840342
+['adult ticket', '12 dollar']	['80 seat']	0.417194081899
+['adult ticket', '12 dollar']	['open night']	0.0827346205535
+['adult ticket', '12 dollar']	['ticket']	0.700846684836
+['adult ticket', '12 dollar']	['child ticket']	0.749099500957
+['adult ticket', '12 dollar']	['dollar']	0.458677718285
+['adult ticket', '12 dollar']	['5 dollar']	0.587641685872
+['adult ticket', '12 dollar']	['519 dollar']	0.584269096576
+['ticket', '12 dollar']	['theater']	0.719008758257
+['ticket', '12 dollar']	['80 seat']	0.374932920039
+['ticket', '12 dollar']	['open night']	0.0696933362217
+['ticket', '12 dollar']	['adult ticket']	0.751760536674
+['ticket', '12 dollar']	['child ticket']	0.624252155
+['ticket', '12 dollar']	['dollar']	0.679196039815
+['ticket', '12 dollar']	['5 dollar']	0.567067802557
+['ticket', '12 dollar']	['519 dollar']	0.525526174317
+['child ticket', '12 dollar']	['theater']	0.0667637182209
+['child ticket', '12 dollar']	['80 seat']	0.313566194137
+['child ticket', '12 dollar']	['open night']	0.0696933362217
+['child ticket', '12 dollar']	['adult ticket']	0.73148494077
+['child ticket', '12 dollar']	['ticket']	0.637516287091
+['child ticket', '12 dollar']	['dollar']	0.485908652277
+['child ticket', '12 dollar']	['5 dollar']	0.502833079419
+['child ticket', '12 dollar']	['519 dollar']	0.544221442934
+['dollar', '12 dollar']	['theater']	0.297245159667
+['dollar', '12 dollar']	['80 seat']	0.43836430017
+['dollar', '12 dollar']	['open night']	0.177516058856
+['dollar', '12 dollar']	['adult ticket']	0.183873817054
+['dollar', '12 dollar']	['ticket']	0.413734650951
+['dollar', '12 dollar']	['child ticket']	0.184088625564
+['dollar', '12 dollar']	['5 dollar']	0.736214012955
+['dollar', '12 dollar']	['519 dollar']	0.610690210365
+['5 dollar', '12 dollar']	['theater']	0.327028499836
+['5 dollar', '12 dollar']	['80 seat']	0.680461337309
+['5 dollar', '12 dollar']	['open night']	0.153587928078
+['5 dollar', '12 dollar']	['adult ticket']	0.153587928078
+['5 dollar', '12 dollar']	['ticket']	0.51323626183
+['5 dollar', '12 dollar']	['child ticket']	0.16132566236
+['5 dollar', '12 dollar']	['dollar']	0.770879149715
+['5 dollar', '12 dollar']	['519 dollar']	0.637144068101
+['519 dollar', '12 dollar']	['theater']	0.327028499836
+['519 dollar', '12 dollar']	['80 seat']	0.59564157713
+['519 dollar', '12 dollar']	['open night']	0.153587928078
+['519 dollar', '12 dollar']	['adult ticket']	0.153587928078
+['519 dollar', '12 dollar']	['ticket']	0.51323626183
+['519 dollar', '12 dollar']	['child ticket']	0.16132566236
+['519 dollar', '12 dollar']	['dollar']	0.67956664036
+['519 dollar', '12 dollar']	['5 dollar']	0.784325248763
+['theater', 'child ticket']	['80 seat']	0.171724305362
+['theater', 'child ticket']	['open night']	0.0663445115919
+['theater', 'child ticket']	['adult ticket']	0.737511369001
+['theater', 'child ticket']	['ticket']	0.764569287469
+['theater', 'child ticket']	['12 dollar']	0.0696933362217
+['theater', 'child ticket']	['dollar']	0.109080770735
+['theater', 'child ticket']	['5 dollar']	0.0696933362217
+['theater', 'child ticket']	['519 dollar']	0.0696933362217
+['80 seat', 'child ticket']	['theater']	0.178254512946
+['80 seat', 'child ticket']	['open night']	0.0696933362217
+['80 seat', 'child ticket']	['adult ticket']	0.73148494077
+['80 seat', 'child ticket']	['ticket']	0.628293903976
+['80 seat', 'child ticket']	['12 dollar']	0.313566194137
+['80 seat', 'child ticket']	['dollar']	0.0222822240935
+['80 seat', 'child ticket']	['5 dollar']	0.105691884463
+['80 seat', 'child ticket']	['519 dollar']	0.0737139440912
+['open night', 'child ticket']	['theater']	0.0667637182209
+['open night', 'child ticket']	['80 seat']	0.0696933362217
+['open night', 'child ticket']	['adult ticket']	0.715624131435
+['open night', 'child ticket']	['ticket']	0.568819923854
+['open night', 'child ticket']	['12 dollar']	0.0696933362217
+['open night', 'child ticket']	['dollar']	0.0238722190658
+['open night', 'child ticket']	['5 dollar']	0.0696933362217
+['open night', 'child ticket']	['519 dollar']	0.0737139440912
+['adult ticket', 'child ticket']	['theater']	0.329177689786
+['adult ticket', 'child ticket']	['80 seat']	0.144528281371
+['adult ticket', 'child ticket']	['open night']	0.229432267183
+['adult ticket', 'child ticket']	['ticket']	0.786949415788
+['adult ticket', 'child ticket']	['12 dollar']	0.144528281371
+['adult ticket', 'child ticket']	['dollar']	0.296242423731
+['adult ticket', 'child ticket']	['5 dollar']	0.144528281371
+['adult ticket', 'child ticket']	['519 dollar']	0.127137811052
+['ticket', 'child ticket']	['theater']	0.791549833433
+['ticket', 'child ticket']	['80 seat']	0.450391273059
+['ticket', 'child ticket']	['open night']	0.280210439865
+['ticket', 'child ticket']	['adult ticket']	0.823599665639
+['ticket', 'child ticket']	['12 dollar']	0.298405493616
+['ticket', 'child ticket']	['dollar']	0.413446847674
+['ticket', 'child ticket']	['5 dollar']	0.298405493616
+['ticket', 'child ticket']	['519 dollar']	0.298405493616
+['12 dollar', 'child ticket']	['theater']	0.0667637182209
+['12 dollar', 'child ticket']	['80 seat']	0.313566194137
+['12 dollar', 'child ticket']	['open night']	0.0696933362217
+['12 dollar', 'child ticket']	['adult ticket']	0.73148494077
+['12 dollar', 'child ticket']	['ticket']	0.637516287091
+['12 dollar', 'child ticket']	['dollar']	0.485908652277
+['12 dollar', 'child ticket']	['5 dollar']	0.502833079419
+['12 dollar', 'child ticket']	['519 dollar']	0.544221442934
+['dollar', 'child ticket']	['theater']	0.1669002517
+['dollar', 'child ticket']	['80 seat']	0.0982347768443
+['dollar', 'child ticket']	['open night']	0.0989480026901
+['dollar', 'child ticket']	['adult ticket']	0.451440451452
+['dollar', 'child ticket']	['ticket']	0.600796035125
+['dollar', 'child ticket']	['12 dollar']	0.391516700063
+['dollar', 'child ticket']	['5 dollar']	0.397268490074
+['dollar', 'child ticket']	['519 dollar']	0.365401430504
+['5 dollar', 'child ticket']	['theater']	0.0667637182209
+['5 dollar', 'child ticket']	['80 seat']	0.105691884463
+['5 dollar', 'child ticket']	['open night']	0.0696933362217
+['5 dollar', 'child ticket']	['adult ticket']	0.73148494077
+['5 dollar', 'child ticket']	['ticket']	0.637516287091
+['5 dollar', 'child ticket']	['12 dollar']	0.502833079419
+['5 dollar', 'child ticket']	['dollar']	0.545034135635
+['5 dollar', 'child ticket']	['519 dollar']	0.544221442934
+['519 dollar', 'child ticket']	['theater']	0.0667637182209
+['519 dollar', 'child ticket']	['80 seat']	0.0696933362217
+['519 dollar', 'child ticket']	['open night']	0.0696933362217
+['519 dollar', 'child ticket']	['adult ticket']	0.715624131435
+['519 dollar', 'child ticket']	['ticket']	0.637516287091
+['519 dollar', 'child ticket']	['12 dollar']	0.5220554072
+['519 dollar', 'child ticket']	['dollar']	0.456652488941
+['519 dollar', 'child ticket']	['5 dollar']	0.5220554072
+['theater', 'dollar']	['80 seat']	0.0902216790505
+['theater', 'dollar']	['open night']	0.0368701550083
+['theater', 'dollar']	['adult ticket']	0.0618737183104
+['theater', 'dollar']	['ticket']	0.344438942289
+['theater', 'dollar']	['12 dollar']	0.391516700063
+['theater', 'dollar']	['child ticket']	0.0650051934866
+['theater', 'dollar']	['5 dollar']	0.397268490074
+['theater', 'dollar']	['519 dollar']	0.371062249217
+['80 seat', 'dollar']	['theater']	0.25526882594
+['80 seat', 'dollar']	['open night']	0.0368701550083
+['80 seat', 'dollar']	['adult ticket']	0.0618737183104
+['80 seat', 'dollar']	['ticket']	0.254319823726
+['80 seat', 'dollar']	['12 dollar']	0.565841479934
+['80 seat', 'dollar']	['child ticket']	0.0650051934866
+['80 seat', 'dollar']	['5 dollar']	0.570628932896
+['80 seat', 'dollar']	['519 dollar']	0.365401430504
+['open night', 'dollar']	['theater']	0.12850470425
+['open night', 'dollar']	['80 seat']	0.0361569291624
+['open night', 'dollar']	['adult ticket']	0.0618737183104
+['open night', 'dollar']	['ticket']	0.129806291552
+['open night', 'dollar']	['12 dollar']	0.391516700063
+['open night', 'dollar']	['child ticket']	0.0650051934866
+['open night', 'dollar']	['5 dollar']	0.397268490074
+['open night', 'dollar']	['519 dollar']	0.365401430504
+['adult ticket', 'dollar']	['theater']	0.109561042279
+['adult ticket', 'dollar']	['80 seat']	0.0361569291624
+['adult ticket', 'dollar']	['open night']	0.0368701550083
+['adult ticket', 'dollar']	['ticket']	0.600796035125
+['adult ticket', 'dollar']	['12 dollar']	0.391516700063
+['adult ticket', 'dollar']	['child ticket']	0.458978284107
+['adult ticket', 'dollar']	['5 dollar']	0.397268490074
+['adult ticket', 'dollar']	['519 dollar']	0.365401430504
+['ticket', 'dollar']	['theater']	0.401309532484
+['ticket', 'dollar']	['80 seat']	0.146229162952
+['ticket', 'dollar']	['open night']	0.0989480026901
+['ticket', 'dollar']	['adult ticket']	0.582053000015
+['ticket', 'dollar']	['12 dollar']	0.538150963439
+['ticket', 'dollar']	['child ticket']	0.463940607453
+['ticket', 'dollar']	['5 dollar']	0.572396609663
+['ticket', 'dollar']	['519 dollar']	0.520954191004
+['12 dollar', 'dollar']	['theater']	0.297245159667
+['12 dollar', 'dollar']	['80 seat']	0.43836430017
+['12 dollar', 'dollar']	['open night']	0.177516058856
+['12 dollar', 'dollar']	['adult ticket']	0.183873817054
+['12 dollar', 'dollar']	['ticket']	0.413734650951
+['12 dollar', 'dollar']	['child ticket']	0.184088625564
+['12 dollar', 'dollar']	['5 dollar']	0.736214012955
+['12 dollar', 'dollar']	['519 dollar']	0.610690210365
+['child ticket', 'dollar']	['theater']	0.1669002517
+['child ticket', 'dollar']	['80 seat']	0.0982347768443
+['child ticket', 'dollar']	['open night']	0.0989480026901
+['child ticket', 'dollar']	['adult ticket']	0.451440451452
+['child ticket', 'dollar']	['ticket']	0.600796035125
+['child ticket', 'dollar']	['12 dollar']	0.391516700063
+['child ticket', 'dollar']	['5 dollar']	0.397268490074
+['child ticket', 'dollar']	['519 dollar']	0.365401430504
+['5 dollar', 'dollar']	['theater']	0.297245159667
+['5 dollar', 'dollar']	['80 seat']	0.185344076006
+['5 dollar', 'dollar']	['open night']	0.177516058856
+['5 dollar', 'dollar']	['adult ticket']	0.183873817054
+['5 dollar', 'dollar']	['ticket']	0.413734650951
+['5 dollar', 'dollar']	['12 dollar']	0.660805840113
+['5 dollar', 'dollar']	['child ticket']	0.184088625564
+['5 dollar', 'dollar']	['519 dollar']	0.610690210365
+['519 dollar', 'dollar']	['theater']	0.297245159667
+['519 dollar', 'dollar']	['80 seat']	0.0968024870635
+['519 dollar', 'dollar']	['open night']	0.177448801378
+['519 dollar', 'dollar']	['adult ticket']	0.183873817054
+['519 dollar', 'dollar']	['ticket']	0.413734650951
+['519 dollar', 'dollar']	['12 dollar']	0.638178477636
+['519 dollar', 'dollar']	['child ticket']	0.184088625564
+['519 dollar', 'dollar']	['5 dollar']	0.689544863391
+['theater', '5 dollar']	['80 seat']	0.16060792936
+['theater', '5 dollar']	['open night']	0.0827346205535
+['theater', '5 dollar']	['adult ticket']	0.0827346205535
+['theater', '5 dollar']	['ticket']	0.843342790847
+['theater', '5 dollar']	['12 dollar']	0.600600090067
+['theater', '5 dollar']	['child ticket']	0.0824069519204
+['theater', '5 dollar']	['dollar']	0.647286633107
+['theater', '5 dollar']	['519 dollar']	0.549852778125
+['80 seat', '5 dollar']	['theater']	0.229348801121
+['80 seat', '5 dollar']	['open night']	0.0827346205535
+['80 seat', '5 dollar']	['adult ticket']	0.0827346205535
+['80 seat', '5 dollar']	['ticket']	0.153187994599
+['80 seat', '5 dollar']	['12 dollar']	0.800552772617
+['80 seat', '5 dollar']	['child ticket']	0.0824069519204
+['80 seat', '5 dollar']	['dollar']	0.344442191904
+['80 seat', '5 dollar']	['519 dollar']	0.584269096576
+['open night', '5 dollar']	['theater']	0.0777864840342
+['open night', '5 dollar']	['80 seat']	0.126675736021
+['open night', '5 dollar']	['adult ticket']	0.0827346205535
+['open night', '5 dollar']	['ticket']	0.110894185219
+['open night', '5 dollar']	['12 dollar']	0.604308352538
+['open night', '5 dollar']	['child ticket']	0.0824069519204
+['open night', '5 dollar']	['dollar']	0.425127995919
+['open night', '5 dollar']	['519 dollar']	0.584269096576
+['adult ticket', '5 dollar']	['theater']	0.0777864840342
+['adult ticket', '5 dollar']	['80 seat']	0.140649313257
+['adult ticket', '5 dollar']	['open night']	0.0827346205535
+['adult ticket', '5 dollar']	['ticket']	0.700846684836
+['adult ticket', '5 dollar']	['12 dollar']	0.587641685872
+['adult ticket', '5 dollar']	['child ticket']	0.749099500957
+['adult ticket', '5 dollar']	['dollar']	0.517803201643
+['adult ticket', '5 dollar']	['519 dollar']	0.584269096576
+['ticket', '5 dollar']	['theater']	0.719008758257
+['ticket', '5 dollar']	['80 seat']	0.150004719525
+['ticket', '5 dollar']	['open night']	0.0696933362217
+['ticket', '5 dollar']	['adult ticket']	0.751760536674
+['ticket', '5 dollar']	['12 dollar']	0.567067802557
+['ticket', '5 dollar']	['child ticket']	0.624252155
+['ticket', '5 dollar']	['dollar']	0.712205864641
+['ticket', '5 dollar']	['519 dollar']	0.525526174317
+['12 dollar', '5 dollar']	['theater']	0.327028499836
+['12 dollar', '5 dollar']	['80 seat']	0.680461337309
+['12 dollar', '5 dollar']	['open night']	0.153587928078
+['12 dollar', '5 dollar']	['adult ticket']	0.153587928078
+['12 dollar', '5 dollar']	['ticket']	0.51323626183
+['12 dollar', '5 dollar']	['child ticket']	0.16132566236
+['12 dollar', '5 dollar']	['dollar']	0.770879149715
+['12 dollar', '5 dollar']	['519 dollar']	0.637144068101
+['child ticket', '5 dollar']	['theater']	0.0667637182209
+['child ticket', '5 dollar']	['80 seat']	0.105691884463
+['child ticket', '5 dollar']	['open night']	0.0696933362217
+['child ticket', '5 dollar']	['adult ticket']	0.73148494077
+['child ticket', '5 dollar']	['ticket']	0.637516287091
+['child ticket', '5 dollar']	['12 dollar']	0.502833079419
+['child ticket', '5 dollar']	['dollar']	0.545034135635
+['child ticket', '5 dollar']	['519 dollar']	0.544221442934
+['dollar', '5 dollar']	['theater']	0.297245159667
+['dollar', '5 dollar']	['80 seat']	0.185344076006
+['dollar', '5 dollar']	['open night']	0.177516058856
+['dollar', '5 dollar']	['adult ticket']	0.183873817054
+['dollar', '5 dollar']	['ticket']	0.413734650951
+['dollar', '5 dollar']	['12 dollar']	0.660805840113
+['dollar', '5 dollar']	['child ticket']	0.184088625564
+['dollar', '5 dollar']	['519 dollar']	0.610690210365
+['519 dollar', '5 dollar']	['theater']	0.327028499836
+['519 dollar', '5 dollar']	['80 seat']	0.264907405557
+['519 dollar', '5 dollar']	['open night']	0.153587928078
+['519 dollar', '5 dollar']	['adult ticket']	0.153587928078
+['519 dollar', '5 dollar']	['ticket']	0.51323626183
+['519 dollar', '5 dollar']	['12 dollar']	0.784325248763
+['519 dollar', '5 dollar']	['child ticket']	0.16132566236
+['519 dollar', '5 dollar']	['dollar']	0.766295816382
+['theater', '519 dollar']	['80 seat']	0.199270042535
+['theater', '519 dollar']	['open night']	0.0827346205535
+['theater', '519 dollar']	['adult ticket']	0.0827346205535
+['theater', '519 dollar']	['ticket']	0.843342790847
+['theater', '519 dollar']	['12 dollar']	0.549852778125
+['theater', '519 dollar']	['child ticket']	0.0824069519204
+['theater', '519 dollar']	['dollar']	0.629068333815
+['theater', '519 dollar']	['5 dollar']	0.549852778125
+['80 seat', '519 dollar']	['theater']	0.229348801121
+['80 seat', '519 dollar']	['open night']	0.0827346205535
+['80 seat', '519 dollar']	['adult ticket']	0.0827346205535
+['80 seat', '519 dollar']	['ticket']	0.153187994599
+['80 seat', '519 dollar']	['12 dollar']	0.754360422532
+['80 seat', '519 dollar']	['child ticket']	0.0824069519204
+['80 seat', '519 dollar']	['dollar']	0.276426897145
+['80 seat', '519 dollar']	['5 dollar']	0.604308352538
+['open night', '519 dollar']	['theater']	0.0777864840342
+['open night', '519 dollar']	['80 seat']	0.0901100077042
+['open night', '519 dollar']	['adult ticket']	0.0901100077042
+['open night', '519 dollar']	['ticket']	0.110894185219
+['open night', '519 dollar']	['12 dollar']	0.584269096576
+['open night', '519 dollar']	['child ticket']	0.0897823390711
+['open night', '519 dollar']	['dollar']	0.384528877052
+['open night', '519 dollar']	['5 dollar']	0.584269096576
+['adult ticket', '519 dollar']	['theater']	0.0777864840342
+['adult ticket', '519 dollar']	['80 seat']	0.0827346205535
+['adult ticket', '519 dollar']	['open night']	0.0827346205535
+['adult ticket', '519 dollar']	['ticket']	0.700846684836
+['adult ticket', '519 dollar']	['12 dollar']	0.569519319138
+['adult ticket', '519 dollar']	['child ticket']	0.738774087425
+['adult ticket', '519 dollar']	['dollar']	0.45661347414
+['adult ticket', '519 dollar']	['5 dollar']	0.569519319138
+['ticket', '519 dollar']	['theater']	0.719008758257
+['ticket', '519 dollar']	['80 seat']	0.130048808393
+['ticket', '519 dollar']	['open night']	0.0696933362217
+['ticket', '519 dollar']	['adult ticket']	0.722227658089
+['ticket', '519 dollar']	['12 dollar']	0.525526174317
+['ticket', '519 dollar']	['child ticket']	0.604465896967
+['ticket', '519 dollar']	['dollar']	0.65389882076
+['ticket', '519 dollar']	['5 dollar']	0.525526174317
+['12 dollar', '519 dollar']	['theater']	0.327028499836
+['12 dollar', '519 dollar']	['80 seat']	0.59564157713
+['12 dollar', '519 dollar']	['open night']	0.153587928078
+['12 dollar', '519 dollar']	['adult ticket']	0.153587928078
+['12 dollar', '519 dollar']	['ticket']	0.51323626183
+['12 dollar', '519 dollar']	['child ticket']	0.16132566236
+['12 dollar', '519 dollar']	['dollar']	0.67956664036
+['12 dollar', '519 dollar']	['5 dollar']	0.784325248763
+['child ticket', '519 dollar']	['theater']	0.0667637182209
+['child ticket', '519 dollar']	['80 seat']	0.0696933362217
+['child ticket', '519 dollar']	['open night']	0.0696933362217
+['child ticket', '519 dollar']	['adult ticket']	0.715624131435
+['child ticket', '519 dollar']	['ticket']	0.637516287091
+['child ticket', '519 dollar']	['12 dollar']	0.5220554072
+['child ticket', '519 dollar']	['dollar']	0.456652488941
+['child ticket', '519 dollar']	['5 dollar']	0.5220554072
+['dollar', '519 dollar']	['theater']	0.297245159667
+['dollar', '519 dollar']	['80 seat']	0.0968024870635
+['dollar', '519 dollar']	['open night']	0.177448801378
+['dollar', '519 dollar']	['adult ticket']	0.183873817054
+['dollar', '519 dollar']	['ticket']	0.413734650951
+['dollar', '519 dollar']	['12 dollar']	0.638178477636
+['dollar', '519 dollar']	['child ticket']	0.184088625564
+['dollar', '519 dollar']	['5 dollar']	0.689544863391
+['5 dollar', '519 dollar']	['theater']	0.327028499836
+['5 dollar', '519 dollar']	['80 seat']	0.264907405557
+['5 dollar', '519 dollar']	['open night']	0.153587928078
+['5 dollar', '519 dollar']	['adult ticket']	0.153587928078
+['5 dollar', '519 dollar']	['ticket']	0.51323626183
+['5 dollar', '519 dollar']	['12 dollar']	0.784325248763
+['5 dollar', '519 dollar']	['child ticket']	0.16132566236
+['5 dollar', '519 dollar']	['dollar']	0.766295816382

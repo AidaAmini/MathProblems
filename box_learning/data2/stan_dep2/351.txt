@@ -1,0 +1,17 @@
+(ROOT
+  (S
+    (ADVP (RB Twice))
+    (NP (DT a) (NN number))
+    (VP
+      (VBZ equals)
+      (NP
+        (NP (QP (CD 25) (JJR less)))
+        (PP
+          (IN than)
+          (NP (RB triple) (DT the) (JJ same) (NN number)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is) (NP (DT the) (NN number)))
+    (. ?)))

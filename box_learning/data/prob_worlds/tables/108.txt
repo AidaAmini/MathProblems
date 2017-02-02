@@ -1,0 +1,14 @@
+1
+[['profit', '"3', ' 635', ' 000"', 'dollar', '-', '-'], ['first half', '"x1+2', ' 750', ' 000"', 'dollar', '-', '-'], ['second half', 'x1', 'dollar', '-', '-', '-', '-']]
+-1
+[['profit', '"3', ' 635', ' 000"', 'x1', '-', 'dollar'], ['first half', '"x1+2', ' 750', ' 000"', 'dollar', '-', '-'], ['second half', 'x1', 'dollar', 'profit', '-', '"3', '-']]
+-1
+[['profit', '"3', ' 635', ' 000"', 'dollar', 'second half', '-'], ['first half', '"x1+2', ' 750', ' 000"', 'dollar', '-', '-'], ['second half', ' 000"', 'dollar', '-', '-', '-', ' 635']]
+-1
+[['profit', '"3', 'second half', ' 000"', 'dollar', 'x1', '-'], ['first half', '"x1+2', ' 750', ' 000"', 'dollar', '-', '-'], ['profit', 'second half', 'dollar', ' 000"', '-', '-', '-']]
+-1
+[['profit', '"3', ' 635', 'x1', 'dollar', '-', 'second half'], ['first half', '"x1+2', ' 750', ' 000"', 'dollar', '-', '-'], ['second half', 'x1', '"3', '-', '-', '-', '-']]
+-1
+[['profit', '"3', 'x1', ' 000"', 'dollar', '-', 'second half'], ['first half', '"x1+2', ' 750', ' 000"', 'dollar', '-', '-'], ['second half', 'x1', 'dollar', '-', '-', '"3', ' 000"']]
+-1
+[['profit', '"3', ' 635', ' 000"', 'dollar', '-', '-'], ['first half', '"x1+2', ' 750', ' 000"', 'dollar', '-', '-'], ['dollar', 'x1', ' 000"', '-', '-', '-', '-']]

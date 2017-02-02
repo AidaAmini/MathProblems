@@ -1,0 +1,761 @@
+['river jo seafood diner', '6.00 dollar', 'catfish dinner', 'dollar', '3.50 dollar', 'order of popcorn shrimp', '26 order', 'river joe', '133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']
+['river jo seafood diner']	['6.00 dollar']	0.0988755105172
+['river jo seafood diner']	['catfish dinner']	0.0907458062299
+['river jo seafood diner']	['dollar']	0.00857205049933
+['river jo seafood diner']	['3.50 dollar']	0.0981211933805
+['river jo seafood diner']	['order of popcorn shrimp']	0.108108427999
+['river jo seafood diner']	['26 order']	0.0915001233665
+['river jo seafood diner']	['river joe']	0.409032604139
+['river jo seafood diner']	['133.50 dollar']	0.0988755105172
+['river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['6.00 dollar']	['catfish dinner']	0.0897823390711
+['6.00 dollar']	['3.50 dollar']	0.644695369786
+['6.00 dollar']	['order of popcorn shrimp']	0.0941266761548
+['6.00 dollar']	['26 order']	0.0901100077042
+['6.00 dollar']	['river joe']	0.0901100077042
+['6.00 dollar']	['133.50 dollar']	0.643440930505
+['6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0906383040618
+['catfish dinner']	['dollar']	0.00340088629102
+['catfish dinner']	['3.50 dollar']	0.0752871422893
+['catfish dinner']	['order of popcorn shrimp']	0.086216080975
+['catfish dinner']	['26 order']	0.0696933362217
+['catfish dinner']	['river joe']	0.0696933362217
+['catfish dinner']	['133.50 dollar']	0.0737139440912
+['dollar']	['order of popcorn shrimp']	0.00712796229777
+['dollar']	['26 order']	0.00424565569655
+['dollar']	['river joe']	0.0067575018792
+['dollar']	['popcorn shrimp order and catfish catfish dinner']	0.00712796229777
+['3.50 dollar']	['order of popcorn shrimp']	0.0861845487314
+['3.50 dollar']	['26 order']	0.0737139440912
+['3.50 dollar']	['river joe']	0.0737139440912
+['3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0826961766383
+['order of popcorn shrimp']	['26 order']	0.0988755105172
+['order of popcorn shrimp']	['river joe']	0.0988755105172
+['order of popcorn shrimp']	['133.50 dollar']	0.0988755105172
+['order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.104037728811
+['26 order']	['river joe']	0.0827346205535
+['26 order']	['133.50 dollar']	0.0901100077042
+['26 order']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['river joe']	['133.50 dollar']	0.0901100077042
+['river joe']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0906383040618
+['6.00 dollar', 'river jo seafood diner']	['catfish dinner']	0.0907458062299
+['6.00 dollar', 'river jo seafood diner']	['dollar']	0.352618425461
+['6.00 dollar', 'river jo seafood diner']	['3.50 dollar']	0.622571119615
+['6.00 dollar', 'river jo seafood diner']	['order of popcorn shrimp']	0.102396614129
+['6.00 dollar', 'river jo seafood diner']	['26 order']	0.0915001233665
+['6.00 dollar', 'river jo seafood diner']	['river joe']	0.557998943375
+['6.00 dollar', 'river jo seafood diner']	['133.50 dollar']	0.630956863273
+['6.00 dollar', 'river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['catfish dinner', 'river jo seafood diner']	['6.00 dollar']	0.0681387921949
+['catfish dinner', 'river jo seafood diner']	['dollar']	0.00371585050999
+['catfish dinner', 'river jo seafood diner']	['3.50 dollar']	0.0875708435399
+['catfish dinner', 'river jo seafood diner']	['order of popcorn shrimp']	0.0922449884552
+['catfish dinner', 'river jo seafood diner']	['26 order']	0.0641181843254
+['catfish dinner', 'river jo seafood diner']	['river joe']	0.500601381196
+['catfish dinner', 'river jo seafood diner']	['133.50 dollar']	0.0681387921949
+['catfish dinner', 'river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.439217595632
+['dollar', 'river jo seafood diner']	['6.00 dollar']	0.427590939411
+['dollar', 'river jo seafood diner']	['catfish dinner']	0.0515915677847
+['dollar', 'river jo seafood diner']	['3.50 dollar']	0.325065686886
+['dollar', 'river jo seafood diner']	['order of popcorn shrimp']	0.0272201813802
+['dollar', 'river jo seafood diner']	['26 order']	0.0148694161981
+['dollar', 'river jo seafood diner']	['river joe']	0.208835835075
+['dollar', 'river jo seafood diner']	['133.50 dollar']	0.251281306516
+['dollar', 'river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.0237318092871
+['3.50 dollar', 'river jo seafood diner']	['6.00 dollar']	0.622645222773
+['3.50 dollar', 'river jo seafood diner']	['catfish dinner']	0.0718247050353
+['3.50 dollar', 'river jo seafood diner']	['dollar']	0.293689239752
+['3.50 dollar', 'river jo seafood diner']	['order of popcorn shrimp']	0.0865331745855
+['3.50 dollar', 'river jo seafood diner']	['26 order']	0.0641181843254
+['3.50 dollar', 'river jo seafood diner']	['river joe']	0.500601381196
+['3.50 dollar', 'river jo seafood diner']	['133.50 dollar']	0.949037422414
+['3.50 dollar', 'river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.0830448024925
+['order of popcorn shrimp', 'river jo seafood diner']	['6.00 dollar']	0.0988755105172
+['order of popcorn shrimp', 'river jo seafood diner']	['catfish dinner']	0.0907458062299
+['order of popcorn shrimp', 'river jo seafood diner']	['dollar']	0.00857205049933
+['order of popcorn shrimp', 'river jo seafood diner']	['3.50 dollar']	0.0981211933805
+['order of popcorn shrimp', 'river jo seafood diner']	['26 order']	0.0915001233665
+['order of popcorn shrimp', 'river jo seafood diner']	['river joe']	0.532779142055
+['order of popcorn shrimp', 'river jo seafood diner']	['133.50 dollar']	0.0988755105172
+['order of popcorn shrimp', 'river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['26 order', 'river jo seafood diner']	['6.00 dollar']	0.0988755105172
+['26 order', 'river jo seafood diner']	['catfish dinner']	0.0907458062299
+['26 order', 'river jo seafood diner']	['dollar']	0.00920098131694
+['26 order', 'river jo seafood diner']	['3.50 dollar']	0.0981211933805
+['26 order', 'river jo seafood diner']	['order of popcorn shrimp']	0.108108427999
+['26 order', 'river jo seafood diner']	['river joe']	0.557998943375
+['26 order', 'river jo seafood diner']	['133.50 dollar']	0.0988755105172
+['26 order', 'river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['river joe', 'river jo seafood diner']	['6.00 dollar']	0.0988755105172
+['river joe', 'river jo seafood diner']	['catfish dinner']	0.0907458062299
+['river joe', 'river jo seafood diner']	['dollar']	0.00920098131694
+['river joe', 'river jo seafood diner']	['3.50 dollar']	0.0981211933805
+['river joe', 'river jo seafood diner']	['order of popcorn shrimp']	0.108108427999
+['river joe', 'river jo seafood diner']	['26 order']	0.0915001233665
+['river joe', 'river jo seafood diner']	['133.50 dollar']	0.0988755105172
+['river joe', 'river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['133.50 dollar', 'river jo seafood diner']	['6.00 dollar']	0.630956863273
+['133.50 dollar', 'river jo seafood diner']	['catfish dinner']	0.0907458062299
+['133.50 dollar', 'river jo seafood diner']	['dollar']	0.183470797986
+['133.50 dollar', 'river jo seafood diner']	['3.50 dollar']	0.947533259105
+['133.50 dollar', 'river jo seafood diner']	['order of popcorn shrimp']	0.102396614129
+['133.50 dollar', 'river jo seafood diner']	['26 order']	0.0915001233665
+['133.50 dollar', 'river jo seafood diner']	['river joe']	0.557998943375
+['133.50 dollar', 'river jo seafood diner']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['popcorn shrimp order and catfish catfish dinner', 'river jo seafood diner']	['6.00 dollar']	0.0988755105172
+['popcorn shrimp order and catfish catfish dinner', 'river jo seafood diner']	['catfish dinner']	0.495330038664
+['popcorn shrimp order and catfish catfish dinner', 'river jo seafood diner']	['dollar']	0.00857205049933
+['popcorn shrimp order and catfish catfish dinner', 'river jo seafood diner']	['3.50 dollar']	0.0981211933805
+['popcorn shrimp order and catfish catfish dinner', 'river jo seafood diner']	['order of popcorn shrimp']	0.118271732514
+['popcorn shrimp order and catfish catfish dinner', 'river jo seafood diner']	['26 order']	0.0915001233665
+['popcorn shrimp order and catfish catfish dinner', 'river jo seafood diner']	['river joe']	0.522975220486
+['popcorn shrimp order and catfish catfish dinner', 'river jo seafood diner']	['133.50 dollar']	0.0988755105172
+['river jo seafood diner', '6.00 dollar']	['catfish dinner']	0.0907458062299
+['river jo seafood diner', '6.00 dollar']	['dollar']	0.352618425461
+['river jo seafood diner', '6.00 dollar']	['3.50 dollar']	0.622571119615
+['river jo seafood diner', '6.00 dollar']	['order of popcorn shrimp']	0.102396614129
+['river jo seafood diner', '6.00 dollar']	['26 order']	0.0915001233665
+['river jo seafood diner', '6.00 dollar']	['river joe']	0.557998943375
+['river jo seafood diner', '6.00 dollar']	['133.50 dollar']	0.630956863273
+['river jo seafood diner', '6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['catfish dinner', '6.00 dollar']	['river jo seafood diner']	0.086216080975
+['catfish dinner', '6.00 dollar']	['dollar']	0.279641754576
+['catfish dinner', '6.00 dollar']	['3.50 dollar']	0.562478269493
+['catfish dinner', '6.00 dollar']	['order of popcorn shrimp']	0.086216080975
+['catfish dinner', '6.00 dollar']	['26 order']	0.0696933362217
+['catfish dinner', '6.00 dollar']	['river joe']	0.0696933362217
+['catfish dinner', '6.00 dollar']	['133.50 dollar']	0.544221442934
+['catfish dinner', '6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.401520100888
+['dollar', '6.00 dollar']	['river jo seafood diner']	0.198882138174
+['dollar', '6.00 dollar']	['catfish dinner']	0.101920210768
+['dollar', '6.00 dollar']	['3.50 dollar']	0.699725131301
+['dollar', '6.00 dollar']	['order of popcorn shrimp']	0.198882138174
+['dollar', '6.00 dollar']	['26 order']	0.11034390648
+['dollar', '6.00 dollar']	['river joe']	0.0701192902272
+['dollar', '6.00 dollar']	['133.50 dollar']	0.536838778921
+['dollar', '6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.198882138174
+['3.50 dollar', '6.00 dollar']	['river jo seafood diner']	0.372781013339
+['3.50 dollar', '6.00 dollar']	['catfish dinner']	0.128848173029
+['3.50 dollar', '6.00 dollar']	['dollar']	0.819913083179
+['3.50 dollar', '6.00 dollar']	['order of popcorn shrimp']	0.372781013339
+['3.50 dollar', '6.00 dollar']	['26 order']	0.127137811052
+['3.50 dollar', '6.00 dollar']	['river joe']	0.127137811052
+['3.50 dollar', '6.00 dollar']	['133.50 dollar']	0.939680822705
+['3.50 dollar', '6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.372781013339
+['order of popcorn shrimp', '6.00 dollar']	['river jo seafood diner']	0.107526100904
+['order of popcorn shrimp', '6.00 dollar']	['catfish dinner']	0.0981211933805
+['order of popcorn shrimp', '6.00 dollar']	['dollar']	0.354133576977
+['order of popcorn shrimp', '6.00 dollar']	['3.50 dollar']	0.622571119615
+['order of popcorn shrimp', '6.00 dollar']	['26 order']	0.0988755105172
+['order of popcorn shrimp', '6.00 dollar']	['river joe']	0.0988755105172
+['order of popcorn shrimp', '6.00 dollar']	['133.50 dollar']	0.630956863273
+['order of popcorn shrimp', '6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.104037728811
+['26 order', '6.00 dollar']	['river jo seafood diner']	0.0908034291173
+['26 order', '6.00 dollar']	['catfish dinner']	0.0824069519204
+['26 order', '6.00 dollar']	['dollar']	0.34291890153
+['26 order', '6.00 dollar']	['3.50 dollar']	0.577101062223
+['26 order', '6.00 dollar']	['order of popcorn shrimp']	0.0908034291173
+['26 order', '6.00 dollar']	['river joe']	0.0827346205535
+['26 order', '6.00 dollar']	['133.50 dollar']	0.584269096576
+['26 order', '6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['river joe', '6.00 dollar']	['river jo seafood diner']	0.511297596264
+['river joe', '6.00 dollar']	['catfish dinner']	0.0824069519204
+['river joe', '6.00 dollar']	['dollar']	0.237207215841
+['river joe', '6.00 dollar']	['3.50 dollar']	0.577101062223
+['river joe', '6.00 dollar']	['order of popcorn shrimp']	0.0908034291173
+['river joe', '6.00 dollar']	['26 order']	0.0827346205535
+['river joe', '6.00 dollar']	['133.50 dollar']	0.584269096576
+['river joe', '6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['133.50 dollar', '6.00 dollar']	['river jo seafood diner']	0.315265418903
+['133.50 dollar', '6.00 dollar']	['catfish dinner']	0.14699641653
+['133.50 dollar', '6.00 dollar']	['dollar']	0.714045856735
+['133.50 dollar', '6.00 dollar']	['3.50 dollar']	0.914021167843
+['133.50 dollar', '6.00 dollar']	['order of popcorn shrimp']	0.315265418903
+['133.50 dollar', '6.00 dollar']	['26 order']	0.139258682248
+['133.50 dollar', '6.00 dollar']	['river joe']	0.139258682248
+['133.50 dollar', '6.00 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.315265418903
+['popcorn shrimp order and catfish catfish dinner', '6.00 dollar']	['river jo seafood diner']	0.102396614129
+['popcorn shrimp order and catfish catfish dinner', '6.00 dollar']	['catfish dinner']	0.525732139106
+['popcorn shrimp order and catfish catfish dinner', '6.00 dollar']	['dollar']	0.33008635912
+['popcorn shrimp order and catfish catfish dinner', '6.00 dollar']	['3.50 dollar']	0.567954588345
+['popcorn shrimp order and catfish catfish dinner', '6.00 dollar']	['order of popcorn shrimp']	0.102396614129
+['popcorn shrimp order and catfish catfish dinner', '6.00 dollar']	['26 order']	0.0915001233665
+['popcorn shrimp order and catfish catfish dinner', '6.00 dollar']	['river joe']	0.0915001233665
+['popcorn shrimp order and catfish catfish dinner', '6.00 dollar']	['133.50 dollar']	0.601830528082
+['river jo seafood diner', 'catfish dinner']	['6.00 dollar']	0.0681387921949
+['river jo seafood diner', 'catfish dinner']	['dollar']	0.00371585050999
+['river jo seafood diner', 'catfish dinner']	['3.50 dollar']	0.0875708435399
+['river jo seafood diner', 'catfish dinner']	['order of popcorn shrimp']	0.0922449884552
+['river jo seafood diner', 'catfish dinner']	['26 order']	0.0641181843254
+['river jo seafood diner', 'catfish dinner']	['river joe']	0.500601381196
+['river jo seafood diner', 'catfish dinner']	['133.50 dollar']	0.0681387921949
+['river jo seafood diner', 'catfish dinner']	['popcorn shrimp order and catfish catfish dinner']	0.439217595632
+['6.00 dollar', 'catfish dinner']	['river jo seafood diner']	0.086216080975
+['6.00 dollar', 'catfish dinner']	['dollar']	0.279641754576
+['6.00 dollar', 'catfish dinner']	['3.50 dollar']	0.562478269493
+['6.00 dollar', 'catfish dinner']	['order of popcorn shrimp']	0.086216080975
+['6.00 dollar', 'catfish dinner']	['26 order']	0.0696933362217
+['6.00 dollar', 'catfish dinner']	['river joe']	0.0696933362217
+['6.00 dollar', 'catfish dinner']	['133.50 dollar']	0.544221442934
+['6.00 dollar', 'catfish dinner']	['popcorn shrimp order and catfish catfish dinner']	0.401520100888
+['dollar', 'catfish dinner']	['river jo seafood diner']	0.0817625868734
+['dollar', 'catfish dinner']	['6.00 dollar']	0.380321401688
+['dollar', 'catfish dinner']	['3.50 dollar']	0.277796149163
+['dollar', 'catfish dinner']	['order of popcorn shrimp']	0.0874744007431
+['dollar', 'catfish dinner']	['26 order']	0.0774382987339
+['dollar', 'catfish dinner']	['river joe']	0.0786120076541
+['dollar', 'catfish dinner']	['133.50 dollar']	0.361141372756
+['dollar', 'catfish dinner']	['popcorn shrimp order and catfish catfish dinner']	0.116939969054
+['3.50 dollar', 'catfish dinner']	['river jo seafood diner']	0.148293928657
+['3.50 dollar', 'catfish dinner']	['6.00 dollar']	0.580736183597
+['3.50 dollar', 'catfish dinner']	['dollar']	0.279641754576
+['3.50 dollar', 'catfish dinner']	['order of popcorn shrimp']	0.148293928657
+['3.50 dollar', 'catfish dinner']	['26 order']	0.131771183904
+['3.50 dollar', 'catfish dinner']	['river joe']	0.131771183904
+['3.50 dollar', 'catfish dinner']	['133.50 dollar']	0.891905695852
+['3.50 dollar', 'catfish dinner']	['popcorn shrimp order and catfish catfish dinner']	0.441923909248
+['order of popcorn shrimp', 'catfish dinner']	['river jo seafood diner']	0.0865331745855
+['order of popcorn shrimp', 'catfish dinner']	['6.00 dollar']	0.0681387921949
+['order of popcorn shrimp', 'catfish dinner']	['dollar']	0.00371585050999
+['order of popcorn shrimp', 'catfish dinner']	['3.50 dollar']	0.0875708435399
+['order of popcorn shrimp', 'catfish dinner']	['26 order']	0.0641181843254
+['order of popcorn shrimp', 'catfish dinner']	['river joe']	0.0641181843254
+['order of popcorn shrimp', 'catfish dinner']	['133.50 dollar']	0.0681387921949
+['order of popcorn shrimp', 'catfish dinner']	['popcorn shrimp order and catfish catfish dinner']	0.482138418595
+['26 order', 'catfish dinner']	['river jo seafood diner']	0.086216080975
+['26 order', 'catfish dinner']	['6.00 dollar']	0.0737139440912
+['26 order', 'catfish dinner']	['dollar']	0.00222717737084
+['26 order', 'catfish dinner']	['3.50 dollar']	0.0752871422893
+['26 order', 'catfish dinner']	['order of popcorn shrimp']	0.0919278948447
+['26 order', 'catfish dinner']	['river joe']	0.0696933362217
+['26 order', 'catfish dinner']	['133.50 dollar']	0.0737139440912
+['26 order', 'catfish dinner']	['popcorn shrimp order and catfish catfish dinner']	0.36035366389
+['river joe', 'catfish dinner']	['river jo seafood diner']	0.468087931082
+['river joe', 'catfish dinner']	['6.00 dollar']	0.0737139440912
+['river joe', 'catfish dinner']	['dollar']	0.00340088629102
+['river joe', 'catfish dinner']	['3.50 dollar']	0.0752871422893
+['river joe', 'catfish dinner']	['order of popcorn shrimp']	0.0919278948447
+['river joe', 'catfish dinner']	['26 order']	0.0696933362217
+['river joe', 'catfish dinner']	['133.50 dollar']	0.0737139440912
+['river joe', 'catfish dinner']	['popcorn shrimp order and catfish catfish dinner']	0.358599277925
+['133.50 dollar', 'catfish dinner']	['river jo seafood diner']	0.086216080975
+['133.50 dollar', 'catfish dinner']	['6.00 dollar']	0.544221442934
+['133.50 dollar', 'catfish dinner']	['dollar']	0.237772649935
+['133.50 dollar', 'catfish dinner']	['3.50 dollar']	0.871328316331
+['133.50 dollar', 'catfish dinner']	['order of popcorn shrimp']	0.086216080975
+['133.50 dollar', 'catfish dinner']	['26 order']	0.0696933362217
+['133.50 dollar', 'catfish dinner']	['river joe']	0.0696933362217
+['133.50 dollar', 'catfish dinner']	['popcorn shrimp order and catfish catfish dinner']	0.401520100888
+['popcorn shrimp order and catfish catfish dinner', 'catfish dinner']	['river jo seafood diner']	0.368448387978
+['popcorn shrimp order and catfish catfish dinner', 'catfish dinner']	['6.00 dollar']	0.109369378475
+['popcorn shrimp order and catfish catfish dinner', 'catfish dinner']	['dollar']	0.117115307352
+['popcorn shrimp order and catfish catfish dinner', 'catfish dinner']	['3.50 dollar']	0.115858712973
+['popcorn shrimp order and catfish catfish dinner', 'catfish dinner']	['order of popcorn shrimp']	0.376668124403
+['popcorn shrimp order and catfish catfish dinner', 'catfish dinner']	['26 order']	0.126759848794
+['popcorn shrimp order and catfish catfish dinner', 'catfish dinner']	['river joe']	0.126759848794
+['popcorn shrimp order and catfish catfish dinner', 'catfish dinner']	['133.50 dollar']	0.109369378475
+['river jo seafood diner', 'dollar']	['6.00 dollar']	0.427590939411
+['river jo seafood diner', 'dollar']	['catfish dinner']	0.0515915677847
+['river jo seafood diner', 'dollar']	['3.50 dollar']	0.325065686886
+['river jo seafood diner', 'dollar']	['order of popcorn shrimp']	0.0272201813802
+['river jo seafood diner', 'dollar']	['26 order']	0.0148694161981
+['river jo seafood diner', 'dollar']	['river joe']	0.208835835075
+['river jo seafood diner', 'dollar']	['133.50 dollar']	0.251281306516
+['river jo seafood diner', 'dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0237318092871
+['6.00 dollar', 'dollar']	['river jo seafood diner']	0.198882138174
+['6.00 dollar', 'dollar']	['catfish dinner']	0.101920210768
+['6.00 dollar', 'dollar']	['3.50 dollar']	0.699725131301
+['6.00 dollar', 'dollar']	['order of popcorn shrimp']	0.198882138174
+['6.00 dollar', 'dollar']	['26 order']	0.11034390648
+['6.00 dollar', 'dollar']	['river joe']	0.0701192902272
+['6.00 dollar', 'dollar']	['133.50 dollar']	0.536838778921
+['6.00 dollar', 'dollar']	['popcorn shrimp order and catfish catfish dinner']	0.198882138174
+['catfish dinner', 'dollar']	['river jo seafood diner']	0.0817625868734
+['catfish dinner', 'dollar']	['6.00 dollar']	0.380321401688
+['catfish dinner', 'dollar']	['3.50 dollar']	0.277796149163
+['catfish dinner', 'dollar']	['order of popcorn shrimp']	0.0874744007431
+['catfish dinner', 'dollar']	['26 order']	0.0774382987339
+['catfish dinner', 'dollar']	['river joe']	0.0786120076541
+['catfish dinner', 'dollar']	['133.50 dollar']	0.361141372756
+['catfish dinner', 'dollar']	['popcorn shrimp order and catfish catfish dinner']	0.116939969054
+['3.50 dollar', 'dollar']	['river jo seafood diner']	0.256758244369
+['3.50 dollar', 'dollar']	['6.00 dollar']	0.732805939382
+['3.50 dollar', 'dollar']	['catfish dinner']	0.159796316963
+['3.50 dollar', 'dollar']	['order of popcorn shrimp']	0.256758244369
+['3.50 dollar', 'dollar']	['26 order']	0.168220012675
+['3.50 dollar', 'dollar']	['river joe']	0.127995396422
+['3.50 dollar', 'dollar']	['133.50 dollar']	0.765654046966
+['3.50 dollar', 'dollar']	['popcorn shrimp order and catfish catfish dinner']	0.256758244369
+['order of popcorn shrimp', 'dollar']	['river jo seafood diner']	0.0215083675105
+['order of popcorn shrimp', 'dollar']	['6.00 dollar']	0.427590939411
+['order of popcorn shrimp', 'dollar']	['catfish dinner']	0.0182582344514
+['order of popcorn shrimp', 'dollar']	['3.50 dollar']	0.325065686886
+['order of popcorn shrimp', 'dollar']	['26 order']	0.0148694161981
+['order of popcorn shrimp', 'dollar']	['river joe']	0.0149014887961
+['order of popcorn shrimp', 'dollar']	['133.50 dollar']	0.251281306516
+['order of popcorn shrimp', 'dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0180199954174
+['26 order', 'dollar']	['river jo seafood diner']	0.0196847391915
+['26 order', 'dollar']	['6.00 dollar']	0.380321401688
+['26 order', 'dollar']	['catfish dinner']	0.0199229782255
+['26 order', 'dollar']	['3.50 dollar']	0.277796149163
+['26 order', 'dollar']	['order of popcorn shrimp']	0.024222844141
+['26 order', 'dollar']	['river joe']	0.0165341599722
+['26 order', 'dollar']	['133.50 dollar']	0.354123828896
+['26 order', 'dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0196847391915
+['river joe', 'dollar']	['river jo seafood diner']	0.266705084469
+['river joe', 'dollar']	['6.00 dollar']	0.380321401688
+['river joe', 'dollar']	['catfish dinner']	0.0199229782255
+['river joe', 'dollar']	['3.50 dollar']	0.277796149163
+['river joe', 'dollar']	['order of popcorn shrimp']	0.024222844141
+['river joe', 'dollar']	['26 order']	0.015360451052
+['river joe', 'dollar']	['133.50 dollar']	0.354123828896
+['river joe', 'dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0253965530612
+['133.50 dollar', 'dollar']	['river jo seafood diner']	0.198882138174
+['133.50 dollar', 'dollar']	['6.00 dollar']	0.732805939382
+['133.50 dollar', 'dollar']	['catfish dinner']	0.101920210768
+['133.50 dollar', 'dollar']	['3.50 dollar']	0.736768214577
+['133.50 dollar', 'dollar']	['order of popcorn shrimp']	0.198882138174
+['133.50 dollar', 'dollar']	['26 order']	0.11034390648
+['133.50 dollar', 'dollar']	['river joe']	0.0701192902272
+['133.50 dollar', 'dollar']	['popcorn shrimp order and catfish catfish dinner']	0.198882138174
+['popcorn shrimp order and catfish catfish dinner', 'dollar']	['river jo seafood diner']	0.0461460486699
+['popcorn shrimp order and catfish catfish dinner', 'dollar']	['6.00 dollar']	0.365452280831
+['popcorn shrimp order and catfish catfish dinner', 'dollar']	['catfish dinner']	0.148766716063
+['popcorn shrimp order and catfish catfish dinner', 'dollar']	['3.50 dollar']	0.262927028306
+['popcorn shrimp order and catfish catfish dinner', 'dollar']	['order of popcorn shrimp']	0.0461460486699
+['popcorn shrimp order and catfish catfish dinner', 'dollar']	['26 order']	0.0148694161981
+['popcorn shrimp order and catfish catfish dinner', 'dollar']	['river joe']	0.0395070973576
+['popcorn shrimp order and catfish catfish dinner', 'dollar']	['133.50 dollar']	0.236309555104
+['river jo seafood diner', '3.50 dollar']	['6.00 dollar']	0.622645222773
+['river jo seafood diner', '3.50 dollar']	['catfish dinner']	0.0718247050353
+['river jo seafood diner', '3.50 dollar']	['dollar']	0.293689239752
+['river jo seafood diner', '3.50 dollar']	['order of popcorn shrimp']	0.0865331745855
+['river jo seafood diner', '3.50 dollar']	['26 order']	0.0641181843254
+['river jo seafood diner', '3.50 dollar']	['river joe']	0.500601381196
+['river jo seafood diner', '3.50 dollar']	['133.50 dollar']	0.949037422414
+['river jo seafood diner', '3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0830448024925
+['6.00 dollar', '3.50 dollar']	['river jo seafood diner']	0.372781013339
+['6.00 dollar', '3.50 dollar']	['catfish dinner']	0.128848173029
+['6.00 dollar', '3.50 dollar']	['dollar']	0.819913083179
+['6.00 dollar', '3.50 dollar']	['order of popcorn shrimp']	0.372781013339
+['6.00 dollar', '3.50 dollar']	['26 order']	0.127137811052
+['6.00 dollar', '3.50 dollar']	['river joe']	0.127137811052
+['6.00 dollar', '3.50 dollar']	['133.50 dollar']	0.939680822705
+['6.00 dollar', '3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.372781013339
+['catfish dinner', '3.50 dollar']	['river jo seafood diner']	0.148293928657
+['catfish dinner', '3.50 dollar']	['6.00 dollar']	0.580736183597
+['catfish dinner', '3.50 dollar']	['dollar']	0.279641754576
+['catfish dinner', '3.50 dollar']	['order of popcorn shrimp']	0.148293928657
+['catfish dinner', '3.50 dollar']	['26 order']	0.131771183904
+['catfish dinner', '3.50 dollar']	['river joe']	0.131771183904
+['catfish dinner', '3.50 dollar']	['133.50 dollar']	0.891905695852
+['catfish dinner', '3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.441923909248
+['dollar', '3.50 dollar']	['river jo seafood diner']	0.256758244369
+['dollar', '3.50 dollar']	['6.00 dollar']	0.732805939382
+['dollar', '3.50 dollar']	['catfish dinner']	0.159796316963
+['dollar', '3.50 dollar']	['order of popcorn shrimp']	0.256758244369
+['dollar', '3.50 dollar']	['26 order']	0.168220012675
+['dollar', '3.50 dollar']	['river joe']	0.127995396422
+['dollar', '3.50 dollar']	['133.50 dollar']	0.765654046966
+['dollar', '3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.256758244369
+['order of popcorn shrimp', '3.50 dollar']	['river jo seafood diner']	0.0883078820791
+['order of popcorn shrimp', '3.50 dollar']	['6.00 dollar']	0.622645222773
+['order of popcorn shrimp', '3.50 dollar']	['catfish dinner']	0.0875708435399
+['order of popcorn shrimp', '3.50 dollar']	['dollar']	0.295204391267
+['order of popcorn shrimp', '3.50 dollar']	['26 order']	0.0681387921949
+['order of popcorn shrimp', '3.50 dollar']	['river joe']	0.0681387921949
+['order of popcorn shrimp', '3.50 dollar']	['133.50 dollar']	0.949037422414
+['order of popcorn shrimp', '3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0848195099861
+['26 order', '3.50 dollar']	['river jo seafood diner']	0.086216080975
+['26 order', '3.50 dollar']	['6.00 dollar']	0.544221442934
+['26 order', '3.50 dollar']	['catfish dinner']	0.0700467017905
+['26 order', '3.50 dollar']	['dollar']	0.33429145055
+['26 order', '3.50 dollar']	['order of popcorn shrimp']	0.086216080975
+['26 order', '3.50 dollar']	['river joe']	0.0696933362217
+['26 order', '3.50 dollar']	['133.50 dollar']	0.891905695852
+['26 order', '3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.082727708882
+['river joe', '3.50 dollar']	['river jo seafood diner']	0.468087931082
+['river joe', '3.50 dollar']	['6.00 dollar']	0.544221442934
+['river joe', '3.50 dollar']	['catfish dinner']	0.0700467017905
+['river joe', '3.50 dollar']	['dollar']	0.233285647213
+['river joe', '3.50 dollar']	['order of popcorn shrimp']	0.086216080975
+['river joe', '3.50 dollar']	['26 order']	0.0696933362217
+['river joe', '3.50 dollar']	['133.50 dollar']	0.891905695852
+['river joe', '3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.082727708882
+['133.50 dollar', '3.50 dollar']	['river jo seafood diner']	0.372781013339
+['133.50 dollar', '3.50 dollar']	['6.00 dollar']	0.619879171367
+['133.50 dollar', '3.50 dollar']	['catfish dinner']	0.128848173029
+['133.50 dollar', '3.50 dollar']	['dollar']	0.714045856735
+['133.50 dollar', '3.50 dollar']	['order of popcorn shrimp']	0.372781013339
+['133.50 dollar', '3.50 dollar']	['26 order']	0.127137811052
+['133.50 dollar', '3.50 dollar']	['river joe']	0.127137811052
+['133.50 dollar', '3.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.372781013339
+['popcorn shrimp order and catfish catfish dinner', '3.50 dollar']	['river jo seafood diner']	0.0865331745855
+['popcorn shrimp order and catfish catfish dinner', '3.50 dollar']	['6.00 dollar']	0.547819937295
+['popcorn shrimp order and catfish catfish dinner', '3.50 dollar']	['catfish dinner']	0.480401176575
+['popcorn shrimp order and catfish catfish dinner', '3.50 dollar']	['dollar']	0.299227348849
+['popcorn shrimp order and catfish catfish dinner', '3.50 dollar']	['order of popcorn shrimp']	0.0865331745855
+['popcorn shrimp order and catfish catfish dinner', '3.50 dollar']	['26 order']	0.0641181843254
+['popcorn shrimp order and catfish catfish dinner', '3.50 dollar']	['river joe']	0.0641181843254
+['popcorn shrimp order and catfish catfish dinner', '3.50 dollar']	['133.50 dollar']	0.91572217286
+['river jo seafood diner', 'order of popcorn shrimp']	['6.00 dollar']	0.0988755105172
+['river jo seafood diner', 'order of popcorn shrimp']	['catfish dinner']	0.0907458062299
+['river jo seafood diner', 'order of popcorn shrimp']	['dollar']	0.00857205049933
+['river jo seafood diner', 'order of popcorn shrimp']	['3.50 dollar']	0.0981211933805
+['river jo seafood diner', 'order of popcorn shrimp']	['26 order']	0.0915001233665
+['river jo seafood diner', 'order of popcorn shrimp']	['river joe']	0.532779142055
+['river jo seafood diner', 'order of popcorn shrimp']	['133.50 dollar']	0.0988755105172
+['river jo seafood diner', 'order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['6.00 dollar', 'order of popcorn shrimp']	['river jo seafood diner']	0.107526100904
+['6.00 dollar', 'order of popcorn shrimp']	['catfish dinner']	0.0981211933805
+['6.00 dollar', 'order of popcorn shrimp']	['dollar']	0.354133576977
+['6.00 dollar', 'order of popcorn shrimp']	['3.50 dollar']	0.622571119615
+['6.00 dollar', 'order of popcorn shrimp']	['26 order']	0.0988755105172
+['6.00 dollar', 'order of popcorn shrimp']	['river joe']	0.0988755105172
+['6.00 dollar', 'order of popcorn shrimp']	['133.50 dollar']	0.630956863273
+['6.00 dollar', 'order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.104037728811
+['catfish dinner', 'order of popcorn shrimp']	['river jo seafood diner']	0.0865331745855
+['catfish dinner', 'order of popcorn shrimp']	['6.00 dollar']	0.0681387921949
+['catfish dinner', 'order of popcorn shrimp']	['dollar']	0.00371585050999
+['catfish dinner', 'order of popcorn shrimp']	['3.50 dollar']	0.0875708435399
+['catfish dinner', 'order of popcorn shrimp']	['26 order']	0.0641181843254
+['catfish dinner', 'order of popcorn shrimp']	['river joe']	0.0641181843254
+['catfish dinner', 'order of popcorn shrimp']	['133.50 dollar']	0.0681387921949
+['catfish dinner', 'order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.482138418595
+['dollar', 'order of popcorn shrimp']	['river jo seafood diner']	0.0215083675105
+['dollar', 'order of popcorn shrimp']	['6.00 dollar']	0.427590939411
+['dollar', 'order of popcorn shrimp']	['catfish dinner']	0.0182582344514
+['dollar', 'order of popcorn shrimp']	['3.50 dollar']	0.325065686886
+['dollar', 'order of popcorn shrimp']	['26 order']	0.0148694161981
+['dollar', 'order of popcorn shrimp']	['river joe']	0.0149014887961
+['dollar', 'order of popcorn shrimp']	['133.50 dollar']	0.251281306516
+['dollar', 'order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.0180199954174
+['3.50 dollar', 'order of popcorn shrimp']	['river jo seafood diner']	0.0883078820791
+['3.50 dollar', 'order of popcorn shrimp']	['6.00 dollar']	0.622645222773
+['3.50 dollar', 'order of popcorn shrimp']	['catfish dinner']	0.0875708435399
+['3.50 dollar', 'order of popcorn shrimp']	['dollar']	0.295204391267
+['3.50 dollar', 'order of popcorn shrimp']	['26 order']	0.0681387921949
+['3.50 dollar', 'order of popcorn shrimp']	['river joe']	0.0681387921949
+['3.50 dollar', 'order of popcorn shrimp']	['133.50 dollar']	0.949037422414
+['3.50 dollar', 'order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.0848195099861
+['26 order', 'order of popcorn shrimp']	['river jo seafood diner']	0.102396614129
+['26 order', 'order of popcorn shrimp']	['6.00 dollar']	0.0988755105172
+['26 order', 'order of popcorn shrimp']	['catfish dinner']	0.0907458062299
+['26 order', 'order of popcorn shrimp']	['dollar']	0.00920098131694
+['26 order', 'order of popcorn shrimp']	['3.50 dollar']	0.0981211933805
+['26 order', 'order of popcorn shrimp']	['river joe']	0.0915001233665
+['26 order', 'order of popcorn shrimp']	['133.50 dollar']	0.0988755105172
+['26 order', 'order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['river joe', 'order of popcorn shrimp']	['river jo seafood diner']	0.574152530065
+['river joe', 'order of popcorn shrimp']	['6.00 dollar']	0.0988755105172
+['river joe', 'order of popcorn shrimp']	['catfish dinner']	0.0907458062299
+['river joe', 'order of popcorn shrimp']	['dollar']	0.00920098131694
+['river joe', 'order of popcorn shrimp']	['3.50 dollar']	0.0981211933805
+['river joe', 'order of popcorn shrimp']	['26 order']	0.0915001233665
+['river joe', 'order of popcorn shrimp']	['133.50 dollar']	0.0988755105172
+['river joe', 'order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['133.50 dollar', 'order of popcorn shrimp']	['river jo seafood diner']	0.107526100904
+['133.50 dollar', 'order of popcorn shrimp']	['6.00 dollar']	0.630956863273
+['133.50 dollar', 'order of popcorn shrimp']	['catfish dinner']	0.0981211933805
+['133.50 dollar', 'order of popcorn shrimp']	['dollar']	0.184985949501
+['133.50 dollar', 'order of popcorn shrimp']	['3.50 dollar']	0.947533259105
+['133.50 dollar', 'order of popcorn shrimp']	['26 order']	0.0988755105172
+['133.50 dollar', 'order of popcorn shrimp']	['river joe']	0.0988755105172
+['133.50 dollar', 'order of popcorn shrimp']	['popcorn shrimp order and catfish catfish dinner']	0.104037728811
+['popcorn shrimp order and catfish catfish dinner', 'order of popcorn shrimp']	['river jo seafood diner']	0.112559918644
+['popcorn shrimp order and catfish catfish dinner', 'order of popcorn shrimp']	['6.00 dollar']	0.0988755105172
+['popcorn shrimp order and catfish catfish dinner', 'order of popcorn shrimp']	['catfish dinner']	0.481663246344
+['popcorn shrimp order and catfish catfish dinner', 'order of popcorn shrimp']	['dollar']	0.00857205049933
+['popcorn shrimp order and catfish catfish dinner', 'order of popcorn shrimp']	['3.50 dollar']	0.0981211933805
+['popcorn shrimp order and catfish catfish dinner', 'order of popcorn shrimp']	['26 order']	0.0915001233665
+['popcorn shrimp order and catfish catfish dinner', 'order of popcorn shrimp']	['river joe']	0.0915001233665
+['popcorn shrimp order and catfish catfish dinner', 'order of popcorn shrimp']	['133.50 dollar']	0.0988755105172
+['river jo seafood diner', '26 order']	['6.00 dollar']	0.0988755105172
+['river jo seafood diner', '26 order']	['catfish dinner']	0.0907458062299
+['river jo seafood diner', '26 order']	['dollar']	0.00920098131694
+['river jo seafood diner', '26 order']	['3.50 dollar']	0.0981211933805
+['river jo seafood diner', '26 order']	['order of popcorn shrimp']	0.108108427999
+['river jo seafood diner', '26 order']	['river joe']	0.557998943375
+['river jo seafood diner', '26 order']	['133.50 dollar']	0.0988755105172
+['river jo seafood diner', '26 order']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['6.00 dollar', '26 order']	['river jo seafood diner']	0.0908034291173
+['6.00 dollar', '26 order']	['catfish dinner']	0.0824069519204
+['6.00 dollar', '26 order']	['dollar']	0.34291890153
+['6.00 dollar', '26 order']	['3.50 dollar']	0.577101062223
+['6.00 dollar', '26 order']	['order of popcorn shrimp']	0.0908034291173
+['6.00 dollar', '26 order']	['river joe']	0.0827346205535
+['6.00 dollar', '26 order']	['133.50 dollar']	0.584269096576
+['6.00 dollar', '26 order']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['catfish dinner', '26 order']	['river jo seafood diner']	0.086216080975
+['catfish dinner', '26 order']	['6.00 dollar']	0.0737139440912
+['catfish dinner', '26 order']	['dollar']	0.00222717737084
+['catfish dinner', '26 order']	['3.50 dollar']	0.0752871422893
+['catfish dinner', '26 order']	['order of popcorn shrimp']	0.0919278948447
+['catfish dinner', '26 order']	['river joe']	0.0696933362217
+['catfish dinner', '26 order']	['133.50 dollar']	0.0737139440912
+['catfish dinner', '26 order']	['popcorn shrimp order and catfish catfish dinner']	0.36035366389
+['dollar', '26 order']	['river jo seafood diner']	0.0196847391915
+['dollar', '26 order']	['6.00 dollar']	0.380321401688
+['dollar', '26 order']	['catfish dinner']	0.0199229782255
+['dollar', '26 order']	['3.50 dollar']	0.277796149163
+['dollar', '26 order']	['order of popcorn shrimp']	0.024222844141
+['dollar', '26 order']	['river joe']	0.0165341599722
+['dollar', '26 order']	['133.50 dollar']	0.354123828896
+['dollar', '26 order']	['popcorn shrimp order and catfish catfish dinner']	0.0196847391915
+['3.50 dollar', '26 order']	['river jo seafood diner']	0.086216080975
+['3.50 dollar', '26 order']	['6.00 dollar']	0.544221442934
+['3.50 dollar', '26 order']	['catfish dinner']	0.0700467017905
+['3.50 dollar', '26 order']	['dollar']	0.33429145055
+['3.50 dollar', '26 order']	['order of popcorn shrimp']	0.086216080975
+['3.50 dollar', '26 order']	['river joe']	0.0696933362217
+['3.50 dollar', '26 order']	['133.50 dollar']	0.891905695852
+['3.50 dollar', '26 order']	['popcorn shrimp order and catfish catfish dinner']	0.082727708882
+['order of popcorn shrimp', '26 order']	['river jo seafood diner']	0.102396614129
+['order of popcorn shrimp', '26 order']	['6.00 dollar']	0.0988755105172
+['order of popcorn shrimp', '26 order']	['catfish dinner']	0.0907458062299
+['order of popcorn shrimp', '26 order']	['dollar']	0.00920098131694
+['order of popcorn shrimp', '26 order']	['3.50 dollar']	0.0981211933805
+['order of popcorn shrimp', '26 order']	['river joe']	0.0915001233665
+['order of popcorn shrimp', '26 order']	['133.50 dollar']	0.0988755105172
+['order of popcorn shrimp', '26 order']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['river joe', '26 order']	['river jo seafood diner']	0.511297596264
+['river joe', '26 order']	['6.00 dollar']	0.0901100077042
+['river joe', '26 order']	['catfish dinner']	0.0824069519204
+['river joe', '26 order']	['dollar']	0.00424649792755
+['river joe', '26 order']	['3.50 dollar']	0.0897823390711
+['river joe', '26 order']	['order of popcorn shrimp']	0.096515242987
+['river joe', '26 order']	['133.50 dollar']	0.0901100077042
+['river joe', '26 order']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['133.50 dollar', '26 order']	['river jo seafood diner']	0.0908034291173
+['133.50 dollar', '26 order']	['6.00 dollar']	0.584269096576
+['133.50 dollar', '26 order']	['catfish dinner']	0.0824069519204
+['133.50 dollar', '26 order']	['dollar']	0.245682101595
+['133.50 dollar', '26 order']	['3.50 dollar']	0.876734045796
+['133.50 dollar', '26 order']	['order of popcorn shrimp']	0.0908034291173
+['133.50 dollar', '26 order']	['river joe']	0.0827346205535
+['133.50 dollar', '26 order']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['popcorn shrimp order and catfish catfish dinner', '26 order']	['river jo seafood diner']	0.102396614129
+['popcorn shrimp order and catfish catfish dinner', '26 order']	['6.00 dollar']	0.0988755105172
+['popcorn shrimp order and catfish catfish dinner', '26 order']	['catfish dinner']	0.488168459
+['popcorn shrimp order and catfish catfish dinner', '26 order']	['dollar']	0.00857205049933
+['popcorn shrimp order and catfish catfish dinner', '26 order']	['3.50 dollar']	0.0981211933805
+['popcorn shrimp order and catfish catfish dinner', '26 order']	['order of popcorn shrimp']	0.108108427999
+['popcorn shrimp order and catfish catfish dinner', '26 order']	['river joe']	0.0915001233665
+['popcorn shrimp order and catfish catfish dinner', '26 order']	['133.50 dollar']	0.0988755105172
+['river jo seafood diner', 'river joe']	['6.00 dollar']	0.0988755105172
+['river jo seafood diner', 'river joe']	['catfish dinner']	0.0907458062299
+['river jo seafood diner', 'river joe']	['dollar']	0.00920098131694
+['river jo seafood diner', 'river joe']	['3.50 dollar']	0.0981211933805
+['river jo seafood diner', 'river joe']	['order of popcorn shrimp']	0.108108427999
+['river jo seafood diner', 'river joe']	['26 order']	0.0915001233665
+['river jo seafood diner', 'river joe']	['133.50 dollar']	0.0988755105172
+['river jo seafood diner', 'river joe']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['6.00 dollar', 'river joe']	['river jo seafood diner']	0.511297596264
+['6.00 dollar', 'river joe']	['catfish dinner']	0.0824069519204
+['6.00 dollar', 'river joe']	['dollar']	0.237207215841
+['6.00 dollar', 'river joe']	['3.50 dollar']	0.577101062223
+['6.00 dollar', 'river joe']	['order of popcorn shrimp']	0.0908034291173
+['6.00 dollar', 'river joe']	['26 order']	0.0827346205535
+['6.00 dollar', 'river joe']	['133.50 dollar']	0.584269096576
+['6.00 dollar', 'river joe']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['catfish dinner', 'river joe']	['river jo seafood diner']	0.468087931082
+['catfish dinner', 'river joe']	['6.00 dollar']	0.0737139440912
+['catfish dinner', 'river joe']	['dollar']	0.00340088629102
+['catfish dinner', 'river joe']	['3.50 dollar']	0.0752871422893
+['catfish dinner', 'river joe']	['order of popcorn shrimp']	0.0919278948447
+['catfish dinner', 'river joe']	['26 order']	0.0696933362217
+['catfish dinner', 'river joe']	['133.50 dollar']	0.0737139440912
+['catfish dinner', 'river joe']	['popcorn shrimp order and catfish catfish dinner']	0.358599277925
+['dollar', 'river joe']	['river jo seafood diner']	0.266705084469
+['dollar', 'river joe']	['6.00 dollar']	0.380321401688
+['dollar', 'river joe']	['catfish dinner']	0.0199229782255
+['dollar', 'river joe']	['3.50 dollar']	0.277796149163
+['dollar', 'river joe']	['order of popcorn shrimp']	0.024222844141
+['dollar', 'river joe']	['26 order']	0.015360451052
+['dollar', 'river joe']	['133.50 dollar']	0.354123828896
+['dollar', 'river joe']	['popcorn shrimp order and catfish catfish dinner']	0.0253965530612
+['3.50 dollar', 'river joe']	['river jo seafood diner']	0.468087931082
+['3.50 dollar', 'river joe']	['6.00 dollar']	0.544221442934
+['3.50 dollar', 'river joe']	['catfish dinner']	0.0700467017905
+['3.50 dollar', 'river joe']	['dollar']	0.233285647213
+['3.50 dollar', 'river joe']	['order of popcorn shrimp']	0.086216080975
+['3.50 dollar', 'river joe']	['26 order']	0.0696933362217
+['3.50 dollar', 'river joe']	['133.50 dollar']	0.891905695852
+['3.50 dollar', 'river joe']	['popcorn shrimp order and catfish catfish dinner']	0.082727708882
+['order of popcorn shrimp', 'river joe']	['river jo seafood diner']	0.574152530065
+['order of popcorn shrimp', 'river joe']	['6.00 dollar']	0.0988755105172
+['order of popcorn shrimp', 'river joe']	['catfish dinner']	0.0907458062299
+['order of popcorn shrimp', 'river joe']	['dollar']	0.00920098131694
+['order of popcorn shrimp', 'river joe']	['3.50 dollar']	0.0981211933805
+['order of popcorn shrimp', 'river joe']	['26 order']	0.0915001233665
+['order of popcorn shrimp', 'river joe']	['133.50 dollar']	0.0988755105172
+['order of popcorn shrimp', 'river joe']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['26 order', 'river joe']	['river jo seafood diner']	0.511297596264
+['26 order', 'river joe']	['6.00 dollar']	0.0901100077042
+['26 order', 'river joe']	['catfish dinner']	0.0824069519204
+['26 order', 'river joe']	['dollar']	0.00424649792755
+['26 order', 'river joe']	['3.50 dollar']	0.0897823390711
+['26 order', 'river joe']	['order of popcorn shrimp']	0.096515242987
+['26 order', 'river joe']	['133.50 dollar']	0.0901100077042
+['26 order', 'river joe']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['133.50 dollar', 'river joe']	['river jo seafood diner']	0.511297596264
+['133.50 dollar', 'river joe']	['6.00 dollar']	0.584269096576
+['133.50 dollar', 'river joe']	['catfish dinner']	0.0824069519204
+['133.50 dollar', 'river joe']	['dollar']	0.248704079617
+['133.50 dollar', 'river joe']	['3.50 dollar']	0.876734045796
+['133.50 dollar', 'river joe']	['order of popcorn shrimp']	0.0908034291173
+['133.50 dollar', 'river joe']	['26 order']	0.0827346205535
+['133.50 dollar', 'river joe']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['popcorn shrimp order and catfish catfish dinner', 'river joe']	['river jo seafood diner']	0.545730285531
+['popcorn shrimp order and catfish catfish dinner', 'river joe']	['6.00 dollar']	0.0988755105172
+['popcorn shrimp order and catfish catfish dinner', 'river joe']	['catfish dinner']	0.539398931426
+['popcorn shrimp order and catfish catfish dinner', 'river joe']	['dollar']	0.00857205049933
+['popcorn shrimp order and catfish catfish dinner', 'river joe']	['3.50 dollar']	0.0981211933805
+['popcorn shrimp order and catfish catfish dinner', 'river joe']	['order of popcorn shrimp']	0.108108427999
+['popcorn shrimp order and catfish catfish dinner', 'river joe']	['26 order']	0.0915001233665
+['popcorn shrimp order and catfish catfish dinner', 'river joe']	['133.50 dollar']	0.0988755105172
+['river jo seafood diner', '133.50 dollar']	['6.00 dollar']	0.630956863273
+['river jo seafood diner', '133.50 dollar']	['catfish dinner']	0.0907458062299
+['river jo seafood diner', '133.50 dollar']	['dollar']	0.183470797986
+['river jo seafood diner', '133.50 dollar']	['3.50 dollar']	0.947533259105
+['river jo seafood diner', '133.50 dollar']	['order of popcorn shrimp']	0.102396614129
+['river jo seafood diner', '133.50 dollar']	['26 order']	0.0915001233665
+['river jo seafood diner', '133.50 dollar']	['river joe']	0.557998943375
+['river jo seafood diner', '133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0989082420359
+['6.00 dollar', '133.50 dollar']	['river jo seafood diner']	0.315265418903
+['6.00 dollar', '133.50 dollar']	['catfish dinner']	0.14699641653
+['6.00 dollar', '133.50 dollar']	['dollar']	0.714045856735
+['6.00 dollar', '133.50 dollar']	['3.50 dollar']	0.914021167843
+['6.00 dollar', '133.50 dollar']	['order of popcorn shrimp']	0.315265418903
+['6.00 dollar', '133.50 dollar']	['26 order']	0.139258682248
+['6.00 dollar', '133.50 dollar']	['river joe']	0.139258682248
+['6.00 dollar', '133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.315265418903
+['catfish dinner', '133.50 dollar']	['river jo seafood diner']	0.086216080975
+['catfish dinner', '133.50 dollar']	['6.00 dollar']	0.544221442934
+['catfish dinner', '133.50 dollar']	['dollar']	0.237772649935
+['catfish dinner', '133.50 dollar']	['3.50 dollar']	0.871328316331
+['catfish dinner', '133.50 dollar']	['order of popcorn shrimp']	0.086216080975
+['catfish dinner', '133.50 dollar']	['26 order']	0.0696933362217
+['catfish dinner', '133.50 dollar']	['river joe']	0.0696933362217
+['catfish dinner', '133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.401520100888
+['dollar', '133.50 dollar']	['river jo seafood diner']	0.198882138174
+['dollar', '133.50 dollar']	['6.00 dollar']	0.732805939382
+['dollar', '133.50 dollar']	['catfish dinner']	0.101920210768
+['dollar', '133.50 dollar']	['3.50 dollar']	0.736768214577
+['dollar', '133.50 dollar']	['order of popcorn shrimp']	0.198882138174
+['dollar', '133.50 dollar']	['26 order']	0.11034390648
+['dollar', '133.50 dollar']	['river joe']	0.0701192902272
+['dollar', '133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.198882138174
+['3.50 dollar', '133.50 dollar']	['river jo seafood diner']	0.372781013339
+['3.50 dollar', '133.50 dollar']	['6.00 dollar']	0.619879171367
+['3.50 dollar', '133.50 dollar']	['catfish dinner']	0.128848173029
+['3.50 dollar', '133.50 dollar']	['dollar']	0.714045856735
+['3.50 dollar', '133.50 dollar']	['order of popcorn shrimp']	0.372781013339
+['3.50 dollar', '133.50 dollar']	['26 order']	0.127137811052
+['3.50 dollar', '133.50 dollar']	['river joe']	0.127137811052
+['3.50 dollar', '133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.372781013339
+['order of popcorn shrimp', '133.50 dollar']	['river jo seafood diner']	0.107526100904
+['order of popcorn shrimp', '133.50 dollar']	['6.00 dollar']	0.630956863273
+['order of popcorn shrimp', '133.50 dollar']	['catfish dinner']	0.0981211933805
+['order of popcorn shrimp', '133.50 dollar']	['dollar']	0.184985949501
+['order of popcorn shrimp', '133.50 dollar']	['3.50 dollar']	0.947533259105
+['order of popcorn shrimp', '133.50 dollar']	['26 order']	0.0988755105172
+['order of popcorn shrimp', '133.50 dollar']	['river joe']	0.0988755105172
+['order of popcorn shrimp', '133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.104037728811
+['26 order', '133.50 dollar']	['river jo seafood diner']	0.0908034291173
+['26 order', '133.50 dollar']	['6.00 dollar']	0.584269096576
+['26 order', '133.50 dollar']	['catfish dinner']	0.0824069519204
+['26 order', '133.50 dollar']	['dollar']	0.245682101595
+['26 order', '133.50 dollar']	['3.50 dollar']	0.876734045796
+['26 order', '133.50 dollar']	['order of popcorn shrimp']	0.0908034291173
+['26 order', '133.50 dollar']	['river joe']	0.0827346205535
+['26 order', '133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['river joe', '133.50 dollar']	['river jo seafood diner']	0.511297596264
+['river joe', '133.50 dollar']	['6.00 dollar']	0.584269096576
+['river joe', '133.50 dollar']	['catfish dinner']	0.0824069519204
+['river joe', '133.50 dollar']	['dollar']	0.248704079617
+['river joe', '133.50 dollar']	['3.50 dollar']	0.876734045796
+['river joe', '133.50 dollar']	['order of popcorn shrimp']	0.0908034291173
+['river joe', '133.50 dollar']	['26 order']	0.0827346205535
+['river joe', '133.50 dollar']	['popcorn shrimp order and catfish catfish dinner']	0.0873150570242
+['popcorn shrimp order and catfish catfish dinner', '133.50 dollar']	['river jo seafood diner']	0.102396614129
+['popcorn shrimp order and catfish catfish dinner', '133.50 dollar']	['6.00 dollar']	0.601830528082
+['popcorn shrimp order and catfish catfish dinner', '133.50 dollar']	['catfish dinner']	0.525732139106
+['popcorn shrimp order and catfish catfish dinner', '133.50 dollar']	['dollar']	0.203347531422
+['popcorn shrimp order and catfish catfish dinner', '133.50 dollar']	['3.50 dollar']	0.91572217286
+['popcorn shrimp order and catfish catfish dinner', '133.50 dollar']	['order of popcorn shrimp']	0.102396614129
+['popcorn shrimp order and catfish catfish dinner', '133.50 dollar']	['26 order']	0.0915001233665
+['popcorn shrimp order and catfish catfish dinner', '133.50 dollar']	['river joe']	0.0915001233665
+['river jo seafood diner', 'popcorn shrimp order and catfish catfish dinner']	['6.00 dollar']	0.0988755105172
+['river jo seafood diner', 'popcorn shrimp order and catfish catfish dinner']	['catfish dinner']	0.495330038664
+['river jo seafood diner', 'popcorn shrimp order and catfish catfish dinner']	['dollar']	0.00857205049933
+['river jo seafood diner', 'popcorn shrimp order and catfish catfish dinner']	['3.50 dollar']	0.0981211933805
+['river jo seafood diner', 'popcorn shrimp order and catfish catfish dinner']	['order of popcorn shrimp']	0.118271732514
+['river jo seafood diner', 'popcorn shrimp order and catfish catfish dinner']	['26 order']	0.0915001233665
+['river jo seafood diner', 'popcorn shrimp order and catfish catfish dinner']	['river joe']	0.522975220486
+['river jo seafood diner', 'popcorn shrimp order and catfish catfish dinner']	['133.50 dollar']	0.0988755105172
+['6.00 dollar', 'popcorn shrimp order and catfish catfish dinner']	['river jo seafood diner']	0.102396614129
+['6.00 dollar', 'popcorn shrimp order and catfish catfish dinner']	['catfish dinner']	0.525732139106
+['6.00 dollar', 'popcorn shrimp order and catfish catfish dinner']	['dollar']	0.33008635912
+['6.00 dollar', 'popcorn shrimp order and catfish catfish dinner']	['3.50 dollar']	0.567954588345
+['6.00 dollar', 'popcorn shrimp order and catfish catfish dinner']	['order of popcorn shrimp']	0.102396614129
+['6.00 dollar', 'popcorn shrimp order and catfish catfish dinner']	['26 order']	0.0915001233665
+['6.00 dollar', 'popcorn shrimp order and catfish catfish dinner']	['river joe']	0.0915001233665
+['6.00 dollar', 'popcorn shrimp order and catfish catfish dinner']	['133.50 dollar']	0.601830528082
+['catfish dinner', 'popcorn shrimp order and catfish catfish dinner']	['river jo seafood diner']	0.368448387978
+['catfish dinner', 'popcorn shrimp order and catfish catfish dinner']	['6.00 dollar']	0.109369378475
+['catfish dinner', 'popcorn shrimp order and catfish catfish dinner']	['dollar']	0.117115307352
+['catfish dinner', 'popcorn shrimp order and catfish catfish dinner']	['3.50 dollar']	0.115858712973
+['catfish dinner', 'popcorn shrimp order and catfish catfish dinner']	['order of popcorn shrimp']	0.376668124403
+['catfish dinner', 'popcorn shrimp order and catfish catfish dinner']	['26 order']	0.126759848794
+['catfish dinner', 'popcorn shrimp order and catfish catfish dinner']	['river joe']	0.126759848794
+['catfish dinner', 'popcorn shrimp order and catfish catfish dinner']	['133.50 dollar']	0.109369378475
+['dollar', 'popcorn shrimp order and catfish catfish dinner']	['river jo seafood diner']	0.0461460486699
+['dollar', 'popcorn shrimp order and catfish catfish dinner']	['6.00 dollar']	0.365452280831
+['dollar', 'popcorn shrimp order and catfish catfish dinner']	['catfish dinner']	0.148766716063
+['dollar', 'popcorn shrimp order and catfish catfish dinner']	['3.50 dollar']	0.262927028306
+['dollar', 'popcorn shrimp order and catfish catfish dinner']	['order of popcorn shrimp']	0.0461460486699
+['dollar', 'popcorn shrimp order and catfish catfish dinner']	['26 order']	0.0148694161981
+['dollar', 'popcorn shrimp order and catfish catfish dinner']	['river joe']	0.0395070973576
+['dollar', 'popcorn shrimp order and catfish catfish dinner']	['133.50 dollar']	0.236309555104
+['3.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['river jo seafood diner']	0.0865331745855
+['3.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['6.00 dollar']	0.547819937295
+['3.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['catfish dinner']	0.480401176575
+['3.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['dollar']	0.299227348849
+['3.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['order of popcorn shrimp']	0.0865331745855
+['3.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['26 order']	0.0641181843254
+['3.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['river joe']	0.0641181843254
+['3.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['133.50 dollar']	0.91572217286
+['order of popcorn shrimp', 'popcorn shrimp order and catfish catfish dinner']	['river jo seafood diner']	0.112559918644
+['order of popcorn shrimp', 'popcorn shrimp order and catfish catfish dinner']	['6.00 dollar']	0.0988755105172
+['order of popcorn shrimp', 'popcorn shrimp order and catfish catfish dinner']	['catfish dinner']	0.481663246344
+['order of popcorn shrimp', 'popcorn shrimp order and catfish catfish dinner']	['dollar']	0.00857205049933
+['order of popcorn shrimp', 'popcorn shrimp order and catfish catfish dinner']	['3.50 dollar']	0.0981211933805
+['order of popcorn shrimp', 'popcorn shrimp order and catfish catfish dinner']	['26 order']	0.0915001233665
+['order of popcorn shrimp', 'popcorn shrimp order and catfish catfish dinner']	['river joe']	0.0915001233665
+['order of popcorn shrimp', 'popcorn shrimp order and catfish catfish dinner']	['133.50 dollar']	0.0988755105172
+['26 order', 'popcorn shrimp order and catfish catfish dinner']	['river jo seafood diner']	0.102396614129
+['26 order', 'popcorn shrimp order and catfish catfish dinner']	['6.00 dollar']	0.0988755105172
+['26 order', 'popcorn shrimp order and catfish catfish dinner']	['catfish dinner']	0.488168459
+['26 order', 'popcorn shrimp order and catfish catfish dinner']	['dollar']	0.00857205049933
+['26 order', 'popcorn shrimp order and catfish catfish dinner']	['3.50 dollar']	0.0981211933805
+['26 order', 'popcorn shrimp order and catfish catfish dinner']	['order of popcorn shrimp']	0.108108427999
+['26 order', 'popcorn shrimp order and catfish catfish dinner']	['river joe']	0.0915001233665
+['26 order', 'popcorn shrimp order and catfish catfish dinner']	['133.50 dollar']	0.0988755105172
+['river joe', 'popcorn shrimp order and catfish catfish dinner']	['river jo seafood diner']	0.545730285531
+['river joe', 'popcorn shrimp order and catfish catfish dinner']	['6.00 dollar']	0.0988755105172
+['river joe', 'popcorn shrimp order and catfish catfish dinner']	['catfish dinner']	0.539398931426
+['river joe', 'popcorn shrimp order and catfish catfish dinner']	['dollar']	0.00857205049933
+['river joe', 'popcorn shrimp order and catfish catfish dinner']	['3.50 dollar']	0.0981211933805
+['river joe', 'popcorn shrimp order and catfish catfish dinner']	['order of popcorn shrimp']	0.108108427999
+['river joe', 'popcorn shrimp order and catfish catfish dinner']	['26 order']	0.0915001233665
+['river joe', 'popcorn shrimp order and catfish catfish dinner']	['133.50 dollar']	0.0988755105172
+['133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['river jo seafood diner']	0.102396614129
+['133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['6.00 dollar']	0.601830528082
+['133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['catfish dinner']	0.525732139106
+['133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['dollar']	0.203347531422
+['133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['3.50 dollar']	0.91572217286
+['133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['order of popcorn shrimp']	0.102396614129
+['133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['26 order']	0.0915001233665
+['133.50 dollar', 'popcorn shrimp order and catfish catfish dinner']	['river joe']	0.0915001233665

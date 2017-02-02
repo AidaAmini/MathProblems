@@ -1,0 +1,536 @@
+['mr', 'naidu', '155 dollar', 'grocery', '5-dollar note', 'note', 'note and 20-dollar 20-dollar note', '13 note', '20-dollar note']
+['mr']	['naidu']	0.139491990742
+['mr']	['155 dollar']	0.0827346205535
+['mr']	['grocery']	0.146954738892
+['mr']	['5-dollar note']	0.0824069519204
+['mr']	['note']	0.0597747011886
+['mr']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['mr']	['13 note']	0.0827346205535
+['mr']	['20-dollar note']	0.0824069519204
+['naidu']	['155 dollar']	0.0901100077042
+['naidu']	['grocery']	0.122620795427
+['naidu']	['5-dollar note']	0.0897823390711
+['naidu']	['note']	0.169646534873
+['naidu']	['note and 20-dollar 20-dollar note']	0.0920786332799
+['naidu']	['13 note']	0.0901100077042
+['naidu']	['20-dollar note']	0.0897823390711
+['155 dollar']	['grocery']	0.0854506877194
+['155 dollar']	['5-dollar note']	0.0897823390711
+['155 dollar']	['note']	0.308833651143
+['155 dollar']	['note and 20-dollar 20-dollar note']	0.0912443646678
+['155 dollar']	['13 note']	0.0901100077042
+['155 dollar']	['20-dollar note']	0.0897823390711
+['grocery']	['5-dollar note']	0.0824069519204
+['grocery']	['note']	0.0760236969154
+['grocery']	['note and 20-dollar 20-dollar note']	0.094467200112
+['grocery']	['13 note']	0.0827346205535
+['grocery']	['20-dollar note']	0.0824069519204
+['5-dollar note']	['note and 20-dollar 20-dollar note']	0.322513943634
+['5-dollar note']	['13 note']	0.556137096067
+['5-dollar note']	['20-dollar note']	0.636793130373
+['note and 20-dollar 20-dollar note']	['13 note']	0.430818039661
+['13 note']	['20-dollar note']	0.644695369786
+['naidu', 'mr']	['155 dollar']	0.0827346205535
+['naidu', 'mr']	['grocery']	0.19853563116
+['naidu', 'mr']	['5-dollar note']	0.0824069519204
+['naidu', 'mr']	['note']	0.150789363827
+['naidu', 'mr']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['naidu', 'mr']	['13 note']	0.0827346205535
+['naidu', 'mr']	['20-dollar note']	0.0824069519204
+['155 dollar', 'mr']	['naidu']	0.539883765824
+['155 dollar', 'mr']	['grocery']	0.231644445477
+['155 dollar', 'mr']	['5-dollar note']	0.0824069519204
+['155 dollar', 'mr']	['note']	0.391195031781
+['155 dollar', 'mr']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['155 dollar', 'mr']	['13 note']	0.0827346205535
+['155 dollar', 'mr']	['20-dollar note']	0.0824069519204
+['grocery', 'mr']	['naidu']	0.434225359743
+['grocery', 'mr']	['155 dollar']	0.0827346205535
+['grocery', 'mr']	['5-dollar note']	0.0824069519204
+['grocery', 'mr']	['note']	0.50144843247
+['grocery', 'mr']	['note and 20-dollar 20-dollar note']	0.094467200112
+['grocery', 'mr']	['13 note']	0.0827346205535
+['grocery', 'mr']	['20-dollar note']	0.0824069519204
+['5-dollar note', 'mr']	['naidu']	0.520318669345
+['5-dollar note', 'mr']	['155 dollar']	0.0696933362217
+['5-dollar note', 'mr']	['grocery']	0.150335709347
+['5-dollar note', 'mr']	['note']	0.600728073882
+['5-dollar note', 'mr']	['note and 20-dollar 20-dollar note']	0.401520100888
+['5-dollar note', 'mr']	['13 note']	0.488722073866
+['5-dollar note', 'mr']	['20-dollar note']	0.486711448748
+['note', 'mr']	['naidu']	0.332703503269
+['note', 'mr']	['155 dollar']	0.30780312201
+['note', 'mr']	['grocery']	0.267323889323
+['note', 'mr']	['5-dollar note']	0.492802666678
+['note', 'mr']	['note and 20-dollar 20-dollar note']	0.436293348333
+['note', 'mr']	['13 note']	0.539969245035
+['note', 'mr']	['20-dollar note']	0.492802666678
+['note and 20-dollar 20-dollar note', 'mr']	['naidu']	0.629794380476
+['note and 20-dollar 20-dollar note', 'mr']	['155 dollar']	0.0915001233665
+['note and 20-dollar 20-dollar note', 'mr']	['grocery']	0.314654965045
+['note and 20-dollar 20-dollar note', 'mr']	['5-dollar note']	0.596871036898
+['note and 20-dollar 20-dollar note', 'mr']	['note']	0.641797464611
+['note and 20-dollar 20-dollar note', 'mr']	['13 note']	0.605308267234
+['note and 20-dollar 20-dollar note', 'mr']	['20-dollar note']	0.596871036898
+['13 note', 'mr']	['naidu']	0.539883765824
+['13 note', 'mr']	['155 dollar']	0.0827346205535
+['13 note', 'mr']	['grocery']	0.226254419901
+['13 note', 'mr']	['5-dollar note']	0.528966464774
+['13 note', 'mr']	['note']	0.581445070479
+['13 note', 'mr']	['note and 20-dollar 20-dollar note']	0.432612986675
+['13 note', 'mr']	['20-dollar note']	0.528966464774
+['20-dollar note', 'mr']	['naidu']	0.520318669345
+['20-dollar note', 'mr']	['155 dollar']	0.0696933362217
+['20-dollar note', 'mr']	['grocery']	0.150335709347
+['20-dollar note', 'mr']	['5-dollar note']	0.486711448748
+['20-dollar note', 'mr']	['note']	0.600728073882
+['20-dollar note', 'mr']	['note and 20-dollar 20-dollar note']	0.401520100888
+['20-dollar note', 'mr']	['13 note']	0.488722073866
+['mr', 'naidu']	['155 dollar']	0.0827346205535
+['mr', 'naidu']	['grocery']	0.19853563116
+['mr', 'naidu']	['5-dollar note']	0.0824069519204
+['mr', 'naidu']	['note']	0.150789363827
+['mr', 'naidu']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['mr', 'naidu']	['13 note']	0.0827346205535
+['mr', 'naidu']	['20-dollar note']	0.0824069519204
+['155 dollar', 'naidu']	['mr']	0.51308552021
+['155 dollar', 'naidu']	['grocery']	0.174413450128
+['155 dollar', 'naidu']	['5-dollar note']	0.0897823390711
+['155 dollar', 'naidu']	['note']	0.51967149359
+['155 dollar', 'naidu']	['note and 20-dollar 20-dollar note']	0.0920786332799
+['155 dollar', 'naidu']	['13 note']	0.0901100077042
+['155 dollar', 'naidu']	['20-dollar note']	0.0897823390711
+['grocery', 'naidu']	['mr']	0.429004984769
+['grocery', 'naidu']	['155 dollar']	0.0827346205535
+['grocery', 'naidu']	['5-dollar note']	0.0824069519204
+['grocery', 'naidu']	['note']	0.524893896283
+['grocery', 'naidu']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['grocery', 'naidu']	['13 note']	0.0827346205535
+['grocery', 'naidu']	['20-dollar note']	0.0824069519204
+['5-dollar note', 'naidu']	['mr']	0.520318669345
+['5-dollar note', 'naidu']	['155 dollar']	0.0737139440912
+['5-dollar note', 'naidu']	['grocery']	0.157442573044
+['5-dollar note', 'naidu']	['note']	0.627433106466
+['5-dollar note', 'naidu']	['note and 20-dollar 20-dollar note']	0.423160688857
+['5-dollar note', 'naidu']	['13 note']	0.522652815483
+['5-dollar note', 'naidu']	['20-dollar note']	0.540909642042
+['note', 'naidu']	['mr']	0.27982471539
+['note', 'naidu']	['155 dollar']	0.283459449997
+['note', 'naidu']	['grocery']	0.447297577906
+['note', 'naidu']	['5-dollar note']	0.456860002045
+['note', 'naidu']	['note and 20-dollar 20-dollar note']	0.425991709342
+['note', 'naidu']	['13 note']	0.509086603153
+['note', 'naidu']	['20-dollar note']	0.456860002045
+['note and 20-dollar 20-dollar note', 'naidu']	['mr']	0.629794380476
+['note and 20-dollar 20-dollar note', 'naidu']	['155 dollar']	0.0988755105172
+['note and 20-dollar 20-dollar note', 'naidu']	['grocery']	0.177788927366
+['note and 20-dollar 20-dollar note', 'naidu']	['5-dollar note']	0.622571119615
+['note and 20-dollar 20-dollar note', 'naidu']	['note']	0.649822155969
+['note and 20-dollar 20-dollar note', 'naidu']	['13 note']	0.630956863273
+['note and 20-dollar 20-dollar note', 'naidu']	['20-dollar note']	0.622571119615
+['13 note', 'naidu']	['mr']	0.539883765824
+['13 note', 'naidu']	['155 dollar']	0.0901100077042
+['13 note', 'naidu']	['grocery']	0.169023424553
+['13 note', 'naidu']	['5-dollar note']	0.555532434772
+['13 note', 'naidu']	['note']	0.574386432894
+['13 note', 'naidu']	['note and 20-dollar 20-dollar note']	0.432612986675
+['13 note', 'naidu']	['20-dollar note']	0.555532434772
+['20-dollar note', 'naidu']	['mr']	0.520318669345
+['20-dollar note', 'naidu']	['155 dollar']	0.0737139440912
+['20-dollar note', 'naidu']	['grocery']	0.157442573044
+['20-dollar note', 'naidu']	['5-dollar note']	0.540909642042
+['20-dollar note', 'naidu']	['note']	0.627433106466
+['20-dollar note', 'naidu']	['note and 20-dollar 20-dollar note']	0.423160688857
+['20-dollar note', 'naidu']	['13 note']	0.522652815483
+['mr', '155 dollar']	['naidu']	0.539883765824
+['mr', '155 dollar']	['grocery']	0.231644445477
+['mr', '155 dollar']	['5-dollar note']	0.0824069519204
+['mr', '155 dollar']	['note']	0.391195031781
+['mr', '155 dollar']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['mr', '155 dollar']	['13 note']	0.0827346205535
+['mr', '155 dollar']	['20-dollar note']	0.0824069519204
+['naidu', '155 dollar']	['mr']	0.51308552021
+['naidu', '155 dollar']	['grocery']	0.174413450128
+['naidu', '155 dollar']	['5-dollar note']	0.0897823390711
+['naidu', '155 dollar']	['note']	0.51967149359
+['naidu', '155 dollar']	['note and 20-dollar 20-dollar note']	0.0920786332799
+['naidu', '155 dollar']	['13 note']	0.0901100077042
+['naidu', '155 dollar']	['20-dollar note']	0.0897823390711
+['grocery', '155 dollar']	['mr']	0.226254419901
+['grocery', '155 dollar']	['naidu']	0.177800302008
+['grocery', '155 dollar']	['5-dollar note']	0.0824069519204
+['grocery', '155 dollar']	['note']	0.636509486124
+['grocery', '155 dollar']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['grocery', '155 dollar']	['13 note']	0.0827346205535
+['grocery', '155 dollar']	['20-dollar note']	0.0824069519204
+['5-dollar note', '155 dollar']	['mr']	0.0690378963307
+['5-dollar note', '155 dollar']	['naidu']	0.0690699689286
+['5-dollar note', '155 dollar']	['grocery']	0.0667637182209
+['5-dollar note', '155 dollar']	['note']	0.604708772261
+['5-dollar note', '155 dollar']	['note and 20-dollar 20-dollar note']	0.444729316308
+['5-dollar note', '155 dollar']	['13 note']	0.544221442934
+['5-dollar note', '155 dollar']	['20-dollar note']	0.562478269493
+['note', '155 dollar']	['mr']	0.076153278264
+['note', '155 dollar']	['naidu']	0.186120780387
+['note', '155 dollar']	['grocery']	0.559261019459
+['note', '155 dollar']	['5-dollar note']	0.467086066619
+['note', '155 dollar']	['note and 20-dollar 20-dollar note']	0.436217773916
+['note', '155 dollar']	['13 note']	0.509086603153
+['note', '155 dollar']	['20-dollar note']	0.467086066619
+['note and 20-dollar 20-dollar note', '155 dollar']	['mr']	0.0888261649569
+['note and 20-dollar 20-dollar note', '155 dollar']	['naidu']	0.0976030424116
+['note and 20-dollar 20-dollar note', '155 dollar']	['grocery']	0.0865519868472
+['note and 20-dollar 20-dollar note', '155 dollar']	['5-dollar note']	0.622571119615
+['note and 20-dollar 20-dollar note', '155 dollar']	['note']	0.649852237063
+['note and 20-dollar 20-dollar note', '155 dollar']	['13 note']	0.630956863273
+['note and 20-dollar 20-dollar note', '155 dollar']	['20-dollar note']	0.622571119615
+['13 note', '155 dollar']	['mr']	0.0800606621439
+['13 note', '155 dollar']	['naidu']	0.0888375395985
+['13 note', '155 dollar']	['grocery']	0.0777864840342
+['13 note', '155 dollar']	['5-dollar note']	0.577101062223
+['13 note', '155 dollar']	['note']	0.527363090795
+['13 note', '155 dollar']	['note and 20-dollar 20-dollar note']	0.432612986675
+['13 note', '155 dollar']	['20-dollar note']	0.577101062223
+['20-dollar note', '155 dollar']	['mr']	0.0690378963307
+['20-dollar note', '155 dollar']	['naidu']	0.0690699689286
+['20-dollar note', '155 dollar']	['grocery']	0.0667637182209
+['20-dollar note', '155 dollar']	['5-dollar note']	0.562478269493
+['20-dollar note', '155 dollar']	['note']	0.604708772261
+['20-dollar note', '155 dollar']	['note and 20-dollar 20-dollar note']	0.444729316308
+['20-dollar note', '155 dollar']	['13 note']	0.544221442934
+['mr', 'grocery']	['naidu']	0.434225359743
+['mr', 'grocery']	['155 dollar']	0.0827346205535
+['mr', 'grocery']	['5-dollar note']	0.0824069519204
+['mr', 'grocery']	['note']	0.50144843247
+['mr', 'grocery']	['note and 20-dollar 20-dollar note']	0.094467200112
+['mr', 'grocery']	['13 note']	0.0827346205535
+['mr', 'grocery']	['20-dollar note']	0.0824069519204
+['naidu', 'grocery']	['mr']	0.429004984769
+['naidu', 'grocery']	['155 dollar']	0.0827346205535
+['naidu', 'grocery']	['5-dollar note']	0.0824069519204
+['naidu', 'grocery']	['note']	0.524893896283
+['naidu', 'grocery']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['naidu', 'grocery']	['13 note']	0.0827346205535
+['naidu', 'grocery']	['20-dollar note']	0.0824069519204
+['155 dollar', 'grocery']	['mr']	0.226254419901
+['155 dollar', 'grocery']	['naidu']	0.177800302008
+['155 dollar', 'grocery']	['5-dollar note']	0.0824069519204
+['155 dollar', 'grocery']	['note']	0.636509486124
+['155 dollar', 'grocery']	['note and 20-dollar 20-dollar note']	0.0887553862424
+['155 dollar', 'grocery']	['13 note']	0.0827346205535
+['155 dollar', 'grocery']	['20-dollar note']	0.0824069519204
+['5-dollar note', 'grocery']	['mr']	0.149484959546
+['5-dollar note', 'grocery']	['naidu']	0.157474645642
+['5-dollar note', 'grocery']	['155 dollar']	0.0696933362217
+['5-dollar note', 'grocery']	['note']	0.714785971684
+['5-dollar note', 'grocery']	['note and 20-dollar 20-dollar note']	0.386489202011
+['5-dollar note', 'grocery']	['13 note']	0.494524508322
+['5-dollar note', 'grocery']	['20-dollar note']	0.492513883204
+['note', 'grocery']	['mr']	0.0724134552682
+['note', 'grocery']	['naidu']	0.152787447054
+['note', 'grocery']	['155 dollar']	0.30780312201
+['note', 'grocery']	['5-dollar note']	0.531928475319
+['note', 'grocery']	['note and 20-dollar 20-dollar note']	0.437354127686
+['note', 'grocery']	['13 note']	0.507785220248
+['note', 'grocery']	['20-dollar note']	0.531928475319
+['note and 20-dollar 20-dollar note', 'grocery']	['mr']	0.32146841893
+['note and 20-dollar 20-dollar note', 'grocery']	['naidu']	0.186565804821
+['note and 20-dollar 20-dollar note', 'grocery']	['155 dollar']	0.0915001233665
+['note and 20-dollar 20-dollar note', 'grocery']	['5-dollar note']	0.610537829218
+['note and 20-dollar 20-dollar note', 'grocery']	['note']	0.723409203758
+['note and 20-dollar 20-dollar note', 'grocery']	['13 note']	0.618975059554
+['note and 20-dollar 20-dollar note', 'grocery']	['20-dollar note']	0.610537829218
+['13 note', 'grocery']	['mr']	0.230793695676
+['13 note', 'grocery']	['naidu']	0.177800302008
+['13 note', 'grocery']	['155 dollar']	0.0827346205535
+['13 note', 'grocery']	['5-dollar note']	0.542633257095
+['13 note', 'grocery']	['note']	0.652672170911
+['13 note', 'grocery']	['note and 20-dollar 20-dollar note']	0.415471557389
+['13 note', 'grocery']	['20-dollar note']	0.542633257095
+['20-dollar note', 'grocery']	['mr']	0.149484959546
+['20-dollar note', 'grocery']	['naidu']	0.157474645642
+['20-dollar note', 'grocery']	['155 dollar']	0.0696933362217
+['20-dollar note', 'grocery']	['5-dollar note']	0.492513883204
+['20-dollar note', 'grocery']	['note']	0.714785971684
+['20-dollar note', 'grocery']	['note and 20-dollar 20-dollar note']	0.386489202011
+['20-dollar note', 'grocery']	['13 note']	0.494524508322
+['mr', '5-dollar note']	['naidu']	0.520318669345
+['mr', '5-dollar note']	['155 dollar']	0.0696933362217
+['mr', '5-dollar note']	['grocery']	0.150335709347
+['mr', '5-dollar note']	['note']	0.600728073882
+['mr', '5-dollar note']	['note and 20-dollar 20-dollar note']	0.401520100888
+['mr', '5-dollar note']	['13 note']	0.488722073866
+['mr', '5-dollar note']	['20-dollar note']	0.486711448748
+['naidu', '5-dollar note']	['mr']	0.520318669345
+['naidu', '5-dollar note']	['155 dollar']	0.0737139440912
+['naidu', '5-dollar note']	['grocery']	0.157442573044
+['naidu', '5-dollar note']	['note']	0.627433106466
+['naidu', '5-dollar note']	['note and 20-dollar 20-dollar note']	0.423160688857
+['naidu', '5-dollar note']	['13 note']	0.522652815483
+['naidu', '5-dollar note']	['20-dollar note']	0.540909642042
+['155 dollar', '5-dollar note']	['mr']	0.0690378963307
+['155 dollar', '5-dollar note']	['naidu']	0.0690699689286
+['155 dollar', '5-dollar note']	['grocery']	0.0667637182209
+['155 dollar', '5-dollar note']	['note']	0.604708772261
+['155 dollar', '5-dollar note']	['note and 20-dollar 20-dollar note']	0.444729316308
+['155 dollar', '5-dollar note']	['13 note']	0.544221442934
+['155 dollar', '5-dollar note']	['20-dollar note']	0.562478269493
+['grocery', '5-dollar note']	['mr']	0.149484959546
+['grocery', '5-dollar note']	['naidu']	0.157474645642
+['grocery', '5-dollar note']	['155 dollar']	0.0696933362217
+['grocery', '5-dollar note']	['note']	0.714785971684
+['grocery', '5-dollar note']	['note and 20-dollar 20-dollar note']	0.386489202011
+['grocery', '5-dollar note']	['13 note']	0.494524508322
+['grocery', '5-dollar note']	['20-dollar note']	0.492513883204
+['note', '5-dollar note']	['mr']	0.32260733415
+['note', '5-dollar note']	['naidu']	0.560125932533
+['note', '5-dollar note']	['155 dollar']	0.519718086662
+['note', '5-dollar note']	['grocery']	0.650944884134
+['note', '5-dollar note']	['note and 20-dollar 20-dollar note']	0.611724080771
+['note', '5-dollar note']	['13 note']	0.739278495958
+['note', '5-dollar note']	['20-dollar note']	0.648262277864
+['note and 20-dollar 20-dollar note', '5-dollar note']	['mr']	0.294018786889
+['note and 20-dollar 20-dollar note', '5-dollar note']	['naidu']	0.294018786889
+['note and 20-dollar 20-dollar note', '5-dollar note']	['155 dollar']	0.109369378475
+['note and 20-dollar 20-dollar note', '5-dollar note']	['grocery']	0.323958776169
+['note and 20-dollar 20-dollar note', '5-dollar note']	['note']	0.665588726402
+['note and 20-dollar 20-dollar note', '5-dollar note']	['13 note']	0.7508926317
+['note and 20-dollar 20-dollar note', '5-dollar note']	['20-dollar note']	0.68766748114
+['13 note', '5-dollar note']	['mr']	0.311787219466
+['13 note', '5-dollar note']	['naidu']	0.311787219466
+['13 note', '5-dollar note']	['155 dollar']	0.127137811052
+['13 note', '5-dollar note']	['grocery']	0.364374942731
+['13 note', '5-dollar note']	['note']	0.719561670967
+['13 note', '5-dollar note']	['note and 20-dollar 20-dollar note']	0.424833402852
+['13 note', '5-dollar note']	['20-dollar note']	0.640616739236
+['20-dollar note', '5-dollar note']	['mr']	0.362565392148
+['20-dollar note', '5-dollar note']	['naidu']	0.362565392148
+['20-dollar note', '5-dollar note']	['155 dollar']	0.177915983734
+['20-dollar note', '5-dollar note']	['grocery']	0.415153115413
+['20-dollar note', '5-dollar note']	['note']	0.633801127722
+['20-dollar note', '5-dollar note']	['note and 20-dollar 20-dollar note']	0.45142178193
+['20-dollar note', '5-dollar note']	['13 note']	0.633981735469
+['mr', 'note']	['naidu']	0.332703503269
+['mr', 'note']	['155 dollar']	0.30780312201
+['mr', 'note']	['grocery']	0.267323889323
+['mr', 'note']	['5-dollar note']	0.492802666678
+['mr', 'note']	['note and 20-dollar 20-dollar note']	0.436293348333
+['mr', 'note']	['13 note']	0.539969245035
+['mr', 'note']	['20-dollar note']	0.492802666678
+['naidu', 'note']	['mr']	0.27982471539
+['naidu', 'note']	['155 dollar']	0.283459449997
+['naidu', 'note']	['grocery']	0.447297577906
+['naidu', 'note']	['5-dollar note']	0.456860002045
+['naidu', 'note']	['note and 20-dollar 20-dollar note']	0.425991709342
+['naidu', 'note']	['13 note']	0.509086603153
+['naidu', 'note']	['20-dollar note']	0.456860002045
+['155 dollar', 'note']	['mr']	0.076153278264
+['155 dollar', 'note']	['naidu']	0.186120780387
+['155 dollar', 'note']	['grocery']	0.559261019459
+['155 dollar', 'note']	['5-dollar note']	0.467086066619
+['155 dollar', 'note']	['note and 20-dollar 20-dollar note']	0.436217773916
+['155 dollar', 'note']	['13 note']	0.509086603153
+['155 dollar', 'note']	['20-dollar note']	0.467086066619
+['grocery', 'note']	['mr']	0.0724134552682
+['grocery', 'note']	['naidu']	0.152787447054
+['grocery', 'note']	['155 dollar']	0.30780312201
+['grocery', 'note']	['5-dollar note']	0.531928475319
+['grocery', 'note']	['note and 20-dollar 20-dollar note']	0.437354127686
+['grocery', 'note']	['13 note']	0.507785220248
+['grocery', 'note']	['20-dollar note']	0.531928475319
+['5-dollar note', 'note']	['mr']	0.32260733415
+['5-dollar note', 'note']	['naidu']	0.560125932533
+['5-dollar note', 'note']	['155 dollar']	0.519718086662
+['5-dollar note', 'note']	['grocery']	0.650944884134
+['5-dollar note', 'note']	['note and 20-dollar 20-dollar note']	0.611724080771
+['5-dollar note', 'note']	['13 note']	0.739278495958
+['5-dollar note', 'note']	['20-dollar note']	0.648262277864
+['note and 20-dollar 20-dollar note', 'note']	['mr']	0.255702491325
+['note and 20-dollar 20-dollar note', 'note']	['naidu']	0.455180694083
+['note and 20-dollar 20-dollar note', 'note']	['155 dollar']	0.534277185439
+['note and 20-dollar 20-dollar note', 'note']	['grocery']	0.60677896425
+['note and 20-dollar 20-dollar note', 'note']	['5-dollar note']	0.559248061665
+['note and 20-dollar 20-dollar note', 'note']	['13 note']	0.690990205939
+['note and 20-dollar 20-dollar note', 'note']	['20-dollar note']	0.559248061665
+['13 note', 'note']	['mr']	0.264731227956
+['13 note', 'note']	['naidu']	0.535583159671
+['13 note', 'note']	['155 dollar']	0.486384753329
+['13 note', 'note']	['grocery']	0.612094309421
+['13 note', 'note']	['5-dollar note']	0.606867499627
+['13 note', 'note']	['note and 20-dollar 20-dollar note']	0.627782738022
+['13 note', 'note']	['20-dollar note']	0.606867499627
+['20-dollar note', 'note']	['mr']	0.32260733415
+['20-dollar note', 'note']	['naidu']	0.560125932533
+['20-dollar note', 'note']	['155 dollar']	0.519718086662
+['20-dollar note', 'note']	['grocery']	0.650944884134
+['20-dollar note', 'note']	['5-dollar note']	0.648262277864
+['20-dollar note', 'note']	['note and 20-dollar 20-dollar note']	0.611724080771
+['20-dollar note', 'note']	['13 note']	0.739278495958
+['mr', 'note and 20-dollar 20-dollar note']	['naidu']	0.629794380476
+['mr', 'note and 20-dollar 20-dollar note']	['155 dollar']	0.0915001233665
+['mr', 'note and 20-dollar 20-dollar note']	['grocery']	0.314654965045
+['mr', 'note and 20-dollar 20-dollar note']	['5-dollar note']	0.596871036898
+['mr', 'note and 20-dollar 20-dollar note']	['note']	0.641797464611
+['mr', 'note and 20-dollar 20-dollar note']	['13 note']	0.605308267234
+['mr', 'note and 20-dollar 20-dollar note']	['20-dollar note']	0.596871036898
+['naidu', 'note and 20-dollar 20-dollar note']	['mr']	0.629794380476
+['naidu', 'note and 20-dollar 20-dollar note']	['155 dollar']	0.0988755105172
+['naidu', 'note and 20-dollar 20-dollar note']	['grocery']	0.177788927366
+['naidu', 'note and 20-dollar 20-dollar note']	['5-dollar note']	0.622571119615
+['naidu', 'note and 20-dollar 20-dollar note']	['note']	0.649822155969
+['naidu', 'note and 20-dollar 20-dollar note']	['13 note']	0.630956863273
+['naidu', 'note and 20-dollar 20-dollar note']	['20-dollar note']	0.622571119615
+['155 dollar', 'note and 20-dollar 20-dollar note']	['mr']	0.0888261649569
+['155 dollar', 'note and 20-dollar 20-dollar note']	['naidu']	0.0976030424116
+['155 dollar', 'note and 20-dollar 20-dollar note']	['grocery']	0.0865519868472
+['155 dollar', 'note and 20-dollar 20-dollar note']	['5-dollar note']	0.622571119615
+['155 dollar', 'note and 20-dollar 20-dollar note']	['note']	0.649852237063
+['155 dollar', 'note and 20-dollar 20-dollar note']	['13 note']	0.630956863273
+['155 dollar', 'note and 20-dollar 20-dollar note']	['20-dollar note']	0.622571119615
+['grocery', 'note and 20-dollar 20-dollar note']	['mr']	0.32146841893
+['grocery', 'note and 20-dollar 20-dollar note']	['naidu']	0.186565804821
+['grocery', 'note and 20-dollar 20-dollar note']	['155 dollar']	0.0915001233665
+['grocery', 'note and 20-dollar 20-dollar note']	['5-dollar note']	0.610537829218
+['grocery', 'note and 20-dollar 20-dollar note']	['note']	0.723409203758
+['grocery', 'note and 20-dollar 20-dollar note']	['13 note']	0.618975059554
+['grocery', 'note and 20-dollar 20-dollar note']	['20-dollar note']	0.610537829218
+['5-dollar note', 'note and 20-dollar 20-dollar note']	['mr']	0.294018786889
+['5-dollar note', 'note and 20-dollar 20-dollar note']	['naidu']	0.294018786889
+['5-dollar note', 'note and 20-dollar 20-dollar note']	['155 dollar']	0.109369378475
+['5-dollar note', 'note and 20-dollar 20-dollar note']	['grocery']	0.323958776169
+['5-dollar note', 'note and 20-dollar 20-dollar note']	['note']	0.665588726402
+['5-dollar note', 'note and 20-dollar 20-dollar note']	['13 note']	0.7508926317
+['5-dollar note', 'note and 20-dollar 20-dollar note']	['20-dollar note']	0.68766748114
+['note', 'note and 20-dollar 20-dollar note']	['mr']	0.255702491325
+['note', 'note and 20-dollar 20-dollar note']	['naidu']	0.455180694083
+['note', 'note and 20-dollar 20-dollar note']	['155 dollar']	0.534277185439
+['note', 'note and 20-dollar 20-dollar note']	['grocery']	0.60677896425
+['note', 'note and 20-dollar 20-dollar note']	['5-dollar note']	0.559248061665
+['note', 'note and 20-dollar 20-dollar note']	['13 note']	0.690990205939
+['note', 'note and 20-dollar 20-dollar note']	['20-dollar note']	0.559248061665
+['13 note', 'note and 20-dollar 20-dollar note']	['mr']	0.314084527938
+['13 note', 'note and 20-dollar 20-dollar note']	['naidu']	0.314084527938
+['13 note', 'note and 20-dollar 20-dollar note']	['155 dollar']	0.127952343303
+['13 note', 'note and 20-dollar 20-dollar note']	['grocery']	0.335573267153
+['13 note', 'note and 20-dollar 20-dollar note']	['5-dollar note']	0.701228354762
+['13 note', 'note and 20-dollar 20-dollar note']	['note']	0.767051053671
+['13 note', 'note and 20-dollar 20-dollar note']	['20-dollar note']	0.701228354762
+['20-dollar note', 'note and 20-dollar 20-dollar note']	['mr']	0.294018786889
+['20-dollar note', 'note and 20-dollar 20-dollar note']	['naidu']	0.294018786889
+['20-dollar note', 'note and 20-dollar 20-dollar note']	['155 dollar']	0.109369378475
+['20-dollar note', 'note and 20-dollar 20-dollar note']	['grocery']	0.323958776169
+['20-dollar note', 'note and 20-dollar 20-dollar note']	['5-dollar note']	0.68766748114
+['20-dollar note', 'note and 20-dollar 20-dollar note']	['note']	0.665588726402
+['20-dollar note', 'note and 20-dollar 20-dollar note']	['13 note']	0.7508926317
+['mr', '13 note']	['naidu']	0.539883765824
+['mr', '13 note']	['155 dollar']	0.0827346205535
+['mr', '13 note']	['grocery']	0.226254419901
+['mr', '13 note']	['5-dollar note']	0.528966464774
+['mr', '13 note']	['note']	0.581445070479
+['mr', '13 note']	['note and 20-dollar 20-dollar note']	0.432612986675
+['mr', '13 note']	['20-dollar note']	0.528966464774
+['naidu', '13 note']	['mr']	0.539883765824
+['naidu', '13 note']	['155 dollar']	0.0901100077042
+['naidu', '13 note']	['grocery']	0.169023424553
+['naidu', '13 note']	['5-dollar note']	0.555532434772
+['naidu', '13 note']	['note']	0.574386432894
+['naidu', '13 note']	['note and 20-dollar 20-dollar note']	0.432612986675
+['naidu', '13 note']	['20-dollar note']	0.555532434772
+['155 dollar', '13 note']	['mr']	0.0800606621439
+['155 dollar', '13 note']	['naidu']	0.0888375395985
+['155 dollar', '13 note']	['grocery']	0.0777864840342
+['155 dollar', '13 note']	['5-dollar note']	0.577101062223
+['155 dollar', '13 note']	['note']	0.527363090795
+['155 dollar', '13 note']	['note and 20-dollar 20-dollar note']	0.432612986675
+['155 dollar', '13 note']	['20-dollar note']	0.577101062223
+['grocery', '13 note']	['mr']	0.230793695676
+['grocery', '13 note']	['naidu']	0.177800302008
+['grocery', '13 note']	['155 dollar']	0.0827346205535
+['grocery', '13 note']	['5-dollar note']	0.542633257095
+['grocery', '13 note']	['note']	0.652672170911
+['grocery', '13 note']	['note and 20-dollar 20-dollar note']	0.415471557389
+['grocery', '13 note']	['20-dollar note']	0.542633257095
+['5-dollar note', '13 note']	['mr']	0.311787219466
+['5-dollar note', '13 note']	['naidu']	0.311787219466
+['5-dollar note', '13 note']	['155 dollar']	0.127137811052
+['5-dollar note', '13 note']	['grocery']	0.364374942731
+['5-dollar note', '13 note']	['note']	0.719561670967
+['5-dollar note', '13 note']	['note and 20-dollar 20-dollar note']	0.424833402852
+['5-dollar note', '13 note']	['20-dollar note']	0.640616739236
+['note', '13 note']	['mr']	0.264731227956
+['note', '13 note']	['naidu']	0.535583159671
+['note', '13 note']	['155 dollar']	0.486384753329
+['note', '13 note']	['grocery']	0.612094309421
+['note', '13 note']	['5-dollar note']	0.606867499627
+['note', '13 note']	['note and 20-dollar 20-dollar note']	0.627782738022
+['note', '13 note']	['20-dollar note']	0.606867499627
+['note and 20-dollar 20-dollar note', '13 note']	['mr']	0.314084527938
+['note and 20-dollar 20-dollar note', '13 note']	['naidu']	0.314084527938
+['note and 20-dollar 20-dollar note', '13 note']	['155 dollar']	0.127952343303
+['note and 20-dollar 20-dollar note', '13 note']	['grocery']	0.335573267153
+['note and 20-dollar 20-dollar note', '13 note']	['5-dollar note']	0.701228354762
+['note and 20-dollar 20-dollar note', '13 note']	['note']	0.767051053671
+['note and 20-dollar 20-dollar note', '13 note']	['20-dollar note']	0.701228354762
+['20-dollar note', '13 note']	['mr']	0.311787219466
+['20-dollar note', '13 note']	['naidu']	0.311787219466
+['20-dollar note', '13 note']	['155 dollar']	0.127137811052
+['20-dollar note', '13 note']	['grocery']	0.364374942731
+['20-dollar note', '13 note']	['5-dollar note']	0.640616739236
+['20-dollar note', '13 note']	['note']	0.719561670967
+['20-dollar note', '13 note']	['note and 20-dollar 20-dollar note']	0.424833402852
+['mr', '20-dollar note']	['naidu']	0.520318669345
+['mr', '20-dollar note']	['155 dollar']	0.0696933362217
+['mr', '20-dollar note']	['grocery']	0.150335709347
+['mr', '20-dollar note']	['5-dollar note']	0.486711448748
+['mr', '20-dollar note']	['note']	0.600728073882
+['mr', '20-dollar note']	['note and 20-dollar 20-dollar note']	0.401520100888
+['mr', '20-dollar note']	['13 note']	0.488722073866
+['naidu', '20-dollar note']	['mr']	0.520318669345
+['naidu', '20-dollar note']	['155 dollar']	0.0737139440912
+['naidu', '20-dollar note']	['grocery']	0.157442573044
+['naidu', '20-dollar note']	['5-dollar note']	0.540909642042
+['naidu', '20-dollar note']	['note']	0.627433106466
+['naidu', '20-dollar note']	['note and 20-dollar 20-dollar note']	0.423160688857
+['naidu', '20-dollar note']	['13 note']	0.522652815483
+['155 dollar', '20-dollar note']	['mr']	0.0690378963307
+['155 dollar', '20-dollar note']	['naidu']	0.0690699689286
+['155 dollar', '20-dollar note']	['grocery']	0.0667637182209
+['155 dollar', '20-dollar note']	['5-dollar note']	0.562478269493
+['155 dollar', '20-dollar note']	['note']	0.604708772261
+['155 dollar', '20-dollar note']	['note and 20-dollar 20-dollar note']	0.444729316308
+['155 dollar', '20-dollar note']	['13 note']	0.544221442934
+['grocery', '20-dollar note']	['mr']	0.149484959546
+['grocery', '20-dollar note']	['naidu']	0.157474645642
+['grocery', '20-dollar note']	['155 dollar']	0.0696933362217
+['grocery', '20-dollar note']	['5-dollar note']	0.492513883204
+['grocery', '20-dollar note']	['note']	0.714785971684
+['grocery', '20-dollar note']	['note and 20-dollar 20-dollar note']	0.386489202011
+['grocery', '20-dollar note']	['13 note']	0.494524508322
+['5-dollar note', '20-dollar note']	['mr']	0.362565392148
+['5-dollar note', '20-dollar note']	['naidu']	0.362565392148
+['5-dollar note', '20-dollar note']	['155 dollar']	0.177915983734
+['5-dollar note', '20-dollar note']	['grocery']	0.415153115413
+['5-dollar note', '20-dollar note']	['note']	0.633801127722
+['5-dollar note', '20-dollar note']	['note and 20-dollar 20-dollar note']	0.45142178193
+['5-dollar note', '20-dollar note']	['13 note']	0.633981735469
+['note', '20-dollar note']	['mr']	0.32260733415
+['note', '20-dollar note']	['naidu']	0.560125932533
+['note', '20-dollar note']	['155 dollar']	0.519718086662
+['note', '20-dollar note']	['grocery']	0.650944884134
+['note', '20-dollar note']	['5-dollar note']	0.648262277864
+['note', '20-dollar note']	['note and 20-dollar 20-dollar note']	0.611724080771
+['note', '20-dollar note']	['13 note']	0.739278495958
+['note and 20-dollar 20-dollar note', '20-dollar note']	['mr']	0.294018786889
+['note and 20-dollar 20-dollar note', '20-dollar note']	['naidu']	0.294018786889
+['note and 20-dollar 20-dollar note', '20-dollar note']	['155 dollar']	0.109369378475
+['note and 20-dollar 20-dollar note', '20-dollar note']	['grocery']	0.323958776169
+['note and 20-dollar 20-dollar note', '20-dollar note']	['5-dollar note']	0.68766748114
+['note and 20-dollar 20-dollar note', '20-dollar note']	['note']	0.665588726402
+['note and 20-dollar 20-dollar note', '20-dollar note']	['13 note']	0.7508926317
+['13 note', '20-dollar note']	['mr']	0.311787219466
+['13 note', '20-dollar note']	['naidu']	0.311787219466
+['13 note', '20-dollar note']	['155 dollar']	0.127137811052
+['13 note', '20-dollar note']	['grocery']	0.364374942731
+['13 note', '20-dollar note']	['5-dollar note']	0.640616739236
+['13 note', '20-dollar note']	['note']	0.719561670967
+['13 note', '20-dollar note']	['note and 20-dollar 20-dollar note']	0.424833402852

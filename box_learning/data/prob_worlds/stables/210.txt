@@ -1,0 +1,14 @@
+1
+[['moviegoer', '7', '-', '-', '-', 'dollar', ''], ['adult', 'x1', '-', 'dollar', '9.5', '-', '-'], ['child', 'x2', '-', 'dollar', '6.5', '-', '-']]
+-1
+[['moviegoer', '7', '-', 'child', '-', 'dollar', ''], ['adult', 'x1', '-', 'dollar', '9.5', '-', '-'], ['child', '', '-', 'dollar', '7', '-', 'moviegoer']]
+-1
+[['moviegoer', '7', '-', '-', '-', 'dollar', ''], ['adult', 'x1', '-', 'dollar', '9.5', '-', '-'], ['child', 'moviegoer', '7', 'dollar', '', '-', '-']]
+-1
+[['moviegoer', 'x2', '-', '-', '-', 'dollar', ''], ['adult', 'x1', '-', 'dollar', '9.5', '-', '-'], ['child', 'x2', '-', 'dollar', 'moviegoer', '-', '7']]
+-1
+[['x2', '7', '-', '-', 'child', 'dollar', ''], ['adult', 'x1', '-', 'dollar', '9.5', '-', '-'], ['child', 'x2', '-', 'dollar', '7', '-', '-']]
+-1
+[['moviegoer', '7', '-', 'x2', '-', 'dollar', ''], ['adult', 'x1', '-', 'dollar', '9.5', '-', '-'], ['7', 'x2', 'moviegoer', '', '6.5', 'dollar', '-']]
+-1
+[['moviegoer', '7', '-', '-', 'child', 'dollar', ''], ['adult', 'x1', '-', 'dollar', '9.5', '-', '-'], ['moviegoer', 'x2', '-', 'dollar', '7', '-', '-']]

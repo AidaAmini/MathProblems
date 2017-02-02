@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (S
+      (NP (NP (CD One)) (VP (VBN canned) (NP (NN juice) (NN drink))))
+      (VP (VBZ is) (NP (ADJP (CD 30) (NN %)) (NN orange) (NN juice))))
+    (: ;)
+    (S
+      (NP (DT another))
+      (VP (VBZ is) (NP (ADJP (CD 5) (NN %)) (NN orange) (NN juice))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS liters))
+      (PP (IN of) (NP (DT each))))
+    (SQ
+      (VP
+        (MD should)
+        (VP
+          (VB be)
+          (VP
+            (VBN mixed)
+            (ADVP (RB together))
+            (SBAR
+              (IN in)
+              (NN order)
+              (S
+                (VP
+                  (TO to)
+                  (VP
+                    (VB get)
+                    (NP
+                      (NP (CD 25) (NNS liters))
+                      (SBAR
+                        (WHNP (WDT that))
+                        (S
+                          (VP
+                            (VBZ is)
+                            (NP
+                              (ADJP (CD 10) (NN %))
+                              (NN orange)
+                              (NN juice))))))))))))))
+    (. ?)))

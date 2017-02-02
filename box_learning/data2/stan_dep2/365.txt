@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP (NNP Student) (NNP Council))
+    (VP
+      (VBZ wants)
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB rent)
+            (NP (DT a) (NN banquet) (NN hall))
+            (PP (IN for) (NP (DT the) (NN prom)))))))
+    (. .)))
+(ROOT
+  (NP
+    (NP (NP (NNP Caesar) (POS 's)) (NNS charges))
+    (NP
+      (NP (CD 800) (NNS dollars))
+      (SBAR
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB rent)
+              (NP
+                (NP (DT the) (NN room))
+                (CC and)
+                (NP (CD 30) (NNS dollars)))
+              (PP (IN for) (NP (DT each) (NN meal))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Venus) (NNP Hall))
+    (VP
+      (VBZ charges)
+      (NP (CD 500) (NNS dollars))
+      (S
+        (VP
+          (TO to)
+          (VP
+            (VB rent)
+            (NP
+              (NP (DT the) (NN room))
+              (CC and)
+              (NP (CD 35) (NNS dollars)))
+            (PP (IN for) (NP (DT each) (NN meal)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS guests))
+    (SQ
+      (VP
+        (MD must)
+        (VP
+          (VB attend)
+          (NP
+            (NP (DT the) (NN prom))
+            (PP
+              (IN for)
+              (NP
+                (NP (DT the) (NNS costs))
+                (PP (IN of) (NP (DT the) (CD two) (NNS halls))))))
+          (S (VP (TO to) (VP (VB be) (NP (DT the) (JJ same))))))))
+    (. ?)))

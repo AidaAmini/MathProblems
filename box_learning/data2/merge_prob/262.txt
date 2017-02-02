@@ -1,0 +1,230 @@
+['bank teller', '54 5-dollar', '20-dollar bill', 'cash drawer', 'value', 'bill', '5 dollar bill']
+['bank teller']	['54 5-dollar']	0.0901100077042
+['bank teller']	['20-dollar bill']	0.0901100077042
+['bank teller']	['cash drawer']	0.0885827222101
+['bank teller']	['value']	0.0800606621439
+['bank teller']	['bill']	0.079730351659
+['bank teller']	['5 dollar bill']	0.0941266761548
+['54 5-dollar']	['20-dollar bill']	0.0901100077042
+['54 5-dollar']	['cash drawer']	0.0901100077042
+['54 5-dollar']	['value']	0.0888375395985
+['54 5-dollar']	['bill']	0.0831172035382
+['54 5-dollar']	['5 dollar bill']	0.0941266761548
+['20-dollar bill']	['cash drawer']	0.0901100077042
+['20-dollar bill']	['value']	0.133930953416
+['20-dollar bill']	['5 dollar bill']	0.565570654525
+['cash drawer']	['value']	0.0764053905195
+['cash drawer']	['bill']	0.0741073489195
+['cash drawer']	['5 dollar bill']	0.0941266761548
+['value']	['bill']	0.108745508027
+['value']	['5 dollar bill']	0.190684579719
+['54 5-dollar', 'bank teller']	['20-dollar bill']	0.0901100077042
+['54 5-dollar', 'bank teller']	['cash drawer']	0.0833805889219
+['54 5-dollar', 'bank teller']	['value']	0.0800606621439
+['54 5-dollar', 'bank teller']	['bill']	0.079730351659
+['54 5-dollar', 'bank teller']	['5 dollar bill']	0.0941266761548
+['20-dollar bill', 'bank teller']	['54 5-dollar']	0.0901100077042
+['20-dollar bill', 'bank teller']	['cash drawer']	0.0833805889219
+['20-dollar bill', 'bank teller']	['value']	0.236270239319
+['20-dollar bill', 'bank teller']	['bill']	0.70086087481
+['20-dollar bill', 'bank teller']	['5 dollar bill']	0.632572837849
+['cash drawer', 'bank teller']	['54 5-dollar']	0.0901100077042
+['cash drawer', 'bank teller']	['20-dollar bill']	0.0901100077042
+['cash drawer', 'bank teller']	['value']	0.0777864840342
+['cash drawer', 'bank teller']	['bill']	0.0741073489195
+['cash drawer', 'bank teller']	['5 dollar bill']	0.0941266761548
+['value', 'bank teller']	['54 5-dollar']	0.0901100077042
+['value', 'bank teller']	['20-dollar bill']	0.199270042535
+['value', 'bank teller']	['cash drawer']	0.0800317642921
+['value', 'bank teller']	['bill']	0.169824103501
+['value', 'bank teller']	['5 dollar bill']	0.209661000327
+['bill', 'bank teller']	['54 5-dollar']	0.0737139440912
+['bill', 'bank teller']	['20-dollar bill']	0.659403281276
+['bill', 'bank teller']	['cash drawer']	0.0745893835607
+['bill', 'bank teller']	['value']	0.150335709347
+['bill', 'bank teller']	['5 dollar bill']	0.655632174079
+['5 dollar bill', 'bank teller']	['54 5-dollar']	0.15961386663
+['5 dollar bill', 'bank teller']	['20-dollar bill']	0.653642048458
+['5 dollar bill', 'bank teller']	['cash drawer']	0.149535623218
+['5 dollar bill', 'bank teller']	['value']	0.314538083932
+['5 dollar bill', 'bank teller']	['bill']	0.773589221277
+['bank teller', '54 5-dollar']	['20-dollar bill']	0.0901100077042
+['bank teller', '54 5-dollar']	['cash drawer']	0.0833805889219
+['bank teller', '54 5-dollar']	['value']	0.0800606621439
+['bank teller', '54 5-dollar']	['bill']	0.079730351659
+['bank teller', '54 5-dollar']	['5 dollar bill']	0.0941266761548
+['20-dollar bill', '54 5-dollar']	['bank teller']	0.0901100077042
+['20-dollar bill', '54 5-dollar']	['cash drawer']	0.0901100077042
+['20-dollar bill', '54 5-dollar']	['value']	0.225413985451
+['20-dollar bill', '54 5-dollar']	['bill']	0.685469335656
+['20-dollar bill', '54 5-dollar']	['5 dollar bill']	0.632572837849
+['cash drawer', '54 5-dollar']	['bank teller']	0.0833805889219
+['cash drawer', '54 5-dollar']	['20-dollar bill']	0.0901100077042
+['cash drawer', '54 5-dollar']	['value']	0.0777864840342
+['cash drawer', '54 5-dollar']	['bill']	0.0774561735493
+['cash drawer', '54 5-dollar']	['5 dollar bill']	0.0941266761548
+['value', '54 5-dollar']	['bank teller']	0.0827346205535
+['value', '54 5-dollar']	['20-dollar bill']	0.199270042535
+['value', '54 5-dollar']	['cash drawer']	0.0827346205535
+['value', '54 5-dollar']	['bill']	0.1689733537
+['value', '54 5-dollar']	['5 dollar bill']	0.209661000327
+['bill', '54 5-dollar']	['bank teller']	0.0696933362217
+['bill', '54 5-dollar']	['20-dollar bill']	0.659403281276
+['bill', '54 5-dollar']	['cash drawer']	0.0703393045902
+['bill', '54 5-dollar']	['value']	0.149484959546
+['bill', '54 5-dollar']	['5 dollar bill']	0.655632174079
+['5 dollar bill', '54 5-dollar']	['bank teller']	0.152238479479
+['5 dollar bill', '54 5-dollar']	['20-dollar bill']	0.653642048458
+['5 dollar bill', '54 5-dollar']	['cash drawer']	0.152238479479
+['5 dollar bill', '54 5-dollar']	['value']	0.273945362827
+['5 dollar bill', '54 5-dollar']	['bill']	0.758197682123
+['bank teller', '20-dollar bill']	['54 5-dollar']	0.0901100077042
+['bank teller', '20-dollar bill']	['cash drawer']	0.0833805889219
+['bank teller', '20-dollar bill']	['value']	0.236270239319
+['bank teller', '20-dollar bill']	['bill']	0.70086087481
+['bank teller', '20-dollar bill']	['5 dollar bill']	0.632572837849
+['54 5-dollar', '20-dollar bill']	['bank teller']	0.0901100077042
+['54 5-dollar', '20-dollar bill']	['cash drawer']	0.0901100077042
+['54 5-dollar', '20-dollar bill']	['value']	0.225413985451
+['54 5-dollar', '20-dollar bill']	['bill']	0.685469335656
+['54 5-dollar', '20-dollar bill']	['5 dollar bill']	0.632572837849
+['cash drawer', '20-dollar bill']	['bank teller']	0.0833805889219
+['cash drawer', '20-dollar bill']	['54 5-dollar']	0.0901100077042
+['cash drawer', '20-dollar bill']	['value']	0.229348801121
+['cash drawer', '20-dollar bill']	['bill']	0.698332436818
+['cash drawer', '20-dollar bill']	['5 dollar bill']	0.632572837849
+['value', '20-dollar bill']	['bank teller']	0.0827346205535
+['value', '20-dollar bill']	['54 5-dollar']	0.0901100077042
+['value', '20-dollar bill']	['cash drawer']	0.0827346205535
+['value', '20-dollar bill']	['bill']	0.714550457738
+['value', '20-dollar bill']	['5 dollar bill']	0.614516667877
+['bill', '20-dollar bill']	['bank teller']	0.144528281371
+['bill', '20-dollar bill']	['54 5-dollar']	0.139259023173
+['bill', '20-dollar bill']	['cash drawer']	0.21925775957
+['bill', '20-dollar bill']	['value']	0.613875371953
+['bill', '20-dollar bill']	['5 dollar bill']	0.733119489644
+['5 dollar bill', '20-dollar bill']	['bank teller']	0.203019945245
+['5 dollar bill', '20-dollar bill']	['54 5-dollar']	0.188690699416
+['5 dollar bill', '20-dollar bill']	['cash drawer']	0.203019945245
+['5 dollar bill', '20-dollar bill']	['value']	0.503922123026
+['5 dollar bill', '20-dollar bill']	['bill']	0.704920313486
+['bank teller', 'cash drawer']	['54 5-dollar']	0.0901100077042
+['bank teller', 'cash drawer']	['20-dollar bill']	0.0901100077042
+['bank teller', 'cash drawer']	['value']	0.0777864840342
+['bank teller', 'cash drawer']	['bill']	0.0741073489195
+['bank teller', 'cash drawer']	['5 dollar bill']	0.0941266761548
+['54 5-dollar', 'cash drawer']	['bank teller']	0.0833805889219
+['54 5-dollar', 'cash drawer']	['20-dollar bill']	0.0901100077042
+['54 5-dollar', 'cash drawer']	['value']	0.0777864840342
+['54 5-dollar', 'cash drawer']	['bill']	0.0774561735493
+['54 5-dollar', 'cash drawer']	['5 dollar bill']	0.0941266761548
+['20-dollar bill', 'cash drawer']	['bank teller']	0.0833805889219
+['20-dollar bill', 'cash drawer']	['54 5-dollar']	0.0901100077042
+['20-dollar bill', 'cash drawer']	['value']	0.229348801121
+['20-dollar bill', 'cash drawer']	['bill']	0.698332436818
+['20-dollar bill', 'cash drawer']	['5 dollar bill']	0.632572837849
+['value', 'cash drawer']	['bank teller']	0.0800317642921
+['value', 'cash drawer']	['54 5-dollar']	0.0901100077042
+['value', 'cash drawer']	['20-dollar bill']	0.199270042535
+['value', 'cash drawer']	['bill']	0.185351683365
+['value', 'cash drawer']	['5 dollar bill']	0.209661000327
+['bill', 'cash drawer']	['bank teller']	0.0669904799604
+['bill', 'cash drawer']	['54 5-dollar']	0.0737139440912
+['bill', 'cash drawer']	['20-dollar bill']	0.659403281276
+['bill', 'cash drawer']	['value']	0.148954615833
+['bill', 'cash drawer']	['5 dollar bill']	0.655632174079
+['5 dollar bill', 'cash drawer']	['bank teller']	0.149535623218
+['5 dollar bill', 'cash drawer']	['54 5-dollar']	0.15961386663
+['5 dollar bill', 'cash drawer']	['20-dollar bill']	0.653642048458
+['5 dollar bill', 'cash drawer']	['value']	0.307616645733
+['5 dollar bill', 'cash drawer']	['bill']	0.773880617508
+['bank teller', 'value']	['54 5-dollar']	0.0901100077042
+['bank teller', 'value']	['20-dollar bill']	0.199270042535
+['bank teller', 'value']	['cash drawer']	0.0800317642921
+['bank teller', 'value']	['bill']	0.169824103501
+['bank teller', 'value']	['5 dollar bill']	0.209661000327
+['54 5-dollar', 'value']	['bank teller']	0.0827346205535
+['54 5-dollar', 'value']	['20-dollar bill']	0.199270042535
+['54 5-dollar', 'value']	['cash drawer']	0.0827346205535
+['54 5-dollar', 'value']	['bill']	0.1689733537
+['54 5-dollar', 'value']	['5 dollar bill']	0.209661000327
+['20-dollar bill', 'value']	['bank teller']	0.0827346205535
+['20-dollar bill', 'value']	['54 5-dollar']	0.0901100077042
+['20-dollar bill', 'value']	['cash drawer']	0.0827346205535
+['20-dollar bill', 'value']	['bill']	0.714550457738
+['20-dollar bill', 'value']	['5 dollar bill']	0.614516667877
+['cash drawer', 'value']	['bank teller']	0.0800317642921
+['cash drawer', 'value']	['54 5-dollar']	0.0901100077042
+['cash drawer', 'value']	['20-dollar bill']	0.199270042535
+['cash drawer', 'value']	['bill']	0.185351683365
+['cash drawer', 'value']	['5 dollar bill']	0.209661000327
+['bill', 'value']	['bank teller']	0.0696933362217
+['bill', 'value']	['54 5-dollar']	0.0737139440912
+['bill', 'value']	['20-dollar bill']	0.739522119332
+['bill', 'value']	['cash drawer']	0.0669904799604
+['bill', 'value']	['5 dollar bill']	0.735751012135
+['5 dollar bill', 'value']	['bank teller']	0.0827346205535
+['5 dollar bill', 'value']	['54 5-dollar']	0.0901100077042
+['5 dollar bill', 'value']	['20-dollar bill']	0.578891755681
+['5 dollar bill', 'value']	['cash drawer']	0.0827346205535
+['5 dollar bill', 'value']	['bill']	0.690671108196
+['bank teller', 'bill']	['54 5-dollar']	0.0737139440912
+['bank teller', 'bill']	['20-dollar bill']	0.659403281276
+['bank teller', 'bill']	['cash drawer']	0.0745893835607
+['bank teller', 'bill']	['value']	0.150335709347
+['bank teller', 'bill']	['5 dollar bill']	0.655632174079
+['54 5-dollar', 'bill']	['bank teller']	0.0696933362217
+['54 5-dollar', 'bill']	['20-dollar bill']	0.659403281276
+['54 5-dollar', 'bill']	['cash drawer']	0.0703393045902
+['54 5-dollar', 'bill']	['value']	0.149484959546
+['54 5-dollar', 'bill']	['5 dollar bill']	0.655632174079
+['20-dollar bill', 'bill']	['bank teller']	0.144528281371
+['20-dollar bill', 'bill']	['54 5-dollar']	0.139259023173
+['20-dollar bill', 'bill']	['cash drawer']	0.21925775957
+['20-dollar bill', 'bill']	['value']	0.613875371953
+['20-dollar bill', 'bill']	['5 dollar bill']	0.733119489644
+['cash drawer', 'bill']	['bank teller']	0.0669904799604
+['cash drawer', 'bill']	['54 5-dollar']	0.0737139440912
+['cash drawer', 'bill']	['20-dollar bill']	0.659403281276
+['cash drawer', 'bill']	['value']	0.148954615833
+['cash drawer', 'bill']	['5 dollar bill']	0.655632174079
+['value', 'bill']	['bank teller']	0.0696933362217
+['value', 'bill']	['54 5-dollar']	0.0737139440912
+['value', 'bill']	['20-dollar bill']	0.739522119332
+['value', 'bill']	['cash drawer']	0.0669904799604
+['value', 'bill']	['5 dollar bill']	0.735751012135
+['5 dollar bill', 'bill']	['bank teller']	0.144528281371
+['5 dollar bill', 'bill']	['54 5-dollar']	0.127137811052
+['5 dollar bill', 'bill']	['20-dollar bill']	0.685966954332
+['5 dollar bill', 'bill']	['cash drawer']	0.223683215744
+['5 dollar bill', 'bill']	['value']	0.613875371953
+['bank teller', '5 dollar bill']	['54 5-dollar']	0.15961386663
+['bank teller', '5 dollar bill']	['20-dollar bill']	0.653642048458
+['bank teller', '5 dollar bill']	['cash drawer']	0.149535623218
+['bank teller', '5 dollar bill']	['value']	0.314538083932
+['bank teller', '5 dollar bill']	['bill']	0.773589221277
+['54 5-dollar', '5 dollar bill']	['bank teller']	0.152238479479
+['54 5-dollar', '5 dollar bill']	['20-dollar bill']	0.653642048458
+['54 5-dollar', '5 dollar bill']	['cash drawer']	0.152238479479
+['54 5-dollar', '5 dollar bill']	['value']	0.273945362827
+['54 5-dollar', '5 dollar bill']	['bill']	0.758197682123
+['20-dollar bill', '5 dollar bill']	['bank teller']	0.203019945245
+['20-dollar bill', '5 dollar bill']	['54 5-dollar']	0.188690699416
+['20-dollar bill', '5 dollar bill']	['cash drawer']	0.203019945245
+['20-dollar bill', '5 dollar bill']	['value']	0.503922123026
+['20-dollar bill', '5 dollar bill']	['bill']	0.704920313486
+['cash drawer', '5 dollar bill']	['bank teller']	0.149535623218
+['cash drawer', '5 dollar bill']	['54 5-dollar']	0.15961386663
+['cash drawer', '5 dollar bill']	['20-dollar bill']	0.653642048458
+['cash drawer', '5 dollar bill']	['value']	0.307616645733
+['cash drawer', '5 dollar bill']	['bill']	0.773880617508
+['value', '5 dollar bill']	['bank teller']	0.0827346205535
+['value', '5 dollar bill']	['54 5-dollar']	0.0901100077042
+['value', '5 dollar bill']	['20-dollar bill']	0.578891755681
+['value', '5 dollar bill']	['cash drawer']	0.0827346205535
+['value', '5 dollar bill']	['bill']	0.690671108196
+['bill', '5 dollar bill']	['bank teller']	0.144528281371
+['bill', '5 dollar bill']	['54 5-dollar']	0.127137811052
+['bill', '5 dollar bill']	['20-dollar bill']	0.685966954332
+['bill', '5 dollar bill']	['cash drawer']	0.223683215744
+['bill', '5 dollar bill']	['value']	0.613875371953

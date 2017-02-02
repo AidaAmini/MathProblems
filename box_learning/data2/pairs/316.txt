@@ -1,0 +1,21 @@
+grain-storage warehouse	warehouse
+30 bin	bin
+20 ton	15 ton
+20 ton	510 ton
+20 ton	ton
+15 ton	510 ton
+15 ton	ton
+510 ton	ton
+grain	grain-storage warehouse
+grain	bin
+grain	ton
+rest	grain-storage warehouse
+rest	bin
+rest	ton
+type	grain-storage warehouse
+type	bin
+type	ton
+capacity	grain-storage warehouse
+capacity	bin
+capacity	ton
+30 bin	15 ton

@@ -1,0 +1,14 @@
+give ARG0 A carpenter
+give ARG1 an estimate of 980 dollars to build a cover over a patio
+build ARG1 a cover over a patio
+
+need ARG0 he
+expect ARG0 he
+expect ARG1 to need 560 dollars in materials
+need TMP in materials
+need ARG1 560 dollars
+
+take ARG1 hours
+take ARG0 the job
+take MOD will the job
+

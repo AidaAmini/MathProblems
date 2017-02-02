@@ -1,0 +1,69 @@
+['2 similar table', '6 similar chair', 'table', '500 dollar', 'chair']
+['2 similar table']	['2 similar table']	0.20976700703
+['2 similar table']	['2 similar table']	0.105879631655
+['2 similar table']	['2 similar table']	0.0705114218414
+['6 similar chair']	['6 similar chair']	0.0705114218414
+['6 similar chair']	['6 similar chair']	0.105879631655
+['table']	['table']	0.0705541226735
+['table']	['table']	0.115367871295
+['500 dollar']	['500 dollar']	0.0578738124781
+['6 similar chair', '2 similar table']	['6 similar chair', '2 similar table']	0.0408593758251
+['6 similar chair', '2 similar table']	['6 similar chair', '2 similar table']	0.115388233272
+['6 similar chair', '2 similar table']	['6 similar chair', '2 similar table']	0.0484400411726
+['table', '2 similar table']	['table', '2 similar table']	0.0780568906282
+['table', '2 similar table']	['table', '2 similar table']	0.0976810948552
+['table', '2 similar table']	['table', '2 similar table']	0.0756525492419
+['500 dollar', '2 similar table']	['500 dollar', '2 similar table']	0.151207090025
+['500 dollar', '2 similar table']	['500 dollar', '2 similar table']	0.0269377702291
+['500 dollar', '2 similar table']	['500 dollar', '2 similar table']	0.0703538179096
+['chair', '2 similar table']	['chair', '2 similar table']	0.0889056929815
+['chair', '2 similar table']	['chair', '2 similar table']	0.0519726084077
+['chair', '2 similar table']	['chair', '2 similar table']	0.0696871666564
+['2 similar table', '6 similar chair']	['2 similar table', '6 similar chair']	0.0408593758251
+['2 similar table', '6 similar chair']	['2 similar table', '6 similar chair']	0.115388233272
+['2 similar table', '6 similar chair']	['2 similar table', '6 similar chair']	0.0484400411726
+['table', '6 similar chair']	['table', '6 similar chair']	0.0813719449019
+['table', '6 similar chair']	['table', '6 similar chair']	0.0696871666564
+['table', '6 similar chair']	['table', '6 similar chair']	0.0314938314202
+['500 dollar', '6 similar chair']	['500 dollar', '6 similar chair']	0.151207090025
+['500 dollar', '6 similar chair']	['500 dollar', '6 similar chair']	0.0703538179096
+['500 dollar', '6 similar chair']	['500 dollar', '6 similar chair']	0.0317680559635
+['chair', '6 similar chair']	['chair', '6 similar chair']	0.0780568906282
+['chair', '6 similar chair']	['chair', '6 similar chair']	0.0756525492419
+['chair', '6 similar chair']	['chair', '6 similar chair']	0.0805267917747
+['2 similar table', 'table']	['2 similar table', 'table']	0.0780568906282
+['2 similar table', 'table']	['2 similar table', 'table']	0.0976810948552
+['2 similar table', 'table']	['2 similar table', 'table']	0.0756525492419
+['6 similar chair', 'table']	['6 similar chair', 'table']	0.0813719449019
+['6 similar chair', 'table']	['6 similar chair', 'table']	0.0696871666564
+['6 similar chair', 'table']	['6 similar chair', 'table']	0.0314938314202
+['500 dollar', 'table']	['500 dollar', 'table']	0.0719428779787
+['500 dollar', 'table']	['500 dollar', 'table']	0.0618896588425
+['500 dollar', 'table']	['500 dollar', 'table']	0.0352221952439
+['chair', 'table']	['chair', 'table']	0.114003910103
+['chair', 'table']	['chair', 'table']	0.119467804118
+['chair', 'table']	['chair', 'table']	0.0821846037292
+['2 similar table', '500 dollar']	['2 similar table', '500 dollar']	0.151207090025
+['2 similar table', '500 dollar']	['2 similar table', '500 dollar']	0.0269377702291
+['2 similar table', '500 dollar']	['2 similar table', '500 dollar']	0.0703538179096
+['6 similar chair', '500 dollar']	['6 similar chair', '500 dollar']	0.151207090025
+['6 similar chair', '500 dollar']	['6 similar chair', '500 dollar']	0.0703538179096
+['6 similar chair', '500 dollar']	['6 similar chair', '500 dollar']	0.0317680559635
+['table', '500 dollar']	['table', '500 dollar']	0.0719428779787
+['table', '500 dollar']	['table', '500 dollar']	0.0618896588425
+['table', '500 dollar']	['table', '500 dollar']	0.0352221952439
+['chair', '500 dollar']	['chair', '500 dollar']	0.0618896588425
+['chair', '500 dollar']	['chair', '500 dollar']	0.0794766260583
+['chair', '500 dollar']	['chair', '500 dollar']	0.0352221952439
+['2 similar table', 'chair']	['2 similar table', 'chair']	0.0889056929815
+['2 similar table', 'chair']	['2 similar table', 'chair']	0.0519726084077
+['2 similar table', 'chair']	['2 similar table', 'chair']	0.0696871666564
+['6 similar chair', 'chair']	['6 similar chair', 'chair']	0.0780568906282
+['6 similar chair', 'chair']	['6 similar chair', 'chair']	0.0756525492419
+['6 similar chair', 'chair']	['6 similar chair', 'chair']	0.0805267917747
+['table', 'chair']	['table', 'chair']	0.114003910103
+['table', 'chair']	['table', 'chair']	0.119467804118
+['table', 'chair']	['table', 'chair']	0.0821846037292
+['500 dollar', 'chair']	['500 dollar', 'chair']	0.0618896588425
+['500 dollar', 'chair']	['500 dollar', 'chair']	0.0794766260583
+['500 dollar', 'chair']	['500 dollar', 'chair']	0.0352221952439

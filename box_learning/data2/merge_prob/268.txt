@@ -1,0 +1,762 @@
+['2 part-time job', '8.00 dollar', 'hour', 'college library', '15.00 dollar and hour', 'construction work', '25 hour', 'week', 'dollar', '300 dollar']
+['2 part-time job']	['8.00 dollar']	0.0988755105172
+['2 part-time job']	['hour']	0.0138938978606
+['2 part-time job']	['college library']	0.0915001233665
+['2 part-time job']	['15.00 dollar and hour']	0.107526100904
+['2 part-time job']	['construction work']	0.0915001233665
+['2 part-time job']	['25 hour']	0.125410729912
+['2 part-time job']	['week']	0.0175454252276
+['2 part-time job']	['dollar']	0.015547544145
+['2 part-time job']	['300 dollar']	0.0988755105172
+['8.00 dollar']	['hour']	0.00424649792755
+['8.00 dollar']	['college library']	0.0901100077042
+['8.00 dollar']	['15.00 dollar and hour']	0.0941266761548
+['8.00 dollar']	['construction work']	0.0901100077042
+['8.00 dollar']	['25 hour']	0.0901100077042
+['8.00 dollar']	['week']	0.0143499502517
+['8.00 dollar']	['300 dollar']	0.643440930505
+['hour']	['college library']	0.00424565569655
+['hour']	['construction work']	0.00424565569655
+['hour']	['week']	0.00848197012891
+['hour']	['dollar']	0.00848197012891
+['hour']	['300 dollar']	0.00424565569655
+['college library']	['15.00 dollar and hour']	0.0941266761548
+['college library']	['construction work']	0.387929093691
+['college library']	['25 hour']	0.0827346205535
+['college library']	['week']	0.0143499502517
+['college library']	['dollar']	0.0143499502517
+['college library']	['300 dollar']	0.0901100077042
+['15.00 dollar and hour']	['construction work']	0.0988755105172
+['15.00 dollar and hour']	['25 hour']	0.474767089372
+['15.00 dollar and hour']	['week']	0.0728730033854
+['15.00 dollar and hour']	['dollar']	0.107725313272
+['15.00 dollar and hour']	['300 dollar']	0.0988755105172
+['construction work']	['25 hour']	0.0827346205535
+['construction work']	['week']	0.0179192712897
+['construction work']	['dollar']	0.0179192712897
+['construction work']	['300 dollar']	0.0901100077042
+['25 hour']	['week']	0.0864210206499
+['25 hour']	['dollar']	0.0143499502517
+['25 hour']	['300 dollar']	0.0901100077042
+['week']	['dollar']	0.0269647015081
+['week']	['300 dollar']	0.0160749451882
+['8.00 dollar', '2 part-time job']	['hour']	0.00636410188432
+['8.00 dollar', '2 part-time job']	['college library']	0.152238479479
+['8.00 dollar', '2 part-time job']	['15.00 dollar and hour']	0.161708668161
+['8.00 dollar', '2 part-time job']	['construction work']	0.152238479479
+['8.00 dollar', '2 part-time job']	['25 hour']	0.183637364938
+['8.00 dollar', '2 part-time job']	['week']	0.012852508684
+['8.00 dollar', '2 part-time job']	['dollar']	0.508489273807
+['8.00 dollar', '2 part-time job']	['300 dollar']	0.653642048458
+['hour', '2 part-time job']	['8.00 dollar']	0.0160064194205
+['hour', '2 part-time job']	['college library']	0.0160064194205
+['hour', '2 part-time job']	['15.00 dollar and hour']	0.281460895555
+['hour', '2 part-time job']	['construction work']	0.015360451052
+['hour', '2 part-time job']	['25 hour']	0.338708997452
+['hour', '2 part-time job']	['week']	0.200351643886
+['hour', '2 part-time job']	['dollar']	0.209414340449
+['hour', '2 part-time job']	['300 dollar']	0.0160064194205
+['college library', '2 part-time job']	['8.00 dollar']	0.15961386663
+['college library', '2 part-time job']	['hour']	0.00636410188432
+['college library', '2 part-time job']	['15.00 dollar and hour']	0.161708668161
+['college library', '2 part-time job']	['construction work']	0.508264908435
+['college library', '2 part-time job']	['25 hour']	0.197610942174
+['college library', '2 part-time job']	['week']	0.012852508684
+['college library', '2 part-time job']	['dollar']	0.0139761041896
+['college library', '2 part-time job']	['300 dollar']	0.15961386663
+['15.00 dollar and hour', '2 part-time job']	['8.00 dollar']	0.0988755105172
+['15.00 dollar and hour', '2 part-time job']	['hour']	0.189502035268
+['15.00 dollar and hour', '2 part-time job']	['college library']	0.0915001233665
+['15.00 dollar and hour', '2 part-time job']	['construction work']	0.0915001233665
+['15.00 dollar and hour', '2 part-time job']	['25 hour']	0.636174109686
+['15.00 dollar and hour', '2 part-time job']	['week']	0.0811155469704
+['15.00 dollar and hour', '2 part-time job']	['dollar']	0.107559121439
+['15.00 dollar and hour', '2 part-time job']	['300 dollar']	0.0988755105172
+['construction work', '2 part-time job']	['8.00 dollar']	0.15961386663
+['construction work', '2 part-time job']	['hour']	0.011057018428
+['construction work', '2 part-time job']	['college library']	0.508264908435
+['construction work', '2 part-time job']	['15.00 dollar and hour']	0.161708668161
+['construction work', '2 part-time job']	['25 hour']	0.197610942174
+['construction work', '2 part-time job']	['week']	0.0175454252276
+['construction work', '2 part-time job']	['dollar']	0.012852508684
+['construction work', '2 part-time job']	['300 dollar']	0.15961386663
+['25 hour', '2 part-time job']	['8.00 dollar']	0.15961386663
+['25 hour', '2 part-time job']	['hour']	0.341957610876
+['25 hour', '2 part-time job']	['college library']	0.152238479479
+['25 hour', '2 part-time job']	['15.00 dollar and hour']	0.652046644343
+['25 hour', '2 part-time job']	['construction work']	0.152238479479
+['25 hour', '2 part-time job']	['week']	0.108243206545
+['25 hour', '2 part-time job']	['dollar']	0.0139761041896
+['25 hour', '2 part-time job']	['300 dollar']	0.15961386663
+['week', '2 part-time job']	['8.00 dollar']	0.0351005911342
+['week', '2 part-time job']	['hour']	0.200351643886
+['week', '2 part-time job']	['college library']	0.0351005911342
+['week', '2 part-time job']	['15.00 dollar and hour']	0.156762524339
+['week', '2 part-time job']	['construction work']	0.0351005911342
+['week', '2 part-time job']	['25 hour']	0.116343708628
+['week', '2 part-time job']	['dollar']	0.231538538428
+['week', '2 part-time job']	['300 dollar']	0.0351005911342
+['dollar', '2 part-time job']	['8.00 dollar']	0.417204941051
+['dollar', '2 part-time job']	['hour']	0.205654674189
+['dollar', '2 part-time job']	['college library']	0.0351005911342
+['dollar', '2 part-time job']	['15.00 dollar and hour']	0.0947118360384
+['dollar', '2 part-time job']	['construction work']	0.0351005911342
+['dollar', '2 part-time job']	['25 hour']	0.0739218626949
+['dollar', '2 part-time job']	['week']	0.200729350737
+['dollar', '2 part-time job']	['300 dollar']	0.345568862574
+['300 dollar', '2 part-time job']	['8.00 dollar']	0.653642048458
+['300 dollar', '2 part-time job']	['hour']	0.00636410188432
+['300 dollar', '2 part-time job']	['college library']	0.152238479479
+['300 dollar', '2 part-time job']	['15.00 dollar and hour']	0.161708668161
+['300 dollar', '2 part-time job']	['construction work']	0.152238479479
+['300 dollar', '2 part-time job']	['25 hour']	0.183637364938
+['300 dollar', '2 part-time job']	['week']	0.012852508684
+['300 dollar', '2 part-time job']	['dollar']	0.449122168596
+['2 part-time job', '8.00 dollar']	['hour']	0.00636410188432
+['2 part-time job', '8.00 dollar']	['college library']	0.152238479479
+['2 part-time job', '8.00 dollar']	['15.00 dollar and hour']	0.161708668161
+['2 part-time job', '8.00 dollar']	['construction work']	0.152238479479
+['2 part-time job', '8.00 dollar']	['25 hour']	0.183637364938
+['2 part-time job', '8.00 dollar']	['week']	0.012852508684
+['2 part-time job', '8.00 dollar']	['dollar']	0.508489273807
+['2 part-time job', '8.00 dollar']	['300 dollar']	0.653642048458
+['hour', '8.00 dollar']	['2 part-time job']	0.0151452903202
+['hour', '8.00 dollar']	['college library']	0.0160064194205
+['hour', '8.00 dollar']	['15.00 dollar and hour']	0.339760883001
+['hour', '8.00 dollar']	['construction work']	0.015360451052
+['hour', '8.00 dollar']	['25 hour']	0.321774377989
+['hour', '8.00 dollar']	['week']	0.237444643479
+['hour', '8.00 dollar']	['dollar']	0.524860968519
+['hour', '8.00 dollar']	['300 dollar']	0.0852471420558
+['college library', '8.00 dollar']	['2 part-time job']	0.0908034291173
+['college library', '8.00 dollar']	['hour']	0.00424649792755
+['college library', '8.00 dollar']	['15.00 dollar and hour']	0.0941266761548
+['college library', '8.00 dollar']	['construction work']	0.362256416006
+['college library', '8.00 dollar']	['25 hour']	0.0827346205535
+['college library', '8.00 dollar']	['week']	0.0143499502517
+['college library', '8.00 dollar']	['dollar']	0.500847544769
+['college library', '8.00 dollar']	['300 dollar']	0.584269096576
+['15.00 dollar and hour', '8.00 dollar']	['2 part-time job']	0.107526100904
+['15.00 dollar and hour', '8.00 dollar']	['hour']	0.16680413132
+['15.00 dollar and hour', '8.00 dollar']	['college library']	0.0988755105172
+['15.00 dollar and hour', '8.00 dollar']	['construction work']	0.0988755105172
+['15.00 dollar and hour', '8.00 dollar']	['25 hour']	0.630956863273
+['15.00 dollar and hour', '8.00 dollar']	['week']	0.0756632824133
+['15.00 dollar and hour', '8.00 dollar']	['dollar']	0.495502340122
+['15.00 dollar and hour', '8.00 dollar']	['300 dollar']	0.630956863273
+['construction work', '8.00 dollar']	['2 part-time job']	0.0908034291173
+['construction work', '8.00 dollar']	['hour']	0.00424649792755
+['construction work', '8.00 dollar']	['college library']	0.362256416006
+['construction work', '8.00 dollar']	['15.00 dollar and hour']	0.0941266761548
+['construction work', '8.00 dollar']	['25 hour']	0.0827346205535
+['construction work', '8.00 dollar']	['week']	0.0132263547461
+['construction work', '8.00 dollar']	['dollar']	0.351161209422
+['construction work', '8.00 dollar']	['300 dollar']	0.584269096576
+['25 hour', '8.00 dollar']	['2 part-time job']	0.153858326432
+['25 hour', '8.00 dollar']	['hour']	0.221317293508
+['25 hour', '8.00 dollar']	['college library']	0.0827346205535
+['25 hour', '8.00 dollar']	['15.00 dollar and hour']	0.600576515509
+['25 hour', '8.00 dollar']	['construction work']	0.0827346205535
+['25 hour', '8.00 dollar']	['week']	0.0892112996778
+['25 hour', '8.00 dollar']	['dollar']	0.500847544769
+['25 hour', '8.00 dollar']	['300 dollar']	0.584269096576
+['week', '8.00 dollar']	['2 part-time job']	0.0410777933861
+['week', '8.00 dollar']	['hour']	0.232574513609
+['week', '8.00 dollar']	['college library']	0.0361569291624
+['week', '8.00 dollar']	['15.00 dollar and hour']	0.152245345662
+['week', '8.00 dollar']	['construction work']	0.0361569291624
+['week', '8.00 dollar']	['25 hour']	0.0953909804967
+['week', '8.00 dollar']	['dollar']	0.73813679171
+['week', '8.00 dollar']	['300 dollar']	0.160671266721
+['dollar', '8.00 dollar']	['2 part-time job']	0.332578556126
+['dollar', '8.00 dollar']	['hour']	0.323988655023
+['dollar', '8.00 dollar']	['college library']	0.183197852817
+['dollar', '8.00 dollar']	['15.00 dollar and hour']	0.416390584812
+['dollar', '8.00 dollar']	['construction work']	0.0968024870635
+['dollar', '8.00 dollar']	['25 hour']	0.177448801378
+['dollar', '8.00 dollar']	['week']	0.358446687293
+['dollar', '8.00 dollar']	['300 dollar']	0.610690210365
+['300 dollar', '8.00 dollar']	['2 part-time job']	0.297805101442
+['300 dollar', '8.00 dollar']	['hour']	0.156901862603
+['300 dollar', '8.00 dollar']	['college library']	0.139258682248
+['300 dollar', '8.00 dollar']	['15.00 dollar and hour']	0.315265418903
+['300 dollar', '8.00 dollar']	['construction work']	0.139258682248
+['300 dollar', '8.00 dollar']	['25 hour']	0.139258682248
+['300 dollar', '8.00 dollar']	['week']	0.185726336332
+['300 dollar', '8.00 dollar']	['dollar']	0.64203543036
+['2 part-time job', 'hour']	['8.00 dollar']	0.0160064194205
+['2 part-time job', 'hour']	['college library']	0.0160064194205
+['2 part-time job', 'hour']	['15.00 dollar and hour']	0.281460895555
+['2 part-time job', 'hour']	['construction work']	0.015360451052
+['2 part-time job', 'hour']	['25 hour']	0.338708997452
+['2 part-time job', 'hour']	['week']	0.200351643886
+['2 part-time job', 'hour']	['dollar']	0.209414340449
+['2 part-time job', 'hour']	['300 dollar']	0.0160064194205
+['8.00 dollar', 'hour']	['2 part-time job']	0.0151452903202
+['8.00 dollar', 'hour']	['college library']	0.0160064194205
+['8.00 dollar', 'hour']	['15.00 dollar and hour']	0.339760883001
+['8.00 dollar', 'hour']	['construction work']	0.015360451052
+['8.00 dollar', 'hour']	['25 hour']	0.321774377989
+['8.00 dollar', 'hour']	['week']	0.237444643479
+['8.00 dollar', 'hour']	['dollar']	0.524860968519
+['8.00 dollar', 'hour']	['300 dollar']	0.0852471420558
+['college library', 'hour']	['2 part-time job']	0.0208571041899
+['college library', 'hour']	['8.00 dollar']	0.0160064194205
+['college library', 'hour']	['15.00 dollar and hour']	0.339760883001
+['college library', 'hour']	['construction work']	0.201291599397
+['college library', 'hour']	['25 hour']	0.32878496
+['college library', 'hour']	['week']	0.237444643479
+['college library', 'hour']	['dollar']	0.242747673782
+['college library', 'hour']	['300 dollar']	0.0160064194205
+['15.00 dollar and hour', 'hour']	['2 part-time job']	0.201519460286
+['15.00 dollar and hour', 'hour']	['8.00 dollar']	0.125024962568
+['15.00 dollar and hour', 'hour']	['college library']	0.125024962568
+['15.00 dollar and hour', 'hour']	['construction work']	0.11034390648
+['15.00 dollar and hour', 'hour']	['25 hour']	0.643172917724
+['15.00 dollar and hour', 'hour']	['week']	0.591954022989
+['15.00 dollar and hour', 'hour']	['dollar']	0.410989010989
+['15.00 dollar and hour', 'hour']	['300 dollar']	0.125024962568
+['construction work', 'hour']	['2 part-time job']	0.0208571041899
+['construction work', 'hour']	['8.00 dollar']	0.0160064194205
+['construction work', 'hour']	['college library']	0.240247650958
+['construction work', 'hour']	['15.00 dollar and hour']	0.339760883001
+['construction work', 'hour']	['25 hour']	0.306959563174
+['construction work', 'hour']	['week']	0.200351643886
+['construction work', 'hour']	['dollar']	0.205654674189
+['construction work', 'hour']	['300 dollar']	0.0160064194205
+['25 hour', 'hour']	['2 part-time job']	0.257477433772
+['25 hour', 'hour']	['8.00 dollar']	0.125024962568
+['25 hour', 'hour']	['college library']	0.125024962568
+['25 hour', 'hour']	['15.00 dollar and hour']	0.501706598273
+['25 hour', 'hour']	['construction work']	0.11034390648
+['25 hour', 'hour']	['week']	0.625287356322
+['25 hour', 'hour']	['dollar']	0.323988655023
+['25 hour', 'hour']	['300 dollar']	0.125024962568
+['week', 'hour']	['2 part-time job']	0.071865252538
+['week', 'hour']	['8.00 dollar']	0.0701566548569
+['week', 'hour']	['college library']	0.0701566548569
+['week', 'hour']	['15.00 dollar and hour']	0.293388788399
+['week', 'hour']	['construction work']	0.0701566548569
+['week', 'hour']	['25 hour']	0.320556331959
+['week', 'hour']	['dollar']	0.0777995597118
+['week', 'hour']	['300 dollar']	0.0701566548569
+['dollar', 'hour']	['2 part-time job']	0.071865252538
+['dollar', 'hour']	['8.00 dollar']	0.408636417552
+['dollar', 'hour']	['college library']	0.0701566548569
+['dollar', 'hour']	['15.00 dollar and hour']	0.388578319085
+['dollar', 'hour']	['construction work']	0.0701566548569
+['dollar', 'hour']	['25 hour']	0.268090491062
+['dollar', 'hour']	['week']	0.0777995597118
+['dollar', 'hour']	['300 dollar']	0.296232492513
+['300 dollar', 'hour']	['2 part-time job']	0.0151452903202
+['300 dollar', 'hour']	['8.00 dollar']	0.0852471420558
+['300 dollar', 'hour']	['college library']	0.0160064194205
+['300 dollar', 'hour']	['15.00 dollar and hour']	0.339760883001
+['300 dollar', 'hour']	['construction work']	0.015360451052
+['300 dollar', 'hour']	['25 hour']	0.321774377989
+['300 dollar', 'hour']	['week']	0.237444643479
+['300 dollar', 'hour']	['dollar']	0.51907747888
+['2 part-time job', 'college library']	['8.00 dollar']	0.15961386663
+['2 part-time job', 'college library']	['hour']	0.00636410188432
+['2 part-time job', 'college library']	['15.00 dollar and hour']	0.161708668161
+['2 part-time job', 'college library']	['construction work']	0.508264908435
+['2 part-time job', 'college library']	['25 hour']	0.197610942174
+['2 part-time job', 'college library']	['week']	0.012852508684
+['2 part-time job', 'college library']	['dollar']	0.0139761041896
+['2 part-time job', 'college library']	['300 dollar']	0.15961386663
+['8.00 dollar', 'college library']	['2 part-time job']	0.0908034291173
+['8.00 dollar', 'college library']	['hour']	0.00424649792755
+['8.00 dollar', 'college library']	['15.00 dollar and hour']	0.0941266761548
+['8.00 dollar', 'college library']	['construction work']	0.362256416006
+['8.00 dollar', 'college library']	['25 hour']	0.0827346205535
+['8.00 dollar', 'college library']	['week']	0.0143499502517
+['8.00 dollar', 'college library']	['dollar']	0.500847544769
+['8.00 dollar', 'college library']	['300 dollar']	0.584269096576
+['hour', 'college library']	['2 part-time job']	0.0208571041899
+['hour', 'college library']	['8.00 dollar']	0.0160064194205
+['hour', 'college library']	['15.00 dollar and hour']	0.339760883001
+['hour', 'college library']	['construction work']	0.201291599397
+['hour', 'college library']	['25 hour']	0.32878496
+['hour', 'college library']	['week']	0.237444643479
+['hour', 'college library']	['dollar']	0.242747673782
+['hour', 'college library']	['300 dollar']	0.0160064194205
+['15.00 dollar and hour', 'college library']	['2 part-time job']	0.102396614129
+['15.00 dollar and hour', 'college library']	['8.00 dollar']	0.0988755105172
+['15.00 dollar and hour', 'college library']	['hour']	0.16680413132
+['15.00 dollar and hour', 'college library']	['construction work']	0.387709641536
+['15.00 dollar and hour', 'college library']	['25 hour']	0.618975059554
+['15.00 dollar and hour', 'college library']	['week']	0.0712916977139
+['15.00 dollar and hour', 'college library']	['dollar']	0.082389053412
+['15.00 dollar and hour', 'college library']	['300 dollar']	0.0988755105172
+['construction work', 'college library']	['2 part-time job']	0.0908034291173
+['construction work', 'college library']	['8.00 dollar']	0.0901100077042
+['construction work', 'college library']	['hour']	0.00424649792755
+['construction work', 'college library']	['15.00 dollar and hour']	0.0941266761548
+['construction work', 'college library']	['25 hour']	0.0827346205535
+['construction work', 'college library']	['week']	0.0132263547461
+['construction work', 'college library']	['dollar']	0.0132263547461
+['construction work', 'college library']	['300 dollar']	0.0901100077042
+['25 hour', 'college library']	['2 part-time job']	0.167831903668
+['25 hour', 'college library']	['8.00 dollar']	0.0901100077042
+['25 hour', 'college library']	['hour']	0.221317293508
+['25 hour', 'college library']	['15.00 dollar and hour']	0.600576515509
+['25 hour', 'college library']	['construction work']	0.417194081899
+['25 hour', 'college library']	['week']	0.0848397149783
+['25 hour', 'college library']	['dollar']	0.0143499502517
+['25 hour', 'college library']	['300 dollar']	0.0901100077042
+['week', 'college library']	['2 part-time job']	0.0467896072558
+['week', 'college library']	['8.00 dollar']	0.0361569291624
+['week', 'college library']	['hour']	0.232574513609
+['week', 'college library']	['15.00 dollar and hour']	0.152245345662
+['week', 'college library']	['construction work']	0.245368980249
+['week', 'college library']	['25 hour']	0.105390001135
+['week', 'college library']	['dollar']	0.231538538428
+['week', 'college library']	['300 dollar']	0.0361569291624
+['dollar', 'college library']	['2 part-time job']	0.0467896072558
+['dollar', 'college library']	['8.00 dollar']	0.442012633359
+['dollar', 'college library']	['hour']	0.237877543912
+['dollar', 'college library']	['15.00 dollar and hour']	0.106220131192
+['dollar', 'college library']	['construction work']	0.245368980249
+['dollar', 'college library']	['25 hour']	0.0368701550083
+['dollar', 'college library']	['week']	0.231538538428
+['dollar', 'college library']	['300 dollar']	0.365401430504
+['300 dollar', 'college library']	['2 part-time job']	0.0908034291173
+['300 dollar', 'college library']	['8.00 dollar']	0.584269096576
+['300 dollar', 'college library']	['hour']	0.00424649792755
+['300 dollar', 'college library']	['15.00 dollar and hour']	0.0941266761548
+['300 dollar', 'college library']	['construction work']	0.362256416006
+['300 dollar', 'college library']	['25 hour']	0.0827346205535
+['300 dollar', 'college library']	['week']	0.0143499502517
+['300 dollar', 'college library']	['dollar']	0.384528877052
+['2 part-time job', '15.00 dollar and hour']	['8.00 dollar']	0.0988755105172
+['2 part-time job', '15.00 dollar and hour']	['hour']	0.189502035268
+['2 part-time job', '15.00 dollar and hour']	['college library']	0.0915001233665
+['2 part-time job', '15.00 dollar and hour']	['construction work']	0.0915001233665
+['2 part-time job', '15.00 dollar and hour']	['25 hour']	0.636174109686
+['2 part-time job', '15.00 dollar and hour']	['week']	0.0811155469704
+['2 part-time job', '15.00 dollar and hour']	['dollar']	0.107559121439
+['2 part-time job', '15.00 dollar and hour']	['300 dollar']	0.0988755105172
+['8.00 dollar', '15.00 dollar and hour']	['2 part-time job']	0.107526100904
+['8.00 dollar', '15.00 dollar and hour']	['hour']	0.16680413132
+['8.00 dollar', '15.00 dollar and hour']	['college library']	0.0988755105172
+['8.00 dollar', '15.00 dollar and hour']	['construction work']	0.0988755105172
+['8.00 dollar', '15.00 dollar and hour']	['25 hour']	0.630956863273
+['8.00 dollar', '15.00 dollar and hour']	['week']	0.0756632824133
+['8.00 dollar', '15.00 dollar and hour']	['dollar']	0.495502340122
+['8.00 dollar', '15.00 dollar and hour']	['300 dollar']	0.630956863273
+['hour', '15.00 dollar and hour']	['2 part-time job']	0.201519460286
+['hour', '15.00 dollar and hour']	['8.00 dollar']	0.125024962568
+['hour', '15.00 dollar and hour']	['college library']	0.125024962568
+['hour', '15.00 dollar and hour']	['construction work']	0.11034390648
+['hour', '15.00 dollar and hour']	['25 hour']	0.643172917724
+['hour', '15.00 dollar and hour']	['week']	0.591954022989
+['hour', '15.00 dollar and hour']	['dollar']	0.410989010989
+['hour', '15.00 dollar and hour']	['300 dollar']	0.125024962568
+['college library', '15.00 dollar and hour']	['2 part-time job']	0.102396614129
+['college library', '15.00 dollar and hour']	['8.00 dollar']	0.0988755105172
+['college library', '15.00 dollar and hour']	['hour']	0.16680413132
+['college library', '15.00 dollar and hour']	['construction work']	0.387709641536
+['college library', '15.00 dollar and hour']	['25 hour']	0.618975059554
+['college library', '15.00 dollar and hour']	['week']	0.0712916977139
+['college library', '15.00 dollar and hour']	['dollar']	0.082389053412
+['college library', '15.00 dollar and hour']	['300 dollar']	0.0988755105172
+['construction work', '15.00 dollar and hour']	['2 part-time job']	0.102396614129
+['construction work', '15.00 dollar and hour']	['8.00 dollar']	0.0988755105172
+['construction work', '15.00 dollar and hour']	['hour']	0.172835368601
+['construction work', '15.00 dollar and hour']	['college library']	0.387709641536
+['construction work', '15.00 dollar and hour']	['25 hour']	0.642530668264
+['construction work', '15.00 dollar and hour']	['week']	0.0811155469704
+['construction work', '15.00 dollar and hour']	['dollar']	0.118027351284
+['construction work', '15.00 dollar and hour']	['300 dollar']	0.0988755105172
+['25 hour', '15.00 dollar and hour']	['2 part-time job']	0.414642627903
+['25 hour', '15.00 dollar and hour']	['8.00 dollar']	0.127952343303
+['25 hour', '15.00 dollar and hour']	['hour']	0.639931851721
+['25 hour', '15.00 dollar and hour']	['college library']	0.142281589132
+['25 hour', '15.00 dollar and hour']	['construction work']	0.134584996364
+['25 hour', '15.00 dollar and hour']	['week']	0.29875096756
+['25 hour', '15.00 dollar and hour']	['dollar']	0.365974040233
+['25 hour', '15.00 dollar and hour']	['300 dollar']	0.127952343303
+['week', '15.00 dollar and hour']	['2 part-time job']	0.0718110215184
+['week', '15.00 dollar and hour']	['8.00 dollar']	0.0660803704124
+['week', '15.00 dollar and hour']	['hour']	0.496517842614
+['week', '15.00 dollar and hour']	['college library']	0.0660803704124
+['week', '15.00 dollar and hour']	['construction work']	0.0660803704124
+['week', '15.00 dollar and hour']	['25 hour']	0.229614414257
+['week', '15.00 dollar and hour']	['dollar']	0.232800801341
+['week', '15.00 dollar and hour']	['300 dollar']	0.0660803704124
+['dollar', '15.00 dollar and hour']	['2 part-time job']	0.0718110215184
+['dollar', '15.00 dollar and hour']	['8.00 dollar']	0.440279895857
+['dollar', '15.00 dollar and hour']	['hour']	0.496517842614
+['dollar', '15.00 dollar and hour']	['college library']	0.0660803704124
+['dollar', '15.00 dollar and hour']	['construction work']	0.0660803704124
+['dollar', '15.00 dollar and hour']	['25 hour']	0.209565102928
+['dollar', '15.00 dollar and hour']	['week']	0.334358594741
+['dollar', '15.00 dollar and hour']	['300 dollar']	0.443204216793
+['300 dollar', '15.00 dollar and hour']	['2 part-time job']	0.107526100904
+['300 dollar', '15.00 dollar and hour']	['8.00 dollar']	0.630956863273
+['300 dollar', '15.00 dollar and hour']	['hour']	0.16680413132
+['300 dollar', '15.00 dollar and hour']	['college library']	0.0988755105172
+['300 dollar', '15.00 dollar and hour']	['construction work']	0.0988755105172
+['300 dollar', '15.00 dollar and hour']	['25 hour']	0.630956863273
+['300 dollar', '15.00 dollar and hour']	['week']	0.0756632824133
+['300 dollar', '15.00 dollar and hour']	['dollar']	0.429698961527
+['2 part-time job', 'construction work']	['8.00 dollar']	0.15961386663
+['2 part-time job', 'construction work']	['hour']	0.011057018428
+['2 part-time job', 'construction work']	['college library']	0.508264908435
+['2 part-time job', 'construction work']	['15.00 dollar and hour']	0.161708668161
+['2 part-time job', 'construction work']	['25 hour']	0.197610942174
+['2 part-time job', 'construction work']	['week']	0.0175454252276
+['2 part-time job', 'construction work']	['dollar']	0.012852508684
+['2 part-time job', 'construction work']	['300 dollar']	0.15961386663
+['8.00 dollar', 'construction work']	['2 part-time job']	0.0908034291173
+['8.00 dollar', 'construction work']	['hour']	0.00424649792755
+['8.00 dollar', 'construction work']	['college library']	0.362256416006
+['8.00 dollar', 'construction work']	['15.00 dollar and hour']	0.0941266761548
+['8.00 dollar', 'construction work']	['25 hour']	0.0827346205535
+['8.00 dollar', 'construction work']	['week']	0.0132263547461
+['8.00 dollar', 'construction work']	['dollar']	0.351161209422
+['8.00 dollar', 'construction work']	['300 dollar']	0.584269096576
+['hour', 'construction work']	['2 part-time job']	0.0208571041899
+['hour', 'construction work']	['8.00 dollar']	0.0160064194205
+['hour', 'construction work']	['college library']	0.240247650958
+['hour', 'construction work']	['15.00 dollar and hour']	0.339760883001
+['hour', 'construction work']	['25 hour']	0.306959563174
+['hour', 'construction work']	['week']	0.200351643886
+['hour', 'construction work']	['dollar']	0.205654674189
+['hour', 'construction work']	['300 dollar']	0.0160064194205
+['college library', 'construction work']	['2 part-time job']	0.0908034291173
+['college library', 'construction work']	['8.00 dollar']	0.0901100077042
+['college library', 'construction work']	['hour']	0.00424649792755
+['college library', 'construction work']	['15.00 dollar and hour']	0.0941266761548
+['college library', 'construction work']	['25 hour']	0.0827346205535
+['college library', 'construction work']	['week']	0.0132263547461
+['college library', 'construction work']	['dollar']	0.0132263547461
+['college library', 'construction work']	['300 dollar']	0.0901100077042
+['15.00 dollar and hour', 'construction work']	['2 part-time job']	0.102396614129
+['15.00 dollar and hour', 'construction work']	['8.00 dollar']	0.0988755105172
+['15.00 dollar and hour', 'construction work']	['hour']	0.172835368601
+['15.00 dollar and hour', 'construction work']	['college library']	0.387709641536
+['15.00 dollar and hour', 'construction work']	['25 hour']	0.642530668264
+['15.00 dollar and hour', 'construction work']	['week']	0.0811155469704
+['15.00 dollar and hour', 'construction work']	['dollar']	0.118027351284
+['15.00 dollar and hour', 'construction work']	['300 dollar']	0.0988755105172
+['25 hour', 'construction work']	['2 part-time job']	0.167831903668
+['25 hour', 'construction work']	['8.00 dollar']	0.0901100077042
+['25 hour', 'construction work']	['hour']	0.205067872178
+['25 hour', 'construction work']	['college library']	0.417194081899
+['25 hour', 'construction work']	['15.00 dollar and hour']	0.600576515509
+['25 hour', 'construction work']	['week']	0.0775225252438
+['25 hour', 'construction work']	['dollar']	0.0132263547461
+['25 hour', 'construction work']	['300 dollar']	0.0901100077042
+['week', 'construction work']	['2 part-time job']	0.0467896072558
+['week', 'construction work']	['8.00 dollar']	0.0361569291624
+['week', 'construction work']	['hour']	0.200351643886
+['week', 'construction work']	['college library']	0.315033653242
+['week', 'construction work']	['15.00 dollar and hour']	0.152245345662
+['week', 'construction work']	['25 hour']	0.0895790146847
+['week', 'construction work']	['dollar']	0.20330084028
+['week', 'construction work']	['300 dollar']	0.0361569291624
+['dollar', 'construction work']	['2 part-time job']	0.0467896072558
+['dollar', 'construction work']	['8.00 dollar']	0.442012633359
+['dollar', 'construction work']	['hour']	0.205654674189
+['dollar', 'construction work']	['college library']	0.315033653242
+['dollar', 'construction work']	['15.00 dollar and hour']	0.106220131192
+['dollar', 'construction work']	['25 hour']	0.0368028975308
+['dollar', 'construction work']	['week']	0.20330084028
+['dollar', 'construction work']	['300 dollar']	0.365401430504
+['300 dollar', 'construction work']	['2 part-time job']	0.0908034291173
+['300 dollar', 'construction work']	['8.00 dollar']	0.584269096576
+['300 dollar', 'construction work']	['hour']	0.00424649792755
+['300 dollar', 'construction work']	['college library']	0.362256416006
+['300 dollar', 'construction work']	['15.00 dollar and hour']	0.0941266761548
+['300 dollar', 'construction work']	['25 hour']	0.0827346205535
+['300 dollar', 'construction work']	['week']	0.0132263547461
+['300 dollar', 'construction work']	['dollar']	0.276426897145
+['2 part-time job', '25 hour']	['8.00 dollar']	0.15961386663
+['2 part-time job', '25 hour']	['hour']	0.341957610876
+['2 part-time job', '25 hour']	['college library']	0.152238479479
+['2 part-time job', '25 hour']	['15.00 dollar and hour']	0.652046644343
+['2 part-time job', '25 hour']	['construction work']	0.152238479479
+['2 part-time job', '25 hour']	['week']	0.108243206545
+['2 part-time job', '25 hour']	['dollar']	0.0139761041896
+['2 part-time job', '25 hour']	['300 dollar']	0.15961386663
+['8.00 dollar', '25 hour']	['2 part-time job']	0.153858326432
+['8.00 dollar', '25 hour']	['hour']	0.221317293508
+['8.00 dollar', '25 hour']	['college library']	0.0827346205535
+['8.00 dollar', '25 hour']	['15.00 dollar and hour']	0.600576515509
+['8.00 dollar', '25 hour']	['construction work']	0.0827346205535
+['8.00 dollar', '25 hour']	['week']	0.0892112996778
+['8.00 dollar', '25 hour']	['dollar']	0.500847544769
+['8.00 dollar', '25 hour']	['300 dollar']	0.584269096576
+['hour', '25 hour']	['2 part-time job']	0.257477433772
+['hour', '25 hour']	['8.00 dollar']	0.125024962568
+['hour', '25 hour']	['college library']	0.125024962568
+['hour', '25 hour']	['15.00 dollar and hour']	0.501706598273
+['hour', '25 hour']	['construction work']	0.11034390648
+['hour', '25 hour']	['week']	0.625287356322
+['hour', '25 hour']	['dollar']	0.323988655023
+['hour', '25 hour']	['300 dollar']	0.125024962568
+['college library', '25 hour']	['2 part-time job']	0.167831903668
+['college library', '25 hour']	['8.00 dollar']	0.0901100077042
+['college library', '25 hour']	['hour']	0.221317293508
+['college library', '25 hour']	['15.00 dollar and hour']	0.600576515509
+['college library', '25 hour']	['construction work']	0.417194081899
+['college library', '25 hour']	['week']	0.0848397149783
+['college library', '25 hour']	['dollar']	0.0143499502517
+['college library', '25 hour']	['300 dollar']	0.0901100077042
+['15.00 dollar and hour', '25 hour']	['2 part-time job']	0.414642627903
+['15.00 dollar and hour', '25 hour']	['8.00 dollar']	0.127952343303
+['15.00 dollar and hour', '25 hour']	['hour']	0.639931851721
+['15.00 dollar and hour', '25 hour']	['college library']	0.142281589132
+['15.00 dollar and hour', '25 hour']	['construction work']	0.134584996364
+['15.00 dollar and hour', '25 hour']	['week']	0.29875096756
+['15.00 dollar and hour', '25 hour']	['dollar']	0.365974040233
+['15.00 dollar and hour', '25 hour']	['300 dollar']	0.127952343303
+['construction work', '25 hour']	['2 part-time job']	0.167831903668
+['construction work', '25 hour']	['8.00 dollar']	0.0901100077042
+['construction work', '25 hour']	['hour']	0.205067872178
+['construction work', '25 hour']	['college library']	0.417194081899
+['construction work', '25 hour']	['15.00 dollar and hour']	0.600576515509
+['construction work', '25 hour']	['week']	0.0775225252438
+['construction work', '25 hour']	['dollar']	0.0132263547461
+['construction work', '25 hour']	['300 dollar']	0.0901100077042
+['week', '25 hour']	['2 part-time job']	0.11617372092
+['week', '25 hour']	['8.00 dollar']	0.0361569291624
+['week', '25 hour']	['hour']	0.572910742391
+['week', '25 hour']	['college library']	0.0361569291624
+['week', '25 hour']	['15.00 dollar and hour']	0.185141077658
+['week', '25 hour']	['construction work']	0.0361569291624
+['week', '25 hour']	['dollar']	0.226668408558
+['week', '25 hour']	['300 dollar']	0.0361569291624
+['dollar', '25 hour']	['2 part-time job']	0.11617372092
+['dollar', '25 hour']	['8.00 dollar']	0.442012633359
+['dollar', '25 hour']	['hour']	0.568148837629
+['dollar', '25 hour']	['college library']	0.0361569291624
+['dollar', '25 hour']	['15.00 dollar and hour']	0.302821706486
+['dollar', '25 hour']	['construction work']	0.0361569291624
+['dollar', '25 hour']	['week']	0.365124597666
+['dollar', '25 hour']	['300 dollar']	0.365401430504
+['300 dollar', '25 hour']	['2 part-time job']	0.153858326432
+['300 dollar', '25 hour']	['8.00 dollar']	0.584269096576
+['300 dollar', '25 hour']	['hour']	0.221317293508
+['300 dollar', '25 hour']	['college library']	0.0827346205535
+['300 dollar', '25 hour']	['15.00 dollar and hour']	0.600576515509
+['300 dollar', '25 hour']	['construction work']	0.0827346205535
+['300 dollar', '25 hour']	['week']	0.0892112996778
+['300 dollar', '25 hour']	['dollar']	0.384528877052
+['2 part-time job', 'week']	['8.00 dollar']	0.0351005911342
+['2 part-time job', 'week']	['hour']	0.200351643886
+['2 part-time job', 'week']	['college library']	0.0351005911342
+['2 part-time job', 'week']	['15.00 dollar and hour']	0.156762524339
+['2 part-time job', 'week']	['construction work']	0.0351005911342
+['2 part-time job', 'week']	['25 hour']	0.116343708628
+['2 part-time job', 'week']	['dollar']	0.231538538428
+['2 part-time job', 'week']	['300 dollar']	0.0351005911342
+['8.00 dollar', 'week']	['2 part-time job']	0.0410777933861
+['8.00 dollar', 'week']	['hour']	0.232574513609
+['8.00 dollar', 'week']	['college library']	0.0361569291624
+['8.00 dollar', 'week']	['15.00 dollar and hour']	0.152245345662
+['8.00 dollar', 'week']	['construction work']	0.0361569291624
+['8.00 dollar', 'week']	['25 hour']	0.0953909804967
+['8.00 dollar', 'week']	['dollar']	0.73813679171
+['8.00 dollar', 'week']	['300 dollar']	0.160671266721
+['hour', 'week']	['2 part-time job']	0.071865252538
+['hour', 'week']	['8.00 dollar']	0.0701566548569
+['hour', 'week']	['college library']	0.0701566548569
+['hour', 'week']	['15.00 dollar and hour']	0.293388788399
+['hour', 'week']	['construction work']	0.0701566548569
+['hour', 'week']	['25 hour']	0.320556331959
+['hour', 'week']	['dollar']	0.0777995597118
+['hour', 'week']	['300 dollar']	0.0701566548569
+['college library', 'week']	['2 part-time job']	0.0467896072558
+['college library', 'week']	['8.00 dollar']	0.0361569291624
+['college library', 'week']	['hour']	0.232574513609
+['college library', 'week']	['15.00 dollar and hour']	0.152245345662
+['college library', 'week']	['construction work']	0.245368980249
+['college library', 'week']	['25 hour']	0.105390001135
+['college library', 'week']	['dollar']	0.231538538428
+['college library', 'week']	['300 dollar']	0.0361569291624
+['15.00 dollar and hour', 'week']	['2 part-time job']	0.0718110215184
+['15.00 dollar and hour', 'week']	['8.00 dollar']	0.0660803704124
+['15.00 dollar and hour', 'week']	['hour']	0.496517842614
+['15.00 dollar and hour', 'week']	['college library']	0.0660803704124
+['15.00 dollar and hour', 'week']	['construction work']	0.0660803704124
+['15.00 dollar and hour', 'week']	['25 hour']	0.229614414257
+['15.00 dollar and hour', 'week']	['dollar']	0.232800801341
+['15.00 dollar and hour', 'week']	['300 dollar']	0.0660803704124
+['construction work', 'week']	['2 part-time job']	0.0467896072558
+['construction work', 'week']	['8.00 dollar']	0.0361569291624
+['construction work', 'week']	['hour']	0.200351643886
+['construction work', 'week']	['college library']	0.315033653242
+['construction work', 'week']	['15.00 dollar and hour']	0.152245345662
+['construction work', 'week']	['25 hour']	0.0895790146847
+['construction work', 'week']	['dollar']	0.20330084028
+['construction work', 'week']	['300 dollar']	0.0361569291624
+['25 hour', 'week']	['2 part-time job']	0.11617372092
+['25 hour', 'week']	['8.00 dollar']	0.0361569291624
+['25 hour', 'week']	['hour']	0.572910742391
+['25 hour', 'week']	['college library']	0.0361569291624
+['25 hour', 'week']	['15.00 dollar and hour']	0.185141077658
+['25 hour', 'week']	['construction work']	0.0361569291624
+['25 hour', 'week']	['dollar']	0.226668408558
+['25 hour', 'week']	['300 dollar']	0.0361569291624
+['dollar', 'week']	['2 part-time job']	0.0887633095076
+['dollar', 'week']	['8.00 dollar']	0.536520223283
+['dollar', 'week']	['hour']	0.041290369079
+['dollar', 'week']	['college library']	0.0819859443486
+['dollar', 'week']	['15.00 dollar and hour']	0.141230484026
+['dollar', 'week']	['construction work']	0.0819186868711
+['dollar', 'week']	['25 hour']	0.129077734054
+['dollar', 'week']	['300 dollar']	0.423299789367
+['300 dollar', 'week']	['2 part-time job']	0.0410777933861
+['300 dollar', 'week']	['8.00 dollar']	0.160671266721
+['300 dollar', 'week']	['hour']	0.232574513609
+['300 dollar', 'week']	['college library']	0.0361569291624
+['300 dollar', 'week']	['15.00 dollar and hour']	0.152245345662
+['300 dollar', 'week']	['construction work']	0.0361569291624
+['300 dollar', 'week']	['25 hour']	0.0953909804967
+['300 dollar', 'week']	['dollar']	0.715282595001
+['2 part-time job', 'dollar']	['8.00 dollar']	0.417204941051
+['2 part-time job', 'dollar']	['hour']	0.205654674189
+['2 part-time job', 'dollar']	['college library']	0.0351005911342
+['2 part-time job', 'dollar']	['15.00 dollar and hour']	0.0947118360384
+['2 part-time job', 'dollar']	['construction work']	0.0351005911342
+['2 part-time job', 'dollar']	['25 hour']	0.0739218626949
+['2 part-time job', 'dollar']	['week']	0.200729350737
+['2 part-time job', 'dollar']	['300 dollar']	0.345568862574
+['8.00 dollar', 'dollar']	['2 part-time job']	0.332578556126
+['8.00 dollar', 'dollar']	['hour']	0.323988655023
+['8.00 dollar', 'dollar']	['college library']	0.183197852817
+['8.00 dollar', 'dollar']	['15.00 dollar and hour']	0.416390584812
+['8.00 dollar', 'dollar']	['construction work']	0.0968024870635
+['8.00 dollar', 'dollar']	['25 hour']	0.177448801378
+['8.00 dollar', 'dollar']	['week']	0.358446687293
+['8.00 dollar', 'dollar']	['300 dollar']	0.610690210365
+['hour', 'dollar']	['2 part-time job']	0.071865252538
+['hour', 'dollar']	['8.00 dollar']	0.408636417552
+['hour', 'dollar']	['college library']	0.0701566548569
+['hour', 'dollar']	['15.00 dollar and hour']	0.388578319085
+['hour', 'dollar']	['construction work']	0.0701566548569
+['hour', 'dollar']	['25 hour']	0.268090491062
+['hour', 'dollar']	['week']	0.0777995597118
+['hour', 'dollar']	['300 dollar']	0.296232492513
+['college library', 'dollar']	['2 part-time job']	0.0467896072558
+['college library', 'dollar']	['8.00 dollar']	0.442012633359
+['college library', 'dollar']	['hour']	0.237877543912
+['college library', 'dollar']	['15.00 dollar and hour']	0.106220131192
+['college library', 'dollar']	['construction work']	0.245368980249
+['college library', 'dollar']	['25 hour']	0.0368701550083
+['college library', 'dollar']	['week']	0.231538538428
+['college library', 'dollar']	['300 dollar']	0.365401430504
+['15.00 dollar and hour', 'dollar']	['2 part-time job']	0.0718110215184
+['15.00 dollar and hour', 'dollar']	['8.00 dollar']	0.440279895857
+['15.00 dollar and hour', 'dollar']	['hour']	0.496517842614
+['15.00 dollar and hour', 'dollar']	['college library']	0.0660803704124
+['15.00 dollar and hour', 'dollar']	['construction work']	0.0660803704124
+['15.00 dollar and hour', 'dollar']	['25 hour']	0.209565102928
+['15.00 dollar and hour', 'dollar']	['week']	0.334358594741
+['15.00 dollar and hour', 'dollar']	['300 dollar']	0.443204216793
+['construction work', 'dollar']	['2 part-time job']	0.0467896072558
+['construction work', 'dollar']	['8.00 dollar']	0.442012633359
+['construction work', 'dollar']	['hour']	0.205654674189
+['construction work', 'dollar']	['college library']	0.315033653242
+['construction work', 'dollar']	['15.00 dollar and hour']	0.106220131192
+['construction work', 'dollar']	['25 hour']	0.0368028975308
+['construction work', 'dollar']	['week']	0.20330084028
+['construction work', 'dollar']	['300 dollar']	0.365401430504
+['25 hour', 'dollar']	['2 part-time job']	0.11617372092
+['25 hour', 'dollar']	['8.00 dollar']	0.442012633359
+['25 hour', 'dollar']	['hour']	0.568148837629
+['25 hour', 'dollar']	['college library']	0.0361569291624
+['25 hour', 'dollar']	['15.00 dollar and hour']	0.302821706486
+['25 hour', 'dollar']	['construction work']	0.0361569291624
+['25 hour', 'dollar']	['week']	0.365124597666
+['25 hour', 'dollar']	['300 dollar']	0.365401430504
+['week', 'dollar']	['2 part-time job']	0.0887633095076
+['week', 'dollar']	['8.00 dollar']	0.536520223283
+['week', 'dollar']	['hour']	0.041290369079
+['week', 'dollar']	['college library']	0.0819859443486
+['week', 'dollar']	['15.00 dollar and hour']	0.141230484026
+['week', 'dollar']	['construction work']	0.0819186868711
+['week', 'dollar']	['25 hour']	0.129077734054
+['week', 'dollar']	['300 dollar']	0.423299789367
+['300 dollar', 'dollar']	['2 part-time job']	0.332578556126
+['300 dollar', 'dollar']	['8.00 dollar']	0.676555862245
+['300 dollar', 'dollar']	['hour']	0.323988655023
+['300 dollar', 'dollar']	['college library']	0.183197852817
+['300 dollar', 'dollar']	['15.00 dollar and hour']	0.416390584812
+['300 dollar', 'dollar']	['construction work']	0.0968024870635
+['300 dollar', 'dollar']	['25 hour']	0.177448801378
+['300 dollar', 'dollar']	['week']	0.358446687293
+['2 part-time job', '300 dollar']	['8.00 dollar']	0.653642048458
+['2 part-time job', '300 dollar']	['hour']	0.00636410188432
+['2 part-time job', '300 dollar']	['college library']	0.152238479479
+['2 part-time job', '300 dollar']	['15.00 dollar and hour']	0.161708668161
+['2 part-time job', '300 dollar']	['construction work']	0.152238479479
+['2 part-time job', '300 dollar']	['25 hour']	0.183637364938
+['2 part-time job', '300 dollar']	['week']	0.012852508684
+['2 part-time job', '300 dollar']	['dollar']	0.449122168596
+['8.00 dollar', '300 dollar']	['2 part-time job']	0.297805101442
+['8.00 dollar', '300 dollar']	['hour']	0.156901862603
+['8.00 dollar', '300 dollar']	['college library']	0.139258682248
+['8.00 dollar', '300 dollar']	['15.00 dollar and hour']	0.315265418903
+['8.00 dollar', '300 dollar']	['construction work']	0.139258682248
+['8.00 dollar', '300 dollar']	['25 hour']	0.139258682248
+['8.00 dollar', '300 dollar']	['week']	0.185726336332
+['8.00 dollar', '300 dollar']	['dollar']	0.64203543036
+['hour', '300 dollar']	['2 part-time job']	0.0151452903202
+['hour', '300 dollar']	['8.00 dollar']	0.0852471420558
+['hour', '300 dollar']	['college library']	0.0160064194205
+['hour', '300 dollar']	['15.00 dollar and hour']	0.339760883001
+['hour', '300 dollar']	['construction work']	0.015360451052
+['hour', '300 dollar']	['25 hour']	0.321774377989
+['hour', '300 dollar']	['week']	0.237444643479
+['hour', '300 dollar']	['dollar']	0.51907747888
+['college library', '300 dollar']	['2 part-time job']	0.0908034291173
+['college library', '300 dollar']	['8.00 dollar']	0.584269096576
+['college library', '300 dollar']	['hour']	0.00424649792755
+['college library', '300 dollar']	['15.00 dollar and hour']	0.0941266761548
+['college library', '300 dollar']	['construction work']	0.362256416006
+['college library', '300 dollar']	['25 hour']	0.0827346205535
+['college library', '300 dollar']	['week']	0.0143499502517
+['college library', '300 dollar']	['dollar']	0.384528877052
+['15.00 dollar and hour', '300 dollar']	['2 part-time job']	0.107526100904
+['15.00 dollar and hour', '300 dollar']	['8.00 dollar']	0.630956863273
+['15.00 dollar and hour', '300 dollar']	['hour']	0.16680413132
+['15.00 dollar and hour', '300 dollar']	['college library']	0.0988755105172
+['15.00 dollar and hour', '300 dollar']	['construction work']	0.0988755105172
+['15.00 dollar and hour', '300 dollar']	['25 hour']	0.630956863273
+['15.00 dollar and hour', '300 dollar']	['week']	0.0756632824133
+['15.00 dollar and hour', '300 dollar']	['dollar']	0.429698961527
+['construction work', '300 dollar']	['2 part-time job']	0.0908034291173
+['construction work', '300 dollar']	['8.00 dollar']	0.584269096576
+['construction work', '300 dollar']	['hour']	0.00424649792755
+['construction work', '300 dollar']	['college library']	0.362256416006
+['construction work', '300 dollar']	['15.00 dollar and hour']	0.0941266761548
+['construction work', '300 dollar']	['25 hour']	0.0827346205535
+['construction work', '300 dollar']	['week']	0.0132263547461
+['construction work', '300 dollar']	['dollar']	0.276426897145
+['25 hour', '300 dollar']	['2 part-time job']	0.153858326432
+['25 hour', '300 dollar']	['8.00 dollar']	0.584269096576
+['25 hour', '300 dollar']	['hour']	0.221317293508
+['25 hour', '300 dollar']	['college library']	0.0827346205535
+['25 hour', '300 dollar']	['15.00 dollar and hour']	0.600576515509
+['25 hour', '300 dollar']	['construction work']	0.0827346205535
+['25 hour', '300 dollar']	['week']	0.0892112996778
+['25 hour', '300 dollar']	['dollar']	0.384528877052
+['week', '300 dollar']	['2 part-time job']	0.0410777933861
+['week', '300 dollar']	['8.00 dollar']	0.160671266721
+['week', '300 dollar']	['hour']	0.232574513609
+['week', '300 dollar']	['college library']	0.0361569291624
+['week', '300 dollar']	['15.00 dollar and hour']	0.152245345662
+['week', '300 dollar']	['construction work']	0.0361569291624
+['week', '300 dollar']	['25 hour']	0.0953909804967
+['week', '300 dollar']	['dollar']	0.715282595001
+['dollar', '300 dollar']	['2 part-time job']	0.332578556126
+['dollar', '300 dollar']	['8.00 dollar']	0.676555862245
+['dollar', '300 dollar']	['hour']	0.323988655023
+['dollar', '300 dollar']	['college library']	0.183197852817
+['dollar', '300 dollar']	['15.00 dollar and hour']	0.416390584812
+['dollar', '300 dollar']	['construction work']	0.0968024870635
+['dollar', '300 dollar']	['25 hour']	0.177448801378
+['dollar', '300 dollar']	['week']	0.358446687293

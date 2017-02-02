@@ -1,0 +1,298 @@
+1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['pen', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+1
+[['-', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['pen', '-', 'cent', '-']]
+1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', 'cent', '-']]
+1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['-', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', '-', '-'], ['pen', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['-', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['pen', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['-', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['-', '-', 'cent', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['pen', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['pen', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['-', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', '-', '-'], ['pen', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['pen', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['-', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['-', '-', 'cent', '-'], ['-', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['pencil', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['pen and pencil', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', 'dollar', 'pen and pencil', 'cent']]
+-1
+[['cent', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['dollar', '-', 'cent', 'pencil']]
+-1
+[['pen and pencil', '-', '-', 'pencil'], ['pencil', '-', 'cent', '-'], ['pen', 'pencil', 'cent', 'pen and pencil']]
+-1
+[['pen and pencil', 'cent', '-', 'dollar'], ['pencil', '-', 'pen and pencil', '-'], ['pen', '-', 'cent', 'pen and pencil']]
+-1
+[['pencil', 'cent', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', 'piece', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['-', '-', 'cent', 'dollar'], ['pencil', '-', 'cent', '-'], ['pencil', '-', 'cent', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'dollar', 'pencil']]
+-1
+[['-', '-', '-', 'pencil'], ['pencil', '-', 'cent', 'dollar'], ['pen', '-', 'cent', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', 'pen', 'cent', '-'], ['pen', '-', 'cent', 'dollar']]
+-1
+[['-', '-', '-', 'cent'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', 'dollar']]
+-1
+[['-', '-', 'piece', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', 'cent', '-'], ['pencil', '-', 'cent', '-'], ['pencil', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', 'pen'], ['pen', 'pen and pencil', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pen and pencil', '-', 'cent', '-'], ['pen', '-', 'cent', 'pencil']]
+-1
+[['pen and pencil', 'pencil', 'cent', '-'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', 'pencil', '-'], ['pencil', 'pen', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['pen', 'piece', 'cent', '-']]
+-1
+[['cent', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['pen', '-', 'dollar', '-']]
+-1
+[['cent', 'pen', '-', 'dollar'], ['-', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'pen'], ['-', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['dollar', '-', 'cent', 'pen and pencil'], ['pen', '-', 'cent', '-']]
+-1
+[['cent', '-', '-', 'dollar'], ['-', 'pen and pencil', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['pen', '-', 'piece', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'pen and pencil', '-'], ['pen', 'pencil', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'cent'], ['pencil', 'cent', '-', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'pen'], ['pencil', '-', '-', '-'], ['pen', 'dollar', 'cent', '-']]
+-1
+[['pen', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['dollar', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['pen', '-', 'pen and pencil', '-']]
+-1
+[['pen and pencil', 'piece', '-', 'dollar'], ['pencil', '-', '-', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'cent'], ['pencil', '-', 'cent', 'dollar'], ['-', '-', 'cent', '-']]
+-1
+[['cent', '-', 'pencil', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'pencil'], ['pencil', '-', 'cent', '-'], ['-', '-', 'pen and pencil', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pen and pencil', '-', 'cent', '-'], ['-', '-', 'cent', 'pen and pencil']]
+-1
+[['cent', '-', '-', 'dollar'], ['pencil', 'dollar', 'cent', '-'], ['-', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', 'piece', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', 'cent', '-']]
+-1
+[['pen and pencil', '-', '-', 'pencil'], ['pencil', 'pen', 'cent', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', 'cent', 'pen and pencil', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['cent', 'pencil', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', 'pen', 'cent', '-'], ['pen', '-', 'dollar', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', 'pen and pencil', '-', '-']]
+-1
+[['pen and pencil', 'piece', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['dollar', '-', '-', 'pencil']]
+-1
+[['-', '-', 'pen', 'dollar'], ['pencil', '-', 'dollar', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen', '-', '-', 'dollar'], ['pencil', '-', 'pen', '-'], ['pen', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', '-', 'pen', 'dollar'], ['pen', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'piece', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', 'pen', '-'], ['pencil', 'pen', 'cent', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'cent'], ['pencil', '-', 'cent', '-'], ['cent', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'pen', '-'], ['pen', '-', 'pencil', '-']]
+-1
+[['pen and pencil', '-', '-', 'cent'], ['pencil', '-', 'cent', '-'], ['pen', '-', 'cent', '-']]
+-1
+[['pencil', '-', '-', '-'], ['pencil', 'pen', 'cent', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'piece'], ['pencil', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pen and pencil', '-', 'cent', '-'], ['pen', '-', '-', 'cent']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['dollar', '-', 'pen', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', 'cent', '-', 'dollar'], ['dollar', '-', 'cent', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'pen and pencil', '-'], ['pen', 'pen and pencil', '-', '-']]
+-1
+[['pen and pencil', '-', 'pen', 'dollar'], ['-', '-', 'cent', 'pen'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', 'piece'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', 'dollar'], ['pen', '-', '-', 'pencil']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', 'pen and pencil'], ['pencil', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', 'pen and pencil'], ['pen', '-', '-', 'pen and pencil']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', 'dollar', '-', '-'], ['pencil', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', 'pen and pencil', '-', '-'], ['pen', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['pen', '-', 'piece', '-']]
+-1
+[['pen and pencil', '-', '-', 'pencil'], ['pencil', '-', 'cent', '-'], ['-', 'cent', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['dollar', '-', 'cent', '-'], ['-', '-', 'pen and pencil', '-']]
+-1
+[['pen and pencil', '-', '-', 'pencil'], ['pencil', '-', 'cent', '-'], ['dollar', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'cent'], ['pencil', '-', 'cent', '-'], ['pen and pencil', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['dollar', '-', 'pen and pencil', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', 'piece', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', 'pencil', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', '-', 'cent', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+-1
+[['pencil', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', 'cent', '-'], ['-', '-', 'pencil', '-']]
+-1
+[['pen and pencil', '-', 'pencil', '-'], ['pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['-', '-', 'pencil', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', 'pen and pencil', 'cent', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['-', 'pencil', '-', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'cent', '-'], ['cent', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['-', '-', 'pen and pencil', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['pen and pencil', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pen and pencil', '-', 'cent', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'cent', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['dollar', '-', 'cent', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['-', '-', '-', 'pencil']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['pen and pencil', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['-', '-', 'pencil', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['pencil', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['pencil', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['pencil', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'pencil'], ['pencil', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['pencil', '-', '-', '-'], ['-', '-', '-', 'pencil']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', '-', '-'], ['pen and pencil', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', 'pen and pencil', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', '-'], ['pencil', '-', '-', 'pen and pencil'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', 'pencil', '-'], ['pencil', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['pencil', '-', '-', '-'], ['pencil', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['pen and pencil', '-', '-', 'dollar'], ['-', '-', 'pen and pencil', '-'], ['-', '-', '-', '-']]

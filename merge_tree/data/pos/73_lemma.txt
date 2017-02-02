@@ -1,11 +1,10 @@
 the/dt
-johnson/nnp
-farm/nnp
+johnson/nn
+farm/nn
 has/vbz
 500/cd
-acres/nns
-of/in
 land/nn
+acres/nns
 allotted/vbn
 for/in
 cultivating/vbg
@@ -18,6 +17,10 @@ of/in
 cultivating/vbg
 corn/nn
 and/cc
+cost/nn
+of/in
+cost/nn
+of/in
 wheat/nn
 is/vbz
 42/cd
@@ -25,11 +28,17 @@ dollars/nns
 for/in
 corn/nn
 and/cc
+cost/nn
+of/in
+cost/nn
+of/in
+cost/nn
+of/in
 30/cd
 dollars/nns
 for/in
-wheat . / nnp
-mr.johnson / nnp
+wheat . / NN
+mr.johnson / NN
 has/vbz
 18,600 / CD
 dollars/nns
@@ -56,10 +65,8 @@ corn/vbz
 and/cc
 how/wrb
 many/jj
+wheat/nnp
 acres/nns
-of/in
-wheat/nn
 should/md
 he/prp
-plant ? / vb
 plant ? / vb

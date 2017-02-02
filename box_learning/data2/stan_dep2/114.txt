@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (NP (NNP Maggie))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT a) (NN job))
+        (VP
+          (VBG working)
+          (PP
+            (IN in)
+            (NP
+              (NP (DT an) (NN office))
+              (PP
+                (IN for)
+                (NP
+                  (NP
+                    (NP (CD 10) (NNS dollars))
+                    (NP (DT an) (NN hour)))
+                  (CC and)
+                  (NP
+                    (NP (DT another) (NN job))
+                    (VP
+                      (VBG driving)
+                      (NP
+                        (NP (DT a) (NN tractor))
+                        (PP
+                          (IN for)
+                          (NP
+                            (NP (CD 12) (NNS dollars))
+                            (NP (DT an) (NN hour))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP-TMP (CD One) (NN week))
+    (NP (PRP she))
+    (VP
+      (VBZ works)
+      (PP
+        (IN in)
+        (NP (DT the) (NN office) (QP (RB twice) (RB as) (JJ long))))
+      (SBAR
+        (IN as)
+        (S
+          (NP (PRP she))
+          (VP (VBZ drives) (NP (DT the) (NN tractor))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Her) (JJ total) (NN income))
+      (PP (IN for) (NP (DT that) (NN week))))
+    (VP (VBZ is) (NP (CD 416) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS hours))
+    (SQ
+      (VBD did)
+      (NP (PRP she))
+      (VP (VB spend) (PP (IN at) (NP (DT the) (NN office)))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS hours))
+    (S (VP (VBG driving) (NP (DT the) (NN tractor))))
+    (. ?)))

@@ -1,0 +1,298 @@
+1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', 'people', '-', '-'], ['-', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['-', '-', '-', '-'], ['general laborer', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'people', '-', '-'], ['-', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['-', '-', '-', '-'], ['general laborer', '-', '-', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'people', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'people', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'people', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'heavy equipment operator'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'people', 'dollar']]
+-1
+[['general laborer', 'people', '-', 'dollar'], ['heavy equipment operator', 'people', 'dollar', '-'], ['people', '-', 'dollar', '-']]
+-1
+[['-', 'people', 'general laborer', 'heavy equipment operator'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'people', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['dollar', '-', 'general laborer', 'people'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', 'heavy equipment operator', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', 'heavy equipment operator', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'laborer'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['heavy equipment operator', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'general laborer', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['heavy equipment operator', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', 'heavy equipment operator', 'dollar', '-']]
+-1
+[['-', '-', '-', 'heavy equipment operator'], ['heavy equipment operator', 'general laborer', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['heavy equipment operator', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'heavy equipment operator', '-']]
+-1
+[['-', 'general laborer', '-', 'dollar'], ['general laborer', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'laborer', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'heavy equipment operator', 'people']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['heavy equipment operator', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', 'heavy equipment operator']]
+-1
+[['dollar', 'people', 'general laborer', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'general laborer', 'people'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'temporary construction help', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', 'general laborer'], ['general laborer', 'people', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', 'people'], ['people', '-', 'dollar', '-']]
+-1
+[['-', 'people', 'general laborer', 'dollar'], ['-', 'general laborer', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'general laborer', '-', 'dollar'], ['-', '-', 'general laborer', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', 'general laborer', 'dollar'], ['-', '-', 'dollar', 'people'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', 'temporary construction help']]
+-1
+[['-', 'people', 'general laborer', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', 'people', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', 'dollar', '-', '-'], ['people', '-', 'dollar', '-']]
+-1
+[['-', 'heavy equipment operator', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['heavy equipment operator', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'heavy equipment operator'], ['heavy equipment operator', '-', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-']]
+-1
+[['-', 'people', 'employment agency', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'heavy equipment operator'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', 'heavy equipment operator', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', 'dollar', 'people', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', 'heavy equipment operator', 'dollar', 'people']]
+-1
+[['-', 'people', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['-', '-', 'dollar', 'people']]
+-1
+[['-', 'people', 'heavy equipment operator', 'dollar'], ['heavy equipment operator', '-', 'people', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['employment agency', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'heavy equipment operator'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', 'dollar', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'general laborer', '-'], ['general laborer', 'dollar', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'people', '-']]
+-1
+[['-', 'people', '-', 'heavy equipment operator'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'heavy equipment operator', '-']]
+-1
+[['heavy equipment operator', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', 'heavy equipment operator', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'employ', '-'], ['general laborer', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', 'general laborer', 'dollar', '-'], ['general laborer', '-', '-', 'heavy equipment operator']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', 'general laborer'], ['general laborer', 'heavy equipment operator', '-', '-']]
+-1
+[['-', '-', 'general laborer', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', 'heavy equipment operator', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['general laborer', '-', 'dollar', '-'], ['general laborer', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', 'general laborer'], ['general laborer', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', 'employ'], ['general laborer', '-', '-', '-']]
+-1
+[['-', 'heavy equipment operator', '-', '-'], ['heavy equipment operator', '-', 'dollar', 'general laborer'], ['general laborer', '-', '-', '-']]
+-1
+[['heavy equipment operator', 'people', '-', 'general laborer'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+-1
+[['-', 'people', 'general laborer', '-'], ['heavy equipment operator', 'people', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', 'dollar', '-', '-'], ['general laborer', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['general laborer', 'employ', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'general laborer', '-'], ['general laborer', '-', '-', 'dollar']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'general laborer', '-'], ['general laborer', '-', 'dollar', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', 'general laborer'], ['people', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', 'people'], ['general laborer', 'dollar', '-', '-']]
+-1
+[['-', 'people', 'general laborer', 'dollar'], ['-', '-', 'dollar', '-'], ['general laborer', '-', '-', 'dollar']]
+-1
+[['laborer', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['general laborer', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['dollar', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['dollar', '-', 'people', '-']]
+-1
+[['-', 'people', '-', 'heavy equipment operator'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', '-', 'heavy equipment operator']]
+-1
+[['-', 'general laborer', '-', 'dollar'], ['general laborer', '-', '-', '-'], ['general laborer', '-', '-', '-']]
+-1
+[['general laborer', 'people', '-', 'dollar'], ['dollar', '-', '-', '-'], ['general laborer', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'employ'], ['heavy equipment operator', '-', '-', '-'], ['general laborer', '-', '-', '-']]
+-1
+[['heavy equipment operator', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['people', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'people', '-'], ['-', '-', '-', 'people']]
+-1
+[['heavy equipment operator', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', 'people', '-', 'heavy equipment operator'], ['heavy equipment operator', '-', 'dollar', 'people'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', 'employ', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', 'heavy equipment operator', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', 'heavy equipment operator', '-']]
+-1
+[['heavy equipment operator', '-', '-', 'dollar'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', 'people', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', 'people'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['-', 'people', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'people', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['people', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', 'people'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', 'people']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', 'people', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'heavy equipment operator'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', 'people', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['heavy equipment operator', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', '-', 'heavy equipment operator']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', '-', 'dollar'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', 'heavy equipment operator', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', '-', 'people'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['people', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', '-', '-'], ['heavy equipment operator', '-', '-', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', '-', '-', '-'], ['-', '-', 'heavy equipment operator', '-']]
+-1
+[['-', 'people', '-', '-'], ['heavy equipment operator', 'people', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', 'people']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'people', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['people', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', '-', '-'], ['people', '-', '-', '-']]
+-1
+[['-', 'people', '-', 'dollar'], ['-', '-', 'people', '-'], ['-', '-', '-', '-']]

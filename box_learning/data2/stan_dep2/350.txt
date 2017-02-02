@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (DT A) (NN woman))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN paid)
+        (NP
+          (NP (CD 20) (NNS dollars))
+          (PP
+            (IN for)
+            (NP
+              (NP (DT each) (NN day))
+              (SBAR
+                (S
+                  (NP (PRP she))
+                  (VP
+                    (VBZ works)
+                    (CC and)
+                    (VBZ forfeits)
+                    (NP
+                      (NP (CD 5) (NNS dollars))
+                      (PP
+                        (IN for)
+                        (NP
+                          (NP (DT each) (NN day))
+                          (SBAR
+                            (S
+                              (NP (PRP she))
+                              (VP (VBZ is) (ADJP (JJ idle))))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (PP
+      (IN At)
+      (NP
+        (NP (DT the) (NN end))
+        (PP (IN of) (NP (CD 25) (NNS days)))))
+    (NP (PRP she))
+    (VP (VBZ nets) (NP (CD 450) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS days))
+    (SQ (VBD did) (NP (PRP she)) (VP (VB work)))
+    (. ?)))

@@ -1,0 +1,14 @@
+1
+[['pumpkin', '80', 'pumpkin', '-', '-', 'dollar', '395'], ['jumbo pumpkin', 'x1', '-', 'dollar', '9', '-', '-'], ['regular pumpkin', 'x2', '-', 'dollar', '4', '-', '-']]
+-1
+[['pumpkin', '80', 'x2', '-', 'regular pumpkin', 'dollar', '395'], ['jumbo pumpkin', 'x1', '-', 'dollar', '9', '-', '-'], ['regular pumpkin', 'x2', '395', 'dollar', '80', '-', 'pumpkin']]
+-1
+[['pumpkin', 'x2', 'pumpkin', '-', '-', 'dollar', '395'], ['jumbo pumpkin', 'x1', '-', 'dollar', '9', '-', '-'], ['395', 'x2', '-', 'dollar', '4', '-', '-']]
+-1
+[['pumpkin', 'regular pumpkin', 'pumpkin', 'dollar', '-', '4', '395'], ['jumbo pumpkin', 'x1', '-', 'dollar', '9', '-', '-'], ['regular pumpkin', 'x2', '395', 'dollar', '4', '-', '-']]
+-1
+[['pumpkin', '80', 'pumpkin', '-', '-', 'dollar', 'regular pumpkin'], ['jumbo pumpkin', 'x1', '-', 'dollar', '9', '-', '-'], ['regular pumpkin', 'x2', '-', 'pumpkin', 'dollar', '-', '-']]
+-1
+[['pumpkin', 'x2', 'pumpkin', '-', '-', '4', '395'], ['jumbo pumpkin', 'x1', '-', 'dollar', '9', '-', '-'], ['regular pumpkin', 'x2', '-', 'dollar', '4', '-', '-']]
+-1
+[['x2', '80', 'pumpkin', '4', '-', 'dollar', '395'], ['jumbo pumpkin', 'x1', '-', 'dollar', '9', '-', '-'], ['regular pumpkin', 'x2', 'pumpkin', 'dollar', '4', '80', '395']]

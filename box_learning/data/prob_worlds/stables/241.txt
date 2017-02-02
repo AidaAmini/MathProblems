@@ -1,0 +1,24 @@
+1
+[['first shipment', '-', '-', '-', '-', 'dollar', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', '-', 'dollar', 'x2', '-', '-'], ['first shipment', '-', '-', '-', '-', 'dollar', '550'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '15', '-', 'dollar', 'x2', '-', '-']]
+-1
+[['20', '15', '-', '-', '-', 'identical jacket', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['first shipment', '20', '-', 'dollar', 'x2', '-', '-'], ['first shipment', 'identical jacket', '-', '15', 'x2', 'dollar', '550'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['20', 'first shipment', '-', '15', 'x2', 'identical jacket', '-']]
+-1
+[['identical jacket', '-', '-', '-', '-', 'dollar', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '15', '550', 'dollar', '800', '-', '-'], ['800', '-', '-', 'identical jacket', '-', 'dollar', '20'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '800', '-', 'dollar', 'x2', '-', '550']]
+-1
+[['first shipment', '20', '-', '-', '550', 'dollar', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', '800', 'dollar', '15', '-', '-'], ['first shipment', 'x2', '-', '-', '-', 'dollar', '550'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '15', '800', 'dollar', 'x2', '-', '-']]
+-1
+[['first shipment', '-', '-', 'dollar', '-', 'identical jacket', '800'], ['identical sweater', '10', '5', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', '-', 'dollar', 'x2', '15', '-'], ['identical jacket', '-', '20', '-', 'dollar', 'x2', '550'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '15', '-', 'dollar', '20', 'first shipment', '-']]
+-1
+[['20', 'first shipment', '-', '-', 'identical jacket', '15', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', '15', 'dollar', 'x2', 'first shipment', '-'], ['first shipment', '-', '-', '-', '-', 'dollar', '15'], ['identical sweater', '5', '-', 'dollar', '10', '-', '-'], ['identical jacket', '15', '-', 'first shipment', 'x2', '-', '20']]
+-1
+[['first shipment', '-', 'identical jacket', '-', '-', 'dollar', '20'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', 'first shipment', '-', 'dollar', 'x2', '-', '15'], ['first shipment', '20', '-', '-', '-', 'x2', 'identical jacket'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '15', '-', '20', 'x2', '-', '-']]
+-1
+[['first shipment', '-', 'identical jacket', 'x2', '-', 'dollar', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', '-', 'dollar', 'x2', '-', '-'], ['first shipment', 'identical jacket', '-', '-', 'x2', 'dollar', '550'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '15', '-', 'dollar', 'first shipment', 'x2', '-']]
+-1
+[['550', '-', '-', '-', '-', 'identical jacket', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '550', 'first shipment', '15', 'x2', '-', '-'], ['first shipment', '-', '-', '-', '-', '800', '550'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '15', '-', 'dollar', 'x2', '-', '-']]
+-1
+[['first shipment', '-', '-', 'identical jacket', '-', 'dollar', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', '-', 'dollar', 'x2', '-', '-'], ['first shipment', '-', 'x2', '-', '20', 'dollar', '550'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', '-', 'dollar', 'x2', '-', '-']]
+-1
+[['first shipment', '550', '-', '20', '-', 'identical jacket', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', 'first shipment', '550', 'x2', '-', '15'], ['20', '-', '-', '-', '-', 'dollar', '550'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', 'dollar', 'first shipment', 'x2', '550', '-']]
+-1
+[['first shipment', '-', '20', '-', 'x2', 'dollar', '800'], ['identical sweater', '10', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', '20', '-', 'dollar', 'x2', '-', '-'], ['first shipment', '-', '-', '-', '-', 'dollar', '20'], ['identical sweater', '5', '-', 'dollar', 'x1', '-', '-'], ['identical jacket', 'first shipment', '-', 'dollar', '800', '-', 'x2']]

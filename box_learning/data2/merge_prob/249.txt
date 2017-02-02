@@ -1,0 +1,227 @@
+['366 ticket', 'school play', 'ticket', 'of student ticket', 'two time', 'of adult ticket', 'adult ticket']
+['366 ticket']	['school play']	0.0901100077042
+['366 ticket']	['of student ticket']	0.565570654525
+['366 ticket']	['two time']	0.0901100077042
+['366 ticket']	['of adult ticket']	0.565570654525
+['366 ticket']	['adult ticket']	0.644695369786
+['school play']	['ticket']	0.0796915628824
+['school play']	['of student ticket']	0.0941266761548
+['school play']	['two time']	0.0901100077042
+['school play']	['of adult ticket']	0.0941266761548
+['school play']	['adult ticket']	0.0897823390711
+['ticket']	['two time']	0.0676679453624
+['of student ticket']	['two time']	0.0988755105172
+['of student ticket']	['of adult ticket']	0.520767003518
+['of student ticket']	['adult ticket']	0.579879964071
+['two time']	['of adult ticket']	0.0941266761548
+['two time']	['adult ticket']	0.0824069519204
+['school play', '366 ticket']	['ticket']	0.677007875188
+['school play', '366 ticket']	['of student ticket']	0.632572837849
+['school play', '366 ticket']	['two time']	0.0901100077042
+['school play', '366 ticket']	['of adult ticket']	0.632572837849
+['school play', '366 ticket']	['adult ticket']	0.577101062223
+['ticket', '366 ticket']	['school play']	0.223557185055
+['ticket', '366 ticket']	['of student ticket']	0.733119489644
+['ticket', '366 ticket']	['two time']	0.237317906735
+['ticket', '366 ticket']	['of adult ticket']	0.733119489644
+['ticket', '366 ticket']	['adult ticket']	0.777337718138
+['of student ticket', '366 ticket']	['school play']	0.188690699416
+['of student ticket', '366 ticket']	['ticket']	0.814773766717
+['of student ticket', '366 ticket']	['two time']	0.188690699416
+['of student ticket', '366 ticket']	['of adult ticket']	0.672275579746
+['of student ticket', '366 ticket']	['adult ticket']	0.709196426583
+['two time', '366 ticket']	['school play']	0.0827346205535
+['two time', '366 ticket']	['ticket']	0.674670107747
+['two time', '366 ticket']	['of student ticket']	0.632572837849
+['two time', '366 ticket']	['of adult ticket']	0.632572837849
+['two time', '366 ticket']	['adult ticket']	0.542633257095
+['of adult ticket', '366 ticket']	['school play']	0.188690699416
+['of adult ticket', '366 ticket']	['ticket']	0.814773766717
+['of adult ticket', '366 ticket']	['of student ticket']	0.672275579746
+['of adult ticket', '366 ticket']	['two time']	0.188690699416
+['of adult ticket', '366 ticket']	['adult ticket']	0.958004982465
+['adult ticket', '366 ticket']	['school play']	0.247329860011
+['adult ticket', '366 ticket']	['ticket']	0.717918257103
+['adult ticket', '366 ticket']	['of student ticket']	0.640750336838
+['adult ticket', '366 ticket']	['two time']	0.144528281371
+['adult ticket', '366 ticket']	['of adult ticket']	0.930399409632
+['366 ticket', 'school play']	['ticket']	0.677007875188
+['366 ticket', 'school play']	['of student ticket']	0.632572837849
+['366 ticket', 'school play']	['two time']	0.0901100077042
+['366 ticket', 'school play']	['of adult ticket']	0.632572837849
+['366 ticket', 'school play']	['adult ticket']	0.577101062223
+['ticket', 'school play']	['366 ticket']	0.669973747197
+['ticket', 'school play']	['of student ticket']	0.655632174079
+['ticket', 'school play']	['two time']	0.0703393045902
+['ticket', 'school play']	['of adult ticket']	0.655632174079
+['ticket', 'school play']	['adult ticket']	0.604465896967
+['of student ticket', 'school play']	['366 ticket']	0.653642048458
+['of student ticket', 'school play']	['ticket']	0.806864595406
+['of student ticket', 'school play']	['two time']	0.15961386663
+['of student ticket', 'school play']	['of adult ticket']	0.689142469169
+['of student ticket', 'school play']	['adult ticket']	0.628589638133
+['two time', 'school play']	['366 ticket']	0.0901100077042
+['two time', 'school play']	['ticket']	0.0796915628824
+['two time', 'school play']	['of student ticket']	0.0941266761548
+['two time', 'school play']	['of adult ticket']	0.0941266761548
+['two time', 'school play']	['adult ticket']	0.0824069519204
+['of adult ticket', 'school play']	['366 ticket']	0.653642048458
+['of adult ticket', 'school play']	['ticket']	0.806864595406
+['of adult ticket', 'school play']	['of student ticket']	0.689142469169
+['of adult ticket', 'school play']	['two time']	0.15961386663
+['of adult ticket', 'school play']	['adult ticket']	0.948067886599
+['adult ticket', 'school play']	['366 ticket']	0.544221442934
+['adult ticket', 'school play']	['ticket']	0.618159755596
+['adult ticket', 'school play']	['of student ticket']	0.580830939755
+['adult ticket', 'school play']	['two time']	0.0696933362217
+['adult ticket', 'school play']	['of adult ticket']	0.881426595106
+['366 ticket', 'ticket']	['school play']	0.223557185055
+['366 ticket', 'ticket']	['of student ticket']	0.733119489644
+['366 ticket', 'ticket']	['two time']	0.237317906735
+['366 ticket', 'ticket']	['of adult ticket']	0.733119489644
+['366 ticket', 'ticket']	['adult ticket']	0.777337718138
+['school play', 'ticket']	['366 ticket']	0.669973747197
+['school play', 'ticket']	['of student ticket']	0.655632174079
+['school play', 'ticket']	['two time']	0.0703393045902
+['school play', 'ticket']	['of adult ticket']	0.655632174079
+['school play', 'ticket']	['adult ticket']	0.604465896967
+['of student ticket', 'ticket']	['366 ticket']	0.77025200564
+['of student ticket', 'ticket']	['school play']	0.223557185055
+['of student ticket', 'ticket']	['two time']	0.237317906735
+['of student ticket', 'ticket']	['of adult ticket']	0.696464014138
+['of student ticket', 'ticket']	['adult ticket']	0.760355395096
+['two time', 'ticket']	['366 ticket']	0.669973747197
+['two time', 'ticket']	['school play']	0.0707439302222
+['two time', 'ticket']	['of student ticket']	0.655632174079
+['two time', 'ticket']	['of adult ticket']	0.655632174079
+['two time', 'ticket']	['adult ticket']	0.594789395538
+['of adult ticket', 'ticket']	['366 ticket']	0.77025200564
+['of adult ticket', 'ticket']	['school play']	0.223557185055
+['of adult ticket', 'ticket']	['of student ticket']	0.696464014138
+['of adult ticket', 'ticket']	['two time']	0.237317906735
+['of adult ticket', 'ticket']	['adult ticket']	0.628176134002
+['adult ticket', 'ticket']	['366 ticket']	0.789825666472
+['adult ticket', 'ticket']	['school play']	0.260700666745
+['adult ticket', 'ticket']	['of student ticket']	0.744338714176
+['adult ticket', 'ticket']	['two time']	0.274461388425
+['adult ticket', 'ticket']	['of adult ticket']	0.731611878005
+['366 ticket', 'of student ticket']	['school play']	0.188690699416
+['366 ticket', 'of student ticket']	['ticket']	0.814773766717
+['366 ticket', 'of student ticket']	['two time']	0.188690699416
+['366 ticket', 'of student ticket']	['of adult ticket']	0.672275579746
+['366 ticket', 'of student ticket']	['adult ticket']	0.709196426583
+['school play', 'of student ticket']	['366 ticket']	0.653642048458
+['school play', 'of student ticket']	['ticket']	0.806864595406
+['school play', 'of student ticket']	['two time']	0.15961386663
+['school play', 'of student ticket']	['of adult ticket']	0.689142469169
+['school play', 'of student ticket']	['adult ticket']	0.628589638133
+['ticket', 'of student ticket']	['366 ticket']	0.77025200564
+['ticket', 'of student ticket']	['school play']	0.223557185055
+['ticket', 'of student ticket']	['two time']	0.237317906735
+['ticket', 'of student ticket']	['of adult ticket']	0.696464014138
+['ticket', 'of student ticket']	['adult ticket']	0.760355395096
+['two time', 'of student ticket']	['366 ticket']	0.653642048458
+['two time', 'of student ticket']	['school play']	0.152238479479
+['two time', 'of student ticket']	['ticket']	0.806864595406
+['two time', 'of student ticket']	['of adult ticket']	0.689142469169
+['two time', 'of student ticket']	['adult ticket']	0.616556347736
+['of adult ticket', 'of student ticket']	['366 ticket']	0.678120700715
+['of adult ticket', 'of student ticket']	['school play']	0.127952343303
+['of adult ticket', 'of student ticket']	['ticket']	0.680800078882
+['of adult ticket', 'of student ticket']	['two time']	0.127952343303
+['of adult ticket', 'of student ticket']	['adult ticket']	0.964557638761
+['adult ticket', 'of student ticket']	['366 ticket']	0.737824087759
+['adult ticket', 'of student ticket']	['school play']	0.25488065748
+['adult ticket', 'of student ticket']	['ticket']	0.765184576446
+['adult ticket', 'of student ticket']	['two time']	0.187498204907
+['adult ticket', 'of student ticket']	['of adult ticket']	0.967933203933
+['366 ticket', 'two time']	['school play']	0.0827346205535
+['366 ticket', 'two time']	['ticket']	0.674670107747
+['366 ticket', 'two time']	['of student ticket']	0.632572837849
+['366 ticket', 'two time']	['of adult ticket']	0.632572837849
+['366 ticket', 'two time']	['adult ticket']	0.542633257095
+['school play', 'two time']	['366 ticket']	0.0901100077042
+['school play', 'two time']	['ticket']	0.0796915628824
+['school play', 'two time']	['of student ticket']	0.0941266761548
+['school play', 'two time']	['of adult ticket']	0.0941266761548
+['school play', 'two time']	['adult ticket']	0.0824069519204
+['ticket', 'two time']	['366 ticket']	0.669973747197
+['ticket', 'two time']	['school play']	0.0707439302222
+['ticket', 'two time']	['of student ticket']	0.655632174079
+['ticket', 'two time']	['of adult ticket']	0.655632174079
+['ticket', 'two time']	['adult ticket']	0.594789395538
+['of student ticket', 'two time']	['366 ticket']	0.653642048458
+['of student ticket', 'two time']	['school play']	0.152238479479
+['of student ticket', 'two time']	['ticket']	0.806864595406
+['of student ticket', 'two time']	['of adult ticket']	0.689142469169
+['of student ticket', 'two time']	['adult ticket']	0.616556347736
+['of adult ticket', 'two time']	['366 ticket']	0.653642048458
+['of adult ticket', 'two time']	['school play']	0.152238479479
+['of adult ticket', 'two time']	['ticket']	0.806864595406
+['of adult ticket', 'two time']	['of student ticket']	0.689142469169
+['of adult ticket', 'two time']	['adult ticket']	0.955608186011
+['adult ticket', 'two time']	['366 ticket']	0.544221442934
+['adult ticket', 'two time']	['school play']	0.0663445115919
+['adult ticket', 'two time']	['ticket']	0.618159755596
+['adult ticket', 'two time']	['of student ticket']	0.580830939755
+['adult ticket', 'two time']	['of adult ticket']	0.881426595106
+['366 ticket', 'of adult ticket']	['school play']	0.188690699416
+['366 ticket', 'of adult ticket']	['ticket']	0.814773766717
+['366 ticket', 'of adult ticket']	['of student ticket']	0.672275579746
+['366 ticket', 'of adult ticket']	['two time']	0.188690699416
+['366 ticket', 'of adult ticket']	['adult ticket']	0.958004982465
+['school play', 'of adult ticket']	['366 ticket']	0.653642048458
+['school play', 'of adult ticket']	['ticket']	0.806864595406
+['school play', 'of adult ticket']	['of student ticket']	0.689142469169
+['school play', 'of adult ticket']	['two time']	0.15961386663
+['school play', 'of adult ticket']	['adult ticket']	0.948067886599
+['ticket', 'of adult ticket']	['366 ticket']	0.77025200564
+['ticket', 'of adult ticket']	['school play']	0.223557185055
+['ticket', 'of adult ticket']	['of student ticket']	0.696464014138
+['ticket', 'of adult ticket']	['two time']	0.237317906735
+['ticket', 'of adult ticket']	['adult ticket']	0.628176134002
+['of student ticket', 'of adult ticket']	['366 ticket']	0.678120700715
+['of student ticket', 'of adult ticket']	['school play']	0.127952343303
+['of student ticket', 'of adult ticket']	['ticket']	0.680800078882
+['of student ticket', 'of adult ticket']	['two time']	0.127952343303
+['of student ticket', 'of adult ticket']	['adult ticket']	0.964557638761
+['two time', 'of adult ticket']	['366 ticket']	0.653642048458
+['two time', 'of adult ticket']	['school play']	0.152238479479
+['two time', 'of adult ticket']	['ticket']	0.806864595406
+['two time', 'of adult ticket']	['of student ticket']	0.689142469169
+['two time', 'of adult ticket']	['adult ticket']	0.955608186011
+['adult ticket', 'of adult ticket']	['366 ticket']	0.737824087759
+['adult ticket', 'of adult ticket']	['school play']	0.25488065748
+['adult ticket', 'of adult ticket']	['ticket']	0.765184576446
+['adult ticket', 'of adult ticket']	['of student ticket']	0.752009766166
+['adult ticket', 'of adult ticket']	['two time']	0.187498204907
+['366 ticket', 'adult ticket']	['school play']	0.247329860011
+['366 ticket', 'adult ticket']	['ticket']	0.717918257103
+['366 ticket', 'adult ticket']	['of student ticket']	0.640750336838
+['366 ticket', 'adult ticket']	['two time']	0.144528281371
+['366 ticket', 'adult ticket']	['of adult ticket']	0.930399409632
+['school play', 'adult ticket']	['366 ticket']	0.544221442934
+['school play', 'adult ticket']	['ticket']	0.618159755596
+['school play', 'adult ticket']	['of student ticket']	0.580830939755
+['school play', 'adult ticket']	['two time']	0.0696933362217
+['school play', 'adult ticket']	['of adult ticket']	0.881426595106
+['ticket', 'adult ticket']	['366 ticket']	0.789825666472
+['ticket', 'adult ticket']	['school play']	0.260700666745
+['ticket', 'adult ticket']	['of student ticket']	0.744338714176
+['ticket', 'adult ticket']	['two time']	0.274461388425
+['ticket', 'adult ticket']	['of adult ticket']	0.731611878005
+['of student ticket', 'adult ticket']	['366 ticket']	0.737824087759
+['of student ticket', 'adult ticket']	['school play']	0.25488065748
+['of student ticket', 'adult ticket']	['ticket']	0.765184576446
+['of student ticket', 'adult ticket']	['two time']	0.187498204907
+['of student ticket', 'adult ticket']	['of adult ticket']	0.967933203933
+['two time', 'adult ticket']	['366 ticket']	0.544221442934
+['two time', 'adult ticket']	['school play']	0.0663445115919
+['two time', 'adult ticket']	['ticket']	0.618159755596
+['two time', 'adult ticket']	['of student ticket']	0.580830939755
+['two time', 'adult ticket']	['of adult ticket']	0.881426595106
+['of adult ticket', 'adult ticket']	['366 ticket']	0.737824087759
+['of adult ticket', 'adult ticket']	['school play']	0.25488065748
+['of adult ticket', 'adult ticket']	['ticket']	0.765184576446
+['of adult ticket', 'adult ticket']	['of student ticket']	0.752009766166
+['of adult ticket', 'adult ticket']	['two time']	0.187498204907

@@ -1,0 +1,14 @@
+have ARG0 One unit of whole wheat flour
+have ARG1 13.6 grams of protein and 2.5 grams of fat.
+
+have ARG0 One unit of whole milk
+have ARG1 3.4 grams of protein and 3.7 grams of fat.
+
+find TMP To the nearest tenth
+find ARG1 the number of units of whole wheat flour and whole milk that must be mixed to make dough that has 75 grams of protein and 15 grams of fat
+have ARG0 the number of units of whole wheat flour and whole milk that must be mixed to make dough that has 75 grams of protein and 15 grams of fat
+make ARG0 the number of units of whole wheat flour and whole milk that must be mixed to make dough that has 75 grams of protein and 15 grams of fat
+mix PNC to make dough
+make ARG1 dough
+have ARG1 75 grams of protein and 15 grams of fat
+

@@ -1,0 +1,188 @@
+1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+1
+[['-', '-', '-', '-'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['and hot-water bottle', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['thermometer', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'and hot-water bottle', '-'], ['and hot-water bottle', '-', 'thermometer', '-']]
+-1
+[['thermometer', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', 'thermometer']]
+-1
+[['-', 'and hot-water bottle', '-', 'dollar'], ['and hot-water bottle', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', 'thermometer', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'thermometer'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'thermometer', '-']]
+-1
+[['hot-water bottle', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['dollar', '-', '-', 'and hot-water bottle'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'thermometer'], ['thermometer', '-', 'dollar', '-'], ['thermometer', '-', 'dollar', '-']]
+-1
+[['and hot-water bottle', '-', '-', '-'], ['thermometer', 'and hot-water bottle', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'and hot-water bottle'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', 'dollar', '-'], ['thermometer', 'and hot-water bottle', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', '-'], ['month', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['and hot-water bottle', '-', '-', 'dollar'], ['and hot-water bottle', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', 'and hot-water bottle', '-', 'dollar'], ['-', '-', 'and hot-water bottle', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'and hot-water bottle'], ['-', '-', 'and hot-water bottle', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'and hot-water bottle'], ['-', 'and hot-water bottle', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', 'and hot-water bottle', 'dollar'], ['-', '-', 'dollar', 'and hot-water bottle'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', 'wal-mart', 'dollar'], ['-', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'and hot-water bottle'], ['thermometer', 'dollar', '-', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', 'and hot-water bottle', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', 'dollar', 'thermometer']]
+-1
+[['-', 'thermometer', 'and hot-water bottle', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', 'thermometer', '-']]
+-1
+[['-', 'and hot-water bottle', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['item', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', 'dollar', '-']]
+-1
+[['thermometer', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', 'thermometer', 'dollar', '-']]
+-1
+[['-', 'thermometer', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', 'thermometer', 'dollar', '-']]
+-1
+[['-', '-', 'thermometer', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', '-', 'dollar', 'thermometer']]
+-1
+[['-', '-', 'dollar', 'thermometer'], ['thermometer', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['-', '-', 'thermometer', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['thermometer', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['month', '-', 'dollar', '-']]
+-1
+[['-', 'and hot-water bottle', '-', 'dollar'], ['and hot-water bottle', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['thermometer', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'and hot-water bottle'], ['thermometer', '-', 'and hot-water bottle', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['and hot-water bottle', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', 'dollar', '-', '-']]
+-1
+[['-', 'and hot-water bottle', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', 'thermometer']]
+-1
+[['-', '-', '-', 'dollar'], ['hot-water', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['dollar', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['-', '-', '-', 'thermometer'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['thermometer', '-', '-', '-']]
+-1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', 'thermometer']]
+-1
+[['-', '-', '-', 'dollar'], ['-', 'and hot-water bottle', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['-', '-', '-', 'and hot-water bottle'], ['-', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['and hot-water bottle', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['and hot-water bottle', 'dollar', '-', '-']]
+-1
+[['-', 'and hot-water bottle', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['thermometer', '-', '-', '-']]
+-1
+[['and hot-water bottle', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['thermometer', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['and hot-water bottle', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', '-', 'thermometer', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['thermometer', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', 'dollar', '-'], ['-', 'thermometer', '-', '-']]
+-1
+[['-', '-', 'dollar', '-'], ['thermometer', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['-', '-', 'thermometer', '-']]
+-1
+[['thermometer', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', '-'], ['thermometer', '-', 'dollar', '-'], ['-', '-', '-', 'thermometer']]
+-1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'thermometer'], ['thermometer', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['-', 'thermometer', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', '-', '-', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['thermometer', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', 'thermometer', 'dollar'], ['thermometer', '-', '-', '-'], ['-', '-', '-', '-']]

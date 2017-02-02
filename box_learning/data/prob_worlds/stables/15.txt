@@ -1,0 +1,16 @@
+1
+[['45 % solution', '1000', 'milliliter', '%', '45', '-', '-'], ['25 % copper solution', 'x1', 'milliliter', '%', '25', '-', '-'], ['50 % copper solution', 'x2', 'milliliter', '%', '50', '-', '-']]
+-1
+[['50 % copper solution', '1000', 'milliliter', 'x2', '45', '-', '-'], ['25 % copper solution', 'x1', 'milliliter', '%', '25', '-', '-'], ['50 % copper solution', 'x2', 'milliliter', '45', '1000', '-', '45 % solution']]
+-1
+[['45 % solution', 'x2', 'milliliter', '50 % copper solution', '45', '-', '-'], ['25 % copper solution', 'x1', 'milliliter', '%', '25', '-', '-'], ['50 % copper solution', '45', 'milliliter', '45 % solution', 'x2', '-', '-']]
+-1
+[['50 % copper solution', '1000', 'milliliter', '50', '45', '-', '-'], ['25 % copper solution', 'x1', 'milliliter', '%', '25', '-', '-'], ['50 % copper solution', 'x2', '45 % solution', '45', '1000', '-', '-']]
+-1
+[['45 % solution', '1000', 'milliliter', 'x2', '45', '50', '-'], ['25 % copper solution', 'x1', 'milliliter', '%', '25', '-', '-'], ['45 % solution', 'x2', 'milliliter', '%', '50', '-', '-']]
+-1
+[['45 % solution', 'x2', 'milliliter', '50', '45', '-', '-'], ['25 % copper solution', 'x1', 'milliliter', '%', '25', '-', '-'], ['50 % copper solution', 'x2', 'milliliter', '%', '50', '-', '-']]
+-1
+[['45 % solution', '1000', 'milliliter', '%', '45', '-', '-'], ['25 % copper solution', 'x1', 'milliliter', '%', '25', '-', '-'], ['45 % solution', '1000', '%', '45', 'milliliter', '-', '-']]
+-1
+[['45 % solution', '1000', '50 % copper solution', 'milliliter', '45', '-', 'x2'], ['25 % copper solution', 'x1', 'milliliter', '%', '25', '-', '-'], ['45 % solution', 'x2', 'milliliter', '%', '45', '-', '-']]

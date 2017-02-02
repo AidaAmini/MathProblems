@@ -1,0 +1,16 @@
+No SRL relations found
+ask ARG0 Kerry
+cash ARG0 a bank teller
+ask ARG1 to cash a 390 dollars check using 20-dollar bills and 50-dollar bills
+ask ARG2 a bank teller
+cash ARG1 a 390 dollars check using 20-dollar bills and 50-dollar bills
+use ARG1 20-dollar bills and 50-dollar bills
+
+get ADV If the teller gave her a total of 15 bills
+give ARG0 the teller
+give ARG1 a total of 15 bills
+give ARG2 her
+get ARG1 20-dollar bills
+get ARG0 she
+
+

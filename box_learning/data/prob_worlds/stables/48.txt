@@ -1,0 +1,14 @@
+1
+[['coin', '40', 'coin', '-', '-', 'dollar', '125'], ['5-dollar coin', 'x1', '-', 'dollar', '5', '-', '-'], ['2-dollar coin', 'x2', '-', 'dollar', '2', '-', '-']]
+-1
+[['coin', '40', 'coin', '-', '-', 'dollar', 'x2'], ['5-dollar coin', 'x1', '-', 'dollar', '5', '-', '-'], ['2-dollar coin', 'x2', 'coin', '40', '2', '-', 'dollar']]
+-1
+[['2', 'x2', '40', '-', '-', 'dollar', '125'], ['5-dollar coin', 'x1', '-', 'dollar', '5', '-', '-'], ['40', 'x2', '-', '125', '2', 'dollar', '-']]
+-1
+[['2', '40', 'coin', '-', '-', 'dollar', '125'], ['5-dollar coin', 'x1', '-', 'dollar', '5', '-', '-'], ['2-dollar coin', '125', '40', 'coin', '2', '-', '-']]
+-1
+[['2', '40', 'coin', '-', '-', 'x2', '125'], ['5-dollar coin', 'x1', '-', 'dollar', '5', '-', '-'], ['2-dollar coin', 'x2', '-', '40', '2', 'dollar', 'coin']]
+-1
+[['2', 'x2', 'coin', '-', '-', 'dollar', '2-dollar coin'], ['5-dollar coin', 'x1', '-', 'dollar', '5', '-', '-'], ['2-dollar coin', 'dollar', '-', 'coin', '2', '125', '-']]
+-1
+[['dollar', '2', 'coin', '-', '-', '2-dollar coin', '125'], ['5-dollar coin', 'x1', '-', 'dollar', '5', '-', '-'], ['2-dollar coin', 'x2', 'coin', '125', '2', '-', '-']]

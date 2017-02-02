@@ -1,0 +1,298 @@
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', '-', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['soda', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['soda', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['soda', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['soda', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['soda', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['soda', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', '-', '-'], ['soda', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['soda', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['hot dog and soda', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', 'hot dog and soda', '-', 'hot dog']]
+-1
+[['hot dog and soda', 'dollar', '-', 'hot dog'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'hot dog', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['soda', '-', 'dollar', '-'], ['dollar', '-', 'hot dog and soda', '-']]
+-1
+[['hot dog and soda', '-', '-', 'hot dog'], ['hot dog', '-', 'soda', '-'], ['soda', 'hot dog', 'dollar', '-']]
+-1
+[['hot dog and soda', 'soda', '-', 'dollar'], ['soda', 'hot dog and soda', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'dollar', 'concession stand']]
+-1
+[['-', '-', 'soda', 'dollar'], ['hot dog', 'soda', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['hot dog', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'soda'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'hot dog', '-']]
+-1
+[['-', '-', '-', 'hot dog'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'hot dog', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', 'soda', 'dollar', '-'], ['hot dog', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', 'hot dog cost', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'hot dog and soda', '-'], ['soda', '-', 'dollar', 'hot dog and soda']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['hot dog and soda', '-', 'dollar', 'hot dog']]
+-1
+[['hot dog and soda', 'dollar', '-', '-'], ['hot dog', '-', 'dollar', 'hot dog and soda'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog', '-', '-', '-'], ['hot dog', '-', 'dollar', 'soda'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['hot dog', 'hot dog and soda', 'dollar', '-']]
+-1
+[['hot dog and soda', 'concession stand', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog and soda', 'soda', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'soda'], ['-', '-', 'dollar', '-'], ['soda', '-', 'dollar', 'hot dog and soda']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['soda', '-', 'dollar', '-'], ['soda', '-', 'dollar', 'hot dog and soda']]
+-1
+[['hot dog and soda', 'soda', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['soda', '-', 'hot dog and soda', '-']]
+-1
+[['hot dog and soda', '-', 'soda', 'dollar'], ['-', '-', 'soda', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', 'concession stand', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog', '-', '-', 'dollar'], ['hot dog', 'dollar', '-', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', 'hot dog and soda', '-', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog and soda', 'dollar', '-', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['dollar', '-', 'hot dog', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', 'hot dog and soda', '-', '-'], ['soda', '-', 'hot dog and soda', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', 'hot dog cost'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog and soda', '-', 'dollar', '-'], ['-', '-', 'hot dog and soda', '-']]
+-1
+[['hot dog and soda', '-', 'hot dog', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', 'hot dog', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', 'hot dog and soda'], ['-', 'hot dog', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'hot dog'], ['hot dog', '-', 'dollar', '-'], ['hot dog and soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog and soda', '-', 'dollar', '-'], ['-', 'hot dog and soda', 'dollar', '-']]
+-1
+[['hot dog cost', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['hot dog', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', 'dollar', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'hot dog and soda', '-'], ['soda', '-', 'hot dog and soda', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'hot dog and soda', '-'], ['dollar', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'hot dog and soda', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', 'soda'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', '-', 'hot dog cost']]
+-1
+[['-', 'soda', '-', 'hot dog'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', '-', '-']]
+-1
+[['soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', '-', 'hot dog']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', '-', 'hot dog']]
+-1
+[['-', '-', '-', 'hot dog'], ['hot dog', '-', 'dollar', '-'], ['hot dog', '-', '-', '-']]
+-1
+[['soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['hot dog cost', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['hot dog', 'dollar', '-', '-']]
+-1
+[['hot dog and soda', 'hot dog', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['soda', '-', 'hot dog', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['hot dog', '-', 'hot dog and soda', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', 'soda'], ['soda', '-', '-', 'hot dog']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', 'hot dog and soda'], ['soda', '-', '-', 'hot dog and soda']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', 'concession stand', 'dollar', '-'], ['soda', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'soda', '-'], ['soda', '-', '-', 'hot dog and soda']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', 'hot dog and soda'], ['soda', '-', '-', 'dollar']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['soda', '-', '-', 'dollar']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', 'soda', 'dollar', 'hot dog and soda'], ['soda', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', 'hot dog and soda'], ['hot dog and soda', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['soda', '-', 'hot dog cost', '-']]
+-1
+[['hot dog and soda', '-', '-', 'soda'], ['hot dog', '-', '-', '-'], ['soda', '-', 'hot dog and soda', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['soda', 'dollar', '-', '-']]
+-1
+[['hot dog', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['soda', '-', 'dollar', '-']]
+-1
+[['hot dog', 'soda', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['soda', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', 'soda', '-', '-'], ['soda', 'hot dog', '-', '-']]
+-1
+[['concession stand', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['soda', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'hot dog'], ['hot dog', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', 'hot dog and soda', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', 'hot dog and soda'], ['hot dog and soda', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', 'hot dog and soda'], ['-', 'dollar', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', 'hot dog and soda', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['concession stand', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['hot dog', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', '-', 'hot dog', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', 'hot dog']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', 'hot dog', '-'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['-', '-', '-', 'hot dog and soda']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'dollar', '-'], ['-', 'hot dog and soda', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['hot dog and soda', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'hot dog and soda', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', 'hot dog and soda', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['hot dog', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', 'hot dog and soda'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['hot dog and soda', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', '-', 'hot dog', 'dollar'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'hot dog', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', 'hot dog', '-', '-']]
+-1
+[['hot dog', '-', '-', 'dollar'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', 'hot dog', '-', '-'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', '-', '-'], ['-', '-', '-', 'hot dog and soda']]
+-1
+[['hot dog and soda', '-', 'hot dog', '-'], ['hot dog', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', '-', 'hot dog and soda', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', '-'], ['hot dog', 'hot dog and soda', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', '-', 'dollar'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['hot dog and soda', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['hot dog and soda', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['dollar', '-', '-', '-']]

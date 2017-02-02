@@ -1,0 +1,535 @@
+['red card', 'card', '3 credit', 'blue card', '5 credit', 'combination', '20 card', 'credit', '84 credit']
+['red card']	['3 credit']	0.0696933362217
+['red card']	['blue card']	0.80258510212
+['red card']	['5 credit']	0.0696933362217
+['red card']	['combination']	0.0634148935911
+['red card']	['20 card']	0.359669155411
+['red card']	['credit']	0.0406045365232
+['red card']	['84 credit']	0.0737139440912
+['card']	['3 credit']	0.0676679453624
+['card']	['5 credit']	0.0676679453624
+['card']	['combination']	0.136545095808
+['card']	['credit']	0.0817582901199
+['card']	['84 credit']	0.0676679453624
+['3 credit']	['blue card']	0.0824069519204
+['3 credit']	['5 credit']	0.828768839235
+['3 credit']	['combination']	0.12043965465
+['3 credit']	['20 card']	0.125971854627
+['3 credit']	['84 credit']	0.643440930505
+['blue card']	['5 credit']	0.0737139440912
+['blue card']	['combination']	0.0634148935911
+['blue card']	['20 card']	0.556137096067
+['blue card']	['credit']	0.0406045365232
+['blue card']	['84 credit']	0.0737139440912
+['5 credit']	['combination']	0.12043965465
+['5 credit']	['20 card']	0.125971854627
+['5 credit']	['84 credit']	0.643440930505
+['combination']	['20 card']	0.0800317642921
+['combination']	['credit']	0.0702095599165
+['combination']	['84 credit']	0.113735274413
+['20 card']	['credit']	0.0473211127271
+['20 card']	['84 credit']	0.0901100077042
+['card', 'red card']	['3 credit']	0.274461388425
+['card', 'red card']	['blue card']	0.746576120825
+['card', 'red card']	['5 credit']	0.274461388425
+['card', 'red card']	['combination']	0.792133342998
+['card', 'red card']	['20 card']	0.795978290799
+['card', 'red card']	['credit']	0.688054845939
+['card', 'red card']	['84 credit']	0.288096079417
+['3 credit', 'red card']	['card']	0.676240118171
+['3 credit', 'red card']	['blue card']	0.72021221181
+['3 credit', 'red card']	['5 credit']	0.73028733598
+['3 credit', 'red card']	['combination']	0.104984941882
+['3 credit', 'red card']	['20 card']	0.502833079419
+['3 credit', 'red card']	['credit']	0.599208372535
+['3 credit', 'red card']	['84 credit']	0.544221442934
+['blue card', 'red card']	['card']	0.718805797702
+['blue card', 'red card']	['3 credit']	0.195306454053
+['blue card', 'red card']	['5 credit']	0.195306454053
+['blue card', 'red card']	['combination']	0.414359357869
+['blue card', 'red card']	['20 card']	0.587218216147
+['blue card', 'red card']	['credit']	0.361128958201
+['blue card', 'red card']	['84 credit']	0.177915983734
+['5 credit', 'red card']	['card']	0.676240118171
+['5 credit', 'red card']	['3 credit']	0.73028733598
+['5 credit', 'red card']	['blue card']	0.72021221181
+['5 credit', 'red card']	['combination']	0.104984941882
+['5 credit', 'red card']	['20 card']	0.502833079419
+['5 credit', 'red card']	['credit']	0.599208372535
+['5 credit', 'red card']	['84 credit']	0.544221442934
+['combination', 'red card']	['card']	0.808279591691
+['combination', 'red card']	['3 credit']	0.0939298741501
+['combination', 'red card']	['blue card']	0.742624323356
+['combination', 'red card']	['5 credit']	0.0939298741501
+['combination', 'red card']	['20 card']	0.465538040018
+['combination', 'red card']	['credit']	0.361115152477
+['combination', 'red card']	['84 credit']	0.0939298741501
+['20 card', 'red card']	['card']	0.746754455038
+['20 card', 'red card']	['3 credit']	0.247627320934
+['20 card', 'red card']	['blue card']	0.854538022361
+['20 card', 'red card']	['5 credit']	0.247627320934
+['20 card', 'red card']	['combination']	0.363581185188
+['20 card', 'red card']	['credit']	0.303252852006
+['20 card', 'red card']	['84 credit']	0.127137811052
+['credit', 'red card']	['card']	0.643112991525
+['credit', 'red card']	['3 credit']	0.603165449665
+['credit', 'red card']	['blue card']	0.683010144814
+['credit', 'red card']	['5 credit']	0.603165449665
+['credit', 'red card']	['combination']	0.391525863348
+['credit', 'red card']	['20 card']	0.433332961491
+['credit', 'red card']	['84 credit']	0.587051787271
+['84 credit', 'red card']	['card']	0.676240118171
+['84 credit', 'red card']	['3 credit']	0.5220554072
+['84 credit', 'red card']	['blue card']	0.72021221181
+['84 credit', 'red card']	['5 credit']	0.5220554072
+['84 credit', 'red card']	['combination']	0.104984941882
+['84 credit', 'red card']	['20 card']	0.5220554072
+['84 credit', 'red card']	['credit']	0.556728403468
+['red card', 'card']	['3 credit']	0.274461388425
+['red card', 'card']	['blue card']	0.746576120825
+['red card', 'card']	['5 credit']	0.274461388425
+['red card', 'card']	['combination']	0.792133342998
+['red card', 'card']	['20 card']	0.795978290799
+['red card', 'card']	['credit']	0.688054845939
+['red card', 'card']	['84 credit']	0.288096079417
+['3 credit', 'card']	['red card']	0.602660666689
+['3 credit', 'card']	['blue card']	0.610806541627
+['3 credit', 'card']	['5 credit']	0.774716216693
+['3 credit', 'card']	['combination']	0.84237999251
+['3 credit', 'card']	['20 card']	0.746180380319
+['3 credit', 'card']	['credit']	0.697426065081
+['3 credit', 'card']	['84 credit']	0.465538040018
+['blue card', 'card']	['red card']	0.735320488665
+['blue card', 'card']	['3 credit']	0.288096079417
+['blue card', 'card']	['5 credit']	0.288096079417
+['blue card', 'card']	['combination']	0.792133342998
+['blue card', 'card']	['20 card']	0.79265871615
+['blue card', 'card']	['credit']	0.688054845939
+['blue card', 'card']	['84 credit']	0.288096079417
+['5 credit', 'card']	['red card']	0.602660666689
+['5 credit', 'card']	['3 credit']	0.774716216693
+['5 credit', 'card']	['blue card']	0.610806541627
+['5 credit', 'card']	['combination']	0.84237999251
+['5 credit', 'card']	['20 card']	0.746180380319
+['5 credit', 'card']	['credit']	0.697426065081
+['5 credit', 'card']	['84 credit']	0.465538040018
+['combination', 'card']	['red card']	0.641062809323
+['combination', 'card']	['3 credit']	0.0946073395521
+['combination', 'card']	['blue card']	0.659812317262
+['combination', 'card']	['5 credit']	0.0946073395521
+['combination', 'card']	['20 card']	0.713638470494
+['combination', 'card']	['credit']	0.277139519765
+['combination', 'card']	['84 credit']	0.0946073395521
+['20 card', 'card']	['red card']	0.710369183497
+['20 card', 'card']	['3 credit']	0.336950901833
+['20 card', 'card']	['blue card']	0.736827519422
+['20 card', 'card']	['5 credit']	0.336950901833
+['20 card', 'card']	['combination']	0.760380701798
+['20 card', 'card']	['credit']	0.649204271227
+['20 card', 'card']	['84 credit']	0.237317906735
+['credit', 'card']	['red card']	0.61552491154
+['credit', 'card']	['3 credit']	0.602432964973
+['credit', 'card']	['blue card']	0.69340366597
+['credit', 'card']	['5 credit']	0.602432964973
+['credit', 'card']	['combination']	0.330055595696
+['credit', 'card']	['20 card']	0.542884549055
+['credit', 'card']	['84 credit']	0.559952995906
+['84 credit', 'card']	['red card']	0.582874408656
+['84 credit', 'card']	['3 credit']	0.465538040018
+['84 credit', 'card']	['blue card']	0.620483043057
+['84 credit', 'card']	['5 credit']	0.465538040018
+['84 credit', 'card']	['combination']	0.84237999251
+['84 credit', 'card']	['20 card']	0.668684636075
+['84 credit', 'card']	['credit']	0.692031540121
+['red card', '3 credit']	['card']	0.676240118171
+['red card', '3 credit']	['blue card']	0.72021221181
+['red card', '3 credit']	['5 credit']	0.73028733598
+['red card', '3 credit']	['combination']	0.104984941882
+['red card', '3 credit']	['20 card']	0.502833079419
+['red card', '3 credit']	['credit']	0.599208372535
+['red card', '3 credit']	['84 credit']	0.544221442934
+['card', '3 credit']	['red card']	0.602660666689
+['card', '3 credit']	['blue card']	0.610806541627
+['card', '3 credit']	['5 credit']	0.774716216693
+['card', '3 credit']	['combination']	0.84237999251
+['card', '3 credit']	['20 card']	0.746180380319
+['card', '3 credit']	['credit']	0.697426065081
+['card', '3 credit']	['84 credit']	0.465538040018
+['blue card', '3 credit']	['red card']	0.72021221181
+['blue card', '3 credit']	['card']	0.64797618484
+['blue card', '3 credit']	['5 credit']	0.73028733598
+['blue card', '3 credit']	['combination']	0.104984941882
+['blue card', '3 credit']	['20 card']	0.519499746086
+['blue card', '3 credit']	['credit']	0.599208372535
+['blue card', '3 credit']	['84 credit']	0.544221442934
+['5 credit', '3 credit']	['red card']	0.16132566236
+['5 credit', '3 credit']	['card']	0.433529748047
+['5 credit', '3 credit']	['blue card']	0.177243932733
+['5 credit', '3 credit']	['combination']	0.40066810391
+['5 credit', '3 credit']	['20 card']	0.356231993893
+['5 credit', '3 credit']	['credit']	0.77292578489
+['5 credit', '3 credit']	['84 credit']	0.637144068101
+['combination', '3 credit']	['red card']	0.079704095659
+['combination', '3 credit']	['card']	0.759940051355
+['combination', '3 credit']	['blue card']	0.079704095659
+['combination', '3 credit']	['5 credit']	0.794152038917
+['combination', '3 credit']	['20 card']	0.142114993124
+['combination', '3 credit']	['credit']	0.635388633193
+['combination', '3 credit']	['84 credit']	0.520866309821
+['20 card', '3 credit']	['red card']	0.491402784668
+['20 card', '3 credit']	['card']	0.643356408163
+['20 card', '3 credit']	['blue card']	0.525491827809
+['20 card', '3 credit']	['5 credit']	0.800552772617
+['20 card', '3 credit']	['combination']	0.127361092848
+['20 card', '3 credit']	['credit']	0.574241335829
+['20 card', '3 credit']	['84 credit']	0.584269096576
+['credit', '3 credit']	['red card']	0.187206777482
+['credit', '3 credit']	['card']	0.649204271227
+['credit', '3 credit']	['blue card']	0.187206777482
+['credit', '3 credit']	['5 credit']	0.840422891092
+['credit', '3 credit']	['combination']	0.540555434345
+['credit', '3 credit']	['20 card']	0.256836051092
+['credit', '3 credit']	['84 credit']	0.809579706588
+['84 credit', '3 credit']	['red card']	0.16132566236
+['84 credit', '3 credit']	['card']	0.433529748047
+['84 credit', '3 credit']	['blue card']	0.177243932733
+['84 credit', '3 credit']	['5 credit']	0.862138942741
+['84 credit', '3 credit']	['combination']	0.40066810391
+['84 credit', '3 credit']	['20 card']	0.264907405557
+['84 credit', '3 credit']	['credit']	0.776259118223
+['red card', 'blue card']	['card']	0.718805797702
+['red card', 'blue card']	['3 credit']	0.195306454053
+['red card', 'blue card']	['5 credit']	0.195306454053
+['red card', 'blue card']	['combination']	0.414359357869
+['red card', 'blue card']	['20 card']	0.587218216147
+['red card', 'blue card']	['credit']	0.361128958201
+['red card', 'blue card']	['84 credit']	0.177915983734
+['card', 'blue card']	['red card']	0.735320488665
+['card', 'blue card']	['3 credit']	0.288096079417
+['card', 'blue card']	['5 credit']	0.288096079417
+['card', 'blue card']	['combination']	0.792133342998
+['card', 'blue card']	['20 card']	0.79265871615
+['card', 'blue card']	['credit']	0.688054845939
+['card', 'blue card']	['84 credit']	0.288096079417
+['3 credit', 'blue card']	['red card']	0.72021221181
+['3 credit', 'blue card']	['card']	0.64797618484
+['3 credit', 'blue card']	['5 credit']	0.73028733598
+['3 credit', 'blue card']	['combination']	0.104984941882
+['3 credit', 'blue card']	['20 card']	0.519499746086
+['3 credit', 'blue card']	['credit']	0.599208372535
+['3 credit', 'blue card']	['84 credit']	0.544221442934
+['5 credit', 'blue card']	['red card']	0.72021221181
+['5 credit', 'blue card']	['card']	0.64797618484
+['5 credit', 'blue card']	['3 credit']	0.73028733598
+['5 credit', 'blue card']	['combination']	0.104984941882
+['5 credit', 'blue card']	['20 card']	0.519499746086
+['5 credit', 'blue card']	['credit']	0.599208372535
+['5 credit', 'blue card']	['84 credit']	0.544221442934
+['combination', 'blue card']	['red card']	0.742624323356
+['combination', 'blue card']	['card']	0.807352950764
+['combination', 'blue card']	['3 credit']	0.0939298741501
+['combination', 'blue card']	['5 credit']	0.0939298741501
+['combination', 'blue card']	['20 card']	0.465538040018
+['combination', 'blue card']	['credit']	0.361115152477
+['combination', 'blue card']	['84 credit']	0.0939298741501
+['20 card', 'blue card']	['red card']	0.854538022361
+['20 card', 'blue card']	['card']	0.760404059699
+['20 card', 'blue card']	['3 credit']	0.247627320934
+['20 card', 'blue card']	['5 credit']	0.247627320934
+['20 card', 'blue card']	['combination']	0.363581185188
+['20 card', 'blue card']	['credit']	0.303252852006
+['20 card', 'blue card']	['84 credit']	0.127137811052
+['credit', 'blue card']	['red card']	0.683010144814
+['credit', 'blue card']	['card']	0.691335716463
+['credit', 'blue card']	['3 credit']	0.620958216993
+['credit', 'blue card']	['5 credit']	0.620958216993
+['credit', 'blue card']	['combination']	0.391525863348
+['credit', 'blue card']	['20 card']	0.40012745898
+['credit', 'blue card']	['84 credit']	0.587051787271
+['84 credit', 'blue card']	['red card']	0.72021221181
+['84 credit', 'blue card']	['card']	0.64797618484
+['84 credit', 'blue card']	['3 credit']	0.544221442934
+['84 credit', 'blue card']	['5 credit']	0.544221442934
+['84 credit', 'blue card']	['combination']	0.104984941882
+['84 credit', 'blue card']	['20 card']	0.544221442934
+['84 credit', 'blue card']	['credit']	0.556728403468
+['red card', '5 credit']	['card']	0.676240118171
+['red card', '5 credit']	['3 credit']	0.73028733598
+['red card', '5 credit']	['blue card']	0.72021221181
+['red card', '5 credit']	['combination']	0.104984941882
+['red card', '5 credit']	['20 card']	0.502833079419
+['red card', '5 credit']	['credit']	0.599208372535
+['red card', '5 credit']	['84 credit']	0.544221442934
+['card', '5 credit']	['red card']	0.602660666689
+['card', '5 credit']	['3 credit']	0.774716216693
+['card', '5 credit']	['blue card']	0.610806541627
+['card', '5 credit']	['combination']	0.84237999251
+['card', '5 credit']	['20 card']	0.746180380319
+['card', '5 credit']	['credit']	0.697426065081
+['card', '5 credit']	['84 credit']	0.465538040018
+['3 credit', '5 credit']	['red card']	0.16132566236
+['3 credit', '5 credit']	['card']	0.433529748047
+['3 credit', '5 credit']	['blue card']	0.177243932733
+['3 credit', '5 credit']	['combination']	0.40066810391
+['3 credit', '5 credit']	['20 card']	0.356231993893
+['3 credit', '5 credit']	['credit']	0.77292578489
+['3 credit', '5 credit']	['84 credit']	0.637144068101
+['blue card', '5 credit']	['red card']	0.72021221181
+['blue card', '5 credit']	['card']	0.64797618484
+['blue card', '5 credit']	['3 credit']	0.73028733598
+['blue card', '5 credit']	['combination']	0.104984941882
+['blue card', '5 credit']	['20 card']	0.519499746086
+['blue card', '5 credit']	['credit']	0.599208372535
+['blue card', '5 credit']	['84 credit']	0.544221442934
+['combination', '5 credit']	['red card']	0.079704095659
+['combination', '5 credit']	['card']	0.759940051355
+['combination', '5 credit']	['3 credit']	0.794152038917
+['combination', '5 credit']	['blue card']	0.079704095659
+['combination', '5 credit']	['20 card']	0.142114993124
+['combination', '5 credit']	['credit']	0.635388633193
+['combination', '5 credit']	['84 credit']	0.520866309821
+['20 card', '5 credit']	['red card']	0.491402784668
+['20 card', '5 credit']	['card']	0.643356408163
+['20 card', '5 credit']	['3 credit']	0.800552772617
+['20 card', '5 credit']	['blue card']	0.525491827809
+['20 card', '5 credit']	['combination']	0.127361092848
+['20 card', '5 credit']	['credit']	0.574241335829
+['20 card', '5 credit']	['84 credit']	0.584269096576
+['credit', '5 credit']	['red card']	0.187206777482
+['credit', '5 credit']	['card']	0.649204271227
+['credit', '5 credit']	['3 credit']	0.840422891092
+['credit', '5 credit']	['blue card']	0.187206777482
+['credit', '5 credit']	['combination']	0.540555434345
+['credit', '5 credit']	['20 card']	0.256836051092
+['credit', '5 credit']	['84 credit']	0.809579706588
+['84 credit', '5 credit']	['red card']	0.16132566236
+['84 credit', '5 credit']	['card']	0.433529748047
+['84 credit', '5 credit']	['3 credit']	0.862138942741
+['84 credit', '5 credit']	['blue card']	0.177243932733
+['84 credit', '5 credit']	['combination']	0.40066810391
+['84 credit', '5 credit']	['20 card']	0.264907405557
+['84 credit', '5 credit']	['credit']	0.776259118223
+['red card', 'combination']	['card']	0.808279591691
+['red card', 'combination']	['3 credit']	0.0939298741501
+['red card', 'combination']	['blue card']	0.742624323356
+['red card', 'combination']	['5 credit']	0.0939298741501
+['red card', 'combination']	['20 card']	0.465538040018
+['red card', 'combination']	['credit']	0.361115152477
+['red card', 'combination']	['84 credit']	0.0939298741501
+['card', 'combination']	['red card']	0.641062809323
+['card', 'combination']	['3 credit']	0.0946073395521
+['card', 'combination']	['blue card']	0.659812317262
+['card', 'combination']	['5 credit']	0.0946073395521
+['card', 'combination']	['20 card']	0.713638470494
+['card', 'combination']	['credit']	0.277139519765
+['card', 'combination']	['84 credit']	0.0946073395521
+['3 credit', 'combination']	['red card']	0.079704095659
+['3 credit', 'combination']	['card']	0.759940051355
+['3 credit', 'combination']	['blue card']	0.079704095659
+['3 credit', 'combination']	['5 credit']	0.794152038917
+['3 credit', 'combination']	['20 card']	0.142114993124
+['3 credit', 'combination']	['credit']	0.635388633193
+['3 credit', 'combination']	['84 credit']	0.520866309821
+['blue card', 'combination']	['red card']	0.742624323356
+['blue card', 'combination']	['card']	0.807352950764
+['blue card', 'combination']	['3 credit']	0.0939298741501
+['blue card', 'combination']	['5 credit']	0.0939298741501
+['blue card', 'combination']	['20 card']	0.465538040018
+['blue card', 'combination']	['credit']	0.361115152477
+['blue card', 'combination']	['84 credit']	0.0939298741501
+['5 credit', 'combination']	['red card']	0.079704095659
+['5 credit', 'combination']	['card']	0.759940051355
+['5 credit', 'combination']	['3 credit']	0.794152038917
+['5 credit', 'combination']	['blue card']	0.079704095659
+['5 credit', 'combination']	['20 card']	0.142114993124
+['5 credit', 'combination']	['credit']	0.635388633193
+['5 credit', 'combination']	['84 credit']	0.520866309821
+['20 card', 'combination']	['red card']	0.51364678879
+['20 card', 'combination']	['card']	0.766253163464
+['20 card', 'combination']	['3 credit']	0.143560257577
+['20 card', 'combination']	['blue card']	0.51364678879
+['20 card', 'combination']	['5 credit']	0.143560257577
+['20 card', 'combination']	['credit']	0.386332144787
+['20 card', 'combination']	['84 credit']	0.112105754693
+['credit', 'combination']	['red card']	0.0495195511129
+['credit', 'combination']	['card']	0.0847885931502
+['credit', 'combination']	['3 credit']	0.602432964973
+['credit', 'combination']	['blue card']	0.0495195511129
+['credit', 'combination']	['5 credit']	0.602432964973
+['credit', 'combination']	['20 card']	0.0529533264228
+['credit', 'combination']	['84 credit']	0.559952995906
+['84 credit', 'combination']	['red card']	0.0830529202888
+['84 credit', 'combination']	['card']	0.759940051355
+['84 credit', 'combination']	['3 credit']	0.520866309821
+['84 credit', 'combination']	['blue card']	0.0830529202888
+['84 credit', 'combination']	['5 credit']	0.520866309821
+['84 credit', 'combination']	['20 card']	0.0833805889219
+['84 credit', 'combination']	['credit']	0.629994108233
+['red card', '20 card']	['card']	0.746754455038
+['red card', '20 card']	['3 credit']	0.247627320934
+['red card', '20 card']	['blue card']	0.854538022361
+['red card', '20 card']	['5 credit']	0.247627320934
+['red card', '20 card']	['combination']	0.363581185188
+['red card', '20 card']	['credit']	0.303252852006
+['red card', '20 card']	['84 credit']	0.127137811052
+['card', '20 card']	['red card']	0.710369183497
+['card', '20 card']	['3 credit']	0.336950901833
+['card', '20 card']	['blue card']	0.736827519422
+['card', '20 card']	['5 credit']	0.336950901833
+['card', '20 card']	['combination']	0.760380701798
+['card', '20 card']	['credit']	0.649204271227
+['card', '20 card']	['84 credit']	0.237317906735
+['3 credit', '20 card']	['red card']	0.491402784668
+['3 credit', '20 card']	['card']	0.643356408163
+['3 credit', '20 card']	['blue card']	0.525491827809
+['3 credit', '20 card']	['5 credit']	0.800552772617
+['3 credit', '20 card']	['combination']	0.127361092848
+['3 credit', '20 card']	['credit']	0.574241335829
+['3 credit', '20 card']	['84 credit']	0.584269096576
+['blue card', '20 card']	['red card']	0.854538022361
+['blue card', '20 card']	['card']	0.760404059699
+['blue card', '20 card']	['3 credit']	0.247627320934
+['blue card', '20 card']	['5 credit']	0.247627320934
+['blue card', '20 card']	['combination']	0.363581185188
+['blue card', '20 card']	['credit']	0.303252852006
+['blue card', '20 card']	['84 credit']	0.127137811052
+['5 credit', '20 card']	['red card']	0.491402784668
+['5 credit', '20 card']	['card']	0.643356408163
+['5 credit', '20 card']	['3 credit']	0.800552772617
+['5 credit', '20 card']	['blue card']	0.525491827809
+['5 credit', '20 card']	['combination']	0.127361092848
+['5 credit', '20 card']	['credit']	0.574241335829
+['5 credit', '20 card']	['84 credit']	0.584269096576
+['combination', '20 card']	['red card']	0.51364678879
+['combination', '20 card']	['card']	0.766253163464
+['combination', '20 card']	['3 credit']	0.143560257577
+['combination', '20 card']	['blue card']	0.51364678879
+['combination', '20 card']	['5 credit']	0.143560257577
+['combination', '20 card']	['credit']	0.386332144787
+['combination', '20 card']	['84 credit']	0.112105754693
+['credit', '20 card']	['red card']	0.394576903405
+['credit', '20 card']	['card']	0.672487380577
+['credit', '20 card']	['3 credit']	0.653796627546
+['credit', '20 card']	['blue card']	0.377910236738
+['credit', '20 card']	['5 credit']	0.653796627546
+['credit', '20 card']	['combination']	0.329448015666
+['credit', '20 card']	['84 credit']	0.587051787271
+['84 credit', '20 card']	['red card']	0.562299798108
+['84 credit', '20 card']	['card']	0.643356408163
+['84 credit', '20 card']	['3 credit']	0.604308352538
+['84 credit', '20 card']	['blue card']	0.542633257095
+['84 credit', '20 card']	['5 credit']	0.604308352538
+['84 credit', '20 card']	['combination']	0.127361092848
+['84 credit', '20 card']	['credit']	0.531761366762
+['red card', 'credit']	['card']	0.643112991525
+['red card', 'credit']	['3 credit']	0.603165449665
+['red card', 'credit']	['blue card']	0.683010144814
+['red card', 'credit']	['5 credit']	0.603165449665
+['red card', 'credit']	['combination']	0.391525863348
+['red card', 'credit']	['20 card']	0.433332961491
+['red card', 'credit']	['84 credit']	0.587051787271
+['card', 'credit']	['red card']	0.61552491154
+['card', 'credit']	['3 credit']	0.602432964973
+['card', 'credit']	['blue card']	0.69340366597
+['card', 'credit']	['5 credit']	0.602432964973
+['card', 'credit']	['combination']	0.330055595696
+['card', 'credit']	['20 card']	0.542884549055
+['card', 'credit']	['84 credit']	0.559952995906
+['3 credit', 'credit']	['red card']	0.187206777482
+['3 credit', 'credit']	['card']	0.649204271227
+['3 credit', 'credit']	['blue card']	0.187206777482
+['3 credit', 'credit']	['5 credit']	0.840422891092
+['3 credit', 'credit']	['combination']	0.540555434345
+['3 credit', 'credit']	['20 card']	0.256836051092
+['3 credit', 'credit']	['84 credit']	0.809579706588
+['blue card', 'credit']	['red card']	0.683010144814
+['blue card', 'credit']	['card']	0.691335716463
+['blue card', 'credit']	['3 credit']	0.620958216993
+['blue card', 'credit']	['5 credit']	0.620958216993
+['blue card', 'credit']	['combination']	0.391525863348
+['blue card', 'credit']	['20 card']	0.40012745898
+['blue card', 'credit']	['84 credit']	0.587051787271
+['5 credit', 'credit']	['red card']	0.187206777482
+['5 credit', 'credit']	['card']	0.649204271227
+['5 credit', 'credit']	['3 credit']	0.840422891092
+['5 credit', 'credit']	['blue card']	0.187206777482
+['5 credit', 'credit']	['combination']	0.540555434345
+['5 credit', 'credit']	['20 card']	0.256836051092
+['5 credit', 'credit']	['84 credit']	0.809579706588
+['combination', 'credit']	['red card']	0.0495195511129
+['combination', 'credit']	['card']	0.0847885931502
+['combination', 'credit']	['3 credit']	0.602432964973
+['combination', 'credit']	['blue card']	0.0495195511129
+['combination', 'credit']	['5 credit']	0.602432964973
+['combination', 'credit']	['20 card']	0.0529533264228
+['combination', 'credit']	['84 credit']	0.559952995906
+['20 card', 'credit']	['red card']	0.394576903405
+['20 card', 'credit']	['card']	0.672487380577
+['20 card', 'credit']	['3 credit']	0.653796627546
+['20 card', 'credit']	['blue card']	0.377910236738
+['20 card', 'credit']	['5 credit']	0.653796627546
+['20 card', 'credit']	['combination']	0.329448015666
+['20 card', 'credit']	['84 credit']	0.587051787271
+['84 credit', 'credit']	['red card']	0.200583970465
+['84 credit', 'credit']	['card']	0.649204271227
+['84 credit', 'credit']	['3 credit']	0.863765222153
+['84 credit', 'credit']	['blue card']	0.200583970465
+['84 credit', 'credit']	['5 credit']	0.863765222153
+['84 credit', 'credit']	['combination']	0.540555434345
+['84 credit', 'credit']	['20 card']	0.176424014536
+['red card', '84 credit']	['card']	0.676240118171
+['red card', '84 credit']	['3 credit']	0.5220554072
+['red card', '84 credit']	['blue card']	0.72021221181
+['red card', '84 credit']	['5 credit']	0.5220554072
+['red card', '84 credit']	['combination']	0.104984941882
+['red card', '84 credit']	['20 card']	0.5220554072
+['red card', '84 credit']	['credit']	0.556728403468
+['card', '84 credit']	['red card']	0.582874408656
+['card', '84 credit']	['3 credit']	0.465538040018
+['card', '84 credit']	['blue card']	0.620483043057
+['card', '84 credit']	['5 credit']	0.465538040018
+['card', '84 credit']	['combination']	0.84237999251
+['card', '84 credit']	['20 card']	0.668684636075
+['card', '84 credit']	['credit']	0.692031540121
+['3 credit', '84 credit']	['red card']	0.16132566236
+['3 credit', '84 credit']	['card']	0.433529748047
+['3 credit', '84 credit']	['blue card']	0.177243932733
+['3 credit', '84 credit']	['5 credit']	0.862138942741
+['3 credit', '84 credit']	['combination']	0.40066810391
+['3 credit', '84 credit']	['20 card']	0.264907405557
+['3 credit', '84 credit']	['credit']	0.776259118223
+['blue card', '84 credit']	['red card']	0.72021221181
+['blue card', '84 credit']	['card']	0.64797618484
+['blue card', '84 credit']	['3 credit']	0.544221442934
+['blue card', '84 credit']	['5 credit']	0.544221442934
+['blue card', '84 credit']	['combination']	0.104984941882
+['blue card', '84 credit']	['20 card']	0.544221442934
+['blue card', '84 credit']	['credit']	0.556728403468
+['5 credit', '84 credit']	['red card']	0.16132566236
+['5 credit', '84 credit']	['card']	0.433529748047
+['5 credit', '84 credit']	['3 credit']	0.862138942741
+['5 credit', '84 credit']	['blue card']	0.177243932733
+['5 credit', '84 credit']	['combination']	0.40066810391
+['5 credit', '84 credit']	['20 card']	0.264907405557
+['5 credit', '84 credit']	['credit']	0.776259118223
+['combination', '84 credit']	['red card']	0.0830529202888
+['combination', '84 credit']	['card']	0.759940051355
+['combination', '84 credit']	['3 credit']	0.520866309821
+['combination', '84 credit']	['blue card']	0.0830529202888
+['combination', '84 credit']	['5 credit']	0.520866309821
+['combination', '84 credit']	['20 card']	0.0833805889219
+['combination', '84 credit']	['credit']	0.629994108233
+['20 card', '84 credit']	['red card']	0.562299798108
+['20 card', '84 credit']	['card']	0.643356408163
+['20 card', '84 credit']	['3 credit']	0.604308352538
+['20 card', '84 credit']	['blue card']	0.542633257095
+['20 card', '84 credit']	['5 credit']	0.604308352538
+['20 card', '84 credit']	['combination']	0.127361092848
+['20 card', '84 credit']	['credit']	0.531761366762
+['credit', '84 credit']	['red card']	0.200583970465
+['credit', '84 credit']	['card']	0.649204271227
+['credit', '84 credit']	['3 credit']	0.863765222153
+['credit', '84 credit']	['blue card']	0.200583970465
+['credit', '84 credit']	['5 credit']	0.863765222153
+['credit', '84 credit']	['combination']	0.540555434345
+['credit', '84 credit']	['20 card']	0.176424014536

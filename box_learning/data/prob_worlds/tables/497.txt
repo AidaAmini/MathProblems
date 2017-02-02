@@ -1,0 +1,16 @@
+1
+[['font', '21', 'page', '-', '-', 'word', '48, 000'], ['large font', 'x1', 'page', 'word', '1, 800', '-', '-'], ['small font', 'x2', 'page', 'word', '2, 400', '-', '-']]
+-1
+[['font', '21', 'page', '-', 'x2', 'word', '48, 000'], ['large font', 'x1', 'page', 'word', '1, 800', '-', '-'], ['21', 'x2', 'page', '48, 000', '2, 400', '-', '-']]
+-1
+[['font', '21', 'x2', 'page', '-', 'small font', '2, 400'], ['large font', 'x1', 'page', 'word', '1, 800', '-', '-'], ['small font', 'x2', 'page', 'word', '2, 400', 'font', '21']]
+-1
+[['font', 'x2', 'page', '-', '-', 'word', '48, 000'], ['large font', 'x1', 'page', 'word', '1, 800', '-', '-'], ['small font', 'x2', 'font', 'word', 'page', '-', '-']]
+-1
+[['font', '21', 'page', '-', 'small font', 'word', 'x2'], ['large font', 'x1', 'page', 'word', '1, 800', '-', '-'], ['small font', 'x2', 'page', 'word', '21', '-', 'font']]
+-1
+[['font', '21', 'page', '-', '-', 'word', 'small font'], ['large font', 'x1', 'page', 'word', '1, 800', '-', '-'], ['small font', 'font', 'page', 'word', '21', '-', '-']]
+-1
+[['x2', '21', 'page', '-', '-', 'word', '48, 000'], ['large font', 'x1', 'page', 'word', '1, 800', '-', '-'], ['word', 'x2', '21', 'page', '48, 000', '-', '-']]
+-1
+[['font', '48, 000', 'page', '-', '21', 'x2', 'word'], ['large font', 'x1', 'page', 'word', '1, 800', '-', '-'], ['48, 000', 'x2', 'page', 'word', 'font', '21', '-']]

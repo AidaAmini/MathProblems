@@ -1,0 +1,230 @@
+['10 concrete ton', '62 % cement', '20 % cement mixture', 'mixture', '80 % cement mixture', 'answer', 'unit of ton']
+['10 concrete ton']	['62 % cement']	0.107526100904
+['10 concrete ton']	['20 % cement mixture']	0.421634249103
+['10 concrete ton']	['mixture']	0.0589189287293
+['10 concrete ton']	['80 % cement mixture']	0.436165405169
+['10 concrete ton']	['answer']	0.0888261649569
+['10 concrete ton']	['unit of ton']	0.508959966171
+['62 % cement']	['20 % cement mixture']	0.107526100904
+['62 % cement']	['mixture']	0.0734044292078
+['62 % cement']	['80 % cement mixture']	0.118615206027
+['62 % cement']	['answer']	0.0976030424116
+['62 % cement']	['unit of ton']	0.107526100904
+['20 % cement mixture']	['80 % cement mixture']	0.784335506361
+['20 % cement mixture']	['answer']	0.0847746021728
+['20 % cement mixture']	['unit of ton']	0.134337185551
+['mixture']	['answer']	0.0567729525493
+['mixture']	['unit of ton']	0.0579551260258
+['80 % cement mixture']	['answer']	0.0594111816502
+['80 % cement mixture']	['unit of ton']	0.112274239996
+['answer']	['unit of ton']	0.094467200112
+['62 % cement', '10 concrete ton']	['20 % cement mixture']	0.399698168118
+['62 % cement', '10 concrete ton']	['mixture']	0.0661919826661
+['62 % cement', '10 concrete ton']	['80 % cement mixture']	0.411520771068
+['62 % cement', '10 concrete ton']	['answer']	0.0888261649569
+['62 % cement', '10 concrete ton']	['unit of ton']	0.605826053627
+['20 % cement mixture', '10 concrete ton']	['62 % cement']	0.107526100904
+['20 % cement mixture', '10 concrete ton']	['mixture']	0.621799079618
+['20 % cement mixture', '10 concrete ton']	['80 % cement mixture']	0.854742005338
+['20 % cement mixture', '10 concrete ton']	['answer']	0.0865519868472
+['20 % cement mixture', '10 concrete ton']	['unit of ton']	0.639058394824
+['mixture', '10 concrete ton']	['62 % cement']	0.0698106120013
+['mixture', '10 concrete ton']	['20 % cement mixture']	0.676018508344
+['mixture', '10 concrete ton']	['80 % cement mixture']	0.622234819008
+['mixture', '10 concrete ton']	['answer']	0.0864665311508
+['mixture', '10 concrete ton']	['unit of ton']	0.462725812843
+['80 % cement mixture', '10 concrete ton']	['62 % cement']	0.084942142128
+['80 % cement mixture', '10 concrete ton']	['20 % cement mixture']	0.864215520337
+['80 % cement mixture', '10 concrete ton']	['mixture']	0.54702427038
+['80 % cement mixture', '10 concrete ton']	['answer']	0.0611885663246
+['80 % cement mixture', '10 concrete ton']	['unit of ton']	0.576089001239
+['answer', '10 concrete ton']	['62 % cement']	0.0941266761548
+['answer', '10 concrete ton']	['20 % cement mixture']	0.381093383142
+['answer', '10 concrete ton']	['mixture']	0.105764123859
+['answer', '10 concrete ton']	['80 % cement mixture']	0.40099067467
+['answer', '10 concrete ton']	['unit of ton']	0.635904152275
+['unit of ton', '10 concrete ton']	['62 % cement']	0.3242457119
+['unit of ton', '10 concrete ton']	['20 % cement mixture']	0.815065344674
+['unit of ton', '10 concrete ton']	['mixture']	0.281418762717
+['unit of ton', '10 concrete ton']	['80 % cement mixture']	0.824007422511
+['unit of ton', '10 concrete ton']	['answer']	0.323023748192
+['10 concrete ton', '62 % cement']	['20 % cement mixture']	0.399698168118
+['10 concrete ton', '62 % cement']	['mixture']	0.0661919826661
+['10 concrete ton', '62 % cement']	['80 % cement mixture']	0.411520771068
+['10 concrete ton', '62 % cement']	['answer']	0.0888261649569
+['10 concrete ton', '62 % cement']	['unit of ton']	0.605826053627
+['20 % cement mixture', '62 % cement']	['10 concrete ton']	0.399698168118
+['20 % cement mixture', '62 % cement']	['mixture']	0.697354372043
+['20 % cement mixture', '62 % cement']	['80 % cement mixture']	0.794938351613
+['20 % cement mixture', '62 % cement']	['answer']	0.0865519868472
+['20 % cement mixture', '62 % cement']	['unit of ton']	0.119032314002
+['mixture', '62 % cement']	['10 concrete ton']	0.0541537749789
+['mixture', '62 % cement']	['20 % cement mixture']	0.601321946684
+['mixture', '62 % cement']	['80 % cement mixture']	0.532354923387
+['mixture', '62 % cement']	['answer']	0.0856157813499
+['mixture', '62 % cement']	['unit of ton']	0.0541537749789
+['80 % cement mixture', '62 % cement']	['10 concrete ton']	0.331845228758
+['80 % cement mixture', '62 % cement']	['20 % cement mixture']	0.789102455113
+['80 % cement mixture', '62 % cement']	['mixture']	0.68614172448
+['80 % cement mixture', '62 % cement']	['answer']	0.0611885663246
+['80 % cement mixture', '62 % cement']	['unit of ton']	0.0998031345078
+['answer', '62 % cement']	['10 concrete ton']	0.0908034291173
+['answer', '62 % cement']	['20 % cement mixture']	0.096515242987
+['answer', '62 % cement']	['mixture']	0.123694625119
+['answer', '62 % cement']	['80 % cement mixture']	0.103854566442
+['answer', '62 % cement']	['unit of ton']	0.0908034291173
+['unit of ton', '62 % cement']	['10 concrete ton']	0.605826053627
+['unit of ton', '62 % cement']	['20 % cement mixture']	0.119032314002
+['unit of ton', '62 % cement']	['mixture']	0.0661919826661
+['unit of ton', '62 % cement']	['80 % cement mixture']	0.130121419125
+['unit of ton', '62 % cement']	['answer']	0.0888261649569
+['10 concrete ton', '20 % cement mixture']	['62 % cement']	0.107526100904
+['10 concrete ton', '20 % cement mixture']	['mixture']	0.621799079618
+['10 concrete ton', '20 % cement mixture']	['80 % cement mixture']	0.854742005338
+['10 concrete ton', '20 % cement mixture']	['answer']	0.0865519868472
+['10 concrete ton', '20 % cement mixture']	['unit of ton']	0.639058394824
+['62 % cement', '20 % cement mixture']	['10 concrete ton']	0.399698168118
+['62 % cement', '20 % cement mixture']	['mixture']	0.697354372043
+['62 % cement', '20 % cement mixture']	['80 % cement mixture']	0.794938351613
+['62 % cement', '20 % cement mixture']	['answer']	0.0865519868472
+['62 % cement', '20 % cement mixture']	['unit of ton']	0.119032314002
+['mixture', '20 % cement mixture']	['10 concrete ton']	0.733952326266
+['mixture', '20 % cement mixture']	['62 % cement']	0.322387186534
+['mixture', '20 % cement mixture']	['80 % cement mixture']	0.60447449031
+['mixture', '20 % cement mixture']	['answer']	0.475337590062
+['mixture', '20 % cement mixture']	['unit of ton']	0.323691962422
+['80 % cement mixture', '20 % cement mixture']	['10 concrete ton']	0.806941174349
+['80 % cement mixture', '20 % cement mixture']	['62 % cement']	0.357228394634
+['80 % cement mixture', '20 % cement mixture']	['mixture']	0.687445962733
+['80 % cement mixture', '20 % cement mixture']	['answer']	0.311833232774
+['80 % cement mixture', '20 % cement mixture']	['unit of ton']	0.426736886352
+['answer', '20 % cement mixture']	['10 concrete ton']	0.520253435017
+['answer', '20 % cement mixture']	['62 % cement']	0.161708668161
+['answer', '20 % cement mixture']	['mixture']	0.749939585266
+['answer', '20 % cement mixture']	['80 % cement mixture']	0.853535367859
+['answer', '20 % cement mixture']	['unit of ton']	0.192975300394
+['unit of ton', '20 % cement mixture']	['10 concrete ton']	0.81781872873
+['unit of ton', '20 % cement mixture']	['62 % cement']	0.107526100904
+['unit of ton', '20 % cement mixture']	['mixture']	0.621799079618
+['unit of ton', '20 % cement mixture']	['80 % cement mixture']	0.821415626632
+['unit of ton', '20 % cement mixture']	['answer']	0.0865519868472
+['10 concrete ton', 'mixture']	['62 % cement']	0.0698106120013
+['10 concrete ton', 'mixture']	['20 % cement mixture']	0.676018508344
+['10 concrete ton', 'mixture']	['80 % cement mixture']	0.622234819008
+['10 concrete ton', 'mixture']	['answer']	0.0864665311508
+['10 concrete ton', 'mixture']	['unit of ton']	0.462725812843
+['62 % cement', 'mixture']	['10 concrete ton']	0.0541537749789
+['62 % cement', 'mixture']	['20 % cement mixture']	0.601321946684
+['62 % cement', 'mixture']	['80 % cement mixture']	0.532354923387
+['62 % cement', 'mixture']	['answer']	0.0856157813499
+['62 % cement', 'mixture']	['unit of ton']	0.0541537749789
+['20 % cement mixture', 'mixture']	['10 concrete ton']	0.733952326266
+['20 % cement mixture', 'mixture']	['62 % cement']	0.322387186534
+['20 % cement mixture', 'mixture']	['80 % cement mixture']	0.60447449031
+['20 % cement mixture', 'mixture']	['answer']	0.475337590062
+['20 % cement mixture', 'mixture']	['unit of ton']	0.323691962422
+['80 % cement mixture', 'mixture']	['10 concrete ton']	0.733952326266
+['80 % cement mixture', 'mixture']	['62 % cement']	0.346929959395
+['80 % cement mixture', 'mixture']	['20 % cement mixture']	0.721840878752
+['80 % cement mixture', 'mixture']	['answer']	0.499880362923
+['80 % cement mixture', 'mixture']	['unit of ton']	0.348234735283
+['answer', 'mixture']	['10 concrete ton']	0.0579551260258
+['answer', 'mixture']	['62 % cement']	0.0638531041058
+['answer', 'mixture']	['20 % cement mixture']	0.647998363724
+['answer', 'mixture']	['80 % cement mixture']	0.579708803547
+['answer', 'mixture']	['unit of ton']	0.0579551260258
+['unit of ton', 'mixture']	['10 concrete ton']	0.462725812843
+['unit of ton', 'mixture']	['62 % cement']	0.0698106120013
+['unit of ton', 'mixture']	['20 % cement mixture']	0.704240818091
+['unit of ton', 'mixture']	['80 % cement mixture']	0.650457128756
+['unit of ton', 'mixture']	['answer']	0.0864665311508
+['10 concrete ton', '80 % cement mixture']	['62 % cement']	0.084942142128
+['10 concrete ton', '80 % cement mixture']	['20 % cement mixture']	0.864215520337
+['10 concrete ton', '80 % cement mixture']	['mixture']	0.54702427038
+['10 concrete ton', '80 % cement mixture']	['answer']	0.0611885663246
+['10 concrete ton', '80 % cement mixture']	['unit of ton']	0.576089001239
+['62 % cement', '80 % cement mixture']	['10 concrete ton']	0.331845228758
+['62 % cement', '80 % cement mixture']	['20 % cement mixture']	0.789102455113
+['62 % cement', '80 % cement mixture']	['mixture']	0.68614172448
+['62 % cement', '80 % cement mixture']	['answer']	0.0611885663246
+['62 % cement', '80 % cement mixture']	['unit of ton']	0.0998031345078
+['20 % cement mixture', '80 % cement mixture']	['10 concrete ton']	0.806941174349
+['20 % cement mixture', '80 % cement mixture']	['62 % cement']	0.357228394634
+['20 % cement mixture', '80 % cement mixture']	['mixture']	0.687445962733
+['20 % cement mixture', '80 % cement mixture']	['answer']	0.311833232774
+['20 % cement mixture', '80 % cement mixture']	['unit of ton']	0.426736886352
+['mixture', '80 % cement mixture']	['10 concrete ton']	0.733952326266
+['mixture', '80 % cement mixture']	['62 % cement']	0.346929959395
+['mixture', '80 % cement mixture']	['20 % cement mixture']	0.721840878752
+['mixture', '80 % cement mixture']	['answer']	0.499880362923
+['mixture', '80 % cement mixture']	['unit of ton']	0.348234735283
+['answer', '80 % cement mixture']	['10 concrete ton']	0.437392873771
+['answer', '80 % cement mixture']	['62 % cement']	0.139124709385
+['answer', '80 % cement mixture']	['20 % cement mixture']	0.827400228584
+['answer', '80 % cement mixture']	['mixture']	0.711472035742
+['answer', '80 % cement mixture']	['unit of ton']	0.164001558431
+['unit of ton', '80 % cement mixture']	['10 concrete ton']	0.803598780679
+['unit of ton', '80 % cement mixture']	['62 % cement']	0.084942142128
+['unit of ton', '80 % cement mixture']	['20 % cement mixture']	0.801475394698
+['unit of ton', '80 % cement mixture']	['mixture']	0.54702427038
+['unit of ton', '80 % cement mixture']	['answer']	0.0611885663246
+['10 concrete ton', 'answer']	['62 % cement']	0.0941266761548
+['10 concrete ton', 'answer']	['20 % cement mixture']	0.381093383142
+['10 concrete ton', 'answer']	['mixture']	0.105764123859
+['10 concrete ton', 'answer']	['80 % cement mixture']	0.40099067467
+['10 concrete ton', 'answer']	['unit of ton']	0.635904152275
+['62 % cement', 'answer']	['10 concrete ton']	0.0908034291173
+['62 % cement', 'answer']	['20 % cement mixture']	0.096515242987
+['62 % cement', 'answer']	['mixture']	0.123694625119
+['62 % cement', 'answer']	['80 % cement mixture']	0.103854566442
+['62 % cement', 'answer']	['unit of ton']	0.0908034291173
+['20 % cement mixture', 'answer']	['10 concrete ton']	0.520253435017
+['20 % cement mixture', 'answer']	['62 % cement']	0.161708668161
+['20 % cement mixture', 'answer']	['mixture']	0.749939585266
+['20 % cement mixture', 'answer']	['80 % cement mixture']	0.853535367859
+['20 % cement mixture', 'answer']	['unit of ton']	0.192975300394
+['mixture', 'answer']	['10 concrete ton']	0.0579551260258
+['mixture', 'answer']	['62 % cement']	0.0638531041058
+['mixture', 'answer']	['20 % cement mixture']	0.647998363724
+['mixture', 'answer']	['80 % cement mixture']	0.579708803547
+['mixture', 'answer']	['unit of ton']	0.0579551260258
+['80 % cement mixture', 'answer']	['10 concrete ton']	0.437392873771
+['80 % cement mixture', 'answer']	['62 % cement']	0.139124709385
+['80 % cement mixture', 'answer']	['20 % cement mixture']	0.827400228584
+['80 % cement mixture', 'answer']	['mixture']	0.711472035742
+['80 % cement mixture', 'answer']	['unit of ton']	0.164001558431
+['unit of ton', 'answer']	['10 concrete ton']	0.635904152275
+['unit of ton', 'answer']	['62 % cement']	0.0941266761548
+['unit of ton', 'answer']	['20 % cement mixture']	0.114953281671
+['unit of ton', 'answer']	['mixture']	0.105764123859
+['unit of ton', 'answer']	['80 % cement mixture']	0.108186671941
+['10 concrete ton', 'unit of ton']	['62 % cement']	0.3242457119
+['10 concrete ton', 'unit of ton']	['20 % cement mixture']	0.815065344674
+['10 concrete ton', 'unit of ton']	['mixture']	0.281418762717
+['10 concrete ton', 'unit of ton']	['80 % cement mixture']	0.824007422511
+['10 concrete ton', 'unit of ton']	['answer']	0.323023748192
+['62 % cement', 'unit of ton']	['10 concrete ton']	0.605826053627
+['62 % cement', 'unit of ton']	['20 % cement mixture']	0.119032314002
+['62 % cement', 'unit of ton']	['mixture']	0.0661919826661
+['62 % cement', 'unit of ton']	['80 % cement mixture']	0.130121419125
+['62 % cement', 'unit of ton']	['answer']	0.0888261649569
+['20 % cement mixture', 'unit of ton']	['10 concrete ton']	0.81781872873
+['20 % cement mixture', 'unit of ton']	['62 % cement']	0.107526100904
+['20 % cement mixture', 'unit of ton']	['mixture']	0.621799079618
+['20 % cement mixture', 'unit of ton']	['80 % cement mixture']	0.821415626632
+['20 % cement mixture', 'unit of ton']	['answer']	0.0865519868472
+['mixture', 'unit of ton']	['10 concrete ton']	0.462725812843
+['mixture', 'unit of ton']	['62 % cement']	0.0698106120013
+['mixture', 'unit of ton']	['20 % cement mixture']	0.704240818091
+['mixture', 'unit of ton']	['80 % cement mixture']	0.650457128756
+['mixture', 'unit of ton']	['answer']	0.0864665311508
+['80 % cement mixture', 'unit of ton']	['10 concrete ton']	0.803598780679
+['80 % cement mixture', 'unit of ton']	['62 % cement']	0.084942142128
+['80 % cement mixture', 'unit of ton']	['20 % cement mixture']	0.801475394698
+['80 % cement mixture', 'unit of ton']	['mixture']	0.54702427038
+['80 % cement mixture', 'unit of ton']	['answer']	0.0611885663246
+['answer', 'unit of ton']	['10 concrete ton']	0.635904152275
+['answer', 'unit of ton']	['62 % cement']	0.0941266761548
+['answer', 'unit of ton']	['20 % cement mixture']	0.114953281671
+['answer', 'unit of ton']	['mixture']	0.105764123859
+['answer', 'unit of ton']	['80 % cement mixture']	0.108186671941

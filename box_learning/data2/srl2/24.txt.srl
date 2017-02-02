@@ -1,0 +1,15 @@
+have ARG0 A petroleum company
+have ARG1 two different sources of crude oil
+
+provide ARG0 The first source
+provide ARG1 crude oil that is 25 % hydrocarbons
+provide ARG0 the second one
+provide ARG1 crude oil that is 75 % hydrocarbons
+
+use TMP In order
+obtain ARG0 to obtain 50 gallons of crude oil that is 55 % hydrocarbons
+obtain ARG1 50 gallons of crude oil that is 55 % hydrocarbons
+use ARG1 how many gallons of crude oil
+use MOD must
+use ARG2 each of the two sources
+

@@ -1,0 +1,1785 @@
+['monday morning staff meeting', '2 bagel bag', '3 cream cheese package', '12.00 dollar', 'meeting', 'friday meeting', 'bag', '4 bagel bag', '2 cream cheese', 'dollar', '14.00 dollar', 'bagel bag', 'cream cheese package']
+['monday morning staff meeting']	['2 bagel bag']	0.102396614129
+['monday morning staff meeting']	['3 cream cheese package']	0.102396614129
+['monday morning staff meeting']	['12.00 dollar']	0.0988755105172
+['monday morning staff meeting']	['friday meeting']	0.750598412641
+['monday morning staff meeting']	['bag']	0.0914560578477
+['monday morning staff meeting']	['4 bagel bag']	0.102396614129
+['monday morning staff meeting']	['2 cream cheese']	0.102396614129
+['monday morning staff meeting']	['dollar']	0.013264967043
+['monday morning staff meeting']	['14.00 dollar']	0.0988755105172
+['monday morning staff meeting']	['bagel bag']	0.0907458062299
+['monday morning staff meeting']	['cream cheese package']	0.113485719252
+['2 bagel bag']	['3 cream cheese package']	0.421634249103
+['2 bagel bag']	['12.00 dollar']	0.0988755105172
+['2 bagel bag']	['meeting']	0.0914560578477
+['2 bagel bag']	['friday meeting']	0.0915001233665
+['2 bagel bag']	['4 bagel bag']	0.811753586716
+['2 bagel bag']	['2 cream cheese']	0.423509541824
+['2 bagel bag']	['dollar']	0.0118960167779
+['2 bagel bag']	['14.00 dollar']	0.0988755105172
+['2 bagel bag']	['cream cheese package']	0.113485719252
+['3 cream cheese package']	['12.00 dollar']	0.0988755105172
+['3 cream cheese package']	['meeting']	0.109353274881
+['3 cream cheese package']	['friday meeting']	0.0915001233665
+['3 cream cheese package']	['bag']	0.357507947004
+['3 cream cheese package']	['4 bagel bag']	0.405405743225
+['3 cream cheese package']	['2 cream cheese']	0.405405743225
+['3 cream cheese package']	['dollar']	0.0112670859603
+['3 cream cheese package']	['14.00 dollar']	0.0988755105172
+['3 cream cheese package']	['bagel bag']	0.0907458062299
+['12.00 dollar']	['meeting']	0.0760750800346
+['12.00 dollar']	['friday meeting']	0.0901100077042
+['12.00 dollar']	['bag']	0.0741073489195
+['12.00 dollar']	['4 bagel bag']	0.0941266761548
+['12.00 dollar']	['2 cream cheese']	0.0941266761548
+['12.00 dollar']	['14.00 dollar']	0.643440930505
+['12.00 dollar']	['bagel bag']	0.0897823390711
+['12.00 dollar']	['cream cheese package']	0.101465999609
+['meeting']	['bag']	0.0908262014664
+['meeting']	['4 bagel bag']	0.0807707659053
+['meeting']	['2 cream cheese']	0.0807707659053
+['meeting']	['dollar']	0.00388540021915
+['meeting']	['14.00 dollar']	0.0737139440912
+['meeting']	['bagel bag']	0.0799362650964
+['meeting']	['cream cheese package']	0.118663673679
+['friday meeting']	['bag']	0.0831172035382
+['friday meeting']	['4 bagel bag']	0.0908034291173
+['friday meeting']	['2 cream cheese']	0.0908034291173
+['friday meeting']	['dollar']	0.0101131233914
+['friday meeting']	['14.00 dollar']	0.0901100077042
+['friday meeting']	['bagel bag']	0.0824069519204
+['friday meeting']	['cream cheese package']	0.0981427525718
+['bag']	['2 cream cheese']	0.0807707659053
+['bag']	['dollar']	0.00388540021915
+['bag']	['14.00 dollar']	0.0669904799604
+['bag']	['cream cheese package']	0.323821318437
+['4 bagel bag']	['2 cream cheese']	0.421634249103
+['4 bagel bag']	['dollar']	0.0118960167779
+['4 bagel bag']	['14.00 dollar']	0.0988755105172
+['4 bagel bag']	['cream cheese package']	0.113485719252
+['2 cream cheese']	['dollar']	0.0138938978606
+['2 cream cheese']	['14.00 dollar']	0.0988755105172
+['2 cream cheese']	['bagel bag']	0.0907458062299
+['2 cream cheese']	['cream cheese package']	0.223651303303
+['dollar']	['bagel bag']	0.00763447394982
+['dollar']	['cream cheese package']	0.00934307163085
+['14.00 dollar']	['bagel bag']	0.0897823390711
+['14.00 dollar']	['cream cheese package']	0.101465999609
+['bagel bag']	['cream cheese package']	0.0896920278649
+['2 bagel bag', 'monday morning staff meeting']	['3 cream cheese package']	0.456150985527
+['2 bagel bag', 'monday morning staff meeting']	['12.00 dollar']	0.0988755105172
+['2 bagel bag', 'monday morning staff meeting']	['meeting']	0.648219331453
+['2 bagel bag', 'monday morning staff meeting']	['friday meeting']	0.778292039147
+['2 bagel bag', 'monday morning staff meeting']	['bag']	0.62426866951
+['2 bagel bag', 'monday morning staff meeting']	['4 bagel bag']	0.796258567514
+['2 bagel bag', 'monday morning staff meeting']	['2 cream cheese']	0.55253931373
+['2 bagel bag', 'monday morning staff meeting']	['dollar']	0.0419053838327
+['2 bagel bag', 'monday morning staff meeting']	['14.00 dollar']	0.0988755105172
+['2 bagel bag', 'monday morning staff meeting']	['bagel bag']	0.95546649146
+['2 bagel bag', 'monday morning staff meeting']	['cream cheese package']	0.113485719252
+['3 cream cheese package', 'monday morning staff meeting']	['2 bagel bag']	0.439922479649
+['3 cream cheese package', 'monday morning staff meeting']	['12.00 dollar']	0.0988755105172
+['3 cream cheese package', 'monday morning staff meeting']	['meeting']	0.666980080658
+['3 cream cheese package', 'monday morning staff meeting']	['friday meeting']	0.766209428916
+['3 cream cheese package', 'monday morning staff meeting']	['bag']	0.310229364212
+['3 cream cheese package', 'monday morning staff meeting']	['4 bagel bag']	0.439922479649
+['3 cream cheese package', 'monday morning staff meeting']	['2 cream cheese']	0.439922479649
+['3 cream cheese package', 'monday morning staff meeting']	['dollar']	0.00857205049933
+['3 cream cheese package', 'monday morning staff meeting']	['14.00 dollar']	0.0988755105172
+['3 cream cheese package', 'monday morning staff meeting']	['bagel bag']	0.0907458062299
+['3 cream cheese package', 'monday morning staff meeting']	['cream cheese package']	0.916144000585
+['12.00 dollar', 'monday morning staff meeting']	['2 bagel bag']	0.102396614129
+['12.00 dollar', 'monday morning staff meeting']	['3 cream cheese package']	0.102396614129
+['12.00 dollar', 'monday morning staff meeting']	['meeting']	0.663902266838
+['12.00 dollar', 'monday morning staff meeting']	['friday meeting']	0.778292039147
+['12.00 dollar', 'monday morning staff meeting']	['bag']	0.0857950278587
+['12.00 dollar', 'monday morning staff meeting']	['4 bagel bag']	0.102396614129
+['12.00 dollar', 'monday morning staff meeting']	['2 cream cheese']	0.102396614129
+['12.00 dollar', 'monday morning staff meeting']	['dollar']	0.352124495009
+['12.00 dollar', 'monday morning staff meeting']	['14.00 dollar']	0.630956863273
+['12.00 dollar', 'monday morning staff meeting']	['bagel bag']	0.0907458062299
+['12.00 dollar', 'monday morning staff meeting']	['cream cheese package']	0.113485719252
+['meeting', 'monday morning staff meeting']	['2 bagel bag']	0.425613130867
+['meeting', 'monday morning staff meeting']	['3 cream cheese package']	0.465205742244
+['meeting', 'monday morning staff meeting']	['12.00 dollar']	0.170107734588
+['meeting', 'monday morning staff meeting']	['friday meeting']	0.64554475456
+['meeting', 'monday morning staff meeting']	['bag']	0.557412676459
+['meeting', 'monday morning staff meeting']	['4 bagel bag']	0.425613130867
+['meeting', 'monday morning staff meeting']	['2 cream cheese']	0.425613130867
+['meeting', 'monday morning staff meeting']	['dollar']	0.112939483177
+['meeting', 'monday morning staff meeting']	['14.00 dollar']	0.170107734588
+['meeting', 'monday morning staff meeting']	['bagel bag']	0.186290946637
+['meeting', 'monday morning staff meeting']	['cream cheese package']	0.417649890423
+['friday meeting', 'monday morning staff meeting']	['2 bagel bag']	0.311530559515
+['friday meeting', 'monday morning staff meeting']	['3 cream cheese package']	0.305975003959
+['friday meeting', 'monday morning staff meeting']	['12.00 dollar']	0.127952343303
+['friday meeting', 'monday morning staff meeting']	['meeting']	0.665198850046
+['friday meeting', 'monday morning staff meeting']	['bag']	0.312497682648
+['friday meeting', 'monday morning staff meeting']	['4 bagel bag']	0.311530559515
+['friday meeting', 'monday morning staff meeting']	['2 cream cheese']	0.311530559515
+['friday meeting', 'monday morning staff meeting']	['dollar']	0.12195656857
+['friday meeting', 'monday morning staff meeting']	['14.00 dollar']	0.127952343303
+['friday meeting', 'monday morning staff meeting']	['bagel bag']	0.143803575199
+['friday meeting', 'monday morning staff meeting']	['cream cheese package']	0.315157517527
+['bag', 'monday morning staff meeting']	['2 bagel bag']	0.73630234148
+['bag', 'monday morning staff meeting']	['3 cream cheese package']	0.426392891725
+['bag', 'monday morning staff meeting']	['12.00 dollar']	0.125502508807
+['bag', 'monday morning staff meeting']	['meeting']	0.71748597783
+['bag', 'monday morning staff meeting']	['friday meeting']	0.790085144498
+['bag', 'monday morning staff meeting']	['4 bagel bag']	0.73630234148
+['bag', 'monday morning staff meeting']	['2 cream cheese']	0.137350001891
+['bag', 'monday morning staff meeting']	['dollar']	0.046769301913
+['bag', 'monday morning staff meeting']	['14.00 dollar']	0.125502508807
+['bag', 'monday morning staff meeting']	['bagel bag']	0.69547301006
+['bag', 'monday morning staff meeting']	['cream cheese package']	0.390696534183
+['4 bagel bag', 'monday morning staff meeting']	['2 bagel bag']	0.796258567514
+['4 bagel bag', 'monday morning staff meeting']	['3 cream cheese package']	0.456150985527
+['4 bagel bag', 'monday morning staff meeting']	['12.00 dollar']	0.0988755105172
+['4 bagel bag', 'monday morning staff meeting']	['meeting']	0.648219331453
+['4 bagel bag', 'monday morning staff meeting']	['friday meeting']	0.778292039147
+['4 bagel bag', 'monday morning staff meeting']	['bag']	0.62426866951
+['4 bagel bag', 'monday morning staff meeting']	['2 cream cheese']	0.456150985527
+['4 bagel bag', 'monday morning staff meeting']	['dollar']	0.0419053838327
+['4 bagel bag', 'monday morning staff meeting']	['14.00 dollar']	0.0988755105172
+['4 bagel bag', 'monday morning staff meeting']	['bagel bag']	0.95546649146
+['4 bagel bag', 'monday morning staff meeting']	['cream cheese package']	0.113485719252
+['2 cream cheese', 'monday morning staff meeting']	['2 bagel bag']	0.55253931373
+['2 cream cheese', 'monday morning staff meeting']	['3 cream cheese package']	0.456150985527
+['2 cream cheese', 'monday morning staff meeting']	['12.00 dollar']	0.0988755105172
+['2 cream cheese', 'monday morning staff meeting']	['meeting']	0.648219331453
+['2 cream cheese', 'monday morning staff meeting']	['friday meeting']	0.778292039147
+['2 cream cheese', 'monday morning staff meeting']	['bag']	0.0914560578477
+['2 cream cheese', 'monday morning staff meeting']	['4 bagel bag']	0.456150985527
+['2 cream cheese', 'monday morning staff meeting']	['dollar']	0.0465983003763
+['2 cream cheese', 'monday morning staff meeting']	['14.00 dollar']	0.0988755105172
+['2 cream cheese', 'monday morning staff meeting']	['bagel bag']	0.0907458062299
+['2 cream cheese', 'monday morning staff meeting']	['cream cheese package']	0.379583694333
+['dollar', 'monday morning staff meeting']	['2 bagel bag']	0.0238544414291
+['dollar', 'monday morning staff meeting']	['3 cream cheese package']	0.0272201813802
+['dollar', 'monday morning staff meeting']	['12.00 dollar']	0.443886381557
+['dollar', 'monday morning staff meeting']	['meeting']	0.291000952098
+['dollar', 'monday morning staff meeting']	['friday meeting']	0.201256749764
+['dollar', 'monday morning staff meeting']	['bag']	0.0555384930866
+['dollar', 'monday morning staff meeting']	['4 bagel bag']	0.0238544414291
+['dollar', 'monday morning staff meeting']	['2 cream cheese']	0.0238544414291
+['dollar', 'monday morning staff meeting']	['14.00 dollar']	0.443886381557
+['dollar', 'monday morning staff meeting']	['bagel bag']	0.0189042028198
+['dollar', 'monday morning staff meeting']	['cream cheese package']	0.0272432596823
+['14.00 dollar', 'monday morning staff meeting']	['2 bagel bag']	0.102396614129
+['14.00 dollar', 'monday morning staff meeting']	['3 cream cheese package']	0.102396614129
+['14.00 dollar', 'monday morning staff meeting']	['12.00 dollar']	0.630956863273
+['14.00 dollar', 'monday morning staff meeting']	['meeting']	0.663902266838
+['14.00 dollar', 'monday morning staff meeting']	['friday meeting']	0.778292039147
+['14.00 dollar', 'monday morning staff meeting']	['bag']	0.0857950278587
+['14.00 dollar', 'monday morning staff meeting']	['4 bagel bag']	0.102396614129
+['14.00 dollar', 'monday morning staff meeting']	['2 cream cheese']	0.102396614129
+['14.00 dollar', 'monday morning staff meeting']	['dollar']	0.352124495009
+['14.00 dollar', 'monday morning staff meeting']	['bagel bag']	0.0907458062299
+['14.00 dollar', 'monday morning staff meeting']	['cream cheese package']	0.113485719252
+['bagel bag', 'monday morning staff meeting']	['2 bagel bag']	0.949459250139
+['bagel bag', 'monday morning staff meeting']	['3 cream cheese package']	0.0865331745855
+['bagel bag', 'monday morning staff meeting']	['12.00 dollar']	0.0681387921949
+['bagel bag', 'monday morning staff meeting']	['meeting']	0.551064339416
+['bagel bag', 'monday morning staff meeting']	['friday meeting']	0.761325470716
+['bagel bag', 'monday morning staff meeting']	['bag']	0.633744550421
+['bagel bag', 'monday morning staff meeting']	['4 bagel bag']	0.949459250139
+['bagel bag', 'monday morning staff meeting']	['2 cream cheese']	0.0831674346344
+['bagel bag', 'monday morning staff meeting']	['dollar']	0.00371585050999
+['bagel bag', 'monday morning staff meeting']	['14.00 dollar']	0.0681387921949
+['bagel bag', 'monday morning staff meeting']	['cream cheese package']	0.10182296811
+['cream cheese package', 'monday morning staff meeting']	['2 bagel bag']	0.0831674346344
+['cream cheese package', 'monday morning staff meeting']	['3 cream cheese package']	0.948713198815
+['cream cheese package', 'monday morning staff meeting']	['12.00 dollar']	0.0681387921949
+['cream cheese package', 'monday morning staff meeting']	['meeting']	0.703721238216
+['cream cheese package', 'monday morning staff meeting']	['friday meeting']	0.761325470716
+['cream cheese package', 'monday morning staff meeting']	['bag']	0.275475307355
+['cream cheese package', 'monday morning staff meeting']	['4 bagel bag']	0.0831674346344
+['cream cheese package', 'monday morning staff meeting']	['2 cream cheese']	0.411723024075
+['cream cheese package', 'monday morning staff meeting']	['dollar']	0.0370491838433
+['cream cheese package', 'monday morning staff meeting']	['14.00 dollar']	0.0681387921949
+['cream cheese package', 'monday morning staff meeting']	['bagel bag']	0.0724706734038
+['monday morning staff meeting', '2 bagel bag']	['3 cream cheese package']	0.456150985527
+['monday morning staff meeting', '2 bagel bag']	['12.00 dollar']	0.0988755105172
+['monday morning staff meeting', '2 bagel bag']	['meeting']	0.648219331453
+['monday morning staff meeting', '2 bagel bag']	['friday meeting']	0.778292039147
+['monday morning staff meeting', '2 bagel bag']	['bag']	0.62426866951
+['monday morning staff meeting', '2 bagel bag']	['4 bagel bag']	0.796258567514
+['monday morning staff meeting', '2 bagel bag']	['2 cream cheese']	0.55253931373
+['monday morning staff meeting', '2 bagel bag']	['dollar']	0.0419053838327
+['monday morning staff meeting', '2 bagel bag']	['14.00 dollar']	0.0988755105172
+['monday morning staff meeting', '2 bagel bag']	['bagel bag']	0.95546649146
+['monday morning staff meeting', '2 bagel bag']	['cream cheese package']	0.113485719252
+['3 cream cheese package', '2 bagel bag']	['monday morning staff meeting']	0.102396614129
+['3 cream cheese package', '2 bagel bag']	['12.00 dollar']	0.0988755105172
+['3 cream cheese package', '2 bagel bag']	['meeting']	0.10940366544
+['3 cream cheese package', '2 bagel bag']	['friday meeting']	0.0915001233665
+['3 cream cheese package', '2 bagel bag']	['bag']	0.713551385258
+['3 cream cheese package', '2 bagel bag']	['4 bagel bag']	0.843172463059
+['3 cream cheese package', '2 bagel bag']	['2 cream cheese']	0.507218911651
+['3 cream cheese package', '2 bagel bag']	['dollar']	0.0446004192937
+['3 cream cheese package', '2 bagel bag']	['14.00 dollar']	0.0988755105172
+['3 cream cheese package', '2 bagel bag']	['bagel bag']	0.957515977921
+['3 cream cheese package', '2 bagel bag']	['cream cheese package']	0.953690516987
+['12.00 dollar', '2 bagel bag']	['monday morning staff meeting']	0.156579181386
+['12.00 dollar', '2 bagel bag']	['3 cream cheese package']	0.463800617609
+['12.00 dollar', '2 bagel bag']	['meeting']	0.146533383972
+['12.00 dollar', '2 bagel bag']	['friday meeting']	0.152238479479
+['12.00 dollar', '2 bagel bag']	['bag']	0.670970383127
+['12.00 dollar', '2 bagel bag']	['4 bagel bag']	0.824752035523
+['12.00 dollar', '2 bagel bag']	['2 cream cheese']	0.610419843509
+['12.00 dollar', '2 bagel bag']	['dollar']	0.417738468097
+['12.00 dollar', '2 bagel bag']	['14.00 dollar']	0.653642048458
+['12.00 dollar', '2 bagel bag']	['bagel bag']	0.951950578313
+['12.00 dollar', '2 bagel bag']	['cream cheese package']	0.157652115092
+['meeting', '2 bagel bag']	['monday morning staff meeting']	0.625860996547
+['meeting', '2 bagel bag']	['3 cream cheese package']	0.326235381428
+['meeting', '2 bagel bag']	['12.00 dollar']	0.0737139440912
+['meeting', '2 bagel bag']	['friday meeting']	0.681503405678
+['meeting', '2 bagel bag']	['bag']	0.70958090799
+['meeting', '2 bagel bag']	['4 bagel bag']	0.687763202918
+['meeting', '2 bagel bag']	['2 cream cheese']	0.504067149886
+['meeting', '2 bagel bag']	['dollar']	0.0424835876272
+['meeting', '2 bagel bag']	['14.00 dollar']	0.0737139440912
+['meeting', '2 bagel bag']	['bagel bag']	0.871328316331
+['meeting', '2 bagel bag']	['cream cheese package']	0.121294742025
+['friday meeting', '2 bagel bag']	['monday morning staff meeting']	0.822652025548
+['friday meeting', '2 bagel bag']	['3 cream cheese package']	0.520253435017
+['friday meeting', '2 bagel bag']	['12.00 dollar']	0.15961386663
+['friday meeting', '2 bagel bag']	['meeting']	0.695667099091
+['friday meeting', '2 bagel bag']	['bag']	0.656219479655
+['friday meeting', '2 bagel bag']	['4 bagel bag']	0.824752035523
+['friday meeting', '2 bagel bag']	['2 cream cheese']	0.610419843509
+['friday meeting', '2 bagel bag']	['dollar']	0.00636410188432
+['friday meeting', '2 bagel bag']	['14.00 dollar']	0.15961386663
+['friday meeting', '2 bagel bag']	['bagel bag']	0.954148380511
+['friday meeting', '2 bagel bag']	['cream cheese package']	0.157652115092
+['bag', '2 bagel bag']	['monday morning staff meeting']	0.353649848982
+['bag', '2 bagel bag']	['3 cream cheese package']	0.74426967884
+['bag', '2 bagel bag']	['12.00 dollar']	0.21925775957
+['bag', '2 bagel bag']	['meeting']	0.514101957907
+['bag', '2 bagel bag']	['friday meeting']	0.144528281371
+['bag', '2 bagel bag']	['4 bagel bag']	0.655996948123
+['bag', '2 bagel bag']	['2 cream cheese']	0.744812392098
+['bag', '2 bagel bag']	['dollar']	0.208653768891
+['bag', '2 bagel bag']	['14.00 dollar']	0.21925775957
+['bag', '2 bagel bag']	['bagel bag']	0.559975012859
+['bag', '2 bagel bag']	['cream cheese package']	0.673629896076
+['4 bagel bag', '2 bagel bag']	['monday morning staff meeting']	0.305975003959
+['4 bagel bag', '2 bagel bag']	['3 cream cheese package']	0.797601607433
+['4 bagel bag', '2 bagel bag']	['12.00 dollar']	0.127952343303
+['4 bagel bag', '2 bagel bag']	['meeting']	0.312497682648
+['4 bagel bag', '2 bagel bag']	['friday meeting']	0.142281589132
+['4 bagel bag', '2 bagel bag']	['bag']	0.721748229806
+['4 bagel bag', '2 bagel bag']	['2 cream cheese']	0.669027741254
+['4 bagel bag', '2 bagel bag']	['dollar']	0.163062708315
+['4 bagel bag', '2 bagel bag']	['14.00 dollar']	0.127952343303
+['4 bagel bag', '2 bagel bag']	['bagel bag']	0.746207658926
+['4 bagel bag', '2 bagel bag']	['cream cheese package']	0.315157517527
+['2 cream cheese', '2 bagel bag']	['monday morning staff meeting']	0.102396614129
+['2 cream cheese', '2 bagel bag']	['3 cream cheese package']	0.426894011906
+['2 cream cheese', '2 bagel bag']	['12.00 dollar']	0.0988755105172
+['2 cream cheese', '2 bagel bag']	['meeting']	0.0914560578477
+['2 cream cheese', '2 bagel bag']	['friday meeting']	0.0915001233665
+['2 cream cheese', '2 bagel bag']	['bag']	0.621431790077
+['2 cream cheese', '2 bagel bag']	['4 bagel bag']	0.834454514341
+['2 cream cheese', '2 bagel bag']	['dollar']	0.00920098131694
+['2 cream cheese', '2 bagel bag']	['14.00 dollar']	0.0988755105172
+['2 cream cheese', '2 bagel bag']	['bagel bag']	0.951780547764
+['2 cream cheese', '2 bagel bag']	['cream cheese package']	0.326469433393
+['dollar', '2 bagel bag']	['monday morning staff meeting']	0.0277112162341
+['dollar', '2 bagel bag']	['3 cream cheese package']	0.176087914298
+['dollar', '2 bagel bag']	['12.00 dollar']	0.372791497313
+['dollar', '2 bagel bag']	['meeting']	0.0389235060065
+['dollar', '2 bagel bag']	['friday meeting']	0.015360451052
+['dollar', '2 bagel bag']	['bag']	0.449421525505
+['dollar', '2 bagel bag']	['4 bagel bag']	0.370551504268
+['dollar', '2 bagel bag']	['2 cream cheese']	0.208889078486
+['dollar', '2 bagel bag']	['14.00 dollar']	0.372791497313
+['dollar', '2 bagel bag']	['bagel bag']	0.276353783192
+['dollar', '2 bagel bag']	['cream cheese package']	0.0277342945362
+['14.00 dollar', '2 bagel bag']	['monday morning staff meeting']	0.156579181386
+['14.00 dollar', '2 bagel bag']	['3 cream cheese package']	0.463800617609
+['14.00 dollar', '2 bagel bag']	['12.00 dollar']	0.653642048458
+['14.00 dollar', '2 bagel bag']	['meeting']	0.146533383972
+['14.00 dollar', '2 bagel bag']	['friday meeting']	0.152238479479
+['14.00 dollar', '2 bagel bag']	['bag']	0.670970383127
+['14.00 dollar', '2 bagel bag']	['4 bagel bag']	0.824752035523
+['14.00 dollar', '2 bagel bag']	['2 cream cheese']	0.610419843509
+['14.00 dollar', '2 bagel bag']	['dollar']	0.417738468097
+['14.00 dollar', '2 bagel bag']	['bagel bag']	0.951950578313
+['14.00 dollar', '2 bagel bag']	['cream cheese package']	0.157652115092
+['bagel bag', '2 bagel bag']	['monday morning staff meeting']	0.425613130867
+['bagel bag', '2 bagel bag']	['3 cream cheese package']	0.775597107079
+['bagel bag', '2 bagel bag']	['12.00 dollar']	0.170107734588
+['bagel bag', '2 bagel bag']	['meeting']	0.358160616065
+['bagel bag', '2 bagel bag']	['friday meeting']	0.187498204907
+['bagel bag', '2 bagel bag']	['bag']	0.771187437892
+['bagel bag', '2 bagel bag']	['4 bagel bag']	0.969894009684
+['bagel bag', '2 bagel bag']	['2 cream cheese']	0.773306411358
+['bagel bag', '2 bagel bag']	['dollar']	0.15868834106
+['bagel bag', '2 bagel bag']	['14.00 dollar']	0.170107734588
+['bagel bag', '2 bagel bag']	['cream cheese package']	0.386423372197
+['cream cheese package', '2 bagel bag']	['monday morning staff meeting']	0.0865331745855
+['cream cheese package', '2 bagel bag']	['3 cream cheese package']	0.921627603781
+['cream cheese package', '2 bagel bag']	['12.00 dollar']	0.0681387921949
+['cream cheese package', '2 bagel bag']	['meeting']	0.0904825642459
+['cream cheese package', '2 bagel bag']	['friday meeting']	0.0641181843254
+['cream cheese package', '2 bagel bag']	['bag']	0.743831411778
+['cream cheese package', '2 bagel bag']	['4 bagel bag']	0.769853399857
+['cream cheese package', '2 bagel bag']	['2 cream cheese']	0.516399957685
+['cream cheese package', '2 bagel bag']	['dollar']	0.00641088597099
+['cream cheese package', '2 bagel bag']	['14.00 dollar']	0.0681387921949
+['cream cheese package', '2 bagel bag']	['bagel bag']	0.787396599306
+['monday morning staff meeting', '3 cream cheese package']	['2 bagel bag']	0.439922479649
+['monday morning staff meeting', '3 cream cheese package']	['12.00 dollar']	0.0988755105172
+['monday morning staff meeting', '3 cream cheese package']	['meeting']	0.666980080658
+['monday morning staff meeting', '3 cream cheese package']	['friday meeting']	0.766209428916
+['monday morning staff meeting', '3 cream cheese package']	['bag']	0.310229364212
+['monday morning staff meeting', '3 cream cheese package']	['4 bagel bag']	0.439922479649
+['monday morning staff meeting', '3 cream cheese package']	['2 cream cheese']	0.439922479649
+['monday morning staff meeting', '3 cream cheese package']	['dollar']	0.00857205049933
+['monday morning staff meeting', '3 cream cheese package']	['14.00 dollar']	0.0988755105172
+['monday morning staff meeting', '3 cream cheese package']	['bagel bag']	0.0907458062299
+['monday morning staff meeting', '3 cream cheese package']	['cream cheese package']	0.916144000585
+['2 bagel bag', '3 cream cheese package']	['monday morning staff meeting']	0.102396614129
+['2 bagel bag', '3 cream cheese package']	['12.00 dollar']	0.0988755105172
+['2 bagel bag', '3 cream cheese package']	['meeting']	0.10940366544
+['2 bagel bag', '3 cream cheese package']	['friday meeting']	0.0915001233665
+['2 bagel bag', '3 cream cheese package']	['bag']	0.713551385258
+['2 bagel bag', '3 cream cheese package']	['4 bagel bag']	0.843172463059
+['2 bagel bag', '3 cream cheese package']	['2 cream cheese']	0.507218911651
+['2 bagel bag', '3 cream cheese package']	['dollar']	0.0446004192937
+['2 bagel bag', '3 cream cheese package']	['14.00 dollar']	0.0988755105172
+['2 bagel bag', '3 cream cheese package']	['bagel bag']	0.957515977921
+['2 bagel bag', '3 cream cheese package']	['cream cheese package']	0.953690516987
+['12.00 dollar', '3 cream cheese package']	['monday morning staff meeting']	0.102396614129
+['12.00 dollar', '3 cream cheese package']	['2 bagel bag']	0.399698168118
+['12.00 dollar', '3 cream cheese package']	['meeting']	0.11060179965
+['12.00 dollar', '3 cream cheese package']	['friday meeting']	0.0915001233665
+['12.00 dollar', '3 cream cheese package']	['bag']	0.397506695414
+['12.00 dollar', '3 cream cheese package']	['4 bagel bag']	0.399698168118
+['12.00 dollar', '3 cream cheese package']	['2 cream cheese']	0.399698168118
+['12.00 dollar', '3 cream cheese package']	['dollar']	0.38070143106
+['12.00 dollar', '3 cream cheese package']	['14.00 dollar']	0.630956863273
+['12.00 dollar', '3 cream cheese package']	['bagel bag']	0.0907458062299
+['12.00 dollar', '3 cream cheese package']	['cream cheese package']	0.945905600368
+['meeting', '3 cream cheese package']	['monday morning staff meeting']	0.695858619092
+['meeting', '3 cream cheese package']	['2 bagel bag']	0.382502300097
+['meeting', '3 cream cheese package']	['12.00 dollar']	0.128877148308
+['meeting', '3 cream cheese package']	['friday meeting']	0.71305392345
+['meeting', '3 cream cheese package']	['bag']	0.45963455005
+['meeting', '3 cream cheese package']	['4 bagel bag']	0.382502300097
+['meeting', '3 cream cheese package']	['2 cream cheese']	0.382502300097
+['meeting', '3 cream cheese package']	['dollar']	0.0658169209606
+['meeting', '3 cream cheese package']	['14.00 dollar']	0.128877148308
+['meeting', '3 cream cheese package']	['bagel bag']	0.132563061148
+['meeting', '3 cream cheese package']	['cream cheese package']	0.800788388974
+['friday meeting', '3 cream cheese package']	['monday morning staff meeting']	0.785440608821
+['friday meeting', '3 cream cheese package']	['2 bagel bag']	0.456150985527
+['friday meeting', '3 cream cheese package']	['12.00 dollar']	0.0988755105172
+['friday meeting', '3 cream cheese package']	['meeting']	0.723206827614
+['friday meeting', '3 cream cheese package']	['bag']	0.335449165533
+['friday meeting', '3 cream cheese package']	['4 bagel bag']	0.456150985527
+['friday meeting', '3 cream cheese package']	['2 cream cheese']	0.456150985527
+['friday meeting', '3 cream cheese package']	['dollar']	0.00920098131694
+['friday meeting', '3 cream cheese package']	['14.00 dollar']	0.0988755105172
+['friday meeting', '3 cream cheese package']	['bagel bag']	0.0907458062299
+['friday meeting', '3 cream cheese package']	['cream cheese package']	0.94795508683
+['bag', '3 cream cheese package']	['monday morning staff meeting']	0.140715741843
+['bag', '3 cream cheese package']	['2 bagel bag']	0.740885711415
+['bag', '3 cream cheese package']	['12.00 dollar']	0.125502508807
+['bag', '3 cream cheese package']	['meeting']	0.237338458942
+['bag', '3 cream cheese package']	['friday meeting']	0.124856540438
+['bag', '3 cream cheese package']	['4 bagel bag']	0.740885711415
+['bag', '3 cream cheese package']	['2 cream cheese']	0.382502300097
+['bag', '3 cream cheese package']	['dollar']	0.0658169209606
+['bag', '3 cream cheese package']	['14.00 dollar']	0.125502508807
+['bag', '3 cream cheese package']	['bagel bag']	0.69547301006
+['bag', '3 cream cheese package']	['cream cheese package']	0.856506621965
+['4 bagel bag', '3 cream cheese package']	['monday morning staff meeting']	0.102396614129
+['4 bagel bag', '3 cream cheese package']	['2 bagel bag']	0.843172463059
+['4 bagel bag', '3 cream cheese package']	['12.00 dollar']	0.0988755105172
+['4 bagel bag', '3 cream cheese package']	['meeting']	0.10940366544
+['4 bagel bag', '3 cream cheese package']	['friday meeting']	0.0915001233665
+['4 bagel bag', '3 cream cheese package']	['bag']	0.713551385258
+['4 bagel bag', '3 cream cheese package']	['2 cream cheese']	0.426894011906
+['4 bagel bag', '3 cream cheese package']	['dollar']	0.0446004192937
+['4 bagel bag', '3 cream cheese package']	['14.00 dollar']	0.0988755105172
+['4 bagel bag', '3 cream cheese package']	['bagel bag']	0.957515977921
+['4 bagel bag', '3 cream cheese package']	['cream cheese package']	0.953690516987
+['2 cream cheese', '3 cream cheese package']	['monday morning staff meeting']	0.102396614129
+['2 cream cheese', '3 cream cheese package']	['2 bagel bag']	0.507218911651
+['2 cream cheese', '3 cream cheese package']	['12.00 dollar']	0.0988755105172
+['2 cream cheese', '3 cream cheese package']	['meeting']	0.10940366544
+['2 cream cheese', '3 cream cheese package']	['friday meeting']	0.0915001233665
+['2 cream cheese', '3 cream cheese package']	['bag']	0.335449165533
+['2 cream cheese', '3 cream cheese package']	['4 bagel bag']	0.426894011906
+['2 cream cheese', '3 cream cheese package']	['dollar']	0.0419053838327
+['2 cream cheese', '3 cream cheese package']	['14.00 dollar']	0.0988755105172
+['2 cream cheese', '3 cream cheese package']	['bagel bag']	0.0907458062299
+['2 cream cheese', '3 cream cheese package']	['cream cheese package']	0.479225943727
+['dollar', '3 cream cheese package']	['monday morning staff meeting']	0.0272201813802
+['dollar', '3 cream cheese package']	['2 bagel bag']	0.182717229402
+['dollar', '3 cream cheese package']	['12.00 dollar']	0.443886381557
+['dollar', '3 cream cheese package']	['meeting']	0.0815985946046
+['dollar', '3 cream cheese package']	['friday meeting']	0.0148694161981
+['dollar', '3 cream cheese package']	['bag']	0.242461235328
+['dollar', '3 cream cheese package']	['4 bagel bag']	0.182717229402
+['dollar', '3 cream cheese package']	['2 cream cheese']	0.147893665788
+['dollar', '3 cream cheese package']	['14.00 dollar']	0.443886381557
+['dollar', '3 cream cheese package']	['bagel bag']	0.0189042028198
+['dollar', '3 cream cheese package']	['cream cheese package']	0.441482484601
+['14.00 dollar', '3 cream cheese package']	['monday morning staff meeting']	0.102396614129
+['14.00 dollar', '3 cream cheese package']	['2 bagel bag']	0.399698168118
+['14.00 dollar', '3 cream cheese package']	['12.00 dollar']	0.630956863273
+['14.00 dollar', '3 cream cheese package']	['meeting']	0.11060179965
+['14.00 dollar', '3 cream cheese package']	['friday meeting']	0.0915001233665
+['14.00 dollar', '3 cream cheese package']	['bag']	0.397506695414
+['14.00 dollar', '3 cream cheese package']	['4 bagel bag']	0.399698168118
+['14.00 dollar', '3 cream cheese package']	['2 cream cheese']	0.399698168118
+['14.00 dollar', '3 cream cheese package']	['dollar']	0.38070143106
+['14.00 dollar', '3 cream cheese package']	['bagel bag']	0.0907458062299
+['14.00 dollar', '3 cream cheese package']	['cream cheese package']	0.945905600368
+['bagel bag', '3 cream cheese package']	['monday morning staff meeting']	0.0865331745855
+['bagel bag', '3 cream cheese package']	['2 bagel bag']	0.921627603781
+['bagel bag', '3 cream cheese package']	['12.00 dollar']	0.0681387921949
+['bagel bag', '3 cream cheese package']	['meeting']	0.0904825642459
+['bagel bag', '3 cream cheese package']	['friday meeting']	0.0641181843254
+['bagel bag', '3 cream cheese package']	['bag']	0.77817014863
+['bagel bag', '3 cream cheese package']	['4 bagel bag']	0.921627603781
+['bagel bag', '3 cream cheese package']	['2 cream cheese']	0.345666366969
+['bagel bag', '3 cream cheese package']	['dollar']	0.00641088597099
+['bagel bag', '3 cream cheese package']	['14.00 dollar']	0.0681387921949
+['bagel bag', '3 cream cheese package']	['cream cheese package']	0.783571138371
+['cream cheese package', '3 cream cheese package']	['monday morning staff meeting']	0.37143056361
+['cream cheese package', '3 cream cheese package']	['2 bagel bag']	0.747298661824
+['cream cheese package', '3 cream cheese package']	['12.00 dollar']	0.109369378475
+['cream cheese package', '3 cream cheese package']	['meeting']	0.361843767033
+['cream cheese package', '3 cream cheese package']	['friday meeting']	0.126759848794
+['cream cheese package', '3 cream cheese package']	['bag']	0.663568576378
+['cream cheese package', '3 cream cheese package']	['4 bagel bag']	0.747298661824
+['cream cheese package', '3 cream cheese package']	['2 cream cheese']	0.710239565502
+['cream cheese package', '3 cream cheese package']	['dollar']	0.128050043188
+['cream cheese package', '3 cream cheese package']	['14.00 dollar']	0.109369378475
+['cream cheese package', '3 cream cheese package']	['bagel bag']	0.192784399348
+['monday morning staff meeting', '12.00 dollar']	['2 bagel bag']	0.102396614129
+['monday morning staff meeting', '12.00 dollar']	['3 cream cheese package']	0.102396614129
+['monday morning staff meeting', '12.00 dollar']	['meeting']	0.663902266838
+['monday morning staff meeting', '12.00 dollar']	['friday meeting']	0.778292039147
+['monday morning staff meeting', '12.00 dollar']	['bag']	0.0857950278587
+['monday morning staff meeting', '12.00 dollar']	['4 bagel bag']	0.102396614129
+['monday morning staff meeting', '12.00 dollar']	['2 cream cheese']	0.102396614129
+['monday morning staff meeting', '12.00 dollar']	['dollar']	0.352124495009
+['monday morning staff meeting', '12.00 dollar']	['14.00 dollar']	0.630956863273
+['monday morning staff meeting', '12.00 dollar']	['bagel bag']	0.0907458062299
+['monday morning staff meeting', '12.00 dollar']	['cream cheese package']	0.113485719252
+['2 bagel bag', '12.00 dollar']	['monday morning staff meeting']	0.156579181386
+['2 bagel bag', '12.00 dollar']	['3 cream cheese package']	0.463800617609
+['2 bagel bag', '12.00 dollar']	['meeting']	0.146533383972
+['2 bagel bag', '12.00 dollar']	['friday meeting']	0.152238479479
+['2 bagel bag', '12.00 dollar']	['bag']	0.670970383127
+['2 bagel bag', '12.00 dollar']	['4 bagel bag']	0.824752035523
+['2 bagel bag', '12.00 dollar']	['2 cream cheese']	0.610419843509
+['2 bagel bag', '12.00 dollar']	['dollar']	0.417738468097
+['2 bagel bag', '12.00 dollar']	['14.00 dollar']	0.653642048458
+['2 bagel bag', '12.00 dollar']	['bagel bag']	0.951950578313
+['2 bagel bag', '12.00 dollar']	['cream cheese package']	0.157652115092
+['3 cream cheese package', '12.00 dollar']	['monday morning staff meeting']	0.102396614129
+['3 cream cheese package', '12.00 dollar']	['2 bagel bag']	0.399698168118
+['3 cream cheese package', '12.00 dollar']	['meeting']	0.11060179965
+['3 cream cheese package', '12.00 dollar']	['friday meeting']	0.0915001233665
+['3 cream cheese package', '12.00 dollar']	['bag']	0.397506695414
+['3 cream cheese package', '12.00 dollar']	['4 bagel bag']	0.399698168118
+['3 cream cheese package', '12.00 dollar']	['2 cream cheese']	0.399698168118
+['3 cream cheese package', '12.00 dollar']	['dollar']	0.38070143106
+['3 cream cheese package', '12.00 dollar']	['14.00 dollar']	0.630956863273
+['3 cream cheese package', '12.00 dollar']	['bagel bag']	0.0907458062299
+['3 cream cheese package', '12.00 dollar']	['cream cheese package']	0.945905600368
+['meeting', '12.00 dollar']	['monday morning staff meeting']	0.64355420139
+['meeting', '12.00 dollar']	['2 bagel bag']	0.0807707659053
+['meeting', '12.00 dollar']	['3 cream cheese package']	0.133567705115
+['meeting', '12.00 dollar']	['friday meeting']	0.701554947584
+['meeting', '12.00 dollar']	['bag']	0.180082849884
+['meeting', '12.00 dollar']	['4 bagel bag']	0.0807707659053
+['meeting', '12.00 dollar']	['2 cream cheese']	0.0807707659053
+['meeting', '12.00 dollar']	['dollar']	0.514895375159
+['meeting', '12.00 dollar']	['14.00 dollar']	0.522652815483
+['meeting', '12.00 dollar']	['bagel bag']	0.0799362650964
+['meeting', '12.00 dollar']	['cream cheese package']	0.129064423394
+['friday meeting', '12.00 dollar']	['monday morning staff meeting']	0.701204998118
+['friday meeting', '12.00 dollar']	['2 bagel bag']	0.0908034291173
+['friday meeting', '12.00 dollar']	['3 cream cheese package']	0.0908034291173
+['friday meeting', '12.00 dollar']	['meeting']	0.653738463029
+['friday meeting', '12.00 dollar']	['bag']	0.0774561735493
+['friday meeting', '12.00 dollar']	['4 bagel bag']	0.0908034291173
+['friday meeting', '12.00 dollar']	['2 cream cheese']	0.0908034291173
+['friday meeting', '12.00 dollar']	['dollar']	0.254639021624
+['friday meeting', '12.00 dollar']	['14.00 dollar']	0.584269096576
+['friday meeting', '12.00 dollar']	['bagel bag']	0.0824069519204
+['friday meeting', '12.00 dollar']	['cream cheese package']	0.0981427525718
+['bag', '12.00 dollar']	['monday morning staff meeting']	0.0841365058564
+['bag', '12.00 dollar']	['2 bagel bag']	0.589432508303
+['bag', '12.00 dollar']	['3 cream cheese package']	0.263041332452
+['bag', '12.00 dollar']	['meeting']	0.163174176505
+['bag', '12.00 dollar']	['friday meeting']	0.0737139440912
+['bag', '12.00 dollar']	['4 bagel bag']	0.589432508303
+['bag', '12.00 dollar']	['2 cream cheese']	0.0807707659053
+['bag', '12.00 dollar']	['dollar']	0.514895375159
+['bag', '12.00 dollar']	['14.00 dollar']	0.465538040018
+['bag', '12.00 dollar']	['bagel bag']	0.606000595304
+['bag', '12.00 dollar']	['cream cheese package']	0.288615305968
+['4 bagel bag', '12.00 dollar']	['monday morning staff meeting']	0.156579181386
+['4 bagel bag', '12.00 dollar']	['2 bagel bag']	0.824752035523
+['4 bagel bag', '12.00 dollar']	['3 cream cheese package']	0.463800617609
+['4 bagel bag', '12.00 dollar']	['meeting']	0.146533383972
+['4 bagel bag', '12.00 dollar']	['friday meeting']	0.152238479479
+['4 bagel bag', '12.00 dollar']	['bag']	0.670970383127
+['4 bagel bag', '12.00 dollar']	['2 cream cheese']	0.463800617609
+['4 bagel bag', '12.00 dollar']	['dollar']	0.417738468097
+['4 bagel bag', '12.00 dollar']	['14.00 dollar']	0.653642048458
+['4 bagel bag', '12.00 dollar']	['bagel bag']	0.951950578313
+['4 bagel bag', '12.00 dollar']	['cream cheese package']	0.157652115092
+['2 cream cheese', '12.00 dollar']	['monday morning staff meeting']	0.156579181386
+['2 cream cheese', '12.00 dollar']	['2 bagel bag']	0.610419843509
+['2 cream cheese', '12.00 dollar']	['3 cream cheese package']	0.463800617609
+['2 cream cheese', '12.00 dollar']	['meeting']	0.146533383972
+['2 cream cheese', '12.00 dollar']	['friday meeting']	0.152238479479
+['2 cream cheese', '12.00 dollar']	['bag']	0.146533383972
+['2 cream cheese', '12.00 dollar']	['4 bagel bag']	0.463800617609
+['2 cream cheese', '12.00 dollar']	['dollar']	0.389161532046
+['2 cream cheese', '12.00 dollar']	['14.00 dollar']	0.653642048458
+['2 cream cheese', '12.00 dollar']	['bagel bag']	0.151484162343
+['2 cream cheese', '12.00 dollar']	['cream cheese package']	0.313136100059
+['dollar', '12.00 dollar']	['monday morning staff meeting']	0.201519460286
+['dollar', '12.00 dollar']	['2 bagel bag']	0.193299723861
+['dollar', '12.00 dollar']	['3 cream cheese package']	0.193299723861
+['dollar', '12.00 dollar']	['meeting']	0.226341105465
+['dollar', '12.00 dollar']	['friday meeting']	0.0878776902641
+['dollar', '12.00 dollar']	['bag']	0.313007772131
+['dollar', '12.00 dollar']	['4 bagel bag']	0.193299723861
+['dollar', '12.00 dollar']	['2 cream cheese']	0.198882138174
+['dollar', '12.00 dollar']	['14.00 dollar']	0.731253697846
+['dollar', '12.00 dollar']	['bagel bag']	0.124665789342
+['dollar', '12.00 dollar']	['cream cheese package']	0.182523883968
+['14.00 dollar', '12.00 dollar']	['monday morning staff meeting']	0.315265418903
+['14.00 dollar', '12.00 dollar']	['2 bagel bag']	0.297805101442
+['14.00 dollar', '12.00 dollar']	['3 cream cheese package']	0.315265418903
+['14.00 dollar', '12.00 dollar']	['meeting']	0.386315627603
+['14.00 dollar', '12.00 dollar']	['friday meeting']	0.139258682248
+['14.00 dollar', '12.00 dollar']	['bag']	0.386965255933
+['14.00 dollar', '12.00 dollar']	['4 bagel bag']	0.297805101442
+['14.00 dollar', '12.00 dollar']	['2 cream cheese']	0.297805101442
+['14.00 dollar', '12.00 dollar']	['dollar']	0.743859484988
+['14.00 dollar', '12.00 dollar']	['bagel bag']	0.14699641653
+['14.00 dollar', '12.00 dollar']	['cream cheese package']	0.266271096059
+['bagel bag', '12.00 dollar']	['monday morning staff meeting']	0.086216080975
+['bagel bag', '12.00 dollar']	['2 bagel bag']	0.887157968778
+['bagel bag', '12.00 dollar']	['3 cream cheese package']	0.086216080975
+['bagel bag', '12.00 dollar']	['meeting']	0.0650959234194
+['bagel bag', '12.00 dollar']	['friday meeting']	0.0696933362217
+['bagel bag', '12.00 dollar']	['bag']	0.654761276602
+['bagel bag', '12.00 dollar']	['4 bagel bag']	0.887157968778
+['bagel bag', '12.00 dollar']	['2 cream cheese']	0.0828503410239
+['bagel bag', '12.00 dollar']	['dollar']	0.368389923
+['bagel bag', '12.00 dollar']	['14.00 dollar']	0.544221442934
+['bagel bag', '12.00 dollar']	['cream cheese package']	0.0930408524947
+['cream cheese package', '12.00 dollar']	['monday morning staff meeting']	0.142490449336
+['cream cheese package', '12.00 dollar']	['2 bagel bag']	0.139124709385
+['cream cheese package', '12.00 dollar']	['3 cream cheese package']	0.943147799206
+['cream cheese package', '12.00 dollar']	['meeting']	0.115682569057
+['cream cheese package', '12.00 dollar']	['friday meeting']	0.128877148308
+['cream cheese package', '12.00 dollar']	['bag']	0.377212679875
+['cream cheese package', '12.00 dollar']	['4 bagel bag']	0.139124709385
+['cream cheese package', '12.00 dollar']	['2 cream cheese']	0.344840131062
+['cream cheese package', '12.00 dollar']	['dollar']	0.415777683784
+['cream cheese package', '12.00 dollar']	['14.00 dollar']	0.645330407958
+['cream cheese package', '12.00 dollar']	['bagel bag']	0.133209029517
+['monday morning staff meeting', 'meeting']	['2 bagel bag']	0.425613130867
+['monday morning staff meeting', 'meeting']	['3 cream cheese package']	0.465205742244
+['monday morning staff meeting', 'meeting']	['12.00 dollar']	0.170107734588
+['monday morning staff meeting', 'meeting']	['friday meeting']	0.64554475456
+['monday morning staff meeting', 'meeting']	['bag']	0.557412676459
+['monday morning staff meeting', 'meeting']	['4 bagel bag']	0.425613130867
+['monday morning staff meeting', 'meeting']	['2 cream cheese']	0.425613130867
+['monday morning staff meeting', 'meeting']	['dollar']	0.112939483177
+['monday morning staff meeting', 'meeting']	['14.00 dollar']	0.170107734588
+['monday morning staff meeting', 'meeting']	['bagel bag']	0.186290946637
+['monday morning staff meeting', 'meeting']	['cream cheese package']	0.417649890423
+['2 bagel bag', 'meeting']	['monday morning staff meeting']	0.625860996547
+['2 bagel bag', 'meeting']	['3 cream cheese package']	0.326235381428
+['2 bagel bag', 'meeting']	['12.00 dollar']	0.0737139440912
+['2 bagel bag', 'meeting']	['friday meeting']	0.681503405678
+['2 bagel bag', 'meeting']	['bag']	0.70958090799
+['2 bagel bag', 'meeting']	['4 bagel bag']	0.687763202918
+['2 bagel bag', 'meeting']	['2 cream cheese']	0.504067149886
+['2 bagel bag', 'meeting']	['dollar']	0.0424835876272
+['2 bagel bag', 'meeting']	['14.00 dollar']	0.0737139440912
+['2 bagel bag', 'meeting']	['bagel bag']	0.871328316331
+['2 bagel bag', 'meeting']	['cream cheese package']	0.121294742025
+['3 cream cheese package', 'meeting']	['monday morning staff meeting']	0.695858619092
+['3 cream cheese package', 'meeting']	['2 bagel bag']	0.382502300097
+['3 cream cheese package', 'meeting']	['12.00 dollar']	0.128877148308
+['3 cream cheese package', 'meeting']	['friday meeting']	0.71305392345
+['3 cream cheese package', 'meeting']	['bag']	0.45963455005
+['3 cream cheese package', 'meeting']	['4 bagel bag']	0.382502300097
+['3 cream cheese package', 'meeting']	['2 cream cheese']	0.382502300097
+['3 cream cheese package', 'meeting']	['dollar']	0.0658169209606
+['3 cream cheese package', 'meeting']	['14.00 dollar']	0.128877148308
+['3 cream cheese package', 'meeting']	['bagel bag']	0.132563061148
+['3 cream cheese package', 'meeting']	['cream cheese package']	0.800788388974
+['12.00 dollar', 'meeting']	['monday morning staff meeting']	0.64355420139
+['12.00 dollar', 'meeting']	['2 bagel bag']	0.0807707659053
+['12.00 dollar', 'meeting']	['3 cream cheese package']	0.133567705115
+['12.00 dollar', 'meeting']	['friday meeting']	0.701554947584
+['12.00 dollar', 'meeting']	['bag']	0.180082849884
+['12.00 dollar', 'meeting']	['4 bagel bag']	0.0807707659053
+['12.00 dollar', 'meeting']	['2 cream cheese']	0.0807707659053
+['12.00 dollar', 'meeting']	['dollar']	0.514895375159
+['12.00 dollar', 'meeting']	['14.00 dollar']	0.522652815483
+['12.00 dollar', 'meeting']	['bagel bag']	0.0799362650964
+['12.00 dollar', 'meeting']	['cream cheese package']	0.129064423394
+['friday meeting', 'meeting']	['monday morning staff meeting']	0.598468006324
+['friday meeting', 'meeting']	['2 bagel bag']	0.364434162707
+['friday meeting', 'meeting']	['3 cream cheese package']	0.42667450807
+['friday meeting', 'meeting']	['12.00 dollar']	0.139259023173
+['friday meeting', 'meeting']	['bag']	0.54743529124
+['friday meeting', 'meeting']	['4 bagel bag']	0.364434162707
+['friday meeting', 'meeting']	['2 cream cheese']	0.364434162707
+['friday meeting', 'meeting']	['dollar']	0.123695150683
+['friday meeting', 'meeting']	['14.00 dollar']	0.139259023173
+['friday meeting', 'meeting']	['bagel bag']	0.13854205058
+['friday meeting', 'meeting']	['cream cheese package']	0.379118656248
+['bag', 'meeting']	['monday morning staff meeting']	0.640345680676
+['bag', 'meeting']	['2 bagel bag']	0.589432508303
+['bag', 'meeting']	['3 cream cheese package']	0.352638707831
+['bag', 'meeting']	['12.00 dollar']	0.132417152272
+['bag', 'meeting']	['friday meeting']	0.702548107542
+['bag', 'meeting']	['4 bagel bag']	0.589432508303
+['bag', 'meeting']	['2 cream cheese']	0.142848613587
+['bag', 'meeting']	['dollar']	0.0697963993795
+['bag', 'meeting']	['14.00 dollar']	0.132417152272
+['bag', 'meeting']	['bagel bag']	0.606000595304
+['bag', 'meeting']	['cream cheese package']	0.387753799588
+['4 bagel bag', 'meeting']	['monday morning staff meeting']	0.625860996547
+['4 bagel bag', 'meeting']	['2 bagel bag']	0.687763202918
+['4 bagel bag', 'meeting']	['3 cream cheese package']	0.326235381428
+['4 bagel bag', 'meeting']	['12.00 dollar']	0.0737139440912
+['4 bagel bag', 'meeting']	['friday meeting']	0.681503405678
+['4 bagel bag', 'meeting']	['bag']	0.70958090799
+['4 bagel bag', 'meeting']	['2 cream cheese']	0.258675225661
+['4 bagel bag', 'meeting']	['dollar']	0.0424835876272
+['4 bagel bag', 'meeting']	['14.00 dollar']	0.0737139440912
+['4 bagel bag', 'meeting']	['bagel bag']	0.871328316331
+['4 bagel bag', 'meeting']	['cream cheese package']	0.121294742025
+['2 cream cheese', 'meeting']	['monday morning staff meeting']	0.625860996547
+['2 cream cheese', 'meeting']	['2 bagel bag']	0.504067149886
+['2 cream cheese', 'meeting']	['3 cream cheese package']	0.326235381428
+['2 cream cheese', 'meeting']	['12.00 dollar']	0.0737139440912
+['2 cream cheese', 'meeting']	['friday meeting']	0.681503405678
+['2 cream cheese', 'meeting']	['bag']	0.128406816382
+['2 cream cheese', 'meeting']	['4 bagel bag']	0.258675225661
+['2 cream cheese', 'meeting']	['dollar']	0.0234359685796
+['2 cream cheese', 'meeting']	['14.00 dollar']	0.0737139440912
+['2 cream cheese', 'meeting']	['bagel bag']	0.0700467017905
+['2 cream cheese', 'meeting']	['cream cheese package']	0.291554480908
+['dollar', 'meeting']	['monday morning staff meeting']	0.327233151348
+['dollar', 'meeting']	['2 bagel bag']	0.0829349518718
+['dollar', 'meeting']	['3 cream cheese package']	0.117479753164
+['dollar', 'meeting']	['12.00 dollar']	0.396616843835
+['dollar', 'meeting']	['friday meeting']	0.326322256687
+['dollar', 'meeting']	['bag']	0.0774147422748
+['dollar', 'meeting']	['4 bagel bag']	0.0829349518718
+['dollar', 'meeting']	['2 cream cheese']	0.0783968469223
+['dollar', 'meeting']	['14.00 dollar']	0.396616843835
+['dollar', 'meeting']	['bagel bag']	0.0814730853556
+['dollar', 'meeting']	['cream cheese package']	0.117502831466
+['14.00 dollar', 'meeting']	['monday morning staff meeting']	0.64355420139
+['14.00 dollar', 'meeting']	['2 bagel bag']	0.0807707659053
+['14.00 dollar', 'meeting']	['3 cream cheese package']	0.133567705115
+['14.00 dollar', 'meeting']	['12.00 dollar']	0.522652815483
+['14.00 dollar', 'meeting']	['friday meeting']	0.701554947584
+['14.00 dollar', 'meeting']	['bag']	0.180082849884
+['14.00 dollar', 'meeting']	['4 bagel bag']	0.0807707659053
+['14.00 dollar', 'meeting']	['2 cream cheese']	0.0807707659053
+['14.00 dollar', 'meeting']	['dollar']	0.514895375159
+['14.00 dollar', 'meeting']	['bagel bag']	0.0799362650964
+['14.00 dollar', 'meeting']	['cream cheese package']	0.129064423394
+['bagel bag', 'meeting']	['monday morning staff meeting']	0.647593792737
+['bagel bag', 'meeting']	['2 bagel bag']	0.833454265074
+['bagel bag', 'meeting']	['3 cream cheese package']	0.190217853382
+['bagel bag', 'meeting']	['12.00 dollar']	0.135791791773
+['bagel bag', 'meeting']	['friday meeting']	0.706092515899
+['bagel bag', 'meeting']	['bag']	0.759402398759
+['bagel bag', 'meeting']	['4 bagel bag']	0.833454265074
+['bagel bag', 'meeting']	['2 cream cheese']	0.142880145831
+['bagel bag', 'meeting']	['dollar']	0.109150254294
+['bagel bag', 'meeting']	['14.00 dollar']	0.135791791773
+['bagel bag', 'meeting']	['cream cheese package']	0.181477253146
+['cream cheese package', 'meeting']	['monday morning staff meeting']	0.643199950378
+['cream cheese package', 'meeting']	['2 bagel bag']	0.144896656462
+['cream cheese package', 'meeting']	['3 cream cheese package']	0.681205320794
+['cream cheese package', 'meeting']	['12.00 dollar']	0.135791791773
+['cream cheese package', 'meeting']	['friday meeting']	0.712774172116
+['cream cheese package', 'meeting']	['bag']	0.430079196446
+['cream cheese package', 'meeting']	['4 bagel bag']	0.144896656462
+['cream cheese package', 'meeting']	['2 cream cheese']	0.287358250551
+['cream cheese package', 'meeting']	['dollar']	0.109150254294
+['cream cheese package', 'meeting']	['14.00 dollar']	0.135791791773
+['cream cheese package', 'meeting']	['bagel bag']	0.132770517841
+['monday morning staff meeting', 'friday meeting']	['2 bagel bag']	0.311530559515
+['monday morning staff meeting', 'friday meeting']	['3 cream cheese package']	0.305975003959
+['monday morning staff meeting', 'friday meeting']	['12.00 dollar']	0.127952343303
+['monday morning staff meeting', 'friday meeting']	['meeting']	0.665198850046
+['monday morning staff meeting', 'friday meeting']	['bag']	0.312497682648
+['monday morning staff meeting', 'friday meeting']	['4 bagel bag']	0.311530559515
+['monday morning staff meeting', 'friday meeting']	['2 cream cheese']	0.311530559515
+['monday morning staff meeting', 'friday meeting']	['dollar']	0.12195656857
+['monday morning staff meeting', 'friday meeting']	['14.00 dollar']	0.127952343303
+['monday morning staff meeting', 'friday meeting']	['bagel bag']	0.143803575199
+['monday morning staff meeting', 'friday meeting']	['cream cheese package']	0.315157517527
+['2 bagel bag', 'friday meeting']	['monday morning staff meeting']	0.822652025548
+['2 bagel bag', 'friday meeting']	['3 cream cheese package']	0.520253435017
+['2 bagel bag', 'friday meeting']	['12.00 dollar']	0.15961386663
+['2 bagel bag', 'friday meeting']	['meeting']	0.695667099091
+['2 bagel bag', 'friday meeting']	['bag']	0.656219479655
+['2 bagel bag', 'friday meeting']	['4 bagel bag']	0.824752035523
+['2 bagel bag', 'friday meeting']	['2 cream cheese']	0.610419843509
+['2 bagel bag', 'friday meeting']	['dollar']	0.00636410188432
+['2 bagel bag', 'friday meeting']	['14.00 dollar']	0.15961386663
+['2 bagel bag', 'friday meeting']	['bagel bag']	0.954148380511
+['2 bagel bag', 'friday meeting']	['cream cheese package']	0.157652115092
+['3 cream cheese package', 'friday meeting']	['monday morning staff meeting']	0.785440608821
+['3 cream cheese package', 'friday meeting']	['2 bagel bag']	0.456150985527
+['3 cream cheese package', 'friday meeting']	['12.00 dollar']	0.0988755105172
+['3 cream cheese package', 'friday meeting']	['meeting']	0.723206827614
+['3 cream cheese package', 'friday meeting']	['bag']	0.335449165533
+['3 cream cheese package', 'friday meeting']	['4 bagel bag']	0.456150985527
+['3 cream cheese package', 'friday meeting']	['2 cream cheese']	0.456150985527
+['3 cream cheese package', 'friday meeting']	['dollar']	0.00920098131694
+['3 cream cheese package', 'friday meeting']	['14.00 dollar']	0.0988755105172
+['3 cream cheese package', 'friday meeting']	['bagel bag']	0.0907458062299
+['3 cream cheese package', 'friday meeting']	['cream cheese package']	0.94795508683
+['12.00 dollar', 'friday meeting']	['monday morning staff meeting']	0.701204998118
+['12.00 dollar', 'friday meeting']	['2 bagel bag']	0.0908034291173
+['12.00 dollar', 'friday meeting']	['3 cream cheese package']	0.0908034291173
+['12.00 dollar', 'friday meeting']	['meeting']	0.653738463029
+['12.00 dollar', 'friday meeting']	['bag']	0.0774561735493
+['12.00 dollar', 'friday meeting']	['4 bagel bag']	0.0908034291173
+['12.00 dollar', 'friday meeting']	['2 cream cheese']	0.0908034291173
+['12.00 dollar', 'friday meeting']	['dollar']	0.254639021624
+['12.00 dollar', 'friday meeting']	['14.00 dollar']	0.584269096576
+['12.00 dollar', 'friday meeting']	['bagel bag']	0.0824069519204
+['12.00 dollar', 'friday meeting']	['cream cheese package']	0.0981427525718
+['meeting', 'friday meeting']	['monday morning staff meeting']	0.598468006324
+['meeting', 'friday meeting']	['2 bagel bag']	0.364434162707
+['meeting', 'friday meeting']	['3 cream cheese package']	0.42667450807
+['meeting', 'friday meeting']	['12.00 dollar']	0.139259023173
+['meeting', 'friday meeting']	['bag']	0.54743529124
+['meeting', 'friday meeting']	['4 bagel bag']	0.364434162707
+['meeting', 'friday meeting']	['2 cream cheese']	0.364434162707
+['meeting', 'friday meeting']	['dollar']	0.123695150683
+['meeting', 'friday meeting']	['14.00 dollar']	0.139259023173
+['meeting', 'friday meeting']	['bagel bag']	0.13854205058
+['meeting', 'friday meeting']	['cream cheese package']	0.379118656248
+['bag', 'friday meeting']	['monday morning staff meeting']	0.679440532896
+['bag', 'friday meeting']	['2 bagel bag']	0.613304568174
+['bag', 'friday meeting']	['3 cream cheese package']	0.303566184129
+['bag', 'friday meeting']	['12.00 dollar']	0.0703393045902
+['bag', 'friday meeting']	['meeting']	0.652868363776
+['bag', 'friday meeting']	['4 bagel bag']	0.613304568174
+['bag', 'friday meeting']	['2 cream cheese']	0.080802298149
+['bag', 'friday meeting']	['dollar']	0.0241916360859
+['bag', 'friday meeting']	['14.00 dollar']	0.0703393045902
+['bag', 'friday meeting']	['bagel bag']	0.617703493855
+['bag', 'friday meeting']	['cream cheese package']	0.30243644418
+['4 bagel bag', 'friday meeting']	['monday morning staff meeting']	0.822652025548
+['4 bagel bag', 'friday meeting']	['2 bagel bag']	0.824752035523
+['4 bagel bag', 'friday meeting']	['3 cream cheese package']	0.520253435017
+['4 bagel bag', 'friday meeting']	['12.00 dollar']	0.15961386663
+['4 bagel bag', 'friday meeting']	['meeting']	0.695667099091
+['4 bagel bag', 'friday meeting']	['bag']	0.656219479655
+['4 bagel bag', 'friday meeting']	['2 cream cheese']	0.520253435017
+['4 bagel bag', 'friday meeting']	['dollar']	0.00636410188432
+['4 bagel bag', 'friday meeting']	['14.00 dollar']	0.15961386663
+['4 bagel bag', 'friday meeting']	['bagel bag']	0.954148380511
+['4 bagel bag', 'friday meeting']	['cream cheese package']	0.157652115092
+['2 cream cheese', 'friday meeting']	['monday morning staff meeting']	0.822652025548
+['2 cream cheese', 'friday meeting']	['2 bagel bag']	0.610419843509
+['2 cream cheese', 'friday meeting']	['3 cream cheese package']	0.520253435017
+['2 cream cheese', 'friday meeting']	['12.00 dollar']	0.15961386663
+['2 cream cheese', 'friday meeting']	['meeting']	0.695667099091
+['2 cream cheese', 'friday meeting']	['bag']	0.15219441396
+['2 cream cheese', 'friday meeting']	['4 bagel bag']	0.520253435017
+['2 cream cheese', 'friday meeting']	['dollar']	0.011057018428
+['2 cream cheese', 'friday meeting']	['14.00 dollar']	0.15961386663
+['2 cream cheese', 'friday meeting']	['bagel bag']	0.151484162343
+['2 cream cheese', 'friday meeting']	['cream cheese package']	0.326469433393
+['dollar', 'friday meeting']	['monday morning staff meeting']	0.263233479909
+['dollar', 'friday meeting']	['2 bagel bag']	0.0208571041899
+['dollar', 'friday meeting']	['3 cream cheese package']	0.024222844141
+['dollar', 'friday meeting']	['12.00 dollar']	0.396616843835
+['dollar', 'friday meeting']	['meeting']	0.394283127021
+['dollar', 'friday meeting']	['bag']	0.0389235060065
+['dollar', 'friday meeting']	['4 bagel bag']	0.0208571041899
+['dollar', 'friday meeting']	['2 cream cheese']	0.0220308131101
+['dollar', 'friday meeting']	['14.00 dollar']	0.396616843835
+['dollar', 'friday meeting']	['bagel bag']	0.0193952376737
+['dollar', 'friday meeting']	['cream cheese package']	0.0242459224432
+['14.00 dollar', 'friday meeting']	['monday morning staff meeting']	0.701204998118
+['14.00 dollar', 'friday meeting']	['2 bagel bag']	0.0908034291173
+['14.00 dollar', 'friday meeting']	['3 cream cheese package']	0.0908034291173
+['14.00 dollar', 'friday meeting']	['12.00 dollar']	0.584269096576
+['14.00 dollar', 'friday meeting']	['meeting']	0.653738463029
+['14.00 dollar', 'friday meeting']	['bag']	0.0774561735493
+['14.00 dollar', 'friday meeting']	['4 bagel bag']	0.0908034291173
+['14.00 dollar', 'friday meeting']	['2 cream cheese']	0.0908034291173
+['14.00 dollar', 'friday meeting']	['dollar']	0.254639021624
+['14.00 dollar', 'friday meeting']	['bagel bag']	0.0824069519204
+['14.00 dollar', 'friday meeting']	['cream cheese package']	0.0981427525718
+['bagel bag', 'friday meeting']	['monday morning staff meeting']	0.672068738025
+['bagel bag', 'friday meeting']	['2 bagel bag']	0.889355770976
+['bagel bag', 'friday meeting']	['3 cream cheese package']	0.086216080975
+['bagel bag', 'friday meeting']	['12.00 dollar']	0.0737139440912
+['bagel bag', 'friday meeting']	['meeting']	0.537007741999
+['bagel bag', 'friday meeting']	['bag']	0.583963449748
+['bagel bag', 'friday meeting']	['4 bagel bag']	0.889355770976
+['bagel bag', 'friday meeting']	['2 cream cheese']	0.0828503410239
+['bagel bag', 'friday meeting']	['dollar']	0.00222717737084
+['bagel bag', 'friday meeting']	['14.00 dollar']	0.0737139440912
+['bagel bag', 'friday meeting']	['cream cheese package']	0.0930408524947
+['cream cheese package', 'friday meeting']	['monday morning staff meeting']	0.801849098787
+['cream cheese package', 'friday meeting']	['2 bagel bag']	0.137350001891
+['cream cheese package', 'friday meeting']	['3 cream cheese package']	0.947395087865
+['cream cheese package', 'friday meeting']	['12.00 dollar']	0.128877148308
+['cream cheese package', 'friday meeting']	['meeting']	0.737723627702
+['cream cheese package', 'friday meeting']	['bag']	0.326132378695
+['cream cheese package', 'friday meeting']	['4 bagel bag']	0.137350001891
+['cream cheese package', 'friday meeting']	['2 cream cheese']	0.356158192263
+['cream cheese package', 'friday meeting']	['dollar']	0.00371585050999
+['cream cheese package', 'friday meeting']	['14.00 dollar']	0.128877148308
+['cream cheese package', 'friday meeting']	['bagel bag']	0.133209029517
+['monday morning staff meeting', 'bag']	['2 bagel bag']	0.73630234148
+['monday morning staff meeting', 'bag']	['3 cream cheese package']	0.426392891725
+['monday morning staff meeting', 'bag']	['12.00 dollar']	0.125502508807
+['monday morning staff meeting', 'bag']	['meeting']	0.71748597783
+['monday morning staff meeting', 'bag']	['friday meeting']	0.790085144498
+['monday morning staff meeting', 'bag']	['4 bagel bag']	0.73630234148
+['monday morning staff meeting', 'bag']	['2 cream cheese']	0.137350001891
+['monday morning staff meeting', 'bag']	['dollar']	0.046769301913
+['monday morning staff meeting', 'bag']	['14.00 dollar']	0.125502508807
+['monday morning staff meeting', 'bag']	['bagel bag']	0.69547301006
+['monday morning staff meeting', 'bag']	['cream cheese package']	0.390696534183
+['2 bagel bag', 'bag']	['monday morning staff meeting']	0.353649848982
+['2 bagel bag', 'bag']	['3 cream cheese package']	0.74426967884
+['2 bagel bag', 'bag']	['12.00 dollar']	0.21925775957
+['2 bagel bag', 'bag']	['meeting']	0.514101957907
+['2 bagel bag', 'bag']	['friday meeting']	0.144528281371
+['2 bagel bag', 'bag']	['4 bagel bag']	0.655996948123
+['2 bagel bag', 'bag']	['2 cream cheese']	0.744812392098
+['2 bagel bag', 'bag']	['dollar']	0.208653768891
+['2 bagel bag', 'bag']	['14.00 dollar']	0.21925775957
+['2 bagel bag', 'bag']	['bagel bag']	0.559975012859
+['2 bagel bag', 'bag']	['cream cheese package']	0.673629896076
+['3 cream cheese package', 'bag']	['monday morning staff meeting']	0.140715741843
+['3 cream cheese package', 'bag']	['2 bagel bag']	0.740885711415
+['3 cream cheese package', 'bag']	['12.00 dollar']	0.125502508807
+['3 cream cheese package', 'bag']	['meeting']	0.237338458942
+['3 cream cheese package', 'bag']	['friday meeting']	0.124856540438
+['3 cream cheese package', 'bag']	['4 bagel bag']	0.740885711415
+['3 cream cheese package', 'bag']	['2 cream cheese']	0.382502300097
+['3 cream cheese package', 'bag']	['dollar']	0.0658169209606
+['3 cream cheese package', 'bag']	['14.00 dollar']	0.125502508807
+['3 cream cheese package', 'bag']	['bagel bag']	0.69547301006
+['3 cream cheese package', 'bag']	['cream cheese package']	0.856506621965
+['12.00 dollar', 'bag']	['monday morning staff meeting']	0.0841365058564
+['12.00 dollar', 'bag']	['2 bagel bag']	0.589432508303
+['12.00 dollar', 'bag']	['3 cream cheese package']	0.263041332452
+['12.00 dollar', 'bag']	['meeting']	0.163174176505
+['12.00 dollar', 'bag']	['friday meeting']	0.0737139440912
+['12.00 dollar', 'bag']	['4 bagel bag']	0.589432508303
+['12.00 dollar', 'bag']	['2 cream cheese']	0.0807707659053
+['12.00 dollar', 'bag']	['dollar']	0.514895375159
+['12.00 dollar', 'bag']	['14.00 dollar']	0.465538040018
+['12.00 dollar', 'bag']	['bagel bag']	0.606000595304
+['12.00 dollar', 'bag']	['cream cheese package']	0.288615305968
+['meeting', 'bag']	['monday morning staff meeting']	0.640345680676
+['meeting', 'bag']	['2 bagel bag']	0.589432508303
+['meeting', 'bag']	['3 cream cheese package']	0.352638707831
+['meeting', 'bag']	['12.00 dollar']	0.132417152272
+['meeting', 'bag']	['friday meeting']	0.702548107542
+['meeting', 'bag']	['4 bagel bag']	0.589432508303
+['meeting', 'bag']	['2 cream cheese']	0.142848613587
+['meeting', 'bag']	['dollar']	0.0697963993795
+['meeting', 'bag']	['14.00 dollar']	0.132417152272
+['meeting', 'bag']	['bagel bag']	0.606000595304
+['meeting', 'bag']	['cream cheese package']	0.387753799588
+['friday meeting', 'bag']	['monday morning staff meeting']	0.679440532896
+['friday meeting', 'bag']	['2 bagel bag']	0.613304568174
+['friday meeting', 'bag']	['3 cream cheese package']	0.303566184129
+['friday meeting', 'bag']	['12.00 dollar']	0.0703393045902
+['friday meeting', 'bag']	['meeting']	0.652868363776
+['friday meeting', 'bag']	['4 bagel bag']	0.613304568174
+['friday meeting', 'bag']	['2 cream cheese']	0.080802298149
+['friday meeting', 'bag']	['dollar']	0.0241916360859
+['friday meeting', 'bag']	['14.00 dollar']	0.0703393045902
+['friday meeting', 'bag']	['bagel bag']	0.617703493855
+['friday meeting', 'bag']	['cream cheese package']	0.30243644418
+['4 bagel bag', 'bag']	['monday morning staff meeting']	0.353649848982
+['4 bagel bag', 'bag']	['2 bagel bag']	0.655996948123
+['4 bagel bag', 'bag']	['3 cream cheese package']	0.74426967884
+['4 bagel bag', 'bag']	['12.00 dollar']	0.21925775957
+['4 bagel bag', 'bag']	['meeting']	0.514101957907
+['4 bagel bag', 'bag']	['friday meeting']	0.144528281371
+['4 bagel bag', 'bag']	['2 cream cheese']	0.65377781144
+['4 bagel bag', 'bag']	['dollar']	0.208653768891
+['4 bagel bag', 'bag']	['14.00 dollar']	0.21925775957
+['4 bagel bag', 'bag']	['bagel bag']	0.559975012859
+['4 bagel bag', 'bag']	['cream cheese package']	0.673629896076
+['2 cream cheese', 'bag']	['monday morning staff meeting']	0.086216080975
+['2 cream cheese', 'bag']	['2 bagel bag']	0.653184897597
+['2 cream cheese', 'bag']	['3 cream cheese package']	0.332876212834
+['2 cream cheese', 'bag']	['12.00 dollar']	0.0703393045902
+['2 cream cheese', 'bag']	['meeting']	0.128406816382
+['2 cream cheese', 'bag']	['friday meeting']	0.0696933362217
+['2 cream cheese', 'bag']	['4 bagel bag']	0.648398562532
+['2 cream cheese', 'bag']	['dollar']	0.0234359685796
+['2 cream cheese', 'bag']	['14.00 dollar']	0.0703393045902
+['2 cream cheese', 'bag']	['bagel bag']	0.616618012172
+['2 cream cheese', 'bag']	['cream cheese package']	0.372993388373
+['dollar', 'bag']	['monday morning staff meeting']	0.0805888779532
+['dollar', 'bag']	['2 bagel bag']	0.32782351896
+['dollar', 'bag']	['3 cream cheese package']	0.202491240702
+['dollar', 'bag']	['12.00 dollar']	0.458375915643
+['dollar', 'bag']	['meeting']	0.0774147422748
+['dollar', 'bag']	['friday meeting']	0.0774382987339
+['dollar', 'bag']	['4 bagel bag']	0.32782351896
+['dollar', 'bag']	['2 cream cheese']	0.0783968469223
+['dollar', 'bag']	['14.00 dollar']	0.458375915643
+['dollar', 'bag']	['bagel bag']	0.396412549952
+['dollar', 'bag']	['cream cheese package']	0.220897445401
+['14.00 dollar', 'bag']	['monday morning staff meeting']	0.0841365058564
+['14.00 dollar', 'bag']	['2 bagel bag']	0.589432508303
+['14.00 dollar', 'bag']	['3 cream cheese package']	0.263041332452
+['14.00 dollar', 'bag']	['12.00 dollar']	0.465538040018
+['14.00 dollar', 'bag']	['meeting']	0.163174176505
+['14.00 dollar', 'bag']	['friday meeting']	0.0737139440912
+['14.00 dollar', 'bag']	['4 bagel bag']	0.589432508303
+['14.00 dollar', 'bag']	['2 cream cheese']	0.0807707659053
+['14.00 dollar', 'bag']	['dollar']	0.514895375159
+['14.00 dollar', 'bag']	['bagel bag']	0.606000595304
+['14.00 dollar', 'bag']	['cream cheese package']	0.288615305968
+['bagel bag', 'bag']	['monday morning staff meeting']	0.392391453912
+['bagel bag', 'bag']	['2 bagel bag']	0.631459918071
+['bagel bag', 'bag']	['3 cream cheese package']	0.70872174834
+['bagel bag', 'bag']	['12.00 dollar']	0.270035932252
+['bagel bag', 'bag']	['meeting']	0.605311397435
+['bagel bag', 'bag']	['friday meeting']	0.187609861285
+['bagel bag', 'bag']	['4 bagel bag']	0.631459918071
+['bagel bag', 'bag']	['2 cream cheese']	0.392391453912
+['bagel bag', 'bag']	['dollar']	0.275320435557
+['bagel bag', 'bag']	['14.00 dollar']	0.270035932252
+['bagel bag', 'bag']	['cream cheese package']	0.72906556706
+['cream cheese package', 'bag']	['monday morning staff meeting']	0.148262396413
+['cream cheese package', 'bag']	['2 bagel bag']	0.577740966014
+['cream cheese package', 'bag']	['3 cream cheese package']	0.831493435987
+['cream cheese package', 'bag']	['12.00 dollar']	0.132417152272
+['cream cheese package', 'bag']	['meeting']	0.219962072413
+['cream cheese package', 'bag']	['friday meeting']	0.135791791773
+['cream cheese package', 'bag']	['4 bagel bag']	0.577740966014
+['cream cheese package', 'bag']	['2 cream cheese']	0.287358250551
+['cream cheese package', 'bag']	['dollar']	0.109150254294
+['cream cheese package', 'bag']	['14.00 dollar']	0.132417152272
+['cream cheese package', 'bag']	['bagel bag']	0.674032603151
+['monday morning staff meeting', '4 bagel bag']	['2 bagel bag']	0.796258567514
+['monday morning staff meeting', '4 bagel bag']	['3 cream cheese package']	0.456150985527
+['monday morning staff meeting', '4 bagel bag']	['12.00 dollar']	0.0988755105172
+['monday morning staff meeting', '4 bagel bag']	['meeting']	0.648219331453
+['monday morning staff meeting', '4 bagel bag']	['friday meeting']	0.778292039147
+['monday morning staff meeting', '4 bagel bag']	['bag']	0.62426866951
+['monday morning staff meeting', '4 bagel bag']	['2 cream cheese']	0.456150985527
+['monday morning staff meeting', '4 bagel bag']	['dollar']	0.0419053838327
+['monday morning staff meeting', '4 bagel bag']	['14.00 dollar']	0.0988755105172
+['monday morning staff meeting', '4 bagel bag']	['bagel bag']	0.95546649146
+['monday morning staff meeting', '4 bagel bag']	['cream cheese package']	0.113485719252
+['2 bagel bag', '4 bagel bag']	['monday morning staff meeting']	0.305975003959
+['2 bagel bag', '4 bagel bag']	['3 cream cheese package']	0.797601607433
+['2 bagel bag', '4 bagel bag']	['12.00 dollar']	0.127952343303
+['2 bagel bag', '4 bagel bag']	['meeting']	0.312497682648
+['2 bagel bag', '4 bagel bag']	['friday meeting']	0.142281589132
+['2 bagel bag', '4 bagel bag']	['bag']	0.721748229806
+['2 bagel bag', '4 bagel bag']	['2 cream cheese']	0.669027741254
+['2 bagel bag', '4 bagel bag']	['dollar']	0.163062708315
+['2 bagel bag', '4 bagel bag']	['14.00 dollar']	0.127952343303
+['2 bagel bag', '4 bagel bag']	['bagel bag']	0.746207658926
+['2 bagel bag', '4 bagel bag']	['cream cheese package']	0.315157517527
+['3 cream cheese package', '4 bagel bag']	['monday morning staff meeting']	0.102396614129
+['3 cream cheese package', '4 bagel bag']	['2 bagel bag']	0.843172463059
+['3 cream cheese package', '4 bagel bag']	['12.00 dollar']	0.0988755105172
+['3 cream cheese package', '4 bagel bag']	['meeting']	0.10940366544
+['3 cream cheese package', '4 bagel bag']	['friday meeting']	0.0915001233665
+['3 cream cheese package', '4 bagel bag']	['bag']	0.713551385258
+['3 cream cheese package', '4 bagel bag']	['2 cream cheese']	0.426894011906
+['3 cream cheese package', '4 bagel bag']	['dollar']	0.0446004192937
+['3 cream cheese package', '4 bagel bag']	['14.00 dollar']	0.0988755105172
+['3 cream cheese package', '4 bagel bag']	['bagel bag']	0.957515977921
+['3 cream cheese package', '4 bagel bag']	['cream cheese package']	0.953690516987
+['12.00 dollar', '4 bagel bag']	['monday morning staff meeting']	0.156579181386
+['12.00 dollar', '4 bagel bag']	['2 bagel bag']	0.824752035523
+['12.00 dollar', '4 bagel bag']	['3 cream cheese package']	0.463800617609
+['12.00 dollar', '4 bagel bag']	['meeting']	0.146533383972
+['12.00 dollar', '4 bagel bag']	['friday meeting']	0.152238479479
+['12.00 dollar', '4 bagel bag']	['bag']	0.670970383127
+['12.00 dollar', '4 bagel bag']	['2 cream cheese']	0.463800617609
+['12.00 dollar', '4 bagel bag']	['dollar']	0.417738468097
+['12.00 dollar', '4 bagel bag']	['14.00 dollar']	0.653642048458
+['12.00 dollar', '4 bagel bag']	['bagel bag']	0.951950578313
+['12.00 dollar', '4 bagel bag']	['cream cheese package']	0.157652115092
+['meeting', '4 bagel bag']	['monday morning staff meeting']	0.625860996547
+['meeting', '4 bagel bag']	['2 bagel bag']	0.687763202918
+['meeting', '4 bagel bag']	['3 cream cheese package']	0.326235381428
+['meeting', '4 bagel bag']	['12.00 dollar']	0.0737139440912
+['meeting', '4 bagel bag']	['friday meeting']	0.681503405678
+['meeting', '4 bagel bag']	['bag']	0.70958090799
+['meeting', '4 bagel bag']	['2 cream cheese']	0.258675225661
+['meeting', '4 bagel bag']	['dollar']	0.0424835876272
+['meeting', '4 bagel bag']	['14.00 dollar']	0.0737139440912
+['meeting', '4 bagel bag']	['bagel bag']	0.871328316331
+['meeting', '4 bagel bag']	['cream cheese package']	0.121294742025
+['friday meeting', '4 bagel bag']	['monday morning staff meeting']	0.822652025548
+['friday meeting', '4 bagel bag']	['2 bagel bag']	0.824752035523
+['friday meeting', '4 bagel bag']	['3 cream cheese package']	0.520253435017
+['friday meeting', '4 bagel bag']	['12.00 dollar']	0.15961386663
+['friday meeting', '4 bagel bag']	['meeting']	0.695667099091
+['friday meeting', '4 bagel bag']	['bag']	0.656219479655
+['friday meeting', '4 bagel bag']	['2 cream cheese']	0.520253435017
+['friday meeting', '4 bagel bag']	['dollar']	0.00636410188432
+['friday meeting', '4 bagel bag']	['14.00 dollar']	0.15961386663
+['friday meeting', '4 bagel bag']	['bagel bag']	0.954148380511
+['friday meeting', '4 bagel bag']	['cream cheese package']	0.157652115092
+['bag', '4 bagel bag']	['monday morning staff meeting']	0.353649848982
+['bag', '4 bagel bag']	['2 bagel bag']	0.655996948123
+['bag', '4 bagel bag']	['3 cream cheese package']	0.74426967884
+['bag', '4 bagel bag']	['12.00 dollar']	0.21925775957
+['bag', '4 bagel bag']	['meeting']	0.514101957907
+['bag', '4 bagel bag']	['friday meeting']	0.144528281371
+['bag', '4 bagel bag']	['2 cream cheese']	0.65377781144
+['bag', '4 bagel bag']	['dollar']	0.208653768891
+['bag', '4 bagel bag']	['14.00 dollar']	0.21925775957
+['bag', '4 bagel bag']	['bagel bag']	0.559975012859
+['bag', '4 bagel bag']	['cream cheese package']	0.673629896076
+['2 cream cheese', '4 bagel bag']	['monday morning staff meeting']	0.102396614129
+['2 cream cheese', '4 bagel bag']	['2 bagel bag']	0.643862886731
+['2 cream cheese', '4 bagel bag']	['3 cream cheese package']	0.426894011906
+['2 cream cheese', '4 bagel bag']	['12.00 dollar']	0.0988755105172
+['2 cream cheese', '4 bagel bag']	['meeting']	0.0914560578477
+['2 cream cheese', '4 bagel bag']	['friday meeting']	0.0915001233665
+['2 cream cheese', '4 bagel bag']	['bag']	0.621431790077
+['2 cream cheese', '4 bagel bag']	['dollar']	0.00920098131694
+['2 cream cheese', '4 bagel bag']	['14.00 dollar']	0.0988755105172
+['2 cream cheese', '4 bagel bag']	['bagel bag']	0.951780547764
+['2 cream cheese', '4 bagel bag']	['cream cheese package']	0.326469433393
+['dollar', '4 bagel bag']	['monday morning staff meeting']	0.0277112162341
+['dollar', '4 bagel bag']	['2 bagel bag']	0.370551504268
+['dollar', '4 bagel bag']	['3 cream cheese package']	0.176087914298
+['dollar', '4 bagel bag']	['12.00 dollar']	0.372791497313
+['dollar', '4 bagel bag']	['meeting']	0.0389235060065
+['dollar', '4 bagel bag']	['friday meeting']	0.015360451052
+['dollar', '4 bagel bag']	['bag']	0.449421525505
+['dollar', '4 bagel bag']	['2 cream cheese']	0.154884242427
+['dollar', '4 bagel bag']	['14.00 dollar']	0.372791497313
+['dollar', '4 bagel bag']	['bagel bag']	0.276353783192
+['dollar', '4 bagel bag']	['cream cheese package']	0.0277342945362
+['14.00 dollar', '4 bagel bag']	['monday morning staff meeting']	0.156579181386
+['14.00 dollar', '4 bagel bag']	['2 bagel bag']	0.824752035523
+['14.00 dollar', '4 bagel bag']	['3 cream cheese package']	0.463800617609
+['14.00 dollar', '4 bagel bag']	['12.00 dollar']	0.653642048458
+['14.00 dollar', '4 bagel bag']	['meeting']	0.146533383972
+['14.00 dollar', '4 bagel bag']	['friday meeting']	0.152238479479
+['14.00 dollar', '4 bagel bag']	['bag']	0.670970383127
+['14.00 dollar', '4 bagel bag']	['2 cream cheese']	0.463800617609
+['14.00 dollar', '4 bagel bag']	['dollar']	0.417738468097
+['14.00 dollar', '4 bagel bag']	['bagel bag']	0.951950578313
+['14.00 dollar', '4 bagel bag']	['cream cheese package']	0.157652115092
+['bagel bag', '4 bagel bag']	['monday morning staff meeting']	0.425613130867
+['bagel bag', '4 bagel bag']	['2 bagel bag']	0.969894009684
+['bagel bag', '4 bagel bag']	['3 cream cheese package']	0.775597107079
+['bagel bag', '4 bagel bag']	['12.00 dollar']	0.170107734588
+['bagel bag', '4 bagel bag']	['meeting']	0.358160616065
+['bagel bag', '4 bagel bag']	['friday meeting']	0.187498204907
+['bagel bag', '4 bagel bag']	['bag']	0.771187437892
+['bagel bag', '4 bagel bag']	['2 cream cheese']	0.7715847614
+['bagel bag', '4 bagel bag']	['dollar']	0.15868834106
+['bagel bag', '4 bagel bag']	['14.00 dollar']	0.170107734588
+['bagel bag', '4 bagel bag']	['cream cheese package']	0.386423372197
+['cream cheese package', '4 bagel bag']	['monday morning staff meeting']	0.0865331745855
+['cream cheese package', '4 bagel bag']	['2 bagel bag']	0.769853399857
+['cream cheese package', '4 bagel bag']	['3 cream cheese package']	0.921627603781
+['cream cheese package', '4 bagel bag']	['12.00 dollar']	0.0681387921949
+['cream cheese package', '4 bagel bag']	['meeting']	0.0904825642459
+['cream cheese package', '4 bagel bag']	['friday meeting']	0.0641181843254
+['cream cheese package', '4 bagel bag']	['bag']	0.743831411778
+['cream cheese package', '4 bagel bag']	['2 cream cheese']	0.381271315292
+['cream cheese package', '4 bagel bag']	['dollar']	0.00641088597099
+['cream cheese package', '4 bagel bag']	['14.00 dollar']	0.0681387921949
+['cream cheese package', '4 bagel bag']	['bagel bag']	0.787396599306
+['monday morning staff meeting', '2 cream cheese']	['2 bagel bag']	0.55253931373
+['monday morning staff meeting', '2 cream cheese']	['3 cream cheese package']	0.456150985527
+['monday morning staff meeting', '2 cream cheese']	['12.00 dollar']	0.0988755105172
+['monday morning staff meeting', '2 cream cheese']	['meeting']	0.648219331453
+['monday morning staff meeting', '2 cream cheese']	['friday meeting']	0.778292039147
+['monday morning staff meeting', '2 cream cheese']	['bag']	0.0914560578477
+['monday morning staff meeting', '2 cream cheese']	['4 bagel bag']	0.456150985527
+['monday morning staff meeting', '2 cream cheese']	['dollar']	0.0465983003763
+['monday morning staff meeting', '2 cream cheese']	['14.00 dollar']	0.0988755105172
+['monday morning staff meeting', '2 cream cheese']	['bagel bag']	0.0907458062299
+['monday morning staff meeting', '2 cream cheese']	['cream cheese package']	0.379583694333
+['2 bagel bag', '2 cream cheese']	['monday morning staff meeting']	0.102396614129
+['2 bagel bag', '2 cream cheese']	['3 cream cheese package']	0.426894011906
+['2 bagel bag', '2 cream cheese']	['12.00 dollar']	0.0988755105172
+['2 bagel bag', '2 cream cheese']	['meeting']	0.0914560578477
+['2 bagel bag', '2 cream cheese']	['friday meeting']	0.0915001233665
+['2 bagel bag', '2 cream cheese']	['bag']	0.621431790077
+['2 bagel bag', '2 cream cheese']	['4 bagel bag']	0.834454514341
+['2 bagel bag', '2 cream cheese']	['dollar']	0.00920098131694
+['2 bagel bag', '2 cream cheese']	['14.00 dollar']	0.0988755105172
+['2 bagel bag', '2 cream cheese']	['bagel bag']	0.951780547764
+['2 bagel bag', '2 cream cheese']	['cream cheese package']	0.326469433393
+['3 cream cheese package', '2 cream cheese']	['monday morning staff meeting']	0.102396614129
+['3 cream cheese package', '2 cream cheese']	['2 bagel bag']	0.507218911651
+['3 cream cheese package', '2 cream cheese']	['12.00 dollar']	0.0988755105172
+['3 cream cheese package', '2 cream cheese']	['meeting']	0.10940366544
+['3 cream cheese package', '2 cream cheese']	['friday meeting']	0.0915001233665
+['3 cream cheese package', '2 cream cheese']	['bag']	0.335449165533
+['3 cream cheese package', '2 cream cheese']	['4 bagel bag']	0.426894011906
+['3 cream cheese package', '2 cream cheese']	['dollar']	0.0419053838327
+['3 cream cheese package', '2 cream cheese']	['14.00 dollar']	0.0988755105172
+['3 cream cheese package', '2 cream cheese']	['bagel bag']	0.0907458062299
+['3 cream cheese package', '2 cream cheese']	['cream cheese package']	0.479225943727
+['12.00 dollar', '2 cream cheese']	['monday morning staff meeting']	0.156579181386
+['12.00 dollar', '2 cream cheese']	['2 bagel bag']	0.610419843509
+['12.00 dollar', '2 cream cheese']	['3 cream cheese package']	0.463800617609
+['12.00 dollar', '2 cream cheese']	['meeting']	0.146533383972
+['12.00 dollar', '2 cream cheese']	['friday meeting']	0.152238479479
+['12.00 dollar', '2 cream cheese']	['bag']	0.146533383972
+['12.00 dollar', '2 cream cheese']	['4 bagel bag']	0.463800617609
+['12.00 dollar', '2 cream cheese']	['dollar']	0.389161532046
+['12.00 dollar', '2 cream cheese']	['14.00 dollar']	0.653642048458
+['12.00 dollar', '2 cream cheese']	['bagel bag']	0.151484162343
+['12.00 dollar', '2 cream cheese']	['cream cheese package']	0.313136100059
+['meeting', '2 cream cheese']	['monday morning staff meeting']	0.625860996547
+['meeting', '2 cream cheese']	['2 bagel bag']	0.504067149886
+['meeting', '2 cream cheese']	['3 cream cheese package']	0.326235381428
+['meeting', '2 cream cheese']	['12.00 dollar']	0.0737139440912
+['meeting', '2 cream cheese']	['friday meeting']	0.681503405678
+['meeting', '2 cream cheese']	['bag']	0.128406816382
+['meeting', '2 cream cheese']	['4 bagel bag']	0.258675225661
+['meeting', '2 cream cheese']	['dollar']	0.0234359685796
+['meeting', '2 cream cheese']	['14.00 dollar']	0.0737139440912
+['meeting', '2 cream cheese']	['bagel bag']	0.0700467017905
+['meeting', '2 cream cheese']	['cream cheese package']	0.291554480908
+['friday meeting', '2 cream cheese']	['monday morning staff meeting']	0.822652025548
+['friday meeting', '2 cream cheese']	['2 bagel bag']	0.610419843509
+['friday meeting', '2 cream cheese']	['3 cream cheese package']	0.520253435017
+['friday meeting', '2 cream cheese']	['12.00 dollar']	0.15961386663
+['friday meeting', '2 cream cheese']	['meeting']	0.695667099091
+['friday meeting', '2 cream cheese']	['bag']	0.15219441396
+['friday meeting', '2 cream cheese']	['4 bagel bag']	0.520253435017
+['friday meeting', '2 cream cheese']	['dollar']	0.011057018428
+['friday meeting', '2 cream cheese']	['14.00 dollar']	0.15961386663
+['friday meeting', '2 cream cheese']	['bagel bag']	0.151484162343
+['friday meeting', '2 cream cheese']	['cream cheese package']	0.326469433393
+['bag', '2 cream cheese']	['monday morning staff meeting']	0.086216080975
+['bag', '2 cream cheese']	['2 bagel bag']	0.653184897597
+['bag', '2 cream cheese']	['3 cream cheese package']	0.332876212834
+['bag', '2 cream cheese']	['12.00 dollar']	0.0703393045902
+['bag', '2 cream cheese']	['meeting']	0.128406816382
+['bag', '2 cream cheese']	['friday meeting']	0.0696933362217
+['bag', '2 cream cheese']	['4 bagel bag']	0.648398562532
+['bag', '2 cream cheese']	['dollar']	0.0234359685796
+['bag', '2 cream cheese']	['14.00 dollar']	0.0703393045902
+['bag', '2 cream cheese']	['bagel bag']	0.616618012172
+['bag', '2 cream cheese']	['cream cheese package']	0.372993388373
+['4 bagel bag', '2 cream cheese']	['monday morning staff meeting']	0.102396614129
+['4 bagel bag', '2 cream cheese']	['2 bagel bag']	0.643862886731
+['4 bagel bag', '2 cream cheese']	['3 cream cheese package']	0.426894011906
+['4 bagel bag', '2 cream cheese']	['12.00 dollar']	0.0988755105172
+['4 bagel bag', '2 cream cheese']	['meeting']	0.0914560578477
+['4 bagel bag', '2 cream cheese']	['friday meeting']	0.0915001233665
+['4 bagel bag', '2 cream cheese']	['bag']	0.621431790077
+['4 bagel bag', '2 cream cheese']	['dollar']	0.00920098131694
+['4 bagel bag', '2 cream cheese']	['14.00 dollar']	0.0988755105172
+['4 bagel bag', '2 cream cheese']	['bagel bag']	0.951780547764
+['4 bagel bag', '2 cream cheese']	['cream cheese package']	0.326469433393
+['dollar', '2 cream cheese']	['monday morning staff meeting']	0.0277112162341
+['dollar', '2 cream cheese']	['2 bagel bag']	0.201914752611
+['dollar', '2 cream cheese']	['3 cream cheese package']	0.176087914298
+['dollar', '2 cream cheese']	['12.00 dollar']	0.372791497313
+['dollar', '2 cream cheese']	['meeting']	0.0389235060065
+['dollar', '2 cream cheese']	['friday meeting']	0.015360451052
+['dollar', '2 cream cheese']	['bag']	0.0389235060065
+['dollar', '2 cream cheese']	['4 bagel bag']	0.187882786093
+['dollar', '2 cream cheese']	['14.00 dollar']	0.372791497313
+['dollar', '2 cream cheese']	['bagel bag']	0.0193952376737
+['dollar', '2 cream cheese']	['cream cheese package']	0.178703275197
+['14.00 dollar', '2 cream cheese']	['monday morning staff meeting']	0.156579181386
+['14.00 dollar', '2 cream cheese']	['2 bagel bag']	0.610419843509
+['14.00 dollar', '2 cream cheese']	['3 cream cheese package']	0.463800617609
+['14.00 dollar', '2 cream cheese']	['12.00 dollar']	0.653642048458
+['14.00 dollar', '2 cream cheese']	['meeting']	0.146533383972
+['14.00 dollar', '2 cream cheese']	['friday meeting']	0.152238479479
+['14.00 dollar', '2 cream cheese']	['bag']	0.146533383972
+['14.00 dollar', '2 cream cheese']	['4 bagel bag']	0.463800617609
+['14.00 dollar', '2 cream cheese']	['dollar']	0.389161532046
+['14.00 dollar', '2 cream cheese']	['bagel bag']	0.151484162343
+['14.00 dollar', '2 cream cheese']	['cream cheese package']	0.313136100059
+['bagel bag', '2 cream cheese']	['monday morning staff meeting']	0.140715741843
+['bagel bag', '2 cream cheese']	['2 bagel bag']	0.724133180159
+['bagel bag', '2 cream cheese']	['3 cream cheese package']	0.399689178259
+['bagel bag', '2 cream cheese']	['12.00 dollar']	0.128877148308
+['bagel bag', '2 cream cheese']	['meeting']	0.14164406412
+['bagel bag', '2 cream cheese']	['friday meeting']	0.124856540438
+['bagel bag', '2 cream cheese']	['bag']	0.669711727179
+['bagel bag', '2 cream cheese']	['4 bagel bag']	0.945092542036
+['bagel bag', '2 cream cheese']	['dollar']	0.00371585050999
+['bagel bag', '2 cream cheese']	['14.00 dollar']	0.128877148308
+['bagel bag', '2 cream cheese']	['cream cheese package']	0.326767905673
+['cream cheese package', '2 cream cheese']	['monday morning staff meeting']	0.0865331745855
+['cream cheese package', '2 cream cheese']	['2 bagel bag']	0.506676394613
+['cream cheese package', '2 cream cheese']	['3 cream cheese package']	0.921627603781
+['cream cheese package', '2 cream cheese']	['12.00 dollar']	0.0681387921949
+['cream cheese package', '2 cream cheese']	['meeting']	0.0904825642459
+['cream cheese package', '2 cream cheese']	['friday meeting']	0.0641181843254
+['cream cheese package', '2 cream cheese']	['bag']	0.275475307355
+['cream cheese package', '2 cream cheese']	['4 bagel bag']	0.331845228758
+['cream cheese package', '2 cream cheese']	['dollar']	0.00371585050999
+['cream cheese package', '2 cream cheese']	['14.00 dollar']	0.0681387921949
+['cream cheese package', '2 cream cheese']	['bagel bag']	0.0724706734038
+['monday morning staff meeting', 'dollar']	['2 bagel bag']	0.0238544414291
+['monday morning staff meeting', 'dollar']	['3 cream cheese package']	0.0272201813802
+['monday morning staff meeting', 'dollar']	['12.00 dollar']	0.443886381557
+['monday morning staff meeting', 'dollar']	['meeting']	0.291000952098
+['monday morning staff meeting', 'dollar']	['friday meeting']	0.201256749764
+['monday morning staff meeting', 'dollar']	['bag']	0.0555384930866
+['monday morning staff meeting', 'dollar']	['4 bagel bag']	0.0238544414291
+['monday morning staff meeting', 'dollar']	['2 cream cheese']	0.0238544414291
+['monday morning staff meeting', 'dollar']	['14.00 dollar']	0.443886381557
+['monday morning staff meeting', 'dollar']	['bagel bag']	0.0189042028198
+['monday morning staff meeting', 'dollar']	['cream cheese package']	0.0272432596823
+['2 bagel bag', 'dollar']	['monday morning staff meeting']	0.0277112162341
+['2 bagel bag', 'dollar']	['3 cream cheese package']	0.176087914298
+['2 bagel bag', 'dollar']	['12.00 dollar']	0.372791497313
+['2 bagel bag', 'dollar']	['meeting']	0.0389235060065
+['2 bagel bag', 'dollar']	['friday meeting']	0.015360451052
+['2 bagel bag', 'dollar']	['bag']	0.449421525505
+['2 bagel bag', 'dollar']	['4 bagel bag']	0.370551504268
+['2 bagel bag', 'dollar']	['2 cream cheese']	0.208889078486
+['2 bagel bag', 'dollar']	['14.00 dollar']	0.372791497313
+['2 bagel bag', 'dollar']	['bagel bag']	0.276353783192
+['2 bagel bag', 'dollar']	['cream cheese package']	0.0277342945362
+['3 cream cheese package', 'dollar']	['monday morning staff meeting']	0.0272201813802
+['3 cream cheese package', 'dollar']	['2 bagel bag']	0.182717229402
+['3 cream cheese package', 'dollar']	['12.00 dollar']	0.443886381557
+['3 cream cheese package', 'dollar']	['meeting']	0.0815985946046
+['3 cream cheese package', 'dollar']	['friday meeting']	0.0148694161981
+['3 cream cheese package', 'dollar']	['bag']	0.242461235328
+['3 cream cheese package', 'dollar']	['4 bagel bag']	0.182717229402
+['3 cream cheese package', 'dollar']	['2 cream cheese']	0.147893665788
+['3 cream cheese package', 'dollar']	['14.00 dollar']	0.443886381557
+['3 cream cheese package', 'dollar']	['bagel bag']	0.0189042028198
+['3 cream cheese package', 'dollar']	['cream cheese package']	0.441482484601
+['12.00 dollar', 'dollar']	['monday morning staff meeting']	0.201519460286
+['12.00 dollar', 'dollar']	['2 bagel bag']	0.193299723861
+['12.00 dollar', 'dollar']	['3 cream cheese package']	0.193299723861
+['12.00 dollar', 'dollar']	['meeting']	0.226341105465
+['12.00 dollar', 'dollar']	['friday meeting']	0.0878776902641
+['12.00 dollar', 'dollar']	['bag']	0.313007772131
+['12.00 dollar', 'dollar']	['4 bagel bag']	0.193299723861
+['12.00 dollar', 'dollar']	['2 cream cheese']	0.198882138174
+['12.00 dollar', 'dollar']	['14.00 dollar']	0.731253697846
+['12.00 dollar', 'dollar']	['bagel bag']	0.124665789342
+['12.00 dollar', 'dollar']	['cream cheese package']	0.182523883968
+['meeting', 'dollar']	['monday morning staff meeting']	0.327233151348
+['meeting', 'dollar']	['2 bagel bag']	0.0829349518718
+['meeting', 'dollar']	['3 cream cheese package']	0.117479753164
+['meeting', 'dollar']	['12.00 dollar']	0.396616843835
+['meeting', 'dollar']	['friday meeting']	0.326322256687
+['meeting', 'dollar']	['bag']	0.0774147422748
+['meeting', 'dollar']	['4 bagel bag']	0.0829349518718
+['meeting', 'dollar']	['2 cream cheese']	0.0783968469223
+['meeting', 'dollar']	['14.00 dollar']	0.396616843835
+['meeting', 'dollar']	['bagel bag']	0.0814730853556
+['meeting', 'dollar']	['cream cheese package']	0.117502831466
+['friday meeting', 'dollar']	['monday morning staff meeting']	0.263233479909
+['friday meeting', 'dollar']	['2 bagel bag']	0.0208571041899
+['friday meeting', 'dollar']	['3 cream cheese package']	0.024222844141
+['friday meeting', 'dollar']	['12.00 dollar']	0.396616843835
+['friday meeting', 'dollar']	['meeting']	0.394283127021
+['friday meeting', 'dollar']	['bag']	0.0389235060065
+['friday meeting', 'dollar']	['4 bagel bag']	0.0208571041899
+['friday meeting', 'dollar']	['2 cream cheese']	0.0220308131101
+['friday meeting', 'dollar']	['14.00 dollar']	0.396616843835
+['friday meeting', 'dollar']	['bagel bag']	0.0193952376737
+['friday meeting', 'dollar']	['cream cheese package']	0.0242459224432
+['bag', 'dollar']	['monday morning staff meeting']	0.0805888779532
+['bag', 'dollar']	['2 bagel bag']	0.32782351896
+['bag', 'dollar']	['3 cream cheese package']	0.202491240702
+['bag', 'dollar']	['12.00 dollar']	0.458375915643
+['bag', 'dollar']	['meeting']	0.0774147422748
+['bag', 'dollar']	['friday meeting']	0.0774382987339
+['bag', 'dollar']	['4 bagel bag']	0.32782351896
+['bag', 'dollar']	['2 cream cheese']	0.0783968469223
+['bag', 'dollar']	['14.00 dollar']	0.458375915643
+['bag', 'dollar']	['bagel bag']	0.396412549952
+['bag', 'dollar']	['cream cheese package']	0.220897445401
+['4 bagel bag', 'dollar']	['monday morning staff meeting']	0.0277112162341
+['4 bagel bag', 'dollar']	['2 bagel bag']	0.370551504268
+['4 bagel bag', 'dollar']	['3 cream cheese package']	0.176087914298
+['4 bagel bag', 'dollar']	['12.00 dollar']	0.372791497313
+['4 bagel bag', 'dollar']	['meeting']	0.0389235060065
+['4 bagel bag', 'dollar']	['friday meeting']	0.015360451052
+['4 bagel bag', 'dollar']	['bag']	0.449421525505
+['4 bagel bag', 'dollar']	['2 cream cheese']	0.154884242427
+['4 bagel bag', 'dollar']	['14.00 dollar']	0.372791497313
+['4 bagel bag', 'dollar']	['bagel bag']	0.276353783192
+['4 bagel bag', 'dollar']	['cream cheese package']	0.0277342945362
+['2 cream cheese', 'dollar']	['monday morning staff meeting']	0.0277112162341
+['2 cream cheese', 'dollar']	['2 bagel bag']	0.201914752611
+['2 cream cheese', 'dollar']	['3 cream cheese package']	0.176087914298
+['2 cream cheese', 'dollar']	['12.00 dollar']	0.372791497313
+['2 cream cheese', 'dollar']	['meeting']	0.0389235060065
+['2 cream cheese', 'dollar']	['friday meeting']	0.015360451052
+['2 cream cheese', 'dollar']	['bag']	0.0389235060065
+['2 cream cheese', 'dollar']	['4 bagel bag']	0.187882786093
+['2 cream cheese', 'dollar']	['14.00 dollar']	0.372791497313
+['2 cream cheese', 'dollar']	['bagel bag']	0.0193952376737
+['2 cream cheese', 'dollar']	['cream cheese package']	0.178703275197
+['14.00 dollar', 'dollar']	['monday morning staff meeting']	0.201519460286
+['14.00 dollar', 'dollar']	['2 bagel bag']	0.193299723861
+['14.00 dollar', 'dollar']	['3 cream cheese package']	0.193299723861
+['14.00 dollar', 'dollar']	['12.00 dollar']	0.731253697846
+['14.00 dollar', 'dollar']	['meeting']	0.226341105465
+['14.00 dollar', 'dollar']	['friday meeting']	0.0878776902641
+['14.00 dollar', 'dollar']	['bag']	0.313007772131
+['14.00 dollar', 'dollar']	['4 bagel bag']	0.193299723861
+['14.00 dollar', 'dollar']	['2 cream cheese']	0.198882138174
+['14.00 dollar', 'dollar']	['bagel bag']	0.124665789342
+['14.00 dollar', 'dollar']	['cream cheese package']	0.182523883968
+['bagel bag', 'dollar']	['monday morning staff meeting']	0.0863006918229
+['bagel bag', 'dollar']	['2 bagel bag']	0.224060207634
+['bagel bag', 'dollar']	['3 cream cheese package']	0.0863006918229
+['bagel bag', 'dollar']	['12.00 dollar']	0.396616843835
+['bagel bag', 'dollar']	['meeting']	0.0962627154283
+['bagel bag', 'dollar']	['friday meeting']	0.0774382987339
+['bagel bag', 'dollar']	['bag']	0.551854185437
+['bagel bag', 'dollar']	['4 bagel bag']	0.224060207634
+['bagel bag', 'dollar']	['2 cream cheese']	0.0783968469223
+['bagel bag', 'dollar']	['14.00 dollar']	0.396616843835
+['bagel bag', 'dollar']	['cream cheese package']	0.0863237701251
+['cream cheese package', 'dollar']	['monday morning staff meeting']	0.0840772500463
+['cream cheese package', 'dollar']	['2 bagel bag']	0.0864233239649
+['cream cheese package', 'dollar']	['3 cream cheese package']	0.352474056265
+['cream cheese package', 'dollar']	['12.00 dollar']	0.372791497313
+['cream cheese package', 'dollar']	['meeting']	0.122322816946
+['cream cheese package', 'dollar']	['friday meeting']	0.0774382987339
+['cream cheese package', 'dollar']	['bag']	0.297370381763
+['cream cheese package', 'dollar']	['4 bagel bag']	0.0864233239649
+['cream cheese package', 'dollar']	['2 cream cheese']	0.245704652204
+['cream cheese package', 'dollar']	['14.00 dollar']	0.372791497313
+['cream cheese package', 'dollar']	['bagel bag']	0.0814730853556
+['monday morning staff meeting', '14.00 dollar']	['2 bagel bag']	0.102396614129
+['monday morning staff meeting', '14.00 dollar']	['3 cream cheese package']	0.102396614129
+['monday morning staff meeting', '14.00 dollar']	['12.00 dollar']	0.630956863273
+['monday morning staff meeting', '14.00 dollar']	['meeting']	0.663902266838
+['monday morning staff meeting', '14.00 dollar']	['friday meeting']	0.778292039147
+['monday morning staff meeting', '14.00 dollar']	['bag']	0.0857950278587
+['monday morning staff meeting', '14.00 dollar']	['4 bagel bag']	0.102396614129
+['monday morning staff meeting', '14.00 dollar']	['2 cream cheese']	0.102396614129
+['monday morning staff meeting', '14.00 dollar']	['dollar']	0.352124495009
+['monday morning staff meeting', '14.00 dollar']	['bagel bag']	0.0907458062299
+['monday morning staff meeting', '14.00 dollar']	['cream cheese package']	0.113485719252
+['2 bagel bag', '14.00 dollar']	['monday morning staff meeting']	0.156579181386
+['2 bagel bag', '14.00 dollar']	['3 cream cheese package']	0.463800617609
+['2 bagel bag', '14.00 dollar']	['12.00 dollar']	0.653642048458
+['2 bagel bag', '14.00 dollar']	['meeting']	0.146533383972
+['2 bagel bag', '14.00 dollar']	['friday meeting']	0.152238479479
+['2 bagel bag', '14.00 dollar']	['bag']	0.670970383127
+['2 bagel bag', '14.00 dollar']	['4 bagel bag']	0.824752035523
+['2 bagel bag', '14.00 dollar']	['2 cream cheese']	0.610419843509
+['2 bagel bag', '14.00 dollar']	['dollar']	0.417738468097
+['2 bagel bag', '14.00 dollar']	['bagel bag']	0.951950578313
+['2 bagel bag', '14.00 dollar']	['cream cheese package']	0.157652115092
+['3 cream cheese package', '14.00 dollar']	['monday morning staff meeting']	0.102396614129
+['3 cream cheese package', '14.00 dollar']	['2 bagel bag']	0.399698168118
+['3 cream cheese package', '14.00 dollar']	['12.00 dollar']	0.630956863273
+['3 cream cheese package', '14.00 dollar']	['meeting']	0.11060179965
+['3 cream cheese package', '14.00 dollar']	['friday meeting']	0.0915001233665
+['3 cream cheese package', '14.00 dollar']	['bag']	0.397506695414
+['3 cream cheese package', '14.00 dollar']	['4 bagel bag']	0.399698168118
+['3 cream cheese package', '14.00 dollar']	['2 cream cheese']	0.399698168118
+['3 cream cheese package', '14.00 dollar']	['dollar']	0.38070143106
+['3 cream cheese package', '14.00 dollar']	['bagel bag']	0.0907458062299
+['3 cream cheese package', '14.00 dollar']	['cream cheese package']	0.945905600368
+['12.00 dollar', '14.00 dollar']	['monday morning staff meeting']	0.315265418903
+['12.00 dollar', '14.00 dollar']	['2 bagel bag']	0.297805101442
+['12.00 dollar', '14.00 dollar']	['3 cream cheese package']	0.315265418903
+['12.00 dollar', '14.00 dollar']	['meeting']	0.386315627603
+['12.00 dollar', '14.00 dollar']	['friday meeting']	0.139258682248
+['12.00 dollar', '14.00 dollar']	['bag']	0.386965255933
+['12.00 dollar', '14.00 dollar']	['4 bagel bag']	0.297805101442
+['12.00 dollar', '14.00 dollar']	['2 cream cheese']	0.297805101442
+['12.00 dollar', '14.00 dollar']	['dollar']	0.743859484988
+['12.00 dollar', '14.00 dollar']	['bagel bag']	0.14699641653
+['12.00 dollar', '14.00 dollar']	['cream cheese package']	0.266271096059
+['meeting', '14.00 dollar']	['monday morning staff meeting']	0.64355420139
+['meeting', '14.00 dollar']	['2 bagel bag']	0.0807707659053
+['meeting', '14.00 dollar']	['3 cream cheese package']	0.133567705115
+['meeting', '14.00 dollar']	['12.00 dollar']	0.522652815483
+['meeting', '14.00 dollar']	['friday meeting']	0.701554947584
+['meeting', '14.00 dollar']	['bag']	0.180082849884
+['meeting', '14.00 dollar']	['4 bagel bag']	0.0807707659053
+['meeting', '14.00 dollar']	['2 cream cheese']	0.0807707659053
+['meeting', '14.00 dollar']	['dollar']	0.514895375159
+['meeting', '14.00 dollar']	['bagel bag']	0.0799362650964
+['meeting', '14.00 dollar']	['cream cheese package']	0.129064423394
+['friday meeting', '14.00 dollar']	['monday morning staff meeting']	0.701204998118
+['friday meeting', '14.00 dollar']	['2 bagel bag']	0.0908034291173
+['friday meeting', '14.00 dollar']	['3 cream cheese package']	0.0908034291173
+['friday meeting', '14.00 dollar']	['12.00 dollar']	0.584269096576
+['friday meeting', '14.00 dollar']	['meeting']	0.653738463029
+['friday meeting', '14.00 dollar']	['bag']	0.0774561735493
+['friday meeting', '14.00 dollar']	['4 bagel bag']	0.0908034291173
+['friday meeting', '14.00 dollar']	['2 cream cheese']	0.0908034291173
+['friday meeting', '14.00 dollar']	['dollar']	0.254639021624
+['friday meeting', '14.00 dollar']	['bagel bag']	0.0824069519204
+['friday meeting', '14.00 dollar']	['cream cheese package']	0.0981427525718
+['bag', '14.00 dollar']	['monday morning staff meeting']	0.0841365058564
+['bag', '14.00 dollar']	['2 bagel bag']	0.589432508303
+['bag', '14.00 dollar']	['3 cream cheese package']	0.263041332452
+['bag', '14.00 dollar']	['12.00 dollar']	0.465538040018
+['bag', '14.00 dollar']	['meeting']	0.163174176505
+['bag', '14.00 dollar']	['friday meeting']	0.0737139440912
+['bag', '14.00 dollar']	['4 bagel bag']	0.589432508303
+['bag', '14.00 dollar']	['2 cream cheese']	0.0807707659053
+['bag', '14.00 dollar']	['dollar']	0.514895375159
+['bag', '14.00 dollar']	['bagel bag']	0.606000595304
+['bag', '14.00 dollar']	['cream cheese package']	0.288615305968
+['4 bagel bag', '14.00 dollar']	['monday morning staff meeting']	0.156579181386
+['4 bagel bag', '14.00 dollar']	['2 bagel bag']	0.824752035523
+['4 bagel bag', '14.00 dollar']	['3 cream cheese package']	0.463800617609
+['4 bagel bag', '14.00 dollar']	['12.00 dollar']	0.653642048458
+['4 bagel bag', '14.00 dollar']	['meeting']	0.146533383972
+['4 bagel bag', '14.00 dollar']	['friday meeting']	0.152238479479
+['4 bagel bag', '14.00 dollar']	['bag']	0.670970383127
+['4 bagel bag', '14.00 dollar']	['2 cream cheese']	0.463800617609
+['4 bagel bag', '14.00 dollar']	['dollar']	0.417738468097
+['4 bagel bag', '14.00 dollar']	['bagel bag']	0.951950578313
+['4 bagel bag', '14.00 dollar']	['cream cheese package']	0.157652115092
+['2 cream cheese', '14.00 dollar']	['monday morning staff meeting']	0.156579181386
+['2 cream cheese', '14.00 dollar']	['2 bagel bag']	0.610419843509
+['2 cream cheese', '14.00 dollar']	['3 cream cheese package']	0.463800617609
+['2 cream cheese', '14.00 dollar']	['12.00 dollar']	0.653642048458
+['2 cream cheese', '14.00 dollar']	['meeting']	0.146533383972
+['2 cream cheese', '14.00 dollar']	['friday meeting']	0.152238479479
+['2 cream cheese', '14.00 dollar']	['bag']	0.146533383972
+['2 cream cheese', '14.00 dollar']	['4 bagel bag']	0.463800617609
+['2 cream cheese', '14.00 dollar']	['dollar']	0.389161532046
+['2 cream cheese', '14.00 dollar']	['bagel bag']	0.151484162343
+['2 cream cheese', '14.00 dollar']	['cream cheese package']	0.313136100059
+['dollar', '14.00 dollar']	['monday morning staff meeting']	0.201519460286
+['dollar', '14.00 dollar']	['2 bagel bag']	0.193299723861
+['dollar', '14.00 dollar']	['3 cream cheese package']	0.193299723861
+['dollar', '14.00 dollar']	['12.00 dollar']	0.731253697846
+['dollar', '14.00 dollar']	['meeting']	0.226341105465
+['dollar', '14.00 dollar']	['friday meeting']	0.0878776902641
+['dollar', '14.00 dollar']	['bag']	0.313007772131
+['dollar', '14.00 dollar']	['4 bagel bag']	0.193299723861
+['dollar', '14.00 dollar']	['2 cream cheese']	0.198882138174
+['dollar', '14.00 dollar']	['bagel bag']	0.124665789342
+['dollar', '14.00 dollar']	['cream cheese package']	0.182523883968
+['bagel bag', '14.00 dollar']	['monday morning staff meeting']	0.086216080975
+['bagel bag', '14.00 dollar']	['2 bagel bag']	0.887157968778
+['bagel bag', '14.00 dollar']	['3 cream cheese package']	0.086216080975
+['bagel bag', '14.00 dollar']	['12.00 dollar']	0.544221442934
+['bagel bag', '14.00 dollar']	['meeting']	0.0650959234194
+['bagel bag', '14.00 dollar']	['friday meeting']	0.0696933362217
+['bagel bag', '14.00 dollar']	['bag']	0.654761276602
+['bagel bag', '14.00 dollar']	['4 bagel bag']	0.887157968778
+['bagel bag', '14.00 dollar']	['2 cream cheese']	0.0828503410239
+['bagel bag', '14.00 dollar']	['dollar']	0.368389923
+['bagel bag', '14.00 dollar']	['cream cheese package']	0.0930408524947
+['cream cheese package', '14.00 dollar']	['monday morning staff meeting']	0.142490449336
+['cream cheese package', '14.00 dollar']	['2 bagel bag']	0.139124709385
+['cream cheese package', '14.00 dollar']	['3 cream cheese package']	0.943147799206
+['cream cheese package', '14.00 dollar']	['12.00 dollar']	0.645330407958
+['cream cheese package', '14.00 dollar']	['meeting']	0.115682569057
+['cream cheese package', '14.00 dollar']	['friday meeting']	0.128877148308
+['cream cheese package', '14.00 dollar']	['bag']	0.377212679875
+['cream cheese package', '14.00 dollar']	['4 bagel bag']	0.139124709385
+['cream cheese package', '14.00 dollar']	['2 cream cheese']	0.344840131062
+['cream cheese package', '14.00 dollar']	['dollar']	0.415777683784
+['cream cheese package', '14.00 dollar']	['bagel bag']	0.133209029517
+['monday morning staff meeting', 'bagel bag']	['2 bagel bag']	0.949459250139
+['monday morning staff meeting', 'bagel bag']	['3 cream cheese package']	0.0865331745855
+['monday morning staff meeting', 'bagel bag']	['12.00 dollar']	0.0681387921949
+['monday morning staff meeting', 'bagel bag']	['meeting']	0.551064339416
+['monday morning staff meeting', 'bagel bag']	['friday meeting']	0.761325470716
+['monday morning staff meeting', 'bagel bag']	['bag']	0.633744550421
+['monday morning staff meeting', 'bagel bag']	['4 bagel bag']	0.949459250139
+['monday morning staff meeting', 'bagel bag']	['2 cream cheese']	0.0831674346344
+['monday morning staff meeting', 'bagel bag']	['dollar']	0.00371585050999
+['monday morning staff meeting', 'bagel bag']	['14.00 dollar']	0.0681387921949
+['monday morning staff meeting', 'bagel bag']	['cream cheese package']	0.10182296811
+['2 bagel bag', 'bagel bag']	['monday morning staff meeting']	0.425613130867
+['2 bagel bag', 'bagel bag']	['3 cream cheese package']	0.775597107079
+['2 bagel bag', 'bagel bag']	['12.00 dollar']	0.170107734588
+['2 bagel bag', 'bagel bag']	['meeting']	0.358160616065
+['2 bagel bag', 'bagel bag']	['friday meeting']	0.187498204907
+['2 bagel bag', 'bagel bag']	['bag']	0.771187437892
+['2 bagel bag', 'bagel bag']	['4 bagel bag']	0.969894009684
+['2 bagel bag', 'bagel bag']	['2 cream cheese']	0.773306411358
+['2 bagel bag', 'bagel bag']	['dollar']	0.15868834106
+['2 bagel bag', 'bagel bag']	['14.00 dollar']	0.170107734588
+['2 bagel bag', 'bagel bag']	['cream cheese package']	0.386423372197
+['3 cream cheese package', 'bagel bag']	['monday morning staff meeting']	0.0865331745855
+['3 cream cheese package', 'bagel bag']	['2 bagel bag']	0.921627603781
+['3 cream cheese package', 'bagel bag']	['12.00 dollar']	0.0681387921949
+['3 cream cheese package', 'bagel bag']	['meeting']	0.0904825642459
+['3 cream cheese package', 'bagel bag']	['friday meeting']	0.0641181843254
+['3 cream cheese package', 'bagel bag']	['bag']	0.77817014863
+['3 cream cheese package', 'bagel bag']	['4 bagel bag']	0.921627603781
+['3 cream cheese package', 'bagel bag']	['2 cream cheese']	0.345666366969
+['3 cream cheese package', 'bagel bag']	['dollar']	0.00641088597099
+['3 cream cheese package', 'bagel bag']	['14.00 dollar']	0.0681387921949
+['3 cream cheese package', 'bagel bag']	['cream cheese package']	0.783571138371
+['12.00 dollar', 'bagel bag']	['monday morning staff meeting']	0.086216080975
+['12.00 dollar', 'bagel bag']	['2 bagel bag']	0.887157968778
+['12.00 dollar', 'bagel bag']	['3 cream cheese package']	0.086216080975
+['12.00 dollar', 'bagel bag']	['meeting']	0.0650959234194
+['12.00 dollar', 'bagel bag']	['friday meeting']	0.0696933362217
+['12.00 dollar', 'bagel bag']	['bag']	0.654761276602
+['12.00 dollar', 'bagel bag']	['4 bagel bag']	0.887157968778
+['12.00 dollar', 'bagel bag']	['2 cream cheese']	0.0828503410239
+['12.00 dollar', 'bagel bag']	['dollar']	0.368389923
+['12.00 dollar', 'bagel bag']	['14.00 dollar']	0.544221442934
+['12.00 dollar', 'bagel bag']	['cream cheese package']	0.0930408524947
+['meeting', 'bagel bag']	['monday morning staff meeting']	0.647593792737
+['meeting', 'bagel bag']	['2 bagel bag']	0.833454265074
+['meeting', 'bagel bag']	['3 cream cheese package']	0.190217853382
+['meeting', 'bagel bag']	['12.00 dollar']	0.135791791773
+['meeting', 'bagel bag']	['friday meeting']	0.706092515899
+['meeting', 'bagel bag']	['bag']	0.759402398759
+['meeting', 'bagel bag']	['4 bagel bag']	0.833454265074
+['meeting', 'bagel bag']	['2 cream cheese']	0.142880145831
+['meeting', 'bagel bag']	['dollar']	0.109150254294
+['meeting', 'bagel bag']	['14.00 dollar']	0.135791791773
+['meeting', 'bagel bag']	['cream cheese package']	0.181477253146
+['friday meeting', 'bagel bag']	['monday morning staff meeting']	0.672068738025
+['friday meeting', 'bagel bag']	['2 bagel bag']	0.889355770976
+['friday meeting', 'bagel bag']	['3 cream cheese package']	0.086216080975
+['friday meeting', 'bagel bag']	['12.00 dollar']	0.0737139440912
+['friday meeting', 'bagel bag']	['meeting']	0.537007741999
+['friday meeting', 'bagel bag']	['bag']	0.583963449748
+['friday meeting', 'bagel bag']	['4 bagel bag']	0.889355770976
+['friday meeting', 'bagel bag']	['2 cream cheese']	0.0828503410239
+['friday meeting', 'bagel bag']	['dollar']	0.00222717737084
+['friday meeting', 'bagel bag']	['14.00 dollar']	0.0737139440912
+['friday meeting', 'bagel bag']	['cream cheese package']	0.0930408524947
+['bag', 'bagel bag']	['monday morning staff meeting']	0.392391453912
+['bag', 'bagel bag']	['2 bagel bag']	0.631459918071
+['bag', 'bagel bag']	['3 cream cheese package']	0.70872174834
+['bag', 'bagel bag']	['12.00 dollar']	0.270035932252
+['bag', 'bagel bag']	['meeting']	0.605311397435
+['bag', 'bagel bag']	['friday meeting']	0.187609861285
+['bag', 'bagel bag']	['4 bagel bag']	0.631459918071
+['bag', 'bagel bag']	['2 cream cheese']	0.392391453912
+['bag', 'bagel bag']	['dollar']	0.275320435557
+['bag', 'bagel bag']	['14.00 dollar']	0.270035932252
+['bag', 'bagel bag']	['cream cheese package']	0.72906556706
+['4 bagel bag', 'bagel bag']	['monday morning staff meeting']	0.425613130867
+['4 bagel bag', 'bagel bag']	['2 bagel bag']	0.969894009684
+['4 bagel bag', 'bagel bag']	['3 cream cheese package']	0.775597107079
+['4 bagel bag', 'bagel bag']	['12.00 dollar']	0.170107734588
+['4 bagel bag', 'bagel bag']	['meeting']	0.358160616065
+['4 bagel bag', 'bagel bag']	['friday meeting']	0.187498204907
+['4 bagel bag', 'bagel bag']	['bag']	0.771187437892
+['4 bagel bag', 'bagel bag']	['2 cream cheese']	0.7715847614
+['4 bagel bag', 'bagel bag']	['dollar']	0.15868834106
+['4 bagel bag', 'bagel bag']	['14.00 dollar']	0.170107734588
+['4 bagel bag', 'bagel bag']	['cream cheese package']	0.386423372197
+['2 cream cheese', 'bagel bag']	['monday morning staff meeting']	0.140715741843
+['2 cream cheese', 'bagel bag']	['2 bagel bag']	0.724133180159
+['2 cream cheese', 'bagel bag']	['3 cream cheese package']	0.399689178259
+['2 cream cheese', 'bagel bag']	['12.00 dollar']	0.128877148308
+['2 cream cheese', 'bagel bag']	['meeting']	0.14164406412
+['2 cream cheese', 'bagel bag']	['friday meeting']	0.124856540438
+['2 cream cheese', 'bagel bag']	['bag']	0.669711727179
+['2 cream cheese', 'bagel bag']	['4 bagel bag']	0.945092542036
+['2 cream cheese', 'bagel bag']	['dollar']	0.00371585050999
+['2 cream cheese', 'bagel bag']	['14.00 dollar']	0.128877148308
+['2 cream cheese', 'bagel bag']	['cream cheese package']	0.326767905673
+['dollar', 'bagel bag']	['monday morning staff meeting']	0.0863006918229
+['dollar', 'bagel bag']	['2 bagel bag']	0.224060207634
+['dollar', 'bagel bag']	['3 cream cheese package']	0.0863006918229
+['dollar', 'bagel bag']	['12.00 dollar']	0.396616843835
+['dollar', 'bagel bag']	['meeting']	0.0962627154283
+['dollar', 'bagel bag']	['friday meeting']	0.0774382987339
+['dollar', 'bagel bag']	['bag']	0.551854185437
+['dollar', 'bagel bag']	['4 bagel bag']	0.224060207634
+['dollar', 'bagel bag']	['2 cream cheese']	0.0783968469223
+['dollar', 'bagel bag']	['14.00 dollar']	0.396616843835
+['dollar', 'bagel bag']	['cream cheese package']	0.0863237701251
+['14.00 dollar', 'bagel bag']	['monday morning staff meeting']	0.086216080975
+['14.00 dollar', 'bagel bag']	['2 bagel bag']	0.887157968778
+['14.00 dollar', 'bagel bag']	['3 cream cheese package']	0.086216080975
+['14.00 dollar', 'bagel bag']	['12.00 dollar']	0.544221442934
+['14.00 dollar', 'bagel bag']	['meeting']	0.0650959234194
+['14.00 dollar', 'bagel bag']	['friday meeting']	0.0696933362217
+['14.00 dollar', 'bagel bag']	['bag']	0.654761276602
+['14.00 dollar', 'bagel bag']	['4 bagel bag']	0.887157968778
+['14.00 dollar', 'bagel bag']	['2 cream cheese']	0.0828503410239
+['14.00 dollar', 'bagel bag']	['dollar']	0.368389923
+['14.00 dollar', 'bagel bag']	['cream cheese package']	0.0930408524947
+['cream cheese package', 'bagel bag']	['monday morning staff meeting']	0.173246203922
+['cream cheese package', 'bagel bag']	['2 bagel bag']	0.949629280687
+['cream cheese package', 'bagel bag']	['3 cream cheese package']	0.943147799206
+['cream cheese package', 'bagel bag']	['12.00 dollar']	0.159601370649
+['cream cheese package', 'bagel bag']	['meeting']	0.1819451427
+['cream cheese package', 'bagel bag']	['friday meeting']	0.15558076278
+['cream cheese package', 'bagel bag']	['bag']	0.816232826692
+['cream cheese package', 'bagel bag']	['4 bagel bag']	0.949629280687
+['cream cheese package', 'bagel bag']	['2 cream cheese']	0.338301049406
+['cream cheese package', 'bagel bag']	['dollar']	0.0370491838433
+['cream cheese package', 'bagel bag']	['14.00 dollar']	0.159601370649
+['monday morning staff meeting', 'cream cheese package']	['2 bagel bag']	0.0831674346344
+['monday morning staff meeting', 'cream cheese package']	['3 cream cheese package']	0.948713198815
+['monday morning staff meeting', 'cream cheese package']	['12.00 dollar']	0.0681387921949
+['monday morning staff meeting', 'cream cheese package']	['meeting']	0.703721238216
+['monday morning staff meeting', 'cream cheese package']	['friday meeting']	0.761325470716
+['monday morning staff meeting', 'cream cheese package']	['bag']	0.275475307355
+['monday morning staff meeting', 'cream cheese package']	['4 bagel bag']	0.0831674346344
+['monday morning staff meeting', 'cream cheese package']	['2 cream cheese']	0.411723024075
+['monday morning staff meeting', 'cream cheese package']	['dollar']	0.0370491838433
+['monday morning staff meeting', 'cream cheese package']	['14.00 dollar']	0.0681387921949
+['monday morning staff meeting', 'cream cheese package']	['bagel bag']	0.0724706734038
+['2 bagel bag', 'cream cheese package']	['monday morning staff meeting']	0.0865331745855
+['2 bagel bag', 'cream cheese package']	['3 cream cheese package']	0.921627603781
+['2 bagel bag', 'cream cheese package']	['12.00 dollar']	0.0681387921949
+['2 bagel bag', 'cream cheese package']	['meeting']	0.0904825642459
+['2 bagel bag', 'cream cheese package']	['friday meeting']	0.0641181843254
+['2 bagel bag', 'cream cheese package']	['bag']	0.743831411778
+['2 bagel bag', 'cream cheese package']	['4 bagel bag']	0.769853399857
+['2 bagel bag', 'cream cheese package']	['2 cream cheese']	0.516399957685
+['2 bagel bag', 'cream cheese package']	['dollar']	0.00641088597099
+['2 bagel bag', 'cream cheese package']	['14.00 dollar']	0.0681387921949
+['2 bagel bag', 'cream cheese package']	['bagel bag']	0.787396599306
+['3 cream cheese package', 'cream cheese package']	['monday morning staff meeting']	0.37143056361
+['3 cream cheese package', 'cream cheese package']	['2 bagel bag']	0.747298661824
+['3 cream cheese package', 'cream cheese package']	['12.00 dollar']	0.109369378475
+['3 cream cheese package', 'cream cheese package']	['meeting']	0.361843767033
+['3 cream cheese package', 'cream cheese package']	['friday meeting']	0.126759848794
+['3 cream cheese package', 'cream cheese package']	['bag']	0.663568576378
+['3 cream cheese package', 'cream cheese package']	['4 bagel bag']	0.747298661824
+['3 cream cheese package', 'cream cheese package']	['2 cream cheese']	0.710239565502
+['3 cream cheese package', 'cream cheese package']	['dollar']	0.128050043188
+['3 cream cheese package', 'cream cheese package']	['14.00 dollar']	0.109369378475
+['3 cream cheese package', 'cream cheese package']	['bagel bag']	0.192784399348
+['12.00 dollar', 'cream cheese package']	['monday morning staff meeting']	0.142490449336
+['12.00 dollar', 'cream cheese package']	['2 bagel bag']	0.139124709385
+['12.00 dollar', 'cream cheese package']	['3 cream cheese package']	0.943147799206
+['12.00 dollar', 'cream cheese package']	['meeting']	0.115682569057
+['12.00 dollar', 'cream cheese package']	['friday meeting']	0.128877148308
+['12.00 dollar', 'cream cheese package']	['bag']	0.377212679875
+['12.00 dollar', 'cream cheese package']	['4 bagel bag']	0.139124709385
+['12.00 dollar', 'cream cheese package']	['2 cream cheese']	0.344840131062
+['12.00 dollar', 'cream cheese package']	['dollar']	0.415777683784
+['12.00 dollar', 'cream cheese package']	['14.00 dollar']	0.645330407958
+['12.00 dollar', 'cream cheese package']	['bagel bag']	0.133209029517
+['meeting', 'cream cheese package']	['monday morning staff meeting']	0.643199950378
+['meeting', 'cream cheese package']	['2 bagel bag']	0.144896656462
+['meeting', 'cream cheese package']	['3 cream cheese package']	0.681205320794
+['meeting', 'cream cheese package']	['12.00 dollar']	0.135791791773
+['meeting', 'cream cheese package']	['friday meeting']	0.712774172116
+['meeting', 'cream cheese package']	['bag']	0.430079196446
+['meeting', 'cream cheese package']	['4 bagel bag']	0.144896656462
+['meeting', 'cream cheese package']	['2 cream cheese']	0.287358250551
+['meeting', 'cream cheese package']	['dollar']	0.109150254294
+['meeting', 'cream cheese package']	['14.00 dollar']	0.135791791773
+['meeting', 'cream cheese package']	['bagel bag']	0.132770517841
+['friday meeting', 'cream cheese package']	['monday morning staff meeting']	0.801849098787
+['friday meeting', 'cream cheese package']	['2 bagel bag']	0.137350001891
+['friday meeting', 'cream cheese package']	['3 cream cheese package']	0.947395087865
+['friday meeting', 'cream cheese package']	['12.00 dollar']	0.128877148308
+['friday meeting', 'cream cheese package']	['meeting']	0.737723627702
+['friday meeting', 'cream cheese package']	['bag']	0.326132378695
+['friday meeting', 'cream cheese package']	['4 bagel bag']	0.137350001891
+['friday meeting', 'cream cheese package']	['2 cream cheese']	0.356158192263
+['friday meeting', 'cream cheese package']	['dollar']	0.00371585050999
+['friday meeting', 'cream cheese package']	['14.00 dollar']	0.128877148308
+['friday meeting', 'cream cheese package']	['bagel bag']	0.133209029517
+['bag', 'cream cheese package']	['monday morning staff meeting']	0.148262396413
+['bag', 'cream cheese package']	['2 bagel bag']	0.577740966014
+['bag', 'cream cheese package']	['3 cream cheese package']	0.831493435987
+['bag', 'cream cheese package']	['12.00 dollar']	0.132417152272
+['bag', 'cream cheese package']	['meeting']	0.219962072413
+['bag', 'cream cheese package']	['friday meeting']	0.135791791773
+['bag', 'cream cheese package']	['4 bagel bag']	0.577740966014
+['bag', 'cream cheese package']	['2 cream cheese']	0.287358250551
+['bag', 'cream cheese package']	['dollar']	0.109150254294
+['bag', 'cream cheese package']	['14.00 dollar']	0.132417152272
+['bag', 'cream cheese package']	['bagel bag']	0.674032603151
+['4 bagel bag', 'cream cheese package']	['monday morning staff meeting']	0.0865331745855
+['4 bagel bag', 'cream cheese package']	['2 bagel bag']	0.769853399857
+['4 bagel bag', 'cream cheese package']	['3 cream cheese package']	0.921627603781
+['4 bagel bag', 'cream cheese package']	['12.00 dollar']	0.0681387921949
+['4 bagel bag', 'cream cheese package']	['meeting']	0.0904825642459
+['4 bagel bag', 'cream cheese package']	['friday meeting']	0.0641181843254
+['4 bagel bag', 'cream cheese package']	['bag']	0.743831411778
+['4 bagel bag', 'cream cheese package']	['2 cream cheese']	0.381271315292
+['4 bagel bag', 'cream cheese package']	['dollar']	0.00641088597099
+['4 bagel bag', 'cream cheese package']	['14.00 dollar']	0.0681387921949
+['4 bagel bag', 'cream cheese package']	['bagel bag']	0.787396599306
+['2 cream cheese', 'cream cheese package']	['monday morning staff meeting']	0.0865331745855
+['2 cream cheese', 'cream cheese package']	['2 bagel bag']	0.506676394613
+['2 cream cheese', 'cream cheese package']	['3 cream cheese package']	0.921627603781
+['2 cream cheese', 'cream cheese package']	['12.00 dollar']	0.0681387921949
+['2 cream cheese', 'cream cheese package']	['meeting']	0.0904825642459
+['2 cream cheese', 'cream cheese package']	['friday meeting']	0.0641181843254
+['2 cream cheese', 'cream cheese package']	['bag']	0.275475307355
+['2 cream cheese', 'cream cheese package']	['4 bagel bag']	0.331845228758
+['2 cream cheese', 'cream cheese package']	['dollar']	0.00371585050999
+['2 cream cheese', 'cream cheese package']	['14.00 dollar']	0.0681387921949
+['2 cream cheese', 'cream cheese package']	['bagel bag']	0.0724706734038
+['dollar', 'cream cheese package']	['monday morning staff meeting']	0.0840772500463
+['dollar', 'cream cheese package']	['2 bagel bag']	0.0864233239649
+['dollar', 'cream cheese package']	['3 cream cheese package']	0.352474056265
+['dollar', 'cream cheese package']	['12.00 dollar']	0.372791497313
+['dollar', 'cream cheese package']	['meeting']	0.122322816946
+['dollar', 'cream cheese package']	['friday meeting']	0.0774382987339
+['dollar', 'cream cheese package']	['bag']	0.297370381763
+['dollar', 'cream cheese package']	['4 bagel bag']	0.0864233239649
+['dollar', 'cream cheese package']	['2 cream cheese']	0.245704652204
+['dollar', 'cream cheese package']	['14.00 dollar']	0.372791497313
+['dollar', 'cream cheese package']	['bagel bag']	0.0814730853556
+['14.00 dollar', 'cream cheese package']	['monday morning staff meeting']	0.142490449336
+['14.00 dollar', 'cream cheese package']	['2 bagel bag']	0.139124709385
+['14.00 dollar', 'cream cheese package']	['3 cream cheese package']	0.943147799206
+['14.00 dollar', 'cream cheese package']	['12.00 dollar']	0.645330407958
+['14.00 dollar', 'cream cheese package']	['meeting']	0.115682569057
+['14.00 dollar', 'cream cheese package']	['friday meeting']	0.128877148308
+['14.00 dollar', 'cream cheese package']	['bag']	0.377212679875
+['14.00 dollar', 'cream cheese package']	['4 bagel bag']	0.139124709385
+['14.00 dollar', 'cream cheese package']	['2 cream cheese']	0.344840131062
+['14.00 dollar', 'cream cheese package']	['dollar']	0.415777683784
+['14.00 dollar', 'cream cheese package']	['bagel bag']	0.133209029517
+['bagel bag', 'cream cheese package']	['monday morning staff meeting']	0.173246203922
+['bagel bag', 'cream cheese package']	['2 bagel bag']	0.949629280687
+['bagel bag', 'cream cheese package']	['3 cream cheese package']	0.943147799206
+['bagel bag', 'cream cheese package']	['12.00 dollar']	0.159601370649
+['bagel bag', 'cream cheese package']	['meeting']	0.1819451427
+['bagel bag', 'cream cheese package']	['friday meeting']	0.15558076278
+['bagel bag', 'cream cheese package']	['bag']	0.816232826692
+['bagel bag', 'cream cheese package']	['4 bagel bag']	0.949629280687
+['bagel bag', 'cream cheese package']	['2 cream cheese']	0.338301049406
+['bagel bag', 'cream cheese package']	['dollar']	0.0370491838433
+['bagel bag', 'cream cheese package']	['14.00 dollar']	0.159601370649

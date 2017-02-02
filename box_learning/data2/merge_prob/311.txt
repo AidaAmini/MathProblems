@@ -1,0 +1,133 @@
+['write workshop', 'novelist and poet', '24 people', 'workshop', 'novelist', 'poet']
+['write workshop']	['novelist and poet']	0.0941266761548
+['write workshop']	['24 people']	0.0901100077042
+['write workshop']	['novelist']	0.079730351659
+['write workshop']	['poet']	0.079730351659
+['novelist and poet']	['24 people']	0.0915001233665
+['novelist and poet']	['workshop']	0.0880692059685
+['24 people']	['workshop']	0.0774561735493
+['24 people']	['novelist']	0.0774561735493
+['24 people']	['poet']	0.0774561735493
+['workshop']	['novelist']	0.0741810638918
+['workshop']	['poet']	0.0841669803429
+['novelist']	['poet']	0.536840615469
+['novelist and poet', 'write workshop']	['24 people']	0.152238479479
+['novelist and poet', 'write workshop']	['workshop']	0.753401040659
+['novelist and poet', 'write workshop']	['novelist']	0.617460572306
+['novelist and poet', 'write workshop']	['poet']	0.867649955788
+['24 people', 'write workshop']	['novelist and poet']	0.0908034291173
+['24 people', 'write workshop']	['workshop']	0.645435478998
+['24 people', 'write workshop']	['novelist']	0.0774561735493
+['24 people', 'write workshop']	['poet']	0.0774561735493
+['workshop', 'write workshop']	['novelist and poet']	0.364434162707
+['workshop', 'write workshop']	['24 people']	0.186923062591
+['workshop', 'write workshop']	['novelist']	0.395672462794
+['workshop', 'write workshop']	['poet']	0.59062952656
+['novelist', 'write workshop']	['novelist and poet']	0.452848727379
+['novelist', 'write workshop']	['24 people']	0.0696933362217
+['novelist', 'write workshop']	['workshop']	0.706239332903
+['novelist', 'write workshop']	['poet']	0.827149219634
+['poet', 'write workshop']	['novelist and poet']	0.745167855836
+['poet', 'write workshop']	['24 people']	0.0696933362217
+['poet', 'write workshop']	['workshop']	0.764569287469
+['poet', 'write workshop']	['novelist']	0.827149219634
+['write workshop', 'novelist and poet']	['24 people']	0.152238479479
+['write workshop', 'novelist and poet']	['workshop']	0.753401040659
+['write workshop', 'novelist and poet']	['novelist']	0.617460572306
+['write workshop', 'novelist and poet']	['poet']	0.867649955788
+['24 people', 'novelist and poet']	['write workshop']	0.15961386663
+['24 people', 'novelist and poet']	['workshop']	0.146533383972
+['24 people', 'novelist and poet']	['novelist']	0.643051970155
+['24 people', 'novelist and poet']	['poet']	0.875116641985
+['workshop', 'novelist and poet']	['write workshop']	0.699774614678
+['workshop', 'novelist and poet']	['24 people']	0.0696933362217
+['workshop', 'novelist and poet']	['novelist']	0.751661111921
+['workshop', 'novelist and poet']	['poet']	0.851193119045
+['novelist', 'novelist and poet']	['write workshop']	0.0696933362217
+['novelist', 'novelist and poet']	['24 people']	0.0696933362217
+['novelist', 'novelist and poet']	['workshop']	0.181062134564
+['novelist', 'novelist and poet']	['poet']	0.844965467857
+['poet', 'novelist and poet']	['write workshop']	0.144528281371
+['poet', 'novelist and poet']	['24 people']	0.192186220485
+['poet', 'novelist and poet']	['workshop']	0.59062952656
+['poet', 'novelist and poet']	['novelist']	0.896932271956
+['write workshop', '24 people']	['novelist and poet']	0.0908034291173
+['write workshop', '24 people']	['workshop']	0.645435478998
+['write workshop', '24 people']	['novelist']	0.0774561735493
+['write workshop', '24 people']	['poet']	0.0774561735493
+['novelist and poet', '24 people']	['write workshop']	0.15961386663
+['novelist and poet', '24 people']	['workshop']	0.146533383972
+['novelist and poet', '24 people']	['novelist']	0.643051970155
+['novelist and poet', '24 people']	['poet']	0.875116641985
+['workshop', '24 people']	['write workshop']	0.722227658089
+['workshop', '24 people']	['novelist and poet']	0.080802298149
+['workshop', '24 people']	['novelist']	0.185711257371
+['workshop', '24 people']	['poet']	0.369400144778
+['novelist', '24 people']	['write workshop']	0.0696933362217
+['novelist', '24 people']	['novelist and poet']	0.454753489283
+['novelist', '24 people']	['workshop']	0.185711257371
+['novelist', '24 people']	['poet']	0.801223293708
+['poet', '24 people']	['write workshop']	0.0696933362217
+['poet', '24 people']	['novelist and poet']	0.745167855836
+['poet', '24 people']	['workshop']	0.369400144778
+['poet', '24 people']	['novelist']	0.801223293708
+['write workshop', 'workshop']	['novelist and poet']	0.364434162707
+['write workshop', 'workshop']	['24 people']	0.186923062591
+['write workshop', 'workshop']	['novelist']	0.395672462794
+['write workshop', 'workshop']	['poet']	0.59062952656
+['novelist and poet', 'workshop']	['write workshop']	0.699774614678
+['novelist and poet', 'workshop']	['24 people']	0.0696933362217
+['novelist and poet', 'workshop']	['novelist']	0.751661111921
+['novelist and poet', 'workshop']	['poet']	0.851193119045
+['24 people', 'workshop']	['write workshop']	0.722227658089
+['24 people', 'workshop']	['novelist and poet']	0.080802298149
+['24 people', 'workshop']	['novelist']	0.185711257371
+['24 people', 'workshop']	['poet']	0.369400144778
+['novelist', 'workshop']	['write workshop']	0.751760536674
+['novelist', 'workshop']	['novelist and poet']	0.473145394671
+['novelist', 'workshop']	['24 people']	0.131771183904
+['novelist', 'workshop']	['poet']	0.652605188895
+['poet', 'workshop']	['write workshop']	0.751760536674
+['poet', 'workshop']	['novelist and poet']	0.773283882315
+['poet', 'workshop']	['24 people']	0.131771183904
+['poet', 'workshop']	['novelist']	0.704606471865
+['write workshop', 'novelist']	['novelist and poet']	0.452848727379
+['write workshop', 'novelist']	['24 people']	0.0696933362217
+['write workshop', 'novelist']	['workshop']	0.706239332903
+['write workshop', 'novelist']	['poet']	0.827149219634
+['novelist and poet', 'novelist']	['write workshop']	0.0696933362217
+['novelist and poet', 'novelist']	['24 people']	0.0696933362217
+['novelist and poet', 'novelist']	['workshop']	0.181062134564
+['novelist and poet', 'novelist']	['poet']	0.844965467857
+['24 people', 'novelist']	['write workshop']	0.0696933362217
+['24 people', 'novelist']	['novelist and poet']	0.454753489283
+['24 people', 'novelist']	['workshop']	0.185711257371
+['24 people', 'novelist']	['poet']	0.801223293708
+['workshop', 'novelist']	['write workshop']	0.751760536674
+['workshop', 'novelist']	['novelist and poet']	0.473145394671
+['workshop', 'novelist']	['24 people']	0.131771183904
+['workshop', 'novelist']	['poet']	0.652605188895
+['poet', 'novelist']	['write workshop']	0.131771183904
+['poet', 'novelist']	['novelist and poet']	0.881809145757
+['poet', 'novelist']	['24 people']	0.131771183904
+['poet', 'novelist']	['workshop']	0.162202877911
+['write workshop', 'poet']	['novelist and poet']	0.745167855836
+['write workshop', 'poet']	['24 people']	0.0696933362217
+['write workshop', 'poet']	['workshop']	0.764569287469
+['write workshop', 'poet']	['novelist']	0.827149219634
+['novelist and poet', 'poet']	['write workshop']	0.144528281371
+['novelist and poet', 'poet']	['24 people']	0.192186220485
+['novelist and poet', 'poet']	['workshop']	0.59062952656
+['novelist and poet', 'poet']	['novelist']	0.896932271956
+['24 people', 'poet']	['write workshop']	0.0696933362217
+['24 people', 'poet']	['novelist and poet']	0.745167855836
+['24 people', 'poet']	['workshop']	0.369400144778
+['24 people', 'poet']	['novelist']	0.801223293708
+['workshop', 'poet']	['write workshop']	0.751760536674
+['workshop', 'poet']	['novelist and poet']	0.773283882315
+['workshop', 'poet']	['24 people']	0.131771183904
+['workshop', 'poet']	['novelist']	0.704606471865
+['novelist', 'poet']	['write workshop']	0.131771183904
+['novelist', 'poet']	['novelist and poet']	0.881809145757
+['novelist', 'poet']	['24 people']	0.131771183904
+['novelist', 'poet']	['workshop']	0.162202877911

@@ -1,0 +1,536 @@
+['jurassic zoo', 'zoo', '8 dollar', 'adult', 'dollar', '4 dollar', '201 people', '964 dollar', 'child']
+['jurassic zoo']	['8 dollar']	0.0827346205535
+['jurassic zoo']	['adult']	0.0744376594044
+['jurassic zoo']	['dollar']	0.00542020684774
+['jurassic zoo']	['4 dollar']	0.0824069519204
+['jurassic zoo']	['201 people']	0.0901100077042
+['jurassic zoo']	['964 dollar']	0.0901100077042
+['jurassic zoo']	['child']	0.0741073489195
+['zoo']	['8 dollar']	0.0696933362217
+['zoo']	['adult']	0.063465680784
+['zoo']	['dollar']	0.0082360470022
+['zoo']	['4 dollar']	0.0746958245975
+['zoo']	['201 people']	0.0696933362217
+['zoo']	['964 dollar']	0.0696933362217
+['zoo']	['child']	0.0741810638918
+['8 dollar']	['adult']	0.0777864840342
+['8 dollar']	['4 dollar']	0.820005157283
+['8 dollar']	['201 people']	0.0901100077042
+['8 dollar']	['964 dollar']	0.643440930505
+['8 dollar']	['child']	0.0774561735493
+['adult']	['dollar']	0.0169502271695
+['adult']	['4 dollar']	0.0824069519204
+['adult']	['201 people']	0.0793857959237
+['adult']	['964 dollar']	0.0827346205535
+['adult']	['child']	0.147908183985
+['dollar']	['201 people']	0.00424565569655
+['dollar']	['child']	0.0074803794959
+['4 dollar']	['201 people']	0.0737139440912
+['4 dollar']	['child']	0.0650959234194
+['201 people']	['964 dollar']	0.0901100077042
+['201 people']	['child']	0.0741073489195
+['964 dollar']	['child']	0.0774561735493
+['zoo', 'jurassic zoo']	['8 dollar']	0.144528281371
+['zoo', 'jurassic zoo']	['adult']	0.45929531349
+['zoo', 'jurassic zoo']	['dollar']	0.225501898287
+['zoo', 'jurassic zoo']	['4 dollar']	0.146238643348
+['zoo', 'jurassic zoo']	['201 people']	0.137226694069
+['zoo', 'jurassic zoo']	['964 dollar']	0.144528281371
+['zoo', 'jurassic zoo']	['child']	0.545256883849
+['8 dollar', 'jurassic zoo']	['zoo']	0.663632251983
+['8 dollar', 'jurassic zoo']	['adult']	0.0744376594044
+['8 dollar', 'jurassic zoo']	['dollar']	0.239557281632
+['8 dollar', 'jurassic zoo']	['4 dollar']	0.747901896166
+['8 dollar', 'jurassic zoo']	['201 people']	0.0901100077042
+['8 dollar', 'jurassic zoo']	['964 dollar']	0.584269096576
+['8 dollar', 'jurassic zoo']	['child']	0.0741073489195
+['adult', 'jurassic zoo']	['zoo']	0.660024485605
+['adult', 'jurassic zoo']	['8 dollar']	0.0827346205535
+['adult', 'jurassic zoo']	['dollar']	0.0216620448644
+['adult', 'jurassic zoo']	['4 dollar']	0.0824069519204
+['adult', 'jurassic zoo']	['201 people']	0.0827346205535
+['adult', 'jurassic zoo']	['964 dollar']	0.0827346205535
+['adult', 'jurassic zoo']	['child']	0.717687933396
+['dollar', 'jurassic zoo']	['zoo']	0.346850550031
+['dollar', 'jurassic zoo']	['8 dollar']	0.278797016241
+['dollar', 'jurassic zoo']	['adult']	0.0281768478195
+['dollar', 'jurassic zoo']	['4 dollar']	0.223493985938
+['dollar', 'jurassic zoo']	['201 people']	0.0160064194205
+['dollar', 'jurassic zoo']	['964 dollar']	0.299367977552
+['dollar', 'jurassic zoo']	['child']	0.274095901825
+['4 dollar', 'jurassic zoo']	['zoo']	0.552399281153
+['4 dollar', 'jurassic zoo']	['8 dollar']	0.73028733598
+['4 dollar', 'jurassic zoo']	['adult']	0.0634148935911
+['4 dollar', 'jurassic zoo']	['dollar']	0.268969046338
+['4 dollar', 'jurassic zoo']	['201 people']	0.0737139440912
+['4 dollar', 'jurassic zoo']	['964 dollar']	0.891905695852
+['4 dollar', 'jurassic zoo']	['child']	0.0617470987896
+['201 people', 'jurassic zoo']	['zoo']	0.650955657599
+['201 people', 'jurassic zoo']	['8 dollar']	0.0827346205535
+['201 people', 'jurassic zoo']	['adult']	0.0777864840342
+['201 people', 'jurassic zoo']	['dollar']	0.00424649792755
+['201 people', 'jurassic zoo']	['4 dollar']	0.0824069519204
+['201 people', 'jurassic zoo']	['964 dollar']	0.0901100077042
+['201 people', 'jurassic zoo']	['child']	0.0741073489195
+['964 dollar', 'jurassic zoo']	['zoo']	0.663632251983
+['964 dollar', 'jurassic zoo']	['8 dollar']	0.569519319138
+['964 dollar', 'jurassic zoo']	['adult']	0.0744376594044
+['964 dollar', 'jurassic zoo']	['dollar']	0.255021405406
+['964 dollar', 'jurassic zoo']	['4 dollar']	0.878931847994
+['964 dollar', 'jurassic zoo']	['201 people']	0.0901100077042
+['964 dollar', 'jurassic zoo']	['child']	0.0741073489195
+['child', 'jurassic zoo']	['zoo']	0.639524706331
+['child', 'jurassic zoo']	['8 dollar']	0.0696933362217
+['child', 'jurassic zoo']	['adult']	0.720832587484
+['child', 'jurassic zoo']	['dollar']	0.176682257717
+['child', 'jurassic zoo']	['4 dollar']	0.0746958245975
+['child', 'jurassic zoo']	['201 people']	0.0696933362217
+['child', 'jurassic zoo']	['964 dollar']	0.0696933362217
+['jurassic zoo', 'zoo']	['8 dollar']	0.144528281371
+['jurassic zoo', 'zoo']	['adult']	0.45929531349
+['jurassic zoo', 'zoo']	['dollar']	0.225501898287
+['jurassic zoo', 'zoo']	['4 dollar']	0.146238643348
+['jurassic zoo', 'zoo']	['201 people']	0.137226694069
+['jurassic zoo', 'zoo']	['964 dollar']	0.144528281371
+['jurassic zoo', 'zoo']	['child']	0.545256883849
+['8 dollar', 'zoo']	['jurassic zoo']	0.687529833909
+['8 dollar', 'zoo']	['adult']	0.182729929366
+['8 dollar', 'zoo']	['dollar']	0.475891835372
+['8 dollar', 'zoo']	['4 dollar']	0.72021221181
+['8 dollar', 'zoo']	['201 people']	0.0696933362217
+['8 dollar', 'zoo']	['964 dollar']	0.525944474896
+['8 dollar', 'zoo']	['child']	0.247532292806
+['adult', 'zoo']	['jurassic zoo']	0.692205356686
+['adult', 'zoo']	['8 dollar']	0.0696933362217
+['adult', 'zoo']	['dollar']	0.183612398898
+['adult', 'zoo']	['4 dollar']	0.0746958245975
+['adult', 'zoo']	['201 people']	0.0663445115919
+['adult', 'zoo']	['964 dollar']	0.0696933362217
+['adult', 'zoo']	['child']	0.421780484485
+['dollar', 'zoo']	['jurassic zoo']	0.321082357697
+['dollar', 'zoo']	['8 dollar']	0.278797016241
+['dollar', 'zoo']	['adult']	0.0914604770196
+['dollar', 'zoo']	['4 dollar']	0.223493985938
+['dollar', 'zoo']	['201 people']	0.0780842671024
+['dollar', 'zoo']	['964 dollar']	0.332721804216
+['dollar', 'zoo']	['child']	0.136149943108
+['4 dollar', 'zoo']	['jurassic zoo']	0.706092515899
+['4 dollar', 'zoo']	['8 dollar']	0.751359889328
+['4 dollar', 'zoo']	['adult']	0.244807777048
+['4 dollar', 'zoo']	['dollar']	0.475891835372
+['4 dollar', 'zoo']	['201 people']	0.131771183904
+['4 dollar', 'zoo']	['964 dollar']	0.873733127679
+['4 dollar', 'zoo']	['child']	0.309610140487
+['201 people', 'zoo']	['jurassic zoo']	0.68687409652
+['201 people', 'zoo']	['8 dollar']	0.0696933362217
+['201 people', 'zoo']	['adult']	0.182762001964
+['201 people', 'zoo']	['dollar']	0.199996847782
+['201 people', 'zoo']	['4 dollar']	0.0746958245975
+['201 people', 'zoo']	['964 dollar']	0.0696933362217
+['201 people', 'zoo']	['child']	0.309659658652
+['964 dollar', 'zoo']	['jurassic zoo']	0.68687409652
+['964 dollar', 'zoo']	['8 dollar']	0.525944474896
+['964 dollar', 'zoo']	['adult']	0.182729929366
+['964 dollar', 'zoo']	['dollar']	0.440506050309
+['964 dollar', 'zoo']	['4 dollar']	0.828850192603
+['964 dollar', 'zoo']	['201 people']	0.0696933362217
+['964 dollar', 'zoo']	['child']	0.247532292806
+['child', 'zoo']	['jurassic zoo']	0.710768038676
+['child', 'zoo']	['8 dollar']	0.131771183904
+['child', 'zoo']	['adult']	0.547182805528
+['child', 'zoo']	['dollar']	0.0736221117794
+['child', 'zoo']	['4 dollar']	0.136773672279
+['child', 'zoo']	['201 people']	0.128422359274
+['child', 'zoo']	['964 dollar']	0.131771183904
+['jurassic zoo', '8 dollar']	['zoo']	0.663632251983
+['jurassic zoo', '8 dollar']	['adult']	0.0744376594044
+['jurassic zoo', '8 dollar']	['dollar']	0.239557281632
+['jurassic zoo', '8 dollar']	['4 dollar']	0.747901896166
+['jurassic zoo', '8 dollar']	['201 people']	0.0901100077042
+['jurassic zoo', '8 dollar']	['964 dollar']	0.584269096576
+['jurassic zoo', '8 dollar']	['child']	0.0741073489195
+['zoo', '8 dollar']	['jurassic zoo']	0.687529833909
+['zoo', '8 dollar']	['adult']	0.182729929366
+['zoo', '8 dollar']	['dollar']	0.475891835372
+['zoo', '8 dollar']	['4 dollar']	0.72021221181
+['zoo', '8 dollar']	['201 people']	0.0696933362217
+['zoo', '8 dollar']	['964 dollar']	0.525944474896
+['zoo', '8 dollar']	['child']	0.247532292806
+['adult', '8 dollar']	['jurassic zoo']	0.0827346205535
+['adult', '8 dollar']	['zoo']	0.192648399091
+['adult', '8 dollar']	['dollar']	0.440590454615
+['adult', '8 dollar']	['4 dollar']	0.763507563306
+['adult', '8 dollar']	['201 people']	0.0827346205535
+['adult', '8 dollar']	['964 dollar']	0.549852778125
+['adult', '8 dollar']	['child']	0.714819826809
+['dollar', '8 dollar']	['jurassic zoo']	0.0798131677782
+['dollar', '8 dollar']	['zoo']	0.313982861585
+['dollar', '8 dollar']	['adult']	0.244935397737
+['dollar', '8 dollar']	['4 dollar']	0.731026710282
+['dollar', '8 dollar']	['201 people']	0.125024962568
+['dollar', '8 dollar']	['964 dollar']	0.690954327877
+['dollar', '8 dollar']	['child']	0.413384021113
+['4 dollar', '8 dollar']	['jurassic zoo']	0.144528281371
+['4 dollar', '8 dollar']	['zoo']	0.327802190328
+['4 dollar', '8 dollar']	['adult']	0.321876102484
+['4 dollar', '8 dollar']	['dollar']	0.838377904794
+['4 dollar', '8 dollar']	['201 people']	0.127137811052
+['4 dollar', '8 dollar']	['964 dollar']	0.939680822705
+['4 dollar', '8 dollar']	['child']	0.336418873399
+['201 people', '8 dollar']	['jurassic zoo']	0.0827346205535
+['201 people', '8 dollar']	['zoo']	0.0774561735493
+['201 people', '8 dollar']	['adult']	0.0777864840342
+['201 people', '8 dollar']	['dollar']	0.273620297832
+['201 people', '8 dollar']	['4 dollar']	0.747901896166
+['201 people', '8 dollar']	['964 dollar']	0.584269096576
+['201 people', '8 dollar']	['child']	0.0741073489195
+['964 dollar', '8 dollar']	['jurassic zoo']	0.153587928078
+['964 dollar', '8 dollar']	['zoo']	0.33665242287
+['964 dollar', '8 dollar']	['adult']	0.327028499836
+['964 dollar', '8 dollar']	['dollar']	0.815461238127
+['964 dollar', '8 dollar']	['4 dollar']	0.930152428078
+['964 dollar', '8 dollar']	['201 people']	0.139258682248
+['964 dollar', '8 dollar']	['child']	0.345269105941
+['child', '8 dollar']	['jurassic zoo']	0.0696933362217
+['child', '8 dollar']	['zoo']	0.247532292806
+['child', '8 dollar']	['adult']	0.723520036452
+['child', '8 dollar']	['dollar']	0.515891835372
+['child', '8 dollar']	['4 dollar']	0.72021221181
+['child', '8 dollar']	['201 people']	0.0696933362217
+['child', '8 dollar']	['964 dollar']	0.494524508322
+['jurassic zoo', 'adult']	['zoo']	0.660024485605
+['jurassic zoo', 'adult']	['8 dollar']	0.0827346205535
+['jurassic zoo', 'adult']	['dollar']	0.0216620448644
+['jurassic zoo', 'adult']	['4 dollar']	0.0824069519204
+['jurassic zoo', 'adult']	['201 people']	0.0827346205535
+['jurassic zoo', 'adult']	['964 dollar']	0.0827346205535
+['jurassic zoo', 'adult']	['child']	0.717687933396
+['zoo', 'adult']	['jurassic zoo']	0.692205356686
+['zoo', 'adult']	['8 dollar']	0.0696933362217
+['zoo', 'adult']	['dollar']	0.183612398898
+['zoo', 'adult']	['4 dollar']	0.0746958245975
+['zoo', 'adult']	['201 people']	0.0663445115919
+['zoo', 'adult']	['964 dollar']	0.0696933362217
+['zoo', 'adult']	['child']	0.421780484485
+['8 dollar', 'adult']	['jurassic zoo']	0.0827346205535
+['8 dollar', 'adult']	['zoo']	0.192648399091
+['8 dollar', 'adult']	['dollar']	0.440590454615
+['8 dollar', 'adult']	['4 dollar']	0.763507563306
+['8 dollar', 'adult']	['201 people']	0.0827346205535
+['8 dollar', 'adult']	['964 dollar']	0.549852778125
+['8 dollar', 'adult']	['child']	0.714819826809
+['dollar', 'adult']	['jurassic zoo']	0.015360451052
+['dollar', 'adult']	['zoo']	0.108586265088
+['dollar', 'adult']	['8 dollar']	0.278797016241
+['dollar', 'adult']	['4 dollar']	0.223493985938
+['dollar', 'adult']	['201 people']	0.0160064194205
+['dollar', 'adult']	['964 dollar']	0.332721804216
+['dollar', 'adult']	['child']	0.0246627517031
+['4 dollar', 'adult']	['jurassic zoo']	0.0696933362217
+['4 dollar', 'adult']	['zoo']	0.185711257371
+['4 dollar', 'adult']	['8 dollar']	0.736313764211
+['4 dollar', 'adult']	['dollar']	0.473923787948
+['4 dollar', 'adult']	['201 people']	0.0696933362217
+['4 dollar', 'adult']	['964 dollar']	0.873733127679
+['4 dollar', 'adult']	['child']	0.727763592624
+['201 people', 'adult']	['jurassic zoo']	0.0827346205535
+['201 people', 'adult']	['zoo']	0.192648399091
+['201 people', 'adult']	['8 dollar']	0.0827346205535
+['201 people', 'adult']	['dollar']	0.0204883359442
+['201 people', 'adult']	['4 dollar']	0.0824069519204
+['201 people', 'adult']	['964 dollar']	0.0827346205535
+['201 people', 'adult']	['child']	0.717687933396
+['964 dollar', 'adult']	['jurassic zoo']	0.0827346205535
+['964 dollar', 'adult']	['zoo']	0.192648399091
+['964 dollar', 'adult']	['8 dollar']	0.549852778125
+['964 dollar', 'adult']	['dollar']	0.426944739602
+['964 dollar', 'adult']	['4 dollar']	0.858561477624
+['964 dollar', 'adult']	['201 people']	0.0827346205535
+['964 dollar', 'adult']	['child']	0.714819826809
+['child', 'adult']	['jurassic zoo']	0.0663445115919
+['child', 'adult']	['zoo']	0.143465505135
+['child', 'adult']	['8 dollar']	0.0696933362217
+['child', 'adult']	['dollar']	0.183782657317
+['child', 'adult']	['4 dollar']	0.0746958245975
+['child', 'adult']	['201 people']	0.0663445115919
+['child', 'adult']	['964 dollar']	0.0696933362217
+['jurassic zoo', 'dollar']	['zoo']	0.346850550031
+['jurassic zoo', 'dollar']	['8 dollar']	0.278797016241
+['jurassic zoo', 'dollar']	['adult']	0.0281768478195
+['jurassic zoo', 'dollar']	['4 dollar']	0.223493985938
+['jurassic zoo', 'dollar']	['201 people']	0.0160064194205
+['jurassic zoo', 'dollar']	['964 dollar']	0.299367977552
+['jurassic zoo', 'dollar']	['child']	0.274095901825
+['zoo', 'dollar']	['jurassic zoo']	0.321082357697
+['zoo', 'dollar']	['8 dollar']	0.278797016241
+['zoo', 'dollar']	['adult']	0.0914604770196
+['zoo', 'dollar']	['4 dollar']	0.223493985938
+['zoo', 'dollar']	['201 people']	0.0780842671024
+['zoo', 'dollar']	['964 dollar']	0.332721804216
+['zoo', 'dollar']	['child']	0.136149943108
+['8 dollar', 'dollar']	['jurassic zoo']	0.0798131677782
+['8 dollar', 'dollar']	['zoo']	0.313982861585
+['8 dollar', 'dollar']	['adult']	0.244935397737
+['8 dollar', 'dollar']	['4 dollar']	0.731026710282
+['8 dollar', 'dollar']	['201 people']	0.125024962568
+['8 dollar', 'dollar']	['964 dollar']	0.690954327877
+['8 dollar', 'dollar']	['child']	0.413384021113
+['adult', 'dollar']	['jurassic zoo']	0.015360451052
+['adult', 'dollar']	['zoo']	0.108586265088
+['adult', 'dollar']	['8 dollar']	0.278797016241
+['adult', 'dollar']	['4 dollar']	0.223493985938
+['adult', 'dollar']	['201 people']	0.0160064194205
+['adult', 'dollar']	['964 dollar']	0.332721804216
+['adult', 'dollar']	['child']	0.0246627517031
+['4 dollar', 'dollar']	['jurassic zoo']	0.137689273973
+['4 dollar', 'dollar']	['zoo']	0.37185896778
+['4 dollar', 'dollar']	['8 dollar']	0.736329740585
+['4 dollar', 'dollar']	['adult']	0.269478170598
+['4 dollar', 'dollar']	['201 people']	0.182901068763
+['4 dollar', 'dollar']	['964 dollar']	0.773211595757
+['4 dollar', 'dollar']	['child']	0.48005068778
+['201 people', 'dollar']	['jurassic zoo']	0.0165341599722
+['201 people', 'dollar']	['zoo']	0.180033629449
+['201 people', 'dollar']	['8 dollar']	0.293611831056
+['201 people', 'dollar']	['adult']	0.0293826293377
+['201 people', 'dollar']	['4 dollar']	0.238308800753
+['201 people', 'dollar']	['964 dollar']	0.299367977552
+['201 people', 'dollar']	['child']	0.274095901825
+['964 dollar', 'dollar']	['jurassic zoo']	0.0798131677782
+['964 dollar', 'dollar']	['zoo']	0.313982861585
+['964 dollar', 'dollar']	['8 dollar']	0.765654046966
+['964 dollar', 'dollar']	['adult']	0.244935397737
+['964 dollar', 'dollar']	['4 dollar']	0.778047454343
+['964 dollar', 'dollar']	['201 people']	0.125024962568
+['964 dollar', 'dollar']	['child']	0.413384021113
+['child', 'dollar']	['jurassic zoo']	0.0774382987339
+['child', 'dollar']	['zoo']	0.114058118751
+['child', 'dollar']	['8 dollar']	0.278797016241
+['child', 'dollar']	['adult']	0.284481578311
+['child', 'dollar']	['4 dollar']	0.223493985938
+['child', 'dollar']	['201 people']	0.0780842671024
+['child', 'dollar']	['964 dollar']	0.332721804216
+['jurassic zoo', '4 dollar']	['zoo']	0.552399281153
+['jurassic zoo', '4 dollar']	['8 dollar']	0.73028733598
+['jurassic zoo', '4 dollar']	['adult']	0.0634148935911
+['jurassic zoo', '4 dollar']	['dollar']	0.268969046338
+['jurassic zoo', '4 dollar']	['201 people']	0.0737139440912
+['jurassic zoo', '4 dollar']	['964 dollar']	0.891905695852
+['jurassic zoo', '4 dollar']	['child']	0.0617470987896
+['zoo', '4 dollar']	['jurassic zoo']	0.706092515899
+['zoo', '4 dollar']	['8 dollar']	0.751359889328
+['zoo', '4 dollar']	['adult']	0.244807777048
+['zoo', '4 dollar']	['dollar']	0.475891835372
+['zoo', '4 dollar']	['201 people']	0.131771183904
+['zoo', '4 dollar']	['964 dollar']	0.873733127679
+['zoo', '4 dollar']	['child']	0.309610140487
+['8 dollar', '4 dollar']	['jurassic zoo']	0.144528281371
+['8 dollar', '4 dollar']	['zoo']	0.327802190328
+['8 dollar', '4 dollar']	['adult']	0.321876102484
+['8 dollar', '4 dollar']	['dollar']	0.838377904794
+['8 dollar', '4 dollar']	['201 people']	0.127137811052
+['8 dollar', '4 dollar']	['964 dollar']	0.939680822705
+['8 dollar', '4 dollar']	['child']	0.336418873399
+['adult', '4 dollar']	['jurassic zoo']	0.0696933362217
+['adult', '4 dollar']	['zoo']	0.185711257371
+['adult', '4 dollar']	['8 dollar']	0.736313764211
+['adult', '4 dollar']	['dollar']	0.473923787948
+['adult', '4 dollar']	['201 people']	0.0696933362217
+['adult', '4 dollar']	['964 dollar']	0.873733127679
+['adult', '4 dollar']	['child']	0.727763592624
+['dollar', '4 dollar']	['jurassic zoo']	0.137689273973
+['dollar', '4 dollar']	['zoo']	0.37185896778
+['dollar', '4 dollar']	['8 dollar']	0.736329740585
+['dollar', '4 dollar']	['adult']	0.269478170598
+['dollar', '4 dollar']	['201 people']	0.182901068763
+['dollar', '4 dollar']	['964 dollar']	0.773211595757
+['dollar', '4 dollar']	['child']	0.48005068778
+['201 people', '4 dollar']	['jurassic zoo']	0.0696933362217
+['201 people', '4 dollar']	['zoo']	0.0650959234194
+['201 people', '4 dollar']	['8 dollar']	0.73028733598
+['201 people', '4 dollar']	['adult']	0.0667637182209
+['201 people', '4 dollar']	['dollar']	0.304992846852
+['201 people', '4 dollar']	['964 dollar']	0.891905695852
+['201 people', '4 dollar']	['child']	0.0617470987896
+['964 dollar', '4 dollar']	['jurassic zoo']	0.144528281371
+['964 dollar', '4 dollar']	['zoo']	0.327802190328
+['964 dollar', '4 dollar']	['8 dollar']	0.868355241542
+['964 dollar', '4 dollar']	['adult']	0.321876102484
+['964 dollar', '4 dollar']	['dollar']	0.857127904794
+['964 dollar', '4 dollar']	['201 people']	0.127137811052
+['964 dollar', '4 dollar']	['child']	0.336418873399
+['child', '4 dollar']	['jurassic zoo']	0.131771183904
+['child', '4 dollar']	['zoo']	0.309610140487
+['child', '4 dollar']	['8 dollar']	0.751359889328
+['child', '4 dollar']	['adult']	0.736537277832
+['child', '4 dollar']	['dollar']	0.515891835372
+['child', '4 dollar']	['201 people']	0.131771183904
+['child', '4 dollar']	['964 dollar']	0.873733127679
+['jurassic zoo', '201 people']	['zoo']	0.650955657599
+['jurassic zoo', '201 people']	['8 dollar']	0.0827346205535
+['jurassic zoo', '201 people']	['adult']	0.0777864840342
+['jurassic zoo', '201 people']	['dollar']	0.00424649792755
+['jurassic zoo', '201 people']	['4 dollar']	0.0824069519204
+['jurassic zoo', '201 people']	['964 dollar']	0.0901100077042
+['jurassic zoo', '201 people']	['child']	0.0741073489195
+['zoo', '201 people']	['jurassic zoo']	0.68687409652
+['zoo', '201 people']	['8 dollar']	0.0696933362217
+['zoo', '201 people']	['adult']	0.182762001964
+['zoo', '201 people']	['dollar']	0.199996847782
+['zoo', '201 people']	['4 dollar']	0.0746958245975
+['zoo', '201 people']	['964 dollar']	0.0696933362217
+['zoo', '201 people']	['child']	0.309659658652
+['8 dollar', '201 people']	['jurassic zoo']	0.0827346205535
+['8 dollar', '201 people']	['zoo']	0.0774561735493
+['8 dollar', '201 people']	['adult']	0.0777864840342
+['8 dollar', '201 people']	['dollar']	0.273620297832
+['8 dollar', '201 people']	['4 dollar']	0.747901896166
+['8 dollar', '201 people']	['964 dollar']	0.584269096576
+['8 dollar', '201 people']	['child']	0.0741073489195
+['adult', '201 people']	['jurassic zoo']	0.0827346205535
+['adult', '201 people']	['zoo']	0.192648399091
+['adult', '201 people']	['8 dollar']	0.0827346205535
+['adult', '201 people']	['dollar']	0.0204883359442
+['adult', '201 people']	['4 dollar']	0.0824069519204
+['adult', '201 people']	['964 dollar']	0.0827346205535
+['adult', '201 people']	['child']	0.717687933396
+['dollar', '201 people']	['jurassic zoo']	0.0165341599722
+['dollar', '201 people']	['zoo']	0.180033629449
+['dollar', '201 people']	['8 dollar']	0.293611831056
+['dollar', '201 people']	['adult']	0.0293826293377
+['dollar', '201 people']	['4 dollar']	0.238308800753
+['dollar', '201 people']	['964 dollar']	0.299367977552
+['dollar', '201 people']	['child']	0.274095901825
+['4 dollar', '201 people']	['jurassic zoo']	0.0696933362217
+['4 dollar', '201 people']	['zoo']	0.0650959234194
+['4 dollar', '201 people']	['8 dollar']	0.73028733598
+['4 dollar', '201 people']	['adult']	0.0667637182209
+['4 dollar', '201 people']	['dollar']	0.304992846852
+['4 dollar', '201 people']	['964 dollar']	0.891905695852
+['4 dollar', '201 people']	['child']	0.0617470987896
+['964 dollar', '201 people']	['jurassic zoo']	0.0901100077042
+['964 dollar', '201 people']	['zoo']	0.0774561735493
+['964 dollar', '201 people']	['8 dollar']	0.584269096576
+['964 dollar', '201 people']	['adult']	0.0777864840342
+['964 dollar', '201 people']	['dollar']	0.24945929496
+['964 dollar', '201 people']	['4 dollar']	0.876734045796
+['964 dollar', '201 people']	['child']	0.0741073489195
+['child', '201 people']	['jurassic zoo']	0.0696933362217
+['child', '201 people']	['zoo']	0.247532292806
+['child', '201 people']	['8 dollar']	0.0696933362217
+['child', '201 people']	['adult']	0.722345524942
+['child', '201 people']	['dollar']	0.178029059064
+['child', '201 people']	['4 dollar']	0.0746958245975
+['child', '201 people']	['964 dollar']	0.0696933362217
+['jurassic zoo', '964 dollar']	['zoo']	0.663632251983
+['jurassic zoo', '964 dollar']	['8 dollar']	0.569519319138
+['jurassic zoo', '964 dollar']	['adult']	0.0744376594044
+['jurassic zoo', '964 dollar']	['dollar']	0.255021405406
+['jurassic zoo', '964 dollar']	['4 dollar']	0.878931847994
+['jurassic zoo', '964 dollar']	['201 people']	0.0901100077042
+['jurassic zoo', '964 dollar']	['child']	0.0741073489195
+['zoo', '964 dollar']	['jurassic zoo']	0.68687409652
+['zoo', '964 dollar']	['8 dollar']	0.525944474896
+['zoo', '964 dollar']	['adult']	0.182729929366
+['zoo', '964 dollar']	['dollar']	0.440506050309
+['zoo', '964 dollar']	['4 dollar']	0.828850192603
+['zoo', '964 dollar']	['201 people']	0.0696933362217
+['zoo', '964 dollar']	['child']	0.247532292806
+['8 dollar', '964 dollar']	['jurassic zoo']	0.153587928078
+['8 dollar', '964 dollar']	['zoo']	0.33665242287
+['8 dollar', '964 dollar']	['adult']	0.327028499836
+['8 dollar', '964 dollar']	['dollar']	0.815461238127
+['8 dollar', '964 dollar']	['4 dollar']	0.930152428078
+['8 dollar', '964 dollar']	['201 people']	0.139258682248
+['8 dollar', '964 dollar']	['child']	0.345269105941
+['adult', '964 dollar']	['jurassic zoo']	0.0827346205535
+['adult', '964 dollar']	['zoo']	0.192648399091
+['adult', '964 dollar']	['8 dollar']	0.549852778125
+['adult', '964 dollar']	['dollar']	0.426944739602
+['adult', '964 dollar']	['4 dollar']	0.858561477624
+['adult', '964 dollar']	['201 people']	0.0827346205535
+['adult', '964 dollar']	['child']	0.714819826809
+['dollar', '964 dollar']	['jurassic zoo']	0.0798131677782
+['dollar', '964 dollar']	['zoo']	0.313982861585
+['dollar', '964 dollar']	['8 dollar']	0.765654046966
+['dollar', '964 dollar']	['adult']	0.244935397737
+['dollar', '964 dollar']	['4 dollar']	0.778047454343
+['dollar', '964 dollar']	['201 people']	0.125024962568
+['dollar', '964 dollar']	['child']	0.413384021113
+['4 dollar', '964 dollar']	['jurassic zoo']	0.144528281371
+['4 dollar', '964 dollar']	['zoo']	0.327802190328
+['4 dollar', '964 dollar']	['8 dollar']	0.868355241542
+['4 dollar', '964 dollar']	['adult']	0.321876102484
+['4 dollar', '964 dollar']	['dollar']	0.857127904794
+['4 dollar', '964 dollar']	['201 people']	0.127137811052
+['4 dollar', '964 dollar']	['child']	0.336418873399
+['201 people', '964 dollar']	['jurassic zoo']	0.0901100077042
+['201 people', '964 dollar']	['zoo']	0.0774561735493
+['201 people', '964 dollar']	['8 dollar']	0.584269096576
+['201 people', '964 dollar']	['adult']	0.0777864840342
+['201 people', '964 dollar']	['dollar']	0.24945929496
+['201 people', '964 dollar']	['4 dollar']	0.876734045796
+['201 people', '964 dollar']	['child']	0.0741073489195
+['child', '964 dollar']	['jurassic zoo']	0.0696933362217
+['child', '964 dollar']	['zoo']	0.247532292806
+['child', '964 dollar']	['8 dollar']	0.494524508322
+['child', '964 dollar']	['adult']	0.723520036452
+['child', '964 dollar']	['dollar']	0.473839383642
+['child', '964 dollar']	['4 dollar']	0.828850192603
+['child', '964 dollar']	['201 people']	0.0696933362217
+['jurassic zoo', 'child']	['zoo']	0.639524706331
+['jurassic zoo', 'child']	['8 dollar']	0.0696933362217
+['jurassic zoo', 'child']	['adult']	0.720832587484
+['jurassic zoo', 'child']	['dollar']	0.176682257717
+['jurassic zoo', 'child']	['4 dollar']	0.0746958245975
+['jurassic zoo', 'child']	['201 people']	0.0696933362217
+['jurassic zoo', 'child']	['964 dollar']	0.0696933362217
+['zoo', 'child']	['jurassic zoo']	0.710768038676
+['zoo', 'child']	['8 dollar']	0.131771183904
+['zoo', 'child']	['adult']	0.547182805528
+['zoo', 'child']	['dollar']	0.0736221117794
+['zoo', 'child']	['4 dollar']	0.136773672279
+['zoo', 'child']	['201 people']	0.128422359274
+['zoo', 'child']	['964 dollar']	0.131771183904
+['8 dollar', 'child']	['jurassic zoo']	0.0696933362217
+['8 dollar', 'child']	['zoo']	0.247532292806
+['8 dollar', 'child']	['adult']	0.723520036452
+['8 dollar', 'child']	['dollar']	0.515891835372
+['8 dollar', 'child']	['4 dollar']	0.72021221181
+['8 dollar', 'child']	['201 people']	0.0696933362217
+['8 dollar', 'child']	['964 dollar']	0.494524508322
+['adult', 'child']	['jurassic zoo']	0.0663445115919
+['adult', 'child']	['zoo']	0.143465505135
+['adult', 'child']	['8 dollar']	0.0696933362217
+['adult', 'child']	['dollar']	0.183782657317
+['adult', 'child']	['4 dollar']	0.0746958245975
+['adult', 'child']	['201 people']	0.0663445115919
+['adult', 'child']	['964 dollar']	0.0696933362217
+['dollar', 'child']	['jurassic zoo']	0.0774382987339
+['dollar', 'child']	['zoo']	0.114058118751
+['dollar', 'child']	['8 dollar']	0.278797016241
+['dollar', 'child']	['adult']	0.284481578311
+['dollar', 'child']	['4 dollar']	0.223493985938
+['dollar', 'child']	['201 people']	0.0780842671024
+['dollar', 'child']	['964 dollar']	0.332721804216
+['4 dollar', 'child']	['jurassic zoo']	0.131771183904
+['4 dollar', 'child']	['zoo']	0.309610140487
+['4 dollar', 'child']	['8 dollar']	0.751359889328
+['4 dollar', 'child']	['adult']	0.736537277832
+['4 dollar', 'child']	['dollar']	0.515891835372
+['4 dollar', 'child']	['201 people']	0.131771183904
+['4 dollar', 'child']	['964 dollar']	0.873733127679
+['201 people', 'child']	['jurassic zoo']	0.0696933362217
+['201 people', 'child']	['zoo']	0.247532292806
+['201 people', 'child']	['8 dollar']	0.0696933362217
+['201 people', 'child']	['adult']	0.722345524942
+['201 people', 'child']	['dollar']	0.178029059064
+['201 people', 'child']	['4 dollar']	0.0746958245975
+['201 people', 'child']	['964 dollar']	0.0696933362217
+['964 dollar', 'child']	['jurassic zoo']	0.0696933362217
+['964 dollar', 'child']	['zoo']	0.247532292806
+['964 dollar', 'child']	['8 dollar']	0.494524508322
+['964 dollar', 'child']	['adult']	0.723520036452
+['964 dollar', 'child']	['dollar']	0.473839383642
+['964 dollar', 'child']	['4 dollar']	0.828850192603
+['964 dollar', 'child']	['201 people']	0.0696933362217

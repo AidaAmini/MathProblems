@@ -1,0 +1,135 @@
+['250 minute', 'week', 'ratio', 'aerobics', 'weight training', 'minute']
+['250 minute']	['week']	0.0697087102514
+['250 minute']	['ratio']	0.0744376594044
+['250 minute']	['aerobics']	0.0854506877194
+['250 minute']	['weight training']	0.0897823390711
+['week']	['ratio']	0.0369601588388
+['week']	['aerobics']	0.0369601588388
+['week']	['weight training']	0.0180288480811
+['week']	['minute']	0.0319432668636
+['ratio']	['aerobics']	0.0841275079299
+['ratio']	['weight training']	0.0790581272906
+['ratio']	['minute']	0.0255251483302
+['aerobics']	['weight training']	0.079704095659
+['aerobics']	['minute']	0.0212464283393
+['weight training']	['minute']	0.0131607977652
+['week', '250 minute']	['ratio']	0.316527785804
+['week', '250 minute']	['aerobics']	0.257989387827
+['week', '250 minute']	['weight training']	0.0421463435009
+['week', '250 minute']	['minute']	0.735948263135
+['ratio', '250 minute']	['week']	0.366227475783
+['ratio', '250 minute']	['aerobics']	0.174413450128
+['ratio', '250 minute']	['weight training']	0.0824069519204
+['ratio', '250 minute']	['minute']	0.63124656822
+['aerobics', '250 minute']	['week']	0.369164213858
+['aerobics', '250 minute']	['ratio']	0.192947327196
+['aerobics', '250 minute']	['weight training']	0.0830529202888
+['aerobics', '250 minute']	['minute']	0.557103363608
+['weight training', '250 minute']	['week']	0.0454862719843
+['weight training', '250 minute']	['ratio']	0.0634148935911
+['weight training', '250 minute']	['aerobics']	0.0667637182209
+['weight training', '250 minute']	['minute']	0.260179929799
+['minute', '250 minute']	['week']	0.719337230059
+['minute', '250 minute']	['ratio']	0.45734507433
+['minute', '250 minute']	['aerobics']	0.239984737929
+['minute', '250 minute']	['weight training']	0.167785752005
+['250 minute', 'week']	['ratio']	0.316527785804
+['250 minute', 'week']	['aerobics']	0.257989387827
+['250 minute', 'week']	['weight training']	0.0421463435009
+['250 minute', 'week']	['minute']	0.735948263135
+['ratio', 'week']	['250 minute']	0.105177964646
+['ratio', 'week']	['aerobics']	0.0811268662776
+['ratio', 'week']	['weight training']	0.0422136009784
+['ratio', 'week']	['minute']	0.136980115225
+['aerobics', 'week']	['250 minute']	0.0824837025894
+['aerobics', 'week']	['ratio']	0.0811268662776
+['aerobics', 'week']	['weight training']	0.0428595693468
+['aerobics', 'week']	['minute']	0.320920066987
+['weight training', 'week']	['250 minute']	0.123488104931
+['weight training', 'week']	['ratio']	0.383475763356
+['weight training', 'week']	['aerobics']	0.352277350129
+['weight training', 'week']	['minute']	0.422023361841
+['minute', 'week']	['250 minute']	0.484132462263
+['minute', 'week']	['ratio']	0.102346223616
+['minute', 'week']	['aerobics']	0.208859331867
+['minute', 'week']	['weight training']	0.0840071047189
+['250 minute', 'ratio']	['week']	0.366227475783
+['250 minute', 'ratio']	['aerobics']	0.174413450128
+['250 minute', 'ratio']	['weight training']	0.0824069519204
+['250 minute', 'ratio']	['minute']	0.63124656822
+['week', 'ratio']	['250 minute']	0.105177964646
+['week', 'ratio']	['aerobics']	0.0811268662776
+['week', 'ratio']	['weight training']	0.0422136009784
+['week', 'ratio']	['minute']	0.136980115225
+['aerobics', 'ratio']	['250 minute']	0.0833805889219
+['aerobics', 'ratio']	['week']	0.0255251483302
+['aerobics', 'ratio']	['weight training']	0.079704095659
+['aerobics', 'ratio']	['minute']	0.137856621895
+['weight training', 'ratio']	['250 minute']	0.0703393045902
+['weight training', 'ratio']	['week']	0.270657771957
+['weight training', 'ratio']	['aerobics']	0.211523961879
+['weight training', 'ratio']	['minute']	0.193945359453
+['minute', 'ratio']	['250 minute']	0.438282498073
+['minute', 'ratio']	['week']	0.136980115225
+['minute', 'ratio']	['aerobics']	0.0998023661147
+['minute', 'ratio']	['weight training']	0.0422136009784
+['250 minute', 'aerobics']	['week']	0.369164213858
+['250 minute', 'aerobics']	['ratio']	0.192947327196
+['250 minute', 'aerobics']	['weight training']	0.0830529202888
+['250 minute', 'aerobics']	['minute']	0.557103363608
+['week', 'aerobics']	['250 minute']	0.0824837025894
+['week', 'aerobics']	['ratio']	0.0811268662776
+['week', 'aerobics']	['weight training']	0.0428595693468
+['week', 'aerobics']	['minute']	0.320920066987
+['ratio', 'aerobics']	['250 minute']	0.0833805889219
+['ratio', 'aerobics']	['week']	0.0255251483302
+['ratio', 'aerobics']	['weight training']	0.079704095659
+['ratio', 'aerobics']	['minute']	0.137856621895
+['weight training', 'aerobics']	['250 minute']	0.0696933362217
+['weight training', 'aerobics']	['week']	0.234448851769
+['weight training', 'aerobics']	['ratio']	0.211523961879
+['weight training', 'aerobics']	['minute']	0.0164879548148
+['minute', 'aerobics']	['250 minute']	0.375094723854
+['minute', 'aerobics']	['week']	0.136980115225
+['minute', 'aerobics']	['ratio']	0.135293532944
+['minute', 'aerobics']	['weight training']	0.0428595693468
+['250 minute', 'weight training']	['week']	0.0454862719843
+['250 minute', 'weight training']	['ratio']	0.0634148935911
+['250 minute', 'weight training']	['aerobics']	0.0667637182209
+['250 minute', 'weight training']	['minute']	0.260179929799
+['week', 'weight training']	['250 minute']	0.123488104931
+['week', 'weight training']	['ratio']	0.383475763356
+['week', 'weight training']	['aerobics']	0.352277350129
+['week', 'weight training']	['minute']	0.422023361841
+['ratio', 'weight training']	['250 minute']	0.0703393045902
+['ratio', 'weight training']	['week']	0.270657771957
+['ratio', 'weight training']	['aerobics']	0.211523961879
+['ratio', 'weight training']	['minute']	0.193945359453
+['aerobics', 'weight training']	['250 minute']	0.0696933362217
+['aerobics', 'weight training']	['week']	0.234448851769
+['aerobics', 'weight training']	['ratio']	0.211523961879
+['aerobics', 'weight training']	['minute']	0.0164879548148
+['minute', 'weight training']	['250 minute']	0.375094723854
+['minute', 'weight training']	['week']	0.459116361434
+['minute', 'weight training']	['ratio']	0.370286175166
+['minute', 'weight training']	['aerobics']	0.0957453570061
+['250 minute', 'minute']	['week']	0.719337230059
+['250 minute', 'minute']	['ratio']	0.45734507433
+['250 minute', 'minute']	['aerobics']	0.239984737929
+['250 minute', 'minute']	['weight training']	0.167785752005
+['week', 'minute']	['250 minute']	0.484132462263
+['week', 'minute']	['ratio']	0.102346223616
+['week', 'minute']	['aerobics']	0.208859331867
+['week', 'minute']	['weight training']	0.0840071047189
+['ratio', 'minute']	['250 minute']	0.438282498073
+['ratio', 'minute']	['week']	0.136980115225
+['ratio', 'minute']	['aerobics']	0.0998023661147
+['ratio', 'minute']	['weight training']	0.0422136009784
+['aerobics', 'minute']	['250 minute']	0.375094723854
+['aerobics', 'minute']	['week']	0.136980115225
+['aerobics', 'minute']	['ratio']	0.135293532944
+['aerobics', 'minute']	['weight training']	0.0428595693468
+['weight training', 'minute']	['250 minute']	0.375094723854
+['weight training', 'minute']	['week']	0.459116361434
+['weight training', 'minute']	['ratio']	0.370286175166
+['weight training', 'minute']	['aerobics']	0.0957453570061

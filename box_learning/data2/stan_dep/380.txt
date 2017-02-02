@@ -1,0 +1,48 @@
+(ROOT
+  (S
+    (NP (CD One) (NN gallon) (NN container))
+    (VP
+      (VBZ is)
+      (ADJP
+        (JJ full)
+        (PP
+          (IN of)
+          (NP
+            (DT a)
+            (ADJP (CD 75) (NN %))
+            (NN alcohol)
+            (NN solution)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ much))
+    (SQ
+      (MD must)
+      (VP
+        (VB be)
+        (VP
+          (VP (VBN drained) (PRT (RP off)))
+          (CC and)
+          (VP
+            (VBN replaced)
+            (PP
+              (IN by)
+              (NP
+                (DT a)
+                (ADJP (CD 50) (NN %))
+                (NN alcohol)
+                (NN solution)))
+            (S
+              (VP
+                (TO to)
+                (VP
+                  (VB produce)
+                  (NP
+                    (NP (CD one) (NN gallon))
+                    (PP
+                      (IN of)
+                      (NP
+                        (ADJP (CD 65) (NN %))
+                        (NN alcohol)
+                        (NN solution)))))))))))
+    (. ?)))

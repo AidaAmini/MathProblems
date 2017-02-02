@@ -1,0 +1,428 @@
+
+Inductive typ : Set :=
+| TStr  : typ
+| TBool : typ
+| TInt  : typ
+| TFun  : typ -> typ -> typ
+| TProd : typ -> typ -> typ
+| TSum  : typ -> typ -> typ.
+
+Inductive expr : Set :=
+| Str   : string -> expr
+| Bool  : bool -> expr
+| Int   : Z -> expr
+| Var   : string -> expr
+| App   : expr -> expr -> expr
+| Lam   : string -> typ -> expr -> expr
+| If    : expr -> expr -> expr -> expr
+| Pair  : expr -> expr -> expr
+| Fst   : expr -> expr
+| Snd   : expr -> expr
+| Match : expr -> string -> expr -> string -> expr -> expr
+| InjL  : expr -> typ -> expr
+| InjR  : expr -> typ -> expr
+| Fix   : expr -> expr.
+
+(**
+
+Now we define a type system for this calculus.
+
+*)
+
+(* store of variables and their values *)
+Definition env : Type :=
+  string -> option typ.
+
+Definition E0 : env :=
+  fun _ => None.
+
+
+(* 
+string_dec tests for string equality 
+the store is a function
+ - can get something out of the store by calling the store
+extend takes in e of type env, x, t
+returns env
+
+(extend foo 1 (extend bar 2 (E0))) y
+desugars to
+match y with
+  | foo -> Some 1
+  | bar -> Some 2
+  | _ -> None
+
+*)
+Definition extend (e: env) x t : env :=
+  fun y =>
+    (* checks whether y is the first thing *)
+    if string_dec y x then 
+      Some t
+    (* peels off first thing and checks rest *)
+    else
+      e y.
+
+
+(*
+typed env exp T 
+means that in env, exp has type T
+in this inductive dev, env is a variable of type env.
+
+the thing typed relates an expression and a type in an environment
+- can take in env and expr and return type
+
+Prop is the universe that typed trees live in
+*)
+
+Inductive typed : env -> expr -> typ -> Prop :=
+(*
+base case: a string literal always has type TStr
+*)
+| WTStr: (* : (e:env) -> (s:string) ->    typed e (str s) Tstr   *)
+    forall env s,
+      typed env (Str s) TStr
+| WTBool:
+    forall env b,
+      typed env (Bool b) TBool
+| WTInt:
+    forall env i,
+      typed env (Int i) TInt
+| WTVar:
+    forall env x t,
+      env x = Some t ->
+      typed env (Var x) t
+| WTApp:
+    forall env e1 e2 tA tB,
+      typed env e1 (TFun tA tB) -> (* e1 is a function from ta to tb *)
+      typed env e2 tA ->           (* e2 has type ta *)
+      typed env (App e1 e2) tB     (* the application e1 e2 has type tb *)
+| WTLam:
+    forall env x e tA tB,
+      typed (extend env x tA) e tB ->  (* env contains variable x of type ta and expression e has type tb  *)
+      typed env (Lam x tA e) (TFun tA tB)  (* (Lam x ta e) has type (Tfun ta tb) *)
+                                           (* (Lam x:ta.e) has type (ta->tb) *)
+| WTIf:
+    forall env e1 e2 e3 t,
+      typed env e1 TBool ->
+      typed env e2 t ->
+      typed env e3 t ->
+      typed env (If e1 e2 e3) t
+| WTFix:
+    forall env e t,
+      typed env e (TFun t t) ->
+      typed env (Fix e) t
+| WTPair:
+    forall env e1 e2 t1 t2,
+      typed env e1 t1 -> (* e1 has type t1 *)
+      typed env e2 t2 -> (* e2 has type t2 *)
+      typed env (Pair e1 e2) (TProd t1 t2) (* the pair of e1 and e2 has type e1*e2 *)
+| WTFst:
+    forall env e t1 t2,
+      typed env e (TProd t1 t2) ->
+      typed env (Fst e) t1
+| WTSnd:
+    forall env e t1 t2,
+      typed env e (TProd t1 t2) ->
+      typed env (Snd e) t2
+| WTMatch:
+    forall env e x1 e1 x2 e2 t1 t2 t3,
+      typed env e (TSum t1 t2) ->
+      typed (extend env x1 t1) e1 t3 ->
+      typed (extend env x2 t2) e2 t3 ->
+      typed env (Match e x1 e1 x2 e2) t3
+| WTInjL:
+    forall env e t1 t2,
+      typed env e t1 ->
+      typed env (InjL e t2) (TSum t1 t2)
+| WTInjR:
+    forall env e t1 t2,
+      typed env e t2 ->
+      typed env (InjR e t1) (TSum t1 t2).
+
+(**
+
+Problem 1:
+
+Write a function to determine if an expression is well-typed.
+
+NOTE: you will need to define some helper functions!
+
+(ours took about 80 lines of code)
+*)
+Definition typ_eq :
+  forall t1 t2 : typ,
+    {t1 = t2} + {t1 <> t2}.
+Proof.
+  decide equality.
+Qed.
+
+Fixpoint typ_eq1 (tA: typ) (tB: typ) : bool :=
+  match tA, tB with
+  | TStr, TStr => true
+  | TBool, TBool => true
+  | TInt, TInt => true
+
+  | TFun tA tB, TFun tC tD => 
+    match (typ_eq1 tA tC) with
+      | true => typ_eq1 tB tD 
+      | false => false
+    end
+
+  | TProd tA tB, TProd tC tD =>
+    match (typ_eq1 tA tC) with
+      | true => typ_eq1 tB tD 
+      | false => false
+    end
+
+  | TSum tA tB, TSum tC tD => 
+    match (typ_eq1 tA tC) with
+      | true => typ_eq1 tB tD 
+      | false => false
+    end
+
+  | _, _ => false
+end.
+
+(* should be false *)
+Eval cbv in (typ_eq1 TBool TStr).
+Eval cbv in (typ_eq1 (TFun TStr TStr) (TFun TStr TBool)).
+Eval cbv in (typ_eq1 (TProd TStr TStr) (TProd TStr TBool)).
+
+(* should be true *)
+Eval cbv in (typ_eq1 (TFun TStr TStr) (TFun TStr TStr)).
+Eval cbv in (typ_eq1 TStr TStr).
+Eval cbv in (typ_eq1 TBool TBool).
+  
+
+Eval cbv in (typ_eq TBool TStr).
+Eval cbv in (typ_eq TBool TStr).
+
+Definition bool_typ_eq (t1:typ) (t2:typ) : bool :=
+  match typ_eq t1 t2 with
+  | left t1 => true
+  | right t2 => false
+  end.
+
+Eval cbv in (bool_typ_eq TBool TStr).
+
+
+Fixpoint type_check_rec (e:expr) (en: env): option typ :=
+  match e with
+  | Str s => Some TStr
+  | Bool b => Some TBool
+  | Int i => Some TInt
+  | Var v => 
+    match en v with
+    | Some t => Some t
+    | _ => None
+    end
+  | App e1 e2 =>
+    match type_check_rec e2 en with
+    | Some tA => 
+      match type_check_rec e1 en with
+      | Some (TFun tC tB) => 
+        match typ_eq1 tA tC with
+        | true => Some tB
+        | _ => None
+        end
+      |_ => None
+      end
+    | _ => None
+    end
+  | Lam x tA e1 =>
+    match type_check_rec e1 (extend en x tA) with
+    | Some tB => Some (TFun tA tB)
+    | _ => None
+    end
+
+  | Pair e1 e2 =>
+    match type_check_rec e1 en with
+      | Some tA =>
+        match type_check_rec e2 en with
+          | Some tB => Some (TProd tA tB)
+          | _ => None
+        end
+      | _ => None
+    end
+
+  | If e1 e2 e3 =>
+    match type_check_rec e1 en with
+    | Some TBool =>
+      match type_check_rec e2 en with
+      | Some t1 =>
+        match type_check_rec e3 en with 
+        | Some t2 => 
+          match typ_eq1 t1 t2 with
+            | true => Some t1
+            | _ => None
+          end
+        | _ => None
+        end
+      | _ => None
+      end
+    | _ => None
+    end
+
+  | Fst e1 =>
+    match type_check_rec e1 en with
+    | Some (TProd t1 t2) => Some t1
+    | _ => None
+    end
+  | Snd e1 =>
+    match type_check_rec e1 en with
+    | Some (TProd t1 t2) => Some t2
+    | _ => None
+    end
+  | Match ep x1 e1 x2 e2 =>
+    match type_check_rec ep en with
+    | Some (TSum t1 t2) =>
+      match type_check_rec e1 (extend en x1 t1) with 
+      | Some t3 =>
+        match type_check_rec e2 (extend en x2 t2) with 
+        | Some t4 =>
+          match typ_eq1 t3 t4 with
+            | true => Some t3
+            | _ => None
+          end
+        | _ => None
+        end
+      | _ => None
+      end
+    | _ => None
+    end
+  | InjL e1 t2 =>
+    match type_check_rec e1 en with
+    | Some t1 => Some (TSum t1 t2)
+    | _ => None
+    end
+  | InjR e1 t1 =>
+    match type_check_rec e1 en with
+    | Some t2 => Some (TSum t1 t2)
+    | _ => None
+    end
+  | Fix e1 => 
+    match type_check_rec e1 en with
+    | Some (TFun t1 t2) => 
+      match typ_eq1 t1 t2 with
+       | true => Some t1
+       | _ => None
+      end
+    | _ => None
+    end
+  end.
+
+Definition type_check (e: expr) : bool :=
+  match type_check_rec e E0 with
+  | Some t => true
+  | _ => false
+  end.
+
+(*Eval cbv in my_typ_eq TInt TStr.*)
+
+Eval cbv in type_check_rec 
+(If (Bool true) (Str "y") (Int 12)) E0. (* None *)
+
+Eval cbv in type_check_rec 
+(If (Str "y") (Str "y") (Str "x")) E0. (* None *)
+
+Eval cbv in type_check_rec 
+(If (Bool true) (Str "y") (Str "x")) E0. (* Some TStr *)
+
+Eval cbv in type_check((Lam "x" TInt (Str "s"))). (* true *)
+Eval cbv in type_check(If (Bool true) (Str "x") (Bool false)). (* false *)
+
+(*
+  | WTBool => false
+  | WTInt => false
+  | WTVar => false
+  | WTApp => false
+  | WTLam => false
+  | WTIf => false
+  | WTFix => false
+  | WTPair => false
+  | WTFst => false
+  | WTSnd => false
+  | WTMatch => false
+  | WTInjL => false
+  | WTInjR => false
+  end.
+*)
+(*
+  match typed e with
+
+  | WTStr: false
+  | WTBool: false
+  | WTInt: false
+  | WTVar: false
+  | WTApp: false
+  | WTLam: false
+  | WTIf: false
+  | WTFix: false
+  | WTPair: false
+  | WTFst: false
+  | WTSnd: false
+  | WTMatch: false
+  | WTInjL: false
+  | WTInjR: false
+  end.
+*)
+
+(*
+
+Problem 2:
+
+Prove that if your type checker returns true,
+then there is a typing derivation for the expression.
+
+(ours took about 10 tactics)
+*)
+
+Lemma foo:
+  forall e tA E,
+    type_check_rec e E = Some tA ->
+    typed E e tA.
+Proof.
+  induction e.
+  + admit.
+  + admit.
+  + admit.
+  + admit.
+  + simpl in *.
+  break_match; try discriminate.
+  break_match; try discriminate.
+  break_match; try discriminate.
+  break_match; try discriminate.
+  admit.
+  + simpl in *.
+  break_match; try discriminate.
+  intuition.
+  inversion H. rewrite H1. inversion Heqo. 
+Admitted.
+
+
+Lemma check_ok:
+  forall e,
+    type_check e = true ->
+    exists t, typed E0 e t.
+Proof.
+  unfold type_check. intro foo2.
+  break_match; try discriminate.
+  intuition. exists t. apply foo. apply Heqo. 
+Qed.
+
+(**
+
+Problem 3:
+
+Prove that if there is a typing derivation for the
+expression, then your type checker will return true.
+
+(ours took about 10 tactics)
+*)
+
+Lemma check_complete:
+  forall e t,
+    typed E0 e t ->
+    type_check e = true.
+Proof.
+  (** TODO: complete this proof *)
+Admitted.

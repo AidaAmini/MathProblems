@@ -1,0 +1,14 @@
+1
+[['note', '13', 'note', '-', '-', 'dollar', '155'], ['5-dollar note', 'x1', '-', 'dollar', '5', '-', '-'], ['20-dollar note', 'x2', '-', 'dollar', '20', '-', '-']]
+-1
+[['note', '13', 'note', '20', '-', 'dollar', '155'], ['5-dollar note', 'x1', '-', 'dollar', '5', '-', '-'], ['155', 'x2', '-', 'dollar', '20', '13', '-']]
+-1
+[['note', '13', 'note', '-', 'x2', 'dollar', '20-dollar note'], ['5-dollar note', 'x1', '-', 'dollar', '5', '-', '-'], ['note', 'x2', '-', 'dollar', '20-dollar note', '13', '-']]
+-1
+[['note', '13', 'note', 'x2', '20-dollar note', '-', '155'], ['5-dollar note', 'x1', '-', 'dollar', '5', '-', '-'], ['13', 'x2', '-', 'dollar', '20', '155', '-']]
+-1
+[['20', '155', 'note', '-', '-', 'dollar', '20-dollar note'], ['5-dollar note', 'x1', '-', 'dollar', '5', '-', '-'], ['20-dollar note', 'note', '-', 'dollar', '20', '155', '13']]
+-1
+[['note', '20', 'note', '-', '-', 'dollar', '155'], ['5-dollar note', 'x1', '-', 'dollar', '5', '-', '-'], ['20-dollar note', 'x2', '155', 'dollar', '20', '-', 'note']]
+-1
+[['note', '13', 'note', '-', 'x2', 'dollar', '155'], ['5-dollar note', 'x1', '-', 'dollar', '5', '-', '-'], ['dollar', 'x2', '-', 'note', '20', '-', '155']]

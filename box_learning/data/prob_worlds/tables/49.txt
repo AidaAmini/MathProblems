@@ -1,0 +1,14 @@
+1
+[['room', '260', 'room', '-', '-', 'dollar', '14000'], ['single room', 'x1', '-', 'dollar', '35', '-', '-'], ['double room', 'x2', '-', 'dollar', '60', '-', '-']]
+-1
+[['room', '260', 'room', '-', '-', 'dollar', '14000'], ['single room', 'x1', '-', 'dollar', '35', '-', '-'], ['260', '14000', '-', 'dollar', '60', '-', 'room']]
+-1
+[['room', '260', 'room', 'x2', '-', 'dollar', 'double room'], ['single room', 'x1', '-', 'dollar', '35', '-', '-'], ['double room', 'x2', '-', 'room', '60', '260', '-']]
+-1
+[['room', '260', '-', '60', 'x2', 'dollar', '14000'], ['single room', 'x1', '-', 'dollar', '35', '-', '-'], ['room', '260', '-', 'dollar', '60', 'x2', '-']]
+-1
+[['x2', '260', 'room', '-', '-', 'dollar', '60'], ['single room', 'x1', '-', 'dollar', '35', '-', '-'], ['room', '260', '-', 'dollar', '60', '-', '-']]
+-1
+[['x2', '260', '60', '-', '-', 'dollar', 'double room'], ['single room', 'x1', '-', 'dollar', '35', '-', '-'], ['60', 'x2', '-', 'dollar', '260', '-', '-']]
+-1
+[['60', '260', 'room', '-', '-', 'dollar', 'double room'], ['single room', 'x1', '-', 'dollar', '35', '-', '-'], ['double room', 'x2', '-', 'dollar', '60', '-', '-']]

@@ -1,0 +1,1384 @@
+['safety rent-a-car', 'intermediate-size car', 'daily rate', 'rate', '21.95 dollar', '0.19', 'mile', 'city rental', 'dollar', '18.95 dollar', '0.21', 'milage']
+['safety rent-a-car']	['intermediate-size car']	0.0897823390711
+['safety rent-a-car']	['daily rate']	0.0800317642921
+['safety rent-a-car']	['rate']	0.0744376594044
+['safety rent-a-car']	['21.95 dollar']	0.0901100077042
+['safety rent-a-car']	['0.19']	0.0888375395985
+['safety rent-a-car']	['mile']	0.00424649792755
+['safety rent-a-car']	['city rental']	0.0854147342737
+['safety rent-a-car']	['dollar']	0.0132263547461
+['safety rent-a-car']	['18.95 dollar']	0.0901100077042
+['safety rent-a-car']	['0.21']	0.0888375395985
+['safety rent-a-car']	['milage']	0.0777864840342
+['intermediate-size car']	['daily rate']	0.0737139440912
+['intermediate-size car']	['rate']	0.0690378963307
+['intermediate-size car']	['21.95 dollar']	0.0737139440912
+['intermediate-size car']	['0.19']	0.0690699689286
+['intermediate-size car']	['mile']	0.00340088629102
+['intermediate-size car']	['city rental']	0.0737139440912
+['intermediate-size car']	['dollar']	0.0106028278734
+['intermediate-size car']	['18.95 dollar']	0.0737139440912
+['intermediate-size car']	['0.21']	0.0690699689286
+['intermediate-size car']	['milage']	0.0690378963307
+['daily rate']	['21.95 dollar']	0.0901100077042
+['daily rate']	['0.19']	0.0888375395985
+['daily rate']	['mile']	0.00424649792755
+['daily rate']	['city rental']	0.0827346205535
+['daily rate']	['dollar']	0.0143499502517
+['daily rate']	['18.95 dollar']	0.0901100077042
+['daily rate']	['0.21']	0.0888375395985
+['daily rate']	['milage']	0.0744376594044
+['rate']	['21.95 dollar']	0.0793857959237
+['rate']	['0.19']	0.0922858731158
+['rate']	['mile']	0.0139094119839
+['rate']	['city rental']	0.0901100077042
+['rate']	['dollar']	0.0348865190937
+['rate']	['18.95 dollar']	0.0793857959237
+['rate']	['0.21']	0.0922858731158
+['rate']	['milage']	0.0922858731158
+['21.95 dollar']	['0.19']	0.0888375395985
+['21.95 dollar']	['mile']	0.0077840051964
+['21.95 dollar']	['city rental']	0.0901100077042
+['21.95 dollar']	['18.95 dollar']	0.643440930505
+['21.95 dollar']	['0.21']	0.0888375395985
+['21.95 dollar']	['milage']	0.0800606621439
+['0.19']	['mile']	0.0108687908977
+['0.19']	['city rental']	0.0901100077042
+['0.19']	['dollar']	0.0212464283393
+['0.19']	['18.95 dollar']	0.0901100077042
+['0.19']	['0.21']	0.0922858731158
+['0.19']	['milage']	0.0922858731158
+['mile']	['city rental']	0.00424565569655
+['mile']	['dollar']	0.0061631295492
+['mile']	['18.95 dollar']	0.0172568074531
+['mile']	['0.21']	0.00561464473635
+['mile']	['milage']	0.00561464473635
+['city rental']	['dollar']	0.0132263547461
+['city rental']	['18.95 dollar']	0.0901100077042
+['city rental']	['0.21']	0.0888375395985
+['city rental']	['milage']	0.0744376594044
+['dollar']	['0.21']	0.0160617729791
+['dollar']	['milage']	0.0160617729791
+['18.95 dollar']	['0.21']	0.0888375395985
+['18.95 dollar']	['milage']	0.0800606621439
+['0.21']	['milage']	0.0922858731158
+['intermediate-size car', 'safety rent-a-car']	['daily rate']	0.0703393045902
+['intermediate-size car', 'safety rent-a-car']	['rate']	0.0653826247062
+['intermediate-size car', 'safety rent-a-car']	['21.95 dollar']	0.0737139440912
+['intermediate-size car', 'safety rent-a-car']	['0.19']	0.0690699689286
+['intermediate-size car', 'safety rent-a-car']	['mile']	0.00222717737084
+['intermediate-size car', 'safety rent-a-car']	['city rental']	0.074092754852
+['intermediate-size car', 'safety rent-a-car']	['dollar']	0.0106028278734
+['intermediate-size car', 'safety rent-a-car']	['18.95 dollar']	0.0737139440912
+['intermediate-size car', 'safety rent-a-car']	['0.21']	0.0690699689286
+['intermediate-size car', 'safety rent-a-car']	['milage']	0.0667637182209
+['daily rate', 'safety rent-a-car']	['intermediate-size car']	0.0897823390711
+['daily rate', 'safety rent-a-car']	['rate']	0.769077240229
+['daily rate', 'safety rent-a-car']	['21.95 dollar']	0.0901100077042
+['daily rate', 'safety rent-a-car']	['0.19']	0.0888375395985
+['daily rate', 'safety rent-a-car']	['mile']	0.00424649792755
+['daily rate', 'safety rent-a-car']	['city rental']	0.083785214554
+['daily rate', 'safety rent-a-car']	['dollar']	0.0143499502517
+['daily rate', 'safety rent-a-car']	['18.95 dollar']	0.0901100077042
+['daily rate', 'safety rent-a-car']	['0.21']	0.0888375395985
+['daily rate', 'safety rent-a-car']	['milage']	0.0744376594044
+['rate', 'safety rent-a-car']	['intermediate-size car']	0.0897823390711
+['rate', 'safety rent-a-car']	['daily rate']	0.837463240839
+['rate', 'safety rent-a-car']	['21.95 dollar']	0.0827346205535
+['rate', 'safety rent-a-car']	['0.19']	0.1191315107
+['rate', 'safety rent-a-car']	['mile']	0.203974190213
+['rate', 'safety rent-a-car']	['city rental']	0.0871340391838
+['rate', 'safety rent-a-car']	['dollar']	0.319628675467
+['rate', 'safety rent-a-car']	['18.95 dollar']	0.0827346205535
+['rate', 'safety rent-a-car']	['0.21']	0.1191315107
+['rate', 'safety rent-a-car']	['milage']	0.110354633245
+['21.95 dollar', 'safety rent-a-car']	['intermediate-size car']	0.0897823390711
+['21.95 dollar', 'safety rent-a-car']	['daily rate']	0.0833805889219
+['21.95 dollar', 'safety rent-a-car']	['rate']	0.0744376594044
+['21.95 dollar', 'safety rent-a-car']	['0.19']	0.0888375395985
+['21.95 dollar', 'safety rent-a-car']	['mile']	0.017587926765
+['21.95 dollar', 'safety rent-a-car']	['city rental']	0.0871340391838
+['21.95 dollar', 'safety rent-a-car']	['dollar']	0.35398468851
+['21.95 dollar', 'safety rent-a-car']	['18.95 dollar']	0.584269096576
+['21.95 dollar', 'safety rent-a-car']	['0.21']	0.0888375395985
+['21.95 dollar', 'safety rent-a-car']	['milage']	0.0777864840342
+['0.19', 'safety rent-a-car']	['intermediate-size car']	0.0897823390711
+['0.19', 'safety rent-a-car']	['daily rate']	0.0833805889219
+['0.19', 'safety rent-a-car']	['rate']	0.107005808615
+['0.19', 'safety rent-a-car']	['21.95 dollar']	0.0901100077042
+['0.19', 'safety rent-a-car']	['mile']	0.00500216543384
+['0.19', 'safety rent-a-car']	['city rental']	0.0871340391838
+['0.19', 'safety rent-a-car']	['dollar']	0.0150383602805
+['0.19', 'safety rent-a-car']	['18.95 dollar']	0.0901100077042
+['0.19', 'safety rent-a-car']	['0.21']	0.1191315107
+['0.19', 'safety rent-a-car']	['milage']	0.110354633245
+['mile', 'safety rent-a-car']	['intermediate-size car']	0.0199229782255
+['mile', 'safety rent-a-car']	['daily rate']	0.0160064194205
+['mile', 'safety rent-a-car']	['rate']	0.270296452143
+['mile', 'safety rent-a-car']	['21.95 dollar']	0.0221369896995
+['mile', 'safety rent-a-car']	['0.19']	0.0164595524146
+['mile', 'safety rent-a-car']	['city rental']	0.0154105889865
+['mile', 'safety rent-a-car']	['dollar']	0.231227712262
+['mile', 'safety rent-a-car']	['18.95 dollar']	0.0221369896995
+['mile', 'safety rent-a-car']	['0.21']	0.0164595524146
+['mile', 'safety rent-a-car']	['milage']	0.0152537708965
+['city rental', 'safety rent-a-car']	['intermediate-size car']	0.0897823390711
+['city rental', 'safety rent-a-car']	['daily rate']	0.0833805889219
+['city rental', 'safety rent-a-car']	['rate']	0.0829886173223
+['city rental', 'safety rent-a-car']	['21.95 dollar']	0.0901100077042
+['city rental', 'safety rent-a-car']	['0.19']	0.0888375395985
+['city rental', 'safety rent-a-car']	['mile']	0.00424649792755
+['city rental', 'safety rent-a-car']	['dollar']	0.0132263547461
+['city rental', 'safety rent-a-car']	['18.95 dollar']	0.0901100077042
+['city rental', 'safety rent-a-car']	['0.21']	0.0888375395985
+['city rental', 'safety rent-a-car']	['milage']	0.0777864840342
+['dollar', 'safety rent-a-car']	['intermediate-size car']	0.0421463435009
+['dollar', 'safety rent-a-car']	['daily rate']	0.0368701550083
+['dollar', 'safety rent-a-car']	['rate']	0.471573052869
+['dollar', 'safety rent-a-car']	['21.95 dollar']	0.423574257389
+['dollar', 'safety rent-a-car']	['0.19']	0.0359411267535
+['dollar', 'safety rent-a-car']	['mile']	0.231227712262
+['dollar', 'safety rent-a-car']	['city rental']	0.0406236052701
+['dollar', 'safety rent-a-car']	['18.95 dollar']	0.423574257389
+['dollar', 'safety rent-a-car']	['0.21']	0.0359411267535
+['dollar', 'safety rent-a-car']	['milage']	0.0336002518467
+['18.95 dollar', 'safety rent-a-car']	['intermediate-size car']	0.0897823390711
+['18.95 dollar', 'safety rent-a-car']	['daily rate']	0.0833805889219
+['18.95 dollar', 'safety rent-a-car']	['rate']	0.0744376594044
+['18.95 dollar', 'safety rent-a-car']	['21.95 dollar']	0.584269096576
+['18.95 dollar', 'safety rent-a-car']	['0.19']	0.0888375395985
+['18.95 dollar', 'safety rent-a-car']	['mile']	0.017587926765
+['18.95 dollar', 'safety rent-a-car']	['city rental']	0.0871340391838
+['18.95 dollar', 'safety rent-a-car']	['dollar']	0.35398468851
+['18.95 dollar', 'safety rent-a-car']	['0.21']	0.0888375395985
+['18.95 dollar', 'safety rent-a-car']	['milage']	0.0777864840342
+['0.21', 'safety rent-a-car']	['intermediate-size car']	0.0897823390711
+['0.21', 'safety rent-a-car']	['daily rate']	0.0833805889219
+['0.21', 'safety rent-a-car']	['rate']	0.107005808615
+['0.21', 'safety rent-a-car']	['21.95 dollar']	0.0901100077042
+['0.21', 'safety rent-a-car']	['0.19']	0.1191315107
+['0.21', 'safety rent-a-car']	['mile']	0.00500216543384
+['0.21', 'safety rent-a-car']	['city rental']	0.0871340391838
+['0.21', 'safety rent-a-car']	['dollar']	0.0150383602805
+['0.21', 'safety rent-a-car']	['18.95 dollar']	0.0901100077042
+['0.21', 'safety rent-a-car']	['milage']	0.110354633245
+['milage', 'safety rent-a-car']	['intermediate-size car']	0.0824069519204
+['milage', 'safety rent-a-car']	['daily rate']	0.0800317642921
+['milage', 'safety rent-a-car']	['rate']	0.107005808615
+['milage', 'safety rent-a-car']	['21.95 dollar']	0.0827346205535
+['milage', 'safety rent-a-car']	['0.19']	0.1191315107
+['milage', 'safety rent-a-car']	['mile']	0.00500216543384
+['milage', 'safety rent-a-car']	['city rental']	0.083785214554
+['milage', 'safety rent-a-car']	['dollar']	0.0150383602805
+['milage', 'safety rent-a-car']	['18.95 dollar']	0.0827346205535
+['milage', 'safety rent-a-car']	['0.21']	0.1191315107
+['safety rent-a-car', 'intermediate-size car']	['daily rate']	0.0703393045902
+['safety rent-a-car', 'intermediate-size car']	['rate']	0.0653826247062
+['safety rent-a-car', 'intermediate-size car']	['21.95 dollar']	0.0737139440912
+['safety rent-a-car', 'intermediate-size car']	['0.19']	0.0690699689286
+['safety rent-a-car', 'intermediate-size car']	['mile']	0.00222717737084
+['safety rent-a-car', 'intermediate-size car']	['city rental']	0.074092754852
+['safety rent-a-car', 'intermediate-size car']	['dollar']	0.0106028278734
+['safety rent-a-car', 'intermediate-size car']	['18.95 dollar']	0.0737139440912
+['safety rent-a-car', 'intermediate-size car']	['0.21']	0.0690699689286
+['safety rent-a-car', 'intermediate-size car']	['milage']	0.0667637182209
+['daily rate', 'intermediate-size car']	['safety rent-a-car']	0.0703393045902
+['daily rate', 'intermediate-size car']	['rate']	0.728381201422
+['daily rate', 'intermediate-size car']	['21.95 dollar']	0.0737139440912
+['daily rate', 'intermediate-size car']	['0.19']	0.0690699689286
+['daily rate', 'intermediate-size car']	['mile']	0.00222717737084
+['daily rate', 'intermediate-size car']	['city rental']	0.0696933362217
+['daily rate', 'intermediate-size car']	['dollar']	0.0106028278734
+['daily rate', 'intermediate-size car']	['18.95 dollar']	0.0737139440912
+['daily rate', 'intermediate-size car']	['0.21']	0.0690699689286
+['daily rate', 'intermediate-size car']	['milage']	0.0667637182209
+['rate', 'intermediate-size car']	['safety rent-a-car']	0.0703393045902
+['rate', 'intermediate-size car']	['daily rate']	0.790718027627
+['rate', 'intermediate-size car']	['21.95 dollar']	0.0696933362217
+['rate', 'intermediate-size car']	['0.19']	0.0993639400298
+['rate', 'intermediate-size car']	['mile']	0.176682257717
+['rate', 'intermediate-size car']	['city rental']	0.0737139440912
+['rate', 'intermediate-size car']	['dollar']	0.345554601393
+['rate', 'intermediate-size car']	['18.95 dollar']	0.0696933362217
+['rate', 'intermediate-size car']	['0.21']	0.0993639400298
+['rate', 'intermediate-size car']	['milage']	0.0993318674318
+['21.95 dollar', 'intermediate-size car']	['safety rent-a-car']	0.0737139440912
+['21.95 dollar', 'intermediate-size car']	['daily rate']	0.0737139440912
+['21.95 dollar', 'intermediate-size car']	['rate']	0.0667637182209
+['21.95 dollar', 'intermediate-size car']	['0.19']	0.0690699689286
+['21.95 dollar', 'intermediate-size car']	['mile']	0.00576468463969
+['21.95 dollar', 'intermediate-size car']	['city rental']	0.0737139440912
+['21.95 dollar', 'intermediate-size car']	['dollar']	0.323372693412
+['21.95 dollar', 'intermediate-size car']	['18.95 dollar']	0.544221442934
+['21.95 dollar', 'intermediate-size car']	['0.21']	0.0690699689286
+['21.95 dollar', 'intermediate-size car']	['milage']	0.0690378963307
+['0.19', 'intermediate-size car']	['safety rent-a-car']	0.0737139440912
+['0.19', 'intermediate-size car']	['daily rate']	0.0737139440912
+['0.19', 'intermediate-size car']	['rate']	0.0993318674318
+['0.19', 'intermediate-size car']	['21.95 dollar']	0.0737139440912
+['0.19', 'intermediate-size car']	['mile']	0.00415655379732
+['0.19', 'intermediate-size car']	['city rental']	0.0737139440912
+['0.19', 'intermediate-size car']	['dollar']	0.0124148334078
+['0.19', 'intermediate-size car']	['18.95 dollar']	0.0737139440912
+['0.19', 'intermediate-size car']	['0.21']	0.0993639400298
+['0.19', 'intermediate-size car']	['milage']	0.0993318674318
+['mile', 'intermediate-size car']	['safety rent-a-car']	0.0774382987339
+['mile', 'intermediate-size car']	['daily rate']	0.0774382987339
+['mile', 'intermediate-size car']	['rate']	0.315338539685
+['mile', 'intermediate-size car']	['21.95 dollar']	0.0787871379671
+['mile', 'intermediate-size car']	['0.19']	0.0785374000965
+['mile', 'intermediate-size car']	['city rental']	0.0774382987339
+['mile', 'intermediate-size car']	['dollar']	0.264561045596
+['mile', 'intermediate-size car']	['18.95 dollar']	0.0787871379671
+['mile', 'intermediate-size car']	['0.21']	0.0785374000965
+['mile', 'intermediate-size car']	['milage']	0.0785053274985
+['city rental', 'intermediate-size car']	['safety rent-a-car']	0.074092754852
+['city rental', 'intermediate-size car']	['daily rate']	0.0696933362217
+['city rental', 'intermediate-size car']	['rate']	0.0634148935911
+['city rental', 'intermediate-size car']	['21.95 dollar']	0.0737139440912
+['city rental', 'intermediate-size car']	['0.19']	0.0690699689286
+['city rental', 'intermediate-size car']	['mile']	0.00222717737084
+['city rental', 'intermediate-size car']	['dollar']	0.0106028278734
+['city rental', 'intermediate-size car']	['18.95 dollar']	0.0737139440912
+['city rental', 'intermediate-size car']	['0.21']	0.0690699689286
+['city rental', 'intermediate-size car']	['milage']	0.0667637182209
+['dollar', 'intermediate-size car']	['safety rent-a-car']	0.0982347768443
+['dollar', 'intermediate-size car']	['daily rate']	0.0982347768443
+['dollar', 'intermediate-size car']	['rate']	0.509140475527
+['dollar', 'intermediate-size car']	['21.95 dollar']	0.423574257389
+['dollar', 'intermediate-size car']	['0.19']	0.0980189744354
+['dollar', 'intermediate-size car']	['mile']	0.264561045596
+['dollar', 'intermediate-size car']	['city rental']	0.0982347768443
+['dollar', 'intermediate-size car']	['18.95 dollar']	0.423574257389
+['dollar', 'intermediate-size car']	['0.21']	0.0980189744354
+['dollar', 'intermediate-size car']	['milage']	0.0956780995286
+['18.95 dollar', 'intermediate-size car']	['safety rent-a-car']	0.0737139440912
+['18.95 dollar', 'intermediate-size car']	['daily rate']	0.0737139440912
+['18.95 dollar', 'intermediate-size car']	['rate']	0.0667637182209
+['18.95 dollar', 'intermediate-size car']	['21.95 dollar']	0.544221442934
+['18.95 dollar', 'intermediate-size car']	['0.19']	0.0690699689286
+['18.95 dollar', 'intermediate-size car']	['mile']	0.00576468463969
+['18.95 dollar', 'intermediate-size car']	['city rental']	0.0737139440912
+['18.95 dollar', 'intermediate-size car']	['dollar']	0.323372693412
+['18.95 dollar', 'intermediate-size car']	['0.21']	0.0690699689286
+['18.95 dollar', 'intermediate-size car']	['milage']	0.0690378963307
+['0.21', 'intermediate-size car']	['safety rent-a-car']	0.0737139440912
+['0.21', 'intermediate-size car']	['daily rate']	0.0737139440912
+['0.21', 'intermediate-size car']	['rate']	0.0993318674318
+['0.21', 'intermediate-size car']	['21.95 dollar']	0.0737139440912
+['0.21', 'intermediate-size car']	['0.19']	0.0993639400298
+['0.21', 'intermediate-size car']	['mile']	0.00415655379732
+['0.21', 'intermediate-size car']	['city rental']	0.0737139440912
+['0.21', 'intermediate-size car']	['dollar']	0.0124148334078
+['0.21', 'intermediate-size car']	['18.95 dollar']	0.0737139440912
+['0.21', 'intermediate-size car']	['milage']	0.0993318674318
+['milage', 'intermediate-size car']	['safety rent-a-car']	0.0696933362217
+['milage', 'intermediate-size car']	['daily rate']	0.0880779980575
+['milage', 'intermediate-size car']	['rate']	0.0993318674318
+['milage', 'intermediate-size car']	['21.95 dollar']	0.0696933362217
+['milage', 'intermediate-size car']	['0.19']	0.0993639400298
+['milage', 'intermediate-size car']	['mile']	0.00415655379732
+['milage', 'intermediate-size car']	['city rental']	0.0696933362217
+['milage', 'intermediate-size car']	['dollar']	0.0124148334078
+['milage', 'intermediate-size car']	['18.95 dollar']	0.0696933362217
+['milage', 'intermediate-size car']	['0.21']	0.0993639400298
+['safety rent-a-car', 'daily rate']	['intermediate-size car']	0.0897823390711
+['safety rent-a-car', 'daily rate']	['rate']	0.769077240229
+['safety rent-a-car', 'daily rate']	['21.95 dollar']	0.0901100077042
+['safety rent-a-car', 'daily rate']	['0.19']	0.0888375395985
+['safety rent-a-car', 'daily rate']	['mile']	0.00424649792755
+['safety rent-a-car', 'daily rate']	['city rental']	0.083785214554
+['safety rent-a-car', 'daily rate']	['dollar']	0.0143499502517
+['safety rent-a-car', 'daily rate']	['18.95 dollar']	0.0901100077042
+['safety rent-a-car', 'daily rate']	['0.21']	0.0888375395985
+['safety rent-a-car', 'daily rate']	['milage']	0.0744376594044
+['intermediate-size car', 'daily rate']	['safety rent-a-car']	0.0703393045902
+['intermediate-size car', 'daily rate']	['rate']	0.728381201422
+['intermediate-size car', 'daily rate']	['21.95 dollar']	0.0737139440912
+['intermediate-size car', 'daily rate']	['0.19']	0.0690699689286
+['intermediate-size car', 'daily rate']	['mile']	0.00222717737084
+['intermediate-size car', 'daily rate']	['city rental']	0.0696933362217
+['intermediate-size car', 'daily rate']	['dollar']	0.0106028278734
+['intermediate-size car', 'daily rate']	['18.95 dollar']	0.0737139440912
+['intermediate-size car', 'daily rate']	['0.21']	0.0690699689286
+['intermediate-size car', 'daily rate']	['milage']	0.0667637182209
+['rate', 'daily rate']	['safety rent-a-car']	0.235828704155
+['rate', 'daily rate']	['intermediate-size car']	0.156056404162
+['rate', 'daily rate']	['21.95 dollar']	0.237223524492
+['rate', 'daily rate']	['0.19']	0.334450854515
+['rate', 'daily rate']	['mile']	0.350847687086
+['rate', 'daily rate']	['city rental']	0.14589133531
+['rate', 'daily rate']	['dollar']	0.446476662307
+['rate', 'daily rate']	['18.95 dollar']	0.237223524492
+['rate', 'daily rate']	['0.21']	0.334450854515
+['rate', 'daily rate']	['milage']	0.37370815508
+['21.95 dollar', 'daily rate']	['safety rent-a-car']	0.0833805889219
+['21.95 dollar', 'daily rate']	['intermediate-size car']	0.0897823390711
+['21.95 dollar', 'daily rate']	['rate']	0.769077240229
+['21.95 dollar', 'daily rate']	['0.19']	0.0888375395985
+['21.95 dollar', 'daily rate']	['mile']	0.0077840051964
+['21.95 dollar', 'daily rate']	['city rental']	0.0827346205535
+['21.95 dollar', 'daily rate']	['dollar']	0.483545532435
+['21.95 dollar', 'daily rate']	['18.95 dollar']	0.584269096576
+['21.95 dollar', 'daily rate']	['0.21']	0.0888375395985
+['21.95 dollar', 'daily rate']	['milage']	0.0764053905195
+['0.19', 'daily rate']	['safety rent-a-car']	0.0833805889219
+['0.19', 'daily rate']	['intermediate-size car']	0.0897823390711
+['0.19', 'daily rate']	['rate']	0.818537609729
+['0.19', 'daily rate']	['21.95 dollar']	0.0901100077042
+['0.19', 'daily rate']	['mile']	0.00500216543384
+['0.19', 'daily rate']	['city rental']	0.0827346205535
+['0.19', 'daily rate']	['dollar']	0.015105617758
+['0.19', 'daily rate']	['18.95 dollar']	0.0901100077042
+['0.19', 'daily rate']	['0.21']	0.1191315107
+['0.19', 'daily rate']	['milage']	0.107005808615
+['mile', 'daily rate']	['safety rent-a-car']	0.0160064194205
+['mile', 'daily rate']	['intermediate-size car']	0.0199229782255
+['mile', 'daily rate']	['rate']	0.493080320089
+['mile', 'daily rate']	['21.95 dollar']	0.0221369896995
+['mile', 'daily rate']	['0.19']	0.0164595524146
+['mile', 'daily rate']	['city rental']	0.015360451052
+['mile', 'daily rate']	['dollar']	0.237444643479
+['mile', 'daily rate']	['18.95 dollar']	0.0221369896995
+['mile', 'daily rate']	['0.21']	0.0164595524146
+['mile', 'daily rate']	['milage']	0.0152537708965
+['city rental', 'daily rate']	['safety rent-a-car']	0.092336172472
+['city rental', 'daily rate']	['intermediate-size car']	0.0897823390711
+['city rental', 'daily rate']	['rate']	0.769077240229
+['city rental', 'daily rate']	['21.95 dollar']	0.0901100077042
+['city rental', 'daily rate']	['0.19']	0.0888375395985
+['city rental', 'daily rate']	['mile']	0.00424649792755
+['city rental', 'daily rate']	['dollar']	0.0143499502517
+['city rental', 'daily rate']	['18.95 dollar']	0.0901100077042
+['city rental', 'daily rate']	['0.21']	0.0888375395985
+['city rental', 'daily rate']	['milage']	0.0744376594044
+['dollar', 'daily rate']	['safety rent-a-car']	0.0368701550083
+['dollar', 'daily rate']	['intermediate-size car']	0.0421463435009
+['dollar', 'daily rate']	['rate']	0.696292217268
+['dollar', 'daily rate']	['21.95 dollar']	0.423574257389
+['dollar', 'daily rate']	['0.19']	0.0359411267535
+['dollar', 'daily rate']	['mile']	0.237444643479
+['dollar', 'daily rate']	['city rental']	0.0361569291624
+['dollar', 'daily rate']	['18.95 dollar']	0.423574257389
+['dollar', 'daily rate']	['0.21']	0.0359411267535
+['dollar', 'daily rate']	['milage']	0.0336675093242
+['18.95 dollar', 'daily rate']	['safety rent-a-car']	0.0833805889219
+['18.95 dollar', 'daily rate']	['intermediate-size car']	0.0897823390711
+['18.95 dollar', 'daily rate']	['rate']	0.769077240229
+['18.95 dollar', 'daily rate']	['21.95 dollar']	0.584269096576
+['18.95 dollar', 'daily rate']	['0.19']	0.0888375395985
+['18.95 dollar', 'daily rate']	['mile']	0.0077840051964
+['18.95 dollar', 'daily rate']	['city rental']	0.0827346205535
+['18.95 dollar', 'daily rate']	['dollar']	0.483545532435
+['18.95 dollar', 'daily rate']	['0.21']	0.0888375395985
+['18.95 dollar', 'daily rate']	['milage']	0.0764053905195
+['0.21', 'daily rate']	['safety rent-a-car']	0.0833805889219
+['0.21', 'daily rate']	['intermediate-size car']	0.0897823390711
+['0.21', 'daily rate']	['rate']	0.818537609729
+['0.21', 'daily rate']	['21.95 dollar']	0.0901100077042
+['0.21', 'daily rate']	['0.19']	0.1191315107
+['0.21', 'daily rate']	['mile']	0.00500216543384
+['0.21', 'daily rate']	['city rental']	0.0827346205535
+['0.21', 'daily rate']	['dollar']	0.015105617758
+['0.21', 'daily rate']	['18.95 dollar']	0.0901100077042
+['0.21', 'daily rate']	['milage']	0.107005808615
+['milage', 'daily rate']	['safety rent-a-car']	0.0800317642921
+['milage', 'daily rate']	['intermediate-size car']	0.0824069519204
+['milage', 'daily rate']	['rate']	0.818537609729
+['milage', 'daily rate']	['21.95 dollar']	0.0827346205535
+['milage', 'daily rate']	['0.19']	0.1191315107
+['milage', 'daily rate']	['mile']	0.00500216543384
+['milage', 'daily rate']	['city rental']	0.0827346205535
+['milage', 'daily rate']	['dollar']	0.015105617758
+['milage', 'daily rate']	['18.95 dollar']	0.0827346205535
+['milage', 'daily rate']	['0.21']	0.1191315107
+['safety rent-a-car', 'rate']	['intermediate-size car']	0.0897823390711
+['safety rent-a-car', 'rate']	['daily rate']	0.837463240839
+['safety rent-a-car', 'rate']	['21.95 dollar']	0.0827346205535
+['safety rent-a-car', 'rate']	['0.19']	0.1191315107
+['safety rent-a-car', 'rate']	['mile']	0.203974190213
+['safety rent-a-car', 'rate']	['city rental']	0.0871340391838
+['safety rent-a-car', 'rate']	['dollar']	0.319628675467
+['safety rent-a-car', 'rate']	['18.95 dollar']	0.0827346205535
+['safety rent-a-car', 'rate']	['0.21']	0.1191315107
+['safety rent-a-car', 'rate']	['milage']	0.110354633245
+['intermediate-size car', 'rate']	['safety rent-a-car']	0.0703393045902
+['intermediate-size car', 'rate']	['daily rate']	0.790718027627
+['intermediate-size car', 'rate']	['21.95 dollar']	0.0696933362217
+['intermediate-size car', 'rate']	['0.19']	0.0993639400298
+['intermediate-size car', 'rate']	['mile']	0.176682257717
+['intermediate-size car', 'rate']	['city rental']	0.0737139440912
+['intermediate-size car', 'rate']	['dollar']	0.345554601393
+['intermediate-size car', 'rate']	['18.95 dollar']	0.0696933362217
+['intermediate-size car', 'rate']	['0.21']	0.0993639400298
+['intermediate-size car', 'rate']	['milage']	0.0993318674318
+['daily rate', 'rate']	['safety rent-a-car']	0.235828704155
+['daily rate', 'rate']	['intermediate-size car']	0.156056404162
+['daily rate', 'rate']	['21.95 dollar']	0.237223524492
+['daily rate', 'rate']	['0.19']	0.334450854515
+['daily rate', 'rate']	['mile']	0.350847687086
+['daily rate', 'rate']	['city rental']	0.14589133531
+['daily rate', 'rate']	['dollar']	0.446476662307
+['daily rate', 'rate']	['18.95 dollar']	0.237223524492
+['daily rate', 'rate']	['0.21']	0.334450854515
+['daily rate', 'rate']	['milage']	0.37370815508
+['21.95 dollar', 'rate']	['safety rent-a-car']	0.0833805889219
+['21.95 dollar', 'rate']	['intermediate-size car']	0.0897823390711
+['21.95 dollar', 'rate']	['daily rate']	0.790746359436
+['21.95 dollar', 'rate']	['0.19']	0.1191315107
+['21.95 dollar', 'rate']	['mile']	0.339953026192
+['21.95 dollar', 'rate']	['city rental']	0.0901100077042
+['21.95 dollar', 'rate']	['dollar']	0.697618080947
+['21.95 dollar', 'rate']	['18.95 dollar']	0.538007739106
+['21.95 dollar', 'rate']	['0.21']	0.1191315107
+['21.95 dollar', 'rate']	['milage']	0.110354633245
+['0.19', 'rate']	['safety rent-a-car']	0.0833805889219
+['0.19', 'rate']	['intermediate-size car']	0.0897823390711
+['0.19', 'rate']	['daily rate']	0.769879150764
+['0.19', 'rate']	['21.95 dollar']	0.0827346205535
+['0.19', 'rate']	['mile']	0.16075044009
+['0.19', 'rate']	['city rental']	0.0901100077042
+['0.19', 'rate']	['dollar']	0.265777820967
+['0.19', 'rate']	['18.95 dollar']	0.0827346205535
+['0.19', 'rate']	['0.21']	0.0922858731158
+['0.19', 'rate']	['milage']	0.0922858731158
+['mile', 'rate']	['safety rent-a-car']	0.0160064194205
+['mile', 'rate']	['intermediate-size car']	0.0199229782255
+['mile', 'rate']	['daily rate']	0.487905830173
+['mile', 'rate']	['21.95 dollar']	0.0241946307602
+['mile', 'rate']	['0.19']	0.0164595524146
+['mile', 'rate']	['city rental']	0.015360451052
+['mile', 'rate']	['dollar']	0.0418153034622
+['mile', 'rate']	['18.95 dollar']	0.0241946307602
+['mile', 'rate']	['0.21']	0.0164595524146
+['mile', 'rate']	['milage']	0.0164595524146
+['city rental', 'rate']	['safety rent-a-car']	0.092336172472
+['city rental', 'rate']	['intermediate-size car']	0.0897823390711
+['city rental', 'rate']	['daily rate']	0.787768406923
+['city rental', 'rate']	['21.95 dollar']	0.0827346205535
+['city rental', 'rate']	['0.19']	0.1191315107
+['city rental', 'rate']	['mile']	0.21019112143
+['city rental', 'rate']	['dollar']	0.325845606684
+['city rental', 'rate']	['18.95 dollar']	0.0827346205535
+['city rental', 'rate']	['0.21']	0.1191315107
+['city rental', 'rate']	['milage']	0.107005808615
+['dollar', 'rate']	['safety rent-a-car']	0.0368701550083
+['dollar', 'rate']	['intermediate-size car']	0.0421463435009
+['dollar', 'rate']	['daily rate']	0.556816051705
+['dollar', 'rate']	['21.95 dollar']	0.534859236591
+['dollar', 'rate']	['0.19']	0.0359411267535
+['dollar', 'rate']	['mile']	0.0394964628825
+['dollar', 'rate']	['city rental']	0.0361569291624
+['dollar', 'rate']	['18.95 dollar']	0.534859236591
+['dollar', 'rate']	['0.21']	0.0359411267535
+['dollar', 'rate']	['milage']	0.0359411267535
+['18.95 dollar', 'rate']	['safety rent-a-car']	0.0833805889219
+['18.95 dollar', 'rate']	['intermediate-size car']	0.0897823390711
+['18.95 dollar', 'rate']	['daily rate']	0.790746359436
+['18.95 dollar', 'rate']	['21.95 dollar']	0.538007739106
+['18.95 dollar', 'rate']	['0.19']	0.1191315107
+['18.95 dollar', 'rate']	['mile']	0.339953026192
+['18.95 dollar', 'rate']	['city rental']	0.0901100077042
+['18.95 dollar', 'rate']	['dollar']	0.697618080947
+['18.95 dollar', 'rate']	['0.21']	0.1191315107
+['18.95 dollar', 'rate']	['milage']	0.110354633245
+['0.21', 'rate']	['safety rent-a-car']	0.0833805889219
+['0.21', 'rate']	['intermediate-size car']	0.0897823390711
+['0.21', 'rate']	['daily rate']	0.769879150764
+['0.21', 'rate']	['21.95 dollar']	0.0827346205535
+['0.21', 'rate']	['0.19']	0.0922858731158
+['0.21', 'rate']	['mile']	0.16075044009
+['0.21', 'rate']	['city rental']	0.0901100077042
+['0.21', 'rate']	['dollar']	0.265777820967
+['0.21', 'rate']	['18.95 dollar']	0.0827346205535
+['0.21', 'rate']	['milage']	0.0922858731158
+['milage', 'rate']	['safety rent-a-car']	0.0800317642921
+['milage', 'rate']	['intermediate-size car']	0.0824069519204
+['milage', 'rate']	['daily rate']	0.816596032167
+['milage', 'rate']	['21.95 dollar']	0.0827346205535
+['milage', 'rate']	['0.19']	0.0922858731158
+['milage', 'rate']	['mile']	0.16075044009
+['milage', 'rate']	['city rental']	0.0827346205535
+['milage', 'rate']	['dollar']	0.265777820967
+['milage', 'rate']	['18.95 dollar']	0.0827346205535
+['milage', 'rate']	['0.21']	0.0922858731158
+['safety rent-a-car', '21.95 dollar']	['intermediate-size car']	0.0897823390711
+['safety rent-a-car', '21.95 dollar']	['daily rate']	0.0833805889219
+['safety rent-a-car', '21.95 dollar']	['rate']	0.0744376594044
+['safety rent-a-car', '21.95 dollar']	['0.19']	0.0888375395985
+['safety rent-a-car', '21.95 dollar']	['mile']	0.017587926765
+['safety rent-a-car', '21.95 dollar']	['city rental']	0.0871340391838
+['safety rent-a-car', '21.95 dollar']	['dollar']	0.35398468851
+['safety rent-a-car', '21.95 dollar']	['18.95 dollar']	0.584269096576
+['safety rent-a-car', '21.95 dollar']	['0.21']	0.0888375395985
+['safety rent-a-car', '21.95 dollar']	['milage']	0.0777864840342
+['intermediate-size car', '21.95 dollar']	['safety rent-a-car']	0.0737139440912
+['intermediate-size car', '21.95 dollar']	['daily rate']	0.0737139440912
+['intermediate-size car', '21.95 dollar']	['rate']	0.0667637182209
+['intermediate-size car', '21.95 dollar']	['0.19']	0.0690699689286
+['intermediate-size car', '21.95 dollar']	['mile']	0.00576468463969
+['intermediate-size car', '21.95 dollar']	['city rental']	0.0737139440912
+['intermediate-size car', '21.95 dollar']	['dollar']	0.323372693412
+['intermediate-size car', '21.95 dollar']	['18.95 dollar']	0.544221442934
+['intermediate-size car', '21.95 dollar']	['0.21']	0.0690699689286
+['intermediate-size car', '21.95 dollar']	['milage']	0.0690378963307
+['daily rate', '21.95 dollar']	['safety rent-a-car']	0.0833805889219
+['daily rate', '21.95 dollar']	['intermediate-size car']	0.0897823390711
+['daily rate', '21.95 dollar']	['rate']	0.769077240229
+['daily rate', '21.95 dollar']	['0.19']	0.0888375395985
+['daily rate', '21.95 dollar']	['mile']	0.0077840051964
+['daily rate', '21.95 dollar']	['city rental']	0.0827346205535
+['daily rate', '21.95 dollar']	['dollar']	0.483545532435
+['daily rate', '21.95 dollar']	['18.95 dollar']	0.584269096576
+['daily rate', '21.95 dollar']	['0.21']	0.0888375395985
+['daily rate', '21.95 dollar']	['milage']	0.0764053905195
+['rate', '21.95 dollar']	['safety rent-a-car']	0.0833805889219
+['rate', '21.95 dollar']	['intermediate-size car']	0.0897823390711
+['rate', '21.95 dollar']	['daily rate']	0.790746359436
+['rate', '21.95 dollar']	['0.19']	0.1191315107
+['rate', '21.95 dollar']	['mile']	0.339953026192
+['rate', '21.95 dollar']	['city rental']	0.0901100077042
+['rate', '21.95 dollar']	['dollar']	0.697618080947
+['rate', '21.95 dollar']	['18.95 dollar']	0.538007739106
+['rate', '21.95 dollar']	['0.21']	0.1191315107
+['rate', '21.95 dollar']	['milage']	0.110354633245
+['0.19', '21.95 dollar']	['safety rent-a-car']	0.0901100077042
+['0.19', '21.95 dollar']	['intermediate-size car']	0.0897823390711
+['0.19', '21.95 dollar']	['daily rate']	0.0901100077042
+['0.19', '21.95 dollar']	['rate']	0.107005808615
+['0.19', '21.95 dollar']	['mile']	0.0396342000659
+['0.19', '21.95 dollar']	['city rental']	0.0901100077042
+['0.19', '21.95 dollar']	['dollar']	0.604148050918
+['0.19', '21.95 dollar']	['18.95 dollar']	0.584269096576
+['0.19', '21.95 dollar']	['0.21']	0.1191315107
+['0.19', '21.95 dollar']	['milage']	0.110354633245
+['mile', '21.95 dollar']	['safety rent-a-car']	0.015360451052
+['mile', '21.95 dollar']	['intermediate-size car']	0.0199229782255
+['mile', '21.95 dollar']	['daily rate']	0.015360451052
+['mile', '21.95 dollar']	['rate']	0.275166582013
+['mile', '21.95 dollar']	['0.19']	0.0164595524146
+['mile', '21.95 dollar']	['city rental']	0.015360451052
+['mile', '21.95 dollar']	['dollar']	0.549746986756
+['mile', '21.95 dollar']	['18.95 dollar']	0.119282229775
+['mile', '21.95 dollar']	['0.21']	0.0164595524146
+['mile', '21.95 dollar']	['milage']	0.0164274798166
+['city rental', '21.95 dollar']	['safety rent-a-car']	0.0871340391838
+['city rental', '21.95 dollar']	['intermediate-size car']	0.0897823390711
+['city rental', '21.95 dollar']	['daily rate']	0.0827346205535
+['city rental', '21.95 dollar']	['rate']	0.0744376594044
+['city rental', '21.95 dollar']	['0.19']	0.0888375395985
+['city rental', '21.95 dollar']	['mile']	0.017587926765
+['city rental', '21.95 dollar']	['dollar']	0.483545532435
+['city rental', '21.95 dollar']	['18.95 dollar']	0.584269096576
+['city rental', '21.95 dollar']	['0.21']	0.0888375395985
+['city rental', '21.95 dollar']	['milage']	0.0777864840342
+['dollar', '21.95 dollar']	['safety rent-a-car']	0.0968024870635
+['dollar', '21.95 dollar']	['intermediate-size car']	0.103856602467
+['dollar', '21.95 dollar']	['daily rate']	0.183197852817
+['dollar', '21.95 dollar']	['rate']	0.552459748245
+['dollar', '21.95 dollar']	['0.19']	0.244720874808
+['dollar', '21.95 dollar']	['mile']	0.519984326019
+['dollar', '21.95 dollar']	['city rental']	0.150377262293
+['dollar', '21.95 dollar']	['18.95 dollar']	0.673554873378
+['dollar', '21.95 dollar']	['0.21']	0.244720874808
+['dollar', '21.95 dollar']	['milage']	0.239984737929
+['18.95 dollar', '21.95 dollar']	['safety rent-a-car']	0.139258682248
+['18.95 dollar', '21.95 dollar']	['intermediate-size car']	0.14699641653
+['18.95 dollar', '21.95 dollar']	['daily rate']	0.139258682248
+['18.95 dollar', '21.95 dollar']	['rate']	0.360804929274
+['18.95 dollar', '21.95 dollar']	['0.19']	0.325390866884
+['18.95 dollar', '21.95 dollar']	['mile']	0.158200563902
+['18.95 dollar', '21.95 dollar']	['city rental']	0.139258682248
+['18.95 dollar', '21.95 dollar']	['dollar']	0.78360725835
+['18.95 dollar', '21.95 dollar']	['0.21']	0.325390866884
+['18.95 dollar', '21.95 dollar']	['milage']	0.334330087138
+['0.21', '21.95 dollar']	['safety rent-a-car']	0.0901100077042
+['0.21', '21.95 dollar']	['intermediate-size car']	0.0897823390711
+['0.21', '21.95 dollar']	['daily rate']	0.0901100077042
+['0.21', '21.95 dollar']	['rate']	0.107005808615
+['0.21', '21.95 dollar']	['0.19']	0.1191315107
+['0.21', '21.95 dollar']	['mile']	0.0396342000659
+['0.21', '21.95 dollar']	['city rental']	0.0901100077042
+['0.21', '21.95 dollar']	['dollar']	0.604148050918
+['0.21', '21.95 dollar']	['18.95 dollar']	0.584269096576
+['0.21', '21.95 dollar']	['milage']	0.110354633245
+['milage', '21.95 dollar']	['safety rent-a-car']	0.0827346205535
+['milage', '21.95 dollar']	['intermediate-size car']	0.0824069519204
+['milage', '21.95 dollar']	['daily rate']	0.101119282389
+['milage', '21.95 dollar']	['rate']	0.107005808615
+['milage', '21.95 dollar']	['0.19']	0.1191315107
+['milage', '21.95 dollar']	['mile']	0.0396342000659
+['milage', '21.95 dollar']	['city rental']	0.0827346205535
+['milage', '21.95 dollar']	['dollar']	0.604148050918
+['milage', '21.95 dollar']	['18.95 dollar']	0.549852778125
+['milage', '21.95 dollar']	['0.21']	0.1191315107
+['safety rent-a-car', '0.19']	['intermediate-size car']	0.0897823390711
+['safety rent-a-car', '0.19']	['daily rate']	0.0833805889219
+['safety rent-a-car', '0.19']	['rate']	0.107005808615
+['safety rent-a-car', '0.19']	['21.95 dollar']	0.0901100077042
+['safety rent-a-car', '0.19']	['mile']	0.00500216543384
+['safety rent-a-car', '0.19']	['city rental']	0.0871340391838
+['safety rent-a-car', '0.19']	['dollar']	0.0150383602805
+['safety rent-a-car', '0.19']	['18.95 dollar']	0.0901100077042
+['safety rent-a-car', '0.19']	['0.21']	0.1191315107
+['safety rent-a-car', '0.19']	['milage']	0.110354633245
+['intermediate-size car', '0.19']	['safety rent-a-car']	0.0737139440912
+['intermediate-size car', '0.19']	['daily rate']	0.0737139440912
+['intermediate-size car', '0.19']	['rate']	0.0993318674318
+['intermediate-size car', '0.19']	['21.95 dollar']	0.0737139440912
+['intermediate-size car', '0.19']	['mile']	0.00415655379732
+['intermediate-size car', '0.19']	['city rental']	0.0737139440912
+['intermediate-size car', '0.19']	['dollar']	0.0124148334078
+['intermediate-size car', '0.19']	['18.95 dollar']	0.0737139440912
+['intermediate-size car', '0.19']	['0.21']	0.0993639400298
+['intermediate-size car', '0.19']	['milage']	0.0993318674318
+['daily rate', '0.19']	['safety rent-a-car']	0.0833805889219
+['daily rate', '0.19']	['intermediate-size car']	0.0897823390711
+['daily rate', '0.19']	['rate']	0.818537609729
+['daily rate', '0.19']	['21.95 dollar']	0.0901100077042
+['daily rate', '0.19']	['mile']	0.00500216543384
+['daily rate', '0.19']	['city rental']	0.0827346205535
+['daily rate', '0.19']	['dollar']	0.015105617758
+['daily rate', '0.19']	['18.95 dollar']	0.0901100077042
+['daily rate', '0.19']	['0.21']	0.1191315107
+['daily rate', '0.19']	['milage']	0.107005808615
+['rate', '0.19']	['safety rent-a-car']	0.0833805889219
+['rate', '0.19']	['intermediate-size car']	0.0897823390711
+['rate', '0.19']	['daily rate']	0.769879150764
+['rate', '0.19']	['21.95 dollar']	0.0827346205535
+['rate', '0.19']	['mile']	0.16075044009
+['rate', '0.19']	['city rental']	0.0901100077042
+['rate', '0.19']	['dollar']	0.265777820967
+['rate', '0.19']	['18.95 dollar']	0.0827346205535
+['rate', '0.19']	['0.21']	0.0922858731158
+['rate', '0.19']	['milage']	0.0922858731158
+['21.95 dollar', '0.19']	['safety rent-a-car']	0.0901100077042
+['21.95 dollar', '0.19']	['intermediate-size car']	0.0897823390711
+['21.95 dollar', '0.19']	['daily rate']	0.0901100077042
+['21.95 dollar', '0.19']	['rate']	0.107005808615
+['21.95 dollar', '0.19']	['mile']	0.0396342000659
+['21.95 dollar', '0.19']	['city rental']	0.0901100077042
+['21.95 dollar', '0.19']	['dollar']	0.604148050918
+['21.95 dollar', '0.19']	['18.95 dollar']	0.584269096576
+['21.95 dollar', '0.19']	['0.21']	0.1191315107
+['21.95 dollar', '0.19']	['milage']	0.110354633245
+['mile', '0.19']	['safety rent-a-car']	0.015360451052
+['mile', '0.19']	['intermediate-size car']	0.0199229782255
+['mile', '0.19']	['daily rate']	0.015360451052
+['mile', '0.19']	['rate']	0.21217971351
+['mile', '0.19']	['21.95 dollar']	0.0221369896995
+['mile', '0.19']	['city rental']	0.015360451052
+['mile', '0.19']	['dollar']	0.167018310553
+['mile', '0.19']	['18.95 dollar']	0.0221369896995
+['mile', '0.19']	['0.21']	0.0164595524146
+['mile', '0.19']	['milage']	0.0164595524146
+['city rental', '0.19']	['safety rent-a-car']	0.0871340391838
+['city rental', '0.19']	['intermediate-size car']	0.0897823390711
+['city rental', '0.19']	['daily rate']	0.0827346205535
+['city rental', '0.19']	['rate']	0.108635328335
+['city rental', '0.19']	['21.95 dollar']	0.0901100077042
+['city rental', '0.19']	['mile']	0.00500216543384
+['city rental', '0.19']	['dollar']	0.0150383602805
+['city rental', '0.19']	['18.95 dollar']	0.0901100077042
+['city rental', '0.19']	['0.21']	0.1191315107
+['city rental', '0.19']	['milage']	0.107005808615
+['dollar', '0.19']	['safety rent-a-car']	0.0361569291624
+['dollar', '0.19']	['intermediate-size car']	0.0421463435009
+['dollar', '0.19']	['daily rate']	0.0361569291624
+['dollar', '0.19']	['rate']	0.374122906727
+['dollar', '0.19']	['21.95 dollar']	0.423574257389
+['dollar', '0.19']	['mile']	0.167018310553
+['dollar', '0.19']	['city rental']	0.0361569291624
+['dollar', '0.19']	['18.95 dollar']	0.423574257389
+['dollar', '0.19']	['0.21']	0.0359411267535
+['dollar', '0.19']	['milage']	0.0359411267535
+['18.95 dollar', '0.19']	['safety rent-a-car']	0.0901100077042
+['18.95 dollar', '0.19']	['intermediate-size car']	0.0897823390711
+['18.95 dollar', '0.19']	['daily rate']	0.0901100077042
+['18.95 dollar', '0.19']	['rate']	0.107005808615
+['18.95 dollar', '0.19']	['21.95 dollar']	0.584269096576
+['18.95 dollar', '0.19']	['mile']	0.0396342000659
+['18.95 dollar', '0.19']	['city rental']	0.0901100077042
+['18.95 dollar', '0.19']	['dollar']	0.604148050918
+['18.95 dollar', '0.19']	['0.21']	0.1191315107
+['18.95 dollar', '0.19']	['milage']	0.110354633245
+['0.21', '0.19']	['safety rent-a-car']	0.0901100077042
+['0.21', '0.19']	['intermediate-size car']	0.0897823390711
+['0.21', '0.19']	['daily rate']	0.0901100077042
+['0.21', '0.19']	['rate']	0.0922858731158
+['0.21', '0.19']	['21.95 dollar']	0.0901100077042
+['0.21', '0.19']	['mile']	0.0108687908977
+['0.21', '0.19']	['city rental']	0.0901100077042
+['0.21', '0.19']	['dollar']	0.0212464283393
+['0.21', '0.19']	['18.95 dollar']	0.0901100077042
+['0.21', '0.19']	['milage']	0.0922858731158
+['milage', '0.19']	['safety rent-a-car']	0.0827346205535
+['milage', '0.19']	['intermediate-size car']	0.0824069519204
+['milage', '0.19']	['daily rate']	0.101119282389
+['milage', '0.19']	['rate']	0.0922858731158
+['milage', '0.19']	['21.95 dollar']	0.0827346205535
+['milage', '0.19']	['mile']	0.0108687908977
+['milage', '0.19']	['city rental']	0.0827346205535
+['milage', '0.19']	['dollar']	0.0212464283393
+['milage', '0.19']	['18.95 dollar']	0.0827346205535
+['milage', '0.19']	['0.21']	0.0922858731158
+['safety rent-a-car', 'mile']	['intermediate-size car']	0.0199229782255
+['safety rent-a-car', 'mile']	['daily rate']	0.0160064194205
+['safety rent-a-car', 'mile']	['rate']	0.270296452143
+['safety rent-a-car', 'mile']	['21.95 dollar']	0.0221369896995
+['safety rent-a-car', 'mile']	['0.19']	0.0164595524146
+['safety rent-a-car', 'mile']	['city rental']	0.0154105889865
+['safety rent-a-car', 'mile']	['dollar']	0.231227712262
+['safety rent-a-car', 'mile']	['18.95 dollar']	0.0221369896995
+['safety rent-a-car', 'mile']	['0.21']	0.0164595524146
+['safety rent-a-car', 'mile']	['milage']	0.0152537708965
+['intermediate-size car', 'mile']	['safety rent-a-car']	0.0774382987339
+['intermediate-size car', 'mile']	['daily rate']	0.0774382987339
+['intermediate-size car', 'mile']	['rate']	0.315338539685
+['intermediate-size car', 'mile']	['21.95 dollar']	0.0787871379671
+['intermediate-size car', 'mile']	['0.19']	0.0785374000965
+['intermediate-size car', 'mile']	['city rental']	0.0774382987339
+['intermediate-size car', 'mile']	['dollar']	0.264561045596
+['intermediate-size car', 'mile']	['18.95 dollar']	0.0787871379671
+['intermediate-size car', 'mile']	['0.21']	0.0785374000965
+['intermediate-size car', 'mile']	['milage']	0.0785053274985
+['daily rate', 'mile']	['safety rent-a-car']	0.0160064194205
+['daily rate', 'mile']	['intermediate-size car']	0.0199229782255
+['daily rate', 'mile']	['rate']	0.493080320089
+['daily rate', 'mile']	['21.95 dollar']	0.0221369896995
+['daily rate', 'mile']	['0.19']	0.0164595524146
+['daily rate', 'mile']	['city rental']	0.015360451052
+['daily rate', 'mile']	['dollar']	0.237444643479
+['daily rate', 'mile']	['18.95 dollar']	0.0221369896995
+['daily rate', 'mile']	['0.21']	0.0164595524146
+['daily rate', 'mile']	['milage']	0.0152537708965
+['rate', 'mile']	['safety rent-a-car']	0.0160064194205
+['rate', 'mile']	['intermediate-size car']	0.0199229782255
+['rate', 'mile']	['daily rate']	0.487905830173
+['rate', 'mile']	['21.95 dollar']	0.0241946307602
+['rate', 'mile']	['0.19']	0.0164595524146
+['rate', 'mile']	['city rental']	0.015360451052
+['rate', 'mile']	['dollar']	0.0418153034622
+['rate', 'mile']	['18.95 dollar']	0.0241946307602
+['rate', 'mile']	['0.21']	0.0164595524146
+['rate', 'mile']	['milage']	0.0164595524146
+['21.95 dollar', 'mile']	['safety rent-a-car']	0.015360451052
+['21.95 dollar', 'mile']	['intermediate-size car']	0.0199229782255
+['21.95 dollar', 'mile']	['daily rate']	0.015360451052
+['21.95 dollar', 'mile']	['rate']	0.275166582013
+['21.95 dollar', 'mile']	['0.19']	0.0164595524146
+['21.95 dollar', 'mile']	['city rental']	0.015360451052
+['21.95 dollar', 'mile']	['dollar']	0.549746986756
+['21.95 dollar', 'mile']	['18.95 dollar']	0.119282229775
+['21.95 dollar', 'mile']	['0.21']	0.0164595524146
+['21.95 dollar', 'mile']	['milage']	0.0164274798166
+['0.19', 'mile']	['safety rent-a-car']	0.015360451052
+['0.19', 'mile']	['intermediate-size car']	0.0199229782255
+['0.19', 'mile']	['daily rate']	0.015360451052
+['0.19', 'mile']	['rate']	0.21217971351
+['0.19', 'mile']	['21.95 dollar']	0.0221369896995
+['0.19', 'mile']	['city rental']	0.015360451052
+['0.19', 'mile']	['dollar']	0.167018310553
+['0.19', 'mile']	['18.95 dollar']	0.0221369896995
+['0.19', 'mile']	['0.21']	0.0164595524146
+['0.19', 'mile']	['milage']	0.0164595524146
+['city rental', 'mile']	['safety rent-a-car']	0.0154105889865
+['city rental', 'mile']	['intermediate-size car']	0.0199229782255
+['city rental', 'mile']	['daily rate']	0.015360451052
+['city rental', 'mile']	['rate']	0.313645193797
+['city rental', 'mile']	['21.95 dollar']	0.0221369896995
+['city rental', 'mile']	['0.19']	0.0164595524146
+['city rental', 'mile']	['dollar']	0.237444643479
+['city rental', 'mile']	['18.95 dollar']	0.0221369896995
+['city rental', 'mile']	['0.21']	0.0164595524146
+['city rental', 'mile']	['milage']	0.0152537708965
+['dollar', 'mile']	['safety rent-a-car']	0.0701566548569
+['dollar', 'mile']	['intermediate-size car']	0.0747191820304
+['dollar', 'mile']	['daily rate']	0.0701566548569
+['dollar', 'mile']	['rate']	0.0799161064667
+['dollar', 'mile']	['21.95 dollar']	0.431844529442
+['dollar', 'mile']	['0.19']	0.0715256438967
+['dollar', 'mile']	['city rental']	0.0701566548569
+['dollar', 'mile']	['18.95 dollar']	0.431844529442
+['dollar', 'mile']	['0.21']	0.0715256438967
+['dollar', 'mile']	['milage']	0.0715256438967
+['18.95 dollar', 'mile']	['safety rent-a-car']	0.015360451052
+['18.95 dollar', 'mile']	['intermediate-size car']	0.0199229782255
+['18.95 dollar', 'mile']	['daily rate']	0.015360451052
+['18.95 dollar', 'mile']	['rate']	0.275166582013
+['18.95 dollar', 'mile']	['21.95 dollar']	0.119282229775
+['18.95 dollar', 'mile']	['0.19']	0.0164595524146
+['18.95 dollar', 'mile']	['city rental']	0.015360451052
+['18.95 dollar', 'mile']	['dollar']	0.549746986756
+['18.95 dollar', 'mile']	['0.21']	0.0164595524146
+['18.95 dollar', 'mile']	['milage']	0.0164274798166
+['0.21', 'mile']	['safety rent-a-car']	0.015360451052
+['0.21', 'mile']	['intermediate-size car']	0.0199229782255
+['0.21', 'mile']	['daily rate']	0.015360451052
+['0.21', 'mile']	['rate']	0.21217971351
+['0.21', 'mile']	['21.95 dollar']	0.0221369896995
+['0.21', 'mile']	['0.19']	0.0164595524146
+['0.21', 'mile']	['city rental']	0.015360451052
+['0.21', 'mile']	['dollar']	0.167018310553
+['0.21', 'mile']	['18.95 dollar']	0.0221369896995
+['0.21', 'mile']	['milage']	0.0164595524146
+['milage', 'mile']	['safety rent-a-car']	0.015360451052
+['milage', 'mile']	['intermediate-size car']	0.0199229782255
+['milage', 'mile']	['daily rate']	0.0337451128878
+['milage', 'mile']	['rate']	0.21217971351
+['milage', 'mile']	['21.95 dollar']	0.0221369896995
+['milage', 'mile']	['0.19']	0.0164595524146
+['milage', 'mile']	['city rental']	0.015360451052
+['milage', 'mile']	['dollar']	0.167018310553
+['milage', 'mile']	['18.95 dollar']	0.0221369896995
+['milage', 'mile']	['0.21']	0.0164595524146
+['safety rent-a-car', 'city rental']	['intermediate-size car']	0.0897823390711
+['safety rent-a-car', 'city rental']	['daily rate']	0.0833805889219
+['safety rent-a-car', 'city rental']	['rate']	0.0829886173223
+['safety rent-a-car', 'city rental']	['21.95 dollar']	0.0901100077042
+['safety rent-a-car', 'city rental']	['0.19']	0.0888375395985
+['safety rent-a-car', 'city rental']	['mile']	0.00424649792755
+['safety rent-a-car', 'city rental']	['dollar']	0.0132263547461
+['safety rent-a-car', 'city rental']	['18.95 dollar']	0.0901100077042
+['safety rent-a-car', 'city rental']	['0.21']	0.0888375395985
+['safety rent-a-car', 'city rental']	['milage']	0.0777864840342
+['intermediate-size car', 'city rental']	['safety rent-a-car']	0.074092754852
+['intermediate-size car', 'city rental']	['daily rate']	0.0696933362217
+['intermediate-size car', 'city rental']	['rate']	0.0634148935911
+['intermediate-size car', 'city rental']	['21.95 dollar']	0.0737139440912
+['intermediate-size car', 'city rental']	['0.19']	0.0690699689286
+['intermediate-size car', 'city rental']	['mile']	0.00222717737084
+['intermediate-size car', 'city rental']	['dollar']	0.0106028278734
+['intermediate-size car', 'city rental']	['18.95 dollar']	0.0737139440912
+['intermediate-size car', 'city rental']	['0.21']	0.0690699689286
+['intermediate-size car', 'city rental']	['milage']	0.0667637182209
+['daily rate', 'city rental']	['safety rent-a-car']	0.092336172472
+['daily rate', 'city rental']	['intermediate-size car']	0.0897823390711
+['daily rate', 'city rental']	['rate']	0.769077240229
+['daily rate', 'city rental']	['21.95 dollar']	0.0901100077042
+['daily rate', 'city rental']	['0.19']	0.0888375395985
+['daily rate', 'city rental']	['mile']	0.00424649792755
+['daily rate', 'city rental']	['dollar']	0.0143499502517
+['daily rate', 'city rental']	['18.95 dollar']	0.0901100077042
+['daily rate', 'city rental']	['0.21']	0.0888375395985
+['daily rate', 'city rental']	['milage']	0.0744376594044
+['rate', 'city rental']	['safety rent-a-car']	0.092336172472
+['rate', 'city rental']	['intermediate-size car']	0.0897823390711
+['rate', 'city rental']	['daily rate']	0.787768406923
+['rate', 'city rental']	['21.95 dollar']	0.0827346205535
+['rate', 'city rental']	['0.19']	0.1191315107
+['rate', 'city rental']	['mile']	0.21019112143
+['rate', 'city rental']	['dollar']	0.325845606684
+['rate', 'city rental']	['18.95 dollar']	0.0827346205535
+['rate', 'city rental']	['0.21']	0.1191315107
+['rate', 'city rental']	['milage']	0.107005808615
+['21.95 dollar', 'city rental']	['safety rent-a-car']	0.0871340391838
+['21.95 dollar', 'city rental']	['intermediate-size car']	0.0897823390711
+['21.95 dollar', 'city rental']	['daily rate']	0.0827346205535
+['21.95 dollar', 'city rental']	['rate']	0.0744376594044
+['21.95 dollar', 'city rental']	['0.19']	0.0888375395985
+['21.95 dollar', 'city rental']	['mile']	0.017587926765
+['21.95 dollar', 'city rental']	['dollar']	0.483545532435
+['21.95 dollar', 'city rental']	['18.95 dollar']	0.584269096576
+['21.95 dollar', 'city rental']	['0.21']	0.0888375395985
+['21.95 dollar', 'city rental']	['milage']	0.0777864840342
+['0.19', 'city rental']	['safety rent-a-car']	0.0871340391838
+['0.19', 'city rental']	['intermediate-size car']	0.0897823390711
+['0.19', 'city rental']	['daily rate']	0.0827346205535
+['0.19', 'city rental']	['rate']	0.108635328335
+['0.19', 'city rental']	['21.95 dollar']	0.0901100077042
+['0.19', 'city rental']	['mile']	0.00500216543384
+['0.19', 'city rental']	['dollar']	0.0150383602805
+['0.19', 'city rental']	['18.95 dollar']	0.0901100077042
+['0.19', 'city rental']	['0.21']	0.1191315107
+['0.19', 'city rental']	['milage']	0.107005808615
+['mile', 'city rental']	['safety rent-a-car']	0.0154105889865
+['mile', 'city rental']	['intermediate-size car']	0.0199229782255
+['mile', 'city rental']	['daily rate']	0.015360451052
+['mile', 'city rental']	['rate']	0.313645193797
+['mile', 'city rental']	['21.95 dollar']	0.0221369896995
+['mile', 'city rental']	['0.19']	0.0164595524146
+['mile', 'city rental']	['dollar']	0.237444643479
+['mile', 'city rental']	['18.95 dollar']	0.0221369896995
+['mile', 'city rental']	['0.21']	0.0164595524146
+['mile', 'city rental']	['milage']	0.0152537708965
+['dollar', 'city rental']	['safety rent-a-car']	0.0406236052701
+['dollar', 'city rental']	['intermediate-size car']	0.0421463435009
+['dollar', 'city rental']	['daily rate']	0.0361569291624
+['dollar', 'city rental']	['rate']	0.490582696928
+['dollar', 'city rental']	['21.95 dollar']	0.423574257389
+['dollar', 'city rental']	['0.19']	0.0359411267535
+['dollar', 'city rental']	['mile']	0.237444643479
+['dollar', 'city rental']	['18.95 dollar']	0.423574257389
+['dollar', 'city rental']	['0.21']	0.0359411267535
+['dollar', 'city rental']	['milage']	0.0336675093242
+['18.95 dollar', 'city rental']	['safety rent-a-car']	0.0871340391838
+['18.95 dollar', 'city rental']	['intermediate-size car']	0.0897823390711
+['18.95 dollar', 'city rental']	['daily rate']	0.0827346205535
+['18.95 dollar', 'city rental']	['rate']	0.0744376594044
+['18.95 dollar', 'city rental']	['21.95 dollar']	0.584269096576
+['18.95 dollar', 'city rental']	['0.19']	0.0888375395985
+['18.95 dollar', 'city rental']	['mile']	0.017587926765
+['18.95 dollar', 'city rental']	['dollar']	0.483545532435
+['18.95 dollar', 'city rental']	['0.21']	0.0888375395985
+['18.95 dollar', 'city rental']	['milage']	0.0777864840342
+['0.21', 'city rental']	['safety rent-a-car']	0.0871340391838
+['0.21', 'city rental']	['intermediate-size car']	0.0897823390711
+['0.21', 'city rental']	['daily rate']	0.0827346205535
+['0.21', 'city rental']	['rate']	0.108635328335
+['0.21', 'city rental']	['21.95 dollar']	0.0901100077042
+['0.21', 'city rental']	['0.19']	0.1191315107
+['0.21', 'city rental']	['mile']	0.00500216543384
+['0.21', 'city rental']	['dollar']	0.0150383602805
+['0.21', 'city rental']	['18.95 dollar']	0.0901100077042
+['0.21', 'city rental']	['milage']	0.107005808615
+['milage', 'city rental']	['safety rent-a-car']	0.083785214554
+['milage', 'city rental']	['intermediate-size car']	0.0824069519204
+['milage', 'city rental']	['daily rate']	0.101119282389
+['milage', 'city rental']	['rate']	0.108635328335
+['milage', 'city rental']	['21.95 dollar']	0.0827346205535
+['milage', 'city rental']	['0.19']	0.1191315107
+['milage', 'city rental']	['mile']	0.00500216543384
+['milage', 'city rental']	['dollar']	0.0150383602805
+['milage', 'city rental']	['18.95 dollar']	0.0827346205535
+['milage', 'city rental']	['0.21']	0.1191315107
+['safety rent-a-car', 'dollar']	['intermediate-size car']	0.0421463435009
+['safety rent-a-car', 'dollar']	['daily rate']	0.0368701550083
+['safety rent-a-car', 'dollar']	['rate']	0.471573052869
+['safety rent-a-car', 'dollar']	['21.95 dollar']	0.423574257389
+['safety rent-a-car', 'dollar']	['0.19']	0.0359411267535
+['safety rent-a-car', 'dollar']	['mile']	0.231227712262
+['safety rent-a-car', 'dollar']	['city rental']	0.0406236052701
+['safety rent-a-car', 'dollar']	['18.95 dollar']	0.423574257389
+['safety rent-a-car', 'dollar']	['0.21']	0.0359411267535
+['safety rent-a-car', 'dollar']	['milage']	0.0336002518467
+['intermediate-size car', 'dollar']	['safety rent-a-car']	0.0982347768443
+['intermediate-size car', 'dollar']	['daily rate']	0.0982347768443
+['intermediate-size car', 'dollar']	['rate']	0.509140475527
+['intermediate-size car', 'dollar']	['21.95 dollar']	0.423574257389
+['intermediate-size car', 'dollar']	['0.19']	0.0980189744354
+['intermediate-size car', 'dollar']	['mile']	0.264561045596
+['intermediate-size car', 'dollar']	['city rental']	0.0982347768443
+['intermediate-size car', 'dollar']	['18.95 dollar']	0.423574257389
+['intermediate-size car', 'dollar']	['0.21']	0.0980189744354
+['intermediate-size car', 'dollar']	['milage']	0.0956780995286
+['daily rate', 'dollar']	['safety rent-a-car']	0.0368701550083
+['daily rate', 'dollar']	['intermediate-size car']	0.0421463435009
+['daily rate', 'dollar']	['rate']	0.696292217268
+['daily rate', 'dollar']	['21.95 dollar']	0.423574257389
+['daily rate', 'dollar']	['0.19']	0.0359411267535
+['daily rate', 'dollar']	['mile']	0.237444643479
+['daily rate', 'dollar']	['city rental']	0.0361569291624
+['daily rate', 'dollar']	['18.95 dollar']	0.423574257389
+['daily rate', 'dollar']	['0.21']	0.0359411267535
+['daily rate', 'dollar']	['milage']	0.0336675093242
+['rate', 'dollar']	['safety rent-a-car']	0.0368701550083
+['rate', 'dollar']	['intermediate-size car']	0.0421463435009
+['rate', 'dollar']	['daily rate']	0.556816051705
+['rate', 'dollar']	['21.95 dollar']	0.534859236591
+['rate', 'dollar']	['0.19']	0.0359411267535
+['rate', 'dollar']	['mile']	0.0394964628825
+['rate', 'dollar']	['city rental']	0.0361569291624
+['rate', 'dollar']	['18.95 dollar']	0.534859236591
+['rate', 'dollar']	['0.21']	0.0359411267535
+['rate', 'dollar']	['milage']	0.0359411267535
+['21.95 dollar', 'dollar']	['safety rent-a-car']	0.0968024870635
+['21.95 dollar', 'dollar']	['intermediate-size car']	0.103856602467
+['21.95 dollar', 'dollar']	['daily rate']	0.183197852817
+['21.95 dollar', 'dollar']	['rate']	0.552459748245
+['21.95 dollar', 'dollar']	['0.19']	0.244720874808
+['21.95 dollar', 'dollar']	['mile']	0.519984326019
+['21.95 dollar', 'dollar']	['city rental']	0.150377262293
+['21.95 dollar', 'dollar']	['18.95 dollar']	0.673554873378
+['21.95 dollar', 'dollar']	['0.21']	0.244720874808
+['21.95 dollar', 'dollar']	['milage']	0.239984737929
+['0.19', 'dollar']	['safety rent-a-car']	0.0361569291624
+['0.19', 'dollar']	['intermediate-size car']	0.0421463435009
+['0.19', 'dollar']	['daily rate']	0.0361569291624
+['0.19', 'dollar']	['rate']	0.374122906727
+['0.19', 'dollar']	['21.95 dollar']	0.423574257389
+['0.19', 'dollar']	['mile']	0.167018310553
+['0.19', 'dollar']	['city rental']	0.0361569291624
+['0.19', 'dollar']	['18.95 dollar']	0.423574257389
+['0.19', 'dollar']	['0.21']	0.0359411267535
+['0.19', 'dollar']	['milage']	0.0359411267535
+['mile', 'dollar']	['safety rent-a-car']	0.0701566548569
+['mile', 'dollar']	['intermediate-size car']	0.0747191820304
+['mile', 'dollar']	['daily rate']	0.0701566548569
+['mile', 'dollar']	['rate']	0.0799161064667
+['mile', 'dollar']	['21.95 dollar']	0.431844529442
+['mile', 'dollar']	['0.19']	0.0715256438967
+['mile', 'dollar']	['city rental']	0.0701566548569
+['mile', 'dollar']	['18.95 dollar']	0.431844529442
+['mile', 'dollar']	['0.21']	0.0715256438967
+['mile', 'dollar']	['milage']	0.0715256438967
+['city rental', 'dollar']	['safety rent-a-car']	0.0406236052701
+['city rental', 'dollar']	['intermediate-size car']	0.0421463435009
+['city rental', 'dollar']	['daily rate']	0.0361569291624
+['city rental', 'dollar']	['rate']	0.490582696928
+['city rental', 'dollar']	['21.95 dollar']	0.423574257389
+['city rental', 'dollar']	['0.19']	0.0359411267535
+['city rental', 'dollar']	['mile']	0.237444643479
+['city rental', 'dollar']	['18.95 dollar']	0.423574257389
+['city rental', 'dollar']	['0.21']	0.0359411267535
+['city rental', 'dollar']	['milage']	0.0336675093242
+['18.95 dollar', 'dollar']	['safety rent-a-car']	0.0968024870635
+['18.95 dollar', 'dollar']	['intermediate-size car']	0.103856602467
+['18.95 dollar', 'dollar']	['daily rate']	0.183197852817
+['18.95 dollar', 'dollar']	['rate']	0.552459748245
+['18.95 dollar', 'dollar']	['21.95 dollar']	0.673554873378
+['18.95 dollar', 'dollar']	['0.19']	0.244720874808
+['18.95 dollar', 'dollar']	['mile']	0.519984326019
+['18.95 dollar', 'dollar']	['city rental']	0.150377262293
+['18.95 dollar', 'dollar']	['0.21']	0.244720874808
+['18.95 dollar', 'dollar']	['milage']	0.239984737929
+['0.21', 'dollar']	['safety rent-a-car']	0.0361569291624
+['0.21', 'dollar']	['intermediate-size car']	0.0421463435009
+['0.21', 'dollar']	['daily rate']	0.0361569291624
+['0.21', 'dollar']	['rate']	0.374122906727
+['0.21', 'dollar']	['21.95 dollar']	0.423574257389
+['0.21', 'dollar']	['0.19']	0.0359411267535
+['0.21', 'dollar']	['mile']	0.167018310553
+['0.21', 'dollar']	['city rental']	0.0361569291624
+['0.21', 'dollar']	['18.95 dollar']	0.423574257389
+['0.21', 'dollar']	['milage']	0.0359411267535
+['milage', 'dollar']	['safety rent-a-car']	0.0361569291624
+['milage', 'dollar']	['intermediate-size car']	0.0421463435009
+['milage', 'dollar']	['daily rate']	0.0546088484756
+['milage', 'dollar']	['rate']	0.374122906727
+['milage', 'dollar']	['21.95 dollar']	0.429235076102
+['milage', 'dollar']	['0.19']	0.0359411267535
+['milage', 'dollar']	['mile']	0.167018310553
+['milage', 'dollar']	['city rental']	0.0362241866398
+['milage', 'dollar']	['18.95 dollar']	0.429235076102
+['milage', 'dollar']	['0.21']	0.0359411267535
+['safety rent-a-car', '18.95 dollar']	['intermediate-size car']	0.0897823390711
+['safety rent-a-car', '18.95 dollar']	['daily rate']	0.0833805889219
+['safety rent-a-car', '18.95 dollar']	['rate']	0.0744376594044
+['safety rent-a-car', '18.95 dollar']	['21.95 dollar']	0.584269096576
+['safety rent-a-car', '18.95 dollar']	['0.19']	0.0888375395985
+['safety rent-a-car', '18.95 dollar']	['mile']	0.017587926765
+['safety rent-a-car', '18.95 dollar']	['city rental']	0.0871340391838
+['safety rent-a-car', '18.95 dollar']	['dollar']	0.35398468851
+['safety rent-a-car', '18.95 dollar']	['0.21']	0.0888375395985
+['safety rent-a-car', '18.95 dollar']	['milage']	0.0777864840342
+['intermediate-size car', '18.95 dollar']	['safety rent-a-car']	0.0737139440912
+['intermediate-size car', '18.95 dollar']	['daily rate']	0.0737139440912
+['intermediate-size car', '18.95 dollar']	['rate']	0.0667637182209
+['intermediate-size car', '18.95 dollar']	['21.95 dollar']	0.544221442934
+['intermediate-size car', '18.95 dollar']	['0.19']	0.0690699689286
+['intermediate-size car', '18.95 dollar']	['mile']	0.00576468463969
+['intermediate-size car', '18.95 dollar']	['city rental']	0.0737139440912
+['intermediate-size car', '18.95 dollar']	['dollar']	0.323372693412
+['intermediate-size car', '18.95 dollar']	['0.21']	0.0690699689286
+['intermediate-size car', '18.95 dollar']	['milage']	0.0690378963307
+['daily rate', '18.95 dollar']	['safety rent-a-car']	0.0833805889219
+['daily rate', '18.95 dollar']	['intermediate-size car']	0.0897823390711
+['daily rate', '18.95 dollar']	['rate']	0.769077240229
+['daily rate', '18.95 dollar']	['21.95 dollar']	0.584269096576
+['daily rate', '18.95 dollar']	['0.19']	0.0888375395985
+['daily rate', '18.95 dollar']	['mile']	0.0077840051964
+['daily rate', '18.95 dollar']	['city rental']	0.0827346205535
+['daily rate', '18.95 dollar']	['dollar']	0.483545532435
+['daily rate', '18.95 dollar']	['0.21']	0.0888375395985
+['daily rate', '18.95 dollar']	['milage']	0.0764053905195
+['rate', '18.95 dollar']	['safety rent-a-car']	0.0833805889219
+['rate', '18.95 dollar']	['intermediate-size car']	0.0897823390711
+['rate', '18.95 dollar']	['daily rate']	0.790746359436
+['rate', '18.95 dollar']	['21.95 dollar']	0.538007739106
+['rate', '18.95 dollar']	['0.19']	0.1191315107
+['rate', '18.95 dollar']	['mile']	0.339953026192
+['rate', '18.95 dollar']	['city rental']	0.0901100077042
+['rate', '18.95 dollar']	['dollar']	0.697618080947
+['rate', '18.95 dollar']	['0.21']	0.1191315107
+['rate', '18.95 dollar']	['milage']	0.110354633245
+['21.95 dollar', '18.95 dollar']	['safety rent-a-car']	0.139258682248
+['21.95 dollar', '18.95 dollar']	['intermediate-size car']	0.14699641653
+['21.95 dollar', '18.95 dollar']	['daily rate']	0.139258682248
+['21.95 dollar', '18.95 dollar']	['rate']	0.360804929274
+['21.95 dollar', '18.95 dollar']	['0.19']	0.325390866884
+['21.95 dollar', '18.95 dollar']	['mile']	0.158200563902
+['21.95 dollar', '18.95 dollar']	['city rental']	0.139258682248
+['21.95 dollar', '18.95 dollar']	['dollar']	0.78360725835
+['21.95 dollar', '18.95 dollar']	['0.21']	0.325390866884
+['21.95 dollar', '18.95 dollar']	['milage']	0.334330087138
+['0.19', '18.95 dollar']	['safety rent-a-car']	0.0901100077042
+['0.19', '18.95 dollar']	['intermediate-size car']	0.0897823390711
+['0.19', '18.95 dollar']	['daily rate']	0.0901100077042
+['0.19', '18.95 dollar']	['rate']	0.107005808615
+['0.19', '18.95 dollar']	['21.95 dollar']	0.584269096576
+['0.19', '18.95 dollar']	['mile']	0.0396342000659
+['0.19', '18.95 dollar']	['city rental']	0.0901100077042
+['0.19', '18.95 dollar']	['dollar']	0.604148050918
+['0.19', '18.95 dollar']	['0.21']	0.1191315107
+['0.19', '18.95 dollar']	['milage']	0.110354633245
+['mile', '18.95 dollar']	['safety rent-a-car']	0.015360451052
+['mile', '18.95 dollar']	['intermediate-size car']	0.0199229782255
+['mile', '18.95 dollar']	['daily rate']	0.015360451052
+['mile', '18.95 dollar']	['rate']	0.275166582013
+['mile', '18.95 dollar']	['21.95 dollar']	0.119282229775
+['mile', '18.95 dollar']	['0.19']	0.0164595524146
+['mile', '18.95 dollar']	['city rental']	0.015360451052
+['mile', '18.95 dollar']	['dollar']	0.549746986756
+['mile', '18.95 dollar']	['0.21']	0.0164595524146
+['mile', '18.95 dollar']	['milage']	0.0164274798166
+['city rental', '18.95 dollar']	['safety rent-a-car']	0.0871340391838
+['city rental', '18.95 dollar']	['intermediate-size car']	0.0897823390711
+['city rental', '18.95 dollar']	['daily rate']	0.0827346205535
+['city rental', '18.95 dollar']	['rate']	0.0744376594044
+['city rental', '18.95 dollar']	['21.95 dollar']	0.584269096576
+['city rental', '18.95 dollar']	['0.19']	0.0888375395985
+['city rental', '18.95 dollar']	['mile']	0.017587926765
+['city rental', '18.95 dollar']	['dollar']	0.483545532435
+['city rental', '18.95 dollar']	['0.21']	0.0888375395985
+['city rental', '18.95 dollar']	['milage']	0.0777864840342
+['dollar', '18.95 dollar']	['safety rent-a-car']	0.0968024870635
+['dollar', '18.95 dollar']	['intermediate-size car']	0.103856602467
+['dollar', '18.95 dollar']	['daily rate']	0.183197852817
+['dollar', '18.95 dollar']	['rate']	0.552459748245
+['dollar', '18.95 dollar']	['21.95 dollar']	0.673554873378
+['dollar', '18.95 dollar']	['0.19']	0.244720874808
+['dollar', '18.95 dollar']	['mile']	0.519984326019
+['dollar', '18.95 dollar']	['city rental']	0.150377262293
+['dollar', '18.95 dollar']	['0.21']	0.244720874808
+['dollar', '18.95 dollar']	['milage']	0.239984737929
+['0.21', '18.95 dollar']	['safety rent-a-car']	0.0901100077042
+['0.21', '18.95 dollar']	['intermediate-size car']	0.0897823390711
+['0.21', '18.95 dollar']	['daily rate']	0.0901100077042
+['0.21', '18.95 dollar']	['rate']	0.107005808615
+['0.21', '18.95 dollar']	['21.95 dollar']	0.584269096576
+['0.21', '18.95 dollar']	['0.19']	0.1191315107
+['0.21', '18.95 dollar']	['mile']	0.0396342000659
+['0.21', '18.95 dollar']	['city rental']	0.0901100077042
+['0.21', '18.95 dollar']	['dollar']	0.604148050918
+['0.21', '18.95 dollar']	['milage']	0.110354633245
+['milage', '18.95 dollar']	['safety rent-a-car']	0.0827346205535
+['milage', '18.95 dollar']	['intermediate-size car']	0.0824069519204
+['milage', '18.95 dollar']	['daily rate']	0.101119282389
+['milage', '18.95 dollar']	['rate']	0.107005808615
+['milage', '18.95 dollar']	['21.95 dollar']	0.549852778125
+['milage', '18.95 dollar']	['0.19']	0.1191315107
+['milage', '18.95 dollar']	['mile']	0.0396342000659
+['milage', '18.95 dollar']	['city rental']	0.0827346205535
+['milage', '18.95 dollar']	['dollar']	0.604148050918
+['milage', '18.95 dollar']	['0.21']	0.1191315107
+['safety rent-a-car', '0.21']	['intermediate-size car']	0.0897823390711
+['safety rent-a-car', '0.21']	['daily rate']	0.0833805889219
+['safety rent-a-car', '0.21']	['rate']	0.107005808615
+['safety rent-a-car', '0.21']	['21.95 dollar']	0.0901100077042
+['safety rent-a-car', '0.21']	['0.19']	0.1191315107
+['safety rent-a-car', '0.21']	['mile']	0.00500216543384
+['safety rent-a-car', '0.21']	['city rental']	0.0871340391838
+['safety rent-a-car', '0.21']	['dollar']	0.0150383602805
+['safety rent-a-car', '0.21']	['18.95 dollar']	0.0901100077042
+['safety rent-a-car', '0.21']	['milage']	0.110354633245
+['intermediate-size car', '0.21']	['safety rent-a-car']	0.0737139440912
+['intermediate-size car', '0.21']	['daily rate']	0.0737139440912
+['intermediate-size car', '0.21']	['rate']	0.0993318674318
+['intermediate-size car', '0.21']	['21.95 dollar']	0.0737139440912
+['intermediate-size car', '0.21']	['0.19']	0.0993639400298
+['intermediate-size car', '0.21']	['mile']	0.00415655379732
+['intermediate-size car', '0.21']	['city rental']	0.0737139440912
+['intermediate-size car', '0.21']	['dollar']	0.0124148334078
+['intermediate-size car', '0.21']	['18.95 dollar']	0.0737139440912
+['intermediate-size car', '0.21']	['milage']	0.0993318674318
+['daily rate', '0.21']	['safety rent-a-car']	0.0833805889219
+['daily rate', '0.21']	['intermediate-size car']	0.0897823390711
+['daily rate', '0.21']	['rate']	0.818537609729
+['daily rate', '0.21']	['21.95 dollar']	0.0901100077042
+['daily rate', '0.21']	['0.19']	0.1191315107
+['daily rate', '0.21']	['mile']	0.00500216543384
+['daily rate', '0.21']	['city rental']	0.0827346205535
+['daily rate', '0.21']	['dollar']	0.015105617758
+['daily rate', '0.21']	['18.95 dollar']	0.0901100077042
+['daily rate', '0.21']	['milage']	0.107005808615
+['rate', '0.21']	['safety rent-a-car']	0.0833805889219
+['rate', '0.21']	['intermediate-size car']	0.0897823390711
+['rate', '0.21']	['daily rate']	0.769879150764
+['rate', '0.21']	['21.95 dollar']	0.0827346205535
+['rate', '0.21']	['0.19']	0.0922858731158
+['rate', '0.21']	['mile']	0.16075044009
+['rate', '0.21']	['city rental']	0.0901100077042
+['rate', '0.21']	['dollar']	0.265777820967
+['rate', '0.21']	['18.95 dollar']	0.0827346205535
+['rate', '0.21']	['milage']	0.0922858731158
+['21.95 dollar', '0.21']	['safety rent-a-car']	0.0901100077042
+['21.95 dollar', '0.21']	['intermediate-size car']	0.0897823390711
+['21.95 dollar', '0.21']	['daily rate']	0.0901100077042
+['21.95 dollar', '0.21']	['rate']	0.107005808615
+['21.95 dollar', '0.21']	['0.19']	0.1191315107
+['21.95 dollar', '0.21']	['mile']	0.0396342000659
+['21.95 dollar', '0.21']	['city rental']	0.0901100077042
+['21.95 dollar', '0.21']	['dollar']	0.604148050918
+['21.95 dollar', '0.21']	['18.95 dollar']	0.584269096576
+['21.95 dollar', '0.21']	['milage']	0.110354633245
+['0.19', '0.21']	['safety rent-a-car']	0.0901100077042
+['0.19', '0.21']	['intermediate-size car']	0.0897823390711
+['0.19', '0.21']	['daily rate']	0.0901100077042
+['0.19', '0.21']	['rate']	0.0922858731158
+['0.19', '0.21']	['21.95 dollar']	0.0901100077042
+['0.19', '0.21']	['mile']	0.0108687908977
+['0.19', '0.21']	['city rental']	0.0901100077042
+['0.19', '0.21']	['dollar']	0.0212464283393
+['0.19', '0.21']	['18.95 dollar']	0.0901100077042
+['0.19', '0.21']	['milage']	0.0922858731158
+['mile', '0.21']	['safety rent-a-car']	0.015360451052
+['mile', '0.21']	['intermediate-size car']	0.0199229782255
+['mile', '0.21']	['daily rate']	0.015360451052
+['mile', '0.21']	['rate']	0.21217971351
+['mile', '0.21']	['21.95 dollar']	0.0221369896995
+['mile', '0.21']	['0.19']	0.0164595524146
+['mile', '0.21']	['city rental']	0.015360451052
+['mile', '0.21']	['dollar']	0.167018310553
+['mile', '0.21']	['18.95 dollar']	0.0221369896995
+['mile', '0.21']	['milage']	0.0164595524146
+['city rental', '0.21']	['safety rent-a-car']	0.0871340391838
+['city rental', '0.21']	['intermediate-size car']	0.0897823390711
+['city rental', '0.21']	['daily rate']	0.0827346205535
+['city rental', '0.21']	['rate']	0.108635328335
+['city rental', '0.21']	['21.95 dollar']	0.0901100077042
+['city rental', '0.21']	['0.19']	0.1191315107
+['city rental', '0.21']	['mile']	0.00500216543384
+['city rental', '0.21']	['dollar']	0.0150383602805
+['city rental', '0.21']	['18.95 dollar']	0.0901100077042
+['city rental', '0.21']	['milage']	0.107005808615
+['dollar', '0.21']	['safety rent-a-car']	0.0361569291624
+['dollar', '0.21']	['intermediate-size car']	0.0421463435009
+['dollar', '0.21']	['daily rate']	0.0361569291624
+['dollar', '0.21']	['rate']	0.374122906727
+['dollar', '0.21']	['21.95 dollar']	0.423574257389
+['dollar', '0.21']	['0.19']	0.0359411267535
+['dollar', '0.21']	['mile']	0.167018310553
+['dollar', '0.21']	['city rental']	0.0361569291624
+['dollar', '0.21']	['18.95 dollar']	0.423574257389
+['dollar', '0.21']	['milage']	0.0359411267535
+['18.95 dollar', '0.21']	['safety rent-a-car']	0.0901100077042
+['18.95 dollar', '0.21']	['intermediate-size car']	0.0897823390711
+['18.95 dollar', '0.21']	['daily rate']	0.0901100077042
+['18.95 dollar', '0.21']	['rate']	0.107005808615
+['18.95 dollar', '0.21']	['21.95 dollar']	0.584269096576
+['18.95 dollar', '0.21']	['0.19']	0.1191315107
+['18.95 dollar', '0.21']	['mile']	0.0396342000659
+['18.95 dollar', '0.21']	['city rental']	0.0901100077042
+['18.95 dollar', '0.21']	['dollar']	0.604148050918
+['18.95 dollar', '0.21']	['milage']	0.110354633245
+['milage', '0.21']	['safety rent-a-car']	0.0827346205535
+['milage', '0.21']	['intermediate-size car']	0.0824069519204
+['milage', '0.21']	['daily rate']	0.101119282389
+['milage', '0.21']	['rate']	0.0922858731158
+['milage', '0.21']	['21.95 dollar']	0.0827346205535
+['milage', '0.21']	['0.19']	0.0922858731158
+['milage', '0.21']	['mile']	0.0108687908977
+['milage', '0.21']	['city rental']	0.0827346205535
+['milage', '0.21']	['dollar']	0.0212464283393
+['milage', '0.21']	['18.95 dollar']	0.0827346205535
+['safety rent-a-car', 'milage']	['intermediate-size car']	0.0824069519204
+['safety rent-a-car', 'milage']	['daily rate']	0.0800317642921
+['safety rent-a-car', 'milage']	['rate']	0.107005808615
+['safety rent-a-car', 'milage']	['21.95 dollar']	0.0827346205535
+['safety rent-a-car', 'milage']	['0.19']	0.1191315107
+['safety rent-a-car', 'milage']	['mile']	0.00500216543384
+['safety rent-a-car', 'milage']	['city rental']	0.083785214554
+['safety rent-a-car', 'milage']	['dollar']	0.0150383602805
+['safety rent-a-car', 'milage']	['18.95 dollar']	0.0827346205535
+['safety rent-a-car', 'milage']	['0.21']	0.1191315107
+['intermediate-size car', 'milage']	['safety rent-a-car']	0.0696933362217
+['intermediate-size car', 'milage']	['daily rate']	0.0880779980575
+['intermediate-size car', 'milage']	['rate']	0.0993318674318
+['intermediate-size car', 'milage']	['21.95 dollar']	0.0696933362217
+['intermediate-size car', 'milage']	['0.19']	0.0993639400298
+['intermediate-size car', 'milage']	['mile']	0.00415655379732
+['intermediate-size car', 'milage']	['city rental']	0.0696933362217
+['intermediate-size car', 'milage']	['dollar']	0.0124148334078
+['intermediate-size car', 'milage']	['18.95 dollar']	0.0696933362217
+['intermediate-size car', 'milage']	['0.21']	0.0993639400298
+['daily rate', 'milage']	['safety rent-a-car']	0.0800317642921
+['daily rate', 'milage']	['intermediate-size car']	0.0824069519204
+['daily rate', 'milage']	['rate']	0.818537609729
+['daily rate', 'milage']	['21.95 dollar']	0.0827346205535
+['daily rate', 'milage']	['0.19']	0.1191315107
+['daily rate', 'milage']	['mile']	0.00500216543384
+['daily rate', 'milage']	['city rental']	0.0827346205535
+['daily rate', 'milage']	['dollar']	0.015105617758
+['daily rate', 'milage']	['18.95 dollar']	0.0827346205535
+['daily rate', 'milage']	['0.21']	0.1191315107
+['rate', 'milage']	['safety rent-a-car']	0.0800317642921
+['rate', 'milage']	['intermediate-size car']	0.0824069519204
+['rate', 'milage']	['daily rate']	0.816596032167
+['rate', 'milage']	['21.95 dollar']	0.0827346205535
+['rate', 'milage']	['0.19']	0.0922858731158
+['rate', 'milage']	['mile']	0.16075044009
+['rate', 'milage']	['city rental']	0.0827346205535
+['rate', 'milage']	['dollar']	0.265777820967
+['rate', 'milage']	['18.95 dollar']	0.0827346205535
+['rate', 'milage']	['0.21']	0.0922858731158
+['21.95 dollar', 'milage']	['safety rent-a-car']	0.0827346205535
+['21.95 dollar', 'milage']	['intermediate-size car']	0.0824069519204
+['21.95 dollar', 'milage']	['daily rate']	0.101119282389
+['21.95 dollar', 'milage']	['rate']	0.107005808615
+['21.95 dollar', 'milage']	['0.19']	0.1191315107
+['21.95 dollar', 'milage']	['mile']	0.0396342000659
+['21.95 dollar', 'milage']	['city rental']	0.0827346205535
+['21.95 dollar', 'milage']	['dollar']	0.604148050918
+['21.95 dollar', 'milage']	['18.95 dollar']	0.549852778125
+['21.95 dollar', 'milage']	['0.21']	0.1191315107
+['0.19', 'milage']	['safety rent-a-car']	0.0827346205535
+['0.19', 'milage']	['intermediate-size car']	0.0824069519204
+['0.19', 'milage']	['daily rate']	0.101119282389
+['0.19', 'milage']	['rate']	0.0922858731158
+['0.19', 'milage']	['21.95 dollar']	0.0827346205535
+['0.19', 'milage']	['mile']	0.0108687908977
+['0.19', 'milage']	['city rental']	0.0827346205535
+['0.19', 'milage']	['dollar']	0.0212464283393
+['0.19', 'milage']	['18.95 dollar']	0.0827346205535
+['0.19', 'milage']	['0.21']	0.0922858731158
+['mile', 'milage']	['safety rent-a-car']	0.015360451052
+['mile', 'milage']	['intermediate-size car']	0.0199229782255
+['mile', 'milage']	['daily rate']	0.0337451128878
+['mile', 'milage']	['rate']	0.21217971351
+['mile', 'milage']	['21.95 dollar']	0.0221369896995
+['mile', 'milage']	['0.19']	0.0164595524146
+['mile', 'milage']	['city rental']	0.015360451052
+['mile', 'milage']	['dollar']	0.167018310553
+['mile', 'milage']	['18.95 dollar']	0.0221369896995
+['mile', 'milage']	['0.21']	0.0164595524146
+['city rental', 'milage']	['safety rent-a-car']	0.083785214554
+['city rental', 'milage']	['intermediate-size car']	0.0824069519204
+['city rental', 'milage']	['daily rate']	0.101119282389
+['city rental', 'milage']	['rate']	0.108635328335
+['city rental', 'milage']	['21.95 dollar']	0.0827346205535
+['city rental', 'milage']	['0.19']	0.1191315107
+['city rental', 'milage']	['mile']	0.00500216543384
+['city rental', 'milage']	['dollar']	0.0150383602805
+['city rental', 'milage']	['18.95 dollar']	0.0827346205535
+['city rental', 'milage']	['0.21']	0.1191315107
+['dollar', 'milage']	['safety rent-a-car']	0.0361569291624
+['dollar', 'milage']	['intermediate-size car']	0.0421463435009
+['dollar', 'milage']	['daily rate']	0.0546088484756
+['dollar', 'milage']	['rate']	0.374122906727
+['dollar', 'milage']	['21.95 dollar']	0.429235076102
+['dollar', 'milage']	['0.19']	0.0359411267535
+['dollar', 'milage']	['mile']	0.167018310553
+['dollar', 'milage']	['city rental']	0.0362241866398
+['dollar', 'milage']	['18.95 dollar']	0.429235076102
+['dollar', 'milage']	['0.21']	0.0359411267535
+['18.95 dollar', 'milage']	['safety rent-a-car']	0.0827346205535
+['18.95 dollar', 'milage']	['intermediate-size car']	0.0824069519204
+['18.95 dollar', 'milage']	['daily rate']	0.101119282389
+['18.95 dollar', 'milage']	['rate']	0.107005808615
+['18.95 dollar', 'milage']	['21.95 dollar']	0.549852778125
+['18.95 dollar', 'milage']	['0.19']	0.1191315107
+['18.95 dollar', 'milage']	['mile']	0.0396342000659
+['18.95 dollar', 'milage']	['city rental']	0.0827346205535
+['18.95 dollar', 'milage']	['dollar']	0.604148050918
+['18.95 dollar', 'milage']	['0.21']	0.1191315107
+['0.21', 'milage']	['safety rent-a-car']	0.0827346205535
+['0.21', 'milage']	['intermediate-size car']	0.0824069519204
+['0.21', 'milage']	['daily rate']	0.101119282389
+['0.21', 'milage']	['rate']	0.0922858731158
+['0.21', 'milage']	['21.95 dollar']	0.0827346205535
+['0.21', 'milage']	['0.19']	0.0922858731158
+['0.21', 'milage']	['mile']	0.0108687908977
+['0.21', 'milage']	['city rental']	0.0827346205535
+['0.21', 'milage']	['dollar']	0.0212464283393
+['0.21', 'milage']	['18.95 dollar']	0.0827346205535

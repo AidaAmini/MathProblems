@@ -1,0 +1,1042 @@
+['first car', 'average', '30 mile', 'second', 'mile', '25 mile', 'two car combine drive', '1700 mile', 'gas consumption', '60 gallon', 'gallon']
+['first car']	['average']	0.0690378963307
+['first car']	['30 mile']	0.0714213956243
+['first car']	['second']	0.011726423379
+['first car']	['mile']	0.0106028278734
+['first car']	['25 mile']	0.0714213956243
+['first car']	['two car combine drive']	0.0952656377028
+['first car']	['1700 mile']	0.0737139440912
+['first car']	['gas consumption']	0.0669904799604
+['first car']	['60 gallon']	0.0714213956243
+['first car']	['gallon']	0.00340088629102
+['average']	['30 mile']	0.0813535270388
+['average']	['second']	0.0284860458609
+['average']	['mile']	0.0303742514954
+['average']	['25 mile']	0.0813535270388
+['average']	['two car combine drive']	0.0920786332799
+['average']	['1700 mile']	0.0813535270388
+['average']	['gas consumption']	0.0901100077042
+['average']	['60 gallon']	0.0827346205535
+['average']	['gallon']	0.0139094119839
+['30 mile']	['second']	0.0249057509662
+['30 mile']	['25 mile']	0.828768839235
+['30 mile']	['two car combine drive']	0.160701079379
+['30 mile']	['1700 mile']	0.643440930505
+['30 mile']	['gas consumption']	0.0827346205535
+['30 mile']	['60 gallon']	0.387929093691
+['30 mile']	['gallon']	0.00424649792755
+['second']	['mile']	0.0263773960275
+['second']	['25 mile']	0.0361025509549
+['second']	['two car combine drive']	0.0991881876393
+['second']	['1700 mile']	0.0361025509549
+['second']	['gas consumption']	0.019654627282
+['second']	['60 gallon']	0.0160749451882
+['second']	['gallon']	0.0364630660462
+['mile']	['two car combine drive']	0.0229195678247
+['mile']	['gas consumption']	0.0160076877108
+['mile']	['60 gallon']	0.0160749451882
+['mile']	['gallon']	0.0582479763035
+['25 mile']	['two car combine drive']	0.160701079379
+['25 mile']	['1700 mile']	0.643440930505
+['25 mile']	['gas consumption']	0.0827346205535
+['25 mile']	['60 gallon']	0.387929093691
+['25 mile']	['gallon']	0.00424649792755
+['two car combine drive']	['1700 mile']	0.0988755105172
+['two car combine drive']	['gas consumption']	0.0897227386921
+['two car combine drive']	['60 gallon']	0.125410729912
+['two car combine drive']	['gallon']	0.00857205049933
+['1700 mile']	['gas consumption']	0.0901100077042
+['1700 mile']	['60 gallon']	0.0901100077042
+['1700 mile']	['gallon']	0.00424649792755
+['gas consumption']	['60 gallon']	0.0901100077042
+['gas consumption']	['gallon']	0.00542020684774
+['average', 'first car']	['30 mile']	0.0707439302222
+['average', 'first car']	['second']	0.353943167192
+['average', 'first car']	['mile']	0.0806965185133
+['average', 'first car']	['25 mile']	0.0707439302222
+['average', 'first car']	['two car combine drive']	0.100803737974
+['average', 'first car']	['1700 mile']	0.0696933362217
+['average', 'first car']	['gas consumption']	0.0703393045902
+['average', 'first car']	['60 gallon']	0.0707439302222
+['average', 'first car']	['gallon']	0.197894378929
+['30 mile', 'first car']	['average']	0.0667637182209
+['30 mile', 'first car']	['second']	0.0231369249482
+['30 mile', 'first car']	['mile']	0.336025466499
+['30 mile', 'first car']	['25 mile']	0.768689788461
+['30 mile', 'first car']	['two car combine drive']	0.141959496395
+['30 mile', 'first car']	['1700 mile']	0.544221442934
+['30 mile', 'first car']	['gas consumption']	0.0669904799604
+['30 mile', 'first car']	['60 gallon']	0.364511045285
+['30 mile', 'first car']	['gallon']	0.00222717737084
+['second', 'first car']	['average']	0.506878823923
+['second', 'first car']	['30 mile']	0.122026772091
+['second', 'first car']	['mile']	0.232661757141
+['second', 'first car']	['25 mile']	0.122026772091
+['second', 'first car']	['two car combine drive']	0.1670056751
+['second', 'first car']	['1700 mile']	0.118523866578
+['second', 'first car']	['gas consumption']	0.0988807452127
+['second', 'first car']	['60 gallon']	0.111680532211
+['second', 'first car']	['gallon']	0.122433762017
+['mile', 'first car']	['average']	0.1669002517
+['mile', 'first car']	['30 mile']	0.507039852328
+['mile', 'first car']	['second']	0.264871871761
+['mile', 'first car']	['25 mile']	0.507039852328
+['mile', 'first car']	['two car combine drive']	0.12322433837
+['mile', 'first car']	['1700 mile']	0.442012633359
+['mile', 'first car']	['gas consumption']	0.0989480026901
+['mile', 'first car']	['60 gallon']	0.111680532211
+['mile', 'first car']	['gallon']	0.168869182171
+['25 mile', 'first car']	['average']	0.0667637182209
+['25 mile', 'first car']	['30 mile']	0.768689788461
+['25 mile', 'first car']	['second']	0.0231369249482
+['25 mile', 'first car']	['mile']	0.336025466499
+['25 mile', 'first car']	['two car combine drive']	0.141959496395
+['25 mile', 'first car']	['1700 mile']	0.544221442934
+['25 mile', 'first car']	['gas consumption']	0.0669904799604
+['25 mile', 'first car']	['60 gallon']	0.364511045285
+['25 mile', 'first car']	['gallon']	0.00222717737084
+['two car combine drive', 'first car']	['average']	0.0634627444343
+['two car combine drive', 'first car']	['30 mile']	0.102743467224
+['two car combine drive', 'first car']	['second']	0.0102289818113
+['two car combine drive', 'first car']	['mile']	0.0102289818113
+['two car combine drive', 'first car']	['25 mile']	0.102743467224
+['two car combine drive', 'first car']	['1700 mile']	0.0681387921949
+['two car combine drive', 'first car']	['gas consumption']	0.0629867680194
+['two car combine drive', 'first car']	['60 gallon']	0.102743467224
+['two car combine drive', 'first car']	['gallon']	0.00371585050999
+['1700 mile', 'first car']	['average']	0.0667637182209
+['1700 mile', 'first car']	['30 mile']	0.465538040018
+['1700 mile', 'first car']	['second']	0.0231369249482
+['1700 mile', 'first car']	['mile']	0.343895355679
+['1700 mile', 'first car']	['25 mile']	0.465538040018
+['1700 mile', 'first car']	['two car combine drive']	0.102851780848
+['1700 mile', 'first car']	['gas consumption']	0.0703393045902
+['1700 mile', 'first car']	['60 gallon']	0.074092754852
+['1700 mile', 'first car']	['gallon']	0.00222717737084
+['gas consumption', 'first car']	['average']	0.0690378963307
+['gas consumption', 'first car']	['30 mile']	0.074092754852
+['gas consumption', 'first car']	['second']	0.011726423379
+['gas consumption', 'first car']	['mile']	0.0106028278734
+['gas consumption', 'first car']	['25 mile']	0.074092754852
+['gas consumption', 'first car']	['two car combine drive']	0.102851780848
+['gas consumption', 'first car']	['1700 mile']	0.0737139440912
+['gas consumption', 'first car']	['60 gallon']	0.074092754852
+['gas consumption', 'first car']	['gallon']	0.00340088629102
+['60 gallon', 'first car']	['average']	0.0690378963307
+['60 gallon', 'first car']	['30 mile']	0.364511045285
+['60 gallon', 'first car']	['second']	0.011726423379
+['60 gallon', 'first car']	['mile']	0.0106028278734
+['60 gallon', 'first car']	['25 mile']	0.364511045285
+['60 gallon', 'first car']	['two car combine drive']	0.141959496395
+['60 gallon', 'first car']	['1700 mile']	0.0737139440912
+['60 gallon', 'first car']	['gas consumption']	0.0669904799604
+['60 gallon', 'first car']	['gallon']	0.180068921784
+['gallon', 'first car']	['average']	0.336550660897
+['gallon', 'first car']	['30 mile']	0.0864675159274
+['gallon', 'first car']	['second']	0.142433762017
+['gallon', 'first car']	['mile']	0.168869182171
+['gallon', 'first car']	['25 mile']	0.0864675159274
+['gallon', 'first car']	['two car combine drive']	0.0857048613889
+['gallon', 'first car']	['1700 mile']	0.0780842671024
+['gallon', 'first car']	['gas consumption']	0.0780842671024
+['gallon', 'first car']	['60 gallon']	0.402551418099
+['first car', 'average']	['30 mile']	0.0707439302222
+['first car', 'average']	['second']	0.353943167192
+['first car', 'average']	['mile']	0.0806965185133
+['first car', 'average']	['25 mile']	0.0707439302222
+['first car', 'average']	['two car combine drive']	0.100803737974
+['first car', 'average']	['1700 mile']	0.0696933362217
+['first car', 'average']	['gas consumption']	0.0703393045902
+['first car', 'average']	['60 gallon']	0.0707439302222
+['first car', 'average']	['gallon']	0.197894378929
+['30 mile', 'average']	['first car']	0.0868063705507
+['30 mile', 'average']	['second']	0.490537525093
+['30 mile', 'average']	['mile']	0.627173633678
+['30 mile', 'average']	['25 mile']	0.760386850763
+['30 mile', 'average']	['two car combine drive']	0.155842182951
+['30 mile', 'average']	['1700 mile']	0.538007739106
+['30 mile', 'average']	['gas consumption']	0.0827346205535
+['30 mile', 'average']	['60 gallon']	0.422016612763
+['30 mile', 'average']	['gallon']	0.226533112772
+['second', 'average']	['first car']	0.0427923118694
+['second', 'average']	['30 mile']	0.0708527975694
+['second', 'average']	['mile']	0.151238170709
+['second', 'average']	['25 mile']	0.0708527975694
+['second', 'average']	['two car combine drive']	0.0938618772783
+['second', 'average']	['1700 mile']	0.0708527975694
+['second', 'average']	['gas consumption']	0.0384978040692
+['second', 'average']	['60 gallon']	0.0368701550083
+['second', 'average']	['gallon']	0.200769836804
+['mile', 'average']	['first car']	0.0421463435009
+['mile', 'average']	['30 mile']	0.452298826701
+['mile', 'average']	['second']	0.156877516443
+['mile', 'average']	['25 mile']	0.452298826701
+['mile', 'average']	['two car combine drive']	0.0501553472069
+['mile', 'average']	['1700 mile']	0.553297612561
+['mile', 'average']	['gas consumption']	0.0361569291624
+['mile', 'average']	['60 gallon']	0.0368701550083
+['mile', 'average']	['gallon']	0.164009051294
+['25 mile', 'average']	['first car']	0.0868063705507
+['25 mile', 'average']	['30 mile']	0.760386850763
+['25 mile', 'average']	['second']	0.490537525093
+['25 mile', 'average']	['mile']	0.627173633678
+['25 mile', 'average']	['two car combine drive']	0.155842182951
+['25 mile', 'average']	['1700 mile']	0.538007739106
+['25 mile', 'average']	['gas consumption']	0.0827346205535
+['25 mile', 'average']	['60 gallon']	0.422016612763
+['25 mile', 'average']	['gallon']	0.226533112772
+['two car combine drive', 'average']	['first car']	0.155883580973
+['two car combine drive', 'average']	['30 mile']	0.204870329945
+['two car combine drive', 'average']	['second']	0.286117563485
+['two car combine drive', 'average']	['mile']	0.138959946751
+['two car combine drive', 'average']	['25 mile']	0.204870329945
+['two car combine drive', 'average']	['1700 mile']	0.152238479479
+['two car combine drive', 'average']	['gas consumption']	0.152238479479
+['two car combine drive', 'average']	['60 gallon']	0.197610942174
+['two car combine drive', 'average']	['gallon']	0.208753190744
+['1700 mile', 'average']	['first car']	0.0897823390711
+['1700 mile', 'average']	['30 mile']	0.538007739106
+['1700 mile', 'average']	['second']	0.490537525093
+['1700 mile', 'average']	['mile']	0.698843361936
+['1700 mile', 'average']	['25 mile']	0.538007739106
+['1700 mile', 'average']	['two car combine drive']	0.0920786332799
+['1700 mile', 'average']	['gas consumption']	0.0901100077042
+['1700 mile', 'average']	['60 gallon']	0.0827346205535
+['1700 mile', 'average']	['gallon']	0.226533112772
+['gas consumption', 'average']	['first car']	0.0897823390711
+['gas consumption', 'average']	['30 mile']	0.0827346205535
+['gas consumption', 'average']	['second']	0.347658978497
+['gas consumption', 'average']	['mile']	0.11596780482
+['gas consumption', 'average']	['25 mile']	0.0827346205535
+['gas consumption', 'average']	['two car combine drive']	0.0920786332799
+['gas consumption', 'average']	['1700 mile']	0.0827346205535
+['gas consumption', 'average']	['60 gallon']	0.0827346205535
+['gas consumption', 'average']	['gallon']	0.225186311425
+['60 gallon', 'average']	['first car']	0.0868063705507
+['60 gallon', 'average']	['30 mile']	0.422016612763
+['60 gallon', 'average']	['second']	0.349073037322
+['60 gallon', 'average']	['mile']	0.134911466792
+['60 gallon', 'average']	['25 mile']	0.422016612763
+['60 gallon', 'average']	['two car combine drive']	0.155842182951
+['60 gallon', 'average']	['1700 mile']	0.0827346205535
+['60 gallon', 'average']	['gas consumption']	0.0827346205535
+['60 gallon', 'average']	['gallon']	0.528088214393
+['gallon', 'average']	['first car']	0.0199229782255
+['gallon', 'average']	['30 mile']	0.0160064194205
+['gallon', 'average']	['second']	0.200769836804
+['gallon', 'average']	['mile']	0.0900528096359
+['gallon', 'average']	['25 mile']	0.0160064194205
+['gallon', 'average']	['two car combine drive']	0.0196847391915
+['gallon', 'average']	['1700 mile']	0.0160064194205
+['gallon', 'average']	['gas consumption']	0.0165341599722
+['gallon', 'average']	['60 gallon']	0.339834483176
+['first car', '30 mile']	['average']	0.0667637182209
+['first car', '30 mile']	['second']	0.0231369249482
+['first car', '30 mile']	['mile']	0.336025466499
+['first car', '30 mile']	['25 mile']	0.768689788461
+['first car', '30 mile']	['two car combine drive']	0.141959496395
+['first car', '30 mile']	['1700 mile']	0.544221442934
+['first car', '30 mile']	['gas consumption']	0.0669904799604
+['first car', '30 mile']	['60 gallon']	0.364511045285
+['first car', '30 mile']	['gallon']	0.00222717737084
+['average', '30 mile']	['first car']	0.0868063705507
+['average', '30 mile']	['second']	0.490537525093
+['average', '30 mile']	['mile']	0.627173633678
+['average', '30 mile']	['25 mile']	0.760386850763
+['average', '30 mile']	['two car combine drive']	0.155842182951
+['average', '30 mile']	['1700 mile']	0.538007739106
+['average', '30 mile']	['gas consumption']	0.0827346205535
+['average', '30 mile']	['60 gallon']	0.422016612763
+['average', '30 mile']	['gallon']	0.226533112772
+['second', '30 mile']	['first car']	0.0457881772991
+['second', '30 mile']	['average']	0.466706866251
+['second', '30 mile']	['mile']	0.7295362164
+['second', '30 mile']	['25 mile']	0.465798402217
+['second', '30 mile']	['two car combine drive']	0.136281452758
+['second', '30 mile']	['1700 mile']	0.194706354441
+['second', '30 mile']	['gas consumption']	0.0361569291624
+['second', '30 mile']	['60 gallon']	0.315033653242
+['second', '30 mile']	['gallon']	0.109100428684
+['mile', '30 mile']	['first car']	0.166828084848
+['mile', '30 mile']	['average']	0.36307072805
+['mile', '30 mile']	['second']	0.420241739927
+['mile', '30 mile']	['25 mile']	0.667149997161
+['mile', '30 mile']	['two car combine drive']	0.395766805274
+['mile', '30 mile']	['1700 mile']	0.676555862245
+['mile', '30 mile']	['gas consumption']	0.0968024870635
+['mile', '30 mile']	['60 gallon']	0.556009941538
+['mile', '30 mile']	['gallon']	0.231054701292
+['25 mile', '30 mile']	['first car']	0.247344309062
+['25 mile', '30 mile']	['average']	0.383475193417
+['25 mile', '30 mile']	['second']	0.246734138582
+['25 mile', '30 mile']	['mile']	0.693038862582
+['25 mile', '30 mile']	['two car combine drive']	0.509041759135
+['25 mile', '30 mile']	['1700 mile']	0.637144068101
+['25 mile', '30 mile']	['gas consumption']	0.153587928078
+['25 mile', '30 mile']	['60 gallon']	0.679208007308
+['25 mile', '30 mile']	['gallon']	0.156901862603
+['two car combine drive', '30 mile']	['first car']	0.0938515916692
+['two car combine drive', '30 mile']	['average']	0.0865519868472
+['two car combine drive', '30 mile']	['second']	0.0222930989339
+['two car combine drive', '30 mile']	['mile']	0.417355128342
+['two car combine drive', '30 mile']	['25 mile']	0.815064443789
+['two car combine drive', '30 mile']	['1700 mile']	0.630956863273
+['two car combine drive', '30 mile']	['gas consumption']	0.0915001233665
+['two car combine drive', '30 mile']	['60 gallon']	0.445494492494
+['two car combine drive', '30 mile']	['gallon']	0.0118960167779
+['1700 mile', '30 mile']	['first car']	0.235629082837
+['1700 mile', '30 mile']	['average']	0.383475193417
+['1700 mile', '30 mile']	['second']	0.246734138582
+['1700 mile', '30 mile']	['mile']	0.67956664036
+['1700 mile', '30 mile']	['25 mile']	0.862138942741
+['1700 mile', '30 mile']	['two car combine drive']	0.439028939825
+['1700 mile', '30 mile']	['gas consumption']	0.153587928078
+['1700 mile', '30 mile']	['60 gallon']	0.59564157713
+['1700 mile', '30 mile']	['gallon']	0.156901862603
+['gas consumption', '30 mile']	['first car']	0.0868063705507
+['gas consumption', '30 mile']	['average']	0.0777864840342
+['gas consumption', '30 mile']	['second']	0.0249057509662
+['gas consumption', '30 mile']	['mile']	0.351874311122
+['gas consumption', '30 mile']	['25 mile']	0.754360422532
+['gas consumption', '30 mile']	['two car combine drive']	0.160359361629
+['gas consumption', '30 mile']	['1700 mile']	0.584269096576
+['gas consumption', '30 mile']	['60 gallon']	0.362256416006
+['gas consumption', '30 mile']	['gallon']	0.00424649792755
+['60 gallon', '30 mile']	['first car']	0.080725694924
+['60 gallon', '30 mile']	['average']	0.0777864840342
+['60 gallon', '30 mile']	['second']	0.0257604518209
+['60 gallon', '30 mile']	['mile']	0.388108272712
+['60 gallon', '30 mile']	['25 mile']	0.837596040951
+['60 gallon', '30 mile']	['two car combine drive']	0.256272974513
+['60 gallon', '30 mile']	['1700 mile']	0.584269096576
+['60 gallon', '30 mile']	['gas consumption']	0.0827346205535
+['60 gallon', '30 mile']	['gallon']	0.372826897211
+['gallon', '30 mile']	['first car']	0.0187994072397
+['gallon', '30 mile']	['average']	0.296378703225
+['gallon', '30 mile']	['second']	0.143732463316
+['gallon', '30 mile']	['mile']	0.577408096888
+['gallon', '30 mile']	['25 mile']	0.403884837601
+['gallon', '30 mile']	['two car combine drive']	0.0303534144201
+['gallon', '30 mile']	['1700 mile']	0.0852471420558
+['gallon', '30 mile']	['gas consumption']	0.0165341599722
+['gallon', '30 mile']	['60 gallon']	0.451856718521
+['first car', 'second']	['average']	0.506878823923
+['first car', 'second']	['30 mile']	0.122026772091
+['first car', 'second']	['mile']	0.232661757141
+['first car', 'second']	['25 mile']	0.122026772091
+['first car', 'second']	['two car combine drive']	0.1670056751
+['first car', 'second']	['1700 mile']	0.118523866578
+['first car', 'second']	['gas consumption']	0.0988807452127
+['first car', 'second']	['60 gallon']	0.111680532211
+['first car', 'second']	['gallon']	0.122433762017
+['average', 'second']	['first car']	0.0427923118694
+['average', 'second']	['30 mile']	0.0708527975694
+['average', 'second']	['mile']	0.151238170709
+['average', 'second']	['25 mile']	0.0708527975694
+['average', 'second']	['two car combine drive']	0.0938618772783
+['average', 'second']	['1700 mile']	0.0708527975694
+['average', 'second']	['gas consumption']	0.0384978040692
+['average', 'second']	['60 gallon']	0.0368701550083
+['average', 'second']	['gallon']	0.200769836804
+['30 mile', 'second']	['first car']	0.0457881772991
+['30 mile', 'second']	['average']	0.466706866251
+['30 mile', 'second']	['mile']	0.7295362164
+['30 mile', 'second']	['25 mile']	0.465798402217
+['30 mile', 'second']	['two car combine drive']	0.136281452758
+['30 mile', 'second']	['1700 mile']	0.194706354441
+['30 mile', 'second']	['gas consumption']	0.0361569291624
+['30 mile', 'second']	['60 gallon']	0.315033653242
+['30 mile', 'second']	['gallon']	0.109100428684
+['mile', 'second']	['first car']	0.0839398472414
+['mile', 'second']	['average']	0.323373847124
+['mile', 'second']	['30 mile']	0.476446737755
+['mile', 'second']	['25 mile']	0.476446737755
+['mile', 'second']	['two car combine drive']	0.156031697557
+['mile', 'second']	['1700 mile']	0.551258278025
+['mile', 'second']	['gas consumption']	0.0819186868711
+['mile', 'second']	['60 gallon']	0.0819859443486
+['mile', 'second']	['gallon']	0.0900528096359
+['25 mile', 'second']	['first car']	0.0457881772991
+['25 mile', 'second']	['average']	0.466706866251
+['25 mile', 'second']	['30 mile']	0.465798402217
+['25 mile', 'second']	['mile']	0.7295362164
+['25 mile', 'second']	['two car combine drive']	0.136281452758
+['25 mile', 'second']	['1700 mile']	0.194706354441
+['25 mile', 'second']	['gas consumption']	0.0361569291624
+['25 mile', 'second']	['60 gallon']	0.315033653242
+['25 mile', 'second']	['gallon']	0.109100428684
+['two car combine drive', 'second']	['first car']	0.043434623244
+['two car combine drive', 'second']	['average']	0.408441341255
+['two car combine drive', 'second']	['30 mile']	0.0611637924139
+['two car combine drive', 'second']	['mile']	0.231164692366
+['two car combine drive', 'second']	['25 mile']	0.0611637924139
+['two car combine drive', 'second']	['1700 mile']	0.0874257981742
+['two car combine drive', 'second']	['gas consumption']	0.0660803704124
+['two car combine drive', 'second']	['60 gallon']	0.063671473423
+['two car combine drive', 'second']	['gallon']	0.112433762017
+['1700 mile', 'second']	['first car']	0.0427923118694
+['1700 mile', 'second']	['average']	0.466706866251
+['1700 mile', 'second']	['30 mile']	0.194706354441
+['1700 mile', 'second']	['mile']	0.747275800849
+['1700 mile', 'second']	['25 mile']	0.194706354441
+['1700 mile', 'second']	['two car combine drive']	0.0938618772783
+['1700 mile', 'second']	['gas consumption']	0.0384978040692
+['1700 mile', 'second']	['60 gallon']	0.0368028975308
+['1700 mile', 'second']	['gallon']	0.109100428684
+['gas consumption', 'second']	['first car']	0.0427923118694
+['gas consumption', 'second']	['average']	0.46604549059
+['gas consumption', 'second']	['30 mile']	0.0618737183104
+['gas consumption', 'second']	['mile']	0.199328423808
+['gas consumption', 'second']	['25 mile']	0.0618737183104
+['gas consumption', 'second']	['two car combine drive']	0.0938618772783
+['gas consumption', 'second']	['1700 mile']	0.0618737183104
+['gas consumption', 'second']	['60 gallon']	0.0368028975308
+['gas consumption', 'second']	['gallon']	0.0891004286835
+['60 gallon', 'second']	['first car']	0.0457881772991
+['60 gallon', 'second']	['average']	0.46604549059
+['60 gallon', 'second']	['30 mile']	0.311723141764
+['60 gallon', 'second']	['mile']	0.226668408558
+['60 gallon', 'second']	['25 mile']	0.311723141764
+['60 gallon', 'second']	['two car combine drive']	0.136281452758
+['60 gallon', 'second']	['1700 mile']	0.0618737183104
+['60 gallon', 'second']	['gas consumption']	0.0361569291624
+['60 gallon', 'second']	['gallon']	0.49543187558
+['gallon', 'second']	['first car']	0.0735454731102
+['gallon', 'second']	['average']	0.0823591706489
+['gallon', 'second']	['30 mile']	0.0714553561556
+['gallon', 'second']	['mile']	0.102582951673
+['gallon', 'second']	['25 mile']	0.0714553561556
+['gallon', 'second']	['two car combine drive']	0.0914507439363
+['gallon', 'second']	['1700 mile']	0.0714553561556
+['gallon', 'second']	['gas consumption']	0.0713303637771
+['gallon', 'second']	['60 gallon']	0.333841159232
+['first car', 'mile']	['average']	0.1669002517
+['first car', 'mile']	['30 mile']	0.507039852328
+['first car', 'mile']	['second']	0.264871871761
+['first car', 'mile']	['25 mile']	0.507039852328
+['first car', 'mile']	['two car combine drive']	0.12322433837
+['first car', 'mile']	['1700 mile']	0.442012633359
+['first car', 'mile']	['gas consumption']	0.0989480026901
+['first car', 'mile']	['60 gallon']	0.111680532211
+['first car', 'mile']	['gallon']	0.168869182171
+['average', 'mile']	['first car']	0.0421463435009
+['average', 'mile']	['30 mile']	0.452298826701
+['average', 'mile']	['second']	0.156877516443
+['average', 'mile']	['25 mile']	0.452298826701
+['average', 'mile']	['two car combine drive']	0.0501553472069
+['average', 'mile']	['1700 mile']	0.553297612561
+['average', 'mile']	['gas consumption']	0.0361569291624
+['average', 'mile']	['60 gallon']	0.0368701550083
+['average', 'mile']	['gallon']	0.164009051294
+['30 mile', 'mile']	['first car']	0.166828084848
+['30 mile', 'mile']	['average']	0.36307072805
+['30 mile', 'mile']	['second']	0.420241739927
+['30 mile', 'mile']	['25 mile']	0.667149997161
+['30 mile', 'mile']	['two car combine drive']	0.395766805274
+['30 mile', 'mile']	['1700 mile']	0.676555862245
+['30 mile', 'mile']	['gas consumption']	0.0968024870635
+['30 mile', 'mile']	['60 gallon']	0.556009941538
+['30 mile', 'mile']	['gallon']	0.231054701292
+['second', 'mile']	['first car']	0.0839398472414
+['second', 'mile']	['average']	0.323373847124
+['second', 'mile']	['30 mile']	0.476446737755
+['second', 'mile']	['25 mile']	0.476446737755
+['second', 'mile']	['two car combine drive']	0.156031697557
+['second', 'mile']	['1700 mile']	0.551258278025
+['second', 'mile']	['gas consumption']	0.0819186868711
+['second', 'mile']	['60 gallon']	0.0819859443486
+['second', 'mile']	['gallon']	0.0900528096359
+['25 mile', 'mile']	['first car']	0.166828084848
+['25 mile', 'mile']	['average']	0.36307072805
+['25 mile', 'mile']	['30 mile']	0.667149997161
+['25 mile', 'mile']	['second']	0.420241739927
+['25 mile', 'mile']	['two car combine drive']	0.395766805274
+['25 mile', 'mile']	['1700 mile']	0.676555862245
+['25 mile', 'mile']	['gas consumption']	0.0968024870635
+['25 mile', 'mile']	['60 gallon']	0.556009941538
+['25 mile', 'mile']	['gallon']	0.231054701292
+['two car combine drive', 'mile']	['first car']	0.0775927988869
+['two car combine drive', 'mile']	['average']	0.139073088995
+['two car combine drive', 'mile']	['30 mile']	0.567794391541
+['two car combine drive', 'mile']	['second']	0.21086120268
+['two car combine drive', 'mile']	['25 mile']	0.567794391541
+['two car combine drive', 'mile']	['1700 mile']	0.440279895857
+['two car combine drive', 'mile']	['gas consumption']	0.0660803704124
+['two car combine drive', 'mile']	['60 gallon']	0.063671473423
+['two car combine drive', 'mile']	['gallon']	0.135850813057
+['1700 mile', 'mile']	['first car']	0.103856602467
+['1700 mile', 'mile']	['average']	0.36307072805
+['1700 mile', 'mile']	['30 mile']	0.638178477636
+['1700 mile', 'mile']	['second']	0.420241739927
+['1700 mile', 'mile']	['25 mile']	0.638178477636
+['1700 mile', 'mile']	['two car combine drive']	0.324358819701
+['1700 mile', 'mile']	['gas consumption']	0.0968024870635
+['1700 mile', 'mile']	['60 gallon']	0.177448801378
+['1700 mile', 'mile']	['gallon']	0.231054701292
+['gas consumption', 'mile']	['first car']	0.0421463435009
+['gas consumption', 'mile']	['average']	0.109561042279
+['gas consumption', 'mile']	['30 mile']	0.391516700063
+['gas consumption', 'mile']	['second']	0.199328423808
+['gas consumption', 'mile']	['25 mile']	0.391516700063
+['gas consumption', 'mile']	['two car combine drive']	0.0501553472069
+['gas consumption', 'mile']	['1700 mile']	0.442012633359
+['gas consumption', 'mile']	['60 gallon']	0.0368028975308
+['gas consumption', 'mile']	['gallon']	0.135535848838
+['60 gallon', 'mile']	['first car']	0.0466130196087
+['60 gallon', 'mile']	['average']	0.109561042279
+['60 gallon', 'mile']	['30 mile']	0.565841479934
+['60 gallon', 'mile']	['second']	0.226668408558
+['60 gallon', 'mile']	['25 mile']	0.565841479934
+['60 gallon', 'mile']	['two car combine drive']	0.0935618635892
+['60 gallon', 'mile']	['1700 mile']	0.442012633359
+['60 gallon', 'mile']	['gas consumption']	0.0361569291624
+['60 gallon', 'mile']	['gallon']	0.533491834998
+['gallon', 'mile']	['first car']	0.0747191820304
+['gallon', 'mile']	['average']	0.23483401581
+['gallon', 'mile']	['30 mile']	0.272919550891
+['gallon', 'mile']	['second']	0.0900528096359
+['gallon', 'mile']	['25 mile']	0.272919550891
+['gallon', 'mile']	['two car combine drive']	0.071865252538
+['gallon', 'mile']	['1700 mile']	0.408636417552
+['gallon', 'mile']	['gas consumption']	0.0713303637771
+['gallon', 'mile']	['60 gallon']	0.333841159232
+['first car', '25 mile']	['average']	0.0667637182209
+['first car', '25 mile']	['30 mile']	0.768689788461
+['first car', '25 mile']	['second']	0.0231369249482
+['first car', '25 mile']	['mile']	0.336025466499
+['first car', '25 mile']	['two car combine drive']	0.141959496395
+['first car', '25 mile']	['1700 mile']	0.544221442934
+['first car', '25 mile']	['gas consumption']	0.0669904799604
+['first car', '25 mile']	['60 gallon']	0.364511045285
+['first car', '25 mile']	['gallon']	0.00222717737084
+['average', '25 mile']	['first car']	0.0868063705507
+['average', '25 mile']	['30 mile']	0.760386850763
+['average', '25 mile']	['second']	0.490537525093
+['average', '25 mile']	['mile']	0.627173633678
+['average', '25 mile']	['two car combine drive']	0.155842182951
+['average', '25 mile']	['1700 mile']	0.538007739106
+['average', '25 mile']	['gas consumption']	0.0827346205535
+['average', '25 mile']	['60 gallon']	0.422016612763
+['average', '25 mile']	['gallon']	0.226533112772
+['30 mile', '25 mile']	['first car']	0.247344309062
+['30 mile', '25 mile']	['average']	0.383475193417
+['30 mile', '25 mile']	['second']	0.246734138582
+['30 mile', '25 mile']	['mile']	0.693038862582
+['30 mile', '25 mile']	['two car combine drive']	0.509041759135
+['30 mile', '25 mile']	['1700 mile']	0.637144068101
+['30 mile', '25 mile']	['gas consumption']	0.153587928078
+['30 mile', '25 mile']	['60 gallon']	0.679208007308
+['30 mile', '25 mile']	['gallon']	0.156901862603
+['second', '25 mile']	['first car']	0.0457881772991
+['second', '25 mile']	['average']	0.466706866251
+['second', '25 mile']	['30 mile']	0.465798402217
+['second', '25 mile']	['mile']	0.7295362164
+['second', '25 mile']	['two car combine drive']	0.136281452758
+['second', '25 mile']	['1700 mile']	0.194706354441
+['second', '25 mile']	['gas consumption']	0.0361569291624
+['second', '25 mile']	['60 gallon']	0.315033653242
+['second', '25 mile']	['gallon']	0.109100428684
+['mile', '25 mile']	['first car']	0.166828084848
+['mile', '25 mile']	['average']	0.36307072805
+['mile', '25 mile']	['30 mile']	0.667149997161
+['mile', '25 mile']	['second']	0.420241739927
+['mile', '25 mile']	['two car combine drive']	0.395766805274
+['mile', '25 mile']	['1700 mile']	0.676555862245
+['mile', '25 mile']	['gas consumption']	0.0968024870635
+['mile', '25 mile']	['60 gallon']	0.556009941538
+['mile', '25 mile']	['gallon']	0.231054701292
+['two car combine drive', '25 mile']	['first car']	0.0938515916692
+['two car combine drive', '25 mile']	['average']	0.0865519868472
+['two car combine drive', '25 mile']	['30 mile']	0.815064443789
+['two car combine drive', '25 mile']	['second']	0.0222930989339
+['two car combine drive', '25 mile']	['mile']	0.417355128342
+['two car combine drive', '25 mile']	['1700 mile']	0.630956863273
+['two car combine drive', '25 mile']	['gas consumption']	0.0915001233665
+['two car combine drive', '25 mile']	['60 gallon']	0.445494492494
+['two car combine drive', '25 mile']	['gallon']	0.0118960167779
+['1700 mile', '25 mile']	['first car']	0.235629082837
+['1700 mile', '25 mile']	['average']	0.383475193417
+['1700 mile', '25 mile']	['30 mile']	0.862138942741
+['1700 mile', '25 mile']	['second']	0.246734138582
+['1700 mile', '25 mile']	['mile']	0.67956664036
+['1700 mile', '25 mile']	['two car combine drive']	0.439028939825
+['1700 mile', '25 mile']	['gas consumption']	0.153587928078
+['1700 mile', '25 mile']	['60 gallon']	0.59564157713
+['1700 mile', '25 mile']	['gallon']	0.156901862603
+['gas consumption', '25 mile']	['first car']	0.0868063705507
+['gas consumption', '25 mile']	['average']	0.0777864840342
+['gas consumption', '25 mile']	['30 mile']	0.754360422532
+['gas consumption', '25 mile']	['second']	0.0249057509662
+['gas consumption', '25 mile']	['mile']	0.351874311122
+['gas consumption', '25 mile']	['two car combine drive']	0.160359361629
+['gas consumption', '25 mile']	['1700 mile']	0.584269096576
+['gas consumption', '25 mile']	['60 gallon']	0.362256416006
+['gas consumption', '25 mile']	['gallon']	0.00424649792755
+['60 gallon', '25 mile']	['first car']	0.080725694924
+['60 gallon', '25 mile']	['average']	0.0777864840342
+['60 gallon', '25 mile']	['30 mile']	0.837596040951
+['60 gallon', '25 mile']	['second']	0.0257604518209
+['60 gallon', '25 mile']	['mile']	0.388108272712
+['60 gallon', '25 mile']	['two car combine drive']	0.256272974513
+['60 gallon', '25 mile']	['1700 mile']	0.584269096576
+['60 gallon', '25 mile']	['gas consumption']	0.0827346205535
+['60 gallon', '25 mile']	['gallon']	0.372826897211
+['gallon', '25 mile']	['first car']	0.0187994072397
+['gallon', '25 mile']	['average']	0.296378703225
+['gallon', '25 mile']	['30 mile']	0.403884837601
+['gallon', '25 mile']	['second']	0.143732463316
+['gallon', '25 mile']	['mile']	0.577408096888
+['gallon', '25 mile']	['two car combine drive']	0.0303534144201
+['gallon', '25 mile']	['1700 mile']	0.0852471420558
+['gallon', '25 mile']	['gas consumption']	0.0165341599722
+['gallon', '25 mile']	['60 gallon']	0.451856718521
+['first car', 'two car combine drive']	['average']	0.0634627444343
+['first car', 'two car combine drive']	['30 mile']	0.102743467224
+['first car', 'two car combine drive']	['second']	0.0102289818113
+['first car', 'two car combine drive']	['mile']	0.0102289818113
+['first car', 'two car combine drive']	['25 mile']	0.102743467224
+['first car', 'two car combine drive']	['1700 mile']	0.0681387921949
+['first car', 'two car combine drive']	['gas consumption']	0.0629867680194
+['first car', 'two car combine drive']	['60 gallon']	0.102743467224
+['first car', 'two car combine drive']	['gallon']	0.00371585050999
+['average', 'two car combine drive']	['first car']	0.155883580973
+['average', 'two car combine drive']	['30 mile']	0.204870329945
+['average', 'two car combine drive']	['second']	0.286117563485
+['average', 'two car combine drive']	['mile']	0.138959946751
+['average', 'two car combine drive']	['25 mile']	0.204870329945
+['average', 'two car combine drive']	['1700 mile']	0.152238479479
+['average', 'two car combine drive']	['gas consumption']	0.152238479479
+['average', 'two car combine drive']	['60 gallon']	0.197610942174
+['average', 'two car combine drive']	['gallon']	0.208753190744
+['30 mile', 'two car combine drive']	['first car']	0.0938515916692
+['30 mile', 'two car combine drive']	['average']	0.0865519868472
+['30 mile', 'two car combine drive']	['second']	0.0222930989339
+['30 mile', 'two car combine drive']	['mile']	0.417355128342
+['30 mile', 'two car combine drive']	['25 mile']	0.815064443789
+['30 mile', 'two car combine drive']	['1700 mile']	0.630956863273
+['30 mile', 'two car combine drive']	['gas consumption']	0.0915001233665
+['30 mile', 'two car combine drive']	['60 gallon']	0.445494492494
+['30 mile', 'two car combine drive']	['gallon']	0.0118960167779
+['second', 'two car combine drive']	['first car']	0.043434623244
+['second', 'two car combine drive']	['average']	0.408441341255
+['second', 'two car combine drive']	['30 mile']	0.0611637924139
+['second', 'two car combine drive']	['mile']	0.231164692366
+['second', 'two car combine drive']	['25 mile']	0.0611637924139
+['second', 'two car combine drive']	['1700 mile']	0.0874257981742
+['second', 'two car combine drive']	['gas consumption']	0.0660803704124
+['second', 'two car combine drive']	['60 gallon']	0.063671473423
+['second', 'two car combine drive']	['gallon']	0.112433762017
+['mile', 'two car combine drive']	['first car']	0.0775927988869
+['mile', 'two car combine drive']	['average']	0.139073088995
+['mile', 'two car combine drive']	['30 mile']	0.567794391541
+['mile', 'two car combine drive']	['second']	0.21086120268
+['mile', 'two car combine drive']	['25 mile']	0.567794391541
+['mile', 'two car combine drive']	['1700 mile']	0.440279895857
+['mile', 'two car combine drive']	['gas consumption']	0.0660803704124
+['mile', 'two car combine drive']	['60 gallon']	0.063671473423
+['mile', 'two car combine drive']	['gallon']	0.135850813057
+['25 mile', 'two car combine drive']	['first car']	0.0938515916692
+['25 mile', 'two car combine drive']	['average']	0.0865519868472
+['25 mile', 'two car combine drive']	['30 mile']	0.815064443789
+['25 mile', 'two car combine drive']	['second']	0.0222930989339
+['25 mile', 'two car combine drive']	['mile']	0.417355128342
+['25 mile', 'two car combine drive']	['1700 mile']	0.630956863273
+['25 mile', 'two car combine drive']	['gas consumption']	0.0915001233665
+['25 mile', 'two car combine drive']	['60 gallon']	0.445494492494
+['25 mile', 'two car combine drive']	['gallon']	0.0118960167779
+['1700 mile', 'two car combine drive']	['first car']	0.0951452248602
+['1700 mile', 'two car combine drive']	['average']	0.0865519868472
+['1700 mile', 'two car combine drive']	['30 mile']	0.636174109686
+['1700 mile', 'two car combine drive']	['second']	0.0222930989339
+['1700 mile', 'two car combine drive']	['mile']	0.47145223677
+['1700 mile', 'two car combine drive']	['25 mile']	0.636174109686
+['1700 mile', 'two car combine drive']	['gas consumption']	0.0915001233665
+['1700 mile', 'two car combine drive']	['60 gallon']	0.122899008826
+['1700 mile', 'two car combine drive']	['gallon']	0.0118960167779
+['gas consumption', 'two car combine drive']	['first car']	0.0951452248602
+['gas consumption', 'two car combine drive']	['average']	0.0888261649569
+['gas consumption', 'two car combine drive']	['30 mile']	0.122899008826
+['gas consumption', 'two car combine drive']	['second']	0.012852508684
+['gas consumption', 'two car combine drive']	['mile']	0.012852508684
+['gas consumption', 'two car combine drive']	['25 mile']	0.122899008826
+['gas consumption', 'two car combine drive']	['1700 mile']	0.0988755105172
+['gas consumption', 'two car combine drive']	['60 gallon']	0.122899008826
+['gas consumption', 'two car combine drive']	['gallon']	0.00920098131694
+['60 gallon', 'two car combine drive']	['first car']	0.0938515916692
+['60 gallon', 'two car combine drive']	['average']	0.0888261649569
+['60 gallon', 'two car combine drive']	['30 mile']	0.445494492494
+['60 gallon', 'two car combine drive']	['second']	0.012852508684
+['60 gallon', 'two car combine drive']	['mile']	0.015547544145
+['60 gallon', 'two car combine drive']	['25 mile']	0.445494492494
+['60 gallon', 'two car combine drive']	['1700 mile']	0.0988755105172
+['60 gallon', 'two car combine drive']	['gas consumption']	0.0915001233665
+['60 gallon', 'two car combine drive']	['gallon']	0.360564856329
+['gallon', 'two car combine drive']	['first car']	0.0183083723858
+['gallon', 'two car combine drive']	['average']	0.234242891519
+['gallon', 'two car combine drive']	['30 mile']	0.0249425631587
+['gallon', 'two car combine drive']	['second']	0.113386142969
+['gallon', 'two car combine drive']	['mile']	0.1679936702
+['gallon', 'two car combine drive']	['25 mile']	0.0249425631587
+['gallon', 'two car combine drive']	['1700 mile']	0.0155153845665
+['gallon', 'two car combine drive']	['gas consumption']	0.0148694161981
+['gallon', 'two car combine drive']	['60 gallon']	0.443474858059
+['first car', '1700 mile']	['average']	0.0667637182209
+['first car', '1700 mile']	['30 mile']	0.465538040018
+['first car', '1700 mile']	['second']	0.0231369249482
+['first car', '1700 mile']	['mile']	0.343895355679
+['first car', '1700 mile']	['25 mile']	0.465538040018
+['first car', '1700 mile']	['two car combine drive']	0.102851780848
+['first car', '1700 mile']	['gas consumption']	0.0703393045902
+['first car', '1700 mile']	['60 gallon']	0.074092754852
+['first car', '1700 mile']	['gallon']	0.00222717737084
+['average', '1700 mile']	['first car']	0.0897823390711
+['average', '1700 mile']	['30 mile']	0.538007739106
+['average', '1700 mile']	['second']	0.490537525093
+['average', '1700 mile']	['mile']	0.698843361936
+['average', '1700 mile']	['25 mile']	0.538007739106
+['average', '1700 mile']	['two car combine drive']	0.0920786332799
+['average', '1700 mile']	['gas consumption']	0.0901100077042
+['average', '1700 mile']	['60 gallon']	0.0827346205535
+['average', '1700 mile']	['gallon']	0.226533112772
+['30 mile', '1700 mile']	['first car']	0.235629082837
+['30 mile', '1700 mile']	['average']	0.383475193417
+['30 mile', '1700 mile']	['second']	0.246734138582
+['30 mile', '1700 mile']	['mile']	0.67956664036
+['30 mile', '1700 mile']	['25 mile']	0.862138942741
+['30 mile', '1700 mile']	['two car combine drive']	0.439028939825
+['30 mile', '1700 mile']	['gas consumption']	0.153587928078
+['30 mile', '1700 mile']	['60 gallon']	0.59564157713
+['30 mile', '1700 mile']	['gallon']	0.156901862603
+['second', '1700 mile']	['first car']	0.0427923118694
+['second', '1700 mile']	['average']	0.466706866251
+['second', '1700 mile']	['30 mile']	0.194706354441
+['second', '1700 mile']	['mile']	0.747275800849
+['second', '1700 mile']	['25 mile']	0.194706354441
+['second', '1700 mile']	['two car combine drive']	0.0938618772783
+['second', '1700 mile']	['gas consumption']	0.0384978040692
+['second', '1700 mile']	['60 gallon']	0.0368028975308
+['second', '1700 mile']	['gallon']	0.109100428684
+['mile', '1700 mile']	['first car']	0.103856602467
+['mile', '1700 mile']	['average']	0.36307072805
+['mile', '1700 mile']	['30 mile']	0.638178477636
+['mile', '1700 mile']	['second']	0.420241739927
+['mile', '1700 mile']	['25 mile']	0.638178477636
+['mile', '1700 mile']	['two car combine drive']	0.324358819701
+['mile', '1700 mile']	['gas consumption']	0.0968024870635
+['mile', '1700 mile']	['60 gallon']	0.177448801378
+['mile', '1700 mile']	['gallon']	0.231054701292
+['25 mile', '1700 mile']	['first car']	0.235629082837
+['25 mile', '1700 mile']	['average']	0.383475193417
+['25 mile', '1700 mile']	['30 mile']	0.862138942741
+['25 mile', '1700 mile']	['second']	0.246734138582
+['25 mile', '1700 mile']	['mile']	0.67956664036
+['25 mile', '1700 mile']	['two car combine drive']	0.439028939825
+['25 mile', '1700 mile']	['gas consumption']	0.153587928078
+['25 mile', '1700 mile']	['60 gallon']	0.59564157713
+['25 mile', '1700 mile']	['gallon']	0.156901862603
+['two car combine drive', '1700 mile']	['first car']	0.0951452248602
+['two car combine drive', '1700 mile']	['average']	0.0865519868472
+['two car combine drive', '1700 mile']	['30 mile']	0.636174109686
+['two car combine drive', '1700 mile']	['second']	0.0222930989339
+['two car combine drive', '1700 mile']	['mile']	0.47145223677
+['two car combine drive', '1700 mile']	['25 mile']	0.636174109686
+['two car combine drive', '1700 mile']	['gas consumption']	0.0915001233665
+['two car combine drive', '1700 mile']	['60 gallon']	0.122899008826
+['two car combine drive', '1700 mile']	['gallon']	0.0118960167779
+['gas consumption', '1700 mile']	['first car']	0.0897823390711
+['gas consumption', '1700 mile']	['average']	0.0777864840342
+['gas consumption', '1700 mile']	['30 mile']	0.584269096576
+['gas consumption', '1700 mile']	['second']	0.0249057509662
+['gas consumption', '1700 mile']	['mile']	0.419771549328
+['gas consumption', '1700 mile']	['25 mile']	0.584269096576
+['gas consumption', '1700 mile']	['two car combine drive']	0.0941266761548
+['gas consumption', '1700 mile']	['60 gallon']	0.0901100077042
+['gas consumption', '1700 mile']	['gallon']	0.00424649792755
+['60 gallon', '1700 mile']	['first car']	0.0868063705507
+['60 gallon', '1700 mile']	['average']	0.0777864840342
+['60 gallon', '1700 mile']	['30 mile']	0.754360422532
+['60 gallon', '1700 mile']	['second']	0.0257604518209
+['60 gallon', '1700 mile']	['mile']	0.500847544769
+['60 gallon', '1700 mile']	['25 mile']	0.754360422532
+['60 gallon', '1700 mile']	['two car combine drive']	0.160359361629
+['60 gallon', '1700 mile']	['gas consumption']	0.0827346205535
+['60 gallon', '1700 mile']	['gallon']	0.372826897211
+['gallon', '1700 mile']	['first car']	0.0199229782255
+['gallon', '1700 mile']	['average']	0.296378703225
+['gallon', '1700 mile']	['30 mile']	0.0852471420558
+['gallon', '1700 mile']	['second']	0.143732463316
+['gallon', '1700 mile']	['mile']	0.547500509468
+['gallon', '1700 mile']	['25 mile']	0.0852471420558
+['gallon', '1700 mile']	['two car combine drive']	0.0196847391915
+['gallon', '1700 mile']	['gas consumption']	0.0165341599722
+['gallon', '1700 mile']	['60 gallon']	0.302800260503
+['first car', 'gas consumption']	['average']	0.0690378963307
+['first car', 'gas consumption']	['30 mile']	0.074092754852
+['first car', 'gas consumption']	['second']	0.011726423379
+['first car', 'gas consumption']	['mile']	0.0106028278734
+['first car', 'gas consumption']	['25 mile']	0.074092754852
+['first car', 'gas consumption']	['two car combine drive']	0.102851780848
+['first car', 'gas consumption']	['1700 mile']	0.0737139440912
+['first car', 'gas consumption']	['60 gallon']	0.074092754852
+['first car', 'gas consumption']	['gallon']	0.00340088629102
+['average', 'gas consumption']	['first car']	0.0897823390711
+['average', 'gas consumption']	['30 mile']	0.0827346205535
+['average', 'gas consumption']	['second']	0.347658978497
+['average', 'gas consumption']	['mile']	0.11596780482
+['average', 'gas consumption']	['25 mile']	0.0827346205535
+['average', 'gas consumption']	['two car combine drive']	0.0920786332799
+['average', 'gas consumption']	['1700 mile']	0.0827346205535
+['average', 'gas consumption']	['60 gallon']	0.0827346205535
+['average', 'gas consumption']	['gallon']	0.225186311425
+['30 mile', 'gas consumption']	['first car']	0.0868063705507
+['30 mile', 'gas consumption']	['average']	0.0777864840342
+['30 mile', 'gas consumption']	['second']	0.0249057509662
+['30 mile', 'gas consumption']	['mile']	0.351874311122
+['30 mile', 'gas consumption']	['25 mile']	0.754360422532
+['30 mile', 'gas consumption']	['two car combine drive']	0.160359361629
+['30 mile', 'gas consumption']	['1700 mile']	0.584269096576
+['30 mile', 'gas consumption']	['60 gallon']	0.362256416006
+['30 mile', 'gas consumption']	['gallon']	0.00424649792755
+['second', 'gas consumption']	['first car']	0.0427923118694
+['second', 'gas consumption']	['average']	0.46604549059
+['second', 'gas consumption']	['30 mile']	0.0618737183104
+['second', 'gas consumption']	['mile']	0.199328423808
+['second', 'gas consumption']	['25 mile']	0.0618737183104
+['second', 'gas consumption']	['two car combine drive']	0.0938618772783
+['second', 'gas consumption']	['1700 mile']	0.0618737183104
+['second', 'gas consumption']	['60 gallon']	0.0368028975308
+['second', 'gas consumption']	['gallon']	0.0891004286835
+['mile', 'gas consumption']	['first car']	0.0421463435009
+['mile', 'gas consumption']	['average']	0.109561042279
+['mile', 'gas consumption']	['30 mile']	0.391516700063
+['mile', 'gas consumption']	['second']	0.199328423808
+['mile', 'gas consumption']	['25 mile']	0.391516700063
+['mile', 'gas consumption']	['two car combine drive']	0.0501553472069
+['mile', 'gas consumption']	['1700 mile']	0.442012633359
+['mile', 'gas consumption']	['60 gallon']	0.0368028975308
+['mile', 'gas consumption']	['gallon']	0.135535848838
+['25 mile', 'gas consumption']	['first car']	0.0868063705507
+['25 mile', 'gas consumption']	['average']	0.0777864840342
+['25 mile', 'gas consumption']	['30 mile']	0.754360422532
+['25 mile', 'gas consumption']	['second']	0.0249057509662
+['25 mile', 'gas consumption']	['mile']	0.351874311122
+['25 mile', 'gas consumption']	['two car combine drive']	0.160359361629
+['25 mile', 'gas consumption']	['1700 mile']	0.584269096576
+['25 mile', 'gas consumption']	['60 gallon']	0.362256416006
+['25 mile', 'gas consumption']	['gallon']	0.00424649792755
+['two car combine drive', 'gas consumption']	['first car']	0.0951452248602
+['two car combine drive', 'gas consumption']	['average']	0.0888261649569
+['two car combine drive', 'gas consumption']	['30 mile']	0.122899008826
+['two car combine drive', 'gas consumption']	['second']	0.012852508684
+['two car combine drive', 'gas consumption']	['mile']	0.012852508684
+['two car combine drive', 'gas consumption']	['25 mile']	0.122899008826
+['two car combine drive', 'gas consumption']	['1700 mile']	0.0988755105172
+['two car combine drive', 'gas consumption']	['60 gallon']	0.122899008826
+['two car combine drive', 'gas consumption']	['gallon']	0.00920098131694
+['1700 mile', 'gas consumption']	['first car']	0.0897823390711
+['1700 mile', 'gas consumption']	['average']	0.0777864840342
+['1700 mile', 'gas consumption']	['30 mile']	0.584269096576
+['1700 mile', 'gas consumption']	['second']	0.0249057509662
+['1700 mile', 'gas consumption']	['mile']	0.419771549328
+['1700 mile', 'gas consumption']	['25 mile']	0.584269096576
+['1700 mile', 'gas consumption']	['two car combine drive']	0.0941266761548
+['1700 mile', 'gas consumption']	['60 gallon']	0.0901100077042
+['1700 mile', 'gas consumption']	['gallon']	0.00424649792755
+['60 gallon', 'gas consumption']	['first car']	0.0868063705507
+['60 gallon', 'gas consumption']	['average']	0.0800606621439
+['60 gallon', 'gas consumption']	['30 mile']	0.362256416006
+['60 gallon', 'gas consumption']	['second']	0.0143499502517
+['60 gallon', 'gas consumption']	['mile']	0.0143499502517
+['60 gallon', 'gas consumption']	['25 mile']	0.362256416006
+['60 gallon', 'gas consumption']	['two car combine drive']	0.160359361629
+['60 gallon', 'gas consumption']	['1700 mile']	0.0901100077042
+['60 gallon', 'gas consumption']	['gallon']	0.214065960432
+['gallon', 'gas consumption']	['first car']	0.0199229782255
+['gallon', 'gas consumption']	['average']	0.295717327564
+['gallon', 'gas consumption']	['30 mile']	0.0160064194205
+['gallon', 'gas consumption']	['second']	0.0891004286835
+['gallon', 'gas consumption']	['mile']	0.135535848838
+['gallon', 'gas consumption']	['25 mile']	0.0160064194205
+['gallon', 'gas consumption']	['two car combine drive']	0.0196847391915
+['gallon', 'gas consumption']	['1700 mile']	0.0160064194205
+['gallon', 'gas consumption']	['60 gallon']	0.302800260503
+['first car', '60 gallon']	['average']	0.0690378963307
+['first car', '60 gallon']	['30 mile']	0.364511045285
+['first car', '60 gallon']	['second']	0.011726423379
+['first car', '60 gallon']	['mile']	0.0106028278734
+['first car', '60 gallon']	['25 mile']	0.364511045285
+['first car', '60 gallon']	['two car combine drive']	0.141959496395
+['first car', '60 gallon']	['1700 mile']	0.0737139440912
+['first car', '60 gallon']	['gas consumption']	0.0669904799604
+['first car', '60 gallon']	['gallon']	0.180068921784
+['average', '60 gallon']	['first car']	0.0868063705507
+['average', '60 gallon']	['30 mile']	0.422016612763
+['average', '60 gallon']	['second']	0.349073037322
+['average', '60 gallon']	['mile']	0.134911466792
+['average', '60 gallon']	['25 mile']	0.422016612763
+['average', '60 gallon']	['two car combine drive']	0.155842182951
+['average', '60 gallon']	['1700 mile']	0.0827346205535
+['average', '60 gallon']	['gas consumption']	0.0827346205535
+['average', '60 gallon']	['gallon']	0.528088214393
+['30 mile', '60 gallon']	['first car']	0.080725694924
+['30 mile', '60 gallon']	['average']	0.0777864840342
+['30 mile', '60 gallon']	['second']	0.0257604518209
+['30 mile', '60 gallon']	['mile']	0.388108272712
+['30 mile', '60 gallon']	['25 mile']	0.837596040951
+['30 mile', '60 gallon']	['two car combine drive']	0.256272974513
+['30 mile', '60 gallon']	['1700 mile']	0.584269096576
+['30 mile', '60 gallon']	['gas consumption']	0.0827346205535
+['30 mile', '60 gallon']	['gallon']	0.372826897211
+['second', '60 gallon']	['first car']	0.0457881772991
+['second', '60 gallon']	['average']	0.46604549059
+['second', '60 gallon']	['30 mile']	0.311723141764
+['second', '60 gallon']	['mile']	0.226668408558
+['second', '60 gallon']	['25 mile']	0.311723141764
+['second', '60 gallon']	['two car combine drive']	0.136281452758
+['second', '60 gallon']	['1700 mile']	0.0618737183104
+['second', '60 gallon']	['gas consumption']	0.0361569291624
+['second', '60 gallon']	['gallon']	0.49543187558
+['mile', '60 gallon']	['first car']	0.0466130196087
+['mile', '60 gallon']	['average']	0.109561042279
+['mile', '60 gallon']	['30 mile']	0.565841479934
+['mile', '60 gallon']	['second']	0.226668408558
+['mile', '60 gallon']	['25 mile']	0.565841479934
+['mile', '60 gallon']	['two car combine drive']	0.0935618635892
+['mile', '60 gallon']	['1700 mile']	0.442012633359
+['mile', '60 gallon']	['gas consumption']	0.0361569291624
+['mile', '60 gallon']	['gallon']	0.533491834998
+['25 mile', '60 gallon']	['first car']	0.080725694924
+['25 mile', '60 gallon']	['average']	0.0777864840342
+['25 mile', '60 gallon']	['30 mile']	0.837596040951
+['25 mile', '60 gallon']	['second']	0.0257604518209
+['25 mile', '60 gallon']	['mile']	0.388108272712
+['25 mile', '60 gallon']	['two car combine drive']	0.256272974513
+['25 mile', '60 gallon']	['1700 mile']	0.584269096576
+['25 mile', '60 gallon']	['gas consumption']	0.0827346205535
+['25 mile', '60 gallon']	['gallon']	0.372826897211
+['two car combine drive', '60 gallon']	['first car']	0.0938515916692
+['two car combine drive', '60 gallon']	['average']	0.0888261649569
+['two car combine drive', '60 gallon']	['30 mile']	0.445494492494
+['two car combine drive', '60 gallon']	['second']	0.012852508684
+['two car combine drive', '60 gallon']	['mile']	0.015547544145
+['two car combine drive', '60 gallon']	['25 mile']	0.445494492494
+['two car combine drive', '60 gallon']	['1700 mile']	0.0988755105172
+['two car combine drive', '60 gallon']	['gas consumption']	0.0915001233665
+['two car combine drive', '60 gallon']	['gallon']	0.360564856329
+['1700 mile', '60 gallon']	['first car']	0.0868063705507
+['1700 mile', '60 gallon']	['average']	0.0777864840342
+['1700 mile', '60 gallon']	['30 mile']	0.754360422532
+['1700 mile', '60 gallon']	['second']	0.0257604518209
+['1700 mile', '60 gallon']	['mile']	0.500847544769
+['1700 mile', '60 gallon']	['25 mile']	0.754360422532
+['1700 mile', '60 gallon']	['two car combine drive']	0.160359361629
+['1700 mile', '60 gallon']	['gas consumption']	0.0827346205535
+['1700 mile', '60 gallon']	['gallon']	0.372826897211
+['gas consumption', '60 gallon']	['first car']	0.0868063705507
+['gas consumption', '60 gallon']	['average']	0.0800606621439
+['gas consumption', '60 gallon']	['30 mile']	0.362256416006
+['gas consumption', '60 gallon']	['second']	0.0143499502517
+['gas consumption', '60 gallon']	['mile']	0.0143499502517
+['gas consumption', '60 gallon']	['25 mile']	0.362256416006
+['gas consumption', '60 gallon']	['two car combine drive']	0.160359361629
+['gas consumption', '60 gallon']	['1700 mile']	0.0901100077042
+['gas consumption', '60 gallon']	['gallon']	0.214065960432
+['gallon', '60 gallon']	['first car']	0.125040635451
+['gallon', '60 gallon']	['average']	0.42788128578
+['gallon', '60 gallon']	['30 mile']	0.422859392162
+['gallon', '60 gallon']	['second']	0.208653768891
+['gallon', '60 gallon']	['mile']	0.231054701292
+['gallon', '60 gallon']	['25 mile']	0.422859392162
+['gallon', '60 gallon']	['two car combine drive']	0.206488422783
+['gallon', '60 gallon']	['1700 mile']	0.125024962568
+['gallon', '60 gallon']	['gas consumption']	0.0798131677782
+['first car', 'gallon']	['average']	0.336550660897
+['first car', 'gallon']	['30 mile']	0.0864675159274
+['first car', 'gallon']	['second']	0.142433762017
+['first car', 'gallon']	['mile']	0.168869182171
+['first car', 'gallon']	['25 mile']	0.0864675159274
+['first car', 'gallon']	['two car combine drive']	0.0857048613889
+['first car', 'gallon']	['1700 mile']	0.0780842671024
+['first car', 'gallon']	['gas consumption']	0.0780842671024
+['first car', 'gallon']	['60 gallon']	0.402551418099
+['average', 'gallon']	['first car']	0.0199229782255
+['average', 'gallon']	['30 mile']	0.0160064194205
+['average', 'gallon']	['second']	0.200769836804
+['average', 'gallon']	['mile']	0.0900528096359
+['average', 'gallon']	['25 mile']	0.0160064194205
+['average', 'gallon']	['two car combine drive']	0.0196847391915
+['average', 'gallon']	['1700 mile']	0.0160064194205
+['average', 'gallon']	['gas consumption']	0.0165341599722
+['average', 'gallon']	['60 gallon']	0.339834483176
+['30 mile', 'gallon']	['first car']	0.0187994072397
+['30 mile', 'gallon']	['average']	0.296378703225
+['30 mile', 'gallon']	['second']	0.143732463316
+['30 mile', 'gallon']	['mile']	0.577408096888
+['30 mile', 'gallon']	['25 mile']	0.403884837601
+['30 mile', 'gallon']	['two car combine drive']	0.0303534144201
+['30 mile', 'gallon']	['1700 mile']	0.0852471420558
+['30 mile', 'gallon']	['gas consumption']	0.0165341599722
+['30 mile', 'gallon']	['60 gallon']	0.451856718521
+['second', 'gallon']	['first car']	0.0735454731102
+['second', 'gallon']	['average']	0.0823591706489
+['second', 'gallon']	['30 mile']	0.0714553561556
+['second', 'gallon']	['mile']	0.102582951673
+['second', 'gallon']	['25 mile']	0.0714553561556
+['second', 'gallon']	['two car combine drive']	0.0914507439363
+['second', 'gallon']	['1700 mile']	0.0714553561556
+['second', 'gallon']	['gas consumption']	0.0713303637771
+['second', 'gallon']	['60 gallon']	0.333841159232
+['mile', 'gallon']	['first car']	0.0747191820304
+['mile', 'gallon']	['average']	0.23483401581
+['mile', 'gallon']	['30 mile']	0.272919550891
+['mile', 'gallon']	['second']	0.0900528096359
+['mile', 'gallon']	['25 mile']	0.272919550891
+['mile', 'gallon']	['two car combine drive']	0.071865252538
+['mile', 'gallon']	['1700 mile']	0.408636417552
+['mile', 'gallon']	['gas consumption']	0.0713303637771
+['mile', 'gallon']	['60 gallon']	0.333841159232
+['25 mile', 'gallon']	['first car']	0.0187994072397
+['25 mile', 'gallon']	['average']	0.296378703225
+['25 mile', 'gallon']	['30 mile']	0.403884837601
+['25 mile', 'gallon']	['second']	0.143732463316
+['25 mile', 'gallon']	['mile']	0.577408096888
+['25 mile', 'gallon']	['two car combine drive']	0.0303534144201
+['25 mile', 'gallon']	['1700 mile']	0.0852471420558
+['25 mile', 'gallon']	['gas consumption']	0.0165341599722
+['25 mile', 'gallon']	['60 gallon']	0.451856718521
+['two car combine drive', 'gallon']	['first car']	0.0183083723858
+['two car combine drive', 'gallon']	['average']	0.234242891519
+['two car combine drive', 'gallon']	['30 mile']	0.0249425631587
+['two car combine drive', 'gallon']	['second']	0.113386142969
+['two car combine drive', 'gallon']	['mile']	0.1679936702
+['two car combine drive', 'gallon']	['25 mile']	0.0249425631587
+['two car combine drive', 'gallon']	['1700 mile']	0.0155153845665
+['two car combine drive', 'gallon']	['gas consumption']	0.0148694161981
+['two car combine drive', 'gallon']	['60 gallon']	0.443474858059
+['1700 mile', 'gallon']	['first car']	0.0199229782255
+['1700 mile', 'gallon']	['average']	0.296378703225
+['1700 mile', 'gallon']	['30 mile']	0.0852471420558
+['1700 mile', 'gallon']	['second']	0.143732463316
+['1700 mile', 'gallon']	['mile']	0.547500509468
+['1700 mile', 'gallon']	['25 mile']	0.0852471420558
+['1700 mile', 'gallon']	['two car combine drive']	0.0196847391915
+['1700 mile', 'gallon']	['gas consumption']	0.0165341599722
+['1700 mile', 'gallon']	['60 gallon']	0.302800260503
+['gas consumption', 'gallon']	['first car']	0.0199229782255
+['gas consumption', 'gallon']	['average']	0.295717327564
+['gas consumption', 'gallon']	['30 mile']	0.0160064194205
+['gas consumption', 'gallon']	['second']	0.0891004286835
+['gas consumption', 'gallon']	['mile']	0.135535848838
+['gas consumption', 'gallon']	['25 mile']	0.0160064194205
+['gas consumption', 'gallon']	['two car combine drive']	0.0196847391915
+['gas consumption', 'gallon']	['1700 mile']	0.0160064194205
+['gas consumption', 'gallon']	['60 gallon']	0.302800260503
+['60 gallon', 'gallon']	['first car']	0.125040635451
+['60 gallon', 'gallon']	['average']	0.42788128578
+['60 gallon', 'gallon']	['30 mile']	0.422859392162
+['60 gallon', 'gallon']	['second']	0.208653768891
+['60 gallon', 'gallon']	['mile']	0.231054701292
+['60 gallon', 'gallon']	['25 mile']	0.422859392162
+['60 gallon', 'gallon']	['two car combine drive']	0.206488422783
+['60 gallon', 'gallon']	['1700 mile']	0.125024962568
+['60 gallon', 'gallon']	['gas consumption']	0.0798131677782

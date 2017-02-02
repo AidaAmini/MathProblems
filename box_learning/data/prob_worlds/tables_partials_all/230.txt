@@ -1,0 +1,298 @@
+1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+1
+[['question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', 'point', '-']]
+1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', 'point', '-']]
+1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+1
+[['-', '-', '-', 'point'], ['-', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', 'point', '-']]
+1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', 'point', '-']]
+1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['-', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+1
+[['question', '-', '-', '-'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', 'point', '-']]
+1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['-', '-', 'point', '-']]
+1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+1
+[['question', '-', '-', 'point'], ['-', '-', '-', '-'], ['essay question', '-', 'point', '-']]
+1
+[['question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['-', '-', 'point', '-']]
+1
+[['question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['-', '-', 'point', '-']]
+1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', '-', '-']]
+1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+1
+[['-', '-', '-', 'point'], ['-', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', '-', '-']]
+1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['-', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', 'point'], ['-', '-', '-', '-'], ['essay question', '-', '-', '-']]
+1
+[['question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'point'], ['-', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['-', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', 'point'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'point'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', 'multiple choice question', '-', 'point'], ['question', '-', 'point', '-'], ['multiple choice question', '-', 'point', '-']]
+-1
+[['question', 'multiple choice question', '-', 'point'], ['multiple choice question', 'essay question', 'point', '-'], ['essay question', 'question', 'point', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', 'multiple choice question', 'question', 'point']]
+-1
+[['question', 'multiple choice question', '-', 'point'], ['multiple choice question', 'point', 'essay question', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['multiple choice question', '-', '-', 'point'], ['multiple choice question', '-', 'point', 'essay question'], ['essay question', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', 'multiple choice']]
+-1
+[['-', '-', '-', 'essay question'], ['multiple choice question', '-', 'essay question', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['-', 'essay question', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', 'multiple choice question']]
+-1
+[['-', 'multiple choice question', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['multiple choice question', '-', 'point', '-']]
+-1
+[['-', 'essay question', '-', 'point'], ['essay question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['-', '-', '-', 'multiple choice question'], ['multiple choice question', '-', 'point', '-'], ['essay question', 'multiple choice question', 'point', '-']]
+-1
+[['-', '-', '-', 'right'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'essay question'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['question', '-', 'point', '-'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'multiple choice question', '-']]
+-1
+[['question', '-', 'multiple choice question', '-'], ['multiple choice question', '-', 'point', '-'], ['essay question', 'question', 'point', '-']]
+-1
+[['question', 'point', '-', '-'], ['multiple choice question', '-', 'question', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['question', '-', 'point', 'multiple choice question']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', 'right', 'point', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['question', 'essay question', '-', 'point'], ['-', 'essay question', 'point', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['question', '-', 'point', '-']]
+-1
+[['essay question', '-', '-', 'point'], ['-', '-', 'essay question', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', 'essay question', 'point', '-'], ['essay question', '-', 'point', 'question']]
+-1
+[['question', '-', 'essay question', 'point'], ['question', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['right', '-', '-', 'point'], ['-', '-', 'point', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['essay question', '-', '-', 'point'], ['multiple choice question', '-', 'essay question', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['essay question', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', 'point', 'multiple choice question']]
+-1
+[['essay question', '-', '-', 'point'], ['multiple choice question', '-', '-', 'point'], ['essay question', '-', 'point', '-']]
+-1
+[['multiple choice question', '-', '-', 'point'], ['multiple choice question', '-', 'essay question', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'point'], ['question', '-', '-', '-'], ['essay question', '-', 'point', 'question']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', 'point', 'right']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', 'multiple choice question', 'question']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['question', '-', 'point', 'multiple choice question']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', 'question', 'point', '-'], ['-', '-', 'point', 'question']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', 'question'], ['question', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', 'question', 'point', '-'], ['question', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', 'right'], ['-', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'essay question'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', 'point']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['point', 'question', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'essay question', '-'], ['essay question', '-', '-', 'multiple choice question']]
+-1
+[['question', '-', '-', 'essay question'], ['multiple choice question', '-', 'point', '-'], ['essay question', 'multiple choice question', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', 'essay question'], ['essay question', '-', '-', 'question']]
+-1
+[['question', '-', '-', 'multiple choice'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+-1
+[['essay question', '-', '-', 'point'], ['multiple choice question', '-', 'point', 'essay question'], ['essay question', '-', '-', '-']]
+-1
+[['-', '-', '-', 'multiple choice question'], ['multiple choice question', '-', 'point', 'essay question'], ['essay question', '-', '-', '-']]
+-1
+[['multiple choice question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', 'multiple choice question', '-']]
+-1
+[['multiple choice question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', 'multiple choice question', '-', '-']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', 'point', 'essay question'], ['essay question', '-', 'point', '-']]
+-1
+[['-', '-', 'multiple choice', 'point'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+-1
+[['multiple choice question', '-', 'point', '-'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+-1
+[['point', '-', '-', 'essay question'], ['multiple choice question', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', 'essay question', 'point', '-'], ['essay question', '-', 'point', '-']]
+-1
+[['question', 'point', '-', '-'], ['multiple choice question', '-', 'point', 'essay question'], ['essay question', '-', '-', '-']]
+-1
+[['question', 'multiple choice question', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['question', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', 'multiple choice', 'point', '-'], ['essay question', '-', '-', '-']]
+-1
+[['essay question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['essay question', '-', '-', 'point']]
+-1
+[['question', '-', '-', 'point'], ['-', 'essay question', 'point', '-'], ['essay question', 'point', '-', '-']]
+-1
+[['question', 'essay question', '-', 'point'], ['-', 'essay question', 'point', '-'], ['essay question', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', 'point', 'question'], ['question', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', 'question', '-'], ['essay question', '-', '-', 'point']]
+-1
+[['question', '-', 'right', 'point'], ['-', '-', 'point', '-'], ['essay question', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', 'point', '-', '-'], ['essay question', 'point', '-', '-']]
+-1
+[['question', '-', 'essay question', 'point'], ['multiple choice question', '-', '-', '-'], ['point', '-', '-', '-']]
+-1
+[['multiple choice question', '-', '-', 'essay question'], ['multiple choice question', '-', '-', '-'], ['essay question', '-', '-', '-']]
+-1
+[['question', 'multiple choice question', '-', 'point'], ['multiple choice question', '-', 'essay question', '-'], ['essay question', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', 'point', '-', 'essay question'], ['essay question', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice', '-', '-', '-'], ['essay question', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'question', '-'], ['-', 'question', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['question', '-', 'point', '-'], ['-', '-', 'point', '-']]
+-1
+[['question', 'multiple choice question', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', 'multiple choice question', '-', '-']]
+-1
+[['question', '-', '-', 'multiple choice question'], ['multiple choice question', '-', 'point', '-'], ['-', 'multiple choice question', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', 'question', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', 'right', '-', '-']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', 'multiple choice question', '-']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', 'multiple choice question']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', 'point']]
+-1
+[['multiple choice question', '-', '-', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', 'multiple choice question', 'point'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['-', 'question', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', 'question', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'question', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['-', 'multiple choice question', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', '-', 'point', '-'], ['-', '-', '-', 'point']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['question', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', 'point', 'question'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['-', 'point', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', 'question', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', 'point', '-'], ['-', '-', '-', 'point']]
+-1
+[['question', '-', '-', 'multiple choice question'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['question', '-', '-', '-']]
+-1
+[['multiple choice question', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', '-', 'question'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['multiple choice question', '-', '-', 'point'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', 'point', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', '-', 'point'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['-', 'multiple choice question', '-', '-']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['point', '-', '-', '-']]
+-1
+[['-', '-', '-', 'point'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', 'multiple choice question']]
+-1
+[['multiple choice question', '-', '-', '-'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['question', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', 'question', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['multiple choice question', '-', '-', '-'], ['multiple choice question', '-', '-', '-']]
+-1
+[['question', 'multiple choice question', '-', '-'], ['multiple choice question', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', '-', '-'], ['point', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', 'point', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', '-', '-'], ['-', 'point', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', '-', '-'], ['-', '-', 'question', '-']]
+-1
+[['question', '-', '-', 'point'], ['-', '-', 'question', '-'], ['-', '-', '-', '-']]

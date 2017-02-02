@@ -1,0 +1,39 @@
+(ROOT
+  (FRAG
+    (PP (IN For) (NP (DT a) (NN matinee)))
+    (, ,)
+    (NP
+      (NP
+        (NP (DT a) (NN movie) (NN theater) (NNS charges))
+        (PP
+          (NP (CD 4.50) (NNS dollars))
+          (IN for)
+          (NP (NNS children))))
+      (CC and)
+      (NP
+        (NP (CD 6.75) (NNS dollars))
+        (PP (IN for) (NP (NNS adults)))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN At) (NP (NP-TMP (NN today) (POS 's)) (NN matinee)))
+    (, ,)
+    (S
+      (NP (EX there))
+      (VP
+        (VBP are)
+        (NP
+          (NP (CD 20) (JJR more) (NNS children))
+          (PP (IN than) (NP (NNS adults))))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ total) (NNS receipts))
+      (VP (VBP are) (NP (CD 405) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS children))
+    (SQ
+      (VBP are)
+      (PP (IN at) (NP (NP-TMP (NN today) (POS 's)) (NN matinee))))
+    (. ?)))

@@ -1,0 +1,1379 @@
+['ticket', 'ballet performance', 'performance', '14 dollar', 'adult', 'dollar', '12 dollar', 'receipt', '605 ticket', '8,390.00 dollar', 'adult ticket', 'student ticket']
+['ticket']	['ballet performance']	0.0737139440912
+['ticket']	['performance']	0.0745519766898
+['ticket']	['14 dollar']	0.10873615468
+['ticket']	['adult']	0.0792078899701
+['ticket']	['dollar']	0.0240886330375
+['ticket']	['12 dollar']	0.10873615468
+['ticket']	['receipt']	0.158736792362
+['ticket']	['8,390.00 dollar']	0.10873615468
+['ballet performance']	['14 dollar']	0.0827346205535
+['ballet performance']	['adult']	0.0713754979226
+['ballet performance']	['dollar']	0.0132263547461
+['ballet performance']	['12 dollar']	0.0827346205535
+['ballet performance']	['receipt']	0.150291470448
+['ballet performance']	['605 ticket']	0.0901100077042
+['ballet performance']	['8,390.00 dollar']	0.0901100077042
+['ballet performance']	['adult ticket']	0.0827346205535
+['ballet performance']	['student ticket']	0.0827346205535
+['performance']	['14 dollar']	0.0813535270388
+['performance']	['adult']	0.138200262092
+['performance']	['dollar']	0.0255251483302
+['performance']	['12 dollar']	0.0813535270388
+['performance']	['receipt']	0.0841275079299
+['performance']	['605 ticket']	0.0827346205535
+['performance']	['8,390.00 dollar']	0.0813535270388
+['performance']	['adult ticket']	0.0827346205535
+['performance']	['student ticket']	0.0827346205535
+['14 dollar']	['adult']	0.0774561735493
+['14 dollar']	['12 dollar']	0.828768839235
+['14 dollar']	['receipt']	0.0744376594044
+['14 dollar']	['605 ticket']	0.0901100077042
+['14 dollar']	['8,390.00 dollar']	0.643440930505
+['14 dollar']	['adult ticket']	0.0827346205535
+['14 dollar']	['student ticket']	0.0827346205535
+['adult']	['dollar']	0.0265458979948
+['adult']	['12 dollar']	0.0696933362217
+['adult']	['receipt']	0.136166307929
+['adult']	['605 ticket']	0.0696933362217
+['adult']	['8,390.00 dollar']	0.0696933362217
+['adult']	['student ticket']	0.0696933362217
+['dollar']	['receipt']	0.0356693556892
+['dollar']	['605 ticket']	0.0427692176215
+['dollar']	['adult ticket']	0.0427692176215
+['dollar']	['student ticket']	0.0427692176215
+['12 dollar']	['receipt']	0.0744376594044
+['12 dollar']	['605 ticket']	0.0901100077042
+['12 dollar']	['8,390.00 dollar']	0.643440930505
+['12 dollar']	['adult ticket']	0.0827346205535
+['12 dollar']	['student ticket']	0.0827346205535
+['receipt']	['605 ticket']	0.0800317642921
+['receipt']	['8,390.00 dollar']	0.0800317642921
+['receipt']	['adult ticket']	0.0800317642921
+['receipt']	['student ticket']	0.0800317642921
+['605 ticket']	['8,390.00 dollar']	0.0901100077042
+['605 ticket']	['adult ticket']	0.643440930505
+['605 ticket']	['student ticket']	0.643440930505
+['8,390.00 dollar']	['adult ticket']	0.0901100077042
+['8,390.00 dollar']	['student ticket']	0.0901100077042
+['adult ticket']	['student ticket']	0.525104950945
+['ballet performance', 'ticket']	['performance']	0.675070781902
+['ballet performance', 'ticket']	['14 dollar']	0.103222748661
+['ballet performance', 'ticket']	['adult']	0.246826280933
+['ballet performance', 'ticket']	['dollar']	0.0806965185133
+['ballet performance', 'ticket']	['12 dollar']	0.103222748661
+['ballet performance', 'ticket']	['receipt']	0.862266665715
+['ballet performance', 'ticket']	['605 ticket']	0.669973747197
+['ballet performance', 'ticket']	['8,390.00 dollar']	0.103222748661
+['ballet performance', 'ticket']	['adult ticket']	0.722297777211
+['ballet performance', 'ticket']	['student ticket']	0.685963783853
+['performance', 'ticket']	['ballet performance']	0.676648031946
+['performance', 'ticket']	['14 dollar']	0.117488318928
+['performance', 'ticket']	['adult']	0.283738765744
+['performance', 'ticket']	['dollar']	0.148747752926
+['performance', 'ticket']	['12 dollar']	0.117488318928
+['performance', 'ticket']	['receipt']	0.539847382331
+['performance', 'ticket']	['605 ticket']	0.670043866319
+['performance', 'ticket']	['8,390.00 dollar']	0.117488318928
+['performance', 'ticket']	['adult ticket']	0.722297777211
+['performance', 'ticket']	['student ticket']	0.675737719279
+['14 dollar', 'ticket']	['ballet performance']	0.0696933362217
+['14 dollar', 'ticket']	['performance']	0.213491692994
+['14 dollar', 'ticket']	['adult']	0.351678173917
+['14 dollar', 'ticket']	['dollar']	0.679196039815
+['14 dollar', 'ticket']	['12 dollar']	0.787143378625
+['14 dollar', 'ticket']	['receipt']	0.744929762239
+['14 dollar', 'ticket']	['605 ticket']	0.669973747197
+['14 dollar', 'ticket']	['8,390.00 dollar']	0.525526174317
+['14 dollar', 'ticket']	['adult ticket']	0.751760536674
+['14 dollar', 'ticket']	['student ticket']	0.663762722369
+['adult', 'ticket']	['ballet performance']	0.132417152272
+['adult', 'ticket']	['performance']	0.485066671734
+['adult', 'ticket']	['14 dollar']	0.174138467195
+['adult', 'ticket']	['dollar']	0.0899996321979
+['adult', 'ticket']	['12 dollar']	0.174138467195
+['adult', 'ticket']	['receipt']	0.192069178895
+['adult', 'ticket']	['605 ticket']	0.670043866319
+['adult', 'ticket']	['8,390.00 dollar']	0.174138467195
+['adult', 'ticket']	['adult ticket']	0.59281813716
+['adult', 'ticket']	['student ticket']	0.694300401269
+['dollar', 'ticket']	['ballet performance']	0.0982347768443
+['dollar', 'ticket']	['performance']	0.153086717909
+['dollar', 'ticket']	['14 dollar']	0.538150963439
+['dollar', 'ticket']	['adult']	0.153799680747
+['dollar', 'ticket']	['12 dollar']	0.538150963439
+['dollar', 'ticket']	['receipt']	0.176078426912
+['dollar', 'ticket']	['605 ticket']	0.545159042756
+['dollar', 'ticket']	['8,390.00 dollar']	0.363289837203
+['dollar', 'ticket']	['adult ticket']	0.582053000015
+['dollar', 'ticket']	['student ticket']	0.360100613215
+['12 dollar', 'ticket']	['ballet performance']	0.0696933362217
+['12 dollar', 'ticket']	['performance']	0.213491692994
+['12 dollar', 'ticket']	['14 dollar']	0.787143378625
+['12 dollar', 'ticket']	['adult']	0.351678173917
+['12 dollar', 'ticket']	['dollar']	0.679196039815
+['12 dollar', 'ticket']	['receipt']	0.744929762239
+['12 dollar', 'ticket']	['605 ticket']	0.669973747197
+['12 dollar', 'ticket']	['8,390.00 dollar']	0.525526174317
+['12 dollar', 'ticket']	['adult ticket']	0.751760536674
+['12 dollar', 'ticket']	['student ticket']	0.663762722369
+['receipt', 'ticket']	['ballet performance']	0.103222748661
+['receipt', 'ticket']	['performance']	0.110845817445
+['receipt', 'ticket']	['14 dollar']	0.110566880729
+['receipt', 'ticket']	['adult']	0.283738765744
+['receipt', 'ticket']	['dollar']	0.284629554218
+['receipt', 'ticket']	['12 dollar']	0.110566880729
+['receipt', 'ticket']	['605 ticket']	0.723846078739
+['receipt', 'ticket']	['8,390.00 dollar']	0.110566880729
+['receipt', 'ticket']	['adult ticket']	0.78028613066
+['receipt', 'ticket']	['student ticket']	0.703705348878
+['605 ticket', 'ticket']	['ballet performance']	0.139259023173
+['605 ticket', 'ticket']	['performance']	0.391778704054
+['605 ticket', 'ticket']	['14 dollar']	0.247627320934
+['605 ticket', 'ticket']	['adult']	0.503518417929
+['605 ticket', 'ticket']	['dollar']	0.347535848514
+['605 ticket', 'ticket']	['12 dollar']	0.247627320934
+['605 ticket', 'ticket']	['receipt']	0.760380701798
+['605 ticket', 'ticket']	['8,390.00 dollar']	0.247627320934
+['605 ticket', 'ticket']	['adult ticket']	0.853987545748
+['605 ticket', 'ticket']	['student ticket']	0.722622429839
+['8,390.00 dollar', 'ticket']	['ballet performance']	0.0737139440912
+['8,390.00 dollar', 'ticket']	['performance']	0.213491692994
+['8,390.00 dollar', 'ticket']	['14 dollar']	0.525526174317
+['8,390.00 dollar', 'ticket']	['adult']	0.351678173917
+['8,390.00 dollar', 'ticket']	['dollar']	0.473606703188
+['8,390.00 dollar', 'ticket']	['12 dollar']	0.525526174317
+['8,390.00 dollar', 'ticket']	['receipt']	0.744929762239
+['8,390.00 dollar', 'ticket']	['605 ticket']	0.669973747197
+['8,390.00 dollar', 'ticket']	['adult ticket']	0.722227658089
+['8,390.00 dollar', 'ticket']	['student ticket']	0.659403281276
+['adult ticket', 'ticket']	['ballet performance']	0.137226694069
+['adult ticket', 'ticket']	['performance']	0.391778704054
+['adult ticket', 'ticket']	['14 dollar']	0.247627320934
+['adult ticket', 'ticket']	['adult']	0.651901182844
+['adult ticket', 'ticket']	['dollar']	0.347535848514
+['adult ticket', 'ticket']	['12 dollar']	0.247627320934
+['adult ticket', 'ticket']	['receipt']	0.760380701798
+['adult ticket', 'ticket']	['605 ticket']	0.782259204304
+['adult ticket', 'ticket']	['8,390.00 dollar']	0.247627320934
+['adult ticket', 'ticket']	['student ticket']	0.709963670002
+['student ticket', 'ticket']	['ballet performance']	0.144528281371
+['student ticket', 'ticket']	['performance']	0.391778704054
+['student ticket', 'ticket']	['14 dollar']	0.247627320934
+['student ticket', 'ticket']	['adult']	0.503518417929
+['student ticket', 'ticket']	['dollar']	0.347535848514
+['student ticket', 'ticket']	['12 dollar']	0.247627320934
+['student ticket', 'ticket']	['receipt']	0.760380701798
+['student ticket', 'ticket']	['605 ticket']	0.782259204304
+['student ticket', 'ticket']	['8,390.00 dollar']	0.247627320934
+['student ticket', 'ticket']	['adult ticket']	0.840157211791
+['ticket', 'ballet performance']	['performance']	0.675070781902
+['ticket', 'ballet performance']	['14 dollar']	0.103222748661
+['ticket', 'ballet performance']	['adult']	0.246826280933
+['ticket', 'ballet performance']	['dollar']	0.0806965185133
+['ticket', 'ballet performance']	['12 dollar']	0.103222748661
+['ticket', 'ballet performance']	['receipt']	0.862266665715
+['ticket', 'ballet performance']	['605 ticket']	0.669973747197
+['ticket', 'ballet performance']	['8,390.00 dollar']	0.103222748661
+['ticket', 'ballet performance']	['adult ticket']	0.722297777211
+['ticket', 'ballet performance']	['student ticket']	0.685963783853
+['performance', 'ballet performance']	['ticket']	0.406728261192
+['performance', 'ballet performance']	['14 dollar']	0.234634961205
+['performance', 'ballet performance']	['adult']	0.821523946788
+['performance', 'ballet performance']	['dollar']	0.355799263222
+['performance', 'ballet performance']	['12 dollar']	0.234634961205
+['performance', 'ballet performance']	['receipt']	0.538487091527
+['performance', 'ballet performance']	['605 ticket']	0.146286340776
+['performance', 'ballet performance']	['8,390.00 dollar']	0.238969088114
+['performance', 'ballet performance']	['adult ticket']	0.146286340776
+['performance', 'ballet performance']	['student ticket']	0.146286340776
+['14 dollar', 'ballet performance']	['ticket']	0.110894185219
+['14 dollar', 'ballet performance']	['performance']	0.612081485761
+['14 dollar', 'ballet performance']	['adult']	0.0741073489195
+['14 dollar', 'ballet performance']	['dollar']	0.388108272712
+['14 dollar', 'ballet performance']	['12 dollar']	0.754360422532
+['14 dollar', 'ballet performance']	['receipt']	0.170171263305
+['14 dollar', 'ballet performance']	['605 ticket']	0.0901100077042
+['14 dollar', 'ballet performance']	['8,390.00 dollar']	0.584269096576
+['14 dollar', 'ballet performance']	['adult ticket']	0.0827346205535
+['14 dollar', 'ballet performance']	['student ticket']	0.0827346205535
+['adult', 'ballet performance']	['ticket']	0.351678173917
+['adult', 'ballet performance']	['performance']	0.800886478199
+['adult', 'ballet performance']	['14 dollar']	0.0696933362217
+['adult', 'ballet performance']	['dollar']	0.0806965185133
+['adult', 'ballet performance']	['12 dollar']	0.0696933362217
+['adult', 'ballet performance']	['receipt']	0.850998723131
+['adult', 'ballet performance']	['605 ticket']	0.0696933362217
+['adult', 'ballet performance']	['8,390.00 dollar']	0.0696933362217
+['adult', 'ballet performance']	['adult ticket']	0.596373888716
+['adult', 'ballet performance']	['student ticket']	0.0696933362217
+['dollar', 'ballet performance']	['ticket']	0.11086262958
+['dollar', 'ballet performance']	['performance']	0.487525847544
+['dollar', 'ballet performance']	['14 dollar']	0.391516700063
+['dollar', 'ballet performance']	['adult']	0.121481143454
+['dollar', 'ballet performance']	['12 dollar']	0.391516700063
+['dollar', 'ballet performance']	['receipt']	0.59872510861
+['dollar', 'ballet performance']	['605 ticket']	0.0618737183104
+['dollar', 'ballet performance']	['8,390.00 dollar']	0.384540526976
+['dollar', 'ballet performance']	['adult ticket']	0.0775194642361
+['dollar', 'ballet performance']	['student ticket']	0.0618737183104
+['12 dollar', 'ballet performance']	['ticket']	0.110894185219
+['12 dollar', 'ballet performance']	['performance']	0.612081485761
+['12 dollar', 'ballet performance']	['14 dollar']	0.754360422532
+['12 dollar', 'ballet performance']	['adult']	0.0741073489195
+['12 dollar', 'ballet performance']	['dollar']	0.388108272712
+['12 dollar', 'ballet performance']	['receipt']	0.170171263305
+['12 dollar', 'ballet performance']	['605 ticket']	0.0901100077042
+['12 dollar', 'ballet performance']	['8,390.00 dollar']	0.584269096576
+['12 dollar', 'ballet performance']	['adult ticket']	0.0827346205535
+['12 dollar', 'ballet performance']	['student ticket']	0.0827346205535
+['receipt', 'ballet performance']	['ticket']	0.710453798101
+['receipt', 'ballet performance']	['performance']	0.677012225287
+['receipt', 'ballet performance']	['14 dollar']	0.0800317642921
+['receipt', 'ballet performance']	['adult']	0.73097274673
+['receipt', 'ballet performance']	['dollar']	0.353875909714
+['receipt', 'ballet performance']	['12 dollar']	0.0800317642921
+['receipt', 'ballet performance']	['605 ticket']	0.0833805889219
+['receipt', 'ballet performance']	['8,390.00 dollar']	0.0833805889219
+['receipt', 'ballet performance']	['adult ticket']	0.0800317642921
+['receipt', 'ballet performance']	['student ticket']	0.0800317642921
+['605 ticket', 'ballet performance']	['ticket']	0.586711484531
+['605 ticket', 'ballet performance']	['performance']	0.611028180006
+['605 ticket', 'ballet performance']	['14 dollar']	0.0827346205535
+['605 ticket', 'ballet performance']	['adult']	0.0774561735493
+['605 ticket', 'ballet performance']	['dollar']	0.0354449666524
+['605 ticket', 'ballet performance']	['12 dollar']	0.0827346205535
+['605 ticket', 'ballet performance']	['receipt']	0.170171263305
+['605 ticket', 'ballet performance']	['8,390.00 dollar']	0.0901100077042
+['605 ticket', 'ballet performance']	['adult ticket']	0.549852778125
+['605 ticket', 'ballet performance']	['student ticket']	0.557925116239
+['8,390.00 dollar', 'ballet performance']	['ticket']	0.110894185219
+['8,390.00 dollar', 'ballet performance']	['performance']	0.612081485761
+['8,390.00 dollar', 'ballet performance']	['14 dollar']	0.549852778125
+['8,390.00 dollar', 'ballet performance']	['adult']	0.0741073489195
+['8,390.00 dollar', 'ballet performance']	['dollar']	0.345297574209
+['8,390.00 dollar', 'ballet performance']	['12 dollar']	0.549852778125
+['8,390.00 dollar', 'ballet performance']	['receipt']	0.170171263305
+['8,390.00 dollar', 'ballet performance']	['605 ticket']	0.0901100077042
+['8,390.00 dollar', 'ballet performance']	['adult ticket']	0.0827346205535
+['8,390.00 dollar', 'ballet performance']	['student ticket']	0.0827346205535
+['adult ticket', 'ballet performance']	['ticket']	0.62245423315
+['adult ticket', 'ballet performance']	['performance']	0.611028180006
+['adult ticket', 'ballet performance']	['14 dollar']	0.0827346205535
+['adult ticket', 'ballet performance']	['adult']	0.436899125311
+['adult ticket', 'ballet performance']	['dollar']	0.0354449666524
+['adult ticket', 'ballet performance']	['12 dollar']	0.0827346205535
+['adult ticket', 'ballet performance']	['receipt']	0.170171263305
+['adult ticket', 'ballet performance']	['605 ticket']	0.584269096576
+['adult ticket', 'ballet performance']	['8,390.00 dollar']	0.0901100077042
+['adult ticket', 'ballet performance']	['student ticket']	0.569183039069
+['student ticket', 'ballet performance']	['ticket']	0.688184280425
+['student ticket', 'ballet performance']	['performance']	0.611028180006
+['student ticket', 'ballet performance']	['14 dollar']	0.0827346205535
+['student ticket', 'ballet performance']	['adult']	0.0774561735493
+['student ticket', 'ballet performance']	['dollar']	0.0354449666524
+['student ticket', 'ballet performance']	['12 dollar']	0.0827346205535
+['student ticket', 'ballet performance']	['receipt']	0.170171263305
+['student ticket', 'ballet performance']	['605 ticket']	0.584269096576
+['student ticket', 'ballet performance']	['8,390.00 dollar']	0.0901100077042
+['student ticket', 'ballet performance']	['adult ticket']	0.569183039069
+['ticket', 'performance']	['ballet performance']	0.676648031946
+['ticket', 'performance']	['14 dollar']	0.117488318928
+['ticket', 'performance']	['adult']	0.283738765744
+['ticket', 'performance']	['dollar']	0.148747752926
+['ticket', 'performance']	['12 dollar']	0.117488318928
+['ticket', 'performance']	['receipt']	0.539847382331
+['ticket', 'performance']	['605 ticket']	0.670043866319
+['ticket', 'performance']	['8,390.00 dollar']	0.117488318928
+['ticket', 'performance']	['adult ticket']	0.722297777211
+['ticket', 'performance']	['student ticket']	0.675737719279
+['ballet performance', 'performance']	['ticket']	0.406728261192
+['ballet performance', 'performance']	['14 dollar']	0.234634961205
+['ballet performance', 'performance']	['adult']	0.821523946788
+['ballet performance', 'performance']	['dollar']	0.355799263222
+['ballet performance', 'performance']	['12 dollar']	0.234634961205
+['ballet performance', 'performance']	['receipt']	0.538487091527
+['ballet performance', 'performance']	['605 ticket']	0.146286340776
+['ballet performance', 'performance']	['8,390.00 dollar']	0.238969088114
+['ballet performance', 'performance']	['adult ticket']	0.146286340776
+['ballet performance', 'performance']	['student ticket']	0.146286340776
+['14 dollar', 'performance']	['ticket']	0.328883094735
+['14 dollar', 'performance']	['ballet performance']	0.71455110167
+['14 dollar', 'performance']	['adult']	0.714819826809
+['14 dollar', 'performance']	['dollar']	0.655137551789
+['14 dollar', 'performance']	['12 dollar']	0.760386850763
+['14 dollar', 'performance']	['receipt']	0.192947327196
+['14 dollar', 'performance']	['605 ticket']	0.0827346205535
+['14 dollar', 'performance']	['8,390.00 dollar']	0.538007739106
+['14 dollar', 'performance']	['adult ticket']	0.0827346205535
+['14 dollar', 'performance']	['student ticket']	0.0827346205535
+['adult', 'performance']	['ticket']	0.157636034886
+['adult', 'performance']	['ballet performance']	0.710051509722
+['adult', 'performance']	['14 dollar']	0.0696933362217
+['adult', 'performance']	['dollar']	0.178206514329
+['adult', 'performance']	['12 dollar']	0.0696933362217
+['adult', 'performance']	['receipt']	0.534165564149
+['adult', 'performance']	['605 ticket']	0.0696933362217
+['adult', 'performance']	['8,390.00 dollar']	0.0696933362217
+['adult', 'performance']	['adult ticket']	0.561956922064
+['adult', 'performance']	['student ticket']	0.0696933362217
+['dollar', 'performance']	['ticket']	0.116727976921
+['dollar', 'performance']	['ballet performance']	0.345399931471
+['dollar', 'performance']	['14 dollar']	0.452298826701
+['dollar', 'performance']	['adult']	0.359453792875
+['dollar', 'performance']	['12 dollar']	0.452298826701
+['dollar', 'performance']	['receipt']	0.283771951671
+['dollar', 'performance']	['605 ticket']	0.0775194642361
+['dollar', 'performance']	['8,390.00 dollar']	0.345399931471
+['dollar', 'performance']	['adult ticket']	0.0775194642361
+['dollar', 'performance']	['student ticket']	0.0775194642361
+['12 dollar', 'performance']	['ticket']	0.328883094735
+['12 dollar', 'performance']	['ballet performance']	0.71455110167
+['12 dollar', 'performance']	['14 dollar']	0.760386850763
+['12 dollar', 'performance']	['adult']	0.714819826809
+['12 dollar', 'performance']	['dollar']	0.655137551789
+['12 dollar', 'performance']	['receipt']	0.192947327196
+['12 dollar', 'performance']	['605 ticket']	0.0827346205535
+['12 dollar', 'performance']	['8,390.00 dollar']	0.538007739106
+['12 dollar', 'performance']	['adult ticket']	0.0827346205535
+['12 dollar', 'performance']	['student ticket']	0.0827346205535
+['receipt', 'performance']	['ticket']	0.472638343427
+['receipt', 'performance']	['ballet performance']	0.710744220118
+['receipt', 'performance']	['14 dollar']	0.0800317642921
+['receipt', 'performance']	['adult']	0.138200262092
+['receipt', 'performance']	['dollar']	0.100991768565
+['receipt', 'performance']	['12 dollar']	0.0800317642921
+['receipt', 'performance']	['605 ticket']	0.0800317642921
+['receipt', 'performance']	['8,390.00 dollar']	0.0800317642921
+['receipt', 'performance']	['adult ticket']	0.0800317642921
+['receipt', 'performance']	['student ticket']	0.0800317642921
+['605 ticket', 'performance']	['ticket']	0.78601235732
+['605 ticket', 'performance']	['ballet performance']	0.707594685938
+['605 ticket', 'performance']	['14 dollar']	0.0827346205535
+['605 ticket', 'performance']	['adult']	0.71700009458
+['605 ticket', 'performance']	['dollar']	0.397039559715
+['605 ticket', 'performance']	['12 dollar']	0.0827346205535
+['605 ticket', 'performance']	['receipt']	0.192947327196
+['605 ticket', 'performance']	['8,390.00 dollar']	0.0827346205535
+['605 ticket', 'performance']	['adult ticket']	0.549852778125
+['605 ticket', 'performance']	['student ticket']	0.549852778125
+['8,390.00 dollar', 'performance']	['ticket']	0.328883094735
+['8,390.00 dollar', 'performance']	['ballet performance']	0.707594685938
+['8,390.00 dollar', 'performance']	['14 dollar']	0.538007739106
+['8,390.00 dollar', 'performance']	['adult']	0.714819826809
+['8,390.00 dollar', 'performance']	['dollar']	0.438810118829
+['8,390.00 dollar', 'performance']	['12 dollar']	0.538007739106
+['8,390.00 dollar', 'performance']	['receipt']	0.192947327196
+['8,390.00 dollar', 'performance']	['605 ticket']	0.0827346205535
+['8,390.00 dollar', 'performance']	['adult ticket']	0.0827346205535
+['8,390.00 dollar', 'performance']	['student ticket']	0.0827346205535
+['adult ticket', 'performance']	['ticket']	0.787290846824
+['adult ticket', 'performance']	['ballet performance']	0.71455110167
+['adult ticket', 'performance']	['14 dollar']	0.0827346205535
+['adult ticket', 'performance']	['adult']	0.512647685831
+['adult ticket', 'performance']	['dollar']	0.397039559715
+['adult ticket', 'performance']	['12 dollar']	0.0827346205535
+['adult ticket', 'performance']	['receipt']	0.192947327196
+['adult ticket', 'performance']	['605 ticket']	0.549852778125
+['adult ticket', 'performance']	['8,390.00 dollar']	0.0827346205535
+['adult ticket', 'performance']	['student ticket']	0.5752094673
+['student ticket', 'performance']	['ticket']	0.711787006853
+['student ticket', 'performance']	['ballet performance']	0.71455110167
+['student ticket', 'performance']	['14 dollar']	0.0827346205535
+['student ticket', 'performance']	['adult']	0.71700009458
+['student ticket', 'performance']	['dollar']	0.397039559715
+['student ticket', 'performance']	['12 dollar']	0.0827346205535
+['student ticket', 'performance']	['receipt']	0.192947327196
+['student ticket', 'performance']	['605 ticket']	0.549852778125
+['student ticket', 'performance']	['8,390.00 dollar']	0.0827346205535
+['student ticket', 'performance']	['adult ticket']	0.5752094673
+['ticket', '14 dollar']	['ballet performance']	0.0696933362217
+['ticket', '14 dollar']	['performance']	0.213491692994
+['ticket', '14 dollar']	['adult']	0.351678173917
+['ticket', '14 dollar']	['dollar']	0.679196039815
+['ticket', '14 dollar']	['12 dollar']	0.787143378625
+['ticket', '14 dollar']	['receipt']	0.744929762239
+['ticket', '14 dollar']	['605 ticket']	0.669973747197
+['ticket', '14 dollar']	['8,390.00 dollar']	0.525526174317
+['ticket', '14 dollar']	['adult ticket']	0.751760536674
+['ticket', '14 dollar']	['student ticket']	0.663762722369
+['ballet performance', '14 dollar']	['ticket']	0.110894185219
+['ballet performance', '14 dollar']	['performance']	0.612081485761
+['ballet performance', '14 dollar']	['adult']	0.0741073489195
+['ballet performance', '14 dollar']	['dollar']	0.388108272712
+['ballet performance', '14 dollar']	['12 dollar']	0.754360422532
+['ballet performance', '14 dollar']	['receipt']	0.170171263305
+['ballet performance', '14 dollar']	['605 ticket']	0.0901100077042
+['ballet performance', '14 dollar']	['8,390.00 dollar']	0.584269096576
+['ballet performance', '14 dollar']	['adult ticket']	0.0827346205535
+['ballet performance', '14 dollar']	['student ticket']	0.0827346205535
+['performance', '14 dollar']	['ticket']	0.328883094735
+['performance', '14 dollar']	['ballet performance']	0.71455110167
+['performance', '14 dollar']	['adult']	0.714819826809
+['performance', '14 dollar']	['dollar']	0.655137551789
+['performance', '14 dollar']	['12 dollar']	0.760386850763
+['performance', '14 dollar']	['receipt']	0.192947327196
+['performance', '14 dollar']	['605 ticket']	0.0827346205535
+['performance', '14 dollar']	['8,390.00 dollar']	0.538007739106
+['performance', '14 dollar']	['adult ticket']	0.0827346205535
+['performance', '14 dollar']	['student ticket']	0.0827346205535
+['adult', '14 dollar']	['ticket']	0.383308752861
+['adult', '14 dollar']	['ballet performance']	0.0669904799604
+['adult', '14 dollar']	['performance']	0.722800318599
+['adult', '14 dollar']	['dollar']	0.693481754101
+['adult', '14 dollar']	['12 dollar']	0.736313764211
+['adult', '14 dollar']	['receipt']	0.715962457614
+['adult', '14 dollar']	['605 ticket']	0.0696933362217
+['adult', '14 dollar']	['8,390.00 dollar']	0.494524508322
+['adult', '14 dollar']	['adult ticket']	0.596373888716
+['adult', '14 dollar']	['student ticket']	0.0696933362217
+['dollar', '14 dollar']	['ticket']	0.413734650951
+['dollar', '14 dollar']	['ballet performance']	0.150377262293
+['dollar', '14 dollar']	['performance']	0.44131461339
+['dollar', '14 dollar']	['adult']	0.321232214338
+['dollar', '14 dollar']	['12 dollar']	0.667149997161
+['dollar', '14 dollar']	['receipt']	0.596453254739
+['dollar', '14 dollar']	['605 ticket']	0.183873817054
+['dollar', '14 dollar']	['8,390.00 dollar']	0.543445645363
+['dollar', '14 dollar']	['adult ticket']	0.183873817054
+['dollar', '14 dollar']	['student ticket']	0.183873817054
+['12 dollar', '14 dollar']	['ticket']	0.51323626183
+['12 dollar', '14 dollar']	['ballet performance']	0.153587928078
+['12 dollar', '14 dollar']	['performance']	0.383475193417
+['12 dollar', '14 dollar']	['adult']	0.345269105941
+['12 dollar', '14 dollar']	['dollar']	0.693038862582
+['12 dollar', '14 dollar']	['receipt']	0.37370815508
+['12 dollar', '14 dollar']	['605 ticket']	0.139258682248
+['12 dollar', '14 dollar']	['8,390.00 dollar']	0.637144068101
+['12 dollar', '14 dollar']	['adult ticket']	0.153587928078
+['12 dollar', '14 dollar']	['student ticket']	0.153587928078
+['receipt', '14 dollar']	['ticket']	0.859122011627
+['receipt', '14 dollar']	['ballet performance']	0.138180177454
+['receipt', '14 dollar']	['performance']	0.199785188181
+['receipt', '14 dollar']	['adult']	0.714819826809
+['receipt', '14 dollar']	['dollar']	0.685440582092
+['receipt', '14 dollar']	['12 dollar']	0.800833695134
+['receipt', '14 dollar']	['605 ticket']	0.0833805889219
+['receipt', '14 dollar']	['8,390.00 dollar']	0.520866309821
+['receipt', '14 dollar']	['adult ticket']	0.0800317642921
+['receipt', '14 dollar']	['student ticket']	0.0819994954072
+['605 ticket', '14 dollar']	['ticket']	0.687998110055
+['605 ticket', '14 dollar']	['ballet performance']	0.0827346205535
+['605 ticket', '14 dollar']	['performance']	0.0777864840342
+['605 ticket', '14 dollar']	['adult']	0.0774561735493
+['605 ticket', '14 dollar']	['dollar']	0.458677718285
+['605 ticket', '14 dollar']	['12 dollar']	0.754360422532
+['605 ticket', '14 dollar']	['receipt']	0.0744376594044
+['605 ticket', '14 dollar']	['8,390.00 dollar']	0.584269096576
+['605 ticket', '14 dollar']	['adult ticket']	0.569519319138
+['605 ticket', '14 dollar']	['student ticket']	0.573408386835
+['8,390.00 dollar', '14 dollar']	['ticket']	0.51323626183
+['8,390.00 dollar', '14 dollar']	['ballet performance']	0.153587928078
+['8,390.00 dollar', '14 dollar']	['performance']	0.383475193417
+['8,390.00 dollar', '14 dollar']	['adult']	0.345269105941
+['8,390.00 dollar', '14 dollar']	['dollar']	0.682603282716
+['8,390.00 dollar', '14 dollar']	['12 dollar']	0.862138942741
+['8,390.00 dollar', '14 dollar']	['receipt']	0.37370815508
+['8,390.00 dollar', '14 dollar']	['605 ticket']	0.139258682248
+['8,390.00 dollar', '14 dollar']	['adult ticket']	0.153587928078
+['8,390.00 dollar', '14 dollar']	['student ticket']	0.14589133531
+['adult ticket', '14 dollar']	['ticket']	0.700846684836
+['adult ticket', '14 dollar']	['ballet performance']	0.0827346205535
+['adult ticket', '14 dollar']	['performance']	0.0777864840342
+['adult ticket', '14 dollar']	['adult']	0.483463331992
+['adult ticket', '14 dollar']	['dollar']	0.458677718285
+['adult ticket', '14 dollar']	['12 dollar']	0.754360422532
+['adult ticket', '14 dollar']	['receipt']	0.0744376594044
+['adult ticket', '14 dollar']	['605 ticket']	0.584269096576
+['adult ticket', '14 dollar']	['8,390.00 dollar']	0.584269096576
+['adult ticket', '14 dollar']	['student ticket']	0.552490398312
+['student ticket', '14 dollar']	['ticket']	0.707398287968
+['student ticket', '14 dollar']	['ballet performance']	0.0827346205535
+['student ticket', '14 dollar']	['performance']	0.0777864840342
+['student ticket', '14 dollar']	['adult']	0.0774561735493
+['student ticket', '14 dollar']	['dollar']	0.458677718285
+['student ticket', '14 dollar']	['12 dollar']	0.754360422532
+['student ticket', '14 dollar']	['receipt']	0.0744376594044
+['student ticket', '14 dollar']	['605 ticket']	0.584269096576
+['student ticket', '14 dollar']	['8,390.00 dollar']	0.584269096576
+['student ticket', '14 dollar']	['adult ticket']	0.552490398312
+['ticket', 'adult']	['ballet performance']	0.132417152272
+['ticket', 'adult']	['performance']	0.485066671734
+['ticket', 'adult']	['14 dollar']	0.174138467195
+['ticket', 'adult']	['dollar']	0.0899996321979
+['ticket', 'adult']	['12 dollar']	0.174138467195
+['ticket', 'adult']	['receipt']	0.192069178895
+['ticket', 'adult']	['605 ticket']	0.670043866319
+['ticket', 'adult']	['8,390.00 dollar']	0.174138467195
+['ticket', 'adult']	['adult ticket']	0.59281813716
+['ticket', 'adult']	['student ticket']	0.694300401269
+['ballet performance', 'adult']	['ticket']	0.351678173917
+['ballet performance', 'adult']	['performance']	0.800886478199
+['ballet performance', 'adult']	['14 dollar']	0.0696933362217
+['ballet performance', 'adult']	['dollar']	0.0806965185133
+['ballet performance', 'adult']	['12 dollar']	0.0696933362217
+['ballet performance', 'adult']	['receipt']	0.850998723131
+['ballet performance', 'adult']	['605 ticket']	0.0696933362217
+['ballet performance', 'adult']	['8,390.00 dollar']	0.0696933362217
+['ballet performance', 'adult']	['adult ticket']	0.596373888716
+['ballet performance', 'adult']	['student ticket']	0.0696933362217
+['performance', 'adult']	['ticket']	0.157636034886
+['performance', 'adult']	['ballet performance']	0.710051509722
+['performance', 'adult']	['14 dollar']	0.0696933362217
+['performance', 'adult']	['dollar']	0.178206514329
+['performance', 'adult']	['12 dollar']	0.0696933362217
+['performance', 'adult']	['receipt']	0.534165564149
+['performance', 'adult']	['605 ticket']	0.0696933362217
+['performance', 'adult']	['8,390.00 dollar']	0.0696933362217
+['performance', 'adult']	['adult ticket']	0.561956922064
+['performance', 'adult']	['student ticket']	0.0696933362217
+['14 dollar', 'adult']	['ticket']	0.383308752861
+['14 dollar', 'adult']	['ballet performance']	0.0669904799604
+['14 dollar', 'adult']	['performance']	0.722800318599
+['14 dollar', 'adult']	['dollar']	0.693481754101
+['14 dollar', 'adult']	['12 dollar']	0.736313764211
+['14 dollar', 'adult']	['receipt']	0.715962457614
+['14 dollar', 'adult']	['605 ticket']	0.0696933362217
+['14 dollar', 'adult']	['8,390.00 dollar']	0.494524508322
+['14 dollar', 'adult']	['adult ticket']	0.596373888716
+['14 dollar', 'adult']	['student ticket']	0.0696933362217
+['dollar', 'adult']	['ticket']	0.204265496759
+['dollar', 'adult']	['ballet performance']	0.0989480026901
+['dollar', 'adult']	['performance']	0.224800920251
+['dollar', 'adult']	['14 dollar']	0.391516700063
+['dollar', 'adult']	['12 dollar']	0.391516700063
+['dollar', 'adult']	['receipt']	0.140841115914
+['dollar', 'adult']	['605 ticket']	0.118523866578
+['dollar', 'adult']	['8,390.00 dollar']	0.359760932789
+['dollar', 'adult']	['adult ticket']	0.38065923629
+['dollar', 'adult']	['student ticket']	0.118523866578
+['12 dollar', 'adult']	['ticket']	0.383308752861
+['12 dollar', 'adult']	['ballet performance']	0.0669904799604
+['12 dollar', 'adult']	['performance']	0.722800318599
+['12 dollar', 'adult']	['14 dollar']	0.736313764211
+['12 dollar', 'adult']	['dollar']	0.693481754101
+['12 dollar', 'adult']	['receipt']	0.715962457614
+['12 dollar', 'adult']	['605 ticket']	0.0696933362217
+['12 dollar', 'adult']	['8,390.00 dollar']	0.494524508322
+['12 dollar', 'adult']	['adult ticket']	0.596373888716
+['12 dollar', 'adult']	['student ticket']	0.0696933362217
+['receipt', 'adult']	['ticket']	0.331509843872
+['receipt', 'adult']	['ballet performance']	0.105345478515
+['receipt', 'adult']	['performance']	0.534165564149
+['receipt', 'adult']	['14 dollar']	0.0669904799604
+['receipt', 'adult']	['dollar']	0.257920152508
+['receipt', 'adult']	['12 dollar']	0.0669904799604
+['receipt', 'adult']	['605 ticket']	0.0669904799604
+['receipt', 'adult']	['8,390.00 dollar']	0.0669904799604
+['receipt', 'adult']	['adult ticket']	0.440012598425
+['receipt', 'adult']	['student ticket']	0.0669904799604
+['605 ticket', 'adult']	['ticket']	0.755516903117
+['605 ticket', 'adult']	['ballet performance']	0.0703393045902
+['605 ticket', 'adult']	['performance']	0.722345524942
+['605 ticket', 'adult']	['14 dollar']	0.0696933362217
+['605 ticket', 'adult']	['dollar']	0.142414104068
+['605 ticket', 'adult']	['12 dollar']	0.0696933362217
+['605 ticket', 'adult']	['receipt']	0.715962457614
+['605 ticket', 'adult']	['8,390.00 dollar']	0.0696933362217
+['605 ticket', 'adult']	['adult ticket']	0.844414774284
+['605 ticket', 'adult']	['student ticket']	0.510461204301
+['8,390.00 dollar', 'adult']	['ticket']	0.383308752861
+['8,390.00 dollar', 'adult']	['ballet performance']	0.0703393045902
+['8,390.00 dollar', 'adult']	['performance']	0.722800318599
+['8,390.00 dollar', 'adult']	['14 dollar']	0.494524508322
+['8,390.00 dollar', 'adult']	['dollar']	0.473606703188
+['8,390.00 dollar', 'adult']	['12 dollar']	0.494524508322
+['8,390.00 dollar', 'adult']	['receipt']	0.715962457614
+['8,390.00 dollar', 'adult']	['605 ticket']	0.0696933362217
+['8,390.00 dollar', 'adult']	['adult ticket']	0.549663130339
+['8,390.00 dollar', 'adult']	['student ticket']	0.0696933362217
+['adult ticket', 'adult']	['ticket']	0.761794888459
+['adult ticket', 'adult']	['ballet performance']	0.0669904799604
+['adult ticket', 'adult']	['performance']	0.722345524942
+['adult ticket', 'adult']	['14 dollar']	0.0696933362217
+['adult ticket', 'adult']	['dollar']	0.142414104068
+['adult ticket', 'adult']	['12 dollar']	0.0696933362217
+['adult ticket', 'adult']	['receipt']	0.715962457614
+['adult ticket', 'adult']	['605 ticket']	0.510461204301
+['adult ticket', 'adult']	['8,390.00 dollar']	0.0696933362217
+['adult ticket', 'adult']	['student ticket']	0.521255982425
+['student ticket', 'adult']	['ticket']	0.706239332903
+['student ticket', 'adult']	['ballet performance']	0.0669904799604
+['student ticket', 'adult']	['performance']	0.722345524942
+['student ticket', 'adult']	['14 dollar']	0.0696933362217
+['student ticket', 'adult']	['dollar']	0.142414104068
+['student ticket', 'adult']	['12 dollar']	0.0696933362217
+['student ticket', 'adult']	['receipt']	0.715962457614
+['student ticket', 'adult']	['605 ticket']	0.510461204301
+['student ticket', 'adult']	['8,390.00 dollar']	0.0696933362217
+['student ticket', 'adult']	['adult ticket']	0.725259283595
+['ticket', 'dollar']	['ballet performance']	0.0982347768443
+['ticket', 'dollar']	['performance']	0.153086717909
+['ticket', 'dollar']	['14 dollar']	0.538150963439
+['ticket', 'dollar']	['adult']	0.153799680747
+['ticket', 'dollar']	['12 dollar']	0.538150963439
+['ticket', 'dollar']	['receipt']	0.176078426912
+['ticket', 'dollar']	['605 ticket']	0.545159042756
+['ticket', 'dollar']	['8,390.00 dollar']	0.363289837203
+['ticket', 'dollar']	['adult ticket']	0.582053000015
+['ticket', 'dollar']	['student ticket']	0.360100613215
+['ballet performance', 'dollar']	['ticket']	0.11086262958
+['ballet performance', 'dollar']	['performance']	0.487525847544
+['ballet performance', 'dollar']	['14 dollar']	0.391516700063
+['ballet performance', 'dollar']	['adult']	0.121481143454
+['ballet performance', 'dollar']	['12 dollar']	0.391516700063
+['ballet performance', 'dollar']	['receipt']	0.59872510861
+['ballet performance', 'dollar']	['605 ticket']	0.0618737183104
+['ballet performance', 'dollar']	['8,390.00 dollar']	0.384540526976
+['ballet performance', 'dollar']	['adult ticket']	0.0775194642361
+['ballet performance', 'dollar']	['student ticket']	0.0618737183104
+['performance', 'dollar']	['ticket']	0.116727976921
+['performance', 'dollar']	['ballet performance']	0.345399931471
+['performance', 'dollar']	['14 dollar']	0.452298826701
+['performance', 'dollar']	['adult']	0.359453792875
+['performance', 'dollar']	['12 dollar']	0.452298826701
+['performance', 'dollar']	['receipt']	0.283771951671
+['performance', 'dollar']	['605 ticket']	0.0775194642361
+['performance', 'dollar']	['8,390.00 dollar']	0.345399931471
+['performance', 'dollar']	['adult ticket']	0.0775194642361
+['performance', 'dollar']	['student ticket']	0.0775194642361
+['14 dollar', 'dollar']	['ticket']	0.413734650951
+['14 dollar', 'dollar']	['ballet performance']	0.150377262293
+['14 dollar', 'dollar']	['performance']	0.44131461339
+['14 dollar', 'dollar']	['adult']	0.321232214338
+['14 dollar', 'dollar']	['12 dollar']	0.667149997161
+['14 dollar', 'dollar']	['receipt']	0.596453254739
+['14 dollar', 'dollar']	['605 ticket']	0.183873817054
+['14 dollar', 'dollar']	['8,390.00 dollar']	0.543445645363
+['14 dollar', 'dollar']	['adult ticket']	0.183873817054
+['14 dollar', 'dollar']	['student ticket']	0.183873817054
+['adult', 'dollar']	['ticket']	0.204265496759
+['adult', 'dollar']	['ballet performance']	0.0989480026901
+['adult', 'dollar']	['performance']	0.224800920251
+['adult', 'dollar']	['14 dollar']	0.391516700063
+['adult', 'dollar']	['12 dollar']	0.391516700063
+['adult', 'dollar']	['receipt']	0.140841115914
+['adult', 'dollar']	['605 ticket']	0.118523866578
+['adult', 'dollar']	['8,390.00 dollar']	0.359760932789
+['adult', 'dollar']	['adult ticket']	0.38065923629
+['adult', 'dollar']	['student ticket']	0.118523866578
+['12 dollar', 'dollar']	['ticket']	0.413734650951
+['12 dollar', 'dollar']	['ballet performance']	0.150377262293
+['12 dollar', 'dollar']	['performance']	0.44131461339
+['12 dollar', 'dollar']	['14 dollar']	0.667149997161
+['12 dollar', 'dollar']	['adult']	0.321232214338
+['12 dollar', 'dollar']	['receipt']	0.596453254739
+['12 dollar', 'dollar']	['605 ticket']	0.183873817054
+['12 dollar', 'dollar']	['8,390.00 dollar']	0.543445645363
+['12 dollar', 'dollar']	['adult ticket']	0.183873817054
+['12 dollar', 'dollar']	['student ticket']	0.183873817054
+['receipt', 'dollar']	['ticket']	0.366665586929
+['receipt', 'dollar']	['ballet performance']	0.0708527975694
+['receipt', 'dollar']	['performance']	0.126402743034
+['receipt', 'dollar']	['14 dollar']	0.452298826701
+['receipt', 'dollar']	['adult']	0.359453792875
+['receipt', 'dollar']	['12 dollar']	0.452298826701
+['receipt', 'dollar']	['605 ticket']	0.0714527268925
+['receipt', 'dollar']	['8,390.00 dollar']	0.345399931471
+['receipt', 'dollar']	['adult ticket']	0.0714527268925
+['receipt', 'dollar']	['student ticket']	0.0714527268925
+['605 ticket', 'dollar']	['ticket']	0.646450713312
+['605 ticket', 'dollar']	['ballet performance']	0.0361569291624
+['605 ticket', 'dollar']	['performance']	0.280853804282
+['605 ticket', 'dollar']	['14 dollar']	0.391516700063
+['605 ticket', 'dollar']	['adult']	0.101268600803
+['605 ticket', 'dollar']	['12 dollar']	0.391516700063
+['605 ticket', 'dollar']	['receipt']	0.461903993858
+['605 ticket', 'dollar']	['8,390.00 dollar']	0.384540526976
+['605 ticket', 'dollar']	['adult ticket']	0.208039687774
+['605 ticket', 'dollar']	['student ticket']	0.208039687774
+['8,390.00 dollar', 'dollar']	['ticket']	0.413734650951
+['8,390.00 dollar', 'dollar']	['ballet performance']	0.150377262293
+['8,390.00 dollar', 'dollar']	['performance']	0.44131461339
+['8,390.00 dollar', 'dollar']	['14 dollar']	0.638178477636
+['8,390.00 dollar', 'dollar']	['adult']	0.321232214338
+['8,390.00 dollar', 'dollar']	['12 dollar']	0.638178477636
+['8,390.00 dollar', 'dollar']	['receipt']	0.596453254739
+['8,390.00 dollar', 'dollar']	['605 ticket']	0.183873817054
+['8,390.00 dollar', 'dollar']	['adult ticket']	0.183873817054
+['8,390.00 dollar', 'dollar']	['student ticket']	0.183873817054
+['adult ticket', 'dollar']	['ticket']	0.600796035125
+['adult ticket', 'dollar']	['ballet performance']	0.0361569291624
+['adult ticket', 'dollar']	['performance']	0.280853804282
+['adult ticket', 'dollar']	['14 dollar']	0.391516700063
+['adult ticket', 'dollar']	['adult']	0.252066363663
+['adult ticket', 'dollar']	['12 dollar']	0.391516700063
+['adult ticket', 'dollar']	['receipt']	0.461903993858
+['adult ticket', 'dollar']	['605 ticket']	0.208039687774
+['adult ticket', 'dollar']	['8,390.00 dollar']	0.384540526976
+['adult ticket', 'dollar']	['student ticket']	0.273748850919
+['student ticket', 'dollar']	['ticket']	0.416171927407
+['student ticket', 'dollar']	['ballet performance']	0.0361569291624
+['student ticket', 'dollar']	['performance']	0.280853804282
+['student ticket', 'dollar']	['14 dollar']	0.391516700063
+['student ticket', 'dollar']	['adult']	0.101268600803
+['student ticket', 'dollar']	['12 dollar']	0.391516700063
+['student ticket', 'dollar']	['receipt']	0.461903993858
+['student ticket', 'dollar']	['605 ticket']	0.208039687774
+['student ticket', 'dollar']	['8,390.00 dollar']	0.384540526976
+['student ticket', 'dollar']	['adult ticket']	0.273748850919
+['ticket', '12 dollar']	['ballet performance']	0.0696933362217
+['ticket', '12 dollar']	['performance']	0.213491692994
+['ticket', '12 dollar']	['14 dollar']	0.787143378625
+['ticket', '12 dollar']	['adult']	0.351678173917
+['ticket', '12 dollar']	['dollar']	0.679196039815
+['ticket', '12 dollar']	['receipt']	0.744929762239
+['ticket', '12 dollar']	['605 ticket']	0.669973747197
+['ticket', '12 dollar']	['8,390.00 dollar']	0.525526174317
+['ticket', '12 dollar']	['adult ticket']	0.751760536674
+['ticket', '12 dollar']	['student ticket']	0.663762722369
+['ballet performance', '12 dollar']	['ticket']	0.110894185219
+['ballet performance', '12 dollar']	['performance']	0.612081485761
+['ballet performance', '12 dollar']	['14 dollar']	0.754360422532
+['ballet performance', '12 dollar']	['adult']	0.0741073489195
+['ballet performance', '12 dollar']	['dollar']	0.388108272712
+['ballet performance', '12 dollar']	['receipt']	0.170171263305
+['ballet performance', '12 dollar']	['605 ticket']	0.0901100077042
+['ballet performance', '12 dollar']	['8,390.00 dollar']	0.584269096576
+['ballet performance', '12 dollar']	['adult ticket']	0.0827346205535
+['ballet performance', '12 dollar']	['student ticket']	0.0827346205535
+['performance', '12 dollar']	['ticket']	0.328883094735
+['performance', '12 dollar']	['ballet performance']	0.71455110167
+['performance', '12 dollar']	['14 dollar']	0.760386850763
+['performance', '12 dollar']	['adult']	0.714819826809
+['performance', '12 dollar']	['dollar']	0.655137551789
+['performance', '12 dollar']	['receipt']	0.192947327196
+['performance', '12 dollar']	['605 ticket']	0.0827346205535
+['performance', '12 dollar']	['8,390.00 dollar']	0.538007739106
+['performance', '12 dollar']	['adult ticket']	0.0827346205535
+['performance', '12 dollar']	['student ticket']	0.0827346205535
+['14 dollar', '12 dollar']	['ticket']	0.51323626183
+['14 dollar', '12 dollar']	['ballet performance']	0.153587928078
+['14 dollar', '12 dollar']	['performance']	0.383475193417
+['14 dollar', '12 dollar']	['adult']	0.345269105941
+['14 dollar', '12 dollar']	['dollar']	0.693038862582
+['14 dollar', '12 dollar']	['receipt']	0.37370815508
+['14 dollar', '12 dollar']	['605 ticket']	0.139258682248
+['14 dollar', '12 dollar']	['8,390.00 dollar']	0.637144068101
+['14 dollar', '12 dollar']	['adult ticket']	0.153587928078
+['14 dollar', '12 dollar']	['student ticket']	0.153587928078
+['adult', '12 dollar']	['ticket']	0.383308752861
+['adult', '12 dollar']	['ballet performance']	0.0669904799604
+['adult', '12 dollar']	['performance']	0.722800318599
+['adult', '12 dollar']	['14 dollar']	0.736313764211
+['adult', '12 dollar']	['dollar']	0.693481754101
+['adult', '12 dollar']	['receipt']	0.715962457614
+['adult', '12 dollar']	['605 ticket']	0.0696933362217
+['adult', '12 dollar']	['8,390.00 dollar']	0.494524508322
+['adult', '12 dollar']	['adult ticket']	0.596373888716
+['adult', '12 dollar']	['student ticket']	0.0696933362217
+['dollar', '12 dollar']	['ticket']	0.413734650951
+['dollar', '12 dollar']	['ballet performance']	0.150377262293
+['dollar', '12 dollar']	['performance']	0.44131461339
+['dollar', '12 dollar']	['14 dollar']	0.667149997161
+['dollar', '12 dollar']	['adult']	0.321232214338
+['dollar', '12 dollar']	['receipt']	0.596453254739
+['dollar', '12 dollar']	['605 ticket']	0.183873817054
+['dollar', '12 dollar']	['8,390.00 dollar']	0.543445645363
+['dollar', '12 dollar']	['adult ticket']	0.183873817054
+['dollar', '12 dollar']	['student ticket']	0.183873817054
+['receipt', '12 dollar']	['ticket']	0.859122011627
+['receipt', '12 dollar']	['ballet performance']	0.138180177454
+['receipt', '12 dollar']	['performance']	0.199785188181
+['receipt', '12 dollar']	['14 dollar']	0.800833695134
+['receipt', '12 dollar']	['adult']	0.714819826809
+['receipt', '12 dollar']	['dollar']	0.685440582092
+['receipt', '12 dollar']	['605 ticket']	0.0833805889219
+['receipt', '12 dollar']	['8,390.00 dollar']	0.520866309821
+['receipt', '12 dollar']	['adult ticket']	0.0800317642921
+['receipt', '12 dollar']	['student ticket']	0.0819994954072
+['605 ticket', '12 dollar']	['ticket']	0.687998110055
+['605 ticket', '12 dollar']	['ballet performance']	0.0827346205535
+['605 ticket', '12 dollar']	['performance']	0.0777864840342
+['605 ticket', '12 dollar']	['14 dollar']	0.754360422532
+['605 ticket', '12 dollar']	['adult']	0.0774561735493
+['605 ticket', '12 dollar']	['dollar']	0.458677718285
+['605 ticket', '12 dollar']	['receipt']	0.0744376594044
+['605 ticket', '12 dollar']	['8,390.00 dollar']	0.584269096576
+['605 ticket', '12 dollar']	['adult ticket']	0.569519319138
+['605 ticket', '12 dollar']	['student ticket']	0.573408386835
+['8,390.00 dollar', '12 dollar']	['ticket']	0.51323626183
+['8,390.00 dollar', '12 dollar']	['ballet performance']	0.153587928078
+['8,390.00 dollar', '12 dollar']	['performance']	0.383475193417
+['8,390.00 dollar', '12 dollar']	['14 dollar']	0.862138942741
+['8,390.00 dollar', '12 dollar']	['adult']	0.345269105941
+['8,390.00 dollar', '12 dollar']	['dollar']	0.682603282716
+['8,390.00 dollar', '12 dollar']	['receipt']	0.37370815508
+['8,390.00 dollar', '12 dollar']	['605 ticket']	0.139258682248
+['8,390.00 dollar', '12 dollar']	['adult ticket']	0.153587928078
+['8,390.00 dollar', '12 dollar']	['student ticket']	0.14589133531
+['adult ticket', '12 dollar']	['ticket']	0.700846684836
+['adult ticket', '12 dollar']	['ballet performance']	0.0827346205535
+['adult ticket', '12 dollar']	['performance']	0.0777864840342
+['adult ticket', '12 dollar']	['14 dollar']	0.754360422532
+['adult ticket', '12 dollar']	['adult']	0.483463331992
+['adult ticket', '12 dollar']	['dollar']	0.458677718285
+['adult ticket', '12 dollar']	['receipt']	0.0744376594044
+['adult ticket', '12 dollar']	['605 ticket']	0.584269096576
+['adult ticket', '12 dollar']	['8,390.00 dollar']	0.584269096576
+['adult ticket', '12 dollar']	['student ticket']	0.552490398312
+['student ticket', '12 dollar']	['ticket']	0.707398287968
+['student ticket', '12 dollar']	['ballet performance']	0.0827346205535
+['student ticket', '12 dollar']	['performance']	0.0777864840342
+['student ticket', '12 dollar']	['14 dollar']	0.754360422532
+['student ticket', '12 dollar']	['adult']	0.0774561735493
+['student ticket', '12 dollar']	['dollar']	0.458677718285
+['student ticket', '12 dollar']	['receipt']	0.0744376594044
+['student ticket', '12 dollar']	['605 ticket']	0.584269096576
+['student ticket', '12 dollar']	['8,390.00 dollar']	0.584269096576
+['student ticket', '12 dollar']	['adult ticket']	0.552490398312
+['ticket', 'receipt']	['ballet performance']	0.103222748661
+['ticket', 'receipt']	['performance']	0.110845817445
+['ticket', 'receipt']	['14 dollar']	0.110566880729
+['ticket', 'receipt']	['adult']	0.283738765744
+['ticket', 'receipt']	['dollar']	0.284629554218
+['ticket', 'receipt']	['12 dollar']	0.110566880729
+['ticket', 'receipt']	['605 ticket']	0.723846078739
+['ticket', 'receipt']	['8,390.00 dollar']	0.110566880729
+['ticket', 'receipt']	['adult ticket']	0.78028613066
+['ticket', 'receipt']	['student ticket']	0.703705348878
+['ballet performance', 'receipt']	['ticket']	0.710453798101
+['ballet performance', 'receipt']	['performance']	0.677012225287
+['ballet performance', 'receipt']	['14 dollar']	0.0800317642921
+['ballet performance', 'receipt']	['adult']	0.73097274673
+['ballet performance', 'receipt']	['dollar']	0.353875909714
+['ballet performance', 'receipt']	['12 dollar']	0.0800317642921
+['ballet performance', 'receipt']	['605 ticket']	0.0833805889219
+['ballet performance', 'receipt']	['8,390.00 dollar']	0.0833805889219
+['ballet performance', 'receipt']	['adult ticket']	0.0800317642921
+['ballet performance', 'receipt']	['student ticket']	0.0800317642921
+['performance', 'receipt']	['ticket']	0.472638343427
+['performance', 'receipt']	['ballet performance']	0.710744220118
+['performance', 'receipt']	['14 dollar']	0.0800317642921
+['performance', 'receipt']	['adult']	0.138200262092
+['performance', 'receipt']	['dollar']	0.100991768565
+['performance', 'receipt']	['12 dollar']	0.0800317642921
+['performance', 'receipt']	['605 ticket']	0.0800317642921
+['performance', 'receipt']	['8,390.00 dollar']	0.0800317642921
+['performance', 'receipt']	['adult ticket']	0.0800317642921
+['performance', 'receipt']	['student ticket']	0.0800317642921
+['14 dollar', 'receipt']	['ticket']	0.859122011627
+['14 dollar', 'receipt']	['ballet performance']	0.138180177454
+['14 dollar', 'receipt']	['performance']	0.199785188181
+['14 dollar', 'receipt']	['adult']	0.714819826809
+['14 dollar', 'receipt']	['dollar']	0.685440582092
+['14 dollar', 'receipt']	['12 dollar']	0.800833695134
+['14 dollar', 'receipt']	['605 ticket']	0.0833805889219
+['14 dollar', 'receipt']	['8,390.00 dollar']	0.520866309821
+['14 dollar', 'receipt']	['adult ticket']	0.0800317642921
+['14 dollar', 'receipt']	['student ticket']	0.0819994954072
+['adult', 'receipt']	['ticket']	0.331509843872
+['adult', 'receipt']	['ballet performance']	0.105345478515
+['adult', 'receipt']	['performance']	0.534165564149
+['adult', 'receipt']	['14 dollar']	0.0669904799604
+['adult', 'receipt']	['dollar']	0.257920152508
+['adult', 'receipt']	['12 dollar']	0.0669904799604
+['adult', 'receipt']	['605 ticket']	0.0669904799604
+['adult', 'receipt']	['8,390.00 dollar']	0.0669904799604
+['adult', 'receipt']	['adult ticket']	0.440012598425
+['adult', 'receipt']	['student ticket']	0.0669904799604
+['dollar', 'receipt']	['ticket']	0.366665586929
+['dollar', 'receipt']	['ballet performance']	0.0708527975694
+['dollar', 'receipt']	['performance']	0.126402743034
+['dollar', 'receipt']	['14 dollar']	0.452298826701
+['dollar', 'receipt']	['adult']	0.359453792875
+['dollar', 'receipt']	['12 dollar']	0.452298826701
+['dollar', 'receipt']	['605 ticket']	0.0714527268925
+['dollar', 'receipt']	['8,390.00 dollar']	0.345399931471
+['dollar', 'receipt']	['adult ticket']	0.0714527268925
+['dollar', 'receipt']	['student ticket']	0.0714527268925
+['12 dollar', 'receipt']	['ticket']	0.859122011627
+['12 dollar', 'receipt']	['ballet performance']	0.138180177454
+['12 dollar', 'receipt']	['performance']	0.199785188181
+['12 dollar', 'receipt']	['14 dollar']	0.800833695134
+['12 dollar', 'receipt']	['adult']	0.714819826809
+['12 dollar', 'receipt']	['dollar']	0.685440582092
+['12 dollar', 'receipt']	['605 ticket']	0.0833805889219
+['12 dollar', 'receipt']	['8,390.00 dollar']	0.520866309821
+['12 dollar', 'receipt']	['adult ticket']	0.0800317642921
+['12 dollar', 'receipt']	['student ticket']	0.0819994954072
+['605 ticket', 'receipt']	['ticket']	0.775304804602
+['605 ticket', 'receipt']	['ballet performance']	0.124206600218
+['605 ticket', 'receipt']	['performance']	0.177800302008
+['605 ticket', 'receipt']	['14 dollar']	0.0833805889219
+['605 ticket', 'receipt']	['adult']	0.71700009458
+['605 ticket', 'receipt']	['dollar']	0.490537525093
+['605 ticket', 'receipt']	['12 dollar']	0.0833805889219
+['605 ticket', 'receipt']	['8,390.00 dollar']	0.0833805889219
+['605 ticket', 'receipt']	['adult ticket']	0.520866309821
+['605 ticket', 'receipt']	['student ticket']	0.520866309821
+['8,390.00 dollar', 'receipt']	['ticket']	0.859122011627
+['8,390.00 dollar', 'receipt']	['ballet performance']	0.124206600218
+['8,390.00 dollar', 'receipt']	['performance']	0.199785188181
+['8,390.00 dollar', 'receipt']	['14 dollar']	0.520866309821
+['8,390.00 dollar', 'receipt']	['adult']	0.714819826809
+['8,390.00 dollar', 'receipt']	['dollar']	0.512339644858
+['8,390.00 dollar', 'receipt']	['12 dollar']	0.520866309821
+['8,390.00 dollar', 'receipt']	['605 ticket']	0.0833805889219
+['8,390.00 dollar', 'receipt']	['adult ticket']	0.0833805889219
+['8,390.00 dollar', 'receipt']	['student ticket']	0.0833805889219
+['adult ticket', 'receipt']	['ticket']	0.790105323226
+['adult ticket', 'receipt']	['ballet performance']	0.139298592296
+['adult ticket', 'receipt']	['performance']	0.177800302008
+['adult ticket', 'receipt']	['14 dollar']	0.0800317642921
+['adult ticket', 'receipt']	['adult']	0.536253219075
+['adult ticket', 'receipt']	['dollar']	0.490537525093
+['adult ticket', 'receipt']	['12 dollar']	0.0800317642921
+['adult ticket', 'receipt']	['605 ticket']	0.520866309821
+['adult ticket', 'receipt']	['8,390.00 dollar']	0.0833805889219
+['adult ticket', 'receipt']	['student ticket']	0.574018991109
+['student ticket', 'receipt']	['ticket']	0.821910970052
+['student ticket', 'receipt']	['ballet performance']	0.138180177454
+['student ticket', 'receipt']	['performance']	0.177800302008
+['student ticket', 'receipt']	['14 dollar']	0.0819994954072
+['student ticket', 'receipt']	['adult']	0.71700009458
+['student ticket', 'receipt']	['dollar']	0.490537525093
+['student ticket', 'receipt']	['12 dollar']	0.0819994954072
+['student ticket', 'receipt']	['605 ticket']	0.520866309821
+['student ticket', 'receipt']	['8,390.00 dollar']	0.0833805889219
+['student ticket', 'receipt']	['adult ticket']	0.574018991109
+['ticket', '605 ticket']	['ballet performance']	0.139259023173
+['ticket', '605 ticket']	['performance']	0.391778704054
+['ticket', '605 ticket']	['14 dollar']	0.247627320934
+['ticket', '605 ticket']	['adult']	0.503518417929
+['ticket', '605 ticket']	['dollar']	0.347535848514
+['ticket', '605 ticket']	['12 dollar']	0.247627320934
+['ticket', '605 ticket']	['receipt']	0.760380701798
+['ticket', '605 ticket']	['8,390.00 dollar']	0.247627320934
+['ticket', '605 ticket']	['adult ticket']	0.853987545748
+['ticket', '605 ticket']	['student ticket']	0.722622429839
+['ballet performance', '605 ticket']	['ticket']	0.586711484531
+['ballet performance', '605 ticket']	['performance']	0.611028180006
+['ballet performance', '605 ticket']	['14 dollar']	0.0827346205535
+['ballet performance', '605 ticket']	['adult']	0.0774561735493
+['ballet performance', '605 ticket']	['dollar']	0.0354449666524
+['ballet performance', '605 ticket']	['12 dollar']	0.0827346205535
+['ballet performance', '605 ticket']	['receipt']	0.170171263305
+['ballet performance', '605 ticket']	['8,390.00 dollar']	0.0901100077042
+['ballet performance', '605 ticket']	['adult ticket']	0.549852778125
+['ballet performance', '605 ticket']	['student ticket']	0.557925116239
+['performance', '605 ticket']	['ticket']	0.78601235732
+['performance', '605 ticket']	['ballet performance']	0.707594685938
+['performance', '605 ticket']	['14 dollar']	0.0827346205535
+['performance', '605 ticket']	['adult']	0.71700009458
+['performance', '605 ticket']	['dollar']	0.397039559715
+['performance', '605 ticket']	['12 dollar']	0.0827346205535
+['performance', '605 ticket']	['receipt']	0.192947327196
+['performance', '605 ticket']	['8,390.00 dollar']	0.0827346205535
+['performance', '605 ticket']	['adult ticket']	0.549852778125
+['performance', '605 ticket']	['student ticket']	0.549852778125
+['14 dollar', '605 ticket']	['ticket']	0.687998110055
+['14 dollar', '605 ticket']	['ballet performance']	0.0827346205535
+['14 dollar', '605 ticket']	['performance']	0.0777864840342
+['14 dollar', '605 ticket']	['adult']	0.0774561735493
+['14 dollar', '605 ticket']	['dollar']	0.458677718285
+['14 dollar', '605 ticket']	['12 dollar']	0.754360422532
+['14 dollar', '605 ticket']	['receipt']	0.0744376594044
+['14 dollar', '605 ticket']	['8,390.00 dollar']	0.584269096576
+['14 dollar', '605 ticket']	['adult ticket']	0.569519319138
+['14 dollar', '605 ticket']	['student ticket']	0.573408386835
+['adult', '605 ticket']	['ticket']	0.755516903117
+['adult', '605 ticket']	['ballet performance']	0.0703393045902
+['adult', '605 ticket']	['performance']	0.722345524942
+['adult', '605 ticket']	['14 dollar']	0.0696933362217
+['adult', '605 ticket']	['dollar']	0.142414104068
+['adult', '605 ticket']	['12 dollar']	0.0696933362217
+['adult', '605 ticket']	['receipt']	0.715962457614
+['adult', '605 ticket']	['8,390.00 dollar']	0.0696933362217
+['adult', '605 ticket']	['adult ticket']	0.844414774284
+['adult', '605 ticket']	['student ticket']	0.510461204301
+['dollar', '605 ticket']	['ticket']	0.646450713312
+['dollar', '605 ticket']	['ballet performance']	0.0361569291624
+['dollar', '605 ticket']	['performance']	0.280853804282
+['dollar', '605 ticket']	['14 dollar']	0.391516700063
+['dollar', '605 ticket']	['adult']	0.101268600803
+['dollar', '605 ticket']	['12 dollar']	0.391516700063
+['dollar', '605 ticket']	['receipt']	0.461903993858
+['dollar', '605 ticket']	['8,390.00 dollar']	0.384540526976
+['dollar', '605 ticket']	['adult ticket']	0.208039687774
+['dollar', '605 ticket']	['student ticket']	0.208039687774
+['12 dollar', '605 ticket']	['ticket']	0.687998110055
+['12 dollar', '605 ticket']	['ballet performance']	0.0827346205535
+['12 dollar', '605 ticket']	['performance']	0.0777864840342
+['12 dollar', '605 ticket']	['14 dollar']	0.754360422532
+['12 dollar', '605 ticket']	['adult']	0.0774561735493
+['12 dollar', '605 ticket']	['dollar']	0.458677718285
+['12 dollar', '605 ticket']	['receipt']	0.0744376594044
+['12 dollar', '605 ticket']	['8,390.00 dollar']	0.584269096576
+['12 dollar', '605 ticket']	['adult ticket']	0.569519319138
+['12 dollar', '605 ticket']	['student ticket']	0.573408386835
+['receipt', '605 ticket']	['ticket']	0.775304804602
+['receipt', '605 ticket']	['ballet performance']	0.124206600218
+['receipt', '605 ticket']	['performance']	0.177800302008
+['receipt', '605 ticket']	['14 dollar']	0.0833805889219
+['receipt', '605 ticket']	['adult']	0.71700009458
+['receipt', '605 ticket']	['dollar']	0.490537525093
+['receipt', '605 ticket']	['12 dollar']	0.0833805889219
+['receipt', '605 ticket']	['8,390.00 dollar']	0.0833805889219
+['receipt', '605 ticket']	['adult ticket']	0.520866309821
+['receipt', '605 ticket']	['student ticket']	0.520866309821
+['8,390.00 dollar', '605 ticket']	['ticket']	0.687998110055
+['8,390.00 dollar', '605 ticket']	['ballet performance']	0.0901100077042
+['8,390.00 dollar', '605 ticket']	['performance']	0.0777864840342
+['8,390.00 dollar', '605 ticket']	['14 dollar']	0.584269096576
+['8,390.00 dollar', '605 ticket']	['adult']	0.0774561735493
+['8,390.00 dollar', '605 ticket']	['dollar']	0.404389461393
+['8,390.00 dollar', '605 ticket']	['12 dollar']	0.584269096576
+['8,390.00 dollar', '605 ticket']	['receipt']	0.0744376594044
+['8,390.00 dollar', '605 ticket']	['adult ticket']	0.584269096576
+['8,390.00 dollar', '605 ticket']	['student ticket']	0.584269096576
+['adult ticket', '605 ticket']	['ticket']	0.707364104934
+['adult ticket', '605 ticket']	['ballet performance']	0.146286340776
+['adult ticket', '605 ticket']	['performance']	0.325390866884
+['adult ticket', '605 ticket']	['14 dollar']	0.153587928078
+['adult ticket', '605 ticket']	['adult']	0.581516055124
+['adult ticket', '605 ticket']	['dollar']	0.292299166638
+['adult ticket', '605 ticket']	['12 dollar']	0.153587928078
+['adult ticket', '605 ticket']	['receipt']	0.37370815508
+['adult ticket', '605 ticket']	['8,390.00 dollar']	0.139258682248
+['adult ticket', '605 ticket']	['student ticket']	0.795103976209
+['student ticket', '605 ticket']	['ticket']	0.749517001914
+['student ticket', '605 ticket']	['ballet performance']	0.153587928078
+['student ticket', '605 ticket']	['performance']	0.325390866884
+['student ticket', '605 ticket']	['14 dollar']	0.14589133531
+['student ticket', '605 ticket']	['adult']	0.322323177041
+['student ticket', '605 ticket']	['dollar']	0.292299166638
+['student ticket', '605 ticket']	['12 dollar']	0.14589133531
+['student ticket', '605 ticket']	['receipt']	0.37370815508
+['student ticket', '605 ticket']	['8,390.00 dollar']	0.139258682248
+['student ticket', '605 ticket']	['adult ticket']	0.795103976209
+['ticket', '8,390.00 dollar']	['ballet performance']	0.0737139440912
+['ticket', '8,390.00 dollar']	['performance']	0.213491692994
+['ticket', '8,390.00 dollar']	['14 dollar']	0.525526174317
+['ticket', '8,390.00 dollar']	['adult']	0.351678173917
+['ticket', '8,390.00 dollar']	['dollar']	0.473606703188
+['ticket', '8,390.00 dollar']	['12 dollar']	0.525526174317
+['ticket', '8,390.00 dollar']	['receipt']	0.744929762239
+['ticket', '8,390.00 dollar']	['605 ticket']	0.669973747197
+['ticket', '8,390.00 dollar']	['adult ticket']	0.722227658089
+['ticket', '8,390.00 dollar']	['student ticket']	0.659403281276
+['ballet performance', '8,390.00 dollar']	['ticket']	0.110894185219
+['ballet performance', '8,390.00 dollar']	['performance']	0.612081485761
+['ballet performance', '8,390.00 dollar']	['14 dollar']	0.549852778125
+['ballet performance', '8,390.00 dollar']	['adult']	0.0741073489195
+['ballet performance', '8,390.00 dollar']	['dollar']	0.345297574209
+['ballet performance', '8,390.00 dollar']	['12 dollar']	0.549852778125
+['ballet performance', '8,390.00 dollar']	['receipt']	0.170171263305
+['ballet performance', '8,390.00 dollar']	['605 ticket']	0.0901100077042
+['ballet performance', '8,390.00 dollar']	['adult ticket']	0.0827346205535
+['ballet performance', '8,390.00 dollar']	['student ticket']	0.0827346205535
+['performance', '8,390.00 dollar']	['ticket']	0.328883094735
+['performance', '8,390.00 dollar']	['ballet performance']	0.707594685938
+['performance', '8,390.00 dollar']	['14 dollar']	0.538007739106
+['performance', '8,390.00 dollar']	['adult']	0.714819826809
+['performance', '8,390.00 dollar']	['dollar']	0.438810118829
+['performance', '8,390.00 dollar']	['12 dollar']	0.538007739106
+['performance', '8,390.00 dollar']	['receipt']	0.192947327196
+['performance', '8,390.00 dollar']	['605 ticket']	0.0827346205535
+['performance', '8,390.00 dollar']	['adult ticket']	0.0827346205535
+['performance', '8,390.00 dollar']	['student ticket']	0.0827346205535
+['14 dollar', '8,390.00 dollar']	['ticket']	0.51323626183
+['14 dollar', '8,390.00 dollar']	['ballet performance']	0.153587928078
+['14 dollar', '8,390.00 dollar']	['performance']	0.383475193417
+['14 dollar', '8,390.00 dollar']	['adult']	0.345269105941
+['14 dollar', '8,390.00 dollar']	['dollar']	0.682603282716
+['14 dollar', '8,390.00 dollar']	['12 dollar']	0.862138942741
+['14 dollar', '8,390.00 dollar']	['receipt']	0.37370815508
+['14 dollar', '8,390.00 dollar']	['605 ticket']	0.139258682248
+['14 dollar', '8,390.00 dollar']	['adult ticket']	0.153587928078
+['14 dollar', '8,390.00 dollar']	['student ticket']	0.14589133531
+['adult', '8,390.00 dollar']	['ticket']	0.383308752861
+['adult', '8,390.00 dollar']	['ballet performance']	0.0703393045902
+['adult', '8,390.00 dollar']	['performance']	0.722800318599
+['adult', '8,390.00 dollar']	['14 dollar']	0.494524508322
+['adult', '8,390.00 dollar']	['dollar']	0.473606703188
+['adult', '8,390.00 dollar']	['12 dollar']	0.494524508322
+['adult', '8,390.00 dollar']	['receipt']	0.715962457614
+['adult', '8,390.00 dollar']	['605 ticket']	0.0696933362217
+['adult', '8,390.00 dollar']	['adult ticket']	0.549663130339
+['adult', '8,390.00 dollar']	['student ticket']	0.0696933362217
+['dollar', '8,390.00 dollar']	['ticket']	0.413734650951
+['dollar', '8,390.00 dollar']	['ballet performance']	0.150377262293
+['dollar', '8,390.00 dollar']	['performance']	0.44131461339
+['dollar', '8,390.00 dollar']	['14 dollar']	0.638178477636
+['dollar', '8,390.00 dollar']	['adult']	0.321232214338
+['dollar', '8,390.00 dollar']	['12 dollar']	0.638178477636
+['dollar', '8,390.00 dollar']	['receipt']	0.596453254739
+['dollar', '8,390.00 dollar']	['605 ticket']	0.183873817054
+['dollar', '8,390.00 dollar']	['adult ticket']	0.183873817054
+['dollar', '8,390.00 dollar']	['student ticket']	0.183873817054
+['12 dollar', '8,390.00 dollar']	['ticket']	0.51323626183
+['12 dollar', '8,390.00 dollar']	['ballet performance']	0.153587928078
+['12 dollar', '8,390.00 dollar']	['performance']	0.383475193417
+['12 dollar', '8,390.00 dollar']	['14 dollar']	0.862138942741
+['12 dollar', '8,390.00 dollar']	['adult']	0.345269105941
+['12 dollar', '8,390.00 dollar']	['dollar']	0.682603282716
+['12 dollar', '8,390.00 dollar']	['receipt']	0.37370815508
+['12 dollar', '8,390.00 dollar']	['605 ticket']	0.139258682248
+['12 dollar', '8,390.00 dollar']	['adult ticket']	0.153587928078
+['12 dollar', '8,390.00 dollar']	['student ticket']	0.14589133531
+['receipt', '8,390.00 dollar']	['ticket']	0.859122011627
+['receipt', '8,390.00 dollar']	['ballet performance']	0.124206600218
+['receipt', '8,390.00 dollar']	['performance']	0.199785188181
+['receipt', '8,390.00 dollar']	['14 dollar']	0.520866309821
+['receipt', '8,390.00 dollar']	['adult']	0.714819826809
+['receipt', '8,390.00 dollar']	['dollar']	0.512339644858
+['receipt', '8,390.00 dollar']	['12 dollar']	0.520866309821
+['receipt', '8,390.00 dollar']	['605 ticket']	0.0833805889219
+['receipt', '8,390.00 dollar']	['adult ticket']	0.0833805889219
+['receipt', '8,390.00 dollar']	['student ticket']	0.0833805889219
+['605 ticket', '8,390.00 dollar']	['ticket']	0.687998110055
+['605 ticket', '8,390.00 dollar']	['ballet performance']	0.0901100077042
+['605 ticket', '8,390.00 dollar']	['performance']	0.0777864840342
+['605 ticket', '8,390.00 dollar']	['14 dollar']	0.584269096576
+['605 ticket', '8,390.00 dollar']	['adult']	0.0774561735493
+['605 ticket', '8,390.00 dollar']	['dollar']	0.404389461393
+['605 ticket', '8,390.00 dollar']	['12 dollar']	0.584269096576
+['605 ticket', '8,390.00 dollar']	['receipt']	0.0744376594044
+['605 ticket', '8,390.00 dollar']	['adult ticket']	0.584269096576
+['605 ticket', '8,390.00 dollar']	['student ticket']	0.584269096576
+['adult ticket', '8,390.00 dollar']	['ticket']	0.700846684836
+['adult ticket', '8,390.00 dollar']	['ballet performance']	0.0827346205535
+['adult ticket', '8,390.00 dollar']	['performance']	0.0777864840342
+['adult ticket', '8,390.00 dollar']	['14 dollar']	0.569519319138
+['adult ticket', '8,390.00 dollar']	['adult']	0.483463331992
+['adult ticket', '8,390.00 dollar']	['dollar']	0.404389461393
+['adult ticket', '8,390.00 dollar']	['12 dollar']	0.569519319138
+['adult ticket', '8,390.00 dollar']	['receipt']	0.0744376594044
+['adult ticket', '8,390.00 dollar']	['605 ticket']	0.584269096576
+['adult ticket', '8,390.00 dollar']	['student ticket']	0.578891755681
+['student ticket', '8,390.00 dollar']	['ticket']	0.707398287968
+['student ticket', '8,390.00 dollar']	['ballet performance']	0.0827346205535
+['student ticket', '8,390.00 dollar']	['performance']	0.0777864840342
+['student ticket', '8,390.00 dollar']	['14 dollar']	0.573408386835
+['student ticket', '8,390.00 dollar']	['adult']	0.0774561735493
+['student ticket', '8,390.00 dollar']	['dollar']	0.404389461393
+['student ticket', '8,390.00 dollar']	['12 dollar']	0.573408386835
+['student ticket', '8,390.00 dollar']	['receipt']	0.0744376594044
+['student ticket', '8,390.00 dollar']	['605 ticket']	0.584269096576
+['student ticket', '8,390.00 dollar']	['adult ticket']	0.578891755681
+['ticket', 'adult ticket']	['ballet performance']	0.137226694069
+['ticket', 'adult ticket']	['performance']	0.391778704054
+['ticket', 'adult ticket']	['14 dollar']	0.247627320934
+['ticket', 'adult ticket']	['adult']	0.651901182844
+['ticket', 'adult ticket']	['dollar']	0.347535848514
+['ticket', 'adult ticket']	['12 dollar']	0.247627320934
+['ticket', 'adult ticket']	['receipt']	0.760380701798
+['ticket', 'adult ticket']	['605 ticket']	0.782259204304
+['ticket', 'adult ticket']	['8,390.00 dollar']	0.247627320934
+['ticket', 'adult ticket']	['student ticket']	0.709963670002
+['ballet performance', 'adult ticket']	['ticket']	0.62245423315
+['ballet performance', 'adult ticket']	['performance']	0.611028180006
+['ballet performance', 'adult ticket']	['14 dollar']	0.0827346205535
+['ballet performance', 'adult ticket']	['adult']	0.436899125311
+['ballet performance', 'adult ticket']	['dollar']	0.0354449666524
+['ballet performance', 'adult ticket']	['12 dollar']	0.0827346205535
+['ballet performance', 'adult ticket']	['receipt']	0.170171263305
+['ballet performance', 'adult ticket']	['605 ticket']	0.584269096576
+['ballet performance', 'adult ticket']	['8,390.00 dollar']	0.0901100077042
+['ballet performance', 'adult ticket']	['student ticket']	0.569183039069
+['performance', 'adult ticket']	['ticket']	0.787290846824
+['performance', 'adult ticket']	['ballet performance']	0.71455110167
+['performance', 'adult ticket']	['14 dollar']	0.0827346205535
+['performance', 'adult ticket']	['adult']	0.512647685831
+['performance', 'adult ticket']	['dollar']	0.397039559715
+['performance', 'adult ticket']	['12 dollar']	0.0827346205535
+['performance', 'adult ticket']	['receipt']	0.192947327196
+['performance', 'adult ticket']	['605 ticket']	0.549852778125
+['performance', 'adult ticket']	['8,390.00 dollar']	0.0827346205535
+['performance', 'adult ticket']	['student ticket']	0.5752094673
+['14 dollar', 'adult ticket']	['ticket']	0.700846684836
+['14 dollar', 'adult ticket']	['ballet performance']	0.0827346205535
+['14 dollar', 'adult ticket']	['performance']	0.0777864840342
+['14 dollar', 'adult ticket']	['adult']	0.483463331992
+['14 dollar', 'adult ticket']	['dollar']	0.458677718285
+['14 dollar', 'adult ticket']	['12 dollar']	0.754360422532
+['14 dollar', 'adult ticket']	['receipt']	0.0744376594044
+['14 dollar', 'adult ticket']	['605 ticket']	0.584269096576
+['14 dollar', 'adult ticket']	['8,390.00 dollar']	0.584269096576
+['14 dollar', 'adult ticket']	['student ticket']	0.552490398312
+['adult', 'adult ticket']	['ticket']	0.761794888459
+['adult', 'adult ticket']	['ballet performance']	0.0669904799604
+['adult', 'adult ticket']	['performance']	0.722345524942
+['adult', 'adult ticket']	['14 dollar']	0.0696933362217
+['adult', 'adult ticket']	['dollar']	0.142414104068
+['adult', 'adult ticket']	['12 dollar']	0.0696933362217
+['adult', 'adult ticket']	['receipt']	0.715962457614
+['adult', 'adult ticket']	['605 ticket']	0.510461204301
+['adult', 'adult ticket']	['8,390.00 dollar']	0.0696933362217
+['adult', 'adult ticket']	['student ticket']	0.521255982425
+['dollar', 'adult ticket']	['ticket']	0.600796035125
+['dollar', 'adult ticket']	['ballet performance']	0.0361569291624
+['dollar', 'adult ticket']	['performance']	0.280853804282
+['dollar', 'adult ticket']	['14 dollar']	0.391516700063
+['dollar', 'adult ticket']	['adult']	0.252066363663
+['dollar', 'adult ticket']	['12 dollar']	0.391516700063
+['dollar', 'adult ticket']	['receipt']	0.461903993858
+['dollar', 'adult ticket']	['605 ticket']	0.208039687774
+['dollar', 'adult ticket']	['8,390.00 dollar']	0.384540526976
+['dollar', 'adult ticket']	['student ticket']	0.273748850919
+['12 dollar', 'adult ticket']	['ticket']	0.700846684836
+['12 dollar', 'adult ticket']	['ballet performance']	0.0827346205535
+['12 dollar', 'adult ticket']	['performance']	0.0777864840342
+['12 dollar', 'adult ticket']	['14 dollar']	0.754360422532
+['12 dollar', 'adult ticket']	['adult']	0.483463331992
+['12 dollar', 'adult ticket']	['dollar']	0.458677718285
+['12 dollar', 'adult ticket']	['receipt']	0.0744376594044
+['12 dollar', 'adult ticket']	['605 ticket']	0.584269096576
+['12 dollar', 'adult ticket']	['8,390.00 dollar']	0.584269096576
+['12 dollar', 'adult ticket']	['student ticket']	0.552490398312
+['receipt', 'adult ticket']	['ticket']	0.790105323226
+['receipt', 'adult ticket']	['ballet performance']	0.139298592296
+['receipt', 'adult ticket']	['performance']	0.177800302008
+['receipt', 'adult ticket']	['14 dollar']	0.0800317642921
+['receipt', 'adult ticket']	['adult']	0.536253219075
+['receipt', 'adult ticket']	['dollar']	0.490537525093
+['receipt', 'adult ticket']	['12 dollar']	0.0800317642921
+['receipt', 'adult ticket']	['605 ticket']	0.520866309821
+['receipt', 'adult ticket']	['8,390.00 dollar']	0.0833805889219
+['receipt', 'adult ticket']	['student ticket']	0.574018991109
+['605 ticket', 'adult ticket']	['ticket']	0.707364104934
+['605 ticket', 'adult ticket']	['ballet performance']	0.146286340776
+['605 ticket', 'adult ticket']	['performance']	0.325390866884
+['605 ticket', 'adult ticket']	['14 dollar']	0.153587928078
+['605 ticket', 'adult ticket']	['adult']	0.581516055124
+['605 ticket', 'adult ticket']	['dollar']	0.292299166638
+['605 ticket', 'adult ticket']	['12 dollar']	0.153587928078
+['605 ticket', 'adult ticket']	['receipt']	0.37370815508
+['605 ticket', 'adult ticket']	['8,390.00 dollar']	0.139258682248
+['605 ticket', 'adult ticket']	['student ticket']	0.795103976209
+['8,390.00 dollar', 'adult ticket']	['ticket']	0.700846684836
+['8,390.00 dollar', 'adult ticket']	['ballet performance']	0.0827346205535
+['8,390.00 dollar', 'adult ticket']	['performance']	0.0777864840342
+['8,390.00 dollar', 'adult ticket']	['14 dollar']	0.569519319138
+['8,390.00 dollar', 'adult ticket']	['adult']	0.483463331992
+['8,390.00 dollar', 'adult ticket']	['dollar']	0.404389461393
+['8,390.00 dollar', 'adult ticket']	['12 dollar']	0.569519319138
+['8,390.00 dollar', 'adult ticket']	['receipt']	0.0744376594044
+['8,390.00 dollar', 'adult ticket']	['605 ticket']	0.584269096576
+['8,390.00 dollar', 'adult ticket']	['student ticket']	0.578891755681
+['student ticket', 'adult ticket']	['ticket']	0.773123291919
+['student ticket', 'adult ticket']	['ballet performance']	0.146286340776
+['student ticket', 'adult ticket']	['performance']	0.325390866884
+['student ticket', 'adult ticket']	['14 dollar']	0.153587928078
+['student ticket', 'adult ticket']	['adult']	0.581516055124
+['student ticket', 'adult ticket']	['dollar']	0.292299166638
+['student ticket', 'adult ticket']	['12 dollar']	0.153587928078
+['student ticket', 'adult ticket']	['receipt']	0.37370815508
+['student ticket', 'adult ticket']	['605 ticket']	0.637144068101
+['student ticket', 'adult ticket']	['8,390.00 dollar']	0.139258682248
+['ticket', 'student ticket']	['ballet performance']	0.144528281371
+['ticket', 'student ticket']	['performance']	0.391778704054
+['ticket', 'student ticket']	['14 dollar']	0.247627320934
+['ticket', 'student ticket']	['adult']	0.503518417929
+['ticket', 'student ticket']	['dollar']	0.347535848514
+['ticket', 'student ticket']	['12 dollar']	0.247627320934
+['ticket', 'student ticket']	['receipt']	0.760380701798
+['ticket', 'student ticket']	['605 ticket']	0.782259204304
+['ticket', 'student ticket']	['8,390.00 dollar']	0.247627320934
+['ticket', 'student ticket']	['adult ticket']	0.840157211791
+['ballet performance', 'student ticket']	['ticket']	0.688184280425
+['ballet performance', 'student ticket']	['performance']	0.611028180006
+['ballet performance', 'student ticket']	['14 dollar']	0.0827346205535
+['ballet performance', 'student ticket']	['adult']	0.0774561735493
+['ballet performance', 'student ticket']	['dollar']	0.0354449666524
+['ballet performance', 'student ticket']	['12 dollar']	0.0827346205535
+['ballet performance', 'student ticket']	['receipt']	0.170171263305
+['ballet performance', 'student ticket']	['605 ticket']	0.584269096576
+['ballet performance', 'student ticket']	['8,390.00 dollar']	0.0901100077042
+['ballet performance', 'student ticket']	['adult ticket']	0.569183039069
+['performance', 'student ticket']	['ticket']	0.711787006853
+['performance', 'student ticket']	['ballet performance']	0.71455110167
+['performance', 'student ticket']	['14 dollar']	0.0827346205535
+['performance', 'student ticket']	['adult']	0.71700009458
+['performance', 'student ticket']	['dollar']	0.397039559715
+['performance', 'student ticket']	['12 dollar']	0.0827346205535
+['performance', 'student ticket']	['receipt']	0.192947327196
+['performance', 'student ticket']	['605 ticket']	0.549852778125
+['performance', 'student ticket']	['8,390.00 dollar']	0.0827346205535
+['performance', 'student ticket']	['adult ticket']	0.5752094673
+['14 dollar', 'student ticket']	['ticket']	0.707398287968
+['14 dollar', 'student ticket']	['ballet performance']	0.0827346205535
+['14 dollar', 'student ticket']	['performance']	0.0777864840342
+['14 dollar', 'student ticket']	['adult']	0.0774561735493
+['14 dollar', 'student ticket']	['dollar']	0.458677718285
+['14 dollar', 'student ticket']	['12 dollar']	0.754360422532
+['14 dollar', 'student ticket']	['receipt']	0.0744376594044
+['14 dollar', 'student ticket']	['605 ticket']	0.584269096576
+['14 dollar', 'student ticket']	['8,390.00 dollar']	0.584269096576
+['14 dollar', 'student ticket']	['adult ticket']	0.552490398312
+['adult', 'student ticket']	['ticket']	0.706239332903
+['adult', 'student ticket']	['ballet performance']	0.0669904799604
+['adult', 'student ticket']	['performance']	0.722345524942
+['adult', 'student ticket']	['14 dollar']	0.0696933362217
+['adult', 'student ticket']	['dollar']	0.142414104068
+['adult', 'student ticket']	['12 dollar']	0.0696933362217
+['adult', 'student ticket']	['receipt']	0.715962457614
+['adult', 'student ticket']	['605 ticket']	0.510461204301
+['adult', 'student ticket']	['8,390.00 dollar']	0.0696933362217
+['adult', 'student ticket']	['adult ticket']	0.725259283595
+['dollar', 'student ticket']	['ticket']	0.416171927407
+['dollar', 'student ticket']	['ballet performance']	0.0361569291624
+['dollar', 'student ticket']	['performance']	0.280853804282
+['dollar', 'student ticket']	['14 dollar']	0.391516700063
+['dollar', 'student ticket']	['adult']	0.101268600803
+['dollar', 'student ticket']	['12 dollar']	0.391516700063
+['dollar', 'student ticket']	['receipt']	0.461903993858
+['dollar', 'student ticket']	['605 ticket']	0.208039687774
+['dollar', 'student ticket']	['8,390.00 dollar']	0.384540526976
+['dollar', 'student ticket']	['adult ticket']	0.273748850919
+['12 dollar', 'student ticket']	['ticket']	0.707398287968
+['12 dollar', 'student ticket']	['ballet performance']	0.0827346205535
+['12 dollar', 'student ticket']	['performance']	0.0777864840342
+['12 dollar', 'student ticket']	['14 dollar']	0.754360422532
+['12 dollar', 'student ticket']	['adult']	0.0774561735493
+['12 dollar', 'student ticket']	['dollar']	0.458677718285
+['12 dollar', 'student ticket']	['receipt']	0.0744376594044
+['12 dollar', 'student ticket']	['605 ticket']	0.584269096576
+['12 dollar', 'student ticket']	['8,390.00 dollar']	0.584269096576
+['12 dollar', 'student ticket']	['adult ticket']	0.552490398312
+['receipt', 'student ticket']	['ticket']	0.821910970052
+['receipt', 'student ticket']	['ballet performance']	0.138180177454
+['receipt', 'student ticket']	['performance']	0.177800302008
+['receipt', 'student ticket']	['14 dollar']	0.0819994954072
+['receipt', 'student ticket']	['adult']	0.71700009458
+['receipt', 'student ticket']	['dollar']	0.490537525093
+['receipt', 'student ticket']	['12 dollar']	0.0819994954072
+['receipt', 'student ticket']	['605 ticket']	0.520866309821
+['receipt', 'student ticket']	['8,390.00 dollar']	0.0833805889219
+['receipt', 'student ticket']	['adult ticket']	0.574018991109
+['605 ticket', 'student ticket']	['ticket']	0.749517001914
+['605 ticket', 'student ticket']	['ballet performance']	0.153587928078
+['605 ticket', 'student ticket']	['performance']	0.325390866884
+['605 ticket', 'student ticket']	['14 dollar']	0.14589133531
+['605 ticket', 'student ticket']	['adult']	0.322323177041
+['605 ticket', 'student ticket']	['dollar']	0.292299166638
+['605 ticket', 'student ticket']	['12 dollar']	0.14589133531
+['605 ticket', 'student ticket']	['receipt']	0.37370815508
+['605 ticket', 'student ticket']	['8,390.00 dollar']	0.139258682248
+['605 ticket', 'student ticket']	['adult ticket']	0.795103976209
+['8,390.00 dollar', 'student ticket']	['ticket']	0.707398287968
+['8,390.00 dollar', 'student ticket']	['ballet performance']	0.0827346205535
+['8,390.00 dollar', 'student ticket']	['performance']	0.0777864840342
+['8,390.00 dollar', 'student ticket']	['14 dollar']	0.573408386835
+['8,390.00 dollar', 'student ticket']	['adult']	0.0774561735493
+['8,390.00 dollar', 'student ticket']	['dollar']	0.404389461393
+['8,390.00 dollar', 'student ticket']	['12 dollar']	0.573408386835
+['8,390.00 dollar', 'student ticket']	['receipt']	0.0744376594044
+['8,390.00 dollar', 'student ticket']	['605 ticket']	0.584269096576
+['8,390.00 dollar', 'student ticket']	['adult ticket']	0.578891755681
+['adult ticket', 'student ticket']	['ticket']	0.773123291919
+['adult ticket', 'student ticket']	['ballet performance']	0.146286340776
+['adult ticket', 'student ticket']	['performance']	0.325390866884
+['adult ticket', 'student ticket']	['14 dollar']	0.153587928078
+['adult ticket', 'student ticket']	['adult']	0.581516055124
+['adult ticket', 'student ticket']	['dollar']	0.292299166638
+['adult ticket', 'student ticket']	['12 dollar']	0.153587928078
+['adult ticket', 'student ticket']	['receipt']	0.37370815508
+['adult ticket', 'student ticket']	['605 ticket']	0.637144068101
+['adult ticket', 'student ticket']	['8,390.00 dollar']	0.139258682248

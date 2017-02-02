@@ -1,0 +1,134 @@
+['150 kilometer', 'hour', '0.5 time', 'kilometer', '30 kilometer', 'velocity']
+['150 kilometer']	['hour']	0.00424649792755
+['150 kilometer']	['0.5 time']	0.0901100077042
+['150 kilometer']	['30 kilometer']	0.643440930505
+['150 kilometer']	['velocity']	0.079730351659
+['hour']	['0.5 time']	0.204295304236
+['hour']	['kilometer']	0.00861029514411
+['hour']	['30 kilometer']	0.00424565569655
+['hour']	['velocity']	0.0074803794959
+['0.5 time']	['kilometer']	0.0143499502517
+['0.5 time']	['30 kilometer']	0.0901100077042
+['0.5 time']	['velocity']	0.0741073489195
+['kilometer']	['velocity']	0.182115956815
+['30 kilometer']	['velocity']	0.079730351659
+['hour', '150 kilometer']	['0.5 time']	0.219540757646
+['hour', '150 kilometer']	['kilometer']	0.520883686496
+['hour', '150 kilometer']	['30 kilometer']	0.0852471420558
+['hour', '150 kilometer']	['velocity']	0.267878970608
+['0.5 time', '150 kilometer']	['hour']	0.220138205668
+['0.5 time', '150 kilometer']	['kilometer']	0.390719353243
+['0.5 time', '150 kilometer']	['30 kilometer']	0.584269096576
+['0.5 time', '150 kilometer']	['velocity']	0.0741073489195
+['kilometer', '150 kilometer']	['hour']	0.232640758912
+['kilometer', '150 kilometer']	['0.5 time']	0.183197852817
+['kilometer', '150 kilometer']	['30 kilometer']	0.645202446145
+['kilometer', '150 kilometer']	['velocity']	0.366123621556
+['30 kilometer', '150 kilometer']	['hour']	0.12356852927
+['30 kilometer', '150 kilometer']	['0.5 time']	0.139258682248
+['30 kilometer', '150 kilometer']	['kilometer']	0.630121739794
+['30 kilometer', '150 kilometer']	['velocity']	0.352570693243
+['velocity', '150 kilometer']	['hour']	0.182899188934
+['velocity', '150 kilometer']	['0.5 time']	0.0703393045902
+['velocity', '150 kilometer']	['kilometer']	0.661652884333
+['velocity', '150 kilometer']	['30 kilometer']	0.494524508322
+['150 kilometer', 'hour']	['0.5 time']	0.219540757646
+['150 kilometer', 'hour']	['kilometer']	0.520883686496
+['150 kilometer', 'hour']	['30 kilometer']	0.0852471420558
+['150 kilometer', 'hour']	['velocity']	0.267878970608
+['0.5 time', 'hour']	['150 kilometer']	0.0337451128878
+['0.5 time', 'hour']	['kilometer']	0.163220924811
+['0.5 time', 'hour']	['30 kilometer']	0.0337451128878
+['0.5 time', 'hour']	['velocity']	0.269225771955
+['kilometer', 'hour']	['150 kilometer']	0.295280111561
+['kilometer', 'hour']	['0.5 time']	0.227635638356
+['kilometer', 'hour']	['30 kilometer']	0.271967169938
+['kilometer', 'hour']	['velocity']	0.110682466224
+['30 kilometer', 'hour']	['150 kilometer']	0.0852471420558
+['30 kilometer', 'hour']	['0.5 time']	0.219540757646
+['30 kilometer', 'hour']	['kilometer']	0.556574763555
+['30 kilometer', 'hour']	['velocity']	0.267878970608
+['velocity', 'hour']	['150 kilometer']	0.0958229605697
+['velocity', 'hour']	['0.5 time']	0.256389078486
+['velocity', 'hour']	['kilometer']	0.0746896563302
+['velocity', 'hour']	['30 kilometer']	0.0958229605697
+['150 kilometer', '0.5 time']	['hour']	0.220138205668
+['150 kilometer', '0.5 time']	['kilometer']	0.390719353243
+['150 kilometer', '0.5 time']	['30 kilometer']	0.584269096576
+['150 kilometer', '0.5 time']	['velocity']	0.0741073489195
+['hour', '0.5 time']	['150 kilometer']	0.0337451128878
+['hour', '0.5 time']	['kilometer']	0.163220924811
+['hour', '0.5 time']	['30 kilometer']	0.0337451128878
+['hour', '0.5 time']	['velocity']	0.269225771955
+['kilometer', '0.5 time']	['150 kilometer']	0.389606282256
+['kilometer', '0.5 time']	['hour']	0.662653790588
+['kilometer', '0.5 time']	['30 kilometer']	0.415721551815
+['kilometer', '0.5 time']	['velocity']	0.20854621694
+['30 kilometer', '0.5 time']	['150 kilometer']	0.584269096576
+['30 kilometer', '0.5 time']	['hour']	0.220138205668
+['30 kilometer', '0.5 time']	['kilometer']	0.394298748903
+['30 kilometer', '0.5 time']	['velocity']	0.0741073489195
+['velocity', '0.5 time']	['150 kilometer']	0.0696933362217
+['velocity', '0.5 time']	['hour']	0.559390387325
+['velocity', '0.5 time']	['kilometer']	0.196596007736
+['velocity', '0.5 time']	['30 kilometer']	0.0696933362217
+['150 kilometer', 'kilometer']	['hour']	0.232640758912
+['150 kilometer', 'kilometer']	['0.5 time']	0.183197852817
+['150 kilometer', 'kilometer']	['30 kilometer']	0.645202446145
+['150 kilometer', 'kilometer']	['velocity']	0.366123621556
+['hour', 'kilometer']	['150 kilometer']	0.295280111561
+['hour', 'kilometer']	['0.5 time']	0.227635638356
+['hour', 'kilometer']	['30 kilometer']	0.271967169938
+['hour', 'kilometer']	['velocity']	0.110682466224
+['0.5 time', 'kilometer']	['150 kilometer']	0.389606282256
+['0.5 time', 'kilometer']	['hour']	0.662653790588
+['0.5 time', 'kilometer']	['30 kilometer']	0.415721551815
+['0.5 time', 'kilometer']	['velocity']	0.20854621694
+['30 kilometer', 'kilometer']	['150 kilometer']	0.617714178874
+['30 kilometer', 'kilometer']	['hour']	0.232640758912
+['30 kilometer', 'kilometer']	['0.5 time']	0.183197852817
+['30 kilometer', 'kilometer']	['velocity']	0.366123621556
+['velocity', 'kilometer']	['150 kilometer']	0.395267100969
+['velocity', 'kilometer']	['hour']	0.111132893045
+['velocity', 'kilometer']	['0.5 time']	0.0989480026901
+['velocity', 'kilometer']	['30 kilometer']	0.415721551815
+['150 kilometer', '30 kilometer']	['hour']	0.12356852927
+['150 kilometer', '30 kilometer']	['0.5 time']	0.139258682248
+['150 kilometer', '30 kilometer']	['kilometer']	0.630121739794
+['150 kilometer', '30 kilometer']	['velocity']	0.352570693243
+['hour', '30 kilometer']	['150 kilometer']	0.0852471420558
+['hour', '30 kilometer']	['0.5 time']	0.219540757646
+['hour', '30 kilometer']	['kilometer']	0.556574763555
+['hour', '30 kilometer']	['velocity']	0.267878970608
+['0.5 time', '30 kilometer']	['150 kilometer']	0.584269096576
+['0.5 time', '30 kilometer']	['hour']	0.220138205668
+['0.5 time', '30 kilometer']	['kilometer']	0.394298748903
+['0.5 time', '30 kilometer']	['velocity']	0.0741073489195
+['kilometer', '30 kilometer']	['150 kilometer']	0.617714178874
+['kilometer', '30 kilometer']	['hour']	0.232640758912
+['kilometer', '30 kilometer']	['0.5 time']	0.183197852817
+['kilometer', '30 kilometer']	['velocity']	0.366123621556
+['velocity', '30 kilometer']	['150 kilometer']	0.494524508322
+['velocity', '30 kilometer']	['hour']	0.182899188934
+['velocity', '30 kilometer']	['0.5 time']	0.0703393045902
+['velocity', '30 kilometer']	['kilometer']	0.666767496593
+['150 kilometer', 'velocity']	['hour']	0.182899188934
+['150 kilometer', 'velocity']	['0.5 time']	0.0703393045902
+['150 kilometer', 'velocity']	['kilometer']	0.661652884333
+['150 kilometer', 'velocity']	['30 kilometer']	0.494524508322
+['hour', 'velocity']	['150 kilometer']	0.0958229605697
+['hour', 'velocity']	['0.5 time']	0.256389078486
+['hour', 'velocity']	['kilometer']	0.0746896563302
+['hour', 'velocity']	['30 kilometer']	0.0958229605697
+['0.5 time', 'velocity']	['150 kilometer']	0.0696933362217
+['0.5 time', 'velocity']	['hour']	0.559390387325
+['0.5 time', 'velocity']	['kilometer']	0.196596007736
+['0.5 time', 'velocity']	['30 kilometer']	0.0696933362217
+['kilometer', 'velocity']	['150 kilometer']	0.395267100969
+['kilometer', 'velocity']	['hour']	0.111132893045
+['kilometer', 'velocity']	['0.5 time']	0.0989480026901
+['kilometer', 'velocity']	['30 kilometer']	0.415721551815
+['30 kilometer', 'velocity']	['150 kilometer']	0.494524508322
+['30 kilometer', 'velocity']	['hour']	0.182899188934
+['30 kilometer', 'velocity']	['0.5 time']	0.0703393045902
+['30 kilometer', 'velocity']	['kilometer']	0.666767496593

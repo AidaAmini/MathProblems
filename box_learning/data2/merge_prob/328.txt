@@ -1,0 +1,71 @@
+['riza', 'first son', 'today', 'age', 'son now']
+['riza']	['first son']	0.0737139440912
+['riza']	['today']	0.139635642922
+['riza']	['age']	0.0651284395845
+['riza']	['son now']	0.0737139440912
+['first son']	['today']	0.0800606621439
+['first son']	['age']	0.0800606621439
+['first son']	['son now']	0.0827346205535
+['today']	['age']	0.138145848335
+['today']	['son now']	0.0901100077042
+['age']	['son now']	0.0901100077042
+['first son', 'riza']	['today']	0.205555423496
+['first son', 'riza']	['age']	0.182729929366
+['first son', 'riza']	['son now']	0.0696933362217
+['today', 'riza']	['first son']	0.0696933362217
+['today', 'riza']	['age']	0.476415459063
+['today', 'riza']	['son now']	0.0737139440912
+['age', 'riza']	['first son']	0.0696933362217
+['age', 'riza']	['today']	0.635562811966
+['age', 'riza']	['son now']	0.0737139440912
+['son now', 'riza']	['first son']	0.0696933362217
+['son now', 'riza']	['today']	0.205587496094
+['son now', 'riza']	['age']	0.213391903471
+['riza', 'first son']	['today']	0.205555423496
+['riza', 'first son']	['age']	0.182729929366
+['riza', 'first son']	['son now']	0.0696933362217
+['today', 'first son']	['riza']	0.260375113973
+['today', 'first son']	['age']	0.729104400475
+['today', 'first son']	['son now']	0.0827346205535
+['age', 'first son']	['riza']	0.19603525097
+['age', 'first son']	['today']	0.729104400475
+['age', 'first son']	['son now']	0.0827346205535
+['son now', 'first son']	['riza']	0.0831172035382
+['son now', 'first son']	['today']	0.0800606621439
+['son now', 'first son']	['age']	0.0744376594044
+['riza', 'today']	['first son']	0.0696933362217
+['riza', 'today']	['age']	0.476415459063
+['riza', 'today']	['son now']	0.0737139440912
+['first son', 'today']	['riza']	0.260375113973
+['first son', 'today']	['age']	0.729104400475
+['first son', 'today']	['son now']	0.0827346205535
+['age', 'today']	['riza']	0.258876200444
+['age', 'today']	['first son']	0.0827346205535
+['age', 'today']	['son now']	0.0901100077042
+['son now', 'today']	['riza']	0.260375113973
+['son now', 'today']	['first son']	0.0827346205535
+['son now', 'today']	['age']	0.735486028367
+['riza', 'age']	['first son']	0.0696933362217
+['riza', 'age']	['today']	0.635562811966
+['riza', 'age']	['son now']	0.0737139440912
+['first son', 'age']	['riza']	0.19603525097
+['first son', 'age']	['today']	0.729104400475
+['first son', 'age']	['son now']	0.0827346205535
+['today', 'age']	['riza']	0.258876200444
+['today', 'age']	['first son']	0.0827346205535
+['today', 'age']	['son now']	0.0901100077042
+['son now', 'age']	['riza']	0.19603525097
+['son now', 'age']	['first son']	0.0827346205535
+['son now', 'age']	['today']	0.713160711734
+['riza', 'son now']	['first son']	0.0696933362217
+['riza', 'son now']	['today']	0.205587496094
+['riza', 'son now']	['age']	0.213391903471
+['first son', 'son now']	['riza']	0.0831172035382
+['first son', 'son now']	['today']	0.0800606621439
+['first son', 'son now']	['age']	0.0744376594044
+['today', 'son now']	['riza']	0.260375113973
+['today', 'son now']	['first son']	0.0827346205535
+['today', 'son now']	['age']	0.735486028367
+['age', 'son now']	['riza']	0.19603525097
+['age', 'son now']	['first son']	0.0827346205535
+['age', 'son now']	['today']	0.713160711734

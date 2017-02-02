@@ -1,0 +1,14 @@
+1
+[['dinner', '250', '-', '-', '-', 'dollar', '1347.5'], ['adult plate', 'x1', '-', 'dollar', '7', '-', '-'], ['child plate', 'x2', '-', 'dollar', '3.5', '-', '-']]
+-1
+[['dinner', '250', '3.5', '-', '-', 'dollar', '1347.5'], ['adult plate', 'x1', '-', 'dollar', '7', '-', '-'], ['child plate', '1347.5', 'dinner', 'dollar', '3.5', '-', '250']]
+-1
+[['3.5', '250', '-', '-', '-', 'dollar', '1347.5'], ['adult plate', 'x1', '-', 'dollar', '7', '-', '-'], ['child plate', 'x2', '-', 'dollar', '3.5', '-', '-']]
+-1
+[['dinner', '250', '3.5', '-', '-', 'dollar', 'child plate'], ['adult plate', 'x1', '-', 'dollar', '7', '-', '-'], ['child plate', 'x2', '-', 'dinner', '3.5', '1347.5', '250']]
+-1
+[['dinner', 'child plate', '3.5', '-', '-', 'dollar', '1347.5'], ['adult plate', 'x1', '-', 'dollar', '7', '-', '-'], ['child plate', 'dinner', '-', 'dollar', '3.5', '-', '1347.5']]
+-1
+[['dinner', '250', 'x2', 'child plate', '-', '3.5', '1347.5'], ['adult plate', 'x1', '-', 'dollar', '7', '-', '-'], ['child plate', 'x2', '1347.5', 'dollar', '3.5', '250', '-']]
+-1
+[['dinner', '250', '-', '-', '3.5', 'dollar', '1347.5'], ['adult plate', 'x1', '-', 'dollar', '7', '-', '-'], ['child plate', 'x2', 'dinner', 'dollar', '3.5', '-', '1347.5']]

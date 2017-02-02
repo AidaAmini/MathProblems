@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP (NNP Anne) (CC and) (NNP Nancy))
+    (VP
+      (VBP use)
+      (NP
+        (NP (DT a) (NN metal) (NN alloy))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP
+              (VBZ is)
+              (NP
+                (ADJP (CD 24.9) (NN %))
+                (NN copper)
+                (S (VP (TO to) (VP (VB make) (NP (NN jewelry)))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WHADJP (WRB How) (JJ many)) (NNS ounces))
+      (PP (IN of) (NP (DT a) (ADJP (CD 20) (NN %)) (NN alloy))))
+    (SQ
+      (VP
+        (MD must)
+        (VP
+          (VB be)
+          (ADJP
+            (VBN mixed)
+            (PP
+              (IN with)
+              (NP
+                (DT a)
+                (ADJP (CD 27) (NN %))
+                (NN alloy)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB form)
+                      (NP
+                        (NP (CD 100) (NNS ounces))
+                        (PP
+                          (IN of)
+                          (NP (DT the) (VBN desired) (NN alloy)))))))))))))
+    (. ?)))

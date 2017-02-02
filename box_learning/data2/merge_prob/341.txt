@@ -1,0 +1,536 @@
+['mark community barbecue', '250 dinner', 'child plate', '3.50 dollar', 'plate', 'adult plate', '7.00 dollar', 'dollar', '1347.50 dollar']
+['mark community barbecue']	['250 dinner']	0.0988755105172
+['mark community barbecue']	['child plate']	0.1563305367
+['mark community barbecue']	['3.50 dollar']	0.0988755105172
+['mark community barbecue']	['plate']	0.105239937205
+['mark community barbecue']	['adult plate']	0.0981211933805
+['mark community barbecue']	['7.00 dollar']	0.0988755105172
+['mark community barbecue']	['dollar']	0.0138938978606
+['mark community barbecue']	['1347.50 dollar']	0.0988755105172
+['250 dinner']	['child plate']	0.0897823390711
+['250 dinner']	['3.50 dollar']	0.0901100077042
+['250 dinner']	['plate']	0.0939445783919
+['250 dinner']	['adult plate']	0.0897823390711
+['250 dinner']	['7.00 dollar']	0.0901100077042
+['250 dinner']	['dollar']	0.00542020684774
+['250 dinner']	['1347.50 dollar']	0.0901100077042
+['child plate']	['3.50 dollar']	0.0737139440912
+['child plate']	['adult plate']	0.752984781899
+['child plate']	['7.00 dollar']	0.0737139440912
+['child plate']	['dollar']	0.00222717737084
+['child plate']	['1347.50 dollar']	0.0737139440912
+['3.50 dollar']	['plate']	0.0741073489195
+['3.50 dollar']	['adult plate']	0.0897823390711
+['3.50 dollar']	['7.00 dollar']	0.643440930505
+['3.50 dollar']	['1347.50 dollar']	0.643440930505
+['plate']	['7.00 dollar']	0.0663445115919
+['plate']	['dollar']	0.0106208414997
+['plate']	['1347.50 dollar']	0.0663445115919
+['adult plate']	['7.00 dollar']	0.0737139440912
+['adult plate']	['dollar']	0.00222717737084
+['adult plate']	['1347.50 dollar']	0.0737139440912
+['7.00 dollar']	['1347.50 dollar']	0.643440930505
+['250 dinner', 'mark community barbecue']	['child plate']	0.192876181483
+['250 dinner', 'mark community barbecue']	['3.50 dollar']	0.15961386663
+['250 dinner', 'mark community barbecue']	['plate']	0.15916582474
+['250 dinner', 'mark community barbecue']	['adult plate']	0.158859549493
+['250 dinner', 'mark community barbecue']	['7.00 dollar']	0.15961386663
+['250 dinner', 'mark community barbecue']	['dollar']	0.00636410188432
+['250 dinner', 'mark community barbecue']	['1347.50 dollar']	0.15961386663
+['child plate', 'mark community barbecue']	['250 dinner']	0.128877148308
+['child plate', 'mark community barbecue']	['3.50 dollar']	0.128877148308
+['child plate', 'mark community barbecue']	['plate']	0.868153072023
+['child plate', 'mark community barbecue']	['adult plate']	0.758912807841
+['child plate', 'mark community barbecue']	['7.00 dollar']	0.128877148308
+['child plate', 'mark community barbecue']	['dollar']	0.00371585050999
+['child plate', 'mark community barbecue']	['1347.50 dollar']	0.128877148308
+['3.50 dollar', 'mark community barbecue']	['250 dinner']	0.15961386663
+['3.50 dollar', 'mark community barbecue']	['child plate']	0.192876181483
+['3.50 dollar', 'mark community barbecue']	['plate']	0.136350795702
+['3.50 dollar', 'mark community barbecue']	['adult plate']	0.158859549493
+['3.50 dollar', 'mark community barbecue']	['7.00 dollar']	0.653642048458
+['3.50 dollar', 'mark community barbecue']	['dollar']	0.371729726263
+['3.50 dollar', 'mark community barbecue']	['1347.50 dollar']	0.653642048458
+['plate', 'mark community barbecue']	['250 dinner']	0.0963990099525
+['plate', 'mark community barbecue']	['child plate']	0.833392360572
+['plate', 'mark community barbecue']	['3.50 dollar']	0.0696933362217
+['plate', 'mark community barbecue']	['adult plate']	0.649274410456
+['plate', 'mark community barbecue']	['7.00 dollar']	0.0696933362217
+['plate', 'mark community barbecue']	['dollar']	0.0670191965036
+['plate', 'mark community barbecue']	['1347.50 dollar']	0.0696933362217
+['adult plate', 'mark community barbecue']	['250 dinner']	0.128877148308
+['adult plate', 'mark community barbecue']	['child plate']	0.769242481186
+['adult plate', 'mark community barbecue']	['3.50 dollar']	0.128877148308
+['adult plate', 'mark community barbecue']	['plate']	0.868153072023
+['adult plate', 'mark community barbecue']	['7.00 dollar']	0.128877148308
+['adult plate', 'mark community barbecue']	['dollar']	0.00371585050999
+['adult plate', 'mark community barbecue']	['1347.50 dollar']	0.128877148308
+['7.00 dollar', 'mark community barbecue']	['250 dinner']	0.15961386663
+['7.00 dollar', 'mark community barbecue']	['child plate']	0.192876181483
+['7.00 dollar', 'mark community barbecue']	['3.50 dollar']	0.653642048458
+['7.00 dollar', 'mark community barbecue']	['plate']	0.136350795702
+['7.00 dollar', 'mark community barbecue']	['adult plate']	0.158859549493
+['7.00 dollar', 'mark community barbecue']	['dollar']	0.371729726263
+['7.00 dollar', 'mark community barbecue']	['1347.50 dollar']	0.653642048458
+['dollar', 'mark community barbecue']	['250 dinner']	0.0165341599722
+['dollar', 'mark community barbecue']	['child plate']	0.045353503666
+['dollar', 'mark community barbecue']	['3.50 dollar']	0.356496055166
+['dollar', 'mark community barbecue']	['plate']	0.116907935734
+['dollar', 'mark community barbecue']	['adult plate']	0.0187492693053
+['dollar', 'mark community barbecue']	['7.00 dollar']	0.356496055166
+['dollar', 'mark community barbecue']	['1347.50 dollar']	0.303195636322
+['1347.50 dollar', 'mark community barbecue']	['250 dinner']	0.15961386663
+['1347.50 dollar', 'mark community barbecue']	['child plate']	0.192876181483
+['1347.50 dollar', 'mark community barbecue']	['3.50 dollar']	0.653642048458
+['1347.50 dollar', 'mark community barbecue']	['plate']	0.136350795702
+['1347.50 dollar', 'mark community barbecue']	['adult plate']	0.158859549493
+['1347.50 dollar', 'mark community barbecue']	['7.00 dollar']	0.653642048458
+['1347.50 dollar', 'mark community barbecue']	['dollar']	0.251307590823
+['mark community barbecue', '250 dinner']	['child plate']	0.192876181483
+['mark community barbecue', '250 dinner']	['3.50 dollar']	0.15961386663
+['mark community barbecue', '250 dinner']	['plate']	0.15916582474
+['mark community barbecue', '250 dinner']	['adult plate']	0.158859549493
+['mark community barbecue', '250 dinner']	['7.00 dollar']	0.15961386663
+['mark community barbecue', '250 dinner']	['dollar']	0.00636410188432
+['mark community barbecue', '250 dinner']	['1347.50 dollar']	0.15961386663
+['child plate', '250 dinner']	['mark community barbecue']	0.148842617989
+['child plate', '250 dinner']	['3.50 dollar']	0.0737139440912
+['child plate', '250 dinner']	['plate']	0.828203459091
+['child plate', '250 dinner']	['adult plate']	0.705549007265
+['child plate', '250 dinner']	['7.00 dollar']	0.0737139440912
+['child plate', '250 dinner']	['dollar']	0.00222717737084
+['child plate', '250 dinner']	['1347.50 dollar']	0.0737139440912
+['3.50 dollar', '250 dinner']	['mark community barbecue']	0.0941266761548
+['3.50 dollar', '250 dinner']	['child plate']	0.0897823390711
+['3.50 dollar', '250 dinner']	['plate']	0.10086601659
+['3.50 dollar', '250 dinner']	['adult plate']	0.0897823390711
+['3.50 dollar', '250 dinner']	['7.00 dollar']	0.584269096576
+['3.50 dollar', '250 dinner']	['dollar']	0.283563323204
+['3.50 dollar', '250 dinner']	['1347.50 dollar']	0.584269096576
+['plate', '250 dinner']	['mark community barbecue']	0.114408055456
+['plate', '250 dinner']	['child plate']	0.672009453191
+['plate', '250 dinner']	['3.50 dollar']	0.0696933362217
+['plate', '250 dinner']	['adult plate']	0.672009453191
+['plate', '250 dinner']	['7.00 dollar']	0.0696933362217
+['plate', '250 dinner']	['dollar']	0.0652168941181
+['plate', '250 dinner']	['1347.50 dollar']	0.0696933362217
+['adult plate', '250 dinner']	['mark community barbecue']	0.148842617989
+['adult plate', '250 dinner']	['child plate']	0.705549007265
+['adult plate', '250 dinner']	['3.50 dollar']	0.0737139440912
+['adult plate', '250 dinner']	['plate']	0.828203459091
+['adult plate', '250 dinner']	['7.00 dollar']	0.0737139440912
+['adult plate', '250 dinner']	['dollar']	0.00222717737084
+['adult plate', '250 dinner']	['1347.50 dollar']	0.0737139440912
+['7.00 dollar', '250 dinner']	['mark community barbecue']	0.0941266761548
+['7.00 dollar', '250 dinner']	['child plate']	0.0897823390711
+['7.00 dollar', '250 dinner']	['3.50 dollar']	0.584269096576
+['7.00 dollar', '250 dinner']	['plate']	0.10086601659
+['7.00 dollar', '250 dinner']	['adult plate']	0.0897823390711
+['7.00 dollar', '250 dinner']	['dollar']	0.283563323204
+['7.00 dollar', '250 dinner']	['1347.50 dollar']	0.584269096576
+['dollar', '250 dinner']	['mark community barbecue']	0.0163189992404
+['dollar', '250 dinner']	['child plate']	0.0187492693053
+['dollar', '250 dinner']	['3.50 dollar']	0.380321401688
+['dollar', '250 dinner']	['plate']	0.175497155242
+['dollar', '250 dinner']	['adult plate']	0.0187492693053
+['dollar', '250 dinner']	['7.00 dollar']	0.380321401688
+['dollar', '250 dinner']	['1347.50 dollar']	0.354123828896
+['1347.50 dollar', '250 dinner']	['mark community barbecue']	0.0941266761548
+['1347.50 dollar', '250 dinner']	['child plate']	0.0897823390711
+['1347.50 dollar', '250 dinner']	['3.50 dollar']	0.584269096576
+['1347.50 dollar', '250 dinner']	['plate']	0.10086601659
+['1347.50 dollar', '250 dinner']	['adult plate']	0.0897823390711
+['1347.50 dollar', '250 dinner']	['7.00 dollar']	0.584269096576
+['1347.50 dollar', '250 dinner']	['dollar']	0.263863919776
+['mark community barbecue', 'child plate']	['250 dinner']	0.128877148308
+['mark community barbecue', 'child plate']	['3.50 dollar']	0.128877148308
+['mark community barbecue', 'child plate']	['plate']	0.868153072023
+['mark community barbecue', 'child plate']	['adult plate']	0.758912807841
+['mark community barbecue', 'child plate']	['7.00 dollar']	0.128877148308
+['mark community barbecue', 'child plate']	['dollar']	0.00371585050999
+['mark community barbecue', 'child plate']	['1347.50 dollar']	0.128877148308
+['250 dinner', 'child plate']	['mark community barbecue']	0.148842617989
+['250 dinner', 'child plate']	['3.50 dollar']	0.0737139440912
+['250 dinner', 'child plate']	['plate']	0.828203459091
+['250 dinner', 'child plate']	['adult plate']	0.705549007265
+['250 dinner', 'child plate']	['7.00 dollar']	0.0737139440912
+['250 dinner', 'child plate']	['dollar']	0.00222717737084
+['250 dinner', 'child plate']	['1347.50 dollar']	0.0737139440912
+['3.50 dollar', 'child plate']	['mark community barbecue']	0.148842617989
+['3.50 dollar', 'child plate']	['250 dinner']	0.0737139440912
+['3.50 dollar', 'child plate']	['plate']	0.79473871534
+['3.50 dollar', 'child plate']	['adult plate']	0.705549007265
+['3.50 dollar', 'child plate']	['7.00 dollar']	0.544221442934
+['3.50 dollar', 'child plate']	['dollar']	0.33429145055
+['3.50 dollar', 'child plate']	['1347.50 dollar']	0.544221442934
+['plate', 'child plate']	['mark community barbecue']	0.601375302089
+['plate', 'child plate']	['250 dinner']	0.289461947644
+['plate', 'child plate']	['3.50 dollar']	0.275784983691
+['plate', 'child plate']	['adult plate']	0.885533382704
+['plate', 'child plate']	['7.00 dollar']	0.275784983691
+['plate', 'child plate']	['dollar']	0.300360057158
+['plate', 'child plate']	['1347.50 dollar']	0.275784983691
+['adult plate', 'child plate']	['mark community barbecue']	0.590590988363
+['adult plate', 'child plate']	['250 dinner']	0.177915983734
+['adult plate', 'child plate']	['3.50 dollar']	0.177915983734
+['adult plate', 'child plate']	['plate']	0.861691721774
+['adult plate', 'child plate']	['7.00 dollar']	0.177915983734
+['adult plate', 'child plate']	['dollar']	0.15868834106
+['adult plate', 'child plate']	['1347.50 dollar']	0.177915983734
+['7.00 dollar', 'child plate']	['mark community barbecue']	0.148842617989
+['7.00 dollar', 'child plate']	['250 dinner']	0.0737139440912
+['7.00 dollar', 'child plate']	['3.50 dollar']	0.544221442934
+['7.00 dollar', 'child plate']	['plate']	0.79473871534
+['7.00 dollar', 'child plate']	['adult plate']	0.705549007265
+['7.00 dollar', 'child plate']	['dollar']	0.33429145055
+['7.00 dollar', 'child plate']	['1347.50 dollar']	0.544221442934
+['dollar', 'child plate']	['mark community barbecue']	0.127822048734
+['dollar', 'child plate']	['250 dinner']	0.0786120076541
+['dollar', 'child plate']	['3.50 dollar']	0.380321401688
+['dollar', 'child plate']	['plate']	0.45447850904
+['dollar', 'child plate']	['adult plate']	0.313780041089
+['dollar', 'child plate']	['7.00 dollar']	0.380321401688
+['dollar', 'child plate']	['1347.50 dollar']	0.361141372756
+['1347.50 dollar', 'child plate']	['mark community barbecue']	0.148842617989
+['1347.50 dollar', 'child plate']	['250 dinner']	0.0737139440912
+['1347.50 dollar', 'child plate']	['3.50 dollar']	0.544221442934
+['1347.50 dollar', 'child plate']	['plate']	0.79473871534
+['1347.50 dollar', 'child plate']	['adult plate']	0.705549007265
+['1347.50 dollar', 'child plate']	['7.00 dollar']	0.544221442934
+['1347.50 dollar', 'child plate']	['dollar']	0.219590831753
+['mark community barbecue', '3.50 dollar']	['250 dinner']	0.15961386663
+['mark community barbecue', '3.50 dollar']	['child plate']	0.192876181483
+['mark community barbecue', '3.50 dollar']	['plate']	0.136350795702
+['mark community barbecue', '3.50 dollar']	['adult plate']	0.158859549493
+['mark community barbecue', '3.50 dollar']	['7.00 dollar']	0.653642048458
+['mark community barbecue', '3.50 dollar']	['dollar']	0.371729726263
+['mark community barbecue', '3.50 dollar']	['1347.50 dollar']	0.653642048458
+['250 dinner', '3.50 dollar']	['mark community barbecue']	0.0941266761548
+['250 dinner', '3.50 dollar']	['child plate']	0.0897823390711
+['250 dinner', '3.50 dollar']	['plate']	0.10086601659
+['250 dinner', '3.50 dollar']	['adult plate']	0.0897823390711
+['250 dinner', '3.50 dollar']	['7.00 dollar']	0.584269096576
+['250 dinner', '3.50 dollar']	['dollar']	0.283563323204
+['250 dinner', '3.50 dollar']	['1347.50 dollar']	0.584269096576
+['child plate', '3.50 dollar']	['mark community barbecue']	0.148842617989
+['child plate', '3.50 dollar']	['250 dinner']	0.0737139440912
+['child plate', '3.50 dollar']	['plate']	0.79473871534
+['child plate', '3.50 dollar']	['adult plate']	0.705549007265
+['child plate', '3.50 dollar']	['7.00 dollar']	0.544221442934
+['child plate', '3.50 dollar']	['dollar']	0.33429145055
+['child plate', '3.50 dollar']	['1347.50 dollar']	0.544221442934
+['plate', '3.50 dollar']	['mark community barbecue']	0.114408055456
+['plate', '3.50 dollar']	['250 dinner']	0.0939298741501
+['plate', '3.50 dollar']	['child plate']	0.672009453191
+['plate', '3.50 dollar']	['adult plate']	0.672009453191
+['plate', '3.50 dollar']	['7.00 dollar']	0.482679469303
+['plate', '3.50 dollar']	['dollar']	0.476336488304
+['plate', '3.50 dollar']	['1347.50 dollar']	0.482679469303
+['adult plate', '3.50 dollar']	['mark community barbecue']	0.148842617989
+['adult plate', '3.50 dollar']	['250 dinner']	0.0737139440912
+['adult plate', '3.50 dollar']	['child plate']	0.705549007265
+['adult plate', '3.50 dollar']	['plate']	0.79473871534
+['adult plate', '3.50 dollar']	['7.00 dollar']	0.544221442934
+['adult plate', '3.50 dollar']	['dollar']	0.33429145055
+['adult plate', '3.50 dollar']	['1347.50 dollar']	0.544221442934
+['7.00 dollar', '3.50 dollar']	['mark community barbecue']	0.297805101442
+['7.00 dollar', '3.50 dollar']	['250 dinner']	0.139258682248
+['7.00 dollar', '3.50 dollar']	['child plate']	0.14699641653
+['7.00 dollar', '3.50 dollar']	['plate']	0.374062030126
+['7.00 dollar', '3.50 dollar']	['adult plate']	0.14699641653
+['7.00 dollar', '3.50 dollar']	['dollar']	0.786579749845
+['7.00 dollar', '3.50 dollar']	['1347.50 dollar']	0.637144068101
+['dollar', '3.50 dollar']	['mark community barbecue']	0.198882138174
+['dollar', '3.50 dollar']	['250 dinner']	0.0798131677782
+['dollar', '3.50 dollar']	['child plate']	0.109984733254
+['dollar', '3.50 dollar']	['plate']	0.30972153424
+['dollar', '3.50 dollar']	['adult plate']	0.109984733254
+['dollar', '3.50 dollar']	['7.00 dollar']	0.732805939382
+['dollar', '3.50 dollar']	['1347.50 dollar']	0.536838778921
+['1347.50 dollar', '3.50 dollar']	['mark community barbecue']	0.297805101442
+['1347.50 dollar', '3.50 dollar']	['250 dinner']	0.139258682248
+['1347.50 dollar', '3.50 dollar']	['child plate']	0.14699641653
+['1347.50 dollar', '3.50 dollar']	['plate']	0.374062030126
+['1347.50 dollar', '3.50 dollar']	['adult plate']	0.14699641653
+['1347.50 dollar', '3.50 dollar']	['7.00 dollar']	0.637144068101
+['1347.50 dollar', '3.50 dollar']	['dollar']	0.714045856735
+['mark community barbecue', 'plate']	['250 dinner']	0.0963990099525
+['mark community barbecue', 'plate']	['child plate']	0.833392360572
+['mark community barbecue', 'plate']	['3.50 dollar']	0.0696933362217
+['mark community barbecue', 'plate']	['adult plate']	0.649274410456
+['mark community barbecue', 'plate']	['7.00 dollar']	0.0696933362217
+['mark community barbecue', 'plate']	['dollar']	0.0670191965036
+['mark community barbecue', 'plate']	['1347.50 dollar']	0.0696933362217
+['250 dinner', 'plate']	['mark community barbecue']	0.114408055456
+['250 dinner', 'plate']	['child plate']	0.672009453191
+['250 dinner', 'plate']	['3.50 dollar']	0.0696933362217
+['250 dinner', 'plate']	['adult plate']	0.672009453191
+['250 dinner', 'plate']	['7.00 dollar']	0.0696933362217
+['250 dinner', 'plate']	['dollar']	0.0652168941181
+['250 dinner', 'plate']	['1347.50 dollar']	0.0696933362217
+['child plate', 'plate']	['mark community barbecue']	0.601375302089
+['child plate', 'plate']	['250 dinner']	0.289461947644
+['child plate', 'plate']	['3.50 dollar']	0.275784983691
+['child plate', 'plate']	['adult plate']	0.885533382704
+['child plate', 'plate']	['7.00 dollar']	0.275784983691
+['child plate', 'plate']	['dollar']	0.300360057158
+['child plate', 'plate']	['1347.50 dollar']	0.275784983691
+['3.50 dollar', 'plate']	['mark community barbecue']	0.114408055456
+['3.50 dollar', 'plate']	['250 dinner']	0.0939298741501
+['3.50 dollar', 'plate']	['child plate']	0.672009453191
+['3.50 dollar', 'plate']	['adult plate']	0.672009453191
+['3.50 dollar', 'plate']	['7.00 dollar']	0.482679469303
+['3.50 dollar', 'plate']	['dollar']	0.476336488304
+['3.50 dollar', 'plate']	['1347.50 dollar']	0.482679469303
+['adult plate', 'plate']	['mark community barbecue']	0.601375302089
+['adult plate', 'plate']	['250 dinner']	0.289461947644
+['adult plate', 'plate']	['child plate']	0.885533382704
+['adult plate', 'plate']	['3.50 dollar']	0.275784983691
+['adult plate', 'plate']	['7.00 dollar']	0.275784983691
+['adult plate', 'plate']	['dollar']	0.300360057158
+['adult plate', 'plate']	['1347.50 dollar']	0.275784983691
+['7.00 dollar', 'plate']	['mark community barbecue']	0.114408055456
+['7.00 dollar', 'plate']	['250 dinner']	0.0939298741501
+['7.00 dollar', 'plate']	['child plate']	0.672009453191
+['7.00 dollar', 'plate']	['3.50 dollar']	0.482679469303
+['7.00 dollar', 'plate']	['adult plate']	0.672009453191
+['7.00 dollar', 'plate']	['dollar']	0.476336488304
+['7.00 dollar', 'plate']	['1347.50 dollar']	0.482679469303
+['dollar', 'plate']	['mark community barbecue']	0.0836378227365
+['dollar', 'plate']	['250 dinner']	0.0787871379671
+['dollar', 'plate']	['child plate']	0.403019587944
+['dollar', 'plate']	['3.50 dollar']	0.425413806829
+['dollar', 'plate']	['adult plate']	0.403019587944
+['dollar', 'plate']	['7.00 dollar']	0.425413806829
+['dollar', 'plate']	['1347.50 dollar']	0.326322256687
+['1347.50 dollar', 'plate']	['mark community barbecue']	0.114408055456
+['1347.50 dollar', 'plate']	['250 dinner']	0.0939298741501
+['1347.50 dollar', 'plate']	['child plate']	0.672009453191
+['1347.50 dollar', 'plate']	['3.50 dollar']	0.482679469303
+['1347.50 dollar', 'plate']	['adult plate']	0.672009453191
+['1347.50 dollar', 'plate']	['7.00 dollar']	0.482679469303
+['1347.50 dollar', 'plate']	['dollar']	0.364707692888
+['mark community barbecue', 'adult plate']	['250 dinner']	0.128877148308
+['mark community barbecue', 'adult plate']	['child plate']	0.769242481186
+['mark community barbecue', 'adult plate']	['3.50 dollar']	0.128877148308
+['mark community barbecue', 'adult plate']	['plate']	0.868153072023
+['mark community barbecue', 'adult plate']	['7.00 dollar']	0.128877148308
+['mark community barbecue', 'adult plate']	['dollar']	0.00371585050999
+['mark community barbecue', 'adult plate']	['1347.50 dollar']	0.128877148308
+['250 dinner', 'adult plate']	['mark community barbecue']	0.148842617989
+['250 dinner', 'adult plate']	['child plate']	0.705549007265
+['250 dinner', 'adult plate']	['3.50 dollar']	0.0737139440912
+['250 dinner', 'adult plate']	['plate']	0.828203459091
+['250 dinner', 'adult plate']	['7.00 dollar']	0.0737139440912
+['250 dinner', 'adult plate']	['dollar']	0.00222717737084
+['250 dinner', 'adult plate']	['1347.50 dollar']	0.0737139440912
+['child plate', 'adult plate']	['mark community barbecue']	0.590590988363
+['child plate', 'adult plate']	['250 dinner']	0.177915983734
+['child plate', 'adult plate']	['3.50 dollar']	0.177915983734
+['child plate', 'adult plate']	['plate']	0.861691721774
+['child plate', 'adult plate']	['7.00 dollar']	0.177915983734
+['child plate', 'adult plate']	['dollar']	0.15868834106
+['child plate', 'adult plate']	['1347.50 dollar']	0.177915983734
+['3.50 dollar', 'adult plate']	['mark community barbecue']	0.148842617989
+['3.50 dollar', 'adult plate']	['250 dinner']	0.0737139440912
+['3.50 dollar', 'adult plate']	['child plate']	0.705549007265
+['3.50 dollar', 'adult plate']	['plate']	0.79473871534
+['3.50 dollar', 'adult plate']	['7.00 dollar']	0.544221442934
+['3.50 dollar', 'adult plate']	['dollar']	0.33429145055
+['3.50 dollar', 'adult plate']	['1347.50 dollar']	0.544221442934
+['plate', 'adult plate']	['mark community barbecue']	0.601375302089
+['plate', 'adult plate']	['250 dinner']	0.289461947644
+['plate', 'adult plate']	['child plate']	0.885533382704
+['plate', 'adult plate']	['3.50 dollar']	0.275784983691
+['plate', 'adult plate']	['7.00 dollar']	0.275784983691
+['plate', 'adult plate']	['dollar']	0.300360057158
+['plate', 'adult plate']	['1347.50 dollar']	0.275784983691
+['7.00 dollar', 'adult plate']	['mark community barbecue']	0.148842617989
+['7.00 dollar', 'adult plate']	['250 dinner']	0.0737139440912
+['7.00 dollar', 'adult plate']	['child plate']	0.705549007265
+['7.00 dollar', 'adult plate']	['3.50 dollar']	0.544221442934
+['7.00 dollar', 'adult plate']	['plate']	0.79473871534
+['7.00 dollar', 'adult plate']	['dollar']	0.33429145055
+['7.00 dollar', 'adult plate']	['1347.50 dollar']	0.544221442934
+['dollar', 'adult plate']	['mark community barbecue']	0.127822048734
+['dollar', 'adult plate']	['250 dinner']	0.0786120076541
+['dollar', 'adult plate']	['child plate']	0.313780041089
+['dollar', 'adult plate']	['3.50 dollar']	0.380321401688
+['dollar', 'adult plate']	['plate']	0.45447850904
+['dollar', 'adult plate']	['7.00 dollar']	0.380321401688
+['dollar', 'adult plate']	['1347.50 dollar']	0.361141372756
+['1347.50 dollar', 'adult plate']	['mark community barbecue']	0.148842617989
+['1347.50 dollar', 'adult plate']	['250 dinner']	0.0737139440912
+['1347.50 dollar', 'adult plate']	['child plate']	0.705549007265
+['1347.50 dollar', 'adult plate']	['3.50 dollar']	0.544221442934
+['1347.50 dollar', 'adult plate']	['plate']	0.79473871534
+['1347.50 dollar', 'adult plate']	['7.00 dollar']	0.544221442934
+['1347.50 dollar', 'adult plate']	['dollar']	0.219590831753
+['mark community barbecue', '7.00 dollar']	['250 dinner']	0.15961386663
+['mark community barbecue', '7.00 dollar']	['child plate']	0.192876181483
+['mark community barbecue', '7.00 dollar']	['3.50 dollar']	0.653642048458
+['mark community barbecue', '7.00 dollar']	['plate']	0.136350795702
+['mark community barbecue', '7.00 dollar']	['adult plate']	0.158859549493
+['mark community barbecue', '7.00 dollar']	['dollar']	0.371729726263
+['mark community barbecue', '7.00 dollar']	['1347.50 dollar']	0.653642048458
+['250 dinner', '7.00 dollar']	['mark community barbecue']	0.0941266761548
+['250 dinner', '7.00 dollar']	['child plate']	0.0897823390711
+['250 dinner', '7.00 dollar']	['3.50 dollar']	0.584269096576
+['250 dinner', '7.00 dollar']	['plate']	0.10086601659
+['250 dinner', '7.00 dollar']	['adult plate']	0.0897823390711
+['250 dinner', '7.00 dollar']	['dollar']	0.283563323204
+['250 dinner', '7.00 dollar']	['1347.50 dollar']	0.584269096576
+['child plate', '7.00 dollar']	['mark community barbecue']	0.148842617989
+['child plate', '7.00 dollar']	['250 dinner']	0.0737139440912
+['child plate', '7.00 dollar']	['3.50 dollar']	0.544221442934
+['child plate', '7.00 dollar']	['plate']	0.79473871534
+['child plate', '7.00 dollar']	['adult plate']	0.705549007265
+['child plate', '7.00 dollar']	['dollar']	0.33429145055
+['child plate', '7.00 dollar']	['1347.50 dollar']	0.544221442934
+['3.50 dollar', '7.00 dollar']	['mark community barbecue']	0.297805101442
+['3.50 dollar', '7.00 dollar']	['250 dinner']	0.139258682248
+['3.50 dollar', '7.00 dollar']	['child plate']	0.14699641653
+['3.50 dollar', '7.00 dollar']	['plate']	0.374062030126
+['3.50 dollar', '7.00 dollar']	['adult plate']	0.14699641653
+['3.50 dollar', '7.00 dollar']	['dollar']	0.786579749845
+['3.50 dollar', '7.00 dollar']	['1347.50 dollar']	0.637144068101
+['plate', '7.00 dollar']	['mark community barbecue']	0.114408055456
+['plate', '7.00 dollar']	['250 dinner']	0.0939298741501
+['plate', '7.00 dollar']	['child plate']	0.672009453191
+['plate', '7.00 dollar']	['3.50 dollar']	0.482679469303
+['plate', '7.00 dollar']	['adult plate']	0.672009453191
+['plate', '7.00 dollar']	['dollar']	0.476336488304
+['plate', '7.00 dollar']	['1347.50 dollar']	0.482679469303
+['adult plate', '7.00 dollar']	['mark community barbecue']	0.148842617989
+['adult plate', '7.00 dollar']	['250 dinner']	0.0737139440912
+['adult plate', '7.00 dollar']	['child plate']	0.705549007265
+['adult plate', '7.00 dollar']	['3.50 dollar']	0.544221442934
+['adult plate', '7.00 dollar']	['plate']	0.79473871534
+['adult plate', '7.00 dollar']	['dollar']	0.33429145055
+['adult plate', '7.00 dollar']	['1347.50 dollar']	0.544221442934
+['dollar', '7.00 dollar']	['mark community barbecue']	0.198882138174
+['dollar', '7.00 dollar']	['250 dinner']	0.0798131677782
+['dollar', '7.00 dollar']	['child plate']	0.109984733254
+['dollar', '7.00 dollar']	['3.50 dollar']	0.732805939382
+['dollar', '7.00 dollar']	['plate']	0.30972153424
+['dollar', '7.00 dollar']	['adult plate']	0.109984733254
+['dollar', '7.00 dollar']	['1347.50 dollar']	0.536838778921
+['1347.50 dollar', '7.00 dollar']	['mark community barbecue']	0.297805101442
+['1347.50 dollar', '7.00 dollar']	['250 dinner']	0.139258682248
+['1347.50 dollar', '7.00 dollar']	['child plate']	0.14699641653
+['1347.50 dollar', '7.00 dollar']	['3.50 dollar']	0.637144068101
+['1347.50 dollar', '7.00 dollar']	['plate']	0.374062030126
+['1347.50 dollar', '7.00 dollar']	['adult plate']	0.14699641653
+['1347.50 dollar', '7.00 dollar']	['dollar']	0.714045856735
+['mark community barbecue', 'dollar']	['250 dinner']	0.0165341599722
+['mark community barbecue', 'dollar']	['child plate']	0.045353503666
+['mark community barbecue', 'dollar']	['3.50 dollar']	0.356496055166
+['mark community barbecue', 'dollar']	['plate']	0.116907935734
+['mark community barbecue', 'dollar']	['adult plate']	0.0187492693053
+['mark community barbecue', 'dollar']	['7.00 dollar']	0.356496055166
+['mark community barbecue', 'dollar']	['1347.50 dollar']	0.303195636322
+['250 dinner', 'dollar']	['mark community barbecue']	0.0163189992404
+['250 dinner', 'dollar']	['child plate']	0.0187492693053
+['250 dinner', 'dollar']	['3.50 dollar']	0.380321401688
+['250 dinner', 'dollar']	['plate']	0.175497155242
+['250 dinner', 'dollar']	['adult plate']	0.0187492693053
+['250 dinner', 'dollar']	['7.00 dollar']	0.380321401688
+['250 dinner', 'dollar']	['1347.50 dollar']	0.354123828896
+['child plate', 'dollar']	['mark community barbecue']	0.127822048734
+['child plate', 'dollar']	['250 dinner']	0.0786120076541
+['child plate', 'dollar']	['3.50 dollar']	0.380321401688
+['child plate', 'dollar']	['plate']	0.45447850904
+['child plate', 'dollar']	['adult plate']	0.313780041089
+['child plate', 'dollar']	['7.00 dollar']	0.380321401688
+['child plate', 'dollar']	['1347.50 dollar']	0.361141372756
+['3.50 dollar', 'dollar']	['mark community barbecue']	0.198882138174
+['3.50 dollar', 'dollar']	['250 dinner']	0.0798131677782
+['3.50 dollar', 'dollar']	['child plate']	0.109984733254
+['3.50 dollar', 'dollar']	['plate']	0.30972153424
+['3.50 dollar', 'dollar']	['adult plate']	0.109984733254
+['3.50 dollar', 'dollar']	['7.00 dollar']	0.732805939382
+['3.50 dollar', 'dollar']	['1347.50 dollar']	0.536838778921
+['plate', 'dollar']	['mark community barbecue']	0.0836378227365
+['plate', 'dollar']	['250 dinner']	0.0787871379671
+['plate', 'dollar']	['child plate']	0.403019587944
+['plate', 'dollar']	['3.50 dollar']	0.425413806829
+['plate', 'dollar']	['adult plate']	0.403019587944
+['plate', 'dollar']	['7.00 dollar']	0.425413806829
+['plate', 'dollar']	['1347.50 dollar']	0.326322256687
+['adult plate', 'dollar']	['mark community barbecue']	0.127822048734
+['adult plate', 'dollar']	['250 dinner']	0.0786120076541
+['adult plate', 'dollar']	['child plate']	0.313780041089
+['adult plate', 'dollar']	['3.50 dollar']	0.380321401688
+['adult plate', 'dollar']	['plate']	0.45447850904
+['adult plate', 'dollar']	['7.00 dollar']	0.380321401688
+['adult plate', 'dollar']	['1347.50 dollar']	0.361141372756
+['7.00 dollar', 'dollar']	['mark community barbecue']	0.198882138174
+['7.00 dollar', 'dollar']	['250 dinner']	0.0798131677782
+['7.00 dollar', 'dollar']	['child plate']	0.109984733254
+['7.00 dollar', 'dollar']	['3.50 dollar']	0.732805939382
+['7.00 dollar', 'dollar']	['plate']	0.30972153424
+['7.00 dollar', 'dollar']	['adult plate']	0.109984733254
+['7.00 dollar', 'dollar']	['1347.50 dollar']	0.536838778921
+['1347.50 dollar', 'dollar']	['mark community barbecue']	0.198882138174
+['1347.50 dollar', 'dollar']	['250 dinner']	0.0798131677782
+['1347.50 dollar', 'dollar']	['child plate']	0.109984733254
+['1347.50 dollar', 'dollar']	['3.50 dollar']	0.732805939382
+['1347.50 dollar', 'dollar']	['plate']	0.30972153424
+['1347.50 dollar', 'dollar']	['adult plate']	0.109984733254
+['1347.50 dollar', 'dollar']	['7.00 dollar']	0.732805939382
+['mark community barbecue', '1347.50 dollar']	['250 dinner']	0.15961386663
+['mark community barbecue', '1347.50 dollar']	['child plate']	0.192876181483
+['mark community barbecue', '1347.50 dollar']	['3.50 dollar']	0.653642048458
+['mark community barbecue', '1347.50 dollar']	['plate']	0.136350795702
+['mark community barbecue', '1347.50 dollar']	['adult plate']	0.158859549493
+['mark community barbecue', '1347.50 dollar']	['7.00 dollar']	0.653642048458
+['mark community barbecue', '1347.50 dollar']	['dollar']	0.251307590823
+['250 dinner', '1347.50 dollar']	['mark community barbecue']	0.0941266761548
+['250 dinner', '1347.50 dollar']	['child plate']	0.0897823390711
+['250 dinner', '1347.50 dollar']	['3.50 dollar']	0.584269096576
+['250 dinner', '1347.50 dollar']	['plate']	0.10086601659
+['250 dinner', '1347.50 dollar']	['adult plate']	0.0897823390711
+['250 dinner', '1347.50 dollar']	['7.00 dollar']	0.584269096576
+['250 dinner', '1347.50 dollar']	['dollar']	0.263863919776
+['child plate', '1347.50 dollar']	['mark community barbecue']	0.148842617989
+['child plate', '1347.50 dollar']	['250 dinner']	0.0737139440912
+['child plate', '1347.50 dollar']	['3.50 dollar']	0.544221442934
+['child plate', '1347.50 dollar']	['plate']	0.79473871534
+['child plate', '1347.50 dollar']	['adult plate']	0.705549007265
+['child plate', '1347.50 dollar']	['7.00 dollar']	0.544221442934
+['child plate', '1347.50 dollar']	['dollar']	0.219590831753
+['3.50 dollar', '1347.50 dollar']	['mark community barbecue']	0.297805101442
+['3.50 dollar', '1347.50 dollar']	['250 dinner']	0.139258682248
+['3.50 dollar', '1347.50 dollar']	['child plate']	0.14699641653
+['3.50 dollar', '1347.50 dollar']	['plate']	0.374062030126
+['3.50 dollar', '1347.50 dollar']	['adult plate']	0.14699641653
+['3.50 dollar', '1347.50 dollar']	['7.00 dollar']	0.637144068101
+['3.50 dollar', '1347.50 dollar']	['dollar']	0.714045856735
+['plate', '1347.50 dollar']	['mark community barbecue']	0.114408055456
+['plate', '1347.50 dollar']	['250 dinner']	0.0939298741501
+['plate', '1347.50 dollar']	['child plate']	0.672009453191
+['plate', '1347.50 dollar']	['3.50 dollar']	0.482679469303
+['plate', '1347.50 dollar']	['adult plate']	0.672009453191
+['plate', '1347.50 dollar']	['7.00 dollar']	0.482679469303
+['plate', '1347.50 dollar']	['dollar']	0.364707692888
+['adult plate', '1347.50 dollar']	['mark community barbecue']	0.148842617989
+['adult plate', '1347.50 dollar']	['250 dinner']	0.0737139440912
+['adult plate', '1347.50 dollar']	['child plate']	0.705549007265
+['adult plate', '1347.50 dollar']	['3.50 dollar']	0.544221442934
+['adult plate', '1347.50 dollar']	['plate']	0.79473871534
+['adult plate', '1347.50 dollar']	['7.00 dollar']	0.544221442934
+['adult plate', '1347.50 dollar']	['dollar']	0.219590831753
+['7.00 dollar', '1347.50 dollar']	['mark community barbecue']	0.297805101442
+['7.00 dollar', '1347.50 dollar']	['250 dinner']	0.139258682248
+['7.00 dollar', '1347.50 dollar']	['child plate']	0.14699641653
+['7.00 dollar', '1347.50 dollar']	['3.50 dollar']	0.637144068101
+['7.00 dollar', '1347.50 dollar']	['plate']	0.374062030126
+['7.00 dollar', '1347.50 dollar']	['adult plate']	0.14699641653
+['7.00 dollar', '1347.50 dollar']	['dollar']	0.714045856735
+['dollar', '1347.50 dollar']	['mark community barbecue']	0.198882138174
+['dollar', '1347.50 dollar']	['250 dinner']	0.0798131677782
+['dollar', '1347.50 dollar']	['child plate']	0.109984733254
+['dollar', '1347.50 dollar']	['3.50 dollar']	0.732805939382
+['dollar', '1347.50 dollar']	['plate']	0.30972153424
+['dollar', '1347.50 dollar']	['adult plate']	0.109984733254
+['dollar', '1347.50 dollar']	['7.00 dollar']	0.732805939382

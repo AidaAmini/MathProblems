@@ -1,0 +1,34 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN total))
+      (PP (IN of) (NP (CD 366) (NNS tickets))))
+    (VP
+      (VBD were)
+      (VP
+        (VBN sold)
+        (PP (IN for) (NP (DT the) (NN school) (NN play)))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN number))
+      (PP (IN of) (NP (NN student) (NNS tickets))))
+    (VP
+      (VBD sold)
+      (SBAR
+        (S
+          (VP
+            (VBD was)
+            (NP
+              (NP (QP (CD two) (NNS times)))
+              (NP (DT the) (NN number))
+              (PP
+                (IN of)
+                (NP (NP (JJ adult) (NNS tickets)) (VP (VBN sold)))))))))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S (NP (JJ adult) (NNS tickets)) (VP (VBD were) (VP (VBN sold))))
+    (. ?)))

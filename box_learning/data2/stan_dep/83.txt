@@ -1,0 +1,23 @@
+(ROOT
+  (S
+    (SBAR
+      (WHADVP (WRB When) (NP (CD 4) (NNS times)))
+      (S
+        (NP (DT the) (NN number))
+        (VP
+          (VBZ is)
+          (VP
+            (VBN added)
+            (PP
+              (TO to)
+              (NP
+                (NP (QP (CD 7) (NNS times)))
+                (NP (DT the) (NN number))))))))
+    (NP (DT the) (NN result))
+    (VP (VBZ is) (NP (CD 55)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ (VBZ is) (NP (DT the) (NN number)))
+    (. ?)))

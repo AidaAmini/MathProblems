@@ -1,0 +1,10 @@
+1
+[['wednesday and saturday', '5, 182.50', 'dollar', '-', '-', '-', '-'], ['wednesday', 'x1-142.50', 'dollar', '-', '-', '-', '-'], ['saturday', 'x1', 'dollar', '-', '-', '-', '-']]
+-1
+[['wednesday and saturday', 'saturday', 'dollar', 'x1', '-', '-', '-'], ['wednesday', 'x1-142.50', 'dollar', '-', '-', '-', '-'], ['saturday', 'x1', 'dollar', '5, 182.50', '-', '-', '-']]
+-1
+[['dollar', '5, 182.50', 'x1', '-', 'saturday', '-', '-'], ['wednesday', 'x1-142.50', 'dollar', '-', '-', '-', '-'], ['5, 182.50', 'x1', 'dollar', '-', '-', '-', '-']]
+-1
+[['wednesday and saturday', '5, 182.50', 'dollar', 'x1', '-', '-', '-'], ['wednesday', 'x1-142.50', 'dollar', '-', '-', '-', '-'], ['5, 182.50', 'x1', 'wednesday and saturday', '-', '-', '-', '-']]
+-1
+[['wednesday and saturday', '5, 182.50', 'dollar', '-', '-', 'saturday', 'x1'], ['wednesday', 'x1-142.50', 'dollar', '-', '-', '-', '-'], ['saturday', 'x1', 'dollar', 'wednesday and saturday', '-', '-', '-']]

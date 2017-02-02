@@ -1,0 +1,534 @@
+['193 ticket', '2003 ice cream picnic', 'student ticket', '0.50 dollar', 'ticket', 'non-student ticket', '1.50 dollar', 'dollar', '206.50 dollar']
+['193 ticket']	['2003 ice cream picnic']	0.0941266761548
+['193 ticket']	['student ticket']	0.644695369786
+['193 ticket']	['0.50 dollar']	0.0901100077042
+['193 ticket']	['non-student ticket']	0.643440930505
+['193 ticket']	['1.50 dollar']	0.0901100077042
+['193 ticket']	['dollar']	0.0256410450838
+['193 ticket']	['206.50 dollar']	0.0901100077042
+['2003 ice cream picnic']	['student ticket']	0.0981211933805
+['2003 ice cream picnic']	['0.50 dollar']	0.0988755105172
+['2003 ice cream picnic']	['ticket']	0.0914560578477
+['2003 ice cream picnic']	['non-student ticket']	0.0988755105172
+['2003 ice cream picnic']	['1.50 dollar']	0.0988755105172
+['2003 ice cream picnic']	['dollar']	0.0175454252276
+['2003 ice cream picnic']	['206.50 dollar']	0.0988755105172
+['student ticket']	['0.50 dollar']	0.0737139440912
+['student ticket']	['1.50 dollar']	0.0737139440912
+['student ticket']	['dollar']	0.0230175182111
+['student ticket']	['206.50 dollar']	0.0737139440912
+['0.50 dollar']	['ticket']	0.100696756518
+['0.50 dollar']	['non-student ticket']	0.0901100077042
+['0.50 dollar']	['1.50 dollar']	0.643440930505
+['0.50 dollar']	['206.50 dollar']	0.643440930505
+['ticket']	['1.50 dollar']	0.10873615468
+['ticket']	['dollar']	0.0240886330375
+['ticket']	['206.50 dollar']	0.10873615468
+['non-student ticket']	['1.50 dollar']	0.0901100077042
+['non-student ticket']	['dollar']	0.0256410450838
+['non-student ticket']	['206.50 dollar']	0.0901100077042
+['1.50 dollar']	['206.50 dollar']	0.643440930505
+['2003 ice cream picnic', '193 ticket']	['student ticket']	0.622571119615
+['2003 ice cream picnic', '193 ticket']	['0.50 dollar']	0.0988755105172
+['2003 ice cream picnic', '193 ticket']	['ticket']	0.692004303668
+['2003 ice cream picnic', '193 ticket']	['non-student ticket']	0.630956863273
+['2003 ice cream picnic', '193 ticket']	['1.50 dollar']	0.0988755105172
+['2003 ice cream picnic', '193 ticket']	['dollar']	0.0222930989339
+['2003 ice cream picnic', '193 ticket']	['206.50 dollar']	0.0988755105172
+['student ticket', '193 ticket']	['2003 ice cream picnic']	0.372781013339
+['student ticket', '193 ticket']	['0.50 dollar']	0.127137811052
+['student ticket', '193 ticket']	['ticket']	0.760071154082
+['student ticket', '193 ticket']	['non-student ticket']	0.898128868808
+['student ticket', '193 ticket']	['1.50 dollar']	0.127137811052
+['student ticket', '193 ticket']	['dollar']	0.296242423731
+['student ticket', '193 ticket']	['206.50 dollar']	0.127137811052
+['0.50 dollar', '193 ticket']	['2003 ice cream picnic']	0.0941266761548
+['0.50 dollar', '193 ticket']	['student ticket']	0.577101062223
+['0.50 dollar', '193 ticket']	['ticket']	0.687998110055
+['0.50 dollar', '193 ticket']	['non-student ticket']	0.584269096576
+['0.50 dollar', '193 ticket']	['1.50 dollar']	0.584269096576
+['0.50 dollar', '193 ticket']	['dollar']	0.547932141857
+['0.50 dollar', '193 ticket']	['206.50 dollar']	0.584269096576
+['ticket', '193 ticket']	['2003 ice cream picnic']	0.362353205852
+['ticket', '193 ticket']	['student ticket']	0.67043800229
+['ticket', '193 ticket']	['0.50 dollar']	0.247627320934
+['ticket', '193 ticket']	['non-student ticket']	0.722622429839
+['ticket', '193 ticket']	['1.50 dollar']	0.247627320934
+['ticket', '193 ticket']	['dollar']	0.347535848514
+['ticket', '193 ticket']	['206.50 dollar']	0.247627320934
+['non-student ticket', '193 ticket']	['2003 ice cream picnic']	0.315265418903
+['non-student ticket', '193 ticket']	['student ticket']	0.896172917649
+['non-student ticket', '193 ticket']	['0.50 dollar']	0.139258682248
+['non-student ticket', '193 ticket']	['ticket']	0.749517001914
+['non-student ticket', '193 ticket']	['1.50 dollar']	0.139258682248
+['non-student ticket', '193 ticket']	['dollar']	0.292299166638
+['non-student ticket', '193 ticket']	['206.50 dollar']	0.139258682248
+['1.50 dollar', '193 ticket']	['2003 ice cream picnic']	0.0941266761548
+['1.50 dollar', '193 ticket']	['student ticket']	0.577101062223
+['1.50 dollar', '193 ticket']	['0.50 dollar']	0.584269096576
+['1.50 dollar', '193 ticket']	['ticket']	0.687998110055
+['1.50 dollar', '193 ticket']	['non-student ticket']	0.584269096576
+['1.50 dollar', '193 ticket']	['dollar']	0.547932141857
+['1.50 dollar', '193 ticket']	['206.50 dollar']	0.584269096576
+['dollar', '193 ticket']	['2003 ice cream picnic']	0.0444435333372
+['dollar', '193 ticket']	['student ticket']	0.227268900055
+['dollar', '193 ticket']	['0.50 dollar']	0.442012633359
+['dollar', '193 ticket']	['ticket']	0.646450713312
+['dollar', '193 ticket']	['non-student ticket']	0.208039687774
+['dollar', '193 ticket']	['1.50 dollar']	0.442012633359
+['dollar', '193 ticket']	['206.50 dollar']	0.384540526976
+['206.50 dollar', '193 ticket']	['2003 ice cream picnic']	0.0941266761548
+['206.50 dollar', '193 ticket']	['student ticket']	0.577101062223
+['206.50 dollar', '193 ticket']	['0.50 dollar']	0.584269096576
+['206.50 dollar', '193 ticket']	['ticket']	0.687998110055
+['206.50 dollar', '193 ticket']	['non-student ticket']	0.584269096576
+['206.50 dollar', '193 ticket']	['1.50 dollar']	0.584269096576
+['206.50 dollar', '193 ticket']	['dollar']	0.404389461393
+['193 ticket', '2003 ice cream picnic']	['student ticket']	0.622571119615
+['193 ticket', '2003 ice cream picnic']	['0.50 dollar']	0.0988755105172
+['193 ticket', '2003 ice cream picnic']	['ticket']	0.692004303668
+['193 ticket', '2003 ice cream picnic']	['non-student ticket']	0.630956863273
+['193 ticket', '2003 ice cream picnic']	['1.50 dollar']	0.0988755105172
+['193 ticket', '2003 ice cream picnic']	['dollar']	0.0222930989339
+['193 ticket', '2003 ice cream picnic']	['206.50 dollar']	0.0988755105172
+['student ticket', '2003 ice cream picnic']	['193 ticket']	0.622645222773
+['student ticket', '2003 ice cream picnic']	['0.50 dollar']	0.0681387921949
+['student ticket', '2003 ice cream picnic']	['ticket']	0.570020287207
+['student ticket', '2003 ice cream picnic']	['non-student ticket']	0.911461114941
+['student ticket', '2003 ice cream picnic']	['1.50 dollar']	0.0681387921949
+['student ticket', '2003 ice cream picnic']	['dollar']	0.0196695720613
+['student ticket', '2003 ice cream picnic']	['206.50 dollar']	0.0681387921949
+['0.50 dollar', '2003 ice cream picnic']	['193 ticket']	0.0988755105172
+['0.50 dollar', '2003 ice cream picnic']	['student ticket']	0.0981211933805
+['0.50 dollar', '2003 ice cream picnic']	['ticket']	0.10940366544
+['0.50 dollar', '2003 ice cream picnic']	['non-student ticket']	0.0988755105172
+['0.50 dollar', '2003 ice cream picnic']	['1.50 dollar']	0.630956863273
+['0.50 dollar', '2003 ice cream picnic']	['dollar']	0.366635887908
+['0.50 dollar', '2003 ice cream picnic']	['206.50 dollar']	0.630956863273
+['ticket', '2003 ice cream picnic']	['193 ticket']	0.767325280122
+['ticket', '2003 ice cream picnic']	['student ticket']	0.613588409614
+['ticket', '2003 ice cream picnic']	['0.50 dollar']	0.148312858671
+['ticket', '2003 ice cream picnic']	['non-student ticket']	0.675246923131
+['ticket', '2003 ice cream picnic']	['1.50 dollar']	0.148312858671
+['ticket', '2003 ice cream picnic']	['dollar']	0.0976040043596
+['ticket', '2003 ice cream picnic']	['206.50 dollar']	0.148312858671
+['non-student ticket', '2003 ice cream picnic']	['193 ticket']	0.630956863273
+['non-student ticket', '2003 ice cream picnic']	['student ticket']	0.909956951632
+['non-student ticket', '2003 ice cream picnic']	['0.50 dollar']	0.0988755105172
+['non-student ticket', '2003 ice cream picnic']	['ticket']	0.688780217516
+['non-student ticket', '2003 ice cream picnic']	['1.50 dollar']	0.0988755105172
+['non-student ticket', '2003 ice cream picnic']	['dollar']	0.0222930989339
+['non-student ticket', '2003 ice cream picnic']	['206.50 dollar']	0.0988755105172
+['1.50 dollar', '2003 ice cream picnic']	['193 ticket']	0.0988755105172
+['1.50 dollar', '2003 ice cream picnic']	['student ticket']	0.0981211933805
+['1.50 dollar', '2003 ice cream picnic']	['0.50 dollar']	0.630956863273
+['1.50 dollar', '2003 ice cream picnic']	['ticket']	0.10940366544
+['1.50 dollar', '2003 ice cream picnic']	['non-student ticket']	0.0988755105172
+['1.50 dollar', '2003 ice cream picnic']	['dollar']	0.366635887908
+['1.50 dollar', '2003 ice cream picnic']	['206.50 dollar']	0.630956863273
+['dollar', '2003 ice cream picnic']	['193 ticket']	0.0874257981742
+['dollar', '2003 ice cream picnic']	['student ticket']	0.0905572733505
+['dollar', '2003 ice cream picnic']	['0.50 dollar']	0.440279895857
+['dollar', '2003 ice cream picnic']	['ticket']	0.152983029331
+['dollar', '2003 ice cream picnic']	['non-student ticket']	0.0874257981742
+['dollar', '2003 ice cream picnic']	['1.50 dollar']	0.440279895857
+['dollar', '2003 ice cream picnic']	['206.50 dollar']	0.268236466135
+['206.50 dollar', '2003 ice cream picnic']	['193 ticket']	0.0988755105172
+['206.50 dollar', '2003 ice cream picnic']	['student ticket']	0.0981211933805
+['206.50 dollar', '2003 ice cream picnic']	['0.50 dollar']	0.630956863273
+['206.50 dollar', '2003 ice cream picnic']	['ticket']	0.10940366544
+['206.50 dollar', '2003 ice cream picnic']	['non-student ticket']	0.0988755105172
+['206.50 dollar', '2003 ice cream picnic']	['1.50 dollar']	0.630956863273
+['206.50 dollar', '2003 ice cream picnic']	['dollar']	0.263497587595
+['193 ticket', 'student ticket']	['2003 ice cream picnic']	0.372781013339
+['193 ticket', 'student ticket']	['0.50 dollar']	0.127137811052
+['193 ticket', 'student ticket']	['ticket']	0.760071154082
+['193 ticket', 'student ticket']	['non-student ticket']	0.898128868808
+['193 ticket', 'student ticket']	['1.50 dollar']	0.127137811052
+['193 ticket', 'student ticket']	['dollar']	0.296242423731
+['193 ticket', 'student ticket']	['206.50 dollar']	0.127137811052
+['2003 ice cream picnic', 'student ticket']	['193 ticket']	0.622645222773
+['2003 ice cream picnic', 'student ticket']	['0.50 dollar']	0.0681387921949
+['2003 ice cream picnic', 'student ticket']	['ticket']	0.570020287207
+['2003 ice cream picnic', 'student ticket']	['non-student ticket']	0.911461114941
+['2003 ice cream picnic', 'student ticket']	['1.50 dollar']	0.0681387921949
+['2003 ice cream picnic', 'student ticket']	['dollar']	0.0196695720613
+['2003 ice cream picnic', 'student ticket']	['206.50 dollar']	0.0681387921949
+['0.50 dollar', 'student ticket']	['193 ticket']	0.544221442934
+['0.50 dollar', 'student ticket']	['2003 ice cream picnic']	0.0861845487314
+['0.50 dollar', 'student ticket']	['ticket']	0.655688057646
+['0.50 dollar', 'student ticket']	['non-student ticket']	0.843569369343
+['0.50 dollar', 'student ticket']	['1.50 dollar']	0.544221442934
+['0.50 dollar', 'student ticket']	['dollar']	0.511049924984
+['0.50 dollar', 'student ticket']	['206.50 dollar']	0.544221442934
+['ticket', 'student ticket']	['193 ticket']	0.789825666472
+['ticket', 'student ticket']	['2003 ice cream picnic']	0.398007089825
+['ticket', 'student ticket']	['0.50 dollar']	0.298405493616
+['ticket', 'student ticket']	['non-student ticket']	0.789825666472
+['ticket', 'student ticket']	['1.50 dollar']	0.298405493616
+['ticket', 'student ticket']	['dollar']	0.413446847674
+['ticket', 'student ticket']	['206.50 dollar']	0.298405493616
+['non-student ticket', 'student ticket']	['193 ticket']	0.619879171367
+['non-student ticket', 'student ticket']	['2003 ice cream picnic']	0.372781013339
+['non-student ticket', 'student ticket']	['0.50 dollar']	0.127137811052
+['non-student ticket', 'student ticket']	['ticket']	0.560363916212
+['non-student ticket', 'student ticket']	['1.50 dollar']	0.127137811052
+['non-student ticket', 'student ticket']	['dollar']	0.296242423731
+['non-student ticket', 'student ticket']	['206.50 dollar']	0.127137811052
+['1.50 dollar', 'student ticket']	['193 ticket']	0.544221442934
+['1.50 dollar', 'student ticket']	['2003 ice cream picnic']	0.0861845487314
+['1.50 dollar', 'student ticket']	['0.50 dollar']	0.544221442934
+['1.50 dollar', 'student ticket']	['ticket']	0.655688057646
+['1.50 dollar', 'student ticket']	['non-student ticket']	0.843569369343
+['1.50 dollar', 'student ticket']	['dollar']	0.511049924984
+['1.50 dollar', 'student ticket']	['206.50 dollar']	0.544221442934
+['dollar', 'student ticket']	['193 ticket']	0.208039687774
+['dollar', 'student ticket']	['2003 ice cream picnic']	0.106521381019
+['dollar', 'student ticket']	['0.50 dollar']	0.442012633359
+['dollar', 'student ticket']	['ticket']	0.416171927407
+['dollar', 'student ticket']	['non-student ticket']	0.374002747667
+['dollar', 'student ticket']	['1.50 dollar']	0.442012633359
+['dollar', 'student ticket']	['206.50 dollar']	0.391558070836
+['206.50 dollar', 'student ticket']	['193 ticket']	0.544221442934
+['206.50 dollar', 'student ticket']	['2003 ice cream picnic']	0.0861845487314
+['206.50 dollar', 'student ticket']	['0.50 dollar']	0.544221442934
+['206.50 dollar', 'student ticket']	['ticket']	0.655688057646
+['206.50 dollar', 'student ticket']	['non-student ticket']	0.843569369343
+['206.50 dollar', 'student ticket']	['1.50 dollar']	0.544221442934
+['206.50 dollar', 'student ticket']	['dollar']	0.421694420196
+['193 ticket', '0.50 dollar']	['2003 ice cream picnic']	0.0941266761548
+['193 ticket', '0.50 dollar']	['student ticket']	0.577101062223
+['193 ticket', '0.50 dollar']	['ticket']	0.687998110055
+['193 ticket', '0.50 dollar']	['non-student ticket']	0.584269096576
+['193 ticket', '0.50 dollar']	['1.50 dollar']	0.584269096576
+['193 ticket', '0.50 dollar']	['dollar']	0.547932141857
+['193 ticket', '0.50 dollar']	['206.50 dollar']	0.584269096576
+['2003 ice cream picnic', '0.50 dollar']	['193 ticket']	0.0988755105172
+['2003 ice cream picnic', '0.50 dollar']	['student ticket']	0.0981211933805
+['2003 ice cream picnic', '0.50 dollar']	['ticket']	0.10940366544
+['2003 ice cream picnic', '0.50 dollar']	['non-student ticket']	0.0988755105172
+['2003 ice cream picnic', '0.50 dollar']	['1.50 dollar']	0.630956863273
+['2003 ice cream picnic', '0.50 dollar']	['dollar']	0.366635887908
+['2003 ice cream picnic', '0.50 dollar']	['206.50 dollar']	0.630956863273
+['student ticket', '0.50 dollar']	['193 ticket']	0.544221442934
+['student ticket', '0.50 dollar']	['2003 ice cream picnic']	0.0861845487314
+['student ticket', '0.50 dollar']	['ticket']	0.655688057646
+['student ticket', '0.50 dollar']	['non-student ticket']	0.843569369343
+['student ticket', '0.50 dollar']	['1.50 dollar']	0.544221442934
+['student ticket', '0.50 dollar']	['dollar']	0.511049924984
+['student ticket', '0.50 dollar']	['206.50 dollar']	0.544221442934
+['ticket', '0.50 dollar']	['193 ticket']	0.669973747197
+['ticket', '0.50 dollar']	['2003 ice cream picnic']	0.0841365058564
+['ticket', '0.50 dollar']	['student ticket']	0.600226976026
+['ticket', '0.50 dollar']	['non-student ticket']	0.659403281276
+['ticket', '0.50 dollar']	['1.50 dollar']	0.525526174317
+['ticket', '0.50 dollar']	['dollar']	0.690340515548
+['ticket', '0.50 dollar']	['206.50 dollar']	0.525526174317
+['non-student ticket', '0.50 dollar']	['193 ticket']	0.584269096576
+['non-student ticket', '0.50 dollar']	['2003 ice cream picnic']	0.0941266761548
+['non-student ticket', '0.50 dollar']	['student ticket']	0.793909814131
+['non-student ticket', '0.50 dollar']	['ticket']	0.707398287968
+['non-student ticket', '0.50 dollar']	['1.50 dollar']	0.584269096576
+['non-student ticket', '0.50 dollar']	['dollar']	0.547932141857
+['non-student ticket', '0.50 dollar']	['206.50 dollar']	0.584269096576
+['1.50 dollar', '0.50 dollar']	['193 ticket']	0.139258682248
+['1.50 dollar', '0.50 dollar']	['2003 ice cream picnic']	0.315265418903
+['1.50 dollar', '0.50 dollar']	['student ticket']	0.14699641653
+['1.50 dollar', '0.50 dollar']	['ticket']	0.51323626183
+['1.50 dollar', '0.50 dollar']	['non-student ticket']	0.139258682248
+['1.50 dollar', '0.50 dollar']	['dollar']	0.740769402763
+['1.50 dollar', '0.50 dollar']	['206.50 dollar']	0.637144068101
+['dollar', '0.50 dollar']	['193 ticket']	0.183873817054
+['dollar', '0.50 dollar']	['2003 ice cream picnic']	0.299623528004
+['dollar', '0.50 dollar']	['student ticket']	0.184088625564
+['dollar', '0.50 dollar']	['ticket']	0.413734650951
+['dollar', '0.50 dollar']	['non-student ticket']	0.183873817054
+['dollar', '0.50 dollar']	['1.50 dollar']	0.676555862245
+['dollar', '0.50 dollar']	['206.50 dollar']	0.543445645363
+['206.50 dollar', '0.50 dollar']	['193 ticket']	0.139258682248
+['206.50 dollar', '0.50 dollar']	['2003 ice cream picnic']	0.315265418903
+['206.50 dollar', '0.50 dollar']	['student ticket']	0.14699641653
+['206.50 dollar', '0.50 dollar']	['ticket']	0.51323626183
+['206.50 dollar', '0.50 dollar']	['non-student ticket']	0.139258682248
+['206.50 dollar', '0.50 dollar']	['1.50 dollar']	0.637144068101
+['206.50 dollar', '0.50 dollar']	['dollar']	0.761098305127
+['193 ticket', 'ticket']	['2003 ice cream picnic']	0.362353205852
+['193 ticket', 'ticket']	['student ticket']	0.67043800229
+['193 ticket', 'ticket']	['0.50 dollar']	0.247627320934
+['193 ticket', 'ticket']	['non-student ticket']	0.722622429839
+['193 ticket', 'ticket']	['1.50 dollar']	0.247627320934
+['193 ticket', 'ticket']	['dollar']	0.347535848514
+['193 ticket', 'ticket']	['206.50 dollar']	0.247627320934
+['2003 ice cream picnic', 'ticket']	['193 ticket']	0.767325280122
+['2003 ice cream picnic', 'ticket']	['student ticket']	0.613588409614
+['2003 ice cream picnic', 'ticket']	['0.50 dollar']	0.148312858671
+['2003 ice cream picnic', 'ticket']	['non-student ticket']	0.675246923131
+['2003 ice cream picnic', 'ticket']	['1.50 dollar']	0.148312858671
+['2003 ice cream picnic', 'ticket']	['dollar']	0.0976040043596
+['2003 ice cream picnic', 'ticket']	['206.50 dollar']	0.148312858671
+['student ticket', 'ticket']	['193 ticket']	0.789825666472
+['student ticket', 'ticket']	['2003 ice cream picnic']	0.398007089825
+['student ticket', 'ticket']	['0.50 dollar']	0.298405493616
+['student ticket', 'ticket']	['non-student ticket']	0.789825666472
+['student ticket', 'ticket']	['1.50 dollar']	0.298405493616
+['student ticket', 'ticket']	['dollar']	0.413446847674
+['student ticket', 'ticket']	['206.50 dollar']	0.298405493616
+['0.50 dollar', 'ticket']	['193 ticket']	0.669973747197
+['0.50 dollar', 'ticket']	['2003 ice cream picnic']	0.0841365058564
+['0.50 dollar', 'ticket']	['student ticket']	0.600226976026
+['0.50 dollar', 'ticket']	['non-student ticket']	0.659403281276
+['0.50 dollar', 'ticket']	['1.50 dollar']	0.525526174317
+['0.50 dollar', 'ticket']	['dollar']	0.690340515548
+['0.50 dollar', 'ticket']	['206.50 dollar']	0.525526174317
+['non-student ticket', 'ticket']	['193 ticket']	0.782259204304
+['non-student ticket', 'ticket']	['2003 ice cream picnic']	0.362353205852
+['non-student ticket', 'ticket']	['student ticket']	0.707049608848
+['non-student ticket', 'ticket']	['0.50 dollar']	0.247627320934
+['non-student ticket', 'ticket']	['1.50 dollar']	0.247627320934
+['non-student ticket', 'ticket']	['dollar']	0.347535848514
+['non-student ticket', 'ticket']	['206.50 dollar']	0.247627320934
+['1.50 dollar', 'ticket']	['193 ticket']	0.669973747197
+['1.50 dollar', 'ticket']	['2003 ice cream picnic']	0.0841365058564
+['1.50 dollar', 'ticket']	['student ticket']	0.600226976026
+['1.50 dollar', 'ticket']	['0.50 dollar']	0.525526174317
+['1.50 dollar', 'ticket']	['non-student ticket']	0.659403281276
+['1.50 dollar', 'ticket']	['dollar']	0.690340515548
+['1.50 dollar', 'ticket']	['206.50 dollar']	0.525526174317
+['dollar', 'ticket']	['193 ticket']	0.545159042756
+['dollar', 'ticket']	['2003 ice cream picnic']	0.106521381019
+['dollar', 'ticket']	['student ticket']	0.308338995686
+['dollar', 'ticket']	['0.50 dollar']	0.617937628086
+['dollar', 'ticket']	['non-student ticket']	0.360100613215
+['dollar', 'ticket']	['1.50 dollar']	0.617937628086
+['dollar', 'ticket']	['206.50 dollar']	0.363289837203
+['206.50 dollar', 'ticket']	['193 ticket']	0.669973747197
+['206.50 dollar', 'ticket']	['2003 ice cream picnic']	0.0841365058564
+['206.50 dollar', 'ticket']	['student ticket']	0.600226976026
+['206.50 dollar', 'ticket']	['0.50 dollar']	0.525526174317
+['206.50 dollar', 'ticket']	['non-student ticket']	0.659403281276
+['206.50 dollar', 'ticket']	['1.50 dollar']	0.525526174317
+['206.50 dollar', 'ticket']	['dollar']	0.473606703188
+['193 ticket', 'non-student ticket']	['2003 ice cream picnic']	0.315265418903
+['193 ticket', 'non-student ticket']	['student ticket']	0.896172917649
+['193 ticket', 'non-student ticket']	['0.50 dollar']	0.139258682248
+['193 ticket', 'non-student ticket']	['ticket']	0.749517001914
+['193 ticket', 'non-student ticket']	['1.50 dollar']	0.139258682248
+['193 ticket', 'non-student ticket']	['dollar']	0.292299166638
+['193 ticket', 'non-student ticket']	['206.50 dollar']	0.139258682248
+['2003 ice cream picnic', 'non-student ticket']	['193 ticket']	0.630956863273
+['2003 ice cream picnic', 'non-student ticket']	['student ticket']	0.909956951632
+['2003 ice cream picnic', 'non-student ticket']	['0.50 dollar']	0.0988755105172
+['2003 ice cream picnic', 'non-student ticket']	['ticket']	0.688780217516
+['2003 ice cream picnic', 'non-student ticket']	['1.50 dollar']	0.0988755105172
+['2003 ice cream picnic', 'non-student ticket']	['dollar']	0.0222930989339
+['2003 ice cream picnic', 'non-student ticket']	['206.50 dollar']	0.0988755105172
+['student ticket', 'non-student ticket']	['193 ticket']	0.619879171367
+['student ticket', 'non-student ticket']	['2003 ice cream picnic']	0.372781013339
+['student ticket', 'non-student ticket']	['0.50 dollar']	0.127137811052
+['student ticket', 'non-student ticket']	['ticket']	0.560363916212
+['student ticket', 'non-student ticket']	['1.50 dollar']	0.127137811052
+['student ticket', 'non-student ticket']	['dollar']	0.296242423731
+['student ticket', 'non-student ticket']	['206.50 dollar']	0.127137811052
+['0.50 dollar', 'non-student ticket']	['193 ticket']	0.584269096576
+['0.50 dollar', 'non-student ticket']	['2003 ice cream picnic']	0.0941266761548
+['0.50 dollar', 'non-student ticket']	['student ticket']	0.793909814131
+['0.50 dollar', 'non-student ticket']	['ticket']	0.707398287968
+['0.50 dollar', 'non-student ticket']	['1.50 dollar']	0.584269096576
+['0.50 dollar', 'non-student ticket']	['dollar']	0.547932141857
+['0.50 dollar', 'non-student ticket']	['206.50 dollar']	0.584269096576
+['ticket', 'non-student ticket']	['193 ticket']	0.782259204304
+['ticket', 'non-student ticket']	['2003 ice cream picnic']	0.362353205852
+['ticket', 'non-student ticket']	['student ticket']	0.707049608848
+['ticket', 'non-student ticket']	['0.50 dollar']	0.247627320934
+['ticket', 'non-student ticket']	['1.50 dollar']	0.247627320934
+['ticket', 'non-student ticket']	['dollar']	0.347535848514
+['ticket', 'non-student ticket']	['206.50 dollar']	0.247627320934
+['1.50 dollar', 'non-student ticket']	['193 ticket']	0.584269096576
+['1.50 dollar', 'non-student ticket']	['2003 ice cream picnic']	0.0941266761548
+['1.50 dollar', 'non-student ticket']	['student ticket']	0.793909814131
+['1.50 dollar', 'non-student ticket']	['0.50 dollar']	0.584269096576
+['1.50 dollar', 'non-student ticket']	['ticket']	0.707398287968
+['1.50 dollar', 'non-student ticket']	['dollar']	0.547932141857
+['1.50 dollar', 'non-student ticket']	['206.50 dollar']	0.584269096576
+['dollar', 'non-student ticket']	['193 ticket']	0.208039687774
+['dollar', 'non-student ticket']	['2003 ice cream picnic']	0.0444435333372
+['dollar', 'non-student ticket']	['student ticket']	0.320880373744
+['dollar', 'non-student ticket']	['0.50 dollar']	0.442012633359
+['dollar', 'non-student ticket']	['ticket']	0.416171927407
+['dollar', 'non-student ticket']	['1.50 dollar']	0.442012633359
+['dollar', 'non-student ticket']	['206.50 dollar']	0.384540526976
+['206.50 dollar', 'non-student ticket']	['193 ticket']	0.584269096576
+['206.50 dollar', 'non-student ticket']	['2003 ice cream picnic']	0.0941266761548
+['206.50 dollar', 'non-student ticket']	['student ticket']	0.793909814131
+['206.50 dollar', 'non-student ticket']	['0.50 dollar']	0.584269096576
+['206.50 dollar', 'non-student ticket']	['ticket']	0.707398287968
+['206.50 dollar', 'non-student ticket']	['1.50 dollar']	0.584269096576
+['206.50 dollar', 'non-student ticket']	['dollar']	0.404389461393
+['193 ticket', '1.50 dollar']	['2003 ice cream picnic']	0.0941266761548
+['193 ticket', '1.50 dollar']	['student ticket']	0.577101062223
+['193 ticket', '1.50 dollar']	['0.50 dollar']	0.584269096576
+['193 ticket', '1.50 dollar']	['ticket']	0.687998110055
+['193 ticket', '1.50 dollar']	['non-student ticket']	0.584269096576
+['193 ticket', '1.50 dollar']	['dollar']	0.547932141857
+['193 ticket', '1.50 dollar']	['206.50 dollar']	0.584269096576
+['2003 ice cream picnic', '1.50 dollar']	['193 ticket']	0.0988755105172
+['2003 ice cream picnic', '1.50 dollar']	['student ticket']	0.0981211933805
+['2003 ice cream picnic', '1.50 dollar']	['0.50 dollar']	0.630956863273
+['2003 ice cream picnic', '1.50 dollar']	['ticket']	0.10940366544
+['2003 ice cream picnic', '1.50 dollar']	['non-student ticket']	0.0988755105172
+['2003 ice cream picnic', '1.50 dollar']	['dollar']	0.366635887908
+['2003 ice cream picnic', '1.50 dollar']	['206.50 dollar']	0.630956863273
+['student ticket', '1.50 dollar']	['193 ticket']	0.544221442934
+['student ticket', '1.50 dollar']	['2003 ice cream picnic']	0.0861845487314
+['student ticket', '1.50 dollar']	['0.50 dollar']	0.544221442934
+['student ticket', '1.50 dollar']	['ticket']	0.655688057646
+['student ticket', '1.50 dollar']	['non-student ticket']	0.843569369343
+['student ticket', '1.50 dollar']	['dollar']	0.511049924984
+['student ticket', '1.50 dollar']	['206.50 dollar']	0.544221442934
+['0.50 dollar', '1.50 dollar']	['193 ticket']	0.139258682248
+['0.50 dollar', '1.50 dollar']	['2003 ice cream picnic']	0.315265418903
+['0.50 dollar', '1.50 dollar']	['student ticket']	0.14699641653
+['0.50 dollar', '1.50 dollar']	['ticket']	0.51323626183
+['0.50 dollar', '1.50 dollar']	['non-student ticket']	0.139258682248
+['0.50 dollar', '1.50 dollar']	['dollar']	0.740769402763
+['0.50 dollar', '1.50 dollar']	['206.50 dollar']	0.637144068101
+['ticket', '1.50 dollar']	['193 ticket']	0.669973747197
+['ticket', '1.50 dollar']	['2003 ice cream picnic']	0.0841365058564
+['ticket', '1.50 dollar']	['student ticket']	0.600226976026
+['ticket', '1.50 dollar']	['0.50 dollar']	0.525526174317
+['ticket', '1.50 dollar']	['non-student ticket']	0.659403281276
+['ticket', '1.50 dollar']	['dollar']	0.690340515548
+['ticket', '1.50 dollar']	['206.50 dollar']	0.525526174317
+['non-student ticket', '1.50 dollar']	['193 ticket']	0.584269096576
+['non-student ticket', '1.50 dollar']	['2003 ice cream picnic']	0.0941266761548
+['non-student ticket', '1.50 dollar']	['student ticket']	0.793909814131
+['non-student ticket', '1.50 dollar']	['0.50 dollar']	0.584269096576
+['non-student ticket', '1.50 dollar']	['ticket']	0.707398287968
+['non-student ticket', '1.50 dollar']	['dollar']	0.547932141857
+['non-student ticket', '1.50 dollar']	['206.50 dollar']	0.584269096576
+['dollar', '1.50 dollar']	['193 ticket']	0.183873817054
+['dollar', '1.50 dollar']	['2003 ice cream picnic']	0.299623528004
+['dollar', '1.50 dollar']	['student ticket']	0.184088625564
+['dollar', '1.50 dollar']	['0.50 dollar']	0.676555862245
+['dollar', '1.50 dollar']	['ticket']	0.413734650951
+['dollar', '1.50 dollar']	['non-student ticket']	0.183873817054
+['dollar', '1.50 dollar']	['206.50 dollar']	0.543445645363
+['206.50 dollar', '1.50 dollar']	['193 ticket']	0.139258682248
+['206.50 dollar', '1.50 dollar']	['2003 ice cream picnic']	0.315265418903
+['206.50 dollar', '1.50 dollar']	['student ticket']	0.14699641653
+['206.50 dollar', '1.50 dollar']	['0.50 dollar']	0.637144068101
+['206.50 dollar', '1.50 dollar']	['ticket']	0.51323626183
+['206.50 dollar', '1.50 dollar']	['non-student ticket']	0.139258682248
+['206.50 dollar', '1.50 dollar']	['dollar']	0.761098305127
+['193 ticket', 'dollar']	['2003 ice cream picnic']	0.0444435333372
+['193 ticket', 'dollar']	['student ticket']	0.227268900055
+['193 ticket', 'dollar']	['0.50 dollar']	0.442012633359
+['193 ticket', 'dollar']	['ticket']	0.646450713312
+['193 ticket', 'dollar']	['non-student ticket']	0.208039687774
+['193 ticket', 'dollar']	['1.50 dollar']	0.442012633359
+['193 ticket', 'dollar']	['206.50 dollar']	0.384540526976
+['2003 ice cream picnic', 'dollar']	['193 ticket']	0.0874257981742
+['2003 ice cream picnic', 'dollar']	['student ticket']	0.0905572733505
+['2003 ice cream picnic', 'dollar']	['0.50 dollar']	0.440279895857
+['2003 ice cream picnic', 'dollar']	['ticket']	0.152983029331
+['2003 ice cream picnic', 'dollar']	['non-student ticket']	0.0874257981742
+['2003 ice cream picnic', 'dollar']	['1.50 dollar']	0.440279895857
+['2003 ice cream picnic', 'dollar']	['206.50 dollar']	0.268236466135
+['student ticket', 'dollar']	['193 ticket']	0.208039687774
+['student ticket', 'dollar']	['2003 ice cream picnic']	0.106521381019
+['student ticket', 'dollar']	['0.50 dollar']	0.442012633359
+['student ticket', 'dollar']	['ticket']	0.416171927407
+['student ticket', 'dollar']	['non-student ticket']	0.374002747667
+['student ticket', 'dollar']	['1.50 dollar']	0.442012633359
+['student ticket', 'dollar']	['206.50 dollar']	0.391558070836
+['0.50 dollar', 'dollar']	['193 ticket']	0.183873817054
+['0.50 dollar', 'dollar']	['2003 ice cream picnic']	0.299623528004
+['0.50 dollar', 'dollar']	['student ticket']	0.184088625564
+['0.50 dollar', 'dollar']	['ticket']	0.413734650951
+['0.50 dollar', 'dollar']	['non-student ticket']	0.183873817054
+['0.50 dollar', 'dollar']	['1.50 dollar']	0.676555862245
+['0.50 dollar', 'dollar']	['206.50 dollar']	0.543445645363
+['ticket', 'dollar']	['193 ticket']	0.545159042756
+['ticket', 'dollar']	['2003 ice cream picnic']	0.106521381019
+['ticket', 'dollar']	['student ticket']	0.308338995686
+['ticket', 'dollar']	['0.50 dollar']	0.617937628086
+['ticket', 'dollar']	['non-student ticket']	0.360100613215
+['ticket', 'dollar']	['1.50 dollar']	0.617937628086
+['ticket', 'dollar']	['206.50 dollar']	0.363289837203
+['non-student ticket', 'dollar']	['193 ticket']	0.208039687774
+['non-student ticket', 'dollar']	['2003 ice cream picnic']	0.0444435333372
+['non-student ticket', 'dollar']	['student ticket']	0.320880373744
+['non-student ticket', 'dollar']	['0.50 dollar']	0.442012633359
+['non-student ticket', 'dollar']	['ticket']	0.416171927407
+['non-student ticket', 'dollar']	['1.50 dollar']	0.442012633359
+['non-student ticket', 'dollar']	['206.50 dollar']	0.384540526976
+['1.50 dollar', 'dollar']	['193 ticket']	0.183873817054
+['1.50 dollar', 'dollar']	['2003 ice cream picnic']	0.299623528004
+['1.50 dollar', 'dollar']	['student ticket']	0.184088625564
+['1.50 dollar', 'dollar']	['0.50 dollar']	0.676555862245
+['1.50 dollar', 'dollar']	['ticket']	0.413734650951
+['1.50 dollar', 'dollar']	['non-student ticket']	0.183873817054
+['1.50 dollar', 'dollar']	['206.50 dollar']	0.543445645363
+['206.50 dollar', 'dollar']	['193 ticket']	0.183873817054
+['206.50 dollar', 'dollar']	['2003 ice cream picnic']	0.299623528004
+['206.50 dollar', 'dollar']	['student ticket']	0.184088625564
+['206.50 dollar', 'dollar']	['0.50 dollar']	0.676555862245
+['206.50 dollar', 'dollar']	['ticket']	0.413734650951
+['206.50 dollar', 'dollar']	['non-student ticket']	0.183873817054
+['206.50 dollar', 'dollar']	['1.50 dollar']	0.676555862245
+['193 ticket', '206.50 dollar']	['2003 ice cream picnic']	0.0941266761548
+['193 ticket', '206.50 dollar']	['student ticket']	0.577101062223
+['193 ticket', '206.50 dollar']	['0.50 dollar']	0.584269096576
+['193 ticket', '206.50 dollar']	['ticket']	0.687998110055
+['193 ticket', '206.50 dollar']	['non-student ticket']	0.584269096576
+['193 ticket', '206.50 dollar']	['1.50 dollar']	0.584269096576
+['193 ticket', '206.50 dollar']	['dollar']	0.404389461393
+['2003 ice cream picnic', '206.50 dollar']	['193 ticket']	0.0988755105172
+['2003 ice cream picnic', '206.50 dollar']	['student ticket']	0.0981211933805
+['2003 ice cream picnic', '206.50 dollar']	['0.50 dollar']	0.630956863273
+['2003 ice cream picnic', '206.50 dollar']	['ticket']	0.10940366544
+['2003 ice cream picnic', '206.50 dollar']	['non-student ticket']	0.0988755105172
+['2003 ice cream picnic', '206.50 dollar']	['1.50 dollar']	0.630956863273
+['2003 ice cream picnic', '206.50 dollar']	['dollar']	0.263497587595
+['student ticket', '206.50 dollar']	['193 ticket']	0.544221442934
+['student ticket', '206.50 dollar']	['2003 ice cream picnic']	0.0861845487314
+['student ticket', '206.50 dollar']	['0.50 dollar']	0.544221442934
+['student ticket', '206.50 dollar']	['ticket']	0.655688057646
+['student ticket', '206.50 dollar']	['non-student ticket']	0.843569369343
+['student ticket', '206.50 dollar']	['1.50 dollar']	0.544221442934
+['student ticket', '206.50 dollar']	['dollar']	0.421694420196
+['0.50 dollar', '206.50 dollar']	['193 ticket']	0.139258682248
+['0.50 dollar', '206.50 dollar']	['2003 ice cream picnic']	0.315265418903
+['0.50 dollar', '206.50 dollar']	['student ticket']	0.14699641653
+['0.50 dollar', '206.50 dollar']	['ticket']	0.51323626183
+['0.50 dollar', '206.50 dollar']	['non-student ticket']	0.139258682248
+['0.50 dollar', '206.50 dollar']	['1.50 dollar']	0.637144068101
+['0.50 dollar', '206.50 dollar']	['dollar']	0.761098305127
+['ticket', '206.50 dollar']	['193 ticket']	0.669973747197
+['ticket', '206.50 dollar']	['2003 ice cream picnic']	0.0841365058564
+['ticket', '206.50 dollar']	['student ticket']	0.600226976026
+['ticket', '206.50 dollar']	['0.50 dollar']	0.525526174317
+['ticket', '206.50 dollar']	['non-student ticket']	0.659403281276
+['ticket', '206.50 dollar']	['1.50 dollar']	0.525526174317
+['ticket', '206.50 dollar']	['dollar']	0.473606703188
+['non-student ticket', '206.50 dollar']	['193 ticket']	0.584269096576
+['non-student ticket', '206.50 dollar']	['2003 ice cream picnic']	0.0941266761548
+['non-student ticket', '206.50 dollar']	['student ticket']	0.793909814131
+['non-student ticket', '206.50 dollar']	['0.50 dollar']	0.584269096576
+['non-student ticket', '206.50 dollar']	['ticket']	0.707398287968
+['non-student ticket', '206.50 dollar']	['1.50 dollar']	0.584269096576
+['non-student ticket', '206.50 dollar']	['dollar']	0.404389461393
+['1.50 dollar', '206.50 dollar']	['193 ticket']	0.139258682248
+['1.50 dollar', '206.50 dollar']	['2003 ice cream picnic']	0.315265418903
+['1.50 dollar', '206.50 dollar']	['student ticket']	0.14699641653
+['1.50 dollar', '206.50 dollar']	['0.50 dollar']	0.637144068101
+['1.50 dollar', '206.50 dollar']	['ticket']	0.51323626183
+['1.50 dollar', '206.50 dollar']	['non-student ticket']	0.139258682248
+['1.50 dollar', '206.50 dollar']	['dollar']	0.761098305127
+['dollar', '206.50 dollar']	['193 ticket']	0.183873817054
+['dollar', '206.50 dollar']	['2003 ice cream picnic']	0.299623528004
+['dollar', '206.50 dollar']	['student ticket']	0.184088625564
+['dollar', '206.50 dollar']	['0.50 dollar']	0.676555862245
+['dollar', '206.50 dollar']	['ticket']	0.413734650951
+['dollar', '206.50 dollar']	['non-student ticket']	0.183873817054
+['dollar', '206.50 dollar']	['1.50 dollar']	0.676555862245

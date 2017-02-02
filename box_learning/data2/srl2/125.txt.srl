@@ -1,0 +1,16 @@
+have ARG0 E-Chem Testing
+have ARG1 a solution that is 80 % base
+
+need ARG0 A technician
+need ARG1 150 liters of a solution that is 62 % base
+
+mix ARG0 The 150 liters
+prepare ARG1 The 150 liters
+prepare MNR by mixing the two solutions on hand
+prepare MOD will
+mix MNR on hand
+mix ARG1 the two solutions
+
+use ARG1 much of the 80 % base and the 30 % base
+use MOD should
+

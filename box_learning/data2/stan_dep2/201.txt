@@ -1,0 +1,67 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP Flying))
+      (PP
+        (IN with)
+        (NP (NP (DT the) (NN wind)) (, ,) (NP (DT a) (NN bird)))))
+    (VP
+      (VBD was)
+      (ADJP
+        (JJ able)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB make)
+              (NP
+                (NP (CD 150) (NNS kilometers))
+                (PP (IN per) (NP (NN hour)))))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (S
+          (NP (DT the) (NN wind))
+          (VP
+            (VBD was)
+            (NP (QP (CD 0.5) (NNS times)))
+            (PP (IN as) (ADJP (JJ strong)))))
+        (CC and)
+        (S
+          (NP (DT the) (NN bird))
+          (VP (VBZ flies) (PP (IN against) (NP (PRP it)))))))
+    (, ,)
+    (NP (PRP it))
+    (VP
+      (MD could)
+      (VP
+        (VB make)
+        (NP
+          (NP (QP (RB only) (CD 30)) (NNS kilometers))
+          (PP (IN per) (NP (NN hour))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN velocity))
+        (PP
+          (IN of)
+          (NP
+            (NP (DT the) (NN wind))
+            (PP
+              (IN in)
+              (NP (NP (NNS kilometers)) (PP (IN per) (NP (NN hour)))))))))
+    (. .)))
+(ROOT
+  (S
+    (VP
+      (VB Find)
+      (NP
+        (NP (DT the) (NN velocity))
+        (PP (IN of) (NP (DT the) (NN bird)))))
+    (. .)))

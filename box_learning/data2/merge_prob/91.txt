@@ -1,0 +1,537 @@
+['ticket', 'school dinner theatre', '6 dollar', 'child', 'dollar', '9 dollar', 'adult', '225 ticket', '1875 dollar']
+['ticket']	['ticket']	0.105790975083
+['ticket']	['ticket']	0.0827936256965
+['ticket']	['ticket']	0.056591733403
+['ticket']	['ticket']	0.00847248349399
+['ticket']	['ticket']	0.0827936256965
+['ticket']	['ticket']	0.160100526562
+['ticket']	['ticket']	0.0827936256965
+['school dinner theatre']	['school dinner theatre']	0.0811452298031
+['school dinner theatre']	['school dinner theatre']	0.0578142961938
+['school dinner theatre']	['school dinner theatre']	0.0148266680583
+['school dinner theatre']	['school dinner theatre']	0.0811452298031
+['school dinner theatre']	['school dinner theatre']	0.0578142961938
+['school dinner theatre']	['school dinner theatre']	0.0811452298031
+['school dinner theatre']	['school dinner theatre']	0.0811452298031
+['6 dollar']	['6 dollar']	0.0585905397909
+['6 dollar']	['6 dollar']	0.65022495873
+['6 dollar']	['6 dollar']	0.0585905397909
+['6 dollar']	['6 dollar']	0.0690143673113
+['6 dollar']	['6 dollar']	0.619435082006
+['child']	['child']	0.00993772633724
+['child']	['child']	0.0726311745998
+['child']	['child']	0.515095389679
+['child']	['child']	0.107061297076
+['child']	['child']	0.0726311745998
+['dollar']	['dollar']	0.0131625977876
+['dollar']	['dollar']	0.0345521688599
+['9 dollar']	['9 dollar']	0.0585905397909
+['9 dollar']	['9 dollar']	0.0690143673113
+['9 dollar']	['9 dollar']	0.619435082006
+['adult']	['adult']	0.107061297076
+['adult']	['adult']	0.0726311745998
+['225 ticket']	['225 ticket']	0.0690143673113
+['school dinner theatre', 'ticket']	['school dinner theatre', 'ticket']	0.0647755822191
+['school dinner theatre', 'ticket']	['school dinner theatre', 'ticket']	0.0469113791823
+['school dinner theatre', 'ticket']	['school dinner theatre', 'ticket']	0.0188172286603
+['school dinner theatre', 'ticket']	['school dinner theatre', 'ticket']	0.0647755822191
+['school dinner theatre', 'ticket']	['school dinner theatre', 'ticket']	0.0961459777632
+['school dinner theatre', 'ticket']	['school dinner theatre', 'ticket']	0.0485386303923
+['school dinner theatre', 'ticket']	['school dinner theatre', 'ticket']	0.0647755822191
+['6 dollar', 'ticket']	['6 dollar', 'ticket']	0.0573338872025
+['6 dollar', 'ticket']	['6 dollar', 'ticket']	0.0497165307031
+['6 dollar', 'ticket']	['6 dollar', 'ticket']	0.0382054433184
+['6 dollar', 'ticket']	['6 dollar', 'ticket']	0.118448324854
+['6 dollar', 'ticket']	['6 dollar', 'ticket']	0.0936418298288
+['6 dollar', 'ticket']	['6 dollar', 'ticket']	0.0421536060737
+['6 dollar', 'ticket']	['6 dollar', 'ticket']	0.128707561687
+['child', 'ticket']	['child', 'ticket']	0.0844413360683
+['child', 'ticket']	['child', 'ticket']	0.0991300310581
+['child', 'ticket']	['child', 'ticket']	0.00847248349399
+['child', 'ticket']	['child', 'ticket']	0.0991300310581
+['child', 'ticket']	['child', 'ticket']	0.222058019644
+['child', 'ticket']	['child', 'ticket']	0.0538875613422
+['child', 'ticket']	['child', 'ticket']	0.0991300310581
+['dollar', 'ticket']	['dollar', 'ticket']	0.0349808200155
+['dollar', 'ticket']	['dollar', 'ticket']	0.0923818658546
+['dollar', 'ticket']	['dollar', 'ticket']	0.0425777989861
+['dollar', 'ticket']	['dollar', 'ticket']	0.0923818658546
+['dollar', 'ticket']	['dollar', 'ticket']	0.0472679132797
+['dollar', 'ticket']	['dollar', 'ticket']	0.05923433853
+['dollar', 'ticket']	['dollar', 'ticket']	0.0455468282685
+['9 dollar', 'ticket']	['9 dollar', 'ticket']	0.0573338872025
+['9 dollar', 'ticket']	['9 dollar', 'ticket']	0.118448324854
+['9 dollar', 'ticket']	['9 dollar', 'ticket']	0.0497165307031
+['9 dollar', 'ticket']	['9 dollar', 'ticket']	0.0382054433184
+['9 dollar', 'ticket']	['9 dollar', 'ticket']	0.0936418298288
+['9 dollar', 'ticket']	['9 dollar', 'ticket']	0.0421536060737
+['9 dollar', 'ticket']	['9 dollar', 'ticket']	0.128707561687
+['adult', 'ticket']	['adult', 'ticket']	0.0844413360683
+['adult', 'ticket']	['adult', 'ticket']	0.0991300310581
+['adult', 'ticket']	['adult', 'ticket']	0.322058137641
+['adult', 'ticket']	['adult', 'ticket']	0.00847248349399
+['adult', 'ticket']	['adult', 'ticket']	0.0991300310581
+['adult', 'ticket']	['adult', 'ticket']	0.0538875613422
+['adult', 'ticket']	['adult', 'ticket']	0.0991300310581
+['225 ticket', 'ticket']	['225 ticket', 'ticket']	0.068619691295
+['225 ticket', 'ticket']	['225 ticket', 'ticket']	0.0831881114912
+['225 ticket', 'ticket']	['225 ticket', 'ticket']	0.0677181753592
+['225 ticket', 'ticket']	['225 ticket', 'ticket']	0.0558695923582
+['225 ticket', 'ticket']	['225 ticket', 'ticket']	0.0831881114912
+['225 ticket', 'ticket']	['225 ticket', 'ticket']	0.170616488698
+['225 ticket', 'ticket']	['225 ticket', 'ticket']	0.0831881114912
+['1875 dollar', 'ticket']	['1875 dollar', 'ticket']	0.0635755379099
+['1875 dollar', 'ticket']	['1875 dollar', 'ticket']	0.128707561687
+['1875 dollar', 'ticket']	['1875 dollar', 'ticket']	0.0497165307031
+['1875 dollar', 'ticket']	['1875 dollar', 'ticket']	0.0432740235322
+['1875 dollar', 'ticket']	['1875 dollar', 'ticket']	0.128707561687
+['1875 dollar', 'ticket']	['1875 dollar', 'ticket']	0.0936418298288
+['1875 dollar', 'ticket']	['1875 dollar', 'ticket']	0.0421536060737
+['ticket', 'school dinner theatre']	['ticket', 'school dinner theatre']	0.0647755822191
+['ticket', 'school dinner theatre']	['ticket', 'school dinner theatre']	0.0469113791823
+['ticket', 'school dinner theatre']	['ticket', 'school dinner theatre']	0.0188172286603
+['ticket', 'school dinner theatre']	['ticket', 'school dinner theatre']	0.0647755822191
+['ticket', 'school dinner theatre']	['ticket', 'school dinner theatre']	0.0961459777632
+['ticket', 'school dinner theatre']	['ticket', 'school dinner theatre']	0.0485386303923
+['ticket', 'school dinner theatre']	['ticket', 'school dinner theatre']	0.0647755822191
+['6 dollar', 'school dinner theatre']	['6 dollar', 'school dinner theatre']	0.0661708502503
+['6 dollar', 'school dinner theatre']	['6 dollar', 'school dinner theatre']	0.0585905397909
+['6 dollar', 'school dinner theatre']	['6 dollar', 'school dinner theatre']	0.0612547274698
+['6 dollar', 'school dinner theatre']	['6 dollar', 'school dinner theatre']	0.152545592328
+['6 dollar', 'school dinner theatre']	['6 dollar', 'school dinner theatre']	0.0585905397909
+['6 dollar', 'school dinner theatre']	['6 dollar', 'school dinner theatre']	0.077741654189
+['6 dollar', 'school dinner theatre']	['6 dollar', 'school dinner theatre']	0.126346464602
+['child', 'school dinner theatre']	['child', 'school dinner theatre']	0.0508412037437
+['child', 'school dinner theatre']	['child', 'school dinner theatre']	0.0600526994991
+['child', 'school dinner theatre']	['child', 'school dinner theatre']	0.00473280255103
+['child', 'school dinner theatre']	['child', 'school dinner theatre']	0.0600526994991
+['child', 'school dinner theatre']	['child', 'school dinner theatre']	0.0369939365975
+['child', 'school dinner theatre']	['child', 'school dinner theatre']	0.0662943502065
+['child', 'school dinner theatre']	['child', 'school dinner theatre']	0.0600526994991
+['dollar', 'school dinner theatre']	['dollar', 'school dinner theatre']	0.0574192572051
+['dollar', 'school dinner theatre']	['dollar', 'school dinner theatre']	0.0566168628701
+['dollar', 'school dinner theatre']	['dollar', 'school dinner theatre']	0.0102921954368
+['dollar', 'school dinner theatre']	['dollar', 'school dinner theatre']	0.0566168628701
+['dollar', 'school dinner theatre']	['dollar', 'school dinner theatre']	0.0254192572051
+['dollar', 'school dinner theatre']	['dollar', 'school dinner theatre']	0.0357673916229
+['dollar', 'school dinner theatre']	['dollar', 'school dinner theatre']	0.0298639064033
+['9 dollar', 'school dinner theatre']	['9 dollar', 'school dinner theatre']	0.0661708502503
+['9 dollar', 'school dinner theatre']	['9 dollar', 'school dinner theatre']	0.152545592328
+['9 dollar', 'school dinner theatre']	['9 dollar', 'school dinner theatre']	0.0585905397909
+['9 dollar', 'school dinner theatre']	['9 dollar', 'school dinner theatre']	0.0612547274698
+['9 dollar', 'school dinner theatre']	['9 dollar', 'school dinner theatre']	0.0585905397909
+['9 dollar', 'school dinner theatre']	['9 dollar', 'school dinner theatre']	0.077741654189
+['9 dollar', 'school dinner theatre']	['9 dollar', 'school dinner theatre']	0.126346464602
+['adult', 'school dinner theatre']	['adult', 'school dinner theatre']	0.0947665028693
+['adult', 'school dinner theatre']	['adult', 'school dinner theatre']	0.0600526994991
+['adult', 'school dinner theatre']	['adult', 'school dinner theatre']	0.0369939365975
+['adult', 'school dinner theatre']	['adult', 'school dinner theatre']	0.0396505619937
+['adult', 'school dinner theatre']	['adult', 'school dinner theatre']	0.0600526994991
+['adult', 'school dinner theatre']	['adult', 'school dinner theatre']	0.0662943502065
+['adult', 'school dinner theatre']	['adult', 'school dinner theatre']	0.0600526994991
+['225 ticket', 'school dinner theatre']	['225 ticket', 'school dinner theatre']	0.0497363401801
+['225 ticket', 'school dinner theatre']	['225 ticket', 'school dinner theatre']	0.077741654189
+['225 ticket', 'school dinner theatre']	['225 ticket', 'school dinner theatre']	0.0585905397909
+['225 ticket', 'school dinner theatre']	['225 ticket', 'school dinner theatre']	0.0178725447785
+['225 ticket', 'school dinner theatre']	['225 ticket', 'school dinner theatre']	0.077741654189
+['225 ticket', 'school dinner theatre']	['225 ticket', 'school dinner theatre']	0.0585905397909
+['225 ticket', 'school dinner theatre']	['225 ticket', 'school dinner theatre']	0.077741654189
+['1875 dollar', 'school dinner theatre']	['1875 dollar', 'school dinner theatre']	0.0661708502503
+['1875 dollar', 'school dinner theatre']	['1875 dollar', 'school dinner theatre']	0.126346464602
+['1875 dollar', 'school dinner theatre']	['1875 dollar', 'school dinner theatre']	0.0585905397909
+['1875 dollar', 'school dinner theatre']	['1875 dollar', 'school dinner theatre']	0.0158103880485
+['1875 dollar', 'school dinner theatre']	['1875 dollar', 'school dinner theatre']	0.126346464602
+['1875 dollar', 'school dinner theatre']	['1875 dollar', 'school dinner theatre']	0.0585905397909
+['1875 dollar', 'school dinner theatre']	['1875 dollar', 'school dinner theatre']	0.077741654189
+['ticket', '6 dollar']	['ticket', '6 dollar']	0.0573338872025
+['ticket', '6 dollar']	['ticket', '6 dollar']	0.0497165307031
+['ticket', '6 dollar']	['ticket', '6 dollar']	0.0382054433184
+['ticket', '6 dollar']	['ticket', '6 dollar']	0.118448324854
+['ticket', '6 dollar']	['ticket', '6 dollar']	0.0936418298288
+['ticket', '6 dollar']	['ticket', '6 dollar']	0.0421536060737
+['ticket', '6 dollar']	['ticket', '6 dollar']	0.128707561687
+['school dinner theatre', '6 dollar']	['school dinner theatre', '6 dollar']	0.0661708502503
+['school dinner theatre', '6 dollar']	['school dinner theatre', '6 dollar']	0.0585905397909
+['school dinner theatre', '6 dollar']	['school dinner theatre', '6 dollar']	0.0612547274698
+['school dinner theatre', '6 dollar']	['school dinner theatre', '6 dollar']	0.152545592328
+['school dinner theatre', '6 dollar']	['school dinner theatre', '6 dollar']	0.0585905397909
+['school dinner theatre', '6 dollar']	['school dinner theatre', '6 dollar']	0.077741654189
+['school dinner theatre', '6 dollar']	['school dinner theatre', '6 dollar']	0.126346464602
+['child', '6 dollar']	['child', '6 dollar']	0.0530501546221
+['child', '6 dollar']	['child', '6 dollar']	0.0573338872025
+['child', '6 dollar']	['child', '6 dollar']	0.0579671515888
+['child', '6 dollar']	['child', '6 dollar']	0.129769333522
+['child', '6 dollar']	['child', '6 dollar']	0.0344897886631
+['child', '6 dollar']	['child', '6 dollar']	0.0668786179967
+['child', '6 dollar']	['child', '6 dollar']	0.117733533607
+['dollar', '6 dollar']	['dollar', '6 dollar']	0.0594348820819
+['dollar', '6 dollar']	['dollar', '6 dollar']	0.0353557944867
+['dollar', '6 dollar']	['dollar', '6 dollar']	0.017160943919
+['dollar', '6 dollar']	['dollar', '6 dollar']	0.168835673678
+['dollar', '6 dollar']	['dollar', '6 dollar']	0.120611233955
+['dollar', '6 dollar']	['dollar', '6 dollar']	0.0406801579375
+['dollar', '6 dollar']	['dollar', '6 dollar']	0.0517940170627
+['9 dollar', '6 dollar']	['9 dollar', '6 dollar']	0.159422714925
+['9 dollar', '6 dollar']	['9 dollar', '6 dollar']	0.1540576516
+['9 dollar', '6 dollar']	['9 dollar', '6 dollar']	0.0872480951896
+['9 dollar', '6 dollar']	['9 dollar', '6 dollar']	0.202900401695
+['9 dollar', '6 dollar']	['9 dollar', '6 dollar']	0.0872480951896
+['9 dollar', '6 dollar']	['9 dollar', '6 dollar']	0.0922575126852
+['9 dollar', '6 dollar']	['9 dollar', '6 dollar']	0.629369170797
+['adult', '6 dollar']	['adult', '6 dollar']	0.101104248671
+['adult', '6 dollar']	['adult', '6 dollar']	0.0573338872025
+['adult', '6 dollar']	['adult', '6 dollar']	0.0344897886631
+['adult', '6 dollar']	['adult', '6 dollar']	0.0382054433184
+['adult', '6 dollar']	['adult', '6 dollar']	0.129769333522
+['adult', '6 dollar']	['adult', '6 dollar']	0.0668786179967
+['adult', '6 dollar']	['adult', '6 dollar']	0.117733533607
+['225 ticket', '6 dollar']	['225 ticket', '6 dollar']	0.055884058061
+['225 ticket', '6 dollar']	['225 ticket', '6 dollar']	0.0784983650571
+['225 ticket', '6 dollar']	['225 ticket', '6 dollar']	0.0585905397909
+['225 ticket', '6 dollar']	['225 ticket', '6 dollar']	0.0778895807748
+['225 ticket', '6 dollar']	['225 ticket', '6 dollar']	0.255189051606
+['225 ticket', '6 dollar']	['225 ticket', '6 dollar']	0.0585905397909
+['225 ticket', '6 dollar']	['225 ticket', '6 dollar']	0.251529580944
+['1875 dollar', '6 dollar']	['1875 dollar', '6 dollar']	0.159422714925
+['1875 dollar', '6 dollar']	['1875 dollar', '6 dollar']	0.143273337874
+['1875 dollar', '6 dollar']	['1875 dollar', '6 dollar']	0.0872480951896
+['1875 dollar', '6 dollar']	['1875 dollar', '6 dollar']	0.0327192802169
+['1875 dollar', '6 dollar']	['1875 dollar', '6 dollar']	0.639702759795
+['1875 dollar', '6 dollar']	['1875 dollar', '6 dollar']	0.0872480951896
+['1875 dollar', '6 dollar']	['1875 dollar', '6 dollar']	0.0922575126852
+['ticket', 'child']	['ticket', 'child']	0.0844413360683
+['ticket', 'child']	['ticket', 'child']	0.0991300310581
+['ticket', 'child']	['ticket', 'child']	0.00847248349399
+['ticket', 'child']	['ticket', 'child']	0.0991300310581
+['ticket', 'child']	['ticket', 'child']	0.222058019644
+['ticket', 'child']	['ticket', 'child']	0.0538875613422
+['ticket', 'child']	['ticket', 'child']	0.0991300310581
+['school dinner theatre', 'child']	['school dinner theatre', 'child']	0.0508412037437
+['school dinner theatre', 'child']	['school dinner theatre', 'child']	0.0600526994991
+['school dinner theatre', 'child']	['school dinner theatre', 'child']	0.00473280255103
+['school dinner theatre', 'child']	['school dinner theatre', 'child']	0.0600526994991
+['school dinner theatre', 'child']	['school dinner theatre', 'child']	0.0369939365975
+['school dinner theatre', 'child']	['school dinner theatre', 'child']	0.0662943502065
+['school dinner theatre', 'child']	['school dinner theatre', 'child']	0.0600526994991
+['6 dollar', 'child']	['6 dollar', 'child']	0.0530501546221
+['6 dollar', 'child']	['6 dollar', 'child']	0.0573338872025
+['6 dollar', 'child']	['6 dollar', 'child']	0.0579671515888
+['6 dollar', 'child']	['6 dollar', 'child']	0.129769333522
+['6 dollar', 'child']	['6 dollar', 'child']	0.0344897886631
+['6 dollar', 'child']	['6 dollar', 'child']	0.0668786179967
+['6 dollar', 'child']	['6 dollar', 'child']	0.117733533607
+['dollar', 'child']	['dollar', 'child']	0.019645468159
+['dollar', 'child']	['dollar', 'child']	0.0349808200155
+['dollar', 'child']	['dollar', 'child']	0.0855234999128
+['dollar', 'child']	['dollar', 'child']	0.0855234999128
+['dollar', 'child']	['dollar', 'child']	0.165639441473
+['dollar', 'child']	['dollar', 'child']	0.0447889293592
+['dollar', 'child']	['dollar', 'child']	0.0417338935078
+['9 dollar', 'child']	['9 dollar', 'child']	0.0530501546221
+['9 dollar', 'child']	['9 dollar', 'child']	0.0573338872025
+['9 dollar', 'child']	['9 dollar', 'child']	0.129769333522
+['9 dollar', 'child']	['9 dollar', 'child']	0.0579671515888
+['9 dollar', 'child']	['9 dollar', 'child']	0.0344897886631
+['9 dollar', 'child']	['9 dollar', 'child']	0.0668786179967
+['9 dollar', 'child']	['9 dollar', 'child']	0.117733533607
+['adult', 'child']	['adult', 'child']	0.202219009235
+['adult', 'child']	['adult', 'child']	0.0844413360683
+['adult', 'child']	['adult', 'child']	0.0842616556555
+['adult', 'child']	['adult', 'child']	0.0214721177735
+['adult', 'child']	['adult', 'child']	0.0842616556555
+['adult', 'child']	['adult', 'child']	0.118691778132
+['adult', 'child']	['adult', 'child']	0.0842616556555
+['225 ticket', 'child']	['225 ticket', 'child']	0.0849087877758
+['225 ticket', 'child']	['225 ticket', 'child']	0.0573338872025
+['225 ticket', 'child']	['225 ticket', 'child']	0.0606369672893
+['225 ticket', 'child']	['225 ticket', 'child']	0.00676917892766
+['225 ticket', 'child']	['225 ticket', 'child']	0.0606369672893
+['225 ticket', 'child']	['225 ticket', 'child']	0.0619390582505
+['225 ticket', 'child']	['225 ticket', 'child']	0.0606369672893
+['1875 dollar', 'child']	['1875 dollar', 'child']	0.0530501546221
+['1875 dollar', 'child']	['1875 dollar', 'child']	0.0573338872025
+['1875 dollar', 'child']	['1875 dollar', 'child']	0.117733533607
+['1875 dollar', 'child']	['1875 dollar', 'child']	0.0364645429985
+['1875 dollar', 'child']	['1875 dollar', 'child']	0.117733533607
+['1875 dollar', 'child']	['1875 dollar', 'child']	0.0344897886631
+['1875 dollar', 'child']	['1875 dollar', 'child']	0.0668786179967
+['ticket', 'dollar']	['ticket', 'dollar']	0.0349808200155
+['ticket', 'dollar']	['ticket', 'dollar']	0.0923818658546
+['ticket', 'dollar']	['ticket', 'dollar']	0.0425777989861
+['ticket', 'dollar']	['ticket', 'dollar']	0.0923818658546
+['ticket', 'dollar']	['ticket', 'dollar']	0.0472679132797
+['ticket', 'dollar']	['ticket', 'dollar']	0.05923433853
+['ticket', 'dollar']	['ticket', 'dollar']	0.0455468282685
+['school dinner theatre', 'dollar']	['school dinner theatre', 'dollar']	0.0574192572051
+['school dinner theatre', 'dollar']	['school dinner theatre', 'dollar']	0.0566168628701
+['school dinner theatre', 'dollar']	['school dinner theatre', 'dollar']	0.0102921954368
+['school dinner theatre', 'dollar']	['school dinner theatre', 'dollar']	0.0566168628701
+['school dinner theatre', 'dollar']	['school dinner theatre', 'dollar']	0.0254192572051
+['school dinner theatre', 'dollar']	['school dinner theatre', 'dollar']	0.0357673916229
+['school dinner theatre', 'dollar']	['school dinner theatre', 'dollar']	0.0298639064033
+['6 dollar', 'dollar']	['6 dollar', 'dollar']	0.0594348820819
+['6 dollar', 'dollar']	['6 dollar', 'dollar']	0.0353557944867
+['6 dollar', 'dollar']	['6 dollar', 'dollar']	0.017160943919
+['6 dollar', 'dollar']	['6 dollar', 'dollar']	0.168835673678
+['6 dollar', 'dollar']	['6 dollar', 'dollar']	0.120611233955
+['6 dollar', 'dollar']	['6 dollar', 'dollar']	0.0406801579375
+['6 dollar', 'dollar']	['6 dollar', 'dollar']	0.0517940170627
+['child', 'dollar']	['child', 'dollar']	0.019645468159
+['child', 'dollar']	['child', 'dollar']	0.0349808200155
+['child', 'dollar']	['child', 'dollar']	0.0855234999128
+['child', 'dollar']	['child', 'dollar']	0.0855234999128
+['child', 'dollar']	['child', 'dollar']	0.165639441473
+['child', 'dollar']	['child', 'dollar']	0.0447889293592
+['child', 'dollar']	['child', 'dollar']	0.0417338935078
+['9 dollar', 'dollar']	['9 dollar', 'dollar']	0.0594348820819
+['9 dollar', 'dollar']	['9 dollar', 'dollar']	0.0353557944867
+['9 dollar', 'dollar']	['9 dollar', 'dollar']	0.168835673678
+['9 dollar', 'dollar']	['9 dollar', 'dollar']	0.017160943919
+['9 dollar', 'dollar']	['9 dollar', 'dollar']	0.120611233955
+['9 dollar', 'dollar']	['9 dollar', 'dollar']	0.0406801579375
+['9 dollar', 'dollar']	['9 dollar', 'dollar']	0.0517940170627
+['adult', 'dollar']	['adult', 'dollar']	0.0425777989861
+['adult', 'dollar']	['adult', 'dollar']	0.0349808200155
+['adult', 'dollar']	['adult', 'dollar']	0.0855234999128
+['adult', 'dollar']	['adult', 'dollar']	0.116438252765
+['adult', 'dollar']	['adult', 'dollar']	0.0855234999128
+['adult', 'dollar']	['adult', 'dollar']	0.0447889293592
+['adult', 'dollar']	['adult', 'dollar']	0.0417338935078
+['225 ticket', 'dollar']	['225 ticket', 'dollar']	0.0498534310639
+['225 ticket', 'dollar']	['225 ticket', 'dollar']	0.0319730044987
+['225 ticket', 'dollar']	['225 ticket', 'dollar']	0.0581017395177
+['225 ticket', 'dollar']	['225 ticket', 'dollar']	0.0433348310958
+['225 ticket', 'dollar']	['225 ticket', 'dollar']	0.0581017395177
+['225 ticket', 'dollar']	['225 ticket', 'dollar']	0.0234821300029
+['225 ticket', 'dollar']	['225 ticket', 'dollar']	0.0291662153074
+['1875 dollar', 'dollar']	['1875 dollar', 'dollar']	0.0594348820819
+['1875 dollar', 'dollar']	['1875 dollar', 'dollar']	0.0353557944867
+['1875 dollar', 'dollar']	['1875 dollar', 'dollar']	0.153008252935
+['1875 dollar', 'dollar']	['1875 dollar', 'dollar']	0.017160943919
+['1875 dollar', 'dollar']	['1875 dollar', 'dollar']	0.153008252935
+['1875 dollar', 'dollar']	['1875 dollar', 'dollar']	0.120611233955
+['1875 dollar', 'dollar']	['1875 dollar', 'dollar']	0.0406801579375
+['ticket', '9 dollar']	['ticket', '9 dollar']	0.0573338872025
+['ticket', '9 dollar']	['ticket', '9 dollar']	0.118448324854
+['ticket', '9 dollar']	['ticket', '9 dollar']	0.0497165307031
+['ticket', '9 dollar']	['ticket', '9 dollar']	0.0382054433184
+['ticket', '9 dollar']	['ticket', '9 dollar']	0.0936418298288
+['ticket', '9 dollar']	['ticket', '9 dollar']	0.0421536060737
+['ticket', '9 dollar']	['ticket', '9 dollar']	0.128707561687
+['school dinner theatre', '9 dollar']	['school dinner theatre', '9 dollar']	0.0661708502503
+['school dinner theatre', '9 dollar']	['school dinner theatre', '9 dollar']	0.152545592328
+['school dinner theatre', '9 dollar']	['school dinner theatre', '9 dollar']	0.0585905397909
+['school dinner theatre', '9 dollar']	['school dinner theatre', '9 dollar']	0.0612547274698
+['school dinner theatre', '9 dollar']	['school dinner theatre', '9 dollar']	0.0585905397909
+['school dinner theatre', '9 dollar']	['school dinner theatre', '9 dollar']	0.077741654189
+['school dinner theatre', '9 dollar']	['school dinner theatre', '9 dollar']	0.126346464602
+['6 dollar', '9 dollar']	['6 dollar', '9 dollar']	0.159422714925
+['6 dollar', '9 dollar']	['6 dollar', '9 dollar']	0.1540576516
+['6 dollar', '9 dollar']	['6 dollar', '9 dollar']	0.0872480951896
+['6 dollar', '9 dollar']	['6 dollar', '9 dollar']	0.202900401695
+['6 dollar', '9 dollar']	['6 dollar', '9 dollar']	0.0872480951896
+['6 dollar', '9 dollar']	['6 dollar', '9 dollar']	0.0922575126852
+['6 dollar', '9 dollar']	['6 dollar', '9 dollar']	0.629369170797
+['child', '9 dollar']	['child', '9 dollar']	0.0530501546221
+['child', '9 dollar']	['child', '9 dollar']	0.0573338872025
+['child', '9 dollar']	['child', '9 dollar']	0.129769333522
+['child', '9 dollar']	['child', '9 dollar']	0.0579671515888
+['child', '9 dollar']	['child', '9 dollar']	0.0344897886631
+['child', '9 dollar']	['child', '9 dollar']	0.0668786179967
+['child', '9 dollar']	['child', '9 dollar']	0.117733533607
+['dollar', '9 dollar']	['dollar', '9 dollar']	0.0594348820819
+['dollar', '9 dollar']	['dollar', '9 dollar']	0.0353557944867
+['dollar', '9 dollar']	['dollar', '9 dollar']	0.168835673678
+['dollar', '9 dollar']	['dollar', '9 dollar']	0.017160943919
+['dollar', '9 dollar']	['dollar', '9 dollar']	0.120611233955
+['dollar', '9 dollar']	['dollar', '9 dollar']	0.0406801579375
+['dollar', '9 dollar']	['dollar', '9 dollar']	0.0517940170627
+['adult', '9 dollar']	['adult', '9 dollar']	0.101104248671
+['adult', '9 dollar']	['adult', '9 dollar']	0.0573338872025
+['adult', '9 dollar']	['adult', '9 dollar']	0.129769333522
+['adult', '9 dollar']	['adult', '9 dollar']	0.0344897886631
+['adult', '9 dollar']	['adult', '9 dollar']	0.0382054433184
+['adult', '9 dollar']	['adult', '9 dollar']	0.0668786179967
+['adult', '9 dollar']	['adult', '9 dollar']	0.117733533607
+['225 ticket', '9 dollar']	['225 ticket', '9 dollar']	0.055884058061
+['225 ticket', '9 dollar']	['225 ticket', '9 dollar']	0.0784983650571
+['225 ticket', '9 dollar']	['225 ticket', '9 dollar']	0.255189051606
+['225 ticket', '9 dollar']	['225 ticket', '9 dollar']	0.0585905397909
+['225 ticket', '9 dollar']	['225 ticket', '9 dollar']	0.0778895807748
+['225 ticket', '9 dollar']	['225 ticket', '9 dollar']	0.0585905397909
+['225 ticket', '9 dollar']	['225 ticket', '9 dollar']	0.251529580944
+['1875 dollar', '9 dollar']	['1875 dollar', '9 dollar']	0.159422714925
+['1875 dollar', '9 dollar']	['1875 dollar', '9 dollar']	0.143273337874
+['1875 dollar', '9 dollar']	['1875 dollar', '9 dollar']	0.639702759795
+['1875 dollar', '9 dollar']	['1875 dollar', '9 dollar']	0.0872480951896
+['1875 dollar', '9 dollar']	['1875 dollar', '9 dollar']	0.0327192802169
+['1875 dollar', '9 dollar']	['1875 dollar', '9 dollar']	0.0872480951896
+['1875 dollar', '9 dollar']	['1875 dollar', '9 dollar']	0.0922575126852
+['ticket', 'adult']	['ticket', 'adult']	0.0844413360683
+['ticket', 'adult']	['ticket', 'adult']	0.0991300310581
+['ticket', 'adult']	['ticket', 'adult']	0.322058137641
+['ticket', 'adult']	['ticket', 'adult']	0.00847248349399
+['ticket', 'adult']	['ticket', 'adult']	0.0991300310581
+['ticket', 'adult']	['ticket', 'adult']	0.0538875613422
+['ticket', 'adult']	['ticket', 'adult']	0.0991300310581
+['school dinner theatre', 'adult']	['school dinner theatre', 'adult']	0.0947665028693
+['school dinner theatre', 'adult']	['school dinner theatre', 'adult']	0.0600526994991
+['school dinner theatre', 'adult']	['school dinner theatre', 'adult']	0.0369939365975
+['school dinner theatre', 'adult']	['school dinner theatre', 'adult']	0.0396505619937
+['school dinner theatre', 'adult']	['school dinner theatre', 'adult']	0.0600526994991
+['school dinner theatre', 'adult']	['school dinner theatre', 'adult']	0.0662943502065
+['school dinner theatre', 'adult']	['school dinner theatre', 'adult']	0.0600526994991
+['6 dollar', 'adult']	['6 dollar', 'adult']	0.101104248671
+['6 dollar', 'adult']	['6 dollar', 'adult']	0.0573338872025
+['6 dollar', 'adult']	['6 dollar', 'adult']	0.0344897886631
+['6 dollar', 'adult']	['6 dollar', 'adult']	0.0382054433184
+['6 dollar', 'adult']	['6 dollar', 'adult']	0.129769333522
+['6 dollar', 'adult']	['6 dollar', 'adult']	0.0668786179967
+['6 dollar', 'adult']	['6 dollar', 'adult']	0.117733533607
+['child', 'adult']	['child', 'adult']	0.202219009235
+['child', 'adult']	['child', 'adult']	0.0844413360683
+['child', 'adult']	['child', 'adult']	0.0842616556555
+['child', 'adult']	['child', 'adult']	0.0214721177735
+['child', 'adult']	['child', 'adult']	0.0842616556555
+['child', 'adult']	['child', 'adult']	0.118691778132
+['child', 'adult']	['child', 'adult']	0.0842616556555
+['dollar', 'adult']	['dollar', 'adult']	0.0425777989861
+['dollar', 'adult']	['dollar', 'adult']	0.0349808200155
+['dollar', 'adult']	['dollar', 'adult']	0.0855234999128
+['dollar', 'adult']	['dollar', 'adult']	0.116438252765
+['dollar', 'adult']	['dollar', 'adult']	0.0855234999128
+['dollar', 'adult']	['dollar', 'adult']	0.0447889293592
+['dollar', 'adult']	['dollar', 'adult']	0.0417338935078
+['9 dollar', 'adult']	['9 dollar', 'adult']	0.101104248671
+['9 dollar', 'adult']	['9 dollar', 'adult']	0.0573338872025
+['9 dollar', 'adult']	['9 dollar', 'adult']	0.129769333522
+['9 dollar', 'adult']	['9 dollar', 'adult']	0.0344897886631
+['9 dollar', 'adult']	['9 dollar', 'adult']	0.0382054433184
+['9 dollar', 'adult']	['9 dollar', 'adult']	0.0668786179967
+['9 dollar', 'adult']	['9 dollar', 'adult']	0.117733533607
+['225 ticket', 'adult']	['225 ticket', 'adult']	0.0594999397323
+['225 ticket', 'adult']	['225 ticket', 'adult']	0.0573338872025
+['225 ticket', 'adult']	['225 ticket', 'adult']	0.0606369672893
+['225 ticket', 'adult']	['225 ticket', 'adult']	0.0344897886631
+['225 ticket', 'adult']	['225 ticket', 'adult']	0.0547064574059
+['225 ticket', 'adult']	['225 ticket', 'adult']	0.0606369672893
+['225 ticket', 'adult']	['225 ticket', 'adult']	0.0606369672893
+['1875 dollar', 'adult']	['1875 dollar', 'adult']	0.101104248671
+['1875 dollar', 'adult']	['1875 dollar', 'adult']	0.0573338872025
+['1875 dollar', 'adult']	['1875 dollar', 'adult']	0.117733533607
+['1875 dollar', 'adult']	['1875 dollar', 'adult']	0.0344897886631
+['1875 dollar', 'adult']	['1875 dollar', 'adult']	0.0432740235322
+['1875 dollar', 'adult']	['1875 dollar', 'adult']	0.117733533607
+['1875 dollar', 'adult']	['1875 dollar', 'adult']	0.0668786179967
+['ticket', '225 ticket']	['ticket', '225 ticket']	0.068619691295
+['ticket', '225 ticket']	['ticket', '225 ticket']	0.0831881114912
+['ticket', '225 ticket']	['ticket', '225 ticket']	0.0677181753592
+['ticket', '225 ticket']	['ticket', '225 ticket']	0.0558695923582
+['ticket', '225 ticket']	['ticket', '225 ticket']	0.0831881114912
+['ticket', '225 ticket']	['ticket', '225 ticket']	0.170616488698
+['ticket', '225 ticket']	['ticket', '225 ticket']	0.0831881114912
+['school dinner theatre', '225 ticket']	['school dinner theatre', '225 ticket']	0.0497363401801
+['school dinner theatre', '225 ticket']	['school dinner theatre', '225 ticket']	0.077741654189
+['school dinner theatre', '225 ticket']	['school dinner theatre', '225 ticket']	0.0585905397909
+['school dinner theatre', '225 ticket']	['school dinner theatre', '225 ticket']	0.0178725447785
+['school dinner theatre', '225 ticket']	['school dinner theatre', '225 ticket']	0.077741654189
+['school dinner theatre', '225 ticket']	['school dinner theatre', '225 ticket']	0.0585905397909
+['school dinner theatre', '225 ticket']	['school dinner theatre', '225 ticket']	0.077741654189
+['6 dollar', '225 ticket']	['6 dollar', '225 ticket']	0.055884058061
+['6 dollar', '225 ticket']	['6 dollar', '225 ticket']	0.0784983650571
+['6 dollar', '225 ticket']	['6 dollar', '225 ticket']	0.0585905397909
+['6 dollar', '225 ticket']	['6 dollar', '225 ticket']	0.0778895807748
+['6 dollar', '225 ticket']	['6 dollar', '225 ticket']	0.255189051606
+['6 dollar', '225 ticket']	['6 dollar', '225 ticket']	0.0585905397909
+['6 dollar', '225 ticket']	['6 dollar', '225 ticket']	0.251529580944
+['child', '225 ticket']	['child', '225 ticket']	0.0849087877758
+['child', '225 ticket']	['child', '225 ticket']	0.0573338872025
+['child', '225 ticket']	['child', '225 ticket']	0.0606369672893
+['child', '225 ticket']	['child', '225 ticket']	0.00676917892766
+['child', '225 ticket']	['child', '225 ticket']	0.0606369672893
+['child', '225 ticket']	['child', '225 ticket']	0.0619390582505
+['child', '225 ticket']	['child', '225 ticket']	0.0606369672893
+['dollar', '225 ticket']	['dollar', '225 ticket']	0.0498534310639
+['dollar', '225 ticket']	['dollar', '225 ticket']	0.0319730044987
+['dollar', '225 ticket']	['dollar', '225 ticket']	0.0581017395177
+['dollar', '225 ticket']	['dollar', '225 ticket']	0.0433348310958
+['dollar', '225 ticket']	['dollar', '225 ticket']	0.0581017395177
+['dollar', '225 ticket']	['dollar', '225 ticket']	0.0234821300029
+['dollar', '225 ticket']	['dollar', '225 ticket']	0.0291662153074
+['9 dollar', '225 ticket']	['9 dollar', '225 ticket']	0.055884058061
+['9 dollar', '225 ticket']	['9 dollar', '225 ticket']	0.0784983650571
+['9 dollar', '225 ticket']	['9 dollar', '225 ticket']	0.255189051606
+['9 dollar', '225 ticket']	['9 dollar', '225 ticket']	0.0585905397909
+['9 dollar', '225 ticket']	['9 dollar', '225 ticket']	0.0778895807748
+['9 dollar', '225 ticket']	['9 dollar', '225 ticket']	0.0585905397909
+['9 dollar', '225 ticket']	['9 dollar', '225 ticket']	0.251529580944
+['adult', '225 ticket']	['adult', '225 ticket']	0.0594999397323
+['adult', '225 ticket']	['adult', '225 ticket']	0.0573338872025
+['adult', '225 ticket']	['adult', '225 ticket']	0.0606369672893
+['adult', '225 ticket']	['adult', '225 ticket']	0.0344897886631
+['adult', '225 ticket']	['adult', '225 ticket']	0.0547064574059
+['adult', '225 ticket']	['adult', '225 ticket']	0.0606369672893
+['adult', '225 ticket']	['adult', '225 ticket']	0.0606369672893
+['1875 dollar', '225 ticket']	['1875 dollar', '225 ticket']	0.055884058061
+['1875 dollar', '225 ticket']	['1875 dollar', '225 ticket']	0.0683238606939
+['1875 dollar', '225 ticket']	['1875 dollar', '225 ticket']	0.251529580944
+['1875 dollar', '225 ticket']	['1875 dollar', '225 ticket']	0.0585905397909
+['1875 dollar', '225 ticket']	['1875 dollar', '225 ticket']	0.0190176866772
+['1875 dollar', '225 ticket']	['1875 dollar', '225 ticket']	0.251529580944
+['1875 dollar', '225 ticket']	['1875 dollar', '225 ticket']	0.0585905397909
+['ticket', '1875 dollar']	['ticket', '1875 dollar']	0.0635755379099
+['ticket', '1875 dollar']	['ticket', '1875 dollar']	0.128707561687
+['ticket', '1875 dollar']	['ticket', '1875 dollar']	0.0497165307031
+['ticket', '1875 dollar']	['ticket', '1875 dollar']	0.0432740235322
+['ticket', '1875 dollar']	['ticket', '1875 dollar']	0.128707561687
+['ticket', '1875 dollar']	['ticket', '1875 dollar']	0.0936418298288
+['ticket', '1875 dollar']	['ticket', '1875 dollar']	0.0421536060737
+['school dinner theatre', '1875 dollar']	['school dinner theatre', '1875 dollar']	0.0661708502503
+['school dinner theatre', '1875 dollar']	['school dinner theatre', '1875 dollar']	0.126346464602
+['school dinner theatre', '1875 dollar']	['school dinner theatre', '1875 dollar']	0.0585905397909
+['school dinner theatre', '1875 dollar']	['school dinner theatre', '1875 dollar']	0.0158103880485
+['school dinner theatre', '1875 dollar']	['school dinner theatre', '1875 dollar']	0.126346464602
+['school dinner theatre', '1875 dollar']	['school dinner theatre', '1875 dollar']	0.0585905397909
+['school dinner theatre', '1875 dollar']	['school dinner theatre', '1875 dollar']	0.077741654189
+['6 dollar', '1875 dollar']	['6 dollar', '1875 dollar']	0.159422714925
+['6 dollar', '1875 dollar']	['6 dollar', '1875 dollar']	0.143273337874
+['6 dollar', '1875 dollar']	['6 dollar', '1875 dollar']	0.0872480951896
+['6 dollar', '1875 dollar']	['6 dollar', '1875 dollar']	0.0327192802169
+['6 dollar', '1875 dollar']	['6 dollar', '1875 dollar']	0.639702759795
+['6 dollar', '1875 dollar']	['6 dollar', '1875 dollar']	0.0872480951896
+['6 dollar', '1875 dollar']	['6 dollar', '1875 dollar']	0.0922575126852
+['child', '1875 dollar']	['child', '1875 dollar']	0.0530501546221
+['child', '1875 dollar']	['child', '1875 dollar']	0.0573338872025
+['child', '1875 dollar']	['child', '1875 dollar']	0.117733533607
+['child', '1875 dollar']	['child', '1875 dollar']	0.0364645429985
+['child', '1875 dollar']	['child', '1875 dollar']	0.117733533607
+['child', '1875 dollar']	['child', '1875 dollar']	0.0344897886631
+['child', '1875 dollar']	['child', '1875 dollar']	0.0668786179967
+['dollar', '1875 dollar']	['dollar', '1875 dollar']	0.0594348820819
+['dollar', '1875 dollar']	['dollar', '1875 dollar']	0.0353557944867
+['dollar', '1875 dollar']	['dollar', '1875 dollar']	0.153008252935
+['dollar', '1875 dollar']	['dollar', '1875 dollar']	0.017160943919
+['dollar', '1875 dollar']	['dollar', '1875 dollar']	0.153008252935
+['dollar', '1875 dollar']	['dollar', '1875 dollar']	0.120611233955
+['dollar', '1875 dollar']	['dollar', '1875 dollar']	0.0406801579375
+['9 dollar', '1875 dollar']	['9 dollar', '1875 dollar']	0.159422714925
+['9 dollar', '1875 dollar']	['9 dollar', '1875 dollar']	0.143273337874
+['9 dollar', '1875 dollar']	['9 dollar', '1875 dollar']	0.639702759795
+['9 dollar', '1875 dollar']	['9 dollar', '1875 dollar']	0.0872480951896
+['9 dollar', '1875 dollar']	['9 dollar', '1875 dollar']	0.0327192802169
+['9 dollar', '1875 dollar']	['9 dollar', '1875 dollar']	0.0872480951896
+['9 dollar', '1875 dollar']	['9 dollar', '1875 dollar']	0.0922575126852
+['adult', '1875 dollar']	['adult', '1875 dollar']	0.101104248671
+['adult', '1875 dollar']	['adult', '1875 dollar']	0.0573338872025
+['adult', '1875 dollar']	['adult', '1875 dollar']	0.117733533607
+['adult', '1875 dollar']	['adult', '1875 dollar']	0.0344897886631
+['adult', '1875 dollar']	['adult', '1875 dollar']	0.0432740235322
+['adult', '1875 dollar']	['adult', '1875 dollar']	0.117733533607
+['adult', '1875 dollar']	['adult', '1875 dollar']	0.0668786179967
+['225 ticket', '1875 dollar']	['225 ticket', '1875 dollar']	0.055884058061
+['225 ticket', '1875 dollar']	['225 ticket', '1875 dollar']	0.0683238606939
+['225 ticket', '1875 dollar']	['225 ticket', '1875 dollar']	0.251529580944
+['225 ticket', '1875 dollar']	['225 ticket', '1875 dollar']	0.0585905397909
+['225 ticket', '1875 dollar']	['225 ticket', '1875 dollar']	0.0190176866772
+['225 ticket', '1875 dollar']	['225 ticket', '1875 dollar']	0.251529580944
+['225 ticket', '1875 dollar']	['225 ticket', '1875 dollar']	0.0585905397909

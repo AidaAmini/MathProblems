@@ -1,0 +1,10 @@
+pay ADV If your gross pay is 450 dollars , while your net pay is 315 dollars
+pay ARG1 much
+pay ARG0 you
+pay MNR in taxes
+
+Assume ARG1 that all tax dollars are not included in net pay
+include ARG1 all tax dollars
+include NEG not
+include ARG2 net pay
+

@@ -1,0 +1,228 @@
+['nine book', '6 dollar', '6.50 dollar', '56 dollar', 'book', '6-dollar book', '6.50-dollar book']
+['nine book']	['6 dollar']	0.408341208225
+['nine book']	['6.50 dollar']	0.0901100077042
+['nine book']	['56 dollar']	0.0901100077042
+['nine book']	['6-dollar book']	0.643440930505
+['nine book']	['6.50-dollar book']	0.643440930505
+['6 dollar']	['6.50 dollar']	0.556137096067
+['6 dollar']	['book']	0.0617470987896
+['6 dollar']	['6-dollar book']	0.0737139440912
+['6 dollar']	['6.50-dollar book']	0.0737139440912
+['6.50 dollar']	['56 dollar']	0.643440930505
+['6.50 dollar']	['book']	0.0741073489195
+['6.50 dollar']	['6-dollar book']	0.0901100077042
+['6.50 dollar']	['6.50-dollar book']	0.0901100077042
+['56 dollar']	['book']	0.0741073489195
+['56 dollar']	['6-dollar book']	0.0901100077042
+['56 dollar']	['6.50-dollar book']	0.0901100077042
+['6-dollar book']	['6.50-dollar book']	0.643440930505
+['6 dollar', 'nine book']	['6.50 dollar']	0.544221442934
+['6 dollar', 'nine book']	['56 dollar']	0.850074938398
+['6 dollar', 'nine book']	['book']	0.810997536483
+['6 dollar', 'nine book']	['6-dollar book']	0.544221442934
+['6 dollar', 'nine book']	['6.50-dollar book']	0.544221442934
+['6.50 dollar', 'nine book']	['6 dollar']	0.747901896166
+['6.50 dollar', 'nine book']	['56 dollar']	0.584269096576
+['6.50 dollar', 'nine book']	['book']	0.847373963203
+['6.50 dollar', 'nine book']	['6-dollar book']	0.584269096576
+['6.50 dollar', 'nine book']	['6.50-dollar book']	0.584269096576
+['56 dollar', 'nine book']	['6 dollar']	0.830670492644
+['56 dollar', 'nine book']	['6.50 dollar']	0.584269096576
+['56 dollar', 'nine book']	['book']	0.847373963203
+['56 dollar', 'nine book']	['6-dollar book']	0.584269096576
+['56 dollar', 'nine book']	['6.50-dollar book']	0.584269096576
+['book', 'nine book']	['6 dollar']	0.653717804811
+['book', 'nine book']	['6.50 dollar']	0.21925775957
+['book', 'nine book']	['56 dollar']	0.21925775957
+['book', 'nine book']	['6-dollar book']	0.758074416257
+['book', 'nine book']	['6.50-dollar book']	0.758074416257
+['6-dollar book', 'nine book']	['6 dollar']	0.593218781619
+['6-dollar book', 'nine book']	['6.50 dollar']	0.139258682248
+['6-dollar book', 'nine book']	['56 dollar']	0.139258682248
+['6-dollar book', 'nine book']	['book']	0.848820310529
+['6-dollar book', 'nine book']	['6.50-dollar book']	0.637144068101
+['6.50-dollar book', 'nine book']	['6 dollar']	0.593218781619
+['6.50-dollar book', 'nine book']	['6.50 dollar']	0.139258682248
+['6.50-dollar book', 'nine book']	['56 dollar']	0.139258682248
+['6.50-dollar book', 'nine book']	['book']	0.848820310529
+['6.50-dollar book', 'nine book']	['6-dollar book']	0.637144068101
+['nine book', '6 dollar']	['6.50 dollar']	0.544221442934
+['nine book', '6 dollar']	['56 dollar']	0.850074938398
+['nine book', '6 dollar']	['book']	0.810997536483
+['nine book', '6 dollar']	['6-dollar book']	0.544221442934
+['nine book', '6 dollar']	['6.50-dollar book']	0.544221442934
+['6.50 dollar', '6 dollar']	['nine book']	0.544707256497
+['6.50 dollar', '6 dollar']	['56 dollar']	0.903996353705
+['6.50 dollar', '6 dollar']	['book']	0.380032132525
+['6.50 dollar', '6 dollar']	['6-dollar book']	0.127137811052
+['6.50 dollar', '6 dollar']	['6.50-dollar book']	0.127137811052
+['56 dollar', '6 dollar']	['nine book']	0.544707256497
+['56 dollar', '6 dollar']	['6.50 dollar']	0.619879171367
+['56 dollar', '6 dollar']	['book']	0.380032132525
+['56 dollar', '6 dollar']	['6-dollar book']	0.127137811052
+['56 dollar', '6 dollar']	['6.50-dollar book']	0.127137811052
+['book', '6 dollar']	['nine book']	0.926628661548
+['book', '6 dollar']	['6.50 dollar']	0.494374116261
+['book', '6 dollar']	['56 dollar']	0.716960743817
+['book', '6 dollar']	['6-dollar book']	0.758846813227
+['book', '6 dollar']	['6.50-dollar book']	0.758846813227
+['6-dollar book', '6 dollar']	['nine book']	0.73028733598
+['6-dollar book', '6 dollar']	['6.50 dollar']	0.544221442934
+['6-dollar book', '6 dollar']	['56 dollar']	0.850074938398
+['6-dollar book', '6 dollar']	['book']	0.77767205098
+['6-dollar book', '6 dollar']	['6.50-dollar book']	0.544221442934
+['6.50-dollar book', '6 dollar']	['nine book']	0.73028733598
+['6.50-dollar book', '6 dollar']	['6.50 dollar']	0.544221442934
+['6.50-dollar book', '6 dollar']	['56 dollar']	0.850074938398
+['6.50-dollar book', '6 dollar']	['book']	0.77767205098
+['6.50-dollar book', '6 dollar']	['6-dollar book']	0.544221442934
+['nine book', '6.50 dollar']	['6 dollar']	0.747901896166
+['nine book', '6.50 dollar']	['56 dollar']	0.584269096576
+['nine book', '6.50 dollar']	['book']	0.847373963203
+['nine book', '6.50 dollar']	['6-dollar book']	0.584269096576
+['nine book', '6.50 dollar']	['6.50-dollar book']	0.584269096576
+['6 dollar', '6.50 dollar']	['nine book']	0.544707256497
+['6 dollar', '6.50 dollar']	['56 dollar']	0.903996353705
+['6 dollar', '6.50 dollar']	['book']	0.380032132525
+['6 dollar', '6.50 dollar']	['6-dollar book']	0.127137811052
+['6 dollar', '6.50 dollar']	['6.50-dollar book']	0.127137811052
+['56 dollar', '6.50 dollar']	['nine book']	0.139258682248
+['56 dollar', '6.50 dollar']	['6 dollar']	0.890147722465
+['56 dollar', '6.50 dollar']	['book']	0.386965255933
+['56 dollar', '6.50 dollar']	['6-dollar book']	0.139258682248
+['56 dollar', '6.50 dollar']	['6.50-dollar book']	0.139258682248
+['book', '6.50 dollar']	['nine book']	0.815092874843
+['book', '6.50 dollar']	['6 dollar']	0.4635274149
+['book', '6.50 dollar']	['56 dollar']	0.465538040018
+['book', '6.50 dollar']	['6-dollar book']	0.740284131237
+['book', '6.50 dollar']	['6.50-dollar book']	0.740284131237
+['6-dollar book', '6.50 dollar']	['nine book']	0.584269096576
+['6-dollar book', '6.50 dollar']	['6 dollar']	0.577101062223
+['6-dollar book', '6.50 dollar']	['56 dollar']	0.584269096576
+['6-dollar book', '6.50 dollar']	['book']	0.837365653968
+['6-dollar book', '6.50 dollar']	['6.50-dollar book']	0.584269096576
+['6.50-dollar book', '6.50 dollar']	['nine book']	0.584269096576
+['6.50-dollar book', '6.50 dollar']	['6 dollar']	0.577101062223
+['6.50-dollar book', '6.50 dollar']	['56 dollar']	0.584269096576
+['6.50-dollar book', '6.50 dollar']	['book']	0.837365653968
+['6.50-dollar book', '6.50 dollar']	['6-dollar book']	0.584269096576
+['nine book', '56 dollar']	['6 dollar']	0.830670492644
+['nine book', '56 dollar']	['6.50 dollar']	0.584269096576
+['nine book', '56 dollar']	['book']	0.847373963203
+['nine book', '56 dollar']	['6-dollar book']	0.584269096576
+['nine book', '56 dollar']	['6.50-dollar book']	0.584269096576
+['6 dollar', '56 dollar']	['nine book']	0.544707256497
+['6 dollar', '56 dollar']	['6.50 dollar']	0.619879171367
+['6 dollar', '56 dollar']	['book']	0.380032132525
+['6 dollar', '56 dollar']	['6-dollar book']	0.127137811052
+['6 dollar', '56 dollar']	['6.50-dollar book']	0.127137811052
+['6.50 dollar', '56 dollar']	['nine book']	0.139258682248
+['6.50 dollar', '56 dollar']	['6 dollar']	0.890147722465
+['6.50 dollar', '56 dollar']	['book']	0.386965255933
+['6.50 dollar', '56 dollar']	['6-dollar book']	0.139258682248
+['6.50 dollar', '56 dollar']	['6.50-dollar book']	0.139258682248
+['book', '56 dollar']	['nine book']	0.815092874843
+['book', '56 dollar']	['6 dollar']	0.672077808741
+['book', '56 dollar']	['6.50 dollar']	0.465538040018
+['book', '56 dollar']	['6-dollar book']	0.740284131237
+['book', '56 dollar']	['6.50-dollar book']	0.740284131237
+['6-dollar book', '56 dollar']	['nine book']	0.584269096576
+['6-dollar book', '56 dollar']	['6 dollar']	0.851319328443
+['6-dollar book', '56 dollar']	['6.50 dollar']	0.584269096576
+['6-dollar book', '56 dollar']	['book']	0.837365653968
+['6-dollar book', '56 dollar']	['6.50-dollar book']	0.584269096576
+['6.50-dollar book', '56 dollar']	['nine book']	0.584269096576
+['6.50-dollar book', '56 dollar']	['6 dollar']	0.851319328443
+['6.50-dollar book', '56 dollar']	['6.50 dollar']	0.584269096576
+['6.50-dollar book', '56 dollar']	['book']	0.837365653968
+['6.50-dollar book', '56 dollar']	['6-dollar book']	0.584269096576
+['nine book', 'book']	['6 dollar']	0.653717804811
+['nine book', 'book']	['6.50 dollar']	0.21925775957
+['nine book', 'book']	['56 dollar']	0.21925775957
+['nine book', 'book']	['6-dollar book']	0.758074416257
+['nine book', 'book']	['6.50-dollar book']	0.758074416257
+['6 dollar', 'book']	['nine book']	0.926628661548
+['6 dollar', 'book']	['6.50 dollar']	0.494374116261
+['6 dollar', 'book']	['56 dollar']	0.716960743817
+['6 dollar', 'book']	['6-dollar book']	0.758846813227
+['6 dollar', 'book']	['6.50-dollar book']	0.758846813227
+['6.50 dollar', 'book']	['nine book']	0.815092874843
+['6.50 dollar', 'book']	['6 dollar']	0.4635274149
+['6.50 dollar', 'book']	['56 dollar']	0.465538040018
+['6.50 dollar', 'book']	['6-dollar book']	0.740284131237
+['6.50 dollar', 'book']	['6.50-dollar book']	0.740284131237
+['56 dollar', 'book']	['nine book']	0.815092874843
+['56 dollar', 'book']	['6 dollar']	0.672077808741
+['56 dollar', 'book']	['6.50 dollar']	0.465538040018
+['56 dollar', 'book']	['6-dollar book']	0.740284131237
+['56 dollar', 'book']	['6.50-dollar book']	0.740284131237
+['6-dollar book', 'book']	['nine book']	0.90974456899
+['6-dollar book', 'book']	['6 dollar']	0.214420175704
+['6-dollar book', 'book']	['6.50 dollar']	0.21925775957
+['6-dollar book', 'book']	['56 dollar']	0.21925775957
+['6-dollar book', 'book']	['6.50-dollar book']	0.758074416257
+['6.50-dollar book', 'book']	['nine book']	0.90974456899
+['6.50-dollar book', 'book']	['6 dollar']	0.214420175704
+['6.50-dollar book', 'book']	['6.50 dollar']	0.21925775957
+['6.50-dollar book', 'book']	['56 dollar']	0.21925775957
+['6.50-dollar book', 'book']	['6-dollar book']	0.758074416257
+['nine book', '6-dollar book']	['6 dollar']	0.593218781619
+['nine book', '6-dollar book']	['6.50 dollar']	0.139258682248
+['nine book', '6-dollar book']	['56 dollar']	0.139258682248
+['nine book', '6-dollar book']	['book']	0.848820310529
+['nine book', '6-dollar book']	['6.50-dollar book']	0.637144068101
+['6 dollar', '6-dollar book']	['nine book']	0.73028733598
+['6 dollar', '6-dollar book']	['6.50 dollar']	0.544221442934
+['6 dollar', '6-dollar book']	['56 dollar']	0.850074938398
+['6 dollar', '6-dollar book']	['book']	0.77767205098
+['6 dollar', '6-dollar book']	['6.50-dollar book']	0.544221442934
+['6.50 dollar', '6-dollar book']	['nine book']	0.584269096576
+['6.50 dollar', '6-dollar book']	['6 dollar']	0.577101062223
+['6.50 dollar', '6-dollar book']	['56 dollar']	0.584269096576
+['6.50 dollar', '6-dollar book']	['book']	0.837365653968
+['6.50 dollar', '6-dollar book']	['6.50-dollar book']	0.584269096576
+['56 dollar', '6-dollar book']	['nine book']	0.584269096576
+['56 dollar', '6-dollar book']	['6 dollar']	0.851319328443
+['56 dollar', '6-dollar book']	['6.50 dollar']	0.584269096576
+['56 dollar', '6-dollar book']	['book']	0.837365653968
+['56 dollar', '6-dollar book']	['6.50-dollar book']	0.584269096576
+['book', '6-dollar book']	['nine book']	0.90974456899
+['book', '6-dollar book']	['6 dollar']	0.214420175704
+['book', '6-dollar book']	['6.50 dollar']	0.21925775957
+['book', '6-dollar book']	['56 dollar']	0.21925775957
+['book', '6-dollar book']	['6.50-dollar book']	0.758074416257
+['6.50-dollar book', '6-dollar book']	['nine book']	0.637144068101
+['6.50-dollar book', '6-dollar book']	['6 dollar']	0.14699641653
+['6.50-dollar book', '6-dollar book']	['6.50 dollar']	0.139258682248
+['6.50-dollar book', '6-dollar book']	['56 dollar']	0.139258682248
+['6.50-dollar book', '6-dollar book']	['book']	0.671824879669
+['nine book', '6.50-dollar book']	['6 dollar']	0.593218781619
+['nine book', '6.50-dollar book']	['6.50 dollar']	0.139258682248
+['nine book', '6.50-dollar book']	['56 dollar']	0.139258682248
+['nine book', '6.50-dollar book']	['book']	0.848820310529
+['nine book', '6.50-dollar book']	['6-dollar book']	0.637144068101
+['6 dollar', '6.50-dollar book']	['nine book']	0.73028733598
+['6 dollar', '6.50-dollar book']	['6.50 dollar']	0.544221442934
+['6 dollar', '6.50-dollar book']	['56 dollar']	0.850074938398
+['6 dollar', '6.50-dollar book']	['book']	0.77767205098
+['6 dollar', '6.50-dollar book']	['6-dollar book']	0.544221442934
+['6.50 dollar', '6.50-dollar book']	['nine book']	0.584269096576
+['6.50 dollar', '6.50-dollar book']	['6 dollar']	0.577101062223
+['6.50 dollar', '6.50-dollar book']	['56 dollar']	0.584269096576
+['6.50 dollar', '6.50-dollar book']	['book']	0.837365653968
+['6.50 dollar', '6.50-dollar book']	['6-dollar book']	0.584269096576
+['56 dollar', '6.50-dollar book']	['nine book']	0.584269096576
+['56 dollar', '6.50-dollar book']	['6 dollar']	0.851319328443
+['56 dollar', '6.50-dollar book']	['6.50 dollar']	0.584269096576
+['56 dollar', '6.50-dollar book']	['book']	0.837365653968
+['56 dollar', '6.50-dollar book']	['6-dollar book']	0.584269096576
+['book', '6.50-dollar book']	['nine book']	0.90974456899
+['book', '6.50-dollar book']	['6 dollar']	0.214420175704
+['book', '6.50-dollar book']	['6.50 dollar']	0.21925775957
+['book', '6.50-dollar book']	['56 dollar']	0.21925775957
+['book', '6.50-dollar book']	['6-dollar book']	0.758074416257
+['6-dollar book', '6.50-dollar book']	['nine book']	0.637144068101
+['6-dollar book', '6.50-dollar book']	['6 dollar']	0.14699641653
+['6-dollar book', '6.50-dollar book']	['6.50 dollar']	0.139258682248
+['6-dollar book', '6.50-dollar book']	['56 dollar']	0.139258682248
+['6-dollar book', '6.50-dollar book']	['book']	0.671824879669

@@ -1,0 +1,16 @@
+1
+[['sold-out performance', 'x1', 'performance', 'dollar', '16, 000', '-', '-'], ['overhead', '1', '', 'dollar', '81, 000', '-', '-'], ['production cost', 'x1', 'performance', 'dollar', '7, 000', '-', '-']]
+-1
+[['sold-out performance', 'x1', 'performance', 'dollar', '16, 000', '-', '-'], ['overhead', '1', '', 'dollar', '81, 000', '-', '-'], ['production cost', 'sold-out performance', 'performance', '16, 000', '7, 000', '-', '-']]
+-1
+[['sold-out performance', 'x1', 'performance', 'dollar', '16, 000', '7, 000', '-'], ['overhead', '1', '', 'dollar', '81, 000', '-', '-'], ['production cost', 'x1', 'sold-out performance', 'dollar', '7, 000', '-', '-']]
+-1
+[['sold-out performance', 'production cost', 'performance', '7, 000', '16, 000', '-', '-'], ['overhead', '1', '', 'dollar', '81, 000', '-', '-'], ['sold-out performance', 'x1', 'performance', 'dollar', '7, 000', '-', '16, 000']]
+-1
+[['sold-out performance', 'x1', 'performance', 'dollar', '16, 000', '-', '-'], ['overhead', '1', '', 'dollar', '81, 000', '-', '-'], ['production cost', 'x1', 'sold-out performance', 'dollar', 'performance', '-', '-']]
+-1
+[['dollar', 'production cost', 'performance', '7, 000', '16, 000', '-', 'sold-out performance'], ['overhead', '1', '', 'dollar', '81, 000', '-', '-'], ['production cost', 'sold-out performance', 'performance', 'dollar', '7, 000', '-', '-']]
+-1
+[['sold-out performance', '7, 000', 'performance', 'x1', '16, 000', '-', '-'], ['overhead', '1', '', 'dollar', '81, 000', '-', '-'], ['production cost', 'x1', '16, 000', 'sold-out performance', '7, 000', '-', 'performance']]
+-1
+[['sold-out performance', 'x1', 'performance', 'dollar', '7, 000', '-', '-'], ['overhead', '1', '', 'dollar', '81, 000', '-', '-'], ['production cost', 'x1', 'sold-out performance', 'dollar', '7, 000', '-', '-']]

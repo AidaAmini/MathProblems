@@ -1,0 +1,14 @@
+1
+[['part', '59', 'part', '-', '-', 'dollar', '2380'], ['50-dollar part', 'x1', '-', 'dollar', '50', '-', '-'], ['20-dollar part', 'x2', '-', 'dollar', '20', '-', '-']]
+-1
+[['part', '59', 'x2', '-', '-', 'dollar', '2380'], ['50-dollar part', 'x1', '-', 'dollar', '50', '-', '-'], ['part', 'x2', '-', 'dollar', '2380', '-', '-']]
+-1
+[['part', '59', 'part', '20', '-', 'x2', 'dollar'], ['50-dollar part', 'x1', '-', 'dollar', '50', '-', '-'], ['59', 'x2', 'part', 'dollar', '20', '-', '-']]
+-1
+[['part', '20', 'x2', '-', '-', 'dollar', '20-dollar part'], ['50-dollar part', 'x1', '-', 'dollar', '50', '-', '-'], ['20-dollar part', 'x2', '-', 'dollar', '20', '2380', '-']]
+-1
+[['part', '59', 'part', '-', '-', 'dollar', '2380'], ['50-dollar part', 'x1', '-', 'dollar', '50', '-', '-'], ['part', 'x2', '59', 'dollar', '20', '-', '-']]
+-1
+[['x2', '59', 'part', '-', '20', 'dollar', '2380'], ['50-dollar part', 'x1', '-', 'dollar', '50', '-', '-'], ['2380', 'x2', '-', 'dollar', '59', 'part', '-']]
+-1
+[['part', '59', '20', '-', '-', 'dollar', '2380'], ['50-dollar part', 'x1', '-', 'dollar', '50', '-', '-'], ['20-dollar part', 'x2', '-', 'dollar', '20', 'part', '-']]

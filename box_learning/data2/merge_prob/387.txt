@@ -1,0 +1,1379 @@
+['mr', 'mrs.martin', '3 coffee cup', '2 bagel', '12.75 dollar', 'mr.martin', 'cup', '2 coffee cup', 'bagel', '5 bagel', 'dollar', '14.00 dollar']
+['mr']	['3 coffee cup']	0.080802298149
+['mr']	['2 bagel']	0.0696933362217
+['mr']	['12.75 dollar']	0.0696933362217
+['mr']	['cup']	0.0767194630807
+['mr']	['2 coffee cup']	0.080802298149
+['mr']	['bagel']	0.0592298913388
+['mr']	['5 bagel']	0.0696933362217
+['mr']	['dollar']	0.00388540021915
+['mr']	['14.00 dollar']	0.0696933362217
+['mrs.martin']	['3 coffee cup']	0.0920786332799
+['mrs.martin']	['2 bagel']	0.0901100077042
+['mrs.martin']	['12.75 dollar']	0.0901100077042
+['mrs.martin']	['mr.martin']	0.0922858731158
+['mrs.martin']	['cup']	0.0865655370555
+['mrs.martin']	['2 coffee cup']	0.0920786332799
+['mrs.martin']	['bagel']	0.0545449409346
+['mrs.martin']	['5 bagel']	0.0901100077042
+['mrs.martin']	['dollar']	0.0108687908977
+['mrs.martin']	['14.00 dollar']	0.0901100077042
+['3 coffee cup']	['2 bagel']	0.392705145363
+['3 coffee cup']	['12.75 dollar']	0.0988755105172
+['3 coffee cup']	['mr.martin']	0.0976030424116
+['3 coffee cup']	['2 coffee cup']	0.811753586716
+['3 coffee cup']	['bagel']	0.105585595396
+['3 coffee cup']	['5 bagel']	0.392705145363
+['3 coffee cup']	['dollar']	0.0112349767333
+['3 coffee cup']	['14.00 dollar']	0.0988755105172
+['2 bagel']	['12.75 dollar']	0.0901100077042
+['2 bagel']	['mr.martin']	0.0888375395985
+['2 bagel']	['cup']	0.0774561735493
+['2 bagel']	['2 coffee cup']	0.403745970191
+['2 bagel']	['5 bagel']	0.828768839235
+['2 bagel']	['dollar']	0.00542020684774
+['2 bagel']	['14.00 dollar']	0.0901100077042
+['12.75 dollar']	['mr.martin']	0.0888375395985
+['12.75 dollar']	['cup']	0.100696756518
+['12.75 dollar']	['2 coffee cup']	0.0941266761548
+['12.75 dollar']	['bagel']	0.0541974512876
+['12.75 dollar']	['5 bagel']	0.0901100077042
+['12.75 dollar']	['14.00 dollar']	0.643440930505
+['mr.martin']	['cup']	0.0865655370555
+['mr.martin']	['2 coffee cup']	0.0920786332799
+['mr.martin']	['bagel']	0.0545449409346
+['mr.martin']	['5 bagel']	0.0901100077042
+['mr.martin']	['dollar']	0.0108687908977
+['mr.martin']	['14.00 dollar']	0.0901100077042
+['cup']	['bagel']	0.114702738074
+['cup']	['5 bagel']	0.0696933362217
+['cup']	['dollar']	0.0106208414997
+['cup']	['14.00 dollar']	0.10873615468
+['2 coffee cup']	['bagel']	0.105585595396
+['2 coffee cup']	['5 bagel']	0.392705145363
+['2 coffee cup']	['dollar']	0.0112349767333
+['2 coffee cup']	['14.00 dollar']	0.0988755105172
+['bagel']	['dollar']	0.00843786100059
+['bagel']	['14.00 dollar']	0.0465787639079
+['5 bagel']	['dollar']	0.00542020684774
+['5 bagel']	['14.00 dollar']	0.0901100077042
+['mrs.martin', 'mr']	['3 coffee cup']	0.080802298149
+['mrs.martin', 'mr']	['2 bagel']	0.0696933362217
+['mrs.martin', 'mr']	['12.75 dollar']	0.0696933362217
+['mrs.martin', 'mr']	['mr.martin']	0.154355073427
+['mrs.martin', 'mr']	['cup']	0.0767194630807
+['mrs.martin', 'mr']	['2 coffee cup']	0.080802298149
+['mrs.martin', 'mr']	['bagel']	0.0850831835176
+['mrs.martin', 'mr']	['5 bagel']	0.0696933362217
+['mrs.martin', 'mr']	['dollar']	0.0241916360859
+['mrs.martin', 'mr']	['14.00 dollar']	0.0696933362217
+['3 coffee cup', 'mr']	['mrs.martin']	0.181282297147
+['3 coffee cup', 'mr']	['2 bagel']	0.286862480671
+['3 coffee cup', 'mr']	['12.75 dollar']	0.0696933362217
+['3 coffee cup', 'mr']	['mr.martin']	0.181282297147
+['3 coffee cup', 'mr']	['cup']	0.722976565993
+['3 coffee cup', 'mr']	['2 coffee cup']	0.687763202918
+['3 coffee cup', 'mr']	['bagel']	0.0839825138332
+['3 coffee cup', 'mr']	['5 bagel']	0.286862480671
+['3 coffee cup', 'mr']	['dollar']	0.0460210948961
+['3 coffee cup', 'mr']	['14.00 dollar']	0.0696933362217
+['2 bagel', 'mr']	['mrs.martin']	0.181282297147
+['2 bagel', 'mr']	['3 coffee cup']	0.313714430192
+['2 bagel', 'mr']	['12.75 dollar']	0.0696933362217
+['2 bagel', 'mr']	['mr.martin']	0.181282297147
+['2 bagel', 'mr']	['cup']	0.102313195437
+['2 bagel', 'mr']	['2 coffee cup']	0.519340706117
+['2 bagel', 'mr']	['bagel']	0.682510658136
+['2 bagel', 'mr']	['5 bagel']	0.736313764211
+['2 bagel', 'mr']	['dollar']	0.0232392551335
+['2 bagel', 'mr']	['14.00 dollar']	0.0696933362217
+['12.75 dollar', 'mr']	['mrs.martin']	0.181282297147
+['12.75 dollar', 'mr']	['3 coffee cup']	0.080802298149
+['12.75 dollar', 'mr']	['2 bagel']	0.0696933362217
+['12.75 dollar', 'mr']	['mr.martin']	0.181282297147
+['12.75 dollar', 'mr']	['cup']	0.178249996384
+['12.75 dollar', 'mr']	['2 coffee cup']	0.080802298149
+['12.75 dollar', 'mr']	['bagel']	0.119621876581
+['12.75 dollar', 'mr']	['5 bagel']	0.0696933362217
+['12.75 dollar', 'mr']	['dollar']	0.514895375159
+['12.75 dollar', 'mr']	['14.00 dollar']	0.488722073866
+['mr.martin', 'mr']	['mrs.martin']	0.154355073427
+['mr.martin', 'mr']	['3 coffee cup']	0.080802298149
+['mr.martin', 'mr']	['2 bagel']	0.0696933362217
+['mr.martin', 'mr']	['12.75 dollar']	0.0696933362217
+['mr.martin', 'mr']	['cup']	0.0767194630807
+['mr.martin', 'mr']	['2 coffee cup']	0.080802298149
+['mr.martin', 'mr']	['bagel']	0.0850831835176
+['mr.martin', 'mr']	['5 bagel']	0.0696933362217
+['mr.martin', 'mr']	['dollar']	0.0241916360859
+['mr.martin', 'mr']	['14.00 dollar']	0.0696933362217
+['cup', 'mr']	['mrs.martin']	0.185708698767
+['cup', 'mr']	['3 coffee cup']	0.75108282083
+['cup', 'mr']	['2 bagel']	0.131771183904
+['cup', 'mr']	['12.75 dollar']	0.159872896928
+['cup', 'mr']	['mr.martin']	0.185708698767
+['cup', 'mr']	['2 coffee cup']	0.75108282083
+['cup', 'mr']	['bagel']	0.187544983363
+['cup', 'mr']	['5 bagel']	0.131771183904
+['cup', 'mr']	['dollar']	0.0956581908018
+['cup', 'mr']	['14.00 dollar']	0.159872896928
+['2 coffee cup', 'mr']	['mrs.martin']	0.181282297147
+['2 coffee cup', 'mr']	['3 coffee cup']	0.687763202918
+['2 coffee cup', 'mr']	['2 bagel']	0.488536941378
+['2 coffee cup', 'mr']	['12.75 dollar']	0.0696933362217
+['2 coffee cup', 'mr']	['mr.martin']	0.181282297147
+['2 coffee cup', 'mr']	['cup']	0.722976565993
+['2 coffee cup', 'mr']	['bagel']	0.0839825138332
+['2 coffee cup', 'mr']	['5 bagel']	0.286862480671
+['2 coffee cup', 'mr']	['dollar']	0.0460210948961
+['2 coffee cup', 'mr']	['14.00 dollar']	0.0696933362217
+['bagel', 'mr']	['mrs.martin']	0.168709981103
+['bagel', 'mr']	['3 coffee cup']	0.119628773358
+['bagel', 'mr']	['2 bagel']	0.562373787446
+['bagel', 'mr']	['12.75 dollar']	0.10865661159
+['bagel', 'mr']	['mr.martin']	0.168709981103
+['bagel', 'mr']	['cup']	0.194143558025
+['bagel', 'mr']	['2 coffee cup']	0.119628773358
+['bagel', 'mr']	['5 bagel']	0.562373787446
+['bagel', 'mr']	['dollar']	0.0901026352463
+['bagel', 'mr']	['14.00 dollar']	0.10865661159
+['5 bagel', 'mr']	['mrs.martin']	0.181282297147
+['5 bagel', 'mr']	['3 coffee cup']	0.313714430192
+['5 bagel', 'mr']	['2 bagel']	0.736313764211
+['5 bagel', 'mr']	['12.75 dollar']	0.0696933362217
+['5 bagel', 'mr']	['mr.martin']	0.181282297147
+['5 bagel', 'mr']	['cup']	0.102313195437
+['5 bagel', 'mr']	['2 coffee cup']	0.313714430192
+['5 bagel', 'mr']	['bagel']	0.682510658136
+['5 bagel', 'mr']	['dollar']	0.0232392551335
+['5 bagel', 'mr']	['14.00 dollar']	0.0696933362217
+['dollar', 'mr']	['mrs.martin']	0.151777319902
+['dollar', 'mr']	['3 coffee cup']	0.0836378227365
+['dollar', 'mr']	['2 bagel']	0.0786120076541
+['dollar', 'mr']	['12.75 dollar']	0.408145273673
+['dollar', 'mr']	['mr.martin']	0.151777319902
+['dollar', 'mr']	['cup']	0.149116054339
+['dollar', 'mr']	['2 coffee cup']	0.0836378227365
+['dollar', 'mr']	['bagel']	0.0962627154283
+['dollar', 'mr']	['5 bagel']	0.0786120076541
+['dollar', 'mr']	['14.00 dollar']	0.408145273673
+['14.00 dollar', 'mr']	['mrs.martin']	0.181282297147
+['14.00 dollar', 'mr']	['3 coffee cup']	0.080802298149
+['14.00 dollar', 'mr']	['2 bagel']	0.0696933362217
+['14.00 dollar', 'mr']	['12.75 dollar']	0.488722073866
+['14.00 dollar', 'mr']	['mr.martin']	0.181282297147
+['14.00 dollar', 'mr']	['cup']	0.178249996384
+['14.00 dollar', 'mr']	['2 coffee cup']	0.080802298149
+['14.00 dollar', 'mr']	['bagel']	0.119621876581
+['14.00 dollar', 'mr']	['5 bagel']	0.0696933362217
+['14.00 dollar', 'mr']	['dollar']	0.514895375159
+['mr', 'mrs.martin']	['3 coffee cup']	0.080802298149
+['mr', 'mrs.martin']	['2 bagel']	0.0696933362217
+['mr', 'mrs.martin']	['12.75 dollar']	0.0696933362217
+['mr', 'mrs.martin']	['mr.martin']	0.154355073427
+['mr', 'mrs.martin']	['cup']	0.0767194630807
+['mr', 'mrs.martin']	['2 coffee cup']	0.080802298149
+['mr', 'mrs.martin']	['bagel']	0.0850831835176
+['mr', 'mrs.martin']	['5 bagel']	0.0696933362217
+['mr', 'mrs.martin']	['dollar']	0.0241916360859
+['mr', 'mrs.martin']	['14.00 dollar']	0.0696933362217
+['3 coffee cup', 'mrs.martin']	['mr']	0.380203067734
+['3 coffee cup', 'mrs.martin']	['2 bagel']	0.362256416006
+['3 coffee cup', 'mrs.martin']	['12.75 dollar']	0.0901100077042
+['3 coffee cup', 'mrs.martin']	['mr.martin']	0.0888375395985
+['3 coffee cup', 'mrs.martin']	['cup']	0.788763139598
+['3 coffee cup', 'mrs.martin']	['2 coffee cup']	0.716899463012
+['3 coffee cup', 'mrs.martin']	['bagel']	0.0668345157814
+['3 coffee cup', 'mrs.martin']	['5 bagel']	0.362256416006
+['3 coffee cup', 'mrs.martin']	['dollar']	0.00851929931405
+['3 coffee cup', 'mrs.martin']	['14.00 dollar']	0.0901100077042
+['2 bagel', 'mrs.martin']	['mr']	0.225714531579
+['2 bagel', 'mrs.martin']	['3 coffee cup']	0.33845188701
+['2 bagel', 'mrs.martin']	['12.75 dollar']	0.0901100077042
+['2 bagel', 'mrs.martin']	['mr.martin']	0.1191315107
+['2 bagel', 'mrs.martin']	['cup']	0.11002432276
+['2 bagel', 'mrs.martin']	['2 coffee cup']	0.544060379112
+['2 bagel', 'mrs.martin']	['bagel']	0.715290200357
+['2 bagel', 'mrs.martin']	['5 bagel']	0.760386850763
+['2 bagel', 'mrs.martin']	['dollar']	0.00617587435403
+['2 bagel', 'mrs.martin']	['14.00 dollar']	0.0901100077042
+['12.75 dollar', 'mrs.martin']	['mr']	0.363536401068
+['12.75 dollar', 'mrs.martin']	['3 coffee cup']	0.0920786332799
+['12.75 dollar', 'mrs.martin']	['2 bagel']	0.0901100077042
+['12.75 dollar', 'mrs.martin']	['mr.martin']	0.1191315107
+['12.75 dollar', 'mrs.martin']	['cup']	0.190478636576
+['12.75 dollar', 'mrs.martin']	['2 coffee cup']	0.0920786332799
+['12.75 dollar', 'mrs.martin']	['bagel']	0.0844914223888
+['12.75 dollar', 'mrs.martin']	['5 bagel']	0.0901100077042
+['12.75 dollar', 'mrs.martin']	['dollar']	0.481113187585
+['12.75 dollar', 'mrs.martin']	['14.00 dollar']	0.584269096576
+['mr.martin', 'mrs.martin']	['mr']	0.377128206764
+['mr.martin', 'mrs.martin']	['3 coffee cup']	0.0920786332799
+['mr.martin', 'mrs.martin']	['2 bagel']	0.0901100077042
+['mr.martin', 'mrs.martin']	['12.75 dollar']	0.0901100077042
+['mr.martin', 'mrs.martin']	['cup']	0.0865655370555
+['mr.martin', 'mrs.martin']	['2 coffee cup']	0.0920786332799
+['mr.martin', 'mrs.martin']	['bagel']	0.0545449409346
+['mr.martin', 'mrs.martin']	['5 bagel']	0.0901100077042
+['mr.martin', 'mrs.martin']	['dollar']	0.0108687908977
+['mr.martin', 'mrs.martin']	['14.00 dollar']	0.0901100077042
+['cup', 'mrs.martin']	['mr']	0.217725036797
+['cup', 'mrs.martin']	['3 coffee cup']	0.734941791262
+['cup', 'mrs.martin']	['2 bagel']	0.0696933362217
+['cup', 'mrs.martin']	['12.75 dollar']	0.103222748661
+['cup', 'mrs.martin']	['mr.martin']	0.0725183024459
+['cup', 'mrs.martin']	['2 coffee cup']	0.734941791262
+['cup', 'mrs.martin']	['bagel']	0.151415543974
+['cup', 'mrs.martin']	['5 bagel']	0.0696933362217
+['cup', 'mrs.martin']	['dollar']	0.0614430271225
+['cup', 'mrs.martin']	['14.00 dollar']	0.103222748661
+['2 coffee cup', 'mrs.martin']	['mr']	0.380203067734
+['2 coffee cup', 'mrs.martin']	['3 coffee cup']	0.716899463012
+['2 coffee cup', 'mrs.martin']	['2 bagel']	0.498338895266
+['2 coffee cup', 'mrs.martin']	['12.75 dollar']	0.0901100077042
+['2 coffee cup', 'mrs.martin']	['mr.martin']	0.0888375395985
+['2 coffee cup', 'mrs.martin']	['cup']	0.788763139598
+['2 coffee cup', 'mrs.martin']	['bagel']	0.0668345157814
+['2 coffee cup', 'mrs.martin']	['5 bagel']	0.362256416006
+['2 coffee cup', 'mrs.martin']	['dollar']	0.00851929931405
+['2 coffee cup', 'mrs.martin']	['14.00 dollar']	0.0901100077042
+['bagel', 'mrs.martin']	['mr']	0.292705617355
+['bagel', 'mrs.martin']	['3 coffee cup']	0.0518391118061
+['bagel', 'mrs.martin']	['2 bagel']	0.562373787446
+['bagel', 'mrs.martin']	['12.75 dollar']	0.0465787639079
+['bagel', 'mrs.martin']	['mr.martin']	0.0428520175287
+['bagel', 'mrs.martin']	['cup']	0.151415543974
+['bagel', 'mrs.martin']	['2 coffee cup']	0.0518391118061
+['bagel', 'mrs.martin']	['5 bagel']	0.562373787446
+['bagel', 'mrs.martin']	['dollar']	0.0344415306766
+['bagel', 'mrs.martin']	['14.00 dollar']	0.0465787639079
+['5 bagel', 'mrs.martin']	['mr']	0.225714531579
+['5 bagel', 'mrs.martin']	['3 coffee cup']	0.33845188701
+['5 bagel', 'mrs.martin']	['2 bagel']	0.760386850763
+['5 bagel', 'mrs.martin']	['12.75 dollar']	0.0901100077042
+['5 bagel', 'mrs.martin']	['mr.martin']	0.1191315107
+['5 bagel', 'mrs.martin']	['cup']	0.11002432276
+['5 bagel', 'mrs.martin']	['2 coffee cup']	0.33845188701
+['5 bagel', 'mrs.martin']	['bagel']	0.715290200357
+['5 bagel', 'mrs.martin']	['dollar']	0.00617587435403
+['5 bagel', 'mrs.martin']	['14.00 dollar']	0.0901100077042
+['dollar', 'mrs.martin']	['mr']	0.210676138897
+['dollar', 'mrs.martin']	['3 coffee cup']	0.026987674469
+['dollar', 'mrs.martin']	['2 bagel']	0.0165341599722
+['dollar', 'mrs.martin']	['12.75 dollar']	0.396616843835
+['dollar', 'mrs.martin']	['mr.martin']	0.0164595524146
+['dollar', 'mrs.martin']	['cup']	0.0870382066568
+['dollar', 'mrs.martin']	['2 coffee cup']	0.026987674469
+['dollar', 'mrs.martin']	['bagel']	0.0452864383549
+['dollar', 'mrs.martin']	['5 bagel']	0.0165341599722
+['dollar', 'mrs.martin']	['14.00 dollar']	0.396616843835
+['14.00 dollar', 'mrs.martin']	['mr']	0.363536401068
+['14.00 dollar', 'mrs.martin']	['3 coffee cup']	0.0920786332799
+['14.00 dollar', 'mrs.martin']	['2 bagel']	0.0901100077042
+['14.00 dollar', 'mrs.martin']	['12.75 dollar']	0.584269096576
+['14.00 dollar', 'mrs.martin']	['mr.martin']	0.1191315107
+['14.00 dollar', 'mrs.martin']	['cup']	0.190478636576
+['14.00 dollar', 'mrs.martin']	['2 coffee cup']	0.0920786332799
+['14.00 dollar', 'mrs.martin']	['bagel']	0.0844914223888
+['14.00 dollar', 'mrs.martin']	['5 bagel']	0.0901100077042
+['14.00 dollar', 'mrs.martin']	['dollar']	0.481113187585
+['mr', '3 coffee cup']	['mrs.martin']	0.181282297147
+['mr', '3 coffee cup']	['2 bagel']	0.286862480671
+['mr', '3 coffee cup']	['12.75 dollar']	0.0696933362217
+['mr', '3 coffee cup']	['mr.martin']	0.181282297147
+['mr', '3 coffee cup']	['cup']	0.722976565993
+['mr', '3 coffee cup']	['2 coffee cup']	0.687763202918
+['mr', '3 coffee cup']	['bagel']	0.0839825138332
+['mr', '3 coffee cup']	['5 bagel']	0.286862480671
+['mr', '3 coffee cup']	['dollar']	0.0460210948961
+['mr', '3 coffee cup']	['14.00 dollar']	0.0696933362217
+['mrs.martin', '3 coffee cup']	['mr']	0.380203067734
+['mrs.martin', '3 coffee cup']	['2 bagel']	0.362256416006
+['mrs.martin', '3 coffee cup']	['12.75 dollar']	0.0901100077042
+['mrs.martin', '3 coffee cup']	['mr.martin']	0.0888375395985
+['mrs.martin', '3 coffee cup']	['cup']	0.788763139598
+['mrs.martin', '3 coffee cup']	['2 coffee cup']	0.716899463012
+['mrs.martin', '3 coffee cup']	['bagel']	0.0668345157814
+['mrs.martin', '3 coffee cup']	['5 bagel']	0.362256416006
+['mrs.martin', '3 coffee cup']	['dollar']	0.00851929931405
+['mrs.martin', '3 coffee cup']	['14.00 dollar']	0.0901100077042
+['2 bagel', '3 coffee cup']	['mr']	0.148807562081
+['2 bagel', '3 coffee cup']	['mrs.martin']	0.158341398524
+['2 bagel', '3 coffee cup']	['12.75 dollar']	0.15961386663
+['2 bagel', '3 coffee cup']	['mr.martin']	0.158341398524
+['2 bagel', '3 coffee cup']	['cup']	0.87158050421
+['2 bagel', '3 coffee cup']	['2 coffee cup']	0.712838629179
+['2 bagel', '3 coffee cup']	['bagel']	0.664136953509
+['2 bagel', '3 coffee cup']	['5 bagel']	0.861862481018
+['2 bagel', '3 coffee cup']	['dollar']	0.00766280318302
+['2 bagel', '3 coffee cup']	['14.00 dollar']	0.15961386663
+['12.75 dollar', '3 coffee cup']	['mr']	0.148807562081
+['12.75 dollar', '3 coffee cup']	['mrs.martin']	0.158341398524
+['12.75 dollar', '3 coffee cup']	['2 bagel']	0.453327242541
+['12.75 dollar', '3 coffee cup']	['mr.martin']	0.158341398524
+['12.75 dollar', '3 coffee cup']	['cup']	0.885569992091
+['12.75 dollar', '3 coffee cup']	['2 coffee cup']	0.824752035523
+['12.75 dollar', '3 coffee cup']	['bagel']	0.0849006157974
+['12.75 dollar', '3 coffee cup']	['5 bagel']	0.453327242541
+['12.75 dollar', '3 coffee cup']	['dollar']	0.450583538774
+['12.75 dollar', '3 coffee cup']	['14.00 dollar']	0.653642048458
+['mr.martin', '3 coffee cup']	['mr']	0.380203067734
+['mr.martin', '3 coffee cup']	['mrs.martin']	0.0888375395985
+['mr.martin', '3 coffee cup']	['2 bagel']	0.362256416006
+['mr.martin', '3 coffee cup']	['12.75 dollar']	0.0901100077042
+['mr.martin', '3 coffee cup']	['cup']	0.788763139598
+['mr.martin', '3 coffee cup']	['2 coffee cup']	0.716899463012
+['mr.martin', '3 coffee cup']	['bagel']	0.0668345157814
+['mr.martin', '3 coffee cup']	['5 bagel']	0.362256416006
+['mr.martin', '3 coffee cup']	['dollar']	0.00851929931405
+['mr.martin', '3 coffee cup']	['14.00 dollar']	0.0901100077042
+['cup', '3 coffee cup']	['mr']	0.327802190328
+['cup', '3 coffee cup']	['mrs.martin']	0.311787219466
+['cup', '3 coffee cup']	['2 bagel']	0.605836169403
+['cup', '3 coffee cup']	['12.75 dollar']	0.247627320934
+['cup', '3 coffee cup']	['mr.martin']	0.311787219466
+['cup', '3 coffee cup']	['2 coffee cup']	0.633712660789
+['cup', '3 coffee cup']	['bagel']	0.583896474085
+['cup', '3 coffee cup']	['5 bagel']	0.605836169403
+['cup', '3 coffee cup']	['dollar']	0.34179584783
+['cup', '3 coffee cup']	['14.00 dollar']	0.247627320934
+['2 coffee cup', '3 coffee cup']	['mr']	0.326826928478
+['2 coffee cup', '3 coffee cup']	['mrs.martin']	0.314084527938
+['2 coffee cup', '3 coffee cup']	['2 bagel']	0.656313005721
+['2 coffee cup', '3 coffee cup']	['12.75 dollar']	0.127952343303
+['2 coffee cup', '3 coffee cup']	['mr.martin']	0.314084527938
+['2 coffee cup', '3 coffee cup']	['cup']	0.745428664985
+['2 coffee cup', '3 coffee cup']	['bagel']	0.335765908108
+['2 coffee cup', '3 coffee cup']	['5 bagel']	0.71455458354
+['2 coffee cup', '3 coffee cup']	['dollar']	0.235552145254
+['2 coffee cup', '3 coffee cup']	['14.00 dollar']	0.127952343303
+['bagel', '3 coffee cup']	['mr']	0.0846787826727
+['bagel', '3 coffee cup']	['mrs.martin']	0.0458913797609
+['bagel', '3 coffee cup']	['2 bagel']	0.756146019223
+['bagel', '3 coffee cup']	['12.75 dollar']	0.0465787639079
+['bagel', '3 coffee cup']	['mr.martin']	0.0458913797609
+['bagel', '3 coffee cup']	['cup']	0.698136229962
+['bagel', '3 coffee cup']	['2 coffee cup']	0.629939306423
+['bagel', '3 coffee cup']	['5 bagel']	0.756146019223
+['bagel', '3 coffee cup']	['dollar']	0.130638789903
+['bagel', '3 coffee cup']	['14.00 dollar']	0.0465787639079
+['5 bagel', '3 coffee cup']	['mr']	0.148807562081
+['5 bagel', '3 coffee cup']	['mrs.martin']	0.158341398524
+['5 bagel', '3 coffee cup']	['2 bagel']	0.861862481018
+['5 bagel', '3 coffee cup']	['12.75 dollar']	0.15961386663
+['5 bagel', '3 coffee cup']	['mr.martin']	0.158341398524
+['5 bagel', '3 coffee cup']	['cup']	0.87158050421
+['5 bagel', '3 coffee cup']	['2 coffee cup']	0.88146055982
+['5 bagel', '3 coffee cup']	['bagel']	0.664136953509
+['5 bagel', '3 coffee cup']	['dollar']	0.00766280318302
+['5 bagel', '3 coffee cup']	['14.00 dollar']	0.15961386663
+['dollar', '3 coffee cup']	['mr']	0.0401288657365
+['dollar', '3 coffee cup']	['mrs.martin']	0.0164595524146
+['dollar', '3 coffee cup']	['2 bagel']	0.107466656274
+['dollar', '3 coffee cup']	['12.75 dollar']	0.372791497313
+['dollar', '3 coffee cup']	['mr.martin']	0.0164595524146
+['dollar', '3 coffee cup']	['cup']	0.347861844397
+['dollar', '3 coffee cup']	['2 coffee cup']	0.385875757374
+['dollar', '3 coffee cup']	['bagel']	0.0773678664609
+['dollar', '3 coffee cup']	['5 bagel']	0.107466656274
+['dollar', '3 coffee cup']	['14.00 dollar']	0.372791497313
+['14.00 dollar', '3 coffee cup']	['mr']	0.148807562081
+['14.00 dollar', '3 coffee cup']	['mrs.martin']	0.158341398524
+['14.00 dollar', '3 coffee cup']	['2 bagel']	0.453327242541
+['14.00 dollar', '3 coffee cup']	['12.75 dollar']	0.653642048458
+['14.00 dollar', '3 coffee cup']	['mr.martin']	0.158341398524
+['14.00 dollar', '3 coffee cup']	['cup']	0.885569992091
+['14.00 dollar', '3 coffee cup']	['2 coffee cup']	0.824752035523
+['14.00 dollar', '3 coffee cup']	['bagel']	0.0849006157974
+['14.00 dollar', '3 coffee cup']	['5 bagel']	0.453327242541
+['14.00 dollar', '3 coffee cup']	['dollar']	0.450583538774
+['mr', '2 bagel']	['mrs.martin']	0.181282297147
+['mr', '2 bagel']	['3 coffee cup']	0.313714430192
+['mr', '2 bagel']	['12.75 dollar']	0.0696933362217
+['mr', '2 bagel']	['mr.martin']	0.181282297147
+['mr', '2 bagel']	['cup']	0.102313195437
+['mr', '2 bagel']	['2 coffee cup']	0.519340706117
+['mr', '2 bagel']	['bagel']	0.682510658136
+['mr', '2 bagel']	['5 bagel']	0.736313764211
+['mr', '2 bagel']	['dollar']	0.0232392551335
+['mr', '2 bagel']	['14.00 dollar']	0.0696933362217
+['mrs.martin', '2 bagel']	['mr']	0.225714531579
+['mrs.martin', '2 bagel']	['3 coffee cup']	0.33845188701
+['mrs.martin', '2 bagel']	['12.75 dollar']	0.0901100077042
+['mrs.martin', '2 bagel']	['mr.martin']	0.1191315107
+['mrs.martin', '2 bagel']	['cup']	0.11002432276
+['mrs.martin', '2 bagel']	['2 coffee cup']	0.544060379112
+['mrs.martin', '2 bagel']	['bagel']	0.715290200357
+['mrs.martin', '2 bagel']	['5 bagel']	0.760386850763
+['mrs.martin', '2 bagel']	['dollar']	0.00617587435403
+['mrs.martin', '2 bagel']	['14.00 dollar']	0.0901100077042
+['3 coffee cup', '2 bagel']	['mr']	0.148807562081
+['3 coffee cup', '2 bagel']	['mrs.martin']	0.158341398524
+['3 coffee cup', '2 bagel']	['12.75 dollar']	0.15961386663
+['3 coffee cup', '2 bagel']	['mr.martin']	0.158341398524
+['3 coffee cup', '2 bagel']	['cup']	0.87158050421
+['3 coffee cup', '2 bagel']	['2 coffee cup']	0.712838629179
+['3 coffee cup', '2 bagel']	['bagel']	0.664136953509
+['3 coffee cup', '2 bagel']	['5 bagel']	0.861862481018
+['3 coffee cup', '2 bagel']	['dollar']	0.00766280318302
+['3 coffee cup', '2 bagel']	['14.00 dollar']	0.15961386663
+['12.75 dollar', '2 bagel']	['mr']	0.079730351659
+['12.75 dollar', '2 bagel']	['mrs.martin']	0.0888375395985
+['12.75 dollar', '2 bagel']	['3 coffee cup']	0.335677399021
+['12.75 dollar', '2 bagel']	['mr.martin']	0.0888375395985
+['12.75 dollar', '2 bagel']	['cup']	0.105969303899
+['12.75 dollar', '2 bagel']	['2 coffee cup']	0.506763013357
+['12.75 dollar', '2 bagel']	['bagel']	0.487637290387
+['12.75 dollar', '2 bagel']	['5 bagel']	0.754360422532
+['12.75 dollar', '2 bagel']	['dollar']	0.282813310805
+['12.75 dollar', '2 bagel']	['14.00 dollar']	0.584269096576
+['mr.martin', '2 bagel']	['mr']	0.225714531579
+['mr.martin', '2 bagel']	['mrs.martin']	0.1191315107
+['mr.martin', '2 bagel']	['3 coffee cup']	0.33845188701
+['mr.martin', '2 bagel']	['12.75 dollar']	0.0901100077042
+['mr.martin', '2 bagel']	['cup']	0.11002432276
+['mr.martin', '2 bagel']	['2 coffee cup']	0.544060379112
+['mr.martin', '2 bagel']	['bagel']	0.715290200357
+['mr.martin', '2 bagel']	['5 bagel']	0.760386850763
+['mr.martin', '2 bagel']	['dollar']	0.00617587435403
+['mr.martin', '2 bagel']	['14.00 dollar']	0.0901100077042
+['cup', '2 bagel']	['mr']	0.102313195437
+['cup', '2 bagel']	['mrs.martin']	0.0993639400298
+['cup', '2 bagel']	['3 coffee cup']	0.802761623941
+['cup', '2 bagel']	['12.75 dollar']	0.103222748661
+['cup', '2 bagel']	['mr.martin']	0.0993639400298
+['cup', '2 bagel']	['2 coffee cup']	0.797245086492
+['cup', '2 bagel']	['bagel']	0.687115897353
+['cup', '2 bagel']	['5 bagel']	0.736313764211
+['cup', '2 bagel']	['dollar']	0.092218390564
+['cup', '2 bagel']	['14.00 dollar']	0.103222748661
+['2 coffee cup', '2 bagel']	['mr']	0.148807562081
+['2 coffee cup', '2 bagel']	['mrs.martin']	0.158341398524
+['2 coffee cup', '2 bagel']	['3 coffee cup']	0.88146055982
+['2 coffee cup', '2 bagel']	['12.75 dollar']	0.15961386663
+['2 coffee cup', '2 bagel']	['mr.martin']	0.158341398524
+['2 coffee cup', '2 bagel']	['cup']	0.87158050421
+['2 coffee cup', '2 bagel']	['bagel']	0.664136953509
+['2 coffee cup', '2 bagel']	['5 bagel']	0.861862481018
+['2 coffee cup', '2 bagel']	['dollar']	0.00766280318302
+['2 coffee cup', '2 bagel']	['14.00 dollar']	0.15961386663
+['bagel', '2 bagel']	['mr']	0.454000255032
+['bagel', '2 bagel']	['mrs.martin']	0.264731227956
+['bagel', '2 bagel']	['3 coffee cup']	0.638166711118
+['bagel', '2 bagel']	['12.75 dollar']	0.124609221473
+['bagel', '2 bagel']	['mr.martin']	0.264731227956
+['bagel', '2 bagel']	['cup']	0.583896474085
+['bagel', '2 bagel']	['2 coffee cup']	0.598088421834
+['bagel', '2 bagel']	['5 bagel']	0.897746033891
+['bagel', '2 bagel']	['dollar']	0.188972867521
+['bagel', '2 bagel']	['14.00 dollar']	0.124609221473
+['5 bagel', '2 bagel']	['mr']	0.328955830102
+['5 bagel', '2 bagel']	['mrs.martin']	0.325390866884
+['5 bagel', '2 bagel']	['3 coffee cup']	0.7450841911
+['5 bagel', '2 bagel']	['12.75 dollar']	0.139258682248
+['5 bagel', '2 bagel']	['mr.martin']	0.325390866884
+['5 bagel', '2 bagel']	['cup']	0.352570693243
+['5 bagel', '2 bagel']	['2 coffee cup']	0.592587968184
+['5 bagel', '2 bagel']	['bagel']	0.803701581411
+['5 bagel', '2 bagel']	['dollar']	0.116502537816
+['5 bagel', '2 bagel']	['14.00 dollar']	0.139258682248
+['dollar', '2 bagel']	['mr']	0.0401288657365
+['dollar', '2 bagel']	['mrs.martin']	0.0164595524146
+['dollar', '2 bagel']	['3 coffee cup']	0.253747175322
+['dollar', '2 bagel']	['12.75 dollar']	0.396616843835
+['dollar', '2 bagel']	['mr.martin']	0.0164595524146
+['dollar', '2 bagel']	['cup']	0.133560533536
+['dollar', '2 bagel']	['2 coffee cup']	0.254100289776
+['dollar', '2 bagel']	['bagel']	0.36699257862
+['dollar', '2 bagel']	['5 bagel']	0.267251620421
+['dollar', '2 bagel']	['14.00 dollar']	0.396616843835
+['14.00 dollar', '2 bagel']	['mr']	0.079730351659
+['14.00 dollar', '2 bagel']	['mrs.martin']	0.0888375395985
+['14.00 dollar', '2 bagel']	['3 coffee cup']	0.335677399021
+['14.00 dollar', '2 bagel']	['12.75 dollar']	0.584269096576
+['14.00 dollar', '2 bagel']	['mr.martin']	0.0888375395985
+['14.00 dollar', '2 bagel']	['cup']	0.105969303899
+['14.00 dollar', '2 bagel']	['2 coffee cup']	0.506763013357
+['14.00 dollar', '2 bagel']	['bagel']	0.487637290387
+['14.00 dollar', '2 bagel']	['5 bagel']	0.754360422532
+['14.00 dollar', '2 bagel']	['dollar']	0.282813310805
+['mr', '12.75 dollar']	['mrs.martin']	0.181282297147
+['mr', '12.75 dollar']	['3 coffee cup']	0.080802298149
+['mr', '12.75 dollar']	['2 bagel']	0.0696933362217
+['mr', '12.75 dollar']	['mr.martin']	0.181282297147
+['mr', '12.75 dollar']	['cup']	0.178249996384
+['mr', '12.75 dollar']	['2 coffee cup']	0.080802298149
+['mr', '12.75 dollar']	['bagel']	0.119621876581
+['mr', '12.75 dollar']	['5 bagel']	0.0696933362217
+['mr', '12.75 dollar']	['dollar']	0.514895375159
+['mr', '12.75 dollar']	['14.00 dollar']	0.488722073866
+['mrs.martin', '12.75 dollar']	['mr']	0.363536401068
+['mrs.martin', '12.75 dollar']	['3 coffee cup']	0.0920786332799
+['mrs.martin', '12.75 dollar']	['2 bagel']	0.0901100077042
+['mrs.martin', '12.75 dollar']	['mr.martin']	0.1191315107
+['mrs.martin', '12.75 dollar']	['cup']	0.190478636576
+['mrs.martin', '12.75 dollar']	['2 coffee cup']	0.0920786332799
+['mrs.martin', '12.75 dollar']	['bagel']	0.0844914223888
+['mrs.martin', '12.75 dollar']	['5 bagel']	0.0901100077042
+['mrs.martin', '12.75 dollar']	['dollar']	0.481113187585
+['mrs.martin', '12.75 dollar']	['14.00 dollar']	0.584269096576
+['3 coffee cup', '12.75 dollar']	['mr']	0.148807562081
+['3 coffee cup', '12.75 dollar']	['mrs.martin']	0.158341398524
+['3 coffee cup', '12.75 dollar']	['2 bagel']	0.453327242541
+['3 coffee cup', '12.75 dollar']	['mr.martin']	0.158341398524
+['3 coffee cup', '12.75 dollar']	['cup']	0.885569992091
+['3 coffee cup', '12.75 dollar']	['2 coffee cup']	0.824752035523
+['3 coffee cup', '12.75 dollar']	['bagel']	0.0849006157974
+['3 coffee cup', '12.75 dollar']	['5 bagel']	0.453327242541
+['3 coffee cup', '12.75 dollar']	['dollar']	0.450583538774
+['3 coffee cup', '12.75 dollar']	['14.00 dollar']	0.653642048458
+['2 bagel', '12.75 dollar']	['mr']	0.079730351659
+['2 bagel', '12.75 dollar']	['mrs.martin']	0.0888375395985
+['2 bagel', '12.75 dollar']	['3 coffee cup']	0.335677399021
+['2 bagel', '12.75 dollar']	['mr.martin']	0.0888375395985
+['2 bagel', '12.75 dollar']	['cup']	0.105969303899
+['2 bagel', '12.75 dollar']	['2 coffee cup']	0.506763013357
+['2 bagel', '12.75 dollar']	['bagel']	0.487637290387
+['2 bagel', '12.75 dollar']	['5 bagel']	0.754360422532
+['2 bagel', '12.75 dollar']	['dollar']	0.282813310805
+['2 bagel', '12.75 dollar']	['14.00 dollar']	0.584269096576
+['mr.martin', '12.75 dollar']	['mr']	0.363536401068
+['mr.martin', '12.75 dollar']	['mrs.martin']	0.1191315107
+['mr.martin', '12.75 dollar']	['3 coffee cup']	0.0920786332799
+['mr.martin', '12.75 dollar']	['2 bagel']	0.0901100077042
+['mr.martin', '12.75 dollar']	['cup']	0.190478636576
+['mr.martin', '12.75 dollar']	['2 coffee cup']	0.0920786332799
+['mr.martin', '12.75 dollar']	['bagel']	0.0844914223888
+['mr.martin', '12.75 dollar']	['5 bagel']	0.0901100077042
+['mr.martin', '12.75 dollar']	['dollar']	0.481113187585
+['mr.martin', '12.75 dollar']	['14.00 dollar']	0.584269096576
+['cup', '12.75 dollar']	['mr']	0.102313195437
+['cup', '12.75 dollar']	['mrs.martin']	0.0993639400298
+['cup', '12.75 dollar']	['3 coffee cup']	0.745167855836
+['cup', '12.75 dollar']	['2 bagel']	0.0696933362217
+['cup', '12.75 dollar']	['mr.martin']	0.0993639400298
+['cup', '12.75 dollar']	['2 coffee cup']	0.745167855836
+['cup', '12.75 dollar']	['bagel']	0.193771204187
+['cup', '12.75 dollar']	['5 bagel']	0.0696933362217
+['cup', '12.75 dollar']	['dollar']	0.488127268446
+['cup', '12.75 dollar']	['14.00 dollar']	0.525526174317
+['2 coffee cup', '12.75 dollar']	['mr']	0.148807562081
+['2 coffee cup', '12.75 dollar']	['mrs.martin']	0.158341398524
+['2 coffee cup', '12.75 dollar']	['3 coffee cup']	0.824752035523
+['2 coffee cup', '12.75 dollar']	['2 bagel']	0.601995725418
+['2 coffee cup', '12.75 dollar']	['mr.martin']	0.158341398524
+['2 coffee cup', '12.75 dollar']	['cup']	0.885569992091
+['2 coffee cup', '12.75 dollar']	['bagel']	0.0849006157974
+['2 coffee cup', '12.75 dollar']	['5 bagel']	0.453327242541
+['2 coffee cup', '12.75 dollar']	['dollar']	0.450583538774
+['2 coffee cup', '12.75 dollar']	['14.00 dollar']	0.653642048458
+['bagel', '12.75 dollar']	['mr']	0.119621876581
+['bagel', '12.75 dollar']	['mrs.martin']	0.076185350862
+['bagel', '12.75 dollar']	['3 coffee cup']	0.0518391118061
+['bagel', '12.75 dollar']	['2 bagel']	0.563299713372
+['bagel', '12.75 dollar']	['mr.martin']	0.076185350862
+['bagel', '12.75 dollar']	['cup']	0.367988714286
+['bagel', '12.75 dollar']	['2 coffee cup']	0.0518391118061
+['bagel', '12.75 dollar']	['5 bagel']	0.563299713372
+['bagel', '12.75 dollar']	['dollar']	0.372315466875
+['bagel', '12.75 dollar']	['14.00 dollar']	0.386916343381
+['5 bagel', '12.75 dollar']	['mr']	0.079730351659
+['5 bagel', '12.75 dollar']	['mrs.martin']	0.0888375395985
+['5 bagel', '12.75 dollar']	['3 coffee cup']	0.335677399021
+['5 bagel', '12.75 dollar']	['2 bagel']	0.754360422532
+['5 bagel', '12.75 dollar']	['mr.martin']	0.0888375395985
+['5 bagel', '12.75 dollar']	['cup']	0.105969303899
+['5 bagel', '12.75 dollar']	['2 coffee cup']	0.335677399021
+['5 bagel', '12.75 dollar']	['bagel']	0.487637290387
+['5 bagel', '12.75 dollar']	['dollar']	0.282813310805
+['5 bagel', '12.75 dollar']	['14.00 dollar']	0.584269096576
+['dollar', '12.75 dollar']	['mr']	0.222530074433
+['dollar', '12.75 dollar']	['mrs.martin']	0.180982030726
+['dollar', '12.75 dollar']	['3 coffee cup']	0.206488422783
+['dollar', '12.75 dollar']	['2 bagel']	0.0798131677782
+['dollar', '12.75 dollar']	['mr.martin']	0.180982030726
+['dollar', '12.75 dollar']	['cup']	0.420135558339
+['dollar', '12.75 dollar']	['2 coffee cup']	0.206488422783
+['dollar', '12.75 dollar']	['bagel']	0.260434312732
+['dollar', '12.75 dollar']	['5 bagel']	0.0798131677782
+['dollar', '12.75 dollar']	['14.00 dollar']	0.731253697846
+['14.00 dollar', '12.75 dollar']	['mr']	0.33665242287
+['14.00 dollar', '12.75 dollar']	['mrs.martin']	0.325390866884
+['14.00 dollar', '12.75 dollar']	['3 coffee cup']	0.297805101442
+['14.00 dollar', '12.75 dollar']	['2 bagel']	0.139258682248
+['14.00 dollar', '12.75 dollar']	['mr.martin']	0.325390866884
+['14.00 dollar', '12.75 dollar']	['cup']	0.51323626183
+['14.00 dollar', '12.75 dollar']	['2 coffee cup']	0.297805101442
+['14.00 dollar', '12.75 dollar']	['bagel']	0.283185314144
+['14.00 dollar', '12.75 dollar']	['5 bagel']	0.139258682248
+['14.00 dollar', '12.75 dollar']	['dollar']	0.743859484988
+['mr', 'mr.martin']	['mrs.martin']	0.154355073427
+['mr', 'mr.martin']	['3 coffee cup']	0.080802298149
+['mr', 'mr.martin']	['2 bagel']	0.0696933362217
+['mr', 'mr.martin']	['12.75 dollar']	0.0696933362217
+['mr', 'mr.martin']	['cup']	0.0767194630807
+['mr', 'mr.martin']	['2 coffee cup']	0.080802298149
+['mr', 'mr.martin']	['bagel']	0.0850831835176
+['mr', 'mr.martin']	['5 bagel']	0.0696933362217
+['mr', 'mr.martin']	['dollar']	0.0241916360859
+['mr', 'mr.martin']	['14.00 dollar']	0.0696933362217
+['mrs.martin', 'mr.martin']	['mr']	0.377128206764
+['mrs.martin', 'mr.martin']	['3 coffee cup']	0.0920786332799
+['mrs.martin', 'mr.martin']	['2 bagel']	0.0901100077042
+['mrs.martin', 'mr.martin']	['12.75 dollar']	0.0901100077042
+['mrs.martin', 'mr.martin']	['cup']	0.0865655370555
+['mrs.martin', 'mr.martin']	['2 coffee cup']	0.0920786332799
+['mrs.martin', 'mr.martin']	['bagel']	0.0545449409346
+['mrs.martin', 'mr.martin']	['5 bagel']	0.0901100077042
+['mrs.martin', 'mr.martin']	['dollar']	0.0108687908977
+['mrs.martin', 'mr.martin']	['14.00 dollar']	0.0901100077042
+['3 coffee cup', 'mr.martin']	['mr']	0.380203067734
+['3 coffee cup', 'mr.martin']	['mrs.martin']	0.0888375395985
+['3 coffee cup', 'mr.martin']	['2 bagel']	0.362256416006
+['3 coffee cup', 'mr.martin']	['12.75 dollar']	0.0901100077042
+['3 coffee cup', 'mr.martin']	['cup']	0.788763139598
+['3 coffee cup', 'mr.martin']	['2 coffee cup']	0.716899463012
+['3 coffee cup', 'mr.martin']	['bagel']	0.0668345157814
+['3 coffee cup', 'mr.martin']	['5 bagel']	0.362256416006
+['3 coffee cup', 'mr.martin']	['dollar']	0.00851929931405
+['3 coffee cup', 'mr.martin']	['14.00 dollar']	0.0901100077042
+['2 bagel', 'mr.martin']	['mr']	0.225714531579
+['2 bagel', 'mr.martin']	['mrs.martin']	0.1191315107
+['2 bagel', 'mr.martin']	['3 coffee cup']	0.33845188701
+['2 bagel', 'mr.martin']	['12.75 dollar']	0.0901100077042
+['2 bagel', 'mr.martin']	['cup']	0.11002432276
+['2 bagel', 'mr.martin']	['2 coffee cup']	0.544060379112
+['2 bagel', 'mr.martin']	['bagel']	0.715290200357
+['2 bagel', 'mr.martin']	['5 bagel']	0.760386850763
+['2 bagel', 'mr.martin']	['dollar']	0.00617587435403
+['2 bagel', 'mr.martin']	['14.00 dollar']	0.0901100077042
+['12.75 dollar', 'mr.martin']	['mr']	0.363536401068
+['12.75 dollar', 'mr.martin']	['mrs.martin']	0.1191315107
+['12.75 dollar', 'mr.martin']	['3 coffee cup']	0.0920786332799
+['12.75 dollar', 'mr.martin']	['2 bagel']	0.0901100077042
+['12.75 dollar', 'mr.martin']	['cup']	0.190478636576
+['12.75 dollar', 'mr.martin']	['2 coffee cup']	0.0920786332799
+['12.75 dollar', 'mr.martin']	['bagel']	0.0844914223888
+['12.75 dollar', 'mr.martin']	['5 bagel']	0.0901100077042
+['12.75 dollar', 'mr.martin']	['dollar']	0.481113187585
+['12.75 dollar', 'mr.martin']	['14.00 dollar']	0.584269096576
+['cup', 'mr.martin']	['mr']	0.217725036797
+['cup', 'mr.martin']	['mrs.martin']	0.0725183024459
+['cup', 'mr.martin']	['3 coffee cup']	0.734941791262
+['cup', 'mr.martin']	['2 bagel']	0.0696933362217
+['cup', 'mr.martin']	['12.75 dollar']	0.103222748661
+['cup', 'mr.martin']	['2 coffee cup']	0.734941791262
+['cup', 'mr.martin']	['bagel']	0.151415543974
+['cup', 'mr.martin']	['5 bagel']	0.0696933362217
+['cup', 'mr.martin']	['dollar']	0.0614430271225
+['cup', 'mr.martin']	['14.00 dollar']	0.103222748661
+['2 coffee cup', 'mr.martin']	['mr']	0.380203067734
+['2 coffee cup', 'mr.martin']	['mrs.martin']	0.0888375395985
+['2 coffee cup', 'mr.martin']	['3 coffee cup']	0.716899463012
+['2 coffee cup', 'mr.martin']	['2 bagel']	0.498338895266
+['2 coffee cup', 'mr.martin']	['12.75 dollar']	0.0901100077042
+['2 coffee cup', 'mr.martin']	['cup']	0.788763139598
+['2 coffee cup', 'mr.martin']	['bagel']	0.0668345157814
+['2 coffee cup', 'mr.martin']	['5 bagel']	0.362256416006
+['2 coffee cup', 'mr.martin']	['dollar']	0.00851929931405
+['2 coffee cup', 'mr.martin']	['14.00 dollar']	0.0901100077042
+['bagel', 'mr.martin']	['mr']	0.292705617355
+['bagel', 'mr.martin']	['mrs.martin']	0.0428520175287
+['bagel', 'mr.martin']	['3 coffee cup']	0.0518391118061
+['bagel', 'mr.martin']	['2 bagel']	0.562373787446
+['bagel', 'mr.martin']	['12.75 dollar']	0.0465787639079
+['bagel', 'mr.martin']	['cup']	0.151415543974
+['bagel', 'mr.martin']	['2 coffee cup']	0.0518391118061
+['bagel', 'mr.martin']	['5 bagel']	0.562373787446
+['bagel', 'mr.martin']	['dollar']	0.0344415306766
+['bagel', 'mr.martin']	['14.00 dollar']	0.0465787639079
+['5 bagel', 'mr.martin']	['mr']	0.225714531579
+['5 bagel', 'mr.martin']	['mrs.martin']	0.1191315107
+['5 bagel', 'mr.martin']	['3 coffee cup']	0.33845188701
+['5 bagel', 'mr.martin']	['2 bagel']	0.760386850763
+['5 bagel', 'mr.martin']	['12.75 dollar']	0.0901100077042
+['5 bagel', 'mr.martin']	['cup']	0.11002432276
+['5 bagel', 'mr.martin']	['2 coffee cup']	0.33845188701
+['5 bagel', 'mr.martin']	['bagel']	0.715290200357
+['5 bagel', 'mr.martin']	['dollar']	0.00617587435403
+['5 bagel', 'mr.martin']	['14.00 dollar']	0.0901100077042
+['dollar', 'mr.martin']	['mr']	0.210676138897
+['dollar', 'mr.martin']	['mrs.martin']	0.0164595524146
+['dollar', 'mr.martin']	['3 coffee cup']	0.026987674469
+['dollar', 'mr.martin']	['2 bagel']	0.0165341599722
+['dollar', 'mr.martin']	['12.75 dollar']	0.396616843835
+['dollar', 'mr.martin']	['cup']	0.0870382066568
+['dollar', 'mr.martin']	['2 coffee cup']	0.026987674469
+['dollar', 'mr.martin']	['bagel']	0.0452864383549
+['dollar', 'mr.martin']	['5 bagel']	0.0165341599722
+['dollar', 'mr.martin']	['14.00 dollar']	0.396616843835
+['14.00 dollar', 'mr.martin']	['mr']	0.363536401068
+['14.00 dollar', 'mr.martin']	['mrs.martin']	0.1191315107
+['14.00 dollar', 'mr.martin']	['3 coffee cup']	0.0920786332799
+['14.00 dollar', 'mr.martin']	['2 bagel']	0.0901100077042
+['14.00 dollar', 'mr.martin']	['12.75 dollar']	0.584269096576
+['14.00 dollar', 'mr.martin']	['cup']	0.190478636576
+['14.00 dollar', 'mr.martin']	['2 coffee cup']	0.0920786332799
+['14.00 dollar', 'mr.martin']	['bagel']	0.0844914223888
+['14.00 dollar', 'mr.martin']	['5 bagel']	0.0901100077042
+['14.00 dollar', 'mr.martin']	['dollar']	0.481113187585
+['mr', 'cup']	['mrs.martin']	0.185708698767
+['mr', 'cup']	['3 coffee cup']	0.75108282083
+['mr', 'cup']	['2 bagel']	0.131771183904
+['mr', 'cup']	['12.75 dollar']	0.159872896928
+['mr', 'cup']	['mr.martin']	0.185708698767
+['mr', 'cup']	['2 coffee cup']	0.75108282083
+['mr', 'cup']	['bagel']	0.187544983363
+['mr', 'cup']	['5 bagel']	0.131771183904
+['mr', 'cup']	['dollar']	0.0956581908018
+['mr', 'cup']	['14.00 dollar']	0.159872896928
+['mrs.martin', 'cup']	['mr']	0.217725036797
+['mrs.martin', 'cup']	['3 coffee cup']	0.734941791262
+['mrs.martin', 'cup']	['2 bagel']	0.0696933362217
+['mrs.martin', 'cup']	['12.75 dollar']	0.103222748661
+['mrs.martin', 'cup']	['mr.martin']	0.0725183024459
+['mrs.martin', 'cup']	['2 coffee cup']	0.734941791262
+['mrs.martin', 'cup']	['bagel']	0.151415543974
+['mrs.martin', 'cup']	['5 bagel']	0.0696933362217
+['mrs.martin', 'cup']	['dollar']	0.0614430271225
+['mrs.martin', 'cup']	['14.00 dollar']	0.103222748661
+['3 coffee cup', 'cup']	['mr']	0.327802190328
+['3 coffee cup', 'cup']	['mrs.martin']	0.311787219466
+['3 coffee cup', 'cup']	['2 bagel']	0.605836169403
+['3 coffee cup', 'cup']	['12.75 dollar']	0.247627320934
+['3 coffee cup', 'cup']	['mr.martin']	0.311787219466
+['3 coffee cup', 'cup']	['2 coffee cup']	0.633712660789
+['3 coffee cup', 'cup']	['bagel']	0.583896474085
+['3 coffee cup', 'cup']	['5 bagel']	0.605836169403
+['3 coffee cup', 'cup']	['dollar']	0.34179584783
+['3 coffee cup', 'cup']	['14.00 dollar']	0.247627320934
+['2 bagel', 'cup']	['mr']	0.102313195437
+['2 bagel', 'cup']	['mrs.martin']	0.0993639400298
+['2 bagel', 'cup']	['3 coffee cup']	0.802761623941
+['2 bagel', 'cup']	['12.75 dollar']	0.103222748661
+['2 bagel', 'cup']	['mr.martin']	0.0993639400298
+['2 bagel', 'cup']	['2 coffee cup']	0.797245086492
+['2 bagel', 'cup']	['bagel']	0.687115897353
+['2 bagel', 'cup']	['5 bagel']	0.736313764211
+['2 bagel', 'cup']	['dollar']	0.092218390564
+['2 bagel', 'cup']	['14.00 dollar']	0.103222748661
+['12.75 dollar', 'cup']	['mr']	0.102313195437
+['12.75 dollar', 'cup']	['mrs.martin']	0.0993639400298
+['12.75 dollar', 'cup']	['3 coffee cup']	0.745167855836
+['12.75 dollar', 'cup']	['2 bagel']	0.0696933362217
+['12.75 dollar', 'cup']	['mr.martin']	0.0993639400298
+['12.75 dollar', 'cup']	['2 coffee cup']	0.745167855836
+['12.75 dollar', 'cup']	['bagel']	0.193771204187
+['12.75 dollar', 'cup']	['5 bagel']	0.0696933362217
+['12.75 dollar', 'cup']	['dollar']	0.488127268446
+['12.75 dollar', 'cup']	['14.00 dollar']	0.525526174317
+['mr.martin', 'cup']	['mr']	0.217725036797
+['mr.martin', 'cup']	['mrs.martin']	0.0725183024459
+['mr.martin', 'cup']	['3 coffee cup']	0.734941791262
+['mr.martin', 'cup']	['2 bagel']	0.0696933362217
+['mr.martin', 'cup']	['12.75 dollar']	0.103222748661
+['mr.martin', 'cup']	['2 coffee cup']	0.734941791262
+['mr.martin', 'cup']	['bagel']	0.151415543974
+['mr.martin', 'cup']	['5 bagel']	0.0696933362217
+['mr.martin', 'cup']	['dollar']	0.0614430271225
+['mr.martin', 'cup']	['14.00 dollar']	0.103222748661
+['2 coffee cup', 'cup']	['mr']	0.327802190328
+['2 coffee cup', 'cup']	['mrs.martin']	0.311787219466
+['2 coffee cup', 'cup']	['3 coffee cup']	0.633712660789
+['2 coffee cup', 'cup']	['2 bagel']	0.646762554547
+['2 coffee cup', 'cup']	['12.75 dollar']	0.247627320934
+['2 coffee cup', 'cup']	['mr.martin']	0.311787219466
+['2 coffee cup', 'cup']	['bagel']	0.583896474085
+['2 coffee cup', 'cup']	['5 bagel']	0.605836169403
+['2 coffee cup', 'cup']	['dollar']	0.34179584783
+['2 coffee cup', 'cup']	['14.00 dollar']	0.247627320934
+['bagel', 'cup']	['mr']	0.142422392939
+['bagel', 'cup']	['mrs.martin']	0.104929865211
+['bagel', 'cup']	['3 coffee cup']	0.751921064571
+['bagel', 'cup']	['2 bagel']	0.577884473542
+['bagel', 'cup']	['12.75 dollar']	0.113044120838
+['bagel', 'cup']	['mr.martin']	0.104929865211
+['bagel', 'cup']	['2 coffee cup']	0.751921064571
+['bagel', 'cup']	['5 bagel']	0.577884473542
+['bagel', 'cup']	['dollar']	0.0755654051731
+['bagel', 'cup']	['14.00 dollar']	0.113044120838
+['5 bagel', 'cup']	['mr']	0.102313195437
+['5 bagel', 'cup']	['mrs.martin']	0.0993639400298
+['5 bagel', 'cup']	['3 coffee cup']	0.802761623941
+['5 bagel', 'cup']	['2 bagel']	0.736313764211
+['5 bagel', 'cup']	['12.75 dollar']	0.103222748661
+['5 bagel', 'cup']	['mr.martin']	0.0993639400298
+['5 bagel', 'cup']	['2 coffee cup']	0.802761623941
+['5 bagel', 'cup']	['bagel']	0.687115897353
+['5 bagel', 'cup']	['dollar']	0.092218390564
+['5 bagel', 'cup']	['14.00 dollar']	0.103222748661
+['dollar', 'cup']	['mr']	0.0962627154283
+['dollar', 'cup']	['mrs.martin']	0.0785374000965
+['dollar', 'cup']	['3 coffee cup']	0.367196291047
+['dollar', 'cup']	['2 bagel']	0.0786120076541
+['dollar', 'cup']	['12.75 dollar']	0.49960973809
+['dollar', 'cup']	['mr.martin']	0.0785374000965
+['dollar', 'cup']	['2 coffee cup']	0.367196291047
+['dollar', 'cup']	['bagel']	0.107745405526
+['dollar', 'cup']	['5 bagel']	0.0786120076541
+['dollar', 'cup']	['14.00 dollar']	0.49960973809
+['14.00 dollar', 'cup']	['mr']	0.102313195437
+['14.00 dollar', 'cup']	['mrs.martin']	0.0993639400298
+['14.00 dollar', 'cup']	['3 coffee cup']	0.745167855836
+['14.00 dollar', 'cup']	['2 bagel']	0.0696933362217
+['14.00 dollar', 'cup']	['12.75 dollar']	0.525526174317
+['14.00 dollar', 'cup']	['mr.martin']	0.0993639400298
+['14.00 dollar', 'cup']	['2 coffee cup']	0.745167855836
+['14.00 dollar', 'cup']	['bagel']	0.193771204187
+['14.00 dollar', 'cup']	['5 bagel']	0.0696933362217
+['14.00 dollar', 'cup']	['dollar']	0.488127268446
+['mr', '2 coffee cup']	['mrs.martin']	0.181282297147
+['mr', '2 coffee cup']	['3 coffee cup']	0.687763202918
+['mr', '2 coffee cup']	['2 bagel']	0.488536941378
+['mr', '2 coffee cup']	['12.75 dollar']	0.0696933362217
+['mr', '2 coffee cup']	['mr.martin']	0.181282297147
+['mr', '2 coffee cup']	['cup']	0.722976565993
+['mr', '2 coffee cup']	['bagel']	0.0839825138332
+['mr', '2 coffee cup']	['5 bagel']	0.286862480671
+['mr', '2 coffee cup']	['dollar']	0.0460210948961
+['mr', '2 coffee cup']	['14.00 dollar']	0.0696933362217
+['mrs.martin', '2 coffee cup']	['mr']	0.380203067734
+['mrs.martin', '2 coffee cup']	['3 coffee cup']	0.716899463012
+['mrs.martin', '2 coffee cup']	['2 bagel']	0.498338895266
+['mrs.martin', '2 coffee cup']	['12.75 dollar']	0.0901100077042
+['mrs.martin', '2 coffee cup']	['mr.martin']	0.0888375395985
+['mrs.martin', '2 coffee cup']	['cup']	0.788763139598
+['mrs.martin', '2 coffee cup']	['bagel']	0.0668345157814
+['mrs.martin', '2 coffee cup']	['5 bagel']	0.362256416006
+['mrs.martin', '2 coffee cup']	['dollar']	0.00851929931405
+['mrs.martin', '2 coffee cup']	['14.00 dollar']	0.0901100077042
+['3 coffee cup', '2 coffee cup']	['mr']	0.326826928478
+['3 coffee cup', '2 coffee cup']	['mrs.martin']	0.314084527938
+['3 coffee cup', '2 coffee cup']	['2 bagel']	0.656313005721
+['3 coffee cup', '2 coffee cup']	['12.75 dollar']	0.127952343303
+['3 coffee cup', '2 coffee cup']	['mr.martin']	0.314084527938
+['3 coffee cup', '2 coffee cup']	['cup']	0.745428664985
+['3 coffee cup', '2 coffee cup']	['bagel']	0.335765908108
+['3 coffee cup', '2 coffee cup']	['5 bagel']	0.71455458354
+['3 coffee cup', '2 coffee cup']	['dollar']	0.235552145254
+['3 coffee cup', '2 coffee cup']	['14.00 dollar']	0.127952343303
+['2 bagel', '2 coffee cup']	['mr']	0.148807562081
+['2 bagel', '2 coffee cup']	['mrs.martin']	0.158341398524
+['2 bagel', '2 coffee cup']	['3 coffee cup']	0.88146055982
+['2 bagel', '2 coffee cup']	['12.75 dollar']	0.15961386663
+['2 bagel', '2 coffee cup']	['mr.martin']	0.158341398524
+['2 bagel', '2 coffee cup']	['cup']	0.87158050421
+['2 bagel', '2 coffee cup']	['bagel']	0.664136953509
+['2 bagel', '2 coffee cup']	['5 bagel']	0.861862481018
+['2 bagel', '2 coffee cup']	['dollar']	0.00766280318302
+['2 bagel', '2 coffee cup']	['14.00 dollar']	0.15961386663
+['12.75 dollar', '2 coffee cup']	['mr']	0.148807562081
+['12.75 dollar', '2 coffee cup']	['mrs.martin']	0.158341398524
+['12.75 dollar', '2 coffee cup']	['3 coffee cup']	0.824752035523
+['12.75 dollar', '2 coffee cup']	['2 bagel']	0.601995725418
+['12.75 dollar', '2 coffee cup']	['mr.martin']	0.158341398524
+['12.75 dollar', '2 coffee cup']	['cup']	0.885569992091
+['12.75 dollar', '2 coffee cup']	['bagel']	0.0849006157974
+['12.75 dollar', '2 coffee cup']	['5 bagel']	0.453327242541
+['12.75 dollar', '2 coffee cup']	['dollar']	0.450583538774
+['12.75 dollar', '2 coffee cup']	['14.00 dollar']	0.653642048458
+['mr.martin', '2 coffee cup']	['mr']	0.380203067734
+['mr.martin', '2 coffee cup']	['mrs.martin']	0.0888375395985
+['mr.martin', '2 coffee cup']	['3 coffee cup']	0.716899463012
+['mr.martin', '2 coffee cup']	['2 bagel']	0.498338895266
+['mr.martin', '2 coffee cup']	['12.75 dollar']	0.0901100077042
+['mr.martin', '2 coffee cup']	['cup']	0.788763139598
+['mr.martin', '2 coffee cup']	['bagel']	0.0668345157814
+['mr.martin', '2 coffee cup']	['5 bagel']	0.362256416006
+['mr.martin', '2 coffee cup']	['dollar']	0.00851929931405
+['mr.martin', '2 coffee cup']	['14.00 dollar']	0.0901100077042
+['cup', '2 coffee cup']	['mr']	0.327802190328
+['cup', '2 coffee cup']	['mrs.martin']	0.311787219466
+['cup', '2 coffee cup']	['3 coffee cup']	0.633712660789
+['cup', '2 coffee cup']	['2 bagel']	0.646762554547
+['cup', '2 coffee cup']	['12.75 dollar']	0.247627320934
+['cup', '2 coffee cup']	['mr.martin']	0.311787219466
+['cup', '2 coffee cup']	['bagel']	0.583896474085
+['cup', '2 coffee cup']	['5 bagel']	0.605836169403
+['cup', '2 coffee cup']	['dollar']	0.34179584783
+['cup', '2 coffee cup']	['14.00 dollar']	0.247627320934
+['bagel', '2 coffee cup']	['mr']	0.0846787826727
+['bagel', '2 coffee cup']	['mrs.martin']	0.0458913797609
+['bagel', '2 coffee cup']	['3 coffee cup']	0.629939306423
+['bagel', '2 coffee cup']	['2 bagel']	0.783792658124
+['bagel', '2 coffee cup']	['12.75 dollar']	0.0465787639079
+['bagel', '2 coffee cup']	['mr.martin']	0.0458913797609
+['bagel', '2 coffee cup']	['cup']	0.698136229962
+['bagel', '2 coffee cup']	['5 bagel']	0.756146019223
+['bagel', '2 coffee cup']	['dollar']	0.130638789903
+['bagel', '2 coffee cup']	['14.00 dollar']	0.0465787639079
+['5 bagel', '2 coffee cup']	['mr']	0.148807562081
+['5 bagel', '2 coffee cup']	['mrs.martin']	0.158341398524
+['5 bagel', '2 coffee cup']	['3 coffee cup']	0.88146055982
+['5 bagel', '2 coffee cup']	['2 bagel']	0.70795490458
+['5 bagel', '2 coffee cup']	['12.75 dollar']	0.15961386663
+['5 bagel', '2 coffee cup']	['mr.martin']	0.158341398524
+['5 bagel', '2 coffee cup']	['cup']	0.87158050421
+['5 bagel', '2 coffee cup']	['bagel']	0.664136953509
+['5 bagel', '2 coffee cup']	['dollar']	0.00766280318302
+['5 bagel', '2 coffee cup']	['14.00 dollar']	0.15961386663
+['dollar', '2 coffee cup']	['mr']	0.0401288657365
+['dollar', '2 coffee cup']	['mrs.martin']	0.0164595524146
+['dollar', '2 coffee cup']	['3 coffee cup']	0.385875757374
+['dollar', '2 coffee cup']	['2 bagel']	0.201598352121
+['dollar', '2 coffee cup']	['12.75 dollar']	0.372791497313
+['dollar', '2 coffee cup']	['mr.martin']	0.0164595524146
+['dollar', '2 coffee cup']	['cup']	0.347861844397
+['dollar', '2 coffee cup']	['bagel']	0.0773678664609
+['dollar', '2 coffee cup']	['5 bagel']	0.107466656274
+['dollar', '2 coffee cup']	['14.00 dollar']	0.372791497313
+['14.00 dollar', '2 coffee cup']	['mr']	0.148807562081
+['14.00 dollar', '2 coffee cup']	['mrs.martin']	0.158341398524
+['14.00 dollar', '2 coffee cup']	['3 coffee cup']	0.824752035523
+['14.00 dollar', '2 coffee cup']	['2 bagel']	0.601995725418
+['14.00 dollar', '2 coffee cup']	['12.75 dollar']	0.653642048458
+['14.00 dollar', '2 coffee cup']	['mr.martin']	0.158341398524
+['14.00 dollar', '2 coffee cup']	['cup']	0.885569992091
+['14.00 dollar', '2 coffee cup']	['bagel']	0.0849006157974
+['14.00 dollar', '2 coffee cup']	['5 bagel']	0.453327242541
+['14.00 dollar', '2 coffee cup']	['dollar']	0.450583538774
+['mr', 'bagel']	['mrs.martin']	0.168709981103
+['mr', 'bagel']	['3 coffee cup']	0.119628773358
+['mr', 'bagel']	['2 bagel']	0.562373787446
+['mr', 'bagel']	['12.75 dollar']	0.10865661159
+['mr', 'bagel']	['mr.martin']	0.168709981103
+['mr', 'bagel']	['cup']	0.194143558025
+['mr', 'bagel']	['2 coffee cup']	0.119628773358
+['mr', 'bagel']	['5 bagel']	0.562373787446
+['mr', 'bagel']	['dollar']	0.0901026352463
+['mr', 'bagel']	['14.00 dollar']	0.10865661159
+['mrs.martin', 'bagel']	['mr']	0.292705617355
+['mrs.martin', 'bagel']	['3 coffee cup']	0.0518391118061
+['mrs.martin', 'bagel']	['2 bagel']	0.562373787446
+['mrs.martin', 'bagel']	['12.75 dollar']	0.0465787639079
+['mrs.martin', 'bagel']	['mr.martin']	0.0428520175287
+['mrs.martin', 'bagel']	['cup']	0.151415543974
+['mrs.martin', 'bagel']	['2 coffee cup']	0.0518391118061
+['mrs.martin', 'bagel']	['5 bagel']	0.562373787446
+['mrs.martin', 'bagel']	['dollar']	0.0344415306766
+['mrs.martin', 'bagel']	['14.00 dollar']	0.0465787639079
+['3 coffee cup', 'bagel']	['mr']	0.0846787826727
+['3 coffee cup', 'bagel']	['mrs.martin']	0.0458913797609
+['3 coffee cup', 'bagel']	['2 bagel']	0.756146019223
+['3 coffee cup', 'bagel']	['12.75 dollar']	0.0465787639079
+['3 coffee cup', 'bagel']	['mr.martin']	0.0458913797609
+['3 coffee cup', 'bagel']	['cup']	0.698136229962
+['3 coffee cup', 'bagel']	['2 coffee cup']	0.629939306423
+['3 coffee cup', 'bagel']	['5 bagel']	0.756146019223
+['3 coffee cup', 'bagel']	['dollar']	0.130638789903
+['3 coffee cup', 'bagel']	['14.00 dollar']	0.0465787639079
+['2 bagel', 'bagel']	['mr']	0.454000255032
+['2 bagel', 'bagel']	['mrs.martin']	0.264731227956
+['2 bagel', 'bagel']	['3 coffee cup']	0.638166711118
+['2 bagel', 'bagel']	['12.75 dollar']	0.124609221473
+['2 bagel', 'bagel']	['mr.martin']	0.264731227956
+['2 bagel', 'bagel']	['cup']	0.583896474085
+['2 bagel', 'bagel']	['2 coffee cup']	0.598088421834
+['2 bagel', 'bagel']	['5 bagel']	0.897746033891
+['2 bagel', 'bagel']	['dollar']	0.188972867521
+['2 bagel', 'bagel']	['14.00 dollar']	0.124609221473
+['12.75 dollar', 'bagel']	['mr']	0.119621876581
+['12.75 dollar', 'bagel']	['mrs.martin']	0.076185350862
+['12.75 dollar', 'bagel']	['3 coffee cup']	0.0518391118061
+['12.75 dollar', 'bagel']	['2 bagel']	0.563299713372
+['12.75 dollar', 'bagel']	['mr.martin']	0.076185350862
+['12.75 dollar', 'bagel']	['cup']	0.367988714286
+['12.75 dollar', 'bagel']	['2 coffee cup']	0.0518391118061
+['12.75 dollar', 'bagel']	['5 bagel']	0.563299713372
+['12.75 dollar', 'bagel']	['dollar']	0.372315466875
+['12.75 dollar', 'bagel']	['14.00 dollar']	0.386916343381
+['mr.martin', 'bagel']	['mr']	0.292705617355
+['mr.martin', 'bagel']	['mrs.martin']	0.0428520175287
+['mr.martin', 'bagel']	['3 coffee cup']	0.0518391118061
+['mr.martin', 'bagel']	['2 bagel']	0.562373787446
+['mr.martin', 'bagel']	['12.75 dollar']	0.0465787639079
+['mr.martin', 'bagel']	['cup']	0.151415543974
+['mr.martin', 'bagel']	['2 coffee cup']	0.0518391118061
+['mr.martin', 'bagel']	['5 bagel']	0.562373787446
+['mr.martin', 'bagel']	['dollar']	0.0344415306766
+['mr.martin', 'bagel']	['14.00 dollar']	0.0465787639079
+['cup', 'bagel']	['mr']	0.142422392939
+['cup', 'bagel']	['mrs.martin']	0.104929865211
+['cup', 'bagel']	['3 coffee cup']	0.751921064571
+['cup', 'bagel']	['2 bagel']	0.577884473542
+['cup', 'bagel']	['12.75 dollar']	0.113044120838
+['cup', 'bagel']	['mr.martin']	0.104929865211
+['cup', 'bagel']	['2 coffee cup']	0.751921064571
+['cup', 'bagel']	['5 bagel']	0.577884473542
+['cup', 'bagel']	['dollar']	0.0755654051731
+['cup', 'bagel']	['14.00 dollar']	0.113044120838
+['2 coffee cup', 'bagel']	['mr']	0.0846787826727
+['2 coffee cup', 'bagel']	['mrs.martin']	0.0458913797609
+['2 coffee cup', 'bagel']	['3 coffee cup']	0.629939306423
+['2 coffee cup', 'bagel']	['2 bagel']	0.783792658124
+['2 coffee cup', 'bagel']	['12.75 dollar']	0.0465787639079
+['2 coffee cup', 'bagel']	['mr.martin']	0.0458913797609
+['2 coffee cup', 'bagel']	['cup']	0.698136229962
+['2 coffee cup', 'bagel']	['5 bagel']	0.756146019223
+['2 coffee cup', 'bagel']	['dollar']	0.130638789903
+['2 coffee cup', 'bagel']	['14.00 dollar']	0.0465787639079
+['5 bagel', 'bagel']	['mr']	0.454000255032
+['5 bagel', 'bagel']	['mrs.martin']	0.264731227956
+['5 bagel', 'bagel']	['3 coffee cup']	0.638166711118
+['5 bagel', 'bagel']	['2 bagel']	0.897746033891
+['5 bagel', 'bagel']	['12.75 dollar']	0.124609221473
+['5 bagel', 'bagel']	['mr.martin']	0.264731227956
+['5 bagel', 'bagel']	['cup']	0.583896474085
+['5 bagel', 'bagel']	['2 coffee cup']	0.638166711118
+['5 bagel', 'bagel']	['dollar']	0.188972867521
+['5 bagel', 'bagel']	['14.00 dollar']	0.124609221473
+['dollar', 'bagel']	['mr']	0.0774147422748
+['dollar', 'bagel']	['mrs.martin']	0.0785374000965
+['dollar', 'bagel']	['3 coffee cup']	0.0836378227365
+['dollar', 'bagel']	['2 bagel']	0.250977364416
+['dollar', 'bagel']	['12.75 dollar']	0.408145273673
+['dollar', 'bagel']	['mr.martin']	0.0785374000965
+['dollar', 'bagel']	['cup']	0.118603573296
+['dollar', 'bagel']	['2 coffee cup']	0.0836378227365
+['dollar', 'bagel']	['5 bagel']	0.250977364416
+['dollar', 'bagel']	['14.00 dollar']	0.408145273673
+['14.00 dollar', 'bagel']	['mr']	0.119621876581
+['14.00 dollar', 'bagel']	['mrs.martin']	0.076185350862
+['14.00 dollar', 'bagel']	['3 coffee cup']	0.0518391118061
+['14.00 dollar', 'bagel']	['2 bagel']	0.563299713372
+['14.00 dollar', 'bagel']	['12.75 dollar']	0.386916343381
+['14.00 dollar', 'bagel']	['mr.martin']	0.076185350862
+['14.00 dollar', 'bagel']	['cup']	0.367988714286
+['14.00 dollar', 'bagel']	['2 coffee cup']	0.0518391118061
+['14.00 dollar', 'bagel']	['5 bagel']	0.563299713372
+['14.00 dollar', 'bagel']	['dollar']	0.372315466875
+['mr', '5 bagel']	['mrs.martin']	0.181282297147
+['mr', '5 bagel']	['3 coffee cup']	0.313714430192
+['mr', '5 bagel']	['2 bagel']	0.736313764211
+['mr', '5 bagel']	['12.75 dollar']	0.0696933362217
+['mr', '5 bagel']	['mr.martin']	0.181282297147
+['mr', '5 bagel']	['cup']	0.102313195437
+['mr', '5 bagel']	['2 coffee cup']	0.313714430192
+['mr', '5 bagel']	['bagel']	0.682510658136
+['mr', '5 bagel']	['dollar']	0.0232392551335
+['mr', '5 bagel']	['14.00 dollar']	0.0696933362217
+['mrs.martin', '5 bagel']	['mr']	0.225714531579
+['mrs.martin', '5 bagel']	['3 coffee cup']	0.33845188701
+['mrs.martin', '5 bagel']	['2 bagel']	0.760386850763
+['mrs.martin', '5 bagel']	['12.75 dollar']	0.0901100077042
+['mrs.martin', '5 bagel']	['mr.martin']	0.1191315107
+['mrs.martin', '5 bagel']	['cup']	0.11002432276
+['mrs.martin', '5 bagel']	['2 coffee cup']	0.33845188701
+['mrs.martin', '5 bagel']	['bagel']	0.715290200357
+['mrs.martin', '5 bagel']	['dollar']	0.00617587435403
+['mrs.martin', '5 bagel']	['14.00 dollar']	0.0901100077042
+['3 coffee cup', '5 bagel']	['mr']	0.148807562081
+['3 coffee cup', '5 bagel']	['mrs.martin']	0.158341398524
+['3 coffee cup', '5 bagel']	['2 bagel']	0.861862481018
+['3 coffee cup', '5 bagel']	['12.75 dollar']	0.15961386663
+['3 coffee cup', '5 bagel']	['mr.martin']	0.158341398524
+['3 coffee cup', '5 bagel']	['cup']	0.87158050421
+['3 coffee cup', '5 bagel']	['2 coffee cup']	0.88146055982
+['3 coffee cup', '5 bagel']	['bagel']	0.664136953509
+['3 coffee cup', '5 bagel']	['dollar']	0.00766280318302
+['3 coffee cup', '5 bagel']	['14.00 dollar']	0.15961386663
+['2 bagel', '5 bagel']	['mr']	0.328955830102
+['2 bagel', '5 bagel']	['mrs.martin']	0.325390866884
+['2 bagel', '5 bagel']	['3 coffee cup']	0.7450841911
+['2 bagel', '5 bagel']	['12.75 dollar']	0.139258682248
+['2 bagel', '5 bagel']	['mr.martin']	0.325390866884
+['2 bagel', '5 bagel']	['cup']	0.352570693243
+['2 bagel', '5 bagel']	['2 coffee cup']	0.592587968184
+['2 bagel', '5 bagel']	['bagel']	0.803701581411
+['2 bagel', '5 bagel']	['dollar']	0.116502537816
+['2 bagel', '5 bagel']	['14.00 dollar']	0.139258682248
+['12.75 dollar', '5 bagel']	['mr']	0.079730351659
+['12.75 dollar', '5 bagel']	['mrs.martin']	0.0888375395985
+['12.75 dollar', '5 bagel']	['3 coffee cup']	0.335677399021
+['12.75 dollar', '5 bagel']	['2 bagel']	0.754360422532
+['12.75 dollar', '5 bagel']	['mr.martin']	0.0888375395985
+['12.75 dollar', '5 bagel']	['cup']	0.105969303899
+['12.75 dollar', '5 bagel']	['2 coffee cup']	0.335677399021
+['12.75 dollar', '5 bagel']	['bagel']	0.487637290387
+['12.75 dollar', '5 bagel']	['dollar']	0.282813310805
+['12.75 dollar', '5 bagel']	['14.00 dollar']	0.584269096576
+['mr.martin', '5 bagel']	['mr']	0.225714531579
+['mr.martin', '5 bagel']	['mrs.martin']	0.1191315107
+['mr.martin', '5 bagel']	['3 coffee cup']	0.33845188701
+['mr.martin', '5 bagel']	['2 bagel']	0.760386850763
+['mr.martin', '5 bagel']	['12.75 dollar']	0.0901100077042
+['mr.martin', '5 bagel']	['cup']	0.11002432276
+['mr.martin', '5 bagel']	['2 coffee cup']	0.33845188701
+['mr.martin', '5 bagel']	['bagel']	0.715290200357
+['mr.martin', '5 bagel']	['dollar']	0.00617587435403
+['mr.martin', '5 bagel']	['14.00 dollar']	0.0901100077042
+['cup', '5 bagel']	['mr']	0.102313195437
+['cup', '5 bagel']	['mrs.martin']	0.0993639400298
+['cup', '5 bagel']	['3 coffee cup']	0.802761623941
+['cup', '5 bagel']	['2 bagel']	0.736313764211
+['cup', '5 bagel']	['12.75 dollar']	0.103222748661
+['cup', '5 bagel']	['mr.martin']	0.0993639400298
+['cup', '5 bagel']	['2 coffee cup']	0.802761623941
+['cup', '5 bagel']	['bagel']	0.687115897353
+['cup', '5 bagel']	['dollar']	0.092218390564
+['cup', '5 bagel']	['14.00 dollar']	0.103222748661
+['2 coffee cup', '5 bagel']	['mr']	0.148807562081
+['2 coffee cup', '5 bagel']	['mrs.martin']	0.158341398524
+['2 coffee cup', '5 bagel']	['3 coffee cup']	0.88146055982
+['2 coffee cup', '5 bagel']	['2 bagel']	0.70795490458
+['2 coffee cup', '5 bagel']	['12.75 dollar']	0.15961386663
+['2 coffee cup', '5 bagel']	['mr.martin']	0.158341398524
+['2 coffee cup', '5 bagel']	['cup']	0.87158050421
+['2 coffee cup', '5 bagel']	['bagel']	0.664136953509
+['2 coffee cup', '5 bagel']	['dollar']	0.00766280318302
+['2 coffee cup', '5 bagel']	['14.00 dollar']	0.15961386663
+['bagel', '5 bagel']	['mr']	0.454000255032
+['bagel', '5 bagel']	['mrs.martin']	0.264731227956
+['bagel', '5 bagel']	['3 coffee cup']	0.638166711118
+['bagel', '5 bagel']	['2 bagel']	0.897746033891
+['bagel', '5 bagel']	['12.75 dollar']	0.124609221473
+['bagel', '5 bagel']	['mr.martin']	0.264731227956
+['bagel', '5 bagel']	['cup']	0.583896474085
+['bagel', '5 bagel']	['2 coffee cup']	0.638166711118
+['bagel', '5 bagel']	['dollar']	0.188972867521
+['bagel', '5 bagel']	['14.00 dollar']	0.124609221473
+['dollar', '5 bagel']	['mr']	0.0401288657365
+['dollar', '5 bagel']	['mrs.martin']	0.0164595524146
+['dollar', '5 bagel']	['3 coffee cup']	0.253747175322
+['dollar', '5 bagel']	['2 bagel']	0.267251620421
+['dollar', '5 bagel']	['12.75 dollar']	0.396616843835
+['dollar', '5 bagel']	['mr.martin']	0.0164595524146
+['dollar', '5 bagel']	['cup']	0.133560533536
+['dollar', '5 bagel']	['2 coffee cup']	0.253747175322
+['dollar', '5 bagel']	['bagel']	0.36699257862
+['dollar', '5 bagel']	['14.00 dollar']	0.396616843835
+['14.00 dollar', '5 bagel']	['mr']	0.079730351659
+['14.00 dollar', '5 bagel']	['mrs.martin']	0.0888375395985
+['14.00 dollar', '5 bagel']	['3 coffee cup']	0.335677399021
+['14.00 dollar', '5 bagel']	['2 bagel']	0.754360422532
+['14.00 dollar', '5 bagel']	['12.75 dollar']	0.584269096576
+['14.00 dollar', '5 bagel']	['mr.martin']	0.0888375395985
+['14.00 dollar', '5 bagel']	['cup']	0.105969303899
+['14.00 dollar', '5 bagel']	['2 coffee cup']	0.335677399021
+['14.00 dollar', '5 bagel']	['bagel']	0.487637290387
+['14.00 dollar', '5 bagel']	['dollar']	0.282813310805
+['mr', 'dollar']	['mrs.martin']	0.151777319902
+['mr', 'dollar']	['3 coffee cup']	0.0836378227365
+['mr', 'dollar']	['2 bagel']	0.0786120076541
+['mr', 'dollar']	['12.75 dollar']	0.408145273673
+['mr', 'dollar']	['mr.martin']	0.151777319902
+['mr', 'dollar']	['cup']	0.149116054339
+['mr', 'dollar']	['2 coffee cup']	0.0836378227365
+['mr', 'dollar']	['bagel']	0.0962627154283
+['mr', 'dollar']	['5 bagel']	0.0786120076541
+['mr', 'dollar']	['14.00 dollar']	0.408145273673
+['mrs.martin', 'dollar']	['mr']	0.210676138897
+['mrs.martin', 'dollar']	['3 coffee cup']	0.026987674469
+['mrs.martin', 'dollar']	['2 bagel']	0.0165341599722
+['mrs.martin', 'dollar']	['12.75 dollar']	0.396616843835
+['mrs.martin', 'dollar']	['mr.martin']	0.0164595524146
+['mrs.martin', 'dollar']	['cup']	0.0870382066568
+['mrs.martin', 'dollar']	['2 coffee cup']	0.026987674469
+['mrs.martin', 'dollar']	['bagel']	0.0452864383549
+['mrs.martin', 'dollar']	['5 bagel']	0.0165341599722
+['mrs.martin', 'dollar']	['14.00 dollar']	0.396616843835
+['3 coffee cup', 'dollar']	['mr']	0.0401288657365
+['3 coffee cup', 'dollar']	['mrs.martin']	0.0164595524146
+['3 coffee cup', 'dollar']	['2 bagel']	0.107466656274
+['3 coffee cup', 'dollar']	['12.75 dollar']	0.372791497313
+['3 coffee cup', 'dollar']	['mr.martin']	0.0164595524146
+['3 coffee cup', 'dollar']	['cup']	0.347861844397
+['3 coffee cup', 'dollar']	['2 coffee cup']	0.385875757374
+['3 coffee cup', 'dollar']	['bagel']	0.0773678664609
+['3 coffee cup', 'dollar']	['5 bagel']	0.107466656274
+['3 coffee cup', 'dollar']	['14.00 dollar']	0.372791497313
+['2 bagel', 'dollar']	['mr']	0.0401288657365
+['2 bagel', 'dollar']	['mrs.martin']	0.0164595524146
+['2 bagel', 'dollar']	['3 coffee cup']	0.253747175322
+['2 bagel', 'dollar']	['12.75 dollar']	0.396616843835
+['2 bagel', 'dollar']	['mr.martin']	0.0164595524146
+['2 bagel', 'dollar']	['cup']	0.133560533536
+['2 bagel', 'dollar']	['2 coffee cup']	0.254100289776
+['2 bagel', 'dollar']	['bagel']	0.36699257862
+['2 bagel', 'dollar']	['5 bagel']	0.267251620421
+['2 bagel', 'dollar']	['14.00 dollar']	0.396616843835
+['12.75 dollar', 'dollar']	['mr']	0.222530074433
+['12.75 dollar', 'dollar']	['mrs.martin']	0.180982030726
+['12.75 dollar', 'dollar']	['3 coffee cup']	0.206488422783
+['12.75 dollar', 'dollar']	['2 bagel']	0.0798131677782
+['12.75 dollar', 'dollar']	['mr.martin']	0.180982030726
+['12.75 dollar', 'dollar']	['cup']	0.420135558339
+['12.75 dollar', 'dollar']	['2 coffee cup']	0.206488422783
+['12.75 dollar', 'dollar']	['bagel']	0.260434312732
+['12.75 dollar', 'dollar']	['5 bagel']	0.0798131677782
+['12.75 dollar', 'dollar']	['14.00 dollar']	0.731253697846
+['mr.martin', 'dollar']	['mr']	0.210676138897
+['mr.martin', 'dollar']	['mrs.martin']	0.0164595524146
+['mr.martin', 'dollar']	['3 coffee cup']	0.026987674469
+['mr.martin', 'dollar']	['2 bagel']	0.0165341599722
+['mr.martin', 'dollar']	['12.75 dollar']	0.396616843835
+['mr.martin', 'dollar']	['cup']	0.0870382066568
+['mr.martin', 'dollar']	['2 coffee cup']	0.026987674469
+['mr.martin', 'dollar']	['bagel']	0.0452864383549
+['mr.martin', 'dollar']	['5 bagel']	0.0165341599722
+['mr.martin', 'dollar']	['14.00 dollar']	0.396616843835
+['cup', 'dollar']	['mr']	0.0962627154283
+['cup', 'dollar']	['mrs.martin']	0.0785374000965
+['cup', 'dollar']	['3 coffee cup']	0.367196291047
+['cup', 'dollar']	['2 bagel']	0.0786120076541
+['cup', 'dollar']	['12.75 dollar']	0.49960973809
+['cup', 'dollar']	['mr.martin']	0.0785374000965
+['cup', 'dollar']	['2 coffee cup']	0.367196291047
+['cup', 'dollar']	['bagel']	0.107745405526
+['cup', 'dollar']	['5 bagel']	0.0786120076541
+['cup', 'dollar']	['14.00 dollar']	0.49960973809
+['2 coffee cup', 'dollar']	['mr']	0.0401288657365
+['2 coffee cup', 'dollar']	['mrs.martin']	0.0164595524146
+['2 coffee cup', 'dollar']	['3 coffee cup']	0.385875757374
+['2 coffee cup', 'dollar']	['2 bagel']	0.201598352121
+['2 coffee cup', 'dollar']	['12.75 dollar']	0.372791497313
+['2 coffee cup', 'dollar']	['mr.martin']	0.0164595524146
+['2 coffee cup', 'dollar']	['cup']	0.347861844397
+['2 coffee cup', 'dollar']	['bagel']	0.0773678664609
+['2 coffee cup', 'dollar']	['5 bagel']	0.107466656274
+['2 coffee cup', 'dollar']	['14.00 dollar']	0.372791497313
+['bagel', 'dollar']	['mr']	0.0774147422748
+['bagel', 'dollar']	['mrs.martin']	0.0785374000965
+['bagel', 'dollar']	['3 coffee cup']	0.0836378227365
+['bagel', 'dollar']	['2 bagel']	0.250977364416
+['bagel', 'dollar']	['12.75 dollar']	0.408145273673
+['bagel', 'dollar']	['mr.martin']	0.0785374000965
+['bagel', 'dollar']	['cup']	0.118603573296
+['bagel', 'dollar']	['2 coffee cup']	0.0836378227365
+['bagel', 'dollar']	['5 bagel']	0.250977364416
+['bagel', 'dollar']	['14.00 dollar']	0.408145273673
+['5 bagel', 'dollar']	['mr']	0.0401288657365
+['5 bagel', 'dollar']	['mrs.martin']	0.0164595524146
+['5 bagel', 'dollar']	['3 coffee cup']	0.253747175322
+['5 bagel', 'dollar']	['2 bagel']	0.267251620421
+['5 bagel', 'dollar']	['12.75 dollar']	0.396616843835
+['5 bagel', 'dollar']	['mr.martin']	0.0164595524146
+['5 bagel', 'dollar']	['cup']	0.133560533536
+['5 bagel', 'dollar']	['2 coffee cup']	0.253747175322
+['5 bagel', 'dollar']	['bagel']	0.36699257862
+['5 bagel', 'dollar']	['14.00 dollar']	0.396616843835
+['14.00 dollar', 'dollar']	['mr']	0.222530074433
+['14.00 dollar', 'dollar']	['mrs.martin']	0.180982030726
+['14.00 dollar', 'dollar']	['3 coffee cup']	0.206488422783
+['14.00 dollar', 'dollar']	['2 bagel']	0.0798131677782
+['14.00 dollar', 'dollar']	['12.75 dollar']	0.731253697846
+['14.00 dollar', 'dollar']	['mr.martin']	0.180982030726
+['14.00 dollar', 'dollar']	['cup']	0.420135558339
+['14.00 dollar', 'dollar']	['2 coffee cup']	0.206488422783
+['14.00 dollar', 'dollar']	['bagel']	0.260434312732
+['14.00 dollar', 'dollar']	['5 bagel']	0.0798131677782
+['mr', '14.00 dollar']	['mrs.martin']	0.181282297147
+['mr', '14.00 dollar']	['3 coffee cup']	0.080802298149
+['mr', '14.00 dollar']	['2 bagel']	0.0696933362217
+['mr', '14.00 dollar']	['12.75 dollar']	0.488722073866
+['mr', '14.00 dollar']	['mr.martin']	0.181282297147
+['mr', '14.00 dollar']	['cup']	0.178249996384
+['mr', '14.00 dollar']	['2 coffee cup']	0.080802298149
+['mr', '14.00 dollar']	['bagel']	0.119621876581
+['mr', '14.00 dollar']	['5 bagel']	0.0696933362217
+['mr', '14.00 dollar']	['dollar']	0.514895375159
+['mrs.martin', '14.00 dollar']	['mr']	0.363536401068
+['mrs.martin', '14.00 dollar']	['3 coffee cup']	0.0920786332799
+['mrs.martin', '14.00 dollar']	['2 bagel']	0.0901100077042
+['mrs.martin', '14.00 dollar']	['12.75 dollar']	0.584269096576
+['mrs.martin', '14.00 dollar']	['mr.martin']	0.1191315107
+['mrs.martin', '14.00 dollar']	['cup']	0.190478636576
+['mrs.martin', '14.00 dollar']	['2 coffee cup']	0.0920786332799
+['mrs.martin', '14.00 dollar']	['bagel']	0.0844914223888
+['mrs.martin', '14.00 dollar']	['5 bagel']	0.0901100077042
+['mrs.martin', '14.00 dollar']	['dollar']	0.481113187585
+['3 coffee cup', '14.00 dollar']	['mr']	0.148807562081
+['3 coffee cup', '14.00 dollar']	['mrs.martin']	0.158341398524
+['3 coffee cup', '14.00 dollar']	['2 bagel']	0.453327242541
+['3 coffee cup', '14.00 dollar']	['12.75 dollar']	0.653642048458
+['3 coffee cup', '14.00 dollar']	['mr.martin']	0.158341398524
+['3 coffee cup', '14.00 dollar']	['cup']	0.885569992091
+['3 coffee cup', '14.00 dollar']	['2 coffee cup']	0.824752035523
+['3 coffee cup', '14.00 dollar']	['bagel']	0.0849006157974
+['3 coffee cup', '14.00 dollar']	['5 bagel']	0.453327242541
+['3 coffee cup', '14.00 dollar']	['dollar']	0.450583538774
+['2 bagel', '14.00 dollar']	['mr']	0.079730351659
+['2 bagel', '14.00 dollar']	['mrs.martin']	0.0888375395985
+['2 bagel', '14.00 dollar']	['3 coffee cup']	0.335677399021
+['2 bagel', '14.00 dollar']	['12.75 dollar']	0.584269096576
+['2 bagel', '14.00 dollar']	['mr.martin']	0.0888375395985
+['2 bagel', '14.00 dollar']	['cup']	0.105969303899
+['2 bagel', '14.00 dollar']	['2 coffee cup']	0.506763013357
+['2 bagel', '14.00 dollar']	['bagel']	0.487637290387
+['2 bagel', '14.00 dollar']	['5 bagel']	0.754360422532
+['2 bagel', '14.00 dollar']	['dollar']	0.282813310805
+['12.75 dollar', '14.00 dollar']	['mr']	0.33665242287
+['12.75 dollar', '14.00 dollar']	['mrs.martin']	0.325390866884
+['12.75 dollar', '14.00 dollar']	['3 coffee cup']	0.297805101442
+['12.75 dollar', '14.00 dollar']	['2 bagel']	0.139258682248
+['12.75 dollar', '14.00 dollar']	['mr.martin']	0.325390866884
+['12.75 dollar', '14.00 dollar']	['cup']	0.51323626183
+['12.75 dollar', '14.00 dollar']	['2 coffee cup']	0.297805101442
+['12.75 dollar', '14.00 dollar']	['bagel']	0.283185314144
+['12.75 dollar', '14.00 dollar']	['5 bagel']	0.139258682248
+['12.75 dollar', '14.00 dollar']	['dollar']	0.743859484988
+['mr.martin', '14.00 dollar']	['mr']	0.363536401068
+['mr.martin', '14.00 dollar']	['mrs.martin']	0.1191315107
+['mr.martin', '14.00 dollar']	['3 coffee cup']	0.0920786332799
+['mr.martin', '14.00 dollar']	['2 bagel']	0.0901100077042
+['mr.martin', '14.00 dollar']	['12.75 dollar']	0.584269096576
+['mr.martin', '14.00 dollar']	['cup']	0.190478636576
+['mr.martin', '14.00 dollar']	['2 coffee cup']	0.0920786332799
+['mr.martin', '14.00 dollar']	['bagel']	0.0844914223888
+['mr.martin', '14.00 dollar']	['5 bagel']	0.0901100077042
+['mr.martin', '14.00 dollar']	['dollar']	0.481113187585
+['cup', '14.00 dollar']	['mr']	0.102313195437
+['cup', '14.00 dollar']	['mrs.martin']	0.0993639400298
+['cup', '14.00 dollar']	['3 coffee cup']	0.745167855836
+['cup', '14.00 dollar']	['2 bagel']	0.0696933362217
+['cup', '14.00 dollar']	['12.75 dollar']	0.525526174317
+['cup', '14.00 dollar']	['mr.martin']	0.0993639400298
+['cup', '14.00 dollar']	['2 coffee cup']	0.745167855836
+['cup', '14.00 dollar']	['bagel']	0.193771204187
+['cup', '14.00 dollar']	['5 bagel']	0.0696933362217
+['cup', '14.00 dollar']	['dollar']	0.488127268446
+['2 coffee cup', '14.00 dollar']	['mr']	0.148807562081
+['2 coffee cup', '14.00 dollar']	['mrs.martin']	0.158341398524
+['2 coffee cup', '14.00 dollar']	['3 coffee cup']	0.824752035523
+['2 coffee cup', '14.00 dollar']	['2 bagel']	0.601995725418
+['2 coffee cup', '14.00 dollar']	['12.75 dollar']	0.653642048458
+['2 coffee cup', '14.00 dollar']	['mr.martin']	0.158341398524
+['2 coffee cup', '14.00 dollar']	['cup']	0.885569992091
+['2 coffee cup', '14.00 dollar']	['bagel']	0.0849006157974
+['2 coffee cup', '14.00 dollar']	['5 bagel']	0.453327242541
+['2 coffee cup', '14.00 dollar']	['dollar']	0.450583538774
+['bagel', '14.00 dollar']	['mr']	0.119621876581
+['bagel', '14.00 dollar']	['mrs.martin']	0.076185350862
+['bagel', '14.00 dollar']	['3 coffee cup']	0.0518391118061
+['bagel', '14.00 dollar']	['2 bagel']	0.563299713372
+['bagel', '14.00 dollar']	['12.75 dollar']	0.386916343381
+['bagel', '14.00 dollar']	['mr.martin']	0.076185350862
+['bagel', '14.00 dollar']	['cup']	0.367988714286
+['bagel', '14.00 dollar']	['2 coffee cup']	0.0518391118061
+['bagel', '14.00 dollar']	['5 bagel']	0.563299713372
+['bagel', '14.00 dollar']	['dollar']	0.372315466875
+['5 bagel', '14.00 dollar']	['mr']	0.079730351659
+['5 bagel', '14.00 dollar']	['mrs.martin']	0.0888375395985
+['5 bagel', '14.00 dollar']	['3 coffee cup']	0.335677399021
+['5 bagel', '14.00 dollar']	['2 bagel']	0.754360422532
+['5 bagel', '14.00 dollar']	['12.75 dollar']	0.584269096576
+['5 bagel', '14.00 dollar']	['mr.martin']	0.0888375395985
+['5 bagel', '14.00 dollar']	['cup']	0.105969303899
+['5 bagel', '14.00 dollar']	['2 coffee cup']	0.335677399021
+['5 bagel', '14.00 dollar']	['bagel']	0.487637290387
+['5 bagel', '14.00 dollar']	['dollar']	0.282813310805
+['dollar', '14.00 dollar']	['mr']	0.222530074433
+['dollar', '14.00 dollar']	['mrs.martin']	0.180982030726
+['dollar', '14.00 dollar']	['3 coffee cup']	0.206488422783
+['dollar', '14.00 dollar']	['2 bagel']	0.0798131677782
+['dollar', '14.00 dollar']	['12.75 dollar']	0.731253697846
+['dollar', '14.00 dollar']	['mr.martin']	0.180982030726
+['dollar', '14.00 dollar']	['cup']	0.420135558339
+['dollar', '14.00 dollar']	['2 coffee cup']	0.206488422783
+['dollar', '14.00 dollar']	['bagel']	0.260434312732
+['dollar', '14.00 dollar']	['5 bagel']	0.0798131677782

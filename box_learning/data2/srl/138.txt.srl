@@ -1,0 +1,10 @@
+fly ADV With a tail wind
+fly ARG0 a jet
+fly TMP in 4 hours
+fly ARG1 2000 miles
+
+require ARG0 The jet 's return trip against the same wind
+require ARG1 5 hours
+
+Find ARG1 the jet 's speed and the wind speed
+

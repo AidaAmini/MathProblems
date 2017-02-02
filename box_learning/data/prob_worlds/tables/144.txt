@@ -1,0 +1,24 @@
+1
+[['first agency', '-', '-', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.14', '-', '-'], ['second agency', '-', '-', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.22', '-', '-']]
+-1
+[['first agency', 'mile', '-', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.14', 'second agency', '-'], ['second agency', '-', '-', '-', 'mile', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['x2', 'x1', 'first agency', 'dollar', '0.22', 'second agency', '-']]
+-1
+[['first agency', '-', '-', '-', '-', 'dollar', 'x2'], ['18.25', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'x2', 'dollar', '0.14', '-', 'first agency'], ['second agency', '-', '-', '-', '-', 'first agency', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x2', 'first agency', 'dollar', '0.22', '-', '-']]
+-1
+[['mile', '-', '-', '-', '0.14', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.14', '-', '-'], ['second agency', '-', '-', '-', '-', 'mile', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', '0.14', 'mile', 'dollar', '0.22', '-', '-']]
+-1
+[['first agency', 'x1', '0.22', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '20.25', '-', '18.25'], ['-', 'first agency', 'mile', 'dollar', '0.14', '-', '-'], ['0.22', '-', 'mile', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x1', 'mile', 'second agency', '0.22', '0.14', 'first agency']]
+-1
+[['first agency', 'x1', '-', '-', '-', 'mile', 'x2'], ['-', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', 'x2', '-', '-'], ['second agency', '-', 'x1', '-', '0.22', 'dollar', 'x2'], ['-', '20.25', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.22', '-', '-']]
+-1
+[['first agency', '-', '-', '-', '-', 'dollar', 'mile'], ['-', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', 'second agency', '-', '-'], ['second agency', '-', '-', 'x1', '-', '0.22', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.22', '-', '-']]
+-1
+[['first agency', '-', '-', 'x1', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', 'x2', '0.22', '-'], ['mile', 'x1', '-', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.22', '-', 'x2']]
+-1
+[['first agency', '-', '-', '-', '-', 'dollar', 'x2'], ['18.25', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.14', '-', '-'], ['0.14', 'x1', '-', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.22', '-', '-']]
+-1
+[['first agency', 'second agency', '-', '-', '-', 'dollar', '0.22'], ['-', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', '0.14', '-', 'x2'], ['second agency', 'mile', '-', '0.22', '-', '0.14', 'x2'], ['-', '1', 'day', '20.25', '18.25', '-', '-'], ['x1', '0.14', 'mile', 'dollar', '0.22', '-', '-']]
+-1
+[['first agency', 'x1', '-', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'first agency', 'dollar', '0.14', '-', '-'], ['second agency', 'first agency', '-', 'x1', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '-', '-'], ['-', 'x1', 'mile', 'dollar', 'x2', '-', '-']]
+-1
+[['first agency', '-', 'mile', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '20.25', '-', '-'], ['-', 'x1', 'mile', 'x2', '0.14', '-', '-'], ['mile', 'first agency', '-', '-', '-', 'dollar', 'x2'], ['-', '1', 'day', 'dollar', '18.25', '20.25', '-'], ['-', 'x1', 'mile', 'x2', '0.22', '-', '-']]

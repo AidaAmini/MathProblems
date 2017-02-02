@@ -1,0 +1,2827 @@
+['semi truck', 'pave road', 'road', '2 hour', 'average speed', '20 mile', 'hour', 'dirt road', 'dirt', '3 hour', 'entire trip', 'trip', 'mile', '200 mile', 'truck']
+['semi truck']	['pave road']	0.0827346205535
+['semi truck']	['road']	0.0741073489195
+['semi truck']	['2 hour']	0.0827346205535
+['semi truck']	['average speed']	0.0827346205535
+['semi truck']	['20 mile']	0.0827346205535
+['semi truck']	['hour']	0.0101131233914
+['semi truck']	['dirt road']	0.0824069519204
+['semi truck']	['dirt']	0.0831172035382
+['semi truck']	['3 hour']	0.0827346205535
+['semi truck']	['entire trip']	0.0827346205535
+['semi truck']	['trip']	0.0888375395985
+['semi truck']	['mile']	0.0179192712897
+['semi truck']	['200 mile']	0.0901100077042
+['pave road']	['2 hour']	0.0901100077042
+['pave road']	['average speed']	0.0901100077042
+['pave road']	['20 mile']	0.0901100077042
+['pave road']	['hour']	0.00424649792755
+['pave road']	['dirt road']	0.644695369786
+['pave road']	['dirt']	0.0741073489195
+['pave road']	['3 hour']	0.0901100077042
+['pave road']	['entire trip']	0.0901100077042
+['pave road']	['trip']	0.0744376594044
+['pave road']	['mile']	0.0132263547461
+['pave road']	['200 mile']	0.0901100077042
+['pave road']	['truck']	0.0741073489195
+['road']	['2 hour']	0.0696933362217
+['road']	['average speed']	0.0669904799604
+['road']	['20 mile']	0.0696933362217
+['road']	['hour']	0.00671452368913
+['road']	['dirt']	0.148251627675
+['road']	['3 hour']	0.0696933362217
+['road']	['entire trip']	0.0669904799604
+['road']	['trip']	0.0834098541484
+['road']	['mile']	0.0293075380015
+['road']	['200 mile']	0.0696933362217
+['road']	['truck']	0.0753091028843
+['2 hour']	['average speed']	0.0827346205535
+['2 hour']	['20 mile']	0.125971854627
+['2 hour']	['dirt road']	0.0824069519204
+['2 hour']	['dirt']	0.0774561735493
+['2 hour']	['3 hour']	0.828768839235
+['2 hour']	['entire trip']	0.0827346205535
+['2 hour']	['trip']	0.0744376594044
+['2 hour']	['mile']	0.0152046511064
+['2 hour']	['200 mile']	0.0901100077042
+['2 hour']	['truck']	0.079730351659
+['average speed']	['20 mile']	0.0901100077042
+['average speed']	['hour']	0.00424649792755
+['average speed']	['dirt road']	0.0897823390711
+['average speed']	['dirt']	0.0831172035382
+['average speed']	['3 hour']	0.0901100077042
+['average speed']	['entire trip']	0.0901100077042
+['average speed']	['trip']	0.0888375395985
+['average speed']	['mile']	0.0132263547461
+['average speed']	['200 mile']	0.0901100077042
+['average speed']	['truck']	0.0831172035382
+['20 mile']	['hour']	0.00424649792755
+['20 mile']	['dirt road']	0.0824069519204
+['20 mile']	['dirt']	0.079730351659
+['20 mile']	['3 hour']	0.125971854627
+['20 mile']	['entire trip']	0.0827346205535
+['20 mile']	['trip']	0.0777864840342
+['20 mile']	['200 mile']	0.643440930505
+['20 mile']	['truck']	0.079730351659
+['hour']	['dirt road']	0.00763447394982
+['hour']	['dirt']	0.0074803794959
+['hour']	['entire trip']	0.00424565569655
+['hour']	['trip']	0.00561464473635
+['hour']	['mile']	0.135096264125
+['hour']	['200 mile']	0.00424565569655
+['hour']	['truck']	0.0082360470022
+['dirt road']	['3 hour']	0.0696933362217
+['dirt road']	['entire trip']	0.0696933362217
+['dirt road']	['trip']	0.0634148935911
+['dirt road']	['mile']	0.0106028278734
+['dirt road']	['200 mile']	0.0737139440912
+['dirt road']	['truck']	0.0617470987896
+['dirt']	['3 hour']	0.0696933362217
+['dirt']	['entire trip']	0.0669904799604
+['dirt']	['trip']	0.147043050329
+['dirt']	['mile']	0.019946167238
+['dirt']	['200 mile']	0.0696933362217
+['dirt']	['truck']	0.0841669803429
+['3 hour']	['entire trip']	0.0827346205535
+['3 hour']	['trip']	0.0744376594044
+['3 hour']	['mile']	0.0152046511064
+['3 hour']	['200 mile']	0.0901100077042
+['3 hour']	['truck']	0.079730351659
+['entire trip']	['mile']	0.0179192712897
+['entire trip']	['200 mile']	0.0901100077042
+['entire trip']	['truck']	0.0831172035382
+['trip']	['mile']	0.0346118531755
+['trip']	['200 mile']	0.0901100077042
+['trip']	['truck']	0.122840736639
+['mile']	['truck']	0.019946167238
+['200 mile']	['truck']	0.079730351659
+['pave road', 'semi truck']	['road']	0.653738463029
+['pave road', 'semi truck']	['2 hour']	0.0827346205535
+['pave road', 'semi truck']	['average speed']	0.0827346205535
+['pave road', 'semi truck']	['20 mile']	0.0827346205535
+['pave road', 'semi truck']	['hour']	0.00424649792755
+['pave road', 'semi truck']	['dirt road']	0.542633257095
+['pave road', 'semi truck']	['dirt']	0.0774561735493
+['pave road', 'semi truck']	['3 hour']	0.0827346205535
+['pave road', 'semi truck']	['entire trip']	0.0827346205535
+['pave road', 'semi truck']	['trip']	0.0777864840342
+['pave road', 'semi truck']	['mile']	0.0132263547461
+['pave road', 'semi truck']	['200 mile']	0.0901100077042
+['pave road', 'semi truck']	['truck']	0.895548841759
+['road', 'semi truck']	['pave road']	0.693830512252
+['road', 'semi truck']	['2 hour']	0.0696933362217
+['road', 'semi truck']	['average speed']	0.0689582110755
+['road', 'semi truck']	['20 mile']	0.0696933362217
+['road', 'semi truck']	['hour']	0.00671452368913
+['road', 'semi truck']	['dirt road']	0.636153503711
+['road', 'semi truck']	['dirt']	0.54312261708
+['road', 'semi truck']	['3 hour']	0.0696933362217
+['road', 'semi truck']	['entire trip']	0.0703393045902
+['road', 'semi truck']	['trip']	0.339878471323
+['road', 'semi truck']	['mile']	0.316883615056
+['road', 'semi truck']	['200 mile']	0.0696933362217
+['road', 'semi truck']	['truck']	0.865400206118
+['2 hour', 'semi truck']	['pave road']	0.0827346205535
+['2 hour', 'semi truck']	['road']	0.0741073489195
+['2 hour', 'semi truck']	['average speed']	0.0827346205535
+['2 hour', 'semi truck']	['20 mile']	0.140649313257
+['2 hour', 'semi truck']	['hour']	0.231323283433
+['2 hour', 'semi truck']	['dirt road']	0.0824069519204
+['2 hour', 'semi truck']	['dirt']	0.0774561735493
+['2 hour', 'semi truck']	['3 hour']	0.754360422532
+['2 hour', 'semi truck']	['entire trip']	0.0827346205535
+['2 hour', 'semi truck']	['trip']	0.0777864840342
+['2 hour', 'semi truck']	['mile']	0.0132263547461
+['2 hour', 'semi truck']	['200 mile']	0.0901100077042
+['2 hour', 'semi truck']	['truck']	0.847021533945
+['average speed', 'semi truck']	['pave road']	0.0827346205535
+['average speed', 'semi truck']	['road']	0.0741073489195
+['average speed', 'semi truck']	['2 hour']	0.0827346205535
+['average speed', 'semi truck']	['20 mile']	0.0827346205535
+['average speed', 'semi truck']	['hour']	0.00424649792755
+['average speed', 'semi truck']	['dirt road']	0.0824069519204
+['average speed', 'semi truck']	['dirt']	0.0831172035382
+['average speed', 'semi truck']	['3 hour']	0.0827346205535
+['average speed', 'semi truck']	['entire trip']	0.0827346205535
+['average speed', 'semi truck']	['trip']	0.0888375395985
+['average speed', 'semi truck']	['mile']	0.0132263547461
+['average speed', 'semi truck']	['200 mile']	0.0901100077042
+['average speed', 'semi truck']	['truck']	0.811746255271
+['20 mile', 'semi truck']	['pave road']	0.0827346205535
+['20 mile', 'semi truck']	['road']	0.0760750800346
+['20 mile', 'semi truck']	['2 hour']	0.140649313257
+['20 mile', 'semi truck']	['average speed']	0.0827346205535
+['20 mile', 'semi truck']	['hour']	0.00424649792755
+['20 mile', 'semi truck']	['dirt road']	0.0824069519204
+['20 mile', 'semi truck']	['dirt']	0.079730351659
+['20 mile', 'semi truck']	['3 hour']	0.140649313257
+['20 mile', 'semi truck']	['entire trip']	0.0827346205535
+['20 mile', 'semi truck']	['trip']	0.0777864840342
+['20 mile', 'semi truck']	['mile']	0.306370088568
+['20 mile', 'semi truck']	['200 mile']	0.584269096576
+['20 mile', 'semi truck']	['truck']	0.811746255271
+['hour', 'semi truck']	['pave road']	0.015360451052
+['hour', 'semi truck']	['road']	0.0151338172199
+['hour', 'semi truck']	['2 hour']	0.318667353707
+['hour', 'semi truck']	['average speed']	0.015360451052
+['hour', 'semi truck']	['20 mile']	0.0160064194205
+['hour', 'semi truck']	['dirt road']	0.0187492693053
+['hour', 'semi truck']	['dirt']	0.258215023444
+['hour', 'semi truck']	['3 hour']	0.318667353707
+['hour', 'semi truck']	['entire trip']	0.015360451052
+['hour', 'semi truck']	['trip']	0.0164595524146
+['hour', 'semi truck']	['mile']	0.324529405779
+['hour', 'semi truck']	['200 mile']	0.0160064194205
+['hour', 'semi truck']	['truck']	0.417918295433
+['dirt road', 'semi truck']	['pave road']	0.494524508322
+['dirt road', 'semi truck']	['road']	0.653115576673
+['dirt road', 'semi truck']	['2 hour']	0.0696933362217
+['dirt road', 'semi truck']	['average speed']	0.0696933362217
+['dirt road', 'semi truck']	['20 mile']	0.0696933362217
+['dirt road', 'semi truck']	['hour']	0.00222717737084
+['dirt road', 'semi truck']	['dirt']	0.505792669321
+['dirt road', 'semi truck']	['3 hour']	0.0696933362217
+['dirt road', 'semi truck']	['entire trip']	0.0696933362217
+['dirt road', 'semi truck']	['trip']	0.0667637182209
+['dirt road', 'semi truck']	['mile']	0.0106028278734
+['dirt road', 'semi truck']	['200 mile']	0.0737139440912
+['dirt road', 'semi truck']	['truck']	0.835965050698
+['dirt', 'semi truck']	['pave road']	0.0696933362217
+['dirt', 'semi truck']	['road']	0.55965808297
+['dirt', 'semi truck']	['2 hour']	0.0696933362217
+['dirt', 'semi truck']	['average speed']	0.0696933362217
+['dirt', 'semi truck']	['20 mile']	0.0696933362217
+['dirt', 'semi truck']	['hour']	0.167119015487
+['dirt', 'semi truck']	['dirt road']	0.619247740011
+['dirt', 'semi truck']	['3 hour']	0.0696933362217
+['dirt', 'semi truck']	['entire trip']	0.0703393045902
+['dirt', 'semi truck']	['trip']	0.230934220149
+['dirt', 'semi truck']	['mile']	0.207739551373
+['dirt', 'semi truck']	['200 mile']	0.0696933362217
+['dirt', 'semi truck']	['truck']	0.880353047158
+['3 hour', 'semi truck']	['pave road']	0.0827346205535
+['3 hour', 'semi truck']	['road']	0.0741073489195
+['3 hour', 'semi truck']	['2 hour']	0.754360422532
+['3 hour', 'semi truck']	['average speed']	0.0827346205535
+['3 hour', 'semi truck']	['20 mile']	0.140649313257
+['3 hour', 'semi truck']	['hour']	0.231323283433
+['3 hour', 'semi truck']	['dirt road']	0.0824069519204
+['3 hour', 'semi truck']	['dirt']	0.0774561735493
+['3 hour', 'semi truck']	['entire trip']	0.0827346205535
+['3 hour', 'semi truck']	['trip']	0.0777864840342
+['3 hour', 'semi truck']	['mile']	0.0132263547461
+['3 hour', 'semi truck']	['200 mile']	0.0901100077042
+['3 hour', 'semi truck']	['truck']	0.847021533945
+['entire trip', 'semi truck']	['pave road']	0.0827346205535
+['entire trip', 'semi truck']	['road']	0.0741073489195
+['entire trip', 'semi truck']	['2 hour']	0.0827346205535
+['entire trip', 'semi truck']	['average speed']	0.0827346205535
+['entire trip', 'semi truck']	['20 mile']	0.0827346205535
+['entire trip', 'semi truck']	['hour']	0.0101131233914
+['entire trip', 'semi truck']	['dirt road']	0.0824069519204
+['entire trip', 'semi truck']	['dirt']	0.0831172035382
+['entire trip', 'semi truck']	['3 hour']	0.0827346205535
+['entire trip', 'semi truck']	['trip']	0.70007858174
+['entire trip', 'semi truck']	['mile']	0.0179192712897
+['entire trip', 'semi truck']	['200 mile']	0.0901100077042
+['entire trip', 'semi truck']	['truck']	0.811746255271
+['trip', 'semi truck']	['pave road']	0.0997381888746
+['trip', 'semi truck']	['road']	0.375232778788
+['trip', 'semi truck']	['2 hour']	0.0827346205535
+['trip', 'semi truck']	['average speed']	0.0827346205535
+['trip', 'semi truck']	['20 mile']	0.0827346205535
+['trip', 'semi truck']	['hour']	0.0108687908977
+['trip', 'semi truck']	['dirt road']	0.0994105202415
+['trip', 'semi truck']	['dirt']	0.285721838028
+['trip', 'semi truck']	['3 hour']	0.0827346205535
+['trip', 'semi truck']	['entire trip']	0.671554469511
+['trip', 'semi truck']	['mile']	0.123027548897
+['trip', 'semi truck']	['200 mile']	0.0901100077042
+['trip', 'semi truck']	['truck']	0.944581364302
+['mile', 'semi truck']	['pave road']	0.0361569291624
+['mile', 'semi truck']	['road']	0.474207505504
+['mile', 'semi truck']	['2 hour']	0.0368701550083
+['mile', 'semi truck']	['average speed']	0.0361569291624
+['mile', 'semi truck']	['20 mile']	0.391516700063
+['mile', 'semi truck']	['hour']	0.324529405779
+['mile', 'semi truck']	['dirt road']	0.0421463435009
+['mile', 'semi truck']	['dirt']	0.253045752412
+['mile', 'semi truck']	['3 hour']	0.0368701550083
+['mile', 'semi truck']	['entire trip']	0.0361569291624
+['mile', 'semi truck']	['trip']	0.111108266392
+['mile', 'semi truck']	['200 mile']	0.365401430504
+['mile', 'semi truck']	['truck']	0.690944087165
+['200 mile', 'semi truck']	['pave road']	0.0827346205535
+['200 mile', 'semi truck']	['road']	0.0760750800346
+['200 mile', 'semi truck']	['2 hour']	0.0827346205535
+['200 mile', 'semi truck']	['average speed']	0.0827346205535
+['200 mile', 'semi truck']	['20 mile']	0.573408386835
+['200 mile', 'semi truck']	['hour']	0.00424649792755
+['200 mile', 'semi truck']	['dirt road']	0.0824069519204
+['200 mile', 'semi truck']	['dirt']	0.079730351659
+['200 mile', 'semi truck']	['3 hour']	0.0827346205535
+['200 mile', 'semi truck']	['entire trip']	0.0827346205535
+['200 mile', 'semi truck']	['trip']	0.0777864840342
+['200 mile', 'semi truck']	['mile']	0.276426897145
+['200 mile', 'semi truck']	['truck']	0.811746255271
+['truck', 'semi truck']	['pave road']	0.235936813221
+['truck', 'semi truck']	['road']	0.46532959416
+['truck', 'semi truck']	['2 hour']	0.136831688603
+['truck', 'semi truck']	['average speed']	0.144528281371
+['truck', 'semi truck']	['20 mile']	0.136831688603
+['truck', 'semi truck']	['hour']	0.225602603222
+['truck', 'semi truck']	['dirt road']	0.241075587595
+['truck', 'semi truck']	['dirt']	0.486191712051
+['truck', 'semi truck']	['3 hour']	0.136831688603
+['truck', 'semi truck']	['entire trip']	0.144528281371
+['truck', 'semi truck']	['trip']	0.664221811587
+['truck', 'semi truck']	['mile']	0.337410483329
+['truck', 'semi truck']	['200 mile']	0.139259023173
+['semi truck', 'pave road']	['road']	0.653738463029
+['semi truck', 'pave road']	['2 hour']	0.0827346205535
+['semi truck', 'pave road']	['average speed']	0.0827346205535
+['semi truck', 'pave road']	['20 mile']	0.0827346205535
+['semi truck', 'pave road']	['hour']	0.00424649792755
+['semi truck', 'pave road']	['dirt road']	0.542633257095
+['semi truck', 'pave road']	['dirt']	0.0774561735493
+['semi truck', 'pave road']	['3 hour']	0.0827346205535
+['semi truck', 'pave road']	['entire trip']	0.0827346205535
+['semi truck', 'pave road']	['trip']	0.0777864840342
+['semi truck', 'pave road']	['mile']	0.0132263547461
+['semi truck', 'pave road']	['200 mile']	0.0901100077042
+['semi truck', 'pave road']	['truck']	0.895548841759
+['road', 'pave road']	['semi truck']	0.235936813221
+['road', 'pave road']	['2 hour']	0.167427262452
+['road', 'pave road']	['average speed']	0.21925775957
+['road', 'pave road']	['20 mile']	0.144528281371
+['road', 'pave road']	['hour']	0.0845376415253
+['road', 'pave road']	['dirt road']	0.749111317113
+['road', 'pave road']	['dirt']	0.689781318622
+['road', 'pave road']	['3 hour']	0.167427262452
+['road', 'pave road']	['entire trip']	0.21925775957
+['road', 'pave road']	['trip']	0.604702407374
+['road', 'pave road']	['mile']	0.445680862763
+['road', 'pave road']	['200 mile']	0.144528281371
+['road', 'pave road']	['truck']	0.46532959416
+['2 hour', 'pave road']	['semi truck']	0.0827346205535
+['2 hour', 'pave road']	['road']	0.650955657599
+['2 hour', 'pave road']	['average speed']	0.0827346205535
+['2 hour', 'pave road']	['20 mile']	0.126675736021
+['2 hour', 'pave road']	['hour']	0.251336146143
+['2 hour', 'pave road']	['dirt road']	0.566188865804
+['2 hour', 'pave road']	['dirt']	0.0774561735493
+['2 hour', 'pave road']	['3 hour']	0.754360422532
+['2 hour', 'pave road']	['entire trip']	0.0827346205535
+['2 hour', 'pave road']	['trip']	0.0744376594044
+['2 hour', 'pave road']	['mile']	0.0143499502517
+['2 hour', 'pave road']	['200 mile']	0.0901100077042
+['2 hour', 'pave road']	['truck']	0.0774561735493
+['average speed', 'pave road']	['semi truck']	0.0827346205535
+['average speed', 'pave road']	['road']	0.653738463029
+['average speed', 'pave road']	['2 hour']	0.0901100077042
+['average speed', 'pave road']	['20 mile']	0.0901100077042
+['average speed', 'pave road']	['hour']	0.00424649792755
+['average speed', 'pave road']	['dirt road']	0.577101062223
+['average speed', 'pave road']	['dirt']	0.0774561735493
+['average speed', 'pave road']	['3 hour']	0.0901100077042
+['average speed', 'pave road']	['entire trip']	0.0901100077042
+['average speed', 'pave road']	['trip']	0.0777864840342
+['average speed', 'pave road']	['mile']	0.0132263547461
+['average speed', 'pave road']	['200 mile']	0.0901100077042
+['average speed', 'pave road']	['truck']	0.0774561735493
+['20 mile', 'pave road']	['semi truck']	0.0827346205535
+['20 mile', 'pave road']	['road']	0.664693031336
+['20 mile', 'pave road']	['2 hour']	0.126675736021
+['20 mile', 'pave road']	['average speed']	0.0827346205535
+['20 mile', 'pave road']	['hour']	0.00424649792755
+['20 mile', 'pave road']	['dirt road']	0.566188865804
+['20 mile', 'pave road']	['dirt']	0.0774561735493
+['20 mile', 'pave road']	['3 hour']	0.126675736021
+['20 mile', 'pave road']	['entire trip']	0.0827346205535
+['20 mile', 'pave road']	['trip']	0.0744376594044
+['20 mile', 'pave road']	['mile']	0.351874311122
+['20 mile', 'pave road']	['200 mile']	0.584269096576
+['20 mile', 'pave road']	['truck']	0.0774561735493
+['hour', 'pave road']	['semi truck']	0.0165341599722
+['hour', 'pave road']	['road']	0.366258435663
+['hour', 'pave road']	['2 hour']	0.333482168522
+['hour', 'pave road']	['average speed']	0.015360451052
+['hour', 'pave road']	['20 mile']	0.0160064194205
+['hour', 'pave road']	['dirt road']	0.111310587355
+['hour', 'pave road']	['dirt']	0.295308023037
+['hour', 'pave road']	['3 hour']	0.333482168522
+['hour', 'pave road']	['entire trip']	0.015360451052
+['hour', 'pave road']	['trip']	0.0152537708965
+['hour', 'pave road']	['mile']	0.372998066748
+['hour', 'pave road']	['200 mile']	0.0160064194205
+['hour', 'pave road']	['truck']	0.199036724012
+['dirt road', 'pave road']	['semi truck']	0.144528281371
+['dirt road', 'pave road']	['road']	0.79168196934
+['dirt road', 'pave road']	['2 hour']	0.136831688603
+['dirt road', 'pave road']	['average speed']	0.247329860011
+['dirt road', 'pave road']	['20 mile']	0.136831688603
+['dirt road', 'pave road']	['hour']	0.083781974019
+['dirt road', 'pave road']	['dirt']	0.767465745056
+['dirt road', 'pave road']	['3 hour']	0.136831688603
+['dirt road', 'pave road']	['entire trip']	0.136831688603
+['dirt road', 'pave road']	['trip']	0.363581185188
+['dirt road', 'pave road']	['mile']	0.169676900315
+['dirt road', 'pave road']	['200 mile']	0.127137811052
+['dirt road', 'pave road']	['truck']	0.380032132525
+['dirt', 'pave road']	['semi truck']	0.0696933362217
+['dirt', 'pave road']	['road']	0.81900581221
+['dirt', 'pave road']	['2 hour']	0.0696933362217
+['dirt', 'pave road']	['average speed']	0.0696933362217
+['dirt', 'pave road']	['20 mile']	0.0696933362217
+['dirt', 'pave road']	['hour']	0.197894378929
+['dirt', 'pave road']	['dirt road']	0.789046526309
+['dirt', 'pave road']	['3 hour']	0.0696933362217
+['dirt', 'pave road']	['entire trip']	0.0703393045902
+['dirt', 'pave road']	['trip']	0.246429727416
+['dirt', 'pave road']	['mile']	0.205181581481
+['dirt', 'pave road']	['200 mile']	0.0696933362217
+['dirt', 'pave road']	['truck']	0.349299997925
+['3 hour', 'pave road']	['semi truck']	0.0827346205535
+['3 hour', 'pave road']	['road']	0.650955657599
+['3 hour', 'pave road']	['2 hour']	0.754360422532
+['3 hour', 'pave road']	['average speed']	0.0827346205535
+['3 hour', 'pave road']	['20 mile']	0.126675736021
+['3 hour', 'pave road']	['hour']	0.251336146143
+['3 hour', 'pave road']	['dirt road']	0.566188865804
+['3 hour', 'pave road']	['dirt']	0.0774561735493
+['3 hour', 'pave road']	['entire trip']	0.0827346205535
+['3 hour', 'pave road']	['trip']	0.0744376594044
+['3 hour', 'pave road']	['mile']	0.0143499502517
+['3 hour', 'pave road']	['200 mile']	0.0901100077042
+['3 hour', 'pave road']	['truck']	0.0774561735493
+['entire trip', 'pave road']	['semi truck']	0.0827346205535
+['entire trip', 'pave road']	['road']	0.653738463029
+['entire trip', 'pave road']	['2 hour']	0.0827346205535
+['entire trip', 'pave road']	['average speed']	0.0827346205535
+['entire trip', 'pave road']	['20 mile']	0.0827346205535
+['entire trip', 'pave road']	['hour']	0.00424649792755
+['entire trip', 'pave road']	['dirt road']	0.566188865804
+['entire trip', 'pave road']	['dirt']	0.0774561735493
+['entire trip', 'pave road']	['3 hour']	0.0827346205535
+['entire trip', 'pave road']	['trip']	0.725294076221
+['entire trip', 'pave road']	['mile']	0.0132263547461
+['entire trip', 'pave road']	['200 mile']	0.0901100077042
+['entire trip', 'pave road']	['truck']	0.0774561735493
+['trip', 'pave road']	['semi truck']	0.0827346205535
+['trip', 'pave road']	['road']	0.789928976918
+['trip', 'pave road']	['2 hour']	0.0901100077042
+['trip', 'pave road']	['average speed']	0.0901100077042
+['trip', 'pave road']	['20 mile']	0.0901100077042
+['trip', 'pave road']	['hour']	0.00500216543384
+['trip', 'pave road']	['dirt road']	0.530788218076
+['trip', 'pave road']	['dirt']	0.297862566014
+['trip', 'pave road']	['3 hour']	0.0901100077042
+['trip', 'pave road']	['entire trip']	0.648578713416
+['trip', 'pave road']	['mile']	0.11596780482
+['trip', 'pave road']	['200 mile']	0.0901100077042
+['trip', 'pave road']	['truck']	0.713176655201
+['mile', 'pave road']	['semi truck']	0.0361569291624
+['mile', 'pave road']	['road']	0.551347781783
+['mile', 'pave road']	['2 hour']	0.0368028975308
+['mile', 'pave road']	['average speed']	0.0361569291624
+['mile', 'pave road']	['20 mile']	0.391516700063
+['mile', 'pave road']	['hour']	0.347072140822
+['mile', 'pave road']	['dirt road']	0.194644068746
+['mile', 'pave road']	['dirt']	0.316131935408
+['mile', 'pave road']	['3 hour']	0.0368028975308
+['mile', 'pave road']	['entire trip']	0.0361569291624
+['mile', 'pave road']	['trip']	0.12850470425
+['mile', 'pave road']	['200 mile']	0.365401430504
+['mile', 'pave road']	['truck']	0.316131935408
+['200 mile', 'pave road']	['semi truck']	0.0827346205535
+['200 mile', 'pave road']	['road']	0.664693031336
+['200 mile', 'pave road']	['2 hour']	0.0901100077042
+['200 mile', 'pave road']	['average speed']	0.0901100077042
+['200 mile', 'pave road']	['20 mile']	0.584269096576
+['200 mile', 'pave road']	['hour']	0.00424649792755
+['200 mile', 'pave road']	['dirt road']	0.577101062223
+['200 mile', 'pave road']	['dirt']	0.0774561735493
+['200 mile', 'pave road']	['3 hour']	0.0901100077042
+['200 mile', 'pave road']	['entire trip']	0.0901100077042
+['200 mile', 'pave road']	['trip']	0.0744376594044
+['200 mile', 'pave road']	['mile']	0.345037237052
+['200 mile', 'pave road']	['truck']	0.0774561735493
+['truck', 'pave road']	['semi truck']	0.816877425091
+['truck', 'pave road']	['road']	0.594062377766
+['truck', 'pave road']	['2 hour']	0.0737139440912
+['truck', 'pave road']	['average speed']	0.0737139440912
+['truck', 'pave road']	['20 mile']	0.0737139440912
+['truck', 'pave road']	['hour']	0.092218390564
+['truck', 'pave road']	['dirt road']	0.480668844185
+['truck', 'pave road']	['dirt']	0.349299997925
+['truck', 'pave road']	['3 hour']	0.0737139440912
+['truck', 'pave road']	['entire trip']	0.0737139440912
+['truck', 'pave road']	['trip']	0.716321309289
+['truck', 'pave road']	['mile']	0.205181581481
+['truck', 'pave road']	['200 mile']	0.0737139440912
+['semi truck', 'road']	['pave road']	0.693830512252
+['semi truck', 'road']	['2 hour']	0.0696933362217
+['semi truck', 'road']	['average speed']	0.0689582110755
+['semi truck', 'road']	['20 mile']	0.0696933362217
+['semi truck', 'road']	['hour']	0.00671452368913
+['semi truck', 'road']	['dirt road']	0.636153503711
+['semi truck', 'road']	['dirt']	0.54312261708
+['semi truck', 'road']	['3 hour']	0.0696933362217
+['semi truck', 'road']	['entire trip']	0.0703393045902
+['semi truck', 'road']	['trip']	0.339878471323
+['semi truck', 'road']	['mile']	0.316883615056
+['semi truck', 'road']	['200 mile']	0.0696933362217
+['semi truck', 'road']	['truck']	0.865400206118
+['pave road', 'road']	['semi truck']	0.235936813221
+['pave road', 'road']	['2 hour']	0.167427262452
+['pave road', 'road']	['average speed']	0.21925775957
+['pave road', 'road']	['20 mile']	0.144528281371
+['pave road', 'road']	['hour']	0.0845376415253
+['pave road', 'road']	['dirt road']	0.749111317113
+['pave road', 'road']	['dirt']	0.689781318622
+['pave road', 'road']	['3 hour']	0.167427262452
+['pave road', 'road']	['entire trip']	0.21925775957
+['pave road', 'road']	['trip']	0.604702407374
+['pave road', 'road']	['mile']	0.445680862763
+['pave road', 'road']	['200 mile']	0.144528281371
+['pave road', 'road']	['truck']	0.46532959416
+['2 hour', 'road']	['semi truck']	0.0703393045902
+['2 hour', 'road']	['pave road']	0.687529833909
+['2 hour', 'road']	['average speed']	0.0689582110755
+['2 hour', 'road']	['20 mile']	0.103222748661
+['2 hour', 'road']	['hour']	0.416126375151
+['2 hour', 'road']	['dirt road']	0.645616263174
+['2 hour', 'road']	['dirt']	0.606969729429
+['2 hour', 'road']	['3 hour']	0.736313764211
+['2 hour', 'road']	['entire trip']	0.0703393045902
+['2 hour', 'road']	['trip']	0.36928692336
+['2 hour', 'road']	['mile']	0.397461212454
+['2 hour', 'road']	['200 mile']	0.0696933362217
+['2 hour', 'road']	['truck']	0.185711257371
+['average speed', 'road']	['semi truck']	0.0689582110755
+['average speed', 'road']	['pave road']	0.68687409652
+['average speed', 'road']	['2 hour']	0.0696933362217
+['average speed', 'road']	['20 mile']	0.0696933362217
+['average speed', 'road']	['hour']	0.00298284487713
+['average speed', 'road']	['dirt road']	0.62583000514
+['average speed', 'road']	['dirt']	0.54312261708
+['average speed', 'road']	['3 hour']	0.0696933362217
+['average speed', 'road']	['entire trip']	0.0703393045902
+['average speed', 'road']	['trip']	0.339878471323
+['average speed', 'road']	['mile']	0.320542576381
+['average speed', 'road']	['200 mile']	0.0696933362217
+['average speed', 'road']	['truck']	0.186963162599
+['20 mile', 'road']	['semi truck']	0.0703393045902
+['20 mile', 'road']	['pave road']	0.687529833909
+['20 mile', 'road']	['2 hour']	0.117488318928
+['20 mile', 'road']	['average speed']	0.0689582110755
+['20 mile', 'road']	['hour']	0.0229828448771
+['20 mile', 'road']	['dirt road']	0.645616263174
+['20 mile', 'road']	['dirt']	0.606969729429
+['20 mile', 'road']	['3 hour']	0.117488318928
+['20 mile', 'road']	['entire trip']	0.0703393045902
+['20 mile', 'road']	['trip']	0.371974372328
+['20 mile', 'road']	['mile']	0.718359346772
+['20 mile', 'road']	['200 mile']	0.494524508322
+['20 mile', 'road']	['truck']	0.185711257371
+['hour', 'road']	['semi truck']	0.0780842671024
+['hour', 'road']	['pave road']	0.326322256687
+['hour', 'road']	['2 hour']	0.318667353707
+['hour', 'road']	['average speed']	0.0780842671024
+['hour', 'road']	['20 mile']	0.0780842671024
+['hour', 'road']	['dirt road']	0.305991245668
+['hour', 'road']	['dirt']	0.154494339349
+['hour', 'road']	['3 hour']	0.318667353707
+['hour', 'road']	['entire trip']	0.0780842671024
+['hour', 'road']	['trip']	0.254004812625
+['hour', 'road']	['mile']	0.182422153961
+['hour', 'road']	['200 mile']	0.0780842671024
+['hour', 'road']	['truck']	0.112715892137
+['dirt road', 'road']	['semi truck']	0.286714985902
+['dirt road', 'road']	['pave road']	0.768965306488
+['dirt road', 'road']	['2 hour']	0.218205435134
+['dirt road', 'road']	['average speed']	0.274461388425
+['dirt road', 'road']	['20 mile']	0.195306454053
+['dirt road', 'road']	['hour']	0.150448640686
+['dirt road', 'road']	['dirt']	0.757810552892
+['dirt road', 'road']	['3 hour']	0.218205435134
+['dirt road', 'road']	['entire trip']	0.270035932252
+['dirt road', 'road']	['trip']	0.655480580056
+['dirt road', 'road']	['mile']	0.505249595916
+['dirt road', 'road']	['200 mile']	0.195306454053
+['dirt road', 'road']	['truck']	0.516107766842
+['dirt', 'road']	['semi truck']	0.132417152272
+['dirt', 'road']	['pave road']	0.710768038676
+['dirt', 'road']	['2 hour']	0.131771183904
+['dirt', 'road']	['average speed']	0.129068327642
+['dirt', 'road']	['20 mile']	0.131771183904
+['dirt', 'road']	['hour']	0.200452348821
+['dirt', 'road']	['dirt road']	0.580490274078
+['dirt', 'road']	['3 hour']	0.131771183904
+['dirt', 'road']	['entire trip']	0.129068327642
+['dirt', 'road']	['trip']	0.433809488464
+['dirt', 'road']	['mile']	0.161554519756
+['dirt', 'road']	['200 mile']	0.131771183904
+['dirt', 'road']	['truck']	0.160355204006
+['3 hour', 'road']	['semi truck']	0.0703393045902
+['3 hour', 'road']	['pave road']	0.687529833909
+['3 hour', 'road']	['2 hour']	0.736313764211
+['3 hour', 'road']	['average speed']	0.0689582110755
+['3 hour', 'road']	['20 mile']	0.103222748661
+['3 hour', 'road']	['hour']	0.416126375151
+['3 hour', 'road']	['dirt road']	0.645616263174
+['3 hour', 'road']	['dirt']	0.606969729429
+['3 hour', 'road']	['entire trip']	0.0703393045902
+['3 hour', 'road']	['trip']	0.36928692336
+['3 hour', 'road']	['mile']	0.397461212454
+['3 hour', 'road']	['200 mile']	0.0696933362217
+['3 hour', 'road']	['truck']	0.185711257371
+['entire trip', 'road']	['semi truck']	0.0703393045902
+['entire trip', 'road']	['pave road']	0.687529833909
+['entire trip', 'road']	['2 hour']	0.0696933362217
+['entire trip', 'road']	['average speed']	0.0703393045902
+['entire trip', 'road']	['20 mile']	0.0696933362217
+['entire trip', 'road']	['hour']	0.00671452368913
+['entire trip', 'road']	['dirt road']	0.637532903691
+['entire trip', 'road']	['dirt']	0.54312261708
+['entire trip', 'road']	['3 hour']	0.0696933362217
+['entire trip', 'road']	['trip']	0.852058002787
+['entire trip', 'road']	['mile']	0.316883615056
+['entire trip', 'road']	['200 mile']	0.0696933362217
+['entire trip', 'road']	['truck']	0.186963162599
+['trip', 'road']	['semi truck']	0.0703393045902
+['trip', 'road']	['pave road']	0.692205356686
+['trip', 'road']	['2 hour']	0.0696933362217
+['trip', 'road']	['average speed']	0.0703393045902
+['trip', 'road']	['20 mile']	0.0696933362217
+['trip', 'road']	['hour']	0.00671452368913
+['trip', 'road']	['dirt road']	0.679416307458
+['trip', 'road']	['dirt']	0.481549757328
+['trip', 'road']	['3 hour']	0.0696933362217
+['trip', 'road']	['entire trip']	0.721919531857
+['trip', 'road']	['mile']	0.257920152508
+['trip', 'road']	['200 mile']	0.0696933362217
+['trip', 'road']	['truck']	0.461900168731
+['mile', 'road']	['semi truck']	0.0988807452127
+['mile', 'road']	['pave road']	0.359760932789
+['mile', 'road']	['2 hour']	0.0989480026901
+['mile', 'road']	['average speed']	0.0989480026901
+['mile', 'road']	['20 mile']	0.391516700063
+['mile', 'road']	['hour']	0.257862739113
+['mile', 'road']	['dirt road']	0.318634396923
+['mile', 'road']	['dirt']	0.229556887939
+['mile', 'road']	['3 hour']	0.0989480026901
+['mile', 'road']	['entire trip']	0.0989480026901
+['mile', 'road']	['trip']	0.30688269441
+['mile', 'road']	['200 mile']	0.371062249217
+['mile', 'road']	['truck']	0.122248537212
+['200 mile', 'road']	['semi truck']	0.0703393045902
+['200 mile', 'road']	['pave road']	0.68687409652
+['200 mile', 'road']	['2 hour']	0.0696933362217
+['200 mile', 'road']	['average speed']	0.0703393045902
+['200 mile', 'road']	['20 mile']	0.494524508322
+['200 mile', 'road']	['hour']	0.0229828448771
+['200 mile', 'road']	['dirt road']	0.62583000514
+['200 mile', 'road']	['dirt']	0.606969729429
+['200 mile', 'road']	['3 hour']	0.0696933362217
+['200 mile', 'road']	['entire trip']	0.0703393045902
+['200 mile', 'road']	['trip']	0.371974372328
+['200 mile', 'road']	['mile']	0.713244734512
+['200 mile', 'road']	['truck']	0.185711257371
+['truck', 'road']	['semi truck']	0.895168293608
+['truck', 'road']	['pave road']	0.710768038676
+['truck', 'road']	['2 hour']	0.131771183904
+['truck', 'road']	['average speed']	0.132417152272
+['truck', 'road']	['20 mile']	0.131771183904
+['truck', 'road']	['hour']	0.127354026283
+['truck', 'road']	['dirt road']	0.679416307458
+['truck', 'road']	['dirt']	0.332423817383
+['truck', 'road']	['3 hour']	0.131771183904
+['truck', 'road']	['entire trip']	0.132417152272
+['truck', 'road']	['trip']	0.445012329415
+['truck', 'road']	['mile']	0.161554519756
+['truck', 'road']	['200 mile']	0.131771183904
+['semi truck', '2 hour']	['pave road']	0.0827346205535
+['semi truck', '2 hour']	['road']	0.0741073489195
+['semi truck', '2 hour']	['average speed']	0.0827346205535
+['semi truck', '2 hour']	['20 mile']	0.140649313257
+['semi truck', '2 hour']	['hour']	0.231323283433
+['semi truck', '2 hour']	['dirt road']	0.0824069519204
+['semi truck', '2 hour']	['dirt']	0.0774561735493
+['semi truck', '2 hour']	['3 hour']	0.754360422532
+['semi truck', '2 hour']	['entire trip']	0.0827346205535
+['semi truck', '2 hour']	['trip']	0.0777864840342
+['semi truck', '2 hour']	['mile']	0.0132263547461
+['semi truck', '2 hour']	['200 mile']	0.0901100077042
+['semi truck', '2 hour']	['truck']	0.847021533945
+['pave road', '2 hour']	['semi truck']	0.0827346205535
+['pave road', '2 hour']	['road']	0.650955657599
+['pave road', '2 hour']	['average speed']	0.0827346205535
+['pave road', '2 hour']	['20 mile']	0.126675736021
+['pave road', '2 hour']	['hour']	0.251336146143
+['pave road', '2 hour']	['dirt road']	0.566188865804
+['pave road', '2 hour']	['dirt']	0.0774561735493
+['pave road', '2 hour']	['3 hour']	0.754360422532
+['pave road', '2 hour']	['entire trip']	0.0827346205535
+['pave road', '2 hour']	['trip']	0.0744376594044
+['pave road', '2 hour']	['mile']	0.0143499502517
+['pave road', '2 hour']	['200 mile']	0.0901100077042
+['pave road', '2 hour']	['truck']	0.0774561735493
+['road', '2 hour']	['semi truck']	0.0703393045902
+['road', '2 hour']	['pave road']	0.687529833909
+['road', '2 hour']	['average speed']	0.0689582110755
+['road', '2 hour']	['20 mile']	0.103222748661
+['road', '2 hour']	['hour']	0.416126375151
+['road', '2 hour']	['dirt road']	0.645616263174
+['road', '2 hour']	['dirt']	0.606969729429
+['road', '2 hour']	['3 hour']	0.736313764211
+['road', '2 hour']	['entire trip']	0.0703393045902
+['road', '2 hour']	['trip']	0.36928692336
+['road', '2 hour']	['mile']	0.397461212454
+['road', '2 hour']	['200 mile']	0.0696933362217
+['road', '2 hour']	['truck']	0.185711257371
+['average speed', '2 hour']	['semi truck']	0.0827346205535
+['average speed', '2 hour']	['pave road']	0.0827346205535
+['average speed', '2 hour']	['road']	0.0741073489195
+['average speed', '2 hour']	['20 mile']	0.126675736021
+['average speed', '2 hour']	['hour']	0.242413974605
+['average speed', '2 hour']	['dirt road']	0.0824069519204
+['average speed', '2 hour']	['dirt']	0.0774561735493
+['average speed', '2 hour']	['3 hour']	0.754360422532
+['average speed', '2 hour']	['entire trip']	0.0827346205535
+['average speed', '2 hour']	['trip']	0.0777864840342
+['average speed', '2 hour']	['mile']	0.0143499502517
+['average speed', '2 hour']	['200 mile']	0.0901100077042
+['average speed', '2 hour']	['truck']	0.079730351659
+['20 mile', '2 hour']	['semi truck']	0.0827346205535
+['20 mile', '2 hour']	['pave road']	0.0827346205535
+['20 mile', '2 hour']	['road']	0.0774561735493
+['20 mile', '2 hour']	['average speed']	0.0827346205535
+['20 mile', '2 hour']	['hour']	0.265372434584
+['20 mile', '2 hour']	['dirt road']	0.0824069519204
+['20 mile', '2 hour']	['dirt']	0.0774561735493
+['20 mile', '2 hour']	['3 hour']	0.800552772617
+['20 mile', '2 hour']	['entire trip']	0.0827346205535
+['20 mile', '2 hour']	['trip']	0.0777864840342
+['20 mile', '2 hour']	['mile']	0.432694812302
+['20 mile', '2 hour']	['200 mile']	0.584269096576
+['20 mile', '2 hour']	['truck']	0.079730351659
+['hour', '2 hour']	['semi truck']	0.0798131677782
+['hour', '2 hour']	['pave road']	0.0796379898895
+['hour', '2 hour']	['road']	0.159810117768
+['hour', '2 hour']	['average speed']	0.11034390648
+['hour', '2 hour']	['20 mile']	0.13923307048
+['hour', '2 hour']	['dirt road']	0.101745032879
+['hour', '2 hour']	['dirt']	0.413384021113
+['hour', '2 hour']	['3 hour']	0.721390522689
+['hour', '2 hour']	['entire trip']	0.11034390648
+['hour', '2 hour']	['trip']	0.157802930762
+['hour', '2 hour']	['mile']	0.578571428571
+['hour', '2 hour']	['200 mile']	0.125024962568
+['hour', '2 hour']	['truck']	0.313982861585
+['dirt road', '2 hour']	['semi truck']	0.0696933362217
+['dirt road', '2 hour']	['pave road']	0.525944474896
+['dirt road', '2 hour']	['road']	0.551144109634
+['dirt road', '2 hour']	['average speed']	0.0696933362217
+['dirt road', '2 hour']	['20 mile']	0.105691884463
+['dirt road', '2 hour']	['hour']	0.280747910849
+['dirt road', '2 hour']	['dirt']	0.530792669321
+['dirt road', '2 hour']	['3 hour']	0.73028733598
+['dirt road', '2 hour']	['entire trip']	0.0696933362217
+['dirt road', '2 hour']	['trip']	0.0634148935911
+['dirt road', '2 hour']	['mile']	0.011726423379
+['dirt road', '2 hour']	['200 mile']	0.0737139440912
+['dirt road', '2 hour']	['truck']	0.0650959234194
+['dirt', '2 hour']	['semi truck']	0.0696933362217
+['dirt', '2 hour']	['pave road']	0.0696933362217
+['dirt', '2 hour']	['road']	0.606969729429
+['dirt', '2 hour']	['average speed']	0.0696933362217
+['dirt', '2 hour']	['20 mile']	0.103222748661
+['dirt', '2 hour']	['hour']	0.495806365286
+['dirt', '2 hour']	['dirt road']	0.619247740011
+['dirt', '2 hour']	['3 hour']	0.736313764211
+['dirt', '2 hour']	['entire trip']	0.0703393045902
+['dirt', '2 hour']	['trip']	0.246429727416
+['dirt', '2 hour']	['mile']	0.29777020648
+['dirt', '2 hour']	['200 mile']	0.0696933362217
+['dirt', '2 hour']	['truck']	0.287172632079
+['3 hour', '2 hour']	['semi truck']	0.153587928078
+['3 hour', '2 hour']	['pave road']	0.14589133531
+['3 hour', '2 hour']	['road']	0.353457331236
+['3 hour', '2 hour']	['average speed']	0.153587928078
+['3 hour', '2 hour']	['20 mile']	0.356231993893
+['3 hour', '2 hour']	['hour']	0.69743410385
+['3 hour', '2 hour']	['dirt road']	0.16132566236
+['3 hour', '2 hour']	['dirt']	0.353457331236
+['3 hour', '2 hour']	['entire trip']	0.14589133531
+['3 hour', '2 hour']	['trip']	0.360804929274
+['3 hour', '2 hour']	['mile']	0.220317596327
+['3 hour', '2 hour']	['200 mile']	0.139258682248
+['3 hour', '2 hour']	['truck']	0.33665242287
+['entire trip', '2 hour']	['semi truck']	0.0827346205535
+['entire trip', '2 hour']	['pave road']	0.0827346205535
+['entire trip', '2 hour']	['road']	0.0741073489195
+['entire trip', '2 hour']	['average speed']	0.0827346205535
+['entire trip', '2 hour']	['20 mile']	0.140649313257
+['entire trip', '2 hour']	['hour']	0.231323283433
+['entire trip', '2 hour']	['dirt road']	0.0824069519204
+['entire trip', '2 hour']	['dirt']	0.0774561735493
+['entire trip', '2 hour']	['3 hour']	0.754360422532
+['entire trip', '2 hour']	['trip']	0.725294076221
+['entire trip', '2 hour']	['mile']	0.0132263547461
+['entire trip', '2 hour']	['200 mile']	0.0901100077042
+['entire trip', '2 hour']	['truck']	0.079730351659
+['trip', '2 hour']	['semi truck']	0.0827346205535
+['trip', '2 hour']	['pave road']	0.101119282389
+['trip', '2 hour']	['road']	0.372364672201
+['trip', '2 hour']	['average speed']	0.0827346205535
+['trip', '2 hour']	['20 mile']	0.124206600218
+['trip', '2 hour']	['hour']	0.384753826131
+['trip', '2 hour']	['dirt road']	0.100791613756
+['trip', '2 hour']	['dirt']	0.282334986149
+['trip', '2 hour']	['3 hour']	0.760386850763
+['trip', '2 hour']	['entire trip']	0.648578713416
+['trip', '2 hour']	['mile']	0.155766167646
+['trip', '2 hour']	['200 mile']	0.0901100077042
+['trip', '2 hour']	['truck']	0.721931692495
+['mile', '2 hour']	['semi truck']	0.0361569291624
+['mile', '2 hour']	['pave road']	0.0361569291624
+['mile', '2 hour']	['road']	0.434589983476
+['mile', '2 hour']	['average speed']	0.0361569291624
+['mile', '2 hour']	['20 mile']	0.534447259735
+['mile', '2 hour']	['hour']	0.554794460525
+['mile', '2 hour']	['dirt road']	0.0421463435009
+['mile', '2 hour']	['dirt']	0.250588487454
+['mile', '2 hour']	['3 hour']	0.460558503228
+['mile', '2 hour']	['entire trip']	0.0361569291624
+['mile', '2 hour']	['trip']	0.12850470425
+['mile', '2 hour']	['200 mile']	0.365401430504
+['mile', '2 hour']	['truck']	0.250588487454
+['200 mile', '2 hour']	['semi truck']	0.0827346205535
+['200 mile', '2 hour']	['pave road']	0.0827346205535
+['200 mile', '2 hour']	['road']	0.0774561735493
+['200 mile', '2 hour']	['average speed']	0.0827346205535
+['200 mile', '2 hour']	['20 mile']	0.604308352538
+['200 mile', '2 hour']	['hour']	0.265372434584
+['200 mile', '2 hour']	['dirt road']	0.0824069519204
+['200 mile', '2 hour']	['dirt']	0.0774561735493
+['200 mile', '2 hour']	['3 hour']	0.754360422532
+['200 mile', '2 hour']	['entire trip']	0.0827346205535
+['200 mile', '2 hour']	['trip']	0.0777864840342
+['200 mile', '2 hour']	['mile']	0.430630568157
+['200 mile', '2 hour']	['truck']	0.079730351659
+['truck', '2 hour']	['semi truck']	0.843559540977
+['truck', '2 hour']	['pave road']	0.0703393045902
+['truck', '2 hour']	['road']	0.185711257371
+['truck', '2 hour']	['average speed']	0.0696933362217
+['truck', '2 hour']	['20 mile']	0.103222748661
+['truck', '2 hour']	['hour']	0.455806365286
+['truck', '2 hour']	['dirt road']	0.0753417929659
+['truck', '2 hour']	['dirt']	0.287172632079
+['truck', '2 hour']	['3 hour']	0.736313764211
+['truck', '2 hour']	['entire trip']	0.0696933362217
+['truck', '2 hour']	['trip']	0.716321309289
+['truck', '2 hour']	['mile']	0.29777020648
+['truck', '2 hour']	['200 mile']	0.0737139440912
+['semi truck', 'average speed']	['pave road']	0.0827346205535
+['semi truck', 'average speed']	['road']	0.0741073489195
+['semi truck', 'average speed']	['2 hour']	0.0827346205535
+['semi truck', 'average speed']	['20 mile']	0.0827346205535
+['semi truck', 'average speed']	['hour']	0.00424649792755
+['semi truck', 'average speed']	['dirt road']	0.0824069519204
+['semi truck', 'average speed']	['dirt']	0.0831172035382
+['semi truck', 'average speed']	['3 hour']	0.0827346205535
+['semi truck', 'average speed']	['entire trip']	0.0827346205535
+['semi truck', 'average speed']	['trip']	0.0888375395985
+['semi truck', 'average speed']	['mile']	0.0132263547461
+['semi truck', 'average speed']	['200 mile']	0.0901100077042
+['semi truck', 'average speed']	['truck']	0.811746255271
+['pave road', 'average speed']	['semi truck']	0.0827346205535
+['pave road', 'average speed']	['road']	0.653738463029
+['pave road', 'average speed']	['2 hour']	0.0901100077042
+['pave road', 'average speed']	['20 mile']	0.0901100077042
+['pave road', 'average speed']	['hour']	0.00424649792755
+['pave road', 'average speed']	['dirt road']	0.577101062223
+['pave road', 'average speed']	['dirt']	0.0774561735493
+['pave road', 'average speed']	['3 hour']	0.0901100077042
+['pave road', 'average speed']	['entire trip']	0.0901100077042
+['pave road', 'average speed']	['trip']	0.0777864840342
+['pave road', 'average speed']	['mile']	0.0132263547461
+['pave road', 'average speed']	['200 mile']	0.0901100077042
+['pave road', 'average speed']	['truck']	0.0774561735493
+['road', 'average speed']	['semi truck']	0.0689582110755
+['road', 'average speed']	['pave road']	0.68687409652
+['road', 'average speed']	['2 hour']	0.0696933362217
+['road', 'average speed']	['20 mile']	0.0696933362217
+['road', 'average speed']	['hour']	0.00298284487713
+['road', 'average speed']	['dirt road']	0.62583000514
+['road', 'average speed']	['dirt']	0.54312261708
+['road', 'average speed']	['3 hour']	0.0696933362217
+['road', 'average speed']	['entire trip']	0.0703393045902
+['road', 'average speed']	['trip']	0.339878471323
+['road', 'average speed']	['mile']	0.320542576381
+['road', 'average speed']	['200 mile']	0.0696933362217
+['road', 'average speed']	['truck']	0.186963162599
+['2 hour', 'average speed']	['semi truck']	0.0827346205535
+['2 hour', 'average speed']	['pave road']	0.0827346205535
+['2 hour', 'average speed']	['road']	0.0741073489195
+['2 hour', 'average speed']	['20 mile']	0.126675736021
+['2 hour', 'average speed']	['hour']	0.242413974605
+['2 hour', 'average speed']	['dirt road']	0.0824069519204
+['2 hour', 'average speed']	['dirt']	0.0774561735493
+['2 hour', 'average speed']	['3 hour']	0.754360422532
+['2 hour', 'average speed']	['entire trip']	0.0827346205535
+['2 hour', 'average speed']	['trip']	0.0777864840342
+['2 hour', 'average speed']	['mile']	0.0143499502517
+['2 hour', 'average speed']	['200 mile']	0.0901100077042
+['2 hour', 'average speed']	['truck']	0.079730351659
+['20 mile', 'average speed']	['semi truck']	0.0827346205535
+['20 mile', 'average speed']	['pave road']	0.0827346205535
+['20 mile', 'average speed']	['road']	0.0760750800346
+['20 mile', 'average speed']	['2 hour']	0.126675736021
+['20 mile', 'average speed']	['hour']	0.00424649792755
+['20 mile', 'average speed']	['dirt road']	0.0824069519204
+['20 mile', 'average speed']	['dirt']	0.079730351659
+['20 mile', 'average speed']	['3 hour']	0.126675736021
+['20 mile', 'average speed']	['entire trip']	0.0827346205535
+['20 mile', 'average speed']	['trip']	0.0777864840342
+['20 mile', 'average speed']	['mile']	0.388108272712
+['20 mile', 'average speed']	['200 mile']	0.584269096576
+['20 mile', 'average speed']	['truck']	0.079730351659
+['hour', 'average speed']	['semi truck']	0.0165341599722
+['hour', 'average speed']	['pave road']	0.015360451052
+['hour', 'average speed']	['road']	0.0151338172199
+['hour', 'average speed']	['2 hour']	0.333482168522
+['hour', 'average speed']	['20 mile']	0.0160064194205
+['hour', 'average speed']	['dirt road']	0.0187492693053
+['hour', 'average speed']	['dirt']	0.258215023444
+['hour', 'average speed']	['3 hour']	0.333482168522
+['hour', 'average speed']	['entire trip']	0.015360451052
+['hour', 'average speed']	['trip']	0.0164595524146
+['hour', 'average speed']	['mile']	0.353289072039
+['hour', 'average speed']	['200 mile']	0.0160064194205
+['hour', 'average speed']	['truck']	0.136017798493
+['dirt road', 'average speed']	['semi truck']	0.0696933362217
+['dirt road', 'average speed']	['pave road']	0.525944474896
+['dirt road', 'average speed']	['road']	0.653115576673
+['dirt road', 'average speed']	['2 hour']	0.0696933362217
+['dirt road', 'average speed']	['20 mile']	0.0696933362217
+['dirt road', 'average speed']	['hour']	0.00222717737084
+['dirt road', 'average speed']	['dirt']	0.505792669321
+['dirt road', 'average speed']	['3 hour']	0.0696933362217
+['dirt road', 'average speed']	['entire trip']	0.0696933362217
+['dirt road', 'average speed']	['trip']	0.0667637182209
+['dirt road', 'average speed']	['mile']	0.0106028278734
+['dirt road', 'average speed']	['200 mile']	0.0737139440912
+['dirt road', 'average speed']	['truck']	0.0650959234194
+['dirt', 'average speed']	['semi truck']	0.0696933362217
+['dirt', 'average speed']	['pave road']	0.0696933362217
+['dirt', 'average speed']	['road']	0.55965808297
+['dirt', 'average speed']	['2 hour']	0.0696933362217
+['dirt', 'average speed']	['20 mile']	0.0696933362217
+['dirt', 'average speed']	['hour']	0.204111310146
+['dirt', 'average speed']	['dirt road']	0.560914406678
+['dirt', 'average speed']	['3 hour']	0.0696933362217
+['dirt', 'average speed']	['entire trip']	0.0703393045902
+['dirt', 'average speed']	['trip']	0.230934220149
+['dirt', 'average speed']	['mile']	0.270657771957
+['dirt', 'average speed']	['200 mile']	0.0696933362217
+['dirt', 'average speed']	['truck']	0.289629897036
+['3 hour', 'average speed']	['semi truck']	0.0827346205535
+['3 hour', 'average speed']	['pave road']	0.0827346205535
+['3 hour', 'average speed']	['road']	0.0741073489195
+['3 hour', 'average speed']	['2 hour']	0.754360422532
+['3 hour', 'average speed']	['20 mile']	0.126675736021
+['3 hour', 'average speed']	['hour']	0.242413974605
+['3 hour', 'average speed']	['dirt road']	0.0824069519204
+['3 hour', 'average speed']	['dirt']	0.0774561735493
+['3 hour', 'average speed']	['entire trip']	0.0827346205535
+['3 hour', 'average speed']	['trip']	0.0777864840342
+['3 hour', 'average speed']	['mile']	0.0143499502517
+['3 hour', 'average speed']	['200 mile']	0.0901100077042
+['3 hour', 'average speed']	['truck']	0.079730351659
+['entire trip', 'average speed']	['semi truck']	0.0827346205535
+['entire trip', 'average speed']	['pave road']	0.0827346205535
+['entire trip', 'average speed']	['road']	0.0741073489195
+['entire trip', 'average speed']	['2 hour']	0.0827346205535
+['entire trip', 'average speed']	['20 mile']	0.0827346205535
+['entire trip', 'average speed']	['hour']	0.00424649792755
+['entire trip', 'average speed']	['dirt road']	0.0824069519204
+['entire trip', 'average speed']	['dirt']	0.0831172035382
+['entire trip', 'average speed']	['3 hour']	0.0827346205535
+['entire trip', 'average speed']	['trip']	0.70007858174
+['entire trip', 'average speed']	['mile']	0.0132263547461
+['entire trip', 'average speed']	['200 mile']	0.0901100077042
+['entire trip', 'average speed']	['truck']	0.0831172035382
+['trip', 'average speed']	['semi truck']	0.0827346205535
+['trip', 'average speed']	['pave road']	0.101119282389
+['trip', 'average speed']	['road']	0.375232778788
+['trip', 'average speed']	['2 hour']	0.0901100077042
+['trip', 'average speed']	['20 mile']	0.0901100077042
+['trip', 'average speed']	['hour']	0.00500216543384
+['trip', 'average speed']	['dirt road']	0.100791613756
+['trip', 'average speed']	['dirt']	0.285721838028
+['trip', 'average speed']	['3 hour']	0.0901100077042
+['trip', 'average speed']	['entire trip']	0.648578713416
+['trip', 'average speed']	['mile']	0.11596780482
+['trip', 'average speed']	['200 mile']	0.0901100077042
+['trip', 'average speed']	['truck']	0.69319057077
+['mile', 'average speed']	['semi truck']	0.0361569291624
+['mile', 'average speed']	['pave road']	0.0361569291624
+['mile', 'average speed']	['road']	0.474207505504
+['mile', 'average speed']	['2 hour']	0.0368028975308
+['mile', 'average speed']	['20 mile']	0.391516700063
+['mile', 'average speed']	['hour']	0.386622405372
+['mile', 'average speed']	['dirt road']	0.0421463435009
+['mile', 'average speed']	['dirt']	0.253045752412
+['mile', 'average speed']	['3 hour']	0.0368028975308
+['mile', 'average speed']	['entire trip']	0.0361569291624
+['mile', 'average speed']	['trip']	0.111108266392
+['mile', 'average speed']	['200 mile']	0.365401430504
+['mile', 'average speed']	['truck']	0.253045752412
+['200 mile', 'average speed']	['semi truck']	0.0827346205535
+['200 mile', 'average speed']	['pave road']	0.0901100077042
+['200 mile', 'average speed']	['road']	0.0760750800346
+['200 mile', 'average speed']	['2 hour']	0.0901100077042
+['200 mile', 'average speed']	['20 mile']	0.584269096576
+['200 mile', 'average speed']	['hour']	0.00424649792755
+['200 mile', 'average speed']	['dirt road']	0.0897823390711
+['200 mile', 'average speed']	['dirt']	0.079730351659
+['200 mile', 'average speed']	['3 hour']	0.0901100077042
+['200 mile', 'average speed']	['entire trip']	0.0901100077042
+['200 mile', 'average speed']	['trip']	0.0777864840342
+['200 mile', 'average speed']	['mile']	0.384528877052
+['200 mile', 'average speed']	['truck']	0.079730351659
+['truck', 'average speed']	['semi truck']	0.816877425091
+['truck', 'average speed']	['pave road']	0.0703393045902
+['truck', 'average speed']	['road']	0.214505289884
+['truck', 'average speed']	['2 hour']	0.0737139440912
+['truck', 'average speed']	['20 mile']	0.0737139440912
+['truck', 'average speed']	['hour']	0.15769458104
+['truck', 'average speed']	['dirt road']	0.0753417929659
+['truck', 'average speed']	['dirt']	0.289629897036
+['truck', 'average speed']	['3 hour']	0.0737139440912
+['truck', 'average speed']	['entire trip']	0.0737139440912
+['truck', 'average speed']	['trip']	0.698536001133
+['truck', 'average speed']	['mile']	0.270657771957
+['truck', 'average speed']	['200 mile']	0.0737139440912
+['semi truck', '20 mile']	['pave road']	0.0827346205535
+['semi truck', '20 mile']	['road']	0.0760750800346
+['semi truck', '20 mile']	['2 hour']	0.140649313257
+['semi truck', '20 mile']	['average speed']	0.0827346205535
+['semi truck', '20 mile']	['hour']	0.00424649792755
+['semi truck', '20 mile']	['dirt road']	0.0824069519204
+['semi truck', '20 mile']	['dirt']	0.079730351659
+['semi truck', '20 mile']	['3 hour']	0.140649313257
+['semi truck', '20 mile']	['entire trip']	0.0827346205535
+['semi truck', '20 mile']	['trip']	0.0777864840342
+['semi truck', '20 mile']	['mile']	0.306370088568
+['semi truck', '20 mile']	['200 mile']	0.584269096576
+['semi truck', '20 mile']	['truck']	0.811746255271
+['pave road', '20 mile']	['semi truck']	0.0827346205535
+['pave road', '20 mile']	['road']	0.664693031336
+['pave road', '20 mile']	['2 hour']	0.126675736021
+['pave road', '20 mile']	['average speed']	0.0827346205535
+['pave road', '20 mile']	['hour']	0.00424649792755
+['pave road', '20 mile']	['dirt road']	0.566188865804
+['pave road', '20 mile']	['dirt']	0.0774561735493
+['pave road', '20 mile']	['3 hour']	0.126675736021
+['pave road', '20 mile']	['entire trip']	0.0827346205535
+['pave road', '20 mile']	['trip']	0.0744376594044
+['pave road', '20 mile']	['mile']	0.351874311122
+['pave road', '20 mile']	['200 mile']	0.584269096576
+['pave road', '20 mile']	['truck']	0.0774561735493
+['road', '20 mile']	['semi truck']	0.0703393045902
+['road', '20 mile']	['pave road']	0.687529833909
+['road', '20 mile']	['2 hour']	0.117488318928
+['road', '20 mile']	['average speed']	0.0689582110755
+['road', '20 mile']	['hour']	0.0229828448771
+['road', '20 mile']	['dirt road']	0.645616263174
+['road', '20 mile']	['dirt']	0.606969729429
+['road', '20 mile']	['3 hour']	0.117488318928
+['road', '20 mile']	['entire trip']	0.0703393045902
+['road', '20 mile']	['trip']	0.371974372328
+['road', '20 mile']	['mile']	0.718359346772
+['road', '20 mile']	['200 mile']	0.494524508322
+['road', '20 mile']	['truck']	0.185711257371
+['2 hour', '20 mile']	['semi truck']	0.0827346205535
+['2 hour', '20 mile']	['pave road']	0.0827346205535
+['2 hour', '20 mile']	['road']	0.0774561735493
+['2 hour', '20 mile']	['average speed']	0.0827346205535
+['2 hour', '20 mile']	['hour']	0.265372434584
+['2 hour', '20 mile']	['dirt road']	0.0824069519204
+['2 hour', '20 mile']	['dirt']	0.0774561735493
+['2 hour', '20 mile']	['3 hour']	0.800552772617
+['2 hour', '20 mile']	['entire trip']	0.0827346205535
+['2 hour', '20 mile']	['trip']	0.0777864840342
+['2 hour', '20 mile']	['mile']	0.432694812302
+['2 hour', '20 mile']	['200 mile']	0.584269096576
+['2 hour', '20 mile']	['truck']	0.079730351659
+['average speed', '20 mile']	['semi truck']	0.0827346205535
+['average speed', '20 mile']	['pave road']	0.0827346205535
+['average speed', '20 mile']	['road']	0.0760750800346
+['average speed', '20 mile']	['2 hour']	0.126675736021
+['average speed', '20 mile']	['hour']	0.00424649792755
+['average speed', '20 mile']	['dirt road']	0.0824069519204
+['average speed', '20 mile']	['dirt']	0.079730351659
+['average speed', '20 mile']	['3 hour']	0.126675736021
+['average speed', '20 mile']	['entire trip']	0.0827346205535
+['average speed', '20 mile']	['trip']	0.0777864840342
+['average speed', '20 mile']	['mile']	0.388108272712
+['average speed', '20 mile']	['200 mile']	0.584269096576
+['average speed', '20 mile']	['truck']	0.079730351659
+['hour', '20 mile']	['semi truck']	0.0165341599722
+['hour', '20 mile']	['pave road']	0.015360451052
+['hour', '20 mile']	['road']	0.0163075261401
+['hour', '20 mile']	['2 hour']	0.369528023465
+['hour', '20 mile']	['average speed']	0.015360451052
+['hour', '20 mile']	['dirt road']	0.0187492693053
+['hour', '20 mile']	['dirt']	0.28909109182
+['hour', '20 mile']	['3 hour']	0.369528023465
+['hour', '20 mile']	['entire trip']	0.015360451052
+['hour', '20 mile']	['trip']	0.0152537708965
+['hour', '20 mile']	['mile']	0.598565504296
+['hour', '20 mile']	['200 mile']	0.0852471420558
+['hour', '20 mile']	['truck']	0.133560533536
+['dirt road', '20 mile']	['semi truck']	0.0696933362217
+['dirt road', '20 mile']	['pave road']	0.525944474896
+['dirt road', '20 mile']	['road']	0.564881483371
+['dirt road', '20 mile']	['2 hour']	0.105691884463
+['dirt road', '20 mile']	['average speed']	0.0696933362217
+['dirt road', '20 mile']	['hour']	0.00222717737084
+['dirt road', '20 mile']	['dirt']	0.530792669321
+['dirt road', '20 mile']	['3 hour']	0.105691884463
+['dirt road', '20 mile']	['entire trip']	0.0696933362217
+['dirt road', '20 mile']	['trip']	0.0634148935911
+['dirt road', '20 mile']	['mile']	0.348196355719
+['dirt road', '20 mile']	['200 mile']	0.544221442934
+['dirt road', '20 mile']	['truck']	0.0650959234194
+['dirt', '20 mile']	['semi truck']	0.0696933362217
+['dirt', '20 mile']	['pave road']	0.0696933362217
+['dirt', '20 mile']	['road']	0.606969729429
+['dirt', '20 mile']	['2 hour']	0.117488318928
+['dirt', '20 mile']	['average speed']	0.0696933362217
+['dirt', '20 mile']	['hour']	0.271968453003
+['dirt', '20 mile']	['dirt road']	0.619247740011
+['dirt', '20 mile']	['3 hour']	0.117488318928
+['dirt', '20 mile']	['entire trip']	0.0703393045902
+['dirt', '20 mile']	['trip']	0.230902147551
+['dirt', '20 mile']	['mile']	0.686151554564
+['dirt', '20 mile']	['200 mile']	0.494524508322
+['dirt', '20 mile']	['truck']	0.287172632079
+['3 hour', '20 mile']	['semi truck']	0.0827346205535
+['3 hour', '20 mile']	['pave road']	0.0827346205535
+['3 hour', '20 mile']	['road']	0.0774561735493
+['3 hour', '20 mile']	['2 hour']	0.800552772617
+['3 hour', '20 mile']	['average speed']	0.0827346205535
+['3 hour', '20 mile']	['hour']	0.265372434584
+['3 hour', '20 mile']	['dirt road']	0.0824069519204
+['3 hour', '20 mile']	['dirt']	0.0774561735493
+['3 hour', '20 mile']	['entire trip']	0.0827346205535
+['3 hour', '20 mile']	['trip']	0.0777864840342
+['3 hour', '20 mile']	['mile']	0.432694812302
+['3 hour', '20 mile']	['200 mile']	0.584269096576
+['3 hour', '20 mile']	['truck']	0.079730351659
+['entire trip', '20 mile']	['semi truck']	0.0827346205535
+['entire trip', '20 mile']	['pave road']	0.0827346205535
+['entire trip', '20 mile']	['road']	0.0760750800346
+['entire trip', '20 mile']	['2 hour']	0.140649313257
+['entire trip', '20 mile']	['average speed']	0.0827346205535
+['entire trip', '20 mile']	['hour']	0.00424649792755
+['entire trip', '20 mile']	['dirt road']	0.0824069519204
+['entire trip', '20 mile']	['dirt']	0.079730351659
+['entire trip', '20 mile']	['3 hour']	0.140649313257
+['entire trip', '20 mile']	['trip']	0.722511270791
+['entire trip', '20 mile']	['mile']	0.306370088568
+['entire trip', '20 mile']	['200 mile']	0.584269096576
+['entire trip', '20 mile']	['truck']	0.079730351659
+['trip', '20 mile']	['semi truck']	0.0827346205535
+['trip', '20 mile']	['pave road']	0.101119282389
+['trip', '20 mile']	['road']	0.372364672201
+['trip', '20 mile']	['2 hour']	0.124206600218
+['trip', '20 mile']	['average speed']	0.0827346205535
+['trip', '20 mile']	['hour']	0.00500216543384
+['trip', '20 mile']	['dirt road']	0.100791613756
+['trip', '20 mile']	['dirt']	0.282334986149
+['trip', '20 mile']	['3 hour']	0.124206600218
+['trip', '20 mile']	['entire trip']	0.648578713416
+['trip', '20 mile']	['mile']	0.627173633678
+['trip', '20 mile']	['200 mile']	0.584269096576
+['trip', '20 mile']	['truck']	0.721931692495
+['mile', '20 mile']	['semi truck']	0.0968024870635
+['mile', '20 mile']	['pave road']	0.0968024870635
+['mile', '20 mile']	['road']	0.55563220267
+['mile', '20 mile']	['2 hour']	0.230679323185
+['mile', '20 mile']	['average speed']	0.150377262293
+['mile', '20 mile']	['hour']	0.578571428571
+['mile', '20 mile']	['dirt road']	0.103856602467
+['mile', '20 mile']	['dirt']	0.406338837076
+['mile', '20 mile']	['3 hour']	0.230679323185
+['mile', '20 mile']	['entire trip']	0.0968024870635
+['mile', '20 mile']	['trip']	0.330578493
+['mile', '20 mile']	['200 mile']	0.610690210365
+['mile', '20 mile']	['truck']	0.406338837076
+['200 mile', '20 mile']	['semi truck']	0.14589133531
+['200 mile', '20 mile']	['pave road']	0.14589133531
+['200 mile', '20 mile']	['road']	0.352570693243
+['200 mile', '20 mile']	['2 hour']	0.264907405557
+['200 mile', '20 mile']	['average speed']	0.153587928078
+['200 mile', '20 mile']	['hour']	0.156901862603
+['200 mile', '20 mile']	['dirt road']	0.153629069592
+['200 mile', '20 mile']	['dirt']	0.352570693243
+['200 mile', '20 mile']	['3 hour']	0.264907405557
+['200 mile', '20 mile']	['entire trip']	0.14589133531
+['200 mile', '20 mile']	['trip']	0.327028499836
+['200 mile', '20 mile']	['mile']	0.67956664036
+['200 mile', '20 mile']	['truck']	0.33665242287
+['truck', '20 mile']	['semi truck']	0.843559540977
+['truck', '20 mile']	['pave road']	0.0703393045902
+['truck', '20 mile']	['road']	0.185711257371
+['truck', '20 mile']	['2 hour']	0.103222748661
+['truck', '20 mile']	['average speed']	0.0696933362217
+['truck', '20 mile']	['hour']	0.183885057231
+['truck', '20 mile']	['dirt road']	0.0753417929659
+['truck', '20 mile']	['dirt']	0.287172632079
+['truck', '20 mile']	['3 hour']	0.103222748661
+['truck', '20 mile']	['entire trip']	0.0696933362217
+['truck', '20 mile']	['trip']	0.719008758257
+['truck', '20 mile']	['mile']	0.686151554564
+['truck', '20 mile']	['200 mile']	0.522652815483
+['semi truck', 'hour']	['pave road']	0.015360451052
+['semi truck', 'hour']	['road']	0.0151338172199
+['semi truck', 'hour']	['2 hour']	0.318667353707
+['semi truck', 'hour']	['average speed']	0.015360451052
+['semi truck', 'hour']	['20 mile']	0.0160064194205
+['semi truck', 'hour']	['dirt road']	0.0187492693053
+['semi truck', 'hour']	['dirt']	0.258215023444
+['semi truck', 'hour']	['3 hour']	0.318667353707
+['semi truck', 'hour']	['entire trip']	0.015360451052
+['semi truck', 'hour']	['trip']	0.0164595524146
+['semi truck', 'hour']	['mile']	0.324529405779
+['semi truck', 'hour']	['200 mile']	0.0160064194205
+['semi truck', 'hour']	['truck']	0.417918295433
+['pave road', 'hour']	['semi truck']	0.0165341599722
+['pave road', 'hour']	['road']	0.366258435663
+['pave road', 'hour']	['2 hour']	0.333482168522
+['pave road', 'hour']	['average speed']	0.015360451052
+['pave road', 'hour']	['20 mile']	0.0160064194205
+['pave road', 'hour']	['dirt road']	0.111310587355
+['pave road', 'hour']	['dirt']	0.295308023037
+['pave road', 'hour']	['3 hour']	0.333482168522
+['pave road', 'hour']	['entire trip']	0.015360451052
+['pave road', 'hour']	['trip']	0.0152537708965
+['pave road', 'hour']	['mile']	0.372998066748
+['pave road', 'hour']	['200 mile']	0.0160064194205
+['pave road', 'hour']	['truck']	0.199036724012
+['road', 'hour']	['semi truck']	0.0780842671024
+['road', 'hour']	['pave road']	0.326322256687
+['road', 'hour']	['2 hour']	0.318667353707
+['road', 'hour']	['average speed']	0.0780842671024
+['road', 'hour']	['20 mile']	0.0780842671024
+['road', 'hour']	['dirt road']	0.305991245668
+['road', 'hour']	['dirt']	0.154494339349
+['road', 'hour']	['3 hour']	0.318667353707
+['road', 'hour']	['entire trip']	0.0780842671024
+['road', 'hour']	['trip']	0.254004812625
+['road', 'hour']	['mile']	0.182422153961
+['road', 'hour']	['200 mile']	0.0780842671024
+['road', 'hour']	['truck']	0.112715892137
+['2 hour', 'hour']	['semi truck']	0.0798131677782
+['2 hour', 'hour']	['pave road']	0.0796379898895
+['2 hour', 'hour']	['road']	0.159810117768
+['2 hour', 'hour']	['average speed']	0.11034390648
+['2 hour', 'hour']	['20 mile']	0.13923307048
+['2 hour', 'hour']	['dirt road']	0.101745032879
+['2 hour', 'hour']	['dirt']	0.413384021113
+['2 hour', 'hour']	['3 hour']	0.721390522689
+['2 hour', 'hour']	['entire trip']	0.11034390648
+['2 hour', 'hour']	['trip']	0.157802930762
+['2 hour', 'hour']	['mile']	0.578571428571
+['2 hour', 'hour']	['200 mile']	0.125024962568
+['2 hour', 'hour']	['truck']	0.313982861585
+['average speed', 'hour']	['semi truck']	0.0165341599722
+['average speed', 'hour']	['pave road']	0.015360451052
+['average speed', 'hour']	['road']	0.0151338172199
+['average speed', 'hour']	['2 hour']	0.333482168522
+['average speed', 'hour']	['20 mile']	0.0160064194205
+['average speed', 'hour']	['dirt road']	0.0187492693053
+['average speed', 'hour']	['dirt']	0.258215023444
+['average speed', 'hour']	['3 hour']	0.333482168522
+['average speed', 'hour']	['entire trip']	0.015360451052
+['average speed', 'hour']	['trip']	0.0164595524146
+['average speed', 'hour']	['mile']	0.353289072039
+['average speed', 'hour']	['200 mile']	0.0160064194205
+['average speed', 'hour']	['truck']	0.136017798493
+['20 mile', 'hour']	['semi truck']	0.0165341599722
+['20 mile', 'hour']	['pave road']	0.015360451052
+['20 mile', 'hour']	['road']	0.0163075261401
+['20 mile', 'hour']	['2 hour']	0.369528023465
+['20 mile', 'hour']	['average speed']	0.015360451052
+['20 mile', 'hour']	['dirt road']	0.0187492693053
+['20 mile', 'hour']	['dirt']	0.28909109182
+['20 mile', 'hour']	['3 hour']	0.369528023465
+['20 mile', 'hour']	['entire trip']	0.015360451052
+['20 mile', 'hour']	['trip']	0.0152537708965
+['20 mile', 'hour']	['mile']	0.598565504296
+['20 mile', 'hour']	['200 mile']	0.0852471420558
+['20 mile', 'hour']	['truck']	0.133560533536
+['dirt road', 'hour']	['semi truck']	0.0786120076541
+['dirt road', 'hour']	['pave road']	0.0999907317994
+['dirt road', 'hour']	['road']	0.41486162313
+['dirt road', 'hour']	['2 hour']	0.318667353707
+['dirt road', 'hour']	['average speed']	0.0774382987339
+['dirt road', 'hour']	['20 mile']	0.0780842671024
+['dirt road', 'hour']	['dirt']	0.445794544209
+['dirt road', 'hour']	['3 hour']	0.318667353707
+['dirt road', 'hour']	['entire trip']	0.0774382987339
+['dirt road', 'hour']	['trip']	0.0773316185783
+['dirt road', 'hour']	['mile']	0.372998066748
+['dirt road', 'hour']	['200 mile']	0.0780842671024
+['dirt road', 'hour']	['truck']	0.261114571694
+['dirt', 'hour']	['semi truck']	0.0786120076541
+['dirt', 'hour']	['pave road']	0.0774382987339
+['dirt', 'hour']	['road']	0.190191843883
+['dirt', 'hour']	['2 hour']	0.318667353707
+['dirt', 'hour']	['average speed']	0.0774382987339
+['dirt', 'hour']	['20 mile']	0.0780842671024
+['dirt', 'hour']	['dirt road']	0.46878459026
+['dirt', 'hour']	['3 hour']	0.318667353707
+['dirt', 'hour']	['entire trip']	0.0780842671024
+['dirt', 'hour']	['trip']	0.100286768099
+['dirt', 'hour']	['mile']	0.180103313381
+['dirt', 'hour']	['200 mile']	0.0780842671024
+['dirt', 'hour']	['truck']	0.0814620500202
+['3 hour', 'hour']	['semi truck']	0.0798131677782
+['3 hour', 'hour']	['pave road']	0.0796379898895
+['3 hour', 'hour']	['road']	0.159810117768
+['3 hour', 'hour']	['2 hour']	0.721390522689
+['3 hour', 'hour']	['average speed']	0.11034390648
+['3 hour', 'hour']	['20 mile']	0.13923307048
+['3 hour', 'hour']	['dirt road']	0.101745032879
+['3 hour', 'hour']	['dirt']	0.413384021113
+['3 hour', 'hour']	['entire trip']	0.11034390648
+['3 hour', 'hour']	['trip']	0.157802930762
+['3 hour', 'hour']	['mile']	0.578571428571
+['3 hour', 'hour']	['200 mile']	0.125024962568
+['3 hour', 'hour']	['truck']	0.313982861585
+['entire trip', 'hour']	['semi truck']	0.0165341599722
+['entire trip', 'hour']	['pave road']	0.015360451052
+['entire trip', 'hour']	['road']	0.0151338172199
+['entire trip', 'hour']	['2 hour']	0.333482168522
+['entire trip', 'hour']	['average speed']	0.015360451052
+['entire trip', 'hour']	['20 mile']	0.0160064194205
+['entire trip', 'hour']	['dirt road']	0.0187492693053
+['entire trip', 'hour']	['dirt']	0.258215023444
+['entire trip', 'hour']	['3 hour']	0.333482168522
+['entire trip', 'hour']	['trip']	0.332736283649
+['entire trip', 'hour']	['mile']	0.324529405779
+['entire trip', 'hour']	['200 mile']	0.0160064194205
+['entire trip', 'hour']	['truck']	0.136017798493
+['trip', 'hour']	['semi truck']	0.0165341599722
+['trip', 'hour']	['pave road']	0.0337451128878
+['trip', 'hour']	['road']	0.159437228495
+['trip', 'hour']	['2 hour']	0.333482168522
+['trip', 'hour']	['average speed']	0.015360451052
+['trip', 'hour']	['20 mile']	0.0160064194205
+['trip', 'hour']	['dirt road']	0.0371339311411
+['trip', 'hour']	['dirt']	0.258380730753
+['trip', 'hour']	['3 hour']	0.333482168522
+['trip', 'hour']	['entire trip']	0.302588939335
+['trip', 'hour']	['mile']	0.297704008954
+['trip', 'hour']	['200 mile']	0.0160064194205
+['trip', 'hour']	['truck']	0.062720541044
+['mile', 'hour']	['semi truck']	0.0713303637771
+['mile', 'hour']	['pave road']	0.0701566548569
+['mile', 'hour']	['road']	0.179240227609
+['mile', 'hour']	['2 hour']	0.307792110794
+['mile', 'hour']	['average speed']	0.0701566548569
+['mile', 'hour']	['20 mile']	0.283241311543
+['mile', 'hour']	['dirt road']	0.0735454731102
+['mile', 'hour']	['dirt']	0.0736221117794
+['mile', 'hour']	['3 hour']	0.307792110794
+['mile', 'hour']	['entire trip']	0.0701566548569
+['mile', 'hour']	['trip']	0.0853003968376
+['mile', 'hour']	['200 mile']	0.306554253166
+['mile', 'hour']	['truck']	0.0736221117794
+['200 mile', 'hour']	['semi truck']	0.0165341599722
+['200 mile', 'hour']	['pave road']	0.015360451052
+['200 mile', 'hour']	['road']	0.0163075261401
+['200 mile', 'hour']	['2 hour']	0.333482168522
+['200 mile', 'hour']	['average speed']	0.015360451052
+['200 mile', 'hour']	['20 mile']	0.0852471420558
+['200 mile', 'hour']	['dirt road']	0.0187492693053
+['200 mile', 'hour']	['dirt']	0.28909109182
+['200 mile', 'hour']	['3 hour']	0.333482168522
+['200 mile', 'hour']	['entire trip']	0.015360451052
+['200 mile', 'hour']	['trip']	0.0152537708965
+['200 mile', 'hour']	['mile']	0.53282747888
+['200 mile', 'hour']	['truck']	0.133560533536
+['truck', 'hour']	['semi truck']	0.317080764963
+['truck', 'hour']	['pave road']	0.0780842671024
+['truck', 'hour']	['road']	0.107364286037
+['truck', 'hour']	['2 hour']	0.333482168522
+['truck', 'hour']	['average speed']	0.0774382987339
+['truck', 'hour']	['20 mile']	0.0780842671024
+['truck', 'hour']	['dirt road']	0.0814730853556
+['truck', 'hour']	['dirt']	0.103553874377
+['truck', 'hour']	['3 hour']	0.333482168522
+['truck', 'hour']	['entire trip']	0.0774382987339
+['truck', 'hour']	['trip']	0.274225168055
+['truck', 'hour']	['mile']	0.180103313381
+['truck', 'hour']	['200 mile']	0.0780842671024
+['semi truck', 'dirt road']	['pave road']	0.494524508322
+['semi truck', 'dirt road']	['road']	0.653115576673
+['semi truck', 'dirt road']	['2 hour']	0.0696933362217
+['semi truck', 'dirt road']	['average speed']	0.0696933362217
+['semi truck', 'dirt road']	['20 mile']	0.0696933362217
+['semi truck', 'dirt road']	['hour']	0.00222717737084
+['semi truck', 'dirt road']	['dirt']	0.505792669321
+['semi truck', 'dirt road']	['3 hour']	0.0696933362217
+['semi truck', 'dirt road']	['entire trip']	0.0696933362217
+['semi truck', 'dirt road']	['trip']	0.0667637182209
+['semi truck', 'dirt road']	['mile']	0.0106028278734
+['semi truck', 'dirt road']	['200 mile']	0.0737139440912
+['semi truck', 'dirt road']	['truck']	0.835965050698
+['pave road', 'dirt road']	['semi truck']	0.144528281371
+['pave road', 'dirt road']	['road']	0.79168196934
+['pave road', 'dirt road']	['2 hour']	0.136831688603
+['pave road', 'dirt road']	['average speed']	0.247329860011
+['pave road', 'dirt road']	['20 mile']	0.136831688603
+['pave road', 'dirt road']	['hour']	0.083781974019
+['pave road', 'dirt road']	['dirt']	0.767465745056
+['pave road', 'dirt road']	['3 hour']	0.136831688603
+['pave road', 'dirt road']	['entire trip']	0.136831688603
+['pave road', 'dirt road']	['trip']	0.363581185188
+['pave road', 'dirt road']	['mile']	0.169676900315
+['pave road', 'dirt road']	['200 mile']	0.127137811052
+['pave road', 'dirt road']	['truck']	0.380032132525
+['road', 'dirt road']	['semi truck']	0.286714985902
+['road', 'dirt road']	['pave road']	0.768965306488
+['road', 'dirt road']	['2 hour']	0.218205435134
+['road', 'dirt road']	['average speed']	0.274461388425
+['road', 'dirt road']	['20 mile']	0.195306454053
+['road', 'dirt road']	['hour']	0.150448640686
+['road', 'dirt road']	['dirt']	0.757810552892
+['road', 'dirt road']	['3 hour']	0.218205435134
+['road', 'dirt road']	['entire trip']	0.270035932252
+['road', 'dirt road']	['trip']	0.655480580056
+['road', 'dirt road']	['mile']	0.505249595916
+['road', 'dirt road']	['200 mile']	0.195306454053
+['road', 'dirt road']	['truck']	0.516107766842
+['2 hour', 'dirt road']	['semi truck']	0.0696933362217
+['2 hour', 'dirt road']	['pave road']	0.525944474896
+['2 hour', 'dirt road']	['road']	0.551144109634
+['2 hour', 'dirt road']	['average speed']	0.0696933362217
+['2 hour', 'dirt road']	['20 mile']	0.105691884463
+['2 hour', 'dirt road']	['hour']	0.280747910849
+['2 hour', 'dirt road']	['dirt']	0.530792669321
+['2 hour', 'dirt road']	['3 hour']	0.73028733598
+['2 hour', 'dirt road']	['entire trip']	0.0696933362217
+['2 hour', 'dirt road']	['trip']	0.0634148935911
+['2 hour', 'dirt road']	['mile']	0.011726423379
+['2 hour', 'dirt road']	['200 mile']	0.0737139440912
+['2 hour', 'dirt road']	['truck']	0.0650959234194
+['average speed', 'dirt road']	['semi truck']	0.0696933362217
+['average speed', 'dirt road']	['pave road']	0.525944474896
+['average speed', 'dirt road']	['road']	0.653115576673
+['average speed', 'dirt road']	['2 hour']	0.0696933362217
+['average speed', 'dirt road']	['20 mile']	0.0696933362217
+['average speed', 'dirt road']	['hour']	0.00222717737084
+['average speed', 'dirt road']	['dirt']	0.505792669321
+['average speed', 'dirt road']	['3 hour']	0.0696933362217
+['average speed', 'dirt road']	['entire trip']	0.0696933362217
+['average speed', 'dirt road']	['trip']	0.0667637182209
+['average speed', 'dirt road']	['mile']	0.0106028278734
+['average speed', 'dirt road']	['200 mile']	0.0737139440912
+['average speed', 'dirt road']	['truck']	0.0650959234194
+['20 mile', 'dirt road']	['semi truck']	0.0696933362217
+['20 mile', 'dirt road']	['pave road']	0.525944474896
+['20 mile', 'dirt road']	['road']	0.564881483371
+['20 mile', 'dirt road']	['2 hour']	0.105691884463
+['20 mile', 'dirt road']	['average speed']	0.0696933362217
+['20 mile', 'dirt road']	['hour']	0.00222717737084
+['20 mile', 'dirt road']	['dirt']	0.530792669321
+['20 mile', 'dirt road']	['3 hour']	0.105691884463
+['20 mile', 'dirt road']	['entire trip']	0.0696933362217
+['20 mile', 'dirt road']	['trip']	0.0634148935911
+['20 mile', 'dirt road']	['mile']	0.348196355719
+['20 mile', 'dirt road']	['200 mile']	0.544221442934
+['20 mile', 'dirt road']	['truck']	0.0650959234194
+['hour', 'dirt road']	['semi truck']	0.0786120076541
+['hour', 'dirt road']	['pave road']	0.0999907317994
+['hour', 'dirt road']	['road']	0.41486162313
+['hour', 'dirt road']	['2 hour']	0.318667353707
+['hour', 'dirt road']	['average speed']	0.0774382987339
+['hour', 'dirt road']	['20 mile']	0.0780842671024
+['hour', 'dirt road']	['dirt']	0.445794544209
+['hour', 'dirt road']	['3 hour']	0.318667353707
+['hour', 'dirt road']	['entire trip']	0.0774382987339
+['hour', 'dirt road']	['trip']	0.0773316185783
+['hour', 'dirt road']	['mile']	0.372998066748
+['hour', 'dirt road']	['200 mile']	0.0780842671024
+['hour', 'dirt road']	['truck']	0.261114571694
+['dirt', 'dirt road']	['semi truck']	0.131771183904
+['dirt', 'dirt road']	['pave road']	0.494374116261
+['dirt', 'dirt road']	['road']	0.804616508965
+['dirt', 'dirt road']	['2 hour']	0.131771183904
+['dirt', 'dirt road']	['average speed']	0.128422359274
+['dirt', 'dirt road']	['20 mile']	0.131771183904
+['dirt', 'dirt road']	['hour']	0.264561045596
+['dirt', 'dirt road']	['3 hour']	0.131771183904
+['dirt', 'dirt road']	['entire trip']	0.132417152272
+['dirt', 'dirt road']	['trip']	0.303768936837
+['dirt', 'dirt road']	['mile']	0.271092580641
+['dirt', 'dirt road']	['200 mile']	0.131771183904
+['dirt', 'dirt road']	['truck']	0.411377845607
+['3 hour', 'dirt road']	['semi truck']	0.0696933362217
+['3 hour', 'dirt road']	['pave road']	0.525944474896
+['3 hour', 'dirt road']	['road']	0.551144109634
+['3 hour', 'dirt road']	['2 hour']	0.73028733598
+['3 hour', 'dirt road']	['average speed']	0.0696933362217
+['3 hour', 'dirt road']	['20 mile']	0.105691884463
+['3 hour', 'dirt road']	['hour']	0.280747910849
+['3 hour', 'dirt road']	['dirt']	0.530792669321
+['3 hour', 'dirt road']	['entire trip']	0.0696933362217
+['3 hour', 'dirt road']	['trip']	0.0634148935911
+['3 hour', 'dirt road']	['mile']	0.011726423379
+['3 hour', 'dirt road']	['200 mile']	0.0737139440912
+['3 hour', 'dirt road']	['truck']	0.0650959234194
+['entire trip', 'dirt road']	['semi truck']	0.0696933362217
+['entire trip', 'dirt road']	['pave road']	0.443388970201
+['entire trip', 'dirt road']	['road']	0.653115576673
+['entire trip', 'dirt road']	['2 hour']	0.0696933362217
+['entire trip', 'dirt road']	['average speed']	0.0696933362217
+['entire trip', 'dirt road']	['20 mile']	0.0696933362217
+['entire trip', 'dirt road']	['hour']	0.00222717737084
+['entire trip', 'dirt road']	['dirt']	0.505792669321
+['entire trip', 'dirt road']	['3 hour']	0.0696933362217
+['entire trip', 'dirt road']	['trip']	0.771255486574
+['entire trip', 'dirt road']	['mile']	0.0106028278734
+['entire trip', 'dirt road']	['200 mile']	0.0737139440912
+['entire trip', 'dirt road']	['truck']	0.0650959234194
+['trip', 'dirt road']	['semi truck']	0.0696933362217
+['trip', 'dirt road']	['pave road']	0.465538040018
+['trip', 'dirt road']	['road']	0.832523935877
+['trip', 'dirt road']	['2 hour']	0.0696933362217
+['trip', 'dirt road']	['average speed']	0.0696933362217
+['trip', 'dirt road']	['20 mile']	0.0696933362217
+['trip', 'dirt road']	['hour']	0.00298284487713
+['trip', 'dirt road']	['dirt']	0.533298518731
+['trip', 'dirt road']	['3 hour']	0.0696933362217
+['trip', 'dirt road']	['entire trip']	0.68544712738
+['trip', 'dirt road']	['mile']	0.0806965185133
+['trip', 'dirt road']	['200 mile']	0.0737139440912
+['trip', 'dirt road']	['truck']	0.714229582809
+['mile', 'dirt road']	['semi truck']	0.0982347768443
+['mile', 'dirt road']	['pave road']	0.175414856465
+['mile', 'dirt road']	['road']	0.696382814005
+['mile', 'dirt road']	['2 hour']	0.0989480026901
+['mile', 'dirt road']	['average speed']	0.0983020343217
+['mile', 'dirt road']	['20 mile']	0.391516700063
+['mile', 'dirt road']	['hour']	0.347072140822
+['mile', 'dirt road']	['dirt']	0.531180862645
+['mile', 'dirt road']	['3 hour']	0.0989480026901
+['mile', 'dirt road']	['entire trip']	0.0982347768443
+['mile', 'dirt road']	['trip']	0.185843913672
+['mile', 'dirt road']	['200 mile']	0.365401430504
+['mile', 'dirt road']	['truck']	0.37820978309
+['200 mile', 'dirt road']	['semi truck']	0.0696933362217
+['200 mile', 'dirt road']	['pave road']	0.525944474896
+['200 mile', 'dirt road']	['road']	0.564881483371
+['200 mile', 'dirt road']	['2 hour']	0.0696933362217
+['200 mile', 'dirt road']	['average speed']	0.0696933362217
+['200 mile', 'dirt road']	['20 mile']	0.525944474896
+['200 mile', 'dirt road']	['hour']	0.00222717737084
+['200 mile', 'dirt road']	['dirt']	0.530792669321
+['200 mile', 'dirt road']	['3 hour']	0.0696933362217
+['200 mile', 'dirt road']	['entire trip']	0.0696933362217
+['200 mile', 'dirt road']	['trip']	0.0634148935911
+['200 mile', 'dirt road']	['mile']	0.314167362457
+['200 mile', 'dirt road']	['truck']	0.0650959234194
+['truck', 'dirt road']	['semi truck']	0.816877425091
+['truck', 'dirt road']	['pave road']	0.494374116261
+['truck', 'dirt road']	['road']	0.793578039282
+['truck', 'dirt road']	['2 hour']	0.131771183904
+['truck', 'dirt road']	['average speed']	0.131771183904
+['truck', 'dirt road']	['20 mile']	0.131771183904
+['truck', 'dirt road']	['hour']	0.158129389724
+['truck', 'dirt road']	['dirt']	0.66956394139
+['truck', 'dirt road']	['3 hour']	0.131771183904
+['truck', 'dirt road']	['entire trip']	0.131771183904
+['truck', 'dirt road']	['trip']	0.729338550668
+['truck', 'dirt road']	['mile']	0.271092580641
+['truck', 'dirt road']	['200 mile']	0.135791791773
+['semi truck', 'dirt']	['pave road']	0.0696933362217
+['semi truck', 'dirt']	['road']	0.55965808297
+['semi truck', 'dirt']	['2 hour']	0.0696933362217
+['semi truck', 'dirt']	['average speed']	0.0696933362217
+['semi truck', 'dirt']	['20 mile']	0.0696933362217
+['semi truck', 'dirt']	['hour']	0.167119015487
+['semi truck', 'dirt']	['dirt road']	0.619247740011
+['semi truck', 'dirt']	['3 hour']	0.0696933362217
+['semi truck', 'dirt']	['entire trip']	0.0703393045902
+['semi truck', 'dirt']	['trip']	0.230934220149
+['semi truck', 'dirt']	['mile']	0.207739551373
+['semi truck', 'dirt']	['200 mile']	0.0696933362217
+['semi truck', 'dirt']	['truck']	0.880353047158
+['pave road', 'dirt']	['semi truck']	0.0696933362217
+['pave road', 'dirt']	['road']	0.81900581221
+['pave road', 'dirt']	['2 hour']	0.0696933362217
+['pave road', 'dirt']	['average speed']	0.0696933362217
+['pave road', 'dirt']	['20 mile']	0.0696933362217
+['pave road', 'dirt']	['hour']	0.197894378929
+['pave road', 'dirt']	['dirt road']	0.789046526309
+['pave road', 'dirt']	['3 hour']	0.0696933362217
+['pave road', 'dirt']	['entire trip']	0.0703393045902
+['pave road', 'dirt']	['trip']	0.246429727416
+['pave road', 'dirt']	['mile']	0.205181581481
+['pave road', 'dirt']	['200 mile']	0.0696933362217
+['pave road', 'dirt']	['truck']	0.349299997925
+['road', 'dirt']	['semi truck']	0.132417152272
+['road', 'dirt']	['pave road']	0.710768038676
+['road', 'dirt']	['2 hour']	0.131771183904
+['road', 'dirt']	['average speed']	0.129068327642
+['road', 'dirt']	['20 mile']	0.131771183904
+['road', 'dirt']	['hour']	0.200452348821
+['road', 'dirt']	['dirt road']	0.580490274078
+['road', 'dirt']	['3 hour']	0.131771183904
+['road', 'dirt']	['entire trip']	0.129068327642
+['road', 'dirt']	['trip']	0.433809488464
+['road', 'dirt']	['mile']	0.161554519756
+['road', 'dirt']	['200 mile']	0.131771183904
+['road', 'dirt']	['truck']	0.160355204006
+['2 hour', 'dirt']	['semi truck']	0.0696933362217
+['2 hour', 'dirt']	['pave road']	0.0696933362217
+['2 hour', 'dirt']	['road']	0.606969729429
+['2 hour', 'dirt']	['average speed']	0.0696933362217
+['2 hour', 'dirt']	['20 mile']	0.103222748661
+['2 hour', 'dirt']	['hour']	0.495806365286
+['2 hour', 'dirt']	['dirt road']	0.619247740011
+['2 hour', 'dirt']	['3 hour']	0.736313764211
+['2 hour', 'dirt']	['entire trip']	0.0703393045902
+['2 hour', 'dirt']	['trip']	0.246429727416
+['2 hour', 'dirt']	['mile']	0.29777020648
+['2 hour', 'dirt']	['200 mile']	0.0696933362217
+['2 hour', 'dirt']	['truck']	0.287172632079
+['average speed', 'dirt']	['semi truck']	0.0696933362217
+['average speed', 'dirt']	['pave road']	0.0696933362217
+['average speed', 'dirt']	['road']	0.55965808297
+['average speed', 'dirt']	['2 hour']	0.0696933362217
+['average speed', 'dirt']	['20 mile']	0.0696933362217
+['average speed', 'dirt']	['hour']	0.204111310146
+['average speed', 'dirt']	['dirt road']	0.560914406678
+['average speed', 'dirt']	['3 hour']	0.0696933362217
+['average speed', 'dirt']	['entire trip']	0.0703393045902
+['average speed', 'dirt']	['trip']	0.230934220149
+['average speed', 'dirt']	['mile']	0.270657771957
+['average speed', 'dirt']	['200 mile']	0.0696933362217
+['average speed', 'dirt']	['truck']	0.289629897036
+['20 mile', 'dirt']	['semi truck']	0.0696933362217
+['20 mile', 'dirt']	['pave road']	0.0696933362217
+['20 mile', 'dirt']	['road']	0.606969729429
+['20 mile', 'dirt']	['2 hour']	0.117488318928
+['20 mile', 'dirt']	['average speed']	0.0696933362217
+['20 mile', 'dirt']	['hour']	0.271968453003
+['20 mile', 'dirt']	['dirt road']	0.619247740011
+['20 mile', 'dirt']	['3 hour']	0.117488318928
+['20 mile', 'dirt']	['entire trip']	0.0703393045902
+['20 mile', 'dirt']	['trip']	0.230902147551
+['20 mile', 'dirt']	['mile']	0.686151554564
+['20 mile', 'dirt']	['200 mile']	0.494524508322
+['20 mile', 'dirt']	['truck']	0.287172632079
+['hour', 'dirt']	['semi truck']	0.0786120076541
+['hour', 'dirt']	['pave road']	0.0774382987339
+['hour', 'dirt']	['road']	0.190191843883
+['hour', 'dirt']	['2 hour']	0.318667353707
+['hour', 'dirt']	['average speed']	0.0774382987339
+['hour', 'dirt']	['20 mile']	0.0780842671024
+['hour', 'dirt']	['dirt road']	0.46878459026
+['hour', 'dirt']	['3 hour']	0.318667353707
+['hour', 'dirt']	['entire trip']	0.0780842671024
+['hour', 'dirt']	['trip']	0.100286768099
+['hour', 'dirt']	['mile']	0.180103313381
+['hour', 'dirt']	['200 mile']	0.0780842671024
+['hour', 'dirt']	['truck']	0.0814620500202
+['dirt road', 'dirt']	['semi truck']	0.131771183904
+['dirt road', 'dirt']	['pave road']	0.494374116261
+['dirt road', 'dirt']	['road']	0.804616508965
+['dirt road', 'dirt']	['2 hour']	0.131771183904
+['dirt road', 'dirt']	['average speed']	0.128422359274
+['dirt road', 'dirt']	['20 mile']	0.131771183904
+['dirt road', 'dirt']	['hour']	0.264561045596
+['dirt road', 'dirt']	['3 hour']	0.131771183904
+['dirt road', 'dirt']	['entire trip']	0.132417152272
+['dirt road', 'dirt']	['trip']	0.303768936837
+['dirt road', 'dirt']	['mile']	0.271092580641
+['dirt road', 'dirt']	['200 mile']	0.131771183904
+['dirt road', 'dirt']	['truck']	0.411377845607
+['3 hour', 'dirt']	['semi truck']	0.0696933362217
+['3 hour', 'dirt']	['pave road']	0.0696933362217
+['3 hour', 'dirt']	['road']	0.606969729429
+['3 hour', 'dirt']	['2 hour']	0.736313764211
+['3 hour', 'dirt']	['average speed']	0.0696933362217
+['3 hour', 'dirt']	['20 mile']	0.103222748661
+['3 hour', 'dirt']	['hour']	0.495806365286
+['3 hour', 'dirt']	['dirt road']	0.619247740011
+['3 hour', 'dirt']	['entire trip']	0.0703393045902
+['3 hour', 'dirt']	['trip']	0.246429727416
+['3 hour', 'dirt']	['mile']	0.29777020648
+['3 hour', 'dirt']	['200 mile']	0.0696933362217
+['3 hour', 'dirt']	['truck']	0.287172632079
+['entire trip', 'dirt']	['semi truck']	0.0696933362217
+['entire trip', 'dirt']	['pave road']	0.0696933362217
+['entire trip', 'dirt']	['road']	0.55965808297
+['entire trip', 'dirt']	['2 hour']	0.0696933362217
+['entire trip', 'dirt']	['average speed']	0.0696933362217
+['entire trip', 'dirt']	['20 mile']	0.0696933362217
+['entire trip', 'dirt']	['hour']	0.167119015487
+['entire trip', 'dirt']	['dirt road']	0.619247740011
+['entire trip', 'dirt']	['3 hour']	0.0696933362217
+['entire trip', 'dirt']	['trip']	0.733982484163
+['entire trip', 'dirt']	['mile']	0.207739551373
+['entire trip', 'dirt']	['200 mile']	0.0696933362217
+['entire trip', 'dirt']	['truck']	0.289629897036
+['trip', 'dirt']	['semi truck']	0.0696933362217
+['trip', 'dirt']	['pave road']	0.0847291734277
+['trip', 'dirt']	['road']	0.324923817383
+['trip', 'dirt']	['2 hour']	0.0696933362217
+['trip', 'dirt']	['average speed']	0.0696933362217
+['trip', 'dirt']	['20 mile']	0.0696933362217
+['trip', 'dirt']	['hour']	0.133785682154
+['trip', 'dirt']	['dirt road']	0.535491841404
+['trip', 'dirt']	['3 hour']	0.0696933362217
+['trip', 'dirt']	['entire trip']	0.721919531857
+['trip', 'dirt']	['mile']	0.151205017883
+['trip', 'dirt']	['200 mile']	0.0696933362217
+['trip', 'dirt']	['truck']	0.39693354571
+['mile', 'dirt']	['semi truck']	0.0982347768443
+['mile', 'dirt']	['pave road']	0.0982347768443
+['mile', 'dirt']	['road']	0.209696539646
+['mile', 'dirt']	['2 hour']	0.0989480026901
+['mile', 'dirt']	['average speed']	0.0983020343217
+['mile', 'dirt']	['20 mile']	0.391516700063
+['mile', 'dirt']	['hour']	0.182422153961
+['mile', 'dirt']	['dirt road']	0.510477411225
+['mile', 'dirt']	['3 hour']	0.0989480026901
+['mile', 'dirt']	['entire trip']	0.0989480026901
+['mile', 'dirt']	['trip']	0.125751516636
+['mile', 'dirt']	['200 mile']	0.371062249217
+['mile', 'dirt']	['truck']	0.102946740918
+['200 mile', 'dirt']	['semi truck']	0.0696933362217
+['200 mile', 'dirt']	['pave road']	0.0696933362217
+['200 mile', 'dirt']	['road']	0.606969729429
+['200 mile', 'dirt']	['2 hour']	0.0696933362217
+['200 mile', 'dirt']	['average speed']	0.0696933362217
+['200 mile', 'dirt']	['20 mile']	0.494524508322
+['200 mile', 'dirt']	['hour']	0.271968453003
+['200 mile', 'dirt']	['dirt road']	0.560914406678
+['200 mile', 'dirt']	['3 hour']	0.0696933362217
+['200 mile', 'dirt']	['entire trip']	0.0703393045902
+['200 mile', 'dirt']	['trip']	0.230902147551
+['200 mile', 'dirt']	['mile']	0.681036942304
+['200 mile', 'dirt']	['truck']	0.287172632079
+['truck', 'dirt']	['semi truck']	0.843943638833
+['truck', 'dirt']	['pave road']	0.129068327642
+['truck', 'dirt']	['road']	0.383634771469
+['truck', 'dirt']	['2 hour']	0.131771183904
+['truck', 'dirt']	['average speed']	0.131771183904
+['truck', 'dirt']	['20 mile']	0.131771183904
+['truck', 'dirt']	['hour']	0.0736221117794
+['truck', 'dirt']	['dirt road']	0.578750228649
+['truck', 'dirt']	['3 hour']	0.131771183904
+['truck', 'dirt']	['entire trip']	0.132417152272
+['truck', 'dirt']	['trip']	0.620865881553
+['truck', 'dirt']	['mile']	0.0853322320152
+['truck', 'dirt']	['200 mile']	0.131771183904
+['semi truck', '3 hour']	['pave road']	0.0827346205535
+['semi truck', '3 hour']	['road']	0.0741073489195
+['semi truck', '3 hour']	['2 hour']	0.754360422532
+['semi truck', '3 hour']	['average speed']	0.0827346205535
+['semi truck', '3 hour']	['20 mile']	0.140649313257
+['semi truck', '3 hour']	['hour']	0.231323283433
+['semi truck', '3 hour']	['dirt road']	0.0824069519204
+['semi truck', '3 hour']	['dirt']	0.0774561735493
+['semi truck', '3 hour']	['entire trip']	0.0827346205535
+['semi truck', '3 hour']	['trip']	0.0777864840342
+['semi truck', '3 hour']	['mile']	0.0132263547461
+['semi truck', '3 hour']	['200 mile']	0.0901100077042
+['semi truck', '3 hour']	['truck']	0.847021533945
+['pave road', '3 hour']	['semi truck']	0.0827346205535
+['pave road', '3 hour']	['road']	0.650955657599
+['pave road', '3 hour']	['2 hour']	0.754360422532
+['pave road', '3 hour']	['average speed']	0.0827346205535
+['pave road', '3 hour']	['20 mile']	0.126675736021
+['pave road', '3 hour']	['hour']	0.251336146143
+['pave road', '3 hour']	['dirt road']	0.566188865804
+['pave road', '3 hour']	['dirt']	0.0774561735493
+['pave road', '3 hour']	['entire trip']	0.0827346205535
+['pave road', '3 hour']	['trip']	0.0744376594044
+['pave road', '3 hour']	['mile']	0.0143499502517
+['pave road', '3 hour']	['200 mile']	0.0901100077042
+['pave road', '3 hour']	['truck']	0.0774561735493
+['road', '3 hour']	['semi truck']	0.0703393045902
+['road', '3 hour']	['pave road']	0.687529833909
+['road', '3 hour']	['2 hour']	0.736313764211
+['road', '3 hour']	['average speed']	0.0689582110755
+['road', '3 hour']	['20 mile']	0.103222748661
+['road', '3 hour']	['hour']	0.416126375151
+['road', '3 hour']	['dirt road']	0.645616263174
+['road', '3 hour']	['dirt']	0.606969729429
+['road', '3 hour']	['entire trip']	0.0703393045902
+['road', '3 hour']	['trip']	0.36928692336
+['road', '3 hour']	['mile']	0.397461212454
+['road', '3 hour']	['200 mile']	0.0696933362217
+['road', '3 hour']	['truck']	0.185711257371
+['2 hour', '3 hour']	['semi truck']	0.153587928078
+['2 hour', '3 hour']	['pave road']	0.14589133531
+['2 hour', '3 hour']	['road']	0.353457331236
+['2 hour', '3 hour']	['average speed']	0.153587928078
+['2 hour', '3 hour']	['20 mile']	0.356231993893
+['2 hour', '3 hour']	['hour']	0.69743410385
+['2 hour', '3 hour']	['dirt road']	0.16132566236
+['2 hour', '3 hour']	['dirt']	0.353457331236
+['2 hour', '3 hour']	['entire trip']	0.14589133531
+['2 hour', '3 hour']	['trip']	0.360804929274
+['2 hour', '3 hour']	['mile']	0.220317596327
+['2 hour', '3 hour']	['200 mile']	0.139258682248
+['2 hour', '3 hour']	['truck']	0.33665242287
+['average speed', '3 hour']	['semi truck']	0.0827346205535
+['average speed', '3 hour']	['pave road']	0.0827346205535
+['average speed', '3 hour']	['road']	0.0741073489195
+['average speed', '3 hour']	['2 hour']	0.754360422532
+['average speed', '3 hour']	['20 mile']	0.126675736021
+['average speed', '3 hour']	['hour']	0.242413974605
+['average speed', '3 hour']	['dirt road']	0.0824069519204
+['average speed', '3 hour']	['dirt']	0.0774561735493
+['average speed', '3 hour']	['entire trip']	0.0827346205535
+['average speed', '3 hour']	['trip']	0.0777864840342
+['average speed', '3 hour']	['mile']	0.0143499502517
+['average speed', '3 hour']	['200 mile']	0.0901100077042
+['average speed', '3 hour']	['truck']	0.079730351659
+['20 mile', '3 hour']	['semi truck']	0.0827346205535
+['20 mile', '3 hour']	['pave road']	0.0827346205535
+['20 mile', '3 hour']	['road']	0.0774561735493
+['20 mile', '3 hour']	['2 hour']	0.800552772617
+['20 mile', '3 hour']	['average speed']	0.0827346205535
+['20 mile', '3 hour']	['hour']	0.265372434584
+['20 mile', '3 hour']	['dirt road']	0.0824069519204
+['20 mile', '3 hour']	['dirt']	0.0774561735493
+['20 mile', '3 hour']	['entire trip']	0.0827346205535
+['20 mile', '3 hour']	['trip']	0.0777864840342
+['20 mile', '3 hour']	['mile']	0.432694812302
+['20 mile', '3 hour']	['200 mile']	0.584269096576
+['20 mile', '3 hour']	['truck']	0.079730351659
+['hour', '3 hour']	['semi truck']	0.0798131677782
+['hour', '3 hour']	['pave road']	0.0796379898895
+['hour', '3 hour']	['road']	0.159810117768
+['hour', '3 hour']	['2 hour']	0.721390522689
+['hour', '3 hour']	['average speed']	0.11034390648
+['hour', '3 hour']	['20 mile']	0.13923307048
+['hour', '3 hour']	['dirt road']	0.101745032879
+['hour', '3 hour']	['dirt']	0.413384021113
+['hour', '3 hour']	['entire trip']	0.11034390648
+['hour', '3 hour']	['trip']	0.157802930762
+['hour', '3 hour']	['mile']	0.578571428571
+['hour', '3 hour']	['200 mile']	0.125024962568
+['hour', '3 hour']	['truck']	0.313982861585
+['dirt road', '3 hour']	['semi truck']	0.0696933362217
+['dirt road', '3 hour']	['pave road']	0.525944474896
+['dirt road', '3 hour']	['road']	0.551144109634
+['dirt road', '3 hour']	['2 hour']	0.73028733598
+['dirt road', '3 hour']	['average speed']	0.0696933362217
+['dirt road', '3 hour']	['20 mile']	0.105691884463
+['dirt road', '3 hour']	['hour']	0.280747910849
+['dirt road', '3 hour']	['dirt']	0.530792669321
+['dirt road', '3 hour']	['entire trip']	0.0696933362217
+['dirt road', '3 hour']	['trip']	0.0634148935911
+['dirt road', '3 hour']	['mile']	0.011726423379
+['dirt road', '3 hour']	['200 mile']	0.0737139440912
+['dirt road', '3 hour']	['truck']	0.0650959234194
+['dirt', '3 hour']	['semi truck']	0.0696933362217
+['dirt', '3 hour']	['pave road']	0.0696933362217
+['dirt', '3 hour']	['road']	0.606969729429
+['dirt', '3 hour']	['2 hour']	0.736313764211
+['dirt', '3 hour']	['average speed']	0.0696933362217
+['dirt', '3 hour']	['20 mile']	0.103222748661
+['dirt', '3 hour']	['hour']	0.495806365286
+['dirt', '3 hour']	['dirt road']	0.619247740011
+['dirt', '3 hour']	['entire trip']	0.0703393045902
+['dirt', '3 hour']	['trip']	0.246429727416
+['dirt', '3 hour']	['mile']	0.29777020648
+['dirt', '3 hour']	['200 mile']	0.0696933362217
+['dirt', '3 hour']	['truck']	0.287172632079
+['entire trip', '3 hour']	['semi truck']	0.0827346205535
+['entire trip', '3 hour']	['pave road']	0.0827346205535
+['entire trip', '3 hour']	['road']	0.0741073489195
+['entire trip', '3 hour']	['2 hour']	0.754360422532
+['entire trip', '3 hour']	['average speed']	0.0827346205535
+['entire trip', '3 hour']	['20 mile']	0.140649313257
+['entire trip', '3 hour']	['hour']	0.231323283433
+['entire trip', '3 hour']	['dirt road']	0.0824069519204
+['entire trip', '3 hour']	['dirt']	0.0774561735493
+['entire trip', '3 hour']	['trip']	0.725294076221
+['entire trip', '3 hour']	['mile']	0.0132263547461
+['entire trip', '3 hour']	['200 mile']	0.0901100077042
+['entire trip', '3 hour']	['truck']	0.079730351659
+['trip', '3 hour']	['semi truck']	0.0827346205535
+['trip', '3 hour']	['pave road']	0.101119282389
+['trip', '3 hour']	['road']	0.372364672201
+['trip', '3 hour']	['2 hour']	0.760386850763
+['trip', '3 hour']	['average speed']	0.0827346205535
+['trip', '3 hour']	['20 mile']	0.124206600218
+['trip', '3 hour']	['hour']	0.384753826131
+['trip', '3 hour']	['dirt road']	0.100791613756
+['trip', '3 hour']	['dirt']	0.282334986149
+['trip', '3 hour']	['entire trip']	0.648578713416
+['trip', '3 hour']	['mile']	0.155766167646
+['trip', '3 hour']	['200 mile']	0.0901100077042
+['trip', '3 hour']	['truck']	0.721931692495
+['mile', '3 hour']	['semi truck']	0.0361569291624
+['mile', '3 hour']	['pave road']	0.0361569291624
+['mile', '3 hour']	['road']	0.434589983476
+['mile', '3 hour']	['2 hour']	0.460558503228
+['mile', '3 hour']	['average speed']	0.0361569291624
+['mile', '3 hour']	['20 mile']	0.534447259735
+['mile', '3 hour']	['hour']	0.554794460525
+['mile', '3 hour']	['dirt road']	0.0421463435009
+['mile', '3 hour']	['dirt']	0.250588487454
+['mile', '3 hour']	['entire trip']	0.0361569291624
+['mile', '3 hour']	['trip']	0.12850470425
+['mile', '3 hour']	['200 mile']	0.365401430504
+['mile', '3 hour']	['truck']	0.250588487454
+['200 mile', '3 hour']	['semi truck']	0.0827346205535
+['200 mile', '3 hour']	['pave road']	0.0827346205535
+['200 mile', '3 hour']	['road']	0.0774561735493
+['200 mile', '3 hour']	['2 hour']	0.754360422532
+['200 mile', '3 hour']	['average speed']	0.0827346205535
+['200 mile', '3 hour']	['20 mile']	0.604308352538
+['200 mile', '3 hour']	['hour']	0.265372434584
+['200 mile', '3 hour']	['dirt road']	0.0824069519204
+['200 mile', '3 hour']	['dirt']	0.0774561735493
+['200 mile', '3 hour']	['entire trip']	0.0827346205535
+['200 mile', '3 hour']	['trip']	0.0777864840342
+['200 mile', '3 hour']	['mile']	0.430630568157
+['200 mile', '3 hour']	['truck']	0.079730351659
+['truck', '3 hour']	['semi truck']	0.843559540977
+['truck', '3 hour']	['pave road']	0.0703393045902
+['truck', '3 hour']	['road']	0.185711257371
+['truck', '3 hour']	['2 hour']	0.736313764211
+['truck', '3 hour']	['average speed']	0.0696933362217
+['truck', '3 hour']	['20 mile']	0.103222748661
+['truck', '3 hour']	['hour']	0.455806365286
+['truck', '3 hour']	['dirt road']	0.0753417929659
+['truck', '3 hour']	['dirt']	0.287172632079
+['truck', '3 hour']	['entire trip']	0.0696933362217
+['truck', '3 hour']	['trip']	0.716321309289
+['truck', '3 hour']	['mile']	0.29777020648
+['truck', '3 hour']	['200 mile']	0.0737139440912
+['semi truck', 'entire trip']	['pave road']	0.0827346205535
+['semi truck', 'entire trip']	['road']	0.0741073489195
+['semi truck', 'entire trip']	['2 hour']	0.0827346205535
+['semi truck', 'entire trip']	['average speed']	0.0827346205535
+['semi truck', 'entire trip']	['20 mile']	0.0827346205535
+['semi truck', 'entire trip']	['hour']	0.0101131233914
+['semi truck', 'entire trip']	['dirt road']	0.0824069519204
+['semi truck', 'entire trip']	['dirt']	0.0831172035382
+['semi truck', 'entire trip']	['3 hour']	0.0827346205535
+['semi truck', 'entire trip']	['trip']	0.70007858174
+['semi truck', 'entire trip']	['mile']	0.0179192712897
+['semi truck', 'entire trip']	['200 mile']	0.0901100077042
+['semi truck', 'entire trip']	['truck']	0.811746255271
+['pave road', 'entire trip']	['semi truck']	0.0827346205535
+['pave road', 'entire trip']	['road']	0.653738463029
+['pave road', 'entire trip']	['2 hour']	0.0827346205535
+['pave road', 'entire trip']	['average speed']	0.0827346205535
+['pave road', 'entire trip']	['20 mile']	0.0827346205535
+['pave road', 'entire trip']	['hour']	0.00424649792755
+['pave road', 'entire trip']	['dirt road']	0.566188865804
+['pave road', 'entire trip']	['dirt']	0.0774561735493
+['pave road', 'entire trip']	['3 hour']	0.0827346205535
+['pave road', 'entire trip']	['trip']	0.725294076221
+['pave road', 'entire trip']	['mile']	0.0132263547461
+['pave road', 'entire trip']	['200 mile']	0.0901100077042
+['pave road', 'entire trip']	['truck']	0.0774561735493
+['road', 'entire trip']	['semi truck']	0.0703393045902
+['road', 'entire trip']	['pave road']	0.687529833909
+['road', 'entire trip']	['2 hour']	0.0696933362217
+['road', 'entire trip']	['average speed']	0.0703393045902
+['road', 'entire trip']	['20 mile']	0.0696933362217
+['road', 'entire trip']	['hour']	0.00671452368913
+['road', 'entire trip']	['dirt road']	0.637532903691
+['road', 'entire trip']	['dirt']	0.54312261708
+['road', 'entire trip']	['3 hour']	0.0696933362217
+['road', 'entire trip']	['trip']	0.852058002787
+['road', 'entire trip']	['mile']	0.316883615056
+['road', 'entire trip']	['200 mile']	0.0696933362217
+['road', 'entire trip']	['truck']	0.186963162599
+['2 hour', 'entire trip']	['semi truck']	0.0827346205535
+['2 hour', 'entire trip']	['pave road']	0.0827346205535
+['2 hour', 'entire trip']	['road']	0.0741073489195
+['2 hour', 'entire trip']	['average speed']	0.0827346205535
+['2 hour', 'entire trip']	['20 mile']	0.140649313257
+['2 hour', 'entire trip']	['hour']	0.231323283433
+['2 hour', 'entire trip']	['dirt road']	0.0824069519204
+['2 hour', 'entire trip']	['dirt']	0.0774561735493
+['2 hour', 'entire trip']	['3 hour']	0.754360422532
+['2 hour', 'entire trip']	['trip']	0.725294076221
+['2 hour', 'entire trip']	['mile']	0.0132263547461
+['2 hour', 'entire trip']	['200 mile']	0.0901100077042
+['2 hour', 'entire trip']	['truck']	0.079730351659
+['average speed', 'entire trip']	['semi truck']	0.0827346205535
+['average speed', 'entire trip']	['pave road']	0.0827346205535
+['average speed', 'entire trip']	['road']	0.0741073489195
+['average speed', 'entire trip']	['2 hour']	0.0827346205535
+['average speed', 'entire trip']	['20 mile']	0.0827346205535
+['average speed', 'entire trip']	['hour']	0.00424649792755
+['average speed', 'entire trip']	['dirt road']	0.0824069519204
+['average speed', 'entire trip']	['dirt']	0.0831172035382
+['average speed', 'entire trip']	['3 hour']	0.0827346205535
+['average speed', 'entire trip']	['trip']	0.70007858174
+['average speed', 'entire trip']	['mile']	0.0132263547461
+['average speed', 'entire trip']	['200 mile']	0.0901100077042
+['average speed', 'entire trip']	['truck']	0.0831172035382
+['20 mile', 'entire trip']	['semi truck']	0.0827346205535
+['20 mile', 'entire trip']	['pave road']	0.0827346205535
+['20 mile', 'entire trip']	['road']	0.0760750800346
+['20 mile', 'entire trip']	['2 hour']	0.140649313257
+['20 mile', 'entire trip']	['average speed']	0.0827346205535
+['20 mile', 'entire trip']	['hour']	0.00424649792755
+['20 mile', 'entire trip']	['dirt road']	0.0824069519204
+['20 mile', 'entire trip']	['dirt']	0.079730351659
+['20 mile', 'entire trip']	['3 hour']	0.140649313257
+['20 mile', 'entire trip']	['trip']	0.722511270791
+['20 mile', 'entire trip']	['mile']	0.306370088568
+['20 mile', 'entire trip']	['200 mile']	0.584269096576
+['20 mile', 'entire trip']	['truck']	0.079730351659
+['hour', 'entire trip']	['semi truck']	0.0165341599722
+['hour', 'entire trip']	['pave road']	0.015360451052
+['hour', 'entire trip']	['road']	0.0151338172199
+['hour', 'entire trip']	['2 hour']	0.333482168522
+['hour', 'entire trip']	['average speed']	0.015360451052
+['hour', 'entire trip']	['20 mile']	0.0160064194205
+['hour', 'entire trip']	['dirt road']	0.0187492693053
+['hour', 'entire trip']	['dirt']	0.258215023444
+['hour', 'entire trip']	['3 hour']	0.333482168522
+['hour', 'entire trip']	['trip']	0.332736283649
+['hour', 'entire trip']	['mile']	0.324529405779
+['hour', 'entire trip']	['200 mile']	0.0160064194205
+['hour', 'entire trip']	['truck']	0.136017798493
+['dirt road', 'entire trip']	['semi truck']	0.0696933362217
+['dirt road', 'entire trip']	['pave road']	0.443388970201
+['dirt road', 'entire trip']	['road']	0.653115576673
+['dirt road', 'entire trip']	['2 hour']	0.0696933362217
+['dirt road', 'entire trip']	['average speed']	0.0696933362217
+['dirt road', 'entire trip']	['20 mile']	0.0696933362217
+['dirt road', 'entire trip']	['hour']	0.00222717737084
+['dirt road', 'entire trip']	['dirt']	0.505792669321
+['dirt road', 'entire trip']	['3 hour']	0.0696933362217
+['dirt road', 'entire trip']	['trip']	0.771255486574
+['dirt road', 'entire trip']	['mile']	0.0106028278734
+['dirt road', 'entire trip']	['200 mile']	0.0737139440912
+['dirt road', 'entire trip']	['truck']	0.0650959234194
+['dirt', 'entire trip']	['semi truck']	0.0696933362217
+['dirt', 'entire trip']	['pave road']	0.0696933362217
+['dirt', 'entire trip']	['road']	0.55965808297
+['dirt', 'entire trip']	['2 hour']	0.0696933362217
+['dirt', 'entire trip']	['average speed']	0.0696933362217
+['dirt', 'entire trip']	['20 mile']	0.0696933362217
+['dirt', 'entire trip']	['hour']	0.167119015487
+['dirt', 'entire trip']	['dirt road']	0.619247740011
+['dirt', 'entire trip']	['3 hour']	0.0696933362217
+['dirt', 'entire trip']	['trip']	0.733982484163
+['dirt', 'entire trip']	['mile']	0.207739551373
+['dirt', 'entire trip']	['200 mile']	0.0696933362217
+['dirt', 'entire trip']	['truck']	0.289629897036
+['3 hour', 'entire trip']	['semi truck']	0.0827346205535
+['3 hour', 'entire trip']	['pave road']	0.0827346205535
+['3 hour', 'entire trip']	['road']	0.0741073489195
+['3 hour', 'entire trip']	['2 hour']	0.754360422532
+['3 hour', 'entire trip']	['average speed']	0.0827346205535
+['3 hour', 'entire trip']	['20 mile']	0.140649313257
+['3 hour', 'entire trip']	['hour']	0.231323283433
+['3 hour', 'entire trip']	['dirt road']	0.0824069519204
+['3 hour', 'entire trip']	['dirt']	0.0774561735493
+['3 hour', 'entire trip']	['trip']	0.725294076221
+['3 hour', 'entire trip']	['mile']	0.0132263547461
+['3 hour', 'entire trip']	['200 mile']	0.0901100077042
+['3 hour', 'entire trip']	['truck']	0.079730351659
+['trip', 'entire trip']	['semi truck']	0.153587928078
+['trip', 'entire trip']	['pave road']	0.24921316652
+['trip', 'entire trip']	['road']	0.642159069879
+['trip', 'entire trip']	['2 hour']	0.14589133531
+['trip', 'entire trip']	['average speed']	0.14589133531
+['trip', 'entire trip']	['20 mile']	0.14589133531
+['trip', 'entire trip']	['hour']	0.117358910256
+['trip', 'entire trip']	['dirt road']	0.236891513875
+['trip', 'entire trip']	['dirt']	0.639782907986
+['trip', 'entire trip']	['3 hour']	0.14589133531
+['trip', 'entire trip']	['mile']	0.303403660681
+['trip', 'entire trip']	['200 mile']	0.14831866988
+['trip', 'entire trip']	['truck']	0.629704507397
+['mile', 'entire trip']	['semi truck']	0.0361569291624
+['mile', 'entire trip']	['pave road']	0.0361569291624
+['mile', 'entire trip']	['road']	0.474207505504
+['mile', 'entire trip']	['2 hour']	0.0368701550083
+['mile', 'entire trip']	['average speed']	0.0361569291624
+['mile', 'entire trip']	['20 mile']	0.391516700063
+['mile', 'entire trip']	['hour']	0.324529405779
+['mile', 'entire trip']	['dirt road']	0.0421463435009
+['mile', 'entire trip']	['dirt']	0.253045752412
+['mile', 'entire trip']	['3 hour']	0.0368701550083
+['mile', 'entire trip']	['trip']	0.40270928671
+['mile', 'entire trip']	['200 mile']	0.365401430504
+['mile', 'entire trip']	['truck']	0.253045752412
+['200 mile', 'entire trip']	['semi truck']	0.0827346205535
+['200 mile', 'entire trip']	['pave road']	0.0827346205535
+['200 mile', 'entire trip']	['road']	0.0760750800346
+['200 mile', 'entire trip']	['2 hour']	0.0827346205535
+['200 mile', 'entire trip']	['average speed']	0.0827346205535
+['200 mile', 'entire trip']	['20 mile']	0.561946181134
+['200 mile', 'entire trip']	['hour']	0.00424649792755
+['200 mile', 'entire trip']	['dirt road']	0.0824069519204
+['200 mile', 'entire trip']	['dirt']	0.079730351659
+['200 mile', 'entire trip']	['3 hour']	0.0827346205535
+['200 mile', 'entire trip']	['trip']	0.722511270791
+['200 mile', 'entire trip']	['mile']	0.276426897145
+['200 mile', 'entire trip']	['truck']	0.079730351659
+['truck', 'entire trip']	['semi truck']	0.834096781515
+['truck', 'entire trip']	['pave road']	0.0703393045902
+['truck', 'entire trip']	['road']	0.214505289884
+['truck', 'entire trip']	['2 hour']	0.0696933362217
+['truck', 'entire trip']	['average speed']	0.0696933362217
+['truck', 'entire trip']	['20 mile']	0.0696933362217
+['truck', 'entire trip']	['hour']	0.0947763604558
+['truck', 'entire trip']	['dirt road']	0.0753417929659
+['truck', 'entire trip']	['dirt']	0.289629897036
+['truck', 'entire trip']	['3 hour']	0.0696933362217
+['truck', 'entire trip']	['trip']	0.852058002787
+['truck', 'entire trip']	['mile']	0.207739551373
+['truck', 'entire trip']	['200 mile']	0.0737139440912
+['semi truck', 'trip']	['pave road']	0.0997381888746
+['semi truck', 'trip']	['road']	0.375232778788
+['semi truck', 'trip']	['2 hour']	0.0827346205535
+['semi truck', 'trip']	['average speed']	0.0827346205535
+['semi truck', 'trip']	['20 mile']	0.0827346205535
+['semi truck', 'trip']	['hour']	0.0108687908977
+['semi truck', 'trip']	['dirt road']	0.0994105202415
+['semi truck', 'trip']	['dirt']	0.285721838028
+['semi truck', 'trip']	['3 hour']	0.0827346205535
+['semi truck', 'trip']	['entire trip']	0.671554469511
+['semi truck', 'trip']	['mile']	0.123027548897
+['semi truck', 'trip']	['200 mile']	0.0901100077042
+['semi truck', 'trip']	['truck']	0.944581364302
+['pave road', 'trip']	['semi truck']	0.0827346205535
+['pave road', 'trip']	['road']	0.789928976918
+['pave road', 'trip']	['2 hour']	0.0901100077042
+['pave road', 'trip']	['average speed']	0.0901100077042
+['pave road', 'trip']	['20 mile']	0.0901100077042
+['pave road', 'trip']	['hour']	0.00500216543384
+['pave road', 'trip']	['dirt road']	0.530788218076
+['pave road', 'trip']	['dirt']	0.297862566014
+['pave road', 'trip']	['3 hour']	0.0901100077042
+['pave road', 'trip']	['entire trip']	0.648578713416
+['pave road', 'trip']	['mile']	0.11596780482
+['pave road', 'trip']	['200 mile']	0.0901100077042
+['pave road', 'trip']	['truck']	0.713176655201
+['road', 'trip']	['semi truck']	0.0703393045902
+['road', 'trip']	['pave road']	0.692205356686
+['road', 'trip']	['2 hour']	0.0696933362217
+['road', 'trip']	['average speed']	0.0703393045902
+['road', 'trip']	['20 mile']	0.0696933362217
+['road', 'trip']	['hour']	0.00671452368913
+['road', 'trip']	['dirt road']	0.679416307458
+['road', 'trip']	['dirt']	0.481549757328
+['road', 'trip']	['3 hour']	0.0696933362217
+['road', 'trip']	['entire trip']	0.721919531857
+['road', 'trip']	['mile']	0.257920152508
+['road', 'trip']	['200 mile']	0.0696933362217
+['road', 'trip']	['truck']	0.461900168731
+['2 hour', 'trip']	['semi truck']	0.0827346205535
+['2 hour', 'trip']	['pave road']	0.101119282389
+['2 hour', 'trip']	['road']	0.372364672201
+['2 hour', 'trip']	['average speed']	0.0827346205535
+['2 hour', 'trip']	['20 mile']	0.124206600218
+['2 hour', 'trip']	['hour']	0.384753826131
+['2 hour', 'trip']	['dirt road']	0.100791613756
+['2 hour', 'trip']	['dirt']	0.282334986149
+['2 hour', 'trip']	['3 hour']	0.760386850763
+['2 hour', 'trip']	['entire trip']	0.648578713416
+['2 hour', 'trip']	['mile']	0.155766167646
+['2 hour', 'trip']	['200 mile']	0.0901100077042
+['2 hour', 'trip']	['truck']	0.721931692495
+['average speed', 'trip']	['semi truck']	0.0827346205535
+['average speed', 'trip']	['pave road']	0.101119282389
+['average speed', 'trip']	['road']	0.375232778788
+['average speed', 'trip']	['2 hour']	0.0901100077042
+['average speed', 'trip']	['20 mile']	0.0901100077042
+['average speed', 'trip']	['hour']	0.00500216543384
+['average speed', 'trip']	['dirt road']	0.100791613756
+['average speed', 'trip']	['dirt']	0.285721838028
+['average speed', 'trip']	['3 hour']	0.0901100077042
+['average speed', 'trip']	['entire trip']	0.648578713416
+['average speed', 'trip']	['mile']	0.11596780482
+['average speed', 'trip']	['200 mile']	0.0901100077042
+['average speed', 'trip']	['truck']	0.69319057077
+['20 mile', 'trip']	['semi truck']	0.0827346205535
+['20 mile', 'trip']	['pave road']	0.101119282389
+['20 mile', 'trip']	['road']	0.372364672201
+['20 mile', 'trip']	['2 hour']	0.124206600218
+['20 mile', 'trip']	['average speed']	0.0827346205535
+['20 mile', 'trip']	['hour']	0.00500216543384
+['20 mile', 'trip']	['dirt road']	0.100791613756
+['20 mile', 'trip']	['dirt']	0.282334986149
+['20 mile', 'trip']	['3 hour']	0.124206600218
+['20 mile', 'trip']	['entire trip']	0.648578713416
+['20 mile', 'trip']	['mile']	0.627173633678
+['20 mile', 'trip']	['200 mile']	0.584269096576
+['20 mile', 'trip']	['truck']	0.721931692495
+['hour', 'trip']	['semi truck']	0.0165341599722
+['hour', 'trip']	['pave road']	0.0337451128878
+['hour', 'trip']	['road']	0.159437228495
+['hour', 'trip']	['2 hour']	0.333482168522
+['hour', 'trip']	['average speed']	0.015360451052
+['hour', 'trip']	['20 mile']	0.0160064194205
+['hour', 'trip']	['dirt road']	0.0371339311411
+['hour', 'trip']	['dirt']	0.258380730753
+['hour', 'trip']	['3 hour']	0.333482168522
+['hour', 'trip']	['entire trip']	0.302588939335
+['hour', 'trip']	['mile']	0.297704008954
+['hour', 'trip']	['200 mile']	0.0160064194205
+['hour', 'trip']	['truck']	0.062720541044
+['dirt road', 'trip']	['semi truck']	0.0696933362217
+['dirt road', 'trip']	['pave road']	0.465538040018
+['dirt road', 'trip']	['road']	0.832523935877
+['dirt road', 'trip']	['2 hour']	0.0696933362217
+['dirt road', 'trip']	['average speed']	0.0696933362217
+['dirt road', 'trip']	['20 mile']	0.0696933362217
+['dirt road', 'trip']	['hour']	0.00298284487713
+['dirt road', 'trip']	['dirt']	0.533298518731
+['dirt road', 'trip']	['3 hour']	0.0696933362217
+['dirt road', 'trip']	['entire trip']	0.68544712738
+['dirt road', 'trip']	['mile']	0.0806965185133
+['dirt road', 'trip']	['200 mile']	0.0737139440912
+['dirt road', 'trip']	['truck']	0.714229582809
+['dirt', 'trip']	['semi truck']	0.0696933362217
+['dirt', 'trip']	['pave road']	0.0847291734277
+['dirt', 'trip']	['road']	0.324923817383
+['dirt', 'trip']	['2 hour']	0.0696933362217
+['dirt', 'trip']	['average speed']	0.0696933362217
+['dirt', 'trip']	['20 mile']	0.0696933362217
+['dirt', 'trip']	['hour']	0.133785682154
+['dirt', 'trip']	['dirt road']	0.535491841404
+['dirt', 'trip']	['3 hour']	0.0696933362217
+['dirt', 'trip']	['entire trip']	0.721919531857
+['dirt', 'trip']	['mile']	0.151205017883
+['dirt', 'trip']	['200 mile']	0.0696933362217
+['dirt', 'trip']	['truck']	0.39693354571
+['3 hour', 'trip']	['semi truck']	0.0827346205535
+['3 hour', 'trip']	['pave road']	0.101119282389
+['3 hour', 'trip']	['road']	0.372364672201
+['3 hour', 'trip']	['2 hour']	0.760386850763
+['3 hour', 'trip']	['average speed']	0.0827346205535
+['3 hour', 'trip']	['20 mile']	0.124206600218
+['3 hour', 'trip']	['hour']	0.384753826131
+['3 hour', 'trip']	['dirt road']	0.100791613756
+['3 hour', 'trip']	['dirt']	0.282334986149
+['3 hour', 'trip']	['entire trip']	0.648578713416
+['3 hour', 'trip']	['mile']	0.155766167646
+['3 hour', 'trip']	['200 mile']	0.0901100077042
+['3 hour', 'trip']	['truck']	0.721931692495
+['entire trip', 'trip']	['semi truck']	0.153587928078
+['entire trip', 'trip']	['pave road']	0.24921316652
+['entire trip', 'trip']	['road']	0.642159069879
+['entire trip', 'trip']	['2 hour']	0.14589133531
+['entire trip', 'trip']	['average speed']	0.14589133531
+['entire trip', 'trip']	['20 mile']	0.14589133531
+['entire trip', 'trip']	['hour']	0.117358910256
+['entire trip', 'trip']	['dirt road']	0.236891513875
+['entire trip', 'trip']	['dirt']	0.639782907986
+['entire trip', 'trip']	['3 hour']	0.14589133531
+['entire trip', 'trip']	['mile']	0.303403660681
+['entire trip', 'trip']	['200 mile']	0.14831866988
+['entire trip', 'trip']	['truck']	0.629704507397
+['mile', 'trip']	['semi truck']	0.0376720806775
+['mile', 'trip']	['pave road']	0.0545415909981
+['mile', 'trip']	['road']	0.188383116088
+['mile', 'trip']	['2 hour']	0.0368028975308
+['mile', 'trip']	['average speed']	0.0361569291624
+['mile', 'trip']	['20 mile']	0.391516700063
+['mile', 'trip']	['hour']	0.257862739113
+['mile', 'trip']	['dirt road']	0.0605310053367
+['mile', 'trip']	['dirt']	0.170880054934
+['mile', 'trip']	['3 hour']	0.0368028975308
+['mile', 'trip']	['entire trip']	0.353504387079
+['mile', 'trip']	['200 mile']	0.365401430504
+['mile', 'trip']	['truck']	0.18401708738
+['200 mile', 'trip']	['semi truck']	0.0901100077042
+['200 mile', 'trip']	['pave road']	0.101119282389
+['200 mile', 'trip']	['road']	0.372364672201
+['200 mile', 'trip']	['2 hour']	0.0901100077042
+['200 mile', 'trip']	['average speed']	0.0901100077042
+['200 mile', 'trip']	['20 mile']	0.584269096576
+['200 mile', 'trip']	['hour']	0.00500216543384
+['200 mile', 'trip']	['dirt road']	0.100791613756
+['200 mile', 'trip']	['dirt']	0.282334986149
+['200 mile', 'trip']	['3 hour']	0.0901100077042
+['200 mile', 'trip']	['entire trip']	0.648578713416
+['200 mile', 'trip']	['mile']	0.629068333815
+['200 mile', 'trip']	['truck']	0.721931692495
+['truck', 'trip']	['semi truck']	0.826113658799
+['truck', 'trip']	['pave road']	0.0669904799604
+['truck', 'trip']	['road']	0.124221322662
+['truck', 'trip']	['2 hour']	0.0737139440912
+['truck', 'trip']	['average speed']	0.0737139440912
+['truck', 'trip']	['20 mile']	0.0737139440912
+['truck', 'trip']	['hour']	0.0614430271225
+['truck', 'trip']	['dirt road']	0.0719929683361
+['truck', 'trip']	['dirt']	0.288831935037
+['truck', 'trip']	['3 hour']	0.0737139440912
+['truck', 'trip']	['entire trip']	0.675221062806
+['truck', 'trip']	['mile']	0.151205017883
+['truck', 'trip']	['200 mile']	0.0737139440912
+['semi truck', 'mile']	['pave road']	0.0361569291624
+['semi truck', 'mile']	['road']	0.474207505504
+['semi truck', 'mile']	['2 hour']	0.0368701550083
+['semi truck', 'mile']	['average speed']	0.0361569291624
+['semi truck', 'mile']	['20 mile']	0.391516700063
+['semi truck', 'mile']	['hour']	0.324529405779
+['semi truck', 'mile']	['dirt road']	0.0421463435009
+['semi truck', 'mile']	['dirt']	0.253045752412
+['semi truck', 'mile']	['3 hour']	0.0368701550083
+['semi truck', 'mile']	['entire trip']	0.0361569291624
+['semi truck', 'mile']	['trip']	0.111108266392
+['semi truck', 'mile']	['200 mile']	0.365401430504
+['semi truck', 'mile']	['truck']	0.690944087165
+['pave road', 'mile']	['semi truck']	0.0361569291624
+['pave road', 'mile']	['road']	0.551347781783
+['pave road', 'mile']	['2 hour']	0.0368028975308
+['pave road', 'mile']	['average speed']	0.0361569291624
+['pave road', 'mile']	['20 mile']	0.391516700063
+['pave road', 'mile']	['hour']	0.347072140822
+['pave road', 'mile']	['dirt road']	0.194644068746
+['pave road', 'mile']	['dirt']	0.316131935408
+['pave road', 'mile']	['3 hour']	0.0368028975308
+['pave road', 'mile']	['entire trip']	0.0361569291624
+['pave road', 'mile']	['trip']	0.12850470425
+['pave road', 'mile']	['200 mile']	0.365401430504
+['pave road', 'mile']	['truck']	0.316131935408
+['road', 'mile']	['semi truck']	0.0988807452127
+['road', 'mile']	['pave road']	0.359760932789
+['road', 'mile']	['2 hour']	0.0989480026901
+['road', 'mile']	['average speed']	0.0989480026901
+['road', 'mile']	['20 mile']	0.391516700063
+['road', 'mile']	['hour']	0.257862739113
+['road', 'mile']	['dirt road']	0.318634396923
+['road', 'mile']	['dirt']	0.229556887939
+['road', 'mile']	['3 hour']	0.0989480026901
+['road', 'mile']	['entire trip']	0.0989480026901
+['road', 'mile']	['trip']	0.30688269441
+['road', 'mile']	['200 mile']	0.371062249217
+['road', 'mile']	['truck']	0.122248537212
+['2 hour', 'mile']	['semi truck']	0.0361569291624
+['2 hour', 'mile']	['pave road']	0.0361569291624
+['2 hour', 'mile']	['road']	0.434589983476
+['2 hour', 'mile']	['average speed']	0.0361569291624
+['2 hour', 'mile']	['20 mile']	0.534447259735
+['2 hour', 'mile']	['hour']	0.554794460525
+['2 hour', 'mile']	['dirt road']	0.0421463435009
+['2 hour', 'mile']	['dirt']	0.250588487454
+['2 hour', 'mile']	['3 hour']	0.460558503228
+['2 hour', 'mile']	['entire trip']	0.0361569291624
+['2 hour', 'mile']	['trip']	0.12850470425
+['2 hour', 'mile']	['200 mile']	0.365401430504
+['2 hour', 'mile']	['truck']	0.250588487454
+['average speed', 'mile']	['semi truck']	0.0361569291624
+['average speed', 'mile']	['pave road']	0.0361569291624
+['average speed', 'mile']	['road']	0.474207505504
+['average speed', 'mile']	['2 hour']	0.0368028975308
+['average speed', 'mile']	['20 mile']	0.391516700063
+['average speed', 'mile']	['hour']	0.386622405372
+['average speed', 'mile']	['dirt road']	0.0421463435009
+['average speed', 'mile']	['dirt']	0.253045752412
+['average speed', 'mile']	['3 hour']	0.0368028975308
+['average speed', 'mile']	['entire trip']	0.0361569291624
+['average speed', 'mile']	['trip']	0.111108266392
+['average speed', 'mile']	['200 mile']	0.365401430504
+['average speed', 'mile']	['truck']	0.253045752412
+['20 mile', 'mile']	['semi truck']	0.0968024870635
+['20 mile', 'mile']	['pave road']	0.0968024870635
+['20 mile', 'mile']	['road']	0.55563220267
+['20 mile', 'mile']	['2 hour']	0.230679323185
+['20 mile', 'mile']	['average speed']	0.150377262293
+['20 mile', 'mile']	['hour']	0.578571428571
+['20 mile', 'mile']	['dirt road']	0.103856602467
+['20 mile', 'mile']	['dirt']	0.406338837076
+['20 mile', 'mile']	['3 hour']	0.230679323185
+['20 mile', 'mile']	['entire trip']	0.0968024870635
+['20 mile', 'mile']	['trip']	0.330578493
+['20 mile', 'mile']	['200 mile']	0.610690210365
+['20 mile', 'mile']	['truck']	0.406338837076
+['hour', 'mile']	['semi truck']	0.0713303637771
+['hour', 'mile']	['pave road']	0.0701566548569
+['hour', 'mile']	['road']	0.179240227609
+['hour', 'mile']	['2 hour']	0.307792110794
+['hour', 'mile']	['average speed']	0.0701566548569
+['hour', 'mile']	['20 mile']	0.283241311543
+['hour', 'mile']	['dirt road']	0.0735454731102
+['hour', 'mile']	['dirt']	0.0736221117794
+['hour', 'mile']	['3 hour']	0.307792110794
+['hour', 'mile']	['entire trip']	0.0701566548569
+['hour', 'mile']	['trip']	0.0853003968376
+['hour', 'mile']	['200 mile']	0.306554253166
+['hour', 'mile']	['truck']	0.0736221117794
+['dirt road', 'mile']	['semi truck']	0.0982347768443
+['dirt road', 'mile']	['pave road']	0.175414856465
+['dirt road', 'mile']	['road']	0.696382814005
+['dirt road', 'mile']	['2 hour']	0.0989480026901
+['dirt road', 'mile']	['average speed']	0.0983020343217
+['dirt road', 'mile']	['20 mile']	0.391516700063
+['dirt road', 'mile']	['hour']	0.347072140822
+['dirt road', 'mile']	['dirt']	0.531180862645
+['dirt road', 'mile']	['3 hour']	0.0989480026901
+['dirt road', 'mile']	['entire trip']	0.0982347768443
+['dirt road', 'mile']	['trip']	0.185843913672
+['dirt road', 'mile']	['200 mile']	0.365401430504
+['dirt road', 'mile']	['truck']	0.37820978309
+['dirt', 'mile']	['semi truck']	0.0982347768443
+['dirt', 'mile']	['pave road']	0.0982347768443
+['dirt', 'mile']	['road']	0.209696539646
+['dirt', 'mile']	['2 hour']	0.0989480026901
+['dirt', 'mile']	['average speed']	0.0983020343217
+['dirt', 'mile']	['20 mile']	0.391516700063
+['dirt', 'mile']	['hour']	0.182422153961
+['dirt', 'mile']	['dirt road']	0.510477411225
+['dirt', 'mile']	['3 hour']	0.0989480026901
+['dirt', 'mile']	['entire trip']	0.0989480026901
+['dirt', 'mile']	['trip']	0.125751516636
+['dirt', 'mile']	['200 mile']	0.371062249217
+['dirt', 'mile']	['truck']	0.102946740918
+['3 hour', 'mile']	['semi truck']	0.0361569291624
+['3 hour', 'mile']	['pave road']	0.0361569291624
+['3 hour', 'mile']	['road']	0.434589983476
+['3 hour', 'mile']	['2 hour']	0.460558503228
+['3 hour', 'mile']	['average speed']	0.0361569291624
+['3 hour', 'mile']	['20 mile']	0.534447259735
+['3 hour', 'mile']	['hour']	0.554794460525
+['3 hour', 'mile']	['dirt road']	0.0421463435009
+['3 hour', 'mile']	['dirt']	0.250588487454
+['3 hour', 'mile']	['entire trip']	0.0361569291624
+['3 hour', 'mile']	['trip']	0.12850470425
+['3 hour', 'mile']	['200 mile']	0.365401430504
+['3 hour', 'mile']	['truck']	0.250588487454
+['entire trip', 'mile']	['semi truck']	0.0361569291624
+['entire trip', 'mile']	['pave road']	0.0361569291624
+['entire trip', 'mile']	['road']	0.474207505504
+['entire trip', 'mile']	['2 hour']	0.0368701550083
+['entire trip', 'mile']	['average speed']	0.0361569291624
+['entire trip', 'mile']	['20 mile']	0.391516700063
+['entire trip', 'mile']	['hour']	0.324529405779
+['entire trip', 'mile']	['dirt road']	0.0421463435009
+['entire trip', 'mile']	['dirt']	0.253045752412
+['entire trip', 'mile']	['3 hour']	0.0368701550083
+['entire trip', 'mile']	['trip']	0.40270928671
+['entire trip', 'mile']	['200 mile']	0.365401430504
+['entire trip', 'mile']	['truck']	0.253045752412
+['trip', 'mile']	['semi truck']	0.0376720806775
+['trip', 'mile']	['pave road']	0.0545415909981
+['trip', 'mile']	['road']	0.188383116088
+['trip', 'mile']	['2 hour']	0.0368028975308
+['trip', 'mile']	['average speed']	0.0361569291624
+['trip', 'mile']	['20 mile']	0.391516700063
+['trip', 'mile']	['hour']	0.257862739113
+['trip', 'mile']	['dirt road']	0.0605310053367
+['trip', 'mile']	['dirt']	0.170880054934
+['trip', 'mile']	['3 hour']	0.0368028975308
+['trip', 'mile']	['entire trip']	0.353504387079
+['trip', 'mile']	['200 mile']	0.365401430504
+['trip', 'mile']	['truck']	0.18401708738
+['200 mile', 'mile']	['semi truck']	0.0983176385786
+['200 mile', 'mile']	['pave road']	0.0968024870635
+['200 mile', 'mile']	['road']	0.55563220267
+['200 mile', 'mile']	['2 hour']	0.177448801378
+['200 mile', 'mile']	['average speed']	0.150377262293
+['200 mile', 'mile']	['20 mile']	0.638178477636
+['200 mile', 'mile']	['hour']	0.578571428571
+['200 mile', 'mile']	['dirt road']	0.103856602467
+['200 mile', 'mile']	['dirt']	0.406338837076
+['200 mile', 'mile']	['3 hour']	0.177448801378
+['200 mile', 'mile']	['entire trip']	0.0968024870635
+['200 mile', 'mile']	['trip']	0.330578493
+['200 mile', 'mile']	['truck']	0.406338837076
+['truck', 'mile']	['semi truck']	0.535945211636
+['truck', 'mile']	['pave road']	0.0988807452127
+['truck', 'mile']	['road']	0.271072593542
+['truck', 'mile']	['2 hour']	0.0988807452127
+['truck', 'mile']	['average speed']	0.0982347768443
+['truck', 'mile']	['20 mile']	0.391516700063
+['truck', 'mile']	['hour']	0.180103313381
+['truck', 'mile']	['dirt road']	0.104870159551
+['truck', 'mile']	['dirt']	0.102946740918
+['truck', 'mile']	['3 hour']	0.0988807452127
+['truck', 'mile']	['entire trip']	0.0982347768443
+['truck', 'mile']	['trip']	0.39670482773
+['truck', 'mile']	['200 mile']	0.365401430504
+['semi truck', '200 mile']	['pave road']	0.0827346205535
+['semi truck', '200 mile']	['road']	0.0760750800346
+['semi truck', '200 mile']	['2 hour']	0.0827346205535
+['semi truck', '200 mile']	['average speed']	0.0827346205535
+['semi truck', '200 mile']	['20 mile']	0.573408386835
+['semi truck', '200 mile']	['hour']	0.00424649792755
+['semi truck', '200 mile']	['dirt road']	0.0824069519204
+['semi truck', '200 mile']	['dirt']	0.079730351659
+['semi truck', '200 mile']	['3 hour']	0.0827346205535
+['semi truck', '200 mile']	['entire trip']	0.0827346205535
+['semi truck', '200 mile']	['trip']	0.0777864840342
+['semi truck', '200 mile']	['mile']	0.276426897145
+['semi truck', '200 mile']	['truck']	0.811746255271
+['pave road', '200 mile']	['semi truck']	0.0827346205535
+['pave road', '200 mile']	['road']	0.664693031336
+['pave road', '200 mile']	['2 hour']	0.0901100077042
+['pave road', '200 mile']	['average speed']	0.0901100077042
+['pave road', '200 mile']	['20 mile']	0.584269096576
+['pave road', '200 mile']	['hour']	0.00424649792755
+['pave road', '200 mile']	['dirt road']	0.577101062223
+['pave road', '200 mile']	['dirt']	0.0774561735493
+['pave road', '200 mile']	['3 hour']	0.0901100077042
+['pave road', '200 mile']	['entire trip']	0.0901100077042
+['pave road', '200 mile']	['trip']	0.0744376594044
+['pave road', '200 mile']	['mile']	0.345037237052
+['pave road', '200 mile']	['truck']	0.0774561735493
+['road', '200 mile']	['semi truck']	0.0703393045902
+['road', '200 mile']	['pave road']	0.68687409652
+['road', '200 mile']	['2 hour']	0.0696933362217
+['road', '200 mile']	['average speed']	0.0703393045902
+['road', '200 mile']	['20 mile']	0.494524508322
+['road', '200 mile']	['hour']	0.0229828448771
+['road', '200 mile']	['dirt road']	0.62583000514
+['road', '200 mile']	['dirt']	0.606969729429
+['road', '200 mile']	['3 hour']	0.0696933362217
+['road', '200 mile']	['entire trip']	0.0703393045902
+['road', '200 mile']	['trip']	0.371974372328
+['road', '200 mile']	['mile']	0.713244734512
+['road', '200 mile']	['truck']	0.185711257371
+['2 hour', '200 mile']	['semi truck']	0.0827346205535
+['2 hour', '200 mile']	['pave road']	0.0827346205535
+['2 hour', '200 mile']	['road']	0.0774561735493
+['2 hour', '200 mile']	['average speed']	0.0827346205535
+['2 hour', '200 mile']	['20 mile']	0.604308352538
+['2 hour', '200 mile']	['hour']	0.265372434584
+['2 hour', '200 mile']	['dirt road']	0.0824069519204
+['2 hour', '200 mile']	['dirt']	0.0774561735493
+['2 hour', '200 mile']	['3 hour']	0.754360422532
+['2 hour', '200 mile']	['entire trip']	0.0827346205535
+['2 hour', '200 mile']	['trip']	0.0777864840342
+['2 hour', '200 mile']	['mile']	0.430630568157
+['2 hour', '200 mile']	['truck']	0.079730351659
+['average speed', '200 mile']	['semi truck']	0.0827346205535
+['average speed', '200 mile']	['pave road']	0.0901100077042
+['average speed', '200 mile']	['road']	0.0760750800346
+['average speed', '200 mile']	['2 hour']	0.0901100077042
+['average speed', '200 mile']	['20 mile']	0.584269096576
+['average speed', '200 mile']	['hour']	0.00424649792755
+['average speed', '200 mile']	['dirt road']	0.0897823390711
+['average speed', '200 mile']	['dirt']	0.079730351659
+['average speed', '200 mile']	['3 hour']	0.0901100077042
+['average speed', '200 mile']	['entire trip']	0.0901100077042
+['average speed', '200 mile']	['trip']	0.0777864840342
+['average speed', '200 mile']	['mile']	0.384528877052
+['average speed', '200 mile']	['truck']	0.079730351659
+['20 mile', '200 mile']	['semi truck']	0.14589133531
+['20 mile', '200 mile']	['pave road']	0.14589133531
+['20 mile', '200 mile']	['road']	0.352570693243
+['20 mile', '200 mile']	['2 hour']	0.264907405557
+['20 mile', '200 mile']	['average speed']	0.153587928078
+['20 mile', '200 mile']	['hour']	0.156901862603
+['20 mile', '200 mile']	['dirt road']	0.153629069592
+['20 mile', '200 mile']	['dirt']	0.352570693243
+['20 mile', '200 mile']	['3 hour']	0.264907405557
+['20 mile', '200 mile']	['entire trip']	0.14589133531
+['20 mile', '200 mile']	['trip']	0.327028499836
+['20 mile', '200 mile']	['mile']	0.67956664036
+['20 mile', '200 mile']	['truck']	0.33665242287
+['hour', '200 mile']	['semi truck']	0.0165341599722
+['hour', '200 mile']	['pave road']	0.015360451052
+['hour', '200 mile']	['road']	0.0163075261401
+['hour', '200 mile']	['2 hour']	0.333482168522
+['hour', '200 mile']	['average speed']	0.015360451052
+['hour', '200 mile']	['20 mile']	0.0852471420558
+['hour', '200 mile']	['dirt road']	0.0187492693053
+['hour', '200 mile']	['dirt']	0.28909109182
+['hour', '200 mile']	['3 hour']	0.333482168522
+['hour', '200 mile']	['entire trip']	0.015360451052
+['hour', '200 mile']	['trip']	0.0152537708965
+['hour', '200 mile']	['mile']	0.53282747888
+['hour', '200 mile']	['truck']	0.133560533536
+['dirt road', '200 mile']	['semi truck']	0.0696933362217
+['dirt road', '200 mile']	['pave road']	0.525944474896
+['dirt road', '200 mile']	['road']	0.564881483371
+['dirt road', '200 mile']	['2 hour']	0.0696933362217
+['dirt road', '200 mile']	['average speed']	0.0696933362217
+['dirt road', '200 mile']	['20 mile']	0.525944474896
+['dirt road', '200 mile']	['hour']	0.00222717737084
+['dirt road', '200 mile']	['dirt']	0.530792669321
+['dirt road', '200 mile']	['3 hour']	0.0696933362217
+['dirt road', '200 mile']	['entire trip']	0.0696933362217
+['dirt road', '200 mile']	['trip']	0.0634148935911
+['dirt road', '200 mile']	['mile']	0.314167362457
+['dirt road', '200 mile']	['truck']	0.0650959234194
+['dirt', '200 mile']	['semi truck']	0.0696933362217
+['dirt', '200 mile']	['pave road']	0.0696933362217
+['dirt', '200 mile']	['road']	0.606969729429
+['dirt', '200 mile']	['2 hour']	0.0696933362217
+['dirt', '200 mile']	['average speed']	0.0696933362217
+['dirt', '200 mile']	['20 mile']	0.494524508322
+['dirt', '200 mile']	['hour']	0.271968453003
+['dirt', '200 mile']	['dirt road']	0.560914406678
+['dirt', '200 mile']	['3 hour']	0.0696933362217
+['dirt', '200 mile']	['entire trip']	0.0703393045902
+['dirt', '200 mile']	['trip']	0.230902147551
+['dirt', '200 mile']	['mile']	0.681036942304
+['dirt', '200 mile']	['truck']	0.287172632079
+['3 hour', '200 mile']	['semi truck']	0.0827346205535
+['3 hour', '200 mile']	['pave road']	0.0827346205535
+['3 hour', '200 mile']	['road']	0.0774561735493
+['3 hour', '200 mile']	['2 hour']	0.754360422532
+['3 hour', '200 mile']	['average speed']	0.0827346205535
+['3 hour', '200 mile']	['20 mile']	0.604308352538
+['3 hour', '200 mile']	['hour']	0.265372434584
+['3 hour', '200 mile']	['dirt road']	0.0824069519204
+['3 hour', '200 mile']	['dirt']	0.0774561735493
+['3 hour', '200 mile']	['entire trip']	0.0827346205535
+['3 hour', '200 mile']	['trip']	0.0777864840342
+['3 hour', '200 mile']	['mile']	0.430630568157
+['3 hour', '200 mile']	['truck']	0.079730351659
+['entire trip', '200 mile']	['semi truck']	0.0827346205535
+['entire trip', '200 mile']	['pave road']	0.0827346205535
+['entire trip', '200 mile']	['road']	0.0760750800346
+['entire trip', '200 mile']	['2 hour']	0.0827346205535
+['entire trip', '200 mile']	['average speed']	0.0827346205535
+['entire trip', '200 mile']	['20 mile']	0.561946181134
+['entire trip', '200 mile']	['hour']	0.00424649792755
+['entire trip', '200 mile']	['dirt road']	0.0824069519204
+['entire trip', '200 mile']	['dirt']	0.079730351659
+['entire trip', '200 mile']	['3 hour']	0.0827346205535
+['entire trip', '200 mile']	['trip']	0.722511270791
+['entire trip', '200 mile']	['mile']	0.276426897145
+['entire trip', '200 mile']	['truck']	0.079730351659
+['trip', '200 mile']	['semi truck']	0.0901100077042
+['trip', '200 mile']	['pave road']	0.101119282389
+['trip', '200 mile']	['road']	0.372364672201
+['trip', '200 mile']	['2 hour']	0.0901100077042
+['trip', '200 mile']	['average speed']	0.0901100077042
+['trip', '200 mile']	['20 mile']	0.584269096576
+['trip', '200 mile']	['hour']	0.00500216543384
+['trip', '200 mile']	['dirt road']	0.100791613756
+['trip', '200 mile']	['dirt']	0.282334986149
+['trip', '200 mile']	['3 hour']	0.0901100077042
+['trip', '200 mile']	['entire trip']	0.648578713416
+['trip', '200 mile']	['mile']	0.629068333815
+['trip', '200 mile']	['truck']	0.721931692495
+['mile', '200 mile']	['semi truck']	0.0983176385786
+['mile', '200 mile']	['pave road']	0.0968024870635
+['mile', '200 mile']	['road']	0.55563220267
+['mile', '200 mile']	['2 hour']	0.177448801378
+['mile', '200 mile']	['average speed']	0.150377262293
+['mile', '200 mile']	['20 mile']	0.638178477636
+['mile', '200 mile']	['hour']	0.578571428571
+['mile', '200 mile']	['dirt road']	0.103856602467
+['mile', '200 mile']	['dirt']	0.406338837076
+['mile', '200 mile']	['3 hour']	0.177448801378
+['mile', '200 mile']	['entire trip']	0.0968024870635
+['mile', '200 mile']	['trip']	0.330578493
+['mile', '200 mile']	['truck']	0.406338837076
+['truck', '200 mile']	['semi truck']	0.829039253614
+['truck', '200 mile']	['pave road']	0.0703393045902
+['truck', '200 mile']	['road']	0.185711257371
+['truck', '200 mile']	['2 hour']	0.0737139440912
+['truck', '200 mile']	['average speed']	0.0737139440912
+['truck', '200 mile']	['20 mile']	0.522652815483
+['truck', '200 mile']	['hour']	0.183885057231
+['truck', '200 mile']	['dirt road']	0.0753417929659
+['truck', '200 mile']	['dirt']	0.287172632079
+['truck', '200 mile']	['3 hour']	0.0737139440912
+['truck', '200 mile']	['entire trip']	0.0737139440912
+['truck', '200 mile']	['trip']	0.719008758257
+['truck', '200 mile']	['mile']	0.681036942304
+['semi truck', 'truck']	['pave road']	0.235936813221
+['semi truck', 'truck']	['road']	0.46532959416
+['semi truck', 'truck']	['2 hour']	0.136831688603
+['semi truck', 'truck']	['average speed']	0.144528281371
+['semi truck', 'truck']	['20 mile']	0.136831688603
+['semi truck', 'truck']	['hour']	0.225602603222
+['semi truck', 'truck']	['dirt road']	0.241075587595
+['semi truck', 'truck']	['dirt']	0.486191712051
+['semi truck', 'truck']	['3 hour']	0.136831688603
+['semi truck', 'truck']	['entire trip']	0.144528281371
+['semi truck', 'truck']	['trip']	0.664221811587
+['semi truck', 'truck']	['mile']	0.337410483329
+['semi truck', 'truck']	['200 mile']	0.139259023173
+['pave road', 'truck']	['semi truck']	0.816877425091
+['pave road', 'truck']	['road']	0.594062377766
+['pave road', 'truck']	['2 hour']	0.0737139440912
+['pave road', 'truck']	['average speed']	0.0737139440912
+['pave road', 'truck']	['20 mile']	0.0737139440912
+['pave road', 'truck']	['hour']	0.092218390564
+['pave road', 'truck']	['dirt road']	0.480668844185
+['pave road', 'truck']	['dirt']	0.349299997925
+['pave road', 'truck']	['3 hour']	0.0737139440912
+['pave road', 'truck']	['entire trip']	0.0737139440912
+['pave road', 'truck']	['trip']	0.716321309289
+['pave road', 'truck']	['mile']	0.205181581481
+['pave road', 'truck']	['200 mile']	0.0737139440912
+['road', 'truck']	['semi truck']	0.895168293608
+['road', 'truck']	['pave road']	0.710768038676
+['road', 'truck']	['2 hour']	0.131771183904
+['road', 'truck']	['average speed']	0.132417152272
+['road', 'truck']	['20 mile']	0.131771183904
+['road', 'truck']	['hour']	0.127354026283
+['road', 'truck']	['dirt road']	0.679416307458
+['road', 'truck']	['dirt']	0.332423817383
+['road', 'truck']	['3 hour']	0.131771183904
+['road', 'truck']	['entire trip']	0.132417152272
+['road', 'truck']	['trip']	0.445012329415
+['road', 'truck']	['mile']	0.161554519756
+['road', 'truck']	['200 mile']	0.131771183904
+['2 hour', 'truck']	['semi truck']	0.843559540977
+['2 hour', 'truck']	['pave road']	0.0703393045902
+['2 hour', 'truck']	['road']	0.185711257371
+['2 hour', 'truck']	['average speed']	0.0696933362217
+['2 hour', 'truck']	['20 mile']	0.103222748661
+['2 hour', 'truck']	['hour']	0.455806365286
+['2 hour', 'truck']	['dirt road']	0.0753417929659
+['2 hour', 'truck']	['dirt']	0.287172632079
+['2 hour', 'truck']	['3 hour']	0.736313764211
+['2 hour', 'truck']	['entire trip']	0.0696933362217
+['2 hour', 'truck']	['trip']	0.716321309289
+['2 hour', 'truck']	['mile']	0.29777020648
+['2 hour', 'truck']	['200 mile']	0.0737139440912
+['average speed', 'truck']	['semi truck']	0.816877425091
+['average speed', 'truck']	['pave road']	0.0703393045902
+['average speed', 'truck']	['road']	0.214505289884
+['average speed', 'truck']	['2 hour']	0.0737139440912
+['average speed', 'truck']	['20 mile']	0.0737139440912
+['average speed', 'truck']	['hour']	0.15769458104
+['average speed', 'truck']	['dirt road']	0.0753417929659
+['average speed', 'truck']	['dirt']	0.289629897036
+['average speed', 'truck']	['3 hour']	0.0737139440912
+['average speed', 'truck']	['entire trip']	0.0737139440912
+['average speed', 'truck']	['trip']	0.698536001133
+['average speed', 'truck']	['mile']	0.270657771957
+['average speed', 'truck']	['200 mile']	0.0737139440912
+['20 mile', 'truck']	['semi truck']	0.843559540977
+['20 mile', 'truck']	['pave road']	0.0703393045902
+['20 mile', 'truck']	['road']	0.185711257371
+['20 mile', 'truck']	['2 hour']	0.103222748661
+['20 mile', 'truck']	['average speed']	0.0696933362217
+['20 mile', 'truck']	['hour']	0.183885057231
+['20 mile', 'truck']	['dirt road']	0.0753417929659
+['20 mile', 'truck']	['dirt']	0.287172632079
+['20 mile', 'truck']	['3 hour']	0.103222748661
+['20 mile', 'truck']	['entire trip']	0.0696933362217
+['20 mile', 'truck']	['trip']	0.719008758257
+['20 mile', 'truck']	['mile']	0.686151554564
+['20 mile', 'truck']	['200 mile']	0.522652815483
+['hour', 'truck']	['semi truck']	0.317080764963
+['hour', 'truck']	['pave road']	0.0780842671024
+['hour', 'truck']	['road']	0.107364286037
+['hour', 'truck']	['2 hour']	0.333482168522
+['hour', 'truck']	['average speed']	0.0774382987339
+['hour', 'truck']	['20 mile']	0.0780842671024
+['hour', 'truck']	['dirt road']	0.0814730853556
+['hour', 'truck']	['dirt']	0.103553874377
+['hour', 'truck']	['3 hour']	0.333482168522
+['hour', 'truck']	['entire trip']	0.0774382987339
+['hour', 'truck']	['trip']	0.274225168055
+['hour', 'truck']	['mile']	0.180103313381
+['hour', 'truck']	['200 mile']	0.0780842671024
+['dirt road', 'truck']	['semi truck']	0.816877425091
+['dirt road', 'truck']	['pave road']	0.494374116261
+['dirt road', 'truck']	['road']	0.793578039282
+['dirt road', 'truck']	['2 hour']	0.131771183904
+['dirt road', 'truck']	['average speed']	0.131771183904
+['dirt road', 'truck']	['20 mile']	0.131771183904
+['dirt road', 'truck']	['hour']	0.158129389724
+['dirt road', 'truck']	['dirt']	0.66956394139
+['dirt road', 'truck']	['3 hour']	0.131771183904
+['dirt road', 'truck']	['entire trip']	0.131771183904
+['dirt road', 'truck']	['trip']	0.729338550668
+['dirt road', 'truck']	['mile']	0.271092580641
+['dirt road', 'truck']	['200 mile']	0.135791791773
+['dirt', 'truck']	['semi truck']	0.843943638833
+['dirt', 'truck']	['pave road']	0.129068327642
+['dirt', 'truck']	['road']	0.383634771469
+['dirt', 'truck']	['2 hour']	0.131771183904
+['dirt', 'truck']	['average speed']	0.131771183904
+['dirt', 'truck']	['20 mile']	0.131771183904
+['dirt', 'truck']	['hour']	0.0736221117794
+['dirt', 'truck']	['dirt road']	0.578750228649
+['dirt', 'truck']	['3 hour']	0.131771183904
+['dirt', 'truck']	['entire trip']	0.132417152272
+['dirt', 'truck']	['trip']	0.620865881553
+['dirt', 'truck']	['mile']	0.0853322320152
+['dirt', 'truck']	['200 mile']	0.131771183904
+['3 hour', 'truck']	['semi truck']	0.843559540977
+['3 hour', 'truck']	['pave road']	0.0703393045902
+['3 hour', 'truck']	['road']	0.185711257371
+['3 hour', 'truck']	['2 hour']	0.736313764211
+['3 hour', 'truck']	['average speed']	0.0696933362217
+['3 hour', 'truck']	['20 mile']	0.103222748661
+['3 hour', 'truck']	['hour']	0.455806365286
+['3 hour', 'truck']	['dirt road']	0.0753417929659
+['3 hour', 'truck']	['dirt']	0.287172632079
+['3 hour', 'truck']	['entire trip']	0.0696933362217
+['3 hour', 'truck']	['trip']	0.716321309289
+['3 hour', 'truck']	['mile']	0.29777020648
+['3 hour', 'truck']	['200 mile']	0.0737139440912
+['entire trip', 'truck']	['semi truck']	0.834096781515
+['entire trip', 'truck']	['pave road']	0.0703393045902
+['entire trip', 'truck']	['road']	0.214505289884
+['entire trip', 'truck']	['2 hour']	0.0696933362217
+['entire trip', 'truck']	['average speed']	0.0696933362217
+['entire trip', 'truck']	['20 mile']	0.0696933362217
+['entire trip', 'truck']	['hour']	0.0947763604558
+['entire trip', 'truck']	['dirt road']	0.0753417929659
+['entire trip', 'truck']	['dirt']	0.289629897036
+['entire trip', 'truck']	['3 hour']	0.0696933362217
+['entire trip', 'truck']	['trip']	0.852058002787
+['entire trip', 'truck']	['mile']	0.207739551373
+['entire trip', 'truck']	['200 mile']	0.0737139440912
+['trip', 'truck']	['semi truck']	0.826113658799
+['trip', 'truck']	['pave road']	0.0669904799604
+['trip', 'truck']	['road']	0.124221322662
+['trip', 'truck']	['2 hour']	0.0737139440912
+['trip', 'truck']	['average speed']	0.0737139440912
+['trip', 'truck']	['20 mile']	0.0737139440912
+['trip', 'truck']	['hour']	0.0614430271225
+['trip', 'truck']	['dirt road']	0.0719929683361
+['trip', 'truck']	['dirt']	0.288831935037
+['trip', 'truck']	['3 hour']	0.0737139440912
+['trip', 'truck']	['entire trip']	0.675221062806
+['trip', 'truck']	['mile']	0.151205017883
+['trip', 'truck']	['200 mile']	0.0737139440912
+['mile', 'truck']	['semi truck']	0.535945211636
+['mile', 'truck']	['pave road']	0.0988807452127
+['mile', 'truck']	['road']	0.271072593542
+['mile', 'truck']	['2 hour']	0.0988807452127
+['mile', 'truck']	['average speed']	0.0982347768443
+['mile', 'truck']	['20 mile']	0.391516700063
+['mile', 'truck']	['hour']	0.180103313381
+['mile', 'truck']	['dirt road']	0.104870159551
+['mile', 'truck']	['dirt']	0.102946740918
+['mile', 'truck']	['3 hour']	0.0988807452127
+['mile', 'truck']	['entire trip']	0.0982347768443
+['mile', 'truck']	['trip']	0.39670482773
+['mile', 'truck']	['200 mile']	0.365401430504
+['200 mile', 'truck']	['semi truck']	0.829039253614
+['200 mile', 'truck']	['pave road']	0.0703393045902
+['200 mile', 'truck']	['road']	0.185711257371
+['200 mile', 'truck']	['2 hour']	0.0737139440912
+['200 mile', 'truck']	['average speed']	0.0737139440912
+['200 mile', 'truck']	['20 mile']	0.522652815483
+['200 mile', 'truck']	['hour']	0.183885057231
+['200 mile', 'truck']	['dirt road']	0.0753417929659
+['200 mile', 'truck']	['dirt']	0.287172632079
+['200 mile', 'truck']	['3 hour']	0.0737139440912
+['200 mile', 'truck']	['entire trip']	0.0737139440912
+['200 mile', 'truck']	['trip']	0.719008758257
+['200 mile', 'truck']	['mile']	0.681036942304

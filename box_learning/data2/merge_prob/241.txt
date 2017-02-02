@@ -1,0 +1,1380 @@
+['ticket', 'local theater', 'theater', '6 dollar', 'adult', 'dollar', '2 dollar', 'kid', 'twelve', '175 ticket', '750 dollar', 'kid ticket']
+['ticket']	['local theater']	0.0696933362217
+['ticket']	['theater']	0.111098860584
+['ticket']	['6 dollar']	0.10873615468
+['ticket']	['adult']	0.0734239376973
+['ticket']	['dollar']	0.0240886330375
+['ticket']	['2 dollar']	0.10873615468
+['ticket']	['kid']	0.0930410498638
+['ticket']	['twelve']	0.0834098541484
+['ticket']	['750 dollar']	0.10873615468
+['local theater']	['6 dollar']	0.0827346205535
+['local theater']	['adult']	0.0744376594044
+['local theater']	['dollar']	0.0132263547461
+['local theater']	['2 dollar']	0.0827346205535
+['local theater']	['kid']	0.0741073489195
+['local theater']	['twelve']	0.0800606621439
+['local theater']	['175 ticket']	0.0901100077042
+['local theater']	['750 dollar']	0.0901100077042
+['local theater']	['kid ticket']	0.0977704577595
+['theater']	['6 dollar']	0.0827346205535
+['theater']	['adult']	0.146954738892
+['theater']	['dollar']	0.0303742514954
+['theater']	['2 dollar']	0.0827346205535
+['theater']	['kid']	0.0767389297906
+['theater']	['twelve']	0.104660021814
+['theater']	['175 ticket']	0.0827346205535
+['theater']	['750 dollar']	0.0827346205535
+['theater']	['kid ticket']	0.0827346205535
+['6 dollar']	['adult']	0.0777864840342
+['6 dollar']	['2 dollar']	0.828768839235
+['6 dollar']	['kid']	0.079730351659
+['6 dollar']	['twelve']	0.0744376594044
+['6 dollar']	['175 ticket']	0.0901100077042
+['6 dollar']	['750 dollar']	0.643440930505
+['6 dollar']	['kid ticket']	0.0827346205535
+['adult']	['dollar']	0.0346118531755
+['adult']	['2 dollar']	0.0827346205535
+['adult']	['kid']	0.160478668417
+['adult']	['twelve']	0.230912344372
+['adult']	['175 ticket']	0.0827346205535
+['adult']	['750 dollar']	0.0827346205535
+['adult']	['kid ticket']	0.0827346205535
+['dollar']	['kid']	0.0416626988251
+['dollar']	['twelve']	0.0369601588388
+['dollar']	['175 ticket']	0.0427692176215
+['dollar']	['kid ticket']	0.0427692176215
+['2 dollar']	['kid']	0.079730351659
+['2 dollar']	['twelve']	0.0744376594044
+['2 dollar']	['175 ticket']	0.0901100077042
+['2 dollar']	['750 dollar']	0.643440930505
+['2 dollar']	['kid ticket']	0.0827346205535
+['kid']	['twelve']	0.08819948339
+['kid']	['175 ticket']	0.0737139440912
+['kid']	['750 dollar']	0.0696933362217
+['twelve']	['175 ticket']	0.0827346205535
+['twelve']	['750 dollar']	0.0977704577595
+['twelve']	['kid ticket']	0.0827346205535
+['175 ticket']	['750 dollar']	0.0901100077042
+['175 ticket']	['kid ticket']	0.643440930505
+['750 dollar']	['kid ticket']	0.0901100077042
+['local theater', 'ticket']	['theater']	0.808385351655
+['local theater', 'ticket']	['6 dollar']	0.103222748661
+['local theater', 'ticket']	['adult']	0.211523961879
+['local theater', 'ticket']	['dollar']	0.0806965185133
+['local theater', 'ticket']	['2 dollar']	0.103222748661
+['local theater', 'ticket']	['kid']	0.277100936222
+['local theater', 'ticket']	['twelve']	0.307159557513
+['local theater', 'ticket']	['175 ticket']	0.669973747197
+['local theater', 'ticket']	['750 dollar']	0.103222748661
+['local theater', 'ticket']	['kid ticket']	0.723846078739
+['theater', 'ticket']	['local theater']	0.722297777211
+['theater', 'ticket']	['6 dollar']	0.117488318928
+['theater', 'ticket']	['adult']	0.159224278685
+['theater', 'ticket']	['dollar']	0.0240886330375
+['theater', 'ticket']	['2 dollar']	0.117488318928
+['theater', 'ticket']	['kid']	0.188574768389
+['theater', 'ticket']	['twelve']	0.0834098541484
+['theater', 'ticket']	['175 ticket']	0.670043866319
+['theater', 'ticket']	['750 dollar']	0.117488318928
+['theater', 'ticket']	['kid ticket']	0.670043866319
+['6 dollar', 'ticket']	['local theater']	0.0696933362217
+['6 dollar', 'ticket']	['theater']	0.719008758257
+['6 dollar', 'ticket']	['adult']	0.182729929366
+['6 dollar', 'ticket']	['dollar']	0.712205864641
+['6 dollar', 'ticket']	['2 dollar']	0.787143378625
+['6 dollar', 'ticket']	['kid']	0.279068667337
+['6 dollar', 'ticket']	['twelve']	0.36928692336
+['6 dollar', 'ticket']	['175 ticket']	0.669973747197
+['6 dollar', 'ticket']	['750 dollar']	0.525526174317
+['6 dollar', 'ticket']	['kid ticket']	0.699506625782
+['adult', 'ticket']	['local theater']	0.0696933362217
+['adult', 'ticket']	['theater']	0.541763756738
+['adult', 'ticket']	['6 dollar']	0.117488318928
+['adult', 'ticket']	['dollar']	0.0240886330375
+['adult', 'ticket']	['2 dollar']	0.117488318928
+['adult', 'ticket']	['kid']	0.429594204023
+['adult', 'ticket']	['twelve']	0.345132542704
+['adult', 'ticket']	['175 ticket']	0.670043866319
+['adult', 'ticket']	['750 dollar']	0.117488318928
+['adult', 'ticket']	['kid ticket']	0.670043866319
+['dollar', 'ticket']	['local theater']	0.0982347768443
+['dollar', 'ticket']	['theater']	0.401309532484
+['dollar', 'ticket']	['6 dollar']	0.572396609663
+['dollar', 'ticket']	['adult']	0.270336505163
+['dollar', 'ticket']	['2 dollar']	0.572396609663
+['dollar', 'ticket']	['kid']	0.114797012275
+['dollar', 'ticket']	['twelve']	0.111230573788
+['dollar', 'ticket']	['175 ticket']	0.545159042756
+['dollar', 'ticket']	['750 dollar']	0.520954191004
+['dollar', 'ticket']	['kid ticket']	0.545159042756
+['2 dollar', 'ticket']	['local theater']	0.0696933362217
+['2 dollar', 'ticket']	['theater']	0.719008758257
+['2 dollar', 'ticket']	['6 dollar']	0.787143378625
+['2 dollar', 'ticket']	['adult']	0.182729929366
+['2 dollar', 'ticket']	['dollar']	0.712205864641
+['2 dollar', 'ticket']	['kid']	0.279068667337
+['2 dollar', 'ticket']	['twelve']	0.36928692336
+['2 dollar', 'ticket']	['175 ticket']	0.669973747197
+['2 dollar', 'ticket']	['750 dollar']	0.525526174317
+['2 dollar', 'ticket']	['kid ticket']	0.699506625782
+['kid', 'ticket']	['local theater']	0.131771183904
+['kid', 'ticket']	['theater']	0.507505696124
+['kid', 'ticket']	['6 dollar']	0.159872896928
+['kid', 'ticket']	['adult']	0.461349167181
+['kid', 'ticket']	['dollar']	0.149075050141
+['kid', 'ticket']	['2 dollar']	0.159872896928
+['kid', 'ticket']	['twelve']	0.216563488107
+['kid', 'ticket']	['175 ticket']	0.669973747197
+['kid', 'ticket']	['750 dollar']	0.159872896928
+['kid', 'ticket']	['kid ticket']	0.533372150919
+['twelve', 'ticket']	['local theater']	0.0696933362217
+['twelve', 'ticket']	['theater']	0.431995088036
+['twelve', 'ticket']	['6 dollar']	0.110566880729
+['twelve', 'ticket']	['adult']	0.303734088243
+['twelve', 'ticket']	['dollar']	0.148747752926
+['twelve', 'ticket']	['2 dollar']	0.110566880729
+['twelve', 'ticket']	['kid']	0.262336761316
+['twelve', 'ticket']	['175 ticket']	0.699506625782
+['twelve', 'ticket']	['750 dollar']	0.110566880729
+['twelve', 'ticket']	['kid ticket']	0.699506625782
+['175 ticket', 'ticket']	['local theater']	0.144528281371
+['175 ticket', 'ticket']	['theater']	0.759797192234
+['175 ticket', 'ticket']	['6 dollar']	0.247627320934
+['175 ticket', 'ticket']	['adult']	0.391778704054
+['175 ticket', 'ticket']	['dollar']	0.347535848514
+['175 ticket', 'ticket']	['2 dollar']	0.247627320934
+['175 ticket', 'ticket']	['kid']	0.491782930514
+['175 ticket', 'ticket']	['twelve']	0.470900544842
+['175 ticket', 'ticket']	['750 dollar']	0.247627320934
+['175 ticket', 'ticket']	['kid ticket']	0.782259204304
+['750 dollar', 'ticket']	['local theater']	0.0696933362217
+['750 dollar', 'ticket']	['theater']	0.719008758257
+['750 dollar', 'ticket']	['6 dollar']	0.525526174317
+['750 dollar', 'ticket']	['adult']	0.182729929366
+['750 dollar', 'ticket']	['dollar']	0.65389882076
+['750 dollar', 'ticket']	['2 dollar']	0.525526174317
+['750 dollar', 'ticket']	['kid']	0.279068667337
+['750 dollar', 'ticket']	['twelve']	0.36928692336
+['750 dollar', 'ticket']	['175 ticket']	0.669973747197
+['750 dollar', 'ticket']	['kid ticket']	0.669973747197
+['kid ticket', 'ticket']	['local theater']	0.255056600203
+['kid ticket', 'ticket']	['theater']	0.759797192234
+['kid ticket', 'ticket']	['6 dollar']	0.247627320934
+['kid ticket', 'ticket']	['adult']	0.391778704054
+['kid ticket', 'ticket']	['dollar']	0.347535848514
+['kid ticket', 'ticket']	['2 dollar']	0.247627320934
+['kid ticket', 'ticket']	['kid']	0.549495138596
+['kid ticket', 'ticket']	['twelve']	0.470900544842
+['kid ticket', 'ticket']	['175 ticket']	0.782259204304
+['kid ticket', 'ticket']	['750 dollar']	0.247627320934
+['ticket', 'local theater']	['theater']	0.808385351655
+['ticket', 'local theater']	['6 dollar']	0.103222748661
+['ticket', 'local theater']	['adult']	0.211523961879
+['ticket', 'local theater']	['dollar']	0.0806965185133
+['ticket', 'local theater']	['2 dollar']	0.103222748661
+['ticket', 'local theater']	['kid']	0.277100936222
+['ticket', 'local theater']	['twelve']	0.307159557513
+['ticket', 'local theater']	['175 ticket']	0.669973747197
+['ticket', 'local theater']	['750 dollar']	0.103222748661
+['ticket', 'local theater']	['kid ticket']	0.723846078739
+['theater', 'local theater']	['ticket']	0.725279888044
+['theater', 'local theater']	['6 dollar']	0.146286340776
+['theater', 'local theater']	['adult']	0.580588202857
+['theater', 'local theater']	['dollar']	0.234269461547
+['theater', 'local theater']	['2 dollar']	0.146286340776
+['theater', 'local theater']	['kid']	0.49479571825
+['theater', 'local theater']	['twelve']	0.602502476342
+['theater', 'local theater']	['175 ticket']	0.153587928078
+['theater', 'local theater']	['750 dollar']	0.146286340776
+['theater', 'local theater']	['kid ticket']	0.267202088614
+['6 dollar', 'local theater']	['ticket']	0.105969303899
+['6 dollar', 'local theater']	['theater']	0.677207111591
+['6 dollar', 'local theater']	['adult']	0.0744376594044
+['6 dollar', 'local theater']	['dollar']	0.341461565972
+['6 dollar', 'local theater']	['2 dollar']	0.754360422532
+['6 dollar', 'local theater']	['kid']	0.0774561735493
+['6 dollar', 'local theater']	['twelve']	0.0777864840342
+['6 dollar', 'local theater']	['175 ticket']	0.0901100077042
+['6 dollar', 'local theater']	['750 dollar']	0.584269096576
+['6 dollar', 'local theater']	['kid ticket']	0.101119282389
+['adult', 'local theater']	['ticket']	0.192648399091
+['adult', 'local theater']	['theater']	0.731334140025
+['adult', 'local theater']	['6 dollar']	0.0827346205535
+['adult', 'local theater']	['dollar']	0.11596780482
+['adult', 'local theater']	['2 dollar']	0.0827346205535
+['adult', 'local theater']	['kid']	0.713321904688
+['adult', 'local theater']	['twelve']	0.310987524772
+['adult', 'local theater']	['175 ticket']	0.0827346205535
+['adult', 'local theater']	['750 dollar']	0.0827346205535
+['adult', 'local theater']	['kid ticket']	0.101119282389
+['dollar', 'local theater']	['ticket']	0.11086262958
+['dollar', 'local theater']	['theater']	0.604297679013
+['dollar', 'local theater']	['6 dollar']	0.397268490074
+['dollar', 'local theater']	['adult']	0.0972672142366
+['dollar', 'local theater']	['2 dollar']	0.397268490074
+['dollar', 'local theater']	['kid']	0.157447878341
+['dollar', 'local theater']	['twelve']	0.257989387827
+['dollar', 'local theater']	['175 ticket']	0.0618737183104
+['dollar', 'local theater']	['750 dollar']	0.365401430504
+['dollar', 'local theater']	['kid ticket']	0.0714527268925
+['2 dollar', 'local theater']	['ticket']	0.105969303899
+['2 dollar', 'local theater']	['theater']	0.677207111591
+['2 dollar', 'local theater']	['6 dollar']	0.754360422532
+['2 dollar', 'local theater']	['adult']	0.0744376594044
+['2 dollar', 'local theater']	['dollar']	0.341461565972
+['2 dollar', 'local theater']	['kid']	0.0774561735493
+['2 dollar', 'local theater']	['twelve']	0.0777864840342
+['2 dollar', 'local theater']	['175 ticket']	0.0901100077042
+['2 dollar', 'local theater']	['750 dollar']	0.584269096576
+['2 dollar', 'local theater']	['kid ticket']	0.101119282389
+['kid', 'local theater']	['ticket']	0.279068667337
+['kid', 'local theater']	['theater']	0.79928390238
+['kid', 'local theater']	['6 dollar']	0.0696933362217
+['kid', 'local theater']	['adult']	0.749799892109
+['kid', 'local theater']	['dollar']	0.100084091314
+['kid', 'local theater']	['2 dollar']	0.0696933362217
+['kid', 'local theater']	['twelve']	0.161573942014
+['kid', 'local theater']	['175 ticket']	0.0737139440912
+['kid', 'local theater']	['750 dollar']	0.0696933362217
+['kid', 'local theater']	['kid ticket']	0.566201623428
+['twelve', 'local theater']	['ticket']	0.313105412942
+['twelve', 'local theater']	['theater']	0.81977652006
+['twelve', 'local theater']	['6 dollar']	0.101119282389
+['twelve', 'local theater']	['adult']	0.326515104636
+['twelve', 'local theater']	['dollar']	0.202305994626
+['twelve', 'local theater']	['2 dollar']	0.101119282389
+['twelve', 'local theater']	['kid']	0.228534360477
+['twelve', 'local theater']	['175 ticket']	0.0827346205535
+['twelve', 'local theater']	['750 dollar']	0.101119282389
+['twelve', 'local theater']	['kid ticket']	0.101119282389
+['175 ticket', 'local theater']	['ticket']	0.600448858269
+['175 ticket', 'local theater']	['theater']	0.695388929772
+['175 ticket', 'local theater']	['6 dollar']	0.0827346205535
+['175 ticket', 'local theater']	['adult']	0.0777864840342
+['175 ticket', 'local theater']	['dollar']	0.0354449666524
+['175 ticket', 'local theater']	['2 dollar']	0.0827346205535
+['175 ticket', 'local theater']	['kid']	0.0774561735493
+['175 ticket', 'local theater']	['twelve']	0.0800606621439
+['175 ticket', 'local theater']	['750 dollar']	0.0901100077042
+['175 ticket', 'local theater']	['kid ticket']	0.538007739106
+['750 dollar', 'local theater']	['ticket']	0.105969303899
+['750 dollar', 'local theater']	['theater']	0.677207111591
+['750 dollar', 'local theater']	['6 dollar']	0.573408386835
+['750 dollar', 'local theater']	['adult']	0.0744376594044
+['750 dollar', 'local theater']	['dollar']	0.296552388567
+['750 dollar', 'local theater']	['2 dollar']	0.573408386835
+['750 dollar', 'local theater']	['kid']	0.0774561735493
+['750 dollar', 'local theater']	['twelve']	0.0777864840342
+['750 dollar', 'local theater']	['175 ticket']	0.0901100077042
+['750 dollar', 'local theater']	['kid ticket']	0.101119282389
+['kid ticket', 'local theater']	['ticket']	0.600448858269
+['kid ticket', 'local theater']	['theater']	0.695388929772
+['kid ticket', 'local theater']	['6 dollar']	0.0827346205535
+['kid ticket', 'local theater']	['adult']	0.0777864840342
+['kid ticket', 'local theater']	['dollar']	0.0354449666524
+['kid ticket', 'local theater']	['2 dollar']	0.0827346205535
+['kid ticket', 'local theater']	['kid']	0.507272855801
+['kid ticket', 'local theater']	['twelve']	0.0800606621439
+['kid ticket', 'local theater']	['175 ticket']	0.584269096576
+['kid ticket', 'local theater']	['750 dollar']	0.0901100077042
+['ticket', 'theater']	['local theater']	0.722297777211
+['ticket', 'theater']	['6 dollar']	0.117488318928
+['ticket', 'theater']	['adult']	0.159224278685
+['ticket', 'theater']	['dollar']	0.0240886330375
+['ticket', 'theater']	['2 dollar']	0.117488318928
+['ticket', 'theater']	['kid']	0.188574768389
+['ticket', 'theater']	['twelve']	0.0834098541484
+['ticket', 'theater']	['175 ticket']	0.670043866319
+['ticket', 'theater']	['750 dollar']	0.117488318928
+['ticket', 'theater']	['kid ticket']	0.670043866319
+['local theater', 'theater']	['ticket']	0.725279888044
+['local theater', 'theater']	['6 dollar']	0.146286340776
+['local theater', 'theater']	['adult']	0.580588202857
+['local theater', 'theater']	['dollar']	0.234269461547
+['local theater', 'theater']	['2 dollar']	0.146286340776
+['local theater', 'theater']	['kid']	0.49479571825
+['local theater', 'theater']	['twelve']	0.602502476342
+['local theater', 'theater']	['175 ticket']	0.153587928078
+['local theater', 'theater']	['750 dollar']	0.146286340776
+['local theater', 'theater']	['kid ticket']	0.267202088614
+['6 dollar', 'theater']	['ticket']	0.843342790847
+['6 dollar', 'theater']	['local theater']	0.771376687443
+['6 dollar', 'theater']	['adult']	0.266659319235
+['6 dollar', 'theater']	['dollar']	0.647286633107
+['6 dollar', 'theater']	['2 dollar']	0.760386850763
+['6 dollar', 'theater']	['kid']	0.192648399091
+['6 dollar', 'theater']	['twelve']	0.35160780425
+['6 dollar', 'theater']	['175 ticket']	0.0827346205535
+['6 dollar', 'theater']	['750 dollar']	0.549852778125
+['6 dollar', 'theater']	['kid ticket']	0.0827346205535
+['adult', 'theater']	['ticket']	0.448163263116
+['adult', 'theater']	['local theater']	0.792088139079
+['adult', 'theater']	['6 dollar']	0.0827346205535
+['adult', 'theater']	['dollar']	0.0303742514954
+['adult', 'theater']	['2 dollar']	0.0827346205535
+['adult', 'theater']	['kid']	0.495077367817
+['adult', 'theater']	['twelve']	0.381156929534
+['adult', 'theater']	['175 ticket']	0.0827346205535
+['adult', 'theater']	['750 dollar']	0.0827346205535
+['adult', 'theater']	['kid ticket']	0.0827346205535
+['dollar', 'theater']	['ticket']	0.344438942289
+['dollar', 'theater']	['local theater']	0.426045852114
+['dollar', 'theater']	['6 dollar']	0.397268490074
+['dollar', 'theater']	['adult']	0.0511500260496
+['dollar', 'theater']	['2 dollar']	0.397268490074
+['dollar', 'theater']	['kid']	0.0655103065677
+['dollar', 'theater']	['twelve']	0.0491527261063
+['dollar', 'theater']	['175 ticket']	0.0618737183104
+['dollar', 'theater']	['750 dollar']	0.371062249217
+['dollar', 'theater']	['kid ticket']	0.0618737183104
+['2 dollar', 'theater']	['ticket']	0.843342790847
+['2 dollar', 'theater']	['local theater']	0.771376687443
+['2 dollar', 'theater']	['6 dollar']	0.760386850763
+['2 dollar', 'theater']	['adult']	0.266659319235
+['2 dollar', 'theater']	['dollar']	0.647286633107
+['2 dollar', 'theater']	['kid']	0.192648399091
+['2 dollar', 'theater']	['twelve']	0.35160780425
+['2 dollar', 'theater']	['175 ticket']	0.0827346205535
+['2 dollar', 'theater']	['750 dollar']	0.549852778125
+['2 dollar', 'theater']	['kid ticket']	0.0827346205535
+['kid', 'theater']	['ticket']	0.36228032951
+['kid', 'theater']	['local theater']	0.78028613066
+['kid', 'theater']	['6 dollar']	0.0696933362217
+['kid', 'theater']	['adult']	0.609679989568
+['kid', 'theater']	['dollar']	0.0831640509808
+['kid', 'theater']	['2 dollar']	0.0696933362217
+['kid', 'theater']	['twelve']	0.265351265844
+['kid', 'theater']	['175 ticket']	0.0696933362217
+['kid', 'theater']	['750 dollar']	0.0696933362217
+['kid', 'theater']	['kid ticket']	0.485917159358
+['twelve', 'theater']	['ticket']	0.432205213229
+['twelve', 'theater']	['local theater']	0.789206667477
+['twelve', 'theater']	['6 dollar']	0.0977704577595
+['twelve', 'theater']	['adult']	0.161875934944
+['twelve', 'theater']	['dollar']	0.147201904124
+['twelve', 'theater']	['2 dollar']	0.0977704577595
+['twelve', 'theater']	['kid']	0.185310393227
+['twelve', 'theater']	['175 ticket']	0.0827346205535
+['twelve', 'theater']	['750 dollar']	0.0977704577595
+['twelve', 'theater']	['kid ticket']	0.0827346205535
+['175 ticket', 'theater']	['ticket']	0.810727690174
+['175 ticket', 'theater']	['local theater']	0.759673788892
+['175 ticket', 'theater']	['6 dollar']	0.0827346205535
+['175 ticket', 'theater']	['adult']	0.271198595009
+['175 ticket', 'theater']	['dollar']	0.144352057042
+['175 ticket', 'theater']	['2 dollar']	0.0827346205535
+['175 ticket', 'theater']	['kid']	0.19603525097
+['175 ticket', 'theater']	['twelve']	0.33094415707
+['175 ticket', 'theater']	['750 dollar']	0.0827346205535
+['175 ticket', 'theater']	['kid ticket']	0.557925116239
+['750 dollar', 'theater']	['ticket']	0.843342790847
+['750 dollar', 'theater']	['local theater']	0.759673788892
+['750 dollar', 'theater']	['6 dollar']	0.549852778125
+['750 dollar', 'theater']	['adult']	0.266659319235
+['750 dollar', 'theater']	['dollar']	0.629068333815
+['750 dollar', 'theater']	['2 dollar']	0.549852778125
+['750 dollar', 'theater']	['kid']	0.192648399091
+['750 dollar', 'theater']	['twelve']	0.35160780425
+['750 dollar', 'theater']	['175 ticket']	0.0827346205535
+['750 dollar', 'theater']	['kid ticket']	0.0827346205535
+['kid ticket', 'theater']	['ticket']	0.810727690174
+['kid ticket', 'theater']	['local theater']	0.792088139079
+['kid ticket', 'theater']	['6 dollar']	0.0827346205535
+['kid ticket', 'theater']	['adult']	0.271198595009
+['kid ticket', 'theater']	['dollar']	0.144352057042
+['kid ticket', 'theater']	['2 dollar']	0.0827346205535
+['kid ticket', 'theater']	['kid']	0.302332114174
+['kid ticket', 'theater']	['twelve']	0.33094415707
+['kid ticket', 'theater']	['175 ticket']	0.557925116239
+['kid ticket', 'theater']	['750 dollar']	0.0827346205535
+['ticket', '6 dollar']	['local theater']	0.0696933362217
+['ticket', '6 dollar']	['theater']	0.719008758257
+['ticket', '6 dollar']	['adult']	0.182729929366
+['ticket', '6 dollar']	['dollar']	0.712205864641
+['ticket', '6 dollar']	['2 dollar']	0.787143378625
+['ticket', '6 dollar']	['kid']	0.279068667337
+['ticket', '6 dollar']	['twelve']	0.36928692336
+['ticket', '6 dollar']	['175 ticket']	0.669973747197
+['ticket', '6 dollar']	['750 dollar']	0.525526174317
+['ticket', '6 dollar']	['kid ticket']	0.699506625782
+['local theater', '6 dollar']	['ticket']	0.105969303899
+['local theater', '6 dollar']	['theater']	0.677207111591
+['local theater', '6 dollar']	['adult']	0.0744376594044
+['local theater', '6 dollar']	['dollar']	0.341461565972
+['local theater', '6 dollar']	['2 dollar']	0.754360422532
+['local theater', '6 dollar']	['kid']	0.0774561735493
+['local theater', '6 dollar']	['twelve']	0.0777864840342
+['local theater', '6 dollar']	['175 ticket']	0.0901100077042
+['local theater', '6 dollar']	['750 dollar']	0.584269096576
+['local theater', '6 dollar']	['kid ticket']	0.101119282389
+['theater', '6 dollar']	['ticket']	0.843342790847
+['theater', '6 dollar']	['local theater']	0.771376687443
+['theater', '6 dollar']	['adult']	0.266659319235
+['theater', '6 dollar']	['dollar']	0.647286633107
+['theater', '6 dollar']	['2 dollar']	0.760386850763
+['theater', '6 dollar']	['kid']	0.192648399091
+['theater', '6 dollar']	['twelve']	0.35160780425
+['theater', '6 dollar']	['175 ticket']	0.0827346205535
+['theater', '6 dollar']	['750 dollar']	0.549852778125
+['theater', '6 dollar']	['kid ticket']	0.0827346205535
+['adult', '6 dollar']	['ticket']	0.328883094735
+['adult', '6 dollar']	['local theater']	0.0827346205535
+['adult', '6 dollar']	['theater']	0.266659319235
+['adult', '6 dollar']	['dollar']	0.647286633107
+['adult', '6 dollar']	['2 dollar']	0.760386850763
+['adult', '6 dollar']	['kid']	0.748002867908
+['adult', '6 dollar']	['twelve']	0.326515104636
+['adult', '6 dollar']	['175 ticket']	0.0827346205535
+['adult', '6 dollar']	['750 dollar']	0.549852778125
+['adult', '6 dollar']	['kid ticket']	0.0827346205535
+['dollar', '6 dollar']	['ticket']	0.413734650951
+['dollar', '6 dollar']	['local theater']	0.0968024870635
+['dollar', '6 dollar']	['theater']	0.297245159667
+['dollar', '6 dollar']	['adult']	0.319930627036
+['dollar', '6 dollar']	['2 dollar']	0.738936165646
+['dollar', '6 dollar']	['kid']	0.317655153087
+['dollar', '6 dollar']	['twelve']	0.441381870867
+['dollar', '6 dollar']	['175 ticket']	0.183873817054
+['dollar', '6 dollar']	['750 dollar']	0.610690210365
+['dollar', '6 dollar']	['kid ticket']	0.183873817054
+['2 dollar', '6 dollar']	['ticket']	0.51323626183
+['2 dollar', '6 dollar']	['local theater']	0.153587928078
+['2 dollar', '6 dollar']	['theater']	0.327028499836
+['2 dollar', '6 dollar']	['adult']	0.327028499836
+['2 dollar', '6 dollar']	['dollar']	0.747545816382
+['2 dollar', '6 dollar']	['kid']	0.33665242287
+['2 dollar', '6 dollar']	['twelve']	0.37370815508
+['2 dollar', '6 dollar']	['175 ticket']	0.139258682248
+['2 dollar', '6 dollar']	['750 dollar']	0.637144068101
+['2 dollar', '6 dollar']	['kid ticket']	0.153587928078
+['kid', '6 dollar']	['ticket']	0.283578883706
+['kid', '6 dollar']	['local theater']	0.0696933362217
+['kid', '6 dollar']	['theater']	0.182729929366
+['kid', '6 dollar']	['adult']	0.719154007744
+['kid', '6 dollar']	['dollar']	0.657961602052
+['kid', '6 dollar']	['2 dollar']	0.736313764211
+['kid', '6 dollar']	['twelve']	0.177101521879
+['kid', '6 dollar']	['175 ticket']	0.0737139440912
+['kid', '6 dollar']	['750 dollar']	0.510461204301
+['kid', '6 dollar']	['kid ticket']	0.243609548288
+['twelve', '6 dollar']	['ticket']	0.585916232918
+['twelve', '6 dollar']	['local theater']	0.0827346205535
+['twelve', '6 dollar']	['theater']	0.354295253218
+['twelve', '6 dollar']	['adult']	0.310987524772
+['twelve', '6 dollar']	['dollar']	0.639027735679
+['twelve', '6 dollar']	['2 dollar']	0.800833695134
+['twelve', '6 dollar']	['kid']	0.213006780612
+['twelve', '6 dollar']	['175 ticket']	0.0827346205535
+['twelve', '6 dollar']	['750 dollar']	0.538007739106
+['twelve', '6 dollar']	['kid ticket']	0.0827346205535
+['175 ticket', '6 dollar']	['ticket']	0.687998110055
+['175 ticket', '6 dollar']	['local theater']	0.0827346205535
+['175 ticket', '6 dollar']	['theater']	0.0777864840342
+['175 ticket', '6 dollar']	['adult']	0.0777864840342
+['175 ticket', '6 dollar']	['dollar']	0.517803201643
+['175 ticket', '6 dollar']	['2 dollar']	0.754360422532
+['175 ticket', '6 dollar']	['kid']	0.079730351659
+['175 ticket', '6 dollar']	['twelve']	0.0777864840342
+['175 ticket', '6 dollar']	['750 dollar']	0.584269096576
+['175 ticket', '6 dollar']	['kid ticket']	0.573408386835
+['750 dollar', '6 dollar']	['ticket']	0.51323626183
+['750 dollar', '6 dollar']	['local theater']	0.14589133531
+['750 dollar', '6 dollar']	['theater']	0.327028499836
+['750 dollar', '6 dollar']	['adult']	0.327028499836
+['750 dollar', '6 dollar']	['dollar']	0.766295816382
+['750 dollar', '6 dollar']	['2 dollar']	0.862138942741
+['750 dollar', '6 dollar']	['kid']	0.33665242287
+['750 dollar', '6 dollar']	['twelve']	0.37370815508
+['750 dollar', '6 dollar']	['175 ticket']	0.139258682248
+['750 dollar', '6 dollar']	['kid ticket']	0.14589133531
+['kid ticket', '6 dollar']	['ticket']	0.687998110055
+['kid ticket', '6 dollar']	['local theater']	0.101119282389
+['kid ticket', '6 dollar']	['theater']	0.0777864840342
+['kid ticket', '6 dollar']	['adult']	0.0777864840342
+['kid ticket', '6 dollar']	['dollar']	0.517803201643
+['kid ticket', '6 dollar']	['2 dollar']	0.754360422532
+['kid ticket', '6 dollar']	['kid']	0.465562097424
+['kid ticket', '6 dollar']	['twelve']	0.0777864840342
+['kid ticket', '6 dollar']	['175 ticket']	0.584269096576
+['kid ticket', '6 dollar']	['750 dollar']	0.584269096576
+['ticket', 'adult']	['local theater']	0.0696933362217
+['ticket', 'adult']	['theater']	0.541763756738
+['ticket', 'adult']	['6 dollar']	0.117488318928
+['ticket', 'adult']	['dollar']	0.0240886330375
+['ticket', 'adult']	['2 dollar']	0.117488318928
+['ticket', 'adult']	['kid']	0.429594204023
+['ticket', 'adult']	['twelve']	0.345132542704
+['ticket', 'adult']	['175 ticket']	0.670043866319
+['ticket', 'adult']	['750 dollar']	0.117488318928
+['ticket', 'adult']	['kid ticket']	0.670043866319
+['local theater', 'adult']	['ticket']	0.192648399091
+['local theater', 'adult']	['theater']	0.731334140025
+['local theater', 'adult']	['6 dollar']	0.0827346205535
+['local theater', 'adult']	['dollar']	0.11596780482
+['local theater', 'adult']	['2 dollar']	0.0827346205535
+['local theater', 'adult']	['kid']	0.713321904688
+['local theater', 'adult']	['twelve']	0.310987524772
+['local theater', 'adult']	['175 ticket']	0.0827346205535
+['local theater', 'adult']	['750 dollar']	0.0827346205535
+['local theater', 'adult']	['kid ticket']	0.101119282389
+['theater', 'adult']	['ticket']	0.448163263116
+['theater', 'adult']	['local theater']	0.792088139079
+['theater', 'adult']	['6 dollar']	0.0827346205535
+['theater', 'adult']	['dollar']	0.0303742514954
+['theater', 'adult']	['2 dollar']	0.0827346205535
+['theater', 'adult']	['kid']	0.495077367817
+['theater', 'adult']	['twelve']	0.381156929534
+['theater', 'adult']	['175 ticket']	0.0827346205535
+['theater', 'adult']	['750 dollar']	0.0827346205535
+['theater', 'adult']	['kid ticket']	0.0827346205535
+['6 dollar', 'adult']	['ticket']	0.328883094735
+['6 dollar', 'adult']	['local theater']	0.0827346205535
+['6 dollar', 'adult']	['theater']	0.266659319235
+['6 dollar', 'adult']	['dollar']	0.647286633107
+['6 dollar', 'adult']	['2 dollar']	0.760386850763
+['6 dollar', 'adult']	['kid']	0.748002867908
+['6 dollar', 'adult']	['twelve']	0.326515104636
+['6 dollar', 'adult']	['175 ticket']	0.0827346205535
+['6 dollar', 'adult']	['750 dollar']	0.549852778125
+['6 dollar', 'adult']	['kid ticket']	0.0827346205535
+['dollar', 'adult']	['ticket']	0.110894643588
+['dollar', 'adult']	['local theater']	0.0362241866398
+['dollar', 'adult']	['theater']	0.0526082887629
+['dollar', 'adult']	['6 dollar']	0.397268490074
+['dollar', 'adult']	['2 dollar']	0.397268490074
+['dollar', 'adult']	['kid']	0.313289125136
+['dollar', 'adult']	['twelve']	0.243062003507
+['dollar', 'adult']	['175 ticket']	0.0618737183104
+['dollar', 'adult']	['750 dollar']	0.371062249217
+['dollar', 'adult']	['kid ticket']	0.0618737183104
+['2 dollar', 'adult']	['ticket']	0.328883094735
+['2 dollar', 'adult']	['local theater']	0.0827346205535
+['2 dollar', 'adult']	['theater']	0.266659319235
+['2 dollar', 'adult']	['6 dollar']	0.760386850763
+['2 dollar', 'adult']	['dollar']	0.647286633107
+['2 dollar', 'adult']	['kid']	0.748002867908
+['2 dollar', 'adult']	['twelve']	0.326515104636
+['2 dollar', 'adult']	['175 ticket']	0.0827346205535
+['2 dollar', 'adult']	['750 dollar']	0.549852778125
+['2 dollar', 'adult']	['kid ticket']	0.0827346205535
+['kid', 'adult']	['ticket']	0.193088657278
+['kid', 'adult']	['local theater']	0.0663445115919
+['kid', 'adult']	['theater']	0.133877554629
+['kid', 'adult']	['6 dollar']	0.0696933362217
+['kid', 'adult']	['dollar']	0.0856213159381
+['kid', 'adult']	['2 dollar']	0.0696933362217
+['kid', 'adult']	['twelve']	0.103120679442
+['kid', 'adult']	['175 ticket']	0.0696933362217
+['kid', 'adult']	['750 dollar']	0.0696933362217
+['kid', 'adult']	['kid ticket']	0.485917159358
+['twelve', 'adult']	['ticket']	0.108668538745
+['twelve', 'adult']	['local theater']	0.0827346205535
+['twelve', 'adult']	['theater']	0.298201326649
+['twelve', 'adult']	['6 dollar']	0.0977704577595
+['twelve', 'adult']	['dollar']	0.1903856529
+['twelve', 'adult']	['2 dollar']	0.0977704577595
+['twelve', 'adult']	['kid']	0.609514282259
+['twelve', 'adult']	['175 ticket']	0.0827346205535
+['twelve', 'adult']	['750 dollar']	0.0977704577595
+['twelve', 'adult']	['kid ticket']	0.0827346205535
+['175 ticket', 'adult']	['ticket']	0.78601235732
+['175 ticket', 'adult']	['local theater']	0.0827346205535
+['175 ticket', 'adult']	['theater']	0.266659319235
+['175 ticket', 'adult']	['6 dollar']	0.0827346205535
+['175 ticket', 'adult']	['dollar']	0.177685390375
+['175 ticket', 'adult']	['2 dollar']	0.0827346205535
+['175 ticket', 'adult']	['kid']	0.726669153591
+['175 ticket', 'adult']	['twelve']	0.319764402226
+['175 ticket', 'adult']	['750 dollar']	0.0827346205535
+['175 ticket', 'adult']	['kid ticket']	0.557925116239
+['750 dollar', 'adult']	['ticket']	0.328883094735
+['750 dollar', 'adult']	['local theater']	0.0827346205535
+['750 dollar', 'adult']	['theater']	0.266659319235
+['750 dollar', 'adult']	['6 dollar']	0.549852778125
+['750 dollar', 'adult']	['dollar']	0.629068333815
+['750 dollar', 'adult']	['2 dollar']	0.549852778125
+['750 dollar', 'adult']	['kid']	0.748002867908
+['750 dollar', 'adult']	['twelve']	0.326515104636
+['750 dollar', 'adult']	['175 ticket']	0.0827346205535
+['750 dollar', 'adult']	['kid ticket']	0.0827346205535
+['kid ticket', 'adult']	['ticket']	0.78601235732
+['kid ticket', 'adult']	['local theater']	0.0977704577595
+['kid ticket', 'adult']	['theater']	0.266659319235
+['kid ticket', 'adult']	['6 dollar']	0.0827346205535
+['kid ticket', 'adult']	['dollar']	0.177685390375
+['kid ticket', 'adult']	['2 dollar']	0.0827346205535
+['kid ticket', 'adult']	['kid']	0.572761155583
+['kid ticket', 'adult']	['twelve']	0.319764402226
+['kid ticket', 'adult']	['175 ticket']	0.557925116239
+['kid ticket', 'adult']	['750 dollar']	0.0827346205535
+['ticket', 'dollar']	['local theater']	0.0982347768443
+['ticket', 'dollar']	['theater']	0.401309532484
+['ticket', 'dollar']	['6 dollar']	0.572396609663
+['ticket', 'dollar']	['adult']	0.270336505163
+['ticket', 'dollar']	['2 dollar']	0.572396609663
+['ticket', 'dollar']	['kid']	0.114797012275
+['ticket', 'dollar']	['twelve']	0.111230573788
+['ticket', 'dollar']	['175 ticket']	0.545159042756
+['ticket', 'dollar']	['750 dollar']	0.520954191004
+['ticket', 'dollar']	['kid ticket']	0.545159042756
+['local theater', 'dollar']	['ticket']	0.11086262958
+['local theater', 'dollar']	['theater']	0.604297679013
+['local theater', 'dollar']	['6 dollar']	0.397268490074
+['local theater', 'dollar']	['adult']	0.0972672142366
+['local theater', 'dollar']	['2 dollar']	0.397268490074
+['local theater', 'dollar']	['kid']	0.157447878341
+['local theater', 'dollar']	['twelve']	0.257989387827
+['local theater', 'dollar']	['175 ticket']	0.0618737183104
+['local theater', 'dollar']	['750 dollar']	0.365401430504
+['local theater', 'dollar']	['kid ticket']	0.0714527268925
+['theater', 'dollar']	['ticket']	0.344438942289
+['theater', 'dollar']	['local theater']	0.426045852114
+['theater', 'dollar']	['6 dollar']	0.397268490074
+['theater', 'dollar']	['adult']	0.0511500260496
+['theater', 'dollar']	['2 dollar']	0.397268490074
+['theater', 'dollar']	['kid']	0.0655103065677
+['theater', 'dollar']	['twelve']	0.0491527261063
+['theater', 'dollar']	['175 ticket']	0.0618737183104
+['theater', 'dollar']	['750 dollar']	0.371062249217
+['theater', 'dollar']	['kid ticket']	0.0618737183104
+['6 dollar', 'dollar']	['ticket']	0.413734650951
+['6 dollar', 'dollar']	['local theater']	0.0968024870635
+['6 dollar', 'dollar']	['theater']	0.297245159667
+['6 dollar', 'dollar']	['adult']	0.319930627036
+['6 dollar', 'dollar']	['2 dollar']	0.738936165646
+['6 dollar', 'dollar']	['kid']	0.317655153087
+['6 dollar', 'dollar']	['twelve']	0.441381870867
+['6 dollar', 'dollar']	['175 ticket']	0.183873817054
+['6 dollar', 'dollar']	['750 dollar']	0.610690210365
+['6 dollar', 'dollar']	['kid ticket']	0.183873817054
+['adult', 'dollar']	['ticket']	0.110894643588
+['adult', 'dollar']	['local theater']	0.0362241866398
+['adult', 'dollar']	['theater']	0.0526082887629
+['adult', 'dollar']	['6 dollar']	0.397268490074
+['adult', 'dollar']	['2 dollar']	0.397268490074
+['adult', 'dollar']	['kid']	0.313289125136
+['adult', 'dollar']	['twelve']	0.243062003507
+['adult', 'dollar']	['175 ticket']	0.0618737183104
+['adult', 'dollar']	['750 dollar']	0.371062249217
+['adult', 'dollar']	['kid ticket']	0.0618737183104
+['2 dollar', 'dollar']	['ticket']	0.413734650951
+['2 dollar', 'dollar']	['local theater']	0.0968024870635
+['2 dollar', 'dollar']	['theater']	0.297245159667
+['2 dollar', 'dollar']	['6 dollar']	0.738936165646
+['2 dollar', 'dollar']	['adult']	0.319930627036
+['2 dollar', 'dollar']	['kid']	0.317655153087
+['2 dollar', 'dollar']	['twelve']	0.441381870867
+['2 dollar', 'dollar']	['175 ticket']	0.183873817054
+['2 dollar', 'dollar']	['750 dollar']	0.610690210365
+['2 dollar', 'dollar']	['kid ticket']	0.183873817054
+['kid', 'dollar']	['ticket']	0.230708289416
+['kid', 'dollar']	['local theater']	0.0982347768443
+['kid', 'dollar']	['theater']	0.167564653415
+['kid', 'dollar']	['6 dollar']	0.397268490074
+['kid', 'dollar']	['adult']	0.457752332856
+['kid', 'dollar']	['2 dollar']	0.397268490074
+['kid', 'dollar']	['twelve']	0.165882835233
+['kid', 'dollar']	['175 ticket']	0.118523866578
+['kid', 'dollar']	['750 dollar']	0.371062249217
+['kid', 'dollar']	['kid ticket']	0.38065923629
+['twelve', 'dollar']	['ticket']	0.168422789977
+['twelve', 'dollar']	['local theater']	0.0361569291624
+['twelve', 'dollar']	['theater']	0.193719306098
+['twelve', 'dollar']	['6 dollar']	0.434039776604
+['twelve', 'dollar']	['adult']	0.0520328484485
+['twelve', 'dollar']	['2 dollar']	0.434039776604
+['twelve', 'dollar']	['kid']	0.111172421365
+['twelve', 'dollar']	['175 ticket']	0.0618737183104
+['twelve', 'dollar']	['750 dollar']	0.435102054266
+['twelve', 'dollar']	['kid ticket']	0.0618737183104
+['175 ticket', 'dollar']	['ticket']	0.646450713312
+['175 ticket', 'dollar']	['local theater']	0.0361569291624
+['175 ticket', 'dollar']	['theater']	0.109561042279
+['175 ticket', 'dollar']	['6 dollar']	0.397268490074
+['175 ticket', 'dollar']	['adult']	0.0987471808723
+['175 ticket', 'dollar']	['2 dollar']	0.397268490074
+['175 ticket', 'dollar']	['kid']	0.128004820464
+['175 ticket', 'dollar']	['twelve']	0.226687137615
+['175 ticket', 'dollar']	['750 dollar']	0.365401430504
+['175 ticket', 'dollar']	['kid ticket']	0.208039687774
+['750 dollar', 'dollar']	['ticket']	0.413734650951
+['750 dollar', 'dollar']	['local theater']	0.0968024870635
+['750 dollar', 'dollar']	['theater']	0.297245159667
+['750 dollar', 'dollar']	['6 dollar']	0.689544863391
+['750 dollar', 'dollar']	['adult']	0.319930627036
+['750 dollar', 'dollar']	['2 dollar']	0.689544863391
+['750 dollar', 'dollar']	['kid']	0.317655153087
+['750 dollar', 'dollar']	['twelve']	0.441381870867
+['750 dollar', 'dollar']	['175 ticket']	0.183873817054
+['750 dollar', 'dollar']	['kid ticket']	0.183873817054
+['kid ticket', 'dollar']	['ticket']	0.646450713312
+['kid ticket', 'dollar']	['local theater']	0.0546088484756
+['kid ticket', 'dollar']	['theater']	0.109561042279
+['kid ticket', 'dollar']	['6 dollar']	0.397268490074
+['kid ticket', 'dollar']	['adult']	0.0987471808723
+['kid ticket', 'dollar']	['2 dollar']	0.397268490074
+['kid ticket', 'dollar']	['kid']	0.246374155355
+['kid ticket', 'dollar']	['twelve']	0.226687137615
+['kid ticket', 'dollar']	['175 ticket']	0.208039687774
+['kid ticket', 'dollar']	['750 dollar']	0.365401430504
+['ticket', '2 dollar']	['local theater']	0.0696933362217
+['ticket', '2 dollar']	['theater']	0.719008758257
+['ticket', '2 dollar']	['6 dollar']	0.787143378625
+['ticket', '2 dollar']	['adult']	0.182729929366
+['ticket', '2 dollar']	['dollar']	0.712205864641
+['ticket', '2 dollar']	['kid']	0.279068667337
+['ticket', '2 dollar']	['twelve']	0.36928692336
+['ticket', '2 dollar']	['175 ticket']	0.669973747197
+['ticket', '2 dollar']	['750 dollar']	0.525526174317
+['ticket', '2 dollar']	['kid ticket']	0.699506625782
+['local theater', '2 dollar']	['ticket']	0.105969303899
+['local theater', '2 dollar']	['theater']	0.677207111591
+['local theater', '2 dollar']	['6 dollar']	0.754360422532
+['local theater', '2 dollar']	['adult']	0.0744376594044
+['local theater', '2 dollar']	['dollar']	0.341461565972
+['local theater', '2 dollar']	['kid']	0.0774561735493
+['local theater', '2 dollar']	['twelve']	0.0777864840342
+['local theater', '2 dollar']	['175 ticket']	0.0901100077042
+['local theater', '2 dollar']	['750 dollar']	0.584269096576
+['local theater', '2 dollar']	['kid ticket']	0.101119282389
+['theater', '2 dollar']	['ticket']	0.843342790847
+['theater', '2 dollar']	['local theater']	0.771376687443
+['theater', '2 dollar']	['6 dollar']	0.760386850763
+['theater', '2 dollar']	['adult']	0.266659319235
+['theater', '2 dollar']	['dollar']	0.647286633107
+['theater', '2 dollar']	['kid']	0.192648399091
+['theater', '2 dollar']	['twelve']	0.35160780425
+['theater', '2 dollar']	['175 ticket']	0.0827346205535
+['theater', '2 dollar']	['750 dollar']	0.549852778125
+['theater', '2 dollar']	['kid ticket']	0.0827346205535
+['6 dollar', '2 dollar']	['ticket']	0.51323626183
+['6 dollar', '2 dollar']	['local theater']	0.153587928078
+['6 dollar', '2 dollar']	['theater']	0.327028499836
+['6 dollar', '2 dollar']	['adult']	0.327028499836
+['6 dollar', '2 dollar']	['dollar']	0.747545816382
+['6 dollar', '2 dollar']	['kid']	0.33665242287
+['6 dollar', '2 dollar']	['twelve']	0.37370815508
+['6 dollar', '2 dollar']	['175 ticket']	0.139258682248
+['6 dollar', '2 dollar']	['750 dollar']	0.637144068101
+['6 dollar', '2 dollar']	['kid ticket']	0.153587928078
+['adult', '2 dollar']	['ticket']	0.328883094735
+['adult', '2 dollar']	['local theater']	0.0827346205535
+['adult', '2 dollar']	['theater']	0.266659319235
+['adult', '2 dollar']	['6 dollar']	0.760386850763
+['adult', '2 dollar']	['dollar']	0.647286633107
+['adult', '2 dollar']	['kid']	0.748002867908
+['adult', '2 dollar']	['twelve']	0.326515104636
+['adult', '2 dollar']	['175 ticket']	0.0827346205535
+['adult', '2 dollar']	['750 dollar']	0.549852778125
+['adult', '2 dollar']	['kid ticket']	0.0827346205535
+['dollar', '2 dollar']	['ticket']	0.413734650951
+['dollar', '2 dollar']	['local theater']	0.0968024870635
+['dollar', '2 dollar']	['theater']	0.297245159667
+['dollar', '2 dollar']	['6 dollar']	0.738936165646
+['dollar', '2 dollar']	['adult']	0.319930627036
+['dollar', '2 dollar']	['kid']	0.317655153087
+['dollar', '2 dollar']	['twelve']	0.441381870867
+['dollar', '2 dollar']	['175 ticket']	0.183873817054
+['dollar', '2 dollar']	['750 dollar']	0.610690210365
+['dollar', '2 dollar']	['kid ticket']	0.183873817054
+['kid', '2 dollar']	['ticket']	0.283578883706
+['kid', '2 dollar']	['local theater']	0.0696933362217
+['kid', '2 dollar']	['theater']	0.182729929366
+['kid', '2 dollar']	['6 dollar']	0.736313764211
+['kid', '2 dollar']	['adult']	0.719154007744
+['kid', '2 dollar']	['dollar']	0.657961602052
+['kid', '2 dollar']	['twelve']	0.177101521879
+['kid', '2 dollar']	['175 ticket']	0.0737139440912
+['kid', '2 dollar']	['750 dollar']	0.510461204301
+['kid', '2 dollar']	['kid ticket']	0.243609548288
+['twelve', '2 dollar']	['ticket']	0.585916232918
+['twelve', '2 dollar']	['local theater']	0.0827346205535
+['twelve', '2 dollar']	['theater']	0.354295253218
+['twelve', '2 dollar']	['6 dollar']	0.800833695134
+['twelve', '2 dollar']	['adult']	0.310987524772
+['twelve', '2 dollar']	['dollar']	0.639027735679
+['twelve', '2 dollar']	['kid']	0.213006780612
+['twelve', '2 dollar']	['175 ticket']	0.0827346205535
+['twelve', '2 dollar']	['750 dollar']	0.538007739106
+['twelve', '2 dollar']	['kid ticket']	0.0827346205535
+['175 ticket', '2 dollar']	['ticket']	0.687998110055
+['175 ticket', '2 dollar']	['local theater']	0.0827346205535
+['175 ticket', '2 dollar']	['theater']	0.0777864840342
+['175 ticket', '2 dollar']	['6 dollar']	0.754360422532
+['175 ticket', '2 dollar']	['adult']	0.0777864840342
+['175 ticket', '2 dollar']	['dollar']	0.517803201643
+['175 ticket', '2 dollar']	['kid']	0.079730351659
+['175 ticket', '2 dollar']	['twelve']	0.0777864840342
+['175 ticket', '2 dollar']	['750 dollar']	0.584269096576
+['175 ticket', '2 dollar']	['kid ticket']	0.573408386835
+['750 dollar', '2 dollar']	['ticket']	0.51323626183
+['750 dollar', '2 dollar']	['local theater']	0.14589133531
+['750 dollar', '2 dollar']	['theater']	0.327028499836
+['750 dollar', '2 dollar']	['6 dollar']	0.862138942741
+['750 dollar', '2 dollar']	['adult']	0.327028499836
+['750 dollar', '2 dollar']	['dollar']	0.766295816382
+['750 dollar', '2 dollar']	['kid']	0.33665242287
+['750 dollar', '2 dollar']	['twelve']	0.37370815508
+['750 dollar', '2 dollar']	['175 ticket']	0.139258682248
+['750 dollar', '2 dollar']	['kid ticket']	0.14589133531
+['kid ticket', '2 dollar']	['ticket']	0.687998110055
+['kid ticket', '2 dollar']	['local theater']	0.101119282389
+['kid ticket', '2 dollar']	['theater']	0.0777864840342
+['kid ticket', '2 dollar']	['6 dollar']	0.754360422532
+['kid ticket', '2 dollar']	['adult']	0.0777864840342
+['kid ticket', '2 dollar']	['dollar']	0.517803201643
+['kid ticket', '2 dollar']	['kid']	0.465562097424
+['kid ticket', '2 dollar']	['twelve']	0.0777864840342
+['kid ticket', '2 dollar']	['175 ticket']	0.584269096576
+['kid ticket', '2 dollar']	['750 dollar']	0.584269096576
+['ticket', 'kid']	['local theater']	0.131771183904
+['ticket', 'kid']	['theater']	0.507505696124
+['ticket', 'kid']	['6 dollar']	0.159872896928
+['ticket', 'kid']	['adult']	0.461349167181
+['ticket', 'kid']	['dollar']	0.149075050141
+['ticket', 'kid']	['2 dollar']	0.159872896928
+['ticket', 'kid']	['twelve']	0.216563488107
+['ticket', 'kid']	['175 ticket']	0.669973747197
+['ticket', 'kid']	['750 dollar']	0.159872896928
+['ticket', 'kid']	['kid ticket']	0.533372150919
+['local theater', 'kid']	['ticket']	0.279068667337
+['local theater', 'kid']	['theater']	0.79928390238
+['local theater', 'kid']	['6 dollar']	0.0696933362217
+['local theater', 'kid']	['adult']	0.749799892109
+['local theater', 'kid']	['dollar']	0.100084091314
+['local theater', 'kid']	['2 dollar']	0.0696933362217
+['local theater', 'kid']	['twelve']	0.161573942014
+['local theater', 'kid']	['175 ticket']	0.0737139440912
+['local theater', 'kid']	['750 dollar']	0.0696933362217
+['local theater', 'kid']	['kid ticket']	0.566201623428
+['theater', 'kid']	['ticket']	0.36228032951
+['theater', 'kid']	['local theater']	0.78028613066
+['theater', 'kid']	['6 dollar']	0.0696933362217
+['theater', 'kid']	['adult']	0.609679989568
+['theater', 'kid']	['dollar']	0.0831640509808
+['theater', 'kid']	['2 dollar']	0.0696933362217
+['theater', 'kid']	['twelve']	0.265351265844
+['theater', 'kid']	['175 ticket']	0.0696933362217
+['theater', 'kid']	['750 dollar']	0.0696933362217
+['theater', 'kid']	['kid ticket']	0.485917159358
+['6 dollar', 'kid']	['ticket']	0.283578883706
+['6 dollar', 'kid']	['local theater']	0.0696933362217
+['6 dollar', 'kid']	['theater']	0.182729929366
+['6 dollar', 'kid']	['adult']	0.719154007744
+['6 dollar', 'kid']	['dollar']	0.657961602052
+['6 dollar', 'kid']	['2 dollar']	0.736313764211
+['6 dollar', 'kid']	['twelve']	0.177101521879
+['6 dollar', 'kid']	['175 ticket']	0.0737139440912
+['6 dollar', 'kid']	['750 dollar']	0.510461204301
+['6 dollar', 'kid']	['kid ticket']	0.243609548288
+['adult', 'kid']	['ticket']	0.193088657278
+['adult', 'kid']	['local theater']	0.0663445115919
+['adult', 'kid']	['theater']	0.133877554629
+['adult', 'kid']	['6 dollar']	0.0696933362217
+['adult', 'kid']	['dollar']	0.0856213159381
+['adult', 'kid']	['2 dollar']	0.0696933362217
+['adult', 'kid']	['twelve']	0.103120679442
+['adult', 'kid']	['175 ticket']	0.0696933362217
+['adult', 'kid']	['750 dollar']	0.0696933362217
+['adult', 'kid']	['kid ticket']	0.485917159358
+['dollar', 'kid']	['ticket']	0.230708289416
+['dollar', 'kid']	['local theater']	0.0982347768443
+['dollar', 'kid']	['theater']	0.167564653415
+['dollar', 'kid']	['6 dollar']	0.397268490074
+['dollar', 'kid']	['adult']	0.457752332856
+['dollar', 'kid']	['2 dollar']	0.397268490074
+['dollar', 'kid']	['twelve']	0.165882835233
+['dollar', 'kid']	['175 ticket']	0.118523866578
+['dollar', 'kid']	['750 dollar']	0.371062249217
+['dollar', 'kid']	['kid ticket']	0.38065923629
+['2 dollar', 'kid']	['ticket']	0.283578883706
+['2 dollar', 'kid']	['local theater']	0.0696933362217
+['2 dollar', 'kid']	['theater']	0.182729929366
+['2 dollar', 'kid']	['6 dollar']	0.736313764211
+['2 dollar', 'kid']	['adult']	0.719154007744
+['2 dollar', 'kid']	['dollar']	0.657961602052
+['2 dollar', 'kid']	['twelve']	0.177101521879
+['2 dollar', 'kid']	['175 ticket']	0.0737139440912
+['2 dollar', 'kid']	['750 dollar']	0.510461204301
+['2 dollar', 'kid']	['kid ticket']	0.243609548288
+['twelve', 'kid']	['ticket']	0.227092008859
+['twelve', 'kid']	['local theater']	0.0696933362217
+['twelve', 'kid']	['theater']	0.145903220857
+['twelve', 'kid']	['6 dollar']	0.0880779980575
+['twelve', 'kid']	['adult']	0.635562811966
+['twelve', 'kid']	['dollar']	0.107234315487
+['twelve', 'kid']	['2 dollar']	0.0880779980575
+['twelve', 'kid']	['175 ticket']	0.0696933362217
+['twelve', 'kid']	['750 dollar']	0.0880779980575
+['twelve', 'kid']	['kid ticket']	0.183174448825
+['175 ticket', 'kid']	['ticket']	0.657617384925
+['175 ticket', 'kid']	['local theater']	0.0696933362217
+['175 ticket', 'kid']	['theater']	0.182729929366
+['175 ticket', 'kid']	['6 dollar']	0.0696933362217
+['175 ticket', 'kid']	['adult']	0.732014583953
+['175 ticket', 'kid']	['dollar']	0.17587030432
+['175 ticket', 'kid']	['2 dollar']	0.0696933362217
+['175 ticket', 'kid']	['twelve']	0.160723192213
+['175 ticket', 'kid']	['750 dollar']	0.0696933362217
+['175 ticket', 'kid']	['kid ticket']	0.874439194308
+['750 dollar', 'kid']	['ticket']	0.283578883706
+['750 dollar', 'kid']	['local theater']	0.0696933362217
+['750 dollar', 'kid']	['theater']	0.182729929366
+['750 dollar', 'kid']	['6 dollar']	0.510461204301
+['750 dollar', 'kid']	['adult']	0.719154007744
+['750 dollar', 'kid']	['dollar']	0.673347208527
+['750 dollar', 'kid']	['2 dollar']	0.510461204301
+['750 dollar', 'kid']	['twelve']	0.177101521879
+['750 dollar', 'kid']	['175 ticket']	0.0737139440912
+['750 dollar', 'kid']	['kid ticket']	0.234085738764
+['kid ticket', 'kid']	['ticket']	0.657617384925
+['kid ticket', 'kid']	['local theater']	0.0847291734277
+['kid ticket', 'kid']	['theater']	0.182729929366
+['kid ticket', 'kid']	['6 dollar']	0.0696933362217
+['kid ticket', 'kid']	['adult']	0.732014583953
+['kid ticket', 'kid']	['dollar']	0.17587030432
+['kid ticket', 'kid']	['2 dollar']	0.0696933362217
+['kid ticket', 'kid']	['twelve']	0.160723192213
+['kid ticket', 'kid']	['175 ticket']	0.522652815483
+['kid ticket', 'kid']	['750 dollar']	0.0696933362217
+['ticket', 'twelve']	['local theater']	0.0696933362217
+['ticket', 'twelve']	['theater']	0.431995088036
+['ticket', 'twelve']	['6 dollar']	0.110566880729
+['ticket', 'twelve']	['adult']	0.303734088243
+['ticket', 'twelve']	['dollar']	0.148747752926
+['ticket', 'twelve']	['2 dollar']	0.110566880729
+['ticket', 'twelve']	['kid']	0.262336761316
+['ticket', 'twelve']	['175 ticket']	0.699506625782
+['ticket', 'twelve']	['750 dollar']	0.110566880729
+['ticket', 'twelve']	['kid ticket']	0.699506625782
+['local theater', 'twelve']	['ticket']	0.313105412942
+['local theater', 'twelve']	['theater']	0.81977652006
+['local theater', 'twelve']	['6 dollar']	0.101119282389
+['local theater', 'twelve']	['adult']	0.326515104636
+['local theater', 'twelve']	['dollar']	0.202305994626
+['local theater', 'twelve']	['2 dollar']	0.101119282389
+['local theater', 'twelve']	['kid']	0.228534360477
+['local theater', 'twelve']	['175 ticket']	0.0827346205535
+['local theater', 'twelve']	['750 dollar']	0.101119282389
+['local theater', 'twelve']	['kid ticket']	0.101119282389
+['theater', 'twelve']	['ticket']	0.432205213229
+['theater', 'twelve']	['local theater']	0.789206667477
+['theater', 'twelve']	['6 dollar']	0.0977704577595
+['theater', 'twelve']	['adult']	0.161875934944
+['theater', 'twelve']	['dollar']	0.147201904124
+['theater', 'twelve']	['2 dollar']	0.0977704577595
+['theater', 'twelve']	['kid']	0.185310393227
+['theater', 'twelve']	['175 ticket']	0.0827346205535
+['theater', 'twelve']	['750 dollar']	0.0977704577595
+['theater', 'twelve']	['kid ticket']	0.0827346205535
+['6 dollar', 'twelve']	['ticket']	0.585916232918
+['6 dollar', 'twelve']	['local theater']	0.0827346205535
+['6 dollar', 'twelve']	['theater']	0.354295253218
+['6 dollar', 'twelve']	['adult']	0.310987524772
+['6 dollar', 'twelve']	['dollar']	0.639027735679
+['6 dollar', 'twelve']	['2 dollar']	0.800833695134
+['6 dollar', 'twelve']	['kid']	0.213006780612
+['6 dollar', 'twelve']	['175 ticket']	0.0827346205535
+['6 dollar', 'twelve']	['750 dollar']	0.538007739106
+['6 dollar', 'twelve']	['kid ticket']	0.0827346205535
+['adult', 'twelve']	['ticket']	0.108668538745
+['adult', 'twelve']	['local theater']	0.0827346205535
+['adult', 'twelve']	['theater']	0.298201326649
+['adult', 'twelve']	['6 dollar']	0.0977704577595
+['adult', 'twelve']	['dollar']	0.1903856529
+['adult', 'twelve']	['2 dollar']	0.0977704577595
+['adult', 'twelve']	['kid']	0.609514282259
+['adult', 'twelve']	['175 ticket']	0.0827346205535
+['adult', 'twelve']	['750 dollar']	0.0977704577595
+['adult', 'twelve']	['kid ticket']	0.0827346205535
+['dollar', 'twelve']	['ticket']	0.168422789977
+['dollar', 'twelve']	['local theater']	0.0361569291624
+['dollar', 'twelve']	['theater']	0.193719306098
+['dollar', 'twelve']	['6 dollar']	0.434039776604
+['dollar', 'twelve']	['adult']	0.0520328484485
+['dollar', 'twelve']	['2 dollar']	0.434039776604
+['dollar', 'twelve']	['kid']	0.111172421365
+['dollar', 'twelve']	['175 ticket']	0.0618737183104
+['dollar', 'twelve']	['750 dollar']	0.435102054266
+['dollar', 'twelve']	['kid ticket']	0.0618737183104
+['2 dollar', 'twelve']	['ticket']	0.585916232918
+['2 dollar', 'twelve']	['local theater']	0.0827346205535
+['2 dollar', 'twelve']	['theater']	0.354295253218
+['2 dollar', 'twelve']	['6 dollar']	0.800833695134
+['2 dollar', 'twelve']	['adult']	0.310987524772
+['2 dollar', 'twelve']	['dollar']	0.639027735679
+['2 dollar', 'twelve']	['kid']	0.213006780612
+['2 dollar', 'twelve']	['175 ticket']	0.0827346205535
+['2 dollar', 'twelve']	['750 dollar']	0.538007739106
+['2 dollar', 'twelve']	['kid ticket']	0.0827346205535
+['kid', 'twelve']	['ticket']	0.227092008859
+['kid', 'twelve']	['local theater']	0.0696933362217
+['kid', 'twelve']	['theater']	0.145903220857
+['kid', 'twelve']	['6 dollar']	0.0880779980575
+['kid', 'twelve']	['adult']	0.635562811966
+['kid', 'twelve']	['dollar']	0.107234315487
+['kid', 'twelve']	['2 dollar']	0.0880779980575
+['kid', 'twelve']	['175 ticket']	0.0696933362217
+['kid', 'twelve']	['750 dollar']	0.0880779980575
+['kid', 'twelve']	['kid ticket']	0.183174448825
+['175 ticket', 'twelve']	['ticket']	0.801838801285
+['175 ticket', 'twelve']	['local theater']	0.0827346205535
+['175 ticket', 'twelve']	['theater']	0.354295253218
+['175 ticket', 'twelve']	['6 dollar']	0.101119282389
+['175 ticket', 'twelve']	['adult']	0.319764402226
+['175 ticket', 'twelve']	['dollar']	0.387970932264
+['175 ticket', 'twelve']	['2 dollar']	0.101119282389
+['175 ticket', 'twelve']	['kid']	0.212156030811
+['175 ticket', 'twelve']	['750 dollar']	0.101119282389
+['175 ticket', 'twelve']	['kid ticket']	0.569519319138
+['750 dollar', 'twelve']	['ticket']	0.585916232918
+['750 dollar', 'twelve']	['local theater']	0.0827346205535
+['750 dollar', 'twelve']	['theater']	0.354295253218
+['750 dollar', 'twelve']	['6 dollar']	0.538007739106
+['750 dollar', 'twelve']	['adult']	0.310987524772
+['750 dollar', 'twelve']	['dollar']	0.650022939528
+['750 dollar', 'twelve']	['2 dollar']	0.538007739106
+['750 dollar', 'twelve']	['kid']	0.213006780612
+['750 dollar', 'twelve']	['175 ticket']	0.0827346205535
+['750 dollar', 'twelve']	['kid ticket']	0.0827346205535
+['kid ticket', 'twelve']	['ticket']	0.801838801285
+['kid ticket', 'twelve']	['local theater']	0.101119282389
+['kid ticket', 'twelve']	['theater']	0.354295253218
+['kid ticket', 'twelve']	['6 dollar']	0.101119282389
+['kid ticket', 'twelve']	['adult']	0.319764402226
+['kid ticket', 'twelve']	['dollar']	0.387970932264
+['kid ticket', 'twelve']	['2 dollar']	0.101119282389
+['kid ticket', 'twelve']	['kid']	0.306562670954
+['kid ticket', 'twelve']	['175 ticket']	0.569519319138
+['kid ticket', 'twelve']	['750 dollar']	0.101119282389
+['ticket', '175 ticket']	['local theater']	0.144528281371
+['ticket', '175 ticket']	['theater']	0.759797192234
+['ticket', '175 ticket']	['6 dollar']	0.247627320934
+['ticket', '175 ticket']	['adult']	0.391778704054
+['ticket', '175 ticket']	['dollar']	0.347535848514
+['ticket', '175 ticket']	['2 dollar']	0.247627320934
+['ticket', '175 ticket']	['kid']	0.491782930514
+['ticket', '175 ticket']	['twelve']	0.470900544842
+['ticket', '175 ticket']	['750 dollar']	0.247627320934
+['ticket', '175 ticket']	['kid ticket']	0.782259204304
+['local theater', '175 ticket']	['ticket']	0.600448858269
+['local theater', '175 ticket']	['theater']	0.695388929772
+['local theater', '175 ticket']	['6 dollar']	0.0827346205535
+['local theater', '175 ticket']	['adult']	0.0777864840342
+['local theater', '175 ticket']	['dollar']	0.0354449666524
+['local theater', '175 ticket']	['2 dollar']	0.0827346205535
+['local theater', '175 ticket']	['kid']	0.0774561735493
+['local theater', '175 ticket']	['twelve']	0.0800606621439
+['local theater', '175 ticket']	['750 dollar']	0.0901100077042
+['local theater', '175 ticket']	['kid ticket']	0.538007739106
+['theater', '175 ticket']	['ticket']	0.810727690174
+['theater', '175 ticket']	['local theater']	0.759673788892
+['theater', '175 ticket']	['6 dollar']	0.0827346205535
+['theater', '175 ticket']	['adult']	0.271198595009
+['theater', '175 ticket']	['dollar']	0.144352057042
+['theater', '175 ticket']	['2 dollar']	0.0827346205535
+['theater', '175 ticket']	['kid']	0.19603525097
+['theater', '175 ticket']	['twelve']	0.33094415707
+['theater', '175 ticket']	['750 dollar']	0.0827346205535
+['theater', '175 ticket']	['kid ticket']	0.557925116239
+['6 dollar', '175 ticket']	['ticket']	0.687998110055
+['6 dollar', '175 ticket']	['local theater']	0.0827346205535
+['6 dollar', '175 ticket']	['theater']	0.0777864840342
+['6 dollar', '175 ticket']	['adult']	0.0777864840342
+['6 dollar', '175 ticket']	['dollar']	0.517803201643
+['6 dollar', '175 ticket']	['2 dollar']	0.754360422532
+['6 dollar', '175 ticket']	['kid']	0.079730351659
+['6 dollar', '175 ticket']	['twelve']	0.0777864840342
+['6 dollar', '175 ticket']	['750 dollar']	0.584269096576
+['6 dollar', '175 ticket']	['kid ticket']	0.573408386835
+['adult', '175 ticket']	['ticket']	0.78601235732
+['adult', '175 ticket']	['local theater']	0.0827346205535
+['adult', '175 ticket']	['theater']	0.266659319235
+['adult', '175 ticket']	['6 dollar']	0.0827346205535
+['adult', '175 ticket']	['dollar']	0.177685390375
+['adult', '175 ticket']	['2 dollar']	0.0827346205535
+['adult', '175 ticket']	['kid']	0.726669153591
+['adult', '175 ticket']	['twelve']	0.319764402226
+['adult', '175 ticket']	['750 dollar']	0.0827346205535
+['adult', '175 ticket']	['kid ticket']	0.557925116239
+['dollar', '175 ticket']	['ticket']	0.646450713312
+['dollar', '175 ticket']	['local theater']	0.0361569291624
+['dollar', '175 ticket']	['theater']	0.109561042279
+['dollar', '175 ticket']	['6 dollar']	0.397268490074
+['dollar', '175 ticket']	['adult']	0.0987471808723
+['dollar', '175 ticket']	['2 dollar']	0.397268490074
+['dollar', '175 ticket']	['kid']	0.128004820464
+['dollar', '175 ticket']	['twelve']	0.226687137615
+['dollar', '175 ticket']	['750 dollar']	0.365401430504
+['dollar', '175 ticket']	['kid ticket']	0.208039687774
+['2 dollar', '175 ticket']	['ticket']	0.687998110055
+['2 dollar', '175 ticket']	['local theater']	0.0827346205535
+['2 dollar', '175 ticket']	['theater']	0.0777864840342
+['2 dollar', '175 ticket']	['6 dollar']	0.754360422532
+['2 dollar', '175 ticket']	['adult']	0.0777864840342
+['2 dollar', '175 ticket']	['dollar']	0.517803201643
+['2 dollar', '175 ticket']	['kid']	0.079730351659
+['2 dollar', '175 ticket']	['twelve']	0.0777864840342
+['2 dollar', '175 ticket']	['750 dollar']	0.584269096576
+['2 dollar', '175 ticket']	['kid ticket']	0.573408386835
+['kid', '175 ticket']	['ticket']	0.657617384925
+['kid', '175 ticket']	['local theater']	0.0696933362217
+['kid', '175 ticket']	['theater']	0.182729929366
+['kid', '175 ticket']	['6 dollar']	0.0696933362217
+['kid', '175 ticket']	['adult']	0.732014583953
+['kid', '175 ticket']	['dollar']	0.17587030432
+['kid', '175 ticket']	['2 dollar']	0.0696933362217
+['kid', '175 ticket']	['twelve']	0.160723192213
+['kid', '175 ticket']	['750 dollar']	0.0696933362217
+['kid', '175 ticket']	['kid ticket']	0.874439194308
+['twelve', '175 ticket']	['ticket']	0.801838801285
+['twelve', '175 ticket']	['local theater']	0.0827346205535
+['twelve', '175 ticket']	['theater']	0.354295253218
+['twelve', '175 ticket']	['6 dollar']	0.101119282389
+['twelve', '175 ticket']	['adult']	0.319764402226
+['twelve', '175 ticket']	['dollar']	0.387970932264
+['twelve', '175 ticket']	['2 dollar']	0.101119282389
+['twelve', '175 ticket']	['kid']	0.212156030811
+['twelve', '175 ticket']	['750 dollar']	0.101119282389
+['twelve', '175 ticket']	['kid ticket']	0.569519319138
+['750 dollar', '175 ticket']	['ticket']	0.687998110055
+['750 dollar', '175 ticket']	['local theater']	0.0901100077042
+['750 dollar', '175 ticket']	['theater']	0.0777864840342
+['750 dollar', '175 ticket']	['6 dollar']	0.584269096576
+['750 dollar', '175 ticket']	['adult']	0.0777864840342
+['750 dollar', '175 ticket']	['dollar']	0.45661347414
+['750 dollar', '175 ticket']	['2 dollar']	0.584269096576
+['750 dollar', '175 ticket']	['kid']	0.079730351659
+['750 dollar', '175 ticket']	['twelve']	0.0777864840342
+['750 dollar', '175 ticket']	['kid ticket']	0.584269096576
+['kid ticket', '175 ticket']	['ticket']	0.675654011554
+['kid ticket', '175 ticket']	['local theater']	0.24921316652
+['kid ticket', '175 ticket']	['theater']	0.334330087138
+['kid ticket', '175 ticket']	['6 dollar']	0.139258682248
+['kid ticket', '175 ticket']	['adult']	0.325390866884
+['kid ticket', '175 ticket']	['dollar']	0.292299166638
+['kid ticket', '175 ticket']	['2 dollar']	0.139258682248
+['kid ticket', '175 ticket']	['kid']	0.581516055124
+['kid ticket', '175 ticket']	['twelve']	0.325390866884
+['kid ticket', '175 ticket']	['750 dollar']	0.139258682248
+['ticket', '750 dollar']	['local theater']	0.0696933362217
+['ticket', '750 dollar']	['theater']	0.719008758257
+['ticket', '750 dollar']	['6 dollar']	0.525526174317
+['ticket', '750 dollar']	['adult']	0.182729929366
+['ticket', '750 dollar']	['dollar']	0.65389882076
+['ticket', '750 dollar']	['2 dollar']	0.525526174317
+['ticket', '750 dollar']	['kid']	0.279068667337
+['ticket', '750 dollar']	['twelve']	0.36928692336
+['ticket', '750 dollar']	['175 ticket']	0.669973747197
+['ticket', '750 dollar']	['kid ticket']	0.669973747197
+['local theater', '750 dollar']	['ticket']	0.105969303899
+['local theater', '750 dollar']	['theater']	0.677207111591
+['local theater', '750 dollar']	['6 dollar']	0.573408386835
+['local theater', '750 dollar']	['adult']	0.0744376594044
+['local theater', '750 dollar']	['dollar']	0.296552388567
+['local theater', '750 dollar']	['2 dollar']	0.573408386835
+['local theater', '750 dollar']	['kid']	0.0774561735493
+['local theater', '750 dollar']	['twelve']	0.0777864840342
+['local theater', '750 dollar']	['175 ticket']	0.0901100077042
+['local theater', '750 dollar']	['kid ticket']	0.101119282389
+['theater', '750 dollar']	['ticket']	0.843342790847
+['theater', '750 dollar']	['local theater']	0.759673788892
+['theater', '750 dollar']	['6 dollar']	0.549852778125
+['theater', '750 dollar']	['adult']	0.266659319235
+['theater', '750 dollar']	['dollar']	0.629068333815
+['theater', '750 dollar']	['2 dollar']	0.549852778125
+['theater', '750 dollar']	['kid']	0.192648399091
+['theater', '750 dollar']	['twelve']	0.35160780425
+['theater', '750 dollar']	['175 ticket']	0.0827346205535
+['theater', '750 dollar']	['kid ticket']	0.0827346205535
+['6 dollar', '750 dollar']	['ticket']	0.51323626183
+['6 dollar', '750 dollar']	['local theater']	0.14589133531
+['6 dollar', '750 dollar']	['theater']	0.327028499836
+['6 dollar', '750 dollar']	['adult']	0.327028499836
+['6 dollar', '750 dollar']	['dollar']	0.766295816382
+['6 dollar', '750 dollar']	['2 dollar']	0.862138942741
+['6 dollar', '750 dollar']	['kid']	0.33665242287
+['6 dollar', '750 dollar']	['twelve']	0.37370815508
+['6 dollar', '750 dollar']	['175 ticket']	0.139258682248
+['6 dollar', '750 dollar']	['kid ticket']	0.14589133531
+['adult', '750 dollar']	['ticket']	0.328883094735
+['adult', '750 dollar']	['local theater']	0.0827346205535
+['adult', '750 dollar']	['theater']	0.266659319235
+['adult', '750 dollar']	['6 dollar']	0.549852778125
+['adult', '750 dollar']	['dollar']	0.629068333815
+['adult', '750 dollar']	['2 dollar']	0.549852778125
+['adult', '750 dollar']	['kid']	0.748002867908
+['adult', '750 dollar']	['twelve']	0.326515104636
+['adult', '750 dollar']	['175 ticket']	0.0827346205535
+['adult', '750 dollar']	['kid ticket']	0.0827346205535
+['dollar', '750 dollar']	['ticket']	0.413734650951
+['dollar', '750 dollar']	['local theater']	0.0968024870635
+['dollar', '750 dollar']	['theater']	0.297245159667
+['dollar', '750 dollar']	['6 dollar']	0.689544863391
+['dollar', '750 dollar']	['adult']	0.319930627036
+['dollar', '750 dollar']	['2 dollar']	0.689544863391
+['dollar', '750 dollar']	['kid']	0.317655153087
+['dollar', '750 dollar']	['twelve']	0.441381870867
+['dollar', '750 dollar']	['175 ticket']	0.183873817054
+['dollar', '750 dollar']	['kid ticket']	0.183873817054
+['2 dollar', '750 dollar']	['ticket']	0.51323626183
+['2 dollar', '750 dollar']	['local theater']	0.14589133531
+['2 dollar', '750 dollar']	['theater']	0.327028499836
+['2 dollar', '750 dollar']	['6 dollar']	0.862138942741
+['2 dollar', '750 dollar']	['adult']	0.327028499836
+['2 dollar', '750 dollar']	['dollar']	0.766295816382
+['2 dollar', '750 dollar']	['kid']	0.33665242287
+['2 dollar', '750 dollar']	['twelve']	0.37370815508
+['2 dollar', '750 dollar']	['175 ticket']	0.139258682248
+['2 dollar', '750 dollar']	['kid ticket']	0.14589133531
+['kid', '750 dollar']	['ticket']	0.283578883706
+['kid', '750 dollar']	['local theater']	0.0696933362217
+['kid', '750 dollar']	['theater']	0.182729929366
+['kid', '750 dollar']	['6 dollar']	0.510461204301
+['kid', '750 dollar']	['adult']	0.719154007744
+['kid', '750 dollar']	['dollar']	0.673347208527
+['kid', '750 dollar']	['2 dollar']	0.510461204301
+['kid', '750 dollar']	['twelve']	0.177101521879
+['kid', '750 dollar']	['175 ticket']	0.0737139440912
+['kid', '750 dollar']	['kid ticket']	0.234085738764
+['twelve', '750 dollar']	['ticket']	0.585916232918
+['twelve', '750 dollar']	['local theater']	0.0827346205535
+['twelve', '750 dollar']	['theater']	0.354295253218
+['twelve', '750 dollar']	['6 dollar']	0.538007739106
+['twelve', '750 dollar']	['adult']	0.310987524772
+['twelve', '750 dollar']	['dollar']	0.650022939528
+['twelve', '750 dollar']	['2 dollar']	0.538007739106
+['twelve', '750 dollar']	['kid']	0.213006780612
+['twelve', '750 dollar']	['175 ticket']	0.0827346205535
+['twelve', '750 dollar']	['kid ticket']	0.0827346205535
+['175 ticket', '750 dollar']	['ticket']	0.687998110055
+['175 ticket', '750 dollar']	['local theater']	0.0901100077042
+['175 ticket', '750 dollar']	['theater']	0.0777864840342
+['175 ticket', '750 dollar']	['6 dollar']	0.584269096576
+['175 ticket', '750 dollar']	['adult']	0.0777864840342
+['175 ticket', '750 dollar']	['dollar']	0.45661347414
+['175 ticket', '750 dollar']	['2 dollar']	0.584269096576
+['175 ticket', '750 dollar']	['kid']	0.079730351659
+['175 ticket', '750 dollar']	['twelve']	0.0777864840342
+['175 ticket', '750 dollar']	['kid ticket']	0.584269096576
+['kid ticket', '750 dollar']	['ticket']	0.687998110055
+['kid ticket', '750 dollar']	['local theater']	0.101119282389
+['kid ticket', '750 dollar']	['theater']	0.0777864840342
+['kid ticket', '750 dollar']	['6 dollar']	0.584269096576
+['kid ticket', '750 dollar']	['adult']	0.0777864840342
+['kid ticket', '750 dollar']	['dollar']	0.45661347414
+['kid ticket', '750 dollar']	['2 dollar']	0.584269096576
+['kid ticket', '750 dollar']	['kid']	0.465562097424
+['kid ticket', '750 dollar']	['twelve']	0.0777864840342
+['kid ticket', '750 dollar']	['175 ticket']	0.584269096576
+['ticket', 'kid ticket']	['local theater']	0.255056600203
+['ticket', 'kid ticket']	['theater']	0.759797192234
+['ticket', 'kid ticket']	['6 dollar']	0.247627320934
+['ticket', 'kid ticket']	['adult']	0.391778704054
+['ticket', 'kid ticket']	['dollar']	0.347535848514
+['ticket', 'kid ticket']	['2 dollar']	0.247627320934
+['ticket', 'kid ticket']	['kid']	0.549495138596
+['ticket', 'kid ticket']	['twelve']	0.470900544842
+['ticket', 'kid ticket']	['175 ticket']	0.782259204304
+['ticket', 'kid ticket']	['750 dollar']	0.247627320934
+['local theater', 'kid ticket']	['ticket']	0.600448858269
+['local theater', 'kid ticket']	['theater']	0.695388929772
+['local theater', 'kid ticket']	['6 dollar']	0.0827346205535
+['local theater', 'kid ticket']	['adult']	0.0777864840342
+['local theater', 'kid ticket']	['dollar']	0.0354449666524
+['local theater', 'kid ticket']	['2 dollar']	0.0827346205535
+['local theater', 'kid ticket']	['kid']	0.507272855801
+['local theater', 'kid ticket']	['twelve']	0.0800606621439
+['local theater', 'kid ticket']	['175 ticket']	0.584269096576
+['local theater', 'kid ticket']	['750 dollar']	0.0901100077042
+['theater', 'kid ticket']	['ticket']	0.810727690174
+['theater', 'kid ticket']	['local theater']	0.792088139079
+['theater', 'kid ticket']	['6 dollar']	0.0827346205535
+['theater', 'kid ticket']	['adult']	0.271198595009
+['theater', 'kid ticket']	['dollar']	0.144352057042
+['theater', 'kid ticket']	['2 dollar']	0.0827346205535
+['theater', 'kid ticket']	['kid']	0.302332114174
+['theater', 'kid ticket']	['twelve']	0.33094415707
+['theater', 'kid ticket']	['175 ticket']	0.557925116239
+['theater', 'kid ticket']	['750 dollar']	0.0827346205535
+['6 dollar', 'kid ticket']	['ticket']	0.687998110055
+['6 dollar', 'kid ticket']	['local theater']	0.101119282389
+['6 dollar', 'kid ticket']	['theater']	0.0777864840342
+['6 dollar', 'kid ticket']	['adult']	0.0777864840342
+['6 dollar', 'kid ticket']	['dollar']	0.517803201643
+['6 dollar', 'kid ticket']	['2 dollar']	0.754360422532
+['6 dollar', 'kid ticket']	['kid']	0.465562097424
+['6 dollar', 'kid ticket']	['twelve']	0.0777864840342
+['6 dollar', 'kid ticket']	['175 ticket']	0.584269096576
+['6 dollar', 'kid ticket']	['750 dollar']	0.584269096576
+['adult', 'kid ticket']	['ticket']	0.78601235732
+['adult', 'kid ticket']	['local theater']	0.0977704577595
+['adult', 'kid ticket']	['theater']	0.266659319235
+['adult', 'kid ticket']	['6 dollar']	0.0827346205535
+['adult', 'kid ticket']	['dollar']	0.177685390375
+['adult', 'kid ticket']	['2 dollar']	0.0827346205535
+['adult', 'kid ticket']	['kid']	0.572761155583
+['adult', 'kid ticket']	['twelve']	0.319764402226
+['adult', 'kid ticket']	['175 ticket']	0.557925116239
+['adult', 'kid ticket']	['750 dollar']	0.0827346205535
+['dollar', 'kid ticket']	['ticket']	0.646450713312
+['dollar', 'kid ticket']	['local theater']	0.0546088484756
+['dollar', 'kid ticket']	['theater']	0.109561042279
+['dollar', 'kid ticket']	['6 dollar']	0.397268490074
+['dollar', 'kid ticket']	['adult']	0.0987471808723
+['dollar', 'kid ticket']	['2 dollar']	0.397268490074
+['dollar', 'kid ticket']	['kid']	0.246374155355
+['dollar', 'kid ticket']	['twelve']	0.226687137615
+['dollar', 'kid ticket']	['175 ticket']	0.208039687774
+['dollar', 'kid ticket']	['750 dollar']	0.365401430504
+['2 dollar', 'kid ticket']	['ticket']	0.687998110055
+['2 dollar', 'kid ticket']	['local theater']	0.101119282389
+['2 dollar', 'kid ticket']	['theater']	0.0777864840342
+['2 dollar', 'kid ticket']	['6 dollar']	0.754360422532
+['2 dollar', 'kid ticket']	['adult']	0.0777864840342
+['2 dollar', 'kid ticket']	['dollar']	0.517803201643
+['2 dollar', 'kid ticket']	['kid']	0.465562097424
+['2 dollar', 'kid ticket']	['twelve']	0.0777864840342
+['2 dollar', 'kid ticket']	['175 ticket']	0.584269096576
+['2 dollar', 'kid ticket']	['750 dollar']	0.584269096576
+['kid', 'kid ticket']	['ticket']	0.657617384925
+['kid', 'kid ticket']	['local theater']	0.0847291734277
+['kid', 'kid ticket']	['theater']	0.182729929366
+['kid', 'kid ticket']	['6 dollar']	0.0696933362217
+['kid', 'kid ticket']	['adult']	0.732014583953
+['kid', 'kid ticket']	['dollar']	0.17587030432
+['kid', 'kid ticket']	['2 dollar']	0.0696933362217
+['kid', 'kid ticket']	['twelve']	0.160723192213
+['kid', 'kid ticket']	['175 ticket']	0.522652815483
+['kid', 'kid ticket']	['750 dollar']	0.0696933362217
+['twelve', 'kid ticket']	['ticket']	0.801838801285
+['twelve', 'kid ticket']	['local theater']	0.101119282389
+['twelve', 'kid ticket']	['theater']	0.354295253218
+['twelve', 'kid ticket']	['6 dollar']	0.101119282389
+['twelve', 'kid ticket']	['adult']	0.319764402226
+['twelve', 'kid ticket']	['dollar']	0.387970932264
+['twelve', 'kid ticket']	['2 dollar']	0.101119282389
+['twelve', 'kid ticket']	['kid']	0.306562670954
+['twelve', 'kid ticket']	['175 ticket']	0.569519319138
+['twelve', 'kid ticket']	['750 dollar']	0.101119282389
+['175 ticket', 'kid ticket']	['ticket']	0.675654011554
+['175 ticket', 'kid ticket']	['local theater']	0.24921316652
+['175 ticket', 'kid ticket']	['theater']	0.334330087138
+['175 ticket', 'kid ticket']	['6 dollar']	0.139258682248
+['175 ticket', 'kid ticket']	['adult']	0.325390866884
+['175 ticket', 'kid ticket']	['dollar']	0.292299166638
+['175 ticket', 'kid ticket']	['2 dollar']	0.139258682248
+['175 ticket', 'kid ticket']	['kid']	0.581516055124
+['175 ticket', 'kid ticket']	['twelve']	0.325390866884
+['175 ticket', 'kid ticket']	['750 dollar']	0.139258682248
+['750 dollar', 'kid ticket']	['ticket']	0.687998110055
+['750 dollar', 'kid ticket']	['local theater']	0.101119282389
+['750 dollar', 'kid ticket']	['theater']	0.0777864840342
+['750 dollar', 'kid ticket']	['6 dollar']	0.584269096576
+['750 dollar', 'kid ticket']	['adult']	0.0777864840342
+['750 dollar', 'kid ticket']	['dollar']	0.45661347414
+['750 dollar', 'kid ticket']	['2 dollar']	0.584269096576
+['750 dollar', 'kid ticket']	['kid']	0.465562097424
+['750 dollar', 'kid ticket']	['twelve']	0.0777864840342
+['750 dollar', 'kid ticket']	['175 ticket']	0.584269096576

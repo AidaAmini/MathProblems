@@ -1,0 +1,35 @@
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP$ your) (JJ gross) (NN pay))
+        (VP
+          (VBZ is)
+          (NP (CD 450) (NNS dollars))
+          (, ,)
+          (SBAR
+            (IN while)
+            (S
+              (NP (PRP$ your) (JJ net) (NN pay))
+              (VP (VBZ is) (NP (QP (CD 315) (NNS dollars)))))))))
+    (, ,)
+    (WHNP (WRB how) (RB much))
+    (SQ
+      (VBP do)
+      (NP (PRP you))
+      (VP (VB pay) (PP (IN in) (NP (NNS taxes)))))
+    (. ?)))
+(ROOT
+  (S
+    (VP
+      (VB Assume)
+      (SBAR
+        (IN that)
+        (S
+          (NP (DT all) (NN tax) (NNS dollars))
+          (VP
+            (VBP are)
+            (RB not)
+            (VP (VBN included) (PP (IN in) (NP (JJ net) (NN pay))))))))
+    (. .)))

@@ -1,0 +1,54 @@
+(ROOT
+  (S
+    (PP
+      (IN On)
+      (S
+        (NP (DT a) (NN test))
+        (VP (VBG containing) (NP (CD 120) (NNS questions)))))
+    (, ,)
+    (NP (DT the) (JJ final) (NN score))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN based)
+        (PP
+          (IN on)
+          (NP
+            (NP
+              (NP (CD 1) (NN point))
+              (PP (IN for) (NP (DT each) (JJ correct) (NN answer))))
+            (CC and)
+            (NP
+              (NP (CD 0.25))
+              (PP
+                (IN of)
+                (NP
+                  (NP (DT a) (NN point))
+                  (VP
+                    (VBN subtracted)
+                    (PP
+                      (IN for)
+                      (NP (DT each) (JJ incorrect) (NN answer)))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Allan))
+    (VP
+      (VP
+        (VBD answered)
+        (NP (NP (DT all)) (PP (IN of) (NP (DT the) (NNS questions)))))
+      (CC and)
+      (VP
+        (VBD received)
+        (NP
+          (NP (DT a) (JJ final) (NN score))
+          (PP (IN of) (NP (CD 100) (NNS points))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS questions))
+    (SQ
+      (VBD did)
+      (NP (NNP Allan))
+      (VP (VB answer) (ADVP (RB correctly))))
+    (. ?)))

@@ -1,0 +1,133 @@
+['math test', '30 problem', 'problem', '3 point', '4 point', '4 point problem']
+['math test']	['30 problem']	0.0827346205535
+['math test']	['problem']	0.050052963724
+['math test']	['3 point']	0.0827346205535
+['math test']	['4 point']	0.0824069519204
+['math test']	['4 point problem']	0.0908034291173
+['30 problem']	['3 point']	0.125971854627
+['30 problem']	['4 point']	0.103176153012
+['30 problem']	['4 point problem']	0.68119517674
+['problem']	['3 point']	0.0613764810231
+['problem']	['4 point']	0.0633314675333
+['3 point']	['4 point']	0.820005157283
+['3 point']	['4 point problem']	0.379457278768
+['30 problem', 'math test']	['problem']	0.473317147337
+['30 problem', 'math test']	['3 point']	0.140649313257
+['30 problem', 'math test']	['4 point']	0.107003435941
+['30 problem', 'math test']	['4 point problem']	0.669866445221
+['problem', 'math test']	['30 problem']	0.553937649852
+['problem', 'math test']	['3 point']	0.0563939725707
+['problem', 'math test']	['4 point']	0.0618577310107
+['problem', 'math test']	['4 point problem']	0.672059384169
+['3 point', 'math test']	['30 problem']	0.140649313257
+['3 point', 'math test']	['problem']	0.0637697261155
+['3 point', 'math test']	['4 point']	0.747901896166
+['3 point', 'math test']	['4 point problem']	0.365426502964
+['4 point', 'math test']	['30 problem']	0.105691884463
+['4 point', 'math test']	['problem']	0.047249228343
+['4 point', 'math test']	['3 point']	0.73028733598
+['4 point', 'math test']	['4 point problem']	0.456253030721
+['4 point problem', 'math test']	['30 problem']	0.642192628205
+['4 point problem', 'math test']	['problem']	0.665550512375
+['4 point problem', 'math test']	['3 point']	0.481561194969
+['4 point problem', 'math test']	['4 point']	0.486385005071
+['math test', '30 problem']	['problem']	0.473317147337
+['math test', '30 problem']	['3 point']	0.140649313257
+['math test', '30 problem']	['4 point']	0.107003435941
+['math test', '30 problem']	['4 point problem']	0.669866445221
+['problem', '30 problem']	['math test']	0.158497626098
+['problem', '30 problem']	['3 point']	0.256836051092
+['problem', '30 problem']	['4 point']	0.229310643
+['problem', '30 problem']	['4 point problem']	0.77674940949
+['3 point', '30 problem']	['math test']	0.0827346205535
+['3 point', '30 problem']	['problem']	0.51329661071
+['3 point', '30 problem']	['4 point']	0.812835846014
+['3 point', '30 problem']	['4 point problem']	0.777835402841
+['4 point', '30 problem']	['math test']	0.0696933362217
+['4 point', '30 problem']	['problem']	0.538263647416
+['4 point', '30 problem']	['3 point']	0.781116950393
+['4 point', '30 problem']	['4 point problem']	0.721180090674
+['4 point problem', '30 problem']	['math test']	0.203019945245
+['4 point problem', '30 problem']	['problem']	0.764518999004
+['4 point problem', '30 problem']	['3 point']	0.765304240519
+['4 point problem', '30 problem']	['4 point']	0.532162351132
+['math test', 'problem']	['30 problem']	0.553937649852
+['math test', 'problem']	['3 point']	0.0563939725707
+['math test', 'problem']	['4 point']	0.0618577310107
+['math test', 'problem']	['4 point problem']	0.672059384169
+['30 problem', 'problem']	['math test']	0.158497626098
+['30 problem', 'problem']	['3 point']	0.256836051092
+['30 problem', 'problem']	['4 point']	0.229310643
+['30 problem', 'problem']	['4 point problem']	0.77674940949
+['3 point', 'problem']	['math test']	0.046982964258
+['3 point', 'problem']	['30 problem']	0.598259348623
+['3 point', 'problem']	['4 point']	0.681906388153
+['3 point', 'problem']	['4 point problem']	0.738780197649
+['4 point', 'problem']	['math test']	0.10906081194
+['4 point', 'problem']	['30 problem']	0.598259348623
+['4 point', 'problem']	['3 point']	0.767143617488
+['4 point', 'problem']	['4 point problem']	0.665919923824
+['4 point problem', 'problem']	['math test']	0.158497626098
+['4 point problem', 'problem']	['30 problem']	0.759912316289
+['4 point problem', 'problem']	['3 point']	0.586803684157
+['4 point problem', 'problem']	['4 point']	0.41557534473
+['math test', '3 point']	['30 problem']	0.140649313257
+['math test', '3 point']	['problem']	0.0637697261155
+['math test', '3 point']	['4 point']	0.747901896166
+['math test', '3 point']	['4 point problem']	0.365426502964
+['30 problem', '3 point']	['math test']	0.0827346205535
+['30 problem', '3 point']	['problem']	0.51329661071
+['30 problem', '3 point']	['4 point']	0.812835846014
+['30 problem', '3 point']	['4 point problem']	0.777835402841
+['problem', '3 point']	['math test']	0.046982964258
+['problem', '3 point']	['30 problem']	0.598259348623
+['problem', '3 point']	['4 point']	0.681906388153
+['problem', '3 point']	['4 point problem']	0.738780197649
+['4 point', '3 point']	['math test']	0.144528281371
+['4 point', '3 point']	['30 problem']	0.350927326657
+['4 point', '3 point']	['problem']	0.290550848565
+['4 point', '3 point']	['4 point problem']	0.541051678388
+['4 point problem', '3 point']	['math test']	0.152238479479
+['4 point problem', '3 point']	['30 problem']	0.743380388481
+['4 point problem', '3 point']	['problem']	0.713704233625
+['4 point problem', '3 point']	['4 point']	0.785726658851
+['math test', '4 point']	['30 problem']	0.105691884463
+['math test', '4 point']	['problem']	0.047249228343
+['math test', '4 point']	['3 point']	0.73028733598
+['math test', '4 point']	['4 point problem']	0.456253030721
+['30 problem', '4 point']	['math test']	0.0696933362217
+['30 problem', '4 point']	['problem']	0.538263647416
+['30 problem', '4 point']	['3 point']	0.781116950393
+['30 problem', '4 point']	['4 point problem']	0.721180090674
+['problem', '4 point']	['math test']	0.10906081194
+['problem', '4 point']	['30 problem']	0.598259348623
+['problem', '4 point']	['3 point']	0.767143617488
+['problem', '4 point']	['4 point problem']	0.665919923824
+['3 point', '4 point']	['math test']	0.144528281371
+['3 point', '4 point']	['30 problem']	0.350927326657
+['3 point', '4 point']	['problem']	0.290550848565
+['3 point', '4 point']	['4 point problem']	0.541051678388
+['4 point problem', '4 point']	['math test']	0.124856540438
+['4 point problem', '4 point']	['30 problem']	0.645980418557
+['4 point problem', '4 point']	['problem']	0.689046207911
+['4 point problem', '4 point']	['3 point']	0.858245500007
+['math test', '4 point problem']	['30 problem']	0.642192628205
+['math test', '4 point problem']	['problem']	0.665550512375
+['math test', '4 point problem']	['3 point']	0.481561194969
+['math test', '4 point problem']	['4 point']	0.486385005071
+['30 problem', '4 point problem']	['math test']	0.203019945245
+['30 problem', '4 point problem']	['problem']	0.764518999004
+['30 problem', '4 point problem']	['3 point']	0.765304240519
+['30 problem', '4 point problem']	['4 point']	0.532162351132
+['problem', '4 point problem']	['math test']	0.158497626098
+['problem', '4 point problem']	['30 problem']	0.759912316289
+['problem', '4 point problem']	['3 point']	0.586803684157
+['problem', '4 point problem']	['4 point']	0.41557534473
+['3 point', '4 point problem']	['math test']	0.152238479479
+['3 point', '4 point problem']	['30 problem']	0.743380388481
+['3 point', '4 point problem']	['problem']	0.713704233625
+['3 point', '4 point problem']	['4 point']	0.785726658851
+['4 point', '4 point problem']	['math test']	0.124856540438
+['4 point', '4 point problem']	['30 problem']	0.645980418557
+['4 point', '4 point problem']	['problem']	0.689046207911
+['4 point', '4 point problem']	['3 point']	0.858245500007

@@ -1,0 +1,298 @@
+1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['3 student', '-', 'student', '-']]
+1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', 'student', '-']]
+1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+1
+[['-', '-', '-', 'student'], ['-', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+1
+[['-', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['3 student', '-', 'student', '-']]
+1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', 'student', '-']]
+1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+1
+[['work-station', '-', '-', '-'], ['-', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+1
+[['work-station', '-', '-', '-'], ['2 student', '-', '-', '-'], ['3 student', '-', 'student', '-']]
+1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['-', '-', 'student', '-']]
+1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+1
+[['work-station', '-', '-', 'student'], ['-', '-', '-', '-'], ['3 student', '-', 'student', '-']]
+1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['-', '-', 'student', '-']]
+1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['-', '-', 'student', '-']]
+1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['3 student', '-', '-', '-']]
+1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+1
+[['-', '-', '-', 'student'], ['-', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+1
+[['-', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['3 student', '-', '-', '-']]
+1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', '-', '-']]
+1
+[['work-station', '-', '-', '-'], ['-', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+1
+[['work-station', '-', '-', '-'], ['2 student', '-', '-', '-'], ['3 student', '-', '-', '-']]
+1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['-', '-', '-', '-']]
+1
+[['work-station', '-', '-', 'student'], ['-', '-', '-', '-'], ['3 student', '-', '-', '-']]
+1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['-', '-', '-', '-']]
+1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'student'], ['-', '-', 'student', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['work-station', '-', '-', '-'], ['-', '-', 'student', '-'], ['-', '-', '-', '-']]
+1
+[['work-station', '-', '-', '-'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['work-station', '-', '-', 'student'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'student'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['work-station', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '3 student', 'student'], ['3 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '2 student', 'student'], ['2 student', '-', 'student', '3 student'], ['3 student', '-', 'work-station', '-']]
+-1
+[['work-station', '-', '-', '3 student'], ['2 student', 'work-station', 'student', '-'], ['3 student', '-', 'student', '2 student']]
+-1
+[['2 student', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['work-station', '-', '2 student', '-']]
+-1
+[['3 student', '-', 'work-station', 'student'], ['2 student', 'work-station', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'other', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', '3 student', '-'], ['3 student', '-', 'student', '2 student']]
+-1
+[['-', '-', '2 student', 'student'], ['2 student', '-', 'student', '-'], ['2 student', '-', 'student', '-']]
+-1
+[['-', '-', '-', 'student'], ['3 student', '-', 'student', '-'], ['3 student', '-', 'student', '2 student']]
+-1
+[['-', '-', '2 student', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '2 student', 'student', '-']]
+-1
+[['-', '2 student', '-', '3 student'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['station', '-', 'student', '-']]
+-1
+[['work-station', 'student', '-', '-'], ['2 student', '-', 'student', '-'], ['3 student', 'work-station', 'student', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'work-station', '-'], ['3 student', '-', 'work-station', '-']]
+-1
+[['work-station', '-', '3 student', '-'], ['2 student', '-', 'student', '3 student'], ['3 student', '-', 'student', '-']]
+-1
+[['3 student', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '2 student', '-'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '2 student']]
+-1
+[['work-station', '-', 'other', '-'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '3 student', '-', 'student'], ['-', 'work-station', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '3 student', '-', 'student'], ['-', '-', 'student', '3 student'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['3 student', '-', 'work-station', 'student']]
+-1
+[['work-station', '3 student', '-', 'student'], ['-', '-', 'work-station', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', '3 student', '-'], ['3 student', '-', 'student', 'work-station']]
+-1
+[['work-station', '-', '-', 'student'], ['-', 'chemistry lab', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '2 student', 'student'], ['work-station', '-', '-', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['3 student', '-', '2 student', 'work-station']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', 'student'], ['work-station', '-', 'student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['3 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', 'work-station'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', 'set', '-', 'student'], ['2 student', '-', '-', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '2 student', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', '2 student', '-']]
+-1
+[['work-station', '2 student', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', 'work-station', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['work-station', '-', 'student', '-'], ['-', 'work-station', 'student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'work-station', '-'], ['work-station', '-', 'student', '-']]
+-1
+[['2 student', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', 'student', '2 student']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', 'other'], ['-', '-', 'student', '-']]
+-1
+[['work-station', '2 student', '3 student', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', '2 student'], ['2 student', '-', 'student', '-'], ['student', '-', '-', '-']]
+-1
+[['3 student', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '-', '3 student'], ['2 student', '-', 'student', '-'], ['3 student', '-', '-', 'student']]
+-1
+[['work-station', '3 student', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', 'work-station', '-', '-']]
+-1
+[['set', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+-1
+[['-', '2 student', '-', 'student'], ['2 student', '-', 'student', '-'], ['2 student', '-', '-', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '3 student'], ['3 student', '-', '-', '2 student']]
+-1
+[['-', '-', '3 student', 'student'], ['2 student', '-', '3 student', '-'], ['3 student', '-', '-', '-']]
+-1
+[['-', '-', '-', '3 student'], ['2 student', '-', 'student', '-'], ['student', '-', '-', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '2 student', '-', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['3 student', '-', '-', 'station']]
+-1
+[['student', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', 'work-station', 'student', '-'], ['3 student', '-', '-', 'work-station']]
+-1
+[['work-station', '-', '-', '2 student'], ['2 student', '-', 'student', '-'], ['2 student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'student', 'work-station'], ['3 student', '2 student', '-', '-']]
+-1
+[['work-station', '-', 'student', '-'], ['2 student', '-', 'student', '-'], ['3 student', '-', 'student', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['chemistry lab', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '3 student', 'student', '-'], ['3 student', 'student', '-', '-']]
+-1
+[['work-station', '-', '3 student', 'student'], ['-', '-', 'student', 'work-station'], ['3 student', '-', '-', '-']]
+-1
+[['3 student', '-', '-', 'student'], ['-', '-', 'student', 'work-station'], ['3 student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', 'work-station', 'student', '-'], ['student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['work-station', '-', 'student', '-'], ['work-station', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'other'], ['-', '-', 'student', '-'], ['3 student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', '2 student'], ['2 student', '-', '-', '-'], ['3 student', '-', '-', '2 student']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', 'student', '-', '-'], ['student', '-', '-', '-']]
+-1
+[['work-station', '-', '3 student', 'student'], ['3 student', '-', '-', '-'], ['3 student', '-', '-', '-']]
+-1
+[['work-station', '-', '2 student', 'student'], ['2 student', '-', '-', '-'], ['3 student', 'work-station', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['2 student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'set'], ['2 student', '-', '-', '-'], ['3 student', '-', '-', '-']]
+-1
+[['2 student', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', '2 student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'work-station', '-'], ['-', '-', '2 student', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['work-station', '-', '-', '2 student']]
+-1
+[['work-station', '-', '-', '2 student'], ['2 student', '-', 'student', '-'], ['-', '2 student', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', 'work-station', 'student', '-'], ['-', 'student', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', 'station', 'student', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', '-', 'student']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['2 student', '-', '-', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '2 student', '-', '-']]
+-1
+[['-', '-', '-', '2 student'], ['2 student', '-', 'student', '-'], ['-', '-', '-', '-']]
+-1
+[['2 student', '-', '-', 'student'], ['2 student', '-', 'student', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['-', '2 student', '-', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', '-', 'student', '-'], ['-', '-', '2 student', '-']]
+-1
+[['work-station', 'student', '-', '-'], ['2 student', '-', 'student', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', 'work-station', 'student', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', '-'], ['work-station', '-', 'student', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['work-station', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['-', '-', '-', 'student']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['-', 'work-station', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', 'student', '-'], ['student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', 'work-station', 'student', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', 'work-station', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['-', 'work-station', '-', '-']]
+-1
+[['work-station', '-', '2 student', 'student'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['-', '-', 'work-station', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['-', '-', '-', 'work-station']]
+-1
+[['-', '-', '-', '2 student'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['-', '-', '-', 'student']]
+-1
+[['-', '-', '-', 'student'], ['2 student', 'student', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['2 student', '-', '-', '-']]
+-1
+[['-', '-', '-', 'student'], ['2 student', '-', '-', '-'], ['-', 'student', '-', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', '-', '-', '-'], ['2 student', '-', '-', '-']]
+-1
+[['work-station', '-', '2 student', '-'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '2 student', '-', '-'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', '-'], ['2 student', '-', '-', '-'], ['-', '-', 'work-station', '-']]
+-1
+[['2 student', '-', '-', '-'], ['2 student', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', '-', '-'], ['-', 'student', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', '-', '-'], ['student', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', '-', '-'], ['-', 'work-station', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['work-station', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['work-station', '-', '-', 'student'], ['-', '-', '-', '-'], ['-', '-', '-', 'student']]

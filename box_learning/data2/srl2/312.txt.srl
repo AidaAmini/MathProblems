@@ -1,0 +1,12 @@
+have ARG0 Jackie
+have ARG1 coffee that sells for 9 dollars per pound and coffee that sells for 4 dollars per pound
+sell ARG1 coffee that sells for 9 dollars per pound and coffee that sells for 4 dollars per pound
+sell ARG3 9 dollars per pound
+sell ARG1 and coffee that sells for 4 dollars per pound
+sell ARG3 4 dollars per pound
+
+mix PNC to get 20 pounds of coffee that sells for 8.25 dollars per pound.
+get ARG1 20 pounds of coffee that sells for 8.25 dollars per pound.
+sell ARG1 coffee that sells for 8.25 dollars per pound.
+sell ARG3 8.25 dollars per pound.
+

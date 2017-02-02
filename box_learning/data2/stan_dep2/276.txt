@@ -1,0 +1,57 @@
+(ROOT
+  (S
+    (NP (NNP Norbert))
+    (VP
+      (VBD sold)
+      (NP (CD 23) (NNS books))
+      (PP (IN on) (NP (NNP Thursday)))
+      (PP (IN for) (NP (DT a) (JJ certain) (NN price))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (PP (IN On) (NP (NNP Friday)))
+      (, ,)
+      (NP (PRP he))
+      (VP
+        (VBD sold)
+        (NP
+          (NP (CD 35))
+          (PP (IN of) (NP (DT the) (JJ same) (NNS books))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (PRP he))
+      (VP
+        (VBD charged)
+        (PP
+          (ADVP (NP (CD 0.50) (NNS dollars)) (RBR less))
+          (IN per)
+          (NP (NN book)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBD made)
+      (NP (CD 490.00) (NNS dollars))
+      (PP (IN in) (NP (NN total))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VP
+        (VBD did)
+        (NP (DT the) (NN book) (NN sell))
+        (PP (IN for) (PP (IN on) (NP (NNP Thursday))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VP
+        (VBD did)
+        (NP (DT the) (NN book) (NN sell))
+        (PP (IN for) (PP (IN on) (NP (NNP Friday))))))
+    (. ?)))

@@ -1,0 +1,66 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN owner))
+      (PP
+        (IN of)
+        (NP (NP (DT the) (JJS Most) (JJ Amazing)) (NP (NNP Circus)))))
+    (VP
+      (VBD was)
+      (VP
+        (VBG counting)
+        (NP (DT the) (NN money))
+        (PP
+          (IN from)
+          (NP
+            (NP (CD one) (NN day) (POS 's))
+            (NN ticket)
+            (NNS sales)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP
+      (VBD knew)
+      (SBAR
+        (IN that)
+        (S
+          (NP (QP (DT a) (NN total) (IN of) (CD 522)) (NNS tickets))
+          (VP (VBD were) (VP (VBN sold))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (JJ Adult) (NNS tickets))
+      (VP (VBD cost) (NP (CD 15) (NNS dollars)) (NP (DT each))))
+    (CC and)
+    (S
+      (NP (NP (NNS children) (POS 's)) (NNS tickets))
+      (VP (VBD cost) (NP (CD 8) (NNS dollars)) (NP (DT each))))
+    (. .)))
+(ROOT
+  (FRAG
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (JJ total) (NNS receipts))
+          (PP (IN for) (NP (DT the) (NN day))))
+        (VP
+          (VBD were)
+          (NP (CD 5086.00) (NNS dollars))
+          (, ,)
+          (SBAR
+            (WHADJP (WRB how) (JJ many))
+            (S
+              (NP (JJ adult) (NNS tickets))
+              (VP (VBD were) (VP (VBN sold))))))))
+    (. ?)))
+(ROOT
+  (FRAG
+    (SBARQ
+      (WHNP
+        (WHADJP (WRB How) (JJ many))
+        (NP (NNS children) (POS 's))
+        (NNS tickets))
+      (. ?))))

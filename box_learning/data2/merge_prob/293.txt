@@ -1,0 +1,70 @@
+['11 animal', 'barnyard', 'chicken', '38 leg', 'chicken and cow']
+['11 animal']	['barnyard']	0.0774561735493
+['11 animal']	['chicken']	0.100696756518
+['11 animal']	['38 leg']	0.0901100077042
+['11 animal']	['chicken and cow']	0.0908034291173
+['barnyard']	['chicken']	0.0908262014664
+['barnyard']	['38 leg']	0.0663445115919
+['barnyard']	['chicken and cow']	0.080802298149
+['chicken']	['38 leg']	0.0946073395521
+['38 leg']	['chicken and cow']	0.0941266761548
+['barnyard', '11 animal']	['chicken']	0.211136417077
+['barnyard', '11 animal']	['38 leg']	0.0696933362217
+['barnyard', '11 animal']	['chicken and cow']	0.080802298149
+['chicken', '11 animal']	['barnyard']	0.16455527002
+['chicken', '11 animal']	['38 leg']	0.0939298741501
+['chicken', '11 animal']	['chicken and cow']	0.39432853221
+['38 leg', '11 animal']	['barnyard']	0.0774561735493
+['38 leg', '11 animal']	['chicken']	0.10397274702
+['38 leg', '11 animal']	['chicken and cow']	0.0908034291173
+['chicken and cow', '11 animal']	['barnyard']	0.146533383972
+['chicken and cow', '11 animal']	['chicken']	0.447736368868
+['chicken and cow', '11 animal']	['38 leg']	0.15961386663
+['11 animal', 'barnyard']	['chicken']	0.211136417077
+['11 animal', 'barnyard']	['38 leg']	0.0696933362217
+['11 animal', 'barnyard']	['chicken and cow']	0.080802298149
+['chicken', 'barnyard']	['11 animal']	0.174138467195
+['chicken', 'barnyard']	['38 leg']	0.150580022418
+['chicken', 'barnyard']	['chicken and cow']	0.426979476612
+['38 leg', 'barnyard']	['11 animal']	0.0696933362217
+['38 leg', 'barnyard']	['chicken']	0.212834681352
+['38 leg', 'barnyard']	['chicken and cow']	0.080802298149
+['chicken and cow', 'barnyard']	['11 animal']	0.0696933362217
+['chicken and cow', 'barnyard']	['chicken']	0.421856412173
+['chicken and cow', 'barnyard']	['38 leg']	0.0696933362217
+['11 animal', 'chicken']	['barnyard']	0.16455527002
+['11 animal', 'chicken']	['38 leg']	0.0939298741501
+['11 animal', 'chicken']	['chicken and cow']	0.39432853221
+['barnyard', 'chicken']	['11 animal']	0.174138467195
+['barnyard', 'chicken']	['38 leg']	0.150580022418
+['barnyard', 'chicken']	['chicken and cow']	0.426979476612
+['38 leg', 'chicken']	['11 animal']	0.103222748661
+['38 leg', 'chicken']	['barnyard']	0.180082849884
+['38 leg', 'chicken']	['chicken and cow']	0.39432853221
+['chicken and cow', 'chicken']	['11 animal']	0.105691884463
+['chicken and cow', 'chicken']	['barnyard']	0.129612176111
+['chicken and cow', 'chicken']	['38 leg']	0.0963990099525
+['11 animal', '38 leg']	['barnyard']	0.0774561735493
+['11 animal', '38 leg']	['chicken']	0.10397274702
+['11 animal', '38 leg']	['chicken and cow']	0.0908034291173
+['barnyard', '38 leg']	['11 animal']	0.0696933362217
+['barnyard', '38 leg']	['chicken']	0.212834681352
+['barnyard', '38 leg']	['chicken and cow']	0.080802298149
+['chicken', '38 leg']	['11 animal']	0.103222748661
+['chicken', '38 leg']	['barnyard']	0.180082849884
+['chicken', '38 leg']	['chicken and cow']	0.39432853221
+['chicken and cow', '38 leg']	['11 animal']	0.152238479479
+['chicken and cow', '38 leg']	['barnyard']	0.146533383972
+['chicken and cow', '38 leg']	['chicken']	0.445096312845
+['11 animal', 'chicken and cow']	['barnyard']	0.146533383972
+['11 animal', 'chicken and cow']	['chicken']	0.447736368868
+['11 animal', 'chicken and cow']	['38 leg']	0.15961386663
+['barnyard', 'chicken and cow']	['11 animal']	0.0696933362217
+['barnyard', 'chicken and cow']	['chicken']	0.421856412173
+['barnyard', 'chicken and cow']	['38 leg']	0.0696933362217
+['chicken', 'chicken and cow']	['11 animal']	0.105691884463
+['chicken', 'chicken and cow']	['barnyard']	0.129612176111
+['chicken', 'chicken and cow']	['38 leg']	0.0963990099525
+['38 leg', 'chicken and cow']	['11 animal']	0.152238479479
+['38 leg', 'chicken and cow']	['barnyard']	0.146533383972
+['38 leg', 'chicken and cow']	['chicken']	0.445096312845

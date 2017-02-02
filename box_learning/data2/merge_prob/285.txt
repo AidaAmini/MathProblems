@@ -1,0 +1,1382 @@
+['two airplane', 'same airport', 'airport', 'opposite direction', 'direction', 'airplane average', '400 mile', 'hour', 'mile', '250 mile', 'distance', '1625 mile']
+['two airplane']	['same airport']	0.0827346205535
+['two airplane']	['airport']	0.0777864840342
+['two airplane']	['opposite direction']	0.0827346205535
+['two airplane']	['direction']	0.0854506877194
+['two airplane']	['airplane average']	0.0827346205535
+['two airplane']	['400 mile']	0.0901100077042
+['two airplane']	['hour']	0.00542020684774
+['two airplane']	['mile']	0.00542020684774
+['two airplane']	['250 mile']	0.0901100077042
+['two airplane']	['distance']	0.0854506877194
+['two airplane']	['1625 mile']	0.0901100077042
+['same airport']	['opposite direction']	0.116204410215
+['same airport']	['direction']	0.0777864840342
+['same airport']	['airplane average']	0.0827346205535
+['same airport']	['400 mile']	0.0901100077042
+['same airport']	['hour']	0.00542020684774
+['same airport']	['mile']	0.00542020684774
+['same airport']	['250 mile']	0.0901100077042
+['same airport']	['distance']	0.0744376594044
+['same airport']	['1625 mile']	0.0901100077042
+['airport']	['opposite direction']	0.0827346205535
+['airport']	['direction']	0.0983431326709
+['airport']	['airplane average']	0.0827346205535
+['airport']	['400 mile']	0.0827346205535
+['airport']	['hour']	0.0114890909589
+['airport']	['mile']	0.0114890909589
+['airport']	['250 mile']	0.0827346205535
+['airport']	['distance']	0.138145848335
+['airport']	['1625 mile']	0.0827346205535
+['opposite direction']	['airplane average']	0.0827346205535
+['opposite direction']	['400 mile']	0.0901100077042
+['opposite direction']	['hour']	0.00424649792755
+['opposite direction']	['mile']	0.00424649792755
+['opposite direction']	['250 mile']	0.0901100077042
+['opposite direction']	['distance']	0.150291470448
+['opposite direction']	['1625 mile']	0.0901100077042
+['direction']	['airplane average']	0.0816612840118
+['direction']	['400 mile']	0.0793857959237
+['direction']	['hour']	0.0162282525636
+['direction']	['mile']	0.0162282525636
+['direction']	['250 mile']	0.0793857959237
+['direction']	['distance']	0.154812515002
+['direction']	['1625 mile']	0.0793857959237
+['airplane average']	['400 mile']	0.0901100077042
+['airplane average']	['hour']	0.0077840051964
+['airplane average']	['mile']	0.00424649792755
+['airplane average']	['250 mile']	0.0901100077042
+['airplane average']	['distance']	0.0888375395985
+['airplane average']	['1625 mile']	0.0901100077042
+['400 mile']	['hour']	0.00424649792755
+['400 mile']	['250 mile']	0.643440930505
+['400 mile']	['distance']	0.076067179124
+['400 mile']	['1625 mile']	0.643440930505
+['hour']	['mile']	0.134654763022
+['hour']	['250 mile']	0.00424565569655
+['hour']	['distance']	0.0153256521479
+['hour']	['1625 mile']	0.00424565569655
+['mile']	['distance']	0.0253064392051
+['250 mile']	['distance']	0.076067179124
+['250 mile']	['1625 mile']	0.643440930505
+['distance']	['1625 mile']	0.0816612840118
+['same airport', 'two airplane']	['airport']	0.67378781024
+['same airport', 'two airplane']	['opposite direction']	0.114574890496
+['same airport', 'two airplane']	['direction']	0.0777864840342
+['same airport', 'two airplane']	['airplane average']	0.0827346205535
+['same airport', 'two airplane']	['400 mile']	0.0901100077042
+['same airport', 'two airplane']	['hour']	0.00542020684774
+['same airport', 'two airplane']	['mile']	0.00542020684774
+['same airport', 'two airplane']	['250 mile']	0.0901100077042
+['same airport', 'two airplane']	['distance']	0.0777864840342
+['same airport', 'two airplane']	['1625 mile']	0.0901100077042
+['airport', 'two airplane']	['same airport']	0.765711026696
+['airport', 'two airplane']	['opposite direction']	0.0827346205535
+['airport', 'two airplane']	['direction']	0.174413450128
+['airport', 'two airplane']	['airplane average']	0.0827346205535
+['airport', 'two airplane']	['400 mile']	0.0827346205535
+['airport', 'two airplane']	['hour']	0.0304883359442
+['airport', 'two airplane']	['mile']	0.0304883359442
+['airport', 'two airplane']	['250 mile']	0.0827346205535
+['airport', 'two airplane']	['distance']	0.73449442605
+['airport', 'two airplane']	['1625 mile']	0.0827346205535
+['opposite direction', 'two airplane']	['same airport']	0.114574890496
+['opposite direction', 'two airplane']	['airport']	0.0777864840342
+['opposite direction', 'two airplane']	['direction']	0.611028180006
+['opposite direction', 'two airplane']	['airplane average']	0.0827346205535
+['opposite direction', 'two airplane']	['400 mile']	0.0901100077042
+['opposite direction', 'two airplane']	['hour']	0.00424649792755
+['opposite direction', 'two airplane']	['mile']	0.00424649792755
+['opposite direction', 'two airplane']	['250 mile']	0.0901100077042
+['opposite direction', 'two airplane']	['distance']	0.168541743585
+['opposite direction', 'two airplane']	['1625 mile']	0.0901100077042
+['direction', 'two airplane']	['same airport']	0.0827346205535
+['direction', 'two airplane']	['airport']	0.169023424553
+['direction', 'two airplane']	['opposite direction']	0.71455110167
+['direction', 'two airplane']	['airplane average']	0.0819994954072
+['direction', 'two airplane']	['400 mile']	0.0827346205535
+['direction', 'two airplane']	['hour']	0.196566782805
+['direction', 'two airplane']	['mile']	0.201869813108
+['direction', 'two airplane']	['250 mile']	0.0827346205535
+['direction', 'two airplane']	['distance']	0.73449442605
+['direction', 'two airplane']	['1625 mile']	0.0827346205535
+['airplane average', 'two airplane']	['same airport']	0.0827346205535
+['airplane average', 'two airplane']	['airport']	0.0777864840342
+['airplane average', 'two airplane']	['opposite direction']	0.0827346205535
+['airplane average', 'two airplane']	['direction']	0.0744376594044
+['airplane average', 'two airplane']	['400 mile']	0.0901100077042
+['airplane average', 'two airplane']	['hour']	0.0077840051964
+['airplane average', 'two airplane']	['mile']	0.00424649792755
+['airplane average', 'two airplane']	['250 mile']	0.0901100077042
+['airplane average', 'two airplane']	['distance']	0.0854506877194
+['airplane average', 'two airplane']	['1625 mile']	0.0901100077042
+['400 mile', 'two airplane']	['same airport']	0.0827346205535
+['400 mile', 'two airplane']	['airport']	0.0777864840342
+['400 mile', 'two airplane']	['opposite direction']	0.0827346205535
+['400 mile', 'two airplane']	['direction']	0.0777864840342
+['400 mile', 'two airplane']	['airplane average']	0.0827346205535
+['400 mile', 'two airplane']	['hour']	0.00424649792755
+['400 mile', 'two airplane']	['mile']	0.215014190399
+['400 mile', 'two airplane']	['250 mile']	0.584269096576
+['400 mile', 'two airplane']	['distance']	0.0744376594044
+['400 mile', 'two airplane']	['1625 mile']	0.584269096576
+['hour', 'two airplane']	['same airport']	0.0165341599722
+['hour', 'two airplane']	['airport']	0.0429154860797
+['hour', 'two airplane']	['opposite direction']	0.0154105889865
+['hour', 'two airplane']	['direction']	0.267097798944
+['hour', 'two airplane']	['airplane average']	0.0221369896995
+['hour', 'two airplane']	['400 mile']	0.0160064194205
+['hour', 'two airplane']	['mile']	0.347998066748
+['hour', 'two airplane']	['250 mile']	0.0160064194205
+['hour', 'two airplane']	['distance']	0.0783887210383
+['hour', 'two airplane']	['1625 mile']	0.0160064194205
+['mile', 'two airplane']	['same airport']	0.0165341599722
+['mile', 'two airplane']	['airport']	0.0429154860797
+['mile', 'two airplane']	['opposite direction']	0.015360451052
+['mile', 'two airplane']	['direction']	0.276766857956
+['mile', 'two airplane']	['airplane average']	0.015360451052
+['mile', 'two airplane']	['400 mile']	0.299367977552
+['mile', 'two airplane']	['hour']	0.347998066748
+['mile', 'two airplane']	['250 mile']	0.299367977552
+['mile', 'two airplane']	['distance']	0.18943764297
+['mile', 'two airplane']	['1625 mile']	0.380321401688
+['250 mile', 'two airplane']	['same airport']	0.0827346205535
+['250 mile', 'two airplane']	['airport']	0.0777864840342
+['250 mile', 'two airplane']	['opposite direction']	0.0827346205535
+['250 mile', 'two airplane']	['direction']	0.0777864840342
+['250 mile', 'two airplane']	['airplane average']	0.0827346205535
+['250 mile', 'two airplane']	['400 mile']	0.584269096576
+['250 mile', 'two airplane']	['hour']	0.00424649792755
+['250 mile', 'two airplane']	['mile']	0.215014190399
+['250 mile', 'two airplane']	['distance']	0.0744376594044
+['250 mile', 'two airplane']	['1625 mile']	0.584269096576
+['distance', 'two airplane']	['same airport']	0.0827346205535
+['distance', 'two airplane']	['airport']	0.729104400475
+['distance', 'two airplane']	['opposite direction']	0.146731135372
+['distance', 'two airplane']	['direction']	0.73449442605
+['distance', 'two airplane']	['airplane average']	0.0827346205535
+['distance', 'two airplane']	['400 mile']	0.0833805889219
+['distance', 'two airplane']	['hour']	0.0943583678839
+['distance', 'two airplane']	['mile']	0.166682719672
+['distance', 'two airplane']	['250 mile']	0.0833805889219
+['distance', 'two airplane']	['1625 mile']	0.0833805889219
+['1625 mile', 'two airplane']	['same airport']	0.0827346205535
+['1625 mile', 'two airplane']	['airport']	0.0777864840342
+['1625 mile', 'two airplane']	['opposite direction']	0.0827346205535
+['1625 mile', 'two airplane']	['direction']	0.0777864840342
+['1625 mile', 'two airplane']	['airplane average']	0.0827346205535
+['1625 mile', 'two airplane']	['400 mile']	0.584269096576
+['1625 mile', 'two airplane']	['hour']	0.00424649792755
+['1625 mile', 'two airplane']	['mile']	0.265381505022
+['1625 mile', 'two airplane']	['250 mile']	0.584269096576
+['1625 mile', 'two airplane']	['distance']	0.0744376594044
+['two airplane', 'same airport']	['airport']	0.67378781024
+['two airplane', 'same airport']	['opposite direction']	0.114574890496
+['two airplane', 'same airport']	['direction']	0.0777864840342
+['two airplane', 'same airport']	['airplane average']	0.0827346205535
+['two airplane', 'same airport']	['400 mile']	0.0901100077042
+['two airplane', 'same airport']	['hour']	0.00542020684774
+['two airplane', 'same airport']	['mile']	0.00542020684774
+['two airplane', 'same airport']	['250 mile']	0.0901100077042
+['two airplane', 'same airport']	['distance']	0.0777864840342
+['two airplane', 'same airport']	['1625 mile']	0.0901100077042
+['airport', 'same airport']	['two airplane']	0.153587928078
+['airport', 'same airport']	['opposite direction']	0.255963859585
+['airport', 'same airport']	['direction']	0.387143601718
+['airport', 'same airport']	['airplane average']	0.153587928078
+['airport', 'same airport']	['400 mile']	0.14589133531
+['airport', 'same airport']	['hour']	0.126186051528
+['airport', 'same airport']	['mile']	0.126186051528
+['airport', 'same airport']	['250 mile']	0.14589133531
+['airport', 'same airport']	['distance']	0.742235441968
+['airport', 'same airport']	['1625 mile']	0.14589133531
+['opposite direction', 'same airport']	['two airplane']	0.0827346205535
+['opposite direction', 'same airport']	['airport']	0.655605992058
+['opposite direction', 'same airport']	['direction']	0.609298680331
+['opposite direction', 'same airport']	['airplane average']	0.0827346205535
+['opposite direction', 'same airport']	['400 mile']	0.0901100077042
+['opposite direction', 'same airport']	['hour']	0.00424649792755
+['opposite direction', 'same airport']	['mile']	0.00424649792755
+['opposite direction', 'same airport']	['250 mile']	0.0901100077042
+['opposite direction', 'same airport']	['distance']	0.177092701503
+['opposite direction', 'same airport']	['1625 mile']	0.0901100077042
+['direction', 'same airport']	['two airplane']	0.0827346205535
+['direction', 'same airport']	['airport']	0.778253655208
+['direction', 'same airport']	['opposite direction']	0.746548792275
+['direction', 'same airport']	['airplane average']	0.0800317642921
+['direction', 'same airport']	['400 mile']	0.0827346205535
+['direction', 'same airport']	['hour']	0.196566782805
+['direction', 'same airport']	['mile']	0.201869813108
+['direction', 'same airport']	['250 mile']	0.0827346205535
+['direction', 'same airport']	['distance']	0.688867881699
+['direction', 'same airport']	['1625 mile']	0.0827346205535
+['airplane average', 'same airport']	['two airplane']	0.0827346205535
+['airplane average', 'same airport']	['airport']	0.643786940986
+['airplane average', 'same airport']	['opposite direction']	0.114574890496
+['airplane average', 'same airport']	['direction']	0.0744376594044
+['airplane average', 'same airport']	['400 mile']	0.0901100077042
+['airplane average', 'same airport']	['hour']	0.0077840051964
+['airplane average', 'same airport']	['mile']	0.00424649792755
+['airplane average', 'same airport']	['250 mile']	0.0901100077042
+['airplane average', 'same airport']	['distance']	0.0777864840342
+['airplane average', 'same airport']	['1625 mile']	0.0901100077042
+['400 mile', 'same airport']	['two airplane']	0.0827346205535
+['400 mile', 'same airport']	['airport']	0.66161692102
+['400 mile', 'same airport']	['opposite direction']	0.114574890496
+['400 mile', 'same airport']	['direction']	0.0744376594044
+['400 mile', 'same airport']	['airplane average']	0.0827346205535
+['400 mile', 'same airport']	['hour']	0.00424649792755
+['400 mile', 'same airport']	['mile']	0.236839587224
+['400 mile', 'same airport']	['250 mile']	0.584269096576
+['400 mile', 'same airport']	['distance']	0.0744376594044
+['400 mile', 'same airport']	['1625 mile']	0.584269096576
+['hour', 'same airport']	['two airplane']	0.0165341599722
+['hour', 'same airport']	['airport']	0.423757749824
+['hour', 'same airport']	['opposite direction']	0.0241946307602
+['hour', 'same airport']	['direction']	0.241171873018
+['hour', 'same airport']	['airplane average']	0.0221369896995
+['hour', 'same airport']	['400 mile']	0.0160064194205
+['hour', 'same airport']	['mile']	0.372998066748
+['hour', 'same airport']	['250 mile']	0.0160064194205
+['hour', 'same airport']	['distance']	0.110531578181
+['hour', 'same airport']	['1625 mile']	0.0160064194205
+['mile', 'same airport']	['two airplane']	0.0165341599722
+['mile', 'same airport']	['airport']	0.423757749824
+['mile', 'same airport']	['opposite direction']	0.0221369896995
+['mile', 'same airport']	['direction']	0.25084093203
+['mile', 'same airport']	['airplane average']	0.015360451052
+['mile', 'same airport']	['400 mile']	0.299367977552
+['mile', 'same airport']	['hour']	0.372998066748
+['mile', 'same airport']	['250 mile']	0.299367977552
+['mile', 'same airport']	['distance']	0.254913833446
+['mile', 'same airport']	['1625 mile']	0.380321401688
+['250 mile', 'same airport']	['two airplane']	0.0827346205535
+['250 mile', 'same airport']	['airport']	0.66161692102
+['250 mile', 'same airport']	['opposite direction']	0.114574890496
+['250 mile', 'same airport']	['direction']	0.0744376594044
+['250 mile', 'same airport']	['airplane average']	0.0827346205535
+['250 mile', 'same airport']	['400 mile']	0.584269096576
+['250 mile', 'same airport']	['hour']	0.00424649792755
+['250 mile', 'same airport']	['mile']	0.236839587224
+['250 mile', 'same airport']	['distance']	0.0744376594044
+['250 mile', 'same airport']	['1625 mile']	0.584269096576
+['distance', 'same airport']	['two airplane']	0.0827346205535
+['distance', 'same airport']	['airport']	0.819647132036
+['distance', 'same airport']	['opposite direction']	0.141254961626
+['distance', 'same airport']	['direction']	0.691555330668
+['distance', 'same airport']	['airplane average']	0.0827346205535
+['distance', 'same airport']	['400 mile']	0.0833805889219
+['distance', 'same airport']	['hour']	0.0943583678839
+['distance', 'same airport']	['mile']	0.166682719672
+['distance', 'same airport']	['250 mile']	0.0833805889219
+['distance', 'same airport']	['1625 mile']	0.0833805889219
+['1625 mile', 'same airport']	['two airplane']	0.0827346205535
+['1625 mile', 'same airport']	['airport']	0.66161692102
+['1625 mile', 'same airport']	['opposite direction']	0.114574890496
+['1625 mile', 'same airport']	['direction']	0.0744376594044
+['1625 mile', 'same airport']	['airplane average']	0.0827346205535
+['1625 mile', 'same airport']	['400 mile']	0.584269096576
+['1625 mile', 'same airport']	['hour']	0.00424649792755
+['1625 mile', 'same airport']	['mile']	0.265381505022
+['1625 mile', 'same airport']	['250 mile']	0.584269096576
+['1625 mile', 'same airport']	['distance']	0.0744376594044
+['two airplane', 'airport']	['same airport']	0.765711026696
+['two airplane', 'airport']	['opposite direction']	0.0827346205535
+['two airplane', 'airport']	['direction']	0.174413450128
+['two airplane', 'airport']	['airplane average']	0.0827346205535
+['two airplane', 'airport']	['400 mile']	0.0827346205535
+['two airplane', 'airport']	['hour']	0.0304883359442
+['two airplane', 'airport']	['mile']	0.0304883359442
+['two airplane', 'airport']	['250 mile']	0.0827346205535
+['two airplane', 'airport']	['distance']	0.73449442605
+['two airplane', 'airport']	['1625 mile']	0.0827346205535
+['same airport', 'airport']	['two airplane']	0.153587928078
+['same airport', 'airport']	['opposite direction']	0.255963859585
+['same airport', 'airport']	['direction']	0.387143601718
+['same airport', 'airport']	['airplane average']	0.153587928078
+['same airport', 'airport']	['400 mile']	0.14589133531
+['same airport', 'airport']	['hour']	0.126186051528
+['same airport', 'airport']	['mile']	0.126186051528
+['same airport', 'airport']	['250 mile']	0.14589133531
+['same airport', 'airport']	['distance']	0.742235441968
+['same airport', 'airport']	['1625 mile']	0.14589133531
+['opposite direction', 'airport']	['two airplane']	0.0827346205535
+['opposite direction', 'airport']	['same airport']	0.778686954004
+['opposite direction', 'airport']	['direction']	0.660792954934
+['opposite direction', 'airport']	['airplane average']	0.0827346205535
+['opposite direction', 'airport']	['400 mile']	0.0827346205535
+['opposite direction', 'airport']	['hour']	0.0704883359442
+['opposite direction', 'airport']	['mile']	0.0504883359442
+['opposite direction', 'airport']	['250 mile']	0.0827346205535
+['opposite direction', 'airport']	['distance']	0.885263226733
+['opposite direction', 'airport']	['1625 mile']	0.0827346205535
+['direction', 'airport']	['two airplane']	0.0827346205535
+['direction', 'airport']	['same airport']	0.736248267233
+['direction', 'airport']	['opposite direction']	0.698405976017
+['direction', 'airport']	['airplane average']	0.0800317642921
+['direction', 'airport']	['400 mile']	0.0827346205535
+['direction', 'airport']	['hour']	0.194388601452
+['direction', 'airport']	['mile']	0.178479510543
+['direction', 'airport']	['250 mile']	0.0827346205535
+['direction', 'airport']	['distance']	0.138145848335
+['direction', 'airport']	['1625 mile']	0.0827346205535
+['airplane average', 'airport']	['two airplane']	0.0827346205535
+['airplane average', 'airport']	['same airport']	0.747881046661
+['airplane average', 'airport']	['opposite direction']	0.0827346205535
+['airplane average', 'airport']	['direction']	0.200637452976
+['airplane average', 'airport']	['400 mile']	0.0827346205535
+['airplane average', 'airport']	['hour']	0.0517870372429
+['airplane average', 'airport']	['mile']	0.0304883359442
+['airplane average', 'airport']	['250 mile']	0.0827346205535
+['airplane average', 'airport']	['distance']	0.713160711734
+['airplane average', 'airport']	['1625 mile']	0.0827346205535
+['400 mile', 'airport']	['two airplane']	0.0827346205535
+['400 mile', 'airport']	['same airport']	0.73617814811
+['400 mile', 'airport']	['opposite direction']	0.0827346205535
+['400 mile', 'airport']	['direction']	0.197817457066
+['400 mile', 'airport']	['airplane average']	0.0827346205535
+['400 mile', 'airport']	['hour']	0.0704883359442
+['400 mile', 'airport']	['mile']	0.426944739602
+['400 mile', 'airport']	['250 mile']	0.573408386835
+['400 mile', 'airport']	['distance']	0.735486028367
+['400 mile', 'airport']	['1625 mile']	0.573408386835
+['hour', 'airport']	['two airplane']	0.0165341599722
+['hour', 'airport']	['same airport']	0.363503374833
+['hour', 'airport']	['opposite direction']	0.0154105889865
+['hour', 'airport']	['direction']	0.197153034288
+['hour', 'airport']	['airplane average']	0.0221369896995
+['hour', 'airport']	['400 mile']	0.0160064194205
+['hour', 'airport']	['mile']	0.295246743997
+['hour', 'airport']	['250 mile']	0.0160064194205
+['hour', 'airport']	['distance']	0.115649864358
+['hour', 'airport']	['1625 mile']	0.0160064194205
+['mile', 'airport']	['two airplane']	0.0165341599722
+['mile', 'airport']	['same airport']	0.363503374833
+['mile', 'airport']	['opposite direction']	0.015360451052
+['mile', 'airport']	['direction']	0.206822093299
+['mile', 'airport']	['airplane average']	0.015360451052
+['mile', 'airport']	['400 mile']	0.332721804216
+['mile', 'airport']	['hour']	0.295246743997
+['mile', 'airport']	['250 mile']	0.332721804216
+['mile', 'airport']	['distance']	0.0710617238598
+['mile', 'airport']	['1625 mile']	0.391849831526
+['250 mile', 'airport']	['two airplane']	0.0827346205535
+['250 mile', 'airport']	['same airport']	0.73617814811
+['250 mile', 'airport']	['opposite direction']	0.0827346205535
+['250 mile', 'airport']	['direction']	0.197817457066
+['250 mile', 'airport']	['airplane average']	0.0827346205535
+['250 mile', 'airport']	['400 mile']	0.573408386835
+['250 mile', 'airport']	['hour']	0.0704883359442
+['250 mile', 'airport']	['mile']	0.426944739602
+['250 mile', 'airport']	['distance']	0.735486028367
+['250 mile', 'airport']	['1625 mile']	0.573408386835
+['distance', 'airport']	['two airplane']	0.0827346205535
+['distance', 'airport']	['same airport']	0.768592498298
+['distance', 'airport']	['opposite direction']	0.146731135372
+['distance', 'airport']	['direction']	0.569462419567
+['distance', 'airport']	['airplane average']	0.0827346205535
+['distance', 'airport']	['400 mile']	0.0800317642921
+['distance', 'airport']	['hour']	0.0317953268257
+['distance', 'airport']	['mile']	0.0321211221273
+['distance', 'airport']	['250 mile']	0.0800317642921
+['distance', 'airport']	['1625 mile']	0.0800317642921
+['1625 mile', 'airport']	['two airplane']	0.0827346205535
+['1625 mile', 'airport']	['same airport']	0.73617814811
+['1625 mile', 'airport']	['opposite direction']	0.0827346205535
+['1625 mile', 'airport']	['direction']	0.197817457066
+['1625 mile', 'airport']	['airplane average']	0.0827346205535
+['1625 mile', 'airport']	['400 mile']	0.573408386835
+['1625 mile', 'airport']	['hour']	0.0704883359442
+['1625 mile', 'airport']	['mile']	0.487463569376
+['1625 mile', 'airport']	['250 mile']	0.573408386835
+['1625 mile', 'airport']	['distance']	0.735486028367
+['two airplane', 'opposite direction']	['same airport']	0.114574890496
+['two airplane', 'opposite direction']	['airport']	0.0777864840342
+['two airplane', 'opposite direction']	['direction']	0.611028180006
+['two airplane', 'opposite direction']	['airplane average']	0.0827346205535
+['two airplane', 'opposite direction']	['400 mile']	0.0901100077042
+['two airplane', 'opposite direction']	['hour']	0.00424649792755
+['two airplane', 'opposite direction']	['mile']	0.00424649792755
+['two airplane', 'opposite direction']	['250 mile']	0.0901100077042
+['two airplane', 'opposite direction']	['distance']	0.168541743585
+['two airplane', 'opposite direction']	['1625 mile']	0.0901100077042
+['same airport', 'opposite direction']	['two airplane']	0.0827346205535
+['same airport', 'opposite direction']	['airport']	0.655605992058
+['same airport', 'opposite direction']	['direction']	0.609298680331
+['same airport', 'opposite direction']	['airplane average']	0.0827346205535
+['same airport', 'opposite direction']	['400 mile']	0.0901100077042
+['same airport', 'opposite direction']	['hour']	0.00424649792755
+['same airport', 'opposite direction']	['mile']	0.00424649792755
+['same airport', 'opposite direction']	['250 mile']	0.0901100077042
+['same airport', 'opposite direction']	['distance']	0.177092701503
+['same airport', 'opposite direction']	['1625 mile']	0.0901100077042
+['airport', 'opposite direction']	['two airplane']	0.0827346205535
+['airport', 'opposite direction']	['same airport']	0.778686954004
+['airport', 'opposite direction']	['direction']	0.660792954934
+['airport', 'opposite direction']	['airplane average']	0.0827346205535
+['airport', 'opposite direction']	['400 mile']	0.0827346205535
+['airport', 'opposite direction']	['hour']	0.0704883359442
+['airport', 'opposite direction']	['mile']	0.0504883359442
+['airport', 'opposite direction']	['250 mile']	0.0827346205535
+['airport', 'opposite direction']	['distance']	0.885263226733
+['airport', 'opposite direction']	['1625 mile']	0.0827346205535
+['direction', 'opposite direction']	['two airplane']	0.194061013895
+['direction', 'opposite direction']	['same airport']	0.255963859585
+['direction', 'opposite direction']	['airport']	0.387143601718
+['direction', 'opposite direction']	['airplane average']	0.235828704155
+['direction', 'opposite direction']	['400 mile']	0.237223524492
+['direction', 'opposite direction']	['hour']	0.452038163277
+['direction', 'opposite direction']	['mile']	0.322817384056
+['direction', 'opposite direction']	['250 mile']	0.237223524492
+['direction', 'opposite direction']	['distance']	0.902087724802
+['direction', 'opposite direction']	['1625 mile']	0.237223524492
+['airplane average', 'opposite direction']	['two airplane']	0.0827346205535
+['airplane average', 'opposite direction']	['same airport']	0.114574890496
+['airplane average', 'opposite direction']	['airport']	0.0777864840342
+['airplane average', 'opposite direction']	['direction']	0.689644934024
+['airplane average', 'opposite direction']	['400 mile']	0.0901100077042
+['airplane average', 'opposite direction']	['hour']	0.0077840051964
+['airplane average', 'opposite direction']	['mile']	0.00424649792755
+['airplane average', 'opposite direction']	['250 mile']	0.0901100077042
+['airplane average', 'opposite direction']	['distance']	0.15456816635
+['airplane average', 'opposite direction']	['1625 mile']	0.0901100077042
+['400 mile', 'opposite direction']	['two airplane']	0.0827346205535
+['400 mile', 'opposite direction']	['same airport']	0.114574890496
+['400 mile', 'opposite direction']	['airport']	0.0777864840342
+['400 mile', 'opposite direction']	['direction']	0.612081485761
+['400 mile', 'opposite direction']	['airplane average']	0.0827346205535
+['400 mile', 'opposite direction']	['hour']	0.00424649792755
+['400 mile', 'opposite direction']	['mile']	0.24945929496
+['400 mile', 'opposite direction']	['250 mile']	0.584269096576
+['400 mile', 'opposite direction']	['distance']	0.170171263305
+['400 mile', 'opposite direction']	['1625 mile']	0.584269096576
+['hour', 'opposite direction']	['two airplane']	0.015360451052
+['hour', 'opposite direction']	['same airport']	0.0221369896995
+['hour', 'opposite direction']	['airport']	0.0429154860797
+['hour', 'opposite direction']	['direction']	0.45686296046
+['hour', 'opposite direction']	['airplane average']	0.0221369896995
+['hour', 'opposite direction']	['400 mile']	0.0160064194205
+['hour', 'opposite direction']	['mile']	0.386622405372
+['hour', 'opposite direction']	['250 mile']	0.0160064194205
+['hour', 'opposite direction']	['distance']	0.205089438391
+['hour', 'opposite direction']	['1625 mile']	0.0160064194205
+['mile', 'opposite direction']	['two airplane']	0.015360451052
+['mile', 'opposite direction']	['same airport']	0.0221369896995
+['mile', 'opposite direction']	['airport']	0.0429154860797
+['mile', 'opposite direction']	['direction']	0.461724071571
+['mile', 'opposite direction']	['airplane average']	0.015360451052
+['mile', 'opposite direction']	['400 mile']	0.299367977552
+['mile', 'opposite direction']	['hour']	0.487812881563
+['mile', 'opposite direction']	['250 mile']	0.299367977552
+['mile', 'opposite direction']	['distance']	0.391124434659
+['mile', 'opposite direction']	['1625 mile']	0.380321401688
+['250 mile', 'opposite direction']	['two airplane']	0.0827346205535
+['250 mile', 'opposite direction']	['same airport']	0.114574890496
+['250 mile', 'opposite direction']	['airport']	0.0777864840342
+['250 mile', 'opposite direction']	['direction']	0.612081485761
+['250 mile', 'opposite direction']	['airplane average']	0.0827346205535
+['250 mile', 'opposite direction']	['400 mile']	0.584269096576
+['250 mile', 'opposite direction']	['hour']	0.00424649792755
+['250 mile', 'opposite direction']	['mile']	0.24945929496
+['250 mile', 'opposite direction']	['distance']	0.170171263305
+['250 mile', 'opposite direction']	['1625 mile']	0.584269096576
+['distance', 'opposite direction']	['two airplane']	0.0827346205535
+['distance', 'opposite direction']	['same airport']	0.112105754693
+['distance', 'opposite direction']	['airport']	0.691555330668
+['distance', 'opposite direction']	['direction']	0.828820608949
+['distance', 'opposite direction']	['airplane average']	0.0827346205535
+['distance', 'opposite direction']	['400 mile']	0.0833805889219
+['distance', 'opposite direction']	['hour']	0.127691701217
+['distance', 'opposite direction']	['mile']	0.232158910148
+['distance', 'opposite direction']	['250 mile']	0.0833805889219
+['distance', 'opposite direction']	['1625 mile']	0.0833805889219
+['1625 mile', 'opposite direction']	['two airplane']	0.0827346205535
+['1625 mile', 'opposite direction']	['same airport']	0.114574890496
+['1625 mile', 'opposite direction']	['airport']	0.0777864840342
+['1625 mile', 'opposite direction']	['direction']	0.612081485761
+['1625 mile', 'opposite direction']	['airplane average']	0.0827346205535
+['1625 mile', 'opposite direction']	['400 mile']	0.584269096576
+['1625 mile', 'opposite direction']	['hour']	0.00424649792755
+['1625 mile', 'opposite direction']	['mile']	0.34291890153
+['1625 mile', 'opposite direction']	['250 mile']	0.584269096576
+['1625 mile', 'opposite direction']	['distance']	0.170171263305
+['two airplane', 'direction']	['same airport']	0.0827346205535
+['two airplane', 'direction']	['airport']	0.169023424553
+['two airplane', 'direction']	['opposite direction']	0.71455110167
+['two airplane', 'direction']	['airplane average']	0.0819994954072
+['two airplane', 'direction']	['400 mile']	0.0827346205535
+['two airplane', 'direction']	['hour']	0.196566782805
+['two airplane', 'direction']	['mile']	0.201869813108
+['two airplane', 'direction']	['250 mile']	0.0827346205535
+['two airplane', 'direction']	['distance']	0.73449442605
+['two airplane', 'direction']	['1625 mile']	0.0827346205535
+['same airport', 'direction']	['two airplane']	0.0827346205535
+['same airport', 'direction']	['airport']	0.778253655208
+['same airport', 'direction']	['opposite direction']	0.746548792275
+['same airport', 'direction']	['airplane average']	0.0800317642921
+['same airport', 'direction']	['400 mile']	0.0827346205535
+['same airport', 'direction']	['hour']	0.196566782805
+['same airport', 'direction']	['mile']	0.201869813108
+['same airport', 'direction']	['250 mile']	0.0827346205535
+['same airport', 'direction']	['distance']	0.688867881699
+['same airport', 'direction']	['1625 mile']	0.0827346205535
+['airport', 'direction']	['two airplane']	0.0827346205535
+['airport', 'direction']	['same airport']	0.736248267233
+['airport', 'direction']	['opposite direction']	0.698405976017
+['airport', 'direction']	['airplane average']	0.0800317642921
+['airport', 'direction']	['400 mile']	0.0827346205535
+['airport', 'direction']	['hour']	0.194388601452
+['airport', 'direction']	['mile']	0.178479510543
+['airport', 'direction']	['250 mile']	0.0827346205535
+['airport', 'direction']	['distance']	0.138145848335
+['airport', 'direction']	['1625 mile']	0.0827346205535
+['opposite direction', 'direction']	['two airplane']	0.194061013895
+['opposite direction', 'direction']	['same airport']	0.255963859585
+['opposite direction', 'direction']	['airport']	0.387143601718
+['opposite direction', 'direction']	['airplane average']	0.235828704155
+['opposite direction', 'direction']	['400 mile']	0.237223524492
+['opposite direction', 'direction']	['hour']	0.452038163277
+['opposite direction', 'direction']	['mile']	0.322817384056
+['opposite direction', 'direction']	['250 mile']	0.237223524492
+['opposite direction', 'direction']	['distance']	0.902087724802
+['opposite direction', 'direction']	['1625 mile']	0.237223524492
+['airplane average', 'direction']	['two airplane']	0.0827346205535
+['airplane average', 'direction']	['same airport']	0.0827346205535
+['airplane average', 'direction']	['airport']	0.177800302008
+['airplane average', 'direction']	['opposite direction']	0.708250423327
+['airplane average', 'direction']	['400 mile']	0.0827346205535
+['airplane average', 'direction']	['hour']	0.339953026192
+['airplane average', 'direction']	['mile']	0.182160818399
+['airplane average', 'direction']	['250 mile']	0.0827346205535
+['airplane average', 'direction']	['distance']	0.713160711734
+['airplane average', 'direction']	['1625 mile']	0.0827346205535
+['400 mile', 'direction']	['two airplane']	0.0827346205535
+['400 mile', 'direction']	['same airport']	0.0827346205535
+['400 mile', 'direction']	['airport']	0.174413450128
+['400 mile', 'direction']	['opposite direction']	0.707594685938
+['400 mile', 'direction']	['airplane average']	0.0833805889219
+['400 mile', 'direction']	['hour']	0.278048264287
+['400 mile', 'direction']	['mile']	0.437704929861
+['400 mile', 'direction']	['250 mile']	0.538007739106
+['400 mile', 'direction']	['distance']	0.735486028367
+['400 mile', 'direction']	['1625 mile']	0.538007739106
+['hour', 'direction']	['two airplane']	0.0165341599722
+['hour', 'direction']	['same airport']	0.015360451052
+['hour', 'direction']	['airport']	0.0420647362788
+['hour', 'direction']	['opposite direction']	0.328825920404
+['hour', 'direction']	['airplane average']	0.0241946307602
+['hour', 'direction']	['400 mile']	0.0160064194205
+['hour', 'direction']	['mile']	0.181980652857
+['hour', 'direction']	['250 mile']	0.0160064194205
+['hour', 'direction']	['distance']	0.148983197691
+['hour', 'direction']	['1625 mile']	0.0160064194205
+['mile', 'direction']	['two airplane']	0.0165341599722
+['mile', 'direction']	['same airport']	0.015360451052
+['mile', 'direction']	['airport']	0.0420647362788
+['mile', 'direction']	['opposite direction']	0.32092543129
+['mile', 'direction']	['airplane average']	0.0160064194205
+['mile', 'direction']	['400 mile']	0.313917110354
+['mile', 'direction']	['hour']	0.181980652857
+['mile', 'direction']	['250 mile']	0.313917110354
+['mile', 'direction']	['distance']	0.100407816364
+['mile', 'direction']	['1625 mile']	0.425413806829
+['250 mile', 'direction']	['two airplane']	0.0827346205535
+['250 mile', 'direction']	['same airport']	0.0827346205535
+['250 mile', 'direction']	['airport']	0.174413450128
+['250 mile', 'direction']	['opposite direction']	0.707594685938
+['250 mile', 'direction']	['airplane average']	0.0833805889219
+['250 mile', 'direction']	['400 mile']	0.538007739106
+['250 mile', 'direction']	['hour']	0.278048264287
+['250 mile', 'direction']	['mile']	0.437704929861
+['250 mile', 'direction']	['distance']	0.735486028367
+['250 mile', 'direction']	['1625 mile']	0.538007739106
+['distance', 'direction']	['two airplane']	0.0827346205535
+['distance', 'direction']	['same airport']	0.0827346205535
+['distance', 'direction']	['airport']	0.569462419567
+['distance', 'direction']	['opposite direction']	0.710744220118
+['distance', 'direction']	['airplane average']	0.0833805889219
+['distance', 'direction']	['400 mile']	0.0800317642921
+['distance', 'direction']	['hour']	0.0624369038133
+['distance', 'direction']	['mile']	0.0139094119839
+['distance', 'direction']	['250 mile']	0.0800317642921
+['distance', 'direction']	['1625 mile']	0.0800317642921
+['1625 mile', 'direction']	['two airplane']	0.0827346205535
+['1625 mile', 'direction']	['same airport']	0.0827346205535
+['1625 mile', 'direction']	['airport']	0.174413450128
+['1625 mile', 'direction']	['opposite direction']	0.707594685938
+['1625 mile', 'direction']	['airplane average']	0.0833805889219
+['1625 mile', 'direction']	['400 mile']	0.538007739106
+['1625 mile', 'direction']	['hour']	0.278048264287
+['1625 mile', 'direction']	['mile']	0.483488419499
+['1625 mile', 'direction']	['250 mile']	0.538007739106
+['1625 mile', 'direction']	['distance']	0.735486028367
+['two airplane', 'airplane average']	['same airport']	0.0827346205535
+['two airplane', 'airplane average']	['airport']	0.0777864840342
+['two airplane', 'airplane average']	['opposite direction']	0.0827346205535
+['two airplane', 'airplane average']	['direction']	0.0744376594044
+['two airplane', 'airplane average']	['400 mile']	0.0901100077042
+['two airplane', 'airplane average']	['hour']	0.0077840051964
+['two airplane', 'airplane average']	['mile']	0.00424649792755
+['two airplane', 'airplane average']	['250 mile']	0.0901100077042
+['two airplane', 'airplane average']	['distance']	0.0854506877194
+['two airplane', 'airplane average']	['1625 mile']	0.0901100077042
+['same airport', 'airplane average']	['two airplane']	0.0827346205535
+['same airport', 'airplane average']	['airport']	0.643786940986
+['same airport', 'airplane average']	['opposite direction']	0.114574890496
+['same airport', 'airplane average']	['direction']	0.0744376594044
+['same airport', 'airplane average']	['400 mile']	0.0901100077042
+['same airport', 'airplane average']	['hour']	0.0077840051964
+['same airport', 'airplane average']	['mile']	0.00424649792755
+['same airport', 'airplane average']	['250 mile']	0.0901100077042
+['same airport', 'airplane average']	['distance']	0.0777864840342
+['same airport', 'airplane average']	['1625 mile']	0.0901100077042
+['airport', 'airplane average']	['two airplane']	0.0827346205535
+['airport', 'airplane average']	['same airport']	0.747881046661
+['airport', 'airplane average']	['opposite direction']	0.0827346205535
+['airport', 'airplane average']	['direction']	0.200637452976
+['airport', 'airplane average']	['400 mile']	0.0827346205535
+['airport', 'airplane average']	['hour']	0.0517870372429
+['airport', 'airplane average']	['mile']	0.0304883359442
+['airport', 'airplane average']	['250 mile']	0.0827346205535
+['airport', 'airplane average']	['distance']	0.713160711734
+['airport', 'airplane average']	['1625 mile']	0.0827346205535
+['opposite direction', 'airplane average']	['two airplane']	0.0827346205535
+['opposite direction', 'airplane average']	['same airport']	0.114574890496
+['opposite direction', 'airplane average']	['airport']	0.0777864840342
+['opposite direction', 'airplane average']	['direction']	0.689644934024
+['opposite direction', 'airplane average']	['400 mile']	0.0901100077042
+['opposite direction', 'airplane average']	['hour']	0.0077840051964
+['opposite direction', 'airplane average']	['mile']	0.00424649792755
+['opposite direction', 'airplane average']	['250 mile']	0.0901100077042
+['opposite direction', 'airplane average']	['distance']	0.15456816635
+['opposite direction', 'airplane average']	['1625 mile']	0.0901100077042
+['direction', 'airplane average']	['two airplane']	0.0827346205535
+['direction', 'airplane average']	['same airport']	0.0827346205535
+['direction', 'airplane average']	['airport']	0.177800302008
+['direction', 'airplane average']	['opposite direction']	0.708250423327
+['direction', 'airplane average']	['400 mile']	0.0827346205535
+['direction', 'airplane average']	['hour']	0.339953026192
+['direction', 'airplane average']	['mile']	0.182160818399
+['direction', 'airplane average']	['250 mile']	0.0827346205535
+['direction', 'airplane average']	['distance']	0.713160711734
+['direction', 'airplane average']	['1625 mile']	0.0827346205535
+['400 mile', 'airplane average']	['two airplane']	0.0827346205535
+['400 mile', 'airplane average']	['same airport']	0.0827346205535
+['400 mile', 'airplane average']	['airport']	0.0854506877194
+['400 mile', 'airplane average']	['opposite direction']	0.0827346205535
+['400 mile', 'airplane average']	['direction']	0.0744376594044
+['400 mile', 'airplane average']	['hour']	0.0077840051964
+['400 mile', 'airplane average']	['mile']	0.24945929496
+['400 mile', 'airplane average']	['250 mile']	0.584269096576
+['400 mile', 'airplane average']	['distance']	0.0777864840342
+['400 mile', 'airplane average']	['1625 mile']	0.584269096576
+['hour', 'airplane average']	['two airplane']	0.0165341599722
+['hour', 'airplane average']	['same airport']	0.0165341599722
+['hour', 'airplane average']	['airport']	0.0420647362788
+['hour', 'airplane average']	['opposite direction']	0.0154105889865
+['hour', 'airplane average']	['direction']	0.313645193797
+['hour', 'airplane average']	['400 mile']	0.0160064194205
+['hour', 'airplane average']	['mile']	0.353289072039
+['hour', 'airplane average']	['250 mile']	0.0160064194205
+['hour', 'airplane average']	['distance']	0.0784207936363
+['hour', 'airplane average']	['1625 mile']	0.0160064194205
+['mile', 'airplane average']	['two airplane']	0.0165341599722
+['mile', 'airplane average']	['same airport']	0.0165341599722
+['mile', 'airplane average']	['airport']	0.0420647362788
+['mile', 'airplane average']	['opposite direction']	0.015360451052
+['mile', 'airplane average']	['direction']	0.323314252808
+['mile', 'airplane average']	['400 mile']	0.299367977552
+['mile', 'airplane average']	['hour']	0.487812881563
+['mile', 'airplane average']	['250 mile']	0.299367977552
+['mile', 'airplane average']	['distance']	0.190675075298
+['mile', 'airplane average']	['1625 mile']	0.380321401688
+['250 mile', 'airplane average']	['two airplane']	0.0827346205535
+['250 mile', 'airplane average']	['same airport']	0.0827346205535
+['250 mile', 'airplane average']	['airport']	0.0854506877194
+['250 mile', 'airplane average']	['opposite direction']	0.0827346205535
+['250 mile', 'airplane average']	['direction']	0.0744376594044
+['250 mile', 'airplane average']	['400 mile']	0.584269096576
+['250 mile', 'airplane average']	['hour']	0.0077840051964
+['250 mile', 'airplane average']	['mile']	0.24945929496
+['250 mile', 'airplane average']	['distance']	0.0777864840342
+['250 mile', 'airplane average']	['1625 mile']	0.584269096576
+['distance', 'airplane average']	['two airplane']	0.0827346205535
+['distance', 'airplane average']	['same airport']	0.0827346205535
+['distance', 'airplane average']	['airport']	0.713160711734
+['distance', 'airplane average']	['opposite direction']	0.138180177454
+['distance', 'airplane average']	['direction']	0.735486028367
+['distance', 'airplane average']	['400 mile']	0.0833805889219
+['distance', 'airplane average']	['hour']	0.162323735849
+['distance', 'airplane average']	['mile']	0.232158910148
+['distance', 'airplane average']	['250 mile']	0.0833805889219
+['distance', 'airplane average']	['1625 mile']	0.0833805889219
+['1625 mile', 'airplane average']	['two airplane']	0.0827346205535
+['1625 mile', 'airplane average']	['same airport']	0.0827346205535
+['1625 mile', 'airplane average']	['airport']	0.0854506877194
+['1625 mile', 'airplane average']	['opposite direction']	0.0827346205535
+['1625 mile', 'airplane average']	['direction']	0.0744376594044
+['1625 mile', 'airplane average']	['400 mile']	0.584269096576
+['1625 mile', 'airplane average']	['hour']	0.0077840051964
+['1625 mile', 'airplane average']	['mile']	0.34291890153
+['1625 mile', 'airplane average']	['250 mile']	0.584269096576
+['1625 mile', 'airplane average']	['distance']	0.0777864840342
+['two airplane', '400 mile']	['same airport']	0.0827346205535
+['two airplane', '400 mile']	['airport']	0.0777864840342
+['two airplane', '400 mile']	['opposite direction']	0.0827346205535
+['two airplane', '400 mile']	['direction']	0.0777864840342
+['two airplane', '400 mile']	['airplane average']	0.0827346205535
+['two airplane', '400 mile']	['hour']	0.00424649792755
+['two airplane', '400 mile']	['mile']	0.215014190399
+['two airplane', '400 mile']	['250 mile']	0.584269096576
+['two airplane', '400 mile']	['distance']	0.0744376594044
+['two airplane', '400 mile']	['1625 mile']	0.584269096576
+['same airport', '400 mile']	['two airplane']	0.0827346205535
+['same airport', '400 mile']	['airport']	0.66161692102
+['same airport', '400 mile']	['opposite direction']	0.114574890496
+['same airport', '400 mile']	['direction']	0.0744376594044
+['same airport', '400 mile']	['airplane average']	0.0827346205535
+['same airport', '400 mile']	['hour']	0.00424649792755
+['same airport', '400 mile']	['mile']	0.236839587224
+['same airport', '400 mile']	['250 mile']	0.584269096576
+['same airport', '400 mile']	['distance']	0.0744376594044
+['same airport', '400 mile']	['1625 mile']	0.584269096576
+['airport', '400 mile']	['two airplane']	0.0827346205535
+['airport', '400 mile']	['same airport']	0.73617814811
+['airport', '400 mile']	['opposite direction']	0.0827346205535
+['airport', '400 mile']	['direction']	0.197817457066
+['airport', '400 mile']	['airplane average']	0.0827346205535
+['airport', '400 mile']	['hour']	0.0704883359442
+['airport', '400 mile']	['mile']	0.426944739602
+['airport', '400 mile']	['250 mile']	0.573408386835
+['airport', '400 mile']	['distance']	0.735486028367
+['airport', '400 mile']	['1625 mile']	0.573408386835
+['opposite direction', '400 mile']	['two airplane']	0.0827346205535
+['opposite direction', '400 mile']	['same airport']	0.114574890496
+['opposite direction', '400 mile']	['airport']	0.0777864840342
+['opposite direction', '400 mile']	['direction']	0.612081485761
+['opposite direction', '400 mile']	['airplane average']	0.0827346205535
+['opposite direction', '400 mile']	['hour']	0.00424649792755
+['opposite direction', '400 mile']	['mile']	0.24945929496
+['opposite direction', '400 mile']	['250 mile']	0.584269096576
+['opposite direction', '400 mile']	['distance']	0.170171263305
+['opposite direction', '400 mile']	['1625 mile']	0.584269096576
+['direction', '400 mile']	['two airplane']	0.0827346205535
+['direction', '400 mile']	['same airport']	0.0827346205535
+['direction', '400 mile']	['airport']	0.174413450128
+['direction', '400 mile']	['opposite direction']	0.707594685938
+['direction', '400 mile']	['airplane average']	0.0833805889219
+['direction', '400 mile']	['hour']	0.278048264287
+['direction', '400 mile']	['mile']	0.437704929861
+['direction', '400 mile']	['250 mile']	0.538007739106
+['direction', '400 mile']	['distance']	0.735486028367
+['direction', '400 mile']	['1625 mile']	0.538007739106
+['airplane average', '400 mile']	['two airplane']	0.0827346205535
+['airplane average', '400 mile']	['same airport']	0.0827346205535
+['airplane average', '400 mile']	['airport']	0.0854506877194
+['airplane average', '400 mile']	['opposite direction']	0.0827346205535
+['airplane average', '400 mile']	['direction']	0.0744376594044
+['airplane average', '400 mile']	['hour']	0.0077840051964
+['airplane average', '400 mile']	['mile']	0.24945929496
+['airplane average', '400 mile']	['250 mile']	0.584269096576
+['airplane average', '400 mile']	['distance']	0.0777864840342
+['airplane average', '400 mile']	['1625 mile']	0.584269096576
+['hour', '400 mile']	['two airplane']	0.0165341599722
+['hour', '400 mile']	['same airport']	0.0165341599722
+['hour', '400 mile']	['airport']	0.0429154860797
+['hour', '400 mile']	['opposite direction']	0.0154105889865
+['hour', '400 mile']	['direction']	0.275166582013
+['hour', '400 mile']	['airplane average']	0.0221369896995
+['hour', '400 mile']	['mile']	0.402392977393
+['hour', '400 mile']	['250 mile']	0.0852471420558
+['hour', '400 mile']	['distance']	0.113779695432
+['hour', '400 mile']	['1625 mile']	0.0852471420558
+['mile', '400 mile']	['two airplane']	0.0798131677782
+['mile', '400 mile']	['same airport']	0.0798131677782
+['mile', '400 mile']	['airport']	0.225366520387
+['mile', '400 mile']	['opposite direction']	0.11034390648
+['mile', '400 mile']	['direction']	0.391740428587
+['mile', '400 mile']	['airplane average']	0.0878776902641
+['mile', '400 mile']	['hour']	0.578571428571
+['mile', '400 mile']	['250 mile']	0.690954327877
+['mile', '400 mile']	['distance']	0.375373237206
+['mile', '400 mile']	['1625 mile']	0.732805939382
+['250 mile', '400 mile']	['two airplane']	0.139258682248
+['250 mile', '400 mile']	['same airport']	0.139258682248
+['250 mile', '400 mile']	['airport']	0.339720112713
+['250 mile', '400 mile']	['opposite direction']	0.139258682248
+['250 mile', '400 mile']	['direction']	0.360804929274
+['250 mile', '400 mile']	['airplane average']	0.139258682248
+['250 mile', '400 mile']	['hour']	0.156901862603
+['250 mile', '400 mile']	['mile']	0.704916484513
+['250 mile', '400 mile']	['distance']	0.406458874406
+['250 mile', '400 mile']	['1625 mile']	0.637144068101
+['distance', '400 mile']	['two airplane']	0.0827346205535
+['distance', '400 mile']	['same airport']	0.0827346205535
+['distance', '400 mile']	['airport']	0.73449442605
+['distance', '400 mile']	['opposite direction']	0.124206600218
+['distance', '400 mile']	['direction']	0.722201215033
+['distance', '400 mile']	['airplane average']	0.0901100077042
+['distance', '400 mile']	['hour']	0.127691701217
+['distance', '400 mile']	['mile']	0.409133501289
+['distance', '400 mile']	['250 mile']	0.520866309821
+['distance', '400 mile']	['1625 mile']	0.520866309821
+['1625 mile', '400 mile']	['two airplane']	0.139258682248
+['1625 mile', '400 mile']	['same airport']	0.139258682248
+['1625 mile', '400 mile']	['airport']	0.339720112713
+['1625 mile', '400 mile']	['opposite direction']	0.139258682248
+['1625 mile', '400 mile']	['direction']	0.360804929274
+['1625 mile', '400 mile']	['airplane average']	0.139258682248
+['1625 mile', '400 mile']	['hour']	0.156901862603
+['1625 mile', '400 mile']	['mile']	0.707694262291
+['1625 mile', '400 mile']	['250 mile']	0.637144068101
+['1625 mile', '400 mile']	['distance']	0.406458874406
+['two airplane', 'hour']	['same airport']	0.0165341599722
+['two airplane', 'hour']	['airport']	0.0429154860797
+['two airplane', 'hour']	['opposite direction']	0.0154105889865
+['two airplane', 'hour']	['direction']	0.267097798944
+['two airplane', 'hour']	['airplane average']	0.0221369896995
+['two airplane', 'hour']	['400 mile']	0.0160064194205
+['two airplane', 'hour']	['mile']	0.347998066748
+['two airplane', 'hour']	['250 mile']	0.0160064194205
+['two airplane', 'hour']	['distance']	0.0783887210383
+['two airplane', 'hour']	['1625 mile']	0.0160064194205
+['same airport', 'hour']	['two airplane']	0.0165341599722
+['same airport', 'hour']	['airport']	0.423757749824
+['same airport', 'hour']	['opposite direction']	0.0241946307602
+['same airport', 'hour']	['direction']	0.241171873018
+['same airport', 'hour']	['airplane average']	0.0221369896995
+['same airport', 'hour']	['400 mile']	0.0160064194205
+['same airport', 'hour']	['mile']	0.372998066748
+['same airport', 'hour']	['250 mile']	0.0160064194205
+['same airport', 'hour']	['distance']	0.110531578181
+['same airport', 'hour']	['1625 mile']	0.0160064194205
+['airport', 'hour']	['two airplane']	0.0165341599722
+['airport', 'hour']	['same airport']	0.363503374833
+['airport', 'hour']	['opposite direction']	0.0154105889865
+['airport', 'hour']	['direction']	0.197153034288
+['airport', 'hour']	['airplane average']	0.0221369896995
+['airport', 'hour']	['400 mile']	0.0160064194205
+['airport', 'hour']	['mile']	0.295246743997
+['airport', 'hour']	['250 mile']	0.0160064194205
+['airport', 'hour']	['distance']	0.115649864358
+['airport', 'hour']	['1625 mile']	0.0160064194205
+['opposite direction', 'hour']	['two airplane']	0.015360451052
+['opposite direction', 'hour']	['same airport']	0.0221369896995
+['opposite direction', 'hour']	['airport']	0.0429154860797
+['opposite direction', 'hour']	['direction']	0.45686296046
+['opposite direction', 'hour']	['airplane average']	0.0221369896995
+['opposite direction', 'hour']	['400 mile']	0.0160064194205
+['opposite direction', 'hour']	['mile']	0.386622405372
+['opposite direction', 'hour']	['250 mile']	0.0160064194205
+['opposite direction', 'hour']	['distance']	0.205089438391
+['opposite direction', 'hour']	['1625 mile']	0.0160064194205
+['direction', 'hour']	['two airplane']	0.0165341599722
+['direction', 'hour']	['same airport']	0.015360451052
+['direction', 'hour']	['airport']	0.0420647362788
+['direction', 'hour']	['opposite direction']	0.328825920404
+['direction', 'hour']	['airplane average']	0.0241946307602
+['direction', 'hour']	['400 mile']	0.0160064194205
+['direction', 'hour']	['mile']	0.181980652857
+['direction', 'hour']	['250 mile']	0.0160064194205
+['direction', 'hour']	['distance']	0.148983197691
+['direction', 'hour']	['1625 mile']	0.0160064194205
+['airplane average', 'hour']	['two airplane']	0.0165341599722
+['airplane average', 'hour']	['same airport']	0.0165341599722
+['airplane average', 'hour']	['airport']	0.0420647362788
+['airplane average', 'hour']	['opposite direction']	0.0154105889865
+['airplane average', 'hour']	['direction']	0.313645193797
+['airplane average', 'hour']	['400 mile']	0.0160064194205
+['airplane average', 'hour']	['mile']	0.353289072039
+['airplane average', 'hour']	['250 mile']	0.0160064194205
+['airplane average', 'hour']	['distance']	0.0784207936363
+['airplane average', 'hour']	['1625 mile']	0.0160064194205
+['400 mile', 'hour']	['two airplane']	0.0165341599722
+['400 mile', 'hour']	['same airport']	0.0165341599722
+['400 mile', 'hour']	['airport']	0.0429154860797
+['400 mile', 'hour']	['opposite direction']	0.0154105889865
+['400 mile', 'hour']	['direction']	0.275166582013
+['400 mile', 'hour']	['airplane average']	0.0221369896995
+['400 mile', 'hour']	['mile']	0.402392977393
+['400 mile', 'hour']	['250 mile']	0.0852471420558
+['400 mile', 'hour']	['distance']	0.113779695432
+['400 mile', 'hour']	['1625 mile']	0.0852471420558
+['mile', 'hour']	['two airplane']	0.0713303637771
+['mile', 'hour']	['same airport']	0.0713303637771
+['mile', 'hour']	['airport']	0.0729874552622
+['mile', 'hour']	['opposite direction']	0.0701566548569
+['mile', 'hour']	['direction']	0.0799161064667
+['mile', 'hour']	['airplane average']	0.0714553561556
+['mile', 'hour']	['400 mile']	0.306554253166
+['mile', 'hour']	['250 mile']	0.306554253166
+['mile', 'hour']	['distance']	0.133640798819
+['mile', 'hour']	['1625 mile']	0.397746056993
+['250 mile', 'hour']	['two airplane']	0.0165341599722
+['250 mile', 'hour']	['same airport']	0.0165341599722
+['250 mile', 'hour']	['airport']	0.0429154860797
+['250 mile', 'hour']	['opposite direction']	0.0154105889865
+['250 mile', 'hour']	['direction']	0.275166582013
+['250 mile', 'hour']	['airplane average']	0.0221369896995
+['250 mile', 'hour']	['400 mile']	0.0852471420558
+['250 mile', 'hour']	['mile']	0.402392977393
+['250 mile', 'hour']	['distance']	0.113779695432
+['250 mile', 'hour']	['1625 mile']	0.0852471420558
+['distance', 'hour']	['two airplane']	0.0165341599722
+['distance', 'hour']	['same airport']	0.015360451052
+['distance', 'hour']	['airport']	0.231222360378
+['distance', 'hour']	['opposite direction']	0.0284996738107
+['distance', 'hour']	['direction']	0.0646688676026
+['distance', 'hour']	['airplane average']	0.0221369896995
+['distance', 'hour']	['400 mile']	0.0180640604812
+['distance', 'hour']	['mile']	0.179661812277
+['distance', 'hour']	['250 mile']	0.0180640604812
+['distance', 'hour']	['1625 mile']	0.0180640604812
+['1625 mile', 'hour']	['two airplane']	0.0165341599722
+['1625 mile', 'hour']	['same airport']	0.0165341599722
+['1625 mile', 'hour']	['airport']	0.0429154860797
+['1625 mile', 'hour']	['opposite direction']	0.0154105889865
+['1625 mile', 'hour']	['direction']	0.275166582013
+['1625 mile', 'hour']	['airplane average']	0.0221369896995
+['1625 mile', 'hour']	['400 mile']	0.0852471420558
+['1625 mile', 'hour']	['mile']	0.355423280423
+['1625 mile', 'hour']	['250 mile']	0.0852471420558
+['1625 mile', 'hour']	['distance']	0.113779695432
+['two airplane', 'mile']	['same airport']	0.0165341599722
+['two airplane', 'mile']	['airport']	0.0429154860797
+['two airplane', 'mile']	['opposite direction']	0.015360451052
+['two airplane', 'mile']	['direction']	0.276766857956
+['two airplane', 'mile']	['airplane average']	0.015360451052
+['two airplane', 'mile']	['400 mile']	0.299367977552
+['two airplane', 'mile']	['hour']	0.347998066748
+['two airplane', 'mile']	['250 mile']	0.299367977552
+['two airplane', 'mile']	['distance']	0.18943764297
+['two airplane', 'mile']	['1625 mile']	0.380321401688
+['same airport', 'mile']	['two airplane']	0.0165341599722
+['same airport', 'mile']	['airport']	0.423757749824
+['same airport', 'mile']	['opposite direction']	0.0221369896995
+['same airport', 'mile']	['direction']	0.25084093203
+['same airport', 'mile']	['airplane average']	0.015360451052
+['same airport', 'mile']	['400 mile']	0.299367977552
+['same airport', 'mile']	['hour']	0.372998066748
+['same airport', 'mile']	['250 mile']	0.299367977552
+['same airport', 'mile']	['distance']	0.254913833446
+['same airport', 'mile']	['1625 mile']	0.380321401688
+['airport', 'mile']	['two airplane']	0.0165341599722
+['airport', 'mile']	['same airport']	0.363503374833
+['airport', 'mile']	['opposite direction']	0.015360451052
+['airport', 'mile']	['direction']	0.206822093299
+['airport', 'mile']	['airplane average']	0.015360451052
+['airport', 'mile']	['400 mile']	0.332721804216
+['airport', 'mile']	['hour']	0.295246743997
+['airport', 'mile']	['250 mile']	0.332721804216
+['airport', 'mile']	['distance']	0.0710617238598
+['airport', 'mile']	['1625 mile']	0.391849831526
+['opposite direction', 'mile']	['two airplane']	0.015360451052
+['opposite direction', 'mile']	['same airport']	0.0221369896995
+['opposite direction', 'mile']	['airport']	0.0429154860797
+['opposite direction', 'mile']	['direction']	0.461724071571
+['opposite direction', 'mile']	['airplane average']	0.015360451052
+['opposite direction', 'mile']	['400 mile']	0.299367977552
+['opposite direction', 'mile']	['hour']	0.487812881563
+['opposite direction', 'mile']	['250 mile']	0.299367977552
+['opposite direction', 'mile']	['distance']	0.391124434659
+['opposite direction', 'mile']	['1625 mile']	0.380321401688
+['direction', 'mile']	['two airplane']	0.0165341599722
+['direction', 'mile']	['same airport']	0.015360451052
+['direction', 'mile']	['airport']	0.0420647362788
+['direction', 'mile']	['opposite direction']	0.32092543129
+['direction', 'mile']	['airplane average']	0.0160064194205
+['direction', 'mile']	['400 mile']	0.313917110354
+['direction', 'mile']	['hour']	0.181980652857
+['direction', 'mile']	['250 mile']	0.313917110354
+['direction', 'mile']	['distance']	0.100407816364
+['direction', 'mile']	['1625 mile']	0.425413806829
+['airplane average', 'mile']	['two airplane']	0.0165341599722
+['airplane average', 'mile']	['same airport']	0.0165341599722
+['airplane average', 'mile']	['airport']	0.0420647362788
+['airplane average', 'mile']	['opposite direction']	0.015360451052
+['airplane average', 'mile']	['direction']	0.323314252808
+['airplane average', 'mile']	['400 mile']	0.299367977552
+['airplane average', 'mile']	['hour']	0.487812881563
+['airplane average', 'mile']	['250 mile']	0.299367977552
+['airplane average', 'mile']	['distance']	0.190675075298
+['airplane average', 'mile']	['1625 mile']	0.380321401688
+['400 mile', 'mile']	['two airplane']	0.0798131677782
+['400 mile', 'mile']	['same airport']	0.0798131677782
+['400 mile', 'mile']	['airport']	0.225366520387
+['400 mile', 'mile']	['opposite direction']	0.11034390648
+['400 mile', 'mile']	['direction']	0.391740428587
+['400 mile', 'mile']	['airplane average']	0.0878776902641
+['400 mile', 'mile']	['hour']	0.578571428571
+['400 mile', 'mile']	['250 mile']	0.690954327877
+['400 mile', 'mile']	['distance']	0.375373237206
+['400 mile', 'mile']	['1625 mile']	0.732805939382
+['hour', 'mile']	['two airplane']	0.0713303637771
+['hour', 'mile']	['same airport']	0.0713303637771
+['hour', 'mile']	['airport']	0.0729874552622
+['hour', 'mile']	['opposite direction']	0.0701566548569
+['hour', 'mile']	['direction']	0.0799161064667
+['hour', 'mile']	['airplane average']	0.0714553561556
+['hour', 'mile']	['400 mile']	0.306554253166
+['hour', 'mile']	['250 mile']	0.306554253166
+['hour', 'mile']	['distance']	0.133640798819
+['hour', 'mile']	['1625 mile']	0.397746056993
+['250 mile', 'mile']	['two airplane']	0.0798131677782
+['250 mile', 'mile']	['same airport']	0.0798131677782
+['250 mile', 'mile']	['airport']	0.225366520387
+['250 mile', 'mile']	['opposite direction']	0.11034390648
+['250 mile', 'mile']	['direction']	0.391740428587
+['250 mile', 'mile']	['airplane average']	0.0878776902641
+['250 mile', 'mile']	['400 mile']	0.690954327877
+['250 mile', 'mile']	['hour']	0.578571428571
+['250 mile', 'mile']	['distance']	0.375373237206
+['250 mile', 'mile']	['1625 mile']	0.732805939382
+['distance', 'mile']	['two airplane']	0.0165341599722
+['distance', 'mile']	['same airport']	0.015360451052
+['distance', 'mile']	['airport']	0.25243448159
+['distance', 'mile']	['opposite direction']	0.0241946307602
+['distance', 'mile']	['direction']	0.0646688676026
+['distance', 'mile']	['airplane average']	0.015360451052
+['distance', 'mile']	['400 mile']	0.34302972068
+['distance', 'mile']	['hour']	0.188186813187
+['distance', 'mile']	['250 mile']	0.34302972068
+['distance', 'mile']	['1625 mile']	0.433314295943
+['1625 mile', 'mile']	['two airplane']	0.0798131677782
+['1625 mile', 'mile']	['same airport']	0.0798131677782
+['1625 mile', 'mile']	['airport']	0.225366520387
+['1625 mile', 'mile']	['opposite direction']	0.11034390648
+['1625 mile', 'mile']	['direction']	0.391740428587
+['1625 mile', 'mile']	['airplane average']	0.0878776902641
+['1625 mile', 'mile']	['400 mile']	0.690954327877
+['1625 mile', 'mile']	['hour']	0.578571428571
+['1625 mile', 'mile']	['250 mile']	0.690954327877
+['1625 mile', 'mile']	['distance']	0.375373237206
+['two airplane', '250 mile']	['same airport']	0.0827346205535
+['two airplane', '250 mile']	['airport']	0.0777864840342
+['two airplane', '250 mile']	['opposite direction']	0.0827346205535
+['two airplane', '250 mile']	['direction']	0.0777864840342
+['two airplane', '250 mile']	['airplane average']	0.0827346205535
+['two airplane', '250 mile']	['400 mile']	0.584269096576
+['two airplane', '250 mile']	['hour']	0.00424649792755
+['two airplane', '250 mile']	['mile']	0.215014190399
+['two airplane', '250 mile']	['distance']	0.0744376594044
+['two airplane', '250 mile']	['1625 mile']	0.584269096576
+['same airport', '250 mile']	['two airplane']	0.0827346205535
+['same airport', '250 mile']	['airport']	0.66161692102
+['same airport', '250 mile']	['opposite direction']	0.114574890496
+['same airport', '250 mile']	['direction']	0.0744376594044
+['same airport', '250 mile']	['airplane average']	0.0827346205535
+['same airport', '250 mile']	['400 mile']	0.584269096576
+['same airport', '250 mile']	['hour']	0.00424649792755
+['same airport', '250 mile']	['mile']	0.236839587224
+['same airport', '250 mile']	['distance']	0.0744376594044
+['same airport', '250 mile']	['1625 mile']	0.584269096576
+['airport', '250 mile']	['two airplane']	0.0827346205535
+['airport', '250 mile']	['same airport']	0.73617814811
+['airport', '250 mile']	['opposite direction']	0.0827346205535
+['airport', '250 mile']	['direction']	0.197817457066
+['airport', '250 mile']	['airplane average']	0.0827346205535
+['airport', '250 mile']	['400 mile']	0.573408386835
+['airport', '250 mile']	['hour']	0.0704883359442
+['airport', '250 mile']	['mile']	0.426944739602
+['airport', '250 mile']	['distance']	0.735486028367
+['airport', '250 mile']	['1625 mile']	0.573408386835
+['opposite direction', '250 mile']	['two airplane']	0.0827346205535
+['opposite direction', '250 mile']	['same airport']	0.114574890496
+['opposite direction', '250 mile']	['airport']	0.0777864840342
+['opposite direction', '250 mile']	['direction']	0.612081485761
+['opposite direction', '250 mile']	['airplane average']	0.0827346205535
+['opposite direction', '250 mile']	['400 mile']	0.584269096576
+['opposite direction', '250 mile']	['hour']	0.00424649792755
+['opposite direction', '250 mile']	['mile']	0.24945929496
+['opposite direction', '250 mile']	['distance']	0.170171263305
+['opposite direction', '250 mile']	['1625 mile']	0.584269096576
+['direction', '250 mile']	['two airplane']	0.0827346205535
+['direction', '250 mile']	['same airport']	0.0827346205535
+['direction', '250 mile']	['airport']	0.174413450128
+['direction', '250 mile']	['opposite direction']	0.707594685938
+['direction', '250 mile']	['airplane average']	0.0833805889219
+['direction', '250 mile']	['400 mile']	0.538007739106
+['direction', '250 mile']	['hour']	0.278048264287
+['direction', '250 mile']	['mile']	0.437704929861
+['direction', '250 mile']	['distance']	0.735486028367
+['direction', '250 mile']	['1625 mile']	0.538007739106
+['airplane average', '250 mile']	['two airplane']	0.0827346205535
+['airplane average', '250 mile']	['same airport']	0.0827346205535
+['airplane average', '250 mile']	['airport']	0.0854506877194
+['airplane average', '250 mile']	['opposite direction']	0.0827346205535
+['airplane average', '250 mile']	['direction']	0.0744376594044
+['airplane average', '250 mile']	['400 mile']	0.584269096576
+['airplane average', '250 mile']	['hour']	0.0077840051964
+['airplane average', '250 mile']	['mile']	0.24945929496
+['airplane average', '250 mile']	['distance']	0.0777864840342
+['airplane average', '250 mile']	['1625 mile']	0.584269096576
+['400 mile', '250 mile']	['two airplane']	0.139258682248
+['400 mile', '250 mile']	['same airport']	0.139258682248
+['400 mile', '250 mile']	['airport']	0.339720112713
+['400 mile', '250 mile']	['opposite direction']	0.139258682248
+['400 mile', '250 mile']	['direction']	0.360804929274
+['400 mile', '250 mile']	['airplane average']	0.139258682248
+['400 mile', '250 mile']	['hour']	0.156901862603
+['400 mile', '250 mile']	['mile']	0.704916484513
+['400 mile', '250 mile']	['distance']	0.406458874406
+['400 mile', '250 mile']	['1625 mile']	0.637144068101
+['hour', '250 mile']	['two airplane']	0.0165341599722
+['hour', '250 mile']	['same airport']	0.0165341599722
+['hour', '250 mile']	['airport']	0.0429154860797
+['hour', '250 mile']	['opposite direction']	0.0154105889865
+['hour', '250 mile']	['direction']	0.275166582013
+['hour', '250 mile']	['airplane average']	0.0221369896995
+['hour', '250 mile']	['400 mile']	0.0852471420558
+['hour', '250 mile']	['mile']	0.402392977393
+['hour', '250 mile']	['distance']	0.113779695432
+['hour', '250 mile']	['1625 mile']	0.0852471420558
+['mile', '250 mile']	['two airplane']	0.0798131677782
+['mile', '250 mile']	['same airport']	0.0798131677782
+['mile', '250 mile']	['airport']	0.225366520387
+['mile', '250 mile']	['opposite direction']	0.11034390648
+['mile', '250 mile']	['direction']	0.391740428587
+['mile', '250 mile']	['airplane average']	0.0878776902641
+['mile', '250 mile']	['400 mile']	0.690954327877
+['mile', '250 mile']	['hour']	0.578571428571
+['mile', '250 mile']	['distance']	0.375373237206
+['mile', '250 mile']	['1625 mile']	0.732805939382
+['distance', '250 mile']	['two airplane']	0.0827346205535
+['distance', '250 mile']	['same airport']	0.0827346205535
+['distance', '250 mile']	['airport']	0.73449442605
+['distance', '250 mile']	['opposite direction']	0.124206600218
+['distance', '250 mile']	['direction']	0.722201215033
+['distance', '250 mile']	['airplane average']	0.0901100077042
+['distance', '250 mile']	['400 mile']	0.520866309821
+['distance', '250 mile']	['hour']	0.127691701217
+['distance', '250 mile']	['mile']	0.409133501289
+['distance', '250 mile']	['1625 mile']	0.520866309821
+['1625 mile', '250 mile']	['two airplane']	0.139258682248
+['1625 mile', '250 mile']	['same airport']	0.139258682248
+['1625 mile', '250 mile']	['airport']	0.339720112713
+['1625 mile', '250 mile']	['opposite direction']	0.139258682248
+['1625 mile', '250 mile']	['direction']	0.360804929274
+['1625 mile', '250 mile']	['airplane average']	0.139258682248
+['1625 mile', '250 mile']	['400 mile']	0.637144068101
+['1625 mile', '250 mile']	['hour']	0.156901862603
+['1625 mile', '250 mile']	['mile']	0.707694262291
+['1625 mile', '250 mile']	['distance']	0.406458874406
+['two airplane', 'distance']	['same airport']	0.0827346205535
+['two airplane', 'distance']	['airport']	0.729104400475
+['two airplane', 'distance']	['opposite direction']	0.146731135372
+['two airplane', 'distance']	['direction']	0.73449442605
+['two airplane', 'distance']	['airplane average']	0.0827346205535
+['two airplane', 'distance']	['400 mile']	0.0833805889219
+['two airplane', 'distance']	['hour']	0.0943583678839
+['two airplane', 'distance']	['mile']	0.166682719672
+['two airplane', 'distance']	['250 mile']	0.0833805889219
+['two airplane', 'distance']	['1625 mile']	0.0833805889219
+['same airport', 'distance']	['two airplane']	0.0827346205535
+['same airport', 'distance']	['airport']	0.819647132036
+['same airport', 'distance']	['opposite direction']	0.141254961626
+['same airport', 'distance']	['direction']	0.691555330668
+['same airport', 'distance']	['airplane average']	0.0827346205535
+['same airport', 'distance']	['400 mile']	0.0833805889219
+['same airport', 'distance']	['hour']	0.0943583678839
+['same airport', 'distance']	['mile']	0.166682719672
+['same airport', 'distance']	['250 mile']	0.0833805889219
+['same airport', 'distance']	['1625 mile']	0.0833805889219
+['airport', 'distance']	['two airplane']	0.0827346205535
+['airport', 'distance']	['same airport']	0.768592498298
+['airport', 'distance']	['opposite direction']	0.146731135372
+['airport', 'distance']	['direction']	0.569462419567
+['airport', 'distance']	['airplane average']	0.0827346205535
+['airport', 'distance']	['400 mile']	0.0800317642921
+['airport', 'distance']	['hour']	0.0317953268257
+['airport', 'distance']	['mile']	0.0321211221273
+['airport', 'distance']	['250 mile']	0.0800317642921
+['airport', 'distance']	['1625 mile']	0.0800317642921
+['opposite direction', 'distance']	['two airplane']	0.0827346205535
+['opposite direction', 'distance']	['same airport']	0.112105754693
+['opposite direction', 'distance']	['airport']	0.691555330668
+['opposite direction', 'distance']	['direction']	0.828820608949
+['opposite direction', 'distance']	['airplane average']	0.0827346205535
+['opposite direction', 'distance']	['400 mile']	0.0833805889219
+['opposite direction', 'distance']	['hour']	0.127691701217
+['opposite direction', 'distance']	['mile']	0.232158910148
+['opposite direction', 'distance']	['250 mile']	0.0833805889219
+['opposite direction', 'distance']	['1625 mile']	0.0833805889219
+['direction', 'distance']	['two airplane']	0.0827346205535
+['direction', 'distance']	['same airport']	0.0827346205535
+['direction', 'distance']	['airport']	0.569462419567
+['direction', 'distance']	['opposite direction']	0.710744220118
+['direction', 'distance']	['airplane average']	0.0833805889219
+['direction', 'distance']	['400 mile']	0.0800317642921
+['direction', 'distance']	['hour']	0.0624369038133
+['direction', 'distance']	['mile']	0.0139094119839
+['direction', 'distance']	['250 mile']	0.0800317642921
+['direction', 'distance']	['1625 mile']	0.0800317642921
+['airplane average', 'distance']	['two airplane']	0.0827346205535
+['airplane average', 'distance']	['same airport']	0.0827346205535
+['airplane average', 'distance']	['airport']	0.713160711734
+['airplane average', 'distance']	['opposite direction']	0.138180177454
+['airplane average', 'distance']	['direction']	0.735486028367
+['airplane average', 'distance']	['400 mile']	0.0833805889219
+['airplane average', 'distance']	['hour']	0.162323735849
+['airplane average', 'distance']	['mile']	0.232158910148
+['airplane average', 'distance']	['250 mile']	0.0833805889219
+['airplane average', 'distance']	['1625 mile']	0.0833805889219
+['400 mile', 'distance']	['two airplane']	0.0827346205535
+['400 mile', 'distance']	['same airport']	0.0827346205535
+['400 mile', 'distance']	['airport']	0.73449442605
+['400 mile', 'distance']	['opposite direction']	0.124206600218
+['400 mile', 'distance']	['direction']	0.722201215033
+['400 mile', 'distance']	['airplane average']	0.0901100077042
+['400 mile', 'distance']	['hour']	0.127691701217
+['400 mile', 'distance']	['mile']	0.409133501289
+['400 mile', 'distance']	['250 mile']	0.520866309821
+['400 mile', 'distance']	['1625 mile']	0.520866309821
+['hour', 'distance']	['two airplane']	0.0165341599722
+['hour', 'distance']	['same airport']	0.015360451052
+['hour', 'distance']	['airport']	0.231222360378
+['hour', 'distance']	['opposite direction']	0.0284996738107
+['hour', 'distance']	['direction']	0.0646688676026
+['hour', 'distance']	['airplane average']	0.0221369896995
+['hour', 'distance']	['400 mile']	0.0180640604812
+['hour', 'distance']	['mile']	0.179661812277
+['hour', 'distance']	['250 mile']	0.0180640604812
+['hour', 'distance']	['1625 mile']	0.0180640604812
+['mile', 'distance']	['two airplane']	0.0165341599722
+['mile', 'distance']	['same airport']	0.015360451052
+['mile', 'distance']	['airport']	0.25243448159
+['mile', 'distance']	['opposite direction']	0.0241946307602
+['mile', 'distance']	['direction']	0.0646688676026
+['mile', 'distance']	['airplane average']	0.015360451052
+['mile', 'distance']	['400 mile']	0.34302972068
+['mile', 'distance']	['hour']	0.188186813187
+['mile', 'distance']	['250 mile']	0.34302972068
+['mile', 'distance']	['1625 mile']	0.433314295943
+['250 mile', 'distance']	['two airplane']	0.0827346205535
+['250 mile', 'distance']	['same airport']	0.0827346205535
+['250 mile', 'distance']	['airport']	0.73449442605
+['250 mile', 'distance']	['opposite direction']	0.124206600218
+['250 mile', 'distance']	['direction']	0.722201215033
+['250 mile', 'distance']	['airplane average']	0.0901100077042
+['250 mile', 'distance']	['400 mile']	0.520866309821
+['250 mile', 'distance']	['hour']	0.127691701217
+['250 mile', 'distance']	['mile']	0.409133501289
+['250 mile', 'distance']	['1625 mile']	0.520866309821
+['1625 mile', 'distance']	['two airplane']	0.0827346205535
+['1625 mile', 'distance']	['same airport']	0.0827346205535
+['1625 mile', 'distance']	['airport']	0.73449442605
+['1625 mile', 'distance']	['opposite direction']	0.124206600218
+['1625 mile', 'distance']	['direction']	0.722201215033
+['1625 mile', 'distance']	['airplane average']	0.0901100077042
+['1625 mile', 'distance']	['400 mile']	0.520866309821
+['1625 mile', 'distance']	['hour']	0.127691701217
+['1625 mile', 'distance']	['mile']	0.454916990928
+['1625 mile', 'distance']	['250 mile']	0.520866309821
+['two airplane', '1625 mile']	['same airport']	0.0827346205535
+['two airplane', '1625 mile']	['airport']	0.0777864840342
+['two airplane', '1625 mile']	['opposite direction']	0.0827346205535
+['two airplane', '1625 mile']	['direction']	0.0777864840342
+['two airplane', '1625 mile']	['airplane average']	0.0827346205535
+['two airplane', '1625 mile']	['400 mile']	0.584269096576
+['two airplane', '1625 mile']	['hour']	0.00424649792755
+['two airplane', '1625 mile']	['mile']	0.265381505022
+['two airplane', '1625 mile']	['250 mile']	0.584269096576
+['two airplane', '1625 mile']	['distance']	0.0744376594044
+['same airport', '1625 mile']	['two airplane']	0.0827346205535
+['same airport', '1625 mile']	['airport']	0.66161692102
+['same airport', '1625 mile']	['opposite direction']	0.114574890496
+['same airport', '1625 mile']	['direction']	0.0744376594044
+['same airport', '1625 mile']	['airplane average']	0.0827346205535
+['same airport', '1625 mile']	['400 mile']	0.584269096576
+['same airport', '1625 mile']	['hour']	0.00424649792755
+['same airport', '1625 mile']	['mile']	0.265381505022
+['same airport', '1625 mile']	['250 mile']	0.584269096576
+['same airport', '1625 mile']	['distance']	0.0744376594044
+['airport', '1625 mile']	['two airplane']	0.0827346205535
+['airport', '1625 mile']	['same airport']	0.73617814811
+['airport', '1625 mile']	['opposite direction']	0.0827346205535
+['airport', '1625 mile']	['direction']	0.197817457066
+['airport', '1625 mile']	['airplane average']	0.0827346205535
+['airport', '1625 mile']	['400 mile']	0.573408386835
+['airport', '1625 mile']	['hour']	0.0704883359442
+['airport', '1625 mile']	['mile']	0.487463569376
+['airport', '1625 mile']	['250 mile']	0.573408386835
+['airport', '1625 mile']	['distance']	0.735486028367
+['opposite direction', '1625 mile']	['two airplane']	0.0827346205535
+['opposite direction', '1625 mile']	['same airport']	0.114574890496
+['opposite direction', '1625 mile']	['airport']	0.0777864840342
+['opposite direction', '1625 mile']	['direction']	0.612081485761
+['opposite direction', '1625 mile']	['airplane average']	0.0827346205535
+['opposite direction', '1625 mile']	['400 mile']	0.584269096576
+['opposite direction', '1625 mile']	['hour']	0.00424649792755
+['opposite direction', '1625 mile']	['mile']	0.34291890153
+['opposite direction', '1625 mile']	['250 mile']	0.584269096576
+['opposite direction', '1625 mile']	['distance']	0.170171263305
+['direction', '1625 mile']	['two airplane']	0.0827346205535
+['direction', '1625 mile']	['same airport']	0.0827346205535
+['direction', '1625 mile']	['airport']	0.174413450128
+['direction', '1625 mile']	['opposite direction']	0.707594685938
+['direction', '1625 mile']	['airplane average']	0.0833805889219
+['direction', '1625 mile']	['400 mile']	0.538007739106
+['direction', '1625 mile']	['hour']	0.278048264287
+['direction', '1625 mile']	['mile']	0.483488419499
+['direction', '1625 mile']	['250 mile']	0.538007739106
+['direction', '1625 mile']	['distance']	0.735486028367
+['airplane average', '1625 mile']	['two airplane']	0.0827346205535
+['airplane average', '1625 mile']	['same airport']	0.0827346205535
+['airplane average', '1625 mile']	['airport']	0.0854506877194
+['airplane average', '1625 mile']	['opposite direction']	0.0827346205535
+['airplane average', '1625 mile']	['direction']	0.0744376594044
+['airplane average', '1625 mile']	['400 mile']	0.584269096576
+['airplane average', '1625 mile']	['hour']	0.0077840051964
+['airplane average', '1625 mile']	['mile']	0.34291890153
+['airplane average', '1625 mile']	['250 mile']	0.584269096576
+['airplane average', '1625 mile']	['distance']	0.0777864840342
+['400 mile', '1625 mile']	['two airplane']	0.139258682248
+['400 mile', '1625 mile']	['same airport']	0.139258682248
+['400 mile', '1625 mile']	['airport']	0.339720112713
+['400 mile', '1625 mile']	['opposite direction']	0.139258682248
+['400 mile', '1625 mile']	['direction']	0.360804929274
+['400 mile', '1625 mile']	['airplane average']	0.139258682248
+['400 mile', '1625 mile']	['hour']	0.156901862603
+['400 mile', '1625 mile']	['mile']	0.707694262291
+['400 mile', '1625 mile']	['250 mile']	0.637144068101
+['400 mile', '1625 mile']	['distance']	0.406458874406
+['hour', '1625 mile']	['two airplane']	0.0165341599722
+['hour', '1625 mile']	['same airport']	0.0165341599722
+['hour', '1625 mile']	['airport']	0.0429154860797
+['hour', '1625 mile']	['opposite direction']	0.0154105889865
+['hour', '1625 mile']	['direction']	0.275166582013
+['hour', '1625 mile']	['airplane average']	0.0221369896995
+['hour', '1625 mile']	['400 mile']	0.0852471420558
+['hour', '1625 mile']	['mile']	0.355423280423
+['hour', '1625 mile']	['250 mile']	0.0852471420558
+['hour', '1625 mile']	['distance']	0.113779695432
+['mile', '1625 mile']	['two airplane']	0.0798131677782
+['mile', '1625 mile']	['same airport']	0.0798131677782
+['mile', '1625 mile']	['airport']	0.225366520387
+['mile', '1625 mile']	['opposite direction']	0.11034390648
+['mile', '1625 mile']	['direction']	0.391740428587
+['mile', '1625 mile']	['airplane average']	0.0878776902641
+['mile', '1625 mile']	['400 mile']	0.690954327877
+['mile', '1625 mile']	['hour']	0.578571428571
+['mile', '1625 mile']	['250 mile']	0.690954327877
+['mile', '1625 mile']	['distance']	0.375373237206
+['250 mile', '1625 mile']	['two airplane']	0.139258682248
+['250 mile', '1625 mile']	['same airport']	0.139258682248
+['250 mile', '1625 mile']	['airport']	0.339720112713
+['250 mile', '1625 mile']	['opposite direction']	0.139258682248
+['250 mile', '1625 mile']	['direction']	0.360804929274
+['250 mile', '1625 mile']	['airplane average']	0.139258682248
+['250 mile', '1625 mile']	['400 mile']	0.637144068101
+['250 mile', '1625 mile']	['hour']	0.156901862603
+['250 mile', '1625 mile']	['mile']	0.707694262291
+['250 mile', '1625 mile']	['distance']	0.406458874406
+['distance', '1625 mile']	['two airplane']	0.0827346205535
+['distance', '1625 mile']	['same airport']	0.0827346205535
+['distance', '1625 mile']	['airport']	0.73449442605
+['distance', '1625 mile']	['opposite direction']	0.124206600218
+['distance', '1625 mile']	['direction']	0.722201215033
+['distance', '1625 mile']	['airplane average']	0.0901100077042
+['distance', '1625 mile']	['400 mile']	0.520866309821
+['distance', '1625 mile']	['hour']	0.127691701217
+['distance', '1625 mile']	['mile']	0.454916990928
+['distance', '1625 mile']	['250 mile']	0.520866309821

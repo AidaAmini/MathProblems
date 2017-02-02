@@ -1,0 +1,14 @@
+1
+[['ticket', '750', 'people', '-', '-', 'dollar', '1706.25'], ['before the rally', 'x1', '-', 'dollar', '2', '-', '-'], ['door', 'x2', '-', 'dollar', '2.75', '-', '-']]
+-1
+[['ticket', '750', 'door', '-', '-', 'dollar', '1706.25'], ['before the rally', 'x1', '-', 'dollar', '2', '-', '-'], ['door', '1706.25', '750', 'dollar', '2.75', 'ticket', '-']]
+-1
+[['ticket', '750', '-', '2.75', 'door', 'x2', '1706.25'], ['before the rally', 'x1', '-', 'dollar', '2', '-', '-'], ['door', 'x2', '-', '750', '2.75', '-', 'people']]
+-1
+[['dollar', '750', 'people', '-', '-', 'x2', '1706.25'], ['before the rally', 'x1', '-', 'dollar', '2', '-', '-'], ['ticket', 'x2', 'people', 'dollar', '750', '-', '1706.25']]
+-1
+[['2.75', '750', 'people', 'door', '-', 'dollar', '1706.25'], ['before the rally', 'x1', '-', 'dollar', '2', '-', '-'], ['1706.25', 'door', '-', 'dollar', '2.75', '-', '750']]
+-1
+[['ticket', '750', 'people', '-', 'x2', 'dollar', '1706.25'], ['before the rally', 'x1', '-', 'dollar', '2', '-', '-'], ['door', 'x2', '1706.25', '750', 'ticket', '-', '-']]
+-1
+[['ticket', '750', 'people', '-', '-', '2.75', '1706.25'], ['before the rally', 'x1', '-', 'dollar', '2', '-', '-'], ['1706.25', 'x2', '-', 'ticket', '2.75', '-', '-']]

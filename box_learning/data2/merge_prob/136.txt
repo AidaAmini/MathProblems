@@ -1,0 +1,758 @@
+['5 dollar', 'admission', 'dollar', '2.50 dollar', 'skate', 'skate new pair', 'pair', 'new pair', '65 dollar', 'time']
+['5 dollar']	['5 dollar']	0.0424459812087
+['5 dollar']	['5 dollar']	0.380387687663
+['5 dollar']	['5 dollar']	0.0385331522268
+['5 dollar']	['5 dollar']	0.0485547682878
+['5 dollar']	['5 dollar']	0.0418625923829
+['5 dollar']	['5 dollar']	0.0380145315322
+['5 dollar']	['5 dollar']	0.0424459812087
+['admission']	['admission']	0.0538014313542
+['admission']	['admission']	0.0819536939605
+['admission']	['admission']	0.181135102319
+['admission']	['admission']	0.0815545788575
+['admission']	['admission']	0.165527012393
+['admission']	['admission']	0.0819536939605
+['admission']	['admission']	0.0819536939605
+['admission']	['admission']	0.166721262293
+['dollar']	['dollar']	0.0131625977876
+['dollar']	['dollar']	0.029449983822
+['dollar']	['dollar']	0.0138872354688
+['dollar']	['dollar']	0.0276968987592
+['dollar']	['dollar']	0.100354732347
+['2.50 dollar']	['2.50 dollar']	0.0585905397909
+['2.50 dollar']	['2.50 dollar']	0.0683238606939
+['2.50 dollar']	['2.50 dollar']	0.0585905397909
+['2.50 dollar']	['2.50 dollar']	0.0690143673113
+['2.50 dollar']	['2.50 dollar']	0.619435082006
+['2.50 dollar']	['2.50 dollar']	0.0824169897896
+['skate']	['skate']	0.0831442052821
+['skate']	['skate']	0.0605665654349
+['skate']	['skate']	0.0573294956278
+['skate']	['skate']	0.184681004676
+['skate new pair']	['skate new pair']	0.0811452298031
+['skate new pair']	['skate new pair']	0.0844325359315
+['pair']	['pair']	0.0726311745998
+['pair']	['pair']	0.0419622326979
+['new pair']	['new pair']	0.0690143673113
+['new pair']	['new pair']	0.0824169897896
+['65 dollar']	['65 dollar']	0.0824169897896
+['admission', '5 dollar']	['admission', '5 dollar']	0.0545781783971
+['admission', '5 dollar']	['admission', '5 dollar']	0.117733533607
+['admission', '5 dollar']	['admission', '5 dollar']	0.0370192547642
+['admission', '5 dollar']	['admission', '5 dollar']	0.0573338872025
+['admission', '5 dollar']	['admission', '5 dollar']	0.0300804212707
+['admission', '5 dollar']	['admission', '5 dollar']	0.0606369672893
+['admission', '5 dollar']	['admission', '5 dollar']	0.412502670633
+['admission', '5 dollar']	['admission', '5 dollar']	0.0995843439821
+['dollar', '5 dollar']	['dollar', '5 dollar']	0.0237776819487
+['dollar', '5 dollar']	['dollar', '5 dollar']	0.0516067511451
+['dollar', '5 dollar']	['dollar', '5 dollar']	0.0193510427357
+['dollar', '5 dollar']	['dollar', '5 dollar']	0.0353557944867
+['dollar', '5 dollar']	['dollar', '5 dollar']	0.0210432279898
+['dollar', '5 dollar']	['dollar', '5 dollar']	0.0353557944867
+['dollar', '5 dollar']	['dollar', '5 dollar']	0.412587987143
+['dollar', '5 dollar']	['dollar', '5 dollar']	0.0575251463779
+['2.50 dollar', '5 dollar']	['2.50 dollar', '5 dollar']	0.0467676883878
+['2.50 dollar', '5 dollar']	['2.50 dollar', '5 dollar']	0.0929941317911
+['2.50 dollar', '5 dollar']	['2.50 dollar', '5 dollar']	0.0472323425602
+['2.50 dollar', '5 dollar']	['2.50 dollar', '5 dollar']	0.0538756639184
+['2.50 dollar', '5 dollar']	['2.50 dollar', '5 dollar']	0.0498264885986
+['2.50 dollar', '5 dollar']	['2.50 dollar', '5 dollar']	0.0529277583086
+['2.50 dollar', '5 dollar']	['2.50 dollar', '5 dollar']	0.370137789755
+['2.50 dollar', '5 dollar']	['2.50 dollar', '5 dollar']	0.0467676883878
+['skate', '5 dollar']	['skate', '5 dollar']	0.0385817557371
+['skate', '5 dollar']	['skate', '5 dollar']	0.0382054433184
+['skate', '5 dollar']	['skate', '5 dollar']	0.127465218955
+['skate', '5 dollar']	['skate', '5 dollar']	0.0971692510574
+['skate', '5 dollar']	['skate', '5 dollar']	0.0300804212707
+['skate', '5 dollar']	['skate', '5 dollar']	0.055215688368
+['skate', '5 dollar']	['skate', '5 dollar']	0.292859967073
+['skate', '5 dollar']	['skate', '5 dollar']	0.032495944144
+['skate new pair', '5 dollar']	['skate new pair', '5 dollar']	0.0424459812087
+['skate new pair', '5 dollar']	['skate new pair', '5 dollar']	0.0420997645895
+['skate new pair', '5 dollar']	['skate new pair', '5 dollar']	0.069416307105
+['skate new pair', '5 dollar']	['skate new pair', '5 dollar']	0.0732375389739
+['skate new pair', '5 dollar']	['skate new pair', '5 dollar']	0.0345703995781
+['skate new pair', '5 dollar']	['skate new pair', '5 dollar']	0.0378116759494
+['skate new pair', '5 dollar']	['skate new pair', '5 dollar']	0.272966538186
+['skate new pair', '5 dollar']	['skate new pair', '5 dollar']	0.0424459812087
+['pair', '5 dollar']	['pair', '5 dollar']	0.0306426123102
+['pair', '5 dollar']	['pair', '5 dollar']	0.061979679614
+['pair', '5 dollar']	['pair', '5 dollar']	0.123527184401
+['pair', '5 dollar']	['pair', '5 dollar']	0.0300804212707
+['pair', '5 dollar']	['pair', '5 dollar']	0.0546663817371
+['pair', '5 dollar']	['pair', '5 dollar']	0.0401839462081
+['pair', '5 dollar']	['pair', '5 dollar']	0.444578142332
+['pair', '5 dollar']	['pair', '5 dollar']	0.0626476964975
+['new pair', '5 dollar']	['new pair', '5 dollar']	0.0424459812087
+['new pair', '5 dollar']	['new pair', '5 dollar']	0.0420997645895
+['new pair', '5 dollar']	['new pair', '5 dollar']	0.132643844012
+['new pair', '5 dollar']	['new pair', '5 dollar']	0.0385205810144
+['new pair', '5 dollar']	['new pair', '5 dollar']	0.0358857786305
+['new pair', '5 dollar']	['new pair', '5 dollar']	0.0285164785574
+['new pair', '5 dollar']	['new pair', '5 dollar']	0.312189875235
+['new pair', '5 dollar']	['new pair', '5 dollar']	0.0424459812087
+['65 dollar', '5 dollar']	['65 dollar', '5 dollar']	0.0467676883878
+['65 dollar', '5 dollar']	['65 dollar', '5 dollar']	0.137090916854
+['65 dollar', '5 dollar']	['65 dollar', '5 dollar']	0.4495438704
+['65 dollar', '5 dollar']	['65 dollar', '5 dollar']	0.0472323425602
+['65 dollar', '5 dollar']	['65 dollar', '5 dollar']	0.0538756639184
+['65 dollar', '5 dollar']	['65 dollar', '5 dollar']	0.0498264885986
+['65 dollar', '5 dollar']	['65 dollar', '5 dollar']	0.0529277583086
+['65 dollar', '5 dollar']	['65 dollar', '5 dollar']	0.0467676883878
+['time', '5 dollar']	['time', '5 dollar']	0.0995843439821
+['time', '5 dollar']	['time', '5 dollar']	0.0545781783971
+['time', '5 dollar']	['time', '5 dollar']	0.117733533607
+['time', '5 dollar']	['time', '5 dollar']	0.0342220510459
+['time', '5 dollar']	['time', '5 dollar']	0.0573338872025
+['time', '5 dollar']	['time', '5 dollar']	0.0610851955246
+['time', '5 dollar']	['time', '5 dollar']	0.0606369672893
+['time', '5 dollar']	['time', '5 dollar']	0.412502670633
+['5 dollar', 'admission']	['5 dollar', 'admission']	0.0545781783971
+['5 dollar', 'admission']	['5 dollar', 'admission']	0.117733533607
+['5 dollar', 'admission']	['5 dollar', 'admission']	0.0370192547642
+['5 dollar', 'admission']	['5 dollar', 'admission']	0.0573338872025
+['5 dollar', 'admission']	['5 dollar', 'admission']	0.0300804212707
+['5 dollar', 'admission']	['5 dollar', 'admission']	0.0606369672893
+['5 dollar', 'admission']	['5 dollar', 'admission']	0.412502670633
+['5 dollar', 'admission']	['5 dollar', 'admission']	0.0995843439821
+['dollar', 'admission']	['dollar', 'admission']	0.0963108128266
+['dollar', 'admission']	['dollar', 'admission']	0.0455468282685
+['dollar', 'admission']	['dollar', 'admission']	0.0273724298903
+['dollar', 'admission']	['dollar', 'admission']	0.0349808200155
+['dollar', 'admission']	['dollar', 'admission']	0.0450640679275
+['dollar', 'admission']	['dollar', 'admission']	0.0332277349527
+['dollar', 'admission']	['dollar', 'admission']	0.0443496225621
+['dollar', 'admission']	['dollar', 'admission']	0.295681259795
+['2.50 dollar', 'admission']	['2.50 dollar', 'admission']	0.18575129585
+['2.50 dollar', 'admission']	['2.50 dollar', 'admission']	0.00569248464157
+['2.50 dollar', 'admission']	['2.50 dollar', 'admission']	0.0545060281549
+['2.50 dollar', 'admission']	['2.50 dollar', 'admission']	0.079378043998
+['2.50 dollar', 'admission']	['2.50 dollar', 'admission']	0.0475671946613
+['2.50 dollar', 'admission']	['2.50 dollar', 'admission']	0.0821022377173
+['2.50 dollar', 'admission']	['2.50 dollar', 'admission']	0.199671667608
+['2.50 dollar', 'admission']	['2.50 dollar', 'admission']	0.2245758357
+['skate', 'admission']	['skate', 'admission']	0.0767937492268
+['skate', 'admission']	['skate', 'admission']	0.0788400034207
+['skate', 'admission']	['skate', 'admission']	0.0726311745998
+['skate', 'admission']	['skate', 'admission']	0.435304269156
+['skate', 'admission']	['skate', 'admission']	0.0831442052821
+['skate', 'admission']	['skate', 'admission']	0.274935540851
+['skate', 'admission']	['skate', 'admission']	0.0726311745998
+['skate', 'admission']	['skate', 'admission']	0.281983618079
+['skate new pair', 'admission']	['skate new pair', 'admission']	0.084152480054
+['skate new pair', 'admission']	['skate new pair', 'admission']	0.0107472046796
+['skate new pair', 'admission']	['skate new pair', 'admission']	0.0812225587764
+['skate new pair', 'admission']	['skate new pair', 'admission']	0.308859892296
+['skate new pair', 'admission']	['skate new pair', 'admission']	0.0241143300174
+['skate new pair', 'admission']	['skate new pair', 'admission']	0.121111518684
+['skate new pair', 'admission']	['skate new pair', 'admission']	0.0812225587764
+['skate new pair', 'admission']	['skate new pair', 'admission']	0.22570050874
+['pair', 'admission']	['pair', 'admission']	0.0767937492268
+['pair', 'admission']	['pair', 'admission']	0.0788400034207
+['pair', 'admission']	['pair', 'admission']	0.0726311745998
+['pair', 'admission']	['pair', 'admission']	0.120809496851
+['pair', 'admission']	['pair', 'admission']	0.112564035116
+['pair', 'admission']	['pair', 'admission']	0.0498246830159
+['pair', 'admission']	['pair', 'admission']	0.0726311745998
+['pair', 'admission']	['pair', 'admission']	0.128729217706
+['new pair', 'admission']	['new pair', 'admission']	0.0848464129166
+['new pair', 'admission']	['new pair', 'admission']	0.0107472046796
+['new pair', 'admission']	['new pair', 'admission']	0.0821022377173
+['new pair', 'admission']	['new pair', 'admission']	0.108400812411
+['new pair', 'admission']	['new pair', 'admission']	0.0880443003436
+['new pair', 'admission']	['new pair', 'admission']	0.0287305287356
+['new pair', 'admission']	['new pair', 'admission']	0.0821022377173
+['new pair', 'admission']	['new pair', 'admission']	0.2245758357
+['65 dollar', 'admission']	['65 dollar', 'admission']	0.436901429018
+['65 dollar', 'admission']	['65 dollar', 'admission']	0.0187623278653
+['65 dollar', 'admission']	['65 dollar', 'admission']	0.199671667608
+['65 dollar', 'admission']	['65 dollar', 'admission']	0.0545060281549
+['65 dollar', 'admission']	['65 dollar', 'admission']	0.079378043998
+['65 dollar', 'admission']	['65 dollar', 'admission']	0.0475671946613
+['65 dollar', 'admission']	['65 dollar', 'admission']	0.0821022377173
+['65 dollar', 'admission']	['65 dollar', 'admission']	0.2245758357
+['time', 'admission']	['time', 'admission']	0.0894031564529
+['time', 'admission']	['time', 'admission']	0.0562988957834
+['time', 'admission']	['time', 'admission']	0.0819536939605
+['time', 'admission']	['time', 'admission']	0.295985913688
+['time', 'admission']	['time', 'admission']	0.0815545788575
+['time', 'admission']	['time', 'admission']	0.0894948047231
+['time', 'admission']	['time', 'admission']	0.0819536939605
+['time', 'admission']	['time', 'admission']	0.0819536939605
+['5 dollar', 'dollar']	['5 dollar', 'dollar']	0.0237776819487
+['5 dollar', 'dollar']	['5 dollar', 'dollar']	0.0516067511451
+['5 dollar', 'dollar']	['5 dollar', 'dollar']	0.0193510427357
+['5 dollar', 'dollar']	['5 dollar', 'dollar']	0.0353557944867
+['5 dollar', 'dollar']	['5 dollar', 'dollar']	0.0210432279898
+['5 dollar', 'dollar']	['5 dollar', 'dollar']	0.0353557944867
+['5 dollar', 'dollar']	['5 dollar', 'dollar']	0.412587987143
+['5 dollar', 'dollar']	['5 dollar', 'dollar']	0.0575251463779
+['admission', 'dollar']	['admission', 'dollar']	0.0963108128266
+['admission', 'dollar']	['admission', 'dollar']	0.0455468282685
+['admission', 'dollar']	['admission', 'dollar']	0.0273724298903
+['admission', 'dollar']	['admission', 'dollar']	0.0349808200155
+['admission', 'dollar']	['admission', 'dollar']	0.0450640679275
+['admission', 'dollar']	['admission', 'dollar']	0.0332277349527
+['admission', 'dollar']	['admission', 'dollar']	0.0443496225621
+['admission', 'dollar']	['admission', 'dollar']	0.295681259795
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.267961470101
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0237776819487
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0193510427357
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0353557944867
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0210432279898
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0353557944867
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.052503693148
+['2.50 dollar', 'dollar']	['2.50 dollar', 'dollar']	0.0575251463779
+['skate', 'dollar']	['skate', 'dollar']	0.0893217238119
+['skate', 'dollar']	['skate', 'dollar']	0.110709829897
+['skate', 'dollar']	['skate', 'dollar']	0.0409567057729
+['skate', 'dollar']	['skate', 'dollar']	0.280211390436
+['skate', 'dollar']	['skate', 'dollar']	0.0476896307554
+['skate', 'dollar']	['skate', 'dollar']	0.117239400233
+['skate', 'dollar']	['skate', 'dollar']	0.0470053215642
+['skate', 'dollar']	['skate', 'dollar']	0.19928090879
+['skate new pair', 'dollar']	['skate new pair', 'dollar']	0.0611922745042
+['skate new pair', 'dollar']	['skate new pair', 'dollar']	0.017354165078
+['skate new pair', 'dollar']	['skate new pair', 'dollar']	0.0298639064033
+['skate new pair', 'dollar']	['skate new pair', 'dollar']	0.134662776528
+['skate new pair', 'dollar']	['skate new pair', 'dollar']	0.0262384268998
+['skate new pair', 'dollar']	['skate new pair', 'dollar']	0.0627185442267
+['skate new pair', 'dollar']	['skate new pair', 'dollar']	0.0409668659916
+['skate new pair', 'dollar']	['skate new pair', 'dollar']	0.0613580397637
+['pair', 'dollar']	['pair', 'dollar']	0.0879582983201
+['pair', 'dollar']	['pair', 'dollar']	0.0876947491966
+['pair', 'dollar']	['pair', 'dollar']	0.0395932802812
+['pair', 'dollar']	['pair', 'dollar']	0.0568940710884
+['pair', 'dollar']	['pair', 'dollar']	0.0992133954238
+['pair', 'dollar']	['pair', 'dollar']	0.0418420283225
+['pair', 'dollar']	['pair', 'dollar']	0.0456418960724
+['pair', 'dollar']	['pair', 'dollar']	0.105062532854
+['new pair', 'dollar']	['new pair', 'dollar']	0.0626771511517
+['new pair', 'dollar']	['new pair', 'dollar']	0.017354165078
+['new pair', 'dollar']	['new pair', 'dollar']	0.0291662153074
+['new pair', 'dollar']	['new pair', 'dollar']	0.113302108326
+['new pair', 'dollar']	['new pair', 'dollar']	0.0426794737212
+['new pair', 'dollar']	['new pair', 'dollar']	0.0441005433377
+['new pair', 'dollar']	['new pair', 'dollar']	0.0402691748957
+['new pair', 'dollar']	['new pair', 'dollar']	0.0613580397637
+['65 dollar', 'dollar']	['65 dollar', 'dollar']	0.330789453247
+['65 dollar', 'dollar']	['65 dollar', 'dollar']	0.0237776819487
+['65 dollar', 'dollar']	['65 dollar', 'dollar']	0.0517940170627
+['65 dollar', 'dollar']	['65 dollar', 'dollar']	0.0193510427357
+['65 dollar', 'dollar']	['65 dollar', 'dollar']	0.0353557944867
+['65 dollar', 'dollar']	['65 dollar', 'dollar']	0.0210432279898
+['65 dollar', 'dollar']	['65 dollar', 'dollar']	0.0353557944867
+['65 dollar', 'dollar']	['65 dollar', 'dollar']	0.0575251463779
+['time', 'dollar']	['time', 'dollar']	0.0963108128266
+['time', 'dollar']	['time', 'dollar']	0.25524881368
+['time', 'dollar']	['time', 'dollar']	0.0455468282685
+['time', 'dollar']	['time', 'dollar']	0.0871454885824
+['time', 'dollar']	['time', 'dollar']	0.0349808200155
+['time', 'dollar']	['time', 'dollar']	0.0181679895573
+['time', 'dollar']	['time', 'dollar']	0.0332277349527
+['time', 'dollar']	['time', 'dollar']	0.0443496225621
+['5 dollar', '2.50 dollar']	['5 dollar', '2.50 dollar']	0.0467676883878
+['5 dollar', '2.50 dollar']	['5 dollar', '2.50 dollar']	0.0929941317911
+['5 dollar', '2.50 dollar']	['5 dollar', '2.50 dollar']	0.0472323425602
+['5 dollar', '2.50 dollar']	['5 dollar', '2.50 dollar']	0.0538756639184
+['5 dollar', '2.50 dollar']	['5 dollar', '2.50 dollar']	0.0498264885986
+['5 dollar', '2.50 dollar']	['5 dollar', '2.50 dollar']	0.0529277583086
+['5 dollar', '2.50 dollar']	['5 dollar', '2.50 dollar']	0.370137789755
+['5 dollar', '2.50 dollar']	['5 dollar', '2.50 dollar']	0.0467676883878
+['admission', '2.50 dollar']	['admission', '2.50 dollar']	0.18575129585
+['admission', '2.50 dollar']	['admission', '2.50 dollar']	0.00569248464157
+['admission', '2.50 dollar']	['admission', '2.50 dollar']	0.0545060281549
+['admission', '2.50 dollar']	['admission', '2.50 dollar']	0.079378043998
+['admission', '2.50 dollar']	['admission', '2.50 dollar']	0.0475671946613
+['admission', '2.50 dollar']	['admission', '2.50 dollar']	0.0821022377173
+['admission', '2.50 dollar']	['admission', '2.50 dollar']	0.199671667608
+['admission', '2.50 dollar']	['admission', '2.50 dollar']	0.2245758357
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.267961470101
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0237776819487
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0193510427357
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0353557944867
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0210432279898
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0353557944867
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.052503693148
+['dollar', '2.50 dollar']	['dollar', '2.50 dollar']	0.0575251463779
+['skate', '2.50 dollar']	['skate', '2.50 dollar']	0.14773497903
+['skate', '2.50 dollar']	['skate', '2.50 dollar']	0.0385817557371
+['skate', '2.50 dollar']	['skate', '2.50 dollar']	0.0158981873446
+['skate', '2.50 dollar']	['skate', '2.50 dollar']	0.0974123919368
+['skate', '2.50 dollar']	['skate', '2.50 dollar']	0.0300804212707
+['skate', '2.50 dollar']	['skate', '2.50 dollar']	0.0431414476821
+['skate', '2.50 dollar']	['skate', '2.50 dollar']	0.124077066443
+['skate', '2.50 dollar']	['skate', '2.50 dollar']	0.032495944144
+['skate new pair', '2.50 dollar']	['skate new pair', '2.50 dollar']	0.161657297721
+['skate new pair', '2.50 dollar']	['skate new pair', '2.50 dollar']	0.0824169897896
+['skate new pair', '2.50 dollar']	['skate new pair', '2.50 dollar']	0.0158103880485
+['skate new pair', '2.50 dollar']	['skate new pair', '2.50 dollar']	0.127774900121
+['skate new pair', '2.50 dollar']	['skate new pair', '2.50 dollar']	0.0298143310004
+['skate new pair', '2.50 dollar']	['skate new pair', '2.50 dollar']	0.0816383740628
+['skate new pair', '2.50 dollar']	['skate new pair', '2.50 dollar']	0.126346464602
+['skate new pair', '2.50 dollar']	['skate new pair', '2.50 dollar']	0.0824169897896
+['pair', '2.50 dollar']	['pair', '2.50 dollar']	0.149024252958
+['pair', '2.50 dollar']	['pair', '2.50 dollar']	0.0306426123102
+['pair', '2.50 dollar']	['pair', '2.50 dollar']	0.0390565210568
+['pair', '2.50 dollar']	['pair', '2.50 dollar']	0.0300804212707
+['pair', '2.50 dollar']	['pair', '2.50 dollar']	0.0595428340362
+['pair', '2.50 dollar']	['pair', '2.50 dollar']	0.0401839462081
+['pair', '2.50 dollar']	['pair', '2.50 dollar']	0.117733533607
+['pair', '2.50 dollar']	['pair', '2.50 dollar']	0.0626476964975
+['new pair', '2.50 dollar']	['new pair', '2.50 dollar']	0.266884165606
+['new pair', '2.50 dollar']	['new pair', '2.50 dollar']	0.0824169897896
+['new pair', '2.50 dollar']	['new pair', '2.50 dollar']	0.0182450454053
+['new pair', '2.50 dollar']	['new pair', '2.50 dollar']	0.0529187939068
+['new pair', '2.50 dollar']	['new pair', '2.50 dollar']	0.17805726727
+['new pair', '2.50 dollar']	['new pair', '2.50 dollar']	0.0463602252661
+['new pair', '2.50 dollar']	['new pair', '2.50 dollar']	0.251529580944
+['new pair', '2.50 dollar']	['new pair', '2.50 dollar']	0.0824169897896
+['65 dollar', '2.50 dollar']	['65 dollar', '2.50 dollar']	0.651402242767
+['65 dollar', '2.50 dollar']	['65 dollar', '2.50 dollar']	0.207135603763
+['65 dollar', '2.50 dollar']	['65 dollar', '2.50 dollar']	0.0205506685967
+['65 dollar', '2.50 dollar']	['65 dollar', '2.50 dollar']	0.0835308030293
+['65 dollar', '2.50 dollar']	['65 dollar', '2.50 dollar']	0.107758789864
+['65 dollar', '2.50 dollar']	['65 dollar', '2.50 dollar']	0.0872480951896
+['65 dollar', '2.50 dollar']	['65 dollar', '2.50 dollar']	0.0922575126852
+['65 dollar', '2.50 dollar']	['65 dollar', '2.50 dollar']	0.207135603763
+['time', '2.50 dollar']	['time', '2.50 dollar']	0.18575129585
+['time', '2.50 dollar']	['time', '2.50 dollar']	0.2245758357
+['time', '2.50 dollar']	['time', '2.50 dollar']	0.00569248464157
+['time', '2.50 dollar']	['time', '2.50 dollar']	0.0487217981093
+['time', '2.50 dollar']	['time', '2.50 dollar']	0.079378043998
+['time', '2.50 dollar']	['time', '2.50 dollar']	0.0585120808519
+['time', '2.50 dollar']	['time', '2.50 dollar']	0.0821022377173
+['time', '2.50 dollar']	['time', '2.50 dollar']	0.199671667608
+['5 dollar', 'skate']	['5 dollar', 'skate']	0.0385817557371
+['5 dollar', 'skate']	['5 dollar', 'skate']	0.0382054433184
+['5 dollar', 'skate']	['5 dollar', 'skate']	0.127465218955
+['5 dollar', 'skate']	['5 dollar', 'skate']	0.0971692510574
+['5 dollar', 'skate']	['5 dollar', 'skate']	0.0300804212707
+['5 dollar', 'skate']	['5 dollar', 'skate']	0.055215688368
+['5 dollar', 'skate']	['5 dollar', 'skate']	0.292859967073
+['5 dollar', 'skate']	['5 dollar', 'skate']	0.032495944144
+['admission', 'skate']	['admission', 'skate']	0.0767937492268
+['admission', 'skate']	['admission', 'skate']	0.0788400034207
+['admission', 'skate']	['admission', 'skate']	0.0726311745998
+['admission', 'skate']	['admission', 'skate']	0.435304269156
+['admission', 'skate']	['admission', 'skate']	0.0831442052821
+['admission', 'skate']	['admission', 'skate']	0.274935540851
+['admission', 'skate']	['admission', 'skate']	0.0726311745998
+['admission', 'skate']	['admission', 'skate']	0.281983618079
+['dollar', 'skate']	['dollar', 'skate']	0.0893217238119
+['dollar', 'skate']	['dollar', 'skate']	0.110709829897
+['dollar', 'skate']	['dollar', 'skate']	0.0409567057729
+['dollar', 'skate']	['dollar', 'skate']	0.280211390436
+['dollar', 'skate']	['dollar', 'skate']	0.0476896307554
+['dollar', 'skate']	['dollar', 'skate']	0.117239400233
+['dollar', 'skate']	['dollar', 'skate']	0.0470053215642
+['dollar', 'skate']	['dollar', 'skate']	0.19928090879
+['2.50 dollar', 'skate']	['2.50 dollar', 'skate']	0.14773497903
+['2.50 dollar', 'skate']	['2.50 dollar', 'skate']	0.0385817557371
+['2.50 dollar', 'skate']	['2.50 dollar', 'skate']	0.0158981873446
+['2.50 dollar', 'skate']	['2.50 dollar', 'skate']	0.0974123919368
+['2.50 dollar', 'skate']	['2.50 dollar', 'skate']	0.0300804212707
+['2.50 dollar', 'skate']	['2.50 dollar', 'skate']	0.0431414476821
+['2.50 dollar', 'skate']	['2.50 dollar', 'skate']	0.124077066443
+['2.50 dollar', 'skate']	['2.50 dollar', 'skate']	0.032495944144
+['skate new pair', 'skate']	['skate new pair', 'skate']	0.0540455550941
+['skate new pair', 'skate']	['skate new pair', 'skate']	0.0387273166305
+['skate new pair', 'skate']	['skate new pair', 'skate']	0.0135898820363
+['skate new pair', 'skate']	['skate new pair', 'skate']	0.0380145315322
+['skate new pair', 'skate']	['skate new pair', 'skate']	0.022710493955
+['skate new pair', 'skate']	['skate new pair', 'skate']	0.0989442494588
+['skate new pair', 'skate']	['skate new pair', 'skate']	0.0380145315322
+['skate new pair', 'skate']	['skate new pair', 'skate']	0.0347305921903
+['pair', 'skate']	['pair', 'skate']	0.13488735835
+['pair', 'skate']	['pair', 'skate']	0.120107228873
+['pair', 'skate']	['pair', 'skate']	0.0131625977876
+['pair', 'skate']	['pair', 'skate']	0.0984170914147
+['pair', 'skate']	['pair', 'skate']	0.125303835615
+['pair', 'skate']	['pair', 'skate']	0.138113659277
+['pair', 'skate']	['pair', 'skate']	0.0984170914147
+['pair', 'skate']	['pair', 'skate']	0.0847516477077
+['new pair', 'skate']	['new pair', 'skate']	0.0558543464915
+['new pair', 'skate']	['new pair', 'skate']	0.0374929785177
+['new pair', 'skate']	['new pair', 'skate']	0.0135898820363
+['new pair', 'skate']	['new pair', 'skate']	0.0395247252484
+['new pair', 'skate']	['new pair', 'skate']	0.119250959775
+['new pair', 'skate']	['new pair', 'skate']	0.0168422906728
+['new pair', 'skate']	['new pair', 'skate']	0.0395247252484
+['new pair', 'skate']	['new pair', 'skate']	0.032495944144
+['65 dollar', 'skate']	['65 dollar', 'skate']	0.258301806036
+['65 dollar', 'skate']	['65 dollar', 'skate']	0.0385817557371
+['65 dollar', 'skate']	['65 dollar', 'skate']	0.033535250664
+['65 dollar', 'skate']	['65 dollar', 'skate']	0.124077066443
+['65 dollar', 'skate']	['65 dollar', 'skate']	0.0974123919368
+['65 dollar', 'skate']	['65 dollar', 'skate']	0.0300804212707
+['65 dollar', 'skate']	['65 dollar', 'skate']	0.0431414476821
+['65 dollar', 'skate']	['65 dollar', 'skate']	0.032495944144
+['time', 'skate']	['time', 'skate']	0.0767937492268
+['time', 'skate']	['time', 'skate']	0.186408055275
+['time', 'skate']	['time', 'skate']	0.102578200221
+['time', 'skate']	['time', 'skate']	0.0726311745998
+['time', 'skate']	['time', 'skate']	0.336961850966
+['time', 'skate']	['time', 'skate']	0.070500996037
+['time', 'skate']	['time', 'skate']	0.235785376927
+['time', 'skate']	['time', 'skate']	0.0726311745998
+['5 dollar', 'skate new pair']	['5 dollar', 'skate new pair']	0.0424459812087
+['5 dollar', 'skate new pair']	['5 dollar', 'skate new pair']	0.0420997645895
+['5 dollar', 'skate new pair']	['5 dollar', 'skate new pair']	0.069416307105
+['5 dollar', 'skate new pair']	['5 dollar', 'skate new pair']	0.0732375389739
+['5 dollar', 'skate new pair']	['5 dollar', 'skate new pair']	0.0345703995781
+['5 dollar', 'skate new pair']	['5 dollar', 'skate new pair']	0.0378116759494
+['5 dollar', 'skate new pair']	['5 dollar', 'skate new pair']	0.272966538186
+['5 dollar', 'skate new pair']	['5 dollar', 'skate new pair']	0.0424459812087
+['admission', 'skate new pair']	['admission', 'skate new pair']	0.084152480054
+['admission', 'skate new pair']	['admission', 'skate new pair']	0.0107472046796
+['admission', 'skate new pair']	['admission', 'skate new pair']	0.0812225587764
+['admission', 'skate new pair']	['admission', 'skate new pair']	0.308859892296
+['admission', 'skate new pair']	['admission', 'skate new pair']	0.0241143300174
+['admission', 'skate new pair']	['admission', 'skate new pair']	0.121111518684
+['admission', 'skate new pair']	['admission', 'skate new pair']	0.0812225587764
+['admission', 'skate new pair']	['admission', 'skate new pair']	0.22570050874
+['dollar', 'skate new pair']	['dollar', 'skate new pair']	0.0611922745042
+['dollar', 'skate new pair']	['dollar', 'skate new pair']	0.017354165078
+['dollar', 'skate new pair']	['dollar', 'skate new pair']	0.0298639064033
+['dollar', 'skate new pair']	['dollar', 'skate new pair']	0.134662776528
+['dollar', 'skate new pair']	['dollar', 'skate new pair']	0.0262384268998
+['dollar', 'skate new pair']	['dollar', 'skate new pair']	0.0627185442267
+['dollar', 'skate new pair']	['dollar', 'skate new pair']	0.0409668659916
+['dollar', 'skate new pair']	['dollar', 'skate new pair']	0.0613580397637
+['2.50 dollar', 'skate new pair']	['2.50 dollar', 'skate new pair']	0.161657297721
+['2.50 dollar', 'skate new pair']	['2.50 dollar', 'skate new pair']	0.0824169897896
+['2.50 dollar', 'skate new pair']	['2.50 dollar', 'skate new pair']	0.0158103880485
+['2.50 dollar', 'skate new pair']	['2.50 dollar', 'skate new pair']	0.127774900121
+['2.50 dollar', 'skate new pair']	['2.50 dollar', 'skate new pair']	0.0298143310004
+['2.50 dollar', 'skate new pair']	['2.50 dollar', 'skate new pair']	0.0816383740628
+['2.50 dollar', 'skate new pair']	['2.50 dollar', 'skate new pair']	0.126346464602
+['2.50 dollar', 'skate new pair']	['2.50 dollar', 'skate new pair']	0.0824169897896
+['skate', 'skate new pair']	['skate', 'skate new pair']	0.0540455550941
+['skate', 'skate new pair']	['skate', 'skate new pair']	0.0387273166305
+['skate', 'skate new pair']	['skate', 'skate new pair']	0.0135898820363
+['skate', 'skate new pair']	['skate', 'skate new pair']	0.0380145315322
+['skate', 'skate new pair']	['skate', 'skate new pair']	0.022710493955
+['skate', 'skate new pair']	['skate', 'skate new pair']	0.0989442494588
+['skate', 'skate new pair']	['skate', 'skate new pair']	0.0380145315322
+['skate', 'skate new pair']	['skate', 'skate new pair']	0.0347305921903
+['pair', 'skate new pair']	['pair', 'skate new pair']	0.0927705821657
+['pair', 'skate new pair']	['pair', 'skate new pair']	0.0329741536824
+['pair', 'skate new pair']	['pair', 'skate new pair']	0.0174779382662
+['pair', 'skate new pair']	['pair', 'skate new pair']	0.0690831984199
+['pair', 'skate new pair']	['pair', 'skate new pair']	0.359277886757
+['pair', 'skate new pair']	['pair', 'skate new pair']	0.0820408977192
+['pair', 'skate new pair']	['pair', 'skate new pair']	0.0690831984199
+['pair', 'skate new pair']	['pair', 'skate new pair']	0.0657413695162
+['new pair', 'skate new pair']	['new pair', 'skate new pair']	0.141428879534
+['new pair', 'skate new pair']	['new pair', 'skate new pair']	0.207135603763
+['new pair', 'skate new pair']	['new pair', 'skate new pair']	0.0679872930292
+['new pair', 'skate new pair']	['new pair', 'skate new pair']	0.130609210305
+['new pair', 'skate new pair']	['new pair', 'skate new pair']	0.189396957916
+['new pair', 'skate new pair']	['new pair', 'skate new pair']	0.0322308699397
+['new pair', 'skate new pair']	['new pair', 'skate new pair']	0.130609210305
+['new pair', 'skate new pair']	['new pair', 'skate new pair']	0.207135603763
+['65 dollar', 'skate new pair']	['65 dollar', 'skate new pair']	0.399049123595
+['65 dollar', 'skate new pair']	['65 dollar', 'skate new pair']	0.0824169897896
+['65 dollar', 'skate new pair']	['65 dollar', 'skate new pair']	0.0552648817244
+['65 dollar', 'skate new pair']	['65 dollar', 'skate new pair']	0.126346464602
+['65 dollar', 'skate new pair']	['65 dollar', 'skate new pair']	0.127774900121
+['65 dollar', 'skate new pair']	['65 dollar', 'skate new pair']	0.0298143310004
+['65 dollar', 'skate new pair']	['65 dollar', 'skate new pair']	0.0816383740628
+['65 dollar', 'skate new pair']	['65 dollar', 'skate new pair']	0.0824169897896
+['time', 'skate new pair']	['time', 'skate new pair']	0.084152480054
+['time', 'skate new pair']	['time', 'skate new pair']	0.22570050874
+['time', 'skate new pair']	['time', 'skate new pair']	0.0444946691089
+['time', 'skate new pair']	['time', 'skate new pair']	0.0812225587764
+['time', 'skate new pair']	['time', 'skate new pair']	0.447127827823
+['time', 'skate new pair']	['time', 'skate new pair']	0.024774745429
+['time', 'skate new pair']	['time', 'skate new pair']	0.121111518684
+['time', 'skate new pair']	['time', 'skate new pair']	0.0812225587764
+['5 dollar', 'pair']	['5 dollar', 'pair']	0.0306426123102
+['5 dollar', 'pair']	['5 dollar', 'pair']	0.061979679614
+['5 dollar', 'pair']	['5 dollar', 'pair']	0.123527184401
+['5 dollar', 'pair']	['5 dollar', 'pair']	0.0300804212707
+['5 dollar', 'pair']	['5 dollar', 'pair']	0.0546663817371
+['5 dollar', 'pair']	['5 dollar', 'pair']	0.0401839462081
+['5 dollar', 'pair']	['5 dollar', 'pair']	0.444578142332
+['5 dollar', 'pair']	['5 dollar', 'pair']	0.0626476964975
+['admission', 'pair']	['admission', 'pair']	0.0767937492268
+['admission', 'pair']	['admission', 'pair']	0.0788400034207
+['admission', 'pair']	['admission', 'pair']	0.0726311745998
+['admission', 'pair']	['admission', 'pair']	0.120809496851
+['admission', 'pair']	['admission', 'pair']	0.112564035116
+['admission', 'pair']	['admission', 'pair']	0.0498246830159
+['admission', 'pair']	['admission', 'pair']	0.0726311745998
+['admission', 'pair']	['admission', 'pair']	0.128729217706
+['dollar', 'pair']	['dollar', 'pair']	0.0879582983201
+['dollar', 'pair']	['dollar', 'pair']	0.0876947491966
+['dollar', 'pair']	['dollar', 'pair']	0.0395932802812
+['dollar', 'pair']	['dollar', 'pair']	0.0568940710884
+['dollar', 'pair']	['dollar', 'pair']	0.0992133954238
+['dollar', 'pair']	['dollar', 'pair']	0.0418420283225
+['dollar', 'pair']	['dollar', 'pair']	0.0456418960724
+['dollar', 'pair']	['dollar', 'pair']	0.105062532854
+['2.50 dollar', 'pair']	['2.50 dollar', 'pair']	0.149024252958
+['2.50 dollar', 'pair']	['2.50 dollar', 'pair']	0.0306426123102
+['2.50 dollar', 'pair']	['2.50 dollar', 'pair']	0.0390565210568
+['2.50 dollar', 'pair']	['2.50 dollar', 'pair']	0.0300804212707
+['2.50 dollar', 'pair']	['2.50 dollar', 'pair']	0.0595428340362
+['2.50 dollar', 'pair']	['2.50 dollar', 'pair']	0.0401839462081
+['2.50 dollar', 'pair']	['2.50 dollar', 'pair']	0.117733533607
+['2.50 dollar', 'pair']	['2.50 dollar', 'pair']	0.0626476964975
+['skate', 'pair']	['skate', 'pair']	0.13488735835
+['skate', 'pair']	['skate', 'pair']	0.120107228873
+['skate', 'pair']	['skate', 'pair']	0.0131625977876
+['skate', 'pair']	['skate', 'pair']	0.0984170914147
+['skate', 'pair']	['skate', 'pair']	0.125303835615
+['skate', 'pair']	['skate', 'pair']	0.138113659277
+['skate', 'pair']	['skate', 'pair']	0.0984170914147
+['skate', 'pair']	['skate', 'pair']	0.0847516477077
+['skate new pair', 'pair']	['skate new pair', 'pair']	0.0927705821657
+['skate new pair', 'pair']	['skate new pair', 'pair']	0.0329741536824
+['skate new pair', 'pair']	['skate new pair', 'pair']	0.0174779382662
+['skate new pair', 'pair']	['skate new pair', 'pair']	0.0690831984199
+['skate new pair', 'pair']	['skate new pair', 'pair']	0.359277886757
+['skate new pair', 'pair']	['skate new pair', 'pair']	0.0820408977192
+['skate new pair', 'pair']	['skate new pair', 'pair']	0.0690831984199
+['skate new pair', 'pair']	['skate new pair', 'pair']	0.0657413695162
+['new pair', 'pair']	['new pair', 'pair']	0.094579373563
+['new pair', 'pair']	['new pair', 'pair']	0.0307395056362
+['new pair', 'pair']	['new pair', 'pair']	0.0174779382662
+['new pair', 'pair']	['new pair', 'pair']	0.0696674662101
+['new pair', 'pair']	['new pair', 'pair']	0.179126898426
+['new pair', 'pair']	['new pair', 'pair']	0.0597756309819
+['new pair', 'pair']	['new pair', 'pair']	0.0696674662101
+['new pair', 'pair']	['new pair', 'pair']	0.0645070314033
+['65 dollar', 'pair']	['65 dollar', 'pair']	0.241793371893
+['65 dollar', 'pair']	['65 dollar', 'pair']	0.0306426123102
+['65 dollar', 'pair']	['65 dollar', 'pair']	0.0636353727642
+['65 dollar', 'pair']	['65 dollar', 'pair']	0.117733533607
+['65 dollar', 'pair']	['65 dollar', 'pair']	0.0300804212707
+['65 dollar', 'pair']	['65 dollar', 'pair']	0.0595428340362
+['65 dollar', 'pair']	['65 dollar', 'pair']	0.0401839462081
+['65 dollar', 'pair']	['65 dollar', 'pair']	0.0626476964975
+['time', 'pair']	['time', 'pair']	0.0767937492268
+['time', 'pair']	['time', 'pair']	0.185972602111
+['time', 'pair']	['time', 'pair']	0.102578200221
+['time', 'pair']	['time', 'pair']	0.0726311745998
+['time', 'pair']	['time', 'pair']	0.208613372118
+['time', 'pair']	['time', 'pair']	0.107769251291
+['time', 'pair']	['time', 'pair']	0.0485247612157
+['time', 'pair']	['time', 'pair']	0.0726311745998
+['5 dollar', 'new pair']	['5 dollar', 'new pair']	0.0424459812087
+['5 dollar', 'new pair']	['5 dollar', 'new pair']	0.0420997645895
+['5 dollar', 'new pair']	['5 dollar', 'new pair']	0.132643844012
+['5 dollar', 'new pair']	['5 dollar', 'new pair']	0.0385205810144
+['5 dollar', 'new pair']	['5 dollar', 'new pair']	0.0358857786305
+['5 dollar', 'new pair']	['5 dollar', 'new pair']	0.0285164785574
+['5 dollar', 'new pair']	['5 dollar', 'new pair']	0.312189875235
+['5 dollar', 'new pair']	['5 dollar', 'new pair']	0.0424459812087
+['admission', 'new pair']	['admission', 'new pair']	0.0848464129166
+['admission', 'new pair']	['admission', 'new pair']	0.0107472046796
+['admission', 'new pair']	['admission', 'new pair']	0.0821022377173
+['admission', 'new pair']	['admission', 'new pair']	0.108400812411
+['admission', 'new pair']	['admission', 'new pair']	0.0880443003436
+['admission', 'new pair']	['admission', 'new pair']	0.0287305287356
+['admission', 'new pair']	['admission', 'new pair']	0.0821022377173
+['admission', 'new pair']	['admission', 'new pair']	0.2245758357
+['dollar', 'new pair']	['dollar', 'new pair']	0.0626771511517
+['dollar', 'new pair']	['dollar', 'new pair']	0.017354165078
+['dollar', 'new pair']	['dollar', 'new pair']	0.0291662153074
+['dollar', 'new pair']	['dollar', 'new pair']	0.113302108326
+['dollar', 'new pair']	['dollar', 'new pair']	0.0426794737212
+['dollar', 'new pair']	['dollar', 'new pair']	0.0441005433377
+['dollar', 'new pair']	['dollar', 'new pair']	0.0402691748957
+['dollar', 'new pair']	['dollar', 'new pair']	0.0613580397637
+['2.50 dollar', 'new pair']	['2.50 dollar', 'new pair']	0.266884165606
+['2.50 dollar', 'new pair']	['2.50 dollar', 'new pair']	0.0824169897896
+['2.50 dollar', 'new pair']	['2.50 dollar', 'new pair']	0.0182450454053
+['2.50 dollar', 'new pair']	['2.50 dollar', 'new pair']	0.0529187939068
+['2.50 dollar', 'new pair']	['2.50 dollar', 'new pair']	0.17805726727
+['2.50 dollar', 'new pair']	['2.50 dollar', 'new pair']	0.0463602252661
+['2.50 dollar', 'new pair']	['2.50 dollar', 'new pair']	0.251529580944
+['2.50 dollar', 'new pair']	['2.50 dollar', 'new pair']	0.0824169897896
+['skate', 'new pair']	['skate', 'new pair']	0.0558543464915
+['skate', 'new pair']	['skate', 'new pair']	0.0374929785177
+['skate', 'new pair']	['skate', 'new pair']	0.0135898820363
+['skate', 'new pair']	['skate', 'new pair']	0.0395247252484
+['skate', 'new pair']	['skate', 'new pair']	0.119250959775
+['skate', 'new pair']	['skate', 'new pair']	0.0168422906728
+['skate', 'new pair']	['skate', 'new pair']	0.0395247252484
+['skate', 'new pair']	['skate', 'new pair']	0.032495944144
+['skate new pair', 'new pair']	['skate new pair', 'new pair']	0.141428879534
+['skate new pair', 'new pair']	['skate new pair', 'new pair']	0.207135603763
+['skate new pair', 'new pair']	['skate new pair', 'new pair']	0.0679872930292
+['skate new pair', 'new pair']	['skate new pair', 'new pair']	0.130609210305
+['skate new pair', 'new pair']	['skate new pair', 'new pair']	0.189396957916
+['skate new pair', 'new pair']	['skate new pair', 'new pair']	0.0322308699397
+['skate new pair', 'new pair']	['skate new pair', 'new pair']	0.130609210305
+['skate new pair', 'new pair']	['skate new pair', 'new pair']	0.207135603763
+['pair', 'new pair']	['pair', 'new pair']	0.094579373563
+['pair', 'new pair']	['pair', 'new pair']	0.0307395056362
+['pair', 'new pair']	['pair', 'new pair']	0.0174779382662
+['pair', 'new pair']	['pair', 'new pair']	0.0696674662101
+['pair', 'new pair']	['pair', 'new pair']	0.179126898426
+['pair', 'new pair']	['pair', 'new pair']	0.0597756309819
+['pair', 'new pair']	['pair', 'new pair']	0.0696674662101
+['pair', 'new pair']	['pair', 'new pair']	0.0645070314033
+['65 dollar', 'new pair']	['65 dollar', 'new pair']	0.499772254363
+['65 dollar', 'new pair']	['65 dollar', 'new pair']	0.0824169897896
+['65 dollar', 'new pair']	['65 dollar', 'new pair']	0.0576597143101
+['65 dollar', 'new pair']	['65 dollar', 'new pair']	0.251529580944
+['65 dollar', 'new pair']	['65 dollar', 'new pair']	0.0529187939068
+['65 dollar', 'new pair']	['65 dollar', 'new pair']	0.17805726727
+['65 dollar', 'new pair']	['65 dollar', 'new pair']	0.0463602252661
+['65 dollar', 'new pair']	['65 dollar', 'new pair']	0.0824169897896
+['time', 'new pair']	['time', 'new pair']	0.0848464129166
+['time', 'new pair']	['time', 'new pair']	0.2245758357
+['time', 'new pair']	['time', 'new pair']	0.0444946691089
+['time', 'new pair']	['time', 'new pair']	0.0821022377173
+['time', 'new pair']	['time', 'new pair']	0.204950165761
+['time', 'new pair']	['time', 'new pair']	0.0880443003436
+['time', 'new pair']	['time', 'new pair']	0.0290025946327
+['time', 'new pair']	['time', 'new pair']	0.0821022377173
+['5 dollar', '65 dollar']	['5 dollar', '65 dollar']	0.0467676883878
+['5 dollar', '65 dollar']	['5 dollar', '65 dollar']	0.137090916854
+['5 dollar', '65 dollar']	['5 dollar', '65 dollar']	0.4495438704
+['5 dollar', '65 dollar']	['5 dollar', '65 dollar']	0.0472323425602
+['5 dollar', '65 dollar']	['5 dollar', '65 dollar']	0.0538756639184
+['5 dollar', '65 dollar']	['5 dollar', '65 dollar']	0.0498264885986
+['5 dollar', '65 dollar']	['5 dollar', '65 dollar']	0.0529277583086
+['5 dollar', '65 dollar']	['5 dollar', '65 dollar']	0.0467676883878
+['admission', '65 dollar']	['admission', '65 dollar']	0.436901429018
+['admission', '65 dollar']	['admission', '65 dollar']	0.0187623278653
+['admission', '65 dollar']	['admission', '65 dollar']	0.199671667608
+['admission', '65 dollar']	['admission', '65 dollar']	0.0545060281549
+['admission', '65 dollar']	['admission', '65 dollar']	0.079378043998
+['admission', '65 dollar']	['admission', '65 dollar']	0.0475671946613
+['admission', '65 dollar']	['admission', '65 dollar']	0.0821022377173
+['admission', '65 dollar']	['admission', '65 dollar']	0.2245758357
+['dollar', '65 dollar']	['dollar', '65 dollar']	0.330789453247
+['dollar', '65 dollar']	['dollar', '65 dollar']	0.0237776819487
+['dollar', '65 dollar']	['dollar', '65 dollar']	0.0517940170627
+['dollar', '65 dollar']	['dollar', '65 dollar']	0.0193510427357
+['dollar', '65 dollar']	['dollar', '65 dollar']	0.0353557944867
+['dollar', '65 dollar']	['dollar', '65 dollar']	0.0210432279898
+['dollar', '65 dollar']	['dollar', '65 dollar']	0.0353557944867
+['dollar', '65 dollar']	['dollar', '65 dollar']	0.0575251463779
+['2.50 dollar', '65 dollar']	['2.50 dollar', '65 dollar']	0.651402242767
+['2.50 dollar', '65 dollar']	['2.50 dollar', '65 dollar']	0.207135603763
+['2.50 dollar', '65 dollar']	['2.50 dollar', '65 dollar']	0.0205506685967
+['2.50 dollar', '65 dollar']	['2.50 dollar', '65 dollar']	0.0835308030293
+['2.50 dollar', '65 dollar']	['2.50 dollar', '65 dollar']	0.107758789864
+['2.50 dollar', '65 dollar']	['2.50 dollar', '65 dollar']	0.0872480951896
+['2.50 dollar', '65 dollar']	['2.50 dollar', '65 dollar']	0.0922575126852
+['2.50 dollar', '65 dollar']	['2.50 dollar', '65 dollar']	0.207135603763
+['skate', '65 dollar']	['skate', '65 dollar']	0.258301806036
+['skate', '65 dollar']	['skate', '65 dollar']	0.0385817557371
+['skate', '65 dollar']	['skate', '65 dollar']	0.033535250664
+['skate', '65 dollar']	['skate', '65 dollar']	0.124077066443
+['skate', '65 dollar']	['skate', '65 dollar']	0.0974123919368
+['skate', '65 dollar']	['skate', '65 dollar']	0.0300804212707
+['skate', '65 dollar']	['skate', '65 dollar']	0.0431414476821
+['skate', '65 dollar']	['skate', '65 dollar']	0.032495944144
+['skate new pair', '65 dollar']	['skate new pair', '65 dollar']	0.399049123595
+['skate new pair', '65 dollar']	['skate new pair', '65 dollar']	0.0824169897896
+['skate new pair', '65 dollar']	['skate new pair', '65 dollar']	0.0552648817244
+['skate new pair', '65 dollar']	['skate new pair', '65 dollar']	0.126346464602
+['skate new pair', '65 dollar']	['skate new pair', '65 dollar']	0.127774900121
+['skate new pair', '65 dollar']	['skate new pair', '65 dollar']	0.0298143310004
+['skate new pair', '65 dollar']	['skate new pair', '65 dollar']	0.0816383740628
+['skate new pair', '65 dollar']	['skate new pair', '65 dollar']	0.0824169897896
+['pair', '65 dollar']	['pair', '65 dollar']	0.241793371893
+['pair', '65 dollar']	['pair', '65 dollar']	0.0306426123102
+['pair', '65 dollar']	['pair', '65 dollar']	0.0636353727642
+['pair', '65 dollar']	['pair', '65 dollar']	0.117733533607
+['pair', '65 dollar']	['pair', '65 dollar']	0.0300804212707
+['pair', '65 dollar']	['pair', '65 dollar']	0.0595428340362
+['pair', '65 dollar']	['pair', '65 dollar']	0.0401839462081
+['pair', '65 dollar']	['pair', '65 dollar']	0.0626476964975
+['new pair', '65 dollar']	['new pair', '65 dollar']	0.499772254363
+['new pair', '65 dollar']	['new pair', '65 dollar']	0.0824169897896
+['new pair', '65 dollar']	['new pair', '65 dollar']	0.0576597143101
+['new pair', '65 dollar']	['new pair', '65 dollar']	0.251529580944
+['new pair', '65 dollar']	['new pair', '65 dollar']	0.0529187939068
+['new pair', '65 dollar']	['new pair', '65 dollar']	0.17805726727
+['new pair', '65 dollar']	['new pair', '65 dollar']	0.0463602252661
+['new pair', '65 dollar']	['new pair', '65 dollar']	0.0824169897896
+['time', '65 dollar']	['time', '65 dollar']	0.436901429018
+['time', '65 dollar']	['time', '65 dollar']	0.2245758357
+['time', '65 dollar']	['time', '65 dollar']	0.0187623278653
+['time', '65 dollar']	['time', '65 dollar']	0.199671667608
+['time', '65 dollar']	['time', '65 dollar']	0.0487217981093
+['time', '65 dollar']	['time', '65 dollar']	0.079378043998
+['time', '65 dollar']	['time', '65 dollar']	0.0585120808519
+['time', '65 dollar']	['time', '65 dollar']	0.0821022377173
+['5 dollar', 'time']	['5 dollar', 'time']	0.0995843439821
+['5 dollar', 'time']	['5 dollar', 'time']	0.0545781783971
+['5 dollar', 'time']	['5 dollar', 'time']	0.117733533607
+['5 dollar', 'time']	['5 dollar', 'time']	0.0342220510459
+['5 dollar', 'time']	['5 dollar', 'time']	0.0573338872025
+['5 dollar', 'time']	['5 dollar', 'time']	0.0610851955246
+['5 dollar', 'time']	['5 dollar', 'time']	0.0606369672893
+['5 dollar', 'time']	['5 dollar', 'time']	0.412502670633
+['admission', 'time']	['admission', 'time']	0.0894031564529
+['admission', 'time']	['admission', 'time']	0.0562988957834
+['admission', 'time']	['admission', 'time']	0.0819536939605
+['admission', 'time']	['admission', 'time']	0.295985913688
+['admission', 'time']	['admission', 'time']	0.0815545788575
+['admission', 'time']	['admission', 'time']	0.0894948047231
+['admission', 'time']	['admission', 'time']	0.0819536939605
+['admission', 'time']	['admission', 'time']	0.0819536939605
+['dollar', 'time']	['dollar', 'time']	0.0963108128266
+['dollar', 'time']	['dollar', 'time']	0.25524881368
+['dollar', 'time']	['dollar', 'time']	0.0455468282685
+['dollar', 'time']	['dollar', 'time']	0.0871454885824
+['dollar', 'time']	['dollar', 'time']	0.0349808200155
+['dollar', 'time']	['dollar', 'time']	0.0181679895573
+['dollar', 'time']	['dollar', 'time']	0.0332277349527
+['dollar', 'time']	['dollar', 'time']	0.0443496225621
+['2.50 dollar', 'time']	['2.50 dollar', 'time']	0.18575129585
+['2.50 dollar', 'time']	['2.50 dollar', 'time']	0.2245758357
+['2.50 dollar', 'time']	['2.50 dollar', 'time']	0.00569248464157
+['2.50 dollar', 'time']	['2.50 dollar', 'time']	0.0487217981093
+['2.50 dollar', 'time']	['2.50 dollar', 'time']	0.079378043998
+['2.50 dollar', 'time']	['2.50 dollar', 'time']	0.0585120808519
+['2.50 dollar', 'time']	['2.50 dollar', 'time']	0.0821022377173
+['2.50 dollar', 'time']	['2.50 dollar', 'time']	0.199671667608
+['skate', 'time']	['skate', 'time']	0.0767937492268
+['skate', 'time']	['skate', 'time']	0.186408055275
+['skate', 'time']	['skate', 'time']	0.102578200221
+['skate', 'time']	['skate', 'time']	0.0726311745998
+['skate', 'time']	['skate', 'time']	0.336961850966
+['skate', 'time']	['skate', 'time']	0.070500996037
+['skate', 'time']	['skate', 'time']	0.235785376927
+['skate', 'time']	['skate', 'time']	0.0726311745998
+['skate new pair', 'time']	['skate new pair', 'time']	0.084152480054
+['skate new pair', 'time']	['skate new pair', 'time']	0.22570050874
+['skate new pair', 'time']	['skate new pair', 'time']	0.0444946691089
+['skate new pair', 'time']	['skate new pair', 'time']	0.0812225587764
+['skate new pair', 'time']	['skate new pair', 'time']	0.447127827823
+['skate new pair', 'time']	['skate new pair', 'time']	0.024774745429
+['skate new pair', 'time']	['skate new pair', 'time']	0.121111518684
+['skate new pair', 'time']	['skate new pair', 'time']	0.0812225587764
+['pair', 'time']	['pair', 'time']	0.0767937492268
+['pair', 'time']	['pair', 'time']	0.185972602111
+['pair', 'time']	['pair', 'time']	0.102578200221
+['pair', 'time']	['pair', 'time']	0.0726311745998
+['pair', 'time']	['pair', 'time']	0.208613372118
+['pair', 'time']	['pair', 'time']	0.107769251291
+['pair', 'time']	['pair', 'time']	0.0485247612157
+['pair', 'time']	['pair', 'time']	0.0726311745998
+['new pair', 'time']	['new pair', 'time']	0.0848464129166
+['new pair', 'time']	['new pair', 'time']	0.2245758357
+['new pair', 'time']	['new pair', 'time']	0.0444946691089
+['new pair', 'time']	['new pair', 'time']	0.0821022377173
+['new pair', 'time']	['new pair', 'time']	0.204950165761
+['new pair', 'time']	['new pair', 'time']	0.0880443003436
+['new pair', 'time']	['new pair', 'time']	0.0290025946327
+['new pair', 'time']	['new pair', 'time']	0.0821022377173
+['65 dollar', 'time']	['65 dollar', 'time']	0.436901429018
+['65 dollar', 'time']	['65 dollar', 'time']	0.2245758357
+['65 dollar', 'time']	['65 dollar', 'time']	0.0187623278653
+['65 dollar', 'time']	['65 dollar', 'time']	0.199671667608
+['65 dollar', 'time']	['65 dollar', 'time']	0.0487217981093
+['65 dollar', 'time']	['65 dollar', 'time']	0.079378043998
+['65 dollar', 'time']	['65 dollar', 'time']	0.0585120808519
+['65 dollar', 'time']	['65 dollar', 'time']	0.0821022377173

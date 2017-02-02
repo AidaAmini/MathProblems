@@ -1,0 +1,16 @@
+1
+[['order', '26', 'order', '-', '-', 'dollar', '133.5'], ['catfish dinner', 'x1', 'order', 'dollar', '6', '-', '-'], ['popcorn shrimp', 'x2', 'order', 'dollar', '3.5', '-', '-']]
+-1
+[['order', 'x2', 'order', '-', '26', 'dollar', '133.5'], ['catfish dinner', 'x1', 'order', 'dollar', '6', '-', '-'], ['popcorn shrimp', 'x2', 'order', 'dollar', '26', '-', '-']]
+-1
+[['order', '26', 'order', '-', '-', 'dollar', '133.5'], ['catfish dinner', 'x1', 'order', 'dollar', '6', '-', '-'], ['popcorn shrimp', '26', 'order', 'dollar', '3.5', '-', '-']]
+-1
+[['3.5', '26', 'order', '-', '-', 'x2', '133.5'], ['catfish dinner', 'x1', 'order', 'dollar', '6', '-', '-'], ['133.5', 'x2', 'order', 'dollar', '3.5', '-', '-']]
+-1
+[['order', '26', 'order', '-', '-', '3.5', '133.5'], ['catfish dinner', 'x1', 'order', 'dollar', '6', '-', '-'], ['133.5', 'x2', 'order', 'dollar', '3.5', '-', '-']]
+-1
+[['popcorn shrimp', '26', 'x2', 'order', '-', 'dollar', '3.5'], ['catfish dinner', 'x1', 'order', 'dollar', '6', '-', '-'], ['popcorn shrimp', 'x2', '133.5', 'dollar', '3.5', '-', '-']]
+-1
+[['order', 'popcorn shrimp', 'order', '-', '-', 'dollar', '133.5'], ['catfish dinner', 'x1', 'order', 'dollar', '6', '-', '-'], ['popcorn shrimp', 'x2', 'order', 'dollar', '133.5', '-', '-']]
+-1
+[['order', 'dollar', 'popcorn shrimp', '-', '-', 'x2', '133.5'], ['catfish dinner', 'x1', 'order', 'dollar', '6', '-', '-'], ['popcorn shrimp', '133.5', 'x2', 'dollar', '3.5', '-', '-']]

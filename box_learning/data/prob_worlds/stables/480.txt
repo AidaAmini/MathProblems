@@ -1,0 +1,14 @@
+1
+[['combined item', '17', '-', '-', '-', 'dollar', '130'], ['purse', 'x1', '-', 'dollar', '7', '-', '-'], ['scarf', 'x2', '-', 'dollar', '8', '-', '-']]
+-1
+[['combined item', 'x2', '-', 'scarf', '-', 'dollar', '130'], ['purse', 'x1', '-', 'dollar', '7', '-', '-'], ['scarf', 'combined item', '-', 'dollar', '8', '-', '-']]
+-1
+[['combined item', '17', '-', '-', '-', 'dollar', '130'], ['purse', 'x1', '-', 'dollar', '7', '-', '-'], ['17', 'x2', '-', 'dollar', '8', '-', '130']]
+-1
+[['scarf', '17', '-', '-', '-', 'combined item', '130'], ['purse', 'x1', '-', 'dollar', '7', '-', '-'], ['17', 'x2', '130', 'dollar', 'combined item', '-', '-']]
+-1
+[['combined item', 'x2', '8', '-', '-', 'dollar', 'scarf'], ['purse', 'x1', '-', 'dollar', '7', '-', '-'], ['scarf', 'x2', '-', 'dollar', '8', '-', '-']]
+-1
+[['8', '17', '-', '-', '-', 'dollar', '130'], ['purse', 'x1', '-', 'dollar', '7', '-', '-'], ['scarf', 'x2', '17', 'dollar', '8', '-', '-']]
+-1
+[['x2', '17', '-', 'scarf', '-', 'dollar', '130'], ['purse', 'x1', '-', 'dollar', '7', '-', '-'], ['scarf', 'x2', '-', 'dollar', '17', '-', '-']]

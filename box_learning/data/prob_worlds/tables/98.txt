@@ -1,0 +1,26 @@
+1
+[['-', '-', '-', '-', '-', 'dollar', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', 'dollar', 'x2', '-', '-'], ['-', '-', '-', '-', '-', 'dollar', '61.7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['index card', '10', 'package', 'dollar', 'x2', '-', '-']]
+-1
+[['-', '-', '-', '61.7', '-', 'dollar', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', 'dollar', 'x2', '-', '-'], ['-', 'package', '7', '-', '-', 'dollar', '61.7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['index card', '10', 'package', 'dollar', 'x2', '-', '-']]
+-1
+[['-', '-', 'index card', 'x2', 'package', 'dollar', '61.7'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '12'], ['index card', '7', 'package', 'dollar', 'x2', '-', '-'], ['-', '-', 'index card', 'package', '-', 'dollar', '61.7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['61.7', '7', 'package', 'dollar', 'x2', '-', 'index card']]
+-1
+[['-', '-', '61.7', '-', 'x2', 'dollar', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['55.4', '7', 'package', 'dollar', 'x2', '-', '-'], ['-', '-', '-', '55.4', '-', 'dollar', '61.7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['index card', '10', 'package', 'dollar', '61.7', '-', '-']]
+-1
+[['-', '61.7', '-', '-', '-', 'dollar', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', '61.7', 'dollar', 'x2', '-', '-'], ['-', 'x2', '55.4', '-', '-', 'index card', '7'], ['paper clip', '12', 'box', 'dollar', '15', '-', '-'], ['7', '55.4', 'package', 'dollar', 'x2', '-', '-']]
+-1
+[['-', '-', '-', '7', '10', 'x2', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', 'dollar', '10', '-', 'x2'], ['-', '-', '55.4', '-', '-', 'dollar', 'package'], ['paper clip', '12', '15', 'dollar', 'x1', '-', '-'], ['x2', '10', 'index card', 'dollar', '7', '-', '-']]
+-1
+[['-', 'x2', '-', '10', '7', 'index card', 'package'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', 'dollar', 'x2', '-', '10'], ['-', 'package', '-', '-', '10', 'dollar', '61.7'], ['paper clip', '12', 'box', '15', 'x1', '-', '-'], ['index card', '10', 'package', 'dollar', 'x2', '-', '-']]
+-1
+[['-', 'x2', '-', '-', 'index card', 'dollar', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', 'dollar', 'x2', '55.4', '-'], ['-', '-', '-', 'x2', '55.4', 'dollar', '61.7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['index card', '55.4', 'package', 'dollar', 'x2', '-', '-']]
+-1
+[['x2', '-', '-', '7', 'dollar', 'package', '10'], ['12', '15', 'box', 'dollar', 'x1', '-', '-'], ['10', '7', 'package', 'dollar', 'x2', '-', '-'], ['-', '-', 'x2', '-', '-', 'package', '61.7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['index card', '10', '55.4', 'dollar', 'x2', 'package', '-']]
+-1
+[['-', '10', '-', '-', '-', 'dollar', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '12', '-'], ['index card', '10', 'package', 'dollar', 'x2', '-', '-'], ['-', 'package', '-', '-', 'x2', '55.4', '7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', 'dollar', '10', '-', '-']]
+-1
+[['-', '-', 'x2', '-', '-', 'package', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', '10', 'x2', '55.4', '-'], ['-', 'x2', '55.4', 'index card', '-', 'dollar', '61.7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', '55.4', 'dollar', 'x2', '-', '10']]
+-1
+[['-', '-', '-', '-', '-', 'dollar', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', 'dollar', 'x2', '55.4', '-'], ['55.4', '-', '-', 'x2', '-', 'dollar', '61.7'], ['paper clip', '12', 'box', 'dollar', 'x1', '-', '-'], ['index card', '61.7', 'package', 'dollar', 'x2', '-', '-']]
+-1
+[['x2', 'index card', '-', 'package', '-', 'dollar', '55.4'], ['paper clip', '15', 'box', 'dollar', 'x1', '-', '-'], ['index card', '7', 'package', 'dollar', 'x2', '-', '-'], ['-', '-', '7', 'index card', 'x2', 'package', '61.7'], ['paper clip', '12', '15', 'dollar', 'x1', '-', '-'], ['index card', '10', 'package', 'dollar', '55.4', '-', '-']]

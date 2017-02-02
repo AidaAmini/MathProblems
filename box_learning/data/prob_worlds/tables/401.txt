@@ -1,0 +1,16 @@
+1
+[['car', '55', 'gallon', '-', '-', 'mile', '1825'], ['first car', 'x1', 'gallon', 'mile', '25', '-', '-'], ['second car', 'x2', 'gallon', 'mile', '40', '-', '-']]
+-1
+[['40', '55', 'gallon', '-', '-', 'mile', '1825'], ['first car', 'x1', 'gallon', 'mile', '25', '-', '-'], ['55', 'x2', 'gallon', 'mile', '40', '-', '-']]
+-1
+[['car', '55', 'gallon', '-', '40', 'mile', '1825'], ['first car', 'x1', 'gallon', 'mile', '25', '-', '-'], ['mile', 'car', 'gallon', '55', '40', '-', '-']]
+-1
+[['car', 'second car', 'gallon', '-', '-', 'mile', 'x2'], ['first car', 'x1', 'gallon', 'mile', '25', '-', '-'], ['second car', 'x2', 'gallon', 'mile', 'car', '1825', '-']]
+-1
+[['car', '55', 'gallon', '40', 'second car', 'x2', '1825'], ['first car', 'x1', 'gallon', 'mile', '25', '-', '-'], ['second car', 'x2', 'gallon', 'mile', '40', '-', '55']]
+-1
+[['car', 'second car', 'gallon', '-', '-', '55', '1825'], ['first car', 'x1', 'gallon', 'mile', '25', '-', '-'], ['second car', 'x2', '55', 'mile', '40', '-', '-']]
+-1
+[['car', '55', 'x2', 'gallon', '-', 'mile', '1825'], ['first car', 'x1', 'gallon', 'mile', '25', '-', '-'], ['second car', 'x2', 'mile', '1825', 'gallon', 'car', '-']]
+-1
+[['car', '55', 'gallon', '-', '-', 'mile', '1825'], ['first car', 'x1', 'gallon', 'mile', '25', '-', '-'], ['55', 'x2', 'gallon', 'mile', 'car', '1825', '-']]

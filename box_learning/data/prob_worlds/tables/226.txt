@@ -1,0 +1,16 @@
+1
+[['unit', '12', 'unit', '-', '-', 'dollar', '4950'], ['1 bedroom', 'x1', 'unit', 'dollar', '360', '-', '-'], ['2 bedroom', 'x2', 'unti', 'dollar', '450', '-', '-']]
+-1
+[['x2', '12', 'dollar', '-', '-', '2 bedroom', '4950'], ['1 bedroom', 'x1', 'unit', 'dollar', '360', '-', '-'], ['4950', 'x2', 'unti', '2 bedroom', '450', '-', '12']]
+-1
+[['unit', '12', '2 bedroom', '450', '-', 'dollar', '4950'], ['1 bedroom', 'x1', 'unit', 'dollar', '360', '-', '-'], ['2 bedroom', '450', 'unti', 'dollar', '12', '-', '-']]
+-1
+[['unit', '12', '450', '2 bedroom', 'x2', 'dollar', '-'], ['1 bedroom', 'x1', 'unit', 'dollar', '360', '-', '-'], ['2 bedroom', 'x2', 'unti', '12', '450', 'dollar', '-']]
+-1
+[['unit', '12', '450', '-', '-', 'dollar', '4950'], ['1 bedroom', 'x1', 'unit', 'dollar', '360', '-', '-'], ['4950', 'x2', 'unti', 'dollar', '450', '-', '-']]
+-1
+[['unit', '12', 'unit', 'unti', '-', 'dollar', '4950'], ['1 bedroom', 'x1', 'unit', 'dollar', '360', '-', '-'], ['4950', 'x2', 'unti', 'dollar', '-', 'unit', '12']]
+-1
+[['unit', '12', '4950', '-', 'x2', 'dollar', '2 bedroom'], ['1 bedroom', 'x1', 'unit', 'dollar', '360', '-', '-'], ['12', 'x2', 'unti', 'dollar', 'unit', '-', '4950']]
+-1
+[['unit', '12', '2 bedroom', '-', '-', 'dollar', '4950'], ['1 bedroom', 'x1', 'unit', 'dollar', '360', '-', '-'], ['2 bedroom', 'x2', 'dollar', 'unit', '450', '-', '-']]

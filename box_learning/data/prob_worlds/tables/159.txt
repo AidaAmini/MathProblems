@@ -1,0 +1,16 @@
+1
+[['2.2 dollar', '80', 'pound', 'dollar', '2.2', '-', '-'], ['2-dollar candy', 'x1', 'pound', 'dollar', '2', '-', '-'], ['3-dollar candy', 'x2', 'pound', 'dollar', '3', '-', '-']]
+-1
+[['2.2 dollar', '80', '3-dollar candy', 'dollar', '2.2', '-', 'pound'], ['2-dollar candy', 'x1', 'pound', 'dollar', '2', '-', '-'], ['3-dollar candy', '2.2', 'pound', 'dollar', '80', '-', '2.2 dollar']]
+-1
+[['3', '80', 'pound', 'x2', '2.2', '3-dollar candy', 'dollar'], ['2-dollar candy', 'x1', 'pound', 'dollar', '2', '-', '-'], ['3-dollar candy', '80', '2.2 dollar', 'dollar', '3', '2.2', '-']]
+-1
+[['2.2 dollar', '80', 'pound', 'x2', '2.2', '-', '-'], ['2-dollar candy', 'x1', 'pound', 'dollar', '2', '-', '-'], ['80', 'x2', '2.2 dollar', 'dollar', '2.2', '-', '-']]
+-1
+[['2.2', '80', 'pound', 'dollar', '3-dollar candy', '-', 'x2'], ['2-dollar candy', 'x1', 'pound', 'dollar', '2', '-', '-'], ['3-dollar candy', 'x2', '2.2 dollar', '80', '2.2', '-', '-']]
+-1
+[['3', '3-dollar candy', 'pound', 'dollar', '2.2', '-', '-'], ['2-dollar candy', 'x1', 'pound', 'dollar', '2', '-', '-'], ['3-dollar candy', 'x2', 'pound', 'dollar', '-', '2.2', '3']]
+-1
+[['2.2 dollar', '80', 'pound', 'dollar', '2.2', '-', '-'], ['2-dollar candy', 'x1', 'pound', 'dollar', '2', '-', '-'], ['3-dollar candy', 'x2', 'pound', 'dollar', '2.2', '2.2 dollar', '-']]
+-1
+[['2.2', '3-dollar candy', '3', 'dollar', 'x2', '-', '-'], ['2-dollar candy', 'x1', 'pound', 'dollar', '2', '-', '-'], ['2.2 dollar', '3-dollar candy', 'pound', 'dollar', '3', '2.2', '-']]

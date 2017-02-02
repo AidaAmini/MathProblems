@@ -1,0 +1,16 @@
+1
+[['nut', '16', 'pound', '-', '-', 'dollar', '72'], ['peanut', 'x1', 'pound', 'dollar', '3', '-', '-'], ['almound', 'x2', 'pound', 'dollar', '5', '-', '-']]
+-1
+[['pound', 'x2', 'dollar', '-', '-', '5', '72'], ['peanut', 'x1', 'pound', 'dollar', '3', '-', '-'], ['nut', 'x2', 'pound', 'dollar', '5', '-', '-']]
+-1
+[['nut', '16', 'pound', '-', '-', 'dollar', '72'], ['peanut', 'x1', 'pound', 'dollar', '3', '-', '-'], ['nut', '72', 'pound', 'dollar', '5', '-', '-']]
+-1
+[['nut', '16', 'pound', 'almound', '-', 'dollar', 'x2'], ['peanut', 'x1', 'pound', 'dollar', '3', '-', '-'], ['almound', 'x2', 'pound', '16', '5', '-', '-']]
+-1
+[['x2', '16', 'pound', 'almound', '-', 'dollar', '72'], ['peanut', 'x1', 'pound', 'dollar', '3', '-', '-'], ['72', 'x2', 'pound', 'dollar', '16', '-', '-']]
+-1
+[['nut', 'almound', 'pound', '5', '-', 'dollar', '72'], ['peanut', 'x1', 'pound', 'dollar', '3', '-', '-'], ['almound', 'pound', 'nut', 'dollar', '5', '-', '-']]
+-1
+[['x2', '16', 'pound', '-', '-', 'almound', '72'], ['peanut', 'x1', 'pound', 'dollar', '3', '-', '-'], ['almound', 'x2', 'pound', 'dollar', '5', '72', '-']]
+-1
+[['nut', '5', 'pound', '-', 'almound', 'dollar', '72'], ['peanut', 'x1', 'pound', 'dollar', '3', '-', '-'], ['almound', 'x2', '72', 'dollar', '5', '-', 'pound']]

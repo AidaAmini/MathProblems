@@ -1,0 +1,8 @@
+ID=1
+(<T S[dcl] 1 2> (<T S/S 0 2> (<L S/S POS POS Together S/S>) (<L , POS POS , ,>) ) (<T S[dcl] 1 2> (<T NP 0 2> (<T NP 0 1> (<L N POS POS Jane N>) ) (<T NP\NP 1 2> (<L conj POS POS and conj>) (<T NP 0 1> (<L N POS POS Jill N>) ) ) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP POS POS have (S[dcl]\NP)/NP>) (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<L N/N POS POS 32 N/N>) (<L N POS POS dolls N>) ) ) (<L . POS POS . .>) ) ) ) ) 
+ID=2
+(<T S[dcl] 1 2> (<T NP 0 1> (<L N POS POS Jill N>) ) (<T S[dcl]\NP 0 2> (<L (S[dcl]\NP)/NP POS POS has (S[dcl]\NP)/NP>) (<T NP 0 2> (<T NP 0 1> (<T N 1 2> (<T N/N 1 2> (<L (N/N)/(N/N) POS POS 6 (N/N)/(N/N)>) (<L N/N POS POS more N/N>) ) (<L N POS POS dolls N>) ) ) (<T NP\NP 0 2> (<L (NP\NP)/S[dcl] POS POS than (NP\NP)/S[dcl]>) (<T S[dcl] 1 2> (<T NP 0 1> (<L N POS POS Jane N>) ) (<T S[dcl]\NP 0 2> (<L S[dcl]\NP POS POS does S[dcl]\NP>) (<L . POS POS . .>) ) ) ) ) ) ) 
+ID=3
+(<T S[q] 1 2> (<T S/S 0 2> (<L (S/S)/NP POS POS How (S/S)/NP>) (<T NP 0 1> (<T N 1 2> (<L N/N POS POS many N/N>) (<L N POS POS dolls N>) ) ) ) (<T S[q] 0 2> (<T S[q]/(S[b]\NP) 0 2> (<L (S[q]/(S[b]\NP))/NP POS POS does (S[q]/(S[b]\NP))/NP>) (<T NP 0 1> (<L N POS POS Jane N>) ) ) (<T S[b]\NP 0 2> (<L S[b]\NP POS POS have S[b]\NP>) (<L . POS POS ? .>) ) ) ) 
+ID=4
+(<T S[q] 1 2> (<T S/S 0 2> (<L (S/S)/NP POS POS How (S/S)/NP>) (<T NP 0 1> (<L N POS POS many N>) ) ) (<T S[q] 0 2> (<T S[q]/(S[b]\NP) 0 2> (<L (S[q]/(S[b]\NP))/NP POS POS does (S[q]/(S[b]\NP))/NP>) (<T NP 0 1> (<L N POS POS Jill N>) ) ) (<T S[b]\NP 0 2> (<L S[b]\NP POS POS have S[b]\NP>) (<L . POS POS ? .>) ) ) ) 

@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (QP (CD 1) (IN out) (IN of) (CD 2)) (NNS numbers))
+    (VP (VBZ is) (ADVP (RB thrice)) (NP (DT the) (JJ other)))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S (NP (PRP$ their) (NN sum)) (VP (VBZ is) (NP (CD 124)))))
+    (, ,)
+    (VP (VB find) (NP (DT the) (NNS numbers)))
+    (. .)))

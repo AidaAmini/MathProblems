@@ -1,0 +1,1788 @@
+['booster club', 'annual trip', 'trip', 'majority', 'club', 'baseball game', '29 ticket', 'ticket', '7 dollar', 'dollar', '9 dollar', '7-dollar ticket', '9-dollar ticket']
+['booster club']	['annual trip']	0.0854147342737
+['booster club']	['trip']	0.0888375395985
+['booster club']	['majority']	0.0888375395985
+['booster club']	['baseball game']	0.0800317642921
+['booster club']	['29 ticket']	0.0827346205535
+['booster club']	['ticket']	0.0575843031668
+['booster club']	['7 dollar']	0.0827346205535
+['booster club']	['dollar']	0.0101131233914
+['booster club']	['9 dollar']	0.0827346205535
+['booster club']	['7-dollar ticket']	0.0901100077042
+['booster club']	['9-dollar ticket']	0.0901100077042
+['annual trip']	['majority']	0.0888375395985
+['annual trip']	['club']	0.0831172035382
+['annual trip']	['baseball game']	0.0827346205535
+['annual trip']	['29 ticket']	0.0827346205535
+['annual trip']	['ticket']	0.0575843031668
+['annual trip']	['7 dollar']	0.0827346205535
+['annual trip']	['dollar']	0.0101131233914
+['annual trip']	['9 dollar']	0.0827346205535
+['annual trip']	['7-dollar ticket']	0.0901100077042
+['annual trip']	['9-dollar ticket']	0.0901100077042
+['trip']	['majority']	0.104660021814
+['trip']	['club']	0.0767389297906
+['trip']	['baseball game']	0.0901100077042
+['trip']	['29 ticket']	0.0901100077042
+['trip']	['ticket']	0.0843579964561
+['trip']	['7 dollar']	0.0901100077042
+['trip']	['dollar']	0.0252132034681
+['trip']	['9 dollar']	0.0901100077042
+['trip']	['7-dollar ticket']	0.0901100077042
+['trip']	['9-dollar ticket']	0.0901100077042
+['majority']	['club']	0.115830750171
+['majority']	['baseball game']	0.0800317642921
+['majority']	['29 ticket']	0.0793857959237
+['majority']	['ticket']	0.0760236969154
+['majority']	['7 dollar']	0.0800317642921
+['majority']	['dollar']	0.0749554537367
+['majority']	['9 dollar']	0.0800317642921
+['majority']	['7-dollar ticket']	0.0793857959237
+['majority']	['9-dollar ticket']	0.0793857959237
+['club']	['baseball game']	0.0737139440912
+['club']	['29 ticket']	0.0737139440912
+['club']	['ticket']	0.182456625894
+['club']	['7 dollar']	0.0737139440912
+['club']	['dollar']	0.00671452368913
+['club']	['9 dollar']	0.0737139440912
+['club']	['7-dollar ticket']	0.0737139440912
+['club']	['9-dollar ticket']	0.0737139440912
+['baseball game']	['29 ticket']	0.0827346205535
+['baseball game']	['ticket']	0.0575843031668
+['baseball game']	['7 dollar']	0.0827346205535
+['baseball game']	['dollar']	0.00424649792755
+['baseball game']	['9 dollar']	0.0827346205535
+['baseball game']	['7-dollar ticket']	0.0901100077042
+['baseball game']	['9-dollar ticket']	0.0901100077042
+['29 ticket']	['7 dollar']	0.125971854627
+['29 ticket']	['dollar']	0.00851929931405
+['29 ticket']	['9 dollar']	0.125971854627
+['29 ticket']	['7-dollar ticket']	0.643440930505
+['29 ticket']	['9-dollar ticket']	0.643440930505
+['ticket']	['7 dollar']	0.0759699769581
+['ticket']	['dollar']	0.00388540021915
+['ticket']	['9 dollar']	0.0759699769581
+['7 dollar']	['9 dollar']	0.828768839235
+['7 dollar']	['7-dollar ticket']	0.0901100077042
+['7 dollar']	['9-dollar ticket']	0.0901100077042
+['dollar']	['7-dollar ticket']	0.0290364390364
+['dollar']	['9-dollar ticket']	0.0290364390364
+['9 dollar']	['7-dollar ticket']	0.0901100077042
+['9 dollar']	['9-dollar ticket']	0.0901100077042
+['7-dollar ticket']	['9-dollar ticket']	0.643440930505
+['annual trip', 'booster club']	['trip']	0.70007858174
+['annual trip', 'booster club']	['majority']	0.0888375395985
+['annual trip', 'booster club']	['club']	0.744598628667
+['annual trip', 'booster club']	['baseball game']	0.0800317642921
+['annual trip', 'booster club']	['29 ticket']	0.0827346205535
+['annual trip', 'booster club']	['ticket']	0.0575843031668
+['annual trip', 'booster club']	['7 dollar']	0.0827346205535
+['annual trip', 'booster club']	['dollar']	0.0101131233914
+['annual trip', 'booster club']	['9 dollar']	0.0827346205535
+['annual trip', 'booster club']	['7-dollar ticket']	0.0901100077042
+['annual trip', 'booster club']	['9-dollar ticket']	0.0901100077042
+['trip', 'booster club']	['annual trip']	0.700931497162
+['trip', 'booster club']	['majority']	0.276494422148
+['trip', 'booster club']	['club']	0.776509041628
+['trip', 'booster club']	['baseball game']	0.0833805889219
+['trip', 'booster club']	['29 ticket']	0.0827346205535
+['trip', 'booster club']	['ticket']	0.561208302908
+['trip', 'booster club']	['7 dollar']	0.0827346205535
+['trip', 'booster club']	['dollar']	0.0430535790549
+['trip', 'booster club']	['9 dollar']	0.0827346205535
+['trip', 'booster club']	['7-dollar ticket']	0.0901100077042
+['trip', 'booster club']	['9-dollar ticket']	0.0901100077042
+['majority', 'booster club']	['annual trip']	0.083785214554
+['majority', 'booster club']	['trip']	0.276494422148
+['majority', 'booster club']	['club']	0.776509041628
+['majority', 'booster club']	['baseball game']	0.0800317642921
+['majority', 'booster club']	['29 ticket']	0.0827346205535
+['majority', 'booster club']	['ticket']	0.527729720088
+['majority', 'booster club']	['7 dollar']	0.0819994954072
+['majority', 'booster club']	['dollar']	0.0737639281057
+['majority', 'booster club']	['9 dollar']	0.0819994954072
+['majority', 'booster club']	['7-dollar ticket']	0.0827346205535
+['majority', 'booster club']	['9-dollar ticket']	0.0827346205535
+['club', 'booster club']	['annual trip']	0.223557185055
+['club', 'booster club']	['trip']	0.391778704054
+['club', 'booster club']	['majority']	0.391778704054
+['club', 'booster club']	['baseball game']	0.21925775957
+['club', 'booster club']	['29 ticket']	0.136831688603
+['club', 'booster club']	['ticket']	0.560647541905
+['club', 'booster club']	['7 dollar']	0.136831688603
+['club', 'booster club']	['dollar']	0.119145388713
+['club', 'booster club']	['9 dollar']	0.136831688603
+['club', 'booster club']	['7-dollar ticket']	0.139259023173
+['club', 'booster club']	['9-dollar ticket']	0.139259023173
+['baseball game', 'booster club']	['annual trip']	0.083785214554
+['baseball game', 'booster club']	['trip']	0.0777864840342
+['baseball game', 'booster club']	['majority']	0.0777864840342
+['baseball game', 'booster club']	['club']	0.814756769613
+['baseball game', 'booster club']	['29 ticket']	0.0827346205535
+['baseball game', 'booster club']	['ticket']	0.0575843031668
+['baseball game', 'booster club']	['7 dollar']	0.0827346205535
+['baseball game', 'booster club']	['dollar']	0.00424649792755
+['baseball game', 'booster club']	['9 dollar']	0.0827346205535
+['baseball game', 'booster club']	['7-dollar ticket']	0.0901100077042
+['baseball game', 'booster club']	['9-dollar ticket']	0.0901100077042
+['29 ticket', 'booster club']	['annual trip']	0.083785214554
+['29 ticket', 'booster club']	['trip']	0.0888375395985
+['29 ticket', 'booster club']	['majority']	0.0777864840342
+['29 ticket', 'booster club']	['club']	0.744598628667
+['29 ticket', 'booster club']	['baseball game']	0.0833805889219
+['29 ticket', 'booster club']	['ticket']	0.421420478144
+['29 ticket', 'booster club']	['7 dollar']	0.140649313257
+['29 ticket', 'booster club']	['dollar']	0.0077840051964
+['29 ticket', 'booster club']	['9 dollar']	0.140649313257
+['29 ticket', 'booster club']	['7-dollar ticket']	0.584269096576
+['29 ticket', 'booster club']	['9-dollar ticket']	0.584269096576
+['ticket', 'booster club']	['annual trip']	0.0470331021924
+['ticket', 'booster club']	['trip']	0.539431580062
+['ticket', 'booster club']	['majority']	0.505952997241
+['ticket', 'booster club']	['club']	0.826761419413
+['ticket', 'booster club']	['baseball game']	0.0476289326264
+['ticket', 'booster club']	['29 ticket']	0.539969245035
+['ticket', 'booster club']	['7 dollar']	0.0563939725707
+['ticket', 'booster club']	['dollar']	0.0241916360859
+['ticket', 'booster club']	['9 dollar']	0.0563939725707
+['ticket', 'booster club']	['7-dollar ticket']	0.59068738808
+['ticket', 'booster club']	['9-dollar ticket']	0.59068738808
+['7 dollar', 'booster club']	['annual trip']	0.083785214554
+['7 dollar', 'booster club']	['trip']	0.0777864840342
+['7 dollar', 'booster club']	['majority']	0.0777864840342
+['7 dollar', 'booster club']	['club']	0.811184667784
+['7 dollar', 'booster club']	['baseball game']	0.0833805889219
+['7 dollar', 'booster club']	['29 ticket']	0.140649313257
+['7 dollar', 'booster club']	['ticket']	0.0595801389141
+['7 dollar', 'booster club']	['dollar']	0.219544418923
+['7 dollar', 'booster club']	['9 dollar']	0.754360422532
+['7 dollar', 'booster club']	['7-dollar ticket']	0.0901100077042
+['7 dollar', 'booster club']	['9-dollar ticket']	0.0901100077042
+['dollar', 'booster club']	['annual trip']	0.0154105889865
+['dollar', 'booster club']	['trip']	0.0486443405719
+['dollar', 'booster club']	['majority']	0.0522325364136
+['dollar', 'booster club']	['club']	0.331312938682
+['dollar', 'booster club']	['baseball game']	0.0160064194205
+['dollar', 'booster club']	['29 ticket']	0.0221369896995
+['dollar', 'booster club']	['ticket']	0.0389235060065
+['dollar', 'booster club']	['7 dollar']	0.278797016241
+['dollar', 'booster club']	['9 dollar']	0.278797016241
+['dollar', 'booster club']	['7-dollar ticket']	0.137373202455
+['dollar', 'booster club']	['9-dollar ticket']	0.137373202455
+['9 dollar', 'booster club']	['annual trip']	0.083785214554
+['9 dollar', 'booster club']	['trip']	0.0777864840342
+['9 dollar', 'booster club']	['majority']	0.0777864840342
+['9 dollar', 'booster club']	['club']	0.811184667784
+['9 dollar', 'booster club']	['baseball game']	0.0833805889219
+['9 dollar', 'booster club']	['29 ticket']	0.140649313257
+['9 dollar', 'booster club']	['ticket']	0.0595801389141
+['9 dollar', 'booster club']	['7 dollar']	0.754360422532
+['9 dollar', 'booster club']	['dollar']	0.219544418923
+['9 dollar', 'booster club']	['7-dollar ticket']	0.0901100077042
+['9 dollar', 'booster club']	['9-dollar ticket']	0.0901100077042
+['7-dollar ticket', 'booster club']	['annual trip']	0.0871340391838
+['7-dollar ticket', 'booster club']	['trip']	0.0888375395985
+['7-dollar ticket', 'booster club']	['majority']	0.0777864840342
+['7-dollar ticket', 'booster club']	['club']	0.744598628667
+['7-dollar ticket', 'booster club']	['baseball game']	0.0833805889219
+['7-dollar ticket', 'booster club']	['29 ticket']	0.573408386835
+['7-dollar ticket', 'booster club']	['ticket']	0.558667402162
+['7-dollar ticket', 'booster club']	['7 dollar']	0.0827346205535
+['7-dollar ticket', 'booster club']	['dollar']	0.0979096772016
+['7-dollar ticket', 'booster club']	['9 dollar']	0.0827346205535
+['7-dollar ticket', 'booster club']	['9-dollar ticket']	0.584269096576
+['9-dollar ticket', 'booster club']	['annual trip']	0.0871340391838
+['9-dollar ticket', 'booster club']	['trip']	0.0888375395985
+['9-dollar ticket', 'booster club']	['majority']	0.0777864840342
+['9-dollar ticket', 'booster club']	['club']	0.744598628667
+['9-dollar ticket', 'booster club']	['baseball game']	0.0833805889219
+['9-dollar ticket', 'booster club']	['29 ticket']	0.573408386835
+['9-dollar ticket', 'booster club']	['ticket']	0.558667402162
+['9-dollar ticket', 'booster club']	['7 dollar']	0.0827346205535
+['9-dollar ticket', 'booster club']	['dollar']	0.0979096772016
+['9-dollar ticket', 'booster club']	['9 dollar']	0.0827346205535
+['9-dollar ticket', 'booster club']	['7-dollar ticket']	0.584269096576
+['booster club', 'annual trip']	['trip']	0.70007858174
+['booster club', 'annual trip']	['majority']	0.0888375395985
+['booster club', 'annual trip']	['club']	0.744598628667
+['booster club', 'annual trip']	['baseball game']	0.0800317642921
+['booster club', 'annual trip']	['29 ticket']	0.0827346205535
+['booster club', 'annual trip']	['ticket']	0.0575843031668
+['booster club', 'annual trip']	['7 dollar']	0.0827346205535
+['booster club', 'annual trip']	['dollar']	0.0101131233914
+['booster club', 'annual trip']	['9 dollar']	0.0827346205535
+['booster club', 'annual trip']	['7-dollar ticket']	0.0901100077042
+['booster club', 'annual trip']	['9-dollar ticket']	0.0901100077042
+['trip', 'annual trip']	['booster club']	0.235702673466
+['trip', 'annual trip']	['majority']	0.454552603829
+['trip', 'annual trip']	['club']	0.392842319923
+['trip', 'annual trip']	['baseball game']	0.153587928078
+['trip', 'annual trip']	['29 ticket']	0.14589133531
+['trip', 'annual trip']	['ticket']	0.507277394308
+['trip', 'annual trip']	['7 dollar']	0.14589133531
+['trip', 'annual trip']	['dollar']	0.137358910256
+['trip', 'annual trip']	['9 dollar']	0.14589133531
+['trip', 'annual trip']	['7-dollar ticket']	0.14831866988
+['trip', 'annual trip']	['9-dollar ticket']	0.14831866988
+['majority', 'annual trip']	['booster club']	0.083785214554
+['majority', 'annual trip']	['trip']	0.768953961472
+['majority', 'annual trip']	['club']	0.19603525097
+['majority', 'annual trip']	['baseball game']	0.0800317642921
+['majority', 'annual trip']	['29 ticket']	0.0827346205535
+['majority', 'annual trip']	['ticket']	0.527729720088
+['majority', 'annual trip']	['7 dollar']	0.0833805889219
+['majority', 'annual trip']	['dollar']	0.0737639281057
+['majority', 'annual trip']	['9 dollar']	0.0833805889219
+['majority', 'annual trip']	['7-dollar ticket']	0.0827346205535
+['majority', 'annual trip']	['9-dollar ticket']	0.0827346205535
+['club', 'annual trip']	['booster club']	0.798393927818
+['club', 'annual trip']	['trip']	0.700715886814
+['club', 'annual trip']	['majority']	0.182762001964
+['club', 'annual trip']	['baseball game']	0.0696933362217
+['club', 'annual trip']	['29 ticket']	0.0696933362217
+['club', 'annual trip']	['ticket']	0.534995566086
+['club', 'annual trip']	['7 dollar']	0.0696933362217
+['club', 'annual trip']	['dollar']	0.00671452368913
+['club', 'annual trip']	['9 dollar']	0.0696933362217
+['club', 'annual trip']	['7-dollar ticket']	0.0737139440912
+['club', 'annual trip']	['9-dollar ticket']	0.0737139440912
+['baseball game', 'annual trip']	['booster club']	0.092336172472
+['baseball game', 'annual trip']	['trip']	0.732659427184
+['baseball game', 'annual trip']	['majority']	0.0777864840342
+['baseball game', 'annual trip']	['club']	0.0966764293888
+['baseball game', 'annual trip']	['29 ticket']	0.0827346205535
+['baseball game', 'annual trip']	['ticket']	0.0575843031668
+['baseball game', 'annual trip']	['7 dollar']	0.0827346205535
+['baseball game', 'annual trip']	['dollar']	0.00424649792755
+['baseball game', 'annual trip']	['9 dollar']	0.0827346205535
+['baseball game', 'annual trip']	['7-dollar ticket']	0.0901100077042
+['baseball game', 'annual trip']	['9-dollar ticket']	0.0901100077042
+['29 ticket', 'annual trip']	['booster club']	0.083785214554
+['29 ticket', 'annual trip']	['trip']	0.70007858174
+['29 ticket', 'annual trip']	['majority']	0.0777864840342
+['29 ticket', 'annual trip']	['club']	0.0831172035382
+['29 ticket', 'annual trip']	['baseball game']	0.0827346205535
+['29 ticket', 'annual trip']	['ticket']	0.421420478144
+['29 ticket', 'annual trip']	['7 dollar']	0.140649313257
+['29 ticket', 'annual trip']	['dollar']	0.0077840051964
+['29 ticket', 'annual trip']	['9 dollar']	0.140649313257
+['29 ticket', 'annual trip']	['7-dollar ticket']	0.584269096576
+['29 ticket', 'annual trip']	['9-dollar ticket']	0.584269096576
+['ticket', 'annual trip']	['booster club']	0.0470331021924
+['ticket', 'annual trip']	['trip']	0.839564054809
+['ticket', 'annual trip']	['majority']	0.505952997241
+['ticket', 'annual trip']	['club']	0.534995566086
+['ticket', 'annual trip']	['baseball game']	0.0465787639079
+['ticket', 'annual trip']	['29 ticket']	0.505974686889
+['ticket', 'annual trip']	['7 dollar']	0.0563939725707
+['ticket', 'annual trip']	['dollar']	0.0241916360859
+['ticket', 'annual trip']	['9 dollar']	0.0563939725707
+['ticket', 'annual trip']	['7-dollar ticket']	0.59068738808
+['ticket', 'annual trip']	['9-dollar ticket']	0.59068738808
+['7 dollar', 'annual trip']	['booster club']	0.083785214554
+['7 dollar', 'annual trip']	['trip']	0.722511270791
+['7 dollar', 'annual trip']	['majority']	0.0777864840342
+['7 dollar', 'annual trip']	['club']	0.0774561735493
+['7 dollar', 'annual trip']	['baseball game']	0.0827346205535
+['7 dollar', 'annual trip']	['29 ticket']	0.140649313257
+['7 dollar', 'annual trip']	['ticket']	0.0595801389141
+['7 dollar', 'annual trip']	['dollar']	0.219544418923
+['7 dollar', 'annual trip']	['9 dollar']	0.754360422532
+['7 dollar', 'annual trip']	['7-dollar ticket']	0.0901100077042
+['7 dollar', 'annual trip']	['9-dollar ticket']	0.0901100077042
+['dollar', 'annual trip']	['booster club']	0.0154105889865
+['dollar', 'annual trip']	['trip']	0.333179993896
+['dollar', 'annual trip']	['majority']	0.0522325364136
+['dollar', 'annual trip']	['club']	0.0175594313674
+['dollar', 'annual trip']	['baseball game']	0.0160064194205
+['dollar', 'annual trip']	['29 ticket']	0.0221369896995
+['dollar', 'annual trip']	['ticket']	0.0389235060065
+['dollar', 'annual trip']	['7 dollar']	0.278797016241
+['dollar', 'annual trip']	['9 dollar']	0.278797016241
+['dollar', 'annual trip']	['7-dollar ticket']	0.137373202455
+['dollar', 'annual trip']	['9-dollar ticket']	0.137373202455
+['9 dollar', 'annual trip']	['booster club']	0.083785214554
+['9 dollar', 'annual trip']	['trip']	0.722511270791
+['9 dollar', 'annual trip']	['majority']	0.0777864840342
+['9 dollar', 'annual trip']	['club']	0.0774561735493
+['9 dollar', 'annual trip']	['baseball game']	0.0827346205535
+['9 dollar', 'annual trip']	['29 ticket']	0.140649313257
+['9 dollar', 'annual trip']	['ticket']	0.0595801389141
+['9 dollar', 'annual trip']	['7 dollar']	0.754360422532
+['9 dollar', 'annual trip']	['dollar']	0.219544418923
+['9 dollar', 'annual trip']	['7-dollar ticket']	0.0901100077042
+['9 dollar', 'annual trip']	['9-dollar ticket']	0.0901100077042
+['7-dollar ticket', 'annual trip']	['booster club']	0.0871340391838
+['7-dollar ticket', 'annual trip']	['trip']	0.70007858174
+['7-dollar ticket', 'annual trip']	['majority']	0.0777864840342
+['7-dollar ticket', 'annual trip']	['club']	0.0831172035382
+['7-dollar ticket', 'annual trip']	['baseball game']	0.0827346205535
+['7-dollar ticket', 'annual trip']	['29 ticket']	0.573408386835
+['7-dollar ticket', 'annual trip']	['ticket']	0.558667402162
+['7-dollar ticket', 'annual trip']	['7 dollar']	0.0827346205535
+['7-dollar ticket', 'annual trip']	['dollar']	0.0979096772016
+['7-dollar ticket', 'annual trip']	['9 dollar']	0.0827346205535
+['7-dollar ticket', 'annual trip']	['9-dollar ticket']	0.584269096576
+['9-dollar ticket', 'annual trip']	['booster club']	0.0871340391838
+['9-dollar ticket', 'annual trip']	['trip']	0.70007858174
+['9-dollar ticket', 'annual trip']	['majority']	0.0777864840342
+['9-dollar ticket', 'annual trip']	['club']	0.0831172035382
+['9-dollar ticket', 'annual trip']	['baseball game']	0.0827346205535
+['9-dollar ticket', 'annual trip']	['29 ticket']	0.573408386835
+['9-dollar ticket', 'annual trip']	['ticket']	0.558667402162
+['9-dollar ticket', 'annual trip']	['7 dollar']	0.0827346205535
+['9-dollar ticket', 'annual trip']	['dollar']	0.0979096772016
+['9-dollar ticket', 'annual trip']	['9 dollar']	0.0827346205535
+['9-dollar ticket', 'annual trip']	['7-dollar ticket']	0.584269096576
+['booster club', 'trip']	['annual trip']	0.700931497162
+['booster club', 'trip']	['majority']	0.276494422148
+['booster club', 'trip']	['club']	0.776509041628
+['booster club', 'trip']	['baseball game']	0.0833805889219
+['booster club', 'trip']	['29 ticket']	0.0827346205535
+['booster club', 'trip']	['ticket']	0.561208302908
+['booster club', 'trip']	['7 dollar']	0.0827346205535
+['booster club', 'trip']	['dollar']	0.0430535790549
+['booster club', 'trip']	['9 dollar']	0.0827346205535
+['booster club', 'trip']	['7-dollar ticket']	0.0901100077042
+['booster club', 'trip']	['9-dollar ticket']	0.0901100077042
+['annual trip', 'trip']	['booster club']	0.235702673466
+['annual trip', 'trip']	['majority']	0.454552603829
+['annual trip', 'trip']	['club']	0.392842319923
+['annual trip', 'trip']	['baseball game']	0.153587928078
+['annual trip', 'trip']	['29 ticket']	0.14589133531
+['annual trip', 'trip']	['ticket']	0.507277394308
+['annual trip', 'trip']	['7 dollar']	0.14589133531
+['annual trip', 'trip']	['dollar']	0.137358910256
+['annual trip', 'trip']	['9 dollar']	0.14589133531
+['annual trip', 'trip']	['7-dollar ticket']	0.14831866988
+['annual trip', 'trip']	['9-dollar ticket']	0.14831866988
+['majority', 'trip']	['booster club']	0.0827346205535
+['majority', 'trip']	['annual trip']	0.674549841829
+['majority', 'trip']	['club']	0.115830750171
+['majority', 'trip']	['baseball game']	0.0833805889219
+['majority', 'trip']	['29 ticket']	0.0827346205535
+['majority', 'trip']	['ticket']	0.0853615370141
+['majority', 'trip']	['7 dollar']	0.0833805889219
+['majority', 'trip']	['dollar']	0.072441176783
+['majority', 'trip']	['9 dollar']	0.0833805889219
+['majority', 'trip']	['7-dollar ticket']	0.0827346205535
+['majority', 'trip']	['9-dollar ticket']	0.0827346205535
+['club', 'trip']	['booster club']	0.67003779489
+['club', 'trip']	['annual trip']	0.675221062806
+['club', 'trip']	['majority']	0.20476845276
+['club', 'trip']	['baseball game']	0.0737139440912
+['club', 'trip']	['29 ticket']	0.0737139440912
+['club', 'trip']	['ticket']	0.268079004909
+['club', 'trip']	['7 dollar']	0.0737139440912
+['club', 'trip']	['dollar']	0.00671452368913
+['club', 'trip']	['9 dollar']	0.0737139440912
+['club', 'trip']	['7-dollar ticket']	0.0737139440912
+['club', 'trip']	['9-dollar ticket']	0.0737139440912
+['baseball game', 'trip']	['booster club']	0.0833805889219
+['baseball game', 'trip']	['annual trip']	0.674335113087
+['baseball game', 'trip']	['majority']	0.32376942094
+['baseball game', 'trip']	['club']	0.29681680625
+['baseball game', 'trip']	['29 ticket']	0.0827346205535
+['baseball game', 'trip']	['ticket']	0.561208302908
+['baseball game', 'trip']	['7 dollar']	0.0827346205535
+['baseball game', 'trip']	['dollar']	0.0644596808638
+['baseball game', 'trip']	['9 dollar']	0.0827346205535
+['baseball game', 'trip']	['7-dollar ticket']	0.0901100077042
+['baseball game', 'trip']	['9-dollar ticket']	0.0901100077042
+['29 ticket', 'trip']	['booster club']	0.0827346205535
+['29 ticket', 'trip']	['annual trip']	0.648578713416
+['29 ticket', 'trip']	['majority']	0.32863955081
+['29 ticket', 'trip']	['club']	0.19603525097
+['29 ticket', 'trip']	['baseball game']	0.0827346205535
+['29 ticket', 'trip']	['ticket']	0.639154047244
+['29 ticket', 'trip']	['7 dollar']	0.124206600218
+['29 ticket', 'trip']	['dollar']	0.105887615674
+['29 ticket', 'trip']	['9 dollar']	0.124206600218
+['29 ticket', 'trip']	['7-dollar ticket']	0.584269096576
+['29 ticket', 'trip']	['9-dollar ticket']	0.584269096576
+['ticket', 'trip']	['booster club']	0.0429586976843
+['ticket', 'trip']	['annual trip']	0.64832176372
+['ticket', 'trip']	['majority']	0.312672325608
+['ticket', 'trip']	['club']	0.424679406697
+['ticket', 'trip']	['baseball game']	0.0429586976843
+['ticket', 'trip']	['29 ticket']	0.509086603153
+['ticket', 'trip']	['7 dollar']	0.0563939725707
+['ticket', 'trip']	['dollar']	0.0241916360859
+['ticket', 'trip']	['9 dollar']	0.0563939725707
+['ticket', 'trip']	['7-dollar ticket']	0.580461323506
+['ticket', 'trip']	['9-dollar ticket']	0.580461323506
+['7 dollar', 'trip']	['booster club']	0.0827346205535
+['7 dollar', 'trip']	['annual trip']	0.648578713416
+['7 dollar', 'trip']	['majority']	0.32376942094
+['7 dollar', 'trip']	['club']	0.192648399091
+['7 dollar', 'trip']	['baseball game']	0.0827346205535
+['7 dollar', 'trip']	['29 ticket']	0.124206600218
+['7 dollar', 'trip']	['ticket']	0.684712441263
+['7 dollar', 'trip']	['dollar']	0.466235307613
+['7 dollar', 'trip']	['9 dollar']	0.760386850763
+['7 dollar', 'trip']	['7-dollar ticket']	0.0901100077042
+['7 dollar', 'trip']	['9-dollar ticket']	0.0901100077042
+['dollar', 'trip']	['booster club']	0.015360451052
+['dollar', 'trip']	['annual trip']	0.302588939335
+['dollar', 'trip']	['majority']	0.162826435842
+['dollar', 'trip']	['club']	0.0452864383549
+['dollar', 'trip']	['baseball game']	0.0160064194205
+['dollar', 'trip']	['29 ticket']	0.0221369896995
+['dollar', 'trip']	['ticket']	0.215001872521
+['dollar', 'trip']	['7 dollar']	0.293611831056
+['dollar', 'trip']	['9 dollar']	0.293611831056
+['dollar', 'trip']	['7-dollar ticket']	0.161182726265
+['dollar', 'trip']	['9-dollar ticket']	0.161182726265
+['9 dollar', 'trip']	['booster club']	0.0827346205535
+['9 dollar', 'trip']	['annual trip']	0.648578713416
+['9 dollar', 'trip']	['majority']	0.32376942094
+['9 dollar', 'trip']	['club']	0.192648399091
+['9 dollar', 'trip']	['baseball game']	0.0827346205535
+['9 dollar', 'trip']	['29 ticket']	0.124206600218
+['9 dollar', 'trip']	['ticket']	0.684712441263
+['9 dollar', 'trip']	['7 dollar']	0.760386850763
+['9 dollar', 'trip']	['dollar']	0.466235307613
+['9 dollar', 'trip']	['7-dollar ticket']	0.0901100077042
+['9 dollar', 'trip']	['9-dollar ticket']	0.0901100077042
+['7-dollar ticket', 'trip']	['booster club']	0.0901100077042
+['7-dollar ticket', 'trip']	['annual trip']	0.648578713416
+['7-dollar ticket', 'trip']	['majority']	0.32863955081
+['7-dollar ticket', 'trip']	['club']	0.19603525097
+['7-dollar ticket', 'trip']	['baseball game']	0.0901100077042
+['7-dollar ticket', 'trip']	['29 ticket']	0.584269096576
+['7-dollar ticket', 'trip']	['ticket']	0.745548310289
+['7-dollar ticket', 'trip']	['7 dollar']	0.0901100077042
+['7-dollar ticket', 'trip']	['dollar']	0.179739498682
+['7-dollar ticket', 'trip']	['9 dollar']	0.0901100077042
+['7-dollar ticket', 'trip']	['9-dollar ticket']	0.584269096576
+['9-dollar ticket', 'trip']	['booster club']	0.0901100077042
+['9-dollar ticket', 'trip']	['annual trip']	0.648578713416
+['9-dollar ticket', 'trip']	['majority']	0.32863955081
+['9-dollar ticket', 'trip']	['club']	0.19603525097
+['9-dollar ticket', 'trip']	['baseball game']	0.0901100077042
+['9-dollar ticket', 'trip']	['29 ticket']	0.584269096576
+['9-dollar ticket', 'trip']	['ticket']	0.745548310289
+['9-dollar ticket', 'trip']	['7 dollar']	0.0901100077042
+['9-dollar ticket', 'trip']	['dollar']	0.179739498682
+['9-dollar ticket', 'trip']	['9 dollar']	0.0901100077042
+['9-dollar ticket', 'trip']	['7-dollar ticket']	0.584269096576
+['booster club', 'majority']	['annual trip']	0.083785214554
+['booster club', 'majority']	['trip']	0.276494422148
+['booster club', 'majority']	['club']	0.776509041628
+['booster club', 'majority']	['baseball game']	0.0800317642921
+['booster club', 'majority']	['29 ticket']	0.0827346205535
+['booster club', 'majority']	['ticket']	0.527729720088
+['booster club', 'majority']	['7 dollar']	0.0819994954072
+['booster club', 'majority']	['dollar']	0.0737639281057
+['booster club', 'majority']	['9 dollar']	0.0819994954072
+['booster club', 'majority']	['7-dollar ticket']	0.0827346205535
+['booster club', 'majority']	['9-dollar ticket']	0.0827346205535
+['annual trip', 'majority']	['booster club']	0.083785214554
+['annual trip', 'majority']	['trip']	0.768953961472
+['annual trip', 'majority']	['club']	0.19603525097
+['annual trip', 'majority']	['baseball game']	0.0800317642921
+['annual trip', 'majority']	['29 ticket']	0.0827346205535
+['annual trip', 'majority']	['ticket']	0.527729720088
+['annual trip', 'majority']	['7 dollar']	0.0833805889219
+['annual trip', 'majority']	['dollar']	0.0737639281057
+['annual trip', 'majority']	['9 dollar']	0.0833805889219
+['annual trip', 'majority']	['7-dollar ticket']	0.0827346205535
+['annual trip', 'majority']	['9-dollar ticket']	0.0827346205535
+['trip', 'majority']	['booster club']	0.0827346205535
+['trip', 'majority']	['annual trip']	0.674549841829
+['trip', 'majority']	['club']	0.115830750171
+['trip', 'majority']	['baseball game']	0.0833805889219
+['trip', 'majority']	['29 ticket']	0.0827346205535
+['trip', 'majority']	['ticket']	0.0853615370141
+['trip', 'majority']	['7 dollar']	0.0833805889219
+['trip', 'majority']	['dollar']	0.072441176783
+['trip', 'majority']	['9 dollar']	0.0833805889219
+['trip', 'majority']	['7-dollar ticket']	0.0827346205535
+['trip', 'majority']	['9-dollar ticket']	0.0827346205535
+['club', 'majority']	['booster club']	0.745464819912
+['club', 'majority']	['annual trip']	0.0696933362217
+['club', 'majority']	['trip']	0.16567663238
+['club', 'majority']	['baseball game']	0.0703393045902
+['club', 'majority']	['29 ticket']	0.0696933362217
+['club', 'majority']	['ticket']	0.232220419051
+['club', 'majority']	['7 dollar']	0.0703393045902
+['club', 'majority']	['dollar']	0.00671452368913
+['club', 'majority']	['9 dollar']	0.0703393045902
+['club', 'majority']	['7-dollar ticket']	0.0696933362217
+['club', 'majority']	['9-dollar ticket']	0.0696933362217
+['baseball game', 'majority']	['booster club']	0.0800317642921
+['baseball game', 'majority']	['annual trip']	0.0827346205535
+['baseball game', 'majority']	['trip']	0.32376942094
+['baseball game', 'majority']	['club']	0.29681680625
+['baseball game', 'majority']	['29 ticket']	0.0827346205535
+['baseball game', 'majority']	['ticket']	0.527729720088
+['baseball game', 'majority']	['7 dollar']	0.0833805889219
+['baseball game', 'majority']	['dollar']	0.0963437388348
+['baseball game', 'majority']	['9 dollar']	0.0833805889219
+['baseball game', 'majority']	['7-dollar ticket']	0.0827346205535
+['baseball game', 'majority']	['9-dollar ticket']	0.0827346205535
+['29 ticket', 'majority']	['booster club']	0.0827346205535
+['29 ticket', 'majority']	['annual trip']	0.0827346205535
+['29 ticket', 'majority']	['trip']	0.276494422148
+['29 ticket', 'majority']	['club']	0.19603525097
+['29 ticket', 'majority']	['baseball game']	0.0833805889219
+['29 ticket', 'majority']	['ticket']	0.652672170911
+['29 ticket', 'majority']	['7 dollar']	0.142114993124
+['29 ticket', 'majority']	['dollar']	0.137771673645
+['29 ticket', 'majority']	['9 dollar']	0.142114993124
+['29 ticket', 'majority']	['7-dollar ticket']	0.538007739106
+['29 ticket', 'majority']	['9-dollar ticket']	0.538007739106
+['ticket', 'majority']	['booster club']	0.0454050549877
+['ticket', 'majority']	['annual trip']	0.0454050549877
+['ticket', 'majority']	['trip']	0.313051113487
+['ticket', 'majority']	['club']	0.424679406697
+['ticket', 'majority']	['baseball game']	0.0476289326264
+['ticket', 'majority']	['29 ticket']	0.542074426038
+['ticket', 'majority']	['7 dollar']	0.0637381046393
+['ticket', 'majority']	['dollar']	0.0241916360859
+['ticket', 'majority']	['9 dollar']	0.0637381046393
+['ticket', 'majority']	['7-dollar ticket']	0.662811585637
+['ticket', 'majority']	['9-dollar ticket']	0.662811585637
+['7 dollar', 'majority']	['booster club']	0.0827346205535
+['7 dollar', 'majority']	['annual trip']	0.0827346205535
+['7 dollar', 'majority']	['trip']	0.266512184964
+['7 dollar', 'majority']	['club']	0.192648399091
+['7 dollar', 'majority']	['baseball game']	0.0833805889219
+['7 dollar', 'majority']	['29 ticket']	0.149036431322
+['7 dollar', 'majority']	['ticket']	0.655599887151
+['7 dollar', 'majority']	['dollar']	0.466235307613
+['7 dollar', 'majority']	['9 dollar']	0.800833695134
+['7 dollar', 'majority']	['7-dollar ticket']	0.0827346205535
+['7 dollar', 'majority']	['9-dollar ticket']	0.0827346205535
+['dollar', 'majority']	['booster club']	0.015360451052
+['dollar', 'majority']	['annual trip']	0.015360451052
+['dollar', 'majority']	['trip']	0.162826435842
+['dollar', 'majority']	['club']	0.0416982425131
+['dollar', 'majority']	['baseball game']	0.0160064194205
+['dollar', 'majority']	['29 ticket']	0.0377827356252
+['dollar', 'majority']	['ticket']	0.226544934722
+['dollar', 'majority']	['7 dollar']	0.307057925216
+['dollar', 'majority']	['9 dollar']	0.307057925216
+['dollar', 'majority']	['7-dollar ticket']	0.13927796436
+['dollar', 'majority']	['9-dollar ticket']	0.13927796436
+['9 dollar', 'majority']	['booster club']	0.0827346205535
+['9 dollar', 'majority']	['annual trip']	0.0827346205535
+['9 dollar', 'majority']	['trip']	0.266512184964
+['9 dollar', 'majority']	['club']	0.192648399091
+['9 dollar', 'majority']	['baseball game']	0.0833805889219
+['9 dollar', 'majority']	['29 ticket']	0.149036431322
+['9 dollar', 'majority']	['ticket']	0.655599887151
+['9 dollar', 'majority']	['7 dollar']	0.800833695134
+['9 dollar', 'majority']	['dollar']	0.466235307613
+['9 dollar', 'majority']	['7-dollar ticket']	0.0827346205535
+['9 dollar', 'majority']	['9-dollar ticket']	0.0827346205535
+['7-dollar ticket', 'majority']	['booster club']	0.0827346205535
+['7-dollar ticket', 'majority']	['annual trip']	0.0827346205535
+['7-dollar ticket', 'majority']	['trip']	0.276494422148
+['7-dollar ticket', 'majority']	['club']	0.19603525097
+['7-dollar ticket', 'majority']	['baseball game']	0.0833805889219
+['7-dollar ticket', 'majority']	['29 ticket']	0.538007739106
+['7-dollar ticket', 'majority']	['ticket']	0.73709572892
+['7-dollar ticket', 'majority']	['7 dollar']	0.0833805889219
+['7-dollar ticket', 'majority']	['dollar']	0.179739498682
+['7-dollar ticket', 'majority']	['9 dollar']	0.0833805889219
+['7-dollar ticket', 'majority']	['9-dollar ticket']	0.538007739106
+['9-dollar ticket', 'majority']	['booster club']	0.0827346205535
+['9-dollar ticket', 'majority']	['annual trip']	0.0827346205535
+['9-dollar ticket', 'majority']	['trip']	0.276494422148
+['9-dollar ticket', 'majority']	['club']	0.19603525097
+['9-dollar ticket', 'majority']	['baseball game']	0.0833805889219
+['9-dollar ticket', 'majority']	['29 ticket']	0.538007739106
+['9-dollar ticket', 'majority']	['ticket']	0.73709572892
+['9-dollar ticket', 'majority']	['7 dollar']	0.0833805889219
+['9-dollar ticket', 'majority']	['dollar']	0.179739498682
+['9-dollar ticket', 'majority']	['9 dollar']	0.0833805889219
+['9-dollar ticket', 'majority']	['7-dollar ticket']	0.538007739106
+['booster club', 'club']	['annual trip']	0.223557185055
+['booster club', 'club']	['trip']	0.391778704054
+['booster club', 'club']	['majority']	0.391778704054
+['booster club', 'club']	['baseball game']	0.21925775957
+['booster club', 'club']	['29 ticket']	0.136831688603
+['booster club', 'club']	['ticket']	0.560647541905
+['booster club', 'club']	['7 dollar']	0.136831688603
+['booster club', 'club']	['dollar']	0.119145388713
+['booster club', 'club']	['9 dollar']	0.136831688603
+['booster club', 'club']	['7-dollar ticket']	0.139259023173
+['booster club', 'club']	['9-dollar ticket']	0.139259023173
+['annual trip', 'club']	['booster club']	0.798393927818
+['annual trip', 'club']	['trip']	0.700715886814
+['annual trip', 'club']	['majority']	0.182762001964
+['annual trip', 'club']	['baseball game']	0.0696933362217
+['annual trip', 'club']	['29 ticket']	0.0696933362217
+['annual trip', 'club']	['ticket']	0.534995566086
+['annual trip', 'club']	['7 dollar']	0.0696933362217
+['annual trip', 'club']	['dollar']	0.00671452368913
+['annual trip', 'club']	['9 dollar']	0.0696933362217
+['annual trip', 'club']	['7-dollar ticket']	0.0737139440912
+['annual trip', 'club']	['9-dollar ticket']	0.0737139440912
+['trip', 'club']	['booster club']	0.67003779489
+['trip', 'club']	['annual trip']	0.675221062806
+['trip', 'club']	['majority']	0.20476845276
+['trip', 'club']	['baseball game']	0.0737139440912
+['trip', 'club']	['29 ticket']	0.0737139440912
+['trip', 'club']	['ticket']	0.268079004909
+['trip', 'club']	['7 dollar']	0.0737139440912
+['trip', 'club']	['dollar']	0.00671452368913
+['trip', 'club']	['9 dollar']	0.0737139440912
+['trip', 'club']	['7-dollar ticket']	0.0737139440912
+['trip', 'club']	['9-dollar ticket']	0.0737139440912
+['majority', 'club']	['booster club']	0.745464819912
+['majority', 'club']	['annual trip']	0.0696933362217
+['majority', 'club']	['trip']	0.16567663238
+['majority', 'club']	['baseball game']	0.0703393045902
+['majority', 'club']	['29 ticket']	0.0696933362217
+['majority', 'club']	['ticket']	0.232220419051
+['majority', 'club']	['7 dollar']	0.0703393045902
+['majority', 'club']	['dollar']	0.00671452368913
+['majority', 'club']	['9 dollar']	0.0703393045902
+['majority', 'club']	['7-dollar ticket']	0.0696933362217
+['majority', 'club']	['9-dollar ticket']	0.0696933362217
+['baseball game', 'club']	['booster club']	0.763056235448
+['baseball game', 'club']	['annual trip']	0.0696933362217
+['baseball game', 'club']	['trip']	0.206653832009
+['baseball game', 'club']	['majority']	0.206653832009
+['baseball game', 'club']	['29 ticket']	0.0696933362217
+['baseball game', 'club']	['ticket']	0.534995566086
+['baseball game', 'club']	['7 dollar']	0.0696933362217
+['baseball game', 'club']	['dollar']	0.00298284487713
+['baseball game', 'club']	['9 dollar']	0.0696933362217
+['baseball game', 'club']	['7-dollar ticket']	0.0737139440912
+['baseball game', 'club']	['9-dollar ticket']	0.0737139440912
+['29 ticket', 'club']	['booster club']	0.684623300557
+['29 ticket', 'club']	['annual trip']	0.0696933362217
+['29 ticket', 'club']	['trip']	0.182762001964
+['29 ticket', 'club']	['majority']	0.211523961879
+['29 ticket', 'club']	['baseball game']	0.0696933362217
+['29 ticket', 'club']	['ticket']	0.686237380577
+['29 ticket', 'club']	['7 dollar']	0.103222748661
+['29 ticket', 'club']	['dollar']	0.0383501736268
+['29 ticket', 'club']	['9 dollar']	0.103222748661
+['29 ticket', 'club']	['7-dollar ticket']	0.522652815483
+['29 ticket', 'club']	['9-dollar ticket']	0.522652815483
+['ticket', 'club']	['booster club']	0.603845545077
+['ticket', 'club']	['annual trip']	0.105036545366
+['ticket', 'club']	['trip']	0.429390556414
+['ticket', 'club']	['majority']	0.460314819285
+['ticket', 'club']	['baseball game']	0.105036545366
+['ticket', 'club']	['29 ticket']	0.509086603153
+['ticket', 'club']	['7 dollar']	0.113044120838
+['ticket', 'club']	['dollar']	0.0901026352463
+['ticket', 'club']	['9 dollar']	0.113044120838
+['ticket', 'club']	['7-dollar ticket']	0.591680548038
+['ticket', 'club']	['9-dollar ticket']	0.591680548038
+['7 dollar', 'club']	['booster club']	0.684623300557
+['7 dollar', 'club']	['annual trip']	0.0696933362217
+['7 dollar', 'club']	['trip']	0.182729929366
+['7 dollar', 'club']	['majority']	0.206653832009
+['7 dollar', 'club']	['baseball game']	0.0696933362217
+['7 dollar', 'club']	['29 ticket']	0.103222748661
+['7 dollar', 'club']	['ticket']	0.67127207086
+['7 dollar', 'club']	['dollar']	0.424374238399
+['7 dollar', 'club']	['9 dollar']	0.736313764211
+['7 dollar', 'club']	['7-dollar ticket']	0.0737139440912
+['7 dollar', 'club']	['9-dollar ticket']	0.0737139440912
+['dollar', 'club']	['booster club']	0.298939739414
+['dollar', 'club']	['annual trip']	0.0774382987339
+['dollar', 'club']	['trip']	0.139175889995
+['dollar', 'club']	['majority']	0.14173999256
+['dollar', 'club']	['baseball game']	0.0780842671024
+['dollar', 'club']	['29 ticket']	0.0787871379671
+['dollar', 'club']	['ticket']	0.291210896803
+['dollar', 'club']	['7 dollar']	0.293611831056
+['dollar', 'club']	['9 dollar']	0.293611831056
+['dollar', 'club']	['7-dollar ticket']	0.187108652191
+['dollar', 'club']	['9-dollar ticket']	0.187108652191
+['9 dollar', 'club']	['booster club']	0.684623300557
+['9 dollar', 'club']	['annual trip']	0.0696933362217
+['9 dollar', 'club']	['trip']	0.182729929366
+['9 dollar', 'club']	['majority']	0.206653832009
+['9 dollar', 'club']	['baseball game']	0.0696933362217
+['9 dollar', 'club']	['29 ticket']	0.103222748661
+['9 dollar', 'club']	['ticket']	0.67127207086
+['9 dollar', 'club']	['7 dollar']	0.736313764211
+['9 dollar', 'club']	['dollar']	0.424374238399
+['9 dollar', 'club']	['7-dollar ticket']	0.0737139440912
+['9 dollar', 'club']	['9-dollar ticket']	0.0737139440912
+['7-dollar ticket', 'club']	['booster club']	0.680263859464
+['7-dollar ticket', 'club']	['annual trip']	0.0737139440912
+['7-dollar ticket', 'club']	['trip']	0.182762001964
+['7-dollar ticket', 'club']	['majority']	0.211523961879
+['7-dollar ticket', 'club']	['baseball game']	0.0737139440912
+['7-dollar ticket', 'club']	['29 ticket']	0.522652815483
+['7-dollar ticket', 'club']	['ticket']	0.732127441942
+['7-dollar ticket', 'club']	['7 dollar']	0.0737139440912
+['7-dollar ticket', 'club']	['dollar']	0.109739498682
+['7-dollar ticket', 'club']	['9 dollar']	0.0737139440912
+['7-dollar ticket', 'club']	['9-dollar ticket']	0.522652815483
+['9-dollar ticket', 'club']	['booster club']	0.680263859464
+['9-dollar ticket', 'club']	['annual trip']	0.0737139440912
+['9-dollar ticket', 'club']	['trip']	0.182762001964
+['9-dollar ticket', 'club']	['majority']	0.211523961879
+['9-dollar ticket', 'club']	['baseball game']	0.0737139440912
+['9-dollar ticket', 'club']	['29 ticket']	0.522652815483
+['9-dollar ticket', 'club']	['ticket']	0.732127441942
+['9-dollar ticket', 'club']	['7 dollar']	0.0737139440912
+['9-dollar ticket', 'club']	['dollar']	0.109739498682
+['9-dollar ticket', 'club']	['9 dollar']	0.0737139440912
+['9-dollar ticket', 'club']	['7-dollar ticket']	0.522652815483
+['booster club', 'baseball game']	['annual trip']	0.083785214554
+['booster club', 'baseball game']	['trip']	0.0777864840342
+['booster club', 'baseball game']	['majority']	0.0777864840342
+['booster club', 'baseball game']	['club']	0.814756769613
+['booster club', 'baseball game']	['29 ticket']	0.0827346205535
+['booster club', 'baseball game']	['ticket']	0.0575843031668
+['booster club', 'baseball game']	['7 dollar']	0.0827346205535
+['booster club', 'baseball game']	['dollar']	0.00424649792755
+['booster club', 'baseball game']	['9 dollar']	0.0827346205535
+['booster club', 'baseball game']	['7-dollar ticket']	0.0901100077042
+['booster club', 'baseball game']	['9-dollar ticket']	0.0901100077042
+['annual trip', 'baseball game']	['booster club']	0.092336172472
+['annual trip', 'baseball game']	['trip']	0.732659427184
+['annual trip', 'baseball game']	['majority']	0.0777864840342
+['annual trip', 'baseball game']	['club']	0.0966764293888
+['annual trip', 'baseball game']	['29 ticket']	0.0827346205535
+['annual trip', 'baseball game']	['ticket']	0.0575843031668
+['annual trip', 'baseball game']	['7 dollar']	0.0827346205535
+['annual trip', 'baseball game']	['dollar']	0.00424649792755
+['annual trip', 'baseball game']	['9 dollar']	0.0827346205535
+['annual trip', 'baseball game']	['7-dollar ticket']	0.0901100077042
+['annual trip', 'baseball game']	['9-dollar ticket']	0.0901100077042
+['trip', 'baseball game']	['booster club']	0.0833805889219
+['trip', 'baseball game']	['annual trip']	0.674335113087
+['trip', 'baseball game']	['majority']	0.32376942094
+['trip', 'baseball game']	['club']	0.29681680625
+['trip', 'baseball game']	['29 ticket']	0.0827346205535
+['trip', 'baseball game']	['ticket']	0.561208302908
+['trip', 'baseball game']	['7 dollar']	0.0827346205535
+['trip', 'baseball game']	['dollar']	0.0644596808638
+['trip', 'baseball game']	['9 dollar']	0.0827346205535
+['trip', 'baseball game']	['7-dollar ticket']	0.0901100077042
+['trip', 'baseball game']	['9-dollar ticket']	0.0901100077042
+['majority', 'baseball game']	['booster club']	0.0800317642921
+['majority', 'baseball game']	['annual trip']	0.0827346205535
+['majority', 'baseball game']	['trip']	0.32376942094
+['majority', 'baseball game']	['club']	0.29681680625
+['majority', 'baseball game']	['29 ticket']	0.0827346205535
+['majority', 'baseball game']	['ticket']	0.527729720088
+['majority', 'baseball game']	['7 dollar']	0.0833805889219
+['majority', 'baseball game']	['dollar']	0.0963437388348
+['majority', 'baseball game']	['9 dollar']	0.0833805889219
+['majority', 'baseball game']	['7-dollar ticket']	0.0827346205535
+['majority', 'baseball game']	['9-dollar ticket']	0.0827346205535
+['club', 'baseball game']	['booster club']	0.763056235448
+['club', 'baseball game']	['annual trip']	0.0696933362217
+['club', 'baseball game']	['trip']	0.206653832009
+['club', 'baseball game']	['majority']	0.206653832009
+['club', 'baseball game']	['29 ticket']	0.0696933362217
+['club', 'baseball game']	['ticket']	0.534995566086
+['club', 'baseball game']	['7 dollar']	0.0696933362217
+['club', 'baseball game']	['dollar']	0.00298284487713
+['club', 'baseball game']	['9 dollar']	0.0696933362217
+['club', 'baseball game']	['7-dollar ticket']	0.0737139440912
+['club', 'baseball game']	['9-dollar ticket']	0.0737139440912
+['29 ticket', 'baseball game']	['booster club']	0.0819994954072
+['29 ticket', 'baseball game']	['annual trip']	0.0827346205535
+['29 ticket', 'baseball game']	['trip']	0.0777864840342
+['29 ticket', 'baseball game']	['majority']	0.0744376594044
+['29 ticket', 'baseball game']	['club']	0.0966764293888
+['29 ticket', 'baseball game']	['ticket']	0.421420478144
+['29 ticket', 'baseball game']	['7 dollar']	0.140649313257
+['29 ticket', 'baseball game']	['dollar']	0.00851929931405
+['29 ticket', 'baseball game']	['9 dollar']	0.140649313257
+['29 ticket', 'baseball game']	['7-dollar ticket']	0.584269096576
+['29 ticket', 'baseball game']	['9-dollar ticket']	0.584269096576
+['ticket', 'baseball game']	['booster club']	0.0476289326264
+['ticket', 'baseball game']	['annual trip']	0.0465787639079
+['ticket', 'baseball game']	['trip']	0.554998982443
+['ticket', 'baseball game']	['majority']	0.521520399623
+['ticket', 'baseball game']	['club']	0.642700642289
+['ticket', 'baseball game']	['29 ticket']	0.505974686889
+['ticket', 'baseball game']	['7 dollar']	0.0563939725707
+['ticket', 'baseball game']	['dollar']	0.0432392551335
+['ticket', 'baseball game']	['9 dollar']	0.0563939725707
+['ticket', 'baseball game']	['7-dollar ticket']	0.59068738808
+['ticket', 'baseball game']	['9-dollar ticket']	0.59068738808
+['7 dollar', 'baseball game']	['booster club']	0.0819994954072
+['7 dollar', 'baseball game']	['annual trip']	0.0827346205535
+['7 dollar', 'baseball game']	['trip']	0.0744376594044
+['7 dollar', 'baseball game']	['majority']	0.0744376594044
+['7 dollar', 'baseball game']	['club']	0.0966764293888
+['7 dollar', 'baseball game']	['29 ticket']	0.140649313257
+['7 dollar', 'baseball game']	['ticket']	0.0595801389141
+['7 dollar', 'baseball game']	['dollar']	0.273620297832
+['7 dollar', 'baseball game']	['9 dollar']	0.754360422532
+['7 dollar', 'baseball game']	['7-dollar ticket']	0.0901100077042
+['7 dollar', 'baseball game']	['9-dollar ticket']	0.0901100077042
+['dollar', 'baseball game']	['booster club']	0.0160064194205
+['dollar', 'baseball game']	['annual trip']	0.015360451052
+['dollar', 'baseball game']	['trip']	0.0747112863264
+['dollar', 'baseball game']	['majority']	0.0794731910883
+['dollar', 'baseball game']	['club']	0.0799297726674
+['dollar', 'baseball game']	['29 ticket']	0.0221369896995
+['dollar', 'baseball game']	['ticket']	0.0389235060065
+['dollar', 'baseball game']	['7 dollar']	0.278797016241
+['dollar', 'baseball game']	['9 dollar']	0.278797016241
+['dollar', 'baseball game']	['7-dollar ticket']	0.137373202455
+['dollar', 'baseball game']	['9-dollar ticket']	0.137373202455
+['9 dollar', 'baseball game']	['booster club']	0.0819994954072
+['9 dollar', 'baseball game']	['annual trip']	0.0827346205535
+['9 dollar', 'baseball game']	['trip']	0.0744376594044
+['9 dollar', 'baseball game']	['majority']	0.0744376594044
+['9 dollar', 'baseball game']	['club']	0.0966764293888
+['9 dollar', 'baseball game']	['29 ticket']	0.140649313257
+['9 dollar', 'baseball game']	['ticket']	0.0595801389141
+['9 dollar', 'baseball game']	['7 dollar']	0.754360422532
+['9 dollar', 'baseball game']	['dollar']	0.273620297832
+['9 dollar', 'baseball game']	['7-dollar ticket']	0.0901100077042
+['9 dollar', 'baseball game']	['9-dollar ticket']	0.0901100077042
+['7-dollar ticket', 'baseball game']	['booster club']	0.0833805889219
+['7-dollar ticket', 'baseball game']	['annual trip']	0.0827346205535
+['7-dollar ticket', 'baseball game']	['trip']	0.0777864840342
+['7-dollar ticket', 'baseball game']	['majority']	0.0744376594044
+['7-dollar ticket', 'baseball game']	['club']	0.0966764293888
+['7-dollar ticket', 'baseball game']	['29 ticket']	0.561946181134
+['7-dollar ticket', 'baseball game']	['ticket']	0.558667402162
+['7-dollar ticket', 'baseball game']	['7 dollar']	0.0827346205535
+['7-dollar ticket', 'baseball game']	['dollar']	0.0986449713192
+['7-dollar ticket', 'baseball game']	['9 dollar']	0.0827346205535
+['7-dollar ticket', 'baseball game']	['9-dollar ticket']	0.584269096576
+['9-dollar ticket', 'baseball game']	['booster club']	0.0833805889219
+['9-dollar ticket', 'baseball game']	['annual trip']	0.0827346205535
+['9-dollar ticket', 'baseball game']	['trip']	0.0777864840342
+['9-dollar ticket', 'baseball game']	['majority']	0.0744376594044
+['9-dollar ticket', 'baseball game']	['club']	0.0966764293888
+['9-dollar ticket', 'baseball game']	['29 ticket']	0.561946181134
+['9-dollar ticket', 'baseball game']	['ticket']	0.558667402162
+['9-dollar ticket', 'baseball game']	['7 dollar']	0.0827346205535
+['9-dollar ticket', 'baseball game']	['dollar']	0.0986449713192
+['9-dollar ticket', 'baseball game']	['9 dollar']	0.0827346205535
+['9-dollar ticket', 'baseball game']	['7-dollar ticket']	0.584269096576
+['booster club', '29 ticket']	['annual trip']	0.083785214554
+['booster club', '29 ticket']	['trip']	0.0888375395985
+['booster club', '29 ticket']	['majority']	0.0777864840342
+['booster club', '29 ticket']	['club']	0.744598628667
+['booster club', '29 ticket']	['baseball game']	0.0833805889219
+['booster club', '29 ticket']	['ticket']	0.421420478144
+['booster club', '29 ticket']	['7 dollar']	0.140649313257
+['booster club', '29 ticket']	['dollar']	0.0077840051964
+['booster club', '29 ticket']	['9 dollar']	0.140649313257
+['booster club', '29 ticket']	['7-dollar ticket']	0.584269096576
+['booster club', '29 ticket']	['9-dollar ticket']	0.584269096576
+['annual trip', '29 ticket']	['booster club']	0.083785214554
+['annual trip', '29 ticket']	['trip']	0.70007858174
+['annual trip', '29 ticket']	['majority']	0.0777864840342
+['annual trip', '29 ticket']	['club']	0.0831172035382
+['annual trip', '29 ticket']	['baseball game']	0.0827346205535
+['annual trip', '29 ticket']	['ticket']	0.421420478144
+['annual trip', '29 ticket']	['7 dollar']	0.140649313257
+['annual trip', '29 ticket']	['dollar']	0.0077840051964
+['annual trip', '29 ticket']	['9 dollar']	0.140649313257
+['annual trip', '29 ticket']	['7-dollar ticket']	0.584269096576
+['annual trip', '29 ticket']	['9-dollar ticket']	0.584269096576
+['trip', '29 ticket']	['booster club']	0.0827346205535
+['trip', '29 ticket']	['annual trip']	0.648578713416
+['trip', '29 ticket']	['majority']	0.32863955081
+['trip', '29 ticket']	['club']	0.19603525097
+['trip', '29 ticket']	['baseball game']	0.0827346205535
+['trip', '29 ticket']	['ticket']	0.639154047244
+['trip', '29 ticket']	['7 dollar']	0.124206600218
+['trip', '29 ticket']	['dollar']	0.105887615674
+['trip', '29 ticket']	['9 dollar']	0.124206600218
+['trip', '29 ticket']	['7-dollar ticket']	0.584269096576
+['trip', '29 ticket']	['9-dollar ticket']	0.584269096576
+['majority', '29 ticket']	['booster club']	0.0827346205535
+['majority', '29 ticket']	['annual trip']	0.0827346205535
+['majority', '29 ticket']	['trip']	0.276494422148
+['majority', '29 ticket']	['club']	0.19603525097
+['majority', '29 ticket']	['baseball game']	0.0833805889219
+['majority', '29 ticket']	['ticket']	0.652672170911
+['majority', '29 ticket']	['7 dollar']	0.142114993124
+['majority', '29 ticket']	['dollar']	0.137771673645
+['majority', '29 ticket']	['9 dollar']	0.142114993124
+['majority', '29 ticket']	['7-dollar ticket']	0.538007739106
+['majority', '29 ticket']	['9-dollar ticket']	0.538007739106
+['club', '29 ticket']	['booster club']	0.684623300557
+['club', '29 ticket']	['annual trip']	0.0696933362217
+['club', '29 ticket']	['trip']	0.182762001964
+['club', '29 ticket']	['majority']	0.211523961879
+['club', '29 ticket']	['baseball game']	0.0696933362217
+['club', '29 ticket']	['ticket']	0.686237380577
+['club', '29 ticket']	['7 dollar']	0.103222748661
+['club', '29 ticket']	['dollar']	0.0383501736268
+['club', '29 ticket']	['9 dollar']	0.103222748661
+['club', '29 ticket']	['7-dollar ticket']	0.522652815483
+['club', '29 ticket']	['9-dollar ticket']	0.522652815483
+['baseball game', '29 ticket']	['booster club']	0.0819994954072
+['baseball game', '29 ticket']	['annual trip']	0.0827346205535
+['baseball game', '29 ticket']	['trip']	0.0777864840342
+['baseball game', '29 ticket']	['majority']	0.0744376594044
+['baseball game', '29 ticket']	['club']	0.0966764293888
+['baseball game', '29 ticket']	['ticket']	0.421420478144
+['baseball game', '29 ticket']	['7 dollar']	0.140649313257
+['baseball game', '29 ticket']	['dollar']	0.00851929931405
+['baseball game', '29 ticket']	['9 dollar']	0.140649313257
+['baseball game', '29 ticket']	['7-dollar ticket']	0.584269096576
+['baseball game', '29 ticket']	['9-dollar ticket']	0.584269096576
+['ticket', '29 ticket']	['booster club']	0.124609221473
+['ticket', '29 ticket']	['annual trip']	0.124609221473
+['ticket', '29 ticket']	['trip']	0.514672545288
+['ticket', '29 ticket']	['majority']	0.5993784921
+['ticket', '29 ticket']	['club']	0.560647541905
+['ticket', '29 ticket']	['baseball game']	0.124609221473
+['ticket', '29 ticket']	['7 dollar']	0.314208807477
+['ticket', '29 ticket']	['dollar']	0.210708137696
+['ticket', '29 ticket']	['9 dollar']	0.314208807477
+['ticket', '29 ticket']	['7-dollar ticket']	0.675435347506
+['ticket', '29 ticket']	['9-dollar ticket']	0.675435347506
+['7 dollar', '29 ticket']	['booster club']	0.0827346205535
+['7 dollar', '29 ticket']	['annual trip']	0.0827346205535
+['7 dollar', '29 ticket']	['trip']	0.0777864840342
+['7 dollar', '29 ticket']	['majority']	0.0744376594044
+['7 dollar', '29 ticket']	['club']	0.0774561735493
+['7 dollar', '29 ticket']	['baseball game']	0.0827346205535
+['7 dollar', '29 ticket']	['ticket']	0.527855161793
+['7 dollar', '29 ticket']	['dollar']	0.332980520024
+['7 dollar', '29 ticket']	['9 dollar']	0.800552772617
+['7 dollar', '29 ticket']	['7-dollar ticket']	0.584269096576
+['7 dollar', '29 ticket']	['9-dollar ticket']	0.584269096576
+['dollar', '29 ticket']	['booster club']	0.015360451052
+['dollar', '29 ticket']	['annual trip']	0.015360451052
+['dollar', '29 ticket']	['trip']	0.0486443405719
+['dollar', '29 ticket']	['majority']	0.0843433209584
+['dollar', '29 ticket']	['club']	0.0175594313674
+['dollar', '29 ticket']	['baseball game']	0.0160064194205
+['dollar', '29 ticket']	['ticket']	0.379234159265
+['dollar', '29 ticket']	['7 dollar']	0.367736192108
+['dollar', '29 ticket']	['9 dollar']	0.367736192108
+['dollar', '29 ticket']	['7-dollar ticket']	0.235342258916
+['dollar', '29 ticket']	['9-dollar ticket']	0.235342258916
+['9 dollar', '29 ticket']	['booster club']	0.0827346205535
+['9 dollar', '29 ticket']	['annual trip']	0.0827346205535
+['9 dollar', '29 ticket']	['trip']	0.0777864840342
+['9 dollar', '29 ticket']	['majority']	0.0744376594044
+['9 dollar', '29 ticket']	['club']	0.0774561735493
+['9 dollar', '29 ticket']	['baseball game']	0.0827346205535
+['9 dollar', '29 ticket']	['ticket']	0.527855161793
+['9 dollar', '29 ticket']	['7 dollar']	0.800552772617
+['9 dollar', '29 ticket']	['dollar']	0.332980520024
+['9 dollar', '29 ticket']	['7-dollar ticket']	0.584269096576
+['9 dollar', '29 ticket']	['9-dollar ticket']	0.584269096576
+['7-dollar ticket', '29 ticket']	['booster club']	0.14589133531
+['7-dollar ticket', '29 ticket']	['annual trip']	0.14589133531
+['7-dollar ticket', '29 ticket']	['trip']	0.325390866884
+['7-dollar ticket', '29 ticket']	['majority']	0.360804929274
+['7-dollar ticket', '29 ticket']	['club']	0.322323177041
+['7-dollar ticket', '29 ticket']	['baseball game']	0.14589133531
+['7-dollar ticket', '29 ticket']	['ticket']	0.716228337634
+['7-dollar ticket', '29 ticket']	['7 dollar']	0.264907405557
+['7-dollar ticket', '29 ticket']	['dollar']	0.426721610531
+['7-dollar ticket', '29 ticket']	['9 dollar']	0.264907405557
+['7-dollar ticket', '29 ticket']	['9-dollar ticket']	0.637144068101
+['9-dollar ticket', '29 ticket']	['booster club']	0.14589133531
+['9-dollar ticket', '29 ticket']	['annual trip']	0.14589133531
+['9-dollar ticket', '29 ticket']	['trip']	0.325390866884
+['9-dollar ticket', '29 ticket']	['majority']	0.360804929274
+['9-dollar ticket', '29 ticket']	['club']	0.322323177041
+['9-dollar ticket', '29 ticket']	['baseball game']	0.14589133531
+['9-dollar ticket', '29 ticket']	['ticket']	0.716228337634
+['9-dollar ticket', '29 ticket']	['7 dollar']	0.264907405557
+['9-dollar ticket', '29 ticket']	['dollar']	0.426721610531
+['9-dollar ticket', '29 ticket']	['9 dollar']	0.264907405557
+['9-dollar ticket', '29 ticket']	['7-dollar ticket']	0.637144068101
+['booster club', 'ticket']	['annual trip']	0.0470331021924
+['booster club', 'ticket']	['trip']	0.539431580062
+['booster club', 'ticket']	['majority']	0.505952997241
+['booster club', 'ticket']	['club']	0.826761419413
+['booster club', 'ticket']	['baseball game']	0.0476289326264
+['booster club', 'ticket']	['29 ticket']	0.539969245035
+['booster club', 'ticket']	['7 dollar']	0.0563939725707
+['booster club', 'ticket']	['dollar']	0.0241916360859
+['booster club', 'ticket']	['9 dollar']	0.0563939725707
+['booster club', 'ticket']	['7-dollar ticket']	0.59068738808
+['booster club', 'ticket']	['9-dollar ticket']	0.59068738808
+['annual trip', 'ticket']	['booster club']	0.0470331021924
+['annual trip', 'ticket']	['trip']	0.839564054809
+['annual trip', 'ticket']	['majority']	0.505952997241
+['annual trip', 'ticket']	['club']	0.534995566086
+['annual trip', 'ticket']	['baseball game']	0.0465787639079
+['annual trip', 'ticket']	['29 ticket']	0.505974686889
+['annual trip', 'ticket']	['7 dollar']	0.0563939725707
+['annual trip', 'ticket']	['dollar']	0.0241916360859
+['annual trip', 'ticket']	['9 dollar']	0.0563939725707
+['annual trip', 'ticket']	['7-dollar ticket']	0.59068738808
+['annual trip', 'ticket']	['9-dollar ticket']	0.59068738808
+['trip', 'ticket']	['booster club']	0.0429586976843
+['trip', 'ticket']	['annual trip']	0.64832176372
+['trip', 'ticket']	['majority']	0.312672325608
+['trip', 'ticket']	['club']	0.424679406697
+['trip', 'ticket']	['baseball game']	0.0429586976843
+['trip', 'ticket']	['29 ticket']	0.509086603153
+['trip', 'ticket']	['7 dollar']	0.0563939725707
+['trip', 'ticket']	['dollar']	0.0241916360859
+['trip', 'ticket']	['9 dollar']	0.0563939725707
+['trip', 'ticket']	['7-dollar ticket']	0.580461323506
+['trip', 'ticket']	['9-dollar ticket']	0.580461323506
+['majority', 'ticket']	['booster club']	0.0454050549877
+['majority', 'ticket']	['annual trip']	0.0454050549877
+['majority', 'ticket']	['trip']	0.313051113487
+['majority', 'ticket']	['club']	0.424679406697
+['majority', 'ticket']	['baseball game']	0.0476289326264
+['majority', 'ticket']	['29 ticket']	0.542074426038
+['majority', 'ticket']	['7 dollar']	0.0637381046393
+['majority', 'ticket']	['dollar']	0.0241916360859
+['majority', 'ticket']	['9 dollar']	0.0637381046393
+['majority', 'ticket']	['7-dollar ticket']	0.662811585637
+['majority', 'ticket']	['9-dollar ticket']	0.662811585637
+['club', 'ticket']	['booster club']	0.603845545077
+['club', 'ticket']	['annual trip']	0.105036545366
+['club', 'ticket']	['trip']	0.429390556414
+['club', 'ticket']	['majority']	0.460314819285
+['club', 'ticket']	['baseball game']	0.105036545366
+['club', 'ticket']	['29 ticket']	0.509086603153
+['club', 'ticket']	['7 dollar']	0.113044120838
+['club', 'ticket']	['dollar']	0.0901026352463
+['club', 'ticket']	['9 dollar']	0.113044120838
+['club', 'ticket']	['7-dollar ticket']	0.591680548038
+['club', 'ticket']	['9-dollar ticket']	0.591680548038
+['baseball game', 'ticket']	['booster club']	0.0476289326264
+['baseball game', 'ticket']	['annual trip']	0.0465787639079
+['baseball game', 'ticket']	['trip']	0.554998982443
+['baseball game', 'ticket']	['majority']	0.521520399623
+['baseball game', 'ticket']	['club']	0.642700642289
+['baseball game', 'ticket']	['29 ticket']	0.505974686889
+['baseball game', 'ticket']	['7 dollar']	0.0563939725707
+['baseball game', 'ticket']	['dollar']	0.0432392551335
+['baseball game', 'ticket']	['9 dollar']	0.0563939725707
+['baseball game', 'ticket']	['7-dollar ticket']	0.59068738808
+['baseball game', 'ticket']	['9-dollar ticket']	0.59068738808
+['29 ticket', 'ticket']	['booster club']	0.124609221473
+['29 ticket', 'ticket']	['annual trip']	0.124609221473
+['29 ticket', 'ticket']	['trip']	0.514672545288
+['29 ticket', 'ticket']	['majority']	0.5993784921
+['29 ticket', 'ticket']	['club']	0.560647541905
+['29 ticket', 'ticket']	['baseball game']	0.124609221473
+['29 ticket', 'ticket']	['7 dollar']	0.314208807477
+['29 ticket', 'ticket']	['dollar']	0.210708137696
+['29 ticket', 'ticket']	['9 dollar']	0.314208807477
+['29 ticket', 'ticket']	['7-dollar ticket']	0.675435347506
+['29 ticket', 'ticket']	['9-dollar ticket']	0.675435347506
+['7 dollar', 'ticket']	['booster club']	0.0465787639079
+['7 dollar', 'ticket']	['annual trip']	0.0465787639079
+['7 dollar', 'ticket']	['trip']	0.528148913123
+['7 dollar', 'ticket']	['majority']	0.521520399623
+['7 dollar', 'ticket']	['club']	0.564671765955
+['7 dollar', 'ticket']	['baseball game']	0.0465787639079
+['7 dollar', 'ticket']	['29 ticket']	0.566619881962
+['7 dollar', 'ticket']	['dollar']	0.393939736912
+['7 dollar', 'ticket']	['9 dollar']	0.762941936816
+['7 dollar', 'ticket']	['7-dollar ticket']	0.59068738808
+['7 dollar', 'ticket']	['9-dollar ticket']	0.59068738808
+['dollar', 'ticket']	['booster club']	0.0774382987339
+['dollar', 'ticket']	['annual trip']	0.0774382987339
+['dollar', 'ticket']	['trip']	0.247655426633
+['dollar', 'ticket']	['majority']	0.237986367621
+['dollar', 'ticket']	['club']	0.280170563115
+['dollar', 'ticket']	['baseball game']	0.0780842671024
+['dollar', 'ticket']	['29 ticket']	0.352097731438
+['dollar', 'ticket']	['7 dollar']	0.369503868875
+['dollar', 'ticket']	['9 dollar']	0.369503868875
+['dollar', 'ticket']	['7-dollar ticket']	0.369503868875
+['dollar', 'ticket']	['9-dollar ticket']	0.369503868875
+['9 dollar', 'ticket']	['booster club']	0.0465787639079
+['9 dollar', 'ticket']	['annual trip']	0.0465787639079
+['9 dollar', 'ticket']	['trip']	0.528148913123
+['9 dollar', 'ticket']	['majority']	0.521520399623
+['9 dollar', 'ticket']	['club']	0.564671765955
+['9 dollar', 'ticket']	['baseball game']	0.0465787639079
+['9 dollar', 'ticket']	['29 ticket']	0.566619881962
+['9 dollar', 'ticket']	['7 dollar']	0.762941936816
+['9 dollar', 'ticket']	['dollar']	0.393939736912
+['9 dollar', 'ticket']	['7-dollar ticket']	0.59068738808
+['9 dollar', 'ticket']	['9-dollar ticket']	0.59068738808
+['7-dollar ticket', 'ticket']	['booster club']	0.114915343922
+['7-dollar ticket', 'ticket']	['annual trip']	0.114915343922
+['7-dollar ticket', 'ticket']	['trip']	0.514672545288
+['7-dollar ticket', 'ticket']	['majority']	0.5993784921
+['7-dollar ticket', 'ticket']	['club']	0.560647541905
+['7-dollar ticket', 'ticket']	['baseball game']	0.114915343922
+['7-dollar ticket', 'ticket']	['29 ticket']	0.73171203379
+['7-dollar ticket', 'ticket']	['7 dollar']	0.157502141539
+['7-dollar ticket', 'ticket']	['dollar']	0.323084415584
+['7-dollar ticket', 'ticket']	['9 dollar']	0.157502141539
+['7-dollar ticket', 'ticket']	['9-dollar ticket']	0.675435347506
+['9-dollar ticket', 'ticket']	['booster club']	0.114915343922
+['9-dollar ticket', 'ticket']	['annual trip']	0.114915343922
+['9-dollar ticket', 'ticket']	['trip']	0.514672545288
+['9-dollar ticket', 'ticket']	['majority']	0.5993784921
+['9-dollar ticket', 'ticket']	['club']	0.560647541905
+['9-dollar ticket', 'ticket']	['baseball game']	0.114915343922
+['9-dollar ticket', 'ticket']	['29 ticket']	0.73171203379
+['9-dollar ticket', 'ticket']	['7 dollar']	0.157502141539
+['9-dollar ticket', 'ticket']	['dollar']	0.323084415584
+['9-dollar ticket', 'ticket']	['9 dollar']	0.157502141539
+['9-dollar ticket', 'ticket']	['7-dollar ticket']	0.675435347506
+['booster club', '7 dollar']	['annual trip']	0.083785214554
+['booster club', '7 dollar']	['trip']	0.0777864840342
+['booster club', '7 dollar']	['majority']	0.0777864840342
+['booster club', '7 dollar']	['club']	0.811184667784
+['booster club', '7 dollar']	['baseball game']	0.0833805889219
+['booster club', '7 dollar']	['29 ticket']	0.140649313257
+['booster club', '7 dollar']	['ticket']	0.0595801389141
+['booster club', '7 dollar']	['dollar']	0.219544418923
+['booster club', '7 dollar']	['9 dollar']	0.754360422532
+['booster club', '7 dollar']	['7-dollar ticket']	0.0901100077042
+['booster club', '7 dollar']	['9-dollar ticket']	0.0901100077042
+['annual trip', '7 dollar']	['booster club']	0.083785214554
+['annual trip', '7 dollar']	['trip']	0.722511270791
+['annual trip', '7 dollar']	['majority']	0.0777864840342
+['annual trip', '7 dollar']	['club']	0.0774561735493
+['annual trip', '7 dollar']	['baseball game']	0.0827346205535
+['annual trip', '7 dollar']	['29 ticket']	0.140649313257
+['annual trip', '7 dollar']	['ticket']	0.0595801389141
+['annual trip', '7 dollar']	['dollar']	0.219544418923
+['annual trip', '7 dollar']	['9 dollar']	0.754360422532
+['annual trip', '7 dollar']	['7-dollar ticket']	0.0901100077042
+['annual trip', '7 dollar']	['9-dollar ticket']	0.0901100077042
+['trip', '7 dollar']	['booster club']	0.0827346205535
+['trip', '7 dollar']	['annual trip']	0.648578713416
+['trip', '7 dollar']	['majority']	0.32376942094
+['trip', '7 dollar']	['club']	0.192648399091
+['trip', '7 dollar']	['baseball game']	0.0827346205535
+['trip', '7 dollar']	['29 ticket']	0.124206600218
+['trip', '7 dollar']	['ticket']	0.684712441263
+['trip', '7 dollar']	['dollar']	0.466235307613
+['trip', '7 dollar']	['9 dollar']	0.760386850763
+['trip', '7 dollar']	['7-dollar ticket']	0.0901100077042
+['trip', '7 dollar']	['9-dollar ticket']	0.0901100077042
+['majority', '7 dollar']	['booster club']	0.0827346205535
+['majority', '7 dollar']	['annual trip']	0.0827346205535
+['majority', '7 dollar']	['trip']	0.266512184964
+['majority', '7 dollar']	['club']	0.192648399091
+['majority', '7 dollar']	['baseball game']	0.0833805889219
+['majority', '7 dollar']	['29 ticket']	0.149036431322
+['majority', '7 dollar']	['ticket']	0.655599887151
+['majority', '7 dollar']	['dollar']	0.466235307613
+['majority', '7 dollar']	['9 dollar']	0.800833695134
+['majority', '7 dollar']	['7-dollar ticket']	0.0827346205535
+['majority', '7 dollar']	['9-dollar ticket']	0.0827346205535
+['club', '7 dollar']	['booster club']	0.684623300557
+['club', '7 dollar']	['annual trip']	0.0696933362217
+['club', '7 dollar']	['trip']	0.182729929366
+['club', '7 dollar']	['majority']	0.206653832009
+['club', '7 dollar']	['baseball game']	0.0696933362217
+['club', '7 dollar']	['29 ticket']	0.103222748661
+['club', '7 dollar']	['ticket']	0.67127207086
+['club', '7 dollar']	['dollar']	0.424374238399
+['club', '7 dollar']	['9 dollar']	0.736313764211
+['club', '7 dollar']	['7-dollar ticket']	0.0737139440912
+['club', '7 dollar']	['9-dollar ticket']	0.0737139440912
+['baseball game', '7 dollar']	['booster club']	0.0819994954072
+['baseball game', '7 dollar']	['annual trip']	0.0827346205535
+['baseball game', '7 dollar']	['trip']	0.0744376594044
+['baseball game', '7 dollar']	['majority']	0.0744376594044
+['baseball game', '7 dollar']	['club']	0.0966764293888
+['baseball game', '7 dollar']	['29 ticket']	0.140649313257
+['baseball game', '7 dollar']	['ticket']	0.0595801389141
+['baseball game', '7 dollar']	['dollar']	0.273620297832
+['baseball game', '7 dollar']	['9 dollar']	0.754360422532
+['baseball game', '7 dollar']	['7-dollar ticket']	0.0901100077042
+['baseball game', '7 dollar']	['9-dollar ticket']	0.0901100077042
+['29 ticket', '7 dollar']	['booster club']	0.0827346205535
+['29 ticket', '7 dollar']	['annual trip']	0.0827346205535
+['29 ticket', '7 dollar']	['trip']	0.0777864840342
+['29 ticket', '7 dollar']	['majority']	0.0744376594044
+['29 ticket', '7 dollar']	['club']	0.0774561735493
+['29 ticket', '7 dollar']	['baseball game']	0.0827346205535
+['29 ticket', '7 dollar']	['ticket']	0.527855161793
+['29 ticket', '7 dollar']	['dollar']	0.332980520024
+['29 ticket', '7 dollar']	['9 dollar']	0.800552772617
+['29 ticket', '7 dollar']	['7-dollar ticket']	0.584269096576
+['29 ticket', '7 dollar']	['9-dollar ticket']	0.584269096576
+['ticket', '7 dollar']	['booster club']	0.0465787639079
+['ticket', '7 dollar']	['annual trip']	0.0465787639079
+['ticket', '7 dollar']	['trip']	0.528148913123
+['ticket', '7 dollar']	['majority']	0.521520399623
+['ticket', '7 dollar']	['club']	0.564671765955
+['ticket', '7 dollar']	['baseball game']	0.0465787639079
+['ticket', '7 dollar']	['29 ticket']	0.566619881962
+['ticket', '7 dollar']	['dollar']	0.393939736912
+['ticket', '7 dollar']	['9 dollar']	0.762941936816
+['ticket', '7 dollar']	['7-dollar ticket']	0.59068738808
+['ticket', '7 dollar']	['9-dollar ticket']	0.59068738808
+['dollar', '7 dollar']	['booster club']	0.0698675290335
+['dollar', '7 dollar']	['annual trip']	0.0698675290335
+['dollar', '7 dollar']	['trip']	0.200730269532
+['dollar', '7 dollar']	['majority']	0.278681195756
+['dollar', '7 dollar']	['club']	0.180560490245
+['dollar', '7 dollar']	['baseball game']	0.125024962568
+['dollar', '7 dollar']	['29 ticket']	0.174379922055
+['dollar', '7 dollar']	['ticket']	0.264652724916
+['dollar', '7 dollar']	['9 dollar']	0.736329740585
+['dollar', '7 dollar']	['7-dollar ticket']	0.387111105877
+['dollar', '7 dollar']	['9-dollar ticket']	0.387111105877
+['9 dollar', '7 dollar']	['booster club']	0.153587928078
+['9 dollar', '7 dollar']	['annual trip']	0.153587928078
+['9 dollar', '7 dollar']	['trip']	0.327028499836
+['9 dollar', '7 dollar']	['majority']	0.37370815508
+['9 dollar', '7 dollar']	['club']	0.345269105941
+['9 dollar', '7 dollar']	['baseball game']	0.14589133531
+['9 dollar', '7 dollar']	['29 ticket']	0.356231993893
+['9 dollar', '7 dollar']	['ticket']	0.407848805832
+['9 dollar', '7 dollar']	['dollar']	0.796711238127
+['9 dollar', '7 dollar']	['7-dollar ticket']	0.139258682248
+['9 dollar', '7 dollar']	['9-dollar ticket']	0.139258682248
+['7-dollar ticket', '7 dollar']	['booster club']	0.0827346205535
+['7-dollar ticket', '7 dollar']	['annual trip']	0.0827346205535
+['7-dollar ticket', '7 dollar']	['trip']	0.0777864840342
+['7-dollar ticket', '7 dollar']	['majority']	0.0744376594044
+['7-dollar ticket', '7 dollar']	['club']	0.0774561735493
+['7-dollar ticket', '7 dollar']	['baseball game']	0.0827346205535
+['7-dollar ticket', '7 dollar']	['29 ticket']	0.604308352538
+['7-dollar ticket', '7 dollar']	['ticket']	0.645171343368
+['7-dollar ticket', '7 dollar']	['dollar']	0.486823644248
+['7-dollar ticket', '7 dollar']	['9 dollar']	0.754360422532
+['7-dollar ticket', '7 dollar']	['9-dollar ticket']	0.584269096576
+['9-dollar ticket', '7 dollar']	['booster club']	0.0827346205535
+['9-dollar ticket', '7 dollar']	['annual trip']	0.0827346205535
+['9-dollar ticket', '7 dollar']	['trip']	0.0777864840342
+['9-dollar ticket', '7 dollar']	['majority']	0.0744376594044
+['9-dollar ticket', '7 dollar']	['club']	0.0774561735493
+['9-dollar ticket', '7 dollar']	['baseball game']	0.0827346205535
+['9-dollar ticket', '7 dollar']	['29 ticket']	0.604308352538
+['9-dollar ticket', '7 dollar']	['ticket']	0.645171343368
+['9-dollar ticket', '7 dollar']	['dollar']	0.486823644248
+['9-dollar ticket', '7 dollar']	['9 dollar']	0.754360422532
+['9-dollar ticket', '7 dollar']	['7-dollar ticket']	0.584269096576
+['booster club', 'dollar']	['annual trip']	0.0154105889865
+['booster club', 'dollar']	['trip']	0.0486443405719
+['booster club', 'dollar']	['majority']	0.0522325364136
+['booster club', 'dollar']	['club']	0.331312938682
+['booster club', 'dollar']	['baseball game']	0.0160064194205
+['booster club', 'dollar']	['29 ticket']	0.0221369896995
+['booster club', 'dollar']	['ticket']	0.0389235060065
+['booster club', 'dollar']	['7 dollar']	0.278797016241
+['booster club', 'dollar']	['9 dollar']	0.278797016241
+['booster club', 'dollar']	['7-dollar ticket']	0.137373202455
+['booster club', 'dollar']	['9-dollar ticket']	0.137373202455
+['annual trip', 'dollar']	['booster club']	0.0154105889865
+['annual trip', 'dollar']	['trip']	0.333179993896
+['annual trip', 'dollar']	['majority']	0.0522325364136
+['annual trip', 'dollar']	['club']	0.0175594313674
+['annual trip', 'dollar']	['baseball game']	0.0160064194205
+['annual trip', 'dollar']	['29 ticket']	0.0221369896995
+['annual trip', 'dollar']	['ticket']	0.0389235060065
+['annual trip', 'dollar']	['7 dollar']	0.278797016241
+['annual trip', 'dollar']	['9 dollar']	0.278797016241
+['annual trip', 'dollar']	['7-dollar ticket']	0.137373202455
+['annual trip', 'dollar']	['9-dollar ticket']	0.137373202455
+['trip', 'dollar']	['booster club']	0.015360451052
+['trip', 'dollar']	['annual trip']	0.302588939335
+['trip', 'dollar']	['majority']	0.162826435842
+['trip', 'dollar']	['club']	0.0452864383549
+['trip', 'dollar']	['baseball game']	0.0160064194205
+['trip', 'dollar']	['29 ticket']	0.0221369896995
+['trip', 'dollar']	['ticket']	0.215001872521
+['trip', 'dollar']	['7 dollar']	0.293611831056
+['trip', 'dollar']	['9 dollar']	0.293611831056
+['trip', 'dollar']	['7-dollar ticket']	0.161182726265
+['trip', 'dollar']	['9-dollar ticket']	0.161182726265
+['majority', 'dollar']	['booster club']	0.015360451052
+['majority', 'dollar']	['annual trip']	0.015360451052
+['majority', 'dollar']	['trip']	0.162826435842
+['majority', 'dollar']	['club']	0.0416982425131
+['majority', 'dollar']	['baseball game']	0.0160064194205
+['majority', 'dollar']	['29 ticket']	0.0377827356252
+['majority', 'dollar']	['ticket']	0.226544934722
+['majority', 'dollar']	['7 dollar']	0.307057925216
+['majority', 'dollar']	['9 dollar']	0.307057925216
+['majority', 'dollar']	['7-dollar ticket']	0.13927796436
+['majority', 'dollar']	['9-dollar ticket']	0.13927796436
+['club', 'dollar']	['booster club']	0.298939739414
+['club', 'dollar']	['annual trip']	0.0774382987339
+['club', 'dollar']	['trip']	0.139175889995
+['club', 'dollar']	['majority']	0.14173999256
+['club', 'dollar']	['baseball game']	0.0780842671024
+['club', 'dollar']	['29 ticket']	0.0787871379671
+['club', 'dollar']	['ticket']	0.291210896803
+['club', 'dollar']	['7 dollar']	0.293611831056
+['club', 'dollar']	['9 dollar']	0.293611831056
+['club', 'dollar']	['7-dollar ticket']	0.187108652191
+['club', 'dollar']	['9-dollar ticket']	0.187108652191
+['baseball game', 'dollar']	['booster club']	0.0160064194205
+['baseball game', 'dollar']	['annual trip']	0.015360451052
+['baseball game', 'dollar']	['trip']	0.0747112863264
+['baseball game', 'dollar']	['majority']	0.0794731910883
+['baseball game', 'dollar']	['club']	0.0799297726674
+['baseball game', 'dollar']	['29 ticket']	0.0221369896995
+['baseball game', 'dollar']	['ticket']	0.0389235060065
+['baseball game', 'dollar']	['7 dollar']	0.278797016241
+['baseball game', 'dollar']	['9 dollar']	0.278797016241
+['baseball game', 'dollar']	['7-dollar ticket']	0.137373202455
+['baseball game', 'dollar']	['9-dollar ticket']	0.137373202455
+['29 ticket', 'dollar']	['booster club']	0.015360451052
+['29 ticket', 'dollar']	['annual trip']	0.015360451052
+['29 ticket', 'dollar']	['trip']	0.0486443405719
+['29 ticket', 'dollar']	['majority']	0.0843433209584
+['29 ticket', 'dollar']	['club']	0.0175594313674
+['29 ticket', 'dollar']	['baseball game']	0.0160064194205
+['29 ticket', 'dollar']	['ticket']	0.379234159265
+['29 ticket', 'dollar']	['7 dollar']	0.367736192108
+['29 ticket', 'dollar']	['9 dollar']	0.367736192108
+['29 ticket', 'dollar']	['7-dollar ticket']	0.235342258916
+['29 ticket', 'dollar']	['9-dollar ticket']	0.235342258916
+['ticket', 'dollar']	['booster club']	0.0774382987339
+['ticket', 'dollar']	['annual trip']	0.0774382987339
+['ticket', 'dollar']	['trip']	0.247655426633
+['ticket', 'dollar']	['majority']	0.237986367621
+['ticket', 'dollar']	['club']	0.280170563115
+['ticket', 'dollar']	['baseball game']	0.0780842671024
+['ticket', 'dollar']	['29 ticket']	0.352097731438
+['ticket', 'dollar']	['7 dollar']	0.369503868875
+['ticket', 'dollar']	['9 dollar']	0.369503868875
+['ticket', 'dollar']	['7-dollar ticket']	0.369503868875
+['ticket', 'dollar']	['9-dollar ticket']	0.369503868875
+['7 dollar', 'dollar']	['booster club']	0.0698675290335
+['7 dollar', 'dollar']	['annual trip']	0.0698675290335
+['7 dollar', 'dollar']	['trip']	0.200730269532
+['7 dollar', 'dollar']	['majority']	0.278681195756
+['7 dollar', 'dollar']	['club']	0.180560490245
+['7 dollar', 'dollar']	['baseball game']	0.125024962568
+['7 dollar', 'dollar']	['29 ticket']	0.174379922055
+['7 dollar', 'dollar']	['ticket']	0.264652724916
+['7 dollar', 'dollar']	['9 dollar']	0.736329740585
+['7 dollar', 'dollar']	['7-dollar ticket']	0.387111105877
+['7 dollar', 'dollar']	['9-dollar ticket']	0.387111105877
+['9 dollar', 'dollar']	['booster club']	0.0698675290335
+['9 dollar', 'dollar']	['annual trip']	0.0698675290335
+['9 dollar', 'dollar']	['trip']	0.200730269532
+['9 dollar', 'dollar']	['majority']	0.278681195756
+['9 dollar', 'dollar']	['club']	0.180560490245
+['9 dollar', 'dollar']	['baseball game']	0.125024962568
+['9 dollar', 'dollar']	['29 ticket']	0.174379922055
+['9 dollar', 'dollar']	['ticket']	0.264652724916
+['9 dollar', 'dollar']	['7 dollar']	0.736329740585
+['9 dollar', 'dollar']	['7-dollar ticket']	0.387111105877
+['9 dollar', 'dollar']	['9-dollar ticket']	0.387111105877
+['7-dollar ticket', 'dollar']	['booster club']	0.015360451052
+['7-dollar ticket', 'dollar']	['annual trip']	0.015360451052
+['7-dollar ticket', 'dollar']	['trip']	0.0486443405719
+['7-dollar ticket', 'dollar']	['majority']	0.0843433209584
+['7-dollar ticket', 'dollar']	['club']	0.0175594313674
+['7-dollar ticket', 'dollar']	['baseball game']	0.0160064194205
+['7-dollar ticket', 'dollar']	['29 ticket']	0.132615563108
+['7-dollar ticket', 'dollar']	['ticket']	0.350552054943
+['7-dollar ticket', 'dollar']	['7 dollar']	0.293611831056
+['7-dollar ticket', 'dollar']	['9 dollar']	0.293611831056
+['7-dollar ticket', 'dollar']	['9-dollar ticket']	0.235342258916
+['9-dollar ticket', 'dollar']	['booster club']	0.015360451052
+['9-dollar ticket', 'dollar']	['annual trip']	0.015360451052
+['9-dollar ticket', 'dollar']	['trip']	0.0486443405719
+['9-dollar ticket', 'dollar']	['majority']	0.0843433209584
+['9-dollar ticket', 'dollar']	['club']	0.0175594313674
+['9-dollar ticket', 'dollar']	['baseball game']	0.0160064194205
+['9-dollar ticket', 'dollar']	['29 ticket']	0.132615563108
+['9-dollar ticket', 'dollar']	['ticket']	0.350552054943
+['9-dollar ticket', 'dollar']	['7 dollar']	0.293611831056
+['9-dollar ticket', 'dollar']	['9 dollar']	0.293611831056
+['9-dollar ticket', 'dollar']	['7-dollar ticket']	0.235342258916
+['booster club', '9 dollar']	['annual trip']	0.083785214554
+['booster club', '9 dollar']	['trip']	0.0777864840342
+['booster club', '9 dollar']	['majority']	0.0777864840342
+['booster club', '9 dollar']	['club']	0.811184667784
+['booster club', '9 dollar']	['baseball game']	0.0833805889219
+['booster club', '9 dollar']	['29 ticket']	0.140649313257
+['booster club', '9 dollar']	['ticket']	0.0595801389141
+['booster club', '9 dollar']	['7 dollar']	0.754360422532
+['booster club', '9 dollar']	['dollar']	0.219544418923
+['booster club', '9 dollar']	['7-dollar ticket']	0.0901100077042
+['booster club', '9 dollar']	['9-dollar ticket']	0.0901100077042
+['annual trip', '9 dollar']	['booster club']	0.083785214554
+['annual trip', '9 dollar']	['trip']	0.722511270791
+['annual trip', '9 dollar']	['majority']	0.0777864840342
+['annual trip', '9 dollar']	['club']	0.0774561735493
+['annual trip', '9 dollar']	['baseball game']	0.0827346205535
+['annual trip', '9 dollar']	['29 ticket']	0.140649313257
+['annual trip', '9 dollar']	['ticket']	0.0595801389141
+['annual trip', '9 dollar']	['7 dollar']	0.754360422532
+['annual trip', '9 dollar']	['dollar']	0.219544418923
+['annual trip', '9 dollar']	['7-dollar ticket']	0.0901100077042
+['annual trip', '9 dollar']	['9-dollar ticket']	0.0901100077042
+['trip', '9 dollar']	['booster club']	0.0827346205535
+['trip', '9 dollar']	['annual trip']	0.648578713416
+['trip', '9 dollar']	['majority']	0.32376942094
+['trip', '9 dollar']	['club']	0.192648399091
+['trip', '9 dollar']	['baseball game']	0.0827346205535
+['trip', '9 dollar']	['29 ticket']	0.124206600218
+['trip', '9 dollar']	['ticket']	0.684712441263
+['trip', '9 dollar']	['7 dollar']	0.760386850763
+['trip', '9 dollar']	['dollar']	0.466235307613
+['trip', '9 dollar']	['7-dollar ticket']	0.0901100077042
+['trip', '9 dollar']	['9-dollar ticket']	0.0901100077042
+['majority', '9 dollar']	['booster club']	0.0827346205535
+['majority', '9 dollar']	['annual trip']	0.0827346205535
+['majority', '9 dollar']	['trip']	0.266512184964
+['majority', '9 dollar']	['club']	0.192648399091
+['majority', '9 dollar']	['baseball game']	0.0833805889219
+['majority', '9 dollar']	['29 ticket']	0.149036431322
+['majority', '9 dollar']	['ticket']	0.655599887151
+['majority', '9 dollar']	['7 dollar']	0.800833695134
+['majority', '9 dollar']	['dollar']	0.466235307613
+['majority', '9 dollar']	['7-dollar ticket']	0.0827346205535
+['majority', '9 dollar']	['9-dollar ticket']	0.0827346205535
+['club', '9 dollar']	['booster club']	0.684623300557
+['club', '9 dollar']	['annual trip']	0.0696933362217
+['club', '9 dollar']	['trip']	0.182729929366
+['club', '9 dollar']	['majority']	0.206653832009
+['club', '9 dollar']	['baseball game']	0.0696933362217
+['club', '9 dollar']	['29 ticket']	0.103222748661
+['club', '9 dollar']	['ticket']	0.67127207086
+['club', '9 dollar']	['7 dollar']	0.736313764211
+['club', '9 dollar']	['dollar']	0.424374238399
+['club', '9 dollar']	['7-dollar ticket']	0.0737139440912
+['club', '9 dollar']	['9-dollar ticket']	0.0737139440912
+['baseball game', '9 dollar']	['booster club']	0.0819994954072
+['baseball game', '9 dollar']	['annual trip']	0.0827346205535
+['baseball game', '9 dollar']	['trip']	0.0744376594044
+['baseball game', '9 dollar']	['majority']	0.0744376594044
+['baseball game', '9 dollar']	['club']	0.0966764293888
+['baseball game', '9 dollar']	['29 ticket']	0.140649313257
+['baseball game', '9 dollar']	['ticket']	0.0595801389141
+['baseball game', '9 dollar']	['7 dollar']	0.754360422532
+['baseball game', '9 dollar']	['dollar']	0.273620297832
+['baseball game', '9 dollar']	['7-dollar ticket']	0.0901100077042
+['baseball game', '9 dollar']	['9-dollar ticket']	0.0901100077042
+['29 ticket', '9 dollar']	['booster club']	0.0827346205535
+['29 ticket', '9 dollar']	['annual trip']	0.0827346205535
+['29 ticket', '9 dollar']	['trip']	0.0777864840342
+['29 ticket', '9 dollar']	['majority']	0.0744376594044
+['29 ticket', '9 dollar']	['club']	0.0774561735493
+['29 ticket', '9 dollar']	['baseball game']	0.0827346205535
+['29 ticket', '9 dollar']	['ticket']	0.527855161793
+['29 ticket', '9 dollar']	['7 dollar']	0.800552772617
+['29 ticket', '9 dollar']	['dollar']	0.332980520024
+['29 ticket', '9 dollar']	['7-dollar ticket']	0.584269096576
+['29 ticket', '9 dollar']	['9-dollar ticket']	0.584269096576
+['ticket', '9 dollar']	['booster club']	0.0465787639079
+['ticket', '9 dollar']	['annual trip']	0.0465787639079
+['ticket', '9 dollar']	['trip']	0.528148913123
+['ticket', '9 dollar']	['majority']	0.521520399623
+['ticket', '9 dollar']	['club']	0.564671765955
+['ticket', '9 dollar']	['baseball game']	0.0465787639079
+['ticket', '9 dollar']	['29 ticket']	0.566619881962
+['ticket', '9 dollar']	['7 dollar']	0.762941936816
+['ticket', '9 dollar']	['dollar']	0.393939736912
+['ticket', '9 dollar']	['7-dollar ticket']	0.59068738808
+['ticket', '9 dollar']	['9-dollar ticket']	0.59068738808
+['7 dollar', '9 dollar']	['booster club']	0.153587928078
+['7 dollar', '9 dollar']	['annual trip']	0.153587928078
+['7 dollar', '9 dollar']	['trip']	0.327028499836
+['7 dollar', '9 dollar']	['majority']	0.37370815508
+['7 dollar', '9 dollar']	['club']	0.345269105941
+['7 dollar', '9 dollar']	['baseball game']	0.14589133531
+['7 dollar', '9 dollar']	['29 ticket']	0.356231993893
+['7 dollar', '9 dollar']	['ticket']	0.407848805832
+['7 dollar', '9 dollar']	['dollar']	0.796711238127
+['7 dollar', '9 dollar']	['7-dollar ticket']	0.139258682248
+['7 dollar', '9 dollar']	['9-dollar ticket']	0.139258682248
+['dollar', '9 dollar']	['booster club']	0.0698675290335
+['dollar', '9 dollar']	['annual trip']	0.0698675290335
+['dollar', '9 dollar']	['trip']	0.200730269532
+['dollar', '9 dollar']	['majority']	0.278681195756
+['dollar', '9 dollar']	['club']	0.180560490245
+['dollar', '9 dollar']	['baseball game']	0.125024962568
+['dollar', '9 dollar']	['29 ticket']	0.174379922055
+['dollar', '9 dollar']	['ticket']	0.264652724916
+['dollar', '9 dollar']	['7 dollar']	0.736329740585
+['dollar', '9 dollar']	['7-dollar ticket']	0.387111105877
+['dollar', '9 dollar']	['9-dollar ticket']	0.387111105877
+['7-dollar ticket', '9 dollar']	['booster club']	0.0827346205535
+['7-dollar ticket', '9 dollar']	['annual trip']	0.0827346205535
+['7-dollar ticket', '9 dollar']	['trip']	0.0777864840342
+['7-dollar ticket', '9 dollar']	['majority']	0.0744376594044
+['7-dollar ticket', '9 dollar']	['club']	0.0774561735493
+['7-dollar ticket', '9 dollar']	['baseball game']	0.0827346205535
+['7-dollar ticket', '9 dollar']	['29 ticket']	0.604308352538
+['7-dollar ticket', '9 dollar']	['ticket']	0.645171343368
+['7-dollar ticket', '9 dollar']	['7 dollar']	0.754360422532
+['7-dollar ticket', '9 dollar']	['dollar']	0.486823644248
+['7-dollar ticket', '9 dollar']	['9-dollar ticket']	0.584269096576
+['9-dollar ticket', '9 dollar']	['booster club']	0.0827346205535
+['9-dollar ticket', '9 dollar']	['annual trip']	0.0827346205535
+['9-dollar ticket', '9 dollar']	['trip']	0.0777864840342
+['9-dollar ticket', '9 dollar']	['majority']	0.0744376594044
+['9-dollar ticket', '9 dollar']	['club']	0.0774561735493
+['9-dollar ticket', '9 dollar']	['baseball game']	0.0827346205535
+['9-dollar ticket', '9 dollar']	['29 ticket']	0.604308352538
+['9-dollar ticket', '9 dollar']	['ticket']	0.645171343368
+['9-dollar ticket', '9 dollar']	['7 dollar']	0.754360422532
+['9-dollar ticket', '9 dollar']	['dollar']	0.486823644248
+['9-dollar ticket', '9 dollar']	['7-dollar ticket']	0.584269096576
+['booster club', '7-dollar ticket']	['annual trip']	0.0871340391838
+['booster club', '7-dollar ticket']	['trip']	0.0888375395985
+['booster club', '7-dollar ticket']	['majority']	0.0777864840342
+['booster club', '7-dollar ticket']	['club']	0.744598628667
+['booster club', '7-dollar ticket']	['baseball game']	0.0833805889219
+['booster club', '7-dollar ticket']	['29 ticket']	0.573408386835
+['booster club', '7-dollar ticket']	['ticket']	0.558667402162
+['booster club', '7-dollar ticket']	['7 dollar']	0.0827346205535
+['booster club', '7-dollar ticket']	['dollar']	0.0979096772016
+['booster club', '7-dollar ticket']	['9 dollar']	0.0827346205535
+['booster club', '7-dollar ticket']	['9-dollar ticket']	0.584269096576
+['annual trip', '7-dollar ticket']	['booster club']	0.0871340391838
+['annual trip', '7-dollar ticket']	['trip']	0.70007858174
+['annual trip', '7-dollar ticket']	['majority']	0.0777864840342
+['annual trip', '7-dollar ticket']	['club']	0.0831172035382
+['annual trip', '7-dollar ticket']	['baseball game']	0.0827346205535
+['annual trip', '7-dollar ticket']	['29 ticket']	0.573408386835
+['annual trip', '7-dollar ticket']	['ticket']	0.558667402162
+['annual trip', '7-dollar ticket']	['7 dollar']	0.0827346205535
+['annual trip', '7-dollar ticket']	['dollar']	0.0979096772016
+['annual trip', '7-dollar ticket']	['9 dollar']	0.0827346205535
+['annual trip', '7-dollar ticket']	['9-dollar ticket']	0.584269096576
+['trip', '7-dollar ticket']	['booster club']	0.0901100077042
+['trip', '7-dollar ticket']	['annual trip']	0.648578713416
+['trip', '7-dollar ticket']	['majority']	0.32863955081
+['trip', '7-dollar ticket']	['club']	0.19603525097
+['trip', '7-dollar ticket']	['baseball game']	0.0901100077042
+['trip', '7-dollar ticket']	['29 ticket']	0.584269096576
+['trip', '7-dollar ticket']	['ticket']	0.745548310289
+['trip', '7-dollar ticket']	['7 dollar']	0.0901100077042
+['trip', '7-dollar ticket']	['dollar']	0.179739498682
+['trip', '7-dollar ticket']	['9 dollar']	0.0901100077042
+['trip', '7-dollar ticket']	['9-dollar ticket']	0.584269096576
+['majority', '7-dollar ticket']	['booster club']	0.0827346205535
+['majority', '7-dollar ticket']	['annual trip']	0.0827346205535
+['majority', '7-dollar ticket']	['trip']	0.276494422148
+['majority', '7-dollar ticket']	['club']	0.19603525097
+['majority', '7-dollar ticket']	['baseball game']	0.0833805889219
+['majority', '7-dollar ticket']	['29 ticket']	0.538007739106
+['majority', '7-dollar ticket']	['ticket']	0.73709572892
+['majority', '7-dollar ticket']	['7 dollar']	0.0833805889219
+['majority', '7-dollar ticket']	['dollar']	0.179739498682
+['majority', '7-dollar ticket']	['9 dollar']	0.0833805889219
+['majority', '7-dollar ticket']	['9-dollar ticket']	0.538007739106
+['club', '7-dollar ticket']	['booster club']	0.680263859464
+['club', '7-dollar ticket']	['annual trip']	0.0737139440912
+['club', '7-dollar ticket']	['trip']	0.182762001964
+['club', '7-dollar ticket']	['majority']	0.211523961879
+['club', '7-dollar ticket']	['baseball game']	0.0737139440912
+['club', '7-dollar ticket']	['29 ticket']	0.522652815483
+['club', '7-dollar ticket']	['ticket']	0.732127441942
+['club', '7-dollar ticket']	['7 dollar']	0.0737139440912
+['club', '7-dollar ticket']	['dollar']	0.109739498682
+['club', '7-dollar ticket']	['9 dollar']	0.0737139440912
+['club', '7-dollar ticket']	['9-dollar ticket']	0.522652815483
+['baseball game', '7-dollar ticket']	['booster club']	0.0833805889219
+['baseball game', '7-dollar ticket']	['annual trip']	0.0827346205535
+['baseball game', '7-dollar ticket']	['trip']	0.0777864840342
+['baseball game', '7-dollar ticket']	['majority']	0.0744376594044
+['baseball game', '7-dollar ticket']	['club']	0.0966764293888
+['baseball game', '7-dollar ticket']	['29 ticket']	0.561946181134
+['baseball game', '7-dollar ticket']	['ticket']	0.558667402162
+['baseball game', '7-dollar ticket']	['7 dollar']	0.0827346205535
+['baseball game', '7-dollar ticket']	['dollar']	0.0986449713192
+['baseball game', '7-dollar ticket']	['9 dollar']	0.0827346205535
+['baseball game', '7-dollar ticket']	['9-dollar ticket']	0.584269096576
+['29 ticket', '7-dollar ticket']	['booster club']	0.14589133531
+['29 ticket', '7-dollar ticket']	['annual trip']	0.14589133531
+['29 ticket', '7-dollar ticket']	['trip']	0.325390866884
+['29 ticket', '7-dollar ticket']	['majority']	0.360804929274
+['29 ticket', '7-dollar ticket']	['club']	0.322323177041
+['29 ticket', '7-dollar ticket']	['baseball game']	0.14589133531
+['29 ticket', '7-dollar ticket']	['ticket']	0.716228337634
+['29 ticket', '7-dollar ticket']	['7 dollar']	0.264907405557
+['29 ticket', '7-dollar ticket']	['dollar']	0.426721610531
+['29 ticket', '7-dollar ticket']	['9 dollar']	0.264907405557
+['29 ticket', '7-dollar ticket']	['9-dollar ticket']	0.637144068101
+['ticket', '7-dollar ticket']	['booster club']	0.114915343922
+['ticket', '7-dollar ticket']	['annual trip']	0.114915343922
+['ticket', '7-dollar ticket']	['trip']	0.514672545288
+['ticket', '7-dollar ticket']	['majority']	0.5993784921
+['ticket', '7-dollar ticket']	['club']	0.560647541905
+['ticket', '7-dollar ticket']	['baseball game']	0.114915343922
+['ticket', '7-dollar ticket']	['29 ticket']	0.73171203379
+['ticket', '7-dollar ticket']	['7 dollar']	0.157502141539
+['ticket', '7-dollar ticket']	['dollar']	0.323084415584
+['ticket', '7-dollar ticket']	['9 dollar']	0.157502141539
+['ticket', '7-dollar ticket']	['9-dollar ticket']	0.675435347506
+['7 dollar', '7-dollar ticket']	['booster club']	0.0827346205535
+['7 dollar', '7-dollar ticket']	['annual trip']	0.0827346205535
+['7 dollar', '7-dollar ticket']	['trip']	0.0777864840342
+['7 dollar', '7-dollar ticket']	['majority']	0.0744376594044
+['7 dollar', '7-dollar ticket']	['club']	0.0774561735493
+['7 dollar', '7-dollar ticket']	['baseball game']	0.0827346205535
+['7 dollar', '7-dollar ticket']	['29 ticket']	0.604308352538
+['7 dollar', '7-dollar ticket']	['ticket']	0.645171343368
+['7 dollar', '7-dollar ticket']	['dollar']	0.486823644248
+['7 dollar', '7-dollar ticket']	['9 dollar']	0.754360422532
+['7 dollar', '7-dollar ticket']	['9-dollar ticket']	0.584269096576
+['dollar', '7-dollar ticket']	['booster club']	0.015360451052
+['dollar', '7-dollar ticket']	['annual trip']	0.015360451052
+['dollar', '7-dollar ticket']	['trip']	0.0486443405719
+['dollar', '7-dollar ticket']	['majority']	0.0843433209584
+['dollar', '7-dollar ticket']	['club']	0.0175594313674
+['dollar', '7-dollar ticket']	['baseball game']	0.0160064194205
+['dollar', '7-dollar ticket']	['29 ticket']	0.132615563108
+['dollar', '7-dollar ticket']	['ticket']	0.350552054943
+['dollar', '7-dollar ticket']	['7 dollar']	0.293611831056
+['dollar', '7-dollar ticket']	['9 dollar']	0.293611831056
+['dollar', '7-dollar ticket']	['9-dollar ticket']	0.235342258916
+['9 dollar', '7-dollar ticket']	['booster club']	0.0827346205535
+['9 dollar', '7-dollar ticket']	['annual trip']	0.0827346205535
+['9 dollar', '7-dollar ticket']	['trip']	0.0777864840342
+['9 dollar', '7-dollar ticket']	['majority']	0.0744376594044
+['9 dollar', '7-dollar ticket']	['club']	0.0774561735493
+['9 dollar', '7-dollar ticket']	['baseball game']	0.0827346205535
+['9 dollar', '7-dollar ticket']	['29 ticket']	0.604308352538
+['9 dollar', '7-dollar ticket']	['ticket']	0.645171343368
+['9 dollar', '7-dollar ticket']	['7 dollar']	0.754360422532
+['9 dollar', '7-dollar ticket']	['dollar']	0.486823644248
+['9 dollar', '7-dollar ticket']	['9-dollar ticket']	0.584269096576
+['9-dollar ticket', '7-dollar ticket']	['booster club']	0.139258682248
+['9-dollar ticket', '7-dollar ticket']	['annual trip']	0.139258682248
+['9-dollar ticket', '7-dollar ticket']	['trip']	0.325390866884
+['9-dollar ticket', '7-dollar ticket']	['majority']	0.360804929274
+['9-dollar ticket', '7-dollar ticket']	['club']	0.322323177041
+['9-dollar ticket', '7-dollar ticket']	['baseball game']	0.139258682248
+['9-dollar ticket', '7-dollar ticket']	['29 ticket']	0.637144068101
+['9-dollar ticket', '7-dollar ticket']	['ticket']	0.665532808614
+['9-dollar ticket', '7-dollar ticket']	['7 dollar']	0.139258682248
+['9-dollar ticket', '7-dollar ticket']	['dollar']	0.329157200824
+['9-dollar ticket', '7-dollar ticket']	['9 dollar']	0.139258682248
+['booster club', '9-dollar ticket']	['annual trip']	0.0871340391838
+['booster club', '9-dollar ticket']	['trip']	0.0888375395985
+['booster club', '9-dollar ticket']	['majority']	0.0777864840342
+['booster club', '9-dollar ticket']	['club']	0.744598628667
+['booster club', '9-dollar ticket']	['baseball game']	0.0833805889219
+['booster club', '9-dollar ticket']	['29 ticket']	0.573408386835
+['booster club', '9-dollar ticket']	['ticket']	0.558667402162
+['booster club', '9-dollar ticket']	['7 dollar']	0.0827346205535
+['booster club', '9-dollar ticket']	['dollar']	0.0979096772016
+['booster club', '9-dollar ticket']	['9 dollar']	0.0827346205535
+['booster club', '9-dollar ticket']	['7-dollar ticket']	0.584269096576
+['annual trip', '9-dollar ticket']	['booster club']	0.0871340391838
+['annual trip', '9-dollar ticket']	['trip']	0.70007858174
+['annual trip', '9-dollar ticket']	['majority']	0.0777864840342
+['annual trip', '9-dollar ticket']	['club']	0.0831172035382
+['annual trip', '9-dollar ticket']	['baseball game']	0.0827346205535
+['annual trip', '9-dollar ticket']	['29 ticket']	0.573408386835
+['annual trip', '9-dollar ticket']	['ticket']	0.558667402162
+['annual trip', '9-dollar ticket']	['7 dollar']	0.0827346205535
+['annual trip', '9-dollar ticket']	['dollar']	0.0979096772016
+['annual trip', '9-dollar ticket']	['9 dollar']	0.0827346205535
+['annual trip', '9-dollar ticket']	['7-dollar ticket']	0.584269096576
+['trip', '9-dollar ticket']	['booster club']	0.0901100077042
+['trip', '9-dollar ticket']	['annual trip']	0.648578713416
+['trip', '9-dollar ticket']	['majority']	0.32863955081
+['trip', '9-dollar ticket']	['club']	0.19603525097
+['trip', '9-dollar ticket']	['baseball game']	0.0901100077042
+['trip', '9-dollar ticket']	['29 ticket']	0.584269096576
+['trip', '9-dollar ticket']	['ticket']	0.745548310289
+['trip', '9-dollar ticket']	['7 dollar']	0.0901100077042
+['trip', '9-dollar ticket']	['dollar']	0.179739498682
+['trip', '9-dollar ticket']	['9 dollar']	0.0901100077042
+['trip', '9-dollar ticket']	['7-dollar ticket']	0.584269096576
+['majority', '9-dollar ticket']	['booster club']	0.0827346205535
+['majority', '9-dollar ticket']	['annual trip']	0.0827346205535
+['majority', '9-dollar ticket']	['trip']	0.276494422148
+['majority', '9-dollar ticket']	['club']	0.19603525097
+['majority', '9-dollar ticket']	['baseball game']	0.0833805889219
+['majority', '9-dollar ticket']	['29 ticket']	0.538007739106
+['majority', '9-dollar ticket']	['ticket']	0.73709572892
+['majority', '9-dollar ticket']	['7 dollar']	0.0833805889219
+['majority', '9-dollar ticket']	['dollar']	0.179739498682
+['majority', '9-dollar ticket']	['9 dollar']	0.0833805889219
+['majority', '9-dollar ticket']	['7-dollar ticket']	0.538007739106
+['club', '9-dollar ticket']	['booster club']	0.680263859464
+['club', '9-dollar ticket']	['annual trip']	0.0737139440912
+['club', '9-dollar ticket']	['trip']	0.182762001964
+['club', '9-dollar ticket']	['majority']	0.211523961879
+['club', '9-dollar ticket']	['baseball game']	0.0737139440912
+['club', '9-dollar ticket']	['29 ticket']	0.522652815483
+['club', '9-dollar ticket']	['ticket']	0.732127441942
+['club', '9-dollar ticket']	['7 dollar']	0.0737139440912
+['club', '9-dollar ticket']	['dollar']	0.109739498682
+['club', '9-dollar ticket']	['9 dollar']	0.0737139440912
+['club', '9-dollar ticket']	['7-dollar ticket']	0.522652815483
+['baseball game', '9-dollar ticket']	['booster club']	0.0833805889219
+['baseball game', '9-dollar ticket']	['annual trip']	0.0827346205535
+['baseball game', '9-dollar ticket']	['trip']	0.0777864840342
+['baseball game', '9-dollar ticket']	['majority']	0.0744376594044
+['baseball game', '9-dollar ticket']	['club']	0.0966764293888
+['baseball game', '9-dollar ticket']	['29 ticket']	0.561946181134
+['baseball game', '9-dollar ticket']	['ticket']	0.558667402162
+['baseball game', '9-dollar ticket']	['7 dollar']	0.0827346205535
+['baseball game', '9-dollar ticket']	['dollar']	0.0986449713192
+['baseball game', '9-dollar ticket']	['9 dollar']	0.0827346205535
+['baseball game', '9-dollar ticket']	['7-dollar ticket']	0.584269096576
+['29 ticket', '9-dollar ticket']	['booster club']	0.14589133531
+['29 ticket', '9-dollar ticket']	['annual trip']	0.14589133531
+['29 ticket', '9-dollar ticket']	['trip']	0.325390866884
+['29 ticket', '9-dollar ticket']	['majority']	0.360804929274
+['29 ticket', '9-dollar ticket']	['club']	0.322323177041
+['29 ticket', '9-dollar ticket']	['baseball game']	0.14589133531
+['29 ticket', '9-dollar ticket']	['ticket']	0.716228337634
+['29 ticket', '9-dollar ticket']	['7 dollar']	0.264907405557
+['29 ticket', '9-dollar ticket']	['dollar']	0.426721610531
+['29 ticket', '9-dollar ticket']	['9 dollar']	0.264907405557
+['29 ticket', '9-dollar ticket']	['7-dollar ticket']	0.637144068101
+['ticket', '9-dollar ticket']	['booster club']	0.114915343922
+['ticket', '9-dollar ticket']	['annual trip']	0.114915343922
+['ticket', '9-dollar ticket']	['trip']	0.514672545288
+['ticket', '9-dollar ticket']	['majority']	0.5993784921
+['ticket', '9-dollar ticket']	['club']	0.560647541905
+['ticket', '9-dollar ticket']	['baseball game']	0.114915343922
+['ticket', '9-dollar ticket']	['29 ticket']	0.73171203379
+['ticket', '9-dollar ticket']	['7 dollar']	0.157502141539
+['ticket', '9-dollar ticket']	['dollar']	0.323084415584
+['ticket', '9-dollar ticket']	['9 dollar']	0.157502141539
+['ticket', '9-dollar ticket']	['7-dollar ticket']	0.675435347506
+['7 dollar', '9-dollar ticket']	['booster club']	0.0827346205535
+['7 dollar', '9-dollar ticket']	['annual trip']	0.0827346205535
+['7 dollar', '9-dollar ticket']	['trip']	0.0777864840342
+['7 dollar', '9-dollar ticket']	['majority']	0.0744376594044
+['7 dollar', '9-dollar ticket']	['club']	0.0774561735493
+['7 dollar', '9-dollar ticket']	['baseball game']	0.0827346205535
+['7 dollar', '9-dollar ticket']	['29 ticket']	0.604308352538
+['7 dollar', '9-dollar ticket']	['ticket']	0.645171343368
+['7 dollar', '9-dollar ticket']	['dollar']	0.486823644248
+['7 dollar', '9-dollar ticket']	['9 dollar']	0.754360422532
+['7 dollar', '9-dollar ticket']	['7-dollar ticket']	0.584269096576
+['dollar', '9-dollar ticket']	['booster club']	0.015360451052
+['dollar', '9-dollar ticket']	['annual trip']	0.015360451052
+['dollar', '9-dollar ticket']	['trip']	0.0486443405719
+['dollar', '9-dollar ticket']	['majority']	0.0843433209584
+['dollar', '9-dollar ticket']	['club']	0.0175594313674
+['dollar', '9-dollar ticket']	['baseball game']	0.0160064194205
+['dollar', '9-dollar ticket']	['29 ticket']	0.132615563108
+['dollar', '9-dollar ticket']	['ticket']	0.350552054943
+['dollar', '9-dollar ticket']	['7 dollar']	0.293611831056
+['dollar', '9-dollar ticket']	['9 dollar']	0.293611831056
+['dollar', '9-dollar ticket']	['7-dollar ticket']	0.235342258916
+['9 dollar', '9-dollar ticket']	['booster club']	0.0827346205535
+['9 dollar', '9-dollar ticket']	['annual trip']	0.0827346205535
+['9 dollar', '9-dollar ticket']	['trip']	0.0777864840342
+['9 dollar', '9-dollar ticket']	['majority']	0.0744376594044
+['9 dollar', '9-dollar ticket']	['club']	0.0774561735493
+['9 dollar', '9-dollar ticket']	['baseball game']	0.0827346205535
+['9 dollar', '9-dollar ticket']	['29 ticket']	0.604308352538
+['9 dollar', '9-dollar ticket']	['ticket']	0.645171343368
+['9 dollar', '9-dollar ticket']	['7 dollar']	0.754360422532
+['9 dollar', '9-dollar ticket']	['dollar']	0.486823644248
+['9 dollar', '9-dollar ticket']	['7-dollar ticket']	0.584269096576
+['7-dollar ticket', '9-dollar ticket']	['booster club']	0.139258682248
+['7-dollar ticket', '9-dollar ticket']	['annual trip']	0.139258682248
+['7-dollar ticket', '9-dollar ticket']	['trip']	0.325390866884
+['7-dollar ticket', '9-dollar ticket']	['majority']	0.360804929274
+['7-dollar ticket', '9-dollar ticket']	['club']	0.322323177041
+['7-dollar ticket', '9-dollar ticket']	['baseball game']	0.139258682248
+['7-dollar ticket', '9-dollar ticket']	['29 ticket']	0.637144068101
+['7-dollar ticket', '9-dollar ticket']	['ticket']	0.665532808614
+['7-dollar ticket', '9-dollar ticket']	['7 dollar']	0.139258682248
+['7-dollar ticket', '9-dollar ticket']	['dollar']	0.329157200824
+['7-dollar ticket', '9-dollar ticket']	['9 dollar']	0.139258682248

@@ -1,0 +1,12 @@
+reduce ARG1 One thousand quarts of milk testing 4 % butterfat
+test ARG1 4 % butterfat
+reduce ARG4 3 %
+
+separate ARG1 many quarts of cream testing 23 % butterfat
+produce ARG0 many quarts of cream testing 23 % butterfat
+test ARG1 23 % butterfat
+separate PNC to produce the required result
+separate MOD must
+separate ARG2 the milk
+produce ARG1 the required result
+

@@ -359,16 +359,36 @@ def omit_short_np(whole_question, question_strings_np):
 				break
 	return res
 
+def check_for_unit_and_rule(question_strings_np):
+	res_list = []
+	money_units = ['dollar', 'cent']
+	time_units = ['minute', 'hour', 'second', 'day', 'week', 'year','month']
+	length_units = ['meter','centimeter', 'millimeter', 'mile', 'kilometer', 'yard', 'inch', 'feet']
+	volume_units = ['milliliter', 'liter', 'gallon', 'ounce']
+	for np in question_strings_np:
+		parts = np.split(' ')
+		if len(parts) == 0:
+			continue
+		new_np = ''
+		for i in range(0, len(parts)):
+			new_np = new_np + parts[i] + ' '
+			if parts[i] in money_units or parts[i] in time_units or parts[i] in length_units or parts[i] in volume_units:
+				break
+		new_np = new_np[:-1]
+		if new_np not in res_list:
+			res_list.append(new_np)
+	return res_list
+
 def omit_ban_np(question_strings_np):
-	bad_word_list = ['together', 'triple', 'more', 'less', 'twice', 'some', 'only','any', 'many', 'number', 'total', 'time', 'much', 'amount', 'how', 'where', 'there', 'all', 'weighted', 'combined']
+	bad_word_list = ['same', 'same time', 'time', 'each', 'part of', 'part', 'rate of', 'st', 'total', 'together', 'triple', 'more', 'less', 'twice', 'some', 'only','any', 'many', 'number', 'total', 'time', 'much', 'amount', 'how', 'where', 'there', 'all', 'weighted', 'combined', 'each', 'maximum', 'minimum', 'total', 'combine']
 	res_list = []
 	for np in question_strings_np:
 		if np not in bad_word_list and np not in res_list:
 			res_list.append(np)
 	return res_list
 
-word_list_not_in_beginning = ['many', 'much', 'cost', 'combined', 'remainder', 'other']
-word_list_not_in_end = ['conbined', 'altogether', 'cost', 'total', 'selling']
+word_list_not_in_beginning = ['many', 'much', 'cost', 'combined', 'remainder', 'other', 'maximum', 'minimum', 'more', 'each']
+word_list_not_in_end = ['combined', 'combine', 'altogether', 'cost', 'total', 'selling', 'of', 'some', 'apart', 'more']
 
 if __name__ =="__main__":
 	# question_strings_nps = ['0.75 dollar', 'dollar.dolar', '250 tivkry', '18.00 pins']
@@ -396,7 +416,8 @@ if __name__ =="__main__":
 		input_whole_question = open('data/problem_preprocessed/' + str(i) + '_lemma.txt', 'r')
 		whole_question = input_whole_question.readline().lower()
 		output_file = open("data/np_preprocessed_no_article_entity/" + str(i) + '.txt','w')
-		res_article = refine_articles(question_strings_nps)
+		res_unit_and = check_for_unit_and_rule(question_strings_nps)
+		res_article = refine_articles(res_unit_and)
 		res_no_opostrophe = omitiing_opostrophe_s(res_article)
 		res_no_dot = omit_dot_in_between(res_no_opostrophe)
 		res_q_string = omit_question_strings(res_no_dot)

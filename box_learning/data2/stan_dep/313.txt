@@ -1,0 +1,38 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 13) (NNS animals))
+        (PP (IN in) (NP (DT a) (NN barn)))))
+    (. .)))
+(ROOT
+  (S
+    (S (NP (DT Some)) (VP (VBP are) (NP (NNS chickens))))
+    (CC and)
+    (S (NP (DT some)) (VP (VBP are) (NP (NNS pigs))))
+    (. .)))
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 40) (NNS legs))
+        (PP (IN in) (NP (DT the) (NN barn)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBARQ
+      (WHADJP (WRB How) (JJ many))
+      (SQ
+        (VBP are)
+        (NP
+          (NP (NNS pigs))
+          (SBAR (S (VP (VBP are) (NP (EX there))))))))
+    (CC and)
+    (SBARQ
+      (WHNP (WHADJP (WRB how) (JJ many)) (NN chicken))
+      (SQ (VBP are) (NP (EX there)))
+      (. ?))))

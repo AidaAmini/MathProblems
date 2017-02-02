@@ -1,0 +1,20 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN weight))
+      (PP (IN of) (NP (CD 80) (NNS pounds))))
+    (VP
+      (VBZ stretches)
+      (NP (NP (DT a) (NN spring)) (NP (CD 4.5) (NNS inches))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHADVP (WRB How) (RB far))
+    (SQ
+      (MD will)
+      (NP (DT a) (NN weight))
+      (VP
+        (ADVP (IN of) (NP (CD 125) (NNS pounds)))
+        (VBP stretch)
+        (NP (DT the) (NN spring))))
+    (. ?)))

@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VBP are)
+      (VP
+        (VBG traveling)
+        (PP
+          (TO to)
+          (NP
+            (NP (PRP$ your) (NNS mothers) (NN house))
+            (SBAR
+              (WHNP (WDT that))
+              (S
+                (VP
+                  (VBZ is)
+                  (ADVP (NP (CD 234) (NNS miles)) (RB away)))))))))
+    (. .)))
+(ROOT
+  (S
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP you))
+        (VP
+          (VBP are)
+          (ADVP (RB currently))
+          (ADVP (RB twice))
+          (ADJP
+            (IN as)
+            (RB far)
+            (PP (IN from) (NP (PRP$ your) (NN house))))
+          (SBAR
+            (IN as)
+            (S
+              (NP (PRP you))
+              (VP
+                (VBP are)
+                (PP (IN from) (NP (PRP$ your) (NNS mothers)))))))))
+    (VP
+      (VB house)
+      (SBAR
+        (WHADVP (WRB how) (RB far))
+        (S (VP (VBP have) (S (NP (PRP you)) (VP (VBN traveled)))))))
+    (. ?)))
+(ROOT
+  (NP
+    (NP (NNP Round))
+    (PP (TO to) (NP (DT the) (JJS nearest) (NN tenth) (NN mile)))
+    (. .)))

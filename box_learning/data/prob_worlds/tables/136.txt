@@ -1,0 +1,10 @@
+1
+[['jane and jill', '32', 'doll', '-', '-', '-', '-'], ['jane', 'x1+6', 'doll', '-', '-', '-', '-'], ['jill', 'x1+6', 'doll', '-', '-', '-', '-']]
+-1
+[['jane and jill', 'x1+6', 'doll', '-', '-', 'jill', '-'], ['jane', 'x1+6', 'doll', '-', '-', '-', '-'], ['jane and jill', 'x1+6', 'doll', '-', '-', '-', '-']]
+-1
+[['jane and jill', '32', 'doll', '-', '-', '-', 'jill'], ['jane', 'x1+6', 'doll', '-', '-', '-', '-'], ['jill', 'x1+6', 'doll', '-', '-', '-', '32']]
+-1
+[['jane and jill', '32', 'doll', 'jill', '-', '-', '-'], ['jane', 'x1+6', 'doll', '-', '-', '-', '-'], ['jill', 'jane and jill', 'doll', '-', '-', '32', '-']]
+-1
+[['jane and jill', '32', 'doll', '-', '-', 'jill', '-'], ['jane', 'x1+6', 'doll', '-', '-', '-', '-'], ['jane and jill', 'x1+6', 'doll', '-', 'jill', '-', '32']]

@@ -1,0 +1,14 @@
+1
+[['hot dog and soda', '87', '-', '-', '-', 'dollar', '78.5'], ['hot dog', 'x1', '-', 'dollar', '1.5', '-', '-'], ['soda', 'x2', '-', 'dollar', '0.5', '-', '-']]
+-1
+[['hot dog and soda', '87', '-', '-', 'x2', 'dollar', '78.5'], ['hot dog', 'x1', '-', 'dollar', '1.5', '-', '-'], ['87', 'x2', '78.5', 'dollar', '0.5', '-', '-']]
+-1
+[['0.5', 'soda', 'x2', '-', '-', 'dollar', '78.5'], ['hot dog', 'x1', '-', 'dollar', '1.5', '-', '-'], ['soda', '78.5', '-', 'x2', 'dollar', '-', '-']]
+-1
+[['hot dog and soda', '87', '-', '-', '-', 'x2', '0.5'], ['hot dog', 'x1', '-', 'dollar', '1.5', '-', '-'], ['hot dog and soda', 'x2', '-', 'dollar', '0.5', '-', '87']]
+-1
+[['hot dog and soda', '87', '-', '-', 'x2', 'dollar', '78.5'], ['hot dog', 'x1', '-', 'dollar', '1.5', '-', '-'], ['78.5', 'x2', 'hot dog and soda', 'dollar', '0.5', '-', '87']]
+-1
+[['hot dog and soda', '87', 'soda', '-', '-', 'dollar', '0.5'], ['hot dog', 'x1', '-', 'dollar', '1.5', '-', '-'], ['soda', 'hot dog and soda', '-', 'dollar', '87', '-', '-']]
+-1
+[['hot dog and soda', '87', '-', '-', '-', 'dollar', 'x2'], ['hot dog', 'x1', '-', 'dollar', '1.5', '-', '-'], ['soda', 'x2', '-', 'dollar', '0.5', 'hot dog and soda', '-']]

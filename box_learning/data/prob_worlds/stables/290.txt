@@ -1,0 +1,24 @@
+1
+[['first day', '-', '-', '-', '-', 'dollar', '79'], ['senior citizen ticket', '4', '-', 'dollar', 'x1', '-', '-'], ['student ticket', '3', '-', 'dollar', 'x2', '-', '-'], ['second day', '-', '-', '-', '-', 'dollar', '246'], ['senior citizen ticket', '12', '-', 'dolllar', 'x1', '-', '-'], ['student ticket', '10', '-', 'dolllar', 'x2', '-', '-']]
+-1
+[['first day', '-', '-', '3', '-', 'dollar', 'student ticket'], ['dolllar', '4', '-', 'dollar', '12', '-', '-'], ['student ticket', '3', '-', 'dollar', 'x2', '-', '-'], ['student ticket', '-', '-', '-', '-', '79', '246'], ['senior citizen ticket', '12', '-', 'dolllar', '4', '-', '-'], ['student ticket', '10', '-', '3', 'x2', '-', '-']]
+-1
+[['first day', '246', '-', 'x2', '-', 'dollar', '79'], ['senior citizen ticket', '4', '-', 'dollar', 'x1', '-', '-'], ['student ticket', '3', '-', 'dolllar', 'x2', '-', '-'], ['79', '-', '-', '-', '-', 'dollar', '246'], ['senior citizen ticket', '12', '-', 'dollar', 'x1', '-', '-'], ['student ticket', '10', '-', 'dollar', '246', '-', '-']]
+-1
+[['dolllar', '-', '-', 'x2', '-', 'dollar', '79'], ['senior citizen ticket', '4', '-', 'dollar', 'x1', '-', '-'], ['student ticket', '79', '-', 'dollar', 'x2', '-', '-'], ['dolllar', '-', '-', '-', 'student ticket', 'x2', '246'], ['senior citizen ticket', '4', '-', 'dolllar', 'x1', '-', 'dollar'], ['dollar', '10', '-', 'dolllar', 'student ticket', '-', '-']]
+-1
+[['second day', '-', '3', '-', '-', 'dollar', '79'], ['senior citizen ticket', '4', '-', 'dollar', 'x1', '-', '12'], ['student ticket', '3', '-', 'dollar', 'x2', '-', '-'], ['dolllar', 'x2', '10', '-', '79', 'dollar', '246'], ['senior citizen ticket', '4', '-', 'dolllar', 'x1', '-', '-'], ['student ticket', '10', '-', 'dolllar', 'x2', 'dollar', '3']]
+-1
+[['3', '-', '-', 'student ticket', 'first day', 'dollar', '246'], ['senior citizen ticket', '4', '-', 'dollar', '12', '-', '-'], ['student ticket', '3', '-', 'dollar', 'x2', '-', '-'], ['first day', '-', '-', '-', '-', '79', '246'], ['senior citizen ticket', '12', '-', 'dolllar', 'x1', '-', '-'], ['student ticket', '3', '-', 'dolllar', 'x2', 'dollar', 'first day']]
+-1
+[['first day', '-', '-', '-', '-', 'x2', '79'], ['senior citizen ticket', '12', '-', 'dollar', 'x1', '-', '-'], ['79', '246', '-', 'dollar', 'x2', 'first day', 'student ticket'], ['second day', '3', '-', '-', '79', 'x2', '246'], ['senior citizen ticket', '12', '-', 'dolllar', 'x1', '-', '-'], ['student ticket', '10', '-', 'dolllar', 'dollar', 'second day', '-']]
+-1
+[['first day', 'student ticket', '-', '-', 'x2', 'dolllar', '79'], ['senior citizen ticket', '4', '-', 'dollar', 'x1', '-', '-'], ['student ticket', '3', '-', 'dollar', 'x2', '-', '-'], ['student ticket', '-', '-', '3', '-', 'x2', '246'], ['4', '12', '-', 'dolllar', 'x1', 'dollar', '-'], ['student ticket', '10', '-', 'dollar', 'x2', '246', '3']]
+-1
+[['first day', '-', 'student ticket', '-', '-', 'x2', '10'], ['dolllar', '4', '-', 'dollar', 'x1', '-', '-'], ['student ticket', '3', '-', 'dollar', 'x2', '-', '-'], ['3', 'dolllar', '-', '-', 'first day', 'dollar', '246'], ['senior citizen ticket', 'dollar', '-', 'dolllar', 'x1', '-', '-'], ['79', '10', '-', 'dolllar', '3', '-', '-']]
+-1
+[['first day', '-', '-', '-', '-', '10', '79'], ['senior citizen ticket', '4', '-', 'dollar', 'x1', '-', '-'], ['10', '3', '-', '79', 'x2', '-', '-'], ['3', 'dollar', '-', '-', 'first day', '79', '246'], ['senior citizen ticket', '12', '-', 'dolllar', 'x1', '-', '-'], ['3', '10', '-', 'dollar', 'x2', '-', '-']]
+-1
+[['first day', '-', 'x2', 'student ticket', '-', 'dollar', '79'], ['senior citizen ticket', '4', '-', 'dollar', 'x1', '-', '-'], ['79', 'x2', '-', 'dollar', 'dolllar', '-', 'first day'], ['second day', '-', '3', '-', '-', 'dollar', '246'], ['senior citizen ticket', '12', '-', '4', 'x1', '-', '-'], ['dollar', '10', '79', 'dolllar', 'x2', '-', '3']]
+-1
+[['dollar', '3', '-', 'x2', '-', '246', '79'], ['senior citizen ticket', '4', '-', 'dollar', 'x1', '-', 'dolllar'], ['student ticket', '3', '-', 'dollar', 'x2', '-', '-'], ['second day', 'student ticket', '-', '-', '79', 'dollar', '246'], ['senior citizen ticket', '12', '-', 'dolllar', 'x1', '-', 'dollar'], ['student ticket', '10', '-', '3', 'x2', '-', '-']]

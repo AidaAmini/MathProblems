@@ -1,0 +1,12 @@
+1
+[['stock', '-', '-', '-', '-', 'dollar', '2106'], ['valuable stock', '14', 'share', '-', '2*x1', '-', '-'], ['other stock', '26', 'share', '-', 'x1', '-', '-']]
+-1
+[['stock', '-', '-', '-', '-', 'dollar', 'other stock'], ['valuable stock', '14', 'share', '-', '2*x1', '-', '-'], ['stock', 'dollar', 'share', '-', 'x1', '-', '-']]
+-1
+[['26', '-', '-', '-', '-', 'dollar', 'share'], ['valuable stock', '14', 'share', '-', '2*x1', '-', '-'], ['other stock', '26', 'share', 'stock', 'x1', '-', 'dollar']]
+-1
+[['stock', '-', '26', 'x1', 'share', 'dollar', '2106'], ['valuable stock', '14', 'share', '-', '2*x1', '-', '-'], ['stock', '26', 'share', '-', 'x1', '-', '2106']]
+-1
+[['other stock', '-', '-', 'x1', '-', 'dollar', 'share'], ['valuable stock', '14', 'share', '-', '2*x1', '-', '-'], ['dollar', '26', 'share', '-', 'other stock', '-', '-']]
+-1
+[['stock', '-', 'share', '-', '-', 'dollar', '2106'], ['valuable stock', '14', 'share', '-', '2*x1', '-', '-'], ['share', '26', '2106', '-', 'stock', 'dollar', '-']]

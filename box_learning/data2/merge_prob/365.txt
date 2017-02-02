@@ -1,0 +1,360 @@
+['teacher', '100 point', '40 question', '2 point question', 'question', '4 point question', 'two point question', '4 point']
+['teacher']	['100 point']	0.113735274413
+['teacher']	['40 question']	0.0827346205535
+['teacher']	['2 point question']	0.0887553862424
+['teacher']	['question']	0.0751704523036
+['teacher']	['4 point question']	0.0960947096969
+['teacher']	['two point question']	0.0887553862424
+['teacher']	['4 point']	0.100147311871
+['100 point']	['40 question']	0.387929093691
+['100 point']	['2 point question']	0.154200044182
+['100 point']	['question']	0.0568482879172
+['100 point']	['4 point question']	0.138136295997
+['100 point']	['two point question']	0.154200044182
+['100 point']	['4 point']	0.708045029778
+['40 question']	['2 point question']	0.68119517674
+['40 question']	['4 point question']	0.727851516892
+['40 question']	['two point question']	0.68119517674
+['40 question']	['4 point']	0.103176153012
+['2 point question']	['4 point question']	0.779762356399
+['2 point question']	['two point question']	0.346306628148
+['2 point question']	['4 point']	0.413053526009
+['question']	['4 point']	0.0633314675333
+['4 point question']	['two point question']	0.799435781443
+['two point question']	['4 point']	0.413053526009
+['100 point', 'teacher']	['40 question']	0.422016612763
+['100 point', 'teacher']	['2 point question']	0.16331472499
+['100 point', 'teacher']	['question']	0.160978109909
+['100 point', 'teacher']	['4 point question']	0.135229014534
+['100 point', 'teacher']	['two point question']	0.16331472499
+['100 point', 'teacher']	['4 point']	0.628488651117
+['40 question', 'teacher']	['100 point']	0.431974313041
+['40 question', 'teacher']	['2 point question']	0.675892873452
+['40 question', 'teacher']	['question']	0.701350141921
+['40 question', 'teacher']	['4 point question']	0.64106402241
+['40 question', 'teacher']	['two point question']	0.675892873452
+['40 question', 'teacher']	['4 point']	0.111620744952
+['2 point question', 'teacher']	['100 point']	0.146029393379
+['2 point question', 'teacher']	['40 question']	0.587641685872
+['2 point question', 'teacher']	['question']	0.77256509891
+['2 point question', 'teacher']	['4 point question']	0.726430394684
+['2 point question', 'teacher']	['two point question']	0.628060047581
+['2 point question', 'teacher']	['4 point']	0.455027260739
+['question', 'teacher']	['100 point']	0.0613764810231
+['question', 'teacher']	['40 question']	0.591516047396
+['question', 'teacher']	['2 point question']	0.646069856276
+['question', 'teacher']	['4 point question']	0.613559295906
+['question', 'teacher']	['two point question']	0.646069856276
+['question', 'teacher']	['4 point']	0.0633314675333
+['4 point question', 'teacher']	['100 point']	0.114481280985
+['4 point question', 'teacher']	['40 question']	0.502833079419
+['4 point question', 'teacher']	['2 point question']	0.687763202918
+['4 point question', 'teacher']	['question']	0.751519865143
+['4 point question', 'teacher']	['two point question']	0.687763202918
+['4 point question', 'teacher']	['4 point']	0.541152019126
+['two point question', 'teacher']	['100 point']	0.146029393379
+['two point question', 'teacher']	['40 question']	0.587641685872
+['two point question', 'teacher']	['2 point question']	0.628060047581
+['two point question', 'teacher']	['question']	0.77256509891
+['two point question', 'teacher']	['4 point question']	0.726430394684
+['two point question', 'teacher']	['4 point']	0.455027260739
+['4 point', 'teacher']	['100 point']	0.52230523446
+['4 point', 'teacher']	['40 question']	0.103222748661
+['4 point', 'teacher']	['2 point question']	0.313714430192
+['4 point', 'teacher']	['question']	0.145392158873
+['4 point', 'teacher']	['4 point question']	0.353147134853
+['4 point', 'teacher']	['two point question']	0.313714430192
+['teacher', '100 point']	['40 question']	0.422016612763
+['teacher', '100 point']	['2 point question']	0.16331472499
+['teacher', '100 point']	['question']	0.160978109909
+['teacher', '100 point']	['4 point question']	0.135229014534
+['teacher', '100 point']	['two point question']	0.16331472499
+['teacher', '100 point']	['4 point']	0.628488651117
+['40 question', '100 point']	['teacher']	0.11881013493
+['40 question', '100 point']	['2 point question']	0.746802046559
+['40 question', '100 point']	['question']	0.684142901706
+['40 question', '100 point']	['4 point question']	0.743038752309
+['40 question', '100 point']	['two point question']	0.746802046559
+['40 question', '100 point']	['4 point']	0.667224790983
+['2 point question', '100 point']	['teacher']	0.180417158639
+['2 point question', '100 point']	['40 question']	0.857455104652
+['2 point question', '100 point']	['question']	0.836673724195
+['2 point question', '100 point']	['4 point question']	0.85294966491
+['2 point question', '100 point']	['two point question']	0.786878953812
+['2 point question', '100 point']	['4 point']	0.84711068113
+['question', '100 point']	['teacher']	0.138580096587
+['question', '100 point']	['40 question']	0.738246189839
+['question', '100 point']	['2 point question']	0.837065200261
+['question', '100 point']	['4 point question']	0.794096948212
+['question', '100 point']	['two point question']	0.837065200261
+['question', '100 point']	['4 point']	0.49880686398
+['4 point question', '100 point']	['teacher']	0.144652407281
+['4 point question', '100 point']	['40 question']	0.820975541855
+['4 point question', '100 point']	['2 point question']	0.826814525635
+['4 point question', '100 point']	['question']	0.843915787688
+['4 point question', '100 point']	['two point question']	0.826814525635
+['4 point question', '100 point']	['4 point']	0.794427423479
+['two point question', '100 point']	['teacher']	0.180417158639
+['two point question', '100 point']	['40 question']	0.857455104652
+['two point question', '100 point']	['2 point question']	0.786878953812
+['two point question', '100 point']	['question']	0.836673724195
+['two point question', '100 point']	['4 point question']	0.85294966491
+['two point question', '100 point']	['4 point']	0.84711068113
+['4 point', '100 point']	['teacher']	0.395816356186
+['4 point', '100 point']	['40 question']	0.65233245834
+['4 point', '100 point']	['2 point question']	0.753940508655
+['4 point', '100 point']	['question']	0.290550848565
+['4 point', '100 point']	['4 point question']	0.480648382014
+['4 point', '100 point']	['two point question']	0.753940508655
+['teacher', '40 question']	['100 point']	0.431974313041
+['teacher', '40 question']	['2 point question']	0.675892873452
+['teacher', '40 question']	['question']	0.701350141921
+['teacher', '40 question']	['4 point question']	0.64106402241
+['teacher', '40 question']	['two point question']	0.675892873452
+['teacher', '40 question']	['4 point']	0.111620744952
+['100 point', '40 question']	['teacher']	0.11881013493
+['100 point', '40 question']	['2 point question']	0.746802046559
+['100 point', '40 question']	['question']	0.684142901706
+['100 point', '40 question']	['4 point question']	0.743038752309
+['100 point', '40 question']	['two point question']	0.746802046559
+['100 point', '40 question']	['4 point']	0.667224790983
+['2 point question', '40 question']	['teacher']	0.383762104305
+['2 point question', '40 question']	['100 point']	0.765304240519
+['2 point question', '40 question']	['question']	0.847949652551
+['2 point question', '40 question']	['4 point question']	0.858184641442
+['2 point question', '40 question']	['two point question']	0.50326315235
+['2 point question', '40 question']	['4 point']	0.787465600858
+['question', '40 question']	['teacher']	0.460960239268
+['question', '40 question']	['100 point']	0.614444872466
+['question', '40 question']	['2 point question']	0.816935381481
+['question', '40 question']	['4 point question']	0.777397693865
+['question', '40 question']	['two point question']	0.816935381481
+['question', '40 question']	['4 point']	0.229310643
+['4 point question', '40 question']	['teacher']	0.372147613321
+['4 point question', '40 question']	['100 point']	0.709695414942
+['4 point question', '40 question']	['2 point question']	0.884174975973
+['4 point question', '40 question']	['question']	0.833725265826
+['4 point question', '40 question']	['two point question']	0.884174975973
+['4 point question', '40 question']	['4 point']	0.574860763831
+['two point question', '40 question']	['teacher']	0.383762104305
+['two point question', '40 question']	['100 point']	0.765304240519
+['two point question', '40 question']	['2 point question']	0.50326315235
+['two point question', '40 question']	['question']	0.847949652551
+['two point question', '40 question']	['4 point question']	0.858184641442
+['two point question', '40 question']	['4 point']	0.787465600858
+['4 point', '40 question']	['teacher']	0.0973860382812
+['4 point', '40 question']	['100 point']	0.781116950393
+['4 point', '40 question']	['2 point question']	0.758399580617
+['4 point', '40 question']	['question']	0.686078013696
+['4 point', '40 question']	['4 point question']	0.706527480783
+['4 point', '40 question']	['two point question']	0.758399580617
+['teacher', '2 point question']	['100 point']	0.146029393379
+['teacher', '2 point question']	['40 question']	0.587641685872
+['teacher', '2 point question']	['question']	0.77256509891
+['teacher', '2 point question']	['4 point question']	0.726430394684
+['teacher', '2 point question']	['two point question']	0.628060047581
+['teacher', '2 point question']	['4 point']	0.455027260739
+['100 point', '2 point question']	['teacher']	0.180417158639
+['100 point', '2 point question']	['40 question']	0.857455104652
+['100 point', '2 point question']	['question']	0.836673724195
+['100 point', '2 point question']	['4 point question']	0.85294966491
+['100 point', '2 point question']	['two point question']	0.786878953812
+['100 point', '2 point question']	['4 point']	0.84711068113
+['40 question', '2 point question']	['teacher']	0.383762104305
+['40 question', '2 point question']	['100 point']	0.765304240519
+['40 question', '2 point question']	['question']	0.847949652551
+['40 question', '2 point question']	['4 point question']	0.858184641442
+['40 question', '2 point question']	['two point question']	0.50326315235
+['40 question', '2 point question']	['4 point']	0.787465600858
+['question', '2 point question']	['teacher']	0.460960239268
+['question', '2 point question']	['100 point']	0.256836051092
+['question', '2 point question']	['40 question']	0.87327435
+['question', '2 point question']	['4 point question']	0.674524626985
+['question', '2 point question']	['two point question']	0.743347642024
+['question', '2 point question']	['4 point']	0.532038242217
+['4 point question', '2 point question']	['teacher']	0.311409257208
+['4 point question', '2 point question']	['100 point']	0.322894536314
+['4 point question', '2 point question']	['40 question']	0.810494115962
+['4 point question', '2 point question']	['question']	0.710317594026
+['4 point question', '2 point question']	['two point question']	0.530932756035
+['4 point question', '2 point question']	['4 point']	0.482002413883
+['two point question', '2 point question']	['teacher']	0.323023748192
+['two point question', '2 point question']	['100 point']	0.337499184346
+['two point question', '2 point question']	['40 question']	0.840551472459
+['two point question', '2 point question']	['question']	0.750501318875
+['two point question', '2 point question']	['4 point question']	0.849777656902
+['two point question', '2 point question']	['4 point']	0.770689987725
+['4 point', '2 point question']	['teacher']	0.144652407281
+['4 point', '2 point question']	['100 point']	0.645980418557
+['4 point', '2 point question']	['40 question']	0.645980418557
+['4 point', '2 point question']	['question']	0.843915787688
+['4 point', '2 point question']	['4 point question']	0.743542089541
+['4 point', '2 point question']	['two point question']	0.680528833967
+['teacher', 'question']	['100 point']	0.0613764810231
+['teacher', 'question']	['40 question']	0.591516047396
+['teacher', 'question']	['2 point question']	0.646069856276
+['teacher', 'question']	['4 point question']	0.613559295906
+['teacher', 'question']	['two point question']	0.646069856276
+['teacher', 'question']	['4 point']	0.0633314675333
+['100 point', 'question']	['teacher']	0.138580096587
+['100 point', 'question']	['40 question']	0.738246189839
+['100 point', 'question']	['2 point question']	0.837065200261
+['100 point', 'question']	['4 point question']	0.794096948212
+['100 point', 'question']	['two point question']	0.837065200261
+['100 point', 'question']	['4 point']	0.49880686398
+['40 question', 'question']	['teacher']	0.460960239268
+['40 question', 'question']	['100 point']	0.614444872466
+['40 question', 'question']	['2 point question']	0.816935381481
+['40 question', 'question']	['4 point question']	0.777397693865
+['40 question', 'question']	['two point question']	0.816935381481
+['40 question', 'question']	['4 point']	0.229310643
+['2 point question', 'question']	['teacher']	0.460960239268
+['2 point question', 'question']	['100 point']	0.256836051092
+['2 point question', 'question']	['40 question']	0.87327435
+['2 point question', 'question']	['4 point question']	0.674524626985
+['2 point question', 'question']	['two point question']	0.743347642024
+['2 point question', 'question']	['4 point']	0.532038242217
+['4 point question', 'question']	['teacher']	0.518836345463
+['4 point question', 'question']	['100 point']	0.314712157287
+['4 point question', 'question']	['40 question']	0.880840812168
+['4 point question', 'question']	['2 point question']	0.777271765281
+['4 point question', 'question']	['two point question']	0.777271765281
+['4 point question', 'question']	['4 point']	0.41557534473
+['two point question', 'question']	['teacher']	0.460960239268
+['two point question', 'question']	['100 point']	0.256836051092
+['two point question', 'question']	['40 question']	0.87327435
+['two point question', 'question']	['2 point question']	0.743347642024
+['two point question', 'question']	['4 point question']	0.674524626985
+['two point question', 'question']	['4 point']	0.532038242217
+['4 point', 'question']	['teacher']	0.202637652262
+['4 point', 'question']	['100 point']	0.536402197173
+['4 point', 'question']	['40 question']	0.722192523404
+['4 point', 'question']	['2 point question']	0.842352776076
+['4 point', 'question']	['4 point question']	0.831251943792
+['4 point', 'question']	['two point question']	0.842352776076
+['teacher', '4 point question']	['100 point']	0.114481280985
+['teacher', '4 point question']	['40 question']	0.502833079419
+['teacher', '4 point question']	['2 point question']	0.687763202918
+['teacher', '4 point question']	['question']	0.751519865143
+['teacher', '4 point question']	['two point question']	0.687763202918
+['teacher', '4 point question']	['4 point']	0.541152019126
+['100 point', '4 point question']	['teacher']	0.144652407281
+['100 point', '4 point question']	['40 question']	0.820975541855
+['100 point', '4 point question']	['2 point question']	0.826814525635
+['100 point', '4 point question']	['question']	0.843915787688
+['100 point', '4 point question']	['two point question']	0.826814525635
+['100 point', '4 point question']	['4 point']	0.794427423479
+['40 question', '4 point question']	['teacher']	0.372147613321
+['40 question', '4 point question']	['100 point']	0.709695414942
+['40 question', '4 point question']	['2 point question']	0.884174975973
+['40 question', '4 point question']	['question']	0.833725265826
+['40 question', '4 point question']	['two point question']	0.884174975973
+['40 question', '4 point question']	['4 point']	0.574860763831
+['2 point question', '4 point question']	['teacher']	0.311409257208
+['2 point question', '4 point question']	['100 point']	0.322894536314
+['2 point question', '4 point question']	['40 question']	0.810494115962
+['2 point question', '4 point question']	['question']	0.710317594026
+['2 point question', '4 point question']	['two point question']	0.530932756035
+['2 point question', '4 point question']	['4 point']	0.482002413883
+['question', '4 point question']	['teacher']	0.518836345463
+['question', '4 point question']	['100 point']	0.314712157287
+['question', '4 point question']	['40 question']	0.880840812168
+['question', '4 point question']	['2 point question']	0.777271765281
+['question', '4 point question']	['two point question']	0.777271765281
+['question', '4 point question']	['4 point']	0.41557534473
+['two point question', '4 point question']	['teacher']	0.311409257208
+['two point question', '4 point question']	['100 point']	0.322894536314
+['two point question', '4 point question']	['40 question']	0.810494115962
+['two point question', '4 point question']	['2 point question']	0.530932756035
+['two point question', '4 point question']	['question']	0.710317594026
+['two point question', '4 point question']	['4 point']	0.482002413883
+['4 point', '4 point question']	['teacher']	0.175376629622
+['4 point', '4 point question']	['100 point']	0.645980418557
+['4 point', '4 point question']	['40 question']	0.645980418557
+['4 point', '4 point question']	['2 point question']	0.882367388332
+['4 point', '4 point question']	['question']	0.843915787688
+['4 point', '4 point question']	['two point question']	0.882367388332
+['teacher', 'two point question']	['100 point']	0.146029393379
+['teacher', 'two point question']	['40 question']	0.587641685872
+['teacher', 'two point question']	['2 point question']	0.628060047581
+['teacher', 'two point question']	['question']	0.77256509891
+['teacher', 'two point question']	['4 point question']	0.726430394684
+['teacher', 'two point question']	['4 point']	0.455027260739
+['100 point', 'two point question']	['teacher']	0.180417158639
+['100 point', 'two point question']	['40 question']	0.857455104652
+['100 point', 'two point question']	['2 point question']	0.786878953812
+['100 point', 'two point question']	['question']	0.836673724195
+['100 point', 'two point question']	['4 point question']	0.85294966491
+['100 point', 'two point question']	['4 point']	0.84711068113
+['40 question', 'two point question']	['teacher']	0.383762104305
+['40 question', 'two point question']	['100 point']	0.765304240519
+['40 question', 'two point question']	['2 point question']	0.50326315235
+['40 question', 'two point question']	['question']	0.847949652551
+['40 question', 'two point question']	['4 point question']	0.858184641442
+['40 question', 'two point question']	['4 point']	0.787465600858
+['2 point question', 'two point question']	['teacher']	0.323023748192
+['2 point question', 'two point question']	['100 point']	0.337499184346
+['2 point question', 'two point question']	['40 question']	0.840551472459
+['2 point question', 'two point question']	['question']	0.750501318875
+['2 point question', 'two point question']	['4 point question']	0.849777656902
+['2 point question', 'two point question']	['4 point']	0.770689987725
+['question', 'two point question']	['teacher']	0.460960239268
+['question', 'two point question']	['100 point']	0.256836051092
+['question', 'two point question']	['40 question']	0.87327435
+['question', 'two point question']	['2 point question']	0.743347642024
+['question', 'two point question']	['4 point question']	0.674524626985
+['question', 'two point question']	['4 point']	0.532038242217
+['4 point question', 'two point question']	['teacher']	0.311409257208
+['4 point question', 'two point question']	['100 point']	0.322894536314
+['4 point question', 'two point question']	['40 question']	0.810494115962
+['4 point question', 'two point question']	['2 point question']	0.530932756035
+['4 point question', 'two point question']	['question']	0.710317594026
+['4 point question', 'two point question']	['4 point']	0.482002413883
+['4 point', 'two point question']	['teacher']	0.144652407281
+['4 point', 'two point question']	['100 point']	0.645980418557
+['4 point', 'two point question']	['40 question']	0.645980418557
+['4 point', 'two point question']	['2 point question']	0.680528833967
+['4 point', 'two point question']	['question']	0.843915787688
+['4 point', 'two point question']	['4 point question']	0.743542089541
+['teacher', '4 point']	['100 point']	0.52230523446
+['teacher', '4 point']	['40 question']	0.103222748661
+['teacher', '4 point']	['2 point question']	0.313714430192
+['teacher', '4 point']	['question']	0.145392158873
+['teacher', '4 point']	['4 point question']	0.353147134853
+['teacher', '4 point']	['two point question']	0.313714430192
+['100 point', '4 point']	['teacher']	0.395816356186
+['100 point', '4 point']	['40 question']	0.65233245834
+['100 point', '4 point']	['2 point question']	0.753940508655
+['100 point', '4 point']	['question']	0.290550848565
+['100 point', '4 point']	['4 point question']	0.480648382014
+['100 point', '4 point']	['two point question']	0.753940508655
+['40 question', '4 point']	['teacher']	0.0973860382812
+['40 question', '4 point']	['100 point']	0.781116950393
+['40 question', '4 point']	['2 point question']	0.758399580617
+['40 question', '4 point']	['question']	0.686078013696
+['40 question', '4 point']	['4 point question']	0.706527480783
+['40 question', '4 point']	['two point question']	0.758399580617
+['2 point question', '4 point']	['teacher']	0.144652407281
+['2 point question', '4 point']	['100 point']	0.645980418557
+['2 point question', '4 point']	['40 question']	0.645980418557
+['2 point question', '4 point']	['question']	0.843915787688
+['2 point question', '4 point']	['4 point question']	0.743542089541
+['2 point question', '4 point']	['two point question']	0.680528833967
+['question', '4 point']	['teacher']	0.202637652262
+['question', '4 point']	['100 point']	0.536402197173
+['question', '4 point']	['40 question']	0.722192523404
+['question', '4 point']	['2 point question']	0.842352776076
+['question', '4 point']	['4 point question']	0.831251943792
+['question', '4 point']	['two point question']	0.842352776076
+['4 point question', '4 point']	['teacher']	0.175376629622
+['4 point question', '4 point']	['100 point']	0.645980418557
+['4 point question', '4 point']	['40 question']	0.645980418557
+['4 point question', '4 point']	['2 point question']	0.882367388332
+['4 point question', '4 point']	['question']	0.843915787688
+['4 point question', '4 point']	['two point question']	0.882367388332
+['two point question', '4 point']	['teacher']	0.144652407281
+['two point question', '4 point']	['100 point']	0.645980418557
+['two point question', '4 point']	['40 question']	0.645980418557
+['two point question', '4 point']	['2 point question']	0.680528833967
+['two point question', '4 point']	['question']	0.843915787688
+['two point question', '4 point']	['4 point question']	0.743542089541

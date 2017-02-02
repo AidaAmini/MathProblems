@@ -1,0 +1,14 @@
+1
+[['cup', '500', 'cup', '-', '-', 'dollar', '2090'], ['plastic cup', 'x1', '-', 'dollar', '3.25', '-', '-'], ['ceramic cup', 'x2', '-', 'dollar', '4.5', '-', '-']]
+-1
+[['cup', '500', 'dollar', '-', '-', 'ceramic cup', '2090'], ['plastic cup', 'x1', '-', 'dollar', '3.25', '-', '-'], ['ceramic cup', 'x2', '-', 'dollar', '500', '2090', '-']]
+-1
+[['cup', '500', '2090', '-', '-', 'dollar', 'ceramic cup'], ['plastic cup', 'x1', '-', 'dollar', '3.25', '-', '-'], ['ceramic cup', 'dollar', '-', 'cup', '4.5', '2090', '-']]
+-1
+[['x2', '4.5', 'cup', '-', '-', 'dollar', '2090'], ['plastic cup', 'x1', '-', 'dollar', '3.25', '-', '-'], ['cup', 'x2', '-', 'dollar', '4.5', '2090', '-']]
+-1
+[['cup', '500', '4.5', '-', 'ceramic cup', 'dollar', '2090'], ['plastic cup', 'x1', '-', 'dollar', '3.25', '-', '-'], ['500', 'cup', '-', 'dollar', '4.5', '-', '-']]
+-1
+[['cup', 'ceramic cup', 'cup', '4.5', '-', 'dollar', '2090'], ['plastic cup', 'x1', '-', 'dollar', '3.25', '-', '-'], ['ceramic cup', 'cup', '-', 'dollar', '4.5', '-', '-']]
+-1
+[['cup', '500', 'cup', '-', '-', 'dollar', '2090'], ['plastic cup', 'x1', '-', 'dollar', '3.25', '-', '-'], ['500', 'cup', '-', '2090', '4.5', '-', '-']]

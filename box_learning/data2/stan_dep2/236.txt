@@ -1,0 +1,44 @@
+(ROOT
+  (S
+    (PP (IN In) (NP (CD 1)))
+    (NP-TMP (NN week))
+    (, ,)
+    (NP (DT a) (NN music) (NN store))
+    (VP
+      (VBD sold)
+      (NP (CD 7) (NNS violins))
+      (PP
+        (IN for)
+        (NP
+          (NP (DT a) (NN total))
+          (PP (IN of) (NP (CD 1600) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (CD 2) (JJ different) (NNS types))
+    (VP (VBD were) (VP (VBN sold)))
+    (. .)))
+(ROOT
+  (S
+    (S (NP (CD One)) (VP (VBP are) (NP (CD 200) (NNS dollars))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ other))
+      (VP (VBP are) (NP (CD 300) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 200-dollar))
+      (NNS violins))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (ADJP (JJ 300-dollar))
+      (NNS violins))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

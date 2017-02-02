@@ -1,0 +1,14 @@
+1
+[['gift card', '1', '-', '-', '-', 'dollar', '70'], ['-', '1', '-', 'dollar', '35.68', '-', '-'], ['coffee', 'x1', 'pound', 'dollar', '8.58', '-', '-']]
+-1
+[['dollar', '1', '-', '-', '-', 'pound', '70'], ['-', '1', '-', 'dollar', '35.68', '-', '-'], ['coffee', 'x1', 'pound', 'dollar', 'gift card', '-', '-']]
+-1
+[['gift card', 'x1', '-', 'coffee', '-', 'dollar', '70'], ['-', '1', '-', 'dollar', '35.68', '-', '-'], ['coffee', 'x1', '-', 'dollar', 'gift card', '70', '1']]
+-1
+[['gift card', 'coffee', 'x1', 'pound', '-', 'dollar', '70'], ['-', '1', '-', 'dollar', '35.68', '-', '-'], ['coffee', 'x1', 'pound', 'dollar', 'gift card', '-', '-']]
+-1
+[['8.58', 'gift card', '-', '-', 'x1', 'coffee', '70'], ['-', '1', '-', 'dollar', '35.68', '-', '-'], ['coffee', 'x1', 'dollar', 'gift card', '8.58', '-', '-']]
+-1
+[['gift card', 'pound', '-', '-', 'dollar', 'coffee', '70'], ['-', '1', '-', 'dollar', '35.68', '-', '-'], ['coffee', 'x1', 'pound', 'dollar', '70', 'gift card', '-']]
+-1
+[['pound', '1', '8.58', 'gift card', '-', 'dollar', '70'], ['-', '1', '-', 'dollar', '35.68', '-', '-'], ['gift card', '70', 'pound', 'dollar', '8.58', '-', '-']]

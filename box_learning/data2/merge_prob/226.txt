@@ -1,0 +1,133 @@
+['science test', '100 point', '38 question', 'two-point question', 'question', 'question and five-point five-point question']
+['science test']	['100 point']	0.0827346205535
+['science test']	['38 question']	0.0901100077042
+['science test']	['two-point question']	0.0897823390711
+['science test']	['question']	0.250043905271
+['science test']	['question and five-point five-point question']	0.0922518379853
+['100 point']	['38 question']	0.0901100077042
+['100 point']	['two-point question']	0.0897823390711
+['100 point']	['question']	0.0568482879172
+['100 point']	['question and five-point five-point question']	0.0936329315
+['38 question']	['two-point question']	0.644695369786
+['38 question']	['question and five-point five-point question']	0.321161872838
+['two-point question']	['question and five-point five-point question']	0.322513943634
+['100 point', 'science test']	['38 question']	0.0901100077042
+['100 point', 'science test']	['two-point question']	0.0897823390711
+['100 point', 'science test']	['question']	0.27003794449
+['100 point', 'science test']	['question and five-point five-point question']	0.0936329315
+['38 question', 'science test']	['100 point']	0.0827346205535
+['38 question', 'science test']	['two-point question']	0.577101062223
+['38 question', 'science test']	['question']	0.703818572499
+['38 question', 'science test']	['question and five-point five-point question']	0.432612986675
+['two-point question', 'science test']	['100 point']	0.0696933362217
+['two-point question', 'science test']	['38 question']	0.544221442934
+['two-point question', 'science test']	['question']	0.752472801852
+['two-point question', 'science test']	['question and five-point five-point question']	0.386489202011
+['question', 'science test']	['100 point']	0.0563939725707
+['question', 'science test']	['38 question']	0.540072524315
+['question', 'science test']	['two-point question']	0.499621434029
+['question', 'science test']	['question and five-point five-point question']	0.560670154745
+['question and five-point five-point question', 'science test']	['100 point']	0.0915001233665
+['question and five-point five-point question', 'science test']	['38 question']	0.630956863273
+['question and five-point five-point question', 'science test']	['two-point question']	0.622571119615
+['question and five-point five-point question', 'science test']	['question']	0.822408558327
+['science test', '100 point']	['38 question']	0.0901100077042
+['science test', '100 point']	['two-point question']	0.0897823390711
+['science test', '100 point']	['question']	0.27003794449
+['science test', '100 point']	['question and five-point five-point question']	0.0936329315
+['38 question', '100 point']	['science test']	0.0827346205535
+['38 question', '100 point']	['two-point question']	0.577101062223
+['38 question', '100 point']	['question']	0.684142901706
+['38 question', '100 point']	['question and five-point five-point question']	0.432612986675
+['two-point question', '100 point']	['science test']	0.0696933362217
+['two-point question', '100 point']	['38 question']	0.544221442934
+['two-point question', '100 point']	['question']	0.765271386428
+['two-point question', '100 point']	['question and five-point five-point question']	0.386489202011
+['question', '100 point']	['science test']	0.298067434605
+['question', '100 point']	['38 question']	0.540072524315
+['question', '100 point']	['two-point question']	0.499621434029
+['question', '100 point']	['question and five-point five-point question']	0.51082259309
+['question and five-point five-point question', '100 point']	['science test']	0.0915001233665
+['question and five-point five-point question', '100 point']	['38 question']	0.630956863273
+['question and five-point five-point question', '100 point']	['two-point question']	0.622571119615
+['question and five-point five-point question', '100 point']	['question']	0.82171349949
+['science test', '38 question']	['100 point']	0.0827346205535
+['science test', '38 question']	['two-point question']	0.577101062223
+['science test', '38 question']	['question']	0.703818572499
+['science test', '38 question']	['question and five-point five-point question']	0.432612986675
+['100 point', '38 question']	['science test']	0.0827346205535
+['100 point', '38 question']	['two-point question']	0.577101062223
+['100 point', '38 question']	['question']	0.684142901706
+['100 point', '38 question']	['question and five-point five-point question']	0.432612986675
+['two-point question', '38 question']	['science test']	0.127137811052
+['two-point question', '38 question']	['100 point']	0.127137811052
+['two-point question', '38 question']	['question']	0.82030288515
+['two-point question', '38 question']	['question and five-point five-point question']	0.437319217828
+['question', '38 question']	['science test']	0.431258371458
+['question', '38 question']	['100 point']	0.157502141539
+['question', '38 question']	['two-point question']	0.703486038056
+['question', '38 question']	['question and five-point five-point question']	0.677674373098
+['question and five-point five-point question', '38 question']	['science test']	0.176843451181
+['question and five-point five-point question', '38 question']	['100 point']	0.127952343303
+['question and five-point five-point question', '38 question']	['two-point question']	0.701228354762
+['question and five-point five-point question', '38 question']	['question']	0.868364558721
+['science test', 'two-point question']	['100 point']	0.0696933362217
+['science test', 'two-point question']	['38 question']	0.544221442934
+['science test', 'two-point question']	['question']	0.752472801852
+['science test', 'two-point question']	['question and five-point five-point question']	0.386489202011
+['100 point', 'two-point question']	['science test']	0.0696933362217
+['100 point', 'two-point question']	['38 question']	0.544221442934
+['100 point', 'two-point question']	['question']	0.765271386428
+['100 point', 'two-point question']	['question and five-point five-point question']	0.386489202011
+['38 question', 'two-point question']	['science test']	0.127137811052
+['38 question', 'two-point question']	['100 point']	0.127137811052
+['38 question', 'two-point question']	['question']	0.82030288515
+['38 question', 'two-point question']	['question and five-point five-point question']	0.437319217828
+['question', 'two-point question']	['science test']	0.464591704791
+['question', 'two-point question']	['100 point']	0.215378247734
+['question', 'two-point question']	['38 question']	0.864765848837
+['question', 'two-point question']	['question and five-point five-point question']	0.684691916957
+['question and five-point five-point question', 'two-point question']	['science test']	0.161321710843
+['question and five-point five-point question', 'two-point question']	['100 point']	0.109369378475
+['question and five-point five-point question', 'two-point question']	['38 question']	0.7508926317
+['question and five-point five-point question', 'two-point question']	['question']	0.701226684935
+['science test', 'question']	['100 point']	0.0563939725707
+['science test', 'question']	['38 question']	0.540072524315
+['science test', 'question']	['two-point question']	0.499621434029
+['science test', 'question']	['question and five-point five-point question']	0.560670154745
+['100 point', 'question']	['science test']	0.298067434605
+['100 point', 'question']	['38 question']	0.540072524315
+['100 point', 'question']	['two-point question']	0.499621434029
+['100 point', 'question']	['question and five-point five-point question']	0.51082259309
+['38 question', 'question']	['science test']	0.431258371458
+['38 question', 'question']	['100 point']	0.157502141539
+['38 question', 'question']	['two-point question']	0.703486038056
+['38 question', 'question']	['question and five-point five-point question']	0.677674373098
+['two-point question', 'question']	['science test']	0.464591704791
+['two-point question', 'question']	['100 point']	0.215378247734
+['two-point question', 'question']	['38 question']	0.864765848837
+['two-point question', 'question']	['question and five-point five-point question']	0.684691916957
+['question and five-point five-point question', 'question']	['science test']	0.617678212517
+['question and five-point five-point question', 'question']	['100 point']	0.142284682593
+['question and five-point five-point question', 'question']	['38 question']	0.768573589863
+['question and five-point five-point question', 'question']	['two-point question']	0.655410667773
+['science test', 'question and five-point five-point question']	['100 point']	0.0915001233665
+['science test', 'question and five-point five-point question']	['38 question']	0.630956863273
+['science test', 'question and five-point five-point question']	['two-point question']	0.622571119615
+['science test', 'question and five-point five-point question']	['question']	0.822408558327
+['100 point', 'question and five-point five-point question']	['science test']	0.0915001233665
+['100 point', 'question and five-point five-point question']	['38 question']	0.630956863273
+['100 point', 'question and five-point five-point question']	['two-point question']	0.622571119615
+['100 point', 'question and five-point five-point question']	['question']	0.82171349949
+['38 question', 'question and five-point five-point question']	['science test']	0.176843451181
+['38 question', 'question and five-point five-point question']	['100 point']	0.127952343303
+['38 question', 'question and five-point five-point question']	['two-point question']	0.701228354762
+['38 question', 'question and five-point five-point question']	['question']	0.868364558721
+['two-point question', 'question and five-point five-point question']	['science test']	0.161321710843
+['two-point question', 'question and five-point five-point question']	['100 point']	0.109369378475
+['two-point question', 'question and five-point five-point question']	['38 question']	0.7508926317
+['two-point question', 'question and five-point five-point question']	['question']	0.701226684935
+['question', 'question and five-point five-point question']	['science test']	0.617678212517
+['question', 'question and five-point five-point question']	['100 point']	0.142284682593
+['question', 'question and five-point five-point question']	['38 question']	0.768573589863
+['question', 'question and five-point five-point question']	['two-point question']	0.655410667773

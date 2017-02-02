@@ -1,0 +1,230 @@
+['9000 dollar last year', 'part-time job', '9 %', 'rest', '%', '770 dollar', 'interest']
+['9000 dollar last year']	['part-time job']	0.0988755105172
+['9000 dollar last year']	['9 %']	0.0988755105172
+['9000 dollar last year']	['rest']	0.0840176431843
+['9000 dollar last year']	['%']	0.0720442106544
+['9000 dollar last year']	['770 dollar']	0.0988755105172
+['9000 dollar last year']	['interest']	0.131491525567
+['part-time job']	['9 %']	0.0901100077042
+['part-time job']	['rest']	0.0831172035382
+['part-time job']	['%']	0.0575843031668
+['part-time job']	['770 dollar']	0.0901100077042
+['part-time job']	['interest']	0.133930953416
+['9 %']	['rest']	0.0831172035382
+['9 %']	['770 dollar']	0.0901100077042
+['9 %']	['interest']	0.0888375395985
+['rest']	['%']	0.046933224487
+['rest']	['770 dollar']	0.0663445115919
+['%']	['770 dollar']	0.0429586976843
+['%']	['interest']	0.0428520175287
+['770 dollar']	['interest']	0.0744376594044
+['part-time job', '9000 dollar last year']	['9 %']	0.0988755105172
+['part-time job', '9000 dollar last year']	['rest']	0.0857950278587
+['part-time job', '9000 dollar last year']	['%']	0.063002049448
+['part-time job', '9000 dollar last year']	['770 dollar']	0.0988755105172
+['part-time job', '9000 dollar last year']	['interest']	0.139183833259
+['9 %', '9000 dollar last year']	['part-time job']	0.0988755105172
+['9 %', '9000 dollar last year']	['rest']	0.0857950278587
+['9 %', '9000 dollar last year']	['%']	0.671747167384
+['9 %', '9000 dollar last year']	['770 dollar']	0.0988755105172
+['9 %', '9000 dollar last year']	['interest']	0.213207006714
+['rest', '9000 dollar last year']	['part-time job']	0.128877148308
+['rest', '9000 dollar last year']	['9 %']	0.128877148308
+['rest', '9000 dollar last year']	['%']	0.0727380352602
+['rest', '9000 dollar last year']	['770 dollar']	0.124856540438
+['rest', '9000 dollar last year']	['interest']	0.319967866897
+['%', '9000 dollar last year']	['part-time job']	0.0654773788485
+['%', '9000 dollar last year']	['9 %']	0.850649443667
+['%', '9000 dollar last year']	['rest']	0.0709726163467
+['%', '9000 dollar last year']	['770 dollar']	0.0654773788485
+['%', '9000 dollar last year']	['interest']	0.16721095568
+['770 dollar', '9000 dollar last year']	['part-time job']	0.0988755105172
+['770 dollar', '9000 dollar last year']	['9 %']	0.0988755105172
+['770 dollar', '9000 dollar last year']	['rest']	0.0840176431843
+['770 dollar', '9000 dollar last year']	['%']	0.063002049448
+['770 dollar', '9000 dollar last year']	['interest']	0.226563098623
+['interest', '9000 dollar last year']	['part-time job']	0.242978889046
+['interest', '9000 dollar last year']	['9 %']	0.15961386663
+['interest', '9000 dollar last year']	['rest']	0.348563931279
+['interest', '9000 dollar last year']	['%']	0.0905616457863
+['interest', '9000 dollar last year']	['770 dollar']	0.152238479479
+['9000 dollar last year', 'part-time job']	['9 %']	0.0988755105172
+['9000 dollar last year', 'part-time job']	['rest']	0.0857950278587
+['9000 dollar last year', 'part-time job']	['%']	0.063002049448
+['9000 dollar last year', 'part-time job']	['770 dollar']	0.0988755105172
+['9000 dollar last year', 'part-time job']	['interest']	0.139183833259
+['9 %', 'part-time job']	['9000 dollar last year']	0.0941266761548
+['9 %', 'part-time job']	['rest']	0.0831172035382
+['9 %', 'part-time job']	['%']	0.569063744736
+['9 %', 'part-time job']	['770 dollar']	0.0901100077042
+['9 %', 'part-time job']	['interest']	0.225413985451
+['rest', 'part-time job']	['9000 dollar last year']	0.0898798519698
+['rest', 'part-time job']	['9 %']	0.0737139440912
+['rest', 'part-time job']	['%']	0.0802665578203
+['rest', 'part-time job']	['770 dollar']	0.0696933362217
+['rest', 'part-time job']	['interest']	0.339424662689
+['%', 'part-time job']	['9000 dollar last year']	0.0475326454204
+['%', 'part-time job']	['9 %']	0.750188232059
+['%', 'part-time job']	['rest']	0.0802665578203
+['%', 'part-time job']	['770 dollar']	0.0429586976843
+['%', 'part-time job']	['interest']	0.13577893674
+['770 dollar', 'part-time job']	['9000 dollar last year']	0.0941266761548
+['770 dollar', 'part-time job']	['9 %']	0.0901100077042
+['770 dollar', 'part-time job']	['rest']	0.0774561735493
+['770 dollar', 'part-time job']	['%']	0.0575843031668
+['770 dollar', 'part-time job']	['interest']	0.229348801121
+['interest', 'part-time job']	['9000 dollar last year']	0.216162035524
+['interest', 'part-time job']	['9 %']	0.0901100077042
+['interest', 'part-time job']	['rest']	0.287703982335
+['interest', 'part-time job']	['%']	0.0878782742679
+['interest', 'part-time job']	['770 dollar']	0.0827346205535
+['9000 dollar last year', '9 %']	['part-time job']	0.0988755105172
+['9000 dollar last year', '9 %']	['rest']	0.0857950278587
+['9000 dollar last year', '9 %']	['%']	0.671747167384
+['9000 dollar last year', '9 %']	['770 dollar']	0.0988755105172
+['9000 dollar last year', '9 %']	['interest']	0.213207006714
+['part-time job', '9 %']	['9000 dollar last year']	0.0941266761548
+['part-time job', '9 %']	['rest']	0.0831172035382
+['part-time job', '9 %']	['%']	0.569063744736
+['part-time job', '9 %']	['770 dollar']	0.0901100077042
+['part-time job', '9 %']	['interest']	0.225413985451
+['rest', '9 %']	['9000 dollar last year']	0.0898798519698
+['rest', '9 %']	['part-time job']	0.0737139440912
+['rest', '9 %']	['%']	0.533914216062
+['rest', '9 %']	['770 dollar']	0.0696933362217
+['rest', '9 %']	['interest']	0.281765559671
+['%', '9 %']	['9000 dollar last year']	0.251227153026
+['%', '9 %']	['part-time job']	0.114915343922
+['%', '9 %']	['rest']	0.263185949211
+['%', '9 %']	['770 dollar']	0.114915343922
+['%', '9 %']	['interest']	0.264731227956
+['770 dollar', '9 %']	['9000 dollar last year']	0.0941266761548
+['770 dollar', '9 %']	['part-time job']	0.0901100077042
+['770 dollar', '9 %']	['rest']	0.0774561735493
+['770 dollar', '9 %']	['%']	0.569063744736
+['770 dollar', '9 %']	['interest']	0.0777864840342
+['interest', '9 %']	['9000 dollar last year']	0.216162035524
+['interest', '9 %']	['part-time job']	0.199270042535
+['interest', '9 %']	['rest']	0.287703982335
+['interest', '9 %']	['%']	0.538167058576
+['interest', '9 %']	['770 dollar']	0.0827346205535
+['9000 dollar last year', 'rest']	['part-time job']	0.128877148308
+['9000 dollar last year', 'rest']	['9 %']	0.128877148308
+['9000 dollar last year', 'rest']	['%']	0.0727380352602
+['9000 dollar last year', 'rest']	['770 dollar']	0.124856540438
+['9000 dollar last year', 'rest']	['interest']	0.319967866897
+['part-time job', 'rest']	['9000 dollar last year']	0.0898798519698
+['part-time job', 'rest']	['9 %']	0.0737139440912
+['part-time job', 'rest']	['%']	0.0802665578203
+['part-time job', 'rest']	['770 dollar']	0.0696933362217
+['part-time job', 'rest']	['interest']	0.339424662689
+['9 %', 'rest']	['9000 dollar last year']	0.0898798519698
+['9 %', 'rest']	['part-time job']	0.0737139440912
+['9 %', 'rest']	['%']	0.533914216062
+['9 %', 'rest']	['770 dollar']	0.0696933362217
+['9 %', 'rest']	['interest']	0.281765559671
+['%', 'rest']	['9000 dollar last year']	0.123398713659
+['%', 'rest']	['part-time job']	0.105036545366
+['%', 'rest']	['9 %']	0.676296382358
+['%', 'rest']	['770 dollar']	0.10748290267
+['%', 'rest']	['interest']	0.226176594038
+['770 dollar', 'rest']	['9000 dollar last year']	0.0898798519698
+['770 dollar', 'rest']	['part-time job']	0.0737139440912
+['770 dollar', 'rest']	['9 %']	0.0737139440912
+['770 dollar', 'rest']	['%']	0.0802665578203
+['770 dollar', 'rest']	['interest']	0.227244108262
+['interest', 'rest']	['9000 dollar last year']	0.186237262865
+['interest', 'rest']	['part-time job']	0.130048808393
+['interest', 'rest']	['9 %']	0.0737139440912
+['interest', 'rest']	['%']	0.046933224487
+['interest', 'rest']	['770 dollar']	0.0663445115919
+['9000 dollar last year', '%']	['part-time job']	0.0654773788485
+['9000 dollar last year', '%']	['9 %']	0.850649443667
+['9000 dollar last year', '%']	['rest']	0.0709726163467
+['9000 dollar last year', '%']	['770 dollar']	0.0654773788485
+['9000 dollar last year', '%']	['interest']	0.16721095568
+['part-time job', '%']	['9000 dollar last year']	0.0475326454204
+['part-time job', '%']	['9 %']	0.750188232059
+['part-time job', '%']	['rest']	0.0802665578203
+['part-time job', '%']	['770 dollar']	0.0429586976843
+['part-time job', '%']	['interest']	0.13577893674
+['9 %', '%']	['9000 dollar last year']	0.251227153026
+['9 %', '%']	['part-time job']	0.114915343922
+['9 %', '%']	['rest']	0.263185949211
+['9 %', '%']	['770 dollar']	0.114915343922
+['9 %', '%']	['interest']	0.264731227956
+['rest', '%']	['9000 dollar last year']	0.123398713659
+['rest', '%']	['part-time job']	0.105036545366
+['rest', '%']	['9 %']	0.676296382358
+['rest', '%']	['770 dollar']	0.10748290267
+['rest', '%']	['interest']	0.226176594038
+['770 dollar', '%']	['9000 dollar last year']	0.0475326454204
+['770 dollar', '%']	['part-time job']	0.0429586976843
+['770 dollar', '%']	['9 %']	0.750188232059
+['770 dollar', '%']	['rest']	0.0771443431391
+['770 dollar', '%']	['interest']	0.0742829688102
+['interest', '%']	['9000 dollar last year']	0.0899204839028
+['interest', '%']	['part-time job']	0.0852971628041
+['interest', '%']	['9 %']	0.676296382358
+['interest', '%']	['rest']	0.174896782498
+['interest', '%']	['770 dollar']	0.0454050549877
+['9000 dollar last year', '770 dollar']	['part-time job']	0.0988755105172
+['9000 dollar last year', '770 dollar']	['9 %']	0.0988755105172
+['9000 dollar last year', '770 dollar']	['rest']	0.0840176431843
+['9000 dollar last year', '770 dollar']	['%']	0.063002049448
+['9000 dollar last year', '770 dollar']	['interest']	0.226563098623
+['part-time job', '770 dollar']	['9000 dollar last year']	0.0941266761548
+['part-time job', '770 dollar']	['9 %']	0.0901100077042
+['part-time job', '770 dollar']	['rest']	0.0774561735493
+['part-time job', '770 dollar']	['%']	0.0575843031668
+['part-time job', '770 dollar']	['interest']	0.229348801121
+['9 %', '770 dollar']	['9000 dollar last year']	0.0941266761548
+['9 %', '770 dollar']	['part-time job']	0.0901100077042
+['9 %', '770 dollar']	['rest']	0.0774561735493
+['9 %', '770 dollar']	['%']	0.569063744736
+['9 %', '770 dollar']	['interest']	0.0777864840342
+['rest', '770 dollar']	['9000 dollar last year']	0.0898798519698
+['rest', '770 dollar']	['part-time job']	0.0737139440912
+['rest', '770 dollar']	['9 %']	0.0737139440912
+['rest', '770 dollar']	['%']	0.0802665578203
+['rest', '770 dollar']	['interest']	0.227244108262
+['%', '770 dollar']	['9000 dollar last year']	0.0475326454204
+['%', '770 dollar']	['part-time job']	0.0429586976843
+['%', '770 dollar']	['9 %']	0.750188232059
+['%', '770 dollar']	['rest']	0.0771443431391
+['%', '770 dollar']	['interest']	0.0742829688102
+['interest', '770 dollar']	['9000 dollar last year']	0.216162035524
+['interest', '770 dollar']	['part-time job']	0.199270042535
+['interest', '770 dollar']	['9 %']	0.0901100077042
+['interest', '770 dollar']	['rest']	0.241760962299
+['interest', '770 dollar']	['%']	0.0878782742679
+['9000 dollar last year', 'interest']	['part-time job']	0.242978889046
+['9000 dollar last year', 'interest']	['9 %']	0.15961386663
+['9000 dollar last year', 'interest']	['rest']	0.348563931279
+['9000 dollar last year', 'interest']	['%']	0.0905616457863
+['9000 dollar last year', 'interest']	['770 dollar']	0.152238479479
+['part-time job', 'interest']	['9000 dollar last year']	0.216162035524
+['part-time job', 'interest']	['9 %']	0.0901100077042
+['part-time job', 'interest']	['rest']	0.287703982335
+['part-time job', 'interest']	['%']	0.0878782742679
+['part-time job', 'interest']	['770 dollar']	0.0827346205535
+['9 %', 'interest']	['9000 dollar last year']	0.216162035524
+['9 %', 'interest']	['part-time job']	0.199270042535
+['9 %', 'interest']	['rest']	0.287703982335
+['9 %', 'interest']	['%']	0.538167058576
+['9 %', 'interest']	['770 dollar']	0.0827346205535
+['rest', 'interest']	['9000 dollar last year']	0.186237262865
+['rest', 'interest']	['part-time job']	0.130048808393
+['rest', 'interest']	['9 %']	0.0737139440912
+['rest', 'interest']	['%']	0.046933224487
+['rest', 'interest']	['770 dollar']	0.0663445115919
+['%', 'interest']	['9000 dollar last year']	0.0899204839028
+['%', 'interest']	['part-time job']	0.0852971628041
+['%', 'interest']	['9 %']	0.676296382358
+['%', 'interest']	['rest']	0.174896782498
+['%', 'interest']	['770 dollar']	0.0454050549877
+['770 dollar', 'interest']	['9000 dollar last year']	0.216162035524
+['770 dollar', 'interest']	['part-time job']	0.199270042535
+['770 dollar', 'interest']	['9 %']	0.0901100077042
+['770 dollar', 'interest']	['rest']	0.241760962299
+['770 dollar', 'interest']	['%']	0.0878782742679

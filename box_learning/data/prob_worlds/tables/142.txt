@@ -1,0 +1,14 @@
+1
+[['-', '-', '-', '-', '-', 'kilometers', '26'], ['downstream', '2', 'hour', 'kilometers', 'x1+x2', '-', '-'], ['upstream', '4', 'hour', 'kilometers', 'x1-x2', '-', '-']]
+-1
+[['-', '-', 'upstream', 'hour', '-', 'kilometers', '26'], ['downstream', '2', 'hour', 'kilometers', 'x1+x2', '-', '-'], ['upstream', '4', 'kilometers', '26', 'x1-x2', '-', '-']]
+-1
+[['-', '-', 'upstream', '4', '-', 'kilometers', '26'], ['downstream', '2', 'hour', 'kilometers', 'x1+x2', '-', '-'], ['upstream', '4', 'hour', 'kilometers', '26', '-', '-']]
+-1
+[['26', '-', '-', 'x1-x2', '-', 'kilometers', '4'], ['downstream', '2', 'hour', 'kilometers', 'x1+x2', '-', '-'], ['upstream', '4', '26', 'kilometers', 'x1-x2', '-', '-']]
+-1
+[['-', '-', '4', '-', 'hour', 'x1-x2', 'kilometers'], ['downstream', '2', 'hour', 'kilometers', 'x1+x2', '-', '-'], ['upstream', '4', 'hour', 'kilometers', 'x1-x2', '-', '-']]
+-1
+[['x1-x2', '4', '-', 'upstream', '-', 'kilometers', '26'], ['downstream', '2', 'hour', 'kilometers', 'x1+x2', '-', '-'], ['upstream', '4', '26', 'kilometers', 'x1-x2', '-', '-']]
+-1
+[['-', 'upstream', '-', '-', '-', 'kilometers', 'x1-x2'], ['downstream', '2', 'hour', 'kilometers', 'x1+x2', '-', '-'], ['upstream', '4', '26', 'kilometers', 'x1-x2', '-', '-']]

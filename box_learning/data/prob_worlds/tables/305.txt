@@ -1,0 +1,26 @@
+1
+[['-', '-', '-', '-', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.13', '-', '-'], ['-', '-', '-', '-', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', '-', '-']]
+-1
+[['additional', '-', '-', '-', 'x2', 'dollar', 'x1'], ['monthly fee', '1', 'month', '8', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.13', 'x1', '-'], ['0.13', '-', 'x2', '-', '-', 'additional', 'minute'], ['monthly fee', '1', '22', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.13', '-', '-']]
+-1
+[['-', '-', '-', '-', 'x2', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', '0.18', '0.13', '-', 'x1'], ['-', '-', 'minute', '-', '-', 'x2', 'x1'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', '-', '-']]
+-1
+[['minute', '0.13', '0.18', '-', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.13', '-', '-'], ['0.18', '-', '-', '-', '-', 'dollar', 'x1'], ['monthly fee', '22', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'x1', '0.18', '-', '-']]
+-1
+[['minute', 'additional', '-', '-', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'x1', 'dollar', '0.18', '-', '-'], ['-', '-', '-', 'minute', 'x2', 'additional', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', 'x1', '-']]
+-1
+[['-', '0.18', '-', '-', '-', 'dollar', 'x1'], ['monthly fee', '8', 'month', 'dollar', '1', '-', '-'], ['additional', 'x2', '0.18', 'dollar', '0.13', '-', '-'], ['minute', '-', '-', 'x2', '0.18', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', '-', '-']]
+-1
+[['-', '-', '-', 'x2', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'x1', 'dollar', '0.13', '-', '-'], ['-', '0.13', '-', '-', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['0.13', 'x2', 'minute', 'x1', 'dollar', '-', '-']]
+-1
+[['additional', '-', '-', '-', '-', 'dollar', 'minute'], ['monthly fee', '1', 'month', 'dollar', '22', '8', '-'], ['additional', 'x2', 'minute', 'dollar', '0.13', '-', 'x1'], ['-', '-', 'minute', '0.18', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['0.13', 'x2', 'x1', 'dollar', '0.18', '-', '-']]
+-1
+[['0.13', '-', '-', '-', '0.18', 'dollar', 'x2'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.13', '-', '-'], ['-', '-', '0.18', 'x2', 'additional', 'dollar', '0.13'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', '-', '-']]
+-1
+[['x2', '0.18', '-', '-', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', '-', '-'], ['-', '-', 'dollar', 'minute', '-', '0.18', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', 'x1', '-']]
+-1
+[['-', '0.13', 'x2', '-', 'minute', 'dollar', '0.18'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.13', '-', '-'], ['-', '-', 'additional', '-', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', '-', '-']]
+-1
+[['-', 'minute', 'x1', '-', '-', 'dollar', 'additional'], ['monthly fee', '1', '8', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', 'x1', '-', '-'], ['-', 'minute', 'additional', '-', '0.18', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', '-', '-']]
+-1
+[['minute', 'additional', 'x2', '-', '-', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '22', '-', '-'], ['additional', 'x2', 'minute', 'dollar', '0.13', '-', '-'], ['-', '-', 'additional', '-', '-', 'minute', 'x1'], ['monthly fee', '1', 'month', 'dollar', '8', '22', '-'], ['additional', 'x2', 'minute', 'dollar', '0.18', '-', '-']]

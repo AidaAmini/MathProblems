@@ -1,0 +1,24 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN sum))
+      (PP (IN of) (NP (CD two) (NNS numbers))))
+    (VP (VBZ is) (NP (CD 85)))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN difference))
+      (PP
+        (IN of)
+        (NP
+          (NP (QP (RB twice) (IN of) (CD one)))
+          (PP
+            (IN of)
+            (NP
+              (NP (PRP them))
+              (CC and)
+              (NP (DT the) (JJ other) (CD one)))))))
+    (VP (VBZ is) (NP (CD 5)))
+    (. .)))
+(ROOT (S (VP (VB Find) (NP (DT both) (NNS numbers))) (. .)))

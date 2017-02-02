@@ -1,0 +1,298 @@
+1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['people', '-', '-', '-'], ['resident', '-', '-', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['non-resident', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['people', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['non-resident', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['non-resident', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['resident', '-', '-', '-'], ['non-resident', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['non-resident', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['people', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['people', '-', 'resident', '-']]
+-1
+[['people', 'resident', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['non-resident', '-', 'resident', '-']]
+-1
+[['resident', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['dollar', '-', 'resident', '-']]
+-1
+[['non-resident', '-', '-', 'dollar'], ['resident', 'dollar', 'non-resident', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['people', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', 'event']]
+-1
+[['-', '-', '-', 'resident'], ['resident', '-', 'dollar', '-'], ['resident', '-', 'dollar', '-']]
+-1
+[['resident', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', 'resident', 'dollar', '-']]
+-1
+[['non-resident', '-', '-', 'dollar'], ['resident', '-', 'non-resident', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['non-resident', '-', '-', 'dollar'], ['non-resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['resident', 'dollar', 'non-resident', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['resident', 'event', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['dollar', '-', 'people', '-']]
+-1
+[['people', 'non-resident', '-', '-'], ['resident', 'non-resident', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['non-resident', '-', '-', '-'], ['resident', '-', 'people', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['dollar', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['resident', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'resident', '-']]
+-1
+[['people', 'event', '-', '-'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['people', '-', 'non-resident', 'dollar'], ['-', '-', 'dollar', '-'], ['non-resident', 'people', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'people', '-'], ['non-resident', '-', 'people', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', 'people'], ['people', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['dollar', '-', 'non-resident', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['non-resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['ticket sale', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'resident'], ['resident', '-', '-', '-'], ['non-resident', '-', 'dollar', 'resident']]
+-1
+[['people', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['non-resident', '-', 'dollar', 'resident']]
+-1
+[['resident', '-', '-', 'dollar'], ['non-resident', '-', '-', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'non-resident'], ['resident', '-', '-', '-'], ['non-resident', '-', 'dollar', 'people']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['dollar', '-', 'resident', '-']]
+-1
+[['people', '-', '-', 'event'], ['resident', '-', '-', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', 'resident', 'dollar']]
+-1
+[['people', 'resident', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['people', '-', 'dollar', '-']]
+-1
+[['resident', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', 'dollar', 'resident']]
+-1
+[['people', '-', '-', 'resident'], ['resident', '-', 'dollar', '-'], ['-', '-', 'dollar', 'people']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['-', '-', 'people', '-']]
+-1
+[['event', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['people', 'resident', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', 'resident', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', 'non-resident'], ['non-resident', '-', 'people', '-']]
+-1
+[['people', 'non-resident', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', '-', 'resident']]
+-1
+[['people', '-', '-', 'non-resident'], ['resident', '-', 'dollar', '-'], ['non-resident', 'people', '-', '-']]
+-1
+[['people', 'non-resident', '-', 'dollar'], ['resident', 'people', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', 'event', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+-1
+[['-', 'resident', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['dollar', '-', '-', 'resident']]
+-1
+[['-', '-', '-', 'non-resident'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'resident'], ['resident', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['-', '-', 'non-resident', 'dollar'], ['resident', '-', 'non-resident', '-'], ['non-resident', '-', '-', '-']]
+-1
+[['-', 'ticket sale', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', 'people', 'dollar', '-'], ['non-resident', '-', 'people', '-']]
+-1
+[['resident', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['resident', '-', '-', '-']]
+-1
+[['people', '-', '-', 'resident'], ['resident', '-', 'dollar', '-'], ['resident', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['resident', '-', '-', 'people']]
+-1
+[['dollar', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['resident', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['non-resident', '-', '-', 'ticket sale']]
+-1
+[['non-resident', '-', '-', 'dollar'], ['-', '-', 'non-resident', '-'], ['non-resident', '-', '-', '-']]
+-1
+[['non-resident', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['non-resident', '-', '-', 'dollar']]
+-1
+[['people', '-', 'non-resident', 'dollar'], ['-', '-', 'dollar', '-'], ['non-resident', 'dollar', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['people', '-', 'dollar', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['non-resident', '-', '-', 'banquet']]
+-1
+[['people', '-', 'non-resident', 'dollar'], ['resident', '-', '-', '-'], ['non-resident', 'people', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', 'dollar', '-'], ['non-resident', '-', '-', '-']]
+-1
+[['people', '-', '-', 'non-resident'], ['non-resident', '-', '-', '-'], ['non-resident', '-', '-', '-']]
+-1
+[['people', '-', '-', 'resident'], ['resident', '-', '-', '-'], ['non-resident', 'people', '-', '-']]
+-1
+[['non-resident', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['non-resident', '-', '-', 'people']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['non-resident', 'event', '-', '-']]
+-1
+[['people', 'resident', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', 'people']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', 'people', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', 'resident', '-', 'dollar']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', 'dollar', 'people', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['dollar', 'resident', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['event', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'resident', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', 'resident', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['-', '-', 'resident', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', 'people']]
+-1
+[['resident', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', 'dollar', '-'], ['people', '-', '-', '-']]
+-1
+[['people', 'resident', '-', '-'], ['resident', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', 'people'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'people', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['people', 'resident', '-', 'dollar'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['resident', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', 'resident', 'dollar'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['people', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['resident', '-', '-', 'dollar'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['resident', '-', '-', '-'], ['-', '-', '-', 'resident']]
+-1
+[['-', 'resident', '-', 'dollar'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', 'resident', 'dollar'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['dollar', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', '-', 'people'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', '-', '-'], ['-', '-', 'people', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', '-', '-'], ['-', '-', '-', 'resident']]
+-1
+[['people', 'resident', '-', '-'], ['resident', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', '-'], ['resident', '-', '-', '-'], ['-', 'people', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'people', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'people', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', '-', '-', 'dollar'], ['-', '-', '-', '-']]
+-1
+[['people', '-', '-', 'dollar'], ['-', 'people', '-', '-'], ['-', '-', '-', '-']]

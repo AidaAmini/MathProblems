@@ -1,0 +1,26 @@
+1
+[['picture package', '-', '-', '-', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['sheet', 'x1', 'sheet', 'dollar', '2.75', '-', '-'], ['picture package', '-', '-', '-', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '-'], ['sheet', 'x1', 'sheet', 'dollar', '1.5', '-', '-']]
+-1
+[['picture package', 'sheet', '-', '-', '-', '1.5', 'x1'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['sheet', 'x1', 'sheet', 'x2', '2.75', '-', '-'], ['picture package', '-', '-', 'x2', '-', 'dollar', '1.5'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '125'], ['sheet', '2.75', 'sheet', 'dollar', '1.5', '-', '-']]
+-1
+[['picture package', '-', 'x1', '-', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '140'], ['sheet', 'x1', '1.5', 'dollar', '2.75', 'x2', '-'], ['1.5', 'dollar', '-', '-', '-', 'sheet', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '-'], ['x2', 'x1', 'sheet', 'dollar', '1.5', '-', '-']]
+-1
+[['picture package', 'sheet', '-', '-', '-', 'dollar', 'x1'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['sheet', 'x1', 'sheet', 'dollar', '2.75', '-', '-'], ['picture package', '1.5', 'dollar', '-', 'sheet', 'x1', '2.75'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '125'], ['sheet', 'x1', 'sheet', 'dollar', '1.5', '-', '-']]
+-1
+[['picture package', '-', 'x1', 'sheet', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '140', '-'], ['sheet', '1.5', 'sheet', 'dollar', 'picture package', '2.75', 'x2'], ['x1', '-', '1.5', 'picture package', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '-'], ['sheet', '2.75', 'sheet', 'dollar', '1.5', '-', '-']]
+-1
+[['sheet', '-', '1.5', 'x1', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '-'], ['sheet', 'x1', 'sheet', 'dollar', 'x2', '1.5', '-'], ['1.5', '-', '-', '-', 'x1', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '125'], ['picture package', 'x1', 'sheet', 'dollar', '1.5', 'x2', '-']]
+-1
+[['picture package', '-', '1.5', '-', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['x2', 'x1', '1.5', 'dollar', '2.75', '-', '-'], ['2.75', '-', '-', '-', '1.5', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '-'], ['sheet', 'x1', 'sheet', 'x2', '1.5', '-', '-']]
+-1
+[['picture package', '-', '-', '-', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['1.5', 'picture package', 'sheet', 'dollar', '2.75', '-', '-'], ['picture package', '-', '-', 'sheet', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['sheet', 'picture package', 'sheet', 'dollar', '1.5', '-', '-']]
+-1
+[['picture package', '-', 'sheet', '-', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['sheet', 'x1', 'sheet', 'x2', '2.75', 'picture package', '-'], ['picture package', 'x1', 'dollar', '-', '-', 'sheet', '1.5'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['picture package', 'x1', 'sheet', 'dollar', '1.5', '2.75', '-']]
+-1
+[['picture package', '2.75', '-', '-', '-', 'sheet', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '-'], ['sheet', 'x1', 'sheet', '1.5', '2.75', 'x2', '-'], ['picture package', '-', '2.75', '-', '1.5', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '-'], ['x2', 'x1', 'sheet', 'dollar', '1.5', '-', '-']]
+-1
+[['picture package', '-', '-', '-', '1.5', 'dollar', 'x2'], ['140', '1', '-', 'one time sit fee', '125', '-', '-'], ['sheet', 'x1', 'sheet', 'x2', '2.75', '-', '-'], ['2.75', '-', '1.5', 'sheet', '-', 'dollar', 'x2'], ['one time sit fee', '125', '-', 'dollar', '140', '-', '-'], ['sheet', 'x1', 'sheet', 'dollar', '1.5', '-', 'x2']]
+-1
+[['2.75', '1.5', 'sheet', '-', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['sheet', 'x1', 'sheet', 'dollar', '2.75', '-', '-'], ['picture package', 'dollar', 'x1', '-', '-', '1.5', 'x2'], ['one time sit fee', '1', '-', 'dollar', '140', '-', '-'], ['sheet', 'x1', 'dollar', 'picture package', '1.5', 'x2', '-']]
+-1
+[['sheet', '-', '-', 'x1', '-', 'dollar', 'x2'], ['one time sit fee', '1', '-', 'dollar', '125', '-', '-'], ['sheet', 'x1', '1.5', 'dollar', '2.75', '-', '-'], ['x1', '-', '-', '-', '2.75', 'dollar', 'sheet'], ['one time sit fee', '1', '-', '125', '140', '-', '-'], ['sheet', 'x1', 'sheet', 'dollar', '1.5', '2.75', '-']]

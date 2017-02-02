@@ -1,0 +1,68 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN probability))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (NP (NNP San) (NNP Francisco))
+          (VP
+            (VBZ plays)
+            (PP (IN in) (NP (DT the) (JJ next) (JJ super) (NN bowl)))))))
+    (VP
+      (VBZ is)
+      (NP (CD nine) (NNS times))
+      (NP
+        (NP (DT the) (NN probability))
+        (SBAR
+          (IN that)
+          (S
+            (NP (PRP they))
+            (VP
+              (VBP do)
+              (RB not)
+              (VP
+                (VB play)
+                (PP
+                  (IN in)
+                  (NP (DT the) (JJ next) (JJ super) (NN bowl)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN probability))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (NP (NNP San) (NNP Francisco))
+          (VP
+            (VBZ plays)
+            (PP
+              (IN in)
+              (NP
+                (NP (DT the) (JJ next) (JJ super) (NN bowl))
+                (PP (CC plus) (NP (DT the) (NN probability)))))
+            (SBAR
+              (IN that)
+              (S
+                (NP (PRP they))
+                (VP (VBP do) (RB not) (VP (VB play)))))))))
+    (VP (VBZ is) (NP (CD 1)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN probability))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (NP (NNP San) (NNP Francisco))
+            (VP
+              (VBZ plays)
+              (PP
+                (IN in)
+                (NP (DT the) (JJ next) (JJ super) (NN bowl))))))))
+    (. ?)))

@@ -1,0 +1,1036 @@
+['certain event', 'event', '821 ticket', '1933 dollar', 'student', '2 dollar', 'ticket and nonstudent', 'dollar', '3 dollar', 'ticket', 'student ticket']
+['certain event']	['821 ticket']	0.0901100077042
+['certain event']	['1933 dollar']	0.0901100077042
+['certain event']	['student']	0.0741073489195
+['certain event']	['2 dollar']	0.0901100077042
+['certain event']	['ticket and nonstudent']	0.0941266761548
+['certain event']	['dollar']	0.00424649792755
+['certain event']	['3 dollar']	0.0897823390711
+['certain event']	['ticket']	0.050052963724
+['certain event']	['student ticket']	0.0901100077042
+['event']	['821 ticket']	0.0793857959237
+['event']	['1933 dollar']	0.0800317642921
+['event']	['student']	0.122840736639
+['event']	['2 dollar']	0.0800317642921
+['event']	['ticket and nonstudent']	0.0920786332799
+['event']	['dollar']	0.0146650794902
+['event']	['3 dollar']	0.079704095659
+['event']	['ticket']	0.259581211872
+['event']	['student ticket']	0.0793857959237
+['821 ticket']	['1933 dollar']	0.0901100077042
+['821 ticket']	['student']	0.079730351659
+['821 ticket']	['2 dollar']	0.0901100077042
+['821 ticket']	['ticket and nonstudent']	0.0941266761548
+['821 ticket']	['dollar']	0.00851929931405
+['821 ticket']	['3 dollar']	0.0897823390711
+['821 ticket']	['student ticket']	0.643440930505
+['1933 dollar']	['student']	0.079730351659
+['1933 dollar']	['2 dollar']	0.643440930505
+['1933 dollar']	['ticket and nonstudent']	0.0941266761548
+['1933 dollar']	['ticket']	0.0655104113031
+['1933 dollar']	['student ticket']	0.0901100077042
+['student']	['2 dollar']	0.0696933362217
+['student']	['dollar']	0.0130093318431
+['student']	['3 dollar']	0.0746958245975
+['student']	['ticket']	0.0553228714078
+['2 dollar']	['ticket and nonstudent']	0.0908034291173
+['2 dollar']	['3 dollar']	0.820005157283
+['2 dollar']	['ticket']	0.0655104113031
+['2 dollar']	['student ticket']	0.0827346205535
+['ticket and nonstudent']	['dollar']	0.0138938978606
+['ticket and nonstudent']	['3 dollar']	0.0981211933805
+['ticket and nonstudent']	['student ticket']	0.0915001233665
+['dollar']	['ticket']	0.00388540021915
+['dollar']	['student ticket']	0.0239234741198
+['3 dollar']	['ticket']	0.0508670058309
+['3 dollar']	['student ticket']	0.0696933362217
+['event', 'certain event']	['821 ticket']	0.237223524492
+['event', 'certain event']	['1933 dollar']	0.231474473053
+['event', 'certain event']	['student']	0.798756174957
+['event', 'certain event']	['2 dollar']	0.231474473053
+['event', 'certain event']	['ticket and nonstudent']	0.288555745134
+['event', 'certain event']	['dollar']	0.296733224722
+['event', 'certain event']	['3 dollar']	0.219152820408
+['event', 'certain event']	['ticket']	0.753742622182
+['event', 'certain event']	['student ticket']	0.237223524492
+['821 ticket', 'certain event']	['event']	0.627480498512
+['821 ticket', 'certain event']	['1933 dollar']	0.0901100077042
+['821 ticket', 'certain event']	['student']	0.0774561735493
+['821 ticket', 'certain event']	['2 dollar']	0.0901100077042
+['821 ticket', 'certain event']	['ticket and nonstudent']	0.0941266761548
+['821 ticket', 'certain event']	['dollar']	0.00851929931405
+['821 ticket', 'certain event']	['3 dollar']	0.0897823390711
+['821 ticket', 'certain event']	['ticket']	0.546022825852
+['821 ticket', 'certain event']	['student ticket']	0.584269096576
+['1933 dollar', 'certain event']	['event']	0.609298680331
+['1933 dollar', 'certain event']	['821 ticket']	0.0901100077042
+['1933 dollar', 'certain event']	['student']	0.0774561735493
+['1933 dollar', 'certain event']	['2 dollar']	0.584269096576
+['1933 dollar', 'certain event']	['ticket and nonstudent']	0.0941266761548
+['1933 dollar', 'certain event']	['dollar']	0.34291890153
+['1933 dollar', 'certain event']	['3 dollar']	0.871002672125
+['1933 dollar', 'certain event']	['ticket']	0.0575835820348
+['1933 dollar', 'certain event']	['student ticket']	0.0901100077042
+['student', 'certain event']	['event']	0.800886478199
+['student', 'certain event']	['821 ticket']	0.0696933362217
+['student', 'certain event']	['1933 dollar']	0.0696933362217
+['student', 'certain event']	['2 dollar']	0.0696933362217
+['student', 'certain event']	['ticket and nonstudent']	0.0807707659053
+['student', 'certain event']	['dollar']	0.0432392551335
+['student', 'certain event']	['3 dollar']	0.0746958245975
+['student', 'certain event']	['ticket']	0.0855339900599
+['student', 'certain event']	['student ticket']	0.279800024479
+['2 dollar', 'certain event']	['event']	0.609298680331
+['2 dollar', 'certain event']	['821 ticket']	0.0901100077042
+['2 dollar', 'certain event']	['1933 dollar']	0.584269096576
+['2 dollar', 'certain event']	['student']	0.0774561735493
+['2 dollar', 'certain event']	['ticket and nonstudent']	0.0908034291173
+['2 dollar', 'certain event']	['dollar']	0.273620297832
+['2 dollar', 'certain event']	['3 dollar']	0.747901896166
+['2 dollar', 'certain event']	['ticket']	0.0575835820348
+['2 dollar', 'certain event']	['student ticket']	0.0827346205535
+['ticket and nonstudent', 'certain event']	['event']	0.632585908989
+['ticket and nonstudent', 'certain event']	['821 ticket']	0.15961386663
+['ticket and nonstudent', 'certain event']	['1933 dollar']	0.15961386663
+['ticket and nonstudent', 'certain event']	['student']	0.146533383972
+['ticket and nonstudent', 'certain event']	['2 dollar']	0.15961386663
+['ticket and nonstudent', 'certain event']	['dollar']	0.00636410188432
+['ticket and nonstudent', 'certain event']	['3 dollar']	0.158859549493
+['ticket and nonstudent', 'certain event']	['ticket']	0.466871455114
+['ticket and nonstudent', 'certain event']	['student ticket']	0.152238479479
+['dollar', 'certain event']	['event']	0.357544994475
+['dollar', 'certain event']	['821 ticket']	0.0221369896995
+['dollar', 'certain event']	['1933 dollar']	0.380321401688
+['dollar', 'certain event']	['student']	0.0601288657365
+['dollar', 'certain event']	['2 dollar']	0.293611831056
+['dollar', 'certain event']	['ticket and nonstudent']	0.0188045079335
+['dollar', 'certain event']	['3 dollar']	0.238308800753
+['dollar', 'certain event']	['ticket']	0.0601288657365
+['dollar', 'certain event']	['student ticket']	0.0221369896995
+['3 dollar', 'certain event']	['event']	0.653385246173
+['3 dollar', 'certain event']	['821 ticket']	0.0737139440912
+['3 dollar', 'certain event']	['1933 dollar']	0.88617432218
+['3 dollar', 'certain event']	['student']	0.0650959234194
+['3 dollar', 'certain event']	['2 dollar']	0.73028733598
+['3 dollar', 'certain event']	['ticket and nonstudent']	0.0828503410239
+['3 dollar', 'certain event']	['dollar']	0.304992846852
+['3 dollar', 'certain event']	['ticket']	0.0508670058309
+['3 dollar', 'certain event']	['student ticket']	0.0696933362217
+['ticket', 'certain event']	['event']	0.760434087448
+['ticket', 'certain event']	['821 ticket']	0.533909298188
+['ticket', 'certain event']	['1933 dollar']	0.0563939725707
+['ticket', 'certain event']	['student']	0.0855339900599
+['ticket', 'certain event']	['2 dollar']	0.0563939725707
+['ticket', 'certain event']	['ticket and nonstudent']	0.179143826426
+['ticket', 'certain event']	['dollar']	0.0432392551335
+['ticket', 'certain event']	['3 dollar']	0.0618577310107
+['ticket', 'certain event']	['student ticket']	0.59068738808
+['student ticket', 'certain event']	['event']	0.627480498512
+['student ticket', 'certain event']	['821 ticket']	0.584269096576
+['student ticket', 'certain event']	['1933 dollar']	0.0901100077042
+['student ticket', 'certain event']	['student']	0.502100590513
+['student ticket', 'certain event']	['2 dollar']	0.0827346205535
+['student ticket', 'certain event']	['ticket and nonstudent']	0.0908034291173
+['student ticket', 'certain event']	['dollar']	0.00851929931405
+['student ticket', 'certain event']	['3 dollar']	0.0824069519204
+['student ticket', 'certain event']	['ticket']	0.5901395207
+['certain event', 'event']	['821 ticket']	0.237223524492
+['certain event', 'event']	['1933 dollar']	0.231474473053
+['certain event', 'event']	['student']	0.798756174957
+['certain event', 'event']	['2 dollar']	0.231474473053
+['certain event', 'event']	['ticket and nonstudent']	0.288555745134
+['certain event', 'event']	['dollar']	0.296733224722
+['certain event', 'event']	['3 dollar']	0.219152820408
+['certain event', 'event']	['ticket']	0.753742622182
+['certain event', 'event']	['student ticket']	0.237223524492
+['821 ticket', 'event']	['certain event']	0.713688471919
+['821 ticket', 'event']	['1933 dollar']	0.0833805889219
+['821 ticket', 'event']	['student']	0.745741216304
+['821 ticket', 'event']	['2 dollar']	0.0833805889219
+['821 ticket', 'event']	['ticket and nonstudent']	0.0920786332799
+['821 ticket', 'event']	['dollar']	0.320989442361
+['821 ticket', 'event']	['3 dollar']	0.0830529202888
+['821 ticket', 'event']	['ticket']	0.623529658192
+['821 ticket', 'event']	['student ticket']	0.538007739106
+['1933 dollar', 'event']	['certain event']	0.713688471919
+['1933 dollar', 'event']	['821 ticket']	0.0827346205535
+['1933 dollar', 'event']	['student']	0.745741216304
+['1933 dollar', 'event']	['2 dollar']	0.520866309821
+['1933 dollar', 'event']	['ticket and nonstudent']	0.0920786332799
+['1933 dollar', 'event']	['dollar']	0.454916990928
+['1933 dollar', 'event']	['3 dollar']	0.777107414222
+['1933 dollar', 'event']	['ticket']	0.684603201223
+['1933 dollar', 'event']	['student ticket']	0.0827346205535
+['student', 'event']	['certain event']	0.683604447678
+['student', 'event']	['821 ticket']	0.0696933362217
+['student', 'event']	['1933 dollar']	0.0669904799604
+['student', 'event']	['2 dollar']	0.0669904799604
+['student', 'event']	['ticket and nonstudent']	0.0807707659053
+['student', 'event']	['dollar']	0.10943850584
+['student', 'event']	['3 dollar']	0.0719929683361
+['student', 'event']	['ticket']	0.463581424672
+['student', 'event']	['student ticket']	0.531784656776
+['2 dollar', 'event']	['certain event']	0.713688471919
+['2 dollar', 'event']	['821 ticket']	0.0827346205535
+['2 dollar', 'event']	['1933 dollar']	0.520866309821
+['2 dollar', 'event']	['student']	0.745741216304
+['2 dollar', 'event']	['ticket and nonstudent']	0.0887553862424
+['2 dollar', 'event']	['dollar']	0.444519286352
+['2 dollar', 'event']	['3 dollar']	0.81311676853
+['2 dollar', 'event']	['ticket']	0.684603201223
+['2 dollar', 'event']	['student ticket']	0.0827346205535
+['ticket and nonstudent', 'event']	['certain event']	0.668260684069
+['ticket and nonstudent', 'event']	['821 ticket']	0.0827346205535
+['ticket and nonstudent', 'event']	['1933 dollar']	0.0833805889219
+['ticket and nonstudent', 'event']	['student']	0.71700009458
+['ticket and nonstudent', 'event']	['2 dollar']	0.0833805889219
+['ticket and nonstudent', 'event']	['dollar']	0.170619968709
+['ticket and nonstudent', 'event']	['3 dollar']	0.0830529202888
+['ticket and nonstudent', 'event']	['ticket']	0.433896319439
+['ticket and nonstudent', 'event']	['student ticket']	0.0827346205535
+['dollar', 'event']	['certain event']	0.32092543129
+['dollar', 'event']	['821 ticket']	0.0308612974269
+['dollar', 'event']	['1933 dollar']	0.425413806829
+['dollar', 'event']	['student']	0.258380730753
+['dollar', 'event']	['2 dollar']	0.307057925216
+['dollar', 'event']	['ticket and nonstudent']	0.0188045079335
+['dollar', 'event']	['3 dollar']	0.268421561579
+['dollar', 'event']	['ticket']	0.25787756347
+['dollar', 'event']	['student ticket']	0.0308612974269
+['3 dollar', 'event']	['certain event']	0.67619752251
+['3 dollar', 'event']	['821 ticket']	0.0696933362217
+['3 dollar', 'event']	['1933 dollar']	0.788575360573
+['3 dollar', 'event']	['student']	0.746794143912
+['3 dollar', 'event']	['2 dollar']	0.781397872909
+['3 dollar', 'event']	['ticket and nonstudent']	0.080802298149
+['3 dollar', 'event']	['dollar']	0.475891835372
+['3 dollar', 'event']	['ticket']	0.67127207086
+['3 dollar', 'event']	['student ticket']	0.0696933362217
+['ticket', 'event']	['certain event']	0.684851150531
+['ticket', 'event']	['821 ticket']	0.601751004024
+['ticket', 'event']	['1933 dollar']	0.0637381046393
+['ticket', 'event']	['student']	0.462178867485
+['ticket', 'event']	['2 dollar']	0.0637381046393
+['ticket', 'event']	['ticket and nonstudent']	0.115858628344
+['ticket', 'event']	['dollar']	0.106981240882
+['ticket', 'event']	['3 dollar']	0.0632704905303
+['ticket', 'event']	['student ticket']	0.662811585637
+['student ticket', 'event']	['certain event']	0.713688471919
+['student ticket', 'event']	['821 ticket']	0.538007739106
+['student ticket', 'event']	['1933 dollar']	0.0833805889219
+['student ticket', 'event']	['student']	0.58888700207
+['student ticket', 'event']	['2 dollar']	0.0819994954072
+['student ticket', 'event']	['ticket and nonstudent']	0.0887553862424
+['student ticket', 'event']	['dollar']	0.320989442361
+['student ticket', 'event']	['3 dollar']	0.0816718267741
+['student ticket', 'event']	['ticket']	0.759298310289
+['certain event', '821 ticket']	['event']	0.627480498512
+['certain event', '821 ticket']	['1933 dollar']	0.0901100077042
+['certain event', '821 ticket']	['student']	0.0774561735493
+['certain event', '821 ticket']	['2 dollar']	0.0901100077042
+['certain event', '821 ticket']	['ticket and nonstudent']	0.0941266761548
+['certain event', '821 ticket']	['dollar']	0.00851929931405
+['certain event', '821 ticket']	['3 dollar']	0.0897823390711
+['certain event', '821 ticket']	['ticket']	0.546022825852
+['certain event', '821 ticket']	['student ticket']	0.584269096576
+['event', '821 ticket']	['certain event']	0.713688471919
+['event', '821 ticket']	['1933 dollar']	0.0833805889219
+['event', '821 ticket']	['student']	0.745741216304
+['event', '821 ticket']	['2 dollar']	0.0833805889219
+['event', '821 ticket']	['ticket and nonstudent']	0.0920786332799
+['event', '821 ticket']	['dollar']	0.320989442361
+['event', '821 ticket']	['3 dollar']	0.0830529202888
+['event', '821 ticket']	['ticket']	0.623529658192
+['event', '821 ticket']	['student ticket']	0.538007739106
+['1933 dollar', '821 ticket']	['certain event']	0.0901100077042
+['1933 dollar', '821 ticket']	['event']	0.0744376594044
+['1933 dollar', '821 ticket']	['student']	0.079730351659
+['1933 dollar', '821 ticket']	['2 dollar']	0.584269096576
+['1933 dollar', '821 ticket']	['ticket and nonstudent']	0.0941266761548
+['1933 dollar', '821 ticket']	['dollar']	0.375763972207
+['1933 dollar', '821 ticket']	['3 dollar']	0.871002672125
+['1933 dollar', '821 ticket']	['ticket']	0.600031739779
+['1933 dollar', '821 ticket']	['student ticket']	0.584269096576
+['student', '821 ticket']	['certain event']	0.0880779980575
+['student', '821 ticket']	['event']	0.740130833098
+['student', '821 ticket']	['1933 dollar']	0.0696933362217
+['student', '821 ticket']	['2 dollar']	0.0696933362217
+['student', '821 ticket']	['ticket and nonstudent']	0.0807707659053
+['student', '821 ticket']	['dollar']	0.0778712897656
+['student', '821 ticket']	['3 dollar']	0.0746958245975
+['student', '821 ticket']	['ticket']	0.636747259413
+['student', '821 ticket']	['student ticket']	0.844414774284
+['2 dollar', '821 ticket']	['certain event']	0.0901100077042
+['2 dollar', '821 ticket']	['event']	0.0744376594044
+['2 dollar', '821 ticket']	['1933 dollar']	0.584269096576
+['2 dollar', '821 ticket']	['student']	0.079730351659
+['2 dollar', '821 ticket']	['ticket and nonstudent']	0.0908034291173
+['2 dollar', '821 ticket']	['dollar']	0.332980520024
+['2 dollar', '821 ticket']	['3 dollar']	0.747901896166
+['2 dollar', '821 ticket']	['ticket']	0.600031739779
+['2 dollar', '821 ticket']	['student ticket']	0.573408386835
+['ticket and nonstudent', '821 ticket']	['certain event']	0.15961386663
+['ticket and nonstudent', '821 ticket']	['event']	0.14729034296
+['ticket and nonstudent', '821 ticket']	['1933 dollar']	0.15961386663
+['ticket and nonstudent', '821 ticket']	['student']	0.148807562081
+['ticket and nonstudent', '821 ticket']	['2 dollar']	0.15961386663
+['ticket and nonstudent', '821 ticket']	['dollar']	0.00766280318302
+['ticket and nonstudent', '821 ticket']	['3 dollar']	0.158859549493
+['ticket and nonstudent', '821 ticket']	['ticket']	0.63912001098
+['ticket and nonstudent', '821 ticket']	['student ticket']	0.665215853449
+['dollar', '821 ticket']	['certain event']	0.0160064194205
+['dollar', '821 ticket']	['event']	0.254913833446
+['dollar', '821 ticket']	['1933 dollar']	0.380321401688
+['dollar', '821 ticket']	['student']	0.0401288657365
+['dollar', '821 ticket']	['2 dollar']	0.293611831056
+['dollar', '821 ticket']	['ticket and nonstudent']	0.0188045079335
+['dollar', '821 ticket']	['3 dollar']	0.238308800753
+['dollar', '821 ticket']	['ticket']	0.373172711836
+['dollar', '821 ticket']	['student ticket']	0.132615563108
+['3 dollar', '821 ticket']	['certain event']	0.0737139440912
+['3 dollar', '821 ticket']	['event']	0.0634148935911
+['3 dollar', '821 ticket']	['1933 dollar']	0.88617432218
+['3 dollar', '821 ticket']	['student']	0.0673701015291
+['3 dollar', '821 ticket']	['2 dollar']	0.73028733598
+['3 dollar', '821 ticket']	['ticket and nonstudent']	0.0828503410239
+['3 dollar', '821 ticket']	['dollar']	0.364353069043
+['3 dollar', '821 ticket']	['ticket']	0.633365073112
+['3 dollar', '821 ticket']	['student ticket']	0.525944474896
+['ticket', '821 ticket']	['certain event']	0.156919716828
+['ticket', '821 ticket']	['event']	0.7063306139
+['ticket', '821 ticket']	['1933 dollar']	0.157502141539
+['ticket', '821 ticket']	['student']	0.311439981832
+['ticket', '821 ticket']	['2 dollar']	0.157502141539
+['ticket', '821 ticket']	['ticket and nonstudent']	0.600829575872
+['ticket', '821 ticket']	['dollar']	0.210708137696
+['ticket', '821 ticket']	['3 dollar']	0.180755709649
+['ticket', '821 ticket']	['student ticket']	0.675435347506
+['student ticket', '821 ticket']	['certain event']	0.139258682248
+['student ticket', '821 ticket']	['event']	0.360804929274
+['student ticket', '821 ticket']	['1933 dollar']	0.139258682248
+['student ticket', '821 ticket']	['student']	0.689089315197
+['student ticket', '821 ticket']	['2 dollar']	0.14589133531
+['student ticket', '821 ticket']	['ticket and nonstudent']	0.279852388264
+['student ticket', '821 ticket']	['dollar']	0.210419668337
+['student ticket', '821 ticket']	['3 dollar']	0.153629069592
+['student ticket', '821 ticket']	['ticket']	0.725234230272
+['certain event', '1933 dollar']	['event']	0.609298680331
+['certain event', '1933 dollar']	['821 ticket']	0.0901100077042
+['certain event', '1933 dollar']	['student']	0.0774561735493
+['certain event', '1933 dollar']	['2 dollar']	0.584269096576
+['certain event', '1933 dollar']	['ticket and nonstudent']	0.0941266761548
+['certain event', '1933 dollar']	['dollar']	0.34291890153
+['certain event', '1933 dollar']	['3 dollar']	0.871002672125
+['certain event', '1933 dollar']	['ticket']	0.0575835820348
+['certain event', '1933 dollar']	['student ticket']	0.0901100077042
+['event', '1933 dollar']	['certain event']	0.713688471919
+['event', '1933 dollar']	['821 ticket']	0.0827346205535
+['event', '1933 dollar']	['student']	0.745741216304
+['event', '1933 dollar']	['2 dollar']	0.520866309821
+['event', '1933 dollar']	['ticket and nonstudent']	0.0920786332799
+['event', '1933 dollar']	['dollar']	0.454916990928
+['event', '1933 dollar']	['3 dollar']	0.777107414222
+['event', '1933 dollar']	['ticket']	0.684603201223
+['event', '1933 dollar']	['student ticket']	0.0827346205535
+['821 ticket', '1933 dollar']	['certain event']	0.0901100077042
+['821 ticket', '1933 dollar']	['event']	0.0744376594044
+['821 ticket', '1933 dollar']	['student']	0.079730351659
+['821 ticket', '1933 dollar']	['2 dollar']	0.584269096576
+['821 ticket', '1933 dollar']	['ticket and nonstudent']	0.0941266761548
+['821 ticket', '1933 dollar']	['dollar']	0.375763972207
+['821 ticket', '1933 dollar']	['3 dollar']	0.871002672125
+['821 ticket', '1933 dollar']	['ticket']	0.600031739779
+['821 ticket', '1933 dollar']	['student ticket']	0.584269096576
+['student', '1933 dollar']	['certain event']	0.0880779980575
+['student', '1933 dollar']	['event']	0.735260703228
+['student', '1933 dollar']	['821 ticket']	0.0696933362217
+['student', '1933 dollar']	['2 dollar']	0.510461204301
+['student', '1933 dollar']	['ticket and nonstudent']	0.0807707659053
+['student', '1933 dollar']	['dollar']	0.478387264155
+['student', '1933 dollar']	['3 dollar']	0.836668239941
+['student', '1933 dollar']	['ticket']	0.170085299635
+['student', '1933 dollar']	['student ticket']	0.279800024479
+['2 dollar', '1933 dollar']	['certain event']	0.139258682248
+['2 dollar', '1933 dollar']	['event']	0.37370815508
+['2 dollar', '1933 dollar']	['821 ticket']	0.139258682248
+['2 dollar', '1933 dollar']	['student']	0.33665242287
+['2 dollar', '1933 dollar']	['ticket and nonstudent']	0.279852388264
+['2 dollar', '1933 dollar']	['dollar']	0.815461238127
+['2 dollar', '1933 dollar']	['3 dollar']	0.907610505047
+['2 dollar', '1933 dollar']	['ticket']	0.407848805832
+['2 dollar', '1933 dollar']	['student ticket']	0.14589133531
+['ticket and nonstudent', '1933 dollar']	['certain event']	0.15961386663
+['ticket and nonstudent', '1933 dollar']	['event']	0.14729034296
+['ticket and nonstudent', '1933 dollar']	['821 ticket']	0.15961386663
+['ticket and nonstudent', '1933 dollar']	['student']	0.148807562081
+['ticket and nonstudent', '1933 dollar']	['2 dollar']	0.653642048458
+['ticket and nonstudent', '1933 dollar']	['dollar']	0.371729726263
+['ticket and nonstudent', '1933 dollar']	['3 dollar']	0.948067886599
+['ticket and nonstudent', '1933 dollar']	['ticket']	0.341238789832
+['ticket and nonstudent', '1933 dollar']	['student ticket']	0.152238479479
+['dollar', '1933 dollar']	['certain event']	0.125024962568
+['dollar', '1933 dollar']	['event']	0.357653438321
+['dollar', '1933 dollar']	['821 ticket']	0.108213661491
+['dollar', '1933 dollar']	['student']	0.255863407766
+['dollar', '1933 dollar']	['2 dollar']	0.765654046966
+['dollar', '1933 dollar']	['ticket and nonstudent']	0.198882138174
+['dollar', '1933 dollar']	['3 dollar']	0.781380787676
+['dollar', '1933 dollar']	['ticket']	0.264652724916
+['dollar', '1933 dollar']	['student ticket']	0.108213661491
+['3 dollar', '1933 dollar']	['certain event']	0.127137811052
+['3 dollar', '1933 dollar']	['event']	0.363581185188
+['3 dollar', '1933 dollar']	['821 ticket']	0.127137811052
+['3 dollar', '1933 dollar']	['student']	0.327802190328
+['3 dollar', '1933 dollar']	['2 dollar']	0.868355241542
+['3 dollar', '1933 dollar']	['ticket and nonstudent']	0.353649848982
+['3 dollar', '1933 dollar']	['dollar']	0.857127904794
+['3 dollar', '1933 dollar']	['ticket']	0.361068706569
+['3 dollar', '1933 dollar']	['student ticket']	0.136831688603
+['ticket', '1933 dollar']	['certain event']	0.0454050549877
+['ticket', '1933 dollar']	['event']	0.617276960448
+['ticket', '1933 dollar']	['821 ticket']	0.533909298188
+['ticket', '1933 dollar']	['student']	0.0874042995138
+['ticket', '1933 dollar']	['2 dollar']	0.436141461813
+['ticket', '1933 dollar']	['ticket and nonstudent']	0.179143826426
+['ticket', '1933 dollar']	['dollar']	0.361866242726
+['ticket', '1933 dollar']	['3 dollar']	0.640375039706
+['ticket', '1933 dollar']	['student ticket']	0.59068738808
+['student ticket', '1933 dollar']	['certain event']	0.0901100077042
+['student ticket', '1933 dollar']	['event']	0.0744376594044
+['student ticket', '1933 dollar']	['821 ticket']	0.584269096576
+['student ticket', '1933 dollar']	['student']	0.532272855801
+['student ticket', '1933 dollar']	['2 dollar']	0.573408386835
+['student ticket', '1933 dollar']	['ticket and nonstudent']	0.0908034291173
+['student ticket', '1933 dollar']	['dollar']	0.375763972207
+['student ticket', '1933 dollar']	['3 dollar']	0.873200474322
+['student ticket', '1933 dollar']	['ticket']	0.645171343368
+['certain event', 'student']	['event']	0.800886478199
+['certain event', 'student']	['821 ticket']	0.0696933362217
+['certain event', 'student']	['1933 dollar']	0.0696933362217
+['certain event', 'student']	['2 dollar']	0.0696933362217
+['certain event', 'student']	['ticket and nonstudent']	0.0807707659053
+['certain event', 'student']	['dollar']	0.0432392551335
+['certain event', 'student']	['3 dollar']	0.0746958245975
+['certain event', 'student']	['ticket']	0.0855339900599
+['certain event', 'student']	['student ticket']	0.279800024479
+['event', 'student']	['certain event']	0.683604447678
+['event', 'student']	['821 ticket']	0.0696933362217
+['event', 'student']	['1933 dollar']	0.0669904799604
+['event', 'student']	['2 dollar']	0.0669904799604
+['event', 'student']	['ticket and nonstudent']	0.0807707659053
+['event', 'student']	['dollar']	0.10943850584
+['event', 'student']	['3 dollar']	0.0719929683361
+['event', 'student']	['ticket']	0.463581424672
+['event', 'student']	['student ticket']	0.531784656776
+['821 ticket', 'student']	['certain event']	0.0880779980575
+['821 ticket', 'student']	['event']	0.740130833098
+['821 ticket', 'student']	['1933 dollar']	0.0696933362217
+['821 ticket', 'student']	['2 dollar']	0.0696933362217
+['821 ticket', 'student']	['ticket and nonstudent']	0.0807707659053
+['821 ticket', 'student']	['dollar']	0.0778712897656
+['821 ticket', 'student']	['3 dollar']	0.0746958245975
+['821 ticket', 'student']	['ticket']	0.636747259413
+['821 ticket', 'student']	['student ticket']	0.844414774284
+['1933 dollar', 'student']	['certain event']	0.0880779980575
+['1933 dollar', 'student']	['event']	0.735260703228
+['1933 dollar', 'student']	['821 ticket']	0.0696933362217
+['1933 dollar', 'student']	['2 dollar']	0.510461204301
+['1933 dollar', 'student']	['ticket and nonstudent']	0.0807707659053
+['1933 dollar', 'student']	['dollar']	0.478387264155
+['1933 dollar', 'student']	['3 dollar']	0.836668239941
+['1933 dollar', 'student']	['ticket']	0.170085299635
+['1933 dollar', 'student']	['student ticket']	0.279800024479
+['2 dollar', 'student']	['certain event']	0.0880779980575
+['2 dollar', 'student']	['event']	0.735260703228
+['2 dollar', 'student']	['821 ticket']	0.0696933362217
+['2 dollar', 'student']	['1933 dollar']	0.510461204301
+['2 dollar', 'student']	['ticket and nonstudent']	0.080802298149
+['2 dollar', 'student']	['dollar']	0.473923787948
+['2 dollar', 'student']	['3 dollar']	0.72021221181
+['2 dollar', 'student']	['ticket']	0.170085299635
+['2 dollar', 'student']	['student ticket']	0.395955227301
+['ticket and nonstudent', 'student']	['certain event']	0.0880779980575
+['ticket and nonstudent', 'student']	['event']	0.722345524942
+['ticket and nonstudent', 'student']	['821 ticket']	0.0696933362217
+['ticket and nonstudent', 'student']	['1933 dollar']	0.0696933362217
+['ticket and nonstudent', 'student']	['2 dollar']	0.0696933362217
+['ticket and nonstudent', 'student']	['dollar']	0.0258932335369
+['ticket and nonstudent', 'student']	['3 dollar']	0.0700467017905
+['ticket and nonstudent', 'student']	['ticket']	0.27654350837
+['ticket and nonstudent', 'student']	['student ticket']	0.395955227301
+['dollar', 'student']	['certain event']	0.0780842671024
+['dollar', 'student']	['event']	0.107529028485
+['dollar', 'student']	['821 ticket']	0.0787871379671
+['dollar', 'student']	['1933 dollar']	0.391849831526
+['dollar', 'student']	['2 dollar']	0.278797016241
+['dollar', 'student']	['ticket and nonstudent']	0.0808823556154
+['dollar', 'student']	['3 dollar']	0.223493985938
+['dollar', 'student']	['ticket']	0.0962627154283
+['dollar', 'student']	['student ticket']	0.316588855003
+['3 dollar', 'student']	['certain event']	0.150155845739
+['3 dollar', 'student']	['event']	0.748277944607
+['3 dollar', 'student']	['821 ticket']	0.131771183904
+['3 dollar', 'student']	['1933 dollar']	0.87129476476
+['3 dollar', 'student']	['2 dollar']	0.751359889328
+['3 dollar', 'student']	['ticket and nonstudent']	0.142880145831
+['3 dollar', 'student']	['dollar']	0.473923787948
+['3 dollar', 'student']	['ticket']	0.200809521976
+['3 dollar', 'student']	['student ticket']	0.427308852641
+['ticket', 'student']	['certain event']	0.125170963972
+['ticket', 'student']	['event']	0.273225292892
+['ticket', 'student']	['821 ticket']	0.599645823022
+['ticket', 'student']	['1933 dollar']	0.113044120838
+['ticket', 'student']	['2 dollar']	0.113044120838
+['ticket', 'student']	['ticket and nonstudent']	0.147212253684
+['ticket', 'student']	['dollar']	0.103129732713
+['ticket', 'student']	['3 dollar']	0.118507879278
+['ticket', 'student']	['student ticket']	0.616777722269
+['student ticket', 'student']	['certain event']	0.0880779980575
+['student ticket', 'student']	['event']	0.740130833098
+['student ticket', 'student']	['821 ticket']	0.525944474896
+['student ticket', 'student']	['1933 dollar']	0.0696933362217
+['student ticket', 'student']	['2 dollar']	0.0696933362217
+['student ticket', 'student']	['ticket and nonstudent']	0.080802298149
+['student ticket', 'student']	['dollar']	0.0778712897656
+['student ticket', 'student']	['3 dollar']	0.0746958245975
+['student ticket', 'student']	['ticket']	0.62875276524
+['certain event', '2 dollar']	['event']	0.609298680331
+['certain event', '2 dollar']	['821 ticket']	0.0901100077042
+['certain event', '2 dollar']	['1933 dollar']	0.584269096576
+['certain event', '2 dollar']	['student']	0.0774561735493
+['certain event', '2 dollar']	['ticket and nonstudent']	0.0908034291173
+['certain event', '2 dollar']	['dollar']	0.273620297832
+['certain event', '2 dollar']	['3 dollar']	0.747901896166
+['certain event', '2 dollar']	['ticket']	0.0575835820348
+['certain event', '2 dollar']	['student ticket']	0.0827346205535
+['event', '2 dollar']	['certain event']	0.713688471919
+['event', '2 dollar']	['821 ticket']	0.0827346205535
+['event', '2 dollar']	['1933 dollar']	0.520866309821
+['event', '2 dollar']	['student']	0.745741216304
+['event', '2 dollar']	['ticket and nonstudent']	0.0887553862424
+['event', '2 dollar']	['dollar']	0.444519286352
+['event', '2 dollar']	['3 dollar']	0.81311676853
+['event', '2 dollar']	['ticket']	0.684603201223
+['event', '2 dollar']	['student ticket']	0.0827346205535
+['821 ticket', '2 dollar']	['certain event']	0.0901100077042
+['821 ticket', '2 dollar']	['event']	0.0744376594044
+['821 ticket', '2 dollar']	['1933 dollar']	0.584269096576
+['821 ticket', '2 dollar']	['student']	0.079730351659
+['821 ticket', '2 dollar']	['ticket and nonstudent']	0.0908034291173
+['821 ticket', '2 dollar']	['dollar']	0.332980520024
+['821 ticket', '2 dollar']	['3 dollar']	0.747901896166
+['821 ticket', '2 dollar']	['ticket']	0.600031739779
+['821 ticket', '2 dollar']	['student ticket']	0.573408386835
+['1933 dollar', '2 dollar']	['certain event']	0.139258682248
+['1933 dollar', '2 dollar']	['event']	0.37370815508
+['1933 dollar', '2 dollar']	['821 ticket']	0.139258682248
+['1933 dollar', '2 dollar']	['student']	0.33665242287
+['1933 dollar', '2 dollar']	['ticket and nonstudent']	0.279852388264
+['1933 dollar', '2 dollar']	['dollar']	0.815461238127
+['1933 dollar', '2 dollar']	['3 dollar']	0.907610505047
+['1933 dollar', '2 dollar']	['ticket']	0.407848805832
+['1933 dollar', '2 dollar']	['student ticket']	0.14589133531
+['student', '2 dollar']	['certain event']	0.0880779980575
+['student', '2 dollar']	['event']	0.735260703228
+['student', '2 dollar']	['821 ticket']	0.0696933362217
+['student', '2 dollar']	['1933 dollar']	0.510461204301
+['student', '2 dollar']	['ticket and nonstudent']	0.080802298149
+['student', '2 dollar']	['dollar']	0.473923787948
+['student', '2 dollar']	['3 dollar']	0.72021221181
+['student', '2 dollar']	['ticket']	0.170085299635
+['student', '2 dollar']	['student ticket']	0.395955227301
+['ticket and nonstudent', '2 dollar']	['certain event']	0.15961386663
+['ticket and nonstudent', '2 dollar']	['event']	0.14729034296
+['ticket and nonstudent', '2 dollar']	['821 ticket']	0.15961386663
+['ticket and nonstudent', '2 dollar']	['1933 dollar']	0.653642048458
+['ticket and nonstudent', '2 dollar']	['student']	0.148807562081
+['ticket and nonstudent', '2 dollar']	['dollar']	0.397513101137
+['ticket and nonstudent', '2 dollar']	['3 dollar']	0.802115948339
+['ticket and nonstudent', '2 dollar']	['ticket']	0.341238789832
+['ticket and nonstudent', '2 dollar']	['student ticket']	0.152238479479
+['dollar', '2 dollar']	['certain event']	0.125024962568
+['dollar', '2 dollar']	['event']	0.357653438321
+['dollar', '2 dollar']	['821 ticket']	0.108213661491
+['dollar', '2 dollar']	['1933 dollar']	0.732805939382
+['dollar', '2 dollar']	['student']	0.255863407766
+['dollar', '2 dollar']	['ticket and nonstudent']	0.198882138174
+['dollar', '2 dollar']	['3 dollar']	0.731026710282
+['dollar', '2 dollar']	['ticket']	0.264652724916
+['dollar', '2 dollar']	['student ticket']	0.108213661491
+['3 dollar', '2 dollar']	['certain event']	0.127137811052
+['3 dollar', '2 dollar']	['event']	0.363581185188
+['3 dollar', '2 dollar']	['821 ticket']	0.127137811052
+['3 dollar', '2 dollar']	['1933 dollar']	0.9106161157
+['3 dollar', '2 dollar']	['student']	0.327802190328
+['3 dollar', '2 dollar']	['ticket and nonstudent']	0.358887409775
+['3 dollar', '2 dollar']	['dollar']	0.838377904794
+['3 dollar', '2 dollar']	['ticket']	0.361068706569
+['3 dollar', '2 dollar']	['student ticket']	0.144528281371
+['ticket', '2 dollar']	['certain event']	0.0454050549877
+['ticket', '2 dollar']	['event']	0.617276960448
+['ticket', '2 dollar']	['821 ticket']	0.533909298188
+['ticket', '2 dollar']	['1933 dollar']	0.436141461813
+['ticket', '2 dollar']	['student']	0.0874042995138
+['ticket', '2 dollar']	['ticket and nonstudent']	0.23985811214
+['ticket', '2 dollar']	['dollar']	0.393939736912
+['ticket', '2 dollar']	['3 dollar']	0.681906388153
+['ticket', '2 dollar']	['student ticket']	0.600989027071
+['student ticket', '2 dollar']	['certain event']	0.0901100077042
+['student ticket', '2 dollar']	['event']	0.0744376594044
+['student ticket', '2 dollar']	['821 ticket']	0.584269096576
+['student ticket', '2 dollar']	['1933 dollar']	0.584269096576
+['student ticket', '2 dollar']	['student']	0.532272855801
+['student ticket', '2 dollar']	['ticket and nonstudent']	0.0908034291173
+['student ticket', '2 dollar']	['dollar']	0.332980520024
+['student ticket', '2 dollar']	['3 dollar']	0.747901896166
+['student ticket', '2 dollar']	['ticket']	0.645171343368
+['certain event', 'ticket and nonstudent']	['event']	0.632585908989
+['certain event', 'ticket and nonstudent']	['821 ticket']	0.15961386663
+['certain event', 'ticket and nonstudent']	['1933 dollar']	0.15961386663
+['certain event', 'ticket and nonstudent']	['student']	0.146533383972
+['certain event', 'ticket and nonstudent']	['2 dollar']	0.15961386663
+['certain event', 'ticket and nonstudent']	['dollar']	0.00636410188432
+['certain event', 'ticket and nonstudent']	['3 dollar']	0.158859549493
+['certain event', 'ticket and nonstudent']	['ticket']	0.466871455114
+['certain event', 'ticket and nonstudent']	['student ticket']	0.152238479479
+['event', 'ticket and nonstudent']	['certain event']	0.668260684069
+['event', 'ticket and nonstudent']	['821 ticket']	0.0827346205535
+['event', 'ticket and nonstudent']	['1933 dollar']	0.0833805889219
+['event', 'ticket and nonstudent']	['student']	0.71700009458
+['event', 'ticket and nonstudent']	['2 dollar']	0.0833805889219
+['event', 'ticket and nonstudent']	['dollar']	0.170619968709
+['event', 'ticket and nonstudent']	['3 dollar']	0.0830529202888
+['event', 'ticket and nonstudent']	['ticket']	0.433896319439
+['event', 'ticket and nonstudent']	['student ticket']	0.0827346205535
+['821 ticket', 'ticket and nonstudent']	['certain event']	0.15961386663
+['821 ticket', 'ticket and nonstudent']	['event']	0.14729034296
+['821 ticket', 'ticket and nonstudent']	['1933 dollar']	0.15961386663
+['821 ticket', 'ticket and nonstudent']	['student']	0.148807562081
+['821 ticket', 'ticket and nonstudent']	['2 dollar']	0.15961386663
+['821 ticket', 'ticket and nonstudent']	['dollar']	0.00766280318302
+['821 ticket', 'ticket and nonstudent']	['3 dollar']	0.158859549493
+['821 ticket', 'ticket and nonstudent']	['ticket']	0.63912001098
+['821 ticket', 'ticket and nonstudent']	['student ticket']	0.665215853449
+['1933 dollar', 'ticket and nonstudent']	['certain event']	0.15961386663
+['1933 dollar', 'ticket and nonstudent']	['event']	0.14729034296
+['1933 dollar', 'ticket and nonstudent']	['821 ticket']	0.15961386663
+['1933 dollar', 'ticket and nonstudent']	['student']	0.148807562081
+['1933 dollar', 'ticket and nonstudent']	['2 dollar']	0.653642048458
+['1933 dollar', 'ticket and nonstudent']	['dollar']	0.371729726263
+['1933 dollar', 'ticket and nonstudent']	['3 dollar']	0.948067886599
+['1933 dollar', 'ticket and nonstudent']	['ticket']	0.341238789832
+['1933 dollar', 'ticket and nonstudent']	['student ticket']	0.152238479479
+['student', 'ticket and nonstudent']	['certain event']	0.0880779980575
+['student', 'ticket and nonstudent']	['event']	0.722345524942
+['student', 'ticket and nonstudent']	['821 ticket']	0.0696933362217
+['student', 'ticket and nonstudent']	['1933 dollar']	0.0696933362217
+['student', 'ticket and nonstudent']	['2 dollar']	0.0696933362217
+['student', 'ticket and nonstudent']	['dollar']	0.0258932335369
+['student', 'ticket and nonstudent']	['3 dollar']	0.0700467017905
+['student', 'ticket and nonstudent']	['ticket']	0.27654350837
+['student', 'ticket and nonstudent']	['student ticket']	0.395955227301
+['2 dollar', 'ticket and nonstudent']	['certain event']	0.15961386663
+['2 dollar', 'ticket and nonstudent']	['event']	0.14729034296
+['2 dollar', 'ticket and nonstudent']	['821 ticket']	0.15961386663
+['2 dollar', 'ticket and nonstudent']	['1933 dollar']	0.653642048458
+['2 dollar', 'ticket and nonstudent']	['student']	0.148807562081
+['2 dollar', 'ticket and nonstudent']	['dollar']	0.397513101137
+['2 dollar', 'ticket and nonstudent']	['3 dollar']	0.802115948339
+['2 dollar', 'ticket and nonstudent']	['ticket']	0.341238789832
+['2 dollar', 'ticket and nonstudent']	['student ticket']	0.152238479479
+['dollar', 'ticket and nonstudent']	['certain event']	0.0160064194205
+['dollar', 'ticket and nonstudent']	['event']	0.190675075298
+['dollar', 'ticket and nonstudent']	['821 ticket']	0.024606125502
+['dollar', 'ticket and nonstudent']	['1933 dollar']	0.356496055166
+['dollar', 'ticket and nonstudent']	['student']	0.0413807709638
+['dollar', 'ticket and nonstudent']	['2 dollar']	0.274761608912
+['dollar', 'ticket and nonstudent']	['3 dollar']	0.219458578609
+['dollar', 'ticket and nonstudent']	['ticket']	0.210676138897
+['dollar', 'ticket and nonstudent']	['student ticket']	0.024606125502
+['3 dollar', 'ticket and nonstudent']	['certain event']	0.128877148308
+['3 dollar', 'ticket and nonstudent']	['event']	0.121926922437
+['3 dollar', 'ticket and nonstudent']	['821 ticket']	0.128877148308
+['3 dollar', 'ticket and nonstudent']	['1933 dollar']	0.949572049908
+['3 dollar', 'ticket and nonstudent']	['student']	0.129886460887
+['3 dollar', 'ticket and nonstudent']	['2 dollar']	0.790085144498
+['3 dollar', 'ticket and nonstudent']	['dollar']	0.399695026539
+['3 dollar', 'ticket and nonstudent']	['ticket']	0.316240084833
+['3 dollar', 'ticket and nonstudent']	['student ticket']	0.124856540438
+['ticket', 'ticket and nonstudent']	['certain event']	0.0454050549877
+['ticket', 'ticket and nonstudent']	['event']	0.555404496974
+['ticket', 'ticket and nonstudent']	['821 ticket']	0.515059076045
+['ticket', 'ticket and nonstudent']	['1933 dollar']	0.0588631083731
+['ticket', 'ticket and nonstudent']	['student']	0.0537131108329
+['ticket', 'ticket and nonstudent']	['2 dollar']	0.0588631083731
+['ticket', 'ticket and nonstudent']	['dollar']	0.0234359685796
+['ticket', 'ticket and nonstudent']	['3 dollar']	0.0520400067664
+['ticket', 'ticket and nonstudent']	['student ticket']	0.59496259884
+['student ticket', 'ticket and nonstudent']	['certain event']	0.15961386663
+['student ticket', 'ticket and nonstudent']	['event']	0.14729034296
+['student ticket', 'ticket and nonstudent']	['821 ticket']	0.653642048458
+['student ticket', 'ticket and nonstudent']	['1933 dollar']	0.15961386663
+['student ticket', 'ticket and nonstudent']	['student']	0.454739744591
+['student ticket', 'ticket and nonstudent']	['2 dollar']	0.152238479479
+['student ticket', 'ticket and nonstudent']	['dollar']	0.00766280318302
+['student ticket', 'ticket and nonstudent']	['3 dollar']	0.151484162343
+['student ticket', 'ticket and nonstudent']	['ticket']	0.649115007023
+['certain event', 'dollar']	['event']	0.357544994475
+['certain event', 'dollar']	['821 ticket']	0.0221369896995
+['certain event', 'dollar']	['1933 dollar']	0.380321401688
+['certain event', 'dollar']	['student']	0.0601288657365
+['certain event', 'dollar']	['2 dollar']	0.293611831056
+['certain event', 'dollar']	['ticket and nonstudent']	0.0188045079335
+['certain event', 'dollar']	['3 dollar']	0.238308800753
+['certain event', 'dollar']	['ticket']	0.0601288657365
+['certain event', 'dollar']	['student ticket']	0.0221369896995
+['event', 'dollar']	['certain event']	0.32092543129
+['event', 'dollar']	['821 ticket']	0.0308612974269
+['event', 'dollar']	['1933 dollar']	0.425413806829
+['event', 'dollar']	['student']	0.258380730753
+['event', 'dollar']	['2 dollar']	0.307057925216
+['event', 'dollar']	['ticket and nonstudent']	0.0188045079335
+['event', 'dollar']	['3 dollar']	0.268421561579
+['event', 'dollar']	['ticket']	0.25787756347
+['event', 'dollar']	['student ticket']	0.0308612974269
+['821 ticket', 'dollar']	['certain event']	0.0160064194205
+['821 ticket', 'dollar']	['event']	0.254913833446
+['821 ticket', 'dollar']	['1933 dollar']	0.380321401688
+['821 ticket', 'dollar']	['student']	0.0401288657365
+['821 ticket', 'dollar']	['2 dollar']	0.293611831056
+['821 ticket', 'dollar']	['ticket and nonstudent']	0.0188045079335
+['821 ticket', 'dollar']	['3 dollar']	0.238308800753
+['821 ticket', 'dollar']	['ticket']	0.373172711836
+['821 ticket', 'dollar']	['student ticket']	0.132615563108
+['1933 dollar', 'dollar']	['certain event']	0.125024962568
+['1933 dollar', 'dollar']	['event']	0.357653438321
+['1933 dollar', 'dollar']	['821 ticket']	0.108213661491
+['1933 dollar', 'dollar']	['student']	0.255863407766
+['1933 dollar', 'dollar']	['2 dollar']	0.765654046966
+['1933 dollar', 'dollar']	['ticket and nonstudent']	0.198882138174
+['1933 dollar', 'dollar']	['3 dollar']	0.781380787676
+['1933 dollar', 'dollar']	['ticket']	0.264652724916
+['1933 dollar', 'dollar']	['student ticket']	0.108213661491
+['student', 'dollar']	['certain event']	0.0780842671024
+['student', 'dollar']	['event']	0.107529028485
+['student', 'dollar']	['821 ticket']	0.0787871379671
+['student', 'dollar']	['1933 dollar']	0.391849831526
+['student', 'dollar']	['2 dollar']	0.278797016241
+['student', 'dollar']	['ticket and nonstudent']	0.0808823556154
+['student', 'dollar']	['3 dollar']	0.223493985938
+['student', 'dollar']	['ticket']	0.0962627154283
+['student', 'dollar']	['student ticket']	0.316588855003
+['2 dollar', 'dollar']	['certain event']	0.125024962568
+['2 dollar', 'dollar']	['event']	0.357653438321
+['2 dollar', 'dollar']	['821 ticket']	0.108213661491
+['2 dollar', 'dollar']	['1933 dollar']	0.732805939382
+['2 dollar', 'dollar']	['student']	0.255863407766
+['2 dollar', 'dollar']	['ticket and nonstudent']	0.198882138174
+['2 dollar', 'dollar']	['3 dollar']	0.731026710282
+['2 dollar', 'dollar']	['ticket']	0.264652724916
+['2 dollar', 'dollar']	['student ticket']	0.108213661491
+['ticket and nonstudent', 'dollar']	['certain event']	0.0160064194205
+['ticket and nonstudent', 'dollar']	['event']	0.190675075298
+['ticket and nonstudent', 'dollar']	['821 ticket']	0.024606125502
+['ticket and nonstudent', 'dollar']	['1933 dollar']	0.356496055166
+['ticket and nonstudent', 'dollar']	['student']	0.0413807709638
+['ticket and nonstudent', 'dollar']	['2 dollar']	0.274761608912
+['ticket and nonstudent', 'dollar']	['3 dollar']	0.219458578609
+['ticket and nonstudent', 'dollar']	['ticket']	0.210676138897
+['ticket and nonstudent', 'dollar']	['student ticket']	0.024606125502
+['3 dollar', 'dollar']	['certain event']	0.182901068763
+['3 dollar', 'dollar']	['event']	0.415529544515
+['3 dollar', 'dollar']	['821 ticket']	0.166089767686
+['3 dollar', 'dollar']	['1933 dollar']	0.673775580205
+['3 dollar', 'dollar']	['student']	0.280406180628
+['3 dollar', 'dollar']	['2 dollar']	0.736329740585
+['3 dollar', 'dollar']	['ticket and nonstudent']	0.256758244369
+['3 dollar', 'dollar']	['ticket']	0.322528831111
+['3 dollar', 'dollar']	['student ticket']	0.166089767686
+['ticket', 'dollar']	['certain event']	0.0780842671024
+['ticket', 'dollar']	['event']	0.268214016257
+['ticket', 'dollar']	['821 ticket']	0.375410673061
+['ticket', 'dollar']	['1933 dollar']	0.466647629277
+['ticket', 'dollar']	['student']	0.0987199803855
+['ticket', 'dollar']	['2 dollar']	0.369503868875
+['ticket', 'dollar']	['ticket and nonstudent']	0.128259390463
+['ticket', 'dollar']	['3 dollar']	0.318586803484
+['ticket', 'dollar']	['student ticket']	0.305876289108
+['student ticket', 'dollar']	['certain event']	0.0160064194205
+['student ticket', 'dollar']	['event']	0.254913833446
+['student ticket', 'dollar']	['821 ticket']	0.132615563108
+['student ticket', 'dollar']	['1933 dollar']	0.380321401688
+['student ticket', 'dollar']	['student']	0.267263440484
+['student ticket', 'dollar']	['2 dollar']	0.278797016241
+['student ticket', 'dollar']	['ticket and nonstudent']	0.0163189992404
+['student ticket', 'dollar']	['3 dollar']	0.223493985938
+['student ticket', 'dollar']	['ticket']	0.350552054943
+['certain event', '3 dollar']	['event']	0.653385246173
+['certain event', '3 dollar']	['821 ticket']	0.0737139440912
+['certain event', '3 dollar']	['1933 dollar']	0.88617432218
+['certain event', '3 dollar']	['student']	0.0650959234194
+['certain event', '3 dollar']	['2 dollar']	0.73028733598
+['certain event', '3 dollar']	['ticket and nonstudent']	0.0828503410239
+['certain event', '3 dollar']	['dollar']	0.304992846852
+['certain event', '3 dollar']	['ticket']	0.0508670058309
+['certain event', '3 dollar']	['student ticket']	0.0696933362217
+['event', '3 dollar']	['certain event']	0.67619752251
+['event', '3 dollar']	['821 ticket']	0.0696933362217
+['event', '3 dollar']	['1933 dollar']	0.788575360573
+['event', '3 dollar']	['student']	0.746794143912
+['event', '3 dollar']	['2 dollar']	0.781397872909
+['event', '3 dollar']	['ticket and nonstudent']	0.080802298149
+['event', '3 dollar']	['dollar']	0.475891835372
+['event', '3 dollar']	['ticket']	0.67127207086
+['event', '3 dollar']	['student ticket']	0.0696933362217
+['821 ticket', '3 dollar']	['certain event']	0.0737139440912
+['821 ticket', '3 dollar']	['event']	0.0634148935911
+['821 ticket', '3 dollar']	['1933 dollar']	0.88617432218
+['821 ticket', '3 dollar']	['student']	0.0673701015291
+['821 ticket', '3 dollar']	['2 dollar']	0.73028733598
+['821 ticket', '3 dollar']	['ticket and nonstudent']	0.0828503410239
+['821 ticket', '3 dollar']	['dollar']	0.364353069043
+['821 ticket', '3 dollar']	['ticket']	0.633365073112
+['821 ticket', '3 dollar']	['student ticket']	0.525944474896
+['1933 dollar', '3 dollar']	['certain event']	0.127137811052
+['1933 dollar', '3 dollar']	['event']	0.363581185188
+['1933 dollar', '3 dollar']	['821 ticket']	0.127137811052
+['1933 dollar', '3 dollar']	['student']	0.327802190328
+['1933 dollar', '3 dollar']	['2 dollar']	0.868355241542
+['1933 dollar', '3 dollar']	['ticket and nonstudent']	0.353649848982
+['1933 dollar', '3 dollar']	['dollar']	0.857127904794
+['1933 dollar', '3 dollar']	['ticket']	0.361068706569
+['1933 dollar', '3 dollar']	['student ticket']	0.136831688603
+['student', '3 dollar']	['certain event']	0.150155845739
+['student', '3 dollar']	['event']	0.748277944607
+['student', '3 dollar']	['821 ticket']	0.131771183904
+['student', '3 dollar']	['1933 dollar']	0.87129476476
+['student', '3 dollar']	['2 dollar']	0.751359889328
+['student', '3 dollar']	['ticket and nonstudent']	0.142880145831
+['student', '3 dollar']	['dollar']	0.473923787948
+['student', '3 dollar']	['ticket']	0.200809521976
+['student', '3 dollar']	['student ticket']	0.427308852641
+['2 dollar', '3 dollar']	['certain event']	0.127137811052
+['2 dollar', '3 dollar']	['event']	0.363581185188
+['2 dollar', '3 dollar']	['821 ticket']	0.127137811052
+['2 dollar', '3 dollar']	['1933 dollar']	0.9106161157
+['2 dollar', '3 dollar']	['student']	0.327802190328
+['2 dollar', '3 dollar']	['ticket and nonstudent']	0.358887409775
+['2 dollar', '3 dollar']	['dollar']	0.838377904794
+['2 dollar', '3 dollar']	['ticket']	0.361068706569
+['2 dollar', '3 dollar']	['student ticket']	0.144528281371
+['ticket and nonstudent', '3 dollar']	['certain event']	0.128877148308
+['ticket and nonstudent', '3 dollar']	['event']	0.121926922437
+['ticket and nonstudent', '3 dollar']	['821 ticket']	0.128877148308
+['ticket and nonstudent', '3 dollar']	['1933 dollar']	0.949572049908
+['ticket and nonstudent', '3 dollar']	['student']	0.129886460887
+['ticket and nonstudent', '3 dollar']	['2 dollar']	0.790085144498
+['ticket and nonstudent', '3 dollar']	['dollar']	0.399695026539
+['ticket and nonstudent', '3 dollar']	['ticket']	0.316240084833
+['ticket and nonstudent', '3 dollar']	['student ticket']	0.124856540438
+['dollar', '3 dollar']	['certain event']	0.182901068763
+['dollar', '3 dollar']	['event']	0.415529544515
+['dollar', '3 dollar']	['821 ticket']	0.166089767686
+['dollar', '3 dollar']	['1933 dollar']	0.673775580205
+['dollar', '3 dollar']	['student']	0.280406180628
+['dollar', '3 dollar']	['2 dollar']	0.736329740585
+['dollar', '3 dollar']	['ticket and nonstudent']	0.256758244369
+['dollar', '3 dollar']	['ticket']	0.322528831111
+['dollar', '3 dollar']	['student ticket']	0.166089767686
+['ticket', '3 dollar']	['certain event']	0.10748290267
+['ticket', '3 dollar']	['event']	0.622794201828
+['ticket', '3 dollar']	['821 ticket']	0.533909298188
+['ticket', '3 dollar']	['1933 dollar']	0.626765686943
+['ticket', '3 dollar']	['student']	0.149482147196
+['ticket', '3 dollar']	['2 dollar']	0.767143617488
+['ticket', '3 dollar']	['ticket and nonstudent']	0.27121173748
+['ticket', '3 dollar']	['dollar']	0.393939736912
+['ticket', '3 dollar']	['student ticket']	0.61058753314
+['student ticket', '3 dollar']	['certain event']	0.0737139440912
+['student ticket', '3 dollar']	['event']	0.0634148935911
+['student ticket', '3 dollar']	['821 ticket']	0.544221442934
+['student ticket', '3 dollar']	['1933 dollar']	0.88617432218
+['student ticket', '3 dollar']	['student']	0.530792669321
+['student ticket', '3 dollar']	['2 dollar']	0.73028733598
+['student ticket', '3 dollar']	['ticket and nonstudent']	0.0828503410239
+['student ticket', '3 dollar']	['dollar']	0.364353069043
+['student ticket', '3 dollar']	['ticket']	0.631268966744
+['certain event', 'ticket']	['event']	0.760434087448
+['certain event', 'ticket']	['821 ticket']	0.533909298188
+['certain event', 'ticket']	['1933 dollar']	0.0563939725707
+['certain event', 'ticket']	['student']	0.0855339900599
+['certain event', 'ticket']	['2 dollar']	0.0563939725707
+['certain event', 'ticket']	['ticket and nonstudent']	0.179143826426
+['certain event', 'ticket']	['dollar']	0.0432392551335
+['certain event', 'ticket']	['3 dollar']	0.0618577310107
+['certain event', 'ticket']	['student ticket']	0.59068738808
+['event', 'ticket']	['certain event']	0.684851150531
+['event', 'ticket']	['821 ticket']	0.601751004024
+['event', 'ticket']	['1933 dollar']	0.0637381046393
+['event', 'ticket']	['student']	0.462178867485
+['event', 'ticket']	['2 dollar']	0.0637381046393
+['event', 'ticket']	['ticket and nonstudent']	0.115858628344
+['event', 'ticket']	['dollar']	0.106981240882
+['event', 'ticket']	['3 dollar']	0.0632704905303
+['event', 'ticket']	['student ticket']	0.662811585637
+['821 ticket', 'ticket']	['certain event']	0.156919716828
+['821 ticket', 'ticket']	['event']	0.7063306139
+['821 ticket', 'ticket']	['1933 dollar']	0.157502141539
+['821 ticket', 'ticket']	['student']	0.311439981832
+['821 ticket', 'ticket']	['2 dollar']	0.157502141539
+['821 ticket', 'ticket']	['ticket and nonstudent']	0.600829575872
+['821 ticket', 'ticket']	['dollar']	0.210708137696
+['821 ticket', 'ticket']	['3 dollar']	0.180755709649
+['821 ticket', 'ticket']	['student ticket']	0.675435347506
+['1933 dollar', 'ticket']	['certain event']	0.0454050549877
+['1933 dollar', 'ticket']	['event']	0.617276960448
+['1933 dollar', 'ticket']	['821 ticket']	0.533909298188
+['1933 dollar', 'ticket']	['student']	0.0874042995138
+['1933 dollar', 'ticket']	['2 dollar']	0.436141461813
+['1933 dollar', 'ticket']	['ticket and nonstudent']	0.179143826426
+['1933 dollar', 'ticket']	['dollar']	0.361866242726
+['1933 dollar', 'ticket']	['3 dollar']	0.640375039706
+['1933 dollar', 'ticket']	['student ticket']	0.59068738808
+['student', 'ticket']	['certain event']	0.125170963972
+['student', 'ticket']	['event']	0.273225292892
+['student', 'ticket']	['821 ticket']	0.599645823022
+['student', 'ticket']	['1933 dollar']	0.113044120838
+['student', 'ticket']	['2 dollar']	0.113044120838
+['student', 'ticket']	['ticket and nonstudent']	0.147212253684
+['student', 'ticket']	['dollar']	0.103129732713
+['student', 'ticket']	['3 dollar']	0.118507879278
+['student', 'ticket']	['student ticket']	0.616777722269
+['2 dollar', 'ticket']	['certain event']	0.0454050549877
+['2 dollar', 'ticket']	['event']	0.617276960448
+['2 dollar', 'ticket']	['821 ticket']	0.533909298188
+['2 dollar', 'ticket']	['1933 dollar']	0.436141461813
+['2 dollar', 'ticket']	['student']	0.0874042995138
+['2 dollar', 'ticket']	['ticket and nonstudent']	0.23985811214
+['2 dollar', 'ticket']	['dollar']	0.393939736912
+['2 dollar', 'ticket']	['3 dollar']	0.681906388153
+['2 dollar', 'ticket']	['student ticket']	0.600989027071
+['ticket and nonstudent', 'ticket']	['certain event']	0.0454050549877
+['ticket and nonstudent', 'ticket']	['event']	0.555404496974
+['ticket and nonstudent', 'ticket']	['821 ticket']	0.515059076045
+['ticket and nonstudent', 'ticket']	['1933 dollar']	0.0588631083731
+['ticket and nonstudent', 'ticket']	['student']	0.0537131108329
+['ticket and nonstudent', 'ticket']	['2 dollar']	0.0588631083731
+['ticket and nonstudent', 'ticket']	['dollar']	0.0234359685796
+['ticket and nonstudent', 'ticket']	['3 dollar']	0.0520400067664
+['ticket and nonstudent', 'ticket']	['student ticket']	0.59496259884
+['dollar', 'ticket']	['certain event']	0.0780842671024
+['dollar', 'ticket']	['event']	0.268214016257
+['dollar', 'ticket']	['821 ticket']	0.375410673061
+['dollar', 'ticket']	['1933 dollar']	0.466647629277
+['dollar', 'ticket']	['student']	0.0987199803855
+['dollar', 'ticket']	['2 dollar']	0.369503868875
+['dollar', 'ticket']	['ticket and nonstudent']	0.128259390463
+['dollar', 'ticket']	['3 dollar']	0.318586803484
+['dollar', 'ticket']	['student ticket']	0.305876289108
+['3 dollar', 'ticket']	['certain event']	0.10748290267
+['3 dollar', 'ticket']	['event']	0.622794201828
+['3 dollar', 'ticket']	['821 ticket']	0.533909298188
+['3 dollar', 'ticket']	['1933 dollar']	0.626765686943
+['3 dollar', 'ticket']	['student']	0.149482147196
+['3 dollar', 'ticket']	['2 dollar']	0.767143617488
+['3 dollar', 'ticket']	['ticket and nonstudent']	0.27121173748
+['3 dollar', 'ticket']	['dollar']	0.393939736912
+['3 dollar', 'ticket']	['student ticket']	0.61058753314
+['student ticket', 'ticket']	['certain event']	0.156919716828
+['student ticket', 'ticket']	['event']	0.7063306139
+['student ticket', 'ticket']	['821 ticket']	0.73171203379
+['student ticket', 'ticket']	['1933 dollar']	0.157502141539
+['student ticket', 'ticket']	['student']	0.649773149723
+['student ticket', 'ticket']	['2 dollar']	0.157502141539
+['student ticket', 'ticket']	['ticket and nonstudent']	0.669236169278
+['student ticket', 'ticket']	['dollar']	0.210708137696
+['student ticket', 'ticket']	['3 dollar']	0.180755709649
+['certain event', 'student ticket']	['event']	0.627480498512
+['certain event', 'student ticket']	['821 ticket']	0.584269096576
+['certain event', 'student ticket']	['1933 dollar']	0.0901100077042
+['certain event', 'student ticket']	['student']	0.502100590513
+['certain event', 'student ticket']	['2 dollar']	0.0827346205535
+['certain event', 'student ticket']	['ticket and nonstudent']	0.0908034291173
+['certain event', 'student ticket']	['dollar']	0.00851929931405
+['certain event', 'student ticket']	['3 dollar']	0.0824069519204
+['certain event', 'student ticket']	['ticket']	0.5901395207
+['event', 'student ticket']	['certain event']	0.713688471919
+['event', 'student ticket']	['821 ticket']	0.538007739106
+['event', 'student ticket']	['1933 dollar']	0.0833805889219
+['event', 'student ticket']	['student']	0.58888700207
+['event', 'student ticket']	['2 dollar']	0.0819994954072
+['event', 'student ticket']	['ticket and nonstudent']	0.0887553862424
+['event', 'student ticket']	['dollar']	0.320989442361
+['event', 'student ticket']	['3 dollar']	0.0816718267741
+['event', 'student ticket']	['ticket']	0.759298310289
+['821 ticket', 'student ticket']	['certain event']	0.139258682248
+['821 ticket', 'student ticket']	['event']	0.360804929274
+['821 ticket', 'student ticket']	['1933 dollar']	0.139258682248
+['821 ticket', 'student ticket']	['student']	0.689089315197
+['821 ticket', 'student ticket']	['2 dollar']	0.14589133531
+['821 ticket', 'student ticket']	['ticket and nonstudent']	0.279852388264
+['821 ticket', 'student ticket']	['dollar']	0.210419668337
+['821 ticket', 'student ticket']	['3 dollar']	0.153629069592
+['821 ticket', 'student ticket']	['ticket']	0.725234230272
+['1933 dollar', 'student ticket']	['certain event']	0.0901100077042
+['1933 dollar', 'student ticket']	['event']	0.0744376594044
+['1933 dollar', 'student ticket']	['821 ticket']	0.584269096576
+['1933 dollar', 'student ticket']	['student']	0.532272855801
+['1933 dollar', 'student ticket']	['2 dollar']	0.573408386835
+['1933 dollar', 'student ticket']	['ticket and nonstudent']	0.0908034291173
+['1933 dollar', 'student ticket']	['dollar']	0.375763972207
+['1933 dollar', 'student ticket']	['3 dollar']	0.873200474322
+['1933 dollar', 'student ticket']	['ticket']	0.645171343368
+['student', 'student ticket']	['certain event']	0.0880779980575
+['student', 'student ticket']	['event']	0.740130833098
+['student', 'student ticket']	['821 ticket']	0.525944474896
+['student', 'student ticket']	['1933 dollar']	0.0696933362217
+['student', 'student ticket']	['2 dollar']	0.0696933362217
+['student', 'student ticket']	['ticket and nonstudent']	0.080802298149
+['student', 'student ticket']	['dollar']	0.0778712897656
+['student', 'student ticket']	['3 dollar']	0.0746958245975
+['student', 'student ticket']	['ticket']	0.62875276524
+['2 dollar', 'student ticket']	['certain event']	0.0901100077042
+['2 dollar', 'student ticket']	['event']	0.0744376594044
+['2 dollar', 'student ticket']	['821 ticket']	0.584269096576
+['2 dollar', 'student ticket']	['1933 dollar']	0.584269096576
+['2 dollar', 'student ticket']	['student']	0.532272855801
+['2 dollar', 'student ticket']	['ticket and nonstudent']	0.0908034291173
+['2 dollar', 'student ticket']	['dollar']	0.332980520024
+['2 dollar', 'student ticket']	['3 dollar']	0.747901896166
+['2 dollar', 'student ticket']	['ticket']	0.645171343368
+['ticket and nonstudent', 'student ticket']	['certain event']	0.15961386663
+['ticket and nonstudent', 'student ticket']	['event']	0.14729034296
+['ticket and nonstudent', 'student ticket']	['821 ticket']	0.653642048458
+['ticket and nonstudent', 'student ticket']	['1933 dollar']	0.15961386663
+['ticket and nonstudent', 'student ticket']	['student']	0.454739744591
+['ticket and nonstudent', 'student ticket']	['2 dollar']	0.152238479479
+['ticket and nonstudent', 'student ticket']	['dollar']	0.00766280318302
+['ticket and nonstudent', 'student ticket']	['3 dollar']	0.151484162343
+['ticket and nonstudent', 'student ticket']	['ticket']	0.649115007023
+['dollar', 'student ticket']	['certain event']	0.0160064194205
+['dollar', 'student ticket']	['event']	0.254913833446
+['dollar', 'student ticket']	['821 ticket']	0.132615563108
+['dollar', 'student ticket']	['1933 dollar']	0.380321401688
+['dollar', 'student ticket']	['student']	0.267263440484
+['dollar', 'student ticket']	['2 dollar']	0.278797016241
+['dollar', 'student ticket']	['ticket and nonstudent']	0.0163189992404
+['dollar', 'student ticket']	['3 dollar']	0.223493985938
+['dollar', 'student ticket']	['ticket']	0.350552054943
+['3 dollar', 'student ticket']	['certain event']	0.0737139440912
+['3 dollar', 'student ticket']	['event']	0.0634148935911
+['3 dollar', 'student ticket']	['821 ticket']	0.544221442934
+['3 dollar', 'student ticket']	['1933 dollar']	0.88617432218
+['3 dollar', 'student ticket']	['student']	0.530792669321
+['3 dollar', 'student ticket']	['2 dollar']	0.73028733598
+['3 dollar', 'student ticket']	['ticket and nonstudent']	0.0828503410239
+['3 dollar', 'student ticket']	['dollar']	0.364353069043
+['3 dollar', 'student ticket']	['ticket']	0.631268966744
+['ticket', 'student ticket']	['certain event']	0.156919716828
+['ticket', 'student ticket']	['event']	0.7063306139
+['ticket', 'student ticket']	['821 ticket']	0.73171203379
+['ticket', 'student ticket']	['1933 dollar']	0.157502141539
+['ticket', 'student ticket']	['student']	0.649773149723
+['ticket', 'student ticket']	['2 dollar']	0.157502141539
+['ticket', 'student ticket']	['ticket and nonstudent']	0.669236169278
+['ticket', 'student ticket']	['dollar']	0.210708137696
+['ticket', 'student ticket']	['3 dollar']	0.180755709649

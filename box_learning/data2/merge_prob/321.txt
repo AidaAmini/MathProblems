@@ -1,0 +1,1787 @@
+['owner', 'amazing circus', 'circus', '522 ticket', 'ticket', 'adult ticket', '15 dollar', 'child ticket', '8 dollar', 'receipt', 'dollar', '5086.00 dollar', 'child']
+['owner']	['amazing circus']	0.0793857959237
+['owner']	['circus']	0.0901131505465
+['owner']	['522 ticket']	0.0827346205535
+['owner']	['ticket']	0.0827245724072
+['owner']	['adult ticket']	0.0824069519204
+['owner']	['15 dollar']	0.0827346205535
+['owner']	['child ticket']	0.0824069519204
+['owner']	['8 dollar']	0.0827346205535
+['owner']	['receipt']	0.0841275079299
+['owner']	['dollar']	0.166861604573
+['owner']	['5086.00 dollar']	0.0827346205535
+['owner']	['child']	0.122840736639
+['amazing circus']	['522 ticket']	0.0901100077042
+['amazing circus']	['ticket']	0.079730351659
+['amazing circus']	['adult ticket']	0.0897823390711
+['amazing circus']	['15 dollar']	0.0901100077042
+['amazing circus']	['child ticket']	0.0897823390711
+['amazing circus']	['8 dollar']	0.0901100077042
+['amazing circus']	['receipt']	0.0744376594044
+['amazing circus']	['dollar']	0.0132263547461
+['amazing circus']	['5086.00 dollar']	0.0901100077042
+['amazing circus']	['child']	0.0741073489195
+['circus']	['522 ticket']	0.0827346205535
+['circus']	['ticket']	0.105576439598
+['circus']	['adult ticket']	0.0824069519204
+['circus']	['15 dollar']	0.0827346205535
+['circus']	['child ticket']	0.0824069519204
+['circus']	['8 dollar']	0.0827346205535
+['circus']	['receipt']	0.230912344372
+['circus']	['dollar']	0.0303742514954
+['circus']	['5086.00 dollar']	0.0827346205535
+['circus']	['child']	0.0827245724072
+['522 ticket']	['adult ticket']	0.644695369786
+['522 ticket']	['15 dollar']	0.0901100077042
+['522 ticket']	['child ticket']	0.644695369786
+['522 ticket']	['8 dollar']	0.0901100077042
+['522 ticket']	['receipt']	0.0744376594044
+['522 ticket']	['dollar']	0.0256410450838
+['522 ticket']	['5086.00 dollar']	0.0901100077042
+['522 ticket']	['child']	0.079730351659
+['ticket']	['15 dollar']	0.10873615468
+['ticket']	['8 dollar']	0.10873615468
+['ticket']	['receipt']	0.158736792362
+['ticket']	['dollar']	0.0240886330375
+['ticket']	['5086.00 dollar']	0.10873615468
+['ticket']	['child']	0.092680055031
+['adult ticket']	['15 dollar']	0.0696933362217
+['adult ticket']	['child ticket']	0.752984781899
+['adult ticket']	['8 dollar']	0.0696933362217
+['adult ticket']	['receipt']	0.0634148935911
+['adult ticket']	['dollar']	0.0230175182111
+['adult ticket']	['5086.00 dollar']	0.0737139440912
+['adult ticket']	['child']	0.0673701015291
+['15 dollar']	['child ticket']	0.0824069519204
+['15 dollar']	['8 dollar']	0.669829166534
+['15 dollar']	['receipt']	0.0744376594044
+['15 dollar']	['5086.00 dollar']	0.643440930505
+['15 dollar']	['child']	0.0774561735493
+['child ticket']	['8 dollar']	0.0696933362217
+['child ticket']	['receipt']	0.0634148935911
+['child ticket']	['dollar']	0.0230175182111
+['child ticket']	['5086.00 dollar']	0.0737139440912
+['8 dollar']	['receipt']	0.0744376594044
+['8 dollar']	['5086.00 dollar']	0.643440930505
+['8 dollar']	['child']	0.0774561735493
+['receipt']	['dollar']	0.032567678514
+['receipt']	['5086.00 dollar']	0.0800317642921
+['receipt']	['child']	0.0927104888583
+['dollar']	['child']	0.0229070647687
+['5086.00 dollar']	['child']	0.0774561735493
+['amazing circus', 'owner']	['circus']	0.708804411858
+['amazing circus', 'owner']	['522 ticket']	0.0827346205535
+['amazing circus', 'owner']	['ticket']	0.192648399091
+['amazing circus', 'owner']	['adult ticket']	0.0824069519204
+['amazing circus', 'owner']	['15 dollar']	0.0827346205535
+['amazing circus', 'owner']	['child ticket']	0.0824069519204
+['amazing circus', 'owner']	['8 dollar']	0.0827346205535
+['amazing circus', 'owner']	['receipt']	0.197817457066
+['amazing circus', 'owner']	['dollar']	0.145402101052
+['amazing circus', 'owner']	['5086.00 dollar']	0.0827346205535
+['amazing circus', 'owner']	['child']	0.713176655201
+['circus', 'owner']	['amazing circus']	0.707006885025
+['circus', 'owner']	['522 ticket']	0.0827346205535
+['circus', 'owner']	['ticket']	0.170607499631
+['circus', 'owner']	['adult ticket']	0.0824069519204
+['circus', 'owner']	['15 dollar']	0.0827346205535
+['circus', 'owner']	['child ticket']	0.0824069519204
+['circus', 'owner']	['8 dollar']	0.0827346205535
+['circus', 'owner']	['receipt']	0.287689004389
+['circus', 'owner']	['dollar']	0.131012169439
+['circus', 'owner']	['5086.00 dollar']	0.0827346205535
+['circus', 'owner']	['child']	0.448163263116
+['522 ticket', 'owner']	['amazing circus']	0.0827346205535
+['522 ticket', 'owner']	['circus']	0.169023424553
+['522 ticket', 'owner']	['ticket']	0.78601235732
+['522 ticket', 'owner']	['adult ticket']	0.550705595209
+['522 ticket', 'owner']	['15 dollar']	0.0827346205535
+['522 ticket', 'owner']	['child ticket']	0.550705595209
+['522 ticket', 'owner']	['8 dollar']	0.0827346205535
+['522 ticket', 'owner']	['receipt']	0.192947327196
+['522 ticket', 'owner']	['dollar']	0.221188314058
+['522 ticket', 'owner']	['5086.00 dollar']	0.0827346205535
+['522 ticket', 'owner']	['child']	0.721931692495
+['ticket', 'owner']	['amazing circus']	0.0696933362217
+['ticket', 'owner']	['circus']	0.139043671791
+['ticket', 'owner']	['522 ticket']	0.670043866319
+['ticket', 'owner']	['adult ticket']	0.571744128048
+['ticket', 'owner']	['15 dollar']	0.117488318928
+['ticket', 'owner']	['child ticket']	0.571744128048
+['ticket', 'owner']	['8 dollar']	0.117488318928
+['ticket', 'owner']	['receipt']	0.539847382331
+['ticket', 'owner']	['dollar']	0.116219606536
+['ticket', 'owner']	['5086.00 dollar']	0.117488318928
+['ticket', 'owner']	['child']	0.346113981328
+['adult ticket', 'owner']	['amazing circus']	0.0696933362217
+['adult ticket', 'owner']	['circus']	0.182729929366
+['adult ticket', 'owner']	['522 ticket']	0.510461204301
+['adult ticket', 'owner']	['ticket']	0.706239332903
+['adult ticket', 'owner']	['15 dollar']	0.0696933362217
+['adult ticket', 'owner']	['child ticket']	0.7214098166
+['adult ticket', 'owner']	['8 dollar']	0.0696933362217
+['adult ticket', 'owner']	['receipt']	0.206653832009
+['adult ticket', 'owner']	['dollar']	0.240172106122
+['adult ticket', 'owner']	['5086.00 dollar']	0.0696933362217
+['adult ticket', 'owner']	['child']	0.722984620103
+['15 dollar', 'owner']	['amazing circus']	0.0827346205535
+['15 dollar', 'owner']	['circus']	0.169023424553
+['15 dollar', 'owner']	['522 ticket']	0.0827346205535
+['15 dollar', 'owner']	['ticket']	0.328883094735
+['15 dollar', 'owner']	['adult ticket']	0.0824069519204
+['15 dollar', 'owner']	['child ticket']	0.0824069519204
+['15 dollar', 'owner']	['8 dollar']	0.600600090067
+['15 dollar', 'owner']	['receipt']	0.192947327196
+['15 dollar', 'owner']	['dollar']	0.656586827151
+['15 dollar', 'owner']	['5086.00 dollar']	0.549852778125
+['15 dollar', 'owner']	['child']	0.710308548613
+['child ticket', 'owner']	['amazing circus']	0.0696933362217
+['child ticket', 'owner']	['circus']	0.182729929366
+['child ticket', 'owner']	['522 ticket']	0.510461204301
+['child ticket', 'owner']	['ticket']	0.706239332903
+['child ticket', 'owner']	['adult ticket']	0.7214098166
+['child ticket', 'owner']	['15 dollar']	0.0696933362217
+['child ticket', 'owner']	['8 dollar']	0.0696933362217
+['child ticket', 'owner']	['receipt']	0.206653832009
+['child ticket', 'owner']	['dollar']	0.240172106122
+['child ticket', 'owner']	['5086.00 dollar']	0.0696933362217
+['child ticket', 'owner']	['child']	0.766739271545
+['8 dollar', 'owner']	['amazing circus']	0.0827346205535
+['8 dollar', 'owner']	['circus']	0.169023424553
+['8 dollar', 'owner']	['522 ticket']	0.0827346205535
+['8 dollar', 'owner']	['ticket']	0.328883094735
+['8 dollar', 'owner']	['adult ticket']	0.0824069519204
+['8 dollar', 'owner']	['15 dollar']	0.600600090067
+['8 dollar', 'owner']	['child ticket']	0.0824069519204
+['8 dollar', 'owner']	['receipt']	0.192947327196
+['8 dollar', 'owner']	['dollar']	0.633810344375
+['8 dollar', 'owner']	['5086.00 dollar']	0.549852778125
+['8 dollar', 'owner']	['child']	0.710308548613
+['receipt', 'owner']	['amazing circus']	0.0800317642921
+['receipt', 'owner']	['circus']	0.315292242169
+['receipt', 'owner']	['522 ticket']	0.0800317642921
+['receipt', 'owner']	['ticket']	0.448542050994
+['receipt', 'owner']	['adult ticket']	0.079704095659
+['receipt', 'owner']	['15 dollar']	0.0800317642921
+['receipt', 'owner']	['child ticket']	0.079704095659
+['receipt', 'owner']	['8 dollar']	0.0800317642921
+['receipt', 'owner']	['dollar']	0.123215905967
+['receipt', 'owner']	['5086.00 dollar']	0.0800317642921
+['receipt', 'owner']	['child']	0.432205213229
+['dollar', 'owner']	['amazing circus']	0.0361569291624
+['dollar', 'owner']	['circus']	0.108543625811
+['dollar', 'owner']	['522 ticket']	0.0618737183104
+['dollar', 'owner']	['ticket']	0.109379492073
+['dollar', 'owner']	['adult ticket']	0.0650051934866
+['dollar', 'owner']	['15 dollar']	0.391516700063
+['dollar', 'owner']	['child ticket']	0.0650051934866
+['dollar', 'owner']	['8 dollar']	0.397268490074
+['dollar', 'owner']	['receipt']	0.283771951671
+['dollar', 'owner']	['5086.00 dollar']	0.345399931471
+['dollar', 'owner']	['child']	0.066813363695
+['5086.00 dollar', 'owner']	['amazing circus']	0.0827346205535
+['5086.00 dollar', 'owner']	['circus']	0.169023424553
+['5086.00 dollar', 'owner']	['522 ticket']	0.0827346205535
+['5086.00 dollar', 'owner']	['ticket']	0.328883094735
+['5086.00 dollar', 'owner']	['adult ticket']	0.0824069519204
+['5086.00 dollar', 'owner']	['15 dollar']	0.549852778125
+['5086.00 dollar', 'owner']	['child ticket']	0.0824069519204
+['5086.00 dollar', 'owner']	['8 dollar']	0.549852778125
+['5086.00 dollar', 'owner']	['receipt']	0.192947327196
+['5086.00 dollar', 'owner']	['dollar']	0.44456581241
+['5086.00 dollar', 'owner']	['child']	0.710308548613
+['child', 'owner']	['amazing circus']	0.0663445115919
+['child', 'owner']	['circus']	0.0734239376973
+['child', 'owner']	['522 ticket']	0.0696933362217
+['child', 'owner']	['ticket']	0.263063977013
+['child', 'owner']	['adult ticket']	0.0746958245975
+['child', 'owner']	['15 dollar']	0.0696933362217
+['child', 'owner']	['child ticket']	0.594552995581
+['child', 'owner']	['8 dollar']	0.0696933362217
+['child', 'owner']	['receipt']	0.16567663238
+['child', 'owner']	['dollar']	0.117636924875
+['child', 'owner']	['5086.00 dollar']	0.0696933362217
+['owner', 'amazing circus']	['circus']	0.708804411858
+['owner', 'amazing circus']	['522 ticket']	0.0827346205535
+['owner', 'amazing circus']	['ticket']	0.192648399091
+['owner', 'amazing circus']	['adult ticket']	0.0824069519204
+['owner', 'amazing circus']	['15 dollar']	0.0827346205535
+['owner', 'amazing circus']	['child ticket']	0.0824069519204
+['owner', 'amazing circus']	['8 dollar']	0.0827346205535
+['owner', 'amazing circus']	['receipt']	0.197817457066
+['owner', 'amazing circus']	['dollar']	0.145402101052
+['owner', 'amazing circus']	['5086.00 dollar']	0.0827346205535
+['owner', 'amazing circus']	['child']	0.713176655201
+['circus', 'amazing circus']	['owner']	0.466186446261
+['circus', 'amazing circus']	['522 ticket']	0.153587928078
+['circus', 'amazing circus']	['ticket']	0.375676073651
+['circus', 'amazing circus']	['adult ticket']	0.16132566236
+['circus', 'amazing circus']	['15 dollar']	0.146286340776
+['circus', 'amazing circus']	['child ticket']	0.16132566236
+['circus', 'amazing circus']	['8 dollar']	0.146286340776
+['circus', 'amazing circus']	['receipt']	0.652171486052
+['circus', 'amazing circus']	['dollar']	0.234269461547
+['circus', 'amazing circus']	['5086.00 dollar']	0.146286340776
+['circus', 'amazing circus']	['child']	0.491462384917
+['522 ticket', 'amazing circus']	['owner']	0.0777864840342
+['522 ticket', 'amazing circus']	['circus']	0.627480498512
+['522 ticket', 'amazing circus']	['ticket']	0.600448858269
+['522 ticket', 'amazing circus']	['adult ticket']	0.577101062223
+['522 ticket', 'amazing circus']	['15 dollar']	0.0901100077042
+['522 ticket', 'amazing circus']	['child ticket']	0.577101062223
+['522 ticket', 'amazing circus']	['8 dollar']	0.0901100077042
+['522 ticket', 'amazing circus']	['receipt']	0.0744376594044
+['522 ticket', 'amazing circus']	['dollar']	0.0354449666524
+['522 ticket', 'amazing circus']	['5086.00 dollar']	0.0901100077042
+['522 ticket', 'amazing circus']	['child']	0.0774561735493
+['ticket', 'amazing circus']	['owner']	0.211523961879
+['ticket', 'amazing circus']	['circus']	0.623434844882
+['ticket', 'amazing circus']	['522 ticket']	0.669973747197
+['ticket', 'amazing circus']	['adult ticket']	0.604465896967
+['ticket', 'amazing circus']	['15 dollar']	0.103222748661
+['ticket', 'amazing circus']	['child ticket']	0.604465896967
+['ticket', 'amazing circus']	['8 dollar']	0.103222748661
+['ticket', 'amazing circus']	['receipt']	0.749799892109
+['ticket', 'amazing circus']	['dollar']	0.0806965185133
+['ticket', 'amazing circus']	['5086.00 dollar']	0.103222748661
+['ticket', 'amazing circus']	['child']	0.274449306921
+['adult ticket', 'amazing circus']	['owner']	0.0667637182209
+['adult ticket', 'amazing circus']	['circus']	0.671567064355
+['adult ticket', 'amazing circus']	['522 ticket']	0.544221442934
+['adult ticket', 'amazing circus']	['ticket']	0.494842858664
+['adult ticket', 'amazing circus']	['15 dollar']	0.0696933362217
+['adult ticket', 'amazing circus']	['child ticket']	0.705549007265
+['adult ticket', 'amazing circus']	['8 dollar']	0.0696933362217
+['adult ticket', 'amazing circus']	['receipt']	0.0634148935911
+['adult ticket', 'amazing circus']	['dollar']	0.0230175182111
+['adult ticket', 'amazing circus']	['5086.00 dollar']	0.0737139440912
+['adult ticket', 'amazing circus']	['child']	0.0650959234194
+['15 dollar', 'amazing circus']	['owner']	0.0777864840342
+['15 dollar', 'amazing circus']	['circus']	0.609298680331
+['15 dollar', 'amazing circus']	['522 ticket']	0.0901100077042
+['15 dollar', 'amazing circus']	['ticket']	0.105969303899
+['15 dollar', 'amazing circus']	['adult ticket']	0.0824069519204
+['15 dollar', 'amazing circus']	['child ticket']	0.0824069519204
+['15 dollar', 'amazing circus']	['8 dollar']	0.604308352538
+['15 dollar', 'amazing circus']	['receipt']	0.0744376594044
+['15 dollar', 'amazing circus']	['dollar']	0.303389462637
+['15 dollar', 'amazing circus']	['5086.00 dollar']	0.584269096576
+['15 dollar', 'amazing circus']	['child']	0.0774561735493
+['child ticket', 'amazing circus']	['owner']	0.0667637182209
+['child ticket', 'amazing circus']	['circus']	0.671567064355
+['child ticket', 'amazing circus']	['522 ticket']	0.544221442934
+['child ticket', 'amazing circus']	['ticket']	0.494842858664
+['child ticket', 'amazing circus']	['adult ticket']	0.705549007265
+['child ticket', 'amazing circus']	['15 dollar']	0.0696933362217
+['child ticket', 'amazing circus']	['8 dollar']	0.0696933362217
+['child ticket', 'amazing circus']	['receipt']	0.0634148935911
+['child ticket', 'amazing circus']	['dollar']	0.0230175182111
+['child ticket', 'amazing circus']	['5086.00 dollar']	0.0737139440912
+['child ticket', 'amazing circus']	['child']	0.530792669321
+['8 dollar', 'amazing circus']	['owner']	0.0777864840342
+['8 dollar', 'amazing circus']	['circus']	0.609298680331
+['8 dollar', 'amazing circus']	['522 ticket']	0.0901100077042
+['8 dollar', 'amazing circus']	['ticket']	0.105969303899
+['8 dollar', 'amazing circus']	['adult ticket']	0.0824069519204
+['8 dollar', 'amazing circus']	['15 dollar']	0.604308352538
+['8 dollar', 'amazing circus']	['child ticket']	0.0824069519204
+['8 dollar', 'amazing circus']	['receipt']	0.0744376594044
+['8 dollar', 'amazing circus']	['dollar']	0.341461565972
+['8 dollar', 'amazing circus']	['5086.00 dollar']	0.584269096576
+['8 dollar', 'amazing circus']	['child']	0.0774561735493
+['receipt', 'amazing circus']	['owner']	0.197817457066
+['receipt', 'amazing circus']	['circus']	0.70126410239
+['receipt', 'amazing circus']	['522 ticket']	0.0833805889219
+['receipt', 'amazing circus']	['ticket']	0.748002867908
+['receipt', 'amazing circus']	['adult ticket']	0.0830529202888
+['receipt', 'amazing circus']	['15 dollar']	0.0833805889219
+['receipt', 'amazing circus']	['child ticket']	0.0830529202888
+['receipt', 'amazing circus']	['8 dollar']	0.0833805889219
+['receipt', 'amazing circus']	['dollar']	0.347658978497
+['receipt', 'amazing circus']	['5086.00 dollar']	0.0833805889219
+['receipt', 'amazing circus']	['child']	0.352264525349
+['dollar', 'amazing circus']	['owner']	0.218682327076
+['dollar', 'amazing circus']	['circus']	0.452074416031
+['dollar', 'amazing circus']	['522 ticket']	0.0618737183104
+['dollar', 'amazing circus']	['ticket']	0.11086262958
+['dollar', 'amazing circus']	['adult ticket']	0.0650051934866
+['dollar', 'amazing circus']	['15 dollar']	0.391516700063
+['dollar', 'amazing circus']	['child ticket']	0.0650051934866
+['dollar', 'amazing circus']	['8 dollar']	0.397268490074
+['dollar', 'amazing circus']	['receipt']	0.466774123728
+['dollar', 'amazing circus']	['5086.00 dollar']	0.384540526976
+['dollar', 'amazing circus']	['child']	0.469841476796
+['5086.00 dollar', 'amazing circus']	['owner']	0.0777864840342
+['5086.00 dollar', 'amazing circus']	['circus']	0.609298680331
+['5086.00 dollar', 'amazing circus']	['522 ticket']	0.0901100077042
+['5086.00 dollar', 'amazing circus']	['ticket']	0.105969303899
+['5086.00 dollar', 'amazing circus']	['adult ticket']	0.0897823390711
+['5086.00 dollar', 'amazing circus']	['15 dollar']	0.584269096576
+['5086.00 dollar', 'amazing circus']	['child ticket']	0.0897823390711
+['5086.00 dollar', 'amazing circus']	['8 dollar']	0.584269096576
+['5086.00 dollar', 'amazing circus']	['receipt']	0.0744376594044
+['5086.00 dollar', 'amazing circus']	['dollar']	0.345297574209
+['5086.00 dollar', 'amazing circus']	['child']	0.0774561735493
+['child', 'amazing circus']	['owner']	0.716321309289
+['child', 'amazing circus']	['circus']	0.675070781902
+['child', 'amazing circus']	['522 ticket']	0.0696933362217
+['child', 'amazing circus']	['ticket']	0.257540633541
+['child', 'amazing circus']	['adult ticket']	0.0746958245975
+['child', 'amazing circus']	['15 dollar']	0.0696933362217
+['child', 'amazing circus']	['child ticket']	0.539203648301
+['child', 'amazing circus']	['8 dollar']	0.0696933362217
+['child', 'amazing circus']	['receipt']	0.34631866992
+['child', 'amazing circus']	['dollar']	0.347658978497
+['child', 'amazing circus']	['5086.00 dollar']	0.0696933362217
+['owner', 'circus']	['amazing circus']	0.707006885025
+['owner', 'circus']	['522 ticket']	0.0827346205535
+['owner', 'circus']	['ticket']	0.170607499631
+['owner', 'circus']	['adult ticket']	0.0824069519204
+['owner', 'circus']	['15 dollar']	0.0827346205535
+['owner', 'circus']	['child ticket']	0.0824069519204
+['owner', 'circus']	['8 dollar']	0.0827346205535
+['owner', 'circus']	['receipt']	0.287689004389
+['owner', 'circus']	['dollar']	0.131012169439
+['owner', 'circus']	['5086.00 dollar']	0.0827346205535
+['owner', 'circus']	['child']	0.448163263116
+['amazing circus', 'circus']	['owner']	0.466186446261
+['amazing circus', 'circus']	['522 ticket']	0.153587928078
+['amazing circus', 'circus']	['ticket']	0.375676073651
+['amazing circus', 'circus']	['adult ticket']	0.16132566236
+['amazing circus', 'circus']	['15 dollar']	0.146286340776
+['amazing circus', 'circus']	['child ticket']	0.16132566236
+['amazing circus', 'circus']	['8 dollar']	0.146286340776
+['amazing circus', 'circus']	['receipt']	0.652171486052
+['amazing circus', 'circus']	['dollar']	0.234269461547
+['amazing circus', 'circus']	['5086.00 dollar']	0.146286340776
+['amazing circus', 'circus']	['child']	0.491462384917
+['522 ticket', 'circus']	['owner']	0.169023424553
+['522 ticket', 'circus']	['amazing circus']	0.707594685938
+['522 ticket', 'circus']	['ticket']	0.771243451584
+['522 ticket', 'circus']	['adult ticket']	0.550705595209
+['522 ticket', 'circus']	['15 dollar']	0.0827346205535
+['522 ticket', 'circus']	['child ticket']	0.550705595209
+['522 ticket', 'circus']	['8 dollar']	0.0827346205535
+['522 ticket', 'circus']	['receipt']	0.326515104636
+['522 ticket', 'circus']	['dollar']	0.144352057042
+['522 ticket', 'circus']	['5086.00 dollar']	0.0827346205535
+['522 ticket', 'circus']	['child']	0.192648399091
+['ticket', 'circus']	['owner']	0.0734239376973
+['ticket', 'circus']	['amazing circus']	0.683604447678
+['ticket', 'circus']	['522 ticket']	0.670043866319
+['ticket', 'circus']	['adult ticket']	0.571744128048
+['ticket', 'circus']	['15 dollar']	0.117488318928
+['ticket', 'circus']	['child ticket']	0.571744128048
+['ticket', 'circus']	['8 dollar']	0.117488318928
+['ticket', 'circus']	['receipt']	0.635562811966
+['ticket', 'circus']	['dollar']	0.0240886330375
+['ticket', 'circus']	['5086.00 dollar']	0.117488318928
+['ticket', 'circus']	['child']	0.263063977013
+['adult ticket', 'circus']	['owner']	0.182729929366
+['adult ticket', 'circus']	['amazing circus']	0.68687409652
+['adult ticket', 'circus']	['522 ticket']	0.510461204301
+['adult ticket', 'circus']	['ticket']	0.664318990527
+['adult ticket', 'circus']	['15 dollar']	0.0696933362217
+['adult ticket', 'circus']	['child ticket']	0.7214098166
+['adult ticket', 'circus']	['8 dollar']	0.0696933362217
+['adult ticket', 'circus']	['receipt']	0.246429727416
+['adult ticket', 'circus']	['dollar']	0.109080770735
+['adult ticket', 'circus']	['5086.00 dollar']	0.0696933362217
+['adult ticket', 'circus']	['child']	0.185711257371
+['15 dollar', 'circus']	['owner']	0.169023424553
+['15 dollar', 'circus']	['amazing circus']	0.707594685938
+['15 dollar', 'circus']	['522 ticket']	0.0827346205535
+['15 dollar', 'circus']	['ticket']	0.281133479906
+['15 dollar', 'circus']	['adult ticket']	0.0824069519204
+['15 dollar', 'circus']	['child ticket']	0.0824069519204
+['15 dollar', 'circus']	['8 dollar']	0.600600090067
+['15 dollar', 'circus']	['receipt']	0.326515104636
+['15 dollar', 'circus']	['dollar']	0.627173633678
+['15 dollar', 'circus']	['5086.00 dollar']	0.549852778125
+['15 dollar', 'circus']	['child']	0.192648399091
+['child ticket', 'circus']	['owner']	0.182729929366
+['child ticket', 'circus']	['amazing circus']	0.68687409652
+['child ticket', 'circus']	['522 ticket']	0.510461204301
+['child ticket', 'circus']	['ticket']	0.664318990527
+['child ticket', 'circus']	['adult ticket']	0.7214098166
+['child ticket', 'circus']	['15 dollar']	0.0696933362217
+['child ticket', 'circus']	['8 dollar']	0.0696933362217
+['child ticket', 'circus']	['receipt']	0.246429727416
+['child ticket', 'circus']	['dollar']	0.109080770735
+['child ticket', 'circus']	['5086.00 dollar']	0.0696933362217
+['child ticket', 'circus']	['child']	0.626305554145
+['8 dollar', 'circus']	['owner']	0.169023424553
+['8 dollar', 'circus']	['amazing circus']	0.707594685938
+['8 dollar', 'circus']	['522 ticket']	0.0827346205535
+['8 dollar', 'circus']	['ticket']	0.281133479906
+['8 dollar', 'circus']	['adult ticket']	0.0824069519204
+['8 dollar', 'circus']	['15 dollar']	0.600600090067
+['8 dollar', 'circus']	['child ticket']	0.0824069519204
+['8 dollar', 'circus']	['receipt']	0.326515104636
+['8 dollar', 'circus']	['dollar']	0.647286633107
+['8 dollar', 'circus']	['5086.00 dollar']	0.549852778125
+['8 dollar', 'circus']	['child']	0.192648399091
+['receipt', 'circus']	['owner']	0.135047951568
+['receipt', 'circus']	['amazing circus']	0.707006885025
+['receipt', 'circus']	['522 ticket']	0.0800317642921
+['receipt', 'circus']	['ticket']	0.584539176151
+['receipt', 'circus']	['adult ticket']	0.079704095659
+['receipt', 'circus']	['15 dollar']	0.0800317642921
+['receipt', 'circus']	['child ticket']	0.079704095659
+['receipt', 'circus']	['8 dollar']	0.0800317642921
+['receipt', 'circus']	['dollar']	0.257779963767
+['receipt', 'circus']	['5086.00 dollar']	0.0800317642921
+['receipt', 'circus']	['child']	0.108668538745
+['dollar', 'circus']	['owner']	0.0443582299687
+['dollar', 'circus']	['amazing circus']	0.345399931471
+['dollar', 'circus']	['522 ticket']	0.0618737183104
+['dollar', 'circus']	['ticket']	0.111172421365
+['dollar', 'circus']	['adult ticket']	0.0650051934866
+['dollar', 'circus']	['15 dollar']	0.391516700063
+['dollar', 'circus']	['child ticket']	0.0650051934866
+['dollar', 'circus']	['8 dollar']	0.397268490074
+['dollar', 'circus']	['receipt']	0.373916607178
+['dollar', 'circus']	['5086.00 dollar']	0.345399931471
+['dollar', 'circus']	['child']	0.199975137267
+['5086.00 dollar', 'circus']	['owner']	0.169023424553
+['5086.00 dollar', 'circus']	['amazing circus']	0.707594685938
+['5086.00 dollar', 'circus']	['522 ticket']	0.0827346205535
+['5086.00 dollar', 'circus']	['ticket']	0.281133479906
+['5086.00 dollar', 'circus']	['adult ticket']	0.0824069519204
+['5086.00 dollar', 'circus']	['15 dollar']	0.549852778125
+['5086.00 dollar', 'circus']	['child ticket']	0.0824069519204
+['5086.00 dollar', 'circus']	['8 dollar']	0.549852778125
+['5086.00 dollar', 'circus']	['receipt']	0.326515104636
+['5086.00 dollar', 'circus']	['dollar']	0.470174163506
+['5086.00 dollar', 'circus']	['child']	0.192648399091
+['child', 'circus']	['owner']	0.447953137923
+['child', 'circus']	['amazing circus']	0.692205356686
+['child', 'circus']	['522 ticket']	0.0696933362217
+['child', 'circus']	['ticket']	0.228778262727
+['child', 'circus']	['adult ticket']	0.0746958245975
+['child', 'circus']	['15 dollar']	0.0696933362217
+['child', 'circus']	['child ticket']	0.594552995581
+['child', 'circus']	['8 dollar']	0.0696933362217
+['child', 'circus']	['receipt']	0.303380774402
+['child', 'circus']	['dollar']	0.238368336294
+['child', 'circus']	['5086.00 dollar']	0.0696933362217
+['owner', '522 ticket']	['amazing circus']	0.0827346205535
+['owner', '522 ticket']	['circus']	0.169023424553
+['owner', '522 ticket']	['ticket']	0.78601235732
+['owner', '522 ticket']	['adult ticket']	0.550705595209
+['owner', '522 ticket']	['15 dollar']	0.0827346205535
+['owner', '522 ticket']	['child ticket']	0.550705595209
+['owner', '522 ticket']	['8 dollar']	0.0827346205535
+['owner', '522 ticket']	['receipt']	0.192947327196
+['owner', '522 ticket']	['dollar']	0.221188314058
+['owner', '522 ticket']	['5086.00 dollar']	0.0827346205535
+['owner', '522 ticket']	['child']	0.721931692495
+['amazing circus', '522 ticket']	['owner']	0.0777864840342
+['amazing circus', '522 ticket']	['circus']	0.627480498512
+['amazing circus', '522 ticket']	['ticket']	0.600448858269
+['amazing circus', '522 ticket']	['adult ticket']	0.577101062223
+['amazing circus', '522 ticket']	['15 dollar']	0.0901100077042
+['amazing circus', '522 ticket']	['child ticket']	0.577101062223
+['amazing circus', '522 ticket']	['8 dollar']	0.0901100077042
+['amazing circus', '522 ticket']	['receipt']	0.0744376594044
+['amazing circus', '522 ticket']	['dollar']	0.0354449666524
+['amazing circus', '522 ticket']	['5086.00 dollar']	0.0901100077042
+['amazing circus', '522 ticket']	['child']	0.0774561735493
+['circus', '522 ticket']	['owner']	0.169023424553
+['circus', '522 ticket']	['amazing circus']	0.707594685938
+['circus', '522 ticket']	['ticket']	0.771243451584
+['circus', '522 ticket']	['adult ticket']	0.550705595209
+['circus', '522 ticket']	['15 dollar']	0.0827346205535
+['circus', '522 ticket']	['child ticket']	0.550705595209
+['circus', '522 ticket']	['8 dollar']	0.0827346205535
+['circus', '522 ticket']	['receipt']	0.326515104636
+['circus', '522 ticket']	['dollar']	0.144352057042
+['circus', '522 ticket']	['5086.00 dollar']	0.0827346205535
+['circus', '522 ticket']	['child']	0.192648399091
+['ticket', '522 ticket']	['owner']	0.393714628918
+['ticket', '522 ticket']	['amazing circus']	0.144528281371
+['ticket', '522 ticket']	['circus']	0.374612457782
+['ticket', '522 ticket']	['adult ticket']	0.777337718138
+['ticket', '522 ticket']	['15 dollar']	0.247627320934
+['ticket', '522 ticket']	['child ticket']	0.777337718138
+['ticket', '522 ticket']	['8 dollar']	0.247627320934
+['ticket', '522 ticket']	['receipt']	0.760380701798
+['ticket', '522 ticket']	['dollar']	0.347535848514
+['ticket', '522 ticket']	['5086.00 dollar']	0.247627320934
+['ticket', '522 ticket']	['child']	0.584052606073
+['adult ticket', '522 ticket']	['owner']	0.329177689786
+['adult ticket', '522 ticket']	['amazing circus']	0.127137811052
+['adult ticket', '522 ticket']	['circus']	0.329177689786
+['adult ticket', '522 ticket']	['ticket']	0.717918257103
+['adult ticket', '522 ticket']	['15 dollar']	0.144528281371
+['adult ticket', '522 ticket']	['child ticket']	0.839874817816
+['adult ticket', '522 ticket']	['8 dollar']	0.144528281371
+['adult ticket', '522 ticket']	['receipt']	0.363581185188
+['adult ticket', '522 ticket']	['dollar']	0.296242423731
+['adult ticket', '522 ticket']	['5086.00 dollar']	0.127137811052
+['adult ticket', '522 ticket']	['child']	0.327802190328
+['15 dollar', '522 ticket']	['owner']	0.0777864840342
+['15 dollar', '522 ticket']	['amazing circus']	0.0901100077042
+['15 dollar', '522 ticket']	['circus']	0.0777864840342
+['15 dollar', '522 ticket']	['ticket']	0.687998110055
+['15 dollar', '522 ticket']	['adult ticket']	0.562299798108
+['15 dollar', '522 ticket']	['child ticket']	0.562299798108
+['15 dollar', '522 ticket']	['8 dollar']	0.604308352538
+['15 dollar', '522 ticket']	['receipt']	0.0744376594044
+['15 dollar', '522 ticket']	['dollar']	0.458677718285
+['15 dollar', '522 ticket']	['5086.00 dollar']	0.584269096576
+['15 dollar', '522 ticket']	['child']	0.0774561735493
+['child ticket', '522 ticket']	['owner']	0.329177689786
+['child ticket', '522 ticket']	['amazing circus']	0.127137811052
+['child ticket', '522 ticket']	['circus']	0.329177689786
+['child ticket', '522 ticket']	['ticket']	0.717918257103
+['child ticket', '522 ticket']	['adult ticket']	0.839874817816
+['child ticket', '522 ticket']	['15 dollar']	0.144528281371
+['child ticket', '522 ticket']	['8 dollar']	0.144528281371
+['child ticket', '522 ticket']	['receipt']	0.363581185188
+['child ticket', '522 ticket']	['dollar']	0.296242423731
+['child ticket', '522 ticket']	['5086.00 dollar']	0.127137811052
+['child ticket', '522 ticket']	['child']	0.747175889983
+['8 dollar', '522 ticket']	['owner']	0.0777864840342
+['8 dollar', '522 ticket']	['amazing circus']	0.0901100077042
+['8 dollar', '522 ticket']	['circus']	0.0777864840342
+['8 dollar', '522 ticket']	['ticket']	0.687998110055
+['8 dollar', '522 ticket']	['adult ticket']	0.562299798108
+['8 dollar', '522 ticket']	['15 dollar']	0.604308352538
+['8 dollar', '522 ticket']	['child ticket']	0.562299798108
+['8 dollar', '522 ticket']	['receipt']	0.0744376594044
+['8 dollar', '522 ticket']	['dollar']	0.517803201643
+['8 dollar', '522 ticket']	['5086.00 dollar']	0.584269096576
+['8 dollar', '522 ticket']	['child']	0.0774561735493
+['receipt', '522 ticket']	['owner']	0.169023424553
+['receipt', '522 ticket']	['amazing circus']	0.0833805889219
+['receipt', '522 ticket']	['circus']	0.310987524772
+['receipt', '522 ticket']	['ticket']	0.775304804602
+['receipt', '522 ticket']	['adult ticket']	0.51364678879
+['receipt', '522 ticket']	['15 dollar']	0.0833805889219
+['receipt', '522 ticket']	['child ticket']	0.51364678879
+['receipt', '522 ticket']	['8 dollar']	0.0833805889219
+['receipt', '522 ticket']	['dollar']	0.490537525093
+['receipt', '522 ticket']	['5086.00 dollar']	0.0833805889219
+['receipt', '522 ticket']	['child']	0.290137159502
+['dollar', '522 ticket']	['owner']	0.186472212455
+['dollar', '522 ticket']	['amazing circus']	0.0361569291624
+['dollar', '522 ticket']	['circus']	0.109561042279
+['dollar', '522 ticket']	['ticket']	0.646450713312
+['dollar', '522 ticket']	['adult ticket']	0.227268900055
+['dollar', '522 ticket']	['15 dollar']	0.391516700063
+['dollar', '522 ticket']	['child ticket']	0.227268900055
+['dollar', '522 ticket']	['8 dollar']	0.397268490074
+['dollar', '522 ticket']	['receipt']	0.461903993858
+['dollar', '522 ticket']	['5086.00 dollar']	0.384540526976
+['dollar', '522 ticket']	['child']	0.463557288101
+['5086.00 dollar', '522 ticket']	['owner']	0.0777864840342
+['5086.00 dollar', '522 ticket']	['amazing circus']	0.0901100077042
+['5086.00 dollar', '522 ticket']	['circus']	0.0777864840342
+['5086.00 dollar', '522 ticket']	['ticket']	0.687998110055
+['5086.00 dollar', '522 ticket']	['adult ticket']	0.577101062223
+['5086.00 dollar', '522 ticket']	['15 dollar']	0.584269096576
+['5086.00 dollar', '522 ticket']	['child ticket']	0.577101062223
+['5086.00 dollar', '522 ticket']	['8 dollar']	0.584269096576
+['5086.00 dollar', '522 ticket']	['receipt']	0.0744376594044
+['5086.00 dollar', '522 ticket']	['dollar']	0.404389461393
+['5086.00 dollar', '522 ticket']	['child']	0.0774561735493
+['child', '522 ticket']	['owner']	0.730631902138
+['child', '522 ticket']	['amazing circus']	0.0696933362217
+['child', '522 ticket']	['circus']	0.182729929366
+['child', '522 ticket']	['ticket']	0.704860738406
+['child', '522 ticket']	['adult ticket']	0.508450579183
+['child', '522 ticket']	['15 dollar']	0.0696933362217
+['child', '522 ticket']	['child ticket']	0.792750230012
+['child', '522 ticket']	['8 dollar']	0.0696933362217
+['child', '522 ticket']	['receipt']	0.34144854005
+['child', '522 ticket']	['dollar']	0.490537525093
+['child', '522 ticket']	['5086.00 dollar']	0.0696933362217
+['owner', 'ticket']	['amazing circus']	0.0696933362217
+['owner', 'ticket']	['circus']	0.139043671791
+['owner', 'ticket']	['522 ticket']	0.670043866319
+['owner', 'ticket']	['adult ticket']	0.571744128048
+['owner', 'ticket']	['15 dollar']	0.117488318928
+['owner', 'ticket']	['child ticket']	0.571744128048
+['owner', 'ticket']	['8 dollar']	0.117488318928
+['owner', 'ticket']	['receipt']	0.539847382331
+['owner', 'ticket']	['dollar']	0.116219606536
+['owner', 'ticket']	['5086.00 dollar']	0.117488318928
+['owner', 'ticket']	['child']	0.346113981328
+['amazing circus', 'ticket']	['owner']	0.211523961879
+['amazing circus', 'ticket']	['circus']	0.623434844882
+['amazing circus', 'ticket']	['522 ticket']	0.669973747197
+['amazing circus', 'ticket']	['adult ticket']	0.604465896967
+['amazing circus', 'ticket']	['15 dollar']	0.103222748661
+['amazing circus', 'ticket']	['child ticket']	0.604465896967
+['amazing circus', 'ticket']	['8 dollar']	0.103222748661
+['amazing circus', 'ticket']	['receipt']	0.749799892109
+['amazing circus', 'ticket']	['dollar']	0.0806965185133
+['amazing circus', 'ticket']	['5086.00 dollar']	0.103222748661
+['amazing circus', 'ticket']	['child']	0.274449306921
+['circus', 'ticket']	['owner']	0.0734239376973
+['circus', 'ticket']	['amazing circus']	0.683604447678
+['circus', 'ticket']	['522 ticket']	0.670043866319
+['circus', 'ticket']	['adult ticket']	0.571744128048
+['circus', 'ticket']	['15 dollar']	0.117488318928
+['circus', 'ticket']	['child ticket']	0.571744128048
+['circus', 'ticket']	['8 dollar']	0.117488318928
+['circus', 'ticket']	['receipt']	0.635562811966
+['circus', 'ticket']	['dollar']	0.0240886330375
+['circus', 'ticket']	['5086.00 dollar']	0.117488318928
+['circus', 'ticket']	['child']	0.263063977013
+['522 ticket', 'ticket']	['owner']	0.393714628918
+['522 ticket', 'ticket']	['amazing circus']	0.144528281371
+['522 ticket', 'ticket']	['circus']	0.374612457782
+['522 ticket', 'ticket']	['adult ticket']	0.777337718138
+['522 ticket', 'ticket']	['15 dollar']	0.247627320934
+['522 ticket', 'ticket']	['child ticket']	0.777337718138
+['522 ticket', 'ticket']	['8 dollar']	0.247627320934
+['522 ticket', 'ticket']	['receipt']	0.760380701798
+['522 ticket', 'ticket']	['dollar']	0.347535848514
+['522 ticket', 'ticket']	['5086.00 dollar']	0.247627320934
+['522 ticket', 'ticket']	['child']	0.584052606073
+['adult ticket', 'ticket']	['owner']	0.4444928016
+['adult ticket', 'ticket']	['amazing circus']	0.195306454053
+['adult ticket', 'ticket']	['circus']	0.425390630463
+['adult ticket', 'ticket']	['522 ticket']	0.789825666472
+['adult ticket', 'ticket']	['15 dollar']	0.298405493616
+['adult ticket', 'ticket']	['child ticket']	0.809774641087
+['adult ticket', 'ticket']	['8 dollar']	0.298405493616
+['adult ticket', 'ticket']	['receipt']	0.792133342998
+['adult ticket', 'ticket']	['dollar']	0.413446847674
+['adult ticket', 'ticket']	['5086.00 dollar']	0.298405493616
+['adult ticket', 'ticket']	['child']	0.617385939407
+['15 dollar', 'ticket']	['owner']	0.182729929366
+['15 dollar', 'ticket']	['amazing circus']	0.0696933362217
+['15 dollar', 'ticket']	['circus']	0.160294424896
+['15 dollar', 'ticket']	['522 ticket']	0.669973747197
+['15 dollar', 'ticket']	['adult ticket']	0.624252155
+['15 dollar', 'ticket']	['child ticket']	0.624252155
+['15 dollar', 'ticket']	['8 dollar']	0.567067802557
+['15 dollar', 'ticket']	['receipt']	0.744929762239
+['15 dollar', 'ticket']	['dollar']	0.679196039815
+['15 dollar', 'ticket']	['5086.00 dollar']	0.525526174317
+['15 dollar', 'ticket']	['child']	0.257540633541
+['child ticket', 'ticket']	['owner']	0.4444928016
+['child ticket', 'ticket']	['amazing circus']	0.195306454053
+['child ticket', 'ticket']	['circus']	0.425390630463
+['child ticket', 'ticket']	['522 ticket']	0.789825666472
+['child ticket', 'ticket']	['adult ticket']	0.809774641087
+['child ticket', 'ticket']	['15 dollar']	0.298405493616
+['child ticket', 'ticket']	['8 dollar']	0.298405493616
+['child ticket', 'ticket']	['receipt']	0.792133342998
+['child ticket', 'ticket']	['dollar']	0.413446847674
+['child ticket', 'ticket']	['5086.00 dollar']	0.298405493616
+['child ticket', 'ticket']	['child']	0.736702740986
+['8 dollar', 'ticket']	['owner']	0.182729929366
+['8 dollar', 'ticket']	['amazing circus']	0.0696933362217
+['8 dollar', 'ticket']	['circus']	0.160294424896
+['8 dollar', 'ticket']	['522 ticket']	0.669973747197
+['8 dollar', 'ticket']	['adult ticket']	0.624252155
+['8 dollar', 'ticket']	['15 dollar']	0.567067802557
+['8 dollar', 'ticket']	['child ticket']	0.624252155
+['8 dollar', 'ticket']	['receipt']	0.744929762239
+['8 dollar', 'ticket']	['dollar']	0.712205864641
+['8 dollar', 'ticket']	['5086.00 dollar']	0.525526174317
+['8 dollar', 'ticket']	['child']	0.257540633541
+['receipt', 'ticket']	['owner']	0.135702072301
+['receipt', 'ticket']	['amazing circus']	0.0689582110755
+['receipt', 'ticket']	['circus']	0.204088582565
+['receipt', 'ticket']	['522 ticket']	0.723846078739
+['receipt', 'ticket']	['adult ticket']	0.667002535514
+['receipt', 'ticket']	['15 dollar']	0.110566880729
+['receipt', 'ticket']	['child ticket']	0.667002535514
+['receipt', 'ticket']	['8 dollar']	0.110566880729
+['receipt', 'ticket']	['dollar']	0.284629554218
+['receipt', 'ticket']	['5086.00 dollar']	0.110566880729
+['receipt', 'ticket']	['child']	0.219982513022
+['dollar', 'ticket']	['owner']	0.106436077651
+['dollar', 'ticket']	['amazing circus']	0.0982347768443
+['dollar', 'ticket']	['circus']	0.167564653415
+['dollar', 'ticket']	['522 ticket']	0.545159042756
+['dollar', 'ticket']	['adult ticket']	0.463940607453
+['dollar', 'ticket']	['15 dollar']	0.538150963439
+['dollar', 'ticket']	['child ticket']	0.463940607453
+['dollar', 'ticket']	['8 dollar']	0.572396609663
+['dollar', 'ticket']	['receipt']	0.176078426912
+['dollar', 'ticket']	['5086.00 dollar']	0.363289837203
+['dollar', 'ticket']	['child']	0.274976633107
+['5086.00 dollar', 'ticket']	['owner']	0.182729929366
+['5086.00 dollar', 'ticket']	['amazing circus']	0.0696933362217
+['5086.00 dollar', 'ticket']	['circus']	0.160294424896
+['5086.00 dollar', 'ticket']	['522 ticket']	0.669973747197
+['5086.00 dollar', 'ticket']	['adult ticket']	0.604465896967
+['5086.00 dollar', 'ticket']	['15 dollar']	0.525526174317
+['5086.00 dollar', 'ticket']	['child ticket']	0.604465896967
+['5086.00 dollar', 'ticket']	['8 dollar']	0.525526174317
+['5086.00 dollar', 'ticket']	['receipt']	0.744929762239
+['5086.00 dollar', 'ticket']	['dollar']	0.473606703188
+['5086.00 dollar', 'ticket']	['child']	0.257540633541
+['child', 'ticket']	['owner']	0.460970379302
+['child', 'ticket']	['amazing circus']	0.131771183904
+['child', 'ticket']	['circus']	0.215871791329
+['child', 'ticket']	['522 ticket']	0.670043866319
+['child', 'ticket']	['adult ticket']	0.571744128048
+['child', 'ticket']	['15 dollar']	0.174138467195
+['child', 'ticket']	['child ticket']	0.535862509957
+['child', 'ticket']	['8 dollar']	0.174138467195
+['child', 'ticket']	['receipt']	0.445391117294
+['child', 'ticket']	['dollar']	0.328489203341
+['child', 'ticket']	['5086.00 dollar']	0.174138467195
+['owner', 'adult ticket']	['amazing circus']	0.0696933362217
+['owner', 'adult ticket']	['circus']	0.182729929366
+['owner', 'adult ticket']	['522 ticket']	0.510461204301
+['owner', 'adult ticket']	['ticket']	0.706239332903
+['owner', 'adult ticket']	['15 dollar']	0.0696933362217
+['owner', 'adult ticket']	['child ticket']	0.7214098166
+['owner', 'adult ticket']	['8 dollar']	0.0696933362217
+['owner', 'adult ticket']	['receipt']	0.206653832009
+['owner', 'adult ticket']	['dollar']	0.240172106122
+['owner', 'adult ticket']	['5086.00 dollar']	0.0696933362217
+['owner', 'adult ticket']	['child']	0.722984620103
+['amazing circus', 'adult ticket']	['owner']	0.0667637182209
+['amazing circus', 'adult ticket']	['circus']	0.671567064355
+['amazing circus', 'adult ticket']	['522 ticket']	0.544221442934
+['amazing circus', 'adult ticket']	['ticket']	0.494842858664
+['amazing circus', 'adult ticket']	['15 dollar']	0.0696933362217
+['amazing circus', 'adult ticket']	['child ticket']	0.705549007265
+['amazing circus', 'adult ticket']	['8 dollar']	0.0696933362217
+['amazing circus', 'adult ticket']	['receipt']	0.0634148935911
+['amazing circus', 'adult ticket']	['dollar']	0.0230175182111
+['amazing circus', 'adult ticket']	['5086.00 dollar']	0.0737139440912
+['amazing circus', 'adult ticket']	['child']	0.0650959234194
+['circus', 'adult ticket']	['owner']	0.182729929366
+['circus', 'adult ticket']	['amazing circus']	0.68687409652
+['circus', 'adult ticket']	['522 ticket']	0.510461204301
+['circus', 'adult ticket']	['ticket']	0.664318990527
+['circus', 'adult ticket']	['15 dollar']	0.0696933362217
+['circus', 'adult ticket']	['child ticket']	0.7214098166
+['circus', 'adult ticket']	['8 dollar']	0.0696933362217
+['circus', 'adult ticket']	['receipt']	0.246429727416
+['circus', 'adult ticket']	['dollar']	0.109080770735
+['circus', 'adult ticket']	['5086.00 dollar']	0.0696933362217
+['circus', 'adult ticket']	['child']	0.185711257371
+['522 ticket', 'adult ticket']	['owner']	0.329177689786
+['522 ticket', 'adult ticket']	['amazing circus']	0.127137811052
+['522 ticket', 'adult ticket']	['circus']	0.329177689786
+['522 ticket', 'adult ticket']	['ticket']	0.717918257103
+['522 ticket', 'adult ticket']	['15 dollar']	0.144528281371
+['522 ticket', 'adult ticket']	['child ticket']	0.839874817816
+['522 ticket', 'adult ticket']	['8 dollar']	0.144528281371
+['522 ticket', 'adult ticket']	['receipt']	0.363581185188
+['522 ticket', 'adult ticket']	['dollar']	0.296242423731
+['522 ticket', 'adult ticket']	['5086.00 dollar']	0.127137811052
+['522 ticket', 'adult ticket']	['child']	0.327802190328
+['ticket', 'adult ticket']	['owner']	0.4444928016
+['ticket', 'adult ticket']	['amazing circus']	0.195306454053
+['ticket', 'adult ticket']	['circus']	0.425390630463
+['ticket', 'adult ticket']	['522 ticket']	0.789825666472
+['ticket', 'adult ticket']	['15 dollar']	0.298405493616
+['ticket', 'adult ticket']	['child ticket']	0.809774641087
+['ticket', 'adult ticket']	['8 dollar']	0.298405493616
+['ticket', 'adult ticket']	['receipt']	0.792133342998
+['ticket', 'adult ticket']	['dollar']	0.413446847674
+['ticket', 'adult ticket']	['5086.00 dollar']	0.298405493616
+['ticket', 'adult ticket']	['child']	0.617385939407
+['15 dollar', 'adult ticket']	['owner']	0.0667637182209
+['15 dollar', 'adult ticket']	['amazing circus']	0.0737139440912
+['15 dollar', 'adult ticket']	['circus']	0.0667637182209
+['15 dollar', 'adult ticket']	['522 ticket']	0.544221442934
+['15 dollar', 'adult ticket']	['ticket']	0.637516287091
+['15 dollar', 'adult ticket']	['child ticket']	0.7214098166
+['15 dollar', 'adult ticket']	['8 dollar']	0.502833079419
+['15 dollar', 'adult ticket']	['receipt']	0.0634148935911
+['15 dollar', 'adult ticket']	['dollar']	0.485908652277
+['15 dollar', 'adult ticket']	['5086.00 dollar']	0.544221442934
+['15 dollar', 'adult ticket']	['child']	0.0650959234194
+['child ticket', 'adult ticket']	['owner']	0.379955862467
+['child ticket', 'adult ticket']	['amazing circus']	0.177915983734
+['child ticket', 'adult ticket']	['circus']	0.379955862467
+['child ticket', 'adult ticket']	['522 ticket']	0.633981735469
+['child ticket', 'adult ticket']	['ticket']	0.794515877956
+['child ticket', 'adult ticket']	['15 dollar']	0.195306454053
+['child ticket', 'adult ticket']	['8 dollar']	0.195306454053
+['child ticket', 'adult ticket']	['receipt']	0.414359357869
+['child ticket', 'adult ticket']	['dollar']	0.329575757065
+['child ticket', 'adult ticket']	['5086.00 dollar']	0.177915983734
+['child ticket', 'adult ticket']	['child']	0.773411289804
+['8 dollar', 'adult ticket']	['owner']	0.0667637182209
+['8 dollar', 'adult ticket']	['amazing circus']	0.0737139440912
+['8 dollar', 'adult ticket']	['circus']	0.0667637182209
+['8 dollar', 'adult ticket']	['522 ticket']	0.544221442934
+['8 dollar', 'adult ticket']	['ticket']	0.637516287091
+['8 dollar', 'adult ticket']	['15 dollar']	0.502833079419
+['8 dollar', 'adult ticket']	['child ticket']	0.7214098166
+['8 dollar', 'adult ticket']	['receipt']	0.0634148935911
+['8 dollar', 'adult ticket']	['dollar']	0.545034135635
+['8 dollar', 'adult ticket']	['5086.00 dollar']	0.544221442934
+['8 dollar', 'adult ticket']	['child']	0.0650959234194
+['receipt', 'adult ticket']	['owner']	0.182729929366
+['receipt', 'adult ticket']	['amazing circus']	0.0703393045902
+['receipt', 'adult ticket']	['circus']	0.230902147551
+['receipt', 'adult ticket']	['522 ticket']	0.465538040018
+['receipt', 'adult ticket']	['ticket']	0.755813068564
+['receipt', 'adult ticket']	['15 dollar']	0.0669904799604
+['receipt', 'adult ticket']	['child ticket']	0.743821928147
+['receipt', 'adult ticket']	['8 dollar']	0.0669904799604
+['receipt', 'adult ticket']	['dollar']	0.490537525093
+['receipt', 'adult ticket']	['5086.00 dollar']	0.0703393045902
+['receipt', 'adult ticket']	['child']	0.287172632079
+['dollar', 'adult ticket']	['owner']	0.248550060137
+['dollar', 'adult ticket']	['amazing circus']	0.0982347768443
+['dollar', 'adult ticket']	['circus']	0.1669002517
+['dollar', 'adult ticket']	['522 ticket']	0.208039687774
+['dollar', 'adult ticket']	['ticket']	0.600796035125
+['dollar', 'adult ticket']	['15 dollar']	0.391516700063
+['dollar', 'adult ticket']	['child ticket']	0.458978284107
+['dollar', 'adult ticket']	['8 dollar']	0.397268490074
+['dollar', 'adult ticket']	['receipt']	0.502737327192
+['dollar', 'adult ticket']	['5086.00 dollar']	0.391558070836
+['dollar', 'adult ticket']	['child']	0.504390621435
+['5086.00 dollar', 'adult ticket']	['owner']	0.0667637182209
+['5086.00 dollar', 'adult ticket']	['amazing circus']	0.0737139440912
+['5086.00 dollar', 'adult ticket']	['circus']	0.0667637182209
+['5086.00 dollar', 'adult ticket']	['522 ticket']	0.544221442934
+['5086.00 dollar', 'adult ticket']	['ticket']	0.637516287091
+['5086.00 dollar', 'adult ticket']	['15 dollar']	0.5220554072
+['5086.00 dollar', 'adult ticket']	['child ticket']	0.705549007265
+['5086.00 dollar', 'adult ticket']	['8 dollar']	0.5220554072
+['5086.00 dollar', 'adult ticket']	['receipt']	0.0634148935911
+['5086.00 dollar', 'adult ticket']	['dollar']	0.421694420196
+['5086.00 dollar', 'adult ticket']	['child']	0.0650959234194
+['child', 'adult ticket']	['owner']	0.743649143518
+['child', 'adult ticket']	['amazing circus']	0.131771183904
+['child', 'adult ticket']	['circus']	0.244807777048
+['child', 'adult ticket']	['522 ticket']	0.55086501266
+['child', 'adult ticket']	['ticket']	0.652915829848
+['child', 'adult ticket']	['15 dollar']	0.131771183904
+['child', 'adult ticket']	['child ticket']	0.79956275245
+['child', 'adult ticket']	['8 dollar']	0.131771183904
+['child', 'adult ticket']	['receipt']	0.403526387732
+['child', 'adult ticket']	['dollar']	0.523870858426
+['child', 'adult ticket']	['5086.00 dollar']	0.131771183904
+['owner', '15 dollar']	['amazing circus']	0.0827346205535
+['owner', '15 dollar']	['circus']	0.169023424553
+['owner', '15 dollar']	['522 ticket']	0.0827346205535
+['owner', '15 dollar']	['ticket']	0.328883094735
+['owner', '15 dollar']	['adult ticket']	0.0824069519204
+['owner', '15 dollar']	['child ticket']	0.0824069519204
+['owner', '15 dollar']	['8 dollar']	0.600600090067
+['owner', '15 dollar']	['receipt']	0.192947327196
+['owner', '15 dollar']	['dollar']	0.656586827151
+['owner', '15 dollar']	['5086.00 dollar']	0.549852778125
+['owner', '15 dollar']	['child']	0.710308548613
+['amazing circus', '15 dollar']	['owner']	0.0777864840342
+['amazing circus', '15 dollar']	['circus']	0.609298680331
+['amazing circus', '15 dollar']	['522 ticket']	0.0901100077042
+['amazing circus', '15 dollar']	['ticket']	0.105969303899
+['amazing circus', '15 dollar']	['adult ticket']	0.0824069519204
+['amazing circus', '15 dollar']	['child ticket']	0.0824069519204
+['amazing circus', '15 dollar']	['8 dollar']	0.604308352538
+['amazing circus', '15 dollar']	['receipt']	0.0744376594044
+['amazing circus', '15 dollar']	['dollar']	0.303389462637
+['amazing circus', '15 dollar']	['5086.00 dollar']	0.584269096576
+['amazing circus', '15 dollar']	['child']	0.0774561735493
+['circus', '15 dollar']	['owner']	0.169023424553
+['circus', '15 dollar']	['amazing circus']	0.707594685938
+['circus', '15 dollar']	['522 ticket']	0.0827346205535
+['circus', '15 dollar']	['ticket']	0.281133479906
+['circus', '15 dollar']	['adult ticket']	0.0824069519204
+['circus', '15 dollar']	['child ticket']	0.0824069519204
+['circus', '15 dollar']	['8 dollar']	0.600600090067
+['circus', '15 dollar']	['receipt']	0.326515104636
+['circus', '15 dollar']	['dollar']	0.627173633678
+['circus', '15 dollar']	['5086.00 dollar']	0.549852778125
+['circus', '15 dollar']	['child']	0.192648399091
+['522 ticket', '15 dollar']	['owner']	0.0777864840342
+['522 ticket', '15 dollar']	['amazing circus']	0.0901100077042
+['522 ticket', '15 dollar']	['circus']	0.0777864840342
+['522 ticket', '15 dollar']	['ticket']	0.687998110055
+['522 ticket', '15 dollar']	['adult ticket']	0.562299798108
+['522 ticket', '15 dollar']	['child ticket']	0.562299798108
+['522 ticket', '15 dollar']	['8 dollar']	0.604308352538
+['522 ticket', '15 dollar']	['receipt']	0.0744376594044
+['522 ticket', '15 dollar']	['dollar']	0.458677718285
+['522 ticket', '15 dollar']	['5086.00 dollar']	0.584269096576
+['522 ticket', '15 dollar']	['child']	0.0774561735493
+['ticket', '15 dollar']	['owner']	0.182729929366
+['ticket', '15 dollar']	['amazing circus']	0.0696933362217
+['ticket', '15 dollar']	['circus']	0.160294424896
+['ticket', '15 dollar']	['522 ticket']	0.669973747197
+['ticket', '15 dollar']	['adult ticket']	0.624252155
+['ticket', '15 dollar']	['child ticket']	0.624252155
+['ticket', '15 dollar']	['8 dollar']	0.567067802557
+['ticket', '15 dollar']	['receipt']	0.744929762239
+['ticket', '15 dollar']	['dollar']	0.679196039815
+['ticket', '15 dollar']	['5086.00 dollar']	0.525526174317
+['ticket', '15 dollar']	['child']	0.257540633541
+['adult ticket', '15 dollar']	['owner']	0.0667637182209
+['adult ticket', '15 dollar']	['amazing circus']	0.0737139440912
+['adult ticket', '15 dollar']	['circus']	0.0667637182209
+['adult ticket', '15 dollar']	['522 ticket']	0.544221442934
+['adult ticket', '15 dollar']	['ticket']	0.637516287091
+['adult ticket', '15 dollar']	['child ticket']	0.7214098166
+['adult ticket', '15 dollar']	['8 dollar']	0.502833079419
+['adult ticket', '15 dollar']	['receipt']	0.0634148935911
+['adult ticket', '15 dollar']	['dollar']	0.485908652277
+['adult ticket', '15 dollar']	['5086.00 dollar']	0.544221442934
+['adult ticket', '15 dollar']	['child']	0.0650959234194
+['child ticket', '15 dollar']	['owner']	0.0667637182209
+['child ticket', '15 dollar']	['amazing circus']	0.0737139440912
+['child ticket', '15 dollar']	['circus']	0.0667637182209
+['child ticket', '15 dollar']	['522 ticket']	0.544221442934
+['child ticket', '15 dollar']	['ticket']	0.637516287091
+['child ticket', '15 dollar']	['adult ticket']	0.7214098166
+['child ticket', '15 dollar']	['8 dollar']	0.502833079419
+['child ticket', '15 dollar']	['receipt']	0.0634148935911
+['child ticket', '15 dollar']	['dollar']	0.485908652277
+['child ticket', '15 dollar']	['5086.00 dollar']	0.544221442934
+['child ticket', '15 dollar']	['child']	0.530792669321
+['8 dollar', '15 dollar']	['owner']	0.327028499836
+['8 dollar', '15 dollar']	['amazing circus']	0.139258682248
+['8 dollar', '15 dollar']	['circus']	0.327028499836
+['8 dollar', '15 dollar']	['522 ticket']	0.139258682248
+['8 dollar', '15 dollar']	['ticket']	0.51323626183
+['8 dollar', '15 dollar']	['adult ticket']	0.16132566236
+['8 dollar', '15 dollar']	['child ticket']	0.16132566236
+['8 dollar', '15 dollar']	['receipt']	0.37370815508
+['8 dollar', '15 dollar']	['dollar']	0.770879149715
+['8 dollar', '15 dollar']	['5086.00 dollar']	0.637144068101
+['8 dollar', '15 dollar']	['child']	0.345269105941
+['receipt', '15 dollar']	['owner']	0.169023424553
+['receipt', '15 dollar']	['amazing circus']	0.0833805889219
+['receipt', '15 dollar']	['circus']	0.310987524772
+['receipt', '15 dollar']	['522 ticket']	0.0833805889219
+['receipt', '15 dollar']	['ticket']	0.859122011627
+['receipt', '15 dollar']	['adult ticket']	0.079704095659
+['receipt', '15 dollar']	['child ticket']	0.079704095659
+['receipt', '15 dollar']	['8 dollar']	0.617292730823
+['receipt', '15 dollar']	['dollar']	0.685440582092
+['receipt', '15 dollar']	['5086.00 dollar']	0.520866309821
+['receipt', '15 dollar']	['child']	0.290137159502
+['dollar', '15 dollar']	['owner']	0.357155367588
+['dollar', '15 dollar']	['amazing circus']	0.0968024870635
+['dollar', '15 dollar']	['circus']	0.297245159667
+['dollar', '15 dollar']	['522 ticket']	0.183873817054
+['dollar', '15 dollar']	['ticket']	0.413734650951
+['dollar', '15 dollar']	['adult ticket']	0.184088625564
+['dollar', '15 dollar']	['child ticket']	0.184088625564
+['dollar', '15 dollar']	['8 dollar']	0.736214012955
+['dollar', '15 dollar']	['receipt']	0.596453254739
+['dollar', '15 dollar']	['5086.00 dollar']	0.543445645363
+['dollar', '15 dollar']	['child']	0.563039610077
+['5086.00 dollar', '15 dollar']	['owner']	0.327028499836
+['5086.00 dollar', '15 dollar']	['amazing circus']	0.139258682248
+['5086.00 dollar', '15 dollar']	['circus']	0.327028499836
+['5086.00 dollar', '15 dollar']	['522 ticket']	0.139258682248
+['5086.00 dollar', '15 dollar']	['ticket']	0.51323626183
+['5086.00 dollar', '15 dollar']	['adult ticket']	0.16132566236
+['5086.00 dollar', '15 dollar']	['child ticket']	0.16132566236
+['5086.00 dollar', '15 dollar']	['8 dollar']	0.784325248763
+['5086.00 dollar', '15 dollar']	['receipt']	0.37370815508
+['5086.00 dollar', '15 dollar']	['dollar']	0.682603282716
+['5086.00 dollar', '15 dollar']	['child']	0.345269105941
+['child', '15 dollar']	['owner']	0.719008758257
+['child', '15 dollar']	['amazing circus']	0.0696933362217
+['child', '15 dollar']	['circus']	0.182729929366
+['child', '15 dollar']	['522 ticket']	0.0696933362217
+['child', '15 dollar']	['ticket']	0.240886432847
+['child', '15 dollar']	['adult ticket']	0.0746958245975
+['child', '15 dollar']	['child ticket']	0.619247740011
+['child', '15 dollar']	['8 dollar']	0.489601007424
+['child', '15 dollar']	['receipt']	0.34144854005
+['child', '15 dollar']	['dollar']	0.716454584867
+['child', '15 dollar']	['5086.00 dollar']	0.494524508322
+['owner', 'child ticket']	['amazing circus']	0.0696933362217
+['owner', 'child ticket']	['circus']	0.182729929366
+['owner', 'child ticket']	['522 ticket']	0.510461204301
+['owner', 'child ticket']	['ticket']	0.706239332903
+['owner', 'child ticket']	['adult ticket']	0.7214098166
+['owner', 'child ticket']	['15 dollar']	0.0696933362217
+['owner', 'child ticket']	['8 dollar']	0.0696933362217
+['owner', 'child ticket']	['receipt']	0.206653832009
+['owner', 'child ticket']	['dollar']	0.240172106122
+['owner', 'child ticket']	['5086.00 dollar']	0.0696933362217
+['owner', 'child ticket']	['child']	0.766739271545
+['amazing circus', 'child ticket']	['owner']	0.0667637182209
+['amazing circus', 'child ticket']	['circus']	0.671567064355
+['amazing circus', 'child ticket']	['522 ticket']	0.544221442934
+['amazing circus', 'child ticket']	['ticket']	0.494842858664
+['amazing circus', 'child ticket']	['adult ticket']	0.705549007265
+['amazing circus', 'child ticket']	['15 dollar']	0.0696933362217
+['amazing circus', 'child ticket']	['8 dollar']	0.0696933362217
+['amazing circus', 'child ticket']	['receipt']	0.0634148935911
+['amazing circus', 'child ticket']	['dollar']	0.0230175182111
+['amazing circus', 'child ticket']	['5086.00 dollar']	0.0737139440912
+['amazing circus', 'child ticket']	['child']	0.530792669321
+['circus', 'child ticket']	['owner']	0.182729929366
+['circus', 'child ticket']	['amazing circus']	0.68687409652
+['circus', 'child ticket']	['522 ticket']	0.510461204301
+['circus', 'child ticket']	['ticket']	0.664318990527
+['circus', 'child ticket']	['adult ticket']	0.7214098166
+['circus', 'child ticket']	['15 dollar']	0.0696933362217
+['circus', 'child ticket']	['8 dollar']	0.0696933362217
+['circus', 'child ticket']	['receipt']	0.246429727416
+['circus', 'child ticket']	['dollar']	0.109080770735
+['circus', 'child ticket']	['5086.00 dollar']	0.0696933362217
+['circus', 'child ticket']	['child']	0.626305554145
+['522 ticket', 'child ticket']	['owner']	0.329177689786
+['522 ticket', 'child ticket']	['amazing circus']	0.127137811052
+['522 ticket', 'child ticket']	['circus']	0.329177689786
+['522 ticket', 'child ticket']	['ticket']	0.717918257103
+['522 ticket', 'child ticket']	['adult ticket']	0.839874817816
+['522 ticket', 'child ticket']	['15 dollar']	0.144528281371
+['522 ticket', 'child ticket']	['8 dollar']	0.144528281371
+['522 ticket', 'child ticket']	['receipt']	0.363581185188
+['522 ticket', 'child ticket']	['dollar']	0.296242423731
+['522 ticket', 'child ticket']	['5086.00 dollar']	0.127137811052
+['522 ticket', 'child ticket']	['child']	0.747175889983
+['ticket', 'child ticket']	['owner']	0.4444928016
+['ticket', 'child ticket']	['amazing circus']	0.195306454053
+['ticket', 'child ticket']	['circus']	0.425390630463
+['ticket', 'child ticket']	['522 ticket']	0.789825666472
+['ticket', 'child ticket']	['adult ticket']	0.809774641087
+['ticket', 'child ticket']	['15 dollar']	0.298405493616
+['ticket', 'child ticket']	['8 dollar']	0.298405493616
+['ticket', 'child ticket']	['receipt']	0.792133342998
+['ticket', 'child ticket']	['dollar']	0.413446847674
+['ticket', 'child ticket']	['5086.00 dollar']	0.298405493616
+['ticket', 'child ticket']	['child']	0.736702740986
+['adult ticket', 'child ticket']	['owner']	0.379955862467
+['adult ticket', 'child ticket']	['amazing circus']	0.177915983734
+['adult ticket', 'child ticket']	['circus']	0.379955862467
+['adult ticket', 'child ticket']	['522 ticket']	0.633981735469
+['adult ticket', 'child ticket']	['ticket']	0.794515877956
+['adult ticket', 'child ticket']	['15 dollar']	0.195306454053
+['adult ticket', 'child ticket']	['8 dollar']	0.195306454053
+['adult ticket', 'child ticket']	['receipt']	0.414359357869
+['adult ticket', 'child ticket']	['dollar']	0.329575757065
+['adult ticket', 'child ticket']	['5086.00 dollar']	0.177915983734
+['adult ticket', 'child ticket']	['child']	0.773411289804
+['15 dollar', 'child ticket']	['owner']	0.0667637182209
+['15 dollar', 'child ticket']	['amazing circus']	0.0737139440912
+['15 dollar', 'child ticket']	['circus']	0.0667637182209
+['15 dollar', 'child ticket']	['522 ticket']	0.544221442934
+['15 dollar', 'child ticket']	['ticket']	0.637516287091
+['15 dollar', 'child ticket']	['adult ticket']	0.7214098166
+['15 dollar', 'child ticket']	['8 dollar']	0.502833079419
+['15 dollar', 'child ticket']	['receipt']	0.0634148935911
+['15 dollar', 'child ticket']	['dollar']	0.485908652277
+['15 dollar', 'child ticket']	['5086.00 dollar']	0.544221442934
+['15 dollar', 'child ticket']	['child']	0.530792669321
+['8 dollar', 'child ticket']	['owner']	0.0667637182209
+['8 dollar', 'child ticket']	['amazing circus']	0.0737139440912
+['8 dollar', 'child ticket']	['circus']	0.0667637182209
+['8 dollar', 'child ticket']	['522 ticket']	0.544221442934
+['8 dollar', 'child ticket']	['ticket']	0.637516287091
+['8 dollar', 'child ticket']	['adult ticket']	0.7214098166
+['8 dollar', 'child ticket']	['15 dollar']	0.502833079419
+['8 dollar', 'child ticket']	['receipt']	0.0634148935911
+['8 dollar', 'child ticket']	['dollar']	0.545034135635
+['8 dollar', 'child ticket']	['5086.00 dollar']	0.544221442934
+['8 dollar', 'child ticket']	['child']	0.530792669321
+['receipt', 'child ticket']	['owner']	0.182729929366
+['receipt', 'child ticket']	['amazing circus']	0.0703393045902
+['receipt', 'child ticket']	['circus']	0.230902147551
+['receipt', 'child ticket']	['522 ticket']	0.465538040018
+['receipt', 'child ticket']	['ticket']	0.755813068564
+['receipt', 'child ticket']	['adult ticket']	0.743821928147
+['receipt', 'child ticket']	['15 dollar']	0.0669904799604
+['receipt', 'child ticket']	['8 dollar']	0.0669904799604
+['receipt', 'child ticket']	['dollar']	0.490537525093
+['receipt', 'child ticket']	['5086.00 dollar']	0.0703393045902
+['receipt', 'child ticket']	['child']	0.626305554145
+['dollar', 'child ticket']	['owner']	0.248550060137
+['dollar', 'child ticket']	['amazing circus']	0.0982347768443
+['dollar', 'child ticket']	['circus']	0.1669002517
+['dollar', 'child ticket']	['522 ticket']	0.208039687774
+['dollar', 'child ticket']	['ticket']	0.600796035125
+['dollar', 'child ticket']	['adult ticket']	0.458978284107
+['dollar', 'child ticket']	['15 dollar']	0.391516700063
+['dollar', 'child ticket']	['8 dollar']	0.397268490074
+['dollar', 'child ticket']	['receipt']	0.502737327192
+['dollar', 'child ticket']	['5086.00 dollar']	0.391558070836
+['dollar', 'child ticket']	['child']	0.560229831144
+['5086.00 dollar', 'child ticket']	['owner']	0.0667637182209
+['5086.00 dollar', 'child ticket']	['amazing circus']	0.0737139440912
+['5086.00 dollar', 'child ticket']	['circus']	0.0667637182209
+['5086.00 dollar', 'child ticket']	['522 ticket']	0.544221442934
+['5086.00 dollar', 'child ticket']	['ticket']	0.637516287091
+['5086.00 dollar', 'child ticket']	['adult ticket']	0.705549007265
+['5086.00 dollar', 'child ticket']	['15 dollar']	0.5220554072
+['5086.00 dollar', 'child ticket']	['8 dollar']	0.5220554072
+['5086.00 dollar', 'child ticket']	['receipt']	0.0634148935911
+['5086.00 dollar', 'child ticket']	['dollar']	0.421694420196
+['5086.00 dollar', 'child ticket']	['child']	0.530792669321
+['child', 'child ticket']	['owner']	0.743649143518
+['child', 'child ticket']	['amazing circus']	0.131771183904
+['child', 'child ticket']	['circus']	0.244807777048
+['child', 'child ticket']	['522 ticket']	0.55086501266
+['child', 'child ticket']	['ticket']	0.652915829848
+['child', 'child ticket']	['adult ticket']	0.742307171098
+['child', 'child ticket']	['15 dollar']	0.131771183904
+['child', 'child ticket']	['8 dollar']	0.131771183904
+['child', 'child ticket']	['receipt']	0.403526387732
+['child', 'child ticket']	['dollar']	0.523870858426
+['child', 'child ticket']	['5086.00 dollar']	0.131771183904
+['owner', '8 dollar']	['amazing circus']	0.0827346205535
+['owner', '8 dollar']	['circus']	0.169023424553
+['owner', '8 dollar']	['522 ticket']	0.0827346205535
+['owner', '8 dollar']	['ticket']	0.328883094735
+['owner', '8 dollar']	['adult ticket']	0.0824069519204
+['owner', '8 dollar']	['15 dollar']	0.600600090067
+['owner', '8 dollar']	['child ticket']	0.0824069519204
+['owner', '8 dollar']	['receipt']	0.192947327196
+['owner', '8 dollar']	['dollar']	0.633810344375
+['owner', '8 dollar']	['5086.00 dollar']	0.549852778125
+['owner', '8 dollar']	['child']	0.710308548613
+['amazing circus', '8 dollar']	['owner']	0.0777864840342
+['amazing circus', '8 dollar']	['circus']	0.609298680331
+['amazing circus', '8 dollar']	['522 ticket']	0.0901100077042
+['amazing circus', '8 dollar']	['ticket']	0.105969303899
+['amazing circus', '8 dollar']	['adult ticket']	0.0824069519204
+['amazing circus', '8 dollar']	['15 dollar']	0.604308352538
+['amazing circus', '8 dollar']	['child ticket']	0.0824069519204
+['amazing circus', '8 dollar']	['receipt']	0.0744376594044
+['amazing circus', '8 dollar']	['dollar']	0.341461565972
+['amazing circus', '8 dollar']	['5086.00 dollar']	0.584269096576
+['amazing circus', '8 dollar']	['child']	0.0774561735493
+['circus', '8 dollar']	['owner']	0.169023424553
+['circus', '8 dollar']	['amazing circus']	0.707594685938
+['circus', '8 dollar']	['522 ticket']	0.0827346205535
+['circus', '8 dollar']	['ticket']	0.281133479906
+['circus', '8 dollar']	['adult ticket']	0.0824069519204
+['circus', '8 dollar']	['15 dollar']	0.600600090067
+['circus', '8 dollar']	['child ticket']	0.0824069519204
+['circus', '8 dollar']	['receipt']	0.326515104636
+['circus', '8 dollar']	['dollar']	0.647286633107
+['circus', '8 dollar']	['5086.00 dollar']	0.549852778125
+['circus', '8 dollar']	['child']	0.192648399091
+['522 ticket', '8 dollar']	['owner']	0.0777864840342
+['522 ticket', '8 dollar']	['amazing circus']	0.0901100077042
+['522 ticket', '8 dollar']	['circus']	0.0777864840342
+['522 ticket', '8 dollar']	['ticket']	0.687998110055
+['522 ticket', '8 dollar']	['adult ticket']	0.562299798108
+['522 ticket', '8 dollar']	['15 dollar']	0.604308352538
+['522 ticket', '8 dollar']	['child ticket']	0.562299798108
+['522 ticket', '8 dollar']	['receipt']	0.0744376594044
+['522 ticket', '8 dollar']	['dollar']	0.517803201643
+['522 ticket', '8 dollar']	['5086.00 dollar']	0.584269096576
+['522 ticket', '8 dollar']	['child']	0.0774561735493
+['ticket', '8 dollar']	['owner']	0.182729929366
+['ticket', '8 dollar']	['amazing circus']	0.0696933362217
+['ticket', '8 dollar']	['circus']	0.160294424896
+['ticket', '8 dollar']	['522 ticket']	0.669973747197
+['ticket', '8 dollar']	['adult ticket']	0.624252155
+['ticket', '8 dollar']	['15 dollar']	0.567067802557
+['ticket', '8 dollar']	['child ticket']	0.624252155
+['ticket', '8 dollar']	['receipt']	0.744929762239
+['ticket', '8 dollar']	['dollar']	0.712205864641
+['ticket', '8 dollar']	['5086.00 dollar']	0.525526174317
+['ticket', '8 dollar']	['child']	0.257540633541
+['adult ticket', '8 dollar']	['owner']	0.0667637182209
+['adult ticket', '8 dollar']	['amazing circus']	0.0737139440912
+['adult ticket', '8 dollar']	['circus']	0.0667637182209
+['adult ticket', '8 dollar']	['522 ticket']	0.544221442934
+['adult ticket', '8 dollar']	['ticket']	0.637516287091
+['adult ticket', '8 dollar']	['15 dollar']	0.502833079419
+['adult ticket', '8 dollar']	['child ticket']	0.7214098166
+['adult ticket', '8 dollar']	['receipt']	0.0634148935911
+['adult ticket', '8 dollar']	['dollar']	0.545034135635
+['adult ticket', '8 dollar']	['5086.00 dollar']	0.544221442934
+['adult ticket', '8 dollar']	['child']	0.0650959234194
+['15 dollar', '8 dollar']	['owner']	0.327028499836
+['15 dollar', '8 dollar']	['amazing circus']	0.139258682248
+['15 dollar', '8 dollar']	['circus']	0.327028499836
+['15 dollar', '8 dollar']	['522 ticket']	0.139258682248
+['15 dollar', '8 dollar']	['ticket']	0.51323626183
+['15 dollar', '8 dollar']	['adult ticket']	0.16132566236
+['15 dollar', '8 dollar']	['child ticket']	0.16132566236
+['15 dollar', '8 dollar']	['receipt']	0.37370815508
+['15 dollar', '8 dollar']	['dollar']	0.770879149715
+['15 dollar', '8 dollar']	['5086.00 dollar']	0.637144068101
+['15 dollar', '8 dollar']	['child']	0.345269105941
+['child ticket', '8 dollar']	['owner']	0.0667637182209
+['child ticket', '8 dollar']	['amazing circus']	0.0737139440912
+['child ticket', '8 dollar']	['circus']	0.0667637182209
+['child ticket', '8 dollar']	['522 ticket']	0.544221442934
+['child ticket', '8 dollar']	['ticket']	0.637516287091
+['child ticket', '8 dollar']	['adult ticket']	0.7214098166
+['child ticket', '8 dollar']	['15 dollar']	0.502833079419
+['child ticket', '8 dollar']	['receipt']	0.0634148935911
+['child ticket', '8 dollar']	['dollar']	0.545034135635
+['child ticket', '8 dollar']	['5086.00 dollar']	0.544221442934
+['child ticket', '8 dollar']	['child']	0.530792669321
+['receipt', '8 dollar']	['owner']	0.169023424553
+['receipt', '8 dollar']	['amazing circus']	0.0833805889219
+['receipt', '8 dollar']	['circus']	0.310987524772
+['receipt', '8 dollar']	['522 ticket']	0.0833805889219
+['receipt', '8 dollar']	['ticket']	0.859122011627
+['receipt', '8 dollar']	['adult ticket']	0.079704095659
+['receipt', '8 dollar']	['15 dollar']	0.617292730823
+['receipt', '8 dollar']	['child ticket']	0.079704095659
+['receipt', '8 dollar']	['dollar']	0.669330765982
+['receipt', '8 dollar']	['5086.00 dollar']	0.520866309821
+['receipt', '8 dollar']	['child']	0.290137159502
+['dollar', '8 dollar']	['owner']	0.357155367588
+['dollar', '8 dollar']	['amazing circus']	0.0968024870635
+['dollar', '8 dollar']	['circus']	0.297245159667
+['dollar', '8 dollar']	['522 ticket']	0.183873817054
+['dollar', '8 dollar']	['ticket']	0.413734650951
+['dollar', '8 dollar']	['adult ticket']	0.184088625564
+['dollar', '8 dollar']	['15 dollar']	0.660805840113
+['dollar', '8 dollar']	['child ticket']	0.184088625564
+['dollar', '8 dollar']	['receipt']	0.596453254739
+['dollar', '8 dollar']	['5086.00 dollar']	0.543445645363
+['dollar', '8 dollar']	['child']	0.563039610077
+['5086.00 dollar', '8 dollar']	['owner']	0.327028499836
+['5086.00 dollar', '8 dollar']	['amazing circus']	0.139258682248
+['5086.00 dollar', '8 dollar']	['circus']	0.327028499836
+['5086.00 dollar', '8 dollar']	['522 ticket']	0.139258682248
+['5086.00 dollar', '8 dollar']	['ticket']	0.51323626183
+['5086.00 dollar', '8 dollar']	['adult ticket']	0.16132566236
+['5086.00 dollar', '8 dollar']	['15 dollar']	0.784325248763
+['5086.00 dollar', '8 dollar']	['child ticket']	0.16132566236
+['5086.00 dollar', '8 dollar']	['receipt']	0.37370815508
+['5086.00 dollar', '8 dollar']	['dollar']	0.753261030166
+['5086.00 dollar', '8 dollar']	['child']	0.345269105941
+['child', '8 dollar']	['owner']	0.719008758257
+['child', '8 dollar']	['amazing circus']	0.0696933362217
+['child', '8 dollar']	['circus']	0.182729929366
+['child', '8 dollar']	['522 ticket']	0.0696933362217
+['child', '8 dollar']	['ticket']	0.240886432847
+['child', '8 dollar']	['adult ticket']	0.0746958245975
+['child', '8 dollar']	['15 dollar']	0.489601007424
+['child', '8 dollar']	['child ticket']	0.619247740011
+['child', '8 dollar']	['receipt']	0.34144854005
+['child', '8 dollar']	['dollar']	0.700344768757
+['child', '8 dollar']	['5086.00 dollar']	0.494524508322
+['owner', 'receipt']	['amazing circus']	0.0800317642921
+['owner', 'receipt']	['circus']	0.315292242169
+['owner', 'receipt']	['522 ticket']	0.0800317642921
+['owner', 'receipt']	['ticket']	0.448542050994
+['owner', 'receipt']	['adult ticket']	0.079704095659
+['owner', 'receipt']	['15 dollar']	0.0800317642921
+['owner', 'receipt']	['child ticket']	0.079704095659
+['owner', 'receipt']	['8 dollar']	0.0800317642921
+['owner', 'receipt']	['dollar']	0.123215905967
+['owner', 'receipt']	['5086.00 dollar']	0.0800317642921
+['owner', 'receipt']	['child']	0.432205213229
+['amazing circus', 'receipt']	['owner']	0.197817457066
+['amazing circus', 'receipt']	['circus']	0.70126410239
+['amazing circus', 'receipt']	['522 ticket']	0.0833805889219
+['amazing circus', 'receipt']	['ticket']	0.748002867908
+['amazing circus', 'receipt']	['adult ticket']	0.0830529202888
+['amazing circus', 'receipt']	['15 dollar']	0.0833805889219
+['amazing circus', 'receipt']	['child ticket']	0.0830529202888
+['amazing circus', 'receipt']	['8 dollar']	0.0833805889219
+['amazing circus', 'receipt']	['dollar']	0.347658978497
+['amazing circus', 'receipt']	['5086.00 dollar']	0.0833805889219
+['amazing circus', 'receipt']	['child']	0.352264525349
+['circus', 'receipt']	['owner']	0.135047951568
+['circus', 'receipt']	['amazing circus']	0.707006885025
+['circus', 'receipt']	['522 ticket']	0.0800317642921
+['circus', 'receipt']	['ticket']	0.584539176151
+['circus', 'receipt']	['adult ticket']	0.079704095659
+['circus', 'receipt']	['15 dollar']	0.0800317642921
+['circus', 'receipt']	['child ticket']	0.079704095659
+['circus', 'receipt']	['8 dollar']	0.0800317642921
+['circus', 'receipt']	['dollar']	0.257779963767
+['circus', 'receipt']	['5086.00 dollar']	0.0800317642921
+['circus', 'receipt']	['child']	0.108668538745
+['522 ticket', 'receipt']	['owner']	0.169023424553
+['522 ticket', 'receipt']	['amazing circus']	0.0833805889219
+['522 ticket', 'receipt']	['circus']	0.310987524772
+['522 ticket', 'receipt']	['ticket']	0.775304804602
+['522 ticket', 'receipt']	['adult ticket']	0.51364678879
+['522 ticket', 'receipt']	['15 dollar']	0.0833805889219
+['522 ticket', 'receipt']	['child ticket']	0.51364678879
+['522 ticket', 'receipt']	['8 dollar']	0.0833805889219
+['522 ticket', 'receipt']	['dollar']	0.490537525093
+['522 ticket', 'receipt']	['5086.00 dollar']	0.0833805889219
+['522 ticket', 'receipt']	['child']	0.290137159502
+['ticket', 'receipt']	['owner']	0.135702072301
+['ticket', 'receipt']	['amazing circus']	0.0689582110755
+['ticket', 'receipt']	['circus']	0.204088582565
+['ticket', 'receipt']	['522 ticket']	0.723846078739
+['ticket', 'receipt']	['adult ticket']	0.667002535514
+['ticket', 'receipt']	['15 dollar']	0.110566880729
+['ticket', 'receipt']	['child ticket']	0.667002535514
+['ticket', 'receipt']	['8 dollar']	0.110566880729
+['ticket', 'receipt']	['dollar']	0.284629554218
+['ticket', 'receipt']	['5086.00 dollar']	0.110566880729
+['ticket', 'receipt']	['child']	0.219982513022
+['adult ticket', 'receipt']	['owner']	0.182729929366
+['adult ticket', 'receipt']	['amazing circus']	0.0703393045902
+['adult ticket', 'receipt']	['circus']	0.230902147551
+['adult ticket', 'receipt']	['522 ticket']	0.465538040018
+['adult ticket', 'receipt']	['ticket']	0.755813068564
+['adult ticket', 'receipt']	['15 dollar']	0.0669904799604
+['adult ticket', 'receipt']	['child ticket']	0.743821928147
+['adult ticket', 'receipt']	['8 dollar']	0.0669904799604
+['adult ticket', 'receipt']	['dollar']	0.490537525093
+['adult ticket', 'receipt']	['5086.00 dollar']	0.0703393045902
+['adult ticket', 'receipt']	['child']	0.287172632079
+['15 dollar', 'receipt']	['owner']	0.169023424553
+['15 dollar', 'receipt']	['amazing circus']	0.0833805889219
+['15 dollar', 'receipt']	['circus']	0.310987524772
+['15 dollar', 'receipt']	['522 ticket']	0.0833805889219
+['15 dollar', 'receipt']	['ticket']	0.859122011627
+['15 dollar', 'receipt']	['adult ticket']	0.079704095659
+['15 dollar', 'receipt']	['child ticket']	0.079704095659
+['15 dollar', 'receipt']	['8 dollar']	0.617292730823
+['15 dollar', 'receipt']	['dollar']	0.685440582092
+['15 dollar', 'receipt']	['5086.00 dollar']	0.520866309821
+['15 dollar', 'receipt']	['child']	0.290137159502
+['child ticket', 'receipt']	['owner']	0.182729929366
+['child ticket', 'receipt']	['amazing circus']	0.0703393045902
+['child ticket', 'receipt']	['circus']	0.230902147551
+['child ticket', 'receipt']	['522 ticket']	0.465538040018
+['child ticket', 'receipt']	['ticket']	0.755813068564
+['child ticket', 'receipt']	['adult ticket']	0.743821928147
+['child ticket', 'receipt']	['15 dollar']	0.0669904799604
+['child ticket', 'receipt']	['8 dollar']	0.0669904799604
+['child ticket', 'receipt']	['dollar']	0.490537525093
+['child ticket', 'receipt']	['5086.00 dollar']	0.0703393045902
+['child ticket', 'receipt']	['child']	0.626305554145
+['8 dollar', 'receipt']	['owner']	0.169023424553
+['8 dollar', 'receipt']	['amazing circus']	0.0833805889219
+['8 dollar', 'receipt']	['circus']	0.310987524772
+['8 dollar', 'receipt']	['522 ticket']	0.0833805889219
+['8 dollar', 'receipt']	['ticket']	0.859122011627
+['8 dollar', 'receipt']	['adult ticket']	0.079704095659
+['8 dollar', 'receipt']	['15 dollar']	0.617292730823
+['8 dollar', 'receipt']	['child ticket']	0.079704095659
+['8 dollar', 'receipt']	['dollar']	0.669330765982
+['8 dollar', 'receipt']	['5086.00 dollar']	0.520866309821
+['8 dollar', 'receipt']	['child']	0.290137159502
+['dollar', 'receipt']	['owner']	0.145926719587
+['dollar', 'receipt']	['amazing circus']	0.0368701550083
+['dollar', 'receipt']	['circus']	0.0675294848153
+['dollar', 'receipt']	['522 ticket']	0.0714527268925
+['dollar', 'receipt']	['ticket']	0.366665586929
+['dollar', 'receipt']	['adult ticket']	0.0686528295197
+['dollar', 'receipt']	['15 dollar']	0.452298826701
+['dollar', 'receipt']	['child ticket']	0.0686528295197
+['dollar', 'receipt']	['8 dollar']	0.464438712775
+['dollar', 'receipt']	['5086.00 dollar']	0.345399931471
+['dollar', 'receipt']	['child']	0.18401708738
+['5086.00 dollar', 'receipt']	['owner']	0.169023424553
+['5086.00 dollar', 'receipt']	['amazing circus']	0.0833805889219
+['5086.00 dollar', 'receipt']	['circus']	0.310987524772
+['5086.00 dollar', 'receipt']	['522 ticket']	0.0833805889219
+['5086.00 dollar', 'receipt']	['ticket']	0.859122011627
+['5086.00 dollar', 'receipt']	['adult ticket']	0.0830529202888
+['5086.00 dollar', 'receipt']	['15 dollar']	0.520866309821
+['5086.00 dollar', 'receipt']	['child ticket']	0.0830529202888
+['5086.00 dollar', 'receipt']	['8 dollar']	0.520866309821
+['5086.00 dollar', 'receipt']	['dollar']	0.512339644858
+['5086.00 dollar', 'receipt']	['child']	0.290137159502
+['child', 'receipt']	['owner']	0.534165564149
+['child', 'receipt']	['amazing circus']	0.0669904799604
+['child', 'receipt']	['circus']	0.303734088243
+['child', 'receipt']	['522 ticket']	0.0669904799604
+['child', 'receipt']	['ticket']	0.471675029659
+['child', 'receipt']	['adult ticket']	0.0719929683361
+['child', 'receipt']	['15 dollar']	0.0669904799604
+['child', 'receipt']	['child ticket']	0.460766566679
+['child', 'receipt']	['8 dollar']	0.0669904799604
+['child', 'receipt']	['dollar']	0.0229070647687
+['child', 'receipt']	['5086.00 dollar']	0.0669904799604
+['owner', 'dollar']	['amazing circus']	0.0361569291624
+['owner', 'dollar']	['circus']	0.108543625811
+['owner', 'dollar']	['522 ticket']	0.0618737183104
+['owner', 'dollar']	['ticket']	0.109379492073
+['owner', 'dollar']	['adult ticket']	0.0650051934866
+['owner', 'dollar']	['15 dollar']	0.391516700063
+['owner', 'dollar']	['child ticket']	0.0650051934866
+['owner', 'dollar']	['8 dollar']	0.397268490074
+['owner', 'dollar']	['receipt']	0.283771951671
+['owner', 'dollar']	['5086.00 dollar']	0.345399931471
+['owner', 'dollar']	['child']	0.066813363695
+['amazing circus', 'dollar']	['owner']	0.218682327076
+['amazing circus', 'dollar']	['circus']	0.452074416031
+['amazing circus', 'dollar']	['522 ticket']	0.0618737183104
+['amazing circus', 'dollar']	['ticket']	0.11086262958
+['amazing circus', 'dollar']	['adult ticket']	0.0650051934866
+['amazing circus', 'dollar']	['15 dollar']	0.391516700063
+['amazing circus', 'dollar']	['child ticket']	0.0650051934866
+['amazing circus', 'dollar']	['8 dollar']	0.397268490074
+['amazing circus', 'dollar']	['receipt']	0.466774123728
+['amazing circus', 'dollar']	['5086.00 dollar']	0.384540526976
+['amazing circus', 'dollar']	['child']	0.469841476796
+['circus', 'dollar']	['owner']	0.0443582299687
+['circus', 'dollar']	['amazing circus']	0.345399931471
+['circus', 'dollar']	['522 ticket']	0.0618737183104
+['circus', 'dollar']	['ticket']	0.111172421365
+['circus', 'dollar']	['adult ticket']	0.0650051934866
+['circus', 'dollar']	['15 dollar']	0.391516700063
+['circus', 'dollar']	['child ticket']	0.0650051934866
+['circus', 'dollar']	['8 dollar']	0.397268490074
+['circus', 'dollar']	['receipt']	0.373916607178
+['circus', 'dollar']	['5086.00 dollar']	0.345399931471
+['circus', 'dollar']	['child']	0.199975137267
+['522 ticket', 'dollar']	['owner']	0.186472212455
+['522 ticket', 'dollar']	['amazing circus']	0.0361569291624
+['522 ticket', 'dollar']	['circus']	0.109561042279
+['522 ticket', 'dollar']	['ticket']	0.646450713312
+['522 ticket', 'dollar']	['adult ticket']	0.227268900055
+['522 ticket', 'dollar']	['15 dollar']	0.391516700063
+['522 ticket', 'dollar']	['child ticket']	0.227268900055
+['522 ticket', 'dollar']	['8 dollar']	0.397268490074
+['522 ticket', 'dollar']	['receipt']	0.461903993858
+['522 ticket', 'dollar']	['5086.00 dollar']	0.384540526976
+['522 ticket', 'dollar']	['child']	0.463557288101
+['ticket', 'dollar']	['owner']	0.106436077651
+['ticket', 'dollar']	['amazing circus']	0.0982347768443
+['ticket', 'dollar']	['circus']	0.167564653415
+['ticket', 'dollar']	['522 ticket']	0.545159042756
+['ticket', 'dollar']	['adult ticket']	0.463940607453
+['ticket', 'dollar']	['15 dollar']	0.538150963439
+['ticket', 'dollar']	['child ticket']	0.463940607453
+['ticket', 'dollar']	['8 dollar']	0.572396609663
+['ticket', 'dollar']	['receipt']	0.176078426912
+['ticket', 'dollar']	['5086.00 dollar']	0.363289837203
+['ticket', 'dollar']	['child']	0.274976633107
+['adult ticket', 'dollar']	['owner']	0.248550060137
+['adult ticket', 'dollar']	['amazing circus']	0.0982347768443
+['adult ticket', 'dollar']	['circus']	0.1669002517
+['adult ticket', 'dollar']	['522 ticket']	0.208039687774
+['adult ticket', 'dollar']	['ticket']	0.600796035125
+['adult ticket', 'dollar']	['15 dollar']	0.391516700063
+['adult ticket', 'dollar']	['child ticket']	0.458978284107
+['adult ticket', 'dollar']	['8 dollar']	0.397268490074
+['adult ticket', 'dollar']	['receipt']	0.502737327192
+['adult ticket', 'dollar']	['5086.00 dollar']	0.391558070836
+['adult ticket', 'dollar']	['child']	0.504390621435
+['15 dollar', 'dollar']	['owner']	0.357155367588
+['15 dollar', 'dollar']	['amazing circus']	0.0968024870635
+['15 dollar', 'dollar']	['circus']	0.297245159667
+['15 dollar', 'dollar']	['522 ticket']	0.183873817054
+['15 dollar', 'dollar']	['ticket']	0.413734650951
+['15 dollar', 'dollar']	['adult ticket']	0.184088625564
+['15 dollar', 'dollar']	['child ticket']	0.184088625564
+['15 dollar', 'dollar']	['8 dollar']	0.736214012955
+['15 dollar', 'dollar']	['receipt']	0.596453254739
+['15 dollar', 'dollar']	['5086.00 dollar']	0.543445645363
+['15 dollar', 'dollar']	['child']	0.563039610077
+['child ticket', 'dollar']	['owner']	0.248550060137
+['child ticket', 'dollar']	['amazing circus']	0.0982347768443
+['child ticket', 'dollar']	['circus']	0.1669002517
+['child ticket', 'dollar']	['522 ticket']	0.208039687774
+['child ticket', 'dollar']	['ticket']	0.600796035125
+['child ticket', 'dollar']	['adult ticket']	0.458978284107
+['child ticket', 'dollar']	['15 dollar']	0.391516700063
+['child ticket', 'dollar']	['8 dollar']	0.397268490074
+['child ticket', 'dollar']	['receipt']	0.502737327192
+['child ticket', 'dollar']	['5086.00 dollar']	0.391558070836
+['child ticket', 'dollar']	['child']	0.560229831144
+['8 dollar', 'dollar']	['owner']	0.357155367588
+['8 dollar', 'dollar']	['amazing circus']	0.0968024870635
+['8 dollar', 'dollar']	['circus']	0.297245159667
+['8 dollar', 'dollar']	['522 ticket']	0.183873817054
+['8 dollar', 'dollar']	['ticket']	0.413734650951
+['8 dollar', 'dollar']	['adult ticket']	0.184088625564
+['8 dollar', 'dollar']	['15 dollar']	0.660805840113
+['8 dollar', 'dollar']	['child ticket']	0.184088625564
+['8 dollar', 'dollar']	['receipt']	0.596453254739
+['8 dollar', 'dollar']	['5086.00 dollar']	0.543445645363
+['8 dollar', 'dollar']	['child']	0.563039610077
+['receipt', 'dollar']	['owner']	0.145926719587
+['receipt', 'dollar']	['amazing circus']	0.0368701550083
+['receipt', 'dollar']	['circus']	0.0675294848153
+['receipt', 'dollar']	['522 ticket']	0.0714527268925
+['receipt', 'dollar']	['ticket']	0.366665586929
+['receipt', 'dollar']	['adult ticket']	0.0686528295197
+['receipt', 'dollar']	['15 dollar']	0.452298826701
+['receipt', 'dollar']	['child ticket']	0.0686528295197
+['receipt', 'dollar']	['8 dollar']	0.464438712775
+['receipt', 'dollar']	['5086.00 dollar']	0.345399931471
+['receipt', 'dollar']	['child']	0.18401708738
+['5086.00 dollar', 'dollar']	['owner']	0.357155367588
+['5086.00 dollar', 'dollar']	['amazing circus']	0.0968024870635
+['5086.00 dollar', 'dollar']	['circus']	0.297245159667
+['5086.00 dollar', 'dollar']	['522 ticket']	0.183873817054
+['5086.00 dollar', 'dollar']	['ticket']	0.413734650951
+['5086.00 dollar', 'dollar']	['adult ticket']	0.184088625564
+['5086.00 dollar', 'dollar']	['15 dollar']	0.638178477636
+['5086.00 dollar', 'dollar']	['child ticket']	0.184088625564
+['5086.00 dollar', 'dollar']	['8 dollar']	0.689544863391
+['5086.00 dollar', 'dollar']	['receipt']	0.596453254739
+['5086.00 dollar', 'dollar']	['child']	0.563039610077
+['child', 'dollar']	['owner']	0.242560771939
+['child', 'dollar']	['amazing circus']	0.0982347768443
+['child', 'dollar']	['circus']	0.165882835233
+['child', 'dollar']	['522 ticket']	0.118523866578
+['child', 'dollar']	['ticket']	0.133432163426
+['child', 'dollar']	['adult ticket']	0.121655341754
+['child', 'dollar']	['15 dollar']	0.391516700063
+['child', 'dollar']	['child ticket']	0.376690982322
+['child', 'dollar']	['8 dollar']	0.397268490074
+['child', 'dollar']	['receipt']	0.224800920251
+['child', 'dollar']	['5086.00 dollar']	0.359760932789
+['owner', '5086.00 dollar']	['amazing circus']	0.0827346205535
+['owner', '5086.00 dollar']	['circus']	0.169023424553
+['owner', '5086.00 dollar']	['522 ticket']	0.0827346205535
+['owner', '5086.00 dollar']	['ticket']	0.328883094735
+['owner', '5086.00 dollar']	['adult ticket']	0.0824069519204
+['owner', '5086.00 dollar']	['15 dollar']	0.549852778125
+['owner', '5086.00 dollar']	['child ticket']	0.0824069519204
+['owner', '5086.00 dollar']	['8 dollar']	0.549852778125
+['owner', '5086.00 dollar']	['receipt']	0.192947327196
+['owner', '5086.00 dollar']	['dollar']	0.44456581241
+['owner', '5086.00 dollar']	['child']	0.710308548613
+['amazing circus', '5086.00 dollar']	['owner']	0.0777864840342
+['amazing circus', '5086.00 dollar']	['circus']	0.609298680331
+['amazing circus', '5086.00 dollar']	['522 ticket']	0.0901100077042
+['amazing circus', '5086.00 dollar']	['ticket']	0.105969303899
+['amazing circus', '5086.00 dollar']	['adult ticket']	0.0897823390711
+['amazing circus', '5086.00 dollar']	['15 dollar']	0.584269096576
+['amazing circus', '5086.00 dollar']	['child ticket']	0.0897823390711
+['amazing circus', '5086.00 dollar']	['8 dollar']	0.584269096576
+['amazing circus', '5086.00 dollar']	['receipt']	0.0744376594044
+['amazing circus', '5086.00 dollar']	['dollar']	0.345297574209
+['amazing circus', '5086.00 dollar']	['child']	0.0774561735493
+['circus', '5086.00 dollar']	['owner']	0.169023424553
+['circus', '5086.00 dollar']	['amazing circus']	0.707594685938
+['circus', '5086.00 dollar']	['522 ticket']	0.0827346205535
+['circus', '5086.00 dollar']	['ticket']	0.281133479906
+['circus', '5086.00 dollar']	['adult ticket']	0.0824069519204
+['circus', '5086.00 dollar']	['15 dollar']	0.549852778125
+['circus', '5086.00 dollar']	['child ticket']	0.0824069519204
+['circus', '5086.00 dollar']	['8 dollar']	0.549852778125
+['circus', '5086.00 dollar']	['receipt']	0.326515104636
+['circus', '5086.00 dollar']	['dollar']	0.470174163506
+['circus', '5086.00 dollar']	['child']	0.192648399091
+['522 ticket', '5086.00 dollar']	['owner']	0.0777864840342
+['522 ticket', '5086.00 dollar']	['amazing circus']	0.0901100077042
+['522 ticket', '5086.00 dollar']	['circus']	0.0777864840342
+['522 ticket', '5086.00 dollar']	['ticket']	0.687998110055
+['522 ticket', '5086.00 dollar']	['adult ticket']	0.577101062223
+['522 ticket', '5086.00 dollar']	['15 dollar']	0.584269096576
+['522 ticket', '5086.00 dollar']	['child ticket']	0.577101062223
+['522 ticket', '5086.00 dollar']	['8 dollar']	0.584269096576
+['522 ticket', '5086.00 dollar']	['receipt']	0.0744376594044
+['522 ticket', '5086.00 dollar']	['dollar']	0.404389461393
+['522 ticket', '5086.00 dollar']	['child']	0.0774561735493
+['ticket', '5086.00 dollar']	['owner']	0.182729929366
+['ticket', '5086.00 dollar']	['amazing circus']	0.0696933362217
+['ticket', '5086.00 dollar']	['circus']	0.160294424896
+['ticket', '5086.00 dollar']	['522 ticket']	0.669973747197
+['ticket', '5086.00 dollar']	['adult ticket']	0.604465896967
+['ticket', '5086.00 dollar']	['15 dollar']	0.525526174317
+['ticket', '5086.00 dollar']	['child ticket']	0.604465896967
+['ticket', '5086.00 dollar']	['8 dollar']	0.525526174317
+['ticket', '5086.00 dollar']	['receipt']	0.744929762239
+['ticket', '5086.00 dollar']	['dollar']	0.473606703188
+['ticket', '5086.00 dollar']	['child']	0.257540633541
+['adult ticket', '5086.00 dollar']	['owner']	0.0667637182209
+['adult ticket', '5086.00 dollar']	['amazing circus']	0.0737139440912
+['adult ticket', '5086.00 dollar']	['circus']	0.0667637182209
+['adult ticket', '5086.00 dollar']	['522 ticket']	0.544221442934
+['adult ticket', '5086.00 dollar']	['ticket']	0.637516287091
+['adult ticket', '5086.00 dollar']	['15 dollar']	0.5220554072
+['adult ticket', '5086.00 dollar']	['child ticket']	0.705549007265
+['adult ticket', '5086.00 dollar']	['8 dollar']	0.5220554072
+['adult ticket', '5086.00 dollar']	['receipt']	0.0634148935911
+['adult ticket', '5086.00 dollar']	['dollar']	0.421694420196
+['adult ticket', '5086.00 dollar']	['child']	0.0650959234194
+['15 dollar', '5086.00 dollar']	['owner']	0.327028499836
+['15 dollar', '5086.00 dollar']	['amazing circus']	0.139258682248
+['15 dollar', '5086.00 dollar']	['circus']	0.327028499836
+['15 dollar', '5086.00 dollar']	['522 ticket']	0.139258682248
+['15 dollar', '5086.00 dollar']	['ticket']	0.51323626183
+['15 dollar', '5086.00 dollar']	['adult ticket']	0.16132566236
+['15 dollar', '5086.00 dollar']	['child ticket']	0.16132566236
+['15 dollar', '5086.00 dollar']	['8 dollar']	0.784325248763
+['15 dollar', '5086.00 dollar']	['receipt']	0.37370815508
+['15 dollar', '5086.00 dollar']	['dollar']	0.682603282716
+['15 dollar', '5086.00 dollar']	['child']	0.345269105941
+['child ticket', '5086.00 dollar']	['owner']	0.0667637182209
+['child ticket', '5086.00 dollar']	['amazing circus']	0.0737139440912
+['child ticket', '5086.00 dollar']	['circus']	0.0667637182209
+['child ticket', '5086.00 dollar']	['522 ticket']	0.544221442934
+['child ticket', '5086.00 dollar']	['ticket']	0.637516287091
+['child ticket', '5086.00 dollar']	['adult ticket']	0.705549007265
+['child ticket', '5086.00 dollar']	['15 dollar']	0.5220554072
+['child ticket', '5086.00 dollar']	['8 dollar']	0.5220554072
+['child ticket', '5086.00 dollar']	['receipt']	0.0634148935911
+['child ticket', '5086.00 dollar']	['dollar']	0.421694420196
+['child ticket', '5086.00 dollar']	['child']	0.530792669321
+['8 dollar', '5086.00 dollar']	['owner']	0.327028499836
+['8 dollar', '5086.00 dollar']	['amazing circus']	0.139258682248
+['8 dollar', '5086.00 dollar']	['circus']	0.327028499836
+['8 dollar', '5086.00 dollar']	['522 ticket']	0.139258682248
+['8 dollar', '5086.00 dollar']	['ticket']	0.51323626183
+['8 dollar', '5086.00 dollar']	['adult ticket']	0.16132566236
+['8 dollar', '5086.00 dollar']	['15 dollar']	0.784325248763
+['8 dollar', '5086.00 dollar']	['child ticket']	0.16132566236
+['8 dollar', '5086.00 dollar']	['receipt']	0.37370815508
+['8 dollar', '5086.00 dollar']	['dollar']	0.753261030166
+['8 dollar', '5086.00 dollar']	['child']	0.345269105941
+['receipt', '5086.00 dollar']	['owner']	0.169023424553
+['receipt', '5086.00 dollar']	['amazing circus']	0.0833805889219
+['receipt', '5086.00 dollar']	['circus']	0.310987524772
+['receipt', '5086.00 dollar']	['522 ticket']	0.0833805889219
+['receipt', '5086.00 dollar']	['ticket']	0.859122011627
+['receipt', '5086.00 dollar']	['adult ticket']	0.0830529202888
+['receipt', '5086.00 dollar']	['15 dollar']	0.520866309821
+['receipt', '5086.00 dollar']	['child ticket']	0.0830529202888
+['receipt', '5086.00 dollar']	['8 dollar']	0.520866309821
+['receipt', '5086.00 dollar']	['dollar']	0.512339644858
+['receipt', '5086.00 dollar']	['child']	0.290137159502
+['dollar', '5086.00 dollar']	['owner']	0.357155367588
+['dollar', '5086.00 dollar']	['amazing circus']	0.0968024870635
+['dollar', '5086.00 dollar']	['circus']	0.297245159667
+['dollar', '5086.00 dollar']	['522 ticket']	0.183873817054
+['dollar', '5086.00 dollar']	['ticket']	0.413734650951
+['dollar', '5086.00 dollar']	['adult ticket']	0.184088625564
+['dollar', '5086.00 dollar']	['15 dollar']	0.638178477636
+['dollar', '5086.00 dollar']	['child ticket']	0.184088625564
+['dollar', '5086.00 dollar']	['8 dollar']	0.689544863391
+['dollar', '5086.00 dollar']	['receipt']	0.596453254739
+['dollar', '5086.00 dollar']	['child']	0.563039610077
+['child', '5086.00 dollar']	['owner']	0.719008758257
+['child', '5086.00 dollar']	['amazing circus']	0.0696933362217
+['child', '5086.00 dollar']	['circus']	0.182729929366
+['child', '5086.00 dollar']	['522 ticket']	0.0696933362217
+['child', '5086.00 dollar']	['ticket']	0.240886432847
+['child', '5086.00 dollar']	['adult ticket']	0.0746958245975
+['child', '5086.00 dollar']	['15 dollar']	0.494524508322
+['child', '5086.00 dollar']	['child ticket']	0.539203648301
+['child', '5086.00 dollar']	['8 dollar']	0.494524508322
+['child', '5086.00 dollar']	['receipt']	0.34144854005
+['child', '5086.00 dollar']	['dollar']	0.517200755969
+['owner', 'child']	['amazing circus']	0.0663445115919
+['owner', 'child']	['circus']	0.0734239376973
+['owner', 'child']	['522 ticket']	0.0696933362217
+['owner', 'child']	['ticket']	0.263063977013
+['owner', 'child']	['adult ticket']	0.0746958245975
+['owner', 'child']	['15 dollar']	0.0696933362217
+['owner', 'child']	['child ticket']	0.594552995581
+['owner', 'child']	['8 dollar']	0.0696933362217
+['owner', 'child']	['receipt']	0.16567663238
+['owner', 'child']	['dollar']	0.117636924875
+['owner', 'child']	['5086.00 dollar']	0.0696933362217
+['amazing circus', 'child']	['owner']	0.716321309289
+['amazing circus', 'child']	['circus']	0.675070781902
+['amazing circus', 'child']	['522 ticket']	0.0696933362217
+['amazing circus', 'child']	['ticket']	0.257540633541
+['amazing circus', 'child']	['adult ticket']	0.0746958245975
+['amazing circus', 'child']	['15 dollar']	0.0696933362217
+['amazing circus', 'child']	['child ticket']	0.539203648301
+['amazing circus', 'child']	['8 dollar']	0.0696933362217
+['amazing circus', 'child']	['receipt']	0.34631866992
+['amazing circus', 'child']	['dollar']	0.347658978497
+['amazing circus', 'child']	['5086.00 dollar']	0.0696933362217
+['circus', 'child']	['owner']	0.447953137923
+['circus', 'child']	['amazing circus']	0.692205356686
+['circus', 'child']	['522 ticket']	0.0696933362217
+['circus', 'child']	['ticket']	0.228778262727
+['circus', 'child']	['adult ticket']	0.0746958245975
+['circus', 'child']	['15 dollar']	0.0696933362217
+['circus', 'child']	['child ticket']	0.594552995581
+['circus', 'child']	['8 dollar']	0.0696933362217
+['circus', 'child']	['receipt']	0.303380774402
+['circus', 'child']	['dollar']	0.238368336294
+['circus', 'child']	['5086.00 dollar']	0.0696933362217
+['522 ticket', 'child']	['owner']	0.730631902138
+['522 ticket', 'child']	['amazing circus']	0.0696933362217
+['522 ticket', 'child']	['circus']	0.182729929366
+['522 ticket', 'child']	['ticket']	0.704860738406
+['522 ticket', 'child']	['adult ticket']	0.508450579183
+['522 ticket', 'child']	['15 dollar']	0.0696933362217
+['522 ticket', 'child']	['child ticket']	0.792750230012
+['522 ticket', 'child']	['8 dollar']	0.0696933362217
+['522 ticket', 'child']	['receipt']	0.34144854005
+['522 ticket', 'child']	['dollar']	0.490537525093
+['522 ticket', 'child']	['5086.00 dollar']	0.0696933362217
+['ticket', 'child']	['owner']	0.460970379302
+['ticket', 'child']	['amazing circus']	0.131771183904
+['ticket', 'child']	['circus']	0.215871791329
+['ticket', 'child']	['522 ticket']	0.670043866319
+['ticket', 'child']	['adult ticket']	0.571744128048
+['ticket', 'child']	['15 dollar']	0.174138467195
+['ticket', 'child']	['child ticket']	0.535862509957
+['ticket', 'child']	['8 dollar']	0.174138467195
+['ticket', 'child']	['receipt']	0.445391117294
+['ticket', 'child']	['dollar']	0.328489203341
+['ticket', 'child']	['5086.00 dollar']	0.174138467195
+['adult ticket', 'child']	['owner']	0.743649143518
+['adult ticket', 'child']	['amazing circus']	0.131771183904
+['adult ticket', 'child']	['circus']	0.244807777048
+['adult ticket', 'child']	['522 ticket']	0.55086501266
+['adult ticket', 'child']	['ticket']	0.652915829848
+['adult ticket', 'child']	['15 dollar']	0.131771183904
+['adult ticket', 'child']	['child ticket']	0.79956275245
+['adult ticket', 'child']	['8 dollar']	0.131771183904
+['adult ticket', 'child']	['receipt']	0.403526387732
+['adult ticket', 'child']	['dollar']	0.523870858426
+['adult ticket', 'child']	['5086.00 dollar']	0.131771183904
+['15 dollar', 'child']	['owner']	0.719008758257
+['15 dollar', 'child']	['amazing circus']	0.0696933362217
+['15 dollar', 'child']	['circus']	0.182729929366
+['15 dollar', 'child']	['522 ticket']	0.0696933362217
+['15 dollar', 'child']	['ticket']	0.240886432847
+['15 dollar', 'child']	['adult ticket']	0.0746958245975
+['15 dollar', 'child']	['child ticket']	0.619247740011
+['15 dollar', 'child']	['8 dollar']	0.489601007424
+['15 dollar', 'child']	['receipt']	0.34144854005
+['15 dollar', 'child']	['dollar']	0.716454584867
+['15 dollar', 'child']	['5086.00 dollar']	0.494524508322
+['child ticket', 'child']	['owner']	0.743649143518
+['child ticket', 'child']	['amazing circus']	0.131771183904
+['child ticket', 'child']	['circus']	0.244807777048
+['child ticket', 'child']	['522 ticket']	0.55086501266
+['child ticket', 'child']	['ticket']	0.652915829848
+['child ticket', 'child']	['adult ticket']	0.742307171098
+['child ticket', 'child']	['15 dollar']	0.131771183904
+['child ticket', 'child']	['8 dollar']	0.131771183904
+['child ticket', 'child']	['receipt']	0.403526387732
+['child ticket', 'child']	['dollar']	0.523870858426
+['child ticket', 'child']	['5086.00 dollar']	0.131771183904
+['8 dollar', 'child']	['owner']	0.719008758257
+['8 dollar', 'child']	['amazing circus']	0.0696933362217
+['8 dollar', 'child']	['circus']	0.182729929366
+['8 dollar', 'child']	['522 ticket']	0.0696933362217
+['8 dollar', 'child']	['ticket']	0.240886432847
+['8 dollar', 'child']	['adult ticket']	0.0746958245975
+['8 dollar', 'child']	['15 dollar']	0.489601007424
+['8 dollar', 'child']	['child ticket']	0.619247740011
+['8 dollar', 'child']	['receipt']	0.34144854005
+['8 dollar', 'child']	['dollar']	0.700344768757
+['8 dollar', 'child']	['5086.00 dollar']	0.494524508322
+['receipt', 'child']	['owner']	0.534165564149
+['receipt', 'child']	['amazing circus']	0.0669904799604
+['receipt', 'child']	['circus']	0.303734088243
+['receipt', 'child']	['522 ticket']	0.0669904799604
+['receipt', 'child']	['ticket']	0.471675029659
+['receipt', 'child']	['adult ticket']	0.0719929683361
+['receipt', 'child']	['15 dollar']	0.0669904799604
+['receipt', 'child']	['child ticket']	0.460766566679
+['receipt', 'child']	['8 dollar']	0.0669904799604
+['receipt', 'child']	['dollar']	0.0229070647687
+['receipt', 'child']	['5086.00 dollar']	0.0669904799604
+['dollar', 'child']	['owner']	0.242560771939
+['dollar', 'child']	['amazing circus']	0.0982347768443
+['dollar', 'child']	['circus']	0.165882835233
+['dollar', 'child']	['522 ticket']	0.118523866578
+['dollar', 'child']	['ticket']	0.133432163426
+['dollar', 'child']	['adult ticket']	0.121655341754
+['dollar', 'child']	['15 dollar']	0.391516700063
+['dollar', 'child']	['child ticket']	0.376690982322
+['dollar', 'child']	['8 dollar']	0.397268490074
+['dollar', 'child']	['receipt']	0.224800920251
+['dollar', 'child']	['5086.00 dollar']	0.359760932789
+['5086.00 dollar', 'child']	['owner']	0.719008758257
+['5086.00 dollar', 'child']	['amazing circus']	0.0696933362217
+['5086.00 dollar', 'child']	['circus']	0.182729929366
+['5086.00 dollar', 'child']	['522 ticket']	0.0696933362217
+['5086.00 dollar', 'child']	['ticket']	0.240886432847
+['5086.00 dollar', 'child']	['adult ticket']	0.0746958245975
+['5086.00 dollar', 'child']	['15 dollar']	0.494524508322
+['5086.00 dollar', 'child']	['child ticket']	0.539203648301
+['5086.00 dollar', 'child']	['8 dollar']	0.494524508322
+['5086.00 dollar', 'child']	['receipt']	0.34144854005
+['5086.00 dollar', 'child']	['dollar']	0.517200755969

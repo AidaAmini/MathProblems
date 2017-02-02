@@ -1,0 +1,14 @@
+1
+[['phone service', '-', '-', '-', '-', 'dollar', '23.36'], ['monthly fee', '1', 'month', 'dollar', '2', '-', '-'], ['-', 'x1', 'minute', 'cent', '12', '-', '-']]
+-1
+[['cent', '12', 'phone service', '-', '-', 'dollar', '23.36'], ['monthly fee', '1', 'month', 'dollar', '2', '-', '-'], ['-', 'phone service', '23.36', 'cent', '12', 'dollar', '-']]
+-1
+[['phone service', '-', '-', 'minute', '-', 'dollar', '12'], ['monthly fee', '1', 'month', 'dollar', '2', '-', '-'], ['-', 'x1', 'minute', 'phone service', '12', '-', '-']]
+-1
+[['phone service', '-', '12', 'minute', '-', 'dollar', 'cent'], ['monthly fee', '1', 'month', 'dollar', '2', '-', '-'], ['-', 'dollar', 'minute', 'phone service', '12', '-', '-']]
+-1
+[['phone service', 'cent', '-', 'minute', '12', 'dollar', 'x1'], ['monthly fee', '1', 'month', 'dollar', '2', '-', '-'], ['-', 'x1', 'minute', 'cent', '12', '-', 'dollar']]
+-1
+[['phone service', '-', '12', '-', '-', 'dollar', '23.36'], ['monthly fee', '1', 'month', 'dollar', '2', '-', '-'], ['-', 'x1', 'minute', 'cent', '12', '-', 'dollar']]
+-1
+[['phone service', '-', '-', 'x1', 'dollar', 'minute', '23.36'], ['monthly fee', '1', 'month', 'dollar', '2', '-', '-'], ['-', 'phone service', 'minute', 'cent', '12', '-', 'dollar']]

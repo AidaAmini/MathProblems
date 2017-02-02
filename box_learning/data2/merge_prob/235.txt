@@ -1,0 +1,763 @@
+['1800 dollar monthly salary', 'furniture', 'salary', 'base salary', '1600 dollar', '4 % commission', 'of furniture', 'month', 'of sale', '2 choice']
+['1800 dollar monthly salary']	['furniture']	0.0880692059685
+['1800 dollar monthly salary']	['base salary']	0.474767089372
+['1800 dollar monthly salary']	['1600 dollar']	0.0988755105172
+['1800 dollar monthly salary']	['4 % commission']	0.107526100904
+['1800 dollar monthly salary']	['of furniture']	0.0988755105172
+['1800 dollar monthly salary']	['month']	0.012852508684
+['1800 dollar monthly salary']	['of sale']	0.0988755105172
+['1800 dollar monthly salary']	['2 choice']	0.0988755105172
+['furniture']	['salary']	0.0624461512164
+['furniture']	['base salary']	0.0696933362217
+['furniture']	['1600 dollar']	0.0696933362217
+['furniture']	['4 % commission']	0.080802298149
+['furniture']	['month']	0.0240886330375
+['furniture']	['of sale']	0.0696933362217
+['furniture']	['2 choice']	0.0696933362217
+['salary']	['1600 dollar']	0.0465787639079
+['salary']	['4 % commission']	0.0556806162219
+['salary']	['of furniture']	0.0465787639079
+['salary']	['month']	0.00388540021915
+['salary']	['of sale']	0.0465787639079
+['salary']	['2 choice']	0.0465787639079
+['base salary']	['1600 dollar']	0.0901100077042
+['base salary']	['4 % commission']	0.0941266761548
+['base salary']	['of furniture']	0.0901100077042
+['base salary']	['month']	0.0132263547461
+['base salary']	['of sale']	0.0901100077042
+['base salary']	['2 choice']	0.0901100077042
+['1600 dollar']	['4 % commission']	0.0941266761548
+['1600 dollar']	['of furniture']	0.0901100077042
+['1600 dollar']	['month']	0.0143499502517
+['1600 dollar']	['of sale']	0.0901100077042
+['1600 dollar']	['2 choice']	0.0901100077042
+['4 % commission']	['of furniture']	0.0988755105172
+['4 % commission']	['month']	0.015547544145
+['4 % commission']	['of sale']	0.0988755105172
+['4 % commission']	['2 choice']	0.392705145363
+['of furniture']	['month']	0.0132263547461
+['of furniture']	['of sale']	0.0901100077042
+['of furniture']	['2 choice']	0.0901100077042
+['month']	['of sale']	0.0160749451882
+['month']	['2 choice']	0.0160749451882
+['of sale']	['2 choice']	0.0827768707468
+['furniture', '1800 dollar monthly salary']	['salary']	0.822918955901
+['furniture', '1800 dollar monthly salary']	['base salary']	0.644190434428
+['furniture', '1800 dollar monthly salary']	['1600 dollar']	0.124856540438
+['furniture', '1800 dollar monthly salary']	['4 % commission']	0.137350001891
+['furniture', '1800 dollar monthly salary']	['of furniture']	0.764815114498
+['furniture', '1800 dollar monthly salary']	['month']	0.0836886604443
+['furniture', '1800 dollar monthly salary']	['of sale']	0.124856540438
+['furniture', '1800 dollar monthly salary']	['2 choice']	0.124856540438
+['salary', '1800 dollar monthly salary']	['furniture']	0.477817381003
+['salary', '1800 dollar monthly salary']	['base salary']	0.900293972818
+['salary', '1800 dollar monthly salary']	['1600 dollar']	0.145348029796
+['salary', '1800 dollar monthly salary']	['4 % commission']	0.315092758265
+['salary', '1800 dollar monthly salary']	['of furniture']	0.145348029796
+['salary', '1800 dollar monthly salary']	['month']	0.111987102224
+['salary', '1800 dollar monthly salary']	['of sale']	0.145348029796
+['salary', '1800 dollar monthly salary']	['2 choice']	0.145348029796
+['base salary', '1800 dollar monthly salary']	['furniture']	0.31913033571
+['base salary', '1800 dollar monthly salary']	['salary']	0.833925544023
+['base salary', '1800 dollar monthly salary']	['1600 dollar']	0.127952343303
+['base salary', '1800 dollar monthly salary']	['4 % commission']	0.3242457119
+['base salary', '1800 dollar monthly salary']	['of furniture']	0.127952343303
+['base salary', '1800 dollar monthly salary']	['month']	0.161855832746
+['base salary', '1800 dollar monthly salary']	['of sale']	0.127952343303
+['base salary', '1800 dollar monthly salary']	['2 choice']	0.127952343303
+['1600 dollar', '1800 dollar monthly salary']	['furniture']	0.0880692059685
+['1600 dollar', '1800 dollar monthly salary']	['salary']	0.790513865526
+['1600 dollar', '1800 dollar monthly salary']	['base salary']	0.630956863273
+['1600 dollar', '1800 dollar monthly salary']	['4 % commission']	0.107526100904
+['1600 dollar', '1800 dollar monthly salary']	['of furniture']	0.0988755105172
+['1600 dollar', '1800 dollar monthly salary']	['month']	0.015547544145
+['1600 dollar', '1800 dollar monthly salary']	['of sale']	0.0988755105172
+['1600 dollar', '1800 dollar monthly salary']	['2 choice']	0.0988755105172
+['4 % commission', '1800 dollar monthly salary']	['furniture']	0.0880692059685
+['4 % commission', '1800 dollar monthly salary']	['salary']	0.863412944506
+['4 % commission', '1800 dollar monthly salary']	['base salary']	0.636174109686
+['4 % commission', '1800 dollar monthly salary']	['1600 dollar']	0.0988755105172
+['4 % commission', '1800 dollar monthly salary']	['of furniture']	0.0988755105172
+['4 % commission', '1800 dollar monthly salary']	['month']	0.012852508684
+['4 % commission', '1800 dollar monthly salary']	['of sale']	0.0988755105172
+['4 % commission', '1800 dollar monthly salary']	['2 choice']	0.387709641536
+['of furniture', '1800 dollar monthly salary']	['furniture']	0.692942413906
+['of furniture', '1800 dollar monthly salary']	['salary']	0.790513865526
+['of furniture', '1800 dollar monthly salary']	['base salary']	0.630956863273
+['of furniture', '1800 dollar monthly salary']	['1600 dollar']	0.0988755105172
+['of furniture', '1800 dollar monthly salary']	['4 % commission']	0.107526100904
+['of furniture', '1800 dollar monthly salary']	['month']	0.012852508684
+['of furniture', '1800 dollar monthly salary']	['of sale']	0.0988755105172
+['of furniture', '1800 dollar monthly salary']	['2 choice']	0.0988755105172
+['month', '1800 dollar monthly salary']	['furniture']	0.141225426098
+['month', '1800 dollar monthly salary']	['salary']	0.347449637945
+['month', '1800 dollar monthly salary']	['base salary']	0.261078721984
+['month', '1800 dollar monthly salary']	['1600 dollar']	0.0667263387808
+['month', '1800 dollar monthly salary']	['4 % commission']	0.0775228353881
+['month', '1800 dollar monthly salary']	['of furniture']	0.0660803704124
+['month', '1800 dollar monthly salary']	['of sale']	0.0660803704124
+['month', '1800 dollar monthly salary']	['2 choice']	0.0660803704124
+['of sale', '1800 dollar monthly salary']	['furniture']	0.0880692059685
+['of sale', '1800 dollar monthly salary']	['salary']	0.790513865526
+['of sale', '1800 dollar monthly salary']	['base salary']	0.630956863273
+['of sale', '1800 dollar monthly salary']	['1600 dollar']	0.0988755105172
+['of sale', '1800 dollar monthly salary']	['4 % commission']	0.107526100904
+['of sale', '1800 dollar monthly salary']	['of furniture']	0.0988755105172
+['of sale', '1800 dollar monthly salary']	['month']	0.012852508684
+['of sale', '1800 dollar monthly salary']	['2 choice']	0.0820798795945
+['2 choice', '1800 dollar monthly salary']	['furniture']	0.0880692059685
+['2 choice', '1800 dollar monthly salary']	['salary']	0.790513865526
+['2 choice', '1800 dollar monthly salary']	['base salary']	0.636174109686
+['2 choice', '1800 dollar monthly salary']	['1600 dollar']	0.0988755105172
+['2 choice', '1800 dollar monthly salary']	['4 % commission']	0.399698168118
+['2 choice', '1800 dollar monthly salary']	['of furniture']	0.0988755105172
+['2 choice', '1800 dollar monthly salary']	['month']	0.012852508684
+['2 choice', '1800 dollar monthly salary']	['of sale']	0.0820798795945
+['1800 dollar monthly salary', 'furniture']	['salary']	0.822918955901
+['1800 dollar monthly salary', 'furniture']	['base salary']	0.644190434428
+['1800 dollar monthly salary', 'furniture']	['1600 dollar']	0.124856540438
+['1800 dollar monthly salary', 'furniture']	['4 % commission']	0.137350001891
+['1800 dollar monthly salary', 'furniture']	['of furniture']	0.764815114498
+['1800 dollar monthly salary', 'furniture']	['month']	0.0836886604443
+['1800 dollar monthly salary', 'furniture']	['of sale']	0.124856540438
+['1800 dollar monthly salary', 'furniture']	['2 choice']	0.124856540438
+['salary', 'furniture']	['1800 dollar monthly salary']	0.628629017203
+['salary', 'furniture']	['base salary']	0.688265084285
+['salary', 'furniture']	['1600 dollar']	0.10865661159
+['salary', 'furniture']	['4 % commission']	0.120032973708
+['salary', 'furniture']	['of furniture']	0.505974686889
+['salary', 'furniture']	['month']	0.0697963993795
+['salary', 'furniture']	['of sale']	0.10865661159
+['salary', 'furniture']	['2 choice']	0.10865661159
+['base salary', 'furniture']	['1800 dollar monthly salary']	0.532648041547
+['base salary', 'furniture']	['salary']	0.753045554002
+['base salary', 'furniture']	['1600 dollar']	0.0696933362217
+['base salary', 'furniture']	['4 % commission']	0.080802298149
+['base salary', 'furniture']	['of furniture']	0.668684636075
+['base salary', 'furniture']	['month']	0.0806965185133
+['base salary', 'furniture']	['of sale']	0.0696933362217
+['base salary', 'furniture']	['2 choice']	0.0696933362217
+['1600 dollar', 'furniture']	['1800 dollar monthly salary']	0.0841680381001
+['1600 dollar', 'furniture']	['salary']	0.272350104313
+['1600 dollar', 'furniture']	['base salary']	0.0696933362217
+['1600 dollar', 'furniture']	['4 % commission']	0.080802298149
+['1600 dollar', 'furniture']	['of furniture']	0.668684636075
+['1600 dollar', 'furniture']	['month']	0.0996401804851
+['1600 dollar', 'furniture']	['of sale']	0.0696933362217
+['1600 dollar', 'furniture']	['2 choice']	0.0696933362217
+['4 % commission', 'furniture']	['1800 dollar monthly salary']	0.086216080975
+['4 % commission', 'furniture']	['salary']	0.332480571448
+['4 % commission', 'furniture']	['base salary']	0.105691884463
+['4 % commission', 'furniture']	['1600 dollar']	0.0696933362217
+['4 % commission', 'furniture']	['of furniture']	0.651206717043
+['4 % commission', 'furniture']	['month']	0.0722178463122
+['4 % commission', 'furniture']	['of sale']	0.0696933362217
+['4 % commission', 'furniture']	['2 choice']	0.286862480671
+['of furniture', 'furniture']	['1800 dollar monthly salary']	0.356737569939
+['of furniture', 'furniture']	['salary']	0.455887796001
+['of furniture', 'furniture']	['base salary']	0.136831688603
+['of furniture', 'furniture']	['1600 dollar']	0.136831688603
+['of furniture', 'furniture']	['4 % commission']	0.356737569939
+['of furniture', 'furniture']	['month']	0.202268568856
+['of furniture', 'furniture']	['of sale']	0.136831688603
+['of furniture', 'furniture']	['2 choice']	0.136831688603
+['month', 'furniture']	['1800 dollar monthly salary']	0.106521381019
+['month', 'furniture']	['salary']	0.101818270984
+['month', 'furniture']	['base salary']	0.0982347768443
+['month', 'furniture']	['1600 dollar']	0.0988807452127
+['month', 'furniture']	['4 % commission']	0.108867454938
+['month', 'furniture']	['of furniture']	0.415721551815
+['month', 'furniture']	['of sale']	0.0982347768443
+['month', 'furniture']	['2 choice']	0.0982347768443
+['of sale', 'furniture']	['1800 dollar monthly salary']	0.0841680381001
+['of sale', 'furniture']	['salary']	0.272350104313
+['of sale', 'furniture']	['base salary']	0.0696933362217
+['of sale', 'furniture']	['1600 dollar']	0.0696933362217
+['of sale', 'furniture']	['4 % commission']	0.080802298149
+['of sale', 'furniture']	['of furniture']	0.668684636075
+['of sale', 'furniture']	['month']	0.0996401804851
+['of sale', 'furniture']	['2 choice']	0.0649040532856
+['2 choice', 'furniture']	['1800 dollar monthly salary']	0.0841680381001
+['2 choice', 'furniture']	['salary']	0.272350104313
+['2 choice', 'furniture']	['base salary']	0.103222748661
+['2 choice', 'furniture']	['1600 dollar']	0.0696933362217
+['2 choice', 'furniture']	['4 % commission']	0.313714430192
+['2 choice', 'furniture']	['of furniture']	0.668684636075
+['2 choice', 'furniture']	['month']	0.0996401804851
+['2 choice', 'furniture']	['of sale']	0.0649040532856
+['1800 dollar monthly salary', 'salary']	['furniture']	0.477817381003
+['1800 dollar monthly salary', 'salary']	['base salary']	0.900293972818
+['1800 dollar monthly salary', 'salary']	['1600 dollar']	0.145348029796
+['1800 dollar monthly salary', 'salary']	['4 % commission']	0.315092758265
+['1800 dollar monthly salary', 'salary']	['of furniture']	0.145348029796
+['1800 dollar monthly salary', 'salary']	['month']	0.111987102224
+['1800 dollar monthly salary', 'salary']	['of sale']	0.145348029796
+['1800 dollar monthly salary', 'salary']	['2 choice']	0.145348029796
+['furniture', 'salary']	['1800 dollar monthly salary']	0.628629017203
+['furniture', 'salary']	['base salary']	0.688265084285
+['furniture', 'salary']	['1600 dollar']	0.10865661159
+['furniture', 'salary']	['4 % commission']	0.120032973708
+['furniture', 'salary']	['of furniture']	0.505974686889
+['furniture', 'salary']	['month']	0.0697963993795
+['furniture', 'salary']	['of sale']	0.10865661159
+['furniture', 'salary']	['2 choice']	0.10865661159
+['base salary', 'salary']	['1800 dollar monthly salary']	0.781560898638
+['base salary', 'salary']	['furniture']	0.455887796001
+['base salary', 'salary']	['1600 dollar']	0.124609221473
+['base salary', 'salary']	['4 % commission']	0.257808478282
+['base salary', 'salary']	['of furniture']	0.124609221473
+['base salary', 'salary']	['month']	0.12274276973
+['base salary', 'salary']	['of sale']	0.124609221473
+['base salary', 'salary']	['2 choice']	0.124609221473
+['1600 dollar', 'salary']	['1800 dollar monthly salary']	0.633458256381
+['1600 dollar', 'salary']	['furniture']	0.272350104313
+['1600 dollar', 'salary']	['base salary']	0.688265084285
+['1600 dollar', 'salary']	['4 % commission']	0.0563772167556
+['1600 dollar', 'salary']	['of furniture']	0.0465787639079
+['1600 dollar', 'salary']	['month']	0.0432392551335
+['1600 dollar', 'salary']	['of sale']	0.0465787639079
+['1600 dollar', 'salary']	['2 choice']	0.0465787639079
+['4 % commission', 'salary']	['1800 dollar monthly salary']	0.626086461509
+['4 % commission', 'salary']	['furniture']	0.267700981506
+['4 % commission', 'salary']	['base salary']	0.854000681602
+['4 % commission', 'salary']	['1600 dollar']	0.0465787639079
+['4 % commission', 'salary']	['of furniture']	0.0465787639079
+['4 % commission', 'salary']	['month']	0.0424835876272
+['4 % commission', 'salary']	['of sale']	0.0465787639079
+['4 % commission', 'salary']	['2 choice']	0.226464713704
+['of furniture', 'salary']	['1800 dollar monthly salary']	0.633458256381
+['of furniture', 'salary']	['furniture']	0.646164234403
+['of furniture', 'salary']	['base salary']	0.688265084285
+['of furniture', 'salary']	['1600 dollar']	0.0465787639079
+['of furniture', 'salary']	['4 % commission']	0.0563772167556
+['of furniture', 'salary']	['month']	0.0232392551335
+['of furniture', 'salary']	['of sale']	0.0465787639079
+['of furniture', 'salary']	['2 choice']	0.0465787639079
+['month', 'salary']	['1800 dollar monthly salary']	0.331237714599
+['month', 'salary']	['furniture']	0.101818270984
+['month', 'salary']	['base salary']	0.334521640921
+['month', 'salary']	['1600 dollar']	0.0780842671024
+['month', 'salary']	['4 % commission']	0.0829349518718
+['month', 'salary']	['of furniture']	0.0786120076541
+['month', 'salary']	['of sale']	0.0774382987339
+['month', 'salary']	['2 choice']	0.0774382987339
+['of sale', 'salary']	['1800 dollar monthly salary']	0.633458256381
+['of sale', 'salary']	['furniture']	0.272350104313
+['of sale', 'salary']	['base salary']	0.688265084285
+['of sale', 'salary']	['1600 dollar']	0.0465787639079
+['of sale', 'salary']	['4 % commission']	0.0563772167556
+['of sale', 'salary']	['of furniture']	0.0465787639079
+['of sale', 'salary']	['month']	0.0432392551335
+['of sale', 'salary']	['2 choice']	0.0546200245943
+['2 choice', 'salary']	['1800 dollar monthly salary']	0.633458256381
+['2 choice', 'salary']	['furniture']	0.272350104313
+['2 choice', 'salary']	['base salary']	0.861180168782
+['2 choice', 'salary']	['1600 dollar']	0.0465787639079
+['2 choice', 'salary']	['4 % commission']	0.31197413566
+['2 choice', 'salary']	['of furniture']	0.0465787639079
+['2 choice', 'salary']	['month']	0.0432392551335
+['2 choice', 'salary']	['of sale']	0.0546200245943
+['1800 dollar monthly salary', 'base salary']	['furniture']	0.31913033571
+['1800 dollar monthly salary', 'base salary']	['salary']	0.833925544023
+['1800 dollar monthly salary', 'base salary']	['1600 dollar']	0.127952343303
+['1800 dollar monthly salary', 'base salary']	['4 % commission']	0.3242457119
+['1800 dollar monthly salary', 'base salary']	['of furniture']	0.127952343303
+['1800 dollar monthly salary', 'base salary']	['month']	0.161855832746
+['1800 dollar monthly salary', 'base salary']	['of sale']	0.127952343303
+['1800 dollar monthly salary', 'base salary']	['2 choice']	0.127952343303
+['furniture', 'base salary']	['1800 dollar monthly salary']	0.532648041547
+['furniture', 'base salary']	['salary']	0.753045554002
+['furniture', 'base salary']	['1600 dollar']	0.0696933362217
+['furniture', 'base salary']	['4 % commission']	0.080802298149
+['furniture', 'base salary']	['of furniture']	0.668684636075
+['furniture', 'base salary']	['month']	0.0806965185133
+['furniture', 'base salary']	['of sale']	0.0696933362217
+['furniture', 'base salary']	['2 choice']	0.0696933362217
+['salary', 'base salary']	['1800 dollar monthly salary']	0.781560898638
+['salary', 'base salary']	['furniture']	0.455887796001
+['salary', 'base salary']	['1600 dollar']	0.124609221473
+['salary', 'base salary']	['4 % commission']	0.257808478282
+['salary', 'base salary']	['of furniture']	0.124609221473
+['salary', 'base salary']	['month']	0.12274276973
+['salary', 'base salary']	['of sale']	0.124609221473
+['salary', 'base salary']	['2 choice']	0.124609221473
+['1600 dollar', 'base salary']	['1800 dollar monthly salary']	0.600576515509
+['1600 dollar', 'base salary']	['furniture']	0.079730351659
+['1600 dollar', 'base salary']	['salary']	0.644893877199
+['1600 dollar', 'base salary']	['4 % commission']	0.0941266761548
+['1600 dollar', 'base salary']	['of furniture']	0.0901100077042
+['1600 dollar', 'base salary']	['month']	0.0143499502517
+['1600 dollar', 'base salary']	['of sale']	0.0901100077042
+['1600 dollar', 'base salary']	['2 choice']	0.0901100077042
+['4 % commission', 'base salary']	['1800 dollar monthly salary']	0.652046644343
+['4 % commission', 'base salary']	['furniture']	0.148807562081
+['4 % commission', 'base salary']	['salary']	0.82307257913
+['4 % commission', 'base salary']	['1600 dollar']	0.15961386663
+['4 % commission', 'base salary']	['of furniture']	0.15961386663
+['4 % commission', 'base salary']	['month']	0.012852508684
+['4 % commission', 'base salary']	['of sale']	0.15961386663
+['4 % commission', 'base salary']	['2 choice']	0.453327242541
+['of furniture', 'base salary']	['1800 dollar monthly salary']	0.600576515509
+['of furniture', 'base salary']	['furniture']	0.572607153755
+['of furniture', 'base salary']	['salary']	0.62432742322
+['of furniture', 'base salary']	['1600 dollar']	0.0901100077042
+['of furniture', 'base salary']	['4 % commission']	0.0941266761548
+['of furniture', 'base salary']	['month']	0.0132263547461
+['of furniture', 'base salary']	['of sale']	0.0901100077042
+['of furniture', 'base salary']	['2 choice']	0.0901100077042
+['month', 'base salary']	['1800 dollar monthly salary']	0.204850497301
+['month', 'base salary']	['furniture']	0.11086262958
+['month', 'base salary']	['salary']	0.43639338346
+['month', 'base salary']	['1600 dollar']	0.0368028975308
+['month', 'base salary']	['4 % commission']	0.0467896072558
+['month', 'base salary']	['of furniture']	0.0361569291624
+['month', 'base salary']	['of sale']	0.0361569291624
+['month', 'base salary']	['2 choice']	0.0361569291624
+['of sale', 'base salary']	['1800 dollar monthly salary']	0.600576515509
+['of sale', 'base salary']	['furniture']	0.079730351659
+['of sale', 'base salary']	['salary']	0.644893877199
+['of sale', 'base salary']	['1600 dollar']	0.0901100077042
+['of sale', 'base salary']	['4 % commission']	0.0941266761548
+['of sale', 'base salary']	['of furniture']	0.0901100077042
+['of sale', 'base salary']	['month']	0.0132263547461
+['of sale', 'base salary']	['2 choice']	0.0827768707468
+['2 choice', 'base salary']	['1800 dollar monthly salary']	0.600576515509
+['2 choice', 'base salary']	['furniture']	0.079730351659
+['2 choice', 'base salary']	['salary']	0.645007222839
+['2 choice', 'base salary']	['1600 dollar']	0.0901100077042
+['2 choice', 'base salary']	['4 % commission']	0.335677399021
+['2 choice', 'base salary']	['of furniture']	0.0901100077042
+['2 choice', 'base salary']	['month']	0.0132263547461
+['2 choice', 'base salary']	['of sale']	0.0827768707468
+['1800 dollar monthly salary', '1600 dollar']	['furniture']	0.0880692059685
+['1800 dollar monthly salary', '1600 dollar']	['salary']	0.790513865526
+['1800 dollar monthly salary', '1600 dollar']	['base salary']	0.630956863273
+['1800 dollar monthly salary', '1600 dollar']	['4 % commission']	0.107526100904
+['1800 dollar monthly salary', '1600 dollar']	['of furniture']	0.0988755105172
+['1800 dollar monthly salary', '1600 dollar']	['month']	0.015547544145
+['1800 dollar monthly salary', '1600 dollar']	['of sale']	0.0988755105172
+['1800 dollar monthly salary', '1600 dollar']	['2 choice']	0.0988755105172
+['furniture', '1600 dollar']	['1800 dollar monthly salary']	0.0841680381001
+['furniture', '1600 dollar']	['salary']	0.272350104313
+['furniture', '1600 dollar']	['base salary']	0.0696933362217
+['furniture', '1600 dollar']	['4 % commission']	0.080802298149
+['furniture', '1600 dollar']	['of furniture']	0.668684636075
+['furniture', '1600 dollar']	['month']	0.0996401804851
+['furniture', '1600 dollar']	['of sale']	0.0696933362217
+['furniture', '1600 dollar']	['2 choice']	0.0696933362217
+['salary', '1600 dollar']	['1800 dollar monthly salary']	0.633458256381
+['salary', '1600 dollar']	['furniture']	0.272350104313
+['salary', '1600 dollar']	['base salary']	0.688265084285
+['salary', '1600 dollar']	['4 % commission']	0.0563772167556
+['salary', '1600 dollar']	['of furniture']	0.0465787639079
+['salary', '1600 dollar']	['month']	0.0432392551335
+['salary', '1600 dollar']	['of sale']	0.0465787639079
+['salary', '1600 dollar']	['2 choice']	0.0465787639079
+['base salary', '1600 dollar']	['1800 dollar monthly salary']	0.600576515509
+['base salary', '1600 dollar']	['furniture']	0.079730351659
+['base salary', '1600 dollar']	['salary']	0.644893877199
+['base salary', '1600 dollar']	['4 % commission']	0.0941266761548
+['base salary', '1600 dollar']	['of furniture']	0.0901100077042
+['base salary', '1600 dollar']	['month']	0.0143499502517
+['base salary', '1600 dollar']	['of sale']	0.0901100077042
+['base salary', '1600 dollar']	['2 choice']	0.0901100077042
+['4 % commission', '1600 dollar']	['1800 dollar monthly salary']	0.161708668161
+['4 % commission', '1600 dollar']	['furniture']	0.148807562081
+['4 % commission', '1600 dollar']	['salary']	0.0864785250676
+['4 % commission', '1600 dollar']	['base salary']	0.183637364938
+['4 % commission', '1600 dollar']	['of furniture']	0.15961386663
+['4 % commission', '1600 dollar']	['month']	0.0139761041896
+['4 % commission', '1600 dollar']	['of sale']	0.15961386663
+['4 % commission', '1600 dollar']	['2 choice']	0.453327242541
+['of furniture', '1600 dollar']	['1800 dollar monthly salary']	0.0941266761548
+['of furniture', '1600 dollar']	['furniture']	0.584776315076
+['of furniture', '1600 dollar']	['salary']	0.0541974512876
+['of furniture', '1600 dollar']	['base salary']	0.0901100077042
+['of furniture', '1600 dollar']	['4 % commission']	0.0941266761548
+['of furniture', '1600 dollar']	['month']	0.0143499502517
+['of furniture', '1600 dollar']	['of sale']	0.0901100077042
+['of furniture', '1600 dollar']	['2 choice']	0.0901100077042
+['month', '1600 dollar']	['1800 dollar monthly salary']	0.0444435333372
+['month', '1600 dollar']	['furniture']	0.11086262958
+['month', '1600 dollar']	['salary']	0.0401288657365
+['month', '1600 dollar']	['base salary']	0.0361569291624
+['month', '1600 dollar']	['4 % commission']	0.0467896072558
+['month', '1600 dollar']	['of furniture']	0.0361569291624
+['month', '1600 dollar']	['of sale']	0.0361569291624
+['month', '1600 dollar']	['2 choice']	0.0361569291624
+['of sale', '1600 dollar']	['1800 dollar monthly salary']	0.0941266761548
+['of sale', '1600 dollar']	['furniture']	0.079730351659
+['of sale', '1600 dollar']	['salary']	0.0541974512876
+['of sale', '1600 dollar']	['base salary']	0.0901100077042
+['of sale', '1600 dollar']	['4 % commission']	0.0941266761548
+['of sale', '1600 dollar']	['of furniture']	0.0901100077042
+['of sale', '1600 dollar']	['month']	0.0143499502517
+['of sale', '1600 dollar']	['2 choice']	0.0827768707468
+['2 choice', '1600 dollar']	['1800 dollar monthly salary']	0.0941266761548
+['2 choice', '1600 dollar']	['furniture']	0.079730351659
+['2 choice', '1600 dollar']	['salary']	0.0541974512876
+['2 choice', '1600 dollar']	['base salary']	0.126675736021
+['2 choice', '1600 dollar']	['4 % commission']	0.335677399021
+['2 choice', '1600 dollar']	['of furniture']	0.0901100077042
+['2 choice', '1600 dollar']	['month']	0.0143499502517
+['2 choice', '1600 dollar']	['of sale']	0.0827768707468
+['1800 dollar monthly salary', '4 % commission']	['furniture']	0.0880692059685
+['1800 dollar monthly salary', '4 % commission']	['salary']	0.863412944506
+['1800 dollar monthly salary', '4 % commission']	['base salary']	0.636174109686
+['1800 dollar monthly salary', '4 % commission']	['1600 dollar']	0.0988755105172
+['1800 dollar monthly salary', '4 % commission']	['of furniture']	0.0988755105172
+['1800 dollar monthly salary', '4 % commission']	['month']	0.012852508684
+['1800 dollar monthly salary', '4 % commission']	['of sale']	0.0988755105172
+['1800 dollar monthly salary', '4 % commission']	['2 choice']	0.387709641536
+['furniture', '4 % commission']	['1800 dollar monthly salary']	0.086216080975
+['furniture', '4 % commission']	['salary']	0.332480571448
+['furniture', '4 % commission']	['base salary']	0.105691884463
+['furniture', '4 % commission']	['1600 dollar']	0.0696933362217
+['furniture', '4 % commission']	['of furniture']	0.651206717043
+['furniture', '4 % commission']	['month']	0.0722178463122
+['furniture', '4 % commission']	['of sale']	0.0696933362217
+['furniture', '4 % commission']	['2 choice']	0.286862480671
+['salary', '4 % commission']	['1800 dollar monthly salary']	0.626086461509
+['salary', '4 % commission']	['furniture']	0.267700981506
+['salary', '4 % commission']	['base salary']	0.854000681602
+['salary', '4 % commission']	['1600 dollar']	0.0465787639079
+['salary', '4 % commission']	['of furniture']	0.0465787639079
+['salary', '4 % commission']	['month']	0.0424835876272
+['salary', '4 % commission']	['of sale']	0.0465787639079
+['salary', '4 % commission']	['2 choice']	0.226464713704
+['base salary', '4 % commission']	['1800 dollar monthly salary']	0.652046644343
+['base salary', '4 % commission']	['furniture']	0.148807562081
+['base salary', '4 % commission']	['salary']	0.82307257913
+['base salary', '4 % commission']	['1600 dollar']	0.15961386663
+['base salary', '4 % commission']	['of furniture']	0.15961386663
+['base salary', '4 % commission']	['month']	0.012852508684
+['base salary', '4 % commission']	['of sale']	0.15961386663
+['base salary', '4 % commission']	['2 choice']	0.453327242541
+['1600 dollar', '4 % commission']	['1800 dollar monthly salary']	0.161708668161
+['1600 dollar', '4 % commission']	['furniture']	0.148807562081
+['1600 dollar', '4 % commission']	['salary']	0.0864785250676
+['1600 dollar', '4 % commission']	['base salary']	0.183637364938
+['1600 dollar', '4 % commission']	['of furniture']	0.15961386663
+['1600 dollar', '4 % commission']	['month']	0.0139761041896
+['1600 dollar', '4 % commission']	['of sale']	0.15961386663
+['1600 dollar', '4 % commission']	['2 choice']	0.453327242541
+['of furniture', '4 % commission']	['1800 dollar monthly salary']	0.161708668161
+['of furniture', '4 % commission']	['furniture']	0.735572665479
+['of furniture', '4 % commission']	['salary']	0.0864785250676
+['of furniture', '4 % commission']	['base salary']	0.183637364938
+['of furniture', '4 % commission']	['1600 dollar']	0.15961386663
+['of furniture', '4 % commission']	['month']	0.012852508684
+['of furniture', '4 % commission']	['of sale']	0.15961386663
+['of furniture', '4 % commission']	['2 choice']	0.453327242541
+['month', '4 % commission']	['1800 dollar monthly salary']	0.0454352381839
+['month', '4 % commission']	['furniture']	0.0831396248854
+['month', '4 % commission']	['salary']	0.0601288657365
+['month', '4 % commission']	['base salary']	0.0643428541128
+['month', '4 % commission']	['1600 dollar']	0.0357465595026
+['month', '4 % commission']	['of furniture']	0.0351005911342
+['month', '4 % commission']	['of sale']	0.0351005911342
+['month', '4 % commission']	['2 choice']	0.195473251186
+['of sale', '4 % commission']	['1800 dollar monthly salary']	0.161708668161
+['of sale', '4 % commission']	['furniture']	0.148807562081
+['of sale', '4 % commission']	['salary']	0.0864785250676
+['of sale', '4 % commission']	['base salary']	0.183637364938
+['of sale', '4 % commission']	['1600 dollar']	0.15961386663
+['of sale', '4 % commission']	['of furniture']	0.15961386663
+['of sale', '4 % commission']	['month']	0.0139761041896
+['of sale', '4 % commission']	['2 choice']	0.378816036569
+['2 choice', '4 % commission']	['1800 dollar monthly salary']	0.161708668161
+['2 choice', '4 % commission']	['furniture']	0.148807562081
+['2 choice', '4 % commission']	['salary']	0.0864785250676
+['2 choice', '4 % commission']	['base salary']	0.266405768679
+['2 choice', '4 % commission']	['1600 dollar']	0.15961386663
+['2 choice', '4 % commission']	['of furniture']	0.15961386663
+['2 choice', '4 % commission']	['month']	0.0139761041896
+['2 choice', '4 % commission']	['of sale']	0.142818235707
+['1800 dollar monthly salary', 'of furniture']	['furniture']	0.692942413906
+['1800 dollar monthly salary', 'of furniture']	['salary']	0.790513865526
+['1800 dollar monthly salary', 'of furniture']	['base salary']	0.630956863273
+['1800 dollar monthly salary', 'of furniture']	['1600 dollar']	0.0988755105172
+['1800 dollar monthly salary', 'of furniture']	['4 % commission']	0.107526100904
+['1800 dollar monthly salary', 'of furniture']	['month']	0.012852508684
+['1800 dollar monthly salary', 'of furniture']	['of sale']	0.0988755105172
+['1800 dollar monthly salary', 'of furniture']	['2 choice']	0.0988755105172
+['furniture', 'of furniture']	['1800 dollar monthly salary']	0.356737569939
+['furniture', 'of furniture']	['salary']	0.455887796001
+['furniture', 'of furniture']	['base salary']	0.136831688603
+['furniture', 'of furniture']	['1600 dollar']	0.136831688603
+['furniture', 'of furniture']	['4 % commission']	0.356737569939
+['furniture', 'of furniture']	['month']	0.202268568856
+['furniture', 'of furniture']	['of sale']	0.136831688603
+['furniture', 'of furniture']	['2 choice']	0.136831688603
+['salary', 'of furniture']	['1800 dollar monthly salary']	0.633458256381
+['salary', 'of furniture']	['furniture']	0.646164234403
+['salary', 'of furniture']	['base salary']	0.688265084285
+['salary', 'of furniture']	['1600 dollar']	0.0465787639079
+['salary', 'of furniture']	['4 % commission']	0.0563772167556
+['salary', 'of furniture']	['month']	0.0232392551335
+['salary', 'of furniture']	['of sale']	0.0465787639079
+['salary', 'of furniture']	['2 choice']	0.0465787639079
+['base salary', 'of furniture']	['1800 dollar monthly salary']	0.600576515509
+['base salary', 'of furniture']	['furniture']	0.572607153755
+['base salary', 'of furniture']	['salary']	0.62432742322
+['base salary', 'of furniture']	['1600 dollar']	0.0901100077042
+['base salary', 'of furniture']	['4 % commission']	0.0941266761548
+['base salary', 'of furniture']	['month']	0.0132263547461
+['base salary', 'of furniture']	['of sale']	0.0901100077042
+['base salary', 'of furniture']	['2 choice']	0.0901100077042
+['1600 dollar', 'of furniture']	['1800 dollar monthly salary']	0.0941266761548
+['1600 dollar', 'of furniture']	['furniture']	0.584776315076
+['1600 dollar', 'of furniture']	['salary']	0.0541974512876
+['1600 dollar', 'of furniture']	['base salary']	0.0901100077042
+['1600 dollar', 'of furniture']	['4 % commission']	0.0941266761548
+['1600 dollar', 'of furniture']	['month']	0.0143499502517
+['1600 dollar', 'of furniture']	['of sale']	0.0901100077042
+['1600 dollar', 'of furniture']	['2 choice']	0.0901100077042
+['4 % commission', 'of furniture']	['1800 dollar monthly salary']	0.161708668161
+['4 % commission', 'of furniture']	['furniture']	0.735572665479
+['4 % commission', 'of furniture']	['salary']	0.0864785250676
+['4 % commission', 'of furniture']	['base salary']	0.183637364938
+['4 % commission', 'of furniture']	['1600 dollar']	0.15961386663
+['4 % commission', 'of furniture']	['month']	0.012852508684
+['4 % commission', 'of furniture']	['of sale']	0.15961386663
+['4 % commission', 'of furniture']	['2 choice']	0.453327242541
+['month', 'of furniture']	['1800 dollar monthly salary']	0.0444435333372
+['month', 'of furniture']	['furniture']	0.671747932367
+['month', 'of furniture']	['salary']	0.0401288657365
+['month', 'of furniture']	['base salary']	0.0361569291624
+['month', 'of furniture']	['1600 dollar']	0.0368028975308
+['month', 'of furniture']	['4 % commission']	0.0467896072558
+['month', 'of furniture']	['of sale']	0.0361569291624
+['month', 'of furniture']	['2 choice']	0.0361569291624
+['of sale', 'of furniture']	['1800 dollar monthly salary']	0.0941266761548
+['of sale', 'of furniture']	['furniture']	0.584776315076
+['of sale', 'of furniture']	['salary']	0.0541974512876
+['of sale', 'of furniture']	['base salary']	0.0901100077042
+['of sale', 'of furniture']	['1600 dollar']	0.0901100077042
+['of sale', 'of furniture']	['4 % commission']	0.0941266761548
+['of sale', 'of furniture']	['month']	0.0132263547461
+['of sale', 'of furniture']	['2 choice']	0.0827768707468
+['2 choice', 'of furniture']	['1800 dollar monthly salary']	0.0941266761548
+['2 choice', 'of furniture']	['furniture']	0.572607153755
+['2 choice', 'of furniture']	['salary']	0.0541974512876
+['2 choice', 'of furniture']	['base salary']	0.126675736021
+['2 choice', 'of furniture']	['1600 dollar']	0.0901100077042
+['2 choice', 'of furniture']	['4 % commission']	0.335677399021
+['2 choice', 'of furniture']	['month']	0.0132263547461
+['2 choice', 'of furniture']	['of sale']	0.0827768707468
+['1800 dollar monthly salary', 'month']	['furniture']	0.141225426098
+['1800 dollar monthly salary', 'month']	['salary']	0.347449637945
+['1800 dollar monthly salary', 'month']	['base salary']	0.261078721984
+['1800 dollar monthly salary', 'month']	['1600 dollar']	0.0667263387808
+['1800 dollar monthly salary', 'month']	['4 % commission']	0.0775228353881
+['1800 dollar monthly salary', 'month']	['of furniture']	0.0660803704124
+['1800 dollar monthly salary', 'month']	['of sale']	0.0660803704124
+['1800 dollar monthly salary', 'month']	['2 choice']	0.0660803704124
+['furniture', 'month']	['1800 dollar monthly salary']	0.106521381019
+['furniture', 'month']	['salary']	0.101818270984
+['furniture', 'month']	['base salary']	0.0982347768443
+['furniture', 'month']	['1600 dollar']	0.0988807452127
+['furniture', 'month']	['4 % commission']	0.108867454938
+['furniture', 'month']	['of furniture']	0.415721551815
+['furniture', 'month']	['of sale']	0.0982347768443
+['furniture', 'month']	['2 choice']	0.0982347768443
+['salary', 'month']	['1800 dollar monthly salary']	0.331237714599
+['salary', 'month']	['furniture']	0.101818270984
+['salary', 'month']	['base salary']	0.334521640921
+['salary', 'month']	['1600 dollar']	0.0780842671024
+['salary', 'month']	['4 % commission']	0.0829349518718
+['salary', 'month']	['of furniture']	0.0786120076541
+['salary', 'month']	['of sale']	0.0774382987339
+['salary', 'month']	['2 choice']	0.0774382987339
+['base salary', 'month']	['1800 dollar monthly salary']	0.204850497301
+['base salary', 'month']	['furniture']	0.11086262958
+['base salary', 'month']	['salary']	0.43639338346
+['base salary', 'month']	['1600 dollar']	0.0368028975308
+['base salary', 'month']	['4 % commission']	0.0467896072558
+['base salary', 'month']	['of furniture']	0.0361569291624
+['base salary', 'month']	['of sale']	0.0361569291624
+['base salary', 'month']	['2 choice']	0.0361569291624
+['1600 dollar', 'month']	['1800 dollar monthly salary']	0.0444435333372
+['1600 dollar', 'month']	['furniture']	0.11086262958
+['1600 dollar', 'month']	['salary']	0.0401288657365
+['1600 dollar', 'month']	['base salary']	0.0361569291624
+['1600 dollar', 'month']	['4 % commission']	0.0467896072558
+['1600 dollar', 'month']	['of furniture']	0.0361569291624
+['1600 dollar', 'month']	['of sale']	0.0361569291624
+['1600 dollar', 'month']	['2 choice']	0.0361569291624
+['4 % commission', 'month']	['1800 dollar monthly salary']	0.0454352381839
+['4 % commission', 'month']	['furniture']	0.0831396248854
+['4 % commission', 'month']	['salary']	0.0601288657365
+['4 % commission', 'month']	['base salary']	0.0643428541128
+['4 % commission', 'month']	['1600 dollar']	0.0357465595026
+['4 % commission', 'month']	['of furniture']	0.0351005911342
+['4 % commission', 'month']	['of sale']	0.0351005911342
+['4 % commission', 'month']	['2 choice']	0.195473251186
+['of furniture', 'month']	['1800 dollar monthly salary']	0.0444435333372
+['of furniture', 'month']	['furniture']	0.671747932367
+['of furniture', 'month']	['salary']	0.0401288657365
+['of furniture', 'month']	['base salary']	0.0361569291624
+['of furniture', 'month']	['1600 dollar']	0.0368028975308
+['of furniture', 'month']	['4 % commission']	0.0467896072558
+['of furniture', 'month']	['of sale']	0.0361569291624
+['of furniture', 'month']	['2 choice']	0.0361569291624
+['of sale', 'month']	['1800 dollar monthly salary']	0.0444435333372
+['of sale', 'month']	['furniture']	0.11086262958
+['of sale', 'month']	['salary']	0.0401288657365
+['of sale', 'month']	['base salary']	0.0361569291624
+['of sale', 'month']	['1600 dollar']	0.0368028975308
+['of sale', 'month']	['4 % commission']	0.0467896072558
+['of sale', 'month']	['of furniture']	0.0361569291624
+['of sale', 'month']	['2 choice']	0.0319482784682
+['2 choice', 'month']	['1800 dollar monthly salary']	0.0444435333372
+['2 choice', 'month']	['furniture']	0.11086262958
+['2 choice', 'month']	['salary']	0.0401288657365
+['2 choice', 'month']	['base salary']	0.0618737183104
+['2 choice', 'month']	['1600 dollar']	0.0368028975308
+['2 choice', 'month']	['4 % commission']	0.315033653242
+['2 choice', 'month']	['of furniture']	0.0361569291624
+['2 choice', 'month']	['of sale']	0.0319482784682
+['1800 dollar monthly salary', 'of sale']	['furniture']	0.0880692059685
+['1800 dollar monthly salary', 'of sale']	['salary']	0.790513865526
+['1800 dollar monthly salary', 'of sale']	['base salary']	0.630956863273
+['1800 dollar monthly salary', 'of sale']	['1600 dollar']	0.0988755105172
+['1800 dollar monthly salary', 'of sale']	['4 % commission']	0.107526100904
+['1800 dollar monthly salary', 'of sale']	['of furniture']	0.0988755105172
+['1800 dollar monthly salary', 'of sale']	['month']	0.012852508684
+['1800 dollar monthly salary', 'of sale']	['2 choice']	0.0820798795945
+['furniture', 'of sale']	['1800 dollar monthly salary']	0.0841680381001
+['furniture', 'of sale']	['salary']	0.272350104313
+['furniture', 'of sale']	['base salary']	0.0696933362217
+['furniture', 'of sale']	['1600 dollar']	0.0696933362217
+['furniture', 'of sale']	['4 % commission']	0.080802298149
+['furniture', 'of sale']	['of furniture']	0.668684636075
+['furniture', 'of sale']	['month']	0.0996401804851
+['furniture', 'of sale']	['2 choice']	0.0649040532856
+['salary', 'of sale']	['1800 dollar monthly salary']	0.633458256381
+['salary', 'of sale']	['furniture']	0.272350104313
+['salary', 'of sale']	['base salary']	0.688265084285
+['salary', 'of sale']	['1600 dollar']	0.0465787639079
+['salary', 'of sale']	['4 % commission']	0.0563772167556
+['salary', 'of sale']	['of furniture']	0.0465787639079
+['salary', 'of sale']	['month']	0.0432392551335
+['salary', 'of sale']	['2 choice']	0.0546200245943
+['base salary', 'of sale']	['1800 dollar monthly salary']	0.600576515509
+['base salary', 'of sale']	['furniture']	0.079730351659
+['base salary', 'of sale']	['salary']	0.644893877199
+['base salary', 'of sale']	['1600 dollar']	0.0901100077042
+['base salary', 'of sale']	['4 % commission']	0.0941266761548
+['base salary', 'of sale']	['of furniture']	0.0901100077042
+['base salary', 'of sale']	['month']	0.0132263547461
+['base salary', 'of sale']	['2 choice']	0.0827768707468
+['1600 dollar', 'of sale']	['1800 dollar monthly salary']	0.0941266761548
+['1600 dollar', 'of sale']	['furniture']	0.079730351659
+['1600 dollar', 'of sale']	['salary']	0.0541974512876
+['1600 dollar', 'of sale']	['base salary']	0.0901100077042
+['1600 dollar', 'of sale']	['4 % commission']	0.0941266761548
+['1600 dollar', 'of sale']	['of furniture']	0.0901100077042
+['1600 dollar', 'of sale']	['month']	0.0143499502517
+['1600 dollar', 'of sale']	['2 choice']	0.0827768707468
+['4 % commission', 'of sale']	['1800 dollar monthly salary']	0.161708668161
+['4 % commission', 'of sale']	['furniture']	0.148807562081
+['4 % commission', 'of sale']	['salary']	0.0864785250676
+['4 % commission', 'of sale']	['base salary']	0.183637364938
+['4 % commission', 'of sale']	['1600 dollar']	0.15961386663
+['4 % commission', 'of sale']	['of furniture']	0.15961386663
+['4 % commission', 'of sale']	['month']	0.0139761041896
+['4 % commission', 'of sale']	['2 choice']	0.378816036569
+['of furniture', 'of sale']	['1800 dollar monthly salary']	0.0941266761548
+['of furniture', 'of sale']	['furniture']	0.584776315076
+['of furniture', 'of sale']	['salary']	0.0541974512876
+['of furniture', 'of sale']	['base salary']	0.0901100077042
+['of furniture', 'of sale']	['1600 dollar']	0.0901100077042
+['of furniture', 'of sale']	['4 % commission']	0.0941266761548
+['of furniture', 'of sale']	['month']	0.0132263547461
+['of furniture', 'of sale']	['2 choice']	0.0827768707468
+['month', 'of sale']	['1800 dollar monthly salary']	0.0444435333372
+['month', 'of sale']	['furniture']	0.11086262958
+['month', 'of sale']	['salary']	0.0401288657365
+['month', 'of sale']	['base salary']	0.0361569291624
+['month', 'of sale']	['1600 dollar']	0.0368028975308
+['month', 'of sale']	['4 % commission']	0.0467896072558
+['month', 'of sale']	['of furniture']	0.0361569291624
+['month', 'of sale']	['2 choice']	0.0319482784682
+['2 choice', 'of sale']	['1800 dollar monthly salary']	0.0941266761548
+['2 choice', 'of sale']	['furniture']	0.079730351659
+['2 choice', 'of sale']	['salary']	0.0541974512876
+['2 choice', 'of sale']	['base salary']	0.126675736021
+['2 choice', 'of sale']	['1600 dollar']	0.0901100077042
+['2 choice', 'of sale']	['4 % commission']	0.335677399021
+['2 choice', 'of sale']	['of furniture']	0.0901100077042
+['2 choice', 'of sale']	['month']	0.0143499502517
+['1800 dollar monthly salary', '2 choice']	['furniture']	0.0880692059685
+['1800 dollar monthly salary', '2 choice']	['salary']	0.790513865526
+['1800 dollar monthly salary', '2 choice']	['base salary']	0.636174109686
+['1800 dollar monthly salary', '2 choice']	['1600 dollar']	0.0988755105172
+['1800 dollar monthly salary', '2 choice']	['4 % commission']	0.399698168118
+['1800 dollar monthly salary', '2 choice']	['of furniture']	0.0988755105172
+['1800 dollar monthly salary', '2 choice']	['month']	0.012852508684
+['1800 dollar monthly salary', '2 choice']	['of sale']	0.0820798795945
+['furniture', '2 choice']	['1800 dollar monthly salary']	0.0841680381001
+['furniture', '2 choice']	['salary']	0.272350104313
+['furniture', '2 choice']	['base salary']	0.103222748661
+['furniture', '2 choice']	['1600 dollar']	0.0696933362217
+['furniture', '2 choice']	['4 % commission']	0.313714430192
+['furniture', '2 choice']	['of furniture']	0.668684636075
+['furniture', '2 choice']	['month']	0.0996401804851
+['furniture', '2 choice']	['of sale']	0.0649040532856
+['salary', '2 choice']	['1800 dollar monthly salary']	0.633458256381
+['salary', '2 choice']	['furniture']	0.272350104313
+['salary', '2 choice']	['base salary']	0.861180168782
+['salary', '2 choice']	['1600 dollar']	0.0465787639079
+['salary', '2 choice']	['4 % commission']	0.31197413566
+['salary', '2 choice']	['of furniture']	0.0465787639079
+['salary', '2 choice']	['month']	0.0432392551335
+['salary', '2 choice']	['of sale']	0.0546200245943
+['base salary', '2 choice']	['1800 dollar monthly salary']	0.600576515509
+['base salary', '2 choice']	['furniture']	0.079730351659
+['base salary', '2 choice']	['salary']	0.645007222839
+['base salary', '2 choice']	['1600 dollar']	0.0901100077042
+['base salary', '2 choice']	['4 % commission']	0.335677399021
+['base salary', '2 choice']	['of furniture']	0.0901100077042
+['base salary', '2 choice']	['month']	0.0132263547461
+['base salary', '2 choice']	['of sale']	0.0827768707468
+['1600 dollar', '2 choice']	['1800 dollar monthly salary']	0.0941266761548
+['1600 dollar', '2 choice']	['furniture']	0.079730351659
+['1600 dollar', '2 choice']	['salary']	0.0541974512876
+['1600 dollar', '2 choice']	['base salary']	0.126675736021
+['1600 dollar', '2 choice']	['4 % commission']	0.335677399021
+['1600 dollar', '2 choice']	['of furniture']	0.0901100077042
+['1600 dollar', '2 choice']	['month']	0.0143499502517
+['1600 dollar', '2 choice']	['of sale']	0.0827768707468
+['4 % commission', '2 choice']	['1800 dollar monthly salary']	0.161708668161
+['4 % commission', '2 choice']	['furniture']	0.148807562081
+['4 % commission', '2 choice']	['salary']	0.0864785250676
+['4 % commission', '2 choice']	['base salary']	0.266405768679
+['4 % commission', '2 choice']	['1600 dollar']	0.15961386663
+['4 % commission', '2 choice']	['of furniture']	0.15961386663
+['4 % commission', '2 choice']	['month']	0.0139761041896
+['4 % commission', '2 choice']	['of sale']	0.142818235707
+['of furniture', '2 choice']	['1800 dollar monthly salary']	0.0941266761548
+['of furniture', '2 choice']	['furniture']	0.572607153755
+['of furniture', '2 choice']	['salary']	0.0541974512876
+['of furniture', '2 choice']	['base salary']	0.126675736021
+['of furniture', '2 choice']	['1600 dollar']	0.0901100077042
+['of furniture', '2 choice']	['4 % commission']	0.335677399021
+['of furniture', '2 choice']	['month']	0.0132263547461
+['of furniture', '2 choice']	['of sale']	0.0827768707468
+['month', '2 choice']	['1800 dollar monthly salary']	0.0444435333372
+['month', '2 choice']	['furniture']	0.11086262958
+['month', '2 choice']	['salary']	0.0401288657365
+['month', '2 choice']	['base salary']	0.0618737183104
+['month', '2 choice']	['1600 dollar']	0.0368028975308
+['month', '2 choice']	['4 % commission']	0.315033653242
+['month', '2 choice']	['of furniture']	0.0361569291624
+['month', '2 choice']	['of sale']	0.0319482784682
+['of sale', '2 choice']	['1800 dollar monthly salary']	0.0941266761548
+['of sale', '2 choice']	['furniture']	0.079730351659
+['of sale', '2 choice']	['salary']	0.0541974512876
+['of sale', '2 choice']	['base salary']	0.126675736021
+['of sale', '2 choice']	['1600 dollar']	0.0901100077042
+['of sale', '2 choice']	['4 % commission']	0.335677399021
+['of sale', '2 choice']	['of furniture']	0.0901100077042
+['of sale', '2 choice']	['month']	0.0143499502517

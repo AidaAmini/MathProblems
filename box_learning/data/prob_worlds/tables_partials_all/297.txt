@@ -1,0 +1,298 @@
+1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['-', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['-', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['-', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['-', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', 'leg', '-']]
+1
+[['-', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['-', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', '-', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['-', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', '-', '-'], ['mosquito', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['-', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', '-', 'leg', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['mosquito', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['mosquito', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['-', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', '-', '-'], ['mosquito', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['-', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', '-', '-'], ['mosquito', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['-', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['-', '-', 'leg', '-'], ['-', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['tick', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['tick and mosquito', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', 'tick', '-', 'leg'], ['tick', '-', 'leg', '-'], ['leg', '-', 'tick', '-']]
+-1
+[['tick and mosquito', 'mosquito', '-', 'leg'], ['tick', '-', 'leg', 'mosquito'], ['tick', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', 'mosquito'], ['mosquito', '-', 'leg', 'tick']]
+-1
+[['tick and mosquito', 'mosquito', '-', 'tick'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'tick and mosquito', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', 'tick and mosquito'], ['tick and mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['pest', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['-', '-', 'tick', 'leg'], ['mosquito', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['mosquito', '-', '-', 'leg'], ['tick', 'mosquito', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['-', 'mosquito', 'tick', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['-', 'mosquito', '-', 'leg'], ['tick', '-', 'leg', 'mosquito'], ['mosquito', '-', 'leg', '-']]
+-1
+[['-', 'tick', '-', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', 'tick', 'leg', '-']]
+-1
+[['-', '-', '-', 'leg'], ['tick', '-', 'hike', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', 'leg', '-', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', 'tick']]
+-1
+[['leg', '-', '-', 'mosquito'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', 'tick', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', 'tick']]
+-1
+[['tick and mosquito', '-', '-', 'tick'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', 'tick']]
+-1
+[['tick and mosquito', 'tick', '-', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', 'tick and mosquito']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['group of student', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['mosquito', '-', '-', 'leg'], ['mosquito', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', 'mosquito', '-', 'leg'], ['-', '-', 'leg', 'tick and mosquito'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick and mosquito', 'mosquito', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'tick and mosquito', '-'], ['mosquito', '-', 'leg', 'tick and mosquito']]
+-1
+[['tick and mosquito', 'mosquito', '-', 'leg'], ['-', '-', 'tick and mosquito', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'hike'], ['-', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', 'tick', '-', 'leg'], ['tick', '-', '-', '-'], ['tick and mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['leg', '-', '-', '-'], ['tick and mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['tick', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', 'mosquito'], ['mosquito', '-', 'leg', '-']]
+-1
+[['mosquito', '-', '-', 'leg'], ['tick', '-', '-', 'leg'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'pest'], ['tick', '-', '-', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', 'tick', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', 'tick', '-']]
+-1
+[['tick', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', 'tick', 'leg', '-']]
+-1
+[['tick and mosquito', '-', 'tick', 'leg'], ['tick and mosquito', '-', 'leg', '-'], ['-', '-', 'leg', '-']]
+-1
+[['tick', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', 'tick and mosquito', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'tick and mosquito', '-'], ['-', 'tick', 'leg', '-']]
+-1
+[['tick and mosquito', '-', 'slap', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', 'leg', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick and mosquito', '-', 'leg', '-'], ['mosquito', 'tick and mosquito', '-', '-']]
+-1
+[['mosquito', '-', 'tick', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', 'tick and mosquito'], ['mosquito', '-', '-', 'tick and mosquito']]
+-1
+[['tick and mosquito', 'mosquito', '-', 'tick'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', 'tick', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'hike', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['mosquito', '-', '-', 'tick'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['-', '-', 'tick', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'tick', '-']]
+-1
+[['-', '-', '-', 'tick'], ['tick', '-', 'leg', '-'], ['tick', '-', '-', '-']]
+-1
+[['-', '-', 'mosquito', 'leg'], ['mosquito', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['-', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['leg', '-', '-', '-']]
+-1
+[['-', 'hike', '-', 'leg'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', 'tick', '-'], ['tick', '-', 'tick and mosquito', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', 'mosquito', '-', '-'], ['tick', '-', 'leg', '-'], ['mosquito', 'leg', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', 'leg', 'tick and mosquito'], ['mosquito', 'tick', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick and mosquito', '-', 'leg', 'mosquito'], ['mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', 'leg', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', 'leg', '-']]
+-1
+[['hike', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', 'mosquito', '-', 'leg'], ['-', '-', 'leg', 'tick and mosquito'], ['mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['mosquito', '-', 'tick and mosquito', 'leg']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['leg', 'tick and mosquito', '-', '-']]
+-1
+[['mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['mosquito', '-', '-', 'leg']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'tick and mosquito', '-'], ['tick and mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['pest', '-', '-', '-']]
+-1
+[['mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['mosquito', '-', 'tick and mosquito', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', 'leg'], ['mosquito', '-', 'tick and mosquito', '-']]
+-1
+[['mosquito', '-', '-', 'leg'], ['tick', 'mosquito', '-', '-'], ['mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', 'mosquito'], ['mosquito', 'tick and mosquito', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'mosquito', '-'], ['mosquito', 'tick', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['mosquito', '-', 'hike', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['leg', 'tick', '-', '-']]
+-1
+[['tick', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', '-', 'tick and mosquito']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['tick and mosquito', '-', '-', 'leg']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick and mosquito', '-', 'leg', '-'], ['tick and mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', 'tick and mosquito', 'leg', '-'], ['-', '-', '-', 'tick and mosquito']]
+-1
+[['tick and mosquito', 'group of student', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'tick', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', '-', '-', 'leg']]
+-1
+[['-', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', 'leg', '-', '-']]
+-1
+[['-', '-', '-', 'tick'], ['tick', '-', 'leg', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'leg'], ['tick', '-', 'leg', '-'], ['-', 'tick', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['tick and mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', 'tick and mosquito', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['-', 'tick and mosquito', '-', '-']]
+-1
+[['tick', '-', '-', '-'], ['tick', '-', 'leg', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick and mosquito', '-', 'leg', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['-', '-', '-', 'leg']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['-', 'leg', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['-', 'tick and mosquito', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', 'tick and mosquito', 'leg', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', 'leg', '-'], ['tick and mosquito', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', 'tick and mosquito'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', 'tick and mosquito', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', '-', '-', 'tick']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', 'leg', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['tick', 'tick and mosquito', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', 'tick', '-', '-']]
+-1
+[['tick', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'leg'], ['tick', 'leg', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['leg', '-', '-', '-']]
+-1
+[['-', '-', '-', 'leg'], ['tick', '-', '-', '-'], ['-', 'leg', '-', '-']]
+-1
+[['tick and mosquito', '-', 'tick', '-'], ['tick', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'tick'], ['tick', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick and mosquito', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', '-', '-'], ['-', '-', '-', 'tick and mosquito']]
+-1
+[['tick and mosquito', '-', '-', '-'], ['tick', '-', '-', '-'], ['-', '-', 'tick', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', '-', '-'], ['leg', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', '-', '-'], ['-', 'leg', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', 'leg', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', '-', 'tick and mosquito'], ['-', '-', '-', '-']]
+-1
+[['tick and mosquito', '-', '-', 'leg'], ['-', '-', '-', '-'], ['-', '-', '-', 'tick and mosquito']]

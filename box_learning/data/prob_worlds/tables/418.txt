@@ -1,0 +1,12 @@
+1
+[['-', '-', '-', '-', '-', 'dollar', '1, 200'], ['thermometer', 'x1', '-', 'dollar', '2', '-', '-'], ['and hot-water bottle', 'x2', '-', 'dollar', '6', '-', '-']]
+-1
+[['-', '-', '-', '6', '-', 'dollar', '1, 200'], ['thermometer', 'x1', '-', 'dollar', '2', '-', '-'], ['and hot-water bottle', 'x2', '1, 200', 'dollar', '6', '-', '-']]
+-1
+[['-', '-', '-', '-', '-', 'dollar', '1, 200'], ['thermometer', 'x1', '-', 'dollar', '2', '-', '-'], ['and hot-water bottle', '1, 200', '-', 'dollar', '6', '-', '-']]
+-1
+[['-', 'and hot-water bottle', '-', '-', '6', 'dollar', 'x2'], ['thermometer', 'x1', '-', 'dollar', '2', '-', '-'], ['and hot-water bottle', 'x2', '-', 'dollar', '6', '-', '1, 200']]
+-1
+[['-', '-', '-', '6', '-', 'dollar', '1, 200'], ['thermometer', 'x1', '-', 'dollar', '2', '-', '-'], ['and hot-water bottle', '1, 200', '-', 'dollar', '6', '-', '-']]
+-1
+[['and hot-water bottle', '-', '-', '-', '6', 'dollar', '1, 200'], ['thermometer', 'x1', '-', 'dollar', '2', '-', '-'], ['and hot-water bottle', '1, 200', '-', 'dollar', '6', '-', '-']]

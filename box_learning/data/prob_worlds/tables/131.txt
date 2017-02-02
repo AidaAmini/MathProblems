@@ -1,0 +1,14 @@
+1
+[['hat and boot', '30', 'item', '-', '-', 'dollar', '190'], ['hat', 'x1', '-', 'dollar', '5', '-', '-'], ['boot', 'x2', '-', 'dollar', '9', '-', '-']]
+-1
+[['hat and boot', '30', 'boot', '-', 'item', 'dollar', '9'], ['hat', 'x1', '-', 'dollar', '5', '-', '-'], ['boot', 'hat and boot', '-', 'item', '9', '-', '-']]
+-1
+[['hat and boot', '30', 'item', '-', 'boot', 'dollar', '190'], ['hat', 'x1', '-', 'dollar', '5', '-', '-'], ['boot', 'x2', '-', 'dollar', 'item', '190', 'hat and boot']]
+-1
+[['boot', 'hat and boot', 'item', '30', '-', '9', '190'], ['hat', 'x1', '-', 'dollar', '5', '-', '-'], ['boot', 'x2', '-', 'hat and boot', '9', '30', '-']]
+-1
+[['hat and boot', '30', 'boot', '9', '-', 'dollar', '190'], ['hat', 'x1', '-', 'dollar', '5', '-', '-'], ['boot', 'x2', '-', 'dollar', '9', 'item', 'hat and boot']]
+-1
+[['9', '30', 'hat and boot', '-', 'boot', 'dollar', '190'], ['hat', 'x1', '-', 'dollar', '5', '-', '-'], ['boot', 'hat and boot', '-', 'dollar', '9', '-', '-']]
+-1
+[['hat and boot', '30', 'item', 'boot', '-', 'dollar', '190'], ['hat', 'x1', '-', 'dollar', '5', '-', '-'], ['190', 'item', '-', 'dollar', 'hat and boot', '30', '-']]

@@ -1,0 +1,1041 @@
+['vendor', '200 ticket', 'rock concert', 'floor seat', 'seat', '36 dollar and stadium stadium seat', '28 dollar', '6080 dollar', 'ticket', '36-dollar ticket', '28-dollar ticket']
+['vendor']	['200 ticket']	0.0696933362217
+['vendor']	['rock concert']	0.0696933362217
+['vendor']	['floor seat']	0.0696933362217
+['vendor']	['seat']	0.0642228069784
+['vendor']	['36 dollar and stadium stadium seat']	0.0898798519698
+['vendor']	['28 dollar']	0.0696933362217
+['vendor']	['6080 dollar']	0.0696933362217
+['vendor']	['ticket']	0.0841669803429
+['vendor']	['36-dollar ticket']	0.0696933362217
+['vendor']	['28-dollar ticket']	0.0696933362217
+['200 ticket']	['rock concert']	0.0901100077042
+['200 ticket']	['floor seat']	0.0901100077042
+['200 ticket']	['seat']	0.151982381418
+['200 ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['200 ticket']	['28 dollar']	0.0901100077042
+['200 ticket']	['6080 dollar']	0.0901100077042
+['200 ticket']	['36-dollar ticket']	0.643440930505
+['200 ticket']	['28-dollar ticket']	0.643440930505
+['rock concert']	['floor seat']	0.0816612840118
+['rock concert']	['seat']	0.0831172035382
+['rock concert']	['36 dollar and stadium stadium seat']	0.0906383040618
+['rock concert']	['28 dollar']	0.0901100077042
+['rock concert']	['6080 dollar']	0.0901100077042
+['rock concert']	['ticket']	0.0831172035382
+['rock concert']	['36-dollar ticket']	0.0901100077042
+['rock concert']	['28-dollar ticket']	0.0901100077042
+['floor seat']	['36 dollar and stadium stadium seat']	0.309032243208
+['floor seat']	['28 dollar']	0.0901100077042
+['floor seat']	['6080 dollar']	0.0901100077042
+['floor seat']	['ticket']	0.151982381418
+['floor seat']	['36-dollar ticket']	0.0901100077042
+['floor seat']	['28-dollar ticket']	0.0901100077042
+['seat']	['28 dollar']	0.0737139440912
+['seat']	['6080 dollar']	0.0737139440912
+['seat']	['ticket']	0.142395902781
+['seat']	['36-dollar ticket']	0.159095628616
+['seat']	['28-dollar ticket']	0.159095628616
+['36 dollar and stadium stadium seat']	['28 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat']	['6080 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat']	['ticket']	0.170472872143
+['36 dollar and stadium stadium seat']	['36-dollar ticket']	0.0988755105172
+['36 dollar and stadium stadium seat']	['28-dollar ticket']	0.0988755105172
+['28 dollar']	['6080 dollar']	0.643440930505
+['28 dollar']	['ticket']	0.100696756518
+['28 dollar']	['36-dollar ticket']	0.0901100077042
+['28 dollar']	['28-dollar ticket']	0.0901100077042
+['6080 dollar']	['ticket']	0.100696756518
+['6080 dollar']	['36-dollar ticket']	0.0901100077042
+['6080 dollar']	['28-dollar ticket']	0.0901100077042
+['36-dollar ticket']	['28-dollar ticket']	0.643440930505
+['200 ticket', 'vendor']	['rock concert']	0.0696933362217
+['200 ticket', 'vendor']	['floor seat']	0.0696933362217
+['200 ticket', 'vendor']	['seat']	0.364701098708
+['200 ticket', 'vendor']	['36 dollar and stadium stadium seat']	0.0841680381001
+['200 ticket', 'vendor']	['28 dollar']	0.0696933362217
+['200 ticket', 'vendor']	['6080 dollar']	0.0696933362217
+['200 ticket', 'vendor']	['ticket']	0.796704535714
+['200 ticket', 'vendor']	['36-dollar ticket']	0.525944474896
+['200 ticket', 'vendor']	['28-dollar ticket']	0.525944474896
+['rock concert', 'vendor']	['200 ticket']	0.0696933362217
+['rock concert', 'vendor']	['floor seat']	0.0669904799604
+['rock concert', 'vendor']	['seat']	0.186963162599
+['rock concert', 'vendor']	['36 dollar and stadium stadium seat']	0.0841680381001
+['rock concert', 'vendor']	['28 dollar']	0.0696933362217
+['rock concert', 'vendor']	['6080 dollar']	0.0696933362217
+['rock concert', 'vendor']	['ticket']	0.289629897036
+['rock concert', 'vendor']	['36-dollar ticket']	0.0696933362217
+['rock concert', 'vendor']	['28-dollar ticket']	0.0696933362217
+['floor seat', 'vendor']	['200 ticket']	0.0696933362217
+['floor seat', 'vendor']	['rock concert']	0.0669904799604
+['floor seat', 'vendor']	['seat']	0.6759363026
+['floor seat', 'vendor']	['36 dollar and stadium stadium seat']	0.386489202011
+['floor seat', 'vendor']	['28 dollar']	0.0696933362217
+['floor seat', 'vendor']	['6080 dollar']	0.0696933362217
+['floor seat', 'vendor']	['ticket']	0.580710562807
+['floor seat', 'vendor']	['36-dollar ticket']	0.0696933362217
+['floor seat', 'vendor']	['28-dollar ticket']	0.0696933362217
+['seat', 'vendor']	['200 ticket']	0.227477017733
+['seat', 'vendor']	['rock concert']	0.131771183904
+['seat', 'vendor']	['floor seat']	0.722661357037
+['seat', 'vendor']	['36 dollar and stadium stadium seat']	0.535775861066
+['seat', 'vendor']	['28 dollar']	0.131771183904
+['seat', 'vendor']	['6080 dollar']	0.131771183904
+['seat', 'vendor']	['ticket']	0.423205704686
+['seat', 'vendor']	['36-dollar ticket']	0.227477017733
+['seat', 'vendor']	['28-dollar ticket']	0.227477017733
+['36 dollar and stadium stadium seat', 'vendor']	['200 ticket']	0.0641181843254
+['36 dollar and stadium stadium seat', 'vendor']	['rock concert']	0.0641181843254
+['36 dollar and stadium stadium seat', 'vendor']	['floor seat']	0.566583375446
+['36 dollar and stadium stadium seat', 'vendor']	['seat']	0.631356372733
+['36 dollar and stadium stadium seat', 'vendor']	['28 dollar']	0.0641181843254
+['36 dollar and stadium stadium seat', 'vendor']	['6080 dollar']	0.0641181843254
+['36 dollar and stadium stadium seat', 'vendor']	['ticket']	0.509554749461
+['36 dollar and stadium stadium seat', 'vendor']	['36-dollar ticket']	0.0641181843254
+['36 dollar and stadium stadium seat', 'vendor']	['28-dollar ticket']	0.0641181843254
+['28 dollar', 'vendor']	['200 ticket']	0.0696933362217
+['28 dollar', 'vendor']	['rock concert']	0.0696933362217
+['28 dollar', 'vendor']	['floor seat']	0.0696933362217
+['28 dollar', 'vendor']	['seat']	0.185711257371
+['28 dollar', 'vendor']	['36 dollar and stadium stadium seat']	0.0841680381001
+['28 dollar', 'vendor']	['6080 dollar']	0.525944474896
+['28 dollar', 'vendor']	['ticket']	0.52286789997
+['28 dollar', 'vendor']	['36-dollar ticket']	0.0696933362217
+['28 dollar', 'vendor']	['28-dollar ticket']	0.0696933362217
+['6080 dollar', 'vendor']	['200 ticket']	0.0696933362217
+['6080 dollar', 'vendor']	['rock concert']	0.0696933362217
+['6080 dollar', 'vendor']	['floor seat']	0.0696933362217
+['6080 dollar', 'vendor']	['seat']	0.185711257371
+['6080 dollar', 'vendor']	['36 dollar and stadium stadium seat']	0.0841680381001
+['6080 dollar', 'vendor']	['28 dollar']	0.525944474896
+['6080 dollar', 'vendor']	['ticket']	0.52286789997
+['6080 dollar', 'vendor']	['36-dollar ticket']	0.0696933362217
+['6080 dollar', 'vendor']	['28-dollar ticket']	0.0696933362217
+['ticket', 'vendor']	['200 ticket']	0.681676645747
+['ticket', 'vendor']	['rock concert']	0.131771183904
+['ticket', 'vendor']	['floor seat']	0.220810351066
+['ticket', 'vendor']	['seat']	0.517278018764
+['ticket', 'vendor']	['36 dollar and stadium stadium seat']	0.234512322119
+['ticket', 'vendor']	['28 dollar']	0.159872896928
+['ticket', 'vendor']	['6080 dollar']	0.159872896928
+['ticket', 'vendor']	['36-dollar ticket']	0.672099339785
+['ticket', 'vendor']	['28-dollar ticket']	0.672099339785
+['36-dollar ticket', 'vendor']	['200 ticket']	0.525944474896
+['36-dollar ticket', 'vendor']	['rock concert']	0.0696933362217
+['36-dollar ticket', 'vendor']	['floor seat']	0.0696933362217
+['36-dollar ticket', 'vendor']	['seat']	0.364701098708
+['36-dollar ticket', 'vendor']	['36 dollar and stadium stadium seat']	0.0841680381001
+['36-dollar ticket', 'vendor']	['28 dollar']	0.0696933362217
+['36-dollar ticket', 'vendor']	['6080 dollar']	0.0696933362217
+['36-dollar ticket', 'vendor']	['ticket']	0.676240931282
+['36-dollar ticket', 'vendor']	['28-dollar ticket']	0.525944474896
+['28-dollar ticket', 'vendor']	['200 ticket']	0.525944474896
+['28-dollar ticket', 'vendor']	['rock concert']	0.0696933362217
+['28-dollar ticket', 'vendor']	['floor seat']	0.0696933362217
+['28-dollar ticket', 'vendor']	['seat']	0.364701098708
+['28-dollar ticket', 'vendor']	['36 dollar and stadium stadium seat']	0.0841680381001
+['28-dollar ticket', 'vendor']	['28 dollar']	0.0696933362217
+['28-dollar ticket', 'vendor']	['6080 dollar']	0.0696933362217
+['28-dollar ticket', 'vendor']	['ticket']	0.676240931282
+['28-dollar ticket', 'vendor']	['36-dollar ticket']	0.525944474896
+['vendor', '200 ticket']	['rock concert']	0.0696933362217
+['vendor', '200 ticket']	['floor seat']	0.0696933362217
+['vendor', '200 ticket']	['seat']	0.364701098708
+['vendor', '200 ticket']	['36 dollar and stadium stadium seat']	0.0841680381001
+['vendor', '200 ticket']	['28 dollar']	0.0696933362217
+['vendor', '200 ticket']	['6080 dollar']	0.0696933362217
+['vendor', '200 ticket']	['ticket']	0.796704535714
+['vendor', '200 ticket']	['36-dollar ticket']	0.525944474896
+['vendor', '200 ticket']	['28-dollar ticket']	0.525944474896
+['rock concert', '200 ticket']	['vendor']	0.079730351659
+['rock concert', '200 ticket']	['floor seat']	0.0833805889219
+['rock concert', '200 ticket']	['seat']	0.134019865814
+['rock concert', '200 ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['rock concert', '200 ticket']	['28 dollar']	0.0901100077042
+['rock concert', '200 ticket']	['6080 dollar']	0.0901100077042
+['rock concert', '200 ticket']	['ticket']	0.553002690374
+['rock concert', '200 ticket']	['36-dollar ticket']	0.584269096576
+['rock concert', '200 ticket']	['28-dollar ticket']	0.584269096576
+['floor seat', '200 ticket']	['vendor']	0.0774561735493
+['floor seat', '200 ticket']	['rock concert']	0.0833805889219
+['floor seat', '200 ticket']	['seat']	0.719560951185
+['floor seat', '200 ticket']	['36 dollar and stadium stadium seat']	0.47557248481
+['floor seat', '200 ticket']	['28 dollar']	0.0901100077042
+['floor seat', '200 ticket']	['6080 dollar']	0.0901100077042
+['floor seat', '200 ticket']	['ticket']	0.7000122089
+['floor seat', '200 ticket']	['36-dollar ticket']	0.584269096576
+['floor seat', '200 ticket']	['28-dollar ticket']	0.584269096576
+['seat', '200 ticket']	['vendor']	0.185711257371
+['seat', '200 ticket']	['rock concert']	0.0737139440912
+['seat', '200 ticket']	['floor seat']	0.722227658089
+['seat', '200 ticket']	['36 dollar and stadium stadium seat']	0.526220703877
+['seat', '200 ticket']	['28 dollar']	0.0737139440912
+['seat', '200 ticket']	['6080 dollar']	0.0737139440912
+['seat', '200 ticket']	['ticket']	0.808279591691
+['seat', '200 ticket']	['36-dollar ticket']	0.508240491051
+['seat', '200 ticket']	['28-dollar ticket']	0.508240491051
+['36 dollar and stadium stadium seat', '200 ticket']	['vendor']	0.0857950278587
+['36 dollar and stadium stadium seat', '200 ticket']	['rock concert']	0.0988755105172
+['36 dollar and stadium stadium seat', '200 ticket']	['floor seat']	0.601830528082
+['36 dollar and stadium stadium seat', '200 ticket']	['seat']	0.661441366705
+['36 dollar and stadium stadium seat', '200 ticket']	['28 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat', '200 ticket']	['6080 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat', '200 ticket']	['ticket']	0.708773385077
+['36 dollar and stadium stadium seat', '200 ticket']	['36-dollar ticket']	0.601830528082
+['36 dollar and stadium stadium seat', '200 ticket']	['28-dollar ticket']	0.601830528082
+['28 dollar', '200 ticket']	['vendor']	0.079730351659
+['28 dollar', '200 ticket']	['rock concert']	0.0827346205535
+['28 dollar', '200 ticket']	['floor seat']	0.0827346205535
+['28 dollar', '200 ticket']	['seat']	0.164721943821
+['28 dollar', '200 ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['28 dollar', '200 ticket']	['6080 dollar']	0.584269096576
+['28 dollar', '200 ticket']	['ticket']	0.687998110055
+['28 dollar', '200 ticket']	['36-dollar ticket']	0.584269096576
+['28 dollar', '200 ticket']	['28-dollar ticket']	0.584269096576
+['6080 dollar', '200 ticket']	['vendor']	0.079730351659
+['6080 dollar', '200 ticket']	['rock concert']	0.0901100077042
+['6080 dollar', '200 ticket']	['floor seat']	0.0901100077042
+['6080 dollar', '200 ticket']	['seat']	0.164721943821
+['6080 dollar', '200 ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['6080 dollar', '200 ticket']	['28 dollar']	0.584269096576
+['6080 dollar', '200 ticket']	['ticket']	0.687998110055
+['6080 dollar', '200 ticket']	['36-dollar ticket']	0.584269096576
+['6080 dollar', '200 ticket']	['28-dollar ticket']	0.584269096576
+['ticket', '200 ticket']	['vendor']	0.515100426031
+['ticket', '200 ticket']	['rock concert']	0.139259023173
+['ticket', '200 ticket']	['floor seat']	0.317307528599
+['ticket', '200 ticket']	['seat']	0.829184682126
+['ticket', '200 ticket']	['36 dollar and stadium stadium seat']	0.495846669724
+['ticket', '200 ticket']	['28 dollar']	0.247627320934
+['ticket', '200 ticket']	['6080 dollar']	0.247627320934
+['ticket', '200 ticket']	['36-dollar ticket']	0.722622429839
+['ticket', '200 ticket']	['28-dollar ticket']	0.722622429839
+['36-dollar ticket', '200 ticket']	['vendor']	0.33665242287
+['36-dollar ticket', '200 ticket']	['rock concert']	0.139258682248
+['36-dollar ticket', '200 ticket']	['floor seat']	0.139258682248
+['36-dollar ticket', '200 ticket']	['seat']	0.461471164944
+['36-dollar ticket', '200 ticket']	['36 dollar and stadium stadium seat']	0.315265418903
+['36-dollar ticket', '200 ticket']	['28 dollar']	0.139258682248
+['36-dollar ticket', '200 ticket']	['6080 dollar']	0.139258682248
+['36-dollar ticket', '200 ticket']	['ticket']	0.749517001914
+['36-dollar ticket', '200 ticket']	['28-dollar ticket']	0.637144068101
+['28-dollar ticket', '200 ticket']	['vendor']	0.33665242287
+['28-dollar ticket', '200 ticket']	['rock concert']	0.139258682248
+['28-dollar ticket', '200 ticket']	['floor seat']	0.139258682248
+['28-dollar ticket', '200 ticket']	['seat']	0.461471164944
+['28-dollar ticket', '200 ticket']	['36 dollar and stadium stadium seat']	0.315265418903
+['28-dollar ticket', '200 ticket']	['28 dollar']	0.139258682248
+['28-dollar ticket', '200 ticket']	['6080 dollar']	0.139258682248
+['28-dollar ticket', '200 ticket']	['ticket']	0.749517001914
+['28-dollar ticket', '200 ticket']	['36-dollar ticket']	0.637144068101
+['vendor', 'rock concert']	['200 ticket']	0.0696933362217
+['vendor', 'rock concert']	['floor seat']	0.0669904799604
+['vendor', 'rock concert']	['seat']	0.186963162599
+['vendor', 'rock concert']	['36 dollar and stadium stadium seat']	0.0841680381001
+['vendor', 'rock concert']	['28 dollar']	0.0696933362217
+['vendor', 'rock concert']	['6080 dollar']	0.0696933362217
+['vendor', 'rock concert']	['ticket']	0.289629897036
+['vendor', 'rock concert']	['36-dollar ticket']	0.0696933362217
+['vendor', 'rock concert']	['28-dollar ticket']	0.0696933362217
+['200 ticket', 'rock concert']	['vendor']	0.079730351659
+['200 ticket', 'rock concert']	['floor seat']	0.0833805889219
+['200 ticket', 'rock concert']	['seat']	0.134019865814
+['200 ticket', 'rock concert']	['36 dollar and stadium stadium seat']	0.0906383040618
+['200 ticket', 'rock concert']	['28 dollar']	0.0901100077042
+['200 ticket', 'rock concert']	['6080 dollar']	0.0901100077042
+['200 ticket', 'rock concert']	['ticket']	0.553002690374
+['200 ticket', 'rock concert']	['36-dollar ticket']	0.584269096576
+['200 ticket', 'rock concert']	['28-dollar ticket']	0.584269096576
+['floor seat', 'rock concert']	['vendor']	0.0774561735493
+['floor seat', 'rock concert']	['200 ticket']	0.0901100077042
+['floor seat', 'rock concert']	['seat']	0.585524789059
+['floor seat', 'rock concert']	['36 dollar and stadium stadium seat']	0.47557248481
+['floor seat', 'rock concert']	['28 dollar']	0.0901100077042
+['floor seat', 'rock concert']	['6080 dollar']	0.0901100077042
+['floor seat', 'rock concert']	['ticket']	0.134019865814
+['floor seat', 'rock concert']	['36-dollar ticket']	0.0901100077042
+['floor seat', 'rock concert']	['28-dollar ticket']	0.0901100077042
+['seat', 'rock concert']	['vendor']	0.186963162599
+['seat', 'rock concert']	['200 ticket']	0.130048808393
+['seat', 'rock concert']	['floor seat']	0.77754089099
+['seat', 'rock concert']	['36 dollar and stadium stadium seat']	0.526220703877
+['seat', 'rock concert']	['28 dollar']	0.0737139440912
+['seat', 'rock concert']	['6080 dollar']	0.0737139440912
+['seat', 'rock concert']	['ticket']	0.726420467881
+['seat', 'rock concert']	['36-dollar ticket']	0.130048808393
+['seat', 'rock concert']	['28-dollar ticket']	0.130048808393
+['36 dollar and stadium stadium seat', 'rock concert']	['vendor']	0.0857950278587
+['36 dollar and stadium stadium seat', 'rock concert']	['200 ticket']	0.0988755105172
+['36 dollar and stadium stadium seat', 'rock concert']	['floor seat']	0.504895445092
+['36 dollar and stadium stadium seat', 'rock concert']	['seat']	0.640408812813
+['36 dollar and stadium stadium seat', 'rock concert']	['28 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat', 'rock concert']	['6080 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat', 'rock concert']	['ticket']	0.134177736781
+['36 dollar and stadium stadium seat', 'rock concert']	['36-dollar ticket']	0.0988755105172
+['36 dollar and stadium stadium seat', 'rock concert']	['28-dollar ticket']	0.0988755105172
+['28 dollar', 'rock concert']	['vendor']	0.079730351659
+['28 dollar', 'rock concert']	['200 ticket']	0.0901100077042
+['28 dollar', 'rock concert']	['floor seat']	0.0800317642921
+['28 dollar', 'rock concert']	['seat']	0.0774561735493
+['28 dollar', 'rock concert']	['36 dollar and stadium stadium seat']	0.0906383040618
+['28 dollar', 'rock concert']	['6080 dollar']	0.584269096576
+['28 dollar', 'rock concert']	['ticket']	0.105969303899
+['28 dollar', 'rock concert']	['36-dollar ticket']	0.0901100077042
+['28 dollar', 'rock concert']	['28-dollar ticket']	0.0901100077042
+['6080 dollar', 'rock concert']	['vendor']	0.079730351659
+['6080 dollar', 'rock concert']	['200 ticket']	0.0901100077042
+['6080 dollar', 'rock concert']	['floor seat']	0.0833805889219
+['6080 dollar', 'rock concert']	['seat']	0.0774561735493
+['6080 dollar', 'rock concert']	['36 dollar and stadium stadium seat']	0.0906383040618
+['6080 dollar', 'rock concert']	['28 dollar']	0.584269096576
+['6080 dollar', 'rock concert']	['ticket']	0.105969303899
+['6080 dollar', 'rock concert']	['36-dollar ticket']	0.0901100077042
+['6080 dollar', 'rock concert']	['28-dollar ticket']	0.0901100077042
+['ticket', 'rock concert']	['vendor']	0.289629897036
+['ticket', 'rock concert']	['200 ticket']	0.669973747197
+['ticket', 'rock concert']	['floor seat']	0.150004719525
+['ticket', 'rock concert']	['seat']	0.726420467881
+['ticket', 'rock concert']	['36 dollar and stadium stadium seat']	0.15419221446
+['ticket', 'rock concert']	['28 dollar']	0.103222748661
+['ticket', 'rock concert']	['6080 dollar']	0.103222748661
+['ticket', 'rock concert']	['36-dollar ticket']	0.659403281276
+['ticket', 'rock concert']	['28-dollar ticket']	0.659403281276
+['36-dollar ticket', 'rock concert']	['vendor']	0.079730351659
+['36-dollar ticket', 'rock concert']	['200 ticket']	0.584269096576
+['36-dollar ticket', 'rock concert']	['floor seat']	0.0833805889219
+['36-dollar ticket', 'rock concert']	['seat']	0.134019865814
+['36-dollar ticket', 'rock concert']	['36 dollar and stadium stadium seat']	0.0906383040618
+['36-dollar ticket', 'rock concert']	['28 dollar']	0.0901100077042
+['36-dollar ticket', 'rock concert']	['6080 dollar']	0.0901100077042
+['36-dollar ticket', 'rock concert']	['ticket']	0.685469335656
+['36-dollar ticket', 'rock concert']	['28-dollar ticket']	0.584269096576
+['28-dollar ticket', 'rock concert']	['vendor']	0.079730351659
+['28-dollar ticket', 'rock concert']	['200 ticket']	0.584269096576
+['28-dollar ticket', 'rock concert']	['floor seat']	0.0833805889219
+['28-dollar ticket', 'rock concert']	['seat']	0.134019865814
+['28-dollar ticket', 'rock concert']	['36 dollar and stadium stadium seat']	0.0906383040618
+['28-dollar ticket', 'rock concert']	['28 dollar']	0.0901100077042
+['28-dollar ticket', 'rock concert']	['6080 dollar']	0.0901100077042
+['28-dollar ticket', 'rock concert']	['ticket']	0.685469335656
+['28-dollar ticket', 'rock concert']	['36-dollar ticket']	0.584269096576
+['vendor', 'floor seat']	['200 ticket']	0.0696933362217
+['vendor', 'floor seat']	['rock concert']	0.0669904799604
+['vendor', 'floor seat']	['seat']	0.6759363026
+['vendor', 'floor seat']	['36 dollar and stadium stadium seat']	0.386489202011
+['vendor', 'floor seat']	['28 dollar']	0.0696933362217
+['vendor', 'floor seat']	['6080 dollar']	0.0696933362217
+['vendor', 'floor seat']	['ticket']	0.580710562807
+['vendor', 'floor seat']	['36-dollar ticket']	0.0696933362217
+['vendor', 'floor seat']	['28-dollar ticket']	0.0696933362217
+['200 ticket', 'floor seat']	['vendor']	0.0774561735493
+['200 ticket', 'floor seat']	['rock concert']	0.0833805889219
+['200 ticket', 'floor seat']	['seat']	0.719560951185
+['200 ticket', 'floor seat']	['36 dollar and stadium stadium seat']	0.47557248481
+['200 ticket', 'floor seat']	['28 dollar']	0.0901100077042
+['200 ticket', 'floor seat']	['6080 dollar']	0.0901100077042
+['200 ticket', 'floor seat']	['ticket']	0.7000122089
+['200 ticket', 'floor seat']	['36-dollar ticket']	0.584269096576
+['200 ticket', 'floor seat']	['28-dollar ticket']	0.584269096576
+['rock concert', 'floor seat']	['vendor']	0.0774561735493
+['rock concert', 'floor seat']	['200 ticket']	0.0901100077042
+['rock concert', 'floor seat']	['seat']	0.585524789059
+['rock concert', 'floor seat']	['36 dollar and stadium stadium seat']	0.47557248481
+['rock concert', 'floor seat']	['28 dollar']	0.0901100077042
+['rock concert', 'floor seat']	['6080 dollar']	0.0901100077042
+['rock concert', 'floor seat']	['ticket']	0.134019865814
+['rock concert', 'floor seat']	['36-dollar ticket']	0.0901100077042
+['rock concert', 'floor seat']	['28-dollar ticket']	0.0901100077042
+['seat', 'floor seat']	['vendor']	0.446821428009
+['seat', 'floor seat']	['200 ticket']	0.317307528599
+['seat', 'floor seat']	['rock concert']	0.237317906735
+['seat', 'floor seat']	['36 dollar and stadium stadium seat']	0.63458077879
+['seat', 'floor seat']	['28 dollar']	0.139259023173
+['seat', 'floor seat']	['6080 dollar']	0.139259023173
+['seat', 'floor seat']	['ticket']	0.829184682126
+['seat', 'floor seat']	['36-dollar ticket']	0.317307528599
+['seat', 'floor seat']	['28-dollar ticket']	0.317307528599
+['36 dollar and stadium stadium seat', 'floor seat']	['vendor']	0.355294717811
+['36 dollar and stadium stadium seat', 'floor seat']	['200 ticket']	0.127952343303
+['36 dollar and stadium stadium seat', 'floor seat']	['rock concert']	0.186145287648
+['36 dollar and stadium stadium seat', 'floor seat']	['seat']	0.776673517076
+['36 dollar and stadium stadium seat', 'floor seat']	['28 dollar']	0.127952343303
+['36 dollar and stadium stadium seat', 'floor seat']	['6080 dollar']	0.127952343303
+['36 dollar and stadium stadium seat', 'floor seat']	['ticket']	0.485436498429
+['36 dollar and stadium stadium seat', 'floor seat']	['36-dollar ticket']	0.127952343303
+['36 dollar and stadium stadium seat', 'floor seat']	['28-dollar ticket']	0.127952343303
+['28 dollar', 'floor seat']	['vendor']	0.0774561735493
+['28 dollar', 'floor seat']	['200 ticket']	0.0901100077042
+['28 dollar', 'floor seat']	['rock concert']	0.0800317642921
+['28 dollar', 'floor seat']	['seat']	0.62245423315
+['28 dollar', 'floor seat']	['36 dollar and stadium stadium seat']	0.47557248481
+['28 dollar', 'floor seat']	['6080 dollar']	0.584269096576
+['28 dollar', 'floor seat']	['ticket']	0.153187994599
+['28 dollar', 'floor seat']	['36-dollar ticket']	0.0901100077042
+['28 dollar', 'floor seat']	['28-dollar ticket']	0.0901100077042
+['6080 dollar', 'floor seat']	['vendor']	0.0774561735493
+['6080 dollar', 'floor seat']	['200 ticket']	0.0901100077042
+['6080 dollar', 'floor seat']	['rock concert']	0.0833805889219
+['6080 dollar', 'floor seat']	['seat']	0.62245423315
+['6080 dollar', 'floor seat']	['36 dollar and stadium stadium seat']	0.47557248481
+['6080 dollar', 'floor seat']	['28 dollar']	0.584269096576
+['6080 dollar', 'floor seat']	['ticket']	0.153187994599
+['6080 dollar', 'floor seat']	['36-dollar ticket']	0.0901100077042
+['6080 dollar', 'floor seat']	['28-dollar ticket']	0.0901100077042
+['ticket', 'floor seat']	['vendor']	0.287172632079
+['ticket', 'floor seat']	['200 ticket']	0.669973747197
+['ticket', 'floor seat']	['rock concert']	0.0703393045902
+['ticket', 'floor seat']	['seat']	0.755813068564
+['ticket', 'floor seat']	['36 dollar and stadium stadium seat']	0.398967423287
+['ticket', 'floor seat']	['28 dollar']	0.103222748661
+['ticket', 'floor seat']	['6080 dollar']	0.103222748661
+['ticket', 'floor seat']	['36-dollar ticket']	0.659403281276
+['ticket', 'floor seat']	['28-dollar ticket']	0.659403281276
+['36-dollar ticket', 'floor seat']	['vendor']	0.0774561735493
+['36-dollar ticket', 'floor seat']	['200 ticket']	0.584269096576
+['36-dollar ticket', 'floor seat']	['rock concert']	0.0833805889219
+['36-dollar ticket', 'floor seat']	['seat']	0.719560951185
+['36-dollar ticket', 'floor seat']	['36 dollar and stadium stadium seat']	0.47557248481
+['36-dollar ticket', 'floor seat']	['28 dollar']	0.0901100077042
+['36-dollar ticket', 'floor seat']	['6080 dollar']	0.0901100077042
+['36-dollar ticket', 'floor seat']	['ticket']	0.658937329876
+['36-dollar ticket', 'floor seat']	['28-dollar ticket']	0.584269096576
+['28-dollar ticket', 'floor seat']	['vendor']	0.0774561735493
+['28-dollar ticket', 'floor seat']	['200 ticket']	0.584269096576
+['28-dollar ticket', 'floor seat']	['rock concert']	0.0833805889219
+['28-dollar ticket', 'floor seat']	['seat']	0.719560951185
+['28-dollar ticket', 'floor seat']	['36 dollar and stadium stadium seat']	0.47557248481
+['28-dollar ticket', 'floor seat']	['28 dollar']	0.0901100077042
+['28-dollar ticket', 'floor seat']	['6080 dollar']	0.0901100077042
+['28-dollar ticket', 'floor seat']	['ticket']	0.658937329876
+['28-dollar ticket', 'floor seat']	['36-dollar ticket']	0.584269096576
+['vendor', 'seat']	['200 ticket']	0.227477017733
+['vendor', 'seat']	['rock concert']	0.131771183904
+['vendor', 'seat']	['floor seat']	0.722661357037
+['vendor', 'seat']	['36 dollar and stadium stadium seat']	0.535775861066
+['vendor', 'seat']	['28 dollar']	0.131771183904
+['vendor', 'seat']	['6080 dollar']	0.131771183904
+['vendor', 'seat']	['ticket']	0.423205704686
+['vendor', 'seat']	['36-dollar ticket']	0.227477017733
+['vendor', 'seat']	['28-dollar ticket']	0.227477017733
+['200 ticket', 'seat']	['vendor']	0.185711257371
+['200 ticket', 'seat']	['rock concert']	0.0737139440912
+['200 ticket', 'seat']	['floor seat']	0.722227658089
+['200 ticket', 'seat']	['36 dollar and stadium stadium seat']	0.526220703877
+['200 ticket', 'seat']	['28 dollar']	0.0737139440912
+['200 ticket', 'seat']	['6080 dollar']	0.0737139440912
+['200 ticket', 'seat']	['ticket']	0.808279591691
+['200 ticket', 'seat']	['36-dollar ticket']	0.508240491051
+['200 ticket', 'seat']	['28-dollar ticket']	0.508240491051
+['rock concert', 'seat']	['vendor']	0.186963162599
+['rock concert', 'seat']	['200 ticket']	0.130048808393
+['rock concert', 'seat']	['floor seat']	0.77754089099
+['rock concert', 'seat']	['36 dollar and stadium stadium seat']	0.526220703877
+['rock concert', 'seat']	['28 dollar']	0.0737139440912
+['rock concert', 'seat']	['6080 dollar']	0.0737139440912
+['rock concert', 'seat']	['ticket']	0.726420467881
+['rock concert', 'seat']	['36-dollar ticket']	0.130048808393
+['rock concert', 'seat']	['28-dollar ticket']	0.130048808393
+['floor seat', 'seat']	['vendor']	0.446821428009
+['floor seat', 'seat']	['200 ticket']	0.317307528599
+['floor seat', 'seat']	['rock concert']	0.237317906735
+['floor seat', 'seat']	['36 dollar and stadium stadium seat']	0.63458077879
+['floor seat', 'seat']	['28 dollar']	0.139259023173
+['floor seat', 'seat']	['6080 dollar']	0.139259023173
+['floor seat', 'seat']	['ticket']	0.829184682126
+['floor seat', 'seat']	['36-dollar ticket']	0.317307528599
+['floor seat', 'seat']	['28-dollar ticket']	0.317307528599
+['36 dollar and stadium stadium seat', 'seat']	['vendor']	0.411184233967
+['36 dollar and stadium stadium seat', 'seat']	['200 ticket']	0.285504626463
+['36 dollar and stadium stadium seat', 'seat']	['rock concert']	0.109369378475
+['36 dollar and stadium stadium seat', 'seat']	['floor seat']	0.766022070464
+['36 dollar and stadium stadium seat', 'seat']	['28 dollar']	0.109369378475
+['36 dollar and stadium stadium seat', 'seat']	['6080 dollar']	0.109369378475
+['36 dollar and stadium stadium seat', 'seat']	['ticket']	0.831472404604
+['36 dollar and stadium stadium seat', 'seat']	['36-dollar ticket']	0.285504626463
+['36 dollar and stadium stadium seat', 'seat']	['28-dollar ticket']	0.285504626463
+['28 dollar', 'seat']	['vendor']	0.185711257371
+['28 dollar', 'seat']	['200 ticket']	0.130048808393
+['28 dollar', 'seat']	['rock concert']	0.0696933362217
+['28 dollar', 'seat']	['floor seat']	0.722297777211
+['28 dollar', 'seat']	['36 dollar and stadium stadium seat']	0.526220703877
+['28 dollar', 'seat']	['6080 dollar']	0.522652815483
+['28 dollar', 'seat']	['ticket']	0.844341605902
+['28 dollar', 'seat']	['36-dollar ticket']	0.130048808393
+['28 dollar', 'seat']	['28-dollar ticket']	0.130048808393
+['6080 dollar', 'seat']	['vendor']	0.185711257371
+['6080 dollar', 'seat']	['200 ticket']	0.130048808393
+['6080 dollar', 'seat']	['rock concert']	0.0737139440912
+['6080 dollar', 'seat']	['floor seat']	0.722227658089
+['6080 dollar', 'seat']	['36 dollar and stadium stadium seat']	0.526220703877
+['6080 dollar', 'seat']	['28 dollar']	0.522652815483
+['6080 dollar', 'seat']	['ticket']	0.844341605902
+['6080 dollar', 'seat']	['36-dollar ticket']	0.130048808393
+['6080 dollar', 'seat']	['28-dollar ticket']	0.130048808393
+['ticket', 'seat']	['vendor']	0.182794228396
+['ticket', 'seat']	['200 ticket']	0.796261938463
+['ticket', 'seat']	['rock concert']	0.135791791773
+['ticket', 'seat']	['floor seat']	0.816945860979
+['ticket', 'seat']	['36 dollar and stadium stadium seat']	0.572498955466
+['ticket', 'seat']	['28 dollar']	0.159872896928
+['ticket', 'seat']	['6080 dollar']	0.159872896928
+['ticket', 'seat']	['36-dollar ticket']	0.725162374876
+['ticket', 'seat']	['28-dollar ticket']	0.725162374876
+['36-dollar ticket', 'seat']	['vendor']	0.185711257371
+['36-dollar ticket', 'seat']	['200 ticket']	0.508240491051
+['36-dollar ticket', 'seat']	['rock concert']	0.0737139440912
+['36-dollar ticket', 'seat']	['floor seat']	0.722227658089
+['36-dollar ticket', 'seat']	['36 dollar and stadium stadium seat']	0.526220703877
+['36-dollar ticket', 'seat']	['28 dollar']	0.0737139440912
+['36-dollar ticket', 'seat']	['6080 dollar']	0.0737139440912
+['36-dollar ticket', 'seat']	['ticket']	0.788397429702
+['36-dollar ticket', 'seat']	['28-dollar ticket']	0.508240491051
+['28-dollar ticket', 'seat']	['vendor']	0.185711257371
+['28-dollar ticket', 'seat']	['200 ticket']	0.508240491051
+['28-dollar ticket', 'seat']	['rock concert']	0.0737139440912
+['28-dollar ticket', 'seat']	['floor seat']	0.722227658089
+['28-dollar ticket', 'seat']	['36 dollar and stadium stadium seat']	0.526220703877
+['28-dollar ticket', 'seat']	['28 dollar']	0.0737139440912
+['28-dollar ticket', 'seat']	['6080 dollar']	0.0737139440912
+['28-dollar ticket', 'seat']	['ticket']	0.788397429702
+['28-dollar ticket', 'seat']	['36-dollar ticket']	0.508240491051
+['vendor', '36 dollar and stadium stadium seat']	['200 ticket']	0.0641181843254
+['vendor', '36 dollar and stadium stadium seat']	['rock concert']	0.0641181843254
+['vendor', '36 dollar and stadium stadium seat']	['floor seat']	0.566583375446
+['vendor', '36 dollar and stadium stadium seat']	['seat']	0.631356372733
+['vendor', '36 dollar and stadium stadium seat']	['28 dollar']	0.0641181843254
+['vendor', '36 dollar and stadium stadium seat']	['6080 dollar']	0.0641181843254
+['vendor', '36 dollar and stadium stadium seat']	['ticket']	0.509554749461
+['vendor', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.0641181843254
+['vendor', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.0641181843254
+['200 ticket', '36 dollar and stadium stadium seat']	['vendor']	0.0857950278587
+['200 ticket', '36 dollar and stadium stadium seat']	['rock concert']	0.0988755105172
+['200 ticket', '36 dollar and stadium stadium seat']	['floor seat']	0.601830528082
+['200 ticket', '36 dollar and stadium stadium seat']	['seat']	0.661441366705
+['200 ticket', '36 dollar and stadium stadium seat']	['28 dollar']	0.0988755105172
+['200 ticket', '36 dollar and stadium stadium seat']	['6080 dollar']	0.0988755105172
+['200 ticket', '36 dollar and stadium stadium seat']	['ticket']	0.708773385077
+['200 ticket', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.601830528082
+['200 ticket', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.601830528082
+['rock concert', '36 dollar and stadium stadium seat']	['vendor']	0.0857950278587
+['rock concert', '36 dollar and stadium stadium seat']	['200 ticket']	0.0988755105172
+['rock concert', '36 dollar and stadium stadium seat']	['floor seat']	0.504895445092
+['rock concert', '36 dollar and stadium stadium seat']	['seat']	0.640408812813
+['rock concert', '36 dollar and stadium stadium seat']	['28 dollar']	0.0988755105172
+['rock concert', '36 dollar and stadium stadium seat']	['6080 dollar']	0.0988755105172
+['rock concert', '36 dollar and stadium stadium seat']	['ticket']	0.134177736781
+['rock concert', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.0988755105172
+['rock concert', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.0988755105172
+['floor seat', '36 dollar and stadium stadium seat']	['vendor']	0.355294717811
+['floor seat', '36 dollar and stadium stadium seat']	['200 ticket']	0.127952343303
+['floor seat', '36 dollar and stadium stadium seat']	['rock concert']	0.186145287648
+['floor seat', '36 dollar and stadium stadium seat']	['seat']	0.776673517076
+['floor seat', '36 dollar and stadium stadium seat']	['28 dollar']	0.127952343303
+['floor seat', '36 dollar and stadium stadium seat']	['6080 dollar']	0.127952343303
+['floor seat', '36 dollar and stadium stadium seat']	['ticket']	0.485436498429
+['floor seat', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.127952343303
+['floor seat', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.127952343303
+['seat', '36 dollar and stadium stadium seat']	['vendor']	0.411184233967
+['seat', '36 dollar and stadium stadium seat']	['200 ticket']	0.285504626463
+['seat', '36 dollar and stadium stadium seat']	['rock concert']	0.109369378475
+['seat', '36 dollar and stadium stadium seat']	['floor seat']	0.766022070464
+['seat', '36 dollar and stadium stadium seat']	['28 dollar']	0.109369378475
+['seat', '36 dollar and stadium stadium seat']	['6080 dollar']	0.109369378475
+['seat', '36 dollar and stadium stadium seat']	['ticket']	0.831472404604
+['seat', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.285504626463
+['seat', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.285504626463
+['28 dollar', '36 dollar and stadium stadium seat']	['vendor']	0.0857950278587
+['28 dollar', '36 dollar and stadium stadium seat']	['200 ticket']	0.0988755105172
+['28 dollar', '36 dollar and stadium stadium seat']	['rock concert']	0.0915001233665
+['28 dollar', '36 dollar and stadium stadium seat']	['floor seat']	0.573326357841
+['28 dollar', '36 dollar and stadium stadium seat']	['seat']	0.668123757583
+['28 dollar', '36 dollar and stadium stadium seat']	['6080 dollar']	0.601830528082
+['28 dollar', '36 dollar and stadium stadium seat']	['ticket']	0.154426683646
+['28 dollar', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.0988755105172
+['28 dollar', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.0988755105172
+['6080 dollar', '36 dollar and stadium stadium seat']	['vendor']	0.0857950278587
+['6080 dollar', '36 dollar and stadium stadium seat']	['200 ticket']	0.0988755105172
+['6080 dollar', '36 dollar and stadium stadium seat']	['rock concert']	0.0988755105172
+['6080 dollar', '36 dollar and stadium stadium seat']	['floor seat']	0.601830528082
+['6080 dollar', '36 dollar and stadium stadium seat']	['seat']	0.668123757583
+['6080 dollar', '36 dollar and stadium stadium seat']	['28 dollar']	0.601830528082
+['6080 dollar', '36 dollar and stadium stadium seat']	['ticket']	0.154426683646
+['6080 dollar', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.0988755105172
+['6080 dollar', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.0988755105172
+['ticket', '36 dollar and stadium stadium seat']	['vendor']	0.284301512517
+['ticket', '36 dollar and stadium stadium seat']	['200 ticket']	0.730063559453
+['ticket', '36 dollar and stadium stadium seat']	['rock concert']	0.0681387921949
+['ticket', '36 dollar and stadium stadium seat']	['floor seat']	0.575226503871
+['ticket', '36 dollar and stadium stadium seat']	['seat']	0.792379621622
+['ticket', '36 dollar and stadium stadium seat']	['28 dollar']	0.0875745025587
+['ticket', '36 dollar and stadium stadium seat']	['6080 dollar']	0.0875745025587
+['ticket', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.62451755238
+['ticket', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.62451755238
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['vendor']	0.0857950278587
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['200 ticket']	0.601830528082
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['rock concert']	0.0988755105172
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['floor seat']	0.601830528082
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['seat']	0.661441366705
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['28 dollar']	0.0988755105172
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['6080 dollar']	0.0988755105172
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['ticket']	0.661441366705
+['36-dollar ticket', '36 dollar and stadium stadium seat']	['28-dollar ticket']	0.601830528082
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['vendor']	0.0857950278587
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['200 ticket']	0.601830528082
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['rock concert']	0.0988755105172
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['floor seat']	0.601830528082
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['seat']	0.661441366705
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['28 dollar']	0.0988755105172
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['6080 dollar']	0.0988755105172
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['ticket']	0.661441366705
+['28-dollar ticket', '36 dollar and stadium stadium seat']	['36-dollar ticket']	0.601830528082
+['vendor', '28 dollar']	['200 ticket']	0.0696933362217
+['vendor', '28 dollar']	['rock concert']	0.0696933362217
+['vendor', '28 dollar']	['floor seat']	0.0696933362217
+['vendor', '28 dollar']	['seat']	0.185711257371
+['vendor', '28 dollar']	['36 dollar and stadium stadium seat']	0.0841680381001
+['vendor', '28 dollar']	['6080 dollar']	0.525944474896
+['vendor', '28 dollar']	['ticket']	0.52286789997
+['vendor', '28 dollar']	['36-dollar ticket']	0.0696933362217
+['vendor', '28 dollar']	['28-dollar ticket']	0.0696933362217
+['200 ticket', '28 dollar']	['vendor']	0.079730351659
+['200 ticket', '28 dollar']	['rock concert']	0.0827346205535
+['200 ticket', '28 dollar']	['floor seat']	0.0827346205535
+['200 ticket', '28 dollar']	['seat']	0.164721943821
+['200 ticket', '28 dollar']	['36 dollar and stadium stadium seat']	0.0906383040618
+['200 ticket', '28 dollar']	['6080 dollar']	0.584269096576
+['200 ticket', '28 dollar']	['ticket']	0.687998110055
+['200 ticket', '28 dollar']	['36-dollar ticket']	0.584269096576
+['200 ticket', '28 dollar']	['28-dollar ticket']	0.584269096576
+['rock concert', '28 dollar']	['vendor']	0.079730351659
+['rock concert', '28 dollar']	['200 ticket']	0.0901100077042
+['rock concert', '28 dollar']	['floor seat']	0.0800317642921
+['rock concert', '28 dollar']	['seat']	0.0774561735493
+['rock concert', '28 dollar']	['36 dollar and stadium stadium seat']	0.0906383040618
+['rock concert', '28 dollar']	['6080 dollar']	0.584269096576
+['rock concert', '28 dollar']	['ticket']	0.105969303899
+['rock concert', '28 dollar']	['36-dollar ticket']	0.0901100077042
+['rock concert', '28 dollar']	['28-dollar ticket']	0.0901100077042
+['floor seat', '28 dollar']	['vendor']	0.0774561735493
+['floor seat', '28 dollar']	['200 ticket']	0.0901100077042
+['floor seat', '28 dollar']	['rock concert']	0.0800317642921
+['floor seat', '28 dollar']	['seat']	0.62245423315
+['floor seat', '28 dollar']	['36 dollar and stadium stadium seat']	0.47557248481
+['floor seat', '28 dollar']	['6080 dollar']	0.584269096576
+['floor seat', '28 dollar']	['ticket']	0.153187994599
+['floor seat', '28 dollar']	['36-dollar ticket']	0.0901100077042
+['floor seat', '28 dollar']	['28-dollar ticket']	0.0901100077042
+['seat', '28 dollar']	['vendor']	0.185711257371
+['seat', '28 dollar']	['200 ticket']	0.130048808393
+['seat', '28 dollar']	['rock concert']	0.0696933362217
+['seat', '28 dollar']	['floor seat']	0.722297777211
+['seat', '28 dollar']	['36 dollar and stadium stadium seat']	0.526220703877
+['seat', '28 dollar']	['6080 dollar']	0.522652815483
+['seat', '28 dollar']	['ticket']	0.844341605902
+['seat', '28 dollar']	['36-dollar ticket']	0.130048808393
+['seat', '28 dollar']	['28-dollar ticket']	0.130048808393
+['36 dollar and stadium stadium seat', '28 dollar']	['vendor']	0.0857950278587
+['36 dollar and stadium stadium seat', '28 dollar']	['200 ticket']	0.0988755105172
+['36 dollar and stadium stadium seat', '28 dollar']	['rock concert']	0.0915001233665
+['36 dollar and stadium stadium seat', '28 dollar']	['floor seat']	0.573326357841
+['36 dollar and stadium stadium seat', '28 dollar']	['seat']	0.668123757583
+['36 dollar and stadium stadium seat', '28 dollar']	['6080 dollar']	0.601830528082
+['36 dollar and stadium stadium seat', '28 dollar']	['ticket']	0.154426683646
+['36 dollar and stadium stadium seat', '28 dollar']	['36-dollar ticket']	0.0988755105172
+['36 dollar and stadium stadium seat', '28 dollar']	['28-dollar ticket']	0.0988755105172
+['6080 dollar', '28 dollar']	['vendor']	0.33665242287
+['6080 dollar', '28 dollar']	['200 ticket']	0.139258682248
+['6080 dollar', '28 dollar']	['rock concert']	0.153587928078
+['6080 dollar', '28 dollar']	['floor seat']	0.153587928078
+['6080 dollar', '28 dollar']	['seat']	0.345269105941
+['6080 dollar', '28 dollar']	['36 dollar and stadium stadium seat']	0.315265418903
+['6080 dollar', '28 dollar']	['ticket']	0.51323626183
+['6080 dollar', '28 dollar']	['36-dollar ticket']	0.139258682248
+['6080 dollar', '28 dollar']	['28-dollar ticket']	0.139258682248
+['ticket', '28 dollar']	['vendor']	0.287172632079
+['ticket', '28 dollar']	['200 ticket']	0.669973747197
+['ticket', '28 dollar']	['rock concert']	0.0696933362217
+['ticket', '28 dollar']	['floor seat']	0.164160202798
+['ticket', '28 dollar']	['seat']	0.695673392376
+['ticket', '28 dollar']	['36 dollar and stadium stadium seat']	0.15419221446
+['ticket', '28 dollar']	['6080 dollar']	0.525526174317
+['ticket', '28 dollar']	['36-dollar ticket']	0.659403281276
+['ticket', '28 dollar']	['28-dollar ticket']	0.659403281276
+['36-dollar ticket', '28 dollar']	['vendor']	0.079730351659
+['36-dollar ticket', '28 dollar']	['200 ticket']	0.584269096576
+['36-dollar ticket', '28 dollar']	['rock concert']	0.0827346205535
+['36-dollar ticket', '28 dollar']	['floor seat']	0.0827346205535
+['36-dollar ticket', '28 dollar']	['seat']	0.164721943821
+['36-dollar ticket', '28 dollar']	['36 dollar and stadium stadium seat']	0.0906383040618
+['36-dollar ticket', '28 dollar']	['6080 dollar']	0.584269096576
+['36-dollar ticket', '28 dollar']	['ticket']	0.707398287968
+['36-dollar ticket', '28 dollar']	['28-dollar ticket']	0.584269096576
+['28-dollar ticket', '28 dollar']	['vendor']	0.079730351659
+['28-dollar ticket', '28 dollar']	['200 ticket']	0.584269096576
+['28-dollar ticket', '28 dollar']	['rock concert']	0.0827346205535
+['28-dollar ticket', '28 dollar']	['floor seat']	0.0827346205535
+['28-dollar ticket', '28 dollar']	['seat']	0.164721943821
+['28-dollar ticket', '28 dollar']	['36 dollar and stadium stadium seat']	0.0906383040618
+['28-dollar ticket', '28 dollar']	['6080 dollar']	0.584269096576
+['28-dollar ticket', '28 dollar']	['ticket']	0.707398287968
+['28-dollar ticket', '28 dollar']	['36-dollar ticket']	0.584269096576
+['vendor', '6080 dollar']	['200 ticket']	0.0696933362217
+['vendor', '6080 dollar']	['rock concert']	0.0696933362217
+['vendor', '6080 dollar']	['floor seat']	0.0696933362217
+['vendor', '6080 dollar']	['seat']	0.185711257371
+['vendor', '6080 dollar']	['36 dollar and stadium stadium seat']	0.0841680381001
+['vendor', '6080 dollar']	['28 dollar']	0.525944474896
+['vendor', '6080 dollar']	['ticket']	0.52286789997
+['vendor', '6080 dollar']	['36-dollar ticket']	0.0696933362217
+['vendor', '6080 dollar']	['28-dollar ticket']	0.0696933362217
+['200 ticket', '6080 dollar']	['vendor']	0.079730351659
+['200 ticket', '6080 dollar']	['rock concert']	0.0901100077042
+['200 ticket', '6080 dollar']	['floor seat']	0.0901100077042
+['200 ticket', '6080 dollar']	['seat']	0.164721943821
+['200 ticket', '6080 dollar']	['36 dollar and stadium stadium seat']	0.0906383040618
+['200 ticket', '6080 dollar']	['28 dollar']	0.584269096576
+['200 ticket', '6080 dollar']	['ticket']	0.687998110055
+['200 ticket', '6080 dollar']	['36-dollar ticket']	0.584269096576
+['200 ticket', '6080 dollar']	['28-dollar ticket']	0.584269096576
+['rock concert', '6080 dollar']	['vendor']	0.079730351659
+['rock concert', '6080 dollar']	['200 ticket']	0.0901100077042
+['rock concert', '6080 dollar']	['floor seat']	0.0833805889219
+['rock concert', '6080 dollar']	['seat']	0.0774561735493
+['rock concert', '6080 dollar']	['36 dollar and stadium stadium seat']	0.0906383040618
+['rock concert', '6080 dollar']	['28 dollar']	0.584269096576
+['rock concert', '6080 dollar']	['ticket']	0.105969303899
+['rock concert', '6080 dollar']	['36-dollar ticket']	0.0901100077042
+['rock concert', '6080 dollar']	['28-dollar ticket']	0.0901100077042
+['floor seat', '6080 dollar']	['vendor']	0.0774561735493
+['floor seat', '6080 dollar']	['200 ticket']	0.0901100077042
+['floor seat', '6080 dollar']	['rock concert']	0.0833805889219
+['floor seat', '6080 dollar']	['seat']	0.62245423315
+['floor seat', '6080 dollar']	['36 dollar and stadium stadium seat']	0.47557248481
+['floor seat', '6080 dollar']	['28 dollar']	0.584269096576
+['floor seat', '6080 dollar']	['ticket']	0.153187994599
+['floor seat', '6080 dollar']	['36-dollar ticket']	0.0901100077042
+['floor seat', '6080 dollar']	['28-dollar ticket']	0.0901100077042
+['seat', '6080 dollar']	['vendor']	0.185711257371
+['seat', '6080 dollar']	['200 ticket']	0.130048808393
+['seat', '6080 dollar']	['rock concert']	0.0737139440912
+['seat', '6080 dollar']	['floor seat']	0.722227658089
+['seat', '6080 dollar']	['36 dollar and stadium stadium seat']	0.526220703877
+['seat', '6080 dollar']	['28 dollar']	0.522652815483
+['seat', '6080 dollar']	['ticket']	0.844341605902
+['seat', '6080 dollar']	['36-dollar ticket']	0.130048808393
+['seat', '6080 dollar']	['28-dollar ticket']	0.130048808393
+['36 dollar and stadium stadium seat', '6080 dollar']	['vendor']	0.0857950278587
+['36 dollar and stadium stadium seat', '6080 dollar']	['200 ticket']	0.0988755105172
+['36 dollar and stadium stadium seat', '6080 dollar']	['rock concert']	0.0988755105172
+['36 dollar and stadium stadium seat', '6080 dollar']	['floor seat']	0.601830528082
+['36 dollar and stadium stadium seat', '6080 dollar']	['seat']	0.668123757583
+['36 dollar and stadium stadium seat', '6080 dollar']	['28 dollar']	0.601830528082
+['36 dollar and stadium stadium seat', '6080 dollar']	['ticket']	0.154426683646
+['36 dollar and stadium stadium seat', '6080 dollar']	['36-dollar ticket']	0.0988755105172
+['36 dollar and stadium stadium seat', '6080 dollar']	['28-dollar ticket']	0.0988755105172
+['28 dollar', '6080 dollar']	['vendor']	0.33665242287
+['28 dollar', '6080 dollar']	['200 ticket']	0.139258682248
+['28 dollar', '6080 dollar']	['rock concert']	0.153587928078
+['28 dollar', '6080 dollar']	['floor seat']	0.153587928078
+['28 dollar', '6080 dollar']	['seat']	0.345269105941
+['28 dollar', '6080 dollar']	['36 dollar and stadium stadium seat']	0.315265418903
+['28 dollar', '6080 dollar']	['ticket']	0.51323626183
+['28 dollar', '6080 dollar']	['36-dollar ticket']	0.139258682248
+['28 dollar', '6080 dollar']	['28-dollar ticket']	0.139258682248
+['ticket', '6080 dollar']	['vendor']	0.287172632079
+['ticket', '6080 dollar']	['200 ticket']	0.669973747197
+['ticket', '6080 dollar']	['rock concert']	0.0737139440912
+['ticket', '6080 dollar']	['floor seat']	0.130048808393
+['ticket', '6080 dollar']	['seat']	0.695673392376
+['ticket', '6080 dollar']	['36 dollar and stadium stadium seat']	0.15419221446
+['ticket', '6080 dollar']	['28 dollar']	0.525526174317
+['ticket', '6080 dollar']	['36-dollar ticket']	0.659403281276
+['ticket', '6080 dollar']	['28-dollar ticket']	0.659403281276
+['36-dollar ticket', '6080 dollar']	['vendor']	0.079730351659
+['36-dollar ticket', '6080 dollar']	['200 ticket']	0.584269096576
+['36-dollar ticket', '6080 dollar']	['rock concert']	0.0901100077042
+['36-dollar ticket', '6080 dollar']	['floor seat']	0.0901100077042
+['36-dollar ticket', '6080 dollar']	['seat']	0.164721943821
+['36-dollar ticket', '6080 dollar']	['36 dollar and stadium stadium seat']	0.0906383040618
+['36-dollar ticket', '6080 dollar']	['28 dollar']	0.584269096576
+['36-dollar ticket', '6080 dollar']	['ticket']	0.707398287968
+['36-dollar ticket', '6080 dollar']	['28-dollar ticket']	0.584269096576
+['28-dollar ticket', '6080 dollar']	['vendor']	0.079730351659
+['28-dollar ticket', '6080 dollar']	['200 ticket']	0.584269096576
+['28-dollar ticket', '6080 dollar']	['rock concert']	0.0901100077042
+['28-dollar ticket', '6080 dollar']	['floor seat']	0.0901100077042
+['28-dollar ticket', '6080 dollar']	['seat']	0.164721943821
+['28-dollar ticket', '6080 dollar']	['36 dollar and stadium stadium seat']	0.0906383040618
+['28-dollar ticket', '6080 dollar']	['28 dollar']	0.584269096576
+['28-dollar ticket', '6080 dollar']	['ticket']	0.707398287968
+['28-dollar ticket', '6080 dollar']	['36-dollar ticket']	0.584269096576
+['vendor', 'ticket']	['200 ticket']	0.681676645747
+['vendor', 'ticket']	['rock concert']	0.131771183904
+['vendor', 'ticket']	['floor seat']	0.220810351066
+['vendor', 'ticket']	['seat']	0.517278018764
+['vendor', 'ticket']	['36 dollar and stadium stadium seat']	0.234512322119
+['vendor', 'ticket']	['28 dollar']	0.159872896928
+['vendor', 'ticket']	['6080 dollar']	0.159872896928
+['vendor', 'ticket']	['36-dollar ticket']	0.672099339785
+['vendor', 'ticket']	['28-dollar ticket']	0.672099339785
+['200 ticket', 'ticket']	['vendor']	0.515100426031
+['200 ticket', 'ticket']	['rock concert']	0.139259023173
+['200 ticket', 'ticket']	['floor seat']	0.317307528599
+['200 ticket', 'ticket']	['seat']	0.829184682126
+['200 ticket', 'ticket']	['36 dollar and stadium stadium seat']	0.495846669724
+['200 ticket', 'ticket']	['28 dollar']	0.247627320934
+['200 ticket', 'ticket']	['6080 dollar']	0.247627320934
+['200 ticket', 'ticket']	['36-dollar ticket']	0.722622429839
+['200 ticket', 'ticket']	['28-dollar ticket']	0.722622429839
+['rock concert', 'ticket']	['vendor']	0.289629897036
+['rock concert', 'ticket']	['200 ticket']	0.669973747197
+['rock concert', 'ticket']	['floor seat']	0.150004719525
+['rock concert', 'ticket']	['seat']	0.726420467881
+['rock concert', 'ticket']	['36 dollar and stadium stadium seat']	0.15419221446
+['rock concert', 'ticket']	['28 dollar']	0.103222748661
+['rock concert', 'ticket']	['6080 dollar']	0.103222748661
+['rock concert', 'ticket']	['36-dollar ticket']	0.659403281276
+['rock concert', 'ticket']	['28-dollar ticket']	0.659403281276
+['floor seat', 'ticket']	['vendor']	0.287172632079
+['floor seat', 'ticket']	['200 ticket']	0.669973747197
+['floor seat', 'ticket']	['rock concert']	0.0703393045902
+['floor seat', 'ticket']	['seat']	0.755813068564
+['floor seat', 'ticket']	['36 dollar and stadium stadium seat']	0.398967423287
+['floor seat', 'ticket']	['28 dollar']	0.103222748661
+['floor seat', 'ticket']	['6080 dollar']	0.103222748661
+['floor seat', 'ticket']	['36-dollar ticket']	0.659403281276
+['floor seat', 'ticket']	['28-dollar ticket']	0.659403281276
+['seat', 'ticket']	['vendor']	0.182794228396
+['seat', 'ticket']	['200 ticket']	0.796261938463
+['seat', 'ticket']	['rock concert']	0.135791791773
+['seat', 'ticket']	['floor seat']	0.816945860979
+['seat', 'ticket']	['36 dollar and stadium stadium seat']	0.572498955466
+['seat', 'ticket']	['28 dollar']	0.159872896928
+['seat', 'ticket']	['6080 dollar']	0.159872896928
+['seat', 'ticket']	['36-dollar ticket']	0.725162374876
+['seat', 'ticket']	['28-dollar ticket']	0.725162374876
+['36 dollar and stadium stadium seat', 'ticket']	['vendor']	0.284301512517
+['36 dollar and stadium stadium seat', 'ticket']	['200 ticket']	0.730063559453
+['36 dollar and stadium stadium seat', 'ticket']	['rock concert']	0.0681387921949
+['36 dollar and stadium stadium seat', 'ticket']	['floor seat']	0.575226503871
+['36 dollar and stadium stadium seat', 'ticket']	['seat']	0.792379621622
+['36 dollar and stadium stadium seat', 'ticket']	['28 dollar']	0.0875745025587
+['36 dollar and stadium stadium seat', 'ticket']	['6080 dollar']	0.0875745025587
+['36 dollar and stadium stadium seat', 'ticket']	['36-dollar ticket']	0.62451755238
+['36 dollar and stadium stadium seat', 'ticket']	['28-dollar ticket']	0.62451755238
+['28 dollar', 'ticket']	['vendor']	0.287172632079
+['28 dollar', 'ticket']	['200 ticket']	0.669973747197
+['28 dollar', 'ticket']	['rock concert']	0.0696933362217
+['28 dollar', 'ticket']	['floor seat']	0.164160202798
+['28 dollar', 'ticket']	['seat']	0.695673392376
+['28 dollar', 'ticket']	['36 dollar and stadium stadium seat']	0.15419221446
+['28 dollar', 'ticket']	['6080 dollar']	0.525526174317
+['28 dollar', 'ticket']	['36-dollar ticket']	0.659403281276
+['28 dollar', 'ticket']	['28-dollar ticket']	0.659403281276
+['6080 dollar', 'ticket']	['vendor']	0.287172632079
+['6080 dollar', 'ticket']	['200 ticket']	0.669973747197
+['6080 dollar', 'ticket']	['rock concert']	0.0737139440912
+['6080 dollar', 'ticket']	['floor seat']	0.130048808393
+['6080 dollar', 'ticket']	['seat']	0.695673392376
+['6080 dollar', 'ticket']	['36 dollar and stadium stadium seat']	0.15419221446
+['6080 dollar', 'ticket']	['28 dollar']	0.525526174317
+['6080 dollar', 'ticket']	['36-dollar ticket']	0.659403281276
+['6080 dollar', 'ticket']	['28-dollar ticket']	0.659403281276
+['36-dollar ticket', 'ticket']	['vendor']	0.515100426031
+['36-dollar ticket', 'ticket']	['200 ticket']	0.782259204304
+['36-dollar ticket', 'ticket']	['rock concert']	0.139259023173
+['36-dollar ticket', 'ticket']	['floor seat']	0.317307528599
+['36-dollar ticket', 'ticket']	['seat']	0.829184682126
+['36-dollar ticket', 'ticket']	['36 dollar and stadium stadium seat']	0.495846669724
+['36-dollar ticket', 'ticket']	['28 dollar']	0.247627320934
+['36-dollar ticket', 'ticket']	['6080 dollar']	0.247627320934
+['36-dollar ticket', 'ticket']	['28-dollar ticket']	0.722622429839
+['28-dollar ticket', 'ticket']	['vendor']	0.515100426031
+['28-dollar ticket', 'ticket']	['200 ticket']	0.782259204304
+['28-dollar ticket', 'ticket']	['rock concert']	0.139259023173
+['28-dollar ticket', 'ticket']	['floor seat']	0.317307528599
+['28-dollar ticket', 'ticket']	['seat']	0.829184682126
+['28-dollar ticket', 'ticket']	['36 dollar and stadium stadium seat']	0.495846669724
+['28-dollar ticket', 'ticket']	['28 dollar']	0.247627320934
+['28-dollar ticket', 'ticket']	['6080 dollar']	0.247627320934
+['28-dollar ticket', 'ticket']	['36-dollar ticket']	0.722622429839
+['vendor', '36-dollar ticket']	['200 ticket']	0.525944474896
+['vendor', '36-dollar ticket']	['rock concert']	0.0696933362217
+['vendor', '36-dollar ticket']	['floor seat']	0.0696933362217
+['vendor', '36-dollar ticket']	['seat']	0.364701098708
+['vendor', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.0841680381001
+['vendor', '36-dollar ticket']	['28 dollar']	0.0696933362217
+['vendor', '36-dollar ticket']	['6080 dollar']	0.0696933362217
+['vendor', '36-dollar ticket']	['ticket']	0.676240931282
+['vendor', '36-dollar ticket']	['28-dollar ticket']	0.525944474896
+['200 ticket', '36-dollar ticket']	['vendor']	0.33665242287
+['200 ticket', '36-dollar ticket']	['rock concert']	0.139258682248
+['200 ticket', '36-dollar ticket']	['floor seat']	0.139258682248
+['200 ticket', '36-dollar ticket']	['seat']	0.461471164944
+['200 ticket', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.315265418903
+['200 ticket', '36-dollar ticket']	['28 dollar']	0.139258682248
+['200 ticket', '36-dollar ticket']	['6080 dollar']	0.139258682248
+['200 ticket', '36-dollar ticket']	['ticket']	0.749517001914
+['200 ticket', '36-dollar ticket']	['28-dollar ticket']	0.637144068101
+['rock concert', '36-dollar ticket']	['vendor']	0.079730351659
+['rock concert', '36-dollar ticket']	['200 ticket']	0.584269096576
+['rock concert', '36-dollar ticket']	['floor seat']	0.0833805889219
+['rock concert', '36-dollar ticket']	['seat']	0.134019865814
+['rock concert', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['rock concert', '36-dollar ticket']	['28 dollar']	0.0901100077042
+['rock concert', '36-dollar ticket']	['6080 dollar']	0.0901100077042
+['rock concert', '36-dollar ticket']	['ticket']	0.685469335656
+['rock concert', '36-dollar ticket']	['28-dollar ticket']	0.584269096576
+['floor seat', '36-dollar ticket']	['vendor']	0.0774561735493
+['floor seat', '36-dollar ticket']	['200 ticket']	0.584269096576
+['floor seat', '36-dollar ticket']	['rock concert']	0.0833805889219
+['floor seat', '36-dollar ticket']	['seat']	0.719560951185
+['floor seat', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.47557248481
+['floor seat', '36-dollar ticket']	['28 dollar']	0.0901100077042
+['floor seat', '36-dollar ticket']	['6080 dollar']	0.0901100077042
+['floor seat', '36-dollar ticket']	['ticket']	0.658937329876
+['floor seat', '36-dollar ticket']	['28-dollar ticket']	0.584269096576
+['seat', '36-dollar ticket']	['vendor']	0.185711257371
+['seat', '36-dollar ticket']	['200 ticket']	0.508240491051
+['seat', '36-dollar ticket']	['rock concert']	0.0737139440912
+['seat', '36-dollar ticket']	['floor seat']	0.722227658089
+['seat', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.526220703877
+['seat', '36-dollar ticket']	['28 dollar']	0.0737139440912
+['seat', '36-dollar ticket']	['6080 dollar']	0.0737139440912
+['seat', '36-dollar ticket']	['ticket']	0.788397429702
+['seat', '36-dollar ticket']	['28-dollar ticket']	0.508240491051
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['vendor']	0.0857950278587
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['200 ticket']	0.601830528082
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['rock concert']	0.0988755105172
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['floor seat']	0.601830528082
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['seat']	0.661441366705
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['28 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['6080 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['ticket']	0.661441366705
+['36 dollar and stadium stadium seat', '36-dollar ticket']	['28-dollar ticket']	0.601830528082
+['28 dollar', '36-dollar ticket']	['vendor']	0.079730351659
+['28 dollar', '36-dollar ticket']	['200 ticket']	0.584269096576
+['28 dollar', '36-dollar ticket']	['rock concert']	0.0827346205535
+['28 dollar', '36-dollar ticket']	['floor seat']	0.0827346205535
+['28 dollar', '36-dollar ticket']	['seat']	0.164721943821
+['28 dollar', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['28 dollar', '36-dollar ticket']	['6080 dollar']	0.584269096576
+['28 dollar', '36-dollar ticket']	['ticket']	0.707398287968
+['28 dollar', '36-dollar ticket']	['28-dollar ticket']	0.584269096576
+['6080 dollar', '36-dollar ticket']	['vendor']	0.079730351659
+['6080 dollar', '36-dollar ticket']	['200 ticket']	0.584269096576
+['6080 dollar', '36-dollar ticket']	['rock concert']	0.0901100077042
+['6080 dollar', '36-dollar ticket']	['floor seat']	0.0901100077042
+['6080 dollar', '36-dollar ticket']	['seat']	0.164721943821
+['6080 dollar', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['6080 dollar', '36-dollar ticket']	['28 dollar']	0.584269096576
+['6080 dollar', '36-dollar ticket']	['ticket']	0.707398287968
+['6080 dollar', '36-dollar ticket']	['28-dollar ticket']	0.584269096576
+['ticket', '36-dollar ticket']	['vendor']	0.515100426031
+['ticket', '36-dollar ticket']	['200 ticket']	0.782259204304
+['ticket', '36-dollar ticket']	['rock concert']	0.139259023173
+['ticket', '36-dollar ticket']	['floor seat']	0.317307528599
+['ticket', '36-dollar ticket']	['seat']	0.829184682126
+['ticket', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.495846669724
+['ticket', '36-dollar ticket']	['28 dollar']	0.247627320934
+['ticket', '36-dollar ticket']	['6080 dollar']	0.247627320934
+['ticket', '36-dollar ticket']	['28-dollar ticket']	0.722622429839
+['28-dollar ticket', '36-dollar ticket']	['vendor']	0.33665242287
+['28-dollar ticket', '36-dollar ticket']	['200 ticket']	0.637144068101
+['28-dollar ticket', '36-dollar ticket']	['rock concert']	0.139258682248
+['28-dollar ticket', '36-dollar ticket']	['floor seat']	0.139258682248
+['28-dollar ticket', '36-dollar ticket']	['seat']	0.461471164944
+['28-dollar ticket', '36-dollar ticket']	['36 dollar and stadium stadium seat']	0.315265418903
+['28-dollar ticket', '36-dollar ticket']	['28 dollar']	0.139258682248
+['28-dollar ticket', '36-dollar ticket']	['6080 dollar']	0.139258682248
+['28-dollar ticket', '36-dollar ticket']	['ticket']	0.618805025846
+['vendor', '28-dollar ticket']	['200 ticket']	0.525944474896
+['vendor', '28-dollar ticket']	['rock concert']	0.0696933362217
+['vendor', '28-dollar ticket']	['floor seat']	0.0696933362217
+['vendor', '28-dollar ticket']	['seat']	0.364701098708
+['vendor', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.0841680381001
+['vendor', '28-dollar ticket']	['28 dollar']	0.0696933362217
+['vendor', '28-dollar ticket']	['6080 dollar']	0.0696933362217
+['vendor', '28-dollar ticket']	['ticket']	0.676240931282
+['vendor', '28-dollar ticket']	['36-dollar ticket']	0.525944474896
+['200 ticket', '28-dollar ticket']	['vendor']	0.33665242287
+['200 ticket', '28-dollar ticket']	['rock concert']	0.139258682248
+['200 ticket', '28-dollar ticket']	['floor seat']	0.139258682248
+['200 ticket', '28-dollar ticket']	['seat']	0.461471164944
+['200 ticket', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.315265418903
+['200 ticket', '28-dollar ticket']	['28 dollar']	0.139258682248
+['200 ticket', '28-dollar ticket']	['6080 dollar']	0.139258682248
+['200 ticket', '28-dollar ticket']	['ticket']	0.749517001914
+['200 ticket', '28-dollar ticket']	['36-dollar ticket']	0.637144068101
+['rock concert', '28-dollar ticket']	['vendor']	0.079730351659
+['rock concert', '28-dollar ticket']	['200 ticket']	0.584269096576
+['rock concert', '28-dollar ticket']	['floor seat']	0.0833805889219
+['rock concert', '28-dollar ticket']	['seat']	0.134019865814
+['rock concert', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['rock concert', '28-dollar ticket']	['28 dollar']	0.0901100077042
+['rock concert', '28-dollar ticket']	['6080 dollar']	0.0901100077042
+['rock concert', '28-dollar ticket']	['ticket']	0.685469335656
+['rock concert', '28-dollar ticket']	['36-dollar ticket']	0.584269096576
+['floor seat', '28-dollar ticket']	['vendor']	0.0774561735493
+['floor seat', '28-dollar ticket']	['200 ticket']	0.584269096576
+['floor seat', '28-dollar ticket']	['rock concert']	0.0833805889219
+['floor seat', '28-dollar ticket']	['seat']	0.719560951185
+['floor seat', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.47557248481
+['floor seat', '28-dollar ticket']	['28 dollar']	0.0901100077042
+['floor seat', '28-dollar ticket']	['6080 dollar']	0.0901100077042
+['floor seat', '28-dollar ticket']	['ticket']	0.658937329876
+['floor seat', '28-dollar ticket']	['36-dollar ticket']	0.584269096576
+['seat', '28-dollar ticket']	['vendor']	0.185711257371
+['seat', '28-dollar ticket']	['200 ticket']	0.508240491051
+['seat', '28-dollar ticket']	['rock concert']	0.0737139440912
+['seat', '28-dollar ticket']	['floor seat']	0.722227658089
+['seat', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.526220703877
+['seat', '28-dollar ticket']	['28 dollar']	0.0737139440912
+['seat', '28-dollar ticket']	['6080 dollar']	0.0737139440912
+['seat', '28-dollar ticket']	['ticket']	0.788397429702
+['seat', '28-dollar ticket']	['36-dollar ticket']	0.508240491051
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['vendor']	0.0857950278587
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['200 ticket']	0.601830528082
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['rock concert']	0.0988755105172
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['floor seat']	0.601830528082
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['seat']	0.661441366705
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['28 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['6080 dollar']	0.0988755105172
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['ticket']	0.661441366705
+['36 dollar and stadium stadium seat', '28-dollar ticket']	['36-dollar ticket']	0.601830528082
+['28 dollar', '28-dollar ticket']	['vendor']	0.079730351659
+['28 dollar', '28-dollar ticket']	['200 ticket']	0.584269096576
+['28 dollar', '28-dollar ticket']	['rock concert']	0.0827346205535
+['28 dollar', '28-dollar ticket']	['floor seat']	0.0827346205535
+['28 dollar', '28-dollar ticket']	['seat']	0.164721943821
+['28 dollar', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['28 dollar', '28-dollar ticket']	['6080 dollar']	0.584269096576
+['28 dollar', '28-dollar ticket']	['ticket']	0.707398287968
+['28 dollar', '28-dollar ticket']	['36-dollar ticket']	0.584269096576
+['6080 dollar', '28-dollar ticket']	['vendor']	0.079730351659
+['6080 dollar', '28-dollar ticket']	['200 ticket']	0.584269096576
+['6080 dollar', '28-dollar ticket']	['rock concert']	0.0901100077042
+['6080 dollar', '28-dollar ticket']	['floor seat']	0.0901100077042
+['6080 dollar', '28-dollar ticket']	['seat']	0.164721943821
+['6080 dollar', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.0906383040618
+['6080 dollar', '28-dollar ticket']	['28 dollar']	0.584269096576
+['6080 dollar', '28-dollar ticket']	['ticket']	0.707398287968
+['6080 dollar', '28-dollar ticket']	['36-dollar ticket']	0.584269096576
+['ticket', '28-dollar ticket']	['vendor']	0.515100426031
+['ticket', '28-dollar ticket']	['200 ticket']	0.782259204304
+['ticket', '28-dollar ticket']	['rock concert']	0.139259023173
+['ticket', '28-dollar ticket']	['floor seat']	0.317307528599
+['ticket', '28-dollar ticket']	['seat']	0.829184682126
+['ticket', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.495846669724
+['ticket', '28-dollar ticket']	['28 dollar']	0.247627320934
+['ticket', '28-dollar ticket']	['6080 dollar']	0.247627320934
+['ticket', '28-dollar ticket']	['36-dollar ticket']	0.722622429839
+['36-dollar ticket', '28-dollar ticket']	['vendor']	0.33665242287
+['36-dollar ticket', '28-dollar ticket']	['200 ticket']	0.637144068101
+['36-dollar ticket', '28-dollar ticket']	['rock concert']	0.139258682248
+['36-dollar ticket', '28-dollar ticket']	['floor seat']	0.139258682248
+['36-dollar ticket', '28-dollar ticket']	['seat']	0.461471164944
+['36-dollar ticket', '28-dollar ticket']	['36 dollar and stadium stadium seat']	0.315265418903
+['36-dollar ticket', '28-dollar ticket']	['28 dollar']	0.139258682248
+['36-dollar ticket', '28-dollar ticket']	['6080 dollar']	0.139258682248
+['36-dollar ticket', '28-dollar ticket']	['ticket']	0.618805025846

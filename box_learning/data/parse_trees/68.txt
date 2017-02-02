@@ -1,0 +1,52 @@
+(ROOT
+  (S
+    (NP (NNP Michael))
+    (VP
+      (VBD rented)
+      (NP (DT a) (NN truck))
+      (PP (IN for) (NP (CD one) (NN day))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (EX There))
+      (VP
+        (VBD was)
+        (NP
+          (NP (DT a) (JJ rental) (NN fee))
+          (PP (IN of) (NP (CD 20.99) (NNS dollars))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (EX there))
+      (ADVP (RB also))
+      (VP
+        (VBD was)
+        (NP
+          (NP (DT a) (NN charge))
+          (PP
+            (IN of)
+            (NP
+              (NP (CD 25) (NNS cents))
+              (PP (IN for) (NP (DT each) (NN mile))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NNP Michael))
+    (VP
+      (VBD paid)
+      (NP (CD 95.74) (NNS dollars))
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (PRP he))
+          (VP (VBD returned) (NP (DT the) (NN truck))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHPP (IN For) (WHNP (WHADJP (WRB how) (JJ many)) (NNS miles)))
+    (SQ
+      (VBD did)
+      (NP (PRP he))
+      (VP (VB drive) (NP (DT the) (NN truck))))
+    (. ?)))

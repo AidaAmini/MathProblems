@@ -1,0 +1,14 @@
+1
+[['ticket', '65', 'ticket', '-', '-', 'dollar', '855'], ['senior citizen ticket', 'x1', '-', 'dollar', '10', '-', '-'], ['regular ticket', 'x2', '-', 'dollar', '15', '-', '-']]
+-1
+[['15', '65', 'ticket', '-', '-', 'dollar', 'x2'], ['senior citizen ticket', 'x1', '-', 'dollar', '10', '-', '-'], ['65', 'x2', 'dollar', 'ticket', '15', '-', '-']]
+-1
+[['ticket', '65', 'ticket', '-', '-', 'dollar', 'regular ticket'], ['senior citizen ticket', 'x1', '-', 'dollar', '10', '-', '-'], ['regular ticket', 'x2', '-', 'dollar', 'ticket', '65', '855']]
+-1
+[['15', '65', 'ticket', '-', '-', 'dollar', 'x2'], ['senior citizen ticket', 'x1', '-', 'dollar', '10', '-', '-'], ['65', 'x2', '-', 'ticket', 'dollar', '-', '-']]
+-1
+[['regular ticket', '65', 'ticket', '-', '-', 'x2', '855'], ['senior citizen ticket', 'x1', '-', 'dollar', '10', '-', '-'], ['regular ticket', 'x2', '855', 'dollar', '-', 'ticket', '65']]
+-1
+[['ticket', '65', 'ticket', 'regular ticket', '-', 'dollar', '855'], ['senior citizen ticket', 'x1', '-', 'dollar', '10', '-', '-'], ['regular ticket', 'x2', '-', '65', '15', '-', 'ticket']]
+-1
+[['ticket', 'x2', 'ticket', '-', 'regular ticket', 'dollar', '855'], ['senior citizen ticket', 'x1', '-', 'dollar', '10', '-', '-'], ['regular ticket', 'x2', '855', 'dollar', 'ticket', '-', '-']]

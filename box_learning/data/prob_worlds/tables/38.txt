@@ -1,0 +1,14 @@
+1
+[['fund', '10, 000', 'dollar', '-', '-', 'dollar', '740'], ['junk bond fund', 'x1', '-', '% interest', '11', '-', '-'], ['government bond fund', 'x2', '-', '% interest', '5', '-', '-']]
+-1
+[['x2', '10, 000', 'dollar', '% interest', '-', 'dollar', '740'], ['junk bond fund', 'x1', '-', '% interest', '11', '-', '-'], ['government bond fund', 'x2', 'fund', '% interest', '10, 000', 'dollar', '740']]
+-1
+[['fund', '10, 000', '% interest', '-', '-', 'dollar', 'government bond fund'], ['junk bond fund', 'x1', '-', '% interest', '11', '-', '-'], ['government bond fund', 'dollar', '-', '% interest', '10, 000', 'fund', '-']]
+-1
+[['fund', '-', 'dollar', '% interest', '5', 'dollar', 'government bond fund'], ['junk bond fund', 'x1', '-', '% interest', '11', '-', '-'], ['government bond fund', 'x2', '-', '% interest', 'dollar', '-', '-']]
+-1
+[['% interest', '10, 000', 'dollar', '-', '-', 'dollar', '740'], ['junk bond fund', 'x1', '-', '% interest', '11', '-', '-'], ['10, 000', 'fund', '% interest', '740', 'dollar', '-', '-']]
+-1
+[['5', '10, 000', 'dollar', '-', '-', 'dollar', 'x2'], ['junk bond fund', 'x1', '-', '% interest', '11', '-', '-'], ['government bond fund', 'dollar', '-', '5', '10, 000', '740', '-']]
+-1
+[['government bond fund', '10, 000', 'dollar', '-', '-', 'dollar', '5'], ['junk bond fund', 'x1', '-', '% interest', '11', '-', '-'], ['government bond fund', 'fund', 'dollar', '740', '5', '-', '-']]

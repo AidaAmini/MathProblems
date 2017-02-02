@@ -1,0 +1,2272 @@
+['manufacturer', 'two model', 'same toy', 'model b', '4 hour', '8 dollar', 'produce', '8 dollar each.produce', '7 dollar', 'hour', '5800 hour', '12,600 dollar', 'production', 'week']
+['manufacturer']	['two model']	0.0946073395521
+['manufacturer']	['same toy']	0.0663445115919
+['manufacturer']	['model b']	0.0663445115919
+['manufacturer']	['4 hour']	0.0696933362217
+['manufacturer']	['8 dollar']	0.0746958245975
+['manufacturer']	['produce']	0.13533949604
+['manufacturer']	['8 dollar each.produce']	0.0807707659053
+['manufacturer']	['7 dollar']	0.0696933362217
+['manufacturer']	['hour']	0.0403685028389
+['manufacturer']	['5800 hour']	0.0696933362217
+['manufacturer']	['12,600 dollar']	0.0696933362217
+['manufacturer']	['production']	0.08819948339
+['manufacturer']	['week']	0.0254432429666
+['two model']	['same toy']	0.0827346205535
+['two model']	['model b']	0.0827346205535
+['two model']	['4 hour']	0.387929093691
+['two model']	['8 dollar']	0.408341208225
+['two model']	['produce']	0.153846998834
+['two model']	['8 dollar each.produce']	0.379457278768
+['two model']	['7 dollar']	0.387929093691
+['two model']	['hour']	0.0143499502517
+['two model']	['5800 hour']	0.0901100077042
+['two model']	['12,600 dollar']	0.0901100077042
+['two model']	['production']	0.133930953416
+['two model']	['week']	0.0157405773894
+['same toy']	['model b']	0.116204410215
+['same toy']	['4 hour']	0.0827346205535
+['same toy']	['8 dollar']	0.0824069519204
+['same toy']	['produce']	0.0831172035382
+['same toy']	['8 dollar each.produce']	0.0908034291173
+['same toy']	['7 dollar']	0.0827346205535
+['same toy']	['hour']	0.0179192712897
+['same toy']	['5800 hour']	0.0901100077042
+['same toy']	['12,600 dollar']	0.0901100077042
+['same toy']	['production']	0.133930953416
+['same toy']	['week']	0.0223114282054
+['model b']	['4 hour']	0.0901100077042
+['model b']	['8 dollar']	0.0897823390711
+['model b']	['produce']	0.0741073489195
+['model b']	['8 dollar each.produce']	0.0941266761548
+['model b']	['7 dollar']	0.0901100077042
+['model b']	['hour']	0.0143499502517
+['model b']	['5800 hour']	0.0901100077042
+['model b']	['12,600 dollar']	0.0901100077042
+['model b']	['production']	0.0744376594044
+['model b']	['week']	0.016864172895
+['4 hour']	['8 dollar']	0.408341208225
+['4 hour']	['produce']	0.0774561735493
+['4 hour']	['8 dollar each.produce']	0.379457278768
+['4 hour']	['7 dollar']	0.387929093691
+['4 hour']	['5800 hour']	0.643440930505
+['4 hour']	['12,600 dollar']	0.0901100077042
+['4 hour']	['production']	0.150291470448
+['4 hour']	['week']	0.0913671085159
+['8 dollar']	['produce']	0.0673701015291
+['8 dollar']	['7 dollar']	0.812190840137
+['8 dollar']	['hour']	0.011726423379
+['8 dollar']	['5800 hour']	0.0737139440912
+['8 dollar']	['12,600 dollar']	0.556137096067
+['8 dollar']	['production']	0.0634148935911
+['8 dollar']	['week']	0.011726423379
+['produce']	['7 dollar']	0.0737139440912
+['produce']	['hour']	0.0416626988251
+['produce']	['5800 hour']	0.0737139440912
+['produce']	['12,600 dollar']	0.0737139440912
+['produce']	['production']	0.08819948339
+['produce']	['week']	0.0369601588388
+['8 dollar each.produce']	['7 dollar']	0.392705145363
+['8 dollar each.produce']	['hour']	0.0175454252276
+['8 dollar each.produce']	['5800 hour']	0.0988755105172
+['8 dollar each.produce']	['12,600 dollar']	0.0988755105172
+['8 dollar each.produce']	['production']	0.0976030424116
+['8 dollar each.produce']	['week']	0.023640394442
+['7 dollar']	['hour']	0.0143499502517
+['7 dollar']	['5800 hour']	0.0901100077042
+['7 dollar']	['12,600 dollar']	0.643440930505
+['7 dollar']	['production']	0.0744376594044
+['7 dollar']	['week']	0.016864172895
+['hour']	['12,600 dollar']	0.0160749451882
+['hour']	['production']	0.0348281466136
+['hour']	['week']	0.032518055286
+['5800 hour']	['12,600 dollar']	0.0901100077042
+['5800 hour']	['production']	0.150291470448
+['5800 hour']	['week']	0.0913671085159
+['12,600 dollar']	['production']	0.0744376594044
+['12,600 dollar']	['week']	0.016864172895
+['production']	['week']	0.0534165059934
+['two model', 'manufacturer']	['same toy']	0.0696933362217
+['two model', 'manufacturer']	['model b']	0.0696933362217
+['two model', 'manufacturer']	['4 hour']	0.344494311863
+['two model', 'manufacturer']	['8 dollar']	0.338867407738
+['two model', 'manufacturer']	['produce']	0.877818673085
+['two model', 'manufacturer']	['8 dollar each.produce']	0.273189578515
+['two model', 'manufacturer']	['7 dollar']	0.344494311863
+['two model', 'manufacturer']	['hour']	0.256930837515
+['two model', 'manufacturer']	['5800 hour']	0.0696933362217
+['two model', 'manufacturer']	['12,600 dollar']	0.0696933362217
+['two model', 'manufacturer']	['production']	0.256802116272
+['two model', 'manufacturer']	['week']	0.0816965185133
+['same toy', 'manufacturer']	['two model']	0.0939298741501
+['same toy', 'manufacturer']	['model b']	0.0939298741501
+['same toy', 'manufacturer']	['4 hour']	0.0696933362217
+['same toy', 'manufacturer']	['8 dollar']	0.0746958245975
+['same toy', 'manufacturer']	['produce']	0.710084742203
+['same toy', 'manufacturer']	['8 dollar each.produce']	0.080802298149
+['same toy', 'manufacturer']	['7 dollar']	0.0696933362217
+['same toy', 'manufacturer']	['hour']	0.193945359453
+['same toy', 'manufacturer']	['5800 hour']	0.0696933362217
+['same toy', 'manufacturer']	['12,600 dollar']	0.0696933362217
+['same toy', 'manufacturer']	['production']	0.256802116272
+['same toy', 'manufacturer']	['week']	0.0845186609099
+['model b', 'manufacturer']	['two model']	0.0939298741501
+['model b', 'manufacturer']	['same toy']	0.0696933362217
+['model b', 'manufacturer']	['4 hour']	0.0696933362217
+['model b', 'manufacturer']	['8 dollar']	0.0746958245975
+['model b', 'manufacturer']	['produce']	0.733168976748
+['model b', 'manufacturer']	['8 dollar each.produce']	0.0807707659053
+['model b', 'manufacturer']	['7 dollar']	0.0696933362217
+['model b', 'manufacturer']	['hour']	0.252060707645
+['model b', 'manufacturer']	['5800 hour']	0.0696933362217
+['model b', 'manufacturer']	['12,600 dollar']	0.0696933362217
+['model b', 'manufacturer']	['production']	0.165863289212
+['model b', 'manufacturer']	['week']	0.100640180485
+['4 hour', 'manufacturer']	['two model']	0.383542576817
+['4 hour', 'manufacturer']	['same toy']	0.0696933362217
+['4 hour', 'manufacturer']	['model b']	0.0696933362217
+['4 hour', 'manufacturer']	['8 dollar']	0.338867407738
+['4 hour', 'manufacturer']	['produce']	0.735171000031
+['4 hour', 'manufacturer']	['8 dollar each.produce']	0.273189578515
+['4 hour', 'manufacturer']	['7 dollar']	0.344494311863
+['4 hour', 'manufacturer']	['hour']	0.643289601702
+['4 hour', 'manufacturer']	['5800 hour']	0.494524508322
+['4 hour', 'manufacturer']	['12,600 dollar']	0.0696933362217
+['4 hour', 'manufacturer']	['production']	0.208785758549
+['4 hour', 'manufacturer']	['week']	0.197032083415
+['8 dollar', 'manufacturer']	['two model']	0.383542576817
+['8 dollar', 'manufacturer']	['same toy']	0.131771183904
+['8 dollar', 'manufacturer']	['model b']	0.131771183904
+['8 dollar', 'manufacturer']	['4 hour']	0.370420237789
+['8 dollar', 'manufacturer']	['produce']	0.759811385292
+['8 dollar', 'manufacturer']	['8 dollar each.produce']	0.430211364054
+['8 dollar', 'manufacturer']	['7 dollar']	0.751359889328
+['8 dollar', 'manufacturer']	['hour']	0.317971706806
+['8 dollar', 'manufacturer']	['5800 hour']	0.131771183904
+['8 dollar', 'manufacturer']	['12,600 dollar']	0.523360584566
+['8 dollar', 'manufacturer']	['production']	0.223202498634
+['8 dollar', 'manufacturer']	['week']	0.166551179646
+['produce', 'manufacturer']	['two model']	0.150580022418
+['produce', 'manufacturer']	['same toy']	0.131771183904
+['produce', 'manufacturer']	['model b']	0.129068327642
+['produce', 'manufacturer']	['4 hour']	0.131771183904
+['produce', 'manufacturer']	['8 dollar']	0.136773672279
+['produce', 'manufacturer']	['8 dollar each.produce']	0.142848613587
+['produce', 'manufacturer']	['7 dollar']	0.131771183904
+['produce', 'manufacturer']	['hour']	0.209354234835
+['produce', 'manufacturer']	['5800 hour']	0.131771183904
+['produce', 'manufacturer']	['12,600 dollar']	0.131771183904
+['produce', 'manufacturer']	['production']	0.145538692812
+['produce', 'manufacturer']	['week']	0.182081175222
+['8 dollar each.produce', 'manufacturer']	['two model']	0.364511045285
+['8 dollar each.produce', 'manufacturer']	['same toy']	0.0696933362217
+['8 dollar each.produce', 'manufacturer']	['model b']	0.0696933362217
+['8 dollar each.produce', 'manufacturer']	['4 hour']	0.327931916134
+['8 dollar each.produce', 'manufacturer']	['8 dollar']	0.482979385637
+['8 dollar each.produce', 'manufacturer']	['produce']	0.705435619396
+['8 dollar each.produce', 'manufacturer']	['7 dollar']	0.327931916134
+['8 dollar each.produce', 'manufacturer']	['hour']	0.192133353919
+['8 dollar each.produce', 'manufacturer']	['5800 hour']	0.0696933362217
+['8 dollar each.produce', 'manufacturer']	['12,600 dollar']	0.0696933362217
+['8 dollar each.produce', 'manufacturer']	['production']	0.119190988445
+['8 dollar each.produce', 'manufacturer']	['week']	0.0545248371936
+['7 dollar', 'manufacturer']	['two model']	0.383542576817
+['7 dollar', 'manufacturer']	['same toy']	0.0696933362217
+['7 dollar', 'manufacturer']	['model b']	0.0696933362217
+['7 dollar', 'manufacturer']	['4 hour']	0.344494311863
+['7 dollar', 'manufacturer']	['8 dollar']	0.72021221181
+['7 dollar', 'manufacturer']	['produce']	0.746794143912
+['7 dollar', 'manufacturer']	['8 dollar each.produce']	0.273189578515
+['7 dollar', 'manufacturer']	['hour']	0.252060707645
+['7 dollar', 'manufacturer']	['5800 hour']	0.0696933362217
+['7 dollar', 'manufacturer']	['12,600 dollar']	0.494524508322
+['7 dollar', 'manufacturer']	['production']	0.165863289212
+['7 dollar', 'manufacturer']	['week']	0.100640180485
+['hour', 'manufacturer']	['two model']	0.113876386859
+['hour', 'manufacturer']	['same toy']	0.0982347768443
+['hour', 'manufacturer']	['model b']	0.0989480026901
+['hour', 'manufacturer']	['4 hour']	0.429565728125
+['hour', 'manufacturer']	['8 dollar']	0.104937417029
+['hour', 'manufacturer']	['produce']	0.348440640287
+['hour', 'manufacturer']	['8 dollar each.produce']	0.10794995207
+['hour', 'manufacturer']	['7 dollar']	0.0989480026901
+['hour', 'manufacturer']	['5800 hour']	0.457366745422
+['hour', 'manufacturer']	['12,600 dollar']	0.0989480026901
+['hour', 'manufacturer']	['production']	0.165882835233
+['hour', 'manufacturer']	['week']	0.386474615866
+['5800 hour', 'manufacturer']	['two model']	0.0939298741501
+['5800 hour', 'manufacturer']	['same toy']	0.0696933362217
+['5800 hour', 'manufacturer']	['model b']	0.0696933362217
+['5800 hour', 'manufacturer']	['4 hour']	0.494524508322
+['5800 hour', 'manufacturer']	['8 dollar']	0.0746958245975
+['5800 hour', 'manufacturer']	['produce']	0.735171000031
+['5800 hour', 'manufacturer']	['8 dollar each.produce']	0.0807707659053
+['5800 hour', 'manufacturer']	['7 dollar']	0.0696933362217
+['5800 hour', 'manufacturer']	['hour']	0.682257624848
+['5800 hour', 'manufacturer']	['12,600 dollar']	0.0696933362217
+['5800 hour', 'manufacturer']	['production']	0.208785758549
+['5800 hour', 'manufacturer']	['week']	0.197032083415
+['12,600 dollar', 'manufacturer']	['two model']	0.0939298741501
+['12,600 dollar', 'manufacturer']	['same toy']	0.0696933362217
+['12,600 dollar', 'manufacturer']	['model b']	0.0696933362217
+['12,600 dollar', 'manufacturer']	['4 hour']	0.0696933362217
+['12,600 dollar', 'manufacturer']	['8 dollar']	0.492513883204
+['12,600 dollar', 'manufacturer']	['produce']	0.746794143912
+['12,600 dollar', 'manufacturer']	['8 dollar each.produce']	0.0807707659053
+['12,600 dollar', 'manufacturer']	['7 dollar']	0.494524508322
+['12,600 dollar', 'manufacturer']	['hour']	0.252060707645
+['12,600 dollar', 'manufacturer']	['5800 hour']	0.0696933362217
+['12,600 dollar', 'manufacturer']	['production']	0.165863289212
+['12,600 dollar', 'manufacturer']	['week']	0.100640180485
+['production', 'manufacturer']	['two model']	0.150647383891
+['production', 'manufacturer']	['same toy']	0.164802867164
+['production', 'manufacturer']	['model b']	0.0669904799604
+['production', 'manufacturer']	['4 hour']	0.103222748661
+['production', 'manufacturer']	['8 dollar']	0.0719929683361
+['production', 'manufacturer']	['produce']	0.516582987031
+['production', 'manufacturer']	['8 dollar each.produce']	0.0807707659053
+['production', 'manufacturer']	['7 dollar']	0.0669904799604
+['production', 'manufacturer']	['hour']	0.0178141550128
+['production', 'manufacturer']	['5800 hour']	0.103222748661
+['production', 'manufacturer']	['12,600 dollar']	0.0669904799604
+['production', 'manufacturer']	['week']	0.0845186609099
+['week', 'manufacturer']	['two model']	0.0572262385911
+['week', 'manufacturer']	['same toy']	0.0361569291624
+['week', 'manufacturer']	['model b']	0.0362241866398
+['week', 'manufacturer']	['4 hour']	0.10453530028
+['week', 'manufacturer']	['8 dollar']	0.0421463435009
+['week', 'manufacturer']	['produce']	0.18401708738
+['week', 'manufacturer']	['8 dollar each.produce']	0.0458721043879
+['week', 'manufacturer']	['7 dollar']	0.0361569291624
+['week', 'manufacturer']	['hour']	0.157402450826
+['week', 'manufacturer']	['5800 hour']	0.10453530028
+['week', 'manufacturer']	['12,600 dollar']	0.0361569291624
+['week', 'manufacturer']	['production']	0.110225443993
+['manufacturer', 'two model']	['same toy']	0.0696933362217
+['manufacturer', 'two model']	['model b']	0.0696933362217
+['manufacturer', 'two model']	['4 hour']	0.344494311863
+['manufacturer', 'two model']	['8 dollar']	0.338867407738
+['manufacturer', 'two model']	['produce']	0.877818673085
+['manufacturer', 'two model']	['8 dollar each.produce']	0.273189578515
+['manufacturer', 'two model']	['7 dollar']	0.344494311863
+['manufacturer', 'two model']	['hour']	0.256930837515
+['manufacturer', 'two model']	['5800 hour']	0.0696933362217
+['manufacturer', 'two model']	['12,600 dollar']	0.0696933362217
+['manufacturer', 'two model']	['production']	0.256802116272
+['manufacturer', 'two model']	['week']	0.0816965185133
+['same toy', 'two model']	['manufacturer']	0.0966764293888
+['same toy', 'two model']	['model b']	0.114574890496
+['same toy', 'two model']	['4 hour']	0.390490368434
+['same toy', 'two model']	['8 dollar']	0.341495179861
+['same toy', 'two model']	['produce']	0.134019865814
+['same toy', 'two model']	['8 dollar each.produce']	0.365426502964
+['same toy', 'two model']	['7 dollar']	0.390490368434
+['same toy', 'two model']	['hour']	0.0132263547461
+['same toy', 'two model']	['5800 hour']	0.0901100077042
+['same toy', 'two model']	['12,600 dollar']	0.0901100077042
+['same toy', 'two model']	['production']	0.133930953416
+['same toy', 'two model']	['week']	0.0157405773894
+['model b', 'two model']	['manufacturer']	0.0966764293888
+['model b', 'two model']	['same toy']	0.0827346205535
+['model b', 'two model']	['4 hour']	0.362256416006
+['model b', 'two model']	['8 dollar']	0.329189193165
+['model b', 'two model']	['produce']	0.159433235637
+['model b', 'two model']	['8 dollar each.produce']	0.335677399021
+['model b', 'two model']	['7 dollar']	0.362256416006
+['model b', 'two model']	['hour']	0.0143499502517
+['model b', 'two model']	['5800 hour']	0.0901100077042
+['model b', 'two model']	['12,600 dollar']	0.0901100077042
+['model b', 'two model']	['production']	0.229348801121
+['model b', 'two model']	['week']	0.016864172895
+['4 hour', 'two model']	['manufacturer']	0.0966764293888
+['4 hour', 'two model']	['same toy']	0.0827346205535
+['4 hour', 'two model']	['model b']	0.0827346205535
+['4 hour', 'two model']	['8 dollar']	0.42135232689
+['4 hour', 'two model']	['produce']	0.152749460938
+['4 hour', 'two model']	['8 dollar each.produce']	0.392633798017
+['4 hour', 'two model']	['7 dollar']	0.40110561294
+['4 hour', 'two model']	['hour']	0.339704667373
+['4 hour', 'two model']	['5800 hour']	0.584269096576
+['4 hour', 'two model']	['12,600 dollar']	0.0901100077042
+['4 hour', 'two model']	['production']	0.133930953416
+['4 hour', 'two model']	['week']	0.100122716522
+['8 dollar', 'two model']	['manufacturer']	0.0843161792589
+['8 dollar', 'two model']	['same toy']	0.0696933362217
+['8 dollar', 'two model']	['model b']	0.0696933362217
+['8 dollar', 'two model']	['4 hour']	0.362542219914
+['8 dollar', 'two model']	['produce']	0.124613615724
+['8 dollar', 'two model']	['8 dollar each.produce']	0.483528961126
+['8 dollar', 'two model']	['7 dollar']	0.843106044067
+['8 dollar', 'two model']	['hour']	0.011726423379
+['8 dollar', 'two model']	['5800 hour']	0.0737139440912
+['8 dollar', 'two model']	['12,600 dollar']	0.544221442934
+['8 dollar', 'two model']	['production']	0.185698796745
+['8 dollar', 'two model']	['week']	0.011726423379
+['produce', 'two model']	['manufacturer']	0.84831856906
+['produce', 'two model']	['same toy']	0.0696933362217
+['produce', 'two model']	['model b']	0.0669904799604
+['produce', 'two model']	['4 hour']	0.291118889704
+['produce', 'two model']	['8 dollar']	0.283976834063
+['produce', 'two model']	['8 dollar each.produce']	0.273189578515
+['produce', 'two model']	['7 dollar']	0.291118889704
+['produce', 'two model']	['hour']	0.132294205934
+['produce', 'two model']	['5800 hour']	0.0737139440912
+['produce', 'two model']	['12,600 dollar']	0.0737139440912
+['produce', 'two model']	['production']	0.256802116272
+['produce', 'two model']	['week']	0.214415815715
+['8 dollar each.produce', 'two model']	['manufacturer']	0.165494541834
+['8 dollar each.produce', 'two model']	['same toy']	0.152238479479
+['8 dollar each.produce', 'two model']	['model b']	0.152238479479
+['8 dollar each.produce', 'two model']	['4 hour']	0.471861986408
+['8 dollar each.produce', 'two model']	['8 dollar']	0.521964515369
+['8 dollar each.produce', 'two model']	['produce']	0.194916092894
+['8 dollar each.produce', 'two model']	['7 dollar']	0.471861986408
+['8 dollar each.produce', 'two model']	['hour']	0.012852508684
+['8 dollar each.produce', 'two model']	['5800 hour']	0.15961386663
+['8 dollar each.produce', 'two model']	['12,600 dollar']	0.15961386663
+['8 dollar each.produce', 'two model']	['production']	0.273945362827
+['8 dollar each.produce', 'two model']	['week']	0.0170695436261
+['7 dollar', 'two model']	['manufacturer']	0.0966764293888
+['7 dollar', 'two model']	['same toy']	0.0827346205535
+['7 dollar', 'two model']	['model b']	0.0827346205535
+['7 dollar', 'two model']	['4 hour']	0.40110561294
+['7 dollar', 'two model']	['8 dollar']	0.845411192754
+['7 dollar', 'two model']	['produce']	0.138944747134
+['7 dollar', 'two model']	['8 dollar each.produce']	0.392633798017
+['7 dollar', 'two model']	['hour']	0.0143499502517
+['7 dollar', 'two model']	['5800 hour']	0.0901100077042
+['7 dollar', 'two model']	['12,600 dollar']	0.584269096576
+['7 dollar', 'two model']	['production']	0.229348801121
+['7 dollar', 'two model']	['week']	0.016864172895
+['hour', 'two model']	['manufacturer']	0.451795805637
+['hour', 'two model']	['same toy']	0.0361569291624
+['hour', 'two model']	['model b']	0.0368701550083
+['hour', 'two model']	['4 hour']	0.593783645992
+['hour', 'two model']	['8 dollar']	0.332426024275
+['hour', 'two model']	['produce']	0.267010681514
+['hour', 'two model']	['8 dollar each.produce']	0.191206146719
+['hour', 'two model']	['7 dollar']	0.315033653242
+['hour', 'two model']	['5800 hour']	0.451705926709
+['hour', 'two model']	['12,600 dollar']	0.0368028975308
+['hour', 'two model']	['production']	0.357983472953
+['hour', 'two model']	['week']	0.391788319105
+['5800 hour', 'two model']	['manufacturer']	0.0966764293888
+['5800 hour', 'two model']	['same toy']	0.0827346205535
+['5800 hour', 'two model']	['model b']	0.0827346205535
+['5800 hour', 'two model']	['4 hour']	0.754360422532
+['5800 hour', 'two model']	['8 dollar']	0.329189193165
+['5800 hour', 'two model']	['produce']	0.152749460938
+['5800 hour', 'two model']	['8 dollar each.produce']	0.335677399021
+['5800 hour', 'two model']	['7 dollar']	0.362256416006
+['5800 hour', 'two model']	['hour']	0.370838901022
+['5800 hour', 'two model']	['12,600 dollar']	0.0901100077042
+['5800 hour', 'two model']	['production']	0.133930953416
+['5800 hour', 'two model']	['week']	0.100122716522
+['12,600 dollar', 'two model']	['manufacturer']	0.0966764293888
+['12,600 dollar', 'two model']	['same toy']	0.0827346205535
+['12,600 dollar', 'two model']	['model b']	0.0827346205535
+['12,600 dollar', 'two model']	['4 hour']	0.362256416006
+['12,600 dollar', 'two model']	['8 dollar']	0.747901896166
+['12,600 dollar', 'two model']	['produce']	0.138944747134
+['12,600 dollar', 'two model']	['8 dollar each.produce']	0.335677399021
+['12,600 dollar', 'two model']	['7 dollar']	0.754360422532
+['12,600 dollar', 'two model']	['hour']	0.0143499502517
+['12,600 dollar', 'two model']	['5800 hour']	0.0901100077042
+['12,600 dollar', 'two model']	['production']	0.229348801121
+['12,600 dollar', 'two model']	['week']	0.016864172895
+['production', 'two model']	['manufacturer']	0.248501423095
+['production', 'two model']	['same toy']	0.210126296403
+['production', 'two model']	['model b']	0.0800317642921
+['production', 'two model']	['4 hour']	0.431974313041
+['production', 'two model']	['8 dollar']	0.44972811544
+['production', 'two model']	['produce']	0.298533281498
+['production', 'two model']	['8 dollar each.produce']	0.33845188701
+['production', 'two model']	['7 dollar']	0.426675167742
+['production', 'two model']	['hour']	0.177612215672
+['production', 'two model']	['5800 hour']	0.124206600218
+['production', 'two model']	['12,600 dollar']	0.0833805889219
+['production', 'two model']	['week']	0.0779785561898
+['week', 'two model']	['manufacturer']	0.217225909293
+['week', 'two model']	['same toy']	0.0450566866416
+['week', 'two model']	['model b']	0.0450566866416
+['week', 'two model']	['4 hour']	0.328113899344
+['week', 'two model']	['8 dollar']	0.347903667484
+['week', 'two model']	['produce']	0.459561640378
+['week', 'two model']	['8 dollar each.produce']	0.2741110826
+['week', 'two model']	['7 dollar']	0.338398736697
+['week', 'two model']	['hour']	0.392516952244
+['week', 'two model']	['5800 hour']	0.18250857426
+['week', 'two model']	['12,600 dollar']	0.0450566866416
+['week', 'two model']	['production']	0.269393338667
+['manufacturer', 'same toy']	['two model']	0.0939298741501
+['manufacturer', 'same toy']	['model b']	0.0939298741501
+['manufacturer', 'same toy']	['4 hour']	0.0696933362217
+['manufacturer', 'same toy']	['8 dollar']	0.0746958245975
+['manufacturer', 'same toy']	['produce']	0.710084742203
+['manufacturer', 'same toy']	['8 dollar each.produce']	0.080802298149
+['manufacturer', 'same toy']	['7 dollar']	0.0696933362217
+['manufacturer', 'same toy']	['hour']	0.193945359453
+['manufacturer', 'same toy']	['5800 hour']	0.0696933362217
+['manufacturer', 'same toy']	['12,600 dollar']	0.0696933362217
+['manufacturer', 'same toy']	['production']	0.256802116272
+['manufacturer', 'same toy']	['week']	0.0845186609099
+['two model', 'same toy']	['manufacturer']	0.0966764293888
+['two model', 'same toy']	['model b']	0.114574890496
+['two model', 'same toy']	['4 hour']	0.390490368434
+['two model', 'same toy']	['8 dollar']	0.341495179861
+['two model', 'same toy']	['produce']	0.134019865814
+['two model', 'same toy']	['8 dollar each.produce']	0.365426502964
+['two model', 'same toy']	['7 dollar']	0.390490368434
+['two model', 'same toy']	['hour']	0.0132263547461
+['two model', 'same toy']	['5800 hour']	0.0901100077042
+['two model', 'same toy']	['12,600 dollar']	0.0901100077042
+['two model', 'same toy']	['production']	0.133930953416
+['two model', 'same toy']	['week']	0.0157405773894
+['model b', 'same toy']	['manufacturer']	0.0741073489195
+['model b', 'same toy']	['two model']	0.0827346205535
+['model b', 'same toy']	['4 hour']	0.0827346205535
+['model b', 'same toy']	['8 dollar']	0.0824069519204
+['model b', 'same toy']	['produce']	0.0774561735493
+['model b', 'same toy']	['8 dollar each.produce']	0.0908034291173
+['model b', 'same toy']	['7 dollar']	0.0827346205535
+['model b', 'same toy']	['hour']	0.0132263547461
+['model b', 'same toy']	['5800 hour']	0.0901100077042
+['model b', 'same toy']	['12,600 dollar']	0.0901100077042
+['model b', 'same toy']	['production']	0.229348801121
+['model b', 'same toy']	['week']	0.0157405773894
+['4 hour', 'same toy']	['manufacturer']	0.0774561735493
+['4 hour', 'same toy']	['two model']	0.417194081899
+['4 hour', 'same toy']	['model b']	0.114574890496
+['4 hour', 'same toy']	['8 dollar']	0.341495179861
+['4 hour', 'same toy']	['produce']	0.0774561735493
+['4 hour', 'same toy']	['8 dollar each.produce']	0.365426502964
+['4 hour', 'same toy']	['7 dollar']	0.390490368434
+['4 hour', 'same toy']	['hour']	0.330564081183
+['4 hour', 'same toy']	['5800 hour']	0.584269096576
+['4 hour', 'same toy']	['12,600 dollar']	0.0901100077042
+['4 hour', 'same toy']	['production']	0.133930953416
+['4 hour', 'same toy']	['week']	0.106789383188
+['8 dollar', 'same toy']	['manufacturer']	0.0650959234194
+['8 dollar', 'same toy']	['two model']	0.313566194137
+['8 dollar', 'same toy']	['model b']	0.0963990099525
+['8 dollar', 'same toy']	['4 hour']	0.286862480671
+['8 dollar', 'same toy']	['produce']	0.0673701015291
+['8 dollar', 'same toy']	['8 dollar each.produce']	0.456253030721
+['8 dollar', 'same toy']	['7 dollar']	0.73028733598
+['8 dollar', 'same toy']	['hour']	0.0106028278734
+['8 dollar', 'same toy']	['5800 hour']	0.0737139440912
+['8 dollar', 'same toy']	['12,600 dollar']	0.544221442934
+['8 dollar', 'same toy']	['production']	0.185698796745
+['8 dollar', 'same toy']	['week']	0.0106028278734
+['produce', 'same toy']	['manufacturer']	0.738039106618
+['produce', 'same toy']	['two model']	0.0696933362217
+['produce', 'same toy']	['model b']	0.10152877775
+['produce', 'same toy']	['4 hour']	0.0696933362217
+['produce', 'same toy']	['8 dollar']	0.0746958245975
+['produce', 'same toy']	['8 dollar each.produce']	0.080802298149
+['produce', 'same toy']	['7 dollar']	0.0696933362217
+['produce', 'same toy']	['hour']	0.104157212721
+['produce', 'same toy']	['5800 hour']	0.0737139440912
+['produce', 'same toy']	['12,600 dollar']	0.0737139440912
+['produce', 'same toy']	['production']	0.256802116272
+['produce', 'same toy']	['week']	0.216547603771
+['8 dollar each.produce', 'same toy']	['manufacturer']	0.146533383972
+['8 dollar each.produce', 'same toy']	['two model']	0.508264908435
+['8 dollar each.produce', 'same toy']	['model b']	0.176181914205
+['8 dollar each.produce', 'same toy']	['4 hour']	0.481561194969
+['8 dollar each.produce', 'same toy']	['8 dollar']	0.486385005071
+['8 dollar each.produce', 'same toy']	['produce']	0.15219441396
+['8 dollar each.produce', 'same toy']	['7 dollar']	0.481561194969
+['8 dollar each.produce', 'same toy']	['hour']	0.0175454252276
+['8 dollar each.produce', 'same toy']	['5800 hour']	0.15961386663
+['8 dollar each.produce', 'same toy']	['12,600 dollar']	0.15961386663
+['8 dollar each.produce', 'same toy']	['production']	0.273945362827
+['8 dollar each.produce', 'same toy']	['week']	0.023640394442
+['7 dollar', 'same toy']	['manufacturer']	0.0774561735493
+['7 dollar', 'same toy']	['two model']	0.417194081899
+['7 dollar', 'same toy']	['model b']	0.114574890496
+['7 dollar', 'same toy']	['4 hour']	0.390490368434
+['7 dollar', 'same toy']	['8 dollar']	0.747901896166
+['7 dollar', 'same toy']	['produce']	0.079730351659
+['7 dollar', 'same toy']	['8 dollar each.produce']	0.365426502964
+['7 dollar', 'same toy']	['hour']	0.0132263547461
+['7 dollar', 'same toy']	['5800 hour']	0.0901100077042
+['7 dollar', 'same toy']	['12,600 dollar']	0.584269096576
+['7 dollar', 'same toy']	['production']	0.229348801121
+['7 dollar', 'same toy']	['week']	0.0157405773894
+['hour', 'same toy']	['manufacturer']	0.302942347219
+['hour', 'same toy']	['two model']	0.0361569291624
+['hour', 'same toy']	['model b']	0.0662053178502
+['hour', 'same toy']	['4 hour']	0.429565728125
+['hour', 'same toy']	['8 dollar']	0.0427923118694
+['hour', 'same toy']	['produce']	0.128004820464
+['hour', 'same toy']	['8 dollar each.produce']	0.0410777933861
+['hour', 'same toy']	['7 dollar']	0.0368028975308
+['hour', 'same toy']	['5800 hour']	0.451705926709
+['hour', 'same toy']	['12,600 dollar']	0.0368028975308
+['hour', 'same toy']	['production']	0.357983472953
+['hour', 'same toy']	['week']	0.393819402227
+['5800 hour', 'same toy']	['manufacturer']	0.0774561735493
+['5800 hour', 'same toy']	['two model']	0.0827346205535
+['5800 hour', 'same toy']	['model b']	0.114574890496
+['5800 hour', 'same toy']	['4 hour']	0.573408386835
+['5800 hour', 'same toy']	['8 dollar']	0.0824069519204
+['5800 hour', 'same toy']	['produce']	0.0774561735493
+['5800 hour', 'same toy']	['8 dollar each.produce']	0.0908034291173
+['5800 hour', 'same toy']	['7 dollar']	0.0827346205535
+['5800 hour', 'same toy']	['hour']	0.323440682327
+['5800 hour', 'same toy']	['12,600 dollar']	0.0901100077042
+['5800 hour', 'same toy']	['production']	0.133930953416
+['5800 hour', 'same toy']	['week']	0.106789383188
+['12,600 dollar', 'same toy']	['manufacturer']	0.0774561735493
+['12,600 dollar', 'same toy']	['two model']	0.0827346205535
+['12,600 dollar', 'same toy']	['model b']	0.114574890496
+['12,600 dollar', 'same toy']	['4 hour']	0.0827346205535
+['12,600 dollar', 'same toy']	['8 dollar']	0.566188865804
+['12,600 dollar', 'same toy']	['produce']	0.079730351659
+['12,600 dollar', 'same toy']	['8 dollar each.produce']	0.0908034291173
+['12,600 dollar', 'same toy']	['7 dollar']	0.573408386835
+['12,600 dollar', 'same toy']	['hour']	0.0132263547461
+['12,600 dollar', 'same toy']	['5800 hour']	0.0901100077042
+['12,600 dollar', 'same toy']	['production']	0.229348801121
+['12,600 dollar', 'same toy']	['week']	0.0157405773894
+['production', 'same toy']	['manufacturer']	0.21729612781
+['production', 'same toy']	['two model']	0.210126296403
+['production', 'same toy']	['model b']	0.120656712611
+['production', 'same toy']	['4 hour']	0.138180177454
+['production', 'same toy']	['8 dollar']	0.0830529202888
+['production', 'same toy']	['produce']	0.200917798144
+['production', 'same toy']	['8 dollar each.produce']	0.0887553862424
+['production', 'same toy']	['7 dollar']	0.0833805889219
+['production', 'same toy']	['hour']	0.150095017596
+['production', 'same toy']	['5800 hour']	0.124206600218
+['production', 'same toy']	['12,600 dollar']	0.0833805889219
+['production', 'same toy']	['week']	0.0860645585209
+['week', 'same toy']	['manufacturer']	0.17870259112
+['week', 'same toy']	['two model']	0.0450566866416
+['week', 'same toy']	['model b']	0.0830545060742
+['week', 'same toy']	['4 hour']	0.175841907593
+['week', 'same toy']	['8 dollar']	0.0484394795837
+['week', 'same toy']	['produce']	0.235893901913
+['week', 'same toy']	['8 dollar each.produce']	0.0448893546269
+['week', 'same toy']	['7 dollar']	0.0450566866416
+['week', 'same toy']	['hour']	0.390824975159
+['week', 'same toy']	['5800 hour']	0.18250857426
+['week', 'same toy']	['12,600 dollar']	0.0450566866416
+['week', 'same toy']	['production']	0.269393338667
+['manufacturer', 'model b']	['two model']	0.0939298741501
+['manufacturer', 'model b']	['same toy']	0.0696933362217
+['manufacturer', 'model b']	['4 hour']	0.0696933362217
+['manufacturer', 'model b']	['8 dollar']	0.0746958245975
+['manufacturer', 'model b']	['produce']	0.733168976748
+['manufacturer', 'model b']	['8 dollar each.produce']	0.0807707659053
+['manufacturer', 'model b']	['7 dollar']	0.0696933362217
+['manufacturer', 'model b']	['hour']	0.252060707645
+['manufacturer', 'model b']	['5800 hour']	0.0696933362217
+['manufacturer', 'model b']	['12,600 dollar']	0.0696933362217
+['manufacturer', 'model b']	['production']	0.165863289212
+['manufacturer', 'model b']	['week']	0.100640180485
+['two model', 'model b']	['manufacturer']	0.0966764293888
+['two model', 'model b']	['same toy']	0.0827346205535
+['two model', 'model b']	['4 hour']	0.362256416006
+['two model', 'model b']	['8 dollar']	0.329189193165
+['two model', 'model b']	['produce']	0.159433235637
+['two model', 'model b']	['8 dollar each.produce']	0.335677399021
+['two model', 'model b']	['7 dollar']	0.362256416006
+['two model', 'model b']	['hour']	0.0143499502517
+['two model', 'model b']	['5800 hour']	0.0901100077042
+['two model', 'model b']	['12,600 dollar']	0.0901100077042
+['two model', 'model b']	['production']	0.229348801121
+['two model', 'model b']	['week']	0.016864172895
+['same toy', 'model b']	['manufacturer']	0.0741073489195
+['same toy', 'model b']	['two model']	0.0827346205535
+['same toy', 'model b']	['4 hour']	0.0827346205535
+['same toy', 'model b']	['8 dollar']	0.0824069519204
+['same toy', 'model b']	['produce']	0.0774561735493
+['same toy', 'model b']	['8 dollar each.produce']	0.0908034291173
+['same toy', 'model b']	['7 dollar']	0.0827346205535
+['same toy', 'model b']	['hour']	0.0132263547461
+['same toy', 'model b']	['5800 hour']	0.0901100077042
+['same toy', 'model b']	['12,600 dollar']	0.0901100077042
+['same toy', 'model b']	['production']	0.229348801121
+['same toy', 'model b']	['week']	0.0157405773894
+['4 hour', 'model b']	['manufacturer']	0.0774561735493
+['4 hour', 'model b']	['two model']	0.362256416006
+['4 hour', 'model b']	['same toy']	0.0827346205535
+['4 hour', 'model b']	['8 dollar']	0.329189193165
+['4 hour', 'model b']	['produce']	0.0741073489195
+['4 hour', 'model b']	['8 dollar each.produce']	0.335677399021
+['4 hour', 'model b']	['7 dollar']	0.362256416006
+['4 hour', 'model b']	['hour']	0.386348573276
+['4 hour', 'model b']	['5800 hour']	0.584269096576
+['4 hour', 'model b']	['12,600 dollar']	0.0901100077042
+['4 hour', 'model b']	['production']	0.170171263305
+['4 hour', 'model b']	['week']	0.0941573875439
+['8 dollar', 'model b']	['manufacturer']	0.0650959234194
+['8 dollar', 'model b']	['two model']	0.274556493975
+['8 dollar', 'model b']	['same toy']	0.0696933362217
+['8 dollar', 'model b']	['4 hour']	0.274556493975
+['8 dollar', 'model b']	['produce']	0.0617470987896
+['8 dollar', 'model b']	['8 dollar each.produce']	0.456253030721
+['8 dollar', 'model b']	['7 dollar']	0.73028733598
+['8 dollar', 'model b']	['hour']	0.011726423379
+['8 dollar', 'model b']	['5800 hour']	0.0737139440912
+['8 dollar', 'model b']	['12,600 dollar']	0.544221442934
+['8 dollar', 'model b']	['production']	0.0634148935911
+['8 dollar', 'model b']	['week']	0.011726423379
+['produce', 'model b']	['manufacturer']	0.738039106618
+['produce', 'model b']	['two model']	0.0737139440912
+['produce', 'model b']	['same toy']	0.0737139440912
+['produce', 'model b']	['4 hour']	0.0737139440912
+['produce', 'model b']	['8 dollar']	0.0799362650964
+['produce', 'model b']	['8 dollar each.produce']	0.0807707659053
+['produce', 'model b']	['7 dollar']	0.0737139440912
+['produce', 'model b']	['hour']	0.127424076064
+['produce', 'model b']	['5800 hour']	0.0737139440912
+['produce', 'model b']	['12,600 dollar']	0.0737139440912
+['produce', 'model b']	['production']	0.165863289212
+['produce', 'model b']	['week']	0.279959263669
+['8 dollar each.produce', 'model b']	['manufacturer']	0.146533383972
+['8 dollar each.produce', 'model b']	['two model']	0.453327242541
+['8 dollar each.produce', 'model b']	['same toy']	0.152238479479
+['8 dollar each.produce', 'model b']	['4 hour']	0.453327242541
+['8 dollar each.produce', 'model b']	['8 dollar']	0.486385005071
+['8 dollar each.produce', 'model b']	['produce']	0.146533383972
+['8 dollar each.produce', 'model b']	['7 dollar']	0.453327242541
+['8 dollar each.produce', 'model b']	['hour']	0.012852508684
+['8 dollar each.produce', 'model b']	['5800 hour']	0.15961386663
+['8 dollar each.produce', 'model b']	['12,600 dollar']	0.15961386663
+['8 dollar each.produce', 'model b']	['production']	0.14729034296
+['8 dollar each.produce', 'model b']	['week']	0.0170695436261
+['7 dollar', 'model b']	['manufacturer']	0.0774561735493
+['7 dollar', 'model b']	['two model']	0.362256416006
+['7 dollar', 'model b']	['same toy']	0.0827346205535
+['7 dollar', 'model b']	['4 hour']	0.362256416006
+['7 dollar', 'model b']	['8 dollar']	0.747901896166
+['7 dollar', 'model b']	['produce']	0.0741073489195
+['7 dollar', 'model b']	['8 dollar each.produce']	0.335677399021
+['7 dollar', 'model b']	['hour']	0.0143499502517
+['7 dollar', 'model b']	['5800 hour']	0.0901100077042
+['7 dollar', 'model b']	['12,600 dollar']	0.584269096576
+['7 dollar', 'model b']	['production']	0.0744376594044
+['7 dollar', 'model b']	['week']	0.016864172895
+['hour', 'model b']	['manufacturer']	0.302942347219
+['hour', 'model b']	['two model']	0.0361569291624
+['hour', 'model b']	['same toy']	0.0361569291624
+['hour', 'model b']	['4 hour']	0.429565728125
+['hour', 'model b']	['8 dollar']	0.0427923118694
+['hour', 'model b']	['produce']	0.152577748471
+['hour', 'model b']	['8 dollar each.produce']	0.0458721043879
+['hour', 'model b']	['7 dollar']	0.0368028975308
+['hour', 'model b']	['5800 hour']	0.451705926709
+['hour', 'model b']	['12,600 dollar']	0.0368028975308
+['hour', 'model b']	['production']	0.213812197206
+['hour', 'model b']	['week']	0.425850285578
+['5800 hour', 'model b']	['manufacturer']	0.0774561735493
+['5800 hour', 'model b']	['two model']	0.0901100077042
+['5800 hour', 'model b']	['same toy']	0.0901100077042
+['5800 hour', 'model b']	['4 hour']	0.584269096576
+['5800 hour', 'model b']	['8 dollar']	0.0897823390711
+['5800 hour', 'model b']	['produce']	0.0741073489195
+['5800 hour', 'model b']	['8 dollar each.produce']	0.0941266761548
+['5800 hour', 'model b']	['7 dollar']	0.0901100077042
+['5800 hour', 'model b']	['hour']	0.486335680883
+['5800 hour', 'model b']	['12,600 dollar']	0.0901100077042
+['5800 hour', 'model b']	['production']	0.170171263305
+['5800 hour', 'model b']	['week']	0.0941573875439
+['12,600 dollar', 'model b']	['manufacturer']	0.0774561735493
+['12,600 dollar', 'model b']	['two model']	0.0901100077042
+['12,600 dollar', 'model b']	['same toy']	0.0901100077042
+['12,600 dollar', 'model b']	['4 hour']	0.0901100077042
+['12,600 dollar', 'model b']	['8 dollar']	0.577101062223
+['12,600 dollar', 'model b']	['produce']	0.0741073489195
+['12,600 dollar', 'model b']	['8 dollar each.produce']	0.0941266761548
+['12,600 dollar', 'model b']	['7 dollar']	0.584269096576
+['12,600 dollar', 'model b']	['hour']	0.0143499502517
+['12,600 dollar', 'model b']	['5800 hour']	0.0901100077042
+['12,600 dollar', 'model b']	['production']	0.0744376594044
+['12,600 dollar', 'model b']	['week']	0.016864172895
+['production', 'model b']	['manufacturer']	0.21729612781
+['production', 'model b']	['two model']	0.199270042535
+['production', 'model b']	['same toy']	0.199270042535
+['production', 'model b']	['4 hour']	0.124206600218
+['production', 'model b']	['8 dollar']	0.0830529202888
+['production', 'model b']	['produce']	0.21729612781
+['production', 'model b']	['8 dollar each.produce']	0.0920786332799
+['production', 'model b']	['7 dollar']	0.0833805889219
+['production', 'model b']	['hour']	0.172742085802
+['production', 'model b']	['5800 hour']	0.124206600218
+['production', 'model b']	['12,600 dollar']	0.0833805889219
+['production', 'model b']	['week']	0.11018867081
+['week', 'model b']	['manufacturer']	0.17870259112
+['week', 'model b']	['two model']	0.0450566866416
+['week', 'model b']	['same toy']	0.0450566866416
+['week', 'model b']	['4 hour']	0.18250857426
+['week', 'model b']	['8 dollar']	0.0484394795837
+['week', 'model b']	['produce']	0.291975008388
+['week', 'model b']	['8 dollar each.produce']	0.0522447941162
+['week', 'model b']	['7 dollar']	0.0450566866416
+['week', 'model b']	['hour']	0.420980155708
+['week', 'model b']	['5800 hour']	0.18250857426
+['week', 'model b']	['12,600 dollar']	0.0450566866416
+['week', 'model b']	['production']	0.132705907282
+['manufacturer', '4 hour']	['two model']	0.383542576817
+['manufacturer', '4 hour']	['same toy']	0.0696933362217
+['manufacturer', '4 hour']	['model b']	0.0696933362217
+['manufacturer', '4 hour']	['8 dollar']	0.338867407738
+['manufacturer', '4 hour']	['produce']	0.735171000031
+['manufacturer', '4 hour']	['8 dollar each.produce']	0.273189578515
+['manufacturer', '4 hour']	['7 dollar']	0.344494311863
+['manufacturer', '4 hour']	['hour']	0.643289601702
+['manufacturer', '4 hour']	['5800 hour']	0.494524508322
+['manufacturer', '4 hour']	['12,600 dollar']	0.0696933362217
+['manufacturer', '4 hour']	['production']	0.208785758549
+['manufacturer', '4 hour']	['week']	0.197032083415
+['two model', '4 hour']	['manufacturer']	0.0966764293888
+['two model', '4 hour']	['same toy']	0.0827346205535
+['two model', '4 hour']	['model b']	0.0827346205535
+['two model', '4 hour']	['8 dollar']	0.42135232689
+['two model', '4 hour']	['produce']	0.152749460938
+['two model', '4 hour']	['8 dollar each.produce']	0.392633798017
+['two model', '4 hour']	['7 dollar']	0.40110561294
+['two model', '4 hour']	['hour']	0.339704667373
+['two model', '4 hour']	['5800 hour']	0.584269096576
+['two model', '4 hour']	['12,600 dollar']	0.0901100077042
+['two model', '4 hour']	['production']	0.133930953416
+['two model', '4 hour']	['week']	0.100122716522
+['same toy', '4 hour']	['manufacturer']	0.0774561735493
+['same toy', '4 hour']	['two model']	0.417194081899
+['same toy', '4 hour']	['model b']	0.114574890496
+['same toy', '4 hour']	['8 dollar']	0.341495179861
+['same toy', '4 hour']	['produce']	0.0774561735493
+['same toy', '4 hour']	['8 dollar each.produce']	0.365426502964
+['same toy', '4 hour']	['7 dollar']	0.390490368434
+['same toy', '4 hour']	['hour']	0.330564081183
+['same toy', '4 hour']	['5800 hour']	0.584269096576
+['same toy', '4 hour']	['12,600 dollar']	0.0901100077042
+['same toy', '4 hour']	['production']	0.133930953416
+['same toy', '4 hour']	['week']	0.106789383188
+['model b', '4 hour']	['manufacturer']	0.0774561735493
+['model b', '4 hour']	['two model']	0.362256416006
+['model b', '4 hour']	['same toy']	0.0827346205535
+['model b', '4 hour']	['8 dollar']	0.329189193165
+['model b', '4 hour']	['produce']	0.0741073489195
+['model b', '4 hour']	['8 dollar each.produce']	0.335677399021
+['model b', '4 hour']	['7 dollar']	0.362256416006
+['model b', '4 hour']	['hour']	0.386348573276
+['model b', '4 hour']	['5800 hour']	0.584269096576
+['model b', '4 hour']	['12,600 dollar']	0.0901100077042
+['model b', '4 hour']	['production']	0.170171263305
+['model b', '4 hour']	['week']	0.0941573875439
+['8 dollar', '4 hour']	['manufacturer']	0.0650959234194
+['8 dollar', '4 hour']	['two model']	0.362542219914
+['8 dollar', '4 hour']	['same toy']	0.0696933362217
+['8 dollar', '4 hour']	['model b']	0.0696933362217
+['8 dollar', '4 hour']	['produce']	0.0650959234194
+['8 dollar', '4 hour']	['8 dollar each.produce']	0.483528961126
+['8 dollar', '4 hour']	['7 dollar']	0.843106044067
+['8 dollar', '4 hour']	['hour']	0.390372142927
+['8 dollar', '4 hour']	['5800 hour']	0.544221442934
+['8 dollar', '4 hour']	['12,600 dollar']	0.544221442934
+['8 dollar', '4 hour']	['production']	0.107356378194
+['8 dollar', '4 hour']	['week']	0.0788194249491
+['produce', '4 hour']	['manufacturer']	0.735171000031
+['produce', '4 hour']	['two model']	0.291118889704
+['produce', '4 hour']	['same toy']	0.0696933362217
+['produce', '4 hour']	['model b']	0.0669904799604
+['produce', '4 hour']	['8 dollar']	0.283976834063
+['produce', '4 hour']	['8 dollar each.produce']	0.273189578515
+['produce', '4 hour']	['7 dollar']	0.291118889704
+['produce', '4 hour']	['hour']	0.637876131967
+['produce', '4 hour']	['5800 hour']	0.522652815483
+['produce', '4 hour']	['12,600 dollar']	0.0737139440912
+['produce', '4 hour']	['production']	0.208785758549
+['produce', '4 hour']	['week']	0.390205367641
+['8 dollar each.produce', '4 hour']	['manufacturer']	0.146533383972
+['8 dollar each.produce', '4 hour']	['two model']	0.471861986408
+['8 dollar each.produce', '4 hour']	['same toy']	0.152238479479
+['8 dollar each.produce', '4 hour']	['model b']	0.152238479479
+['8 dollar each.produce', '4 hour']	['8 dollar']	0.521964515369
+['8 dollar each.produce', '4 hour']	['produce']	0.146533383972
+['8 dollar each.produce', '4 hour']	['7 dollar']	0.471861986408
+['8 dollar each.produce', '4 hour']	['hour']	0.44550015987
+['8 dollar each.produce', '4 hour']	['5800 hour']	0.653642048458
+['8 dollar each.produce', '4 hour']	['12,600 dollar']	0.15961386663
+['8 dollar each.produce', '4 hour']	['production']	0.211529795267
+['8 dollar each.produce', '4 hour']	['week']	0.131575139548
+['7 dollar', '4 hour']	['manufacturer']	0.0774561735493
+['7 dollar', '4 hour']	['two model']	0.40110561294
+['7 dollar', '4 hour']	['same toy']	0.0827346205535
+['7 dollar', '4 hour']	['model b']	0.0827346205535
+['7 dollar', '4 hour']	['8 dollar']	0.845411192754
+['7 dollar', '4 hour']	['produce']	0.0774561735493
+['7 dollar', '4 hour']	['8 dollar each.produce']	0.392633798017
+['7 dollar', '4 hour']	['hour']	0.386348573276
+['7 dollar', '4 hour']	['5800 hour']	0.584269096576
+['7 dollar', '4 hour']	['12,600 dollar']	0.584269096576
+['7 dollar', '4 hour']	['production']	0.170171263305
+['7 dollar', '4 hour']	['week']	0.0941573875439
+['hour', '4 hour']	['manufacturer']	0.406338837076
+['hour', '4 hour']	['two model']	0.43836430017
+['hour', '4 hour']	['same toy']	0.0968024870635
+['hour', '4 hour']	['model b']	0.177516058856
+['hour', '4 hour']	['8 dollar']	0.566479418986
+['hour', '4 hour']	['produce']	0.317655153087
+['hour', '4 hour']	['8 dollar each.produce']	0.515668517989
+['hour', '4 hour']	['7 dollar']	0.556009941538
+['hour', '4 hour']	['5800 hour']	0.627178678305
+['hour', '4 hour']	['12,600 dollar']	0.177448801378
+['hour', '4 hour']	['production']	0.468546907986
+['hour', '4 hour']	['week']	0.73044834117
+['5800 hour', '4 hour']	['manufacturer']	0.353457331236
+['5800 hour', '4 hour']	['two model']	0.59564157713
+['5800 hour', '4 hour']	['same toy']	0.14589133531
+['5800 hour', '4 hour']	['model b']	0.153587928078
+['5800 hour', '4 hour']	['8 dollar']	0.593218781619
+['5800 hour', '4 hour']	['produce']	0.345269105941
+['5800 hour', '4 hour']	['8 dollar each.produce']	0.660428054476
+['5800 hour', '4 hour']	['7 dollar']	0.59564157713
+['5800 hour', '4 hour']	['hour']	0.680085498922
+['5800 hour', '4 hour']	['12,600 dollar']	0.139258682248
+['5800 hour', '4 hour']	['production']	0.444828773282
+['5800 hour', '4 hour']	['week']	0.278909315715
+['12,600 dollar', '4 hour']	['manufacturer']	0.0774561735493
+['12,600 dollar', '4 hour']	['two model']	0.362256416006
+['12,600 dollar', '4 hour']	['same toy']	0.0827346205535
+['12,600 dollar', '4 hour']	['model b']	0.0827346205535
+['12,600 dollar', '4 hour']	['8 dollar']	0.747901896166
+['12,600 dollar', '4 hour']	['produce']	0.0774561735493
+['12,600 dollar', '4 hour']	['8 dollar each.produce']	0.335677399021
+['12,600 dollar', '4 hour']	['7 dollar']	0.754360422532
+['12,600 dollar', '4 hour']	['hour']	0.386348573276
+['12,600 dollar', '4 hour']	['5800 hour']	0.584269096576
+['12,600 dollar', '4 hour']	['production']	0.170171263305
+['12,600 dollar', '4 hour']	['week']	0.0941573875439
+['production', '4 hour']	['manufacturer']	0.201768547945
+['production', '4 hour']	['two model']	0.423364656264
+['production', '4 hour']	['same toy']	0.210126296403
+['production', '4 hour']	['model b']	0.0800317642921
+['production', '4 hour']	['8 dollar']	0.44972811544
+['production', '4 hour']	['produce']	0.201768547945
+['production', '4 hour']	['8 dollar each.produce']	0.33845188701
+['production', '4 hour']	['7 dollar']	0.426675167742
+['production', '4 hour']	['hour']	0.613724874289
+['production', '4 hour']	['5800 hour']	0.550830586356
+['production', '4 hour']	['12,600 dollar']	0.0833805889219
+['production', '4 hour']	['week']	0.212266950293
+['week', '4 hour']	['manufacturer']	0.159758929148
+['week', '4 hour']	['two model']	0.333420389254
+['week', '4 hour']	['same toy']	0.0450566866416
+['week', '4 hour']	['model b']	0.0450566866416
+['week', '4 hour']	['8 dollar']	0.347903667484
+['week', '4 hour']	['produce']	0.231301690304
+['week', '4 hour']	['8 dollar each.produce']	0.2741110826
+['week', '4 hour']	['7 dollar']	0.338398736697
+['week', '4 hour']	['hour']	0.692629957732
+['week', '4 hour']	['5800 hour']	0.279783847447
+['week', '4 hour']	['12,600 dollar']	0.0450566866416
+['week', '4 hour']	['production']	0.227286647951
+['manufacturer', '8 dollar']	['two model']	0.383542576817
+['manufacturer', '8 dollar']	['same toy']	0.131771183904
+['manufacturer', '8 dollar']	['model b']	0.131771183904
+['manufacturer', '8 dollar']	['4 hour']	0.370420237789
+['manufacturer', '8 dollar']	['produce']	0.759811385292
+['manufacturer', '8 dollar']	['8 dollar each.produce']	0.430211364054
+['manufacturer', '8 dollar']	['7 dollar']	0.751359889328
+['manufacturer', '8 dollar']	['hour']	0.317971706806
+['manufacturer', '8 dollar']	['5800 hour']	0.131771183904
+['manufacturer', '8 dollar']	['12,600 dollar']	0.523360584566
+['manufacturer', '8 dollar']	['production']	0.223202498634
+['manufacturer', '8 dollar']	['week']	0.166551179646
+['two model', '8 dollar']	['manufacturer']	0.0843161792589
+['two model', '8 dollar']	['same toy']	0.0696933362217
+['two model', '8 dollar']	['model b']	0.0696933362217
+['two model', '8 dollar']	['4 hour']	0.362542219914
+['two model', '8 dollar']	['produce']	0.124613615724
+['two model', '8 dollar']	['8 dollar each.produce']	0.483528961126
+['two model', '8 dollar']	['7 dollar']	0.843106044067
+['two model', '8 dollar']	['hour']	0.011726423379
+['two model', '8 dollar']	['5800 hour']	0.0737139440912
+['two model', '8 dollar']	['12,600 dollar']	0.544221442934
+['two model', '8 dollar']	['production']	0.185698796745
+['two model', '8 dollar']	['week']	0.011726423379
+['same toy', '8 dollar']	['manufacturer']	0.0650959234194
+['same toy', '8 dollar']	['two model']	0.313566194137
+['same toy', '8 dollar']	['model b']	0.0963990099525
+['same toy', '8 dollar']	['4 hour']	0.286862480671
+['same toy', '8 dollar']	['produce']	0.0673701015291
+['same toy', '8 dollar']	['8 dollar each.produce']	0.456253030721
+['same toy', '8 dollar']	['7 dollar']	0.73028733598
+['same toy', '8 dollar']	['hour']	0.0106028278734
+['same toy', '8 dollar']	['5800 hour']	0.0737139440912
+['same toy', '8 dollar']	['12,600 dollar']	0.544221442934
+['same toy', '8 dollar']	['production']	0.185698796745
+['same toy', '8 dollar']	['week']	0.0106028278734
+['model b', '8 dollar']	['manufacturer']	0.0650959234194
+['model b', '8 dollar']	['two model']	0.274556493975
+['model b', '8 dollar']	['same toy']	0.0696933362217
+['model b', '8 dollar']	['4 hour']	0.274556493975
+['model b', '8 dollar']	['produce']	0.0617470987896
+['model b', '8 dollar']	['8 dollar each.produce']	0.456253030721
+['model b', '8 dollar']	['7 dollar']	0.73028733598
+['model b', '8 dollar']	['hour']	0.011726423379
+['model b', '8 dollar']	['5800 hour']	0.0737139440912
+['model b', '8 dollar']	['12,600 dollar']	0.544221442934
+['model b', '8 dollar']	['production']	0.0634148935911
+['model b', '8 dollar']	['week']	0.011726423379
+['4 hour', '8 dollar']	['manufacturer']	0.0650959234194
+['4 hour', '8 dollar']	['two model']	0.362542219914
+['4 hour', '8 dollar']	['same toy']	0.0696933362217
+['4 hour', '8 dollar']	['model b']	0.0696933362217
+['4 hour', '8 dollar']	['produce']	0.0650959234194
+['4 hour', '8 dollar']	['8 dollar each.produce']	0.483528961126
+['4 hour', '8 dollar']	['7 dollar']	0.843106044067
+['4 hour', '8 dollar']	['hour']	0.390372142927
+['4 hour', '8 dollar']	['5800 hour']	0.544221442934
+['4 hour', '8 dollar']	['12,600 dollar']	0.544221442934
+['4 hour', '8 dollar']	['production']	0.107356378194
+['4 hour', '8 dollar']	['week']	0.0788194249491
+['produce', '8 dollar']	['manufacturer']	0.759811385292
+['produce', '8 dollar']	['two model']	0.31704481563
+['produce', '8 dollar']	['same toy']	0.131771183904
+['produce', '8 dollar']	['model b']	0.129068327642
+['produce', '8 dollar']	['4 hour']	0.31704481563
+['produce', '8 dollar']	['8 dollar each.produce']	0.430211364054
+['produce', '8 dollar']	['7 dollar']	0.751359889328
+['produce', '8 dollar']	['hour']	0.193335075224
+['produce', '8 dollar']	['5800 hour']	0.135791791773
+['produce', '8 dollar']	['12,600 dollar']	0.559167556146
+['produce', '8 dollar']	['production']	0.223202498634
+['produce', '8 dollar']	['week']	0.345870262829
+['8 dollar each.produce', '8 dollar']	['manufacturer']	0.129886460887
+['8 dollar each.produce', '8 dollar']	['two model']	0.407737880173
+['8 dollar each.produce', '8 dollar']	['same toy']	0.124856540438
+['8 dollar each.produce', '8 dollar']	['model b']	0.124856540438
+['8 dollar each.produce', '8 dollar']	['4 hour']	0.407737880173
+['8 dollar each.produce', '8 dollar']	['produce']	0.129886460887
+['8 dollar each.produce', '8 dollar']	['7 dollar']	0.858245500007
+['8 dollar each.produce', '8 dollar']	['hour']	0.0102289818113
+['8 dollar each.produce', '8 dollar']	['5800 hour']	0.128877148308
+['8 dollar each.produce', '8 dollar']	['12,600 dollar']	0.645330407958
+['8 dollar each.produce', '8 dollar']	['production']	0.121926922437
+['8 dollar each.produce', '8 dollar']	['week']	0.0102289818113
+['7 dollar', '8 dollar']	['manufacturer']	0.343720460701
+['7 dollar', '8 dollar']	['two model']	0.666513488124
+['7 dollar', '8 dollar']	['same toy']	0.144528281371
+['7 dollar', '8 dollar']	['model b']	0.144528281371
+['7 dollar', '8 dollar']	['4 hour']	0.666513488124
+['7 dollar', '8 dollar']	['produce']	0.327802190328
+['7 dollar', '8 dollar']	['8 dollar each.produce']	0.541051678388
+['7 dollar', '8 dollar']	['hour']	0.225362410309
+['7 dollar', '8 dollar']	['5800 hour']	0.127137811052
+['7 dollar', '8 dollar']	['12,600 dollar']	0.619879171367
+['7 dollar', '8 dollar']	['production']	0.363581185188
+['7 dollar', '8 dollar']	['week']	0.181209184502
+['hour', '8 dollar']	['manufacturer']	0.299476746947
+['hour', '8 dollar']	['two model']	0.271294906174
+['hour', '8 dollar']	['same toy']	0.0982347768443
+['hour', '8 dollar']	['model b']	0.0989480026901
+['hour', '8 dollar']	['4 hour']	0.593783645992
+['hour', '8 dollar']	['produce']	0.187315611403
+['hour', '8 dollar']	['8 dollar each.produce']	0.393060102441
+['hour', '8 dollar']	['7 dollar']	0.464262206931
+['hour', '8 dollar']	['5800 hour']	0.451705926709
+['hour', '8 dollar']	['12,600 dollar']	0.160671266721
+['hour', '8 dollar']	['production']	0.275890044888
+['hour', '8 dollar']	['week']	0.459183618911
+['5800 hour', '8 dollar']	['manufacturer']	0.0650959234194
+['5800 hour', '8 dollar']	['two model']	0.274556493975
+['5800 hour', '8 dollar']	['same toy']	0.0696933362217
+['5800 hour', '8 dollar']	['model b']	0.0696933362217
+['5800 hour', '8 dollar']	['4 hour']	0.73028733598
+['5800 hour', '8 dollar']	['produce']	0.0650959234194
+['5800 hour', '8 dollar']	['8 dollar each.produce']	0.456253030721
+['5800 hour', '8 dollar']	['7 dollar']	0.73028733598
+['5800 hour', '8 dollar']	['hour']	0.42624609967
+['5800 hour', '8 dollar']	['12,600 dollar']	0.544221442934
+['5800 hour', '8 dollar']	['production']	0.107356378194
+['5800 hour', '8 dollar']	['week']	0.0788194249491
+['12,600 dollar', '8 dollar']	['manufacturer']	0.343720460701
+['12,600 dollar', '8 dollar']	['two model']	0.544707256497
+['12,600 dollar', '8 dollar']	['same toy']	0.136831688603
+['12,600 dollar', '8 dollar']	['model b']	0.144528281371
+['12,600 dollar', '8 dollar']	['4 hour']	0.544707256497
+['12,600 dollar', '8 dollar']	['produce']	0.327802190328
+['12,600 dollar', '8 dollar']	['8 dollar each.produce']	0.540800530199
+['12,600 dollar', '8 dollar']	['7 dollar']	0.868355241542
+['12,600 dollar', '8 dollar']	['hour']	0.225362410309
+['12,600 dollar', '8 dollar']	['5800 hour']	0.127137811052
+['12,600 dollar', '8 dollar']	['production']	0.363581185188
+['12,600 dollar', '8 dollar']	['week']	0.181209184502
+['production', '8 dollar']	['manufacturer']	0.153317037353
+['production', '8 dollar']	['two model']	0.374932920039
+['production', '8 dollar']	['same toy']	0.14431437866
+['production', '8 dollar']	['model b']	0.0669904799604
+['production', '8 dollar']	['4 hour']	0.383542576817
+['production', '8 dollar']	['produce']	0.153317037353
+['production', '8 dollar']	['8 dollar each.produce']	0.430211364054
+['production', '8 dollar']	['7 dollar']	0.781397872909
+['production', '8 dollar']	['hour']	0.191725877866
+['production', '8 dollar']	['5800 hour']	0.103222748661
+['production', '8 dollar']	['12,600 dollar']	0.465538040018
+['production', '8 dollar']	['week']	0.140340182946
+['week', '8 dollar']	['manufacturer']	0.11086262958
+['week', '8 dollar']	['two model']	0.245368980249
+['week', '8 dollar']	['same toy']	0.0361569291624
+['week', '8 dollar']	['model b']	0.0361569291624
+['week', '8 dollar']	['4 hour']	0.304748815889
+['week', '8 dollar']	['produce']	0.250588487454
+['week', '8 dollar']	['8 dollar each.produce']	0.393060102441
+['week', '8 dollar']	['7 dollar']	0.464262206931
+['week', '8 dollar']	['hour']	0.420980155708
+['week', '8 dollar']	['5800 hour']	0.0953909804967
+['week', '8 dollar']	['12,600 dollar']	0.160671266721
+['week', '8 dollar']	['production']	0.156655471514
+['manufacturer', 'produce']	['two model']	0.150580022418
+['manufacturer', 'produce']	['same toy']	0.131771183904
+['manufacturer', 'produce']	['model b']	0.129068327642
+['manufacturer', 'produce']	['4 hour']	0.131771183904
+['manufacturer', 'produce']	['8 dollar']	0.136773672279
+['manufacturer', 'produce']	['8 dollar each.produce']	0.142848613587
+['manufacturer', 'produce']	['7 dollar']	0.131771183904
+['manufacturer', 'produce']	['hour']	0.209354234835
+['manufacturer', 'produce']	['5800 hour']	0.131771183904
+['manufacturer', 'produce']	['12,600 dollar']	0.131771183904
+['manufacturer', 'produce']	['production']	0.145538692812
+['manufacturer', 'produce']	['week']	0.182081175222
+['two model', 'produce']	['manufacturer']	0.84831856906
+['two model', 'produce']	['same toy']	0.0696933362217
+['two model', 'produce']	['model b']	0.0669904799604
+['two model', 'produce']	['4 hour']	0.291118889704
+['two model', 'produce']	['8 dollar']	0.283976834063
+['two model', 'produce']	['8 dollar each.produce']	0.273189578515
+['two model', 'produce']	['7 dollar']	0.291118889704
+['two model', 'produce']	['hour']	0.132294205934
+['two model', 'produce']	['5800 hour']	0.0737139440912
+['two model', 'produce']	['12,600 dollar']	0.0737139440912
+['two model', 'produce']	['production']	0.256802116272
+['two model', 'produce']	['week']	0.214415815715
+['same toy', 'produce']	['manufacturer']	0.738039106618
+['same toy', 'produce']	['two model']	0.0696933362217
+['same toy', 'produce']	['model b']	0.10152877775
+['same toy', 'produce']	['4 hour']	0.0696933362217
+['same toy', 'produce']	['8 dollar']	0.0746958245975
+['same toy', 'produce']	['8 dollar each.produce']	0.080802298149
+['same toy', 'produce']	['7 dollar']	0.0696933362217
+['same toy', 'produce']	['hour']	0.104157212721
+['same toy', 'produce']	['5800 hour']	0.0737139440912
+['same toy', 'produce']	['12,600 dollar']	0.0737139440912
+['same toy', 'produce']	['production']	0.256802116272
+['same toy', 'produce']	['week']	0.216547603771
+['model b', 'produce']	['manufacturer']	0.738039106618
+['model b', 'produce']	['two model']	0.0737139440912
+['model b', 'produce']	['same toy']	0.0737139440912
+['model b', 'produce']	['4 hour']	0.0737139440912
+['model b', 'produce']	['8 dollar']	0.0799362650964
+['model b', 'produce']	['8 dollar each.produce']	0.0807707659053
+['model b', 'produce']	['7 dollar']	0.0737139440912
+['model b', 'produce']	['hour']	0.127424076064
+['model b', 'produce']	['5800 hour']	0.0737139440912
+['model b', 'produce']	['12,600 dollar']	0.0737139440912
+['model b', 'produce']	['production']	0.165863289212
+['model b', 'produce']	['week']	0.279959263669
+['4 hour', 'produce']	['manufacturer']	0.735171000031
+['4 hour', 'produce']	['two model']	0.291118889704
+['4 hour', 'produce']	['same toy']	0.0696933362217
+['4 hour', 'produce']	['model b']	0.0669904799604
+['4 hour', 'produce']	['8 dollar']	0.283976834063
+['4 hour', 'produce']	['8 dollar each.produce']	0.273189578515
+['4 hour', 'produce']	['7 dollar']	0.291118889704
+['4 hour', 'produce']	['hour']	0.637876131967
+['4 hour', 'produce']	['5800 hour']	0.522652815483
+['4 hour', 'produce']	['12,600 dollar']	0.0737139440912
+['4 hour', 'produce']	['production']	0.208785758549
+['4 hour', 'produce']	['week']	0.390205367641
+['8 dollar', 'produce']	['manufacturer']	0.759811385292
+['8 dollar', 'produce']	['two model']	0.31704481563
+['8 dollar', 'produce']	['same toy']	0.131771183904
+['8 dollar', 'produce']	['model b']	0.129068327642
+['8 dollar', 'produce']	['4 hour']	0.31704481563
+['8 dollar', 'produce']	['8 dollar each.produce']	0.430211364054
+['8 dollar', 'produce']	['7 dollar']	0.751359889328
+['8 dollar', 'produce']	['hour']	0.193335075224
+['8 dollar', 'produce']	['5800 hour']	0.135791791773
+['8 dollar', 'produce']	['12,600 dollar']	0.559167556146
+['8 dollar', 'produce']	['production']	0.223202498634
+['8 dollar', 'produce']	['week']	0.345870262829
+['8 dollar each.produce', 'produce']	['manufacturer']	0.705435619396
+['8 dollar each.produce', 'produce']	['two model']	0.274556493975
+['8 dollar each.produce', 'produce']	['same toy']	0.0696933362217
+['8 dollar each.produce', 'produce']	['model b']	0.0669904799604
+['8 dollar each.produce', 'produce']	['4 hour']	0.274556493975
+['8 dollar each.produce', 'produce']	['8 dollar']	0.482979385637
+['8 dollar each.produce', 'produce']	['7 dollar']	0.274556493975
+['8 dollar each.produce', 'produce']	['hour']	0.100830055671
+['8 dollar each.produce', 'produce']	['5800 hour']	0.0737139440912
+['8 dollar each.produce', 'produce']	['12,600 dollar']	0.0737139440912
+['8 dollar each.produce', 'produce']	['production']	0.119190988445
+['8 dollar each.produce', 'produce']	['week']	0.214735598237
+['7 dollar', 'produce']	['manufacturer']	0.746794143912
+['7 dollar', 'produce']	['two model']	0.291118889704
+['7 dollar', 'produce']	['same toy']	0.0696933362217
+['7 dollar', 'produce']	['model b']	0.0669904799604
+['7 dollar', 'produce']	['4 hour']	0.291118889704
+['7 dollar', 'produce']	['8 dollar']	0.72021221181
+['7 dollar', 'produce']	['8 dollar each.produce']	0.273189578515
+['7 dollar', 'produce']	['hour']	0.127424076064
+['7 dollar', 'produce']	['5800 hour']	0.0737139440912
+['7 dollar', 'produce']	['12,600 dollar']	0.522652815483
+['7 dollar', 'produce']	['production']	0.165863289212
+['7 dollar', 'produce']	['week']	0.279959263669
+['hour', 'produce']	['manufacturer']	0.245272756314
+['hour', 'produce']	['two model']	0.0982347768443
+['hour', 'produce']	['same toy']	0.0982347768443
+['hour', 'produce']	['model b']	0.0989480026901
+['hour', 'produce']	['4 hour']	0.429565728125
+['hour', 'produce']	['8 dollar']	0.104870159551
+['hour', 'produce']	['8 dollar each.produce']	0.10794995207
+['hour', 'produce']	['7 dollar']	0.0988807452127
+['hour', 'produce']	['5800 hour']	0.451705926709
+['hour', 'produce']	['12,600 dollar']	0.0988807452127
+['hour', 'produce']	['production']	0.165882835233
+['hour', 'produce']	['week']	0.168044462018
+['5800 hour', 'produce']	['manufacturer']	0.735171000031
+['5800 hour', 'produce']	['two model']	0.0737139440912
+['5800 hour', 'produce']	['same toy']	0.0737139440912
+['5800 hour', 'produce']	['model b']	0.0703393045902
+['5800 hour', 'produce']	['4 hour']	0.522652815483
+['5800 hour', 'produce']	['8 dollar']	0.0799362650964
+['5800 hour', 'produce']	['8 dollar each.produce']	0.0807707659053
+['5800 hour', 'produce']	['7 dollar']	0.0737139440912
+['5800 hour', 'produce']	['hour']	0.677425033929
+['5800 hour', 'produce']	['12,600 dollar']	0.0737139440912
+['5800 hour', 'produce']	['production']	0.208785758549
+['5800 hour', 'produce']	['week']	0.390205367641
+['12,600 dollar', 'produce']	['manufacturer']	0.746794143912
+['12,600 dollar', 'produce']	['two model']	0.0737139440912
+['12,600 dollar', 'produce']	['same toy']	0.0737139440912
+['12,600 dollar', 'produce']	['model b']	0.0703393045902
+['12,600 dollar', 'produce']	['4 hour']	0.0737139440912
+['12,600 dollar', 'produce']	['8 dollar']	0.540909642042
+['12,600 dollar', 'produce']	['8 dollar each.produce']	0.0807707659053
+['12,600 dollar', 'produce']	['7 dollar']	0.522652815483
+['12,600 dollar', 'produce']	['hour']	0.127424076064
+['12,600 dollar', 'produce']	['5800 hour']	0.0737139440912
+['12,600 dollar', 'produce']	['production']	0.165863289212
+['12,600 dollar', 'produce']	['week']	0.279959263669
+['production', 'produce']	['manufacturer']	0.516582987031
+['production', 'produce']	['two model']	0.130048808393
+['production', 'produce']	['same toy']	0.130048808393
+['production', 'produce']	['model b']	0.0669904799604
+['production', 'produce']	['4 hour']	0.103222748661
+['production', 'produce']	['8 dollar']	0.0753417929659
+['production', 'produce']	['8 dollar each.produce']	0.0807707659053
+['production', 'produce']	['7 dollar']	0.0703393045902
+['production', 'produce']	['hour']	0.129649043756
+['production', 'produce']	['5800 hour']	0.103222748661
+['production', 'produce']	['12,600 dollar']	0.0703393045902
+['production', 'produce']	['week']	0.173019921614
+['week', 'produce']	['manufacturer']	0.349294466881
+['week', 'produce']	['two model']	0.0361569291624
+['week', 'produce']	['same toy']	0.0361569291624
+['week', 'produce']	['model b']	0.0368701550083
+['week', 'produce']	['4 hour']	0.0953909804967
+['week', 'produce']	['8 dollar']	0.0421463435009
+['week', 'produce']	['8 dollar each.produce']	0.0458721043879
+['week', 'produce']	['7 dollar']	0.0361569291624
+['week', 'produce']	['hour']	0.25325217319
+['week', 'produce']	['5800 hour']	0.0953909804967
+['week', 'produce']	['12,600 dollar']	0.0361569291624
+['week', 'produce']	['production']	0.110225443993
+['manufacturer', '8 dollar each.produce']	['two model']	0.364511045285
+['manufacturer', '8 dollar each.produce']	['same toy']	0.0696933362217
+['manufacturer', '8 dollar each.produce']	['model b']	0.0696933362217
+['manufacturer', '8 dollar each.produce']	['4 hour']	0.327931916134
+['manufacturer', '8 dollar each.produce']	['8 dollar']	0.482979385637
+['manufacturer', '8 dollar each.produce']	['produce']	0.705435619396
+['manufacturer', '8 dollar each.produce']	['7 dollar']	0.327931916134
+['manufacturer', '8 dollar each.produce']	['hour']	0.192133353919
+['manufacturer', '8 dollar each.produce']	['5800 hour']	0.0696933362217
+['manufacturer', '8 dollar each.produce']	['12,600 dollar']	0.0696933362217
+['manufacturer', '8 dollar each.produce']	['production']	0.119190988445
+['manufacturer', '8 dollar each.produce']	['week']	0.0545248371936
+['two model', '8 dollar each.produce']	['manufacturer']	0.165494541834
+['two model', '8 dollar each.produce']	['same toy']	0.152238479479
+['two model', '8 dollar each.produce']	['model b']	0.152238479479
+['two model', '8 dollar each.produce']	['4 hour']	0.471861986408
+['two model', '8 dollar each.produce']	['8 dollar']	0.521964515369
+['two model', '8 dollar each.produce']	['produce']	0.194916092894
+['two model', '8 dollar each.produce']	['7 dollar']	0.471861986408
+['two model', '8 dollar each.produce']	['hour']	0.012852508684
+['two model', '8 dollar each.produce']	['5800 hour']	0.15961386663
+['two model', '8 dollar each.produce']	['12,600 dollar']	0.15961386663
+['two model', '8 dollar each.produce']	['production']	0.273945362827
+['two model', '8 dollar each.produce']	['week']	0.0170695436261
+['same toy', '8 dollar each.produce']	['manufacturer']	0.146533383972
+['same toy', '8 dollar each.produce']	['two model']	0.508264908435
+['same toy', '8 dollar each.produce']	['model b']	0.176181914205
+['same toy', '8 dollar each.produce']	['4 hour']	0.481561194969
+['same toy', '8 dollar each.produce']	['8 dollar']	0.486385005071
+['same toy', '8 dollar each.produce']	['produce']	0.15219441396
+['same toy', '8 dollar each.produce']	['7 dollar']	0.481561194969
+['same toy', '8 dollar each.produce']	['hour']	0.0175454252276
+['same toy', '8 dollar each.produce']	['5800 hour']	0.15961386663
+['same toy', '8 dollar each.produce']	['12,600 dollar']	0.15961386663
+['same toy', '8 dollar each.produce']	['production']	0.273945362827
+['same toy', '8 dollar each.produce']	['week']	0.023640394442
+['model b', '8 dollar each.produce']	['manufacturer']	0.146533383972
+['model b', '8 dollar each.produce']	['two model']	0.453327242541
+['model b', '8 dollar each.produce']	['same toy']	0.152238479479
+['model b', '8 dollar each.produce']	['4 hour']	0.453327242541
+['model b', '8 dollar each.produce']	['8 dollar']	0.486385005071
+['model b', '8 dollar each.produce']	['produce']	0.146533383972
+['model b', '8 dollar each.produce']	['7 dollar']	0.453327242541
+['model b', '8 dollar each.produce']	['hour']	0.012852508684
+['model b', '8 dollar each.produce']	['5800 hour']	0.15961386663
+['model b', '8 dollar each.produce']	['12,600 dollar']	0.15961386663
+['model b', '8 dollar each.produce']	['production']	0.14729034296
+['model b', '8 dollar each.produce']	['week']	0.0170695436261
+['4 hour', '8 dollar each.produce']	['manufacturer']	0.146533383972
+['4 hour', '8 dollar each.produce']	['two model']	0.471861986408
+['4 hour', '8 dollar each.produce']	['same toy']	0.152238479479
+['4 hour', '8 dollar each.produce']	['model b']	0.152238479479
+['4 hour', '8 dollar each.produce']	['8 dollar']	0.521964515369
+['4 hour', '8 dollar each.produce']	['produce']	0.146533383972
+['4 hour', '8 dollar each.produce']	['7 dollar']	0.471861986408
+['4 hour', '8 dollar each.produce']	['hour']	0.44550015987
+['4 hour', '8 dollar each.produce']	['5800 hour']	0.653642048458
+['4 hour', '8 dollar each.produce']	['12,600 dollar']	0.15961386663
+['4 hour', '8 dollar each.produce']	['production']	0.211529795267
+['4 hour', '8 dollar each.produce']	['week']	0.131575139548
+['8 dollar', '8 dollar each.produce']	['manufacturer']	0.129886460887
+['8 dollar', '8 dollar each.produce']	['two model']	0.407737880173
+['8 dollar', '8 dollar each.produce']	['same toy']	0.124856540438
+['8 dollar', '8 dollar each.produce']	['model b']	0.124856540438
+['8 dollar', '8 dollar each.produce']	['4 hour']	0.407737880173
+['8 dollar', '8 dollar each.produce']	['produce']	0.129886460887
+['8 dollar', '8 dollar each.produce']	['7 dollar']	0.858245500007
+['8 dollar', '8 dollar each.produce']	['hour']	0.0102289818113
+['8 dollar', '8 dollar each.produce']	['5800 hour']	0.128877148308
+['8 dollar', '8 dollar each.produce']	['12,600 dollar']	0.645330407958
+['8 dollar', '8 dollar each.produce']	['production']	0.121926922437
+['8 dollar', '8 dollar each.produce']	['week']	0.0102289818113
+['produce', '8 dollar each.produce']	['manufacturer']	0.705435619396
+['produce', '8 dollar each.produce']	['two model']	0.274556493975
+['produce', '8 dollar each.produce']	['same toy']	0.0696933362217
+['produce', '8 dollar each.produce']	['model b']	0.0669904799604
+['produce', '8 dollar each.produce']	['4 hour']	0.274556493975
+['produce', '8 dollar each.produce']	['8 dollar']	0.482979385637
+['produce', '8 dollar each.produce']	['7 dollar']	0.274556493975
+['produce', '8 dollar each.produce']	['hour']	0.100830055671
+['produce', '8 dollar each.produce']	['5800 hour']	0.0737139440912
+['produce', '8 dollar each.produce']	['12,600 dollar']	0.0737139440912
+['produce', '8 dollar each.produce']	['production']	0.119190988445
+['produce', '8 dollar each.produce']	['week']	0.214735598237
+['7 dollar', '8 dollar each.produce']	['manufacturer']	0.148807562081
+['7 dollar', '8 dollar each.produce']	['two model']	0.471861986408
+['7 dollar', '8 dollar each.produce']	['same toy']	0.152238479479
+['7 dollar', '8 dollar each.produce']	['model b']	0.152238479479
+['7 dollar', '8 dollar each.produce']	['4 hour']	0.471861986408
+['7 dollar', '8 dollar each.produce']	['8 dollar']	0.785726658851
+['7 dollar', '8 dollar each.produce']	['produce']	0.148807562081
+['7 dollar', '8 dollar each.produce']	['hour']	0.012852508684
+['7 dollar', '8 dollar each.produce']	['5800 hour']	0.15961386663
+['7 dollar', '8 dollar each.produce']	['12,600 dollar']	0.653642048458
+['7 dollar', '8 dollar each.produce']	['production']	0.14729034296
+['7 dollar', '8 dollar each.produce']	['week']	0.0170695436261
+['hour', '8 dollar each.produce']	['manufacturer']	0.238799826194
+['hour', '8 dollar each.produce']	['two model']	0.195473251186
+['hour', '8 dollar each.produce']	['same toy']	0.0351005911342
+['hour', '8 dollar each.produce']	['model b']	0.0368701550083
+['hour', '8 dollar each.produce']	['4 hour']	0.550617744729
+['hour', '8 dollar each.produce']	['8 dollar']	0.419270397576
+['hour', '8 dollar each.produce']	['produce']	0.12543333092
+['hour', '8 dollar each.produce']	['7 dollar']	0.262668788377
+['hour', '8 dollar each.produce']	['5800 hour']	0.447268604772
+['hour', '8 dollar each.produce']	['12,600 dollar']	0.0357465595026
+['hour', '8 dollar each.produce']	['production']	0.186241597819
+['hour', '8 dollar each.produce']	['week']	0.392763064199
+['5800 hour', '8 dollar each.produce']	['manufacturer']	0.146533383972
+['5800 hour', '8 dollar each.produce']	['two model']	0.453327242541
+['5800 hour', '8 dollar each.produce']	['same toy']	0.152238479479
+['5800 hour', '8 dollar each.produce']	['model b']	0.152238479479
+['5800 hour', '8 dollar each.produce']	['4 hour']	0.810888071258
+['5800 hour', '8 dollar each.produce']	['8 dollar']	0.486385005071
+['5800 hour', '8 dollar each.produce']	['produce']	0.146533383972
+['5800 hour', '8 dollar each.produce']	['7 dollar']	0.453327242541
+['5800 hour', '8 dollar each.produce']	['hour']	0.411888333787
+['5800 hour', '8 dollar each.produce']	['12,600 dollar']	0.15961386663
+['5800 hour', '8 dollar each.produce']	['production']	0.211529795267
+['5800 hour', '8 dollar each.produce']	['week']	0.131575139548
+['12,600 dollar', '8 dollar each.produce']	['manufacturer']	0.148807562081
+['12,600 dollar', '8 dollar each.produce']	['two model']	0.453327242541
+['12,600 dollar', '8 dollar each.produce']	['same toy']	0.152238479479
+['12,600 dollar', '8 dollar each.produce']	['model b']	0.152238479479
+['12,600 dollar', '8 dollar each.produce']	['4 hour']	0.453327242541
+['12,600 dollar', '8 dollar each.produce']	['8 dollar']	0.703003906023
+['12,600 dollar', '8 dollar each.produce']	['produce']	0.148807562081
+['12,600 dollar', '8 dollar each.produce']	['7 dollar']	0.810888071258
+['12,600 dollar', '8 dollar each.produce']	['hour']	0.012852508684
+['12,600 dollar', '8 dollar each.produce']	['5800 hour']	0.15961386663
+['12,600 dollar', '8 dollar each.produce']	['production']	0.14729034296
+['12,600 dollar', '8 dollar each.produce']	['week']	0.0170695436261
+['production', '8 dollar each.produce']	['manufacturer']	0.170623827043
+['production', '8 dollar each.produce']	['two model']	0.423364656264
+['production', '8 dollar each.produce']	['same toy']	0.205303765539
+['production', '8 dollar each.produce']	['model b']	0.0800317642921
+['production', '8 dollar each.produce']	['4 hour']	0.431974313041
+['production', '8 dollar each.produce']	['8 dollar']	0.510653685333
+['production', '8 dollar each.produce']	['produce']	0.170623827043
+['production', '8 dollar each.produce']	['7 dollar']	0.426675167742
+['production', '8 dollar each.produce']	['hour']	0.148283012061
+['production', '8 dollar each.produce']	['5800 hour']	0.126675736021
+['production', '8 dollar each.produce']	['12,600 dollar']	0.0833805889219
+['production', '8 dollar each.produce']	['week']	0.0827374014713
+['week', '8 dollar each.produce']	['manufacturer']	0.131185174653
+['week', '8 dollar each.produce']	['two model']	0.295264525057
+['week', '8 dollar each.produce']	['same toy']	0.0440003486134
+['week', '8 dollar each.produce']	['model b']	0.0440003486134
+['week', '8 dollar each.produce']	['4 hour']	0.29478056601
+['week', '8 dollar each.produce']	['8 dollar']	0.431696552981
+['week', '8 dollar each.produce']	['produce']	0.234837563885
+['week', '8 dollar each.produce']	['7 dollar']	0.305065403363
+['week', '8 dollar each.produce']	['hour']	0.389768637131
+['week', '8 dollar each.produce']	['5800 hour']	0.177686043396
+['week', '8 dollar each.produce']	['12,600 dollar']	0.0440003486134
+['week', '8 dollar each.produce']	['production']	0.109574370655
+['manufacturer', '7 dollar']	['two model']	0.383542576817
+['manufacturer', '7 dollar']	['same toy']	0.0696933362217
+['manufacturer', '7 dollar']	['model b']	0.0696933362217
+['manufacturer', '7 dollar']	['4 hour']	0.344494311863
+['manufacturer', '7 dollar']	['8 dollar']	0.72021221181
+['manufacturer', '7 dollar']	['produce']	0.746794143912
+['manufacturer', '7 dollar']	['8 dollar each.produce']	0.273189578515
+['manufacturer', '7 dollar']	['hour']	0.252060707645
+['manufacturer', '7 dollar']	['5800 hour']	0.0696933362217
+['manufacturer', '7 dollar']	['12,600 dollar']	0.494524508322
+['manufacturer', '7 dollar']	['production']	0.165863289212
+['manufacturer', '7 dollar']	['week']	0.100640180485
+['two model', '7 dollar']	['manufacturer']	0.0966764293888
+['two model', '7 dollar']	['same toy']	0.0827346205535
+['two model', '7 dollar']	['model b']	0.0827346205535
+['two model', '7 dollar']	['4 hour']	0.40110561294
+['two model', '7 dollar']	['8 dollar']	0.845411192754
+['two model', '7 dollar']	['produce']	0.138944747134
+['two model', '7 dollar']	['8 dollar each.produce']	0.392633798017
+['two model', '7 dollar']	['hour']	0.0143499502517
+['two model', '7 dollar']	['5800 hour']	0.0901100077042
+['two model', '7 dollar']	['12,600 dollar']	0.584269096576
+['two model', '7 dollar']	['production']	0.229348801121
+['two model', '7 dollar']	['week']	0.016864172895
+['same toy', '7 dollar']	['manufacturer']	0.0774561735493
+['same toy', '7 dollar']	['two model']	0.417194081899
+['same toy', '7 dollar']	['model b']	0.114574890496
+['same toy', '7 dollar']	['4 hour']	0.390490368434
+['same toy', '7 dollar']	['8 dollar']	0.747901896166
+['same toy', '7 dollar']	['produce']	0.079730351659
+['same toy', '7 dollar']	['8 dollar each.produce']	0.365426502964
+['same toy', '7 dollar']	['hour']	0.0132263547461
+['same toy', '7 dollar']	['5800 hour']	0.0901100077042
+['same toy', '7 dollar']	['12,600 dollar']	0.584269096576
+['same toy', '7 dollar']	['production']	0.229348801121
+['same toy', '7 dollar']	['week']	0.0157405773894
+['model b', '7 dollar']	['manufacturer']	0.0774561735493
+['model b', '7 dollar']	['two model']	0.362256416006
+['model b', '7 dollar']	['same toy']	0.0827346205535
+['model b', '7 dollar']	['4 hour']	0.362256416006
+['model b', '7 dollar']	['8 dollar']	0.747901896166
+['model b', '7 dollar']	['produce']	0.0741073489195
+['model b', '7 dollar']	['8 dollar each.produce']	0.335677399021
+['model b', '7 dollar']	['hour']	0.0143499502517
+['model b', '7 dollar']	['5800 hour']	0.0901100077042
+['model b', '7 dollar']	['12,600 dollar']	0.584269096576
+['model b', '7 dollar']	['production']	0.0744376594044
+['model b', '7 dollar']	['week']	0.016864172895
+['4 hour', '7 dollar']	['manufacturer']	0.0774561735493
+['4 hour', '7 dollar']	['two model']	0.40110561294
+['4 hour', '7 dollar']	['same toy']	0.0827346205535
+['4 hour', '7 dollar']	['model b']	0.0827346205535
+['4 hour', '7 dollar']	['8 dollar']	0.845411192754
+['4 hour', '7 dollar']	['produce']	0.0774561735493
+['4 hour', '7 dollar']	['8 dollar each.produce']	0.392633798017
+['4 hour', '7 dollar']	['hour']	0.386348573276
+['4 hour', '7 dollar']	['5800 hour']	0.584269096576
+['4 hour', '7 dollar']	['12,600 dollar']	0.584269096576
+['4 hour', '7 dollar']	['production']	0.170171263305
+['4 hour', '7 dollar']	['week']	0.0941573875439
+['8 dollar', '7 dollar']	['manufacturer']	0.343720460701
+['8 dollar', '7 dollar']	['two model']	0.666513488124
+['8 dollar', '7 dollar']	['same toy']	0.144528281371
+['8 dollar', '7 dollar']	['model b']	0.144528281371
+['8 dollar', '7 dollar']	['4 hour']	0.666513488124
+['8 dollar', '7 dollar']	['produce']	0.327802190328
+['8 dollar', '7 dollar']	['8 dollar each.produce']	0.541051678388
+['8 dollar', '7 dollar']	['hour']	0.225362410309
+['8 dollar', '7 dollar']	['5800 hour']	0.127137811052
+['8 dollar', '7 dollar']	['12,600 dollar']	0.619879171367
+['8 dollar', '7 dollar']	['production']	0.363581185188
+['8 dollar', '7 dollar']	['week']	0.181209184502
+['produce', '7 dollar']	['manufacturer']	0.746794143912
+['produce', '7 dollar']	['two model']	0.291118889704
+['produce', '7 dollar']	['same toy']	0.0696933362217
+['produce', '7 dollar']	['model b']	0.0669904799604
+['produce', '7 dollar']	['4 hour']	0.291118889704
+['produce', '7 dollar']	['8 dollar']	0.72021221181
+['produce', '7 dollar']	['8 dollar each.produce']	0.273189578515
+['produce', '7 dollar']	['hour']	0.127424076064
+['produce', '7 dollar']	['5800 hour']	0.0737139440912
+['produce', '7 dollar']	['12,600 dollar']	0.522652815483
+['produce', '7 dollar']	['production']	0.165863289212
+['produce', '7 dollar']	['week']	0.279959263669
+['8 dollar each.produce', '7 dollar']	['manufacturer']	0.148807562081
+['8 dollar each.produce', '7 dollar']	['two model']	0.471861986408
+['8 dollar each.produce', '7 dollar']	['same toy']	0.152238479479
+['8 dollar each.produce', '7 dollar']	['model b']	0.152238479479
+['8 dollar each.produce', '7 dollar']	['4 hour']	0.471861986408
+['8 dollar each.produce', '7 dollar']	['8 dollar']	0.785726658851
+['8 dollar each.produce', '7 dollar']	['produce']	0.148807562081
+['8 dollar each.produce', '7 dollar']	['hour']	0.012852508684
+['8 dollar each.produce', '7 dollar']	['5800 hour']	0.15961386663
+['8 dollar each.produce', '7 dollar']	['12,600 dollar']	0.653642048458
+['8 dollar each.produce', '7 dollar']	['production']	0.14729034296
+['8 dollar each.produce', '7 dollar']	['week']	0.0170695436261
+['hour', '7 dollar']	['manufacturer']	0.237398899265
+['hour', '7 dollar']	['two model']	0.245368980249
+['hour', '7 dollar']	['same toy']	0.0361569291624
+['hour', '7 dollar']	['model b']	0.0368701550083
+['hour', '7 dollar']	['4 hour']	0.593783645992
+['hour', '7 dollar']	['8 dollar']	0.438466706253
+['hour', '7 dollar']	['produce']	0.125237763721
+['hour', '7 dollar']	['8 dollar each.produce']	0.191206146719
+['hour', '7 dollar']	['5800 hour']	0.451705926709
+['hour', '7 dollar']	['12,600 dollar']	0.160671266721
+['hour', '7 dollar']	['production']	0.213812197206
+['hour', '7 dollar']	['week']	0.425850285578
+['5800 hour', '7 dollar']	['manufacturer']	0.0774561735493
+['5800 hour', '7 dollar']	['two model']	0.362256416006
+['5800 hour', '7 dollar']	['same toy']	0.0827346205535
+['5800 hour', '7 dollar']	['model b']	0.0827346205535
+['5800 hour', '7 dollar']	['4 hour']	0.754360422532
+['5800 hour', '7 dollar']	['8 dollar']	0.747901896166
+['5800 hour', '7 dollar']	['produce']	0.0774561735493
+['5800 hour', '7 dollar']	['8 dollar each.produce']	0.335677399021
+['5800 hour', '7 dollar']	['hour']	0.486335680883
+['5800 hour', '7 dollar']	['12,600 dollar']	0.584269096576
+['5800 hour', '7 dollar']	['production']	0.170171263305
+['5800 hour', '7 dollar']	['week']	0.0941573875439
+['12,600 dollar', '7 dollar']	['manufacturer']	0.352570693243
+['12,600 dollar', '7 dollar']	['two model']	0.59564157713
+['12,600 dollar', '7 dollar']	['same toy']	0.14589133531
+['12,600 dollar', '7 dollar']	['model b']	0.153587928078
+['12,600 dollar', '7 dollar']	['4 hour']	0.59564157713
+['12,600 dollar', '7 dollar']	['8 dollar']	0.837054663803
+['12,600 dollar', '7 dollar']	['produce']	0.33665242287
+['12,600 dollar', '7 dollar']	['8 dollar each.produce']	0.660428054476
+['12,600 dollar', '7 dollar']	['hour']	0.219462895472
+['12,600 dollar', '7 dollar']	['5800 hour']	0.139258682248
+['12,600 dollar', '7 dollar']	['production']	0.37370815508
+['12,600 dollar', '7 dollar']	['week']	0.173050136425
+['production', '7 dollar']	['manufacturer']	0.201768547945
+['production', '7 dollar']	['two model']	0.423364656264
+['production', '7 dollar']	['same toy']	0.210126296403
+['production', '7 dollar']	['model b']	0.0800317642921
+['production', '7 dollar']	['4 hour']	0.431974313041
+['production', '7 dollar']	['8 dollar']	0.81311676853
+['production', '7 dollar']	['produce']	0.201768547945
+['production', '7 dollar']	['8 dollar each.produce']	0.33845188701
+['production', '7 dollar']	['hour']	0.172742085802
+['production', '7 dollar']	['5800 hour']	0.124206600218
+['production', '7 dollar']	['12,600 dollar']	0.520866309821
+['production', '7 dollar']	['week']	0.11018867081
+['week', '7 dollar']	['manufacturer']	0.159758929148
+['week', '7 dollar']	['two model']	0.333420389254
+['week', '7 dollar']	['same toy']	0.0450566866416
+['week', '7 dollar']	['model b']	0.0450566866416
+['week', '7 dollar']	['4 hour']	0.328113899344
+['week', '7 dollar']	['8 dollar']	0.442917177691
+['week', '7 dollar']	['produce']	0.231301690304
+['week', '7 dollar']	['8 dollar each.produce']	0.2741110826
+['week', '7 dollar']	['hour']	0.420980155708
+['week', '7 dollar']	['5800 hour']	0.18250857426
+['week', '7 dollar']	['12,600 dollar']	0.210464140721
+['week', '7 dollar']	['production']	0.132705907282
+['manufacturer', 'hour']	['two model']	0.113876386859
+['manufacturer', 'hour']	['same toy']	0.0982347768443
+['manufacturer', 'hour']	['model b']	0.0989480026901
+['manufacturer', 'hour']	['4 hour']	0.429565728125
+['manufacturer', 'hour']	['8 dollar']	0.104937417029
+['manufacturer', 'hour']	['produce']	0.348440640287
+['manufacturer', 'hour']	['8 dollar each.produce']	0.10794995207
+['manufacturer', 'hour']	['7 dollar']	0.0989480026901
+['manufacturer', 'hour']	['5800 hour']	0.457366745422
+['manufacturer', 'hour']	['12,600 dollar']	0.0989480026901
+['manufacturer', 'hour']	['production']	0.165882835233
+['manufacturer', 'hour']	['week']	0.386474615866
+['two model', 'hour']	['manufacturer']	0.451795805637
+['two model', 'hour']	['same toy']	0.0361569291624
+['two model', 'hour']	['model b']	0.0368701550083
+['two model', 'hour']	['4 hour']	0.593783645992
+['two model', 'hour']	['8 dollar']	0.332426024275
+['two model', 'hour']	['produce']	0.267010681514
+['two model', 'hour']	['8 dollar each.produce']	0.191206146719
+['two model', 'hour']	['7 dollar']	0.315033653242
+['two model', 'hour']	['5800 hour']	0.451705926709
+['two model', 'hour']	['12,600 dollar']	0.0368028975308
+['two model', 'hour']	['production']	0.357983472953
+['two model', 'hour']	['week']	0.391788319105
+['same toy', 'hour']	['manufacturer']	0.302942347219
+['same toy', 'hour']	['two model']	0.0361569291624
+['same toy', 'hour']	['model b']	0.0662053178502
+['same toy', 'hour']	['4 hour']	0.429565728125
+['same toy', 'hour']	['8 dollar']	0.0427923118694
+['same toy', 'hour']	['produce']	0.128004820464
+['same toy', 'hour']	['8 dollar each.produce']	0.0410777933861
+['same toy', 'hour']	['7 dollar']	0.0368028975308
+['same toy', 'hour']	['5800 hour']	0.451705926709
+['same toy', 'hour']	['12,600 dollar']	0.0368028975308
+['same toy', 'hour']	['production']	0.357983472953
+['same toy', 'hour']	['week']	0.393819402227
+['model b', 'hour']	['manufacturer']	0.302942347219
+['model b', 'hour']	['two model']	0.0361569291624
+['model b', 'hour']	['same toy']	0.0361569291624
+['model b', 'hour']	['4 hour']	0.429565728125
+['model b', 'hour']	['8 dollar']	0.0427923118694
+['model b', 'hour']	['produce']	0.152577748471
+['model b', 'hour']	['8 dollar each.produce']	0.0458721043879
+['model b', 'hour']	['7 dollar']	0.0368028975308
+['model b', 'hour']	['5800 hour']	0.451705926709
+['model b', 'hour']	['12,600 dollar']	0.0368028975308
+['model b', 'hour']	['production']	0.213812197206
+['model b', 'hour']	['week']	0.425850285578
+['4 hour', 'hour']	['manufacturer']	0.406338837076
+['4 hour', 'hour']	['two model']	0.43836430017
+['4 hour', 'hour']	['same toy']	0.0968024870635
+['4 hour', 'hour']	['model b']	0.177516058856
+['4 hour', 'hour']	['8 dollar']	0.566479418986
+['4 hour', 'hour']	['produce']	0.317655153087
+['4 hour', 'hour']	['8 dollar each.produce']	0.515668517989
+['4 hour', 'hour']	['7 dollar']	0.556009941538
+['4 hour', 'hour']	['5800 hour']	0.627178678305
+['4 hour', 'hour']	['12,600 dollar']	0.177448801378
+['4 hour', 'hour']	['production']	0.468546907986
+['4 hour', 'hour']	['week']	0.73044834117
+['8 dollar', 'hour']	['manufacturer']	0.299476746947
+['8 dollar', 'hour']	['two model']	0.271294906174
+['8 dollar', 'hour']	['same toy']	0.0982347768443
+['8 dollar', 'hour']	['model b']	0.0989480026901
+['8 dollar', 'hour']	['4 hour']	0.593783645992
+['8 dollar', 'hour']	['produce']	0.187315611403
+['8 dollar', 'hour']	['8 dollar each.produce']	0.393060102441
+['8 dollar', 'hour']	['7 dollar']	0.464262206931
+['8 dollar', 'hour']	['5800 hour']	0.451705926709
+['8 dollar', 'hour']	['12,600 dollar']	0.160671266721
+['8 dollar', 'hour']	['production']	0.275890044888
+['8 dollar', 'hour']	['week']	0.459183618911
+['produce', 'hour']	['manufacturer']	0.245272756314
+['produce', 'hour']	['two model']	0.0982347768443
+['produce', 'hour']	['same toy']	0.0982347768443
+['produce', 'hour']	['model b']	0.0989480026901
+['produce', 'hour']	['4 hour']	0.429565728125
+['produce', 'hour']	['8 dollar']	0.104870159551
+['produce', 'hour']	['8 dollar each.produce']	0.10794995207
+['produce', 'hour']	['7 dollar']	0.0988807452127
+['produce', 'hour']	['5800 hour']	0.451705926709
+['produce', 'hour']	['12,600 dollar']	0.0988807452127
+['produce', 'hour']	['production']	0.165882835233
+['produce', 'hour']	['week']	0.168044462018
+['8 dollar each.produce', 'hour']	['manufacturer']	0.238799826194
+['8 dollar each.produce', 'hour']	['two model']	0.195473251186
+['8 dollar each.produce', 'hour']	['same toy']	0.0351005911342
+['8 dollar each.produce', 'hour']	['model b']	0.0368701550083
+['8 dollar each.produce', 'hour']	['4 hour']	0.550617744729
+['8 dollar each.produce', 'hour']	['8 dollar']	0.419270397576
+['8 dollar each.produce', 'hour']	['produce']	0.12543333092
+['8 dollar each.produce', 'hour']	['7 dollar']	0.262668788377
+['8 dollar each.produce', 'hour']	['5800 hour']	0.447268604772
+['8 dollar each.produce', 'hour']	['12,600 dollar']	0.0357465595026
+['8 dollar each.produce', 'hour']	['production']	0.186241597819
+['8 dollar each.produce', 'hour']	['week']	0.392763064199
+['7 dollar', 'hour']	['manufacturer']	0.237398899265
+['7 dollar', 'hour']	['two model']	0.245368980249
+['7 dollar', 'hour']	['same toy']	0.0361569291624
+['7 dollar', 'hour']	['model b']	0.0368701550083
+['7 dollar', 'hour']	['4 hour']	0.593783645992
+['7 dollar', 'hour']	['8 dollar']	0.438466706253
+['7 dollar', 'hour']	['produce']	0.125237763721
+['7 dollar', 'hour']	['8 dollar each.produce']	0.191206146719
+['7 dollar', 'hour']	['5800 hour']	0.451705926709
+['7 dollar', 'hour']	['12,600 dollar']	0.160671266721
+['7 dollar', 'hour']	['production']	0.213812197206
+['7 dollar', 'hour']	['week']	0.425850285578
+['5800 hour', 'hour']	['manufacturer']	0.406338837076
+['5800 hour', 'hour']	['two model']	0.183197852817
+['5800 hour', 'hour']	['same toy']	0.0968024870635
+['5800 hour', 'hour']	['model b']	0.177448801378
+['5800 hour', 'hour']	['4 hour']	0.673874606315
+['5800 hour', 'hour']	['8 dollar']	0.162036700565
+['5800 hour', 'hour']	['produce']	0.317655153087
+['5800 hour', 'hour']	['8 dollar each.produce']	0.314053542434
+['5800 hour', 'hour']	['7 dollar']	0.177448801378
+['5800 hour', 'hour']	['12,600 dollar']	0.177448801378
+['5800 hour', 'hour']	['production']	0.468546907986
+['5800 hour', 'hour']	['week']	0.73044834117
+['12,600 dollar', 'hour']	['manufacturer']	0.237398899265
+['12,600 dollar', 'hour']	['two model']	0.0361569291624
+['12,600 dollar', 'hour']	['same toy']	0.0361569291624
+['12,600 dollar', 'hour']	['model b']	0.0368028975308
+['12,600 dollar', 'hour']	['4 hour']	0.429565728125
+['12,600 dollar', 'hour']	['8 dollar']	0.179900479002
+['12,600 dollar', 'hour']	['produce']	0.125237763721
+['12,600 dollar', 'hour']	['8 dollar each.produce']	0.0458721043879
+['12,600 dollar', 'hour']	['7 dollar']	0.160671266721
+['12,600 dollar', 'hour']	['5800 hour']	0.451705926709
+['12,600 dollar', 'hour']	['production']	0.213812197206
+['12,600 dollar', 'hour']	['week']	0.425850285578
+['production', 'hour']	['manufacturer']	0.109379492073
+['production', 'hour']	['two model']	0.0902216790505
+['production', 'hour']	['same toy']	0.0902216790505
+['production', 'hour']	['model b']	0.0368701550083
+['production', 'hour']	['4 hour']	0.56706988706
+['production', 'hour']	['8 dollar']	0.0428595693468
+['production', 'hour']	['produce']	0.111172421365
+['production', 'hour']	['8 dollar each.produce']	0.0458721043879
+['production', 'hour']	['7 dollar']	0.0368701550083
+['production', 'hour']	['5800 hour']	0.590006960782
+['production', 'hour']	['12,600 dollar']	0.0368701550083
+['production', 'hour']	['week']	0.295385515164
+['week', 'hour']	['manufacturer']	0.114704455021
+['week', 'hour']	['two model']	0.0160076877108
+['week', 'hour']	['same toy']	0.0160076877108
+['week', 'hour']	['model b']	0.0160749451882
+['week', 'hour']	['4 hour']	0.563682168228
+['week', 'hour']	['8 dollar']	0.0180961055585
+['week', 'hour']	['produce']	0.143443235675
+['week', 'hour']	['8 dollar each.produce']	0.02936840314
+['week', 'hour']	['7 dollar']	0.0160749451882
+['week', 'hour']	['5800 hour']	0.565063164694
+['week', 'hour']	['12,600 dollar']	0.0160749451882
+['week', 'hour']	['production']	0.159225729695
+['manufacturer', '5800 hour']	['two model']	0.0939298741501
+['manufacturer', '5800 hour']	['same toy']	0.0696933362217
+['manufacturer', '5800 hour']	['model b']	0.0696933362217
+['manufacturer', '5800 hour']	['4 hour']	0.494524508322
+['manufacturer', '5800 hour']	['8 dollar']	0.0746958245975
+['manufacturer', '5800 hour']	['produce']	0.735171000031
+['manufacturer', '5800 hour']	['8 dollar each.produce']	0.0807707659053
+['manufacturer', '5800 hour']	['7 dollar']	0.0696933362217
+['manufacturer', '5800 hour']	['hour']	0.682257624848
+['manufacturer', '5800 hour']	['12,600 dollar']	0.0696933362217
+['manufacturer', '5800 hour']	['production']	0.208785758549
+['manufacturer', '5800 hour']	['week']	0.197032083415
+['two model', '5800 hour']	['manufacturer']	0.0966764293888
+['two model', '5800 hour']	['same toy']	0.0827346205535
+['two model', '5800 hour']	['model b']	0.0827346205535
+['two model', '5800 hour']	['4 hour']	0.754360422532
+['two model', '5800 hour']	['8 dollar']	0.329189193165
+['two model', '5800 hour']	['produce']	0.152749460938
+['two model', '5800 hour']	['8 dollar each.produce']	0.335677399021
+['two model', '5800 hour']	['7 dollar']	0.362256416006
+['two model', '5800 hour']	['hour']	0.370838901022
+['two model', '5800 hour']	['12,600 dollar']	0.0901100077042
+['two model', '5800 hour']	['production']	0.133930953416
+['two model', '5800 hour']	['week']	0.100122716522
+['same toy', '5800 hour']	['manufacturer']	0.0774561735493
+['same toy', '5800 hour']	['two model']	0.0827346205535
+['same toy', '5800 hour']	['model b']	0.114574890496
+['same toy', '5800 hour']	['4 hour']	0.573408386835
+['same toy', '5800 hour']	['8 dollar']	0.0824069519204
+['same toy', '5800 hour']	['produce']	0.0774561735493
+['same toy', '5800 hour']	['8 dollar each.produce']	0.0908034291173
+['same toy', '5800 hour']	['7 dollar']	0.0827346205535
+['same toy', '5800 hour']	['hour']	0.323440682327
+['same toy', '5800 hour']	['12,600 dollar']	0.0901100077042
+['same toy', '5800 hour']	['production']	0.133930953416
+['same toy', '5800 hour']	['week']	0.106789383188
+['model b', '5800 hour']	['manufacturer']	0.0774561735493
+['model b', '5800 hour']	['two model']	0.0901100077042
+['model b', '5800 hour']	['same toy']	0.0901100077042
+['model b', '5800 hour']	['4 hour']	0.584269096576
+['model b', '5800 hour']	['8 dollar']	0.0897823390711
+['model b', '5800 hour']	['produce']	0.0741073489195
+['model b', '5800 hour']	['8 dollar each.produce']	0.0941266761548
+['model b', '5800 hour']	['7 dollar']	0.0901100077042
+['model b', '5800 hour']	['hour']	0.486335680883
+['model b', '5800 hour']	['12,600 dollar']	0.0901100077042
+['model b', '5800 hour']	['production']	0.170171263305
+['model b', '5800 hour']	['week']	0.0941573875439
+['4 hour', '5800 hour']	['manufacturer']	0.353457331236
+['4 hour', '5800 hour']	['two model']	0.59564157713
+['4 hour', '5800 hour']	['same toy']	0.14589133531
+['4 hour', '5800 hour']	['model b']	0.153587928078
+['4 hour', '5800 hour']	['8 dollar']	0.593218781619
+['4 hour', '5800 hour']	['produce']	0.345269105941
+['4 hour', '5800 hour']	['8 dollar each.produce']	0.660428054476
+['4 hour', '5800 hour']	['7 dollar']	0.59564157713
+['4 hour', '5800 hour']	['hour']	0.680085498922
+['4 hour', '5800 hour']	['12,600 dollar']	0.139258682248
+['4 hour', '5800 hour']	['production']	0.444828773282
+['4 hour', '5800 hour']	['week']	0.278909315715
+['8 dollar', '5800 hour']	['manufacturer']	0.0650959234194
+['8 dollar', '5800 hour']	['two model']	0.274556493975
+['8 dollar', '5800 hour']	['same toy']	0.0696933362217
+['8 dollar', '5800 hour']	['model b']	0.0696933362217
+['8 dollar', '5800 hour']	['4 hour']	0.73028733598
+['8 dollar', '5800 hour']	['produce']	0.0650959234194
+['8 dollar', '5800 hour']	['8 dollar each.produce']	0.456253030721
+['8 dollar', '5800 hour']	['7 dollar']	0.73028733598
+['8 dollar', '5800 hour']	['hour']	0.42624609967
+['8 dollar', '5800 hour']	['12,600 dollar']	0.544221442934
+['8 dollar', '5800 hour']	['production']	0.107356378194
+['8 dollar', '5800 hour']	['week']	0.0788194249491
+['produce', '5800 hour']	['manufacturer']	0.735171000031
+['produce', '5800 hour']	['two model']	0.0737139440912
+['produce', '5800 hour']	['same toy']	0.0737139440912
+['produce', '5800 hour']	['model b']	0.0703393045902
+['produce', '5800 hour']	['4 hour']	0.522652815483
+['produce', '5800 hour']	['8 dollar']	0.0799362650964
+['produce', '5800 hour']	['8 dollar each.produce']	0.0807707659053
+['produce', '5800 hour']	['7 dollar']	0.0737139440912
+['produce', '5800 hour']	['hour']	0.677425033929
+['produce', '5800 hour']	['12,600 dollar']	0.0737139440912
+['produce', '5800 hour']	['production']	0.208785758549
+['produce', '5800 hour']	['week']	0.390205367641
+['8 dollar each.produce', '5800 hour']	['manufacturer']	0.146533383972
+['8 dollar each.produce', '5800 hour']	['two model']	0.453327242541
+['8 dollar each.produce', '5800 hour']	['same toy']	0.152238479479
+['8 dollar each.produce', '5800 hour']	['model b']	0.152238479479
+['8 dollar each.produce', '5800 hour']	['4 hour']	0.810888071258
+['8 dollar each.produce', '5800 hour']	['8 dollar']	0.486385005071
+['8 dollar each.produce', '5800 hour']	['produce']	0.146533383972
+['8 dollar each.produce', '5800 hour']	['7 dollar']	0.453327242541
+['8 dollar each.produce', '5800 hour']	['hour']	0.411888333787
+['8 dollar each.produce', '5800 hour']	['12,600 dollar']	0.15961386663
+['8 dollar each.produce', '5800 hour']	['production']	0.211529795267
+['8 dollar each.produce', '5800 hour']	['week']	0.131575139548
+['7 dollar', '5800 hour']	['manufacturer']	0.0774561735493
+['7 dollar', '5800 hour']	['two model']	0.362256416006
+['7 dollar', '5800 hour']	['same toy']	0.0827346205535
+['7 dollar', '5800 hour']	['model b']	0.0827346205535
+['7 dollar', '5800 hour']	['4 hour']	0.754360422532
+['7 dollar', '5800 hour']	['8 dollar']	0.747901896166
+['7 dollar', '5800 hour']	['produce']	0.0774561735493
+['7 dollar', '5800 hour']	['8 dollar each.produce']	0.335677399021
+['7 dollar', '5800 hour']	['hour']	0.486335680883
+['7 dollar', '5800 hour']	['12,600 dollar']	0.584269096576
+['7 dollar', '5800 hour']	['production']	0.170171263305
+['7 dollar', '5800 hour']	['week']	0.0941573875439
+['hour', '5800 hour']	['manufacturer']	0.406338837076
+['hour', '5800 hour']	['two model']	0.183197852817
+['hour', '5800 hour']	['same toy']	0.0968024870635
+['hour', '5800 hour']	['model b']	0.177448801378
+['hour', '5800 hour']	['4 hour']	0.673874606315
+['hour', '5800 hour']	['8 dollar']	0.162036700565
+['hour', '5800 hour']	['produce']	0.317655153087
+['hour', '5800 hour']	['8 dollar each.produce']	0.314053542434
+['hour', '5800 hour']	['7 dollar']	0.177448801378
+['hour', '5800 hour']	['12,600 dollar']	0.177448801378
+['hour', '5800 hour']	['production']	0.468546907986
+['hour', '5800 hour']	['week']	0.73044834117
+['12,600 dollar', '5800 hour']	['manufacturer']	0.0774561735493
+['12,600 dollar', '5800 hour']	['two model']	0.0901100077042
+['12,600 dollar', '5800 hour']	['same toy']	0.0901100077042
+['12,600 dollar', '5800 hour']	['model b']	0.0901100077042
+['12,600 dollar', '5800 hour']	['4 hour']	0.584269096576
+['12,600 dollar', '5800 hour']	['8 dollar']	0.577101062223
+['12,600 dollar', '5800 hour']	['produce']	0.0774561735493
+['12,600 dollar', '5800 hour']	['8 dollar each.produce']	0.0941266761548
+['12,600 dollar', '5800 hour']	['7 dollar']	0.584269096576
+['12,600 dollar', '5800 hour']	['hour']	0.486335680883
+['12,600 dollar', '5800 hour']	['production']	0.170171263305
+['12,600 dollar', '5800 hour']	['week']	0.0941573875439
+['production', '5800 hour']	['manufacturer']	0.201768547945
+['production', '5800 hour']	['two model']	0.199270042535
+['production', '5800 hour']	['same toy']	0.199270042535
+['production', '5800 hour']	['model b']	0.0833805889219
+['production', '5800 hour']	['4 hour']	0.550830586356
+['production', '5800 hour']	['8 dollar']	0.0830529202888
+['production', '5800 hour']	['produce']	0.201768547945
+['production', '5800 hour']	['8 dollar each.produce']	0.0920786332799
+['production', '5800 hour']	['7 dollar']	0.0833805889219
+['production', '5800 hour']	['hour']	0.688883373626
+['production', '5800 hour']	['12,600 dollar']	0.0833805889219
+['production', '5800 hour']	['week']	0.212266950293
+['week', '5800 hour']	['manufacturer']	0.159758929148
+['week', '5800 hour']	['two model']	0.0450566866416
+['week', '5800 hour']	['same toy']	0.0450566866416
+['week', '5800 hour']	['model b']	0.0450566866416
+['week', '5800 hour']	['4 hour']	0.279783847447
+['week', '5800 hour']	['8 dollar']	0.0484394795837
+['week', '5800 hour']	['produce']	0.231301690304
+['week', '5800 hour']	['8 dollar each.produce']	0.0522447941162
+['week', '5800 hour']	['7 dollar']	0.0450566866416
+['week', '5800 hour']	['hour']	0.758264647545
+['week', '5800 hour']	['12,600 dollar']	0.0450566866416
+['week', '5800 hour']	['production']	0.227286647951
+['manufacturer', '12,600 dollar']	['two model']	0.0939298741501
+['manufacturer', '12,600 dollar']	['same toy']	0.0696933362217
+['manufacturer', '12,600 dollar']	['model b']	0.0696933362217
+['manufacturer', '12,600 dollar']	['4 hour']	0.0696933362217
+['manufacturer', '12,600 dollar']	['8 dollar']	0.492513883204
+['manufacturer', '12,600 dollar']	['produce']	0.746794143912
+['manufacturer', '12,600 dollar']	['8 dollar each.produce']	0.0807707659053
+['manufacturer', '12,600 dollar']	['7 dollar']	0.494524508322
+['manufacturer', '12,600 dollar']	['hour']	0.252060707645
+['manufacturer', '12,600 dollar']	['5800 hour']	0.0696933362217
+['manufacturer', '12,600 dollar']	['production']	0.165863289212
+['manufacturer', '12,600 dollar']	['week']	0.100640180485
+['two model', '12,600 dollar']	['manufacturer']	0.0966764293888
+['two model', '12,600 dollar']	['same toy']	0.0827346205535
+['two model', '12,600 dollar']	['model b']	0.0827346205535
+['two model', '12,600 dollar']	['4 hour']	0.362256416006
+['two model', '12,600 dollar']	['8 dollar']	0.747901896166
+['two model', '12,600 dollar']	['produce']	0.138944747134
+['two model', '12,600 dollar']	['8 dollar each.produce']	0.335677399021
+['two model', '12,600 dollar']	['7 dollar']	0.754360422532
+['two model', '12,600 dollar']	['hour']	0.0143499502517
+['two model', '12,600 dollar']	['5800 hour']	0.0901100077042
+['two model', '12,600 dollar']	['production']	0.229348801121
+['two model', '12,600 dollar']	['week']	0.016864172895
+['same toy', '12,600 dollar']	['manufacturer']	0.0774561735493
+['same toy', '12,600 dollar']	['two model']	0.0827346205535
+['same toy', '12,600 dollar']	['model b']	0.114574890496
+['same toy', '12,600 dollar']	['4 hour']	0.0827346205535
+['same toy', '12,600 dollar']	['8 dollar']	0.566188865804
+['same toy', '12,600 dollar']	['produce']	0.079730351659
+['same toy', '12,600 dollar']	['8 dollar each.produce']	0.0908034291173
+['same toy', '12,600 dollar']	['7 dollar']	0.573408386835
+['same toy', '12,600 dollar']	['hour']	0.0132263547461
+['same toy', '12,600 dollar']	['5800 hour']	0.0901100077042
+['same toy', '12,600 dollar']	['production']	0.229348801121
+['same toy', '12,600 dollar']	['week']	0.0157405773894
+['model b', '12,600 dollar']	['manufacturer']	0.0774561735493
+['model b', '12,600 dollar']	['two model']	0.0901100077042
+['model b', '12,600 dollar']	['same toy']	0.0901100077042
+['model b', '12,600 dollar']	['4 hour']	0.0901100077042
+['model b', '12,600 dollar']	['8 dollar']	0.577101062223
+['model b', '12,600 dollar']	['produce']	0.0741073489195
+['model b', '12,600 dollar']	['8 dollar each.produce']	0.0941266761548
+['model b', '12,600 dollar']	['7 dollar']	0.584269096576
+['model b', '12,600 dollar']	['hour']	0.0143499502517
+['model b', '12,600 dollar']	['5800 hour']	0.0901100077042
+['model b', '12,600 dollar']	['production']	0.0744376594044
+['model b', '12,600 dollar']	['week']	0.016864172895
+['4 hour', '12,600 dollar']	['manufacturer']	0.0774561735493
+['4 hour', '12,600 dollar']	['two model']	0.362256416006
+['4 hour', '12,600 dollar']	['same toy']	0.0827346205535
+['4 hour', '12,600 dollar']	['model b']	0.0827346205535
+['4 hour', '12,600 dollar']	['8 dollar']	0.747901896166
+['4 hour', '12,600 dollar']	['produce']	0.0774561735493
+['4 hour', '12,600 dollar']	['8 dollar each.produce']	0.335677399021
+['4 hour', '12,600 dollar']	['7 dollar']	0.754360422532
+['4 hour', '12,600 dollar']	['hour']	0.386348573276
+['4 hour', '12,600 dollar']	['5800 hour']	0.584269096576
+['4 hour', '12,600 dollar']	['production']	0.170171263305
+['4 hour', '12,600 dollar']	['week']	0.0941573875439
+['8 dollar', '12,600 dollar']	['manufacturer']	0.343720460701
+['8 dollar', '12,600 dollar']	['two model']	0.544707256497
+['8 dollar', '12,600 dollar']	['same toy']	0.136831688603
+['8 dollar', '12,600 dollar']	['model b']	0.144528281371
+['8 dollar', '12,600 dollar']	['4 hour']	0.544707256497
+['8 dollar', '12,600 dollar']	['produce']	0.327802190328
+['8 dollar', '12,600 dollar']	['8 dollar each.produce']	0.540800530199
+['8 dollar', '12,600 dollar']	['7 dollar']	0.868355241542
+['8 dollar', '12,600 dollar']	['hour']	0.225362410309
+['8 dollar', '12,600 dollar']	['5800 hour']	0.127137811052
+['8 dollar', '12,600 dollar']	['production']	0.363581185188
+['8 dollar', '12,600 dollar']	['week']	0.181209184502
+['produce', '12,600 dollar']	['manufacturer']	0.746794143912
+['produce', '12,600 dollar']	['two model']	0.0737139440912
+['produce', '12,600 dollar']	['same toy']	0.0737139440912
+['produce', '12,600 dollar']	['model b']	0.0703393045902
+['produce', '12,600 dollar']	['4 hour']	0.0737139440912
+['produce', '12,600 dollar']	['8 dollar']	0.540909642042
+['produce', '12,600 dollar']	['8 dollar each.produce']	0.0807707659053
+['produce', '12,600 dollar']	['7 dollar']	0.522652815483
+['produce', '12,600 dollar']	['hour']	0.127424076064
+['produce', '12,600 dollar']	['5800 hour']	0.0737139440912
+['produce', '12,600 dollar']	['production']	0.165863289212
+['produce', '12,600 dollar']	['week']	0.279959263669
+['8 dollar each.produce', '12,600 dollar']	['manufacturer']	0.148807562081
+['8 dollar each.produce', '12,600 dollar']	['two model']	0.453327242541
+['8 dollar each.produce', '12,600 dollar']	['same toy']	0.152238479479
+['8 dollar each.produce', '12,600 dollar']	['model b']	0.152238479479
+['8 dollar each.produce', '12,600 dollar']	['4 hour']	0.453327242541
+['8 dollar each.produce', '12,600 dollar']	['8 dollar']	0.703003906023
+['8 dollar each.produce', '12,600 dollar']	['produce']	0.148807562081
+['8 dollar each.produce', '12,600 dollar']	['7 dollar']	0.810888071258
+['8 dollar each.produce', '12,600 dollar']	['hour']	0.012852508684
+['8 dollar each.produce', '12,600 dollar']	['5800 hour']	0.15961386663
+['8 dollar each.produce', '12,600 dollar']	['production']	0.14729034296
+['8 dollar each.produce', '12,600 dollar']	['week']	0.0170695436261
+['7 dollar', '12,600 dollar']	['manufacturer']	0.352570693243
+['7 dollar', '12,600 dollar']	['two model']	0.59564157713
+['7 dollar', '12,600 dollar']	['same toy']	0.14589133531
+['7 dollar', '12,600 dollar']	['model b']	0.153587928078
+['7 dollar', '12,600 dollar']	['4 hour']	0.59564157713
+['7 dollar', '12,600 dollar']	['8 dollar']	0.837054663803
+['7 dollar', '12,600 dollar']	['produce']	0.33665242287
+['7 dollar', '12,600 dollar']	['8 dollar each.produce']	0.660428054476
+['7 dollar', '12,600 dollar']	['hour']	0.219462895472
+['7 dollar', '12,600 dollar']	['5800 hour']	0.139258682248
+['7 dollar', '12,600 dollar']	['production']	0.37370815508
+['7 dollar', '12,600 dollar']	['week']	0.173050136425
+['hour', '12,600 dollar']	['manufacturer']	0.237398899265
+['hour', '12,600 dollar']	['two model']	0.0361569291624
+['hour', '12,600 dollar']	['same toy']	0.0361569291624
+['hour', '12,600 dollar']	['model b']	0.0368028975308
+['hour', '12,600 dollar']	['4 hour']	0.429565728125
+['hour', '12,600 dollar']	['8 dollar']	0.179900479002
+['hour', '12,600 dollar']	['produce']	0.125237763721
+['hour', '12,600 dollar']	['8 dollar each.produce']	0.0458721043879
+['hour', '12,600 dollar']	['7 dollar']	0.160671266721
+['hour', '12,600 dollar']	['5800 hour']	0.451705926709
+['hour', '12,600 dollar']	['production']	0.213812197206
+['hour', '12,600 dollar']	['week']	0.425850285578
+['5800 hour', '12,600 dollar']	['manufacturer']	0.0774561735493
+['5800 hour', '12,600 dollar']	['two model']	0.0901100077042
+['5800 hour', '12,600 dollar']	['same toy']	0.0901100077042
+['5800 hour', '12,600 dollar']	['model b']	0.0901100077042
+['5800 hour', '12,600 dollar']	['4 hour']	0.584269096576
+['5800 hour', '12,600 dollar']	['8 dollar']	0.577101062223
+['5800 hour', '12,600 dollar']	['produce']	0.0774561735493
+['5800 hour', '12,600 dollar']	['8 dollar each.produce']	0.0941266761548
+['5800 hour', '12,600 dollar']	['7 dollar']	0.584269096576
+['5800 hour', '12,600 dollar']	['hour']	0.486335680883
+['5800 hour', '12,600 dollar']	['production']	0.170171263305
+['5800 hour', '12,600 dollar']	['week']	0.0941573875439
+['production', '12,600 dollar']	['manufacturer']	0.201768547945
+['production', '12,600 dollar']	['two model']	0.199270042535
+['production', '12,600 dollar']	['same toy']	0.199270042535
+['production', '12,600 dollar']	['model b']	0.0833805889219
+['production', '12,600 dollar']	['4 hour']	0.124206600218
+['production', '12,600 dollar']	['8 dollar']	0.51364678879
+['production', '12,600 dollar']	['produce']	0.201768547945
+['production', '12,600 dollar']	['8 dollar each.produce']	0.0920786332799
+['production', '12,600 dollar']	['7 dollar']	0.520866309821
+['production', '12,600 dollar']	['hour']	0.172742085802
+['production', '12,600 dollar']	['5800 hour']	0.124206600218
+['production', '12,600 dollar']	['week']	0.11018867081
+['week', '12,600 dollar']	['manufacturer']	0.159758929148
+['week', '12,600 dollar']	['two model']	0.0450566866416
+['week', '12,600 dollar']	['same toy']	0.0450566866416
+['week', '12,600 dollar']	['model b']	0.0450566866416
+['week', '12,600 dollar']	['4 hour']	0.18250857426
+['week', '12,600 dollar']	['8 dollar']	0.203244619691
+['week', '12,600 dollar']	['produce']	0.231301690304
+['week', '12,600 dollar']	['8 dollar each.produce']	0.0522447941162
+['week', '12,600 dollar']	['7 dollar']	0.210464140721
+['week', '12,600 dollar']	['hour']	0.420980155708
+['week', '12,600 dollar']	['5800 hour']	0.18250857426
+['week', '12,600 dollar']	['production']	0.132705907282
+['manufacturer', 'production']	['two model']	0.150647383891
+['manufacturer', 'production']	['same toy']	0.164802867164
+['manufacturer', 'production']	['model b']	0.0669904799604
+['manufacturer', 'production']	['4 hour']	0.103222748661
+['manufacturer', 'production']	['8 dollar']	0.0719929683361
+['manufacturer', 'production']	['produce']	0.516582987031
+['manufacturer', 'production']	['8 dollar each.produce']	0.0807707659053
+['manufacturer', 'production']	['7 dollar']	0.0669904799604
+['manufacturer', 'production']	['hour']	0.0178141550128
+['manufacturer', 'production']	['5800 hour']	0.103222748661
+['manufacturer', 'production']	['12,600 dollar']	0.0669904799604
+['manufacturer', 'production']	['week']	0.0845186609099
+['two model', 'production']	['manufacturer']	0.248501423095
+['two model', 'production']	['same toy']	0.210126296403
+['two model', 'production']	['model b']	0.0800317642921
+['two model', 'production']	['4 hour']	0.431974313041
+['two model', 'production']	['8 dollar']	0.44972811544
+['two model', 'production']	['produce']	0.298533281498
+['two model', 'production']	['8 dollar each.produce']	0.33845188701
+['two model', 'production']	['7 dollar']	0.426675167742
+['two model', 'production']	['hour']	0.177612215672
+['two model', 'production']	['5800 hour']	0.124206600218
+['two model', 'production']	['12,600 dollar']	0.0833805889219
+['two model', 'production']	['week']	0.0779785561898
+['same toy', 'production']	['manufacturer']	0.21729612781
+['same toy', 'production']	['two model']	0.210126296403
+['same toy', 'production']	['model b']	0.120656712611
+['same toy', 'production']	['4 hour']	0.138180177454
+['same toy', 'production']	['8 dollar']	0.0830529202888
+['same toy', 'production']	['produce']	0.200917798144
+['same toy', 'production']	['8 dollar each.produce']	0.0887553862424
+['same toy', 'production']	['7 dollar']	0.0833805889219
+['same toy', 'production']	['hour']	0.150095017596
+['same toy', 'production']	['5800 hour']	0.124206600218
+['same toy', 'production']	['12,600 dollar']	0.0833805889219
+['same toy', 'production']	['week']	0.0860645585209
+['model b', 'production']	['manufacturer']	0.21729612781
+['model b', 'production']	['two model']	0.199270042535
+['model b', 'production']	['same toy']	0.199270042535
+['model b', 'production']	['4 hour']	0.124206600218
+['model b', 'production']	['8 dollar']	0.0830529202888
+['model b', 'production']	['produce']	0.21729612781
+['model b', 'production']	['8 dollar each.produce']	0.0920786332799
+['model b', 'production']	['7 dollar']	0.0833805889219
+['model b', 'production']	['hour']	0.172742085802
+['model b', 'production']	['5800 hour']	0.124206600218
+['model b', 'production']	['12,600 dollar']	0.0833805889219
+['model b', 'production']	['week']	0.11018867081
+['4 hour', 'production']	['manufacturer']	0.201768547945
+['4 hour', 'production']	['two model']	0.423364656264
+['4 hour', 'production']	['same toy']	0.210126296403
+['4 hour', 'production']	['model b']	0.0800317642921
+['4 hour', 'production']	['8 dollar']	0.44972811544
+['4 hour', 'production']	['produce']	0.201768547945
+['4 hour', 'production']	['8 dollar each.produce']	0.33845188701
+['4 hour', 'production']	['7 dollar']	0.426675167742
+['4 hour', 'production']	['hour']	0.613724874289
+['4 hour', 'production']	['5800 hour']	0.550830586356
+['4 hour', 'production']	['12,600 dollar']	0.0833805889219
+['4 hour', 'production']	['week']	0.212266950293
+['8 dollar', 'production']	['manufacturer']	0.153317037353
+['8 dollar', 'production']	['two model']	0.374932920039
+['8 dollar', 'production']	['same toy']	0.14431437866
+['8 dollar', 'production']	['model b']	0.0669904799604
+['8 dollar', 'production']	['4 hour']	0.383542576817
+['8 dollar', 'production']	['produce']	0.153317037353
+['8 dollar', 'production']	['8 dollar each.produce']	0.430211364054
+['8 dollar', 'production']	['7 dollar']	0.781397872909
+['8 dollar', 'production']	['hour']	0.191725877866
+['8 dollar', 'production']	['5800 hour']	0.103222748661
+['8 dollar', 'production']	['12,600 dollar']	0.465538040018
+['8 dollar', 'production']	['week']	0.140340182946
+['produce', 'production']	['manufacturer']	0.516582987031
+['produce', 'production']	['two model']	0.130048808393
+['produce', 'production']	['same toy']	0.130048808393
+['produce', 'production']	['model b']	0.0669904799604
+['produce', 'production']	['4 hour']	0.103222748661
+['produce', 'production']	['8 dollar']	0.0753417929659
+['produce', 'production']	['8 dollar each.produce']	0.0807707659053
+['produce', 'production']	['7 dollar']	0.0703393045902
+['produce', 'production']	['hour']	0.129649043756
+['produce', 'production']	['5800 hour']	0.103222748661
+['produce', 'production']	['12,600 dollar']	0.0703393045902
+['produce', 'production']	['week']	0.173019921614
+['8 dollar each.produce', 'production']	['manufacturer']	0.170623827043
+['8 dollar each.produce', 'production']	['two model']	0.423364656264
+['8 dollar each.produce', 'production']	['same toy']	0.205303765539
+['8 dollar each.produce', 'production']	['model b']	0.0800317642921
+['8 dollar each.produce', 'production']	['4 hour']	0.431974313041
+['8 dollar each.produce', 'production']	['8 dollar']	0.510653685333
+['8 dollar each.produce', 'production']	['produce']	0.170623827043
+['8 dollar each.produce', 'production']	['7 dollar']	0.426675167742
+['8 dollar each.produce', 'production']	['hour']	0.148283012061
+['8 dollar each.produce', 'production']	['5800 hour']	0.126675736021
+['8 dollar each.produce', 'production']	['12,600 dollar']	0.0833805889219
+['8 dollar each.produce', 'production']	['week']	0.0827374014713
+['7 dollar', 'production']	['manufacturer']	0.201768547945
+['7 dollar', 'production']	['two model']	0.423364656264
+['7 dollar', 'production']	['same toy']	0.210126296403
+['7 dollar', 'production']	['model b']	0.0800317642921
+['7 dollar', 'production']	['4 hour']	0.431974313041
+['7 dollar', 'production']	['8 dollar']	0.81311676853
+['7 dollar', 'production']	['produce']	0.201768547945
+['7 dollar', 'production']	['8 dollar each.produce']	0.33845188701
+['7 dollar', 'production']	['hour']	0.172742085802
+['7 dollar', 'production']	['5800 hour']	0.124206600218
+['7 dollar', 'production']	['12,600 dollar']	0.520866309821
+['7 dollar', 'production']	['week']	0.11018867081
+['hour', 'production']	['manufacturer']	0.109379492073
+['hour', 'production']	['two model']	0.0902216790505
+['hour', 'production']	['same toy']	0.0902216790505
+['hour', 'production']	['model b']	0.0368701550083
+['hour', 'production']	['4 hour']	0.56706988706
+['hour', 'production']	['8 dollar']	0.0428595693468
+['hour', 'production']	['produce']	0.111172421365
+['hour', 'production']	['8 dollar each.produce']	0.0458721043879
+['hour', 'production']	['7 dollar']	0.0368701550083
+['hour', 'production']	['5800 hour']	0.590006960782
+['hour', 'production']	['12,600 dollar']	0.0368701550083
+['hour', 'production']	['week']	0.295385515164
+['5800 hour', 'production']	['manufacturer']	0.201768547945
+['5800 hour', 'production']	['two model']	0.199270042535
+['5800 hour', 'production']	['same toy']	0.199270042535
+['5800 hour', 'production']	['model b']	0.0833805889219
+['5800 hour', 'production']	['4 hour']	0.550830586356
+['5800 hour', 'production']	['8 dollar']	0.0830529202888
+['5800 hour', 'production']	['produce']	0.201768547945
+['5800 hour', 'production']	['8 dollar each.produce']	0.0920786332799
+['5800 hour', 'production']	['7 dollar']	0.0833805889219
+['5800 hour', 'production']	['hour']	0.688883373626
+['5800 hour', 'production']	['12,600 dollar']	0.0833805889219
+['5800 hour', 'production']	['week']	0.212266950293
+['12,600 dollar', 'production']	['manufacturer']	0.201768547945
+['12,600 dollar', 'production']	['two model']	0.199270042535
+['12,600 dollar', 'production']	['same toy']	0.199270042535
+['12,600 dollar', 'production']	['model b']	0.0833805889219
+['12,600 dollar', 'production']	['4 hour']	0.124206600218
+['12,600 dollar', 'production']	['8 dollar']	0.51364678879
+['12,600 dollar', 'production']	['produce']	0.201768547945
+['12,600 dollar', 'production']	['8 dollar each.produce']	0.0920786332799
+['12,600 dollar', 'production']	['7 dollar']	0.520866309821
+['12,600 dollar', 'production']	['hour']	0.172742085802
+['12,600 dollar', 'production']	['5800 hour']	0.124206600218
+['12,600 dollar', 'production']	['week']	0.11018867081
+['week', 'production']	['manufacturer']	0.0719193616718
+['week', 'production']	['two model']	0.135200832038
+['week', 'production']	['same toy']	0.142122270236
+['week', 'production']	['model b']	0.0457699124874
+['week', 'production']	['4 hour']	0.135175729932
+['week', 'production']	['8 dollar']	0.0491527054295
+['week', 'production']	['produce']	0.137797068236
+['week', 'production']	['8 dollar each.produce']	0.0522447941162
+['week', 'production']	['7 dollar']	0.0457699124874
+['week', 'production']	['hour']	0.153457622395
+['week', 'production']	['5800 hour']	0.135175729932
+['week', 'production']	['12,600 dollar']	0.0457699124874
+['manufacturer', 'week']	['two model']	0.0572262385911
+['manufacturer', 'week']	['same toy']	0.0361569291624
+['manufacturer', 'week']	['model b']	0.0362241866398
+['manufacturer', 'week']	['4 hour']	0.10453530028
+['manufacturer', 'week']	['8 dollar']	0.0421463435009
+['manufacturer', 'week']	['produce']	0.18401708738
+['manufacturer', 'week']	['8 dollar each.produce']	0.0458721043879
+['manufacturer', 'week']	['7 dollar']	0.0361569291624
+['manufacturer', 'week']	['hour']	0.157402450826
+['manufacturer', 'week']	['5800 hour']	0.10453530028
+['manufacturer', 'week']	['12,600 dollar']	0.0361569291624
+['manufacturer', 'week']	['production']	0.110225443993
+['two model', 'week']	['manufacturer']	0.217225909293
+['two model', 'week']	['same toy']	0.0450566866416
+['two model', 'week']	['model b']	0.0450566866416
+['two model', 'week']	['4 hour']	0.328113899344
+['two model', 'week']	['8 dollar']	0.347903667484
+['two model', 'week']	['produce']	0.459561640378
+['two model', 'week']	['8 dollar each.produce']	0.2741110826
+['two model', 'week']	['7 dollar']	0.338398736697
+['two model', 'week']	['hour']	0.392516952244
+['two model', 'week']	['5800 hour']	0.18250857426
+['two model', 'week']	['12,600 dollar']	0.0450566866416
+['two model', 'week']	['production']	0.269393338667
+['same toy', 'week']	['manufacturer']	0.17870259112
+['same toy', 'week']	['two model']	0.0450566866416
+['same toy', 'week']	['model b']	0.0830545060742
+['same toy', 'week']	['4 hour']	0.175841907593
+['same toy', 'week']	['8 dollar']	0.0484394795837
+['same toy', 'week']	['produce']	0.235893901913
+['same toy', 'week']	['8 dollar each.produce']	0.0448893546269
+['same toy', 'week']	['7 dollar']	0.0450566866416
+['same toy', 'week']	['hour']	0.390824975159
+['same toy', 'week']	['5800 hour']	0.18250857426
+['same toy', 'week']	['12,600 dollar']	0.0450566866416
+['same toy', 'week']	['production']	0.269393338667
+['model b', 'week']	['manufacturer']	0.17870259112
+['model b', 'week']	['two model']	0.0450566866416
+['model b', 'week']	['same toy']	0.0450566866416
+['model b', 'week']	['4 hour']	0.18250857426
+['model b', 'week']	['8 dollar']	0.0484394795837
+['model b', 'week']	['produce']	0.291975008388
+['model b', 'week']	['8 dollar each.produce']	0.0522447941162
+['model b', 'week']	['7 dollar']	0.0450566866416
+['model b', 'week']	['hour']	0.420980155708
+['model b', 'week']	['5800 hour']	0.18250857426
+['model b', 'week']	['12,600 dollar']	0.0450566866416
+['model b', 'week']	['production']	0.132705907282
+['4 hour', 'week']	['manufacturer']	0.159758929148
+['4 hour', 'week']	['two model']	0.333420389254
+['4 hour', 'week']	['same toy']	0.0450566866416
+['4 hour', 'week']	['model b']	0.0450566866416
+['4 hour', 'week']	['8 dollar']	0.347903667484
+['4 hour', 'week']	['produce']	0.231301690304
+['4 hour', 'week']	['8 dollar each.produce']	0.2741110826
+['4 hour', 'week']	['7 dollar']	0.338398736697
+['4 hour', 'week']	['hour']	0.692629957732
+['4 hour', 'week']	['5800 hour']	0.279783847447
+['4 hour', 'week']	['12,600 dollar']	0.0450566866416
+['4 hour', 'week']	['production']	0.227286647951
+['8 dollar', 'week']	['manufacturer']	0.11086262958
+['8 dollar', 'week']	['two model']	0.245368980249
+['8 dollar', 'week']	['same toy']	0.0361569291624
+['8 dollar', 'week']	['model b']	0.0361569291624
+['8 dollar', 'week']	['4 hour']	0.304748815889
+['8 dollar', 'week']	['produce']	0.250588487454
+['8 dollar', 'week']	['8 dollar each.produce']	0.393060102441
+['8 dollar', 'week']	['7 dollar']	0.464262206931
+['8 dollar', 'week']	['hour']	0.420980155708
+['8 dollar', 'week']	['5800 hour']	0.0953909804967
+['8 dollar', 'week']	['12,600 dollar']	0.160671266721
+['8 dollar', 'week']	['production']	0.156655471514
+['produce', 'week']	['manufacturer']	0.349294466881
+['produce', 'week']	['two model']	0.0361569291624
+['produce', 'week']	['same toy']	0.0361569291624
+['produce', 'week']	['model b']	0.0368701550083
+['produce', 'week']	['4 hour']	0.0953909804967
+['produce', 'week']	['8 dollar']	0.0421463435009
+['produce', 'week']	['8 dollar each.produce']	0.0458721043879
+['produce', 'week']	['7 dollar']	0.0361569291624
+['produce', 'week']	['hour']	0.25325217319
+['produce', 'week']	['5800 hour']	0.0953909804967
+['produce', 'week']	['12,600 dollar']	0.0361569291624
+['produce', 'week']	['production']	0.110225443993
+['8 dollar each.produce', 'week']	['manufacturer']	0.131185174653
+['8 dollar each.produce', 'week']	['two model']	0.295264525057
+['8 dollar each.produce', 'week']	['same toy']	0.0440003486134
+['8 dollar each.produce', 'week']	['model b']	0.0440003486134
+['8 dollar each.produce', 'week']	['4 hour']	0.29478056601
+['8 dollar each.produce', 'week']	['8 dollar']	0.431696552981
+['8 dollar each.produce', 'week']	['produce']	0.234837563885
+['8 dollar each.produce', 'week']	['7 dollar']	0.305065403363
+['8 dollar each.produce', 'week']	['hour']	0.389768637131
+['8 dollar each.produce', 'week']	['5800 hour']	0.177686043396
+['8 dollar each.produce', 'week']	['12,600 dollar']	0.0440003486134
+['8 dollar each.produce', 'week']	['production']	0.109574370655
+['7 dollar', 'week']	['manufacturer']	0.159758929148
+['7 dollar', 'week']	['two model']	0.333420389254
+['7 dollar', 'week']	['same toy']	0.0450566866416
+['7 dollar', 'week']	['model b']	0.0450566866416
+['7 dollar', 'week']	['4 hour']	0.328113899344
+['7 dollar', 'week']	['8 dollar']	0.442917177691
+['7 dollar', 'week']	['produce']	0.231301690304
+['7 dollar', 'week']	['8 dollar each.produce']	0.2741110826
+['7 dollar', 'week']	['hour']	0.420980155708
+['7 dollar', 'week']	['5800 hour']	0.18250857426
+['7 dollar', 'week']	['12,600 dollar']	0.210464140721
+['7 dollar', 'week']	['production']	0.132705907282
+['hour', 'week']	['manufacturer']	0.114704455021
+['hour', 'week']	['two model']	0.0160076877108
+['hour', 'week']	['same toy']	0.0160076877108
+['hour', 'week']	['model b']	0.0160749451882
+['hour', 'week']	['4 hour']	0.563682168228
+['hour', 'week']	['8 dollar']	0.0180961055585
+['hour', 'week']	['produce']	0.143443235675
+['hour', 'week']	['8 dollar each.produce']	0.02936840314
+['hour', 'week']	['7 dollar']	0.0160749451882
+['hour', 'week']	['5800 hour']	0.565063164694
+['hour', 'week']	['12,600 dollar']	0.0160749451882
+['hour', 'week']	['production']	0.159225729695
+['5800 hour', 'week']	['manufacturer']	0.159758929148
+['5800 hour', 'week']	['two model']	0.0450566866416
+['5800 hour', 'week']	['same toy']	0.0450566866416
+['5800 hour', 'week']	['model b']	0.0450566866416
+['5800 hour', 'week']	['4 hour']	0.279783847447
+['5800 hour', 'week']	['8 dollar']	0.0484394795837
+['5800 hour', 'week']	['produce']	0.231301690304
+['5800 hour', 'week']	['8 dollar each.produce']	0.0522447941162
+['5800 hour', 'week']	['7 dollar']	0.0450566866416
+['5800 hour', 'week']	['hour']	0.758264647545
+['5800 hour', 'week']	['12,600 dollar']	0.0450566866416
+['5800 hour', 'week']	['production']	0.227286647951
+['12,600 dollar', 'week']	['manufacturer']	0.159758929148
+['12,600 dollar', 'week']	['two model']	0.0450566866416
+['12,600 dollar', 'week']	['same toy']	0.0450566866416
+['12,600 dollar', 'week']	['model b']	0.0450566866416
+['12,600 dollar', 'week']	['4 hour']	0.18250857426
+['12,600 dollar', 'week']	['8 dollar']	0.203244619691
+['12,600 dollar', 'week']	['produce']	0.231301690304
+['12,600 dollar', 'week']	['8 dollar each.produce']	0.0522447941162
+['12,600 dollar', 'week']	['7 dollar']	0.210464140721
+['12,600 dollar', 'week']	['hour']	0.420980155708
+['12,600 dollar', 'week']	['5800 hour']	0.18250857426
+['12,600 dollar', 'week']	['production']	0.132705907282
+['production', 'week']	['manufacturer']	0.0719193616718
+['production', 'week']	['two model']	0.135200832038
+['production', 'week']	['same toy']	0.142122270236
+['production', 'week']	['model b']	0.0457699124874
+['production', 'week']	['4 hour']	0.135175729932
+['production', 'week']	['8 dollar']	0.0491527054295
+['production', 'week']	['produce']	0.137797068236
+['production', 'week']	['8 dollar each.produce']	0.0522447941162
+['production', 'week']	['7 dollar']	0.0457699124874
+['production', 'week']	['hour']	0.153457622395
+['production', 'week']	['5800 hour']	0.135175729932
+['production', 'week']	['12,600 dollar']	0.0457699124874

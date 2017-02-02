@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (NP (NNP Bob))
+    (VP
+      (VBD invested)
+      (NP
+        (NP (CD 6100) (NNS dollars))
+        (PP
+          (IN in)
+          (NP
+            (NP (CD 2) (NNS funds))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP
+                  (VBP pay)
+                  (NP
+                    (NP
+                      (ADJP
+                        (NP (CD 7) (NN %) (CC and) (CD 6) (NN %))
+                        (JJ simple))
+                      (NN interest))
+                    (ADVP (RB respectively))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ combined) (NN interest))
+      (SBAR
+        (S
+          (NP (PRP he))
+          (VP (VBD earned) (PP (IN for) (NP (DT both) (NNS funds)))))))
+    (VP
+      (VBD was)
+      (NP
+        (NP (CD 405) (NNS dollars))
+        (PP (IN for) (NP (CD one) (NN year)))))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S
+      (NP (NNS dollars))
+      (VP
+        (VBD was)
+        (VP (VBN invested) (PP (IN at) (NP (CD 7) (NN %))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WRB How) (RB much))
+    (SQ
+      (VBD was)
+      (VP (VBN invested) (PP (IN at) (NP (CD 6) (NN %)))))
+    (. ?)))

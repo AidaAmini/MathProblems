@@ -1,0 +1,41 @@
+(ROOT
+  (S
+    (NP (DT A) (NN cashier))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (DT a) (NN total))
+        (PP
+          (IN of)
+          (NP
+            (NP (CD 126) (NNS bills))
+            (, ,)
+            (VP
+              (VBD made)
+              (PRT (RP up))
+              (PP
+                (IN of)
+                (NP
+                  (NP (JJ 5-dollar) (NNS bills))
+                  (CC and)
+                  (NP (JJ 10-dollar) (NNS bills)))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ total) (NN value))
+      (PP (IN of) (NP (DT the) (NN money))))
+    (VP (VBZ is) (NP (CD 840) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (JJ 5-dollar)) (NP (NNS bills))))
+    (SQ (VBZ does) (NP (PRP he)) (VP (VB have)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHADVP (WRB How) (JJ many))
+    (NP (JJ 10-dollar) (NNS bills))
+    (. ?)))

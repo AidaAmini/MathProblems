@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT A) (NN chemist))
+    (VP (VBZ has) (NP (CD two) (NN acid) (NNS solutions)))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (CD One) (NN solution))
+      (VP (VBZ is) (NP (ADJP (CD 20) (NN %)) (JJ pure) (NN acid))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ other))
+      (VP (VBZ is) (NP (ADJP (CD 60) (NN %)) (JJ pure) (NN acid))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WRB How) (RB much))
+      (PP
+        (IN of)
+        (NP
+          (NP (ADJP (CD 20) (NN %)) (JJ pure) (NN acid))
+          (CC and)
+          (NP (ADJP (CD 60) (NN %)) (JJ pure) (NN acid)))))
+    (SQ
+      (VBZ is)
+      (VP
+        (VBN needed)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB produce)
+              (NP
+                (NP (CD 80) (NNS square-centimeters))
+                (PP
+                  (IN of)
+                  (NP
+                    (NP (DT a) (NN solution))
+                    (SBAR
+                      (WHNP (WDT that))
+                      (S
+                        (VP
+                          (VBZ is)
+                          (NP
+                            (ADJP (CD 45) (NN %))
+                            (JJ pure)
+                            (NN acid)))))))))))))
+    (. ?)))

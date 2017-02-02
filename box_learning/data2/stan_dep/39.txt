@@ -1,0 +1,55 @@
+(ROOT
+  (S
+    (PP (IN On) (NP (NNP Monday)))
+    (, ,)
+    (NP (NNP Harold))
+    (VP
+      (VBD picked)
+      (PRT (RP up))
+      (NP
+        (NP (CD three) (NNS doughnuts))
+        (CC and)
+        (NP (CD four) (JJ large) (NNS coffees)))
+      (PP (IN for) (NP (DT the) (NN office) (NN staff))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP He))
+    (VP (VBD paid) (NP (CD 4.91) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN On) (NP (NNP Tuesday)))
+    (NP (NNP Melinda))
+    (VP
+      (VBD picked)
+      (PRT (RP up))
+      (NP
+        (NP (CD five) (NNS doughnuts))
+        (CC and)
+        (NP (CD six) (JJ large) (NNS coffees)))
+      (PP (IN for) (NP (DT the) (NN office) (NN staff))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP She))
+    (VP (VBD paid) (NP (CD 7.59) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP (IN of) (NP (CD one) (NN doughnut)))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WP What))
+    (SQ
+      (VBZ is)
+      (NP
+        (NP (DT the) (NN cost))
+        (PP (IN of) (NP (CD one) (JJ large) (NN coffee)))))
+    (. ?)))

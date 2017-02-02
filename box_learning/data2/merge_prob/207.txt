@@ -1,0 +1,763 @@
+['hockey team', '2 point', '1 point', '1 season', 'championship', 'point', '60 point', '12 game', 'win and tie', 'team have']
+['hockey team']	['2 point']	0.0827346205535
+['hockey team']	['1 point']	0.0827346205535
+['hockey team']	['1 season']	0.0827346205535
+['hockey team']	['championship']	0.0777864840342
+['hockey team']	['point']	0.050052963724
+['hockey team']	['60 point']	0.0827346205535
+['hockey team']	['12 game']	0.0827346205535
+['hockey team']	['win and tie']	0.096515242987
+['hockey team']	['team have']	0.0827346205535
+['2 point']	['1 point']	0.828768839235
+['2 point']	['1 season']	0.387929093691
+['2 point']	['championship']	0.150291470448
+['2 point']	['60 point']	0.669829166534
+['2 point']	['12 game']	0.125971854627
+['2 point']	['win and tie']	0.0908034291173
+['2 point']	['team have']	0.0827346205535
+['1 point']	['1 season']	0.412217785115
+['1 point']	['championship']	0.150291470448
+['1 point']	['60 point']	0.669829166534
+['1 point']	['12 game']	0.125971854627
+['1 point']	['win and tie']	0.0908034291173
+['1 point']	['team have']	0.0827346205535
+['1 season']	['championship']	0.0888375395985
+['1 season']	['point']	0.0575843031668
+['1 season']	['60 point']	0.125971854627
+['1 season']	['12 game']	0.125971854627
+['1 season']	['win and tie']	0.0908034291173
+['1 season']	['team have']	0.0827346205535
+['championship']	['point']	0.0760236969154
+['championship']	['60 point']	0.121375168769
+['championship']	['12 game']	0.338550764074
+['championship']	['win and tie']	0.129821493716
+['championship']	['team have']	0.0827346205535
+['point']	['12 game']	0.0974229350798
+['point']	['win and tie']	0.103966981979
+['point']	['team have']	0.0429586976843
+['60 point']	['12 game']	0.387929093691
+['60 point']	['win and tie']	0.0908034291173
+['60 point']	['team have']	0.0827346205535
+['12 game']	['win and tie']	0.0908034291173
+['12 game']	['team have']	0.0827346205535
+['win and tie']	['team have']	0.0988755105172
+['2 point', 'hockey team']	['1 point']	0.754360422532
+['2 point', 'hockey team']	['1 season']	0.390490368434
+['2 point', 'hockey team']	['championship']	0.177092701503
+['2 point', 'hockey team']	['point']	0.626530910949
+['2 point', 'hockey team']	['60 point']	0.587641685872
+['2 point', 'hockey team']	['12 game']	0.140649313257
+['2 point', 'hockey team']	['win and tie']	0.096515242987
+['2 point', 'hockey team']	['team have']	0.0827346205535
+['1 point', 'hockey team']	['2 point']	0.754360422532
+['1 point', 'hockey team']	['1 season']	0.498338895266
+['1 point', 'hockey team']	['championship']	0.177092701503
+['1 point', 'hockey team']	['point']	0.626530910949
+['1 point', 'hockey team']	['60 point']	0.587641685872
+['1 point', 'hockey team']	['12 game']	0.140649313257
+['1 point', 'hockey team']	['win and tie']	0.096515242987
+['1 point', 'hockey team']	['team have']	0.0827346205535
+['1 season', 'hockey team']	['2 point']	0.390490368434
+['1 season', 'hockey team']	['1 point']	0.498338895266
+['1 season', 'hockey team']	['championship']	0.0777864840342
+['1 season', 'hockey team']	['point']	0.0523274735279
+['1 season', 'hockey team']	['60 point']	0.140649313257
+['1 season', 'hockey team']	['12 game']	0.140649313257
+['1 season', 'hockey team']	['win and tie']	0.096515242987
+['1 season', 'hockey team']	['team have']	0.0827346205535
+['championship', 'hockey team']	['2 point']	0.138180177454
+['championship', 'hockey team']	['1 point']	0.138180177454
+['championship', 'hockey team']	['1 season']	0.0827346205535
+['championship', 'hockey team']	['point']	0.566710019956
+['championship', 'hockey team']	['60 point']	0.138180177454
+['championship', 'hockey team']	['12 game']	0.36371628928
+['championship', 'hockey team']	['win and tie']	0.186099806499
+['championship', 'hockey team']	['team have']	0.0827346205535
+['point', 'hockey team']	['2 point']	0.575468874693
+['point', 'hockey team']	['1 point']	0.575468874693
+['point', 'hockey team']	['1 season']	0.0465787639079
+['point', 'hockey team']	['championship']	0.549215784848
+['point', 'hockey team']	['60 point']	0.621222272711
+['point', 'hockey team']	['12 game']	0.0986652971737
+['point', 'hockey team']	['win and tie']	0.0889840921025
+['point', 'hockey team']	['team have']	0.0465787639079
+['60 point', 'hockey team']	['2 point']	0.587641685872
+['60 point', 'hockey team']	['1 point']	0.587641685872
+['60 point', 'hockey team']	['1 season']	0.140649313257
+['60 point', 'hockey team']	['championship']	0.177092701503
+['60 point', 'hockey team']	['point']	0.629348064245
+['60 point', 'hockey team']	['12 game']	0.390490368434
+['60 point', 'hockey team']	['win and tie']	0.096515242987
+['60 point', 'hockey team']	['team have']	0.0827346205535
+['12 game', 'hockey team']	['2 point']	0.140649313257
+['12 game', 'hockey team']	['1 point']	0.140649313257
+['12 game', 'hockey team']	['1 season']	0.140649313257
+['12 game', 'hockey team']	['championship']	0.391831939938
+['12 game', 'hockey team']	['point']	0.120970917529
+['12 game', 'hockey team']	['60 point']	0.390490368434
+['12 game', 'hockey team']	['win and tie']	0.096515242987
+['12 game', 'hockey team']	['team have']	0.0827346205535
+['win and tie', 'hockey team']	['2 point']	0.152238479479
+['win and tie', 'hockey team']	['1 point']	0.152238479479
+['win and tie', 'hockey team']	['1 season']	0.152238479479
+['win and tie', 'hockey team']	['championship']	0.200720997088
+['win and tie', 'hockey team']	['point']	0.191116865215
+['win and tie', 'hockey team']	['60 point']	0.152238479479
+['win and tie', 'hockey team']	['12 game']	0.152238479479
+['win and tie', 'hockey team']	['team have']	0.152238479479
+['team have', 'hockey team']	['2 point']	0.0827346205535
+['team have', 'hockey team']	['1 point']	0.0827346205535
+['team have', 'hockey team']	['1 season']	0.0827346205535
+['team have', 'hockey team']	['championship']	0.0777864840342
+['team have', 'hockey team']	['point']	0.0523274735279
+['team have', 'hockey team']	['60 point']	0.0827346205535
+['team have', 'hockey team']	['12 game']	0.0827346205535
+['team have', 'hockey team']	['win and tie']	0.0908034291173
+['hockey team', '2 point']	['1 point']	0.754360422532
+['hockey team', '2 point']	['1 season']	0.390490368434
+['hockey team', '2 point']	['championship']	0.177092701503
+['hockey team', '2 point']	['point']	0.626530910949
+['hockey team', '2 point']	['60 point']	0.587641685872
+['hockey team', '2 point']	['12 game']	0.140649313257
+['hockey team', '2 point']	['win and tie']	0.096515242987
+['hockey team', '2 point']	['team have']	0.0827346205535
+['1 point', '2 point']	['hockey team']	0.153587928078
+['1 point', '2 point']	['1 season']	0.579873232651
+['1 point', '2 point']	['championship']	0.444828773282
+['1 point', '2 point']	['point']	0.803701581411
+['1 point', '2 point']	['60 point']	0.849613862614
+['1 point', '2 point']	['12 game']	0.356231993893
+['1 point', '2 point']	['win and tie']	0.279852388264
+['1 point', '2 point']	['team have']	0.153587928078
+['1 season', '2 point']	['hockey team']	0.0827346205535
+['1 season', '2 point']	['1 point']	0.589771426186
+['1 season', '2 point']	['championship']	0.15456816635
+['1 season', '2 point']	['point']	0.475468129066
+['1 season', '2 point']	['60 point']	0.677848280594
+['1 season', '2 point']	['12 game']	0.23079127262
+['1 season', '2 point']	['win and tie']	0.0908034291173
+['1 season', '2 point']	['team have']	0.0827346205535
+['championship', '2 point']	['hockey team']	0.0827346205535
+['championship', '2 point']	['1 point']	0.806579200849
+['championship', '2 point']	['1 season']	0.422016612763
+['championship', '2 point']	['point']	0.755788028967
+['championship', '2 point']	['60 point']	0.646146253414
+['championship', '2 point']	['12 game']	0.360650272501
+['championship', '2 point']	['win and tie']	0.16331472499
+['championship', '2 point']	['team have']	0.0827346205535
+['point', '2 point']	['hockey team']	0.176424014536
+['point', '2 point']	['1 point']	0.897746033891
+['point', '2 point']	['1 season']	0.431258371458
+['point', '2 point']	['championship']	0.753484794842
+['point', '2 point']	['60 point']	0.897929299464
+['point', '2 point']	['12 game']	0.339076973012
+['point', '2 point']	['win and tie']	0.400310670755
+['point', '2 point']	['team have']	0.132305814241
+['60 point', '2 point']	['hockey team']	0.153587928078
+['60 point', '2 point']	['1 point']	0.845821569933
+['60 point', '2 point']	['1 season']	0.680461337309
+['60 point', '2 point']	['championship']	0.444828773282
+['60 point', '2 point']	['point']	0.807034914745
+['60 point', '2 point']	['12 game']	0.680461337309
+['60 point', '2 point']	['win and tie']	0.279852388264
+['60 point', '2 point']	['team have']	0.153587928078
+['12 game', '2 point']	['hockey team']	0.0827346205535
+['12 game', '2 point']	['1 point']	0.800552772617
+['12 game', '2 point']	['1 season']	0.423364656264
+['12 game', '2 point']	['championship']	0.35464705493
+['12 game', '2 point']	['point']	0.711153638019
+['12 game', '2 point']	['60 point']	0.800552772617
+['12 game', '2 point']	['win and tie']	0.0908034291173
+['12 game', '2 point']	['team have']	0.0827346205535
+['win and tie', '2 point']	['hockey team']	0.152238479479
+['win and tie', '2 point']	['1 point']	0.810888071258
+['win and tie', '2 point']	['1 season']	0.453327242541
+['win and tie', '2 point']	['championship']	0.203656233268
+['win and tie', '2 point']	['point']	0.755181949516
+['win and tie', '2 point']	['60 point']	0.658859294871
+['win and tie', '2 point']	['12 game']	0.183637364938
+['win and tie', '2 point']	['team have']	0.152238479479
+['team have', '2 point']	['hockey team']	0.0827346205535
+['team have', '2 point']	['1 point']	0.754360422532
+['team have', '2 point']	['1 season']	0.362256416006
+['team have', '2 point']	['championship']	0.15456816635
+['team have', '2 point']	['point']	0.475468129066
+['team have', '2 point']	['60 point']	0.604308352538
+['team have', '2 point']	['12 game']	0.126675736021
+['team have', '2 point']	['win and tie']	0.0908034291173
+['hockey team', '1 point']	['2 point']	0.754360422532
+['hockey team', '1 point']	['1 season']	0.498338895266
+['hockey team', '1 point']	['championship']	0.177092701503
+['hockey team', '1 point']	['point']	0.626530910949
+['hockey team', '1 point']	['60 point']	0.587641685872
+['hockey team', '1 point']	['12 game']	0.140649313257
+['hockey team', '1 point']	['win and tie']	0.096515242987
+['hockey team', '1 point']	['team have']	0.0827346205535
+['2 point', '1 point']	['hockey team']	0.153587928078
+['2 point', '1 point']	['1 season']	0.579873232651
+['2 point', '1 point']	['championship']	0.444828773282
+['2 point', '1 point']	['point']	0.803701581411
+['2 point', '1 point']	['60 point']	0.849613862614
+['2 point', '1 point']	['12 game']	0.356231993893
+['2 point', '1 point']	['win and tie']	0.279852388264
+['2 point', '1 point']	['team have']	0.153587928078
+['1 season', '1 point']	['hockey team']	0.0827346205535
+['1 season', '1 point']	['2 point']	0.837596040951
+['1 season', '1 point']	['championship']	0.15456816635
+['1 season', '1 point']	['point']	0.475468129066
+['1 season', '1 point']	['60 point']	0.677848280594
+['1 season', '1 point']	['12 game']	0.23079127262
+['1 season', '1 point']	['win and tie']	0.0908034291173
+['1 season', '1 point']	['team have']	0.0827346205535
+['championship', '1 point']	['hockey team']	0.0827346205535
+['championship', '1 point']	['2 point']	0.806579200849
+['championship', '1 point']	['1 season']	0.542926987386
+['championship', '1 point']	['point']	0.755788028967
+['championship', '1 point']	['60 point']	0.646146253414
+['championship', '1 point']	['12 game']	0.360650272501
+['championship', '1 point']	['win and tie']	0.16331472499
+['championship', '1 point']	['team have']	0.0827346205535
+['point', '1 point']	['hockey team']	0.176424014536
+['point', '1 point']	['2 point']	0.897746033891
+['point', '1 point']	['1 season']	0.476956349768
+['point', '1 point']	['championship']	0.753484794842
+['point', '1 point']	['60 point']	0.897929299464
+['point', '1 point']	['12 game']	0.339076973012
+['point', '1 point']	['win and tie']	0.400310670755
+['point', '1 point']	['team have']	0.132305814241
+['60 point', '1 point']	['hockey team']	0.153587928078
+['60 point', '1 point']	['2 point']	0.845821569933
+['60 point', '1 point']	['1 season']	0.589404588896
+['60 point', '1 point']	['championship']	0.444828773282
+['60 point', '1 point']	['point']	0.807034914745
+['60 point', '1 point']	['12 game']	0.680461337309
+['60 point', '1 point']	['win and tie']	0.279852388264
+['60 point', '1 point']	['team have']	0.153587928078
+['12 game', '1 point']	['hockey team']	0.0827346205535
+['12 game', '1 point']	['2 point']	0.800552772617
+['12 game', '1 point']	['1 season']	0.508983028906
+['12 game', '1 point']	['championship']	0.35464705493
+['12 game', '1 point']	['point']	0.711153638019
+['12 game', '1 point']	['60 point']	0.800552772617
+['12 game', '1 point']	['win and tie']	0.0908034291173
+['12 game', '1 point']	['team have']	0.0827346205535
+['win and tie', '1 point']	['hockey team']	0.152238479479
+['win and tie', '1 point']	['2 point']	0.810888071258
+['win and tie', '1 point']	['1 season']	0.601995725418
+['win and tie', '1 point']	['championship']	0.203656233268
+['win and tie', '1 point']	['point']	0.755181949516
+['win and tie', '1 point']	['60 point']	0.658859294871
+['win and tie', '1 point']	['12 game']	0.183637364938
+['win and tie', '1 point']	['team have']	0.152238479479
+['team have', '1 point']	['hockey team']	0.0827346205535
+['team have', '1 point']	['2 point']	0.754360422532
+['team have', '1 point']	['1 season']	0.498338895266
+['team have', '1 point']	['championship']	0.15456816635
+['team have', '1 point']	['point']	0.475468129066
+['team have', '1 point']	['60 point']	0.604308352538
+['team have', '1 point']	['12 game']	0.126675736021
+['team have', '1 point']	['win and tie']	0.0908034291173
+['hockey team', '1 season']	['2 point']	0.390490368434
+['hockey team', '1 season']	['1 point']	0.498338895266
+['hockey team', '1 season']	['championship']	0.0777864840342
+['hockey team', '1 season']	['point']	0.0523274735279
+['hockey team', '1 season']	['60 point']	0.140649313257
+['hockey team', '1 season']	['12 game']	0.140649313257
+['hockey team', '1 season']	['win and tie']	0.096515242987
+['hockey team', '1 season']	['team have']	0.0827346205535
+['2 point', '1 season']	['hockey team']	0.0827346205535
+['2 point', '1 season']	['1 point']	0.589771426186
+['2 point', '1 season']	['championship']	0.15456816635
+['2 point', '1 season']	['point']	0.475468129066
+['2 point', '1 season']	['60 point']	0.677848280594
+['2 point', '1 season']	['12 game']	0.23079127262
+['2 point', '1 season']	['win and tie']	0.0908034291173
+['2 point', '1 season']	['team have']	0.0827346205535
+['1 point', '1 season']	['hockey team']	0.0827346205535
+['1 point', '1 season']	['2 point']	0.837596040951
+['1 point', '1 season']	['championship']	0.15456816635
+['1 point', '1 season']	['point']	0.475468129066
+['1 point', '1 season']	['60 point']	0.677848280594
+['1 point', '1 season']	['12 game']	0.23079127262
+['1 point', '1 season']	['win and tie']	0.0908034291173
+['1 point', '1 season']	['team have']	0.0827346205535
+['championship', '1 season']	['hockey team']	0.0827346205535
+['championship', '1 season']	['2 point']	0.423364656264
+['championship', '1 season']	['1 point']	0.546280394661
+['championship', '1 season']	['point']	0.5489418413
+['championship', '1 season']	['60 point']	0.123680464719
+['championship', '1 season']	['12 game']	0.360650272501
+['championship', '1 season']	['win and tie']	0.16331472499
+['championship', '1 season']	['team have']	0.0827346205535
+['point', '1 season']	['hockey team']	0.0476289326264
+['point', '1 season']	['2 point']	0.758350382025
+['point', '1 season']	['1 point']	0.785997020925
+['point', '1 season']	['championship']	0.527165118453
+['point', '1 season']	['60 point']	0.754520179409
+['point', '1 season']	['12 game']	0.0883320259888
+['point', '1 season']	['win and tie']	0.122317425436
+['point', '1 season']	['team have']	0.0465787639079
+['60 point', '1 season']	['hockey team']	0.0827346205535
+['60 point', '1 season']	['2 point']	0.800552772617
+['60 point', '1 season']	['1 point']	0.673391330399
+['60 point', '1 season']	['championship']	0.15456816635
+['60 point', '1 season']	['point']	0.491955654068
+['60 point', '1 season']	['12 game']	0.423364656264
+['60 point', '1 season']	['win and tie']	0.0908034291173
+['60 point', '1 season']	['team have']	0.0827346205535
+['12 game', '1 season']	['hockey team']	0.0827346205535
+['12 game', '1 season']	['2 point']	0.423364656264
+['12 game', '1 season']	['1 point']	0.508983028906
+['12 game', '1 season']	['championship']	0.391831939938
+['12 game', '1 season']	['point']	0.0897078313301
+['12 game', '1 season']	['60 point']	0.423364656264
+['12 game', '1 season']	['win and tie']	0.0908034291173
+['12 game', '1 season']	['team have']	0.0827346205535
+['win and tie', '1 season']	['hockey team']	0.152238479479
+['win and tie', '1 season']	['2 point']	0.453327242541
+['win and tie', '1 season']	['1 point']	0.601995725418
+['win and tie', '1 season']	['championship']	0.211529795267
+['win and tie', '1 season']	['point']	0.115677899527
+['win and tie', '1 season']	['60 point']	0.183637364938
+['win and tie', '1 season']	['12 game']	0.183637364938
+['win and tie', '1 season']	['team have']	0.152238479479
+['team have', '1 season']	['hockey team']	0.0827346205535
+['team have', '1 season']	['2 point']	0.362256416006
+['team have', '1 season']	['1 point']	0.498338895266
+['team have', '1 season']	['championship']	0.0888375395985
+['team have', '1 season']	['point']	0.0575843031668
+['team have', '1 season']	['60 point']	0.126675736021
+['team have', '1 season']	['12 game']	0.126675736021
+['team have', '1 season']	['win and tie']	0.0908034291173
+['hockey team', 'championship']	['2 point']	0.138180177454
+['hockey team', 'championship']	['1 point']	0.138180177454
+['hockey team', 'championship']	['1 season']	0.0827346205535
+['hockey team', 'championship']	['point']	0.566710019956
+['hockey team', 'championship']	['60 point']	0.138180177454
+['hockey team', 'championship']	['12 game']	0.36371628928
+['hockey team', 'championship']	['win and tie']	0.186099806499
+['hockey team', 'championship']	['team have']	0.0827346205535
+['2 point', 'championship']	['hockey team']	0.0827346205535
+['2 point', 'championship']	['1 point']	0.806579200849
+['2 point', 'championship']	['1 season']	0.422016612763
+['2 point', 'championship']	['point']	0.755788028967
+['2 point', 'championship']	['60 point']	0.646146253414
+['2 point', 'championship']	['12 game']	0.360650272501
+['2 point', 'championship']	['win and tie']	0.16331472499
+['2 point', 'championship']	['team have']	0.0827346205535
+['1 point', 'championship']	['hockey team']	0.0827346205535
+['1 point', 'championship']	['2 point']	0.806579200849
+['1 point', 'championship']	['1 season']	0.542926987386
+['1 point', 'championship']	['point']	0.755788028967
+['1 point', 'championship']	['60 point']	0.646146253414
+['1 point', 'championship']	['12 game']	0.360650272501
+['1 point', 'championship']	['win and tie']	0.16331472499
+['1 point', 'championship']	['team have']	0.0827346205535
+['1 season', 'championship']	['hockey team']	0.0827346205535
+['1 season', 'championship']	['2 point']	0.423364656264
+['1 season', 'championship']	['1 point']	0.546280394661
+['1 season', 'championship']	['point']	0.5489418413
+['1 season', 'championship']	['60 point']	0.123680464719
+['1 season', 'championship']	['12 game']	0.360650272501
+['1 season', 'championship']	['win and tie']	0.16331472499
+['1 season', 'championship']	['team have']	0.0827346205535
+['point', 'championship']	['hockey team']	0.0453544228225
+['point', 'championship']	['2 point']	0.742265144992
+['point', 'championship']	['1 point']	0.742265144992
+['point', 'championship']	['1 season']	0.0454050549877
+['point', 'championship']	['60 point']	0.737674890881
+['point', 'championship']	['12 game']	0.258752982932
+['point', 'championship']	['win and tie']	0.103966981979
+['point', 'championship']	['team have']	0.0465787639079
+['60 point', 'championship']	['hockey team']	0.0827346205535
+['60 point', 'championship']	['2 point']	0.646146253414
+['60 point', 'championship']	['1 point']	0.646146253414
+['60 point', 'championship']	['1 season']	0.149036431322
+['60 point', 'championship']	['point']	0.763844162023
+['60 point', 'championship']	['12 game']	0.387929093691
+['60 point', 'championship']	['win and tie']	0.16331472499
+['60 point', 'championship']	['team have']	0.0827346205535
+['12 game', 'championship']	['hockey team']	0.0827346205535
+['12 game', 'championship']	['2 point']	0.123680464719
+['12 game', 'championship']	['1 point']	0.123680464719
+['12 game', 'championship']	['1 season']	0.149036431322
+['12 game', 'championship']	['point']	0.700348226653
+['12 game', 'championship']	['60 point']	0.423364656264
+['12 game', 'championship']	['win and tie']	0.16331472499
+['12 game', 'championship']	['team have']	0.0827346205535
+['win and tie', 'championship']	['hockey team']	0.0827346205535
+['win and tie', 'championship']	['2 point']	0.126675736021
+['win and tie', 'championship']	['1 point']	0.126675736021
+['win and tie', 'championship']	['1 season']	0.0827346205535
+['win and tie', 'championship']	['point']	0.672853534508
+['win and tie', 'championship']	['60 point']	0.126675736021
+['win and tie', 'championship']	['12 game']	0.358893758415
+['win and tie', 'championship']	['team have']	0.0827346205535
+['team have', 'championship']	['hockey team']	0.0827346205535
+['team have', 'championship']	['2 point']	0.124206600218
+['team have', 'championship']	['1 point']	0.124206600218
+['team have', 'championship']	['1 season']	0.0827346205535
+['team have', 'championship']	['point']	0.5489418413
+['team have', 'championship']	['60 point']	0.124206600218
+['team have', 'championship']	['12 game']	0.36371628928
+['team have', 'championship']	['win and tie']	0.149341147754
+['hockey team', 'point']	['2 point']	0.575468874693
+['hockey team', 'point']	['1 point']	0.575468874693
+['hockey team', 'point']	['1 season']	0.0465787639079
+['hockey team', 'point']	['championship']	0.549215784848
+['hockey team', 'point']	['60 point']	0.621222272711
+['hockey team', 'point']	['12 game']	0.0986652971737
+['hockey team', 'point']	['win and tie']	0.0889840921025
+['hockey team', 'point']	['team have']	0.0465787639079
+['2 point', 'point']	['hockey team']	0.176424014536
+['2 point', 'point']	['1 point']	0.897746033891
+['2 point', 'point']	['1 season']	0.431258371458
+['2 point', 'point']	['championship']	0.753484794842
+['2 point', 'point']	['60 point']	0.897929299464
+['2 point', 'point']	['12 game']	0.339076973012
+['2 point', 'point']	['win and tie']	0.400310670755
+['2 point', 'point']	['team have']	0.132305814241
+['1 point', 'point']	['hockey team']	0.176424014536
+['1 point', 'point']	['2 point']	0.897746033891
+['1 point', 'point']	['1 season']	0.476956349768
+['1 point', 'point']	['championship']	0.753484794842
+['1 point', 'point']	['60 point']	0.897929299464
+['1 point', 'point']	['12 game']	0.339076973012
+['1 point', 'point']	['win and tie']	0.400310670755
+['1 point', 'point']	['team have']	0.132305814241
+['1 season', 'point']	['hockey team']	0.0476289326264
+['1 season', 'point']	['2 point']	0.758350382025
+['1 season', 'point']	['1 point']	0.785997020925
+['1 season', 'point']	['championship']	0.527165118453
+['1 season', 'point']	['60 point']	0.754520179409
+['1 season', 'point']	['12 game']	0.0883320259888
+['1 season', 'point']	['win and tie']	0.122317425436
+['1 season', 'point']	['team have']	0.0465787639079
+['championship', 'point']	['hockey team']	0.0453544228225
+['championship', 'point']	['2 point']	0.742265144992
+['championship', 'point']	['1 point']	0.742265144992
+['championship', 'point']	['1 season']	0.0454050549877
+['championship', 'point']	['60 point']	0.737674890881
+['championship', 'point']	['12 game']	0.258752982932
+['championship', 'point']	['win and tie']	0.103966981979
+['championship', 'point']	['team have']	0.0465787639079
+['60 point', 'point']	['hockey team']	0.176424014536
+['60 point', 'point']	['2 point']	0.897253423053
+['60 point', 'point']	['1 point']	0.897253423053
+['60 point', 'point']	['1 season']	0.157502141539
+['60 point', 'point']	['championship']	0.753484794842
+['60 point', 'point']	['12 game']	0.605835215689
+['60 point', 'point']	['win and tie']	0.400310670755
+['60 point', 'point']	['team have']	0.132305814241
+['12 game', 'point']	['hockey team']	0.0476289326264
+['12 game', 'point']	['2 point']	0.758350382025
+['12 game', 'point']	['1 point']	0.758350382025
+['12 game', 'point']	['1 season']	0.0563939725707
+['12 game', 'point']	['championship']	0.75033551628
+['12 game', 'point']	['60 point']	0.754520179409
+['12 game', 'point']	['win and tie']	0.122317425436
+['12 game', 'point']	['team have']	0.0465787639079
+['win and tie', 'point']	['hockey team']	0.0453544228225
+['win and tie', 'point']	['2 point']	0.56109535057
+['win and tie', 'point']	['1 point']	0.56109535057
+['win and tie', 'point']	['1 season']	0.0429586976843
+['win and tie', 'point']	['championship']	0.630454455546
+['win and tie', 'point']	['60 point']	0.585023351763
+['win and tie', 'point']	['12 game']	0.0877662986066
+['win and tie', 'point']	['team have']	0.0429586976843
+['team have', 'point']	['hockey team']	0.0453544228225
+['team have', 'point']	['2 point']	0.563299713372
+['team have', 'point']	['1 point']	0.563299713372
+['team have', 'point']	['1 season']	0.0429586976843
+['team have', 'point']	['championship']	0.527165118453
+['team have', 'point']	['60 point']	0.587227714565
+['team have', 'point']	['12 game']	0.0852971628041
+['team have', 'point']	['win and tie']	0.0865547439517
+['hockey team', '60 point']	['2 point']	0.587641685872
+['hockey team', '60 point']	['1 point']	0.587641685872
+['hockey team', '60 point']	['1 season']	0.140649313257
+['hockey team', '60 point']	['championship']	0.177092701503
+['hockey team', '60 point']	['point']	0.629348064245
+['hockey team', '60 point']	['12 game']	0.390490368434
+['hockey team', '60 point']	['win and tie']	0.096515242987
+['hockey team', '60 point']	['team have']	0.0827346205535
+['2 point', '60 point']	['hockey team']	0.153587928078
+['2 point', '60 point']	['1 point']	0.845821569933
+['2 point', '60 point']	['1 season']	0.680461337309
+['2 point', '60 point']	['championship']	0.444828773282
+['2 point', '60 point']	['point']	0.807034914745
+['2 point', '60 point']	['12 game']	0.680461337309
+['2 point', '60 point']	['win and tie']	0.279852388264
+['2 point', '60 point']	['team have']	0.153587928078
+['1 point', '60 point']	['hockey team']	0.153587928078
+['1 point', '60 point']	['2 point']	0.845821569933
+['1 point', '60 point']	['1 season']	0.589404588896
+['1 point', '60 point']	['championship']	0.444828773282
+['1 point', '60 point']	['point']	0.807034914745
+['1 point', '60 point']	['12 game']	0.680461337309
+['1 point', '60 point']	['win and tie']	0.279852388264
+['1 point', '60 point']	['team have']	0.153587928078
+['1 season', '60 point']	['hockey team']	0.0827346205535
+['1 season', '60 point']	['2 point']	0.800552772617
+['1 season', '60 point']	['1 point']	0.673391330399
+['1 season', '60 point']	['championship']	0.15456816635
+['1 season', '60 point']	['point']	0.491955654068
+['1 season', '60 point']	['12 game']	0.423364656264
+['1 season', '60 point']	['win and tie']	0.0908034291173
+['1 season', '60 point']	['team have']	0.0827346205535
+['championship', '60 point']	['hockey team']	0.0827346205535
+['championship', '60 point']	['2 point']	0.646146253414
+['championship', '60 point']	['1 point']	0.646146253414
+['championship', '60 point']	['1 season']	0.149036431322
+['championship', '60 point']	['point']	0.763844162023
+['championship', '60 point']	['12 game']	0.387929093691
+['championship', '60 point']	['win and tie']	0.16331472499
+['championship', '60 point']	['team have']	0.0827346205535
+['point', '60 point']	['hockey team']	0.176424014536
+['point', '60 point']	['2 point']	0.897253423053
+['point', '60 point']	['1 point']	0.897253423053
+['point', '60 point']	['1 season']	0.157502141539
+['point', '60 point']	['championship']	0.753484794842
+['point', '60 point']	['12 game']	0.605835215689
+['point', '60 point']	['win and tie']	0.400310670755
+['point', '60 point']	['team have']	0.132305814241
+['12 game', '60 point']	['hockey team']	0.0827346205535
+['12 game', '60 point']	['2 point']	0.677848280594
+['12 game', '60 point']	['1 point']	0.677848280594
+['12 game', '60 point']	['1 season']	0.23079127262
+['12 game', '60 point']	['championship']	0.35464705493
+['12 game', '60 point']	['point']	0.715656768736
+['12 game', '60 point']	['win and tie']	0.0908034291173
+['12 game', '60 point']	['team have']	0.0827346205535
+['win and tie', '60 point']	['hockey team']	0.152238479479
+['win and tie', '60 point']	['2 point']	0.658859294871
+['win and tie', '60 point']	['1 point']	0.658859294871
+['win and tie', '60 point']	['1 season']	0.183637364938
+['win and tie', '60 point']	['championship']	0.203656233268
+['win and tie', '60 point']	['point']	0.759685080233
+['win and tie', '60 point']	['12 game']	0.453327242541
+['win and tie', '60 point']	['team have']	0.152238479479
+['team have', '60 point']	['hockey team']	0.0827346205535
+['team have', '60 point']	['2 point']	0.604308352538
+['team have', '60 point']	['1 point']	0.604308352538
+['team have', '60 point']	['1 season']	0.126675736021
+['team have', '60 point']	['championship']	0.15456816635
+['team have', '60 point']	['point']	0.491955654068
+['team have', '60 point']	['12 game']	0.362256416006
+['team have', '60 point']	['win and tie']	0.0908034291173
+['hockey team', '12 game']	['2 point']	0.140649313257
+['hockey team', '12 game']	['1 point']	0.140649313257
+['hockey team', '12 game']	['1 season']	0.140649313257
+['hockey team', '12 game']	['championship']	0.391831939938
+['hockey team', '12 game']	['point']	0.120970917529
+['hockey team', '12 game']	['60 point']	0.390490368434
+['hockey team', '12 game']	['win and tie']	0.096515242987
+['hockey team', '12 game']	['team have']	0.0827346205535
+['2 point', '12 game']	['hockey team']	0.0827346205535
+['2 point', '12 game']	['1 point']	0.800552772617
+['2 point', '12 game']	['1 season']	0.423364656264
+['2 point', '12 game']	['championship']	0.35464705493
+['2 point', '12 game']	['point']	0.711153638019
+['2 point', '12 game']	['60 point']	0.800552772617
+['2 point', '12 game']	['win and tie']	0.0908034291173
+['2 point', '12 game']	['team have']	0.0827346205535
+['1 point', '12 game']	['hockey team']	0.0827346205535
+['1 point', '12 game']	['2 point']	0.800552772617
+['1 point', '12 game']	['1 season']	0.508983028906
+['1 point', '12 game']	['championship']	0.35464705493
+['1 point', '12 game']	['point']	0.711153638019
+['1 point', '12 game']	['60 point']	0.800552772617
+['1 point', '12 game']	['win and tie']	0.0908034291173
+['1 point', '12 game']	['team have']	0.0827346205535
+['1 season', '12 game']	['hockey team']	0.0827346205535
+['1 season', '12 game']	['2 point']	0.423364656264
+['1 season', '12 game']	['1 point']	0.508983028906
+['1 season', '12 game']	['championship']	0.391831939938
+['1 season', '12 game']	['point']	0.0897078313301
+['1 season', '12 game']	['60 point']	0.423364656264
+['1 season', '12 game']	['win and tie']	0.0908034291173
+['1 season', '12 game']	['team have']	0.0827346205535
+['championship', '12 game']	['hockey team']	0.0827346205535
+['championship', '12 game']	['2 point']	0.123680464719
+['championship', '12 game']	['1 point']	0.123680464719
+['championship', '12 game']	['1 season']	0.149036431322
+['championship', '12 game']	['point']	0.700348226653
+['championship', '12 game']	['60 point']	0.423364656264
+['championship', '12 game']	['win and tie']	0.16331472499
+['championship', '12 game']	['team have']	0.0827346205535
+['point', '12 game']	['hockey team']	0.0476289326264
+['point', '12 game']	['2 point']	0.758350382025
+['point', '12 game']	['1 point']	0.758350382025
+['point', '12 game']	['1 season']	0.0563939725707
+['point', '12 game']	['championship']	0.75033551628
+['point', '12 game']	['60 point']	0.754520179409
+['point', '12 game']	['win and tie']	0.122317425436
+['point', '12 game']	['team have']	0.0465787639079
+['60 point', '12 game']	['hockey team']	0.0827346205535
+['60 point', '12 game']	['2 point']	0.677848280594
+['60 point', '12 game']	['1 point']	0.677848280594
+['60 point', '12 game']	['1 season']	0.23079127262
+['60 point', '12 game']	['championship']	0.35464705493
+['60 point', '12 game']	['point']	0.715656768736
+['60 point', '12 game']	['win and tie']	0.0908034291173
+['60 point', '12 game']	['team have']	0.0827346205535
+['win and tie', '12 game']	['hockey team']	0.152238479479
+['win and tie', '12 game']	['2 point']	0.183637364938
+['win and tie', '12 game']	['1 point']	0.183637364938
+['win and tie', '12 game']	['1 season']	0.183637364938
+['win and tie', '12 game']	['championship']	0.448186346902
+['win and tie', '12 game']	['point']	0.174651008128
+['win and tie', '12 game']	['60 point']	0.453327242541
+['win and tie', '12 game']	['team have']	0.152238479479
+['team have', '12 game']	['hockey team']	0.0827346205535
+['team have', '12 game']	['2 point']	0.126675736021
+['team have', '12 game']	['1 point']	0.126675736021
+['team have', '12 game']	['1 season']	0.126675736021
+['team have', '12 game']	['championship']	0.391831939938
+['team have', '12 game']	['point']	0.0897078313301
+['team have', '12 game']	['60 point']	0.362256416006
+['team have', '12 game']	['win and tie']	0.0908034291173
+['hockey team', 'win and tie']	['2 point']	0.152238479479
+['hockey team', 'win and tie']	['1 point']	0.152238479479
+['hockey team', 'win and tie']	['1 season']	0.152238479479
+['hockey team', 'win and tie']	['championship']	0.200720997088
+['hockey team', 'win and tie']	['point']	0.191116865215
+['hockey team', 'win and tie']	['60 point']	0.152238479479
+['hockey team', 'win and tie']	['12 game']	0.152238479479
+['hockey team', 'win and tie']	['team have']	0.152238479479
+['2 point', 'win and tie']	['hockey team']	0.152238479479
+['2 point', 'win and tie']	['1 point']	0.810888071258
+['2 point', 'win and tie']	['1 season']	0.453327242541
+['2 point', 'win and tie']	['championship']	0.203656233268
+['2 point', 'win and tie']	['point']	0.755181949516
+['2 point', 'win and tie']	['60 point']	0.658859294871
+['2 point', 'win and tie']	['12 game']	0.183637364938
+['2 point', 'win and tie']	['team have']	0.152238479479
+['1 point', 'win and tie']	['hockey team']	0.152238479479
+['1 point', 'win and tie']	['2 point']	0.810888071258
+['1 point', 'win and tie']	['1 season']	0.601995725418
+['1 point', 'win and tie']	['championship']	0.203656233268
+['1 point', 'win and tie']	['point']	0.755181949516
+['1 point', 'win and tie']	['60 point']	0.658859294871
+['1 point', 'win and tie']	['12 game']	0.183637364938
+['1 point', 'win and tie']	['team have']	0.152238479479
+['1 season', 'win and tie']	['hockey team']	0.152238479479
+['1 season', 'win and tie']	['2 point']	0.453327242541
+['1 season', 'win and tie']	['1 point']	0.601995725418
+['1 season', 'win and tie']	['championship']	0.211529795267
+['1 season', 'win and tie']	['point']	0.115677899527
+['1 season', 'win and tie']	['60 point']	0.183637364938
+['1 season', 'win and tie']	['12 game']	0.183637364938
+['1 season', 'win and tie']	['team have']	0.152238479479
+['championship', 'win and tie']	['hockey team']	0.0827346205535
+['championship', 'win and tie']	['2 point']	0.126675736021
+['championship', 'win and tie']	['1 point']	0.126675736021
+['championship', 'win and tie']	['1 season']	0.0827346205535
+['championship', 'win and tie']	['point']	0.672853534508
+['championship', 'win and tie']	['60 point']	0.126675736021
+['championship', 'win and tie']	['12 game']	0.358893758415
+['championship', 'win and tie']	['team have']	0.0827346205535
+['point', 'win and tie']	['hockey team']	0.0453544228225
+['point', 'win and tie']	['2 point']	0.56109535057
+['point', 'win and tie']	['1 point']	0.56109535057
+['point', 'win and tie']	['1 season']	0.0429586976843
+['point', 'win and tie']	['championship']	0.630454455546
+['point', 'win and tie']	['60 point']	0.585023351763
+['point', 'win and tie']	['12 game']	0.0877662986066
+['point', 'win and tie']	['team have']	0.0429586976843
+['60 point', 'win and tie']	['hockey team']	0.152238479479
+['60 point', 'win and tie']	['2 point']	0.658859294871
+['60 point', 'win and tie']	['1 point']	0.658859294871
+['60 point', 'win and tie']	['1 season']	0.183637364938
+['60 point', 'win and tie']	['championship']	0.203656233268
+['60 point', 'win and tie']	['point']	0.759685080233
+['60 point', 'win and tie']	['12 game']	0.453327242541
+['60 point', 'win and tie']	['team have']	0.152238479479
+['12 game', 'win and tie']	['hockey team']	0.152238479479
+['12 game', 'win and tie']	['2 point']	0.183637364938
+['12 game', 'win and tie']	['1 point']	0.183637364938
+['12 game', 'win and tie']	['1 season']	0.183637364938
+['12 game', 'win and tie']	['championship']	0.448186346902
+['12 game', 'win and tie']	['point']	0.174651008128
+['12 game', 'win and tie']	['60 point']	0.453327242541
+['12 game', 'win and tie']	['team have']	0.152238479479
+['team have', 'win and tie']	['hockey team']	0.152238479479
+['team have', 'win and tie']	['2 point']	0.15961386663
+['team have', 'win and tie']	['1 point']	0.15961386663
+['team have', 'win and tie']	['1 season']	0.15961386663
+['team have', 'win and tie']	['championship']	0.211529795267
+['team have', 'win and tie']	['point']	0.115677899527
+['team have', 'win and tie']	['60 point']	0.15961386663
+['team have', 'win and tie']	['12 game']	0.15961386663
+['hockey team', 'team have']	['2 point']	0.0827346205535
+['hockey team', 'team have']	['1 point']	0.0827346205535
+['hockey team', 'team have']	['1 season']	0.0827346205535
+['hockey team', 'team have']	['championship']	0.0777864840342
+['hockey team', 'team have']	['point']	0.0523274735279
+['hockey team', 'team have']	['60 point']	0.0827346205535
+['hockey team', 'team have']	['12 game']	0.0827346205535
+['hockey team', 'team have']	['win and tie']	0.0908034291173
+['2 point', 'team have']	['hockey team']	0.0827346205535
+['2 point', 'team have']	['1 point']	0.754360422532
+['2 point', 'team have']	['1 season']	0.362256416006
+['2 point', 'team have']	['championship']	0.15456816635
+['2 point', 'team have']	['point']	0.475468129066
+['2 point', 'team have']	['60 point']	0.604308352538
+['2 point', 'team have']	['12 game']	0.126675736021
+['2 point', 'team have']	['win and tie']	0.0908034291173
+['1 point', 'team have']	['hockey team']	0.0827346205535
+['1 point', 'team have']	['2 point']	0.754360422532
+['1 point', 'team have']	['1 season']	0.498338895266
+['1 point', 'team have']	['championship']	0.15456816635
+['1 point', 'team have']	['point']	0.475468129066
+['1 point', 'team have']	['60 point']	0.604308352538
+['1 point', 'team have']	['12 game']	0.126675736021
+['1 point', 'team have']	['win and tie']	0.0908034291173
+['1 season', 'team have']	['hockey team']	0.0827346205535
+['1 season', 'team have']	['2 point']	0.362256416006
+['1 season', 'team have']	['1 point']	0.498338895266
+['1 season', 'team have']	['championship']	0.0888375395985
+['1 season', 'team have']	['point']	0.0575843031668
+['1 season', 'team have']	['60 point']	0.126675736021
+['1 season', 'team have']	['12 game']	0.126675736021
+['1 season', 'team have']	['win and tie']	0.0908034291173
+['championship', 'team have']	['hockey team']	0.0827346205535
+['championship', 'team have']	['2 point']	0.124206600218
+['championship', 'team have']	['1 point']	0.124206600218
+['championship', 'team have']	['1 season']	0.0827346205535
+['championship', 'team have']	['point']	0.5489418413
+['championship', 'team have']	['60 point']	0.124206600218
+['championship', 'team have']	['12 game']	0.36371628928
+['championship', 'team have']	['win and tie']	0.149341147754
+['point', 'team have']	['hockey team']	0.0453544228225
+['point', 'team have']	['2 point']	0.563299713372
+['point', 'team have']	['1 point']	0.563299713372
+['point', 'team have']	['1 season']	0.0429586976843
+['point', 'team have']	['championship']	0.527165118453
+['point', 'team have']	['60 point']	0.587227714565
+['point', 'team have']	['12 game']	0.0852971628041
+['point', 'team have']	['win and tie']	0.0865547439517
+['60 point', 'team have']	['hockey team']	0.0827346205535
+['60 point', 'team have']	['2 point']	0.604308352538
+['60 point', 'team have']	['1 point']	0.604308352538
+['60 point', 'team have']	['1 season']	0.126675736021
+['60 point', 'team have']	['championship']	0.15456816635
+['60 point', 'team have']	['point']	0.491955654068
+['60 point', 'team have']	['12 game']	0.362256416006
+['60 point', 'team have']	['win and tie']	0.0908034291173
+['12 game', 'team have']	['hockey team']	0.0827346205535
+['12 game', 'team have']	['2 point']	0.126675736021
+['12 game', 'team have']	['1 point']	0.126675736021
+['12 game', 'team have']	['1 season']	0.126675736021
+['12 game', 'team have']	['championship']	0.391831939938
+['12 game', 'team have']	['point']	0.0897078313301
+['12 game', 'team have']	['60 point']	0.362256416006
+['12 game', 'team have']	['win and tie']	0.0908034291173
+['win and tie', 'team have']	['hockey team']	0.152238479479
+['win and tie', 'team have']	['2 point']	0.15961386663
+['win and tie', 'team have']	['1 point']	0.15961386663
+['win and tie', 'team have']	['1 season']	0.15961386663
+['win and tie', 'team have']	['championship']	0.211529795267
+['win and tie', 'team have']	['point']	0.115677899527
+['win and tie', 'team have']	['60 point']	0.15961386663
+['win and tie', 'team have']	['12 game']	0.15961386663

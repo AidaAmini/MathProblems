@@ -1,0 +1,28 @@
+(ROOT
+  (S
+    (NP (NNP Tony))
+    (VP (VBD planted) (NP (DT a) (CD 4) (NN foot) (NN tree)))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN tree))
+    (VP
+      (VBZ grows)
+      (PP
+        (IN at)
+        (NP
+          (NP (DT a) (NN rate))
+          (PP
+            (IN of)
+            (NP (NP (CD 5) (NNS feet)) (NP (DT every) (NN year)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS years))
+    (SQ
+      (MD will)
+      (NP (PRP it))
+      (VP
+        (VB take)
+        (S (VP (TO to) (VP (VB be) (NP (CD 29) (NNS feet)))))))
+    (. ?)))

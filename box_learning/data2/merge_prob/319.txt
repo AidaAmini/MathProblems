@@ -1,0 +1,132 @@
+['liter', '60 % acid solution', 'solution', '75 % acid solution', '20 liter', '72 % solution']
+['liter']	['60 % acid solution']	0.0229195678247
+['liter']	['solution']	0.0130093318431
+['liter']	['75 % acid solution']	0.0229195678247
+['liter']	['72 % solution']	0.0229195678247
+['60 % acid solution']	['75 % acid solution']	0.52269548391
+['60 % acid solution']	['20 liter']	0.367485344043
+['60 % acid solution']	['72 % solution']	0.510223793642
+['solution']	['20 liter']	0.044708454454
+['75 % acid solution']	['20 liter']	0.0988755105172
+['75 % acid solution']	['72 % solution']	0.510223793642
+['20 liter']	['72 % solution']	0.0941266761548
+['60 % acid solution', 'liter']	['solution']	0.291000952098
+['60 % acid solution', 'liter']	['75 % acid solution']	0.236181902927
+['60 % acid solution', 'liter']	['20 liter']	0.568163126162
+['60 % acid solution', 'liter']	['72 % solution']	0.247321457094
+['solution', 'liter']	['60 % acid solution']	0.327233151348
+['solution', 'liter']	['75 % acid solution']	0.327233151348
+['solution', 'liter']	['20 liter']	0.289651787779
+['solution', 'liter']	['72 % solution']	0.39204374255
+['75 % acid solution', 'liter']	['60 % acid solution']	0.236181902927
+['75 % acid solution', 'liter']	['solution']	0.291000952098
+['75 % acid solution', 'liter']	['20 liter']	0.459373846334
+['75 % acid solution', 'liter']	['72 % solution']	0.247321457094
+['20 liter', 'liter']	['60 % acid solution']	0.577901851166
+['20 liter', 'liter']	['solution']	0.279674438798
+['20 liter', 'liter']	['75 % acid solution']	0.332578556126
+['20 liter', 'liter']	['72 % solution']	0.332578556126
+['72 % solution', 'liter']	['60 % acid solution']	0.162952262861
+['72 % solution', 'liter']	['solution']	0.470301564714
+['72 % solution', 'liter']	['75 % acid solution']	0.162952262861
+['72 % solution', 'liter']	['20 liter']	0.395888983885
+['liter', '60 % acid solution']	['solution']	0.291000952098
+['liter', '60 % acid solution']	['75 % acid solution']	0.236181902927
+['liter', '60 % acid solution']	['20 liter']	0.568163126162
+['liter', '60 % acid solution']	['72 % solution']	0.247321457094
+['solution', '60 % acid solution']	['liter']	0.131987102224
+['solution', '60 % acid solution']	['75 % acid solution']	0.697648175916
+['solution', '60 % acid solution']	['20 liter']	0.612431298936
+['solution', '60 % acid solution']	['72 % solution']	0.853287455674
+['75 % acid solution', '60 % acid solution']	['liter']	0.159887342775
+['75 % acid solution', '60 % acid solution']	['solution']	0.740418830509
+['75 % acid solution', '60 % acid solution']	['20 liter']	0.621877755731
+['75 % acid solution', '60 % acid solution']	['72 % solution']	0.649709649865
+['20 liter', '60 % acid solution']	['liter']	0.411379705915
+['20 liter', '60 % acid solution']	['solution']	0.620253282372
+['20 liter', '60 % acid solution']	['75 % acid solution']	0.629361459157
+['20 liter', '60 % acid solution']	['72 % solution']	0.666457283984
+['72 % solution', '60 % acid solution']	['liter']	0.159887342775
+['72 % solution', '60 % acid solution']	['solution']	0.851621924645
+['72 % solution', '60 % acid solution']	['75 % acid solution']	0.645027848979
+['72 % solution', '60 % acid solution']	['20 liter']	0.647097557051
+['liter', 'solution']	['60 % acid solution']	0.327233151348
+['liter', 'solution']	['75 % acid solution']	0.327233151348
+['liter', 'solution']	['20 liter']	0.289651787779
+['liter', 'solution']	['72 % solution']	0.39204374255
+['60 % acid solution', 'solution']	['liter']	0.131987102224
+['60 % acid solution', 'solution']	['75 % acid solution']	0.697648175916
+['60 % acid solution', 'solution']	['20 liter']	0.612431298936
+['60 % acid solution', 'solution']	['72 % solution']	0.853287455674
+['75 % acid solution', 'solution']	['liter']	0.131987102224
+['75 % acid solution', 'solution']	['60 % acid solution']	0.697648175916
+['75 % acid solution', 'solution']	['20 liter']	0.180870663478
+['75 % acid solution', 'solution']	['72 % solution']	0.853287455674
+['20 liter', 'solution']	['liter']	0.466861498386
+['20 liter', 'solution']	['60 % acid solution']	0.654442934795
+['20 liter', 'solution']	['75 % acid solution']	0.582660381312
+['20 liter', 'solution']	['72 % solution']	0.691181051405
+['72 % solution', 'solution']	['liter']	0.175320435557
+['72 % solution', 'solution']	['60 % acid solution']	0.638426248359
+['72 % solution', 'solution']	['75 % acid solution']	0.638426248359
+['72 % solution', 'solution']	['20 liter']	0.17924276583
+['liter', '75 % acid solution']	['60 % acid solution']	0.236181902927
+['liter', '75 % acid solution']	['solution']	0.291000952098
+['liter', '75 % acid solution']	['20 liter']	0.459373846334
+['liter', '75 % acid solution']	['72 % solution']	0.247321457094
+['60 % acid solution', '75 % acid solution']	['liter']	0.159887342775
+['60 % acid solution', '75 % acid solution']	['solution']	0.740418830509
+['60 % acid solution', '75 % acid solution']	['20 liter']	0.621877755731
+['60 % acid solution', '75 % acid solution']	['72 % solution']	0.649709649865
+['solution', '75 % acid solution']	['liter']	0.131987102224
+['solution', '75 % acid solution']	['60 % acid solution']	0.697648175916
+['solution', '75 % acid solution']	['20 liter']	0.180870663478
+['solution', '75 % acid solution']	['72 % solution']	0.853287455674
+['20 liter', '75 % acid solution']	['liter']	0.411379705915
+['20 liter', '75 % acid solution']	['60 % acid solution']	0.792186499448
+['20 liter', '75 % acid solution']	['solution']	0.620253282372
+['20 liter', '75 % acid solution']	['72 % solution']	0.666457283984
+['72 % solution', '75 % acid solution']	['liter']	0.159887342775
+['72 % solution', '75 % acid solution']	['60 % acid solution']	0.645027848979
+['72 % solution', '75 % acid solution']	['solution']	0.851621924645
+['72 % solution', '75 % acid solution']	['20 liter']	0.127952343303
+['liter', '20 liter']	['60 % acid solution']	0.577901851166
+['liter', '20 liter']	['solution']	0.279674438798
+['liter', '20 liter']	['75 % acid solution']	0.332578556126
+['liter', '20 liter']	['72 % solution']	0.332578556126
+['60 % acid solution', '20 liter']	['liter']	0.411379705915
+['60 % acid solution', '20 liter']	['solution']	0.620253282372
+['60 % acid solution', '20 liter']	['75 % acid solution']	0.629361459157
+['60 % acid solution', '20 liter']	['72 % solution']	0.666457283984
+['solution', '20 liter']	['liter']	0.466861498386
+['solution', '20 liter']	['60 % acid solution']	0.654442934795
+['solution', '20 liter']	['75 % acid solution']	0.582660381312
+['solution', '20 liter']	['72 % solution']	0.691181051405
+['75 % acid solution', '20 liter']	['liter']	0.411379705915
+['75 % acid solution', '20 liter']	['60 % acid solution']	0.792186499448
+['75 % acid solution', '20 liter']	['solution']	0.620253282372
+['75 % acid solution', '20 liter']	['72 % solution']	0.666457283984
+['72 % solution', '20 liter']	['liter']	0.448416742952
+['72 % solution', '20 liter']	['60 % acid solution']	0.829397916175
+['72 % solution', '20 liter']	['solution']	0.818998895236
+['72 % solution', '20 liter']	['75 % acid solution']	0.652046644343
+['liter', '72 % solution']	['60 % acid solution']	0.162952262861
+['liter', '72 % solution']	['solution']	0.470301564714
+['liter', '72 % solution']	['75 % acid solution']	0.162952262861
+['liter', '72 % solution']	['20 liter']	0.395888983885
+['60 % acid solution', '72 % solution']	['liter']	0.159887342775
+['60 % acid solution', '72 % solution']	['solution']	0.851621924645
+['60 % acid solution', '72 % solution']	['75 % acid solution']	0.645027848979
+['60 % acid solution', '72 % solution']	['20 liter']	0.647097557051
+['solution', '72 % solution']	['liter']	0.175320435557
+['solution', '72 % solution']	['60 % acid solution']	0.638426248359
+['solution', '72 % solution']	['75 % acid solution']	0.638426248359
+['solution', '72 % solution']	['20 liter']	0.17924276583
+['75 % acid solution', '72 % solution']	['liter']	0.159887342775
+['75 % acid solution', '72 % solution']	['60 % acid solution']	0.645027848979
+['75 % acid solution', '72 % solution']	['solution']	0.851621924645
+['75 % acid solution', '72 % solution']	['20 liter']	0.127952343303
+['20 liter', '72 % solution']	['liter']	0.448416742952
+['20 liter', '72 % solution']	['60 % acid solution']	0.829397916175
+['20 liter', '72 % solution']	['solution']	0.818998895236
+['20 liter', '72 % solution']	['75 % acid solution']	0.652046644343

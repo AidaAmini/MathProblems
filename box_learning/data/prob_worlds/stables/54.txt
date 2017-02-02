@@ -1,0 +1,16 @@
+1
+[['card', '20', 'card', '-', '-', 'credit', '84'], ['red card', 'x1', 'card', 'credit', '3', '-', '-'], ['blue card', 'x2', 'card', 'credit', '5', '-', '-']]
+-1
+[['card', 'blue card', 'card', '-', 'credit', '5', 'x2'], ['red card', 'x1', 'card', 'credit', '3', '-', '-'], ['blue card', 'x2', '20', 'credit', '5', '-', '-']]
+-1
+[['card', 'blue card', 'card', '-', '-', 'credit', '84'], ['red card', 'x1', 'card', 'credit', '3', '-', '-'], ['blue card', 'x2', 'card', 'credit', '20', '84', '-']]
+-1
+[['blue card', '20', 'card', '-', '-', 'credit', '84'], ['red card', 'x1', 'card', 'credit', '3', '-', '-'], ['blue card', 'x2', 'card', 'credit', '84', '-', '-']]
+-1
+[['card', '20', 'card', '-', 'x2', 'blue card', '84'], ['red card', 'x1', 'card', 'credit', '3', '-', '-'], ['x2', '20', 'card', 'credit', '84', '-', '-']]
+-1
+[['card', '20', '5', '-', '-', 'x2', 'blue card'], ['red card', 'x1', 'card', 'credit', '3', '-', '-'], ['blue card', '84', 'card', 'credit', '5', '-', '20']]
+-1
+[['5', 'blue card', 'card', '-', '-', 'credit', '84'], ['red card', 'x1', 'card', 'credit', '3', '-', '-'], ['blue card', 'x2', 'card', 'credit', '5', '84', '-']]
+-1
+[['card', '5', 'card', '-', '-', 'credit', '84'], ['red card', 'x1', 'card', 'credit', '3', '-', '-'], ['blue card', 'x2', '20', 'credit', '-', '84', 'card']]

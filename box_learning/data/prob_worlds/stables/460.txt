@@ -1,0 +1,14 @@
+1
+[['-', '20', 'pound', 'dollar', '8.4', '-', '-'], ['kenyan french roast', 'x1', 'pound', 'dollar', '9', '-', '-'], ['sumatran coffee', 'x2', '-', 'dollar', '8', '-', '-']]
+-1
+[['-', '20', 'pound', 'sumatran coffee', 'x2', '8', '-'], ['kenyan french roast', 'x1', 'pound', 'dollar', '9', '-', '-'], ['sumatran coffee', 'x2', '-', 'dollar', '8', '20', 'pound']]
+-1
+[['-', '20', 'x2', 'sumatran coffee', '8.4', '-', '-'], ['kenyan french roast', 'x1', 'pound', 'dollar', '9', '-', '-'], ['sumatran coffee', 'x2', '-', 'dollar', '20', '-', '-']]
+-1
+[['-', '20', 'pound', 'dollar', '8.4', '-', '-'], ['kenyan french roast', 'x1', 'pound', 'dollar', '9', '-', '-'], ['sumatran coffee', '8.4', '-', 'dollar', '8', '-', '-']]
+-1
+[['x2', 'sumatran coffee', 'pound', 'dollar', '8.4', '-', '-'], ['kenyan french roast', 'x1', 'pound', 'dollar', '9', '-', '-'], ['sumatran coffee', '8.4', '-', 'pound', 'x2', '-', '-']]
+-1
+[['-', 'sumatran coffee', 'pound', '8', '8.4', '-', 'x2'], ['kenyan french roast', 'x1', 'pound', 'dollar', '9', '-', '-'], ['sumatran coffee', 'x2', '8.4', 'dollar', '8', '-', '-']]
+-1
+[['8', '20', 'pound', 'dollar', 'x2', '-', '-'], ['kenyan french roast', 'x1', 'pound', 'dollar', '9', '-', '-'], ['sumatran coffee', 'x2', '-', 'dollar', '8', '-', '-']]

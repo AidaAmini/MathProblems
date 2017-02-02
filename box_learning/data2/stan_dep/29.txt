@@ -1,0 +1,64 @@
+(ROOT
+  (S
+    (NP (EX There))
+    (VP
+      (VBP are)
+      (NP
+        (NP (CD 850) (NNS douglas))
+        (SBAR
+          (S
+            (NP (NN fir) (CC and) (NN ponderosa))
+            (VP
+              (VBP pine)
+              (NP
+                (NP (NNS trees))
+                (PP
+                  (IN in)
+                  (NP
+                    (NP (DT a) (NN section))
+                    (PP
+                      (IN of)
+                      (NP
+                        (NP (DT the) (NN forest))
+                        (VP
+                          (VBN bought)
+                          (PP (IN by) (NP (NNP Sawz)))
+                          (S (NP (VBG logging) (NN company))))))))))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN company))
+    (VP
+      (VBD paid)
+      (SBAR
+        (S
+          (NP
+            (NP (DT an) (NN average))
+            (PP
+              (IN of)
+              (NP
+                (NP
+                  (NP (CD 300) (NNS dollars))
+                  (PP (IN for) (NP (DT each) (NNS douglas) (NN fir))))
+                (CC and)
+                (NP
+                  (NP (CD 250) (NNS dollars))
+                  (PP (IN for) (NP (DT each) (NN ponderosa)))))))
+          (VP (VBP pine)))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN if)
+      (S
+        (NP (DT the) (NN company))
+        (VP
+          (VBD paid)
+          (NP (CD 217,500) (NNS dollars))
+          (PP (IN for) (NP (DT the) (NNS trees))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (NP (NP (NNS firs)) (CC and) (NP (NNS pines))))
+    (SQ (VBD did) (NP (PRP they)) (VP (VB buy)))
+    (. ?)))

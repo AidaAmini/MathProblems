@@ -1,0 +1,8 @@
+main seat ticket	seat arena
+seat arena	back seat ticket
+back seat ticket	seat arena
+seat arena	main seat ticket
+main seat ticket	seat
+seat	back seat ticket
+back seat ticket	seat
+seat	dollar

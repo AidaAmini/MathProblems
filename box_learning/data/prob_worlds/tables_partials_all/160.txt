@@ -1,0 +1,298 @@
+1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['-', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['question', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['question', '-', '-', 'score'], ['-', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['question', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['-', '-', 'point', '-']]
+1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['-', '-', '-', 'score'], ['-', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['-', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['-', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['-', '-', 'point', '-']]
+1
+[['-', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['-', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['question', '-', '-', '-'], ['correct answer', '-', '-', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['question', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['-', '-', 'point', '-']]
+1
+[['question', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['question', '-', '-', 'score'], ['-', '-', '-', '-'], ['incorrect answer', '-', 'point', '-']]
+1
+[['question', '-', '-', 'score'], ['-', '-', 'point', '-'], ['-', '-', 'point', '-']]
+1
+[['question', '-', '-', 'score'], ['-', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['question', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['-', '-', 'point', '-']]
+1
+[['question', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['-', '-', '-', 'score'], ['-', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['-', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['-', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['-', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['correct answer', '-', '-', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', 'score'], ['-', '-', '-', '-'], ['incorrect answer', '-', '-', '-']]
+1
+[['question', '-', '-', 'score'], ['-', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'score'], ['-', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['-', '-', 'point', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['correct answer', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', 'score'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['correct answer', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'score'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['question', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'point'], ['correct answer', '-', 'point', 'question'], ['correct answer', '-', 'point', '-']]
+-1
+[['question', 'incorrect answer', '-', 'score'], ['incorrect answer', '-', 'point', '-'], ['incorrect answer', 'question', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'score', '-']]
+-1
+[['question', 'point', '-', 'score'], ['question', '-', 'point', '-'], ['incorrect answer', '-', 'point', 'question']]
+-1
+[['correct answer', '-', '-', 'score'], ['correct answer', 'score', 'point', '-'], ['correct answer', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', 'unanswered question']]
+-1
+[['point', '-', '-', 'score'], ['incorrect answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['-', '-', '-', 'score'], ['correct answer', 'incorrect answer', 'point', '-'], ['incorrect answer', '-', 'point', 'correct answer']]
+-1
+[['-', '-', '-', 'score'], ['score', '-', 'point', '-'], ['correct answer', '-', 'point', '-']]
+-1
+[['-', '-', 'incorrect answer', 'score'], ['score', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['incorrect answer', '-', 'correct answer', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['-', '-', 'nothing', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['correct answer', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'correct answer', '-']]
+-1
+[['question', '-', 'point', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'question', '-']]
+-1
+[['incorrect answer', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'question', '-']]
+-1
+[['question', 'correct answer', '-', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'question', '-']]
+-1
+[['question', '-', '-', '-'], ['incorrect answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', 'question']]
+-1
+[['question', '-', '-', 'college entrance exam'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['question', '-', 'point', 'score'], ['-', '-', 'point', '-'], ['incorrect answer', '-', 'point', 'score']]
+-1
+[['point', '-', '-', 'score'], ['-', 'incorrect answer', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['question', '-', 'point', 'score'], ['-', '-', 'point', 'score'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', 'point', '-'], ['score', '-', 'point', 'question']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', 'question', '-'], ['score', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', 'nothing', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['point', '-', '-', 'score'], ['correct answer', 'incorrect answer', '-', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['point', '-', '-', 'score'], ['correct answer', '-', '-', 'point'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['question', 'correct answer', '-', 'score'], ['correct answer', '-', '-', 'score'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['question', 'correct answer', '-', 'score'], ['correct answer', '-', '-', '-'], ['question', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', 'score', '-', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['question', 'nothing', '-', 'score'], ['correct answer', '-', '-', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['point', '-', '-', 'correct answer'], ['correct answer', '-', 'point', '-'], ['-', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', 'score', 'point', '-'], ['-', 'score', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', 'score'], ['-', '-', 'score', '-']]
+-1
+[['question', '-', '-', 'score'], ['score', '-', 'question', '-'], ['-', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'point'], ['correct answer', '-', 'point', '-'], ['-', 'correct answer', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', 'unanswered question'], ['-', '-', 'point', '-']]
+-1
+[['question', '-', 'point', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', 'score', '-']]
+-1
+[['question', '-', '-', 'incorrect answer'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', 'correct answer']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'incorrect answer', '-'], ['incorrect answer', '-', '-', 'correct answer']]
+-1
+[['question', '-', 'incorrect answer', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', 'score', 'point', '-'], ['incorrect answer', 'point', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', 'college entrance exam', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['correct answer', '-', 'point', 'incorrect answer'], ['score', '-', '-', '-']]
+-1
+[['-', 'correct answer', '-', 'score'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['score', '-', 'point', '-'], ['incorrect answer', '-', 'point', '-']]
+-1
+[['-', '-', 'correct answer', 'score'], ['correct answer', 'incorrect answer', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['incorrect answer', '-', 'point', '-'], ['incorrect answer', 'score', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['correctly', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['correct answer', 'question', 'point', '-'], ['point', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['correct answer', 'point', '-', '-']]
+-1
+[['question', '-', '-', 'correct answer'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', 'correct answer']]
+-1
+[['question', 'incorrect answer', '-', '-'], ['correct answer', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', '-', 'incorrect answer', '-'], ['correct answer', 'incorrect answer', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['correct answer', '-', 'point', 'unanswered question'], ['incorrect answer', '-', '-', '-']]
+-1
+[['point', '-', '-', 'score'], ['-', '-', 'point', '-'], ['incorrect answer', 'point', '-', '-']]
+-1
+[['question', 'incorrect answer', '-', 'score'], ['-', '-', 'score', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', 'point', '-'], ['incorrect answer', 'point', '-', 'question']]
+-1
+[['question', '-', '-', 'score'], ['score', '-', 'point', '-'], ['incorrect answer', 'score', '-', '-']]
+-1
+[['incorrect answer', '-', '-', 'score'], ['-', '-', 'point', 'incorrect answer'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', 'college entrance exam', '-', 'score'], ['-', '-', 'point', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', '-', 'correct answer', 'score'], ['correct answer', '-', 'incorrect answer', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', '-', '-', 'correct answer'], ['question', '-', '-', '-'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['question', '-', '-', '-'], ['score', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['question', '-', '-', '-'], ['question', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', 'incorrect answer', '-', '-'], ['incorrect answer', '-', '-', 'score']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', '-', 'college entrance exam'], ['incorrect answer', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['score', '-', 'point', '-'], ['correct answer', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', 'score', 'point', '-'], ['-', '-', '-', 'score']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['-', 'correct answer', 'question', '-']]
+-1
+[['question', '-', '-', 'score'], ['score', '-', 'point', '-'], ['-', '-', 'point', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['point', '-', 'correct answer', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['-', '-', 'unanswered question', '-']]
+-1
+[['-', '-', '-', 'point'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['point', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['score', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['correct answer', '-', 'point', '-'], ['-', 'score', '-', '-']]
+-1
+[['-', '-', '-', 'correct answer'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', 'correct answer', '-'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['correct answer', 'question', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['correct answer', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', 'point', '-'], ['correct answer', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['correct answer', '-', 'point', '-'], ['point', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', 'point', '-'], ['-', 'point', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', 'point', '-'], ['-', 'score', '-', '-']]
+-1
+[['question', 'point', '-', 'score'], ['-', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['question', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', 'point', 'score'], ['-', '-', 'point', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', 'question', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', '-', 'question'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['-', '-', '-', 'score']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', 'score', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['correct answer', '-', '-', '-']]
+-1
+[['correct answer', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['score', '-', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['-', 'correct answer', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['correct answer', 'score', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'score'], ['correct answer', '-', '-', '-'], ['-', '-', '-', 'correct answer']]
+-1
+[['question', '-', '-', '-'], ['correct answer', 'question', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['question', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['correct answer', '-', '-', '-'], ['-', '-', '-', 'correct answer']]
+-1
+[['question', '-', '-', '-'], ['correct answer', '-', '-', '-'], ['question', '-', '-', '-']]
+-1
+[['question', '-', '-', '-'], ['correct answer', '-', '-', '-'], ['correct answer', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', '-', '-'], ['score', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', '-', 'question'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', '-', '-'], ['-', 'question', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', 'score', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['question', '-', '-', 'score'], ['-', '-', '-', '-'], ['-', '-', '-', 'question']]

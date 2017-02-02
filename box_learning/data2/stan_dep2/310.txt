@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT A) (NN jazz) (NN concert))
+    (VP
+      (VBN brought)
+      (PP
+        (IN in)
+        (NP
+          (NP (CD 191,000) (NNS dollars))
+          (PP
+            (IN with)
+            (NP
+              (NP (DT the) (NN sale))
+              (PP (IN of) (NP (CD 7400) (NNS tickets))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (NNS tickets))
+        (VP
+          (VBD were)
+          (VP
+            (VBN sold)
+            (PP
+              (IN for)
+              (NP
+                (NP (CD 20) (NNS dollars))
+                (CC and)
+                (NP (NP (CD 30) (NNS dollars)) (NP (DT each)))))))))
+    (, ,)
+    (WHNP
+      (WHADJP (WRB how) (JJ many))
+      (ADJP (JJ 20-dollar))
+      (NNS tickets))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))
+(ROOT
+  (FRAG
+    (WHADVP (WRB How) (JJ many))
+    (NP (JJ 30-dollar) (NNS tickets))
+    (. ?)))

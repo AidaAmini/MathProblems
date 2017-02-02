@@ -1,0 +1,18 @@
+produce ARG0 A manufacturer
+produce ARG1 two models of the same toy , Model A and Model B
+
+take ARG0 Model A
+produce ARG1 8 dollars each
+take ARG0 to produce
+take ARG1 4 hours
+
+
+produce ARG1 7 dollars each
+
+produce ADV If the manufacturer allots a total of 5800 hours and 12,600 dollars for production each week
+allot ARG0 the manufacturer
+allot TMP each week
+allot ARG1 a total of 5800 hours and 12,600 dollars for production
+produce ARG1 many of each model
+produce MOD will
+

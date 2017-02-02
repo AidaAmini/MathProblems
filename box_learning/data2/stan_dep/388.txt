@@ -1,0 +1,42 @@
+(ROOT
+  (S
+    (NP (DT An) (NN amusement) (NN park))
+    (VP
+      (VBZ sells)
+      (NP (NP (CD 2) (NNS kinds)) (PP (IN of) (NP (NNS tickets)))))
+    (. .)))
+(ROOT
+  (S
+    (NP (NP (NNS Tickets)) (PP (IN for) (NP (NNS children))))
+    (VP (VBP are) (NP (CD 1.50) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (NP (JJ Adult) (NNS tickets))
+    (VP (VBP are) (NP (CD 4) (NNS dollars)))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN On) (NP (DT a) (JJ certain) (NN day)))
+    (, ,)
+    (NP (CD 278) (NNS people))
+    (VP (VBD entered) (NP (DT the) (NN park)))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN On) (NP (DT that) (JJ same) (NN day)))
+    (NP (NP (DT the) (NN admission) (NNS fees)) (VP (VBN collected)))
+    (VP (VBD totaled) (NP (CD 792) (NNS dollars)))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS children))
+    (SQ
+      (VBD were)
+      (VP (VBN admitted) (PP (IN on) (NP (DT that) (NN day)))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (NNS adults))
+    (SQ (VBD were) (VP (VBN admitted)))
+    (. ?)))

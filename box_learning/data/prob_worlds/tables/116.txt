@@ -1,0 +1,14 @@
+1
+[['3 muffin and a bottle of juice', '', '-', '-', '-', 'dollar', '3.7'], ['muffin', '3', '-', 'dollar', 'x1', '-', '-'], ['juice', '1', '-', 'dollar', '1.45', '-', '-']]
+-1
+[['3 muffin and a bottle of juice', '', '1', '-', '3.7', 'dollar', '1.45'], ['muffin', '3', '-', 'dollar', 'x1', '-', '-'], ['3.7', '1', '-', 'dollar', '1.45', '-', '3 muffin and a bottle of juice']]
+-1
+[['3 muffin and a bottle of juice', '', '-', '-', '1', '1.45', 'dollar'], ['muffin', '3', '-', 'dollar', 'x1', '-', '-'], ['3.7', '1', '3 muffin and a bottle of juice', 'dollar', '1.45', '-', '-']]
+-1
+[['3 muffin and a bottle of juice', '', 'juice', '1', '-', 'dollar', '3.7'], ['muffin', '3', '-', 'dollar', 'x1', '-', '-'], ['juice', '1', '3.7', 'dollar', '3 muffin and a bottle of juice', '-', '-']]
+-1
+[['3 muffin and a bottle of juice', '', '1', '-', '-', '1.45', '3.7'], ['muffin', '3', '-', 'dollar', 'x1', '-', '-'], ['juice', '3 muffin and a bottle of juice', '', '1', '1.45', 'dollar', '-']]
+-1
+[['1', '', '-', '1.45', '-', 'dollar', '3.7'], ['muffin', '3', '-', 'dollar', 'x1', '-', '-'], ['juice', '1', '-', 'dollar', '1.45', '3.7', '-']]
+-1
+[['3 muffin and a bottle of juice', '1', '-', 'juice', '-', 'dollar', '3.7'], ['muffin', '3', '-', 'dollar', 'x1', '-', '-'], ['juice', '1', '-', 'dollar', '3.7', '', '-']]

@@ -1,0 +1,761 @@
+['theatre', 'ticket', '4.50 dollar', '6.00 dollar', '380 ticket', 'last performance', 'performance', 'mouse', 'dollar', '1972.50 dollar']
+['theatre']	['theatre']	0.165527012393
+['theatre']	['theatre']	0.0874805445417
+['theatre']	['theatre']	0.0874805445417
+['theatre']	['theatre']	0.107818863742
+['theatre']	['theatre']	0.0822743290541
+['theatre']	['theatre']	0.418488510328
+['theatre']	['theatre']	0.144371359369
+['theatre']	['theatre']	0.02812329912
+['theatre']	['theatre']	0.0807598022609
+['ticket']	['ticket']	0.0860558725811
+['ticket']	['ticket']	0.0860558725811
+['ticket']	['ticket']	0.0573294956278
+['ticket']	['ticket']	0.049057521236
+['ticket']	['ticket']	0.0643152516816
+['ticket']	['ticket']	0.00847248349399
+['ticket']	['ticket']	0.0827936256965
+['4.50 dollar']	['4.50 dollar']	0.534923670979
+['4.50 dollar']	['4.50 dollar']	0.0380145315322
+['4.50 dollar']	['4.50 dollar']	0.0380145315322
+['4.50 dollar']	['4.50 dollar']	0.0418625923829
+['4.50 dollar']	['4.50 dollar']	0.0424459812087
+['4.50 dollar']	['4.50 dollar']	0.380387687663
+['6.00 dollar']	['6.00 dollar']	0.0380145315322
+['6.00 dollar']	['6.00 dollar']	0.0380145315322
+['6.00 dollar']	['6.00 dollar']	0.0418625923829
+['6.00 dollar']	['6.00 dollar']	0.0424459812087
+['6.00 dollar']	['6.00 dollar']	0.380387687663
+['380 ticket']	['380 ticket']	0.0690143673113
+['380 ticket']	['380 ticket']	0.0658280509311
+['380 ticket']	['380 ticket']	0.12004197838
+['380 ticket']	['380 ticket']	0.0180301487104
+['380 ticket']	['380 ticket']	0.0690143673113
+['last performance']	['last performance']	0.0824169897896
+['last performance']	['last performance']	0.017490982363
+['last performance']	['last performance']	0.0690143673113
+['performance']	['performance']	0.0497313518957
+['performance']	['performance']	0.0191861586154
+['performance']	['performance']	0.0726311745998
+['mouse']	['mouse']	0.0348879588403
+['mouse']	['mouse']	0.0807598022609
+['ticket', 'theatre']	['ticket', 'theatre']	0.0907617968869
+['ticket', 'theatre']	['ticket', 'theatre']	0.0907617968869
+['ticket', 'theatre']	['ticket', 'theatre']	0.0538875613422
+['ticket', 'theatre']	['ticket', 'theatre']	0.0726311745998
+['ticket', 'theatre']	['ticket', 'theatre']	0.11199511102
+['ticket', 'theatre']	['ticket', 'theatre']	0.138315236697
+['ticket', 'theatre']	['ticket', 'theatre']	0.00847248349399
+['ticket', 'theatre']	['ticket', 'theatre']	0.0874995500023
+['4.50 dollar', 'theatre']	['4.50 dollar', 'theatre']	0.0350789803451
+['4.50 dollar', 'theatre']	['4.50 dollar', 'theatre']	0.149024252958
+['4.50 dollar', 'theatre']	['4.50 dollar', 'theatre']	0.0668786179967
+['4.50 dollar', 'theatre']	['4.50 dollar', 'theatre']	0.0601666557079
+['4.50 dollar', 'theatre']	['4.50 dollar', 'theatre']	0.0342220510459
+['4.50 dollar', 'theatre']	['4.50 dollar', 'theatre']	0.0941155535823
+['4.50 dollar', 'theatre']	['4.50 dollar', 'theatre']	0.0432740235322
+['4.50 dollar', 'theatre']	['4.50 dollar', 'theatre']	0.117733533607
+['6.00 dollar', 'theatre']	['6.00 dollar', 'theatre']	0.0350789803451
+['6.00 dollar', 'theatre']	['6.00 dollar', 'theatre']	0.149024252958
+['6.00 dollar', 'theatre']	['6.00 dollar', 'theatre']	0.0668786179967
+['6.00 dollar', 'theatre']	['6.00 dollar', 'theatre']	0.0601666557079
+['6.00 dollar', 'theatre']	['6.00 dollar', 'theatre']	0.0342220510459
+['6.00 dollar', 'theatre']	['6.00 dollar', 'theatre']	0.0941155535823
+['6.00 dollar', 'theatre']	['6.00 dollar', 'theatre']	0.0432740235322
+['6.00 dollar', 'theatre']	['6.00 dollar', 'theatre']	0.117733533607
+['380 ticket', 'theatre']	['380 ticket', 'theatre']	0.0380462316382
+['380 ticket', 'theatre']	['380 ticket', 'theatre']	0.0829238010053
+['380 ticket', 'theatre']	['380 ticket', 'theatre']	0.0829238010053
+['380 ticket', 'theatre']	['380 ticket', 'theatre']	0.0832961294168
+['380 ticket', 'theatre']	['380 ticket', 'theatre']	0.0715487512956
+['380 ticket', 'theatre']	['380 ticket', 'theatre']	0.131805983923
+['380 ticket', 'theatre']	['380 ticket', 'theatre']	0.0940379997873
+['380 ticket', 'theatre']	['380 ticket', 'theatre']	0.0821022377173
+['last performance', 'theatre']	['last performance', 'theatre']	0.0475671946613
+['last performance', 'theatre']	['last performance', 'theatre']	0.0829238010053
+['last performance', 'theatre']	['last performance', 'theatre']	0.0829238010053
+['last performance', 'theatre']	['last performance', 'theatre']	0.089044483953
+['last performance', 'theatre']	['last performance', 'theatre']	0.0194078944506
+['last performance', 'theatre']	['last performance', 'theatre']	0.0737832493598
+['last performance', 'theatre']	['last performance', 'theatre']	0.0800423284647
+['last performance', 'theatre']	['last performance', 'theatre']	0.0821022377173
+['performance', 'theatre']	['performance', 'theatre']	0.070500996037
+['performance', 'theatre']	['performance', 'theatre']	0.0767937492268
+['performance', 'theatre']	['performance', 'theatre']	0.0767937492268
+['performance', 'theatre']	['performance', 'theatre']	0.0726311745998
+['performance', 'theatre']	['performance', 'theatre']	0.0470541729804
+['performance', 'theatre']	['performance', 'theatre']	0.0756525253992
+['performance', 'theatre']	['performance', 'theatre']	0.00847248349399
+['performance', 'theatre']	['performance', 'theatre']	0.0726311745998
+['mouse', 'theatre']	['mouse', 'theatre']	0.145445815937
+['mouse', 'theatre']	['mouse', 'theatre']	0.0874805445417
+['mouse', 'theatre']	['mouse', 'theatre']	0.0874805445417
+['mouse', 'theatre']	['mouse', 'theatre']	0.107818863742
+['mouse', 'theatre']	['mouse', 'theatre']	0.0822743290541
+['mouse', 'theatre']	['mouse', 'theatre']	0.122546401665
+['mouse', 'theatre']	['mouse', 'theatre']	0.131438835922
+['mouse', 'theatre']	['mouse', 'theatre']	0.0807598022609
+['dollar', 'theatre']	['dollar', 'theatre']	0.0525068770002
+['dollar', 'theatre']	['dollar', 'theatre']	0.0470234119339
+['dollar', 'theatre']	['dollar', 'theatre']	0.0470234119339
+['dollar', 'theatre']	['dollar', 'theatre']	0.0447889293592
+['dollar', 'theatre']	['dollar', 'theatre']	0.0332277349527
+['dollar', 'theatre']	['dollar', 'theatre']	0.179787578492
+['dollar', 'theatre']	['dollar', 'theatre']	0.0934850017336
+['dollar', 'theatre']	['dollar', 'theatre']	0.0979079625696
+['1972.50 dollar', 'theatre']	['1972.50 dollar', 'theatre']	0.0512837305249
+['1972.50 dollar', 'theatre']	['1972.50 dollar', 'theatre']	0.18575129585
+['1972.50 dollar', 'theatre']	['1972.50 dollar', 'theatre']	0.18575129585
+['1972.50 dollar', 'theatre']	['1972.50 dollar', 'theatre']	0.089044483953
+['1972.50 dollar', 'theatre']	['1972.50 dollar', 'theatre']	0.0832961294168
+['1972.50 dollar', 'theatre']	['1972.50 dollar', 'theatre']	0.0487217981093
+['1972.50 dollar', 'theatre']	['1972.50 dollar', 'theatre']	0.0737832493598
+['1972.50 dollar', 'theatre']	['1972.50 dollar', 'theatre']	0.0640394314139
+['theatre', 'ticket']	['theatre', 'ticket']	0.0907617968869
+['theatre', 'ticket']	['theatre', 'ticket']	0.0907617968869
+['theatre', 'ticket']	['theatre', 'ticket']	0.0538875613422
+['theatre', 'ticket']	['theatre', 'ticket']	0.0726311745998
+['theatre', 'ticket']	['theatre', 'ticket']	0.11199511102
+['theatre', 'ticket']	['theatre', 'ticket']	0.138315236697
+['theatre', 'ticket']	['theatre', 'ticket']	0.00847248349399
+['theatre', 'ticket']	['theatre', 'ticket']	0.0874995500023
+['4.50 dollar', 'ticket']	['4.50 dollar', 'ticket']	0.0295538350908
+['4.50 dollar', 'ticket']	['4.50 dollar', 'ticket']	0.157458598498
+['4.50 dollar', 'ticket']	['4.50 dollar', 'ticket']	0.0421536060737
+['4.50 dollar', 'ticket']	['4.50 dollar', 'ticket']	0.0511552063042
+['4.50 dollar', 'ticket']	['4.50 dollar', 'ticket']	0.0936418298288
+['4.50 dollar', 'ticket']	['4.50 dollar', 'ticket']	0.0364926685843
+['4.50 dollar', 'ticket']	['4.50 dollar', 'ticket']	0.0437177831624
+['4.50 dollar', 'ticket']	['4.50 dollar', 'ticket']	0.134501212481
+['6.00 dollar', 'ticket']	['6.00 dollar', 'ticket']	0.0295538350908
+['6.00 dollar', 'ticket']	['6.00 dollar', 'ticket']	0.157458598498
+['6.00 dollar', 'ticket']	['6.00 dollar', 'ticket']	0.0421536060737
+['6.00 dollar', 'ticket']	['6.00 dollar', 'ticket']	0.0511552063042
+['6.00 dollar', 'ticket']	['6.00 dollar', 'ticket']	0.0936418298288
+['6.00 dollar', 'ticket']	['6.00 dollar', 'ticket']	0.0364926685843
+['6.00 dollar', 'ticket']	['6.00 dollar', 'ticket']	0.0437177831624
+['6.00 dollar', 'ticket']	['6.00 dollar', 'ticket']	0.134501212481
+['380 ticket', 'ticket']	['380 ticket', 'ticket']	0.0312102494893
+['380 ticket', 'ticket']	['380 ticket', 'ticket']	0.108364569109
+['380 ticket', 'ticket']	['380 ticket', 'ticket']	0.108364569109
+['380 ticket', 'ticket']	['380 ticket', 'ticket']	0.0544379520248
+['380 ticket', 'ticket']	['380 ticket', 'ticket']	0.150535040735
+['380 ticket', 'ticket']	['380 ticket', 'ticket']	0.0332343293986
+['380 ticket', 'ticket']	['380 ticket', 'ticket']	0.0558695923582
+['380 ticket', 'ticket']	['380 ticket', 'ticket']	0.0831881114912
+['last performance', 'ticket']	['last performance', 'ticket']	0.0301723007288
+['last performance', 'ticket']	['last performance', 'ticket']	0.0736726043194
+['last performance', 'ticket']	['last performance', 'ticket']	0.0736726043194
+['last performance', 'ticket']	['last performance', 'ticket']	0.0421536060737
+['last performance', 'ticket']	['last performance', 'ticket']	0.0172673889164
+['last performance', 'ticket']	['last performance', 'ticket']	0.0375814458037
+['last performance', 'ticket']	['last performance', 'ticket']	0.0188172286603
+['last performance', 'ticket']	['last performance', 'ticket']	0.0653598500094
+['performance', 'ticket']	['performance', 'ticket']	0.28815835878
+['performance', 'ticket']	['performance', 'ticket']	0.102392277943
+['performance', 'ticket']	['performance', 'ticket']	0.102392277943
+['performance', 'ticket']	['performance', 'ticket']	0.0538875613422
+['performance', 'ticket']	['performance', 'ticket']	0.0489393604663
+['performance', 'ticket']	['performance', 'ticket']	0.0557937746538
+['performance', 'ticket']	['performance', 'ticket']	0.0184015615082
+['performance', 'ticket']	['performance', 'ticket']	0.0991300310581
+['mouse', 'ticket']	['mouse', 'ticket']	0.140208588371
+['mouse', 'ticket']	['mouse', 'ticket']	0.0907617968869
+['mouse', 'ticket']	['mouse', 'ticket']	0.0907617968869
+['mouse', 'ticket']	['mouse', 'ticket']	0.0510879143086
+['mouse', 'ticket']	['mouse', 'ticket']	0.0726311745998
+['mouse', 'ticket']	['mouse', 'ticket']	0.058261961569
+['mouse', 'ticket']	['mouse', 'ticket']	0.0184015615082
+['mouse', 'ticket']	['mouse', 'ticket']	0.0874995500023
+['dollar', 'ticket']	['dollar', 'ticket']	0.126579843826
+['dollar', 'ticket']	['dollar', 'ticket']	0.0482603301029
+['dollar', 'ticket']	['dollar', 'ticket']	0.0482603301029
+['dollar', 'ticket']	['dollar', 'ticket']	0.05923433853
+['dollar', 'ticket']	['dollar', 'ticket']	0.0473831707119
+['dollar', 'ticket']	['dollar', 'ticket']	0.0476896307554
+['dollar', 'ticket']	['dollar', 'ticket']	0.031340394859
+['dollar', 'ticket']	['dollar', 'ticket']	0.0984503203865
+['1972.50 dollar', 'ticket']	['1972.50 dollar', 'ticket']	0.0295538350908
+['1972.50 dollar', 'ticket']	['1972.50 dollar', 'ticket']	0.159998281038
+['1972.50 dollar', 'ticket']	['1972.50 dollar', 'ticket']	0.159998281038
+['1972.50 dollar', 'ticket']	['1972.50 dollar', 'ticket']	0.0421536060737
+['1972.50 dollar', 'ticket']	['1972.50 dollar', 'ticket']	0.0395247252484
+['1972.50 dollar', 'ticket']	['1972.50 dollar', 'ticket']	0.0936418298288
+['1972.50 dollar', 'ticket']	['1972.50 dollar', 'ticket']	0.0364926685843
+['1972.50 dollar', 'ticket']	['1972.50 dollar', 'ticket']	0.0413781715737
+['theatre', '4.50 dollar']	['theatre', '4.50 dollar']	0.0350789803451
+['theatre', '4.50 dollar']	['theatre', '4.50 dollar']	0.149024252958
+['theatre', '4.50 dollar']	['theatre', '4.50 dollar']	0.0668786179967
+['theatre', '4.50 dollar']	['theatre', '4.50 dollar']	0.0601666557079
+['theatre', '4.50 dollar']	['theatre', '4.50 dollar']	0.0342220510459
+['theatre', '4.50 dollar']	['theatre', '4.50 dollar']	0.0941155535823
+['theatre', '4.50 dollar']	['theatre', '4.50 dollar']	0.0432740235322
+['theatre', '4.50 dollar']	['theatre', '4.50 dollar']	0.117733533607
+['ticket', '4.50 dollar']	['ticket', '4.50 dollar']	0.0295538350908
+['ticket', '4.50 dollar']	['ticket', '4.50 dollar']	0.157458598498
+['ticket', '4.50 dollar']	['ticket', '4.50 dollar']	0.0421536060737
+['ticket', '4.50 dollar']	['ticket', '4.50 dollar']	0.0511552063042
+['ticket', '4.50 dollar']	['ticket', '4.50 dollar']	0.0936418298288
+['ticket', '4.50 dollar']	['ticket', '4.50 dollar']	0.0364926685843
+['ticket', '4.50 dollar']	['ticket', '4.50 dollar']	0.0437177831624
+['ticket', '4.50 dollar']	['ticket', '4.50 dollar']	0.134501212481
+['6.00 dollar', '4.50 dollar']	['6.00 dollar', '4.50 dollar']	0.0467676883878
+['6.00 dollar', '4.50 dollar']	['6.00 dollar', '4.50 dollar']	0.0912101317416
+['6.00 dollar', '4.50 dollar']	['6.00 dollar', '4.50 dollar']	0.0529277583086
+['6.00 dollar', '4.50 dollar']	['6.00 dollar', '4.50 dollar']	0.0529277583086
+['6.00 dollar', '4.50 dollar']	['6.00 dollar', '4.50 dollar']	0.0498264885986
+['6.00 dollar', '4.50 dollar']	['6.00 dollar', '4.50 dollar']	0.0467676883878
+['6.00 dollar', '4.50 dollar']	['6.00 dollar', '4.50 dollar']	0.026828442989
+['6.00 dollar', '4.50 dollar']	['6.00 dollar', '4.50 dollar']	0.398480504515
+['380 ticket', '4.50 dollar']	['380 ticket', '4.50 dollar']	0.0424459812087
+['380 ticket', '4.50 dollar']	['380 ticket', '4.50 dollar']	0.0331254589966
+['380 ticket', '4.50 dollar']	['380 ticket', '4.50 dollar']	0.162718384412
+['380 ticket', '4.50 dollar']	['380 ticket', '4.50 dollar']	0.0380145315322
+['380 ticket', '4.50 dollar']	['380 ticket', '4.50 dollar']	0.0418625923829
+['380 ticket', '4.50 dollar']	['380 ticket', '4.50 dollar']	0.0424459812087
+['380 ticket', '4.50 dollar']	['380 ticket', '4.50 dollar']	0.0186874738687
+['380 ticket', '4.50 dollar']	['380 ticket', '4.50 dollar']	0.132643844012
+['last performance', '4.50 dollar']	['last performance', '4.50 dollar']	0.0419756696272
+['last performance', '4.50 dollar']	['last performance', '4.50 dollar']	0.0495850429518
+['last performance', '4.50 dollar']	['last performance', '4.50 dollar']	0.162718384412
+['last performance', '4.50 dollar']	['last performance', '4.50 dollar']	0.0380145315322
+['last performance', '4.50 dollar']	['last performance', '4.50 dollar']	0.0222635817691
+['last performance', '4.50 dollar']	['last performance', '4.50 dollar']	0.0424459812087
+['last performance', '4.50 dollar']	['last performance', '4.50 dollar']	0.0138939837508
+['last performance', '4.50 dollar']	['last performance', '4.50 dollar']	0.132643844012
+['performance', '4.50 dollar']	['performance', '4.50 dollar']	0.0314071669246
+['performance', '4.50 dollar']	['performance', '4.50 dollar']	0.101104248671
+['performance', '4.50 dollar']	['performance', '4.50 dollar']	0.146484570418
+['performance', '4.50 dollar']	['performance', '4.50 dollar']	0.0722674483451
+['performance', '4.50 dollar']	['performance', '4.50 dollar']	0.0384990823426
+['performance', '4.50 dollar']	['performance', '4.50 dollar']	0.0412116430958
+['performance', '4.50 dollar']	['performance', '4.50 dollar']	0.0377737381218
+['performance', '4.50 dollar']	['performance', '4.50 dollar']	0.123527184401
+['mouse', '4.50 dollar']	['mouse', '4.50 dollar']	0.0941155535823
+['mouse', '4.50 dollar']	['mouse', '4.50 dollar']	0.0461380592584
+['mouse', '4.50 dollar']	['mouse', '4.50 dollar']	0.149024252958
+['mouse', '4.50 dollar']	['mouse', '4.50 dollar']	0.0395247252484
+['mouse', '4.50 dollar']	['mouse', '4.50 dollar']	0.0606369672893
+['mouse', '4.50 dollar']	['mouse', '4.50 dollar']	0.0407379193423
+['mouse', '4.50 dollar']	['mouse', '4.50 dollar']	0.0377737381218
+['mouse', '4.50 dollar']	['mouse', '4.50 dollar']	0.117733533607
+['dollar', '4.50 dollar']	['dollar', '4.50 dollar']	0.105542361095
+['dollar', '4.50 dollar']	['dollar', '4.50 dollar']	0.0594348820819
+['dollar', '4.50 dollar']	['dollar', '4.50 dollar']	0.110886501381
+['dollar', '4.50 dollar']	['dollar', '4.50 dollar']	0.0406801579375
+['dollar', '4.50 dollar']	['dollar', '4.50 dollar']	0.0353557944867
+['dollar', '4.50 dollar']	['dollar', '4.50 dollar']	0.0150291609733
+['dollar', '4.50 dollar']	['dollar', '4.50 dollar']	0.0169880021491
+['dollar', '4.50 dollar']	['dollar', '4.50 dollar']	0.206484557376
+['1972.50 dollar', '4.50 dollar']	['1972.50 dollar', '4.50 dollar']	0.0467676883878
+['1972.50 dollar', '4.50 dollar']	['1972.50 dollar', '4.50 dollar']	0.0912101317416
+['1972.50 dollar', '4.50 dollar']	['1972.50 dollar', '4.50 dollar']	0.479034569229
+['1972.50 dollar', '4.50 dollar']	['1972.50 dollar', '4.50 dollar']	0.0529277583086
+['1972.50 dollar', '4.50 dollar']	['1972.50 dollar', '4.50 dollar']	0.0529277583086
+['1972.50 dollar', '4.50 dollar']	['1972.50 dollar', '4.50 dollar']	0.0498264885986
+['1972.50 dollar', '4.50 dollar']	['1972.50 dollar', '4.50 dollar']	0.0467676883878
+['1972.50 dollar', '4.50 dollar']	['1972.50 dollar', '4.50 dollar']	0.0581407885051
+['theatre', '6.00 dollar']	['theatre', '6.00 dollar']	0.0350789803451
+['theatre', '6.00 dollar']	['theatre', '6.00 dollar']	0.149024252958
+['theatre', '6.00 dollar']	['theatre', '6.00 dollar']	0.0668786179967
+['theatre', '6.00 dollar']	['theatre', '6.00 dollar']	0.0601666557079
+['theatre', '6.00 dollar']	['theatre', '6.00 dollar']	0.0342220510459
+['theatre', '6.00 dollar']	['theatre', '6.00 dollar']	0.0941155535823
+['theatre', '6.00 dollar']	['theatre', '6.00 dollar']	0.0432740235322
+['theatre', '6.00 dollar']	['theatre', '6.00 dollar']	0.117733533607
+['ticket', '6.00 dollar']	['ticket', '6.00 dollar']	0.0295538350908
+['ticket', '6.00 dollar']	['ticket', '6.00 dollar']	0.157458598498
+['ticket', '6.00 dollar']	['ticket', '6.00 dollar']	0.0421536060737
+['ticket', '6.00 dollar']	['ticket', '6.00 dollar']	0.0511552063042
+['ticket', '6.00 dollar']	['ticket', '6.00 dollar']	0.0936418298288
+['ticket', '6.00 dollar']	['ticket', '6.00 dollar']	0.0364926685843
+['ticket', '6.00 dollar']	['ticket', '6.00 dollar']	0.0437177831624
+['ticket', '6.00 dollar']	['ticket', '6.00 dollar']	0.134501212481
+['4.50 dollar', '6.00 dollar']	['4.50 dollar', '6.00 dollar']	0.0467676883878
+['4.50 dollar', '6.00 dollar']	['4.50 dollar', '6.00 dollar']	0.0912101317416
+['4.50 dollar', '6.00 dollar']	['4.50 dollar', '6.00 dollar']	0.0529277583086
+['4.50 dollar', '6.00 dollar']	['4.50 dollar', '6.00 dollar']	0.0529277583086
+['4.50 dollar', '6.00 dollar']	['4.50 dollar', '6.00 dollar']	0.0498264885986
+['4.50 dollar', '6.00 dollar']	['4.50 dollar', '6.00 dollar']	0.0467676883878
+['4.50 dollar', '6.00 dollar']	['4.50 dollar', '6.00 dollar']	0.026828442989
+['4.50 dollar', '6.00 dollar']	['4.50 dollar', '6.00 dollar']	0.398480504515
+['380 ticket', '6.00 dollar']	['380 ticket', '6.00 dollar']	0.0424459812087
+['380 ticket', '6.00 dollar']	['380 ticket', '6.00 dollar']	0.0331254589966
+['380 ticket', '6.00 dollar']	['380 ticket', '6.00 dollar']	0.162718384412
+['380 ticket', '6.00 dollar']	['380 ticket', '6.00 dollar']	0.0380145315322
+['380 ticket', '6.00 dollar']	['380 ticket', '6.00 dollar']	0.0418625923829
+['380 ticket', '6.00 dollar']	['380 ticket', '6.00 dollar']	0.0424459812087
+['380 ticket', '6.00 dollar']	['380 ticket', '6.00 dollar']	0.0186874738687
+['380 ticket', '6.00 dollar']	['380 ticket', '6.00 dollar']	0.132643844012
+['last performance', '6.00 dollar']	['last performance', '6.00 dollar']	0.0419756696272
+['last performance', '6.00 dollar']	['last performance', '6.00 dollar']	0.0495850429518
+['last performance', '6.00 dollar']	['last performance', '6.00 dollar']	0.162718384412
+['last performance', '6.00 dollar']	['last performance', '6.00 dollar']	0.0380145315322
+['last performance', '6.00 dollar']	['last performance', '6.00 dollar']	0.0222635817691
+['last performance', '6.00 dollar']	['last performance', '6.00 dollar']	0.0424459812087
+['last performance', '6.00 dollar']	['last performance', '6.00 dollar']	0.0138939837508
+['last performance', '6.00 dollar']	['last performance', '6.00 dollar']	0.132643844012
+['performance', '6.00 dollar']	['performance', '6.00 dollar']	0.0314071669246
+['performance', '6.00 dollar']	['performance', '6.00 dollar']	0.101104248671
+['performance', '6.00 dollar']	['performance', '6.00 dollar']	0.146484570418
+['performance', '6.00 dollar']	['performance', '6.00 dollar']	0.0722674483451
+['performance', '6.00 dollar']	['performance', '6.00 dollar']	0.0384990823426
+['performance', '6.00 dollar']	['performance', '6.00 dollar']	0.0412116430958
+['performance', '6.00 dollar']	['performance', '6.00 dollar']	0.0377737381218
+['performance', '6.00 dollar']	['performance', '6.00 dollar']	0.123527184401
+['mouse', '6.00 dollar']	['mouse', '6.00 dollar']	0.0941155535823
+['mouse', '6.00 dollar']	['mouse', '6.00 dollar']	0.0461380592584
+['mouse', '6.00 dollar']	['mouse', '6.00 dollar']	0.149024252958
+['mouse', '6.00 dollar']	['mouse', '6.00 dollar']	0.0395247252484
+['mouse', '6.00 dollar']	['mouse', '6.00 dollar']	0.0606369672893
+['mouse', '6.00 dollar']	['mouse', '6.00 dollar']	0.0407379193423
+['mouse', '6.00 dollar']	['mouse', '6.00 dollar']	0.0377737381218
+['mouse', '6.00 dollar']	['mouse', '6.00 dollar']	0.117733533607
+['dollar', '6.00 dollar']	['dollar', '6.00 dollar']	0.105542361095
+['dollar', '6.00 dollar']	['dollar', '6.00 dollar']	0.0594348820819
+['dollar', '6.00 dollar']	['dollar', '6.00 dollar']	0.110886501381
+['dollar', '6.00 dollar']	['dollar', '6.00 dollar']	0.0406801579375
+['dollar', '6.00 dollar']	['dollar', '6.00 dollar']	0.0353557944867
+['dollar', '6.00 dollar']	['dollar', '6.00 dollar']	0.0150291609733
+['dollar', '6.00 dollar']	['dollar', '6.00 dollar']	0.0169880021491
+['dollar', '6.00 dollar']	['dollar', '6.00 dollar']	0.206484557376
+['1972.50 dollar', '6.00 dollar']	['1972.50 dollar', '6.00 dollar']	0.0467676883878
+['1972.50 dollar', '6.00 dollar']	['1972.50 dollar', '6.00 dollar']	0.0912101317416
+['1972.50 dollar', '6.00 dollar']	['1972.50 dollar', '6.00 dollar']	0.479034569229
+['1972.50 dollar', '6.00 dollar']	['1972.50 dollar', '6.00 dollar']	0.0529277583086
+['1972.50 dollar', '6.00 dollar']	['1972.50 dollar', '6.00 dollar']	0.0529277583086
+['1972.50 dollar', '6.00 dollar']	['1972.50 dollar', '6.00 dollar']	0.0498264885986
+['1972.50 dollar', '6.00 dollar']	['1972.50 dollar', '6.00 dollar']	0.0467676883878
+['1972.50 dollar', '6.00 dollar']	['1972.50 dollar', '6.00 dollar']	0.0581407885051
+['theatre', '380 ticket']	['theatre', '380 ticket']	0.0380462316382
+['theatre', '380 ticket']	['theatre', '380 ticket']	0.0829238010053
+['theatre', '380 ticket']	['theatre', '380 ticket']	0.0829238010053
+['theatre', '380 ticket']	['theatre', '380 ticket']	0.0832961294168
+['theatre', '380 ticket']	['theatre', '380 ticket']	0.0715487512956
+['theatre', '380 ticket']	['theatre', '380 ticket']	0.131805983923
+['theatre', '380 ticket']	['theatre', '380 ticket']	0.0940379997873
+['theatre', '380 ticket']	['theatre', '380 ticket']	0.0821022377173
+['ticket', '380 ticket']	['ticket', '380 ticket']	0.0312102494893
+['ticket', '380 ticket']	['ticket', '380 ticket']	0.108364569109
+['ticket', '380 ticket']	['ticket', '380 ticket']	0.108364569109
+['ticket', '380 ticket']	['ticket', '380 ticket']	0.0544379520248
+['ticket', '380 ticket']	['ticket', '380 ticket']	0.150535040735
+['ticket', '380 ticket']	['ticket', '380 ticket']	0.0332343293986
+['ticket', '380 ticket']	['ticket', '380 ticket']	0.0558695923582
+['ticket', '380 ticket']	['ticket', '380 ticket']	0.0831881114912
+['4.50 dollar', '380 ticket']	['4.50 dollar', '380 ticket']	0.0424459812087
+['4.50 dollar', '380 ticket']	['4.50 dollar', '380 ticket']	0.0331254589966
+['4.50 dollar', '380 ticket']	['4.50 dollar', '380 ticket']	0.162718384412
+['4.50 dollar', '380 ticket']	['4.50 dollar', '380 ticket']	0.0380145315322
+['4.50 dollar', '380 ticket']	['4.50 dollar', '380 ticket']	0.0418625923829
+['4.50 dollar', '380 ticket']	['4.50 dollar', '380 ticket']	0.0424459812087
+['4.50 dollar', '380 ticket']	['4.50 dollar', '380 ticket']	0.0186874738687
+['4.50 dollar', '380 ticket']	['4.50 dollar', '380 ticket']	0.132643844012
+['6.00 dollar', '380 ticket']	['6.00 dollar', '380 ticket']	0.0424459812087
+['6.00 dollar', '380 ticket']	['6.00 dollar', '380 ticket']	0.0331254589966
+['6.00 dollar', '380 ticket']	['6.00 dollar', '380 ticket']	0.162718384412
+['6.00 dollar', '380 ticket']	['6.00 dollar', '380 ticket']	0.0380145315322
+['6.00 dollar', '380 ticket']	['6.00 dollar', '380 ticket']	0.0418625923829
+['6.00 dollar', '380 ticket']	['6.00 dollar', '380 ticket']	0.0424459812087
+['6.00 dollar', '380 ticket']	['6.00 dollar', '380 ticket']	0.0186874738687
+['6.00 dollar', '380 ticket']	['6.00 dollar', '380 ticket']	0.132643844012
+['last performance', '380 ticket']	['last performance', '380 ticket']	0.0824169897896
+['last performance', '380 ticket']	['last performance', '380 ticket']	0.0517418009115
+['last performance', '380 ticket']	['last performance', '380 ticket']	0.077078241972
+['last performance', '380 ticket']	['last performance', '380 ticket']	0.077078241972
+['last performance', '380 ticket']	['last performance', '380 ticket']	0.0281731679619
+['last performance', '380 ticket']	['last performance', '380 ticket']	0.0824169897896
+['last performance', '380 ticket']	['last performance', '380 ticket']	0.0178725447785
+['last performance', '380 ticket']	['last performance', '380 ticket']	0.0690143673113
+['performance', '380 ticket']	['performance', '380 ticket']	0.0314071669246
+['performance', '380 ticket']	['performance', '380 ticket']	0.0594999397323
+['performance', '380 ticket']	['performance', '380 ticket']	0.0689497215994
+['performance', '380 ticket']	['performance', '380 ticket']	0.0689497215994
+['performance', '380 ticket']	['performance', '380 ticket']	0.0380553227124
+['performance', '380 ticket']	['performance', '380 ticket']	0.0350530198242
+['performance', '380 ticket']	['performance', '380 ticket']	0.0157310318701
+['performance', '380 ticket']	['performance', '380 ticket']	0.0606369672893
+['mouse', '380 ticket']	['mouse', '380 ticket']	0.0737832493598
+['mouse', '380 ticket']	['mouse', '380 ticket']	0.0383182975352
+['mouse', '380 ticket']	['mouse', '380 ticket']	0.0829238010053
+['mouse', '380 ticket']	['mouse', '380 ticket']	0.0829238010053
+['mouse', '380 ticket']	['mouse', '380 ticket']	0.0832961294168
+['mouse', '380 ticket']	['mouse', '380 ticket']	0.0647316013788
+['mouse', '380 ticket']	['mouse', '380 ticket']	0.0200287437643
+['mouse', '380 ticket']	['mouse', '380 ticket']	0.0821022377173
+['dollar', '380 ticket']	['dollar', '380 ticket']	0.0778893882171
+['dollar', '380 ticket']	['dollar', '380 ticket']	0.0498534310639
+['dollar', '380 ticket']	['dollar', '380 ticket']	0.0318916311694
+['dollar', '380 ticket']	['dollar', '380 ticket']	0.0318916311694
+['dollar', '380 ticket']	['dollar', '380 ticket']	0.0340066916006
+['dollar', '380 ticket']	['dollar', '380 ticket']	0.0164418238868
+['dollar', '380 ticket']	['dollar', '380 ticket']	0.0186160557556
+['dollar', '380 ticket']	['dollar', '380 ticket']	0.0585976938007
+['1972.50 dollar', '380 ticket']	['1972.50 dollar', '380 ticket']	0.0824169897896
+['1972.50 dollar', '380 ticket']	['1972.50 dollar', '380 ticket']	0.055884058061
+['1972.50 dollar', '380 ticket']	['1972.50 dollar', '380 ticket']	0.266884165606
+['1972.50 dollar', '380 ticket']	['1972.50 dollar', '380 ticket']	0.266884165606
+['1972.50 dollar', '380 ticket']	['1972.50 dollar', '380 ticket']	0.0690143673113
+['1972.50 dollar', '380 ticket']	['1972.50 dollar', '380 ticket']	0.0585905397909
+['1972.50 dollar', '380 ticket']	['1972.50 dollar', '380 ticket']	0.0824169897896
+['1972.50 dollar', '380 ticket']	['1972.50 dollar', '380 ticket']	0.0261919831172
+['theatre', 'last performance']	['theatre', 'last performance']	0.0475671946613
+['theatre', 'last performance']	['theatre', 'last performance']	0.0829238010053
+['theatre', 'last performance']	['theatre', 'last performance']	0.0829238010053
+['theatre', 'last performance']	['theatre', 'last performance']	0.089044483953
+['theatre', 'last performance']	['theatre', 'last performance']	0.0194078944506
+['theatre', 'last performance']	['theatre', 'last performance']	0.0737832493598
+['theatre', 'last performance']	['theatre', 'last performance']	0.0800423284647
+['theatre', 'last performance']	['theatre', 'last performance']	0.0821022377173
+['ticket', 'last performance']	['ticket', 'last performance']	0.0301723007288
+['ticket', 'last performance']	['ticket', 'last performance']	0.0736726043194
+['ticket', 'last performance']	['ticket', 'last performance']	0.0736726043194
+['ticket', 'last performance']	['ticket', 'last performance']	0.0421536060737
+['ticket', 'last performance']	['ticket', 'last performance']	0.0172673889164
+['ticket', 'last performance']	['ticket', 'last performance']	0.0375814458037
+['ticket', 'last performance']	['ticket', 'last performance']	0.0188172286603
+['ticket', 'last performance']	['ticket', 'last performance']	0.0653598500094
+['4.50 dollar', 'last performance']	['4.50 dollar', 'last performance']	0.0419756696272
+['4.50 dollar', 'last performance']	['4.50 dollar', 'last performance']	0.0495850429518
+['4.50 dollar', 'last performance']	['4.50 dollar', 'last performance']	0.162718384412
+['4.50 dollar', 'last performance']	['4.50 dollar', 'last performance']	0.0380145315322
+['4.50 dollar', 'last performance']	['4.50 dollar', 'last performance']	0.0222635817691
+['4.50 dollar', 'last performance']	['4.50 dollar', 'last performance']	0.0424459812087
+['4.50 dollar', 'last performance']	['4.50 dollar', 'last performance']	0.0138939837508
+['4.50 dollar', 'last performance']	['4.50 dollar', 'last performance']	0.132643844012
+['6.00 dollar', 'last performance']	['6.00 dollar', 'last performance']	0.0419756696272
+['6.00 dollar', 'last performance']	['6.00 dollar', 'last performance']	0.0495850429518
+['6.00 dollar', 'last performance']	['6.00 dollar', 'last performance']	0.162718384412
+['6.00 dollar', 'last performance']	['6.00 dollar', 'last performance']	0.0380145315322
+['6.00 dollar', 'last performance']	['6.00 dollar', 'last performance']	0.0222635817691
+['6.00 dollar', 'last performance']	['6.00 dollar', 'last performance']	0.0424459812087
+['6.00 dollar', 'last performance']	['6.00 dollar', 'last performance']	0.0138939837508
+['6.00 dollar', 'last performance']	['6.00 dollar', 'last performance']	0.132643844012
+['380 ticket', 'last performance']	['380 ticket', 'last performance']	0.0824169897896
+['380 ticket', 'last performance']	['380 ticket', 'last performance']	0.0517418009115
+['380 ticket', 'last performance']	['380 ticket', 'last performance']	0.077078241972
+['380 ticket', 'last performance']	['380 ticket', 'last performance']	0.077078241972
+['380 ticket', 'last performance']	['380 ticket', 'last performance']	0.0281731679619
+['380 ticket', 'last performance']	['380 ticket', 'last performance']	0.0824169897896
+['380 ticket', 'last performance']	['380 ticket', 'last performance']	0.0178725447785
+['380 ticket', 'last performance']	['380 ticket', 'last performance']	0.0690143673113
+['performance', 'last performance']	['performance', 'last performance']	0.0699164840694
+['performance', 'last performance']	['performance', 'last performance']	0.100232130991
+['performance', 'last performance']	['performance', 'last performance']	0.094579373563
+['performance', 'last performance']	['performance', 'last performance']	0.094579373563
+['performance', 'last performance']	['performance', 'last performance']	0.0696674662101
+['performance', 'last performance']	['performance', 'last performance']	0.0626876533555
+['performance', 'last performance']	['performance', 'last performance']	0.0114638712496
+['performance', 'last performance']	['performance', 'last performance']	0.0696674662101
+['mouse', 'last performance']	['mouse', 'last performance']	0.0859503324408
+['mouse', 'last performance']	['mouse', 'last performance']	0.0545060281549
+['mouse', 'last performance']	['mouse', 'last performance']	0.0829238010053
+['mouse', 'last performance']	['mouse', 'last performance']	0.0829238010053
+['mouse', 'last performance']	['mouse', 'last performance']	0.0879989641591
+['mouse', 'last performance']	['mouse', 'last performance']	0.0275106706951
+['mouse', 'last performance']	['mouse', 'last performance']	0.0145311437675
+['mouse', 'last performance']	['mouse', 'last performance']	0.0821022377173
+['dollar', 'last performance']	['dollar', 'last performance']	0.0788961184103
+['dollar', 'last performance']	['dollar', 'last performance']	0.0240859238718
+['dollar', 'last performance']	['dollar', 'last performance']	0.0318916311694
+['dollar', 'last performance']	['dollar', 'last performance']	0.0318916311694
+['dollar', 'last performance']	['dollar', 'last performance']	0.0357673916229
+['dollar', 'last performance']	['dollar', 'last performance']	0.0410780165967
+['dollar', 'last performance']	['dollar', 'last performance']	0.020171638163
+['dollar', 'last performance']	['dollar', 'last performance']	0.0585976938007
+['1972.50 dollar', 'last performance']	['1972.50 dollar', 'last performance']	0.0824169897896
+['1972.50 dollar', 'last performance']	['1972.50 dollar', 'last performance']	0.0661708502503
+['1972.50 dollar', 'last performance']	['1972.50 dollar', 'last performance']	0.266884165606
+['1972.50 dollar', 'last performance']	['1972.50 dollar', 'last performance']	0.266884165606
+['1972.50 dollar', 'last performance']	['1972.50 dollar', 'last performance']	0.0690143673113
+['1972.50 dollar', 'last performance']	['1972.50 dollar', 'last performance']	0.0267212991239
+['1972.50 dollar', 'last performance']	['1972.50 dollar', 'last performance']	0.0824169897896
+['1972.50 dollar', 'last performance']	['1972.50 dollar', 'last performance']	0.0270560856624
+['theatre', 'performance']	['theatre', 'performance']	0.070500996037
+['theatre', 'performance']	['theatre', 'performance']	0.0767937492268
+['theatre', 'performance']	['theatre', 'performance']	0.0767937492268
+['theatre', 'performance']	['theatre', 'performance']	0.0726311745998
+['theatre', 'performance']	['theatre', 'performance']	0.0470541729804
+['theatre', 'performance']	['theatre', 'performance']	0.0756525253992
+['theatre', 'performance']	['theatre', 'performance']	0.00847248349399
+['theatre', 'performance']	['theatre', 'performance']	0.0726311745998
+['ticket', 'performance']	['ticket', 'performance']	0.28815835878
+['ticket', 'performance']	['ticket', 'performance']	0.102392277943
+['ticket', 'performance']	['ticket', 'performance']	0.102392277943
+['ticket', 'performance']	['ticket', 'performance']	0.0538875613422
+['ticket', 'performance']	['ticket', 'performance']	0.0489393604663
+['ticket', 'performance']	['ticket', 'performance']	0.0557937746538
+['ticket', 'performance']	['ticket', 'performance']	0.0184015615082
+['ticket', 'performance']	['ticket', 'performance']	0.0991300310581
+['4.50 dollar', 'performance']	['4.50 dollar', 'performance']	0.0314071669246
+['4.50 dollar', 'performance']	['4.50 dollar', 'performance']	0.101104248671
+['4.50 dollar', 'performance']	['4.50 dollar', 'performance']	0.146484570418
+['4.50 dollar', 'performance']	['4.50 dollar', 'performance']	0.0722674483451
+['4.50 dollar', 'performance']	['4.50 dollar', 'performance']	0.0384990823426
+['4.50 dollar', 'performance']	['4.50 dollar', 'performance']	0.0412116430958
+['4.50 dollar', 'performance']	['4.50 dollar', 'performance']	0.0377737381218
+['4.50 dollar', 'performance']	['4.50 dollar', 'performance']	0.123527184401
+['6.00 dollar', 'performance']	['6.00 dollar', 'performance']	0.0314071669246
+['6.00 dollar', 'performance']	['6.00 dollar', 'performance']	0.101104248671
+['6.00 dollar', 'performance']	['6.00 dollar', 'performance']	0.146484570418
+['6.00 dollar', 'performance']	['6.00 dollar', 'performance']	0.0722674483451
+['6.00 dollar', 'performance']	['6.00 dollar', 'performance']	0.0384990823426
+['6.00 dollar', 'performance']	['6.00 dollar', 'performance']	0.0412116430958
+['6.00 dollar', 'performance']	['6.00 dollar', 'performance']	0.0377737381218
+['6.00 dollar', 'performance']	['6.00 dollar', 'performance']	0.123527184401
+['380 ticket', 'performance']	['380 ticket', 'performance']	0.0314071669246
+['380 ticket', 'performance']	['380 ticket', 'performance']	0.0594999397323
+['380 ticket', 'performance']	['380 ticket', 'performance']	0.0689497215994
+['380 ticket', 'performance']	['380 ticket', 'performance']	0.0689497215994
+['380 ticket', 'performance']	['380 ticket', 'performance']	0.0380553227124
+['380 ticket', 'performance']	['380 ticket', 'performance']	0.0350530198242
+['380 ticket', 'performance']	['380 ticket', 'performance']	0.0157310318701
+['380 ticket', 'performance']	['380 ticket', 'performance']	0.0606369672893
+['last performance', 'performance']	['last performance', 'performance']	0.0699164840694
+['last performance', 'performance']	['last performance', 'performance']	0.100232130991
+['last performance', 'performance']	['last performance', 'performance']	0.094579373563
+['last performance', 'performance']	['last performance', 'performance']	0.094579373563
+['last performance', 'performance']	['last performance', 'performance']	0.0696674662101
+['last performance', 'performance']	['last performance', 'performance']	0.0626876533555
+['last performance', 'performance']	['last performance', 'performance']	0.0114638712496
+['last performance', 'performance']	['last performance', 'performance']	0.0696674662101
+['mouse', 'performance']	['mouse', 'performance']	0.222007874274
+['mouse', 'performance']	['mouse', 'performance']	0.0575897384404
+['mouse', 'performance']	['mouse', 'performance']	0.0767937492268
+['mouse', 'performance']	['mouse', 'performance']	0.0767937492268
+['mouse', 'performance']	['mouse', 'performance']	0.086786610359
+['mouse', 'performance']	['mouse', 'performance']	0.0470541729804
+['mouse', 'performance']	['mouse', 'performance']	0.0191861586154
+['mouse', 'performance']	['mouse', 'performance']	0.0726311745998
+['dollar', 'performance']	['dollar', 'performance']	0.265125704239
+['dollar', 'performance']	['dollar', 'performance']	0.0425777989861
+['dollar', 'performance']	['dollar', 'performance']	0.0423186961431
+['dollar', 'performance']	['dollar', 'performance']	0.0423186961431
+['dollar', 'performance']	['dollar', 'performance']	0.0447889293592
+['dollar', 'performance']	['dollar', 'performance']	0.0395932802812
+['dollar', 'performance']	['dollar', 'performance']	0.0312213124801
+['dollar', 'performance']	['dollar', 'performance']	0.102490182066
+['1972.50 dollar', 'performance']	['1972.50 dollar', 'performance']	0.0314071669246
+['1972.50 dollar', 'performance']	['1972.50 dollar', 'performance']	0.101104248671
+['1972.50 dollar', 'performance']	['1972.50 dollar', 'performance']	0.149024252958
+['1972.50 dollar', 'performance']	['1972.50 dollar', 'performance']	0.149024252958
+['1972.50 dollar', 'performance']	['1972.50 dollar', 'performance']	0.0606369672893
+['1972.50 dollar', 'performance']	['1972.50 dollar', 'performance']	0.0380553227124
+['1972.50 dollar', 'performance']	['1972.50 dollar', 'performance']	0.0412116430958
+['1972.50 dollar', 'performance']	['1972.50 dollar', 'performance']	0.0142243555723
+['theatre', 'mouse']	['theatre', 'mouse']	0.145445815937
+['theatre', 'mouse']	['theatre', 'mouse']	0.0874805445417
+['theatre', 'mouse']	['theatre', 'mouse']	0.0874805445417
+['theatre', 'mouse']	['theatre', 'mouse']	0.107818863742
+['theatre', 'mouse']	['theatre', 'mouse']	0.0822743290541
+['theatre', 'mouse']	['theatre', 'mouse']	0.122546401665
+['theatre', 'mouse']	['theatre', 'mouse']	0.131438835922
+['theatre', 'mouse']	['theatre', 'mouse']	0.0807598022609
+['ticket', 'mouse']	['ticket', 'mouse']	0.140208588371
+['ticket', 'mouse']	['ticket', 'mouse']	0.0907617968869
+['ticket', 'mouse']	['ticket', 'mouse']	0.0907617968869
+['ticket', 'mouse']	['ticket', 'mouse']	0.0510879143086
+['ticket', 'mouse']	['ticket', 'mouse']	0.0726311745998
+['ticket', 'mouse']	['ticket', 'mouse']	0.058261961569
+['ticket', 'mouse']	['ticket', 'mouse']	0.0184015615082
+['ticket', 'mouse']	['ticket', 'mouse']	0.0874995500023
+['4.50 dollar', 'mouse']	['4.50 dollar', 'mouse']	0.0941155535823
+['4.50 dollar', 'mouse']	['4.50 dollar', 'mouse']	0.0461380592584
+['4.50 dollar', 'mouse']	['4.50 dollar', 'mouse']	0.149024252958
+['4.50 dollar', 'mouse']	['4.50 dollar', 'mouse']	0.0395247252484
+['4.50 dollar', 'mouse']	['4.50 dollar', 'mouse']	0.0606369672893
+['4.50 dollar', 'mouse']	['4.50 dollar', 'mouse']	0.0407379193423
+['4.50 dollar', 'mouse']	['4.50 dollar', 'mouse']	0.0377737381218
+['4.50 dollar', 'mouse']	['4.50 dollar', 'mouse']	0.117733533607
+['6.00 dollar', 'mouse']	['6.00 dollar', 'mouse']	0.0941155535823
+['6.00 dollar', 'mouse']	['6.00 dollar', 'mouse']	0.0461380592584
+['6.00 dollar', 'mouse']	['6.00 dollar', 'mouse']	0.149024252958
+['6.00 dollar', 'mouse']	['6.00 dollar', 'mouse']	0.0395247252484
+['6.00 dollar', 'mouse']	['6.00 dollar', 'mouse']	0.0606369672893
+['6.00 dollar', 'mouse']	['6.00 dollar', 'mouse']	0.0407379193423
+['6.00 dollar', 'mouse']	['6.00 dollar', 'mouse']	0.0377737381218
+['6.00 dollar', 'mouse']	['6.00 dollar', 'mouse']	0.117733533607
+['380 ticket', 'mouse']	['380 ticket', 'mouse']	0.0737832493598
+['380 ticket', 'mouse']	['380 ticket', 'mouse']	0.0383182975352
+['380 ticket', 'mouse']	['380 ticket', 'mouse']	0.0829238010053
+['380 ticket', 'mouse']	['380 ticket', 'mouse']	0.0829238010053
+['380 ticket', 'mouse']	['380 ticket', 'mouse']	0.0832961294168
+['380 ticket', 'mouse']	['380 ticket', 'mouse']	0.0647316013788
+['380 ticket', 'mouse']	['380 ticket', 'mouse']	0.0200287437643
+['380 ticket', 'mouse']	['380 ticket', 'mouse']	0.0821022377173
+['last performance', 'mouse']	['last performance', 'mouse']	0.0859503324408
+['last performance', 'mouse']	['last performance', 'mouse']	0.0545060281549
+['last performance', 'mouse']	['last performance', 'mouse']	0.0829238010053
+['last performance', 'mouse']	['last performance', 'mouse']	0.0829238010053
+['last performance', 'mouse']	['last performance', 'mouse']	0.0879989641591
+['last performance', 'mouse']	['last performance', 'mouse']	0.0275106706951
+['last performance', 'mouse']	['last performance', 'mouse']	0.0145311437675
+['last performance', 'mouse']	['last performance', 'mouse']	0.0821022377173
+['performance', 'mouse']	['performance', 'mouse']	0.222007874274
+['performance', 'mouse']	['performance', 'mouse']	0.0575897384404
+['performance', 'mouse']	['performance', 'mouse']	0.0767937492268
+['performance', 'mouse']	['performance', 'mouse']	0.0767937492268
+['performance', 'mouse']	['performance', 'mouse']	0.086786610359
+['performance', 'mouse']	['performance', 'mouse']	0.0470541729804
+['performance', 'mouse']	['performance', 'mouse']	0.0191861586154
+['performance', 'mouse']	['performance', 'mouse']	0.0726311745998
+['dollar', 'mouse']	['dollar', 'mouse']	0.126579843826
+['dollar', 'mouse']	['dollar', 'mouse']	0.0425777989861
+['dollar', 'mouse']	['dollar', 'mouse']	0.0470234119339
+['dollar', 'mouse']	['dollar', 'mouse']	0.0470234119339
+['dollar', 'mouse']	['dollar', 'mouse']	0.0447889293592
+['dollar', 'mouse']	['dollar', 'mouse']	0.0332277349527
+['dollar', 'mouse']	['dollar', 'mouse']	0.0277933053112
+['dollar', 'mouse']	['dollar', 'mouse']	0.0979079625696
+['1972.50 dollar', 'mouse']	['1972.50 dollar', 'mouse']	0.0737832493598
+['1972.50 dollar', 'mouse']	['1972.50 dollar', 'mouse']	0.0672023761955
+['1972.50 dollar', 'mouse']	['1972.50 dollar', 'mouse']	0.18575129585
+['1972.50 dollar', 'mouse']	['1972.50 dollar', 'mouse']	0.18575129585
+['1972.50 dollar', 'mouse']	['1972.50 dollar', 'mouse']	0.0879989641591
+['1972.50 dollar', 'mouse']	['1972.50 dollar', 'mouse']	0.0832961294168
+['1972.50 dollar', 'mouse']	['1972.50 dollar', 'mouse']	0.0574658667504
+['1972.50 dollar', 'mouse']	['1972.50 dollar', 'mouse']	0.0151088764521
+['theatre', 'dollar']	['theatre', 'dollar']	0.0525068770002
+['theatre', 'dollar']	['theatre', 'dollar']	0.0470234119339
+['theatre', 'dollar']	['theatre', 'dollar']	0.0470234119339
+['theatre', 'dollar']	['theatre', 'dollar']	0.0447889293592
+['theatre', 'dollar']	['theatre', 'dollar']	0.0332277349527
+['theatre', 'dollar']	['theatre', 'dollar']	0.179787578492
+['theatre', 'dollar']	['theatre', 'dollar']	0.0934850017336
+['theatre', 'dollar']	['theatre', 'dollar']	0.0979079625696
+['ticket', 'dollar']	['ticket', 'dollar']	0.126579843826
+['ticket', 'dollar']	['ticket', 'dollar']	0.0482603301029
+['ticket', 'dollar']	['ticket', 'dollar']	0.0482603301029
+['ticket', 'dollar']	['ticket', 'dollar']	0.05923433853
+['ticket', 'dollar']	['ticket', 'dollar']	0.0473831707119
+['ticket', 'dollar']	['ticket', 'dollar']	0.0476896307554
+['ticket', 'dollar']	['ticket', 'dollar']	0.031340394859
+['ticket', 'dollar']	['ticket', 'dollar']	0.0984503203865
+['4.50 dollar', 'dollar']	['4.50 dollar', 'dollar']	0.105542361095
+['4.50 dollar', 'dollar']	['4.50 dollar', 'dollar']	0.0594348820819
+['4.50 dollar', 'dollar']	['4.50 dollar', 'dollar']	0.110886501381
+['4.50 dollar', 'dollar']	['4.50 dollar', 'dollar']	0.0406801579375
+['4.50 dollar', 'dollar']	['4.50 dollar', 'dollar']	0.0353557944867
+['4.50 dollar', 'dollar']	['4.50 dollar', 'dollar']	0.0150291609733
+['4.50 dollar', 'dollar']	['4.50 dollar', 'dollar']	0.0169880021491
+['4.50 dollar', 'dollar']	['4.50 dollar', 'dollar']	0.206484557376
+['6.00 dollar', 'dollar']	['6.00 dollar', 'dollar']	0.105542361095
+['6.00 dollar', 'dollar']	['6.00 dollar', 'dollar']	0.0594348820819
+['6.00 dollar', 'dollar']	['6.00 dollar', 'dollar']	0.110886501381
+['6.00 dollar', 'dollar']	['6.00 dollar', 'dollar']	0.0406801579375
+['6.00 dollar', 'dollar']	['6.00 dollar', 'dollar']	0.0353557944867
+['6.00 dollar', 'dollar']	['6.00 dollar', 'dollar']	0.0150291609733
+['6.00 dollar', 'dollar']	['6.00 dollar', 'dollar']	0.0169880021491
+['6.00 dollar', 'dollar']	['6.00 dollar', 'dollar']	0.206484557376
+['380 ticket', 'dollar']	['380 ticket', 'dollar']	0.0778893882171
+['380 ticket', 'dollar']	['380 ticket', 'dollar']	0.0498534310639
+['380 ticket', 'dollar']	['380 ticket', 'dollar']	0.0318916311694
+['380 ticket', 'dollar']	['380 ticket', 'dollar']	0.0318916311694
+['380 ticket', 'dollar']	['380 ticket', 'dollar']	0.0340066916006
+['380 ticket', 'dollar']	['380 ticket', 'dollar']	0.0164418238868
+['380 ticket', 'dollar']	['380 ticket', 'dollar']	0.0186160557556
+['380 ticket', 'dollar']	['380 ticket', 'dollar']	0.0585976938007
+['last performance', 'dollar']	['last performance', 'dollar']	0.0788961184103
+['last performance', 'dollar']	['last performance', 'dollar']	0.0240859238718
+['last performance', 'dollar']	['last performance', 'dollar']	0.0318916311694
+['last performance', 'dollar']	['last performance', 'dollar']	0.0318916311694
+['last performance', 'dollar']	['last performance', 'dollar']	0.0357673916229
+['last performance', 'dollar']	['last performance', 'dollar']	0.0410780165967
+['last performance', 'dollar']	['last performance', 'dollar']	0.020171638163
+['last performance', 'dollar']	['last performance', 'dollar']	0.0585976938007
+['performance', 'dollar']	['performance', 'dollar']	0.265125704239
+['performance', 'dollar']	['performance', 'dollar']	0.0425777989861
+['performance', 'dollar']	['performance', 'dollar']	0.0423186961431
+['performance', 'dollar']	['performance', 'dollar']	0.0423186961431
+['performance', 'dollar']	['performance', 'dollar']	0.0447889293592
+['performance', 'dollar']	['performance', 'dollar']	0.0395932802812
+['performance', 'dollar']	['performance', 'dollar']	0.0312213124801
+['performance', 'dollar']	['performance', 'dollar']	0.102490182066
+['mouse', 'dollar']	['mouse', 'dollar']	0.126579843826
+['mouse', 'dollar']	['mouse', 'dollar']	0.0425777989861
+['mouse', 'dollar']	['mouse', 'dollar']	0.0470234119339
+['mouse', 'dollar']	['mouse', 'dollar']	0.0470234119339
+['mouse', 'dollar']	['mouse', 'dollar']	0.0447889293592
+['mouse', 'dollar']	['mouse', 'dollar']	0.0332277349527
+['mouse', 'dollar']	['mouse', 'dollar']	0.0277933053112
+['mouse', 'dollar']	['mouse', 'dollar']	0.0979079625696
+['1972.50 dollar', 'dollar']	['1972.50 dollar', 'dollar']	0.105542361095
+['1972.50 dollar', 'dollar']	['1972.50 dollar', 'dollar']	0.0594348820819
+['1972.50 dollar', 'dollar']	['1972.50 dollar', 'dollar']	0.111073767299
+['1972.50 dollar', 'dollar']	['1972.50 dollar', 'dollar']	0.111073767299
+['1972.50 dollar', 'dollar']	['1972.50 dollar', 'dollar']	0.0406801579375
+['1972.50 dollar', 'dollar']	['1972.50 dollar', 'dollar']	0.0353557944867
+['1972.50 dollar', 'dollar']	['1972.50 dollar', 'dollar']	0.0150291609733
+['1972.50 dollar', 'dollar']	['1972.50 dollar', 'dollar']	0.0169880021491
+['theatre', '1972.50 dollar']	['theatre', '1972.50 dollar']	0.0512837305249
+['theatre', '1972.50 dollar']	['theatre', '1972.50 dollar']	0.18575129585
+['theatre', '1972.50 dollar']	['theatre', '1972.50 dollar']	0.18575129585
+['theatre', '1972.50 dollar']	['theatre', '1972.50 dollar']	0.089044483953
+['theatre', '1972.50 dollar']	['theatre', '1972.50 dollar']	0.0832961294168
+['theatre', '1972.50 dollar']	['theatre', '1972.50 dollar']	0.0487217981093
+['theatre', '1972.50 dollar']	['theatre', '1972.50 dollar']	0.0737832493598
+['theatre', '1972.50 dollar']	['theatre', '1972.50 dollar']	0.0640394314139
+['ticket', '1972.50 dollar']	['ticket', '1972.50 dollar']	0.0295538350908
+['ticket', '1972.50 dollar']	['ticket', '1972.50 dollar']	0.159998281038
+['ticket', '1972.50 dollar']	['ticket', '1972.50 dollar']	0.159998281038
+['ticket', '1972.50 dollar']	['ticket', '1972.50 dollar']	0.0421536060737
+['ticket', '1972.50 dollar']	['ticket', '1972.50 dollar']	0.0395247252484
+['ticket', '1972.50 dollar']	['ticket', '1972.50 dollar']	0.0936418298288
+['ticket', '1972.50 dollar']	['ticket', '1972.50 dollar']	0.0364926685843
+['ticket', '1972.50 dollar']	['ticket', '1972.50 dollar']	0.0413781715737
+['4.50 dollar', '1972.50 dollar']	['4.50 dollar', '1972.50 dollar']	0.0467676883878
+['4.50 dollar', '1972.50 dollar']	['4.50 dollar', '1972.50 dollar']	0.0912101317416
+['4.50 dollar', '1972.50 dollar']	['4.50 dollar', '1972.50 dollar']	0.479034569229
+['4.50 dollar', '1972.50 dollar']	['4.50 dollar', '1972.50 dollar']	0.0529277583086
+['4.50 dollar', '1972.50 dollar']	['4.50 dollar', '1972.50 dollar']	0.0529277583086
+['4.50 dollar', '1972.50 dollar']	['4.50 dollar', '1972.50 dollar']	0.0498264885986
+['4.50 dollar', '1972.50 dollar']	['4.50 dollar', '1972.50 dollar']	0.0467676883878
+['4.50 dollar', '1972.50 dollar']	['4.50 dollar', '1972.50 dollar']	0.0581407885051
+['6.00 dollar', '1972.50 dollar']	['6.00 dollar', '1972.50 dollar']	0.0467676883878
+['6.00 dollar', '1972.50 dollar']	['6.00 dollar', '1972.50 dollar']	0.0912101317416
+['6.00 dollar', '1972.50 dollar']	['6.00 dollar', '1972.50 dollar']	0.479034569229
+['6.00 dollar', '1972.50 dollar']	['6.00 dollar', '1972.50 dollar']	0.0529277583086
+['6.00 dollar', '1972.50 dollar']	['6.00 dollar', '1972.50 dollar']	0.0529277583086
+['6.00 dollar', '1972.50 dollar']	['6.00 dollar', '1972.50 dollar']	0.0498264885986
+['6.00 dollar', '1972.50 dollar']	['6.00 dollar', '1972.50 dollar']	0.0467676883878
+['6.00 dollar', '1972.50 dollar']	['6.00 dollar', '1972.50 dollar']	0.0581407885051
+['380 ticket', '1972.50 dollar']	['380 ticket', '1972.50 dollar']	0.0824169897896
+['380 ticket', '1972.50 dollar']	['380 ticket', '1972.50 dollar']	0.055884058061
+['380 ticket', '1972.50 dollar']	['380 ticket', '1972.50 dollar']	0.266884165606
+['380 ticket', '1972.50 dollar']	['380 ticket', '1972.50 dollar']	0.266884165606
+['380 ticket', '1972.50 dollar']	['380 ticket', '1972.50 dollar']	0.0690143673113
+['380 ticket', '1972.50 dollar']	['380 ticket', '1972.50 dollar']	0.0585905397909
+['380 ticket', '1972.50 dollar']	['380 ticket', '1972.50 dollar']	0.0824169897896
+['380 ticket', '1972.50 dollar']	['380 ticket', '1972.50 dollar']	0.0261919831172
+['last performance', '1972.50 dollar']	['last performance', '1972.50 dollar']	0.0824169897896
+['last performance', '1972.50 dollar']	['last performance', '1972.50 dollar']	0.0661708502503
+['last performance', '1972.50 dollar']	['last performance', '1972.50 dollar']	0.266884165606
+['last performance', '1972.50 dollar']	['last performance', '1972.50 dollar']	0.266884165606
+['last performance', '1972.50 dollar']	['last performance', '1972.50 dollar']	0.0690143673113
+['last performance', '1972.50 dollar']	['last performance', '1972.50 dollar']	0.0267212991239
+['last performance', '1972.50 dollar']	['last performance', '1972.50 dollar']	0.0824169897896
+['last performance', '1972.50 dollar']	['last performance', '1972.50 dollar']	0.0270560856624
+['performance', '1972.50 dollar']	['performance', '1972.50 dollar']	0.0314071669246
+['performance', '1972.50 dollar']	['performance', '1972.50 dollar']	0.101104248671
+['performance', '1972.50 dollar']	['performance', '1972.50 dollar']	0.149024252958
+['performance', '1972.50 dollar']	['performance', '1972.50 dollar']	0.149024252958
+['performance', '1972.50 dollar']	['performance', '1972.50 dollar']	0.0606369672893
+['performance', '1972.50 dollar']	['performance', '1972.50 dollar']	0.0380553227124
+['performance', '1972.50 dollar']	['performance', '1972.50 dollar']	0.0412116430958
+['performance', '1972.50 dollar']	['performance', '1972.50 dollar']	0.0142243555723
+['mouse', '1972.50 dollar']	['mouse', '1972.50 dollar']	0.0737832493598
+['mouse', '1972.50 dollar']	['mouse', '1972.50 dollar']	0.0672023761955
+['mouse', '1972.50 dollar']	['mouse', '1972.50 dollar']	0.18575129585
+['mouse', '1972.50 dollar']	['mouse', '1972.50 dollar']	0.18575129585
+['mouse', '1972.50 dollar']	['mouse', '1972.50 dollar']	0.0879989641591
+['mouse', '1972.50 dollar']	['mouse', '1972.50 dollar']	0.0832961294168
+['mouse', '1972.50 dollar']	['mouse', '1972.50 dollar']	0.0574658667504
+['mouse', '1972.50 dollar']	['mouse', '1972.50 dollar']	0.0151088764521
+['dollar', '1972.50 dollar']	['dollar', '1972.50 dollar']	0.105542361095
+['dollar', '1972.50 dollar']	['dollar', '1972.50 dollar']	0.0594348820819
+['dollar', '1972.50 dollar']	['dollar', '1972.50 dollar']	0.111073767299
+['dollar', '1972.50 dollar']	['dollar', '1972.50 dollar']	0.111073767299
+['dollar', '1972.50 dollar']	['dollar', '1972.50 dollar']	0.0406801579375
+['dollar', '1972.50 dollar']	['dollar', '1972.50 dollar']	0.0353557944867
+['dollar', '1972.50 dollar']	['dollar', '1972.50 dollar']	0.0150291609733
+['dollar', '1972.50 dollar']	['dollar', '1972.50 dollar']	0.0169880021491

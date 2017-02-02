@@ -1,0 +1,13 @@
+no srl relation find
+ask ARG0 Kerry
+cash arg0 a bank teller
+ask arg1 to cash a 390 dollar check use 20-dollar bill and 50-dollar bill
+ask arg2 a bank teller
+cash arg1 a 390 dollar check use 20-dollar bill and 50-dollar bill
+use arg1 20-dollar bill and 50-dollar bill
+get ADV if the teller give she a total of 15 bill
+give arg0 the teller
+give arg1 a total of 15 bill
+give arg2 she
+get arg1 20-dollar bill
+get arg0 she

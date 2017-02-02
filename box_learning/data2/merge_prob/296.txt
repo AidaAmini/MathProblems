@@ -1,0 +1,535 @@
+['solution', 'chemistry class', '25 % copper solution', '50 % copper solution', 'milliliter', '25 % solution', '50 % solution', '1000 milliliter', '45 % solution']
+['solution']	['chemistry class']	0.0460318882245
+['solution']	['milliliter']	0.00671452368913
+['solution']	['1000 milliliter']	0.044708454454
+['chemistry class']	['25 % copper solution']	0.096515242987
+['chemistry class']	['50 % copper solution']	0.096515242987
+['chemistry class']	['milliliter']	0.0132263547461
+['chemistry class']	['25 % solution']	0.096515242987
+['chemistry class']	['50 % solution']	0.096515242987
+['chemistry class']	['1000 milliliter']	0.0827346205535
+['chemistry class']	['45 % solution']	0.0941266761548
+['25 % copper solution']	['50 % copper solution']	0.803082245678
+['25 % copper solution']	['milliliter']	0.015547544145
+['25 % copper solution']	['25 % solution']	0.355830437672
+['25 % copper solution']	['50 % solution']	0.812688645742
+['25 % copper solution']	['1000 milliliter']	0.367485344043
+['25 % copper solution']	['45 % solution']	0.510223793642
+['50 % copper solution']	['milliliter']	0.015547544145
+['50 % copper solution']	['25 % solution']	0.812688645742
+['50 % copper solution']	['50 % solution']	0.355830437672
+['50 % copper solution']	['1000 milliliter']	0.367485344043
+['50 % copper solution']	['45 % solution']	0.510223793642
+['milliliter']	['25 % solution']	0.0229195678247
+['milliliter']	['50 % solution']	0.0229195678247
+['milliliter']	['45 % solution']	0.0229195678247
+['25 % solution']	['50 % solution']	0.811753586716
+['25 % solution']	['1000 milliliter']	0.392705145363
+['25 % solution']	['45 % solution']	0.520767003518
+['50 % solution']	['1000 milliliter']	0.392705145363
+['50 % solution']	['45 % solution']	0.520767003518
+['1000 milliliter']	['45 % solution']	0.0941266761548
+['chemistry class', 'solution']	['25 % copper solution']	0.594022799657
+['chemistry class', 'solution']	['50 % copper solution']	0.594022799657
+['chemistry class', 'solution']	['milliliter']	0.00298284487713
+['chemistry class', 'solution']	['25 % solution']	0.70562941995
+['chemistry class', 'solution']	['50 % solution']	0.70562941995
+['chemistry class', 'solution']	['1000 milliliter']	0.046982964258
+['chemistry class', 'solution']	['45 % solution']	0.691181051405
+['25 % copper solution', 'solution']	['chemistry class']	0.192260926098
+['25 % copper solution', 'solution']	['50 % copper solution']	0.668137175049
+['25 % copper solution', 'solution']	['milliliter']	0.0920216743935
+['25 % copper solution', 'solution']	['25 % solution']	0.750896905909
+['25 % copper solution', 'solution']	['50 % solution']	0.832607754681
+['25 % copper solution', 'solution']	['1000 milliliter']	0.612431298936
+['25 % copper solution', 'solution']	['45 % solution']	0.853287455674
+['50 % copper solution', 'solution']	['chemistry class']	0.192260926098
+['50 % copper solution', 'solution']	['25 % copper solution']	0.668137175049
+['50 % copper solution', 'solution']	['milliliter']	0.0920216743935
+['50 % copper solution', 'solution']	['25 % solution']	0.832607754681
+['50 % copper solution', 'solution']	['50 % solution']	0.750896905909
+['50 % copper solution', 'solution']	['1000 milliliter']	0.612431298936
+['50 % copper solution', 'solution']	['45 % solution']	0.853287455674
+['milliliter', 'solution']	['chemistry class']	0.0780842671024
+['milliliter', 'solution']	['25 % copper solution']	0.327233151348
+['milliliter', 'solution']	['50 % copper solution']	0.327233151348
+['milliliter', 'solution']	['25 % solution']	0.39204374255
+['milliliter', 'solution']	['50 % solution']	0.39204374255
+['milliliter', 'solution']	['1000 milliliter']	0.382810322024
+['milliliter', 'solution']	['45 % solution']	0.39204374255
+['25 % solution', 'solution']	['chemistry class']	0.163046821553
+['25 % solution', 'solution']	['25 % copper solution']	0.573201404691
+['25 % solution', 'solution']	['50 % copper solution']	0.62789600137
+['25 % solution', 'solution']	['milliliter']	0.0920216743935
+['25 % solution', 'solution']	['50 % solution']	0.813196890782
+['25 % solution', 'solution']	['1000 milliliter']	0.550754248875
+['25 % solution', 'solution']	['45 % solution']	0.807580295479
+['50 % solution', 'solution']	['chemistry class']	0.163046821553
+['50 % solution', 'solution']	['25 % copper solution']	0.62789600137
+['50 % solution', 'solution']	['50 % copper solution']	0.573201404691
+['50 % solution', 'solution']	['milliliter']	0.0920216743935
+['50 % solution', 'solution']	['25 % solution']	0.813196890782
+['50 % solution', 'solution']	['1000 milliliter']	0.550754248875
+['50 % solution', 'solution']	['45 % solution']	0.807580295479
+['1000 milliliter', 'solution']	['chemistry class']	0.0453544228225
+['1000 milliliter', 'solution']	['25 % copper solution']	0.654442934795
+['1000 milliliter', 'solution']	['50 % copper solution']	0.654442934795
+['1000 milliliter', 'solution']	['milliliter']	0.403924804991
+['1000 milliliter', 'solution']	['25 % solution']	0.76844741954
+['1000 milliliter', 'solution']	['50 % solution']	0.76844741954
+['1000 milliliter', 'solution']	['45 % solution']	0.691181051405
+['45 % solution', 'solution']	['chemistry class']	0.176424014536
+['45 % solution', 'solution']	['25 % copper solution']	0.638426248359
+['45 % solution', 'solution']	['50 % copper solution']	0.638426248359
+['45 % solution', 'solution']	['milliliter']	0.0920216743935
+['45 % solution', 'solution']	['25 % solution']	0.807580295479
+['45 % solution', 'solution']	['50 % solution']	0.807580295479
+['45 % solution', 'solution']	['1000 milliliter']	0.17924276583
+['solution', 'chemistry class']	['25 % copper solution']	0.594022799657
+['solution', 'chemistry class']	['50 % copper solution']	0.594022799657
+['solution', 'chemistry class']	['milliliter']	0.00298284487713
+['solution', 'chemistry class']	['25 % solution']	0.70562941995
+['solution', 'chemistry class']	['50 % solution']	0.70562941995
+['solution', 'chemistry class']	['1000 milliliter']	0.046982964258
+['solution', 'chemistry class']	['45 % solution']	0.691181051405
+['25 % copper solution', 'chemistry class']	['solution']	0.668407003622
+['25 % copper solution', 'chemistry class']	['50 % copper solution']	0.792186499448
+['25 % copper solution', 'chemistry class']	['milliliter']	0.012852508684
+['25 % copper solution', 'chemistry class']	['25 % solution']	0.700125795111
+['25 % copper solution', 'chemistry class']	['50 % solution']	0.787540618796
+['25 % copper solution', 'chemistry class']	['1000 milliliter']	0.444162458944
+['25 % copper solution', 'chemistry class']	['45 % solution']	0.666457283984
+['50 % copper solution', 'chemistry class']	['solution']	0.668407003622
+['50 % copper solution', 'chemistry class']	['25 % copper solution']	0.792186499448
+['50 % copper solution', 'chemistry class']	['milliliter']	0.012852508684
+['50 % copper solution', 'chemistry class']	['25 % solution']	0.787540618796
+['50 % copper solution', 'chemistry class']	['50 % solution']	0.700125795111
+['50 % copper solution', 'chemistry class']	['1000 milliliter']	0.444162458944
+['50 % copper solution', 'chemistry class']	['45 % solution']	0.666457283984
+['milliliter', 'chemistry class']	['solution']	0.0171914582806
+['milliliter', 'chemistry class']	['25 % copper solution']	0.0501553472069
+['milliliter', 'chemistry class']	['50 % copper solution']	0.0501553472069
+['milliliter', 'chemistry class']	['25 % solution']	0.0467896072558
+['milliliter', 'chemistry class']	['50 % solution']	0.0467896072558
+['milliliter', 'chemistry class']	['1000 milliliter']	0.444484228084
+['milliliter', 'chemistry class']	['45 % solution']	0.0410777933861
+['25 % solution', 'chemistry class']	['solution']	0.830753486942
+['25 % solution', 'chemistry class']	['25 % copper solution']	0.754259389138
+['25 % solution', 'chemistry class']	['50 % copper solution']	0.829397916175
+['25 % solution', 'chemistry class']	['milliliter']	0.012852508684
+['25 % solution', 'chemistry class']	['50 % solution']	0.824752035523
+['25 % solution', 'chemistry class']	['1000 milliliter']	0.508264908435
+['25 % solution', 'chemistry class']	['45 % solution']	0.689142469169
+['50 % solution', 'chemistry class']	['solution']	0.830753486942
+['50 % solution', 'chemistry class']	['25 % copper solution']	0.829397916175
+['50 % solution', 'chemistry class']	['50 % copper solution']	0.754259389138
+['50 % solution', 'chemistry class']	['milliliter']	0.012852508684
+['50 % solution', 'chemistry class']	['25 % solution']	0.824752035523
+['50 % solution', 'chemistry class']	['1000 milliliter']	0.508264908435
+['50 % solution', 'chemistry class']	['45 % solution']	0.689142469169
+['1000 milliliter', 'chemistry class']	['solution']	0.050052963724
+['1000 milliliter', 'chemistry class']	['25 % copper solution']	0.366116230415
+['1000 milliliter', 'chemistry class']	['50 % copper solution']	0.366116230415
+['1000 milliliter', 'chemistry class']	['milliliter']	0.350083101294
+['1000 milliliter', 'chemistry class']	['25 % solution']	0.392130216429
+['1000 milliliter', 'chemistry class']	['50 % solution']	0.392130216429
+['1000 milliliter', 'chemistry class']	['45 % solution']	0.0941266761548
+['45 % solution', 'chemistry class']	['solution']	0.830753486942
+['45 % solution', 'chemistry class']	['25 % copper solution']	0.652354994272
+['45 % solution', 'chemistry class']	['50 % copper solution']	0.652354994272
+['45 % solution', 'chemistry class']	['milliliter']	0.012852508684
+['45 % solution', 'chemistry class']	['25 % solution']	0.689450819099
+['45 % solution', 'chemistry class']	['50 % solution']	0.689450819099
+['45 % solution', 'chemistry class']	['1000 milliliter']	0.152238479479
+['solution', '25 % copper solution']	['chemistry class']	0.192260926098
+['solution', '25 % copper solution']	['50 % copper solution']	0.668137175049
+['solution', '25 % copper solution']	['milliliter']	0.0920216743935
+['solution', '25 % copper solution']	['25 % solution']	0.750896905909
+['solution', '25 % copper solution']	['50 % solution']	0.832607754681
+['solution', '25 % copper solution']	['1000 milliliter']	0.612431298936
+['solution', '25 % copper solution']	['45 % solution']	0.853287455674
+['chemistry class', '25 % copper solution']	['solution']	0.668407003622
+['chemistry class', '25 % copper solution']	['50 % copper solution']	0.792186499448
+['chemistry class', '25 % copper solution']	['milliliter']	0.012852508684
+['chemistry class', '25 % copper solution']	['25 % solution']	0.700125795111
+['chemistry class', '25 % copper solution']	['50 % solution']	0.787540618796
+['chemistry class', '25 % copper solution']	['1000 milliliter']	0.444162458944
+['chemistry class', '25 % copper solution']	['45 % solution']	0.666457283984
+['50 % copper solution', '25 % copper solution']	['solution']	0.740418830509
+['50 % copper solution', '25 % copper solution']	['chemistry class']	0.18099064776
+['50 % copper solution', '25 % copper solution']	['milliliter']	0.159887342775
+['50 % copper solution', '25 % copper solution']	['25 % solution']	0.342173582697
+['50 % copper solution', '25 % copper solution']	['50 % solution']	0.342173582697
+['50 % copper solution', '25 % copper solution']	['1000 milliliter']	0.687791572343
+['50 % copper solution', '25 % copper solution']	['45 % solution']	0.649709649865
+['milliliter', '25 % copper solution']	['solution']	0.28297626074
+['milliliter', '25 % copper solution']	['chemistry class']	0.0660803704124
+['milliliter', '25 % copper solution']	['50 % copper solution']	0.270891877978
+['milliliter', '25 % copper solution']	['25 % solution']	0.256227593946
+['milliliter', '25 % copper solution']	['50 % solution']	0.266245997325
+['milliliter', '25 % copper solution']	['1000 milliliter']	0.553863774984
+['milliliter', '25 % copper solution']	['45 % solution']	0.247321457094
+['25 % solution', '25 % copper solution']	['solution']	0.851621924645
+['25 % solution', '25 % copper solution']	['chemistry class']	0.18099064776
+['25 % solution', '25 % copper solution']	['50 % copper solution']	0.867467749457
+['25 % solution', '25 % copper solution']	['milliliter']	0.159887342775
+['25 % solution', '25 % copper solution']	['50 % solution']	0.866270144667
+['25 % solution', '25 % copper solution']	['1000 milliliter']	0.713011373664
+['25 % solution', '25 % copper solution']	['45 % solution']	0.6524446186
+['50 % solution', '25 % copper solution']	['solution']	0.851621924645
+['50 % solution', '25 % copper solution']	['chemistry class']	0.18099064776
+['50 % solution', '25 % copper solution']	['50 % copper solution']	0.307729581633
+['50 % solution', '25 % copper solution']	['milliliter']	0.159887342775
+['50 % solution', '25 % copper solution']	['25 % solution']	0.313840692744
+['50 % solution', '25 % copper solution']	['1000 milliliter']	0.713011373664
+['50 % solution', '25 % copper solution']	['45 % solution']	0.6524446186
+['1000 milliliter', '25 % copper solution']	['solution']	0.620253282372
+['1000 milliliter', '25 % copper solution']	['chemistry class']	0.0915001233665
+['1000 milliliter', '25 % copper solution']	['50 % copper solution']	0.835795180648
+['1000 milliliter', '25 % copper solution']	['milliliter']	0.45121978623
+['1000 milliliter', '25 % copper solution']	['25 % solution']	0.643862886731
+['1000 milliliter', '25 % copper solution']	['50 % solution']	0.834454514341
+['1000 milliliter', '25 % copper solution']	['45 % solution']	0.666457283984
+['45 % solution', '25 % copper solution']	['solution']	0.851621924645
+['45 % solution', '25 % copper solution']	['chemistry class']	0.172482157515
+['45 % solution', '25 % copper solution']	['50 % copper solution']	0.885679698878
+['45 % solution', '25 % copper solution']	['milliliter']	0.159887342775
+['45 % solution', '25 % copper solution']	['25 % solution']	0.541785259902
+['45 % solution', '25 % copper solution']	['50 % solution']	0.884482094088
+['45 % solution', '25 % copper solution']	['1000 milliliter']	0.647097557051
+['solution', '50 % copper solution']	['chemistry class']	0.192260926098
+['solution', '50 % copper solution']	['25 % copper solution']	0.668137175049
+['solution', '50 % copper solution']	['milliliter']	0.0920216743935
+['solution', '50 % copper solution']	['25 % solution']	0.832607754681
+['solution', '50 % copper solution']	['50 % solution']	0.750896905909
+['solution', '50 % copper solution']	['1000 milliliter']	0.612431298936
+['solution', '50 % copper solution']	['45 % solution']	0.853287455674
+['chemistry class', '50 % copper solution']	['solution']	0.668407003622
+['chemistry class', '50 % copper solution']	['25 % copper solution']	0.792186499448
+['chemistry class', '50 % copper solution']	['milliliter']	0.012852508684
+['chemistry class', '50 % copper solution']	['25 % solution']	0.787540618796
+['chemistry class', '50 % copper solution']	['50 % solution']	0.700125795111
+['chemistry class', '50 % copper solution']	['1000 milliliter']	0.444162458944
+['chemistry class', '50 % copper solution']	['45 % solution']	0.666457283984
+['25 % copper solution', '50 % copper solution']	['solution']	0.740418830509
+['25 % copper solution', '50 % copper solution']	['chemistry class']	0.18099064776
+['25 % copper solution', '50 % copper solution']	['milliliter']	0.159887342775
+['25 % copper solution', '50 % copper solution']	['25 % solution']	0.342173582697
+['25 % copper solution', '50 % copper solution']	['50 % solution']	0.342173582697
+['25 % copper solution', '50 % copper solution']	['1000 milliliter']	0.687791572343
+['25 % copper solution', '50 % copper solution']	['45 % solution']	0.649709649865
+['milliliter', '50 % copper solution']	['solution']	0.28297626074
+['milliliter', '50 % copper solution']	['chemistry class']	0.0660803704124
+['milliliter', '50 % copper solution']	['25 % copper solution']	0.270891877978
+['milliliter', '50 % copper solution']	['25 % solution']	0.266245997325
+['milliliter', '50 % copper solution']	['50 % solution']	0.256227593946
+['milliliter', '50 % copper solution']	['1000 milliliter']	0.553863774984
+['milliliter', '50 % copper solution']	['45 % solution']	0.247321457094
+['25 % solution', '50 % copper solution']	['solution']	0.851621924645
+['25 % solution', '50 % copper solution']	['chemistry class']	0.18099064776
+['25 % solution', '50 % copper solution']	['25 % copper solution']	0.307729581633
+['25 % solution', '50 % copper solution']	['milliliter']	0.159887342775
+['25 % solution', '50 % copper solution']	['50 % solution']	0.313840692744
+['25 % solution', '50 % copper solution']	['1000 milliliter']	0.713011373664
+['25 % solution', '50 % copper solution']	['45 % solution']	0.6524446186
+['50 % solution', '50 % copper solution']	['solution']	0.851621924645
+['50 % solution', '50 % copper solution']	['chemistry class']	0.18099064776
+['50 % solution', '50 % copper solution']	['25 % copper solution']	0.867467749457
+['50 % solution', '50 % copper solution']	['milliliter']	0.159887342775
+['50 % solution', '50 % copper solution']	['25 % solution']	0.866270144667
+['50 % solution', '50 % copper solution']	['1000 milliliter']	0.713011373664
+['50 % solution', '50 % copper solution']	['45 % solution']	0.6524446186
+['1000 milliliter', '50 % copper solution']	['solution']	0.620253282372
+['1000 milliliter', '50 % copper solution']	['chemistry class']	0.0915001233665
+['1000 milliliter', '50 % copper solution']	['25 % copper solution']	0.835795180648
+['1000 milliliter', '50 % copper solution']	['milliliter']	0.45121978623
+['1000 milliliter', '50 % copper solution']	['25 % solution']	0.834454514341
+['1000 milliliter', '50 % copper solution']	['50 % solution']	0.643862886731
+['1000 milliliter', '50 % copper solution']	['45 % solution']	0.666457283984
+['45 % solution', '50 % copper solution']	['solution']	0.851621924645
+['45 % solution', '50 % copper solution']	['chemistry class']	0.172482157515
+['45 % solution', '50 % copper solution']	['25 % copper solution']	0.885679698878
+['45 % solution', '50 % copper solution']	['milliliter']	0.159887342775
+['45 % solution', '50 % copper solution']	['25 % solution']	0.884482094088
+['45 % solution', '50 % copper solution']	['50 % solution']	0.541785259902
+['45 % solution', '50 % copper solution']	['1000 milliliter']	0.647097557051
+['solution', 'milliliter']	['chemistry class']	0.0780842671024
+['solution', 'milliliter']	['25 % copper solution']	0.327233151348
+['solution', 'milliliter']	['50 % copper solution']	0.327233151348
+['solution', 'milliliter']	['25 % solution']	0.39204374255
+['solution', 'milliliter']	['50 % solution']	0.39204374255
+['solution', 'milliliter']	['1000 milliliter']	0.382810322024
+['solution', 'milliliter']	['45 % solution']	0.39204374255
+['chemistry class', 'milliliter']	['solution']	0.0171914582806
+['chemistry class', 'milliliter']	['25 % copper solution']	0.0501553472069
+['chemistry class', 'milliliter']	['50 % copper solution']	0.0501553472069
+['chemistry class', 'milliliter']	['25 % solution']	0.0467896072558
+['chemistry class', 'milliliter']	['50 % solution']	0.0467896072558
+['chemistry class', 'milliliter']	['1000 milliliter']	0.444484228084
+['chemistry class', 'milliliter']	['45 % solution']	0.0410777933861
+['25 % copper solution', 'milliliter']	['solution']	0.28297626074
+['25 % copper solution', 'milliliter']	['chemistry class']	0.0660803704124
+['25 % copper solution', 'milliliter']	['50 % copper solution']	0.270891877978
+['25 % copper solution', 'milliliter']	['25 % solution']	0.256227593946
+['25 % copper solution', 'milliliter']	['50 % solution']	0.266245997325
+['25 % copper solution', 'milliliter']	['1000 milliliter']	0.553863774984
+['25 % copper solution', 'milliliter']	['45 % solution']	0.247321457094
+['50 % copper solution', 'milliliter']	['solution']	0.28297626074
+['50 % copper solution', 'milliliter']	['chemistry class']	0.0660803704124
+['50 % copper solution', 'milliliter']	['25 % copper solution']	0.270891877978
+['50 % copper solution', 'milliliter']	['25 % solution']	0.266245997325
+['50 % copper solution', 'milliliter']	['50 % solution']	0.256227593946
+['50 % copper solution', 'milliliter']	['1000 milliliter']	0.553863774984
+['50 % copper solution', 'milliliter']	['45 % solution']	0.247321457094
+['25 % solution', 'milliliter']	['solution']	0.41789192616
+['25 % solution', 'milliliter']	['chemistry class']	0.0351005911342
+['25 % solution', 'milliliter']	['25 % copper solution']	0.295266090076
+['25 % solution', 'milliliter']	['50 % copper solution']	0.282755694504
+['25 % solution', 'milliliter']	['50 % solution']	0.298907534649
+['25 % solution', 'milliliter']	['1000 milliliter']	0.567577173513
+['25 % solution', 'milliliter']	['45 % solution']	0.188158981207
+['50 % solution', 'milliliter']	['solution']	0.41789192616
+['50 % solution', 'milliliter']	['chemistry class']	0.0351005911342
+['50 % solution', 'milliliter']	['25 % copper solution']	0.282755694504
+['50 % solution', 'milliliter']	['50 % copper solution']	0.295266090076
+['50 % solution', 'milliliter']	['25 % solution']	0.298907534649
+['50 % solution', 'milliliter']	['1000 milliliter']	0.567577173513
+['50 % solution', 'milliliter']	['45 % solution']	0.188158981207
+['1000 milliliter', 'milliliter']	['solution']	0.168049818142
+['1000 milliliter', 'milliliter']	['chemistry class']	0.127003055446
+['1000 milliliter', 'milliliter']	['25 % copper solution']	0.577901851166
+['1000 milliliter', 'milliliter']	['50 % copper solution']	0.577901851166
+['1000 milliliter', 'milliliter']	['25 % solution']	0.57831258241
+['1000 milliliter', 'milliliter']	['50 % solution']	0.57831258241
+['1000 milliliter', 'milliliter']	['45 % solution']	0.332578556126
+['45 % solution', 'milliliter']	['solution']	0.41789192616
+['45 % solution', 'milliliter']	['chemistry class']	0.0351005911342
+['45 % solution', 'milliliter']	['25 % copper solution']	0.162952262861
+['45 % solution', 'milliliter']	['50 % copper solution']	0.162952262861
+['45 % solution', 'milliliter']	['25 % solution']	0.188158981207
+['45 % solution', 'milliliter']	['50 % solution']	0.188158981207
+['45 % solution', 'milliliter']	['1000 milliliter']	0.414015717063
+['solution', '25 % solution']	['chemistry class']	0.163046821553
+['solution', '25 % solution']	['25 % copper solution']	0.573201404691
+['solution', '25 % solution']	['50 % copper solution']	0.62789600137
+['solution', '25 % solution']	['milliliter']	0.0920216743935
+['solution', '25 % solution']	['50 % solution']	0.813196890782
+['solution', '25 % solution']	['1000 milliliter']	0.550754248875
+['solution', '25 % solution']	['45 % solution']	0.807580295479
+['chemistry class', '25 % solution']	['solution']	0.830753486942
+['chemistry class', '25 % solution']	['25 % copper solution']	0.754259389138
+['chemistry class', '25 % solution']	['50 % copper solution']	0.829397916175
+['chemistry class', '25 % solution']	['milliliter']	0.012852508684
+['chemistry class', '25 % solution']	['50 % solution']	0.824752035523
+['chemistry class', '25 % solution']	['1000 milliliter']	0.508264908435
+['chemistry class', '25 % solution']	['45 % solution']	0.689142469169
+['25 % copper solution', '25 % solution']	['solution']	0.851621924645
+['25 % copper solution', '25 % solution']	['chemistry class']	0.18099064776
+['25 % copper solution', '25 % solution']	['50 % copper solution']	0.867467749457
+['25 % copper solution', '25 % solution']	['milliliter']	0.159887342775
+['25 % copper solution', '25 % solution']	['50 % solution']	0.866270144667
+['25 % copper solution', '25 % solution']	['1000 milliliter']	0.713011373664
+['25 % copper solution', '25 % solution']	['45 % solution']	0.6524446186
+['50 % copper solution', '25 % solution']	['solution']	0.851621924645
+['50 % copper solution', '25 % solution']	['chemistry class']	0.18099064776
+['50 % copper solution', '25 % solution']	['25 % copper solution']	0.307729581633
+['50 % copper solution', '25 % solution']	['milliliter']	0.159887342775
+['50 % copper solution', '25 % solution']	['50 % solution']	0.313840692744
+['50 % copper solution', '25 % solution']	['1000 milliliter']	0.713011373664
+['50 % copper solution', '25 % solution']	['45 % solution']	0.6524446186
+['milliliter', '25 % solution']	['solution']	0.41789192616
+['milliliter', '25 % solution']	['chemistry class']	0.0351005911342
+['milliliter', '25 % solution']	['25 % copper solution']	0.295266090076
+['milliliter', '25 % solution']	['50 % copper solution']	0.282755694504
+['milliliter', '25 % solution']	['50 % solution']	0.298907534649
+['milliliter', '25 % solution']	['1000 milliliter']	0.567577173513
+['milliliter', '25 % solution']	['45 % solution']	0.188158981207
+['50 % solution', '25 % solution']	['solution']	0.8377815632
+['50 % solution', '25 % solution']	['chemistry class']	0.18099064776
+['50 % solution', '25 % solution']	['25 % copper solution']	0.28686679577
+['50 % solution', '25 % solution']	['50 % copper solution']	0.28686679577
+['50 % solution', '25 % solution']	['milliliter']	0.159887342775
+['50 % solution', '25 % solution']	['1000 milliliter']	0.71455458354
+['50 % solution', '25 % solution']	['45 % solution']	0.636272003677
+['1000 milliliter', '25 % solution']	['solution']	0.818998895236
+['1000 milliliter', '25 % solution']	['chemistry class']	0.152238479479
+['1000 milliliter', '25 % solution']	['25 % copper solution']	0.697996480758
+['1000 milliliter', '25 % solution']	['50 % copper solution']	0.882801226127
+['1000 milliliter', '25 % solution']	['milliliter']	0.488256823267
+['1000 milliliter', '25 % solution']	['50 % solution']	0.88146055982
+['1000 milliliter', '25 % solution']	['45 % solution']	0.689142469169
+['45 % solution', '25 % solution']	['solution']	0.8377815632
+['45 % solution', '25 % solution']	['chemistry class']	0.172482157515
+['45 % solution', '25 % solution']	['25 % copper solution']	0.48751305375
+['45 % solution', '25 % solution']	['50 % copper solution']	0.860789135238
+['45 % solution', '25 % solution']	['milliliter']	0.159887342775
+['45 % solution', '25 % solution']	['50 % solution']	0.859591530447
+['45 % solution', '25 % solution']	['1000 milliliter']	0.648640766928
+['solution', '50 % solution']	['chemistry class']	0.163046821553
+['solution', '50 % solution']	['25 % copper solution']	0.62789600137
+['solution', '50 % solution']	['50 % copper solution']	0.573201404691
+['solution', '50 % solution']	['milliliter']	0.0920216743935
+['solution', '50 % solution']	['25 % solution']	0.813196890782
+['solution', '50 % solution']	['1000 milliliter']	0.550754248875
+['solution', '50 % solution']	['45 % solution']	0.807580295479
+['chemistry class', '50 % solution']	['solution']	0.830753486942
+['chemistry class', '50 % solution']	['25 % copper solution']	0.829397916175
+['chemistry class', '50 % solution']	['50 % copper solution']	0.754259389138
+['chemistry class', '50 % solution']	['milliliter']	0.012852508684
+['chemistry class', '50 % solution']	['25 % solution']	0.824752035523
+['chemistry class', '50 % solution']	['1000 milliliter']	0.508264908435
+['chemistry class', '50 % solution']	['45 % solution']	0.689142469169
+['25 % copper solution', '50 % solution']	['solution']	0.851621924645
+['25 % copper solution', '50 % solution']	['chemistry class']	0.18099064776
+['25 % copper solution', '50 % solution']	['50 % copper solution']	0.307729581633
+['25 % copper solution', '50 % solution']	['milliliter']	0.159887342775
+['25 % copper solution', '50 % solution']	['25 % solution']	0.313840692744
+['25 % copper solution', '50 % solution']	['1000 milliliter']	0.713011373664
+['25 % copper solution', '50 % solution']	['45 % solution']	0.6524446186
+['50 % copper solution', '50 % solution']	['solution']	0.851621924645
+['50 % copper solution', '50 % solution']	['chemistry class']	0.18099064776
+['50 % copper solution', '50 % solution']	['25 % copper solution']	0.867467749457
+['50 % copper solution', '50 % solution']	['milliliter']	0.159887342775
+['50 % copper solution', '50 % solution']	['25 % solution']	0.866270144667
+['50 % copper solution', '50 % solution']	['1000 milliliter']	0.713011373664
+['50 % copper solution', '50 % solution']	['45 % solution']	0.6524446186
+['milliliter', '50 % solution']	['solution']	0.41789192616
+['milliliter', '50 % solution']	['chemistry class']	0.0351005911342
+['milliliter', '50 % solution']	['25 % copper solution']	0.282755694504
+['milliliter', '50 % solution']	['50 % copper solution']	0.295266090076
+['milliliter', '50 % solution']	['25 % solution']	0.298907534649
+['milliliter', '50 % solution']	['1000 milliliter']	0.567577173513
+['milliliter', '50 % solution']	['45 % solution']	0.188158981207
+['25 % solution', '50 % solution']	['solution']	0.8377815632
+['25 % solution', '50 % solution']	['chemistry class']	0.18099064776
+['25 % solution', '50 % solution']	['25 % copper solution']	0.28686679577
+['25 % solution', '50 % solution']	['50 % copper solution']	0.28686679577
+['25 % solution', '50 % solution']	['milliliter']	0.159887342775
+['25 % solution', '50 % solution']	['1000 milliliter']	0.71455458354
+['25 % solution', '50 % solution']	['45 % solution']	0.636272003677
+['1000 milliliter', '50 % solution']	['solution']	0.818998895236
+['1000 milliliter', '50 % solution']	['chemistry class']	0.152238479479
+['1000 milliliter', '50 % solution']	['25 % copper solution']	0.882801226127
+['1000 milliliter', '50 % solution']	['50 % copper solution']	0.697996480758
+['1000 milliliter', '50 % solution']	['milliliter']	0.488256823267
+['1000 milliliter', '50 % solution']	['25 % solution']	0.88146055982
+['1000 milliliter', '50 % solution']	['45 % solution']	0.689142469169
+['45 % solution', '50 % solution']	['solution']	0.8377815632
+['45 % solution', '50 % solution']	['chemistry class']	0.172482157515
+['45 % solution', '50 % solution']	['25 % copper solution']	0.860789135238
+['45 % solution', '50 % solution']	['50 % copper solution']	0.48751305375
+['45 % solution', '50 % solution']	['milliliter']	0.159887342775
+['45 % solution', '50 % solution']	['25 % solution']	0.859591530447
+['45 % solution', '50 % solution']	['1000 milliliter']	0.648640766928
+['solution', '1000 milliliter']	['chemistry class']	0.0453544228225
+['solution', '1000 milliliter']	['25 % copper solution']	0.654442934795
+['solution', '1000 milliliter']	['50 % copper solution']	0.654442934795
+['solution', '1000 milliliter']	['milliliter']	0.403924804991
+['solution', '1000 milliliter']	['25 % solution']	0.76844741954
+['solution', '1000 milliliter']	['50 % solution']	0.76844741954
+['solution', '1000 milliliter']	['45 % solution']	0.691181051405
+['chemistry class', '1000 milliliter']	['solution']	0.050052963724
+['chemistry class', '1000 milliliter']	['25 % copper solution']	0.366116230415
+['chemistry class', '1000 milliliter']	['50 % copper solution']	0.366116230415
+['chemistry class', '1000 milliliter']	['milliliter']	0.350083101294
+['chemistry class', '1000 milliliter']	['25 % solution']	0.392130216429
+['chemistry class', '1000 milliliter']	['50 % solution']	0.392130216429
+['chemistry class', '1000 milliliter']	['45 % solution']	0.0941266761548
+['25 % copper solution', '1000 milliliter']	['solution']	0.620253282372
+['25 % copper solution', '1000 milliliter']	['chemistry class']	0.0915001233665
+['25 % copper solution', '1000 milliliter']	['50 % copper solution']	0.835795180648
+['25 % copper solution', '1000 milliliter']	['milliliter']	0.45121978623
+['25 % copper solution', '1000 milliliter']	['25 % solution']	0.643862886731
+['25 % copper solution', '1000 milliliter']	['50 % solution']	0.834454514341
+['25 % copper solution', '1000 milliliter']	['45 % solution']	0.666457283984
+['50 % copper solution', '1000 milliliter']	['solution']	0.620253282372
+['50 % copper solution', '1000 milliliter']	['chemistry class']	0.0915001233665
+['50 % copper solution', '1000 milliliter']	['25 % copper solution']	0.835795180648
+['50 % copper solution', '1000 milliliter']	['milliliter']	0.45121978623
+['50 % copper solution', '1000 milliliter']	['25 % solution']	0.834454514341
+['50 % copper solution', '1000 milliliter']	['50 % solution']	0.643862886731
+['50 % copper solution', '1000 milliliter']	['45 % solution']	0.666457283984
+['milliliter', '1000 milliliter']	['solution']	0.168049818142
+['milliliter', '1000 milliliter']	['chemistry class']	0.127003055446
+['milliliter', '1000 milliliter']	['25 % copper solution']	0.577901851166
+['milliliter', '1000 milliliter']	['50 % copper solution']	0.577901851166
+['milliliter', '1000 milliliter']	['25 % solution']	0.57831258241
+['milliliter', '1000 milliliter']	['50 % solution']	0.57831258241
+['milliliter', '1000 milliliter']	['45 % solution']	0.332578556126
+['25 % solution', '1000 milliliter']	['solution']	0.818998895236
+['25 % solution', '1000 milliliter']	['chemistry class']	0.152238479479
+['25 % solution', '1000 milliliter']	['25 % copper solution']	0.697996480758
+['25 % solution', '1000 milliliter']	['50 % copper solution']	0.882801226127
+['25 % solution', '1000 milliliter']	['milliliter']	0.488256823267
+['25 % solution', '1000 milliliter']	['50 % solution']	0.88146055982
+['25 % solution', '1000 milliliter']	['45 % solution']	0.689142469169
+['50 % solution', '1000 milliliter']	['solution']	0.818998895236
+['50 % solution', '1000 milliliter']	['chemistry class']	0.152238479479
+['50 % solution', '1000 milliliter']	['25 % copper solution']	0.882801226127
+['50 % solution', '1000 milliliter']	['50 % copper solution']	0.697996480758
+['50 % solution', '1000 milliliter']	['milliliter']	0.488256823267
+['50 % solution', '1000 milliliter']	['25 % solution']	0.88146055982
+['50 % solution', '1000 milliliter']	['45 % solution']	0.689142469169
+['45 % solution', '1000 milliliter']	['solution']	0.818998895236
+['45 % solution', '1000 milliliter']	['chemistry class']	0.152238479479
+['45 % solution', '1000 milliliter']	['25 % copper solution']	0.829397916175
+['45 % solution', '1000 milliliter']	['50 % copper solution']	0.829397916175
+['45 % solution', '1000 milliliter']	['milliliter']	0.488256823267
+['45 % solution', '1000 milliliter']	['25 % solution']	0.824752035523
+['45 % solution', '1000 milliliter']	['50 % solution']	0.824752035523
+['solution', '45 % solution']	['chemistry class']	0.176424014536
+['solution', '45 % solution']	['25 % copper solution']	0.638426248359
+['solution', '45 % solution']	['50 % copper solution']	0.638426248359
+['solution', '45 % solution']	['milliliter']	0.0920216743935
+['solution', '45 % solution']	['25 % solution']	0.807580295479
+['solution', '45 % solution']	['50 % solution']	0.807580295479
+['solution', '45 % solution']	['1000 milliliter']	0.17924276583
+['chemistry class', '45 % solution']	['solution']	0.830753486942
+['chemistry class', '45 % solution']	['25 % copper solution']	0.652354994272
+['chemistry class', '45 % solution']	['50 % copper solution']	0.652354994272
+['chemistry class', '45 % solution']	['milliliter']	0.012852508684
+['chemistry class', '45 % solution']	['25 % solution']	0.689450819099
+['chemistry class', '45 % solution']	['50 % solution']	0.689450819099
+['chemistry class', '45 % solution']	['1000 milliliter']	0.152238479479
+['25 % copper solution', '45 % solution']	['solution']	0.851621924645
+['25 % copper solution', '45 % solution']	['chemistry class']	0.172482157515
+['25 % copper solution', '45 % solution']	['50 % copper solution']	0.885679698878
+['25 % copper solution', '45 % solution']	['milliliter']	0.159887342775
+['25 % copper solution', '45 % solution']	['25 % solution']	0.541785259902
+['25 % copper solution', '45 % solution']	['50 % solution']	0.884482094088
+['25 % copper solution', '45 % solution']	['1000 milliliter']	0.647097557051
+['50 % copper solution', '45 % solution']	['solution']	0.851621924645
+['50 % copper solution', '45 % solution']	['chemistry class']	0.172482157515
+['50 % copper solution', '45 % solution']	['25 % copper solution']	0.885679698878
+['50 % copper solution', '45 % solution']	['milliliter']	0.159887342775
+['50 % copper solution', '45 % solution']	['25 % solution']	0.884482094088
+['50 % copper solution', '45 % solution']	['50 % solution']	0.541785259902
+['50 % copper solution', '45 % solution']	['1000 milliliter']	0.647097557051
+['milliliter', '45 % solution']	['solution']	0.41789192616
+['milliliter', '45 % solution']	['chemistry class']	0.0351005911342
+['milliliter', '45 % solution']	['25 % copper solution']	0.162952262861
+['milliliter', '45 % solution']	['50 % copper solution']	0.162952262861
+['milliliter', '45 % solution']	['25 % solution']	0.188158981207
+['milliliter', '45 % solution']	['50 % solution']	0.188158981207
+['milliliter', '45 % solution']	['1000 milliliter']	0.414015717063
+['25 % solution', '45 % solution']	['solution']	0.8377815632
+['25 % solution', '45 % solution']	['chemistry class']	0.172482157515
+['25 % solution', '45 % solution']	['25 % copper solution']	0.48751305375
+['25 % solution', '45 % solution']	['50 % copper solution']	0.860789135238
+['25 % solution', '45 % solution']	['milliliter']	0.159887342775
+['25 % solution', '45 % solution']	['50 % solution']	0.859591530447
+['25 % solution', '45 % solution']	['1000 milliliter']	0.648640766928
+['50 % solution', '45 % solution']	['solution']	0.8377815632
+['50 % solution', '45 % solution']	['chemistry class']	0.172482157515
+['50 % solution', '45 % solution']	['25 % copper solution']	0.860789135238
+['50 % solution', '45 % solution']	['50 % copper solution']	0.48751305375
+['50 % solution', '45 % solution']	['milliliter']	0.159887342775
+['50 % solution', '45 % solution']	['25 % solution']	0.859591530447
+['50 % solution', '45 % solution']	['1000 milliliter']	0.648640766928
+['1000 milliliter', '45 % solution']	['solution']	0.818998895236
+['1000 milliliter', '45 % solution']	['chemistry class']	0.152238479479
+['1000 milliliter', '45 % solution']	['25 % copper solution']	0.829397916175
+['1000 milliliter', '45 % solution']	['50 % copper solution']	0.829397916175
+['1000 milliliter', '45 % solution']	['milliliter']	0.488256823267
+['1000 milliliter', '45 % solution']	['25 % solution']	0.824752035523
+['1000 milliliter', '45 % solution']	['50 % solution']	0.824752035523

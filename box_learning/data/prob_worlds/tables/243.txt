@@ -1,0 +1,28 @@
+1
+[['caesar', '-', '-', '-', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['meal', 'x1', 'meal', 'dollar', '30', '-', '-'], ['venus hall', '', '-', '-', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'meal', 'dollar', '35', '-', '-']]
+-1
+[['dollar', '-', '-', '-', '-', 'meal', 'x1'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['meal', 'x1', 'meal', 'dollar', 'venus hall', '-', '-'], ['dollar', 'meal', '-', '-', '-', '35', 'x1'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['venus hall', 'x1', 'meal', 'dollar', '35', '-', '-']]
+-1
+[['caesar', '-', 'x1', '-', 'venus hall', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['x2', 'x1', 'venus hall', 'dollar', '30', '-', '-'], ['x1', '', '-', 'venus hall', '-', 'meal', 'x2'], ['room', '800', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'meal', 'dollar', 'venus hall', '-', 'x2']]
+-1
+[['caesar', '35', '-', '-', '-', 'meal', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['meal', 'x1', 'meal', 'dollar', 'caesar', '-', '-'], ['meal', '', 'x1', '-', 'caesar', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'caesar', 'dollar', '35', '-', '-']]
+-1
+[['meal', '-', '-', '-', '-', '30', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['meal', 'x1', 'meal', 'dollar', '30', '', '-'], ['venus hall', '35', '-', '30', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', '', 'dollar', '35', '-', '-']]
+-1
+[['caesar', '', '-', '-', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['meal', 'x2', 'caesar', 'dollar', '30', '-', '-'], ['venus hall', '', '-', '-', '-', 'dollar', 'x1'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['meal', 'x1', 'caesar', '30', '35', '-', 'dollar']]
+-1
+[['caesar', '-', '-', 'meal', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['35', 'x1', 'meal', 'dollar', '30', 'caesar', '-'], ['venus hall', 'caesar', '-', '-', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'caesar', 'dollar', '35', '-', '-']]
+-1
+[['x1', 'meal', '-', '-', '-', 'dollar', '30'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'meal', 'dollar', '30', '-', '-'], ['x1', 'meal', '-', '-', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'meal', 'dollar', 'venus hall', '30', '-']]
+-1
+[['venus hall', '-', '-', 'meal', '-', 'dollar', 'x1'], ['room', '1', 'room', '500', '800', 'dollar', '-'], ['35', 'x1', 'meal', 'dollar', '30', '-', '-'], ['venus hall', '', '30', 'meal', '-', '35', 'dollar'], ['800', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'meal', 'dollar', '35', '30', '-']]
+-1
+[['caesar', '-', '-', 'x1', 'meal', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['caesar', 'x1', 'meal', 'dollar', '30', 'venus hall', '-'], ['venus hall', '30', '35', '-', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'meal', 'dollar', 'x2', '-', '']]
+-1
+[['caesar', '-', 'meal', '-', '-', 'dollar', ''], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['meal', 'caesar', 'meal', 'dollar', '30', '-', '-'], ['30', 'caesar', 'meal', 'x1', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '800'], ['meal', 'x1', '', 'x2', '30', 'caesar', '-']]
+-1
+[['caesar', '', '-', '-', 'venus hall', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['x2', 'x1', 'caesar', 'dollar', '30', '35', ''], ['venus hall', '35', '-', '-', '-', 'caesar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['meal', 'x1', 'meal', 'dollar', 'venus hall', '', 'x2']]
+-1
+[['caesar', '-', 'venus hall', 'x1', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['x2', 'x1', 'meal', 'dollar', 'venus hall', '-', '-'], ['venus hall', '', 'caesar', '-', '-', '30', 'x2'], ['room', '1', 'room', '800', '500', '-', '-'], ['30', 'x1', 'meal', 'dollar', 'venus hall', '-', '-']]
+-1
+[['meal', '30', '-', '-', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '800', '-', '-'], ['meal', 'x1', 'x2', 'dollar', '30', '-', '-'], ['meal', '35', '-', '-', '-', 'dollar', 'x2'], ['room', '1', 'room', 'dollar', '500', '-', '-'], ['x2', 'x1', 'meal', 'dollar', '35', '-', '-']]

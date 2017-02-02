@@ -1,0 +1,536 @@
+['investor', '15000 dollar', '2 account', '4 % annual simple interest', '3 %', 'interest', '550 dollar annual interest', '%', '4 %']
+['investor']	['15000 dollar']	0.0827346205535
+['investor']	['2 account']	0.0827346205535
+['investor']	['4 % annual simple interest']	0.094467200112
+['investor']	['3 %']	0.0897823390711
+['investor']	['interest']	0.0764530854942
+['investor']	['550 dollar annual interest']	0.094467200112
+['investor']	['%']	0.0545449409346
+['investor']	['4 %']	0.0897823390711
+['15000 dollar']	['2 account']	0.0901100077042
+['15000 dollar']	['4 % annual simple interest']	0.0912443646678
+['15000 dollar']	['3 %']	0.0897823390711
+['15000 dollar']	['interest']	0.050052963724
+['15000 dollar']	['550 dollar annual interest']	0.0941266761548
+['15000 dollar']	['%']	0.0575843031668
+['15000 dollar']	['4 %']	0.0897823390711
+['2 account']	['4 % annual simple interest']	0.322343993077
+['2 account']	['3 %']	0.408341208225
+['2 account']	['interest']	0.0575843031668
+['2 account']	['550 dollar annual interest']	0.0941266761548
+['2 account']	['%']	0.0575843031668
+['2 account']	['4 %']	0.408341208225
+['4 % annual simple interest']	['3 %']	0.387833724689
+['4 % annual simple interest']	['550 dollar annual interest']	0.478746434199
+['4 % annual simple interest']	['%']	0.153865180498
+['3 %']	['interest']	0.0453234639121
+['3 %']	['550 dollar annual interest']	0.0861845487314
+['3 %']	['4 %']	0.80258510212
+['interest']	['%']	0.046933224487
+['interest']	['4 %']	0.0505486765724
+['550 dollar annual interest']	['%']	0.0720442106544
+['550 dollar annual interest']	['4 %']	0.0981211933805
+['15000 dollar', 'investor']	['2 account']	0.0827346205535
+['15000 dollar', 'investor']	['4 % annual simple interest']	0.0887553862424
+['15000 dollar', 'investor']	['3 %']	0.0897823390711
+['15000 dollar', 'investor']	['interest']	0.104529257494
+['15000 dollar', 'investor']	['550 dollar annual interest']	0.0887553862424
+['15000 dollar', 'investor']	['%']	0.0878782742679
+['15000 dollar', 'investor']	['4 %']	0.0897823390711
+['2 account', 'investor']	['15000 dollar']	0.0827346205535
+['2 account', 'investor']	['4 % annual simple interest']	0.371939498892
+['2 account', 'investor']	['3 %']	0.334357794603
+['2 account', 'investor']	['interest']	0.109786418828
+['2 account', 'investor']	['550 dollar annual interest']	0.0887553862424
+['2 account', 'investor']	['%']	0.0878782742679
+['2 account', 'investor']	['4 %']	0.334357794603
+['4 % annual simple interest', 'investor']	['15000 dollar']	0.0915001233665
+['4 % annual simple interest', 'investor']	['2 account']	0.444162458944
+['4 % annual simple interest', 'investor']	['3 %']	0.3551048678
+['4 % annual simple interest', 'investor']	['interest']	0.773696707893
+['4 % annual simple interest', 'investor']	['550 dollar annual interest']	0.629669809087
+['4 % annual simple interest', 'investor']	['%']	0.17258001943
+['4 % annual simple interest', 'investor']	['4 %']	0.426915308101
+['3 %', 'investor']	['15000 dollar']	0.0696933362217
+['3 %', 'investor']	['2 account']	0.344494311863
+['3 %', 'investor']	['4 % annual simple interest']	0.308480686614
+['3 %', 'investor']	['interest']	0.0886562047411
+['3 %', 'investor']	['550 dollar annual interest']	0.0841680381001
+['3 %', 'investor']	['%']	0.533914216062
+['3 %', 'investor']	['4 %']	0.72021221181
+['interest', 'investor']	['15000 dollar']	0.046982964258
+['interest', 'investor']	['2 account']	0.0465787639079
+['interest', 'investor']	['4 % annual simple interest']	0.500596528516
+['interest', 'investor']	['3 %']	0.0505486765724
+['interest', 'investor']	['550 dollar annual interest']	0.614619551135
+['interest', 'investor']	['%']	0.046933224487
+['interest', 'investor']	['4 %']	0.0505486765724
+['550 dollar annual interest', 'investor']	['15000 dollar']	0.152238479479
+['550 dollar annual interest', 'investor']	['2 account']	0.152238479479
+['550 dollar annual interest', 'investor']	['4 % annual simple interest']	0.473184296906
+['550 dollar annual interest', 'investor']	['3 %']	0.158859549493
+['550 dollar annual interest', 'investor']	['interest']	0.788286562228
+['550 dollar annual interest', 'investor']	['%']	0.0905616457863
+['550 dollar annual interest', 'investor']	['4 %']	0.158859549493
+['%', 'investor']	['15000 dollar']	0.0465787639079
+['%', 'investor']	['2 account']	0.0465787639079
+['%', 'investor']	['4 % annual simple interest']	0.215370011626
+['%', 'investor']	['3 %']	0.686795789511
+['%', 'investor']	['interest']	0.0553228714078
+['%', 'investor']	['550 dollar annual interest']	0.054031142837
+['%', 'investor']	['4 %']	0.686795789511
+['4 %', 'investor']	['15000 dollar']	0.0696933362217
+['4 %', 'investor']	['2 account']	0.344494311863
+['4 %', 'investor']	['4 % annual simple interest']	0.440611553148
+['4 %', 'investor']	['3 %']	0.72021221181
+['4 %', 'investor']	['interest']	0.0886562047411
+['4 %', 'investor']	['550 dollar annual interest']	0.0841680381001
+['4 %', 'investor']	['%']	0.533914216062
+['investor', '15000 dollar']	['2 account']	0.0827346205535
+['investor', '15000 dollar']	['4 % annual simple interest']	0.0887553862424
+['investor', '15000 dollar']	['3 %']	0.0897823390711
+['investor', '15000 dollar']	['interest']	0.104529257494
+['investor', '15000 dollar']	['550 dollar annual interest']	0.0887553862424
+['investor', '15000 dollar']	['%']	0.0878782742679
+['investor', '15000 dollar']	['4 %']	0.0897823390711
+['2 account', '15000 dollar']	['investor']	0.0800606621439
+['2 account', '15000 dollar']	['4 % annual simple interest']	0.297329882008
+['2 account', '15000 dollar']	['3 %']	0.329189193165
+['2 account', '15000 dollar']	['interest']	0.0507495642577
+['2 account', '15000 dollar']	['550 dollar annual interest']	0.0941266761548
+['2 account', '15000 dollar']	['%']	0.0575843031668
+['2 account', '15000 dollar']	['4 %']	0.329189193165
+['4 % annual simple interest', '15000 dollar']	['investor']	0.0888261649569
+['4 % annual simple interest', '15000 dollar']	['2 account']	0.387709641536
+['4 % annual simple interest', '15000 dollar']	['3 %']	0.3551048678
+['4 % annual simple interest', '15000 dollar']	['interest']	0.776372625369
+['4 % annual simple interest', '15000 dollar']	['550 dollar annual interest']	0.629361459157
+['4 % annual simple interest', '15000 dollar']	['%']	0.258532400382
+['4 % annual simple interest', '15000 dollar']	['4 %']	0.426915308101
+['3 %', '15000 dollar']	['investor']	0.0690378963307
+['3 %', '15000 dollar']	['2 account']	0.274556493975
+['3 %', '15000 dollar']	['4 % annual simple interest']	0.223693448599
+['3 %', '15000 dollar']	['interest']	0.0406236716549
+['3 %', '15000 dollar']	['550 dollar annual interest']	0.0861845487314
+['3 %', '15000 dollar']	['%']	0.554284586433
+['3 %', '15000 dollar']	['4 %']	0.72021221181
+['interest', '15000 dollar']	['investor']	0.0845429251848
+['interest', '15000 dollar']	['2 account']	0.0429586976843
+['interest', '15000 dollar']	['4 % annual simple interest']	0.441398735379
+['interest', '15000 dollar']	['3 %']	0.0505486765724
+['interest', '15000 dollar']	['550 dollar annual interest']	0.551885620224
+['interest', '15000 dollar']	['%']	0.0802665578203
+['interest', '15000 dollar']	['4 %']	0.0505486765724
+['550 dollar annual interest', '15000 dollar']	['investor']	0.0888261649569
+['550 dollar annual interest', '15000 dollar']	['2 account']	0.0988755105172
+['550 dollar annual interest', '15000 dollar']	['4 % annual simple interest']	0.487690761791
+['550 dollar annual interest', '15000 dollar']	['3 %']	0.0981211933805
+['550 dollar annual interest', '15000 dollar']	['interest']	0.776372625369
+['550 dollar annual interest', '15000 dollar']	['%']	0.063002049448
+['550 dollar annual interest', '15000 dollar']	['4 %']	0.0981211933805
+['%', '15000 dollar']	['investor']	0.076153278264
+['%', '15000 dollar']	['2 account']	0.0429586976843
+['%', '15000 dollar']	['4 % annual simple interest']	0.137646141437
+['%', '15000 dollar']	['3 %']	0.741874507899
+['%', '15000 dollar']	['interest']	0.0771443431391
+['%', '15000 dollar']	['550 dollar annual interest']	0.0475326454204
+['%', '15000 dollar']	['4 %']	0.741874507899
+['4 %', '15000 dollar']	['investor']	0.0690378963307
+['4 %', '15000 dollar']	['2 account']	0.274556493975
+['4 %', '15000 dollar']	['4 % annual simple interest']	0.466653219815
+['4 %', '15000 dollar']	['3 %']	0.72021221181
+['4 %', '15000 dollar']	['interest']	0.0406236716549
+['4 %', '15000 dollar']	['550 dollar annual interest']	0.0861845487314
+['4 %', '15000 dollar']	['%']	0.554284586433
+['investor', '2 account']	['15000 dollar']	0.0827346205535
+['investor', '2 account']	['4 % annual simple interest']	0.371939498892
+['investor', '2 account']	['3 %']	0.334357794603
+['investor', '2 account']	['interest']	0.109786418828
+['investor', '2 account']	['550 dollar annual interest']	0.0887553862424
+['investor', '2 account']	['%']	0.0878782742679
+['investor', '2 account']	['4 %']	0.334357794603
+['15000 dollar', '2 account']	['investor']	0.0800606621439
+['15000 dollar', '2 account']	['4 % annual simple interest']	0.297329882008
+['15000 dollar', '2 account']	['3 %']	0.329189193165
+['15000 dollar', '2 account']	['interest']	0.0507495642577
+['15000 dollar', '2 account']	['550 dollar annual interest']	0.0941266761548
+['15000 dollar', '2 account']	['%']	0.0575843031668
+['15000 dollar', '2 account']	['4 %']	0.329189193165
+['4 % annual simple interest', '2 account']	['investor']	0.0976030424116
+['4 % annual simple interest', '2 account']	['15000 dollar']	0.0988755105172
+['4 % annual simple interest', '2 account']	['3 %']	0.426064644673
+['4 % annual simple interest', '2 account']	['interest']	0.694652007344
+['4 % annual simple interest', '2 account']	['550 dollar annual interest']	0.629361459157
+['4 % annual simple interest', '2 account']	['%']	0.258532400382
+['4 % annual simple interest', '2 account']	['4 %']	0.476131182035
+['3 %', '2 account']	['investor']	0.0690699689286
+['3 %', '2 account']	['15000 dollar']	0.0737139440912
+['3 %', '2 account']	['4 % annual simple interest']	0.309562385341
+['3 %', '2 account']	['interest']	0.0453234639121
+['3 %', '2 account']	['550 dollar annual interest']	0.0861845487314
+['3 %', '2 account']	['%']	0.554284586433
+['3 %', '2 account']	['4 %']	0.796432477039
+['interest', '2 account']	['investor']	0.0845749977828
+['interest', '2 account']	['15000 dollar']	0.0454050549877
+['interest', '2 account']	['4 % annual simple interest']	0.636087106225
+['interest', '2 account']	['3 %']	0.212894282044
+['interest', '2 account']	['550 dollar annual interest']	0.551885620224
+['interest', '2 account']	['%']	0.0802665578203
+['interest', '2 account']	['4 %']	0.212894282044
+['550 dollar annual interest', '2 account']	['investor']	0.0976030424116
+['550 dollar annual interest', '2 account']	['15000 dollar']	0.0988755105172
+['550 dollar annual interest', '2 account']	['4 % annual simple interest']	0.676432788345
+['550 dollar annual interest', '2 account']	['3 %']	0.3551048678
+['550 dollar annual interest', '2 account']	['interest']	0.694652007344
+['550 dollar annual interest', '2 account']	['%']	0.063002049448
+['550 dollar annual interest', '2 account']	['4 %']	0.3551048678
+['%', '2 account']	['investor']	0.076185350862
+['%', '2 account']	['15000 dollar']	0.0429586976843
+['%', '2 account']	['4 % annual simple interest']	0.317210554791
+['%', '2 account']	['3 %']	0.712009616972
+['%', '2 account']	['interest']	0.0802665578203
+['%', '2 account']	['550 dollar annual interest']	0.0475326454204
+['%', '2 account']	['4 %']	0.712009616972
+['4 %', '2 account']	['investor']	0.0690699689286
+['4 %', '2 account']	['15000 dollar']	0.0737139440912
+['4 %', '2 account']	['4 % annual simple interest']	0.506372537303
+['4 %', '2 account']	['3 %']	0.796432477039
+['4 %', '2 account']	['interest']	0.0453234639121
+['4 %', '2 account']	['550 dollar annual interest']	0.0861845487314
+['4 %', '2 account']	['%']	0.554284586433
+['investor', '4 % annual simple interest']	['15000 dollar']	0.0915001233665
+['investor', '4 % annual simple interest']	['2 account']	0.444162458944
+['investor', '4 % annual simple interest']	['3 %']	0.3551048678
+['investor', '4 % annual simple interest']	['interest']	0.773696707893
+['investor', '4 % annual simple interest']	['550 dollar annual interest']	0.629669809087
+['investor', '4 % annual simple interest']	['%']	0.17258001943
+['investor', '4 % annual simple interest']	['4 %']	0.426915308101
+['15000 dollar', '4 % annual simple interest']	['investor']	0.0888261649569
+['15000 dollar', '4 % annual simple interest']	['2 account']	0.387709641536
+['15000 dollar', '4 % annual simple interest']	['3 %']	0.3551048678
+['15000 dollar', '4 % annual simple interest']	['interest']	0.776372625369
+['15000 dollar', '4 % annual simple interest']	['550 dollar annual interest']	0.629361459157
+['15000 dollar', '4 % annual simple interest']	['%']	0.258532400382
+['15000 dollar', '4 % annual simple interest']	['4 %']	0.426915308101
+['2 account', '4 % annual simple interest']	['investor']	0.0976030424116
+['2 account', '4 % annual simple interest']	['15000 dollar']	0.0988755105172
+['2 account', '4 % annual simple interest']	['3 %']	0.426064644673
+['2 account', '4 % annual simple interest']	['interest']	0.694652007344
+['2 account', '4 % annual simple interest']	['550 dollar annual interest']	0.629361459157
+['2 account', '4 % annual simple interest']	['%']	0.258532400382
+['2 account', '4 % annual simple interest']	['4 %']	0.476131182035
+['3 %', '4 % annual simple interest']	['investor']	0.0634948170323
+['3 %', '4 % annual simple interest']	['15000 dollar']	0.0681387921949
+['3 %', '4 % annual simple interest']	['2 account']	0.357080808834
+['3 %', '4 % annual simple interest']	['interest']	0.642544847847
+['3 %', '4 % annual simple interest']	['550 dollar annual interest']	0.651587078607
+['3 %', '4 % annual simple interest']	['%']	0.403941114536
+['3 %', '4 % annual simple interest']	['4 %']	0.777553646632
+['interest', '4 % annual simple interest']	['investor']	0.319466486527
+['interest', '4 % annual simple interest']	['15000 dollar']	0.150474187707
+['interest', '4 % annual simple interest']	['2 account']	0.479150803568
+['interest', '4 % annual simple interest']	['3 %']	0.450243501092
+['interest', '4 % annual simple interest']	['550 dollar annual interest']	0.724994777242
+['interest', '4 % annual simple interest']	['%']	0.484084773639
+['interest', '4 % annual simple interest']	['4 %']	0.360924101149
+['550 dollar annual interest', '4 % annual simple interest']	['investor']	0.314084527938
+['550 dollar annual interest', '4 % annual simple interest']	['15000 dollar']	0.127952343303
+['550 dollar annual interest', '4 % annual simple interest']	['2 account']	0.621877755731
+['550 dollar annual interest', '4 % annual simple interest']	['3 %']	0.632343246937
+['550 dollar annual interest', '4 % annual simple interest']	['interest']	0.76178163924
+['550 dollar annual interest', '4 % annual simple interest']	['%']	0.582951056994
+['550 dollar annual interest', '4 % annual simple interest']	['4 %']	0.446208164946
+['%', '4 % annual simple interest']	['investor']	0.0386425159718
+['%', '4 % annual simple interest']	['15000 dollar']	0.0350809030776
+['%', '4 % annual simple interest']	['2 account']	0.258380552678
+['%', '4 % annual simple interest']	['3 %']	0.825369879592
+['%', '4 % annual simple interest']	['interest']	0.747012416332
+['%', '4 % annual simple interest']	['550 dollar annual interest']	0.508502167381
+['%', '4 % annual simple interest']	['4 %']	0.522998373016
+['4 %', '4 % annual simple interest']	['investor']	0.0634948170323
+['4 %', '4 % annual simple interest']	['15000 dollar']	0.0681387921949
+['4 %', '4 % annual simple interest']	['2 account']	0.357080808834
+['4 %', '4 % annual simple interest']	['3 %']	0.815336929072
+['4 %', '4 % annual simple interest']	['interest']	0.642544847847
+['4 %', '4 % annual simple interest']	['550 dollar annual interest']	0.651587078607
+['4 %', '4 % annual simple interest']	['%']	0.403941114536
+['investor', '3 %']	['15000 dollar']	0.0696933362217
+['investor', '3 %']	['2 account']	0.344494311863
+['investor', '3 %']	['4 % annual simple interest']	0.308480686614
+['investor', '3 %']	['interest']	0.0886562047411
+['investor', '3 %']	['550 dollar annual interest']	0.0841680381001
+['investor', '3 %']	['%']	0.533914216062
+['investor', '3 %']	['4 %']	0.72021221181
+['15000 dollar', '3 %']	['investor']	0.0690378963307
+['15000 dollar', '3 %']	['2 account']	0.274556493975
+['15000 dollar', '3 %']	['4 % annual simple interest']	0.223693448599
+['15000 dollar', '3 %']	['interest']	0.0406236716549
+['15000 dollar', '3 %']	['550 dollar annual interest']	0.0861845487314
+['15000 dollar', '3 %']	['%']	0.554284586433
+['15000 dollar', '3 %']	['4 %']	0.72021221181
+['2 account', '3 %']	['investor']	0.0690699689286
+['2 account', '3 %']	['15000 dollar']	0.0737139440912
+['2 account', '3 %']	['4 % annual simple interest']	0.309562385341
+['2 account', '3 %']	['interest']	0.0453234639121
+['2 account', '3 %']	['550 dollar annual interest']	0.0861845487314
+['2 account', '3 %']	['%']	0.554284586433
+['2 account', '3 %']	['4 %']	0.796432477039
+['4 % annual simple interest', '3 %']	['investor']	0.0634948170323
+['4 % annual simple interest', '3 %']	['15000 dollar']	0.0681387921949
+['4 % annual simple interest', '3 %']	['2 account']	0.357080808834
+['4 % annual simple interest', '3 %']	['interest']	0.642544847847
+['4 % annual simple interest', '3 %']	['550 dollar annual interest']	0.651587078607
+['4 % annual simple interest', '3 %']	['%']	0.403941114536
+['4 % annual simple interest', '3 %']	['4 %']	0.777553646632
+['interest', '3 %']	['investor']	0.146652845465
+['interest', '3 %']	['15000 dollar']	0.10748290267
+['interest', '3 %']	['2 account']	0.255131897147
+['interest', '3 %']	['4 % annual simple interest']	0.639790809929
+['interest', '3 %']	['550 dollar annual interest']	0.558903164083
+['interest', '3 %']	['%']	0.533914216062
+['interest', '3 %']	['4 %']	0.652489213294
+['550 dollar annual interest', '3 %']	['investor']	0.0634948170323
+['550 dollar annual interest', '3 %']	['15000 dollar']	0.0681387921949
+['550 dollar annual interest', '3 %']	['2 account']	0.28822276409
+['550 dollar annual interest', '3 %']	['4 % annual simple interest']	0.658745569406
+['550 dollar annual interest', '3 %']	['interest']	0.642544847847
+['550 dollar annual interest', '3 %']	['%']	0.633624393632
+['550 dollar annual interest', '3 %']	['4 %']	0.764130111892
+['%', '3 %']	['investor']	0.32260733415
+['%', '3 %']	['15000 dollar']	0.172791450117
+['%', '3 %']	['2 account']	0.464591704791
+['%', '3 %']	['4 % annual simple interest']	0.672380772217
+['%', '3 %']	['interest']	0.321062055406
+['%', '3 %']	['550 dollar annual interest']	0.309103259221
+['%', '3 %']	['4 %']	0.908645551642
+['4 %', '3 %']	['investor']	0.362565392148
+['4 %', '3 %']	['15000 dollar']	0.177915983734
+['4 %', '3 %']	['2 account']	0.666513488124
+['4 %', '3 %']	['4 % annual simple interest']	0.601687709024
+['4 %', '3 %']	['interest']	0.321062055406
+['4 %', '3 %']	['550 dollar annual interest']	0.408434897311
+['4 %', '3 %']	['%']	0.446965452848
+['investor', 'interest']	['15000 dollar']	0.046982964258
+['investor', 'interest']	['2 account']	0.0465787639079
+['investor', 'interest']	['4 % annual simple interest']	0.500596528516
+['investor', 'interest']	['3 %']	0.0505486765724
+['investor', 'interest']	['550 dollar annual interest']	0.614619551135
+['investor', 'interest']	['%']	0.046933224487
+['investor', 'interest']	['4 %']	0.0505486765724
+['15000 dollar', 'interest']	['investor']	0.0845429251848
+['15000 dollar', 'interest']	['2 account']	0.0429586976843
+['15000 dollar', 'interest']	['4 % annual simple interest']	0.441398735379
+['15000 dollar', 'interest']	['3 %']	0.0505486765724
+['15000 dollar', 'interest']	['550 dollar annual interest']	0.551885620224
+['15000 dollar', 'interest']	['%']	0.0802665578203
+['15000 dollar', 'interest']	['4 %']	0.0505486765724
+['2 account', 'interest']	['investor']	0.0845749977828
+['2 account', 'interest']	['15000 dollar']	0.0454050549877
+['2 account', 'interest']	['4 % annual simple interest']	0.636087106225
+['2 account', 'interest']	['3 %']	0.212894282044
+['2 account', 'interest']	['550 dollar annual interest']	0.551885620224
+['2 account', 'interest']	['%']	0.0802665578203
+['2 account', 'interest']	['4 %']	0.212894282044
+['4 % annual simple interest', 'interest']	['investor']	0.319466486527
+['4 % annual simple interest', 'interest']	['15000 dollar']	0.150474187707
+['4 % annual simple interest', 'interest']	['2 account']	0.479150803568
+['4 % annual simple interest', 'interest']	['3 %']	0.450243501092
+['4 % annual simple interest', 'interest']	['550 dollar annual interest']	0.724994777242
+['4 % annual simple interest', 'interest']	['%']	0.484084773639
+['4 % annual simple interest', 'interest']	['4 %']	0.360924101149
+['3 %', 'interest']	['investor']	0.146652845465
+['3 %', 'interest']	['15000 dollar']	0.10748290267
+['3 %', 'interest']	['2 account']	0.255131897147
+['3 %', 'interest']	['4 % annual simple interest']	0.639790809929
+['3 %', 'interest']	['550 dollar annual interest']	0.558903164083
+['3 %', 'interest']	['%']	0.533914216062
+['3 %', 'interest']	['4 %']	0.652489213294
+['550 dollar annual interest', 'interest']	['investor']	0.349862962298
+['550 dollar annual interest', 'interest']	['15000 dollar']	0.180870663478
+['550 dollar annual interest', 'interest']	['2 account']	0.135654152245
+['550 dollar annual interest', 'interest']	['4 % annual simple interest']	0.678489995453
+['550 dollar annual interest', 'interest']	['3 %']	0.161164668298
+['550 dollar annual interest', 'interest']	['%']	0.288703730054
+['550 dollar annual interest', 'interest']	['4 %']	0.161164668298
+['%', 'interest']	['investor']	0.113319512131
+['%', 'interest']	['15000 dollar']	0.10748290267
+['%', 'interest']	['2 account']	0.105036545366
+['%', 'interest']	['4 % annual simple interest']	0.560020350402
+['%', 'interest']	['3 %']	0.686795789511
+['%', 'interest']	['550 dollar annual interest']	0.54867709951
+['%', 'interest']	['4 %']	0.686795789511
+['4 %', 'interest']	['investor']	0.146652845465
+['4 %', 'interest']	['15000 dollar']	0.10748290267
+['4 %', 'interest']	['2 account']	0.255131897147
+['4 %', 'interest']	['4 % annual simple interest']	0.757557756853
+['4 %', 'interest']	['3 %']	0.652489213294
+['4 %', 'interest']	['550 dollar annual interest']	0.558903164083
+['4 %', 'interest']	['%']	0.533914216062
+['investor', '550 dollar annual interest']	['15000 dollar']	0.152238479479
+['investor', '550 dollar annual interest']	['2 account']	0.152238479479
+['investor', '550 dollar annual interest']	['4 % annual simple interest']	0.473184296906
+['investor', '550 dollar annual interest']	['3 %']	0.158859549493
+['investor', '550 dollar annual interest']	['interest']	0.788286562228
+['investor', '550 dollar annual interest']	['%']	0.0905616457863
+['investor', '550 dollar annual interest']	['4 %']	0.158859549493
+['15000 dollar', '550 dollar annual interest']	['investor']	0.0888261649569
+['15000 dollar', '550 dollar annual interest']	['2 account']	0.0988755105172
+['15000 dollar', '550 dollar annual interest']	['4 % annual simple interest']	0.487690761791
+['15000 dollar', '550 dollar annual interest']	['3 %']	0.0981211933805
+['15000 dollar', '550 dollar annual interest']	['interest']	0.776372625369
+['15000 dollar', '550 dollar annual interest']	['%']	0.063002049448
+['15000 dollar', '550 dollar annual interest']	['4 %']	0.0981211933805
+['2 account', '550 dollar annual interest']	['investor']	0.0976030424116
+['2 account', '550 dollar annual interest']	['15000 dollar']	0.0988755105172
+['2 account', '550 dollar annual interest']	['4 % annual simple interest']	0.676432788345
+['2 account', '550 dollar annual interest']	['3 %']	0.3551048678
+['2 account', '550 dollar annual interest']	['interest']	0.694652007344
+['2 account', '550 dollar annual interest']	['%']	0.063002049448
+['2 account', '550 dollar annual interest']	['4 %']	0.3551048678
+['4 % annual simple interest', '550 dollar annual interest']	['investor']	0.314084527938
+['4 % annual simple interest', '550 dollar annual interest']	['15000 dollar']	0.127952343303
+['4 % annual simple interest', '550 dollar annual interest']	['2 account']	0.621877755731
+['4 % annual simple interest', '550 dollar annual interest']	['3 %']	0.632343246937
+['4 % annual simple interest', '550 dollar annual interest']	['interest']	0.76178163924
+['4 % annual simple interest', '550 dollar annual interest']	['%']	0.582951056994
+['4 % annual simple interest', '550 dollar annual interest']	['4 %']	0.446208164946
+['3 %', '550 dollar annual interest']	['investor']	0.0634948170323
+['3 %', '550 dollar annual interest']	['15000 dollar']	0.0681387921949
+['3 %', '550 dollar annual interest']	['2 account']	0.28822276409
+['3 %', '550 dollar annual interest']	['4 % annual simple interest']	0.658745569406
+['3 %', '550 dollar annual interest']	['interest']	0.642544847847
+['3 %', '550 dollar annual interest']	['%']	0.633624393632
+['3 %', '550 dollar annual interest']	['4 %']	0.764130111892
+['interest', '550 dollar annual interest']	['investor']	0.349862962298
+['interest', '550 dollar annual interest']	['15000 dollar']	0.180870663478
+['interest', '550 dollar annual interest']	['2 account']	0.135654152245
+['interest', '550 dollar annual interest']	['4 % annual simple interest']	0.678489995453
+['interest', '550 dollar annual interest']	['3 %']	0.161164668298
+['interest', '550 dollar annual interest']	['%']	0.288703730054
+['interest', '550 dollar annual interest']	['4 %']	0.161164668298
+['%', '550 dollar annual interest']	['investor']	0.0690389917427
+['%', '550 dollar annual interest']	['15000 dollar']	0.0654773788485
+['%', '550 dollar annual interest']	['2 account']	0.0654773788485
+['%', '550 dollar annual interest']	['4 % annual simple interest']	0.633516653305
+['%', '550 dollar annual interest']	['3 %']	0.837383280335
+['%', '550 dollar annual interest']	['interest']	0.748156892515
+['%', '550 dollar annual interest']	['4 %']	0.837383280335
+['4 %', '550 dollar annual interest']	['investor']	0.0634948170323
+['4 %', '550 dollar annual interest']	['15000 dollar']	0.0681387921949
+['4 %', '550 dollar annual interest']	['2 account']	0.28822276409
+['4 %', '550 dollar annual interest']	['4 % annual simple interest']	0.634408001792
+['4 %', '550 dollar annual interest']	['3 %']	0.764130111892
+['4 %', '550 dollar annual interest']	['interest']	0.642544847847
+['4 %', '550 dollar annual interest']	['%']	0.633624393632
+['investor', '%']	['15000 dollar']	0.0465787639079
+['investor', '%']	['2 account']	0.0465787639079
+['investor', '%']	['4 % annual simple interest']	0.215370011626
+['investor', '%']	['3 %']	0.686795789511
+['investor', '%']	['interest']	0.0553228714078
+['investor', '%']	['550 dollar annual interest']	0.054031142837
+['investor', '%']	['4 %']	0.686795789511
+['15000 dollar', '%']	['investor']	0.076153278264
+['15000 dollar', '%']	['2 account']	0.0429586976843
+['15000 dollar', '%']	['4 % annual simple interest']	0.137646141437
+['15000 dollar', '%']	['3 %']	0.741874507899
+['15000 dollar', '%']	['interest']	0.0771443431391
+['15000 dollar', '%']	['550 dollar annual interest']	0.0475326454204
+['15000 dollar', '%']	['4 %']	0.741874507899
+['2 account', '%']	['investor']	0.076185350862
+['2 account', '%']	['15000 dollar']	0.0429586976843
+['2 account', '%']	['4 % annual simple interest']	0.317210554791
+['2 account', '%']	['3 %']	0.712009616972
+['2 account', '%']	['interest']	0.0802665578203
+['2 account', '%']	['550 dollar annual interest']	0.0475326454204
+['2 account', '%']	['4 %']	0.712009616972
+['4 % annual simple interest', '%']	['investor']	0.0386425159718
+['4 % annual simple interest', '%']	['15000 dollar']	0.0350809030776
+['4 % annual simple interest', '%']	['2 account']	0.258380552678
+['4 % annual simple interest', '%']	['3 %']	0.825369879592
+['4 % annual simple interest', '%']	['interest']	0.747012416332
+['4 % annual simple interest', '%']	['550 dollar annual interest']	0.508502167381
+['4 % annual simple interest', '%']	['4 %']	0.522998373016
+['3 %', '%']	['investor']	0.32260733415
+['3 %', '%']	['15000 dollar']	0.172791450117
+['3 %', '%']	['2 account']	0.464591704791
+['3 %', '%']	['4 % annual simple interest']	0.672380772217
+['3 %', '%']	['interest']	0.321062055406
+['3 %', '%']	['550 dollar annual interest']	0.309103259221
+['3 %', '%']	['4 %']	0.908645551642
+['interest', '%']	['investor']	0.113319512131
+['interest', '%']	['15000 dollar']	0.10748290267
+['interest', '%']	['2 account']	0.105036545366
+['interest', '%']	['4 % annual simple interest']	0.560020350402
+['interest', '%']	['3 %']	0.686795789511
+['interest', '%']	['550 dollar annual interest']	0.54867709951
+['interest', '%']	['4 %']	0.686795789511
+['550 dollar annual interest', '%']	['investor']	0.0690389917427
+['550 dollar annual interest', '%']	['15000 dollar']	0.0654773788485
+['550 dollar annual interest', '%']	['2 account']	0.0654773788485
+['550 dollar annual interest', '%']	['4 % annual simple interest']	0.633516653305
+['550 dollar annual interest', '%']	['3 %']	0.837383280335
+['550 dollar annual interest', '%']	['interest']	0.748156892515
+['550 dollar annual interest', '%']	['4 %']	0.837383280335
+['4 %', '%']	['investor']	0.32260733415
+['4 %', '%']	['15000 dollar']	0.172791450117
+['4 %', '%']	['2 account']	0.464591704791
+['4 %', '%']	['4 % annual simple interest']	0.554533047945
+['4 %', '%']	['3 %']	0.908645551642
+['4 %', '%']	['interest']	0.321062055406
+['4 %', '%']	['550 dollar annual interest']	0.309103259221
+['investor', '4 %']	['15000 dollar']	0.0696933362217
+['investor', '4 %']	['2 account']	0.344494311863
+['investor', '4 %']	['4 % annual simple interest']	0.440611553148
+['investor', '4 %']	['3 %']	0.72021221181
+['investor', '4 %']	['interest']	0.0886562047411
+['investor', '4 %']	['550 dollar annual interest']	0.0841680381001
+['investor', '4 %']	['%']	0.533914216062
+['15000 dollar', '4 %']	['investor']	0.0690378963307
+['15000 dollar', '4 %']	['2 account']	0.274556493975
+['15000 dollar', '4 %']	['4 % annual simple interest']	0.466653219815
+['15000 dollar', '4 %']	['3 %']	0.72021221181
+['15000 dollar', '4 %']	['interest']	0.0406236716549
+['15000 dollar', '4 %']	['550 dollar annual interest']	0.0861845487314
+['15000 dollar', '4 %']	['%']	0.554284586433
+['2 account', '4 %']	['investor']	0.0690699689286
+['2 account', '4 %']	['15000 dollar']	0.0737139440912
+['2 account', '4 %']	['4 % annual simple interest']	0.506372537303
+['2 account', '4 %']	['3 %']	0.796432477039
+['2 account', '4 %']	['interest']	0.0453234639121
+['2 account', '4 %']	['550 dollar annual interest']	0.0861845487314
+['2 account', '4 %']	['%']	0.554284586433
+['4 % annual simple interest', '4 %']	['investor']	0.0634948170323
+['4 % annual simple interest', '4 %']	['15000 dollar']	0.0681387921949
+['4 % annual simple interest', '4 %']	['2 account']	0.357080808834
+['4 % annual simple interest', '4 %']	['3 %']	0.815336929072
+['4 % annual simple interest', '4 %']	['interest']	0.642544847847
+['4 % annual simple interest', '4 %']	['550 dollar annual interest']	0.651587078607
+['4 % annual simple interest', '4 %']	['%']	0.403941114536
+['3 %', '4 %']	['investor']	0.362565392148
+['3 %', '4 %']	['15000 dollar']	0.177915983734
+['3 %', '4 %']	['2 account']	0.666513488124
+['3 %', '4 %']	['4 % annual simple interest']	0.601687709024
+['3 %', '4 %']	['interest']	0.321062055406
+['3 %', '4 %']	['550 dollar annual interest']	0.408434897311
+['3 %', '4 %']	['%']	0.446965452848
+['interest', '4 %']	['investor']	0.146652845465
+['interest', '4 %']	['15000 dollar']	0.10748290267
+['interest', '4 %']	['2 account']	0.255131897147
+['interest', '4 %']	['4 % annual simple interest']	0.757557756853
+['interest', '4 %']	['3 %']	0.652489213294
+['interest', '4 %']	['550 dollar annual interest']	0.558903164083
+['interest', '4 %']	['%']	0.533914216062
+['550 dollar annual interest', '4 %']	['investor']	0.0634948170323
+['550 dollar annual interest', '4 %']	['15000 dollar']	0.0681387921949
+['550 dollar annual interest', '4 %']	['2 account']	0.28822276409
+['550 dollar annual interest', '4 %']	['4 % annual simple interest']	0.634408001792
+['550 dollar annual interest', '4 %']	['3 %']	0.764130111892
+['550 dollar annual interest', '4 %']	['interest']	0.642544847847
+['550 dollar annual interest', '4 %']	['%']	0.633624393632
+['%', '4 %']	['investor']	0.32260733415
+['%', '4 %']	['15000 dollar']	0.172791450117
+['%', '4 %']	['2 account']	0.464591704791
+['%', '4 %']	['4 % annual simple interest']	0.554533047945
+['%', '4 %']	['3 %']	0.908645551642
+['%', '4 %']	['interest']	0.321062055406
+['%', '4 %']	['550 dollar annual interest']	0.309103259221

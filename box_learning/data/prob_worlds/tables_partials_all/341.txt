@@ -1,0 +1,112 @@
+1
+[['ticket', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+1
+[['-', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+1
+[['ticket', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+1
+[['-', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+1
+[['-', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['ticket', '-', '-', '-'], ['-', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['ticket', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['advance ticket', 'ticket', '-', '-'], ['same-day ticket', '-', 'ticket', '-']]
+-1
+[['advance ticket', 'same-day ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', 'advance ticket', '-'], ['advance ticket', 'ticket', '-', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['advance ticket', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['advance ticket', '-', '-', 'of ticket'], ['same-day ticket', '-', '-', '-']]
+-1
+[['-', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', 'ticket']]
+-1
+[['-', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', 'advance ticket', '-', '-']]
+-1
+[['-', 'ticket', '-', '-'], ['advance ticket', 'same-day ticket', '-', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['-', 'ticket', 'advance ticket', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['-', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['ticket', '-', '-', '-']]
+-1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', '-', '-'], ['ticket', '-', '-', '-']]
+-1
+[['ticket', '-', 'advance ticket', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', 'ticket', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', 'ticket']]
+-1
+[['ticket', 'advance ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['same-day ticket', '-', 'ticket', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', 'same-day ticket'], ['same-day ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['same-day ticket', '-', '-', 'ticket']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', 'ticket', '-'], ['same-day ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', 'ticket'], ['same-day ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', 'advance ticket', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', 'ticket']]
+-1
+[['ticket', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', 'advance ticket', '-', '-']]
+-1
+[['ticket', 'ticket', '-', 'advance ticket'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'ticket', 'advance ticket', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'ticket', '-', '-'], ['advance ticket', '-', 'ticket', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'ticket', '-', 'advance ticket'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', 'ticket', '-', '-'], ['advance ticket', '-', '-', 'ticket'], ['-', '-', '-', '-']]
+-1
+[['-', 'advance ticket', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', 'advance ticket', '-', '-']]
+-1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', 'ticket', '-'], ['-', '-', '-', '-']]
+-1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', '-', 'ticket'], ['-', '-', '-', '-']]
+-1
+[['ticket', '-', '-', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', 'advance ticket', '-']]
+-1
+[['ticket', '-', 'advance ticket', '-'], ['advance ticket', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', 'ticket'], ['-', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['ticket', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', 'ticket', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['-', '-', 'ticket', '-']]
+-1
+[['ticket', 'ticket', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', 'ticket']]

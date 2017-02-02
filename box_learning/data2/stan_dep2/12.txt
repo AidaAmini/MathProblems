@@ -1,0 +1,75 @@
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (NN unit))
+      (PP (IN of) (NP (JJ whole) (NN wheat) (NN flour))))
+    (VP
+      (VBZ has)
+      (NP
+        (NP
+          (NP (CD 13.6) (NNS grams))
+          (PP (IN of) (NP (NN protein))))
+        (CC and)
+        (NP (NP (CD 2.5) (NNS grams)) (PP (IN of) (NP (NN fat))))))
+    (. .)))
+(ROOT
+  (S
+    (NP
+      (NP (CD One) (NN unit))
+      (PP (IN of) (NP (JJ whole) (NN milk))))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (NP (CD 3.4) (NNS grams)) (PP (IN of) (NP (NN protein))))
+        (CC and)
+        (NP (NP (CD 3.7) (NNS grams)) (PP (IN of) (NP (NN fat))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (TO To) (NP (DT the) (JJS nearest) (NN tenth)))
+    (, ,)
+    (VP
+      (VB find)
+      (NP
+        (NP (DT the) (NN number))
+        (PP
+          (IN of)
+          (NP
+            (NP
+              (NP (NNS units))
+              (PP (IN of) (NP (JJ whole) (NN wheat) (NN flour))))
+            (CC and)
+            (NP
+              (NP (JJ whole) (NN milk))
+              (SBAR
+                (WHNP (WDT that))
+                (S
+                  (VP
+                    (MD must)
+                    (VP
+                      (VB be)
+                      (ADJP
+                        (VBN mixed)
+                        (S
+                          (VP
+                            (TO to)
+                            (VP
+                              (VB make)
+                              (NP
+                                (NP (NN dough))
+                                (SBAR
+                                  (WHNP (WDT that))
+                                  (S
+                                    (VP
+                                      (VBZ has)
+                                      (NP
+                                        (NP
+                                          (NP (CD 75) (NNS grams))
+                                          (PP
+                                            (IN of)
+                                            (NP (NN protein))))
+                                        (CC and)
+                                        (NP
+                                          (NP (CD 15) (NNS grams))
+                                          (PP (IN of) (NP (NN fat))))))))))))))))))))))
+    (. .)))

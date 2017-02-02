@@ -1,0 +1,10 @@
+travel arg0 a freight train and a express train
+leave ARG0 a freight train and a express train
+leave arg2 390 kilometer apart
+leave arg1 town
+travel arg1 one another
+travel arg0 the freight train
+travel arg1 30 kilometer per hour slower than the express train
+pass arg0 they
+pass TMP another 3 hour later
+pass arg1 one

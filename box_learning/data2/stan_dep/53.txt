@@ -1,0 +1,43 @@
+(ROOT
+  (S
+    (NP (DT A) (NN movie))
+    (VP
+      (NP (NN theater) (NNS charges))
+      (NP
+        (NP (CD 7) (NNS dollars))
+        (PP
+          (IN for)
+          (NP
+            (NP (DT an) (JJ adult))
+            (CC and)
+            (NP (CD 4) (NNS dollars)))))
+      (PP (IN for) (NP (NP (DT a) (NN child) (POS 's)) (NN ticket))))
+    (. .)))
+(ROOT
+  (S
+    (NP-TMP (CD One) (NN night))
+    (, ,)
+    (NP (CD 900) (NNS tickets))
+    (VP
+      (VBD were)
+      (VP
+        (VBN sold)
+        (PP
+          (IN for)
+          (NP
+            (NP (DT a) (NN total))
+            (PP (IN of) (NP (CD 5,100) (NNS dollars)))))))
+    (. .)))
+(ROOT
+  (SBAR
+    (WHADJP (WRB How) (JJ many))
+    (S (NP (JJ adult) (NNS tickets)) (VP (VBD were) (VP (VBN sold))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NN child) (POS 's))
+      (NNS tickets))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

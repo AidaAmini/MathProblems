@@ -1,0 +1,1042 @@
+['two car', 'same point', 'opposite direction', 'direction', 'constant speed', '52 mile', 'hour', 'travels', 'mile', '58 mile', '385 mile']
+['two car']	['same point']	0.0827346205535
+['two car']	['opposite direction']	0.0827346205535
+['two car']	['direction']	0.0800606621439
+['two car']	['constant speed']	0.103176153012
+['two car']	['52 mile']	0.0901100077042
+['two car']	['hour']	0.00542020684774
+['two car']	['travels']	0.079730351659
+['two car']	['mile']	0.0132263547461
+['two car']	['58 mile']	0.0901100077042
+['two car']	['385 mile']	0.0901100077042
+['same point']	['opposite direction']	0.116204410215
+['same point']	['direction']	0.400687578092
+['same point']	['constant speed']	0.0824069519204
+['same point']	['52 mile']	0.0901100077042
+['same point']	['hour']	0.029715172328
+['same point']	['travels']	0.0831172035382
+['same point']	['mile']	0.235242484109
+['same point']	['58 mile']	0.0901100077042
+['same point']	['385 mile']	0.0901100077042
+['opposite direction']	['constant speed']	0.0790581272906
+['opposite direction']	['52 mile']	0.0901100077042
+['opposite direction']	['hour']	0.00424649792755
+['opposite direction']	['travels']	0.0741073489195
+['opposite direction']	['mile']	0.0143499502517
+['opposite direction']	['58 mile']	0.0901100077042
+['opposite direction']	['385 mile']	0.0901100077042
+['direction']	['constant speed']	0.0769722446621
+['direction']	['52 mile']	0.0793857959237
+['direction']	['hour']	0.0162282525636
+['direction']	['travels']	0.0767389297906
+['direction']	['mile']	0.0348865190937
+['direction']	['58 mile']	0.0793857959237
+['direction']	['385 mile']	0.0793857959237
+['constant speed']	['52 mile']	0.0737139440912
+['constant speed']	['hour']	0.00222717737084
+['constant speed']	['travels']	0.0624245641916
+['constant speed']	['mile']	0.0106028278734
+['constant speed']	['58 mile']	0.0737139440912
+['constant speed']	['385 mile']	0.0737139440912
+['52 mile']	['hour']	0.00424649792755
+['52 mile']	['travels']	0.0774561735493
+['52 mile']	['58 mile']	0.643440930505
+['52 mile']	['385 mile']	0.643440930505
+['hour']	['travels']	0.00979922007561
+['hour']	['mile']	0.135096264125
+['hour']	['58 mile']	0.00424565569655
+['hour']	['385 mile']	0.00424565569655
+['travels']	['mile']	0.019946167238
+['travels']	['58 mile']	0.0737139440912
+['travels']	['385 mile']	0.0737139440912
+['58 mile']	['385 mile']	0.643440930505
+['same point', 'two car']	['opposite direction']	0.114574890496
+['same point', 'two car']	['direction']	0.472720884562
+['same point', 'two car']	['constant speed']	0.107003435941
+['same point', 'two car']	['52 mile']	0.0901100077042
+['same point', 'two car']	['hour']	0.0235150484671
+['same point', 'two car']	['travels']	0.079730351659
+['same point', 'two car']	['mile']	0.194227003568
+['same point', 'two car']	['58 mile']	0.0901100077042
+['same point', 'two car']	['385 mile']	0.0901100077042
+['opposite direction', 'two car']	['same point']	0.114574890496
+['opposite direction', 'two car']	['direction']	0.627480498512
+['opposite direction', 'two car']	['constant speed']	0.105006879062
+['opposite direction', 'two car']	['52 mile']	0.0901100077042
+['opposite direction', 'two car']	['hour']	0.00424649792755
+['opposite direction', 'two car']	['travels']	0.0774561735493
+['opposite direction', 'two car']	['mile']	0.0132263547461
+['opposite direction', 'two car']	['58 mile']	0.0901100077042
+['opposite direction', 'two car']	['385 mile']	0.0901100077042
+['direction', 'two car']	['same point']	0.479726395733
+['direction', 'two car']	['opposite direction']	0.71455110167
+['direction', 'two car']	['constant speed']	0.111620744952
+['direction', 'two car']	['52 mile']	0.0827346205535
+['direction', 'two car']	['hour']	0.196566782805
+['direction', 'two car']	['travels']	0.192648399091
+['direction', 'two car']	['mile']	0.345554601393
+['direction', 'two car']	['58 mile']	0.0827346205535
+['direction', 'two car']	['385 mile']	0.0827346205535
+['constant speed', 'two car']	['same point']	0.0696933362217
+['constant speed', 'two car']	['opposite direction']	0.0663445115919
+['constant speed', 'two car']	['direction']	0.0634148935911
+['constant speed', 'two car']	['52 mile']	0.0737139440912
+['constant speed', 'two car']	['hour']	0.00222717737084
+['constant speed', 'two car']	['travels']	0.0617470987896
+['constant speed', 'two car']	['mile']	0.0106028278734
+['constant speed', 'two car']	['58 mile']	0.0737139440912
+['constant speed', 'two car']	['385 mile']	0.0737139440912
+['52 mile', 'two car']	['same point']	0.0827346205535
+['52 mile', 'two car']	['opposite direction']	0.0827346205535
+['52 mile', 'two car']	['direction']	0.0777864840342
+['52 mile', 'two car']	['constant speed']	0.107003435941
+['52 mile', 'two car']	['hour']	0.00424649792755
+['52 mile', 'two car']	['travels']	0.0774561735493
+['52 mile', 'two car']	['mile']	0.339703421902
+['52 mile', 'two car']	['58 mile']	0.584269096576
+['52 mile', 'two car']	['385 mile']	0.584269096576
+['hour', 'two car']	['same point']	0.0448241044795
+['hour', 'two car']	['opposite direction']	0.0154105889865
+['hour', 'two car']	['direction']	0.267097798944
+['hour', 'two car']	['constant speed']	0.0283187431311
+['hour', 'two car']	['52 mile']	0.0160064194205
+['hour', 'two car']	['travels']	0.270140622212
+['hour', 'two car']	['mile']	0.372998066748
+['hour', 'two car']	['58 mile']	0.0160064194205
+['hour', 'two car']	['385 mile']	0.0160064194205
+['travels', 'two car']	['same point']	0.0696933362217
+['travels', 'two car']	['opposite direction']	0.0669904799604
+['travels', 'two car']	['direction']	0.182729929366
+['travels', 'two car']	['constant speed']	0.107318934028
+['travels', 'two car']	['52 mile']	0.0737139440912
+['travels', 'two car']	['hour']	0.174577880612
+['travels', 'two car']	['mile']	0.205181581481
+['travels', 'two car']	['58 mile']	0.0737139440912
+['travels', 'two car']	['385 mile']	0.0737139440912
+['mile', 'two car']	['same point']	0.179955407595
+['mile', 'two car']	['opposite direction']	0.0362241866398
+['mile', 'two car']	['direction']	0.468307142193
+['mile', 'two car']	['constant speed']	0.0649156452947
+['mile', 'two car']	['52 mile']	0.391516700063
+['mile', 'two car']	['hour']	0.372998066748
+['mile', 'two car']	['travels']	0.250588487454
+['mile', 'two car']	['58 mile']	0.391516700063
+['mile', 'two car']	['385 mile']	0.365401430504
+['58 mile', 'two car']	['same point']	0.0827346205535
+['58 mile', 'two car']	['opposite direction']	0.0827346205535
+['58 mile', 'two car']	['direction']	0.0777864840342
+['58 mile', 'two car']	['constant speed']	0.107003435941
+['58 mile', 'two car']	['52 mile']	0.584269096576
+['58 mile', 'two car']	['hour']	0.00424649792755
+['58 mile', 'two car']	['travels']	0.0774561735493
+['58 mile', 'two car']	['mile']	0.339703421902
+['58 mile', 'two car']	['385 mile']	0.584269096576
+['385 mile', 'two car']	['same point']	0.0827346205535
+['385 mile', 'two car']	['opposite direction']	0.0827346205535
+['385 mile', 'two car']	['direction']	0.0777864840342
+['385 mile', 'two car']	['constant speed']	0.107003435941
+['385 mile', 'two car']	['52 mile']	0.584269096576
+['385 mile', 'two car']	['hour']	0.00424649792755
+['385 mile', 'two car']	['travels']	0.0774561735493
+['385 mile', 'two car']	['mile']	0.309760230478
+['385 mile', 'two car']	['58 mile']	0.584269096576
+['two car', 'same point']	['opposite direction']	0.114574890496
+['two car', 'same point']	['direction']	0.472720884562
+['two car', 'same point']	['constant speed']	0.107003435941
+['two car', 'same point']	['52 mile']	0.0901100077042
+['two car', 'same point']	['hour']	0.0235150484671
+['two car', 'same point']	['travels']	0.079730351659
+['two car', 'same point']	['mile']	0.194227003568
+['two car', 'same point']	['58 mile']	0.0901100077042
+['two car', 'same point']	['385 mile']	0.0901100077042
+['opposite direction', 'same point']	['two car']	0.0827346205535
+['opposite direction', 'same point']	['direction']	0.655369009187
+['opposite direction', 'same point']	['constant speed']	0.0824069519204
+['opposite direction', 'same point']	['52 mile']	0.0901100077042
+['opposite direction', 'same point']	['hour']	0.0280768488958
+['opposite direction', 'same point']	['travels']	0.0774561735493
+['opposite direction', 'same point']	['mile']	0.238032763137
+['opposite direction', 'same point']	['58 mile']	0.0901100077042
+['opposite direction', 'same point']	['385 mile']	0.0901100077042
+['direction', 'same point']	['two car']	0.0827346205535
+['direction', 'same point']	['opposite direction']	0.746548792275
+['direction', 'same point']	['constant speed']	0.079704095659
+['direction', 'same point']	['52 mile']	0.0827346205535
+['direction', 'same point']	['hour']	0.364133896255
+['direction', 'same point']	['travels']	0.19603525097
+['direction', 'same point']	['mile']	0.664682996112
+['direction', 'same point']	['58 mile']	0.0827346205535
+['direction', 'same point']	['385 mile']	0.0827346205535
+['constant speed', 'same point']	['two car']	0.105691884463
+['constant speed', 'same point']	['opposite direction']	0.0950188342938
+['constant speed', 'same point']	['direction']	0.407316980274
+['constant speed', 'same point']	['52 mile']	0.0737139440912
+['constant speed', 'same point']	['hour']	0.0135413476116
+['constant speed', 'same point']	['travels']	0.0650959234194
+['constant speed', 'same point']	['mile']	0.174769711484
+['constant speed', 'same point']	['58 mile']	0.0737139440912
+['constant speed', 'same point']	['385 mile']	0.0737139440912
+['52 mile', 'same point']	['two car']	0.0827346205535
+['52 mile', 'same point']	['opposite direction']	0.114574890496
+['52 mile', 'same point']	['direction']	0.472720884562
+['52 mile', 'same point']	['constant speed']	0.0824069519204
+['52 mile', 'same point']	['hour']	0.0280768488958
+['52 mile', 'same point']	['travels']	0.0774561735493
+['52 mile', 'same point']	['mile']	0.529434715501
+['52 mile', 'same point']	['58 mile']	0.584269096576
+['52 mile', 'same point']	['385 mile']	0.584269096576
+['hour', 'same point']	['two car']	0.0165341599722
+['hour', 'same point']	['opposite direction']	0.0241946307602
+['hour', 'same point']	['direction']	0.563691077441
+['hour', 'same point']	['constant speed']	0.0187492693053
+['hour', 'same point']	['52 mile']	0.0160064194205
+['hour', 'same point']	['travels']	0.246671961243
+['hour', 'same point']	['mile']	0.679345273463
+['hour', 'same point']	['58 mile']	0.0160064194205
+['hour', 'same point']	['385 mile']	0.0160064194205
+['travels', 'same point']	['two car']	0.0696933362217
+['travels', 'same point']	['opposite direction']	0.10152877775
+['travels', 'same point']	['direction']	0.608939330502
+['travels', 'same point']	['constant speed']	0.0719929683361
+['travels', 'same point']	['52 mile']	0.0737139440912
+['travels', 'same point']	['hour']	0.368757774792
+['travels', 'same point']	['mile']	0.612651884221
+['travels', 'same point']	['58 mile']	0.0737139440912
+['travels', 'same point']	['385 mile']	0.0737139440912
+['mile', 'same point']	['two car']	0.0361569291624
+['mile', 'same point']	['opposite direction']	0.0572262385911
+['mile', 'same point']	['direction']	0.813586665122
+['mile', 'same point']	['constant speed']	0.0421463435009
+['mile', 'same point']	['52 mile']	0.391516700063
+['mile', 'same point']	['hour']	0.56568986569
+['mile', 'same point']	['travels']	0.253045752412
+['mile', 'same point']	['58 mile']	0.391516700063
+['mile', 'same point']	['385 mile']	0.365401430504
+['58 mile', 'same point']	['two car']	0.0827346205535
+['58 mile', 'same point']	['opposite direction']	0.114574890496
+['58 mile', 'same point']	['direction']	0.472720884562
+['58 mile', 'same point']	['constant speed']	0.0824069519204
+['58 mile', 'same point']	['52 mile']	0.584269096576
+['58 mile', 'same point']	['hour']	0.0280768488958
+['58 mile', 'same point']	['travels']	0.0774561735493
+['58 mile', 'same point']	['mile']	0.529434715501
+['58 mile', 'same point']	['385 mile']	0.584269096576
+['385 mile', 'same point']	['two car']	0.0827346205535
+['385 mile', 'same point']	['opposite direction']	0.114574890496
+['385 mile', 'same point']	['direction']	0.472720884562
+['385 mile', 'same point']	['constant speed']	0.0824069519204
+['385 mile', 'same point']	['52 mile']	0.584269096576
+['385 mile', 'same point']	['hour']	0.0280768488958
+['385 mile', 'same point']	['travels']	0.0774561735493
+['385 mile', 'same point']	['mile']	0.527370471356
+['385 mile', 'same point']	['58 mile']	0.584269096576
+['two car', 'opposite direction']	['same point']	0.114574890496
+['two car', 'opposite direction']	['direction']	0.627480498512
+['two car', 'opposite direction']	['constant speed']	0.105006879062
+['two car', 'opposite direction']	['52 mile']	0.0901100077042
+['two car', 'opposite direction']	['hour']	0.00424649792755
+['two car', 'opposite direction']	['travels']	0.0774561735493
+['two car', 'opposite direction']	['mile']	0.0132263547461
+['two car', 'opposite direction']	['58 mile']	0.0901100077042
+['two car', 'opposite direction']	['385 mile']	0.0901100077042
+['same point', 'opposite direction']	['two car']	0.0827346205535
+['same point', 'opposite direction']	['direction']	0.655369009187
+['same point', 'opposite direction']	['constant speed']	0.0824069519204
+['same point', 'opposite direction']	['52 mile']	0.0901100077042
+['same point', 'opposite direction']	['hour']	0.0280768488958
+['same point', 'opposite direction']	['travels']	0.0774561735493
+['same point', 'opposite direction']	['mile']	0.238032763137
+['same point', 'opposite direction']	['58 mile']	0.0901100077042
+['same point', 'opposite direction']	['385 mile']	0.0901100077042
+['direction', 'opposite direction']	['two car']	0.194061013895
+['direction', 'opposite direction']	['same point']	0.653799961648
+['direction', 'opposite direction']	['constant speed']	0.221720025806
+['direction', 'opposite direction']	['52 mile']	0.237223524492
+['direction', 'opposite direction']	['hour']	0.452038163277
+['direction', 'opposite direction']	['travels']	0.48992558838
+['direction', 'opposite direction']	['mile']	0.446476662307
+['direction', 'opposite direction']	['58 mile']	0.237223524492
+['direction', 'opposite direction']	['385 mile']	0.237223524492
+['constant speed', 'opposite direction']	['two car']	0.11995745473
+['constant speed', 'opposite direction']	['same point']	0.0963990099525
+['constant speed', 'opposite direction']	['direction']	0.723764436383
+['constant speed', 'opposite direction']	['52 mile']	0.0737139440912
+['constant speed', 'opposite direction']	['hour']	0.00222717737084
+['constant speed', 'opposite direction']	['travels']	0.0595420808213
+['constant speed', 'opposite direction']	['mile']	0.011726423379
+['constant speed', 'opposite direction']	['58 mile']	0.0737139440912
+['constant speed', 'opposite direction']	['385 mile']	0.0737139440912
+['52 mile', 'opposite direction']	['two car']	0.0827346205535
+['52 mile', 'opposite direction']	['same point']	0.114574890496
+['52 mile', 'opposite direction']	['direction']	0.612081485761
+['52 mile', 'opposite direction']	['constant speed']	0.0824069519204
+['52 mile', 'opposite direction']	['hour']	0.00424649792755
+['52 mile', 'opposite direction']	['travels']	0.0741073489195
+['52 mile', 'opposite direction']	['mile']	0.388108272712
+['52 mile', 'opposite direction']	['58 mile']	0.584269096576
+['52 mile', 'opposite direction']	['385 mile']	0.584269096576
+['hour', 'opposite direction']	['two car']	0.015360451052
+['hour', 'opposite direction']	['same point']	0.0565734313289
+['hour', 'opposite direction']	['direction']	0.45686296046
+['hour', 'opposite direction']	['constant speed']	0.0187492693053
+['hour', 'opposite direction']	['52 mile']	0.0160064194205
+['hour', 'opposite direction']	['travels']	0.278894830966
+['hour', 'opposite direction']	['mile']	0.386622405372
+['hour', 'opposite direction']	['58 mile']	0.0160064194205
+['hour', 'opposite direction']	['385 mile']	0.0160064194205
+['travels', 'opposite direction']	['two car']	0.0696933362217
+['travels', 'opposite direction']	['same point']	0.0939298741501
+['travels', 'opposite direction']	['direction']	0.672987448568
+['travels', 'opposite direction']	['constant speed']	0.0719929683361
+['travels', 'opposite direction']	['52 mile']	0.0737139440912
+['travels', 'opposite direction']	['hour']	0.256059362094
+['travels', 'opposite direction']	['mile']	0.270725029434
+['travels', 'opposite direction']	['58 mile']	0.0737139440912
+['travels', 'opposite direction']	['385 mile']	0.0737139440912
+['mile', 'opposite direction']	['two car']	0.0361569291624
+['mile', 'opposite direction']	['same point']	0.251306712588
+['mile', 'opposite direction']	['direction']	0.551982702418
+['mile', 'opposite direction']	['constant speed']	0.0422136009784
+['mile', 'opposite direction']	['52 mile']	0.391516700063
+['mile', 'opposite direction']	['hour']	0.487812881563
+['mile', 'opposite direction']	['travels']	0.311261805538
+['mile', 'opposite direction']	['58 mile']	0.391516700063
+['mile', 'opposite direction']	['385 mile']	0.365401430504
+['58 mile', 'opposite direction']	['two car']	0.0827346205535
+['58 mile', 'opposite direction']	['same point']	0.114574890496
+['58 mile', 'opposite direction']	['direction']	0.612081485761
+['58 mile', 'opposite direction']	['constant speed']	0.0824069519204
+['58 mile', 'opposite direction']	['52 mile']	0.584269096576
+['58 mile', 'opposite direction']	['hour']	0.00424649792755
+['58 mile', 'opposite direction']	['travels']	0.0741073489195
+['58 mile', 'opposite direction']	['mile']	0.388108272712
+['58 mile', 'opposite direction']	['385 mile']	0.584269096576
+['385 mile', 'opposite direction']	['two car']	0.0827346205535
+['385 mile', 'opposite direction']	['same point']	0.114574890496
+['385 mile', 'opposite direction']	['direction']	0.612081485761
+['385 mile', 'opposite direction']	['constant speed']	0.0824069519204
+['385 mile', 'opposite direction']	['52 mile']	0.584269096576
+['385 mile', 'opposite direction']	['hour']	0.00424649792755
+['385 mile', 'opposite direction']	['travels']	0.0741073489195
+['385 mile', 'opposite direction']	['mile']	0.384528877052
+['385 mile', 'opposite direction']	['58 mile']	0.584269096576
+['two car', 'direction']	['same point']	0.479726395733
+['two car', 'direction']	['opposite direction']	0.71455110167
+['two car', 'direction']	['constant speed']	0.111620744952
+['two car', 'direction']	['52 mile']	0.0827346205535
+['two car', 'direction']	['hour']	0.196566782805
+['two car', 'direction']	['travels']	0.192648399091
+['two car', 'direction']	['mile']	0.345554601393
+['two car', 'direction']	['58 mile']	0.0827346205535
+['two car', 'direction']	['385 mile']	0.0827346205535
+['same point', 'direction']	['two car']	0.0827346205535
+['same point', 'direction']	['opposite direction']	0.746548792275
+['same point', 'direction']	['constant speed']	0.079704095659
+['same point', 'direction']	['52 mile']	0.0827346205535
+['same point', 'direction']	['hour']	0.364133896255
+['same point', 'direction']	['travels']	0.19603525097
+['same point', 'direction']	['mile']	0.664682996112
+['same point', 'direction']	['58 mile']	0.0827346205535
+['same point', 'direction']	['385 mile']	0.0827346205535
+['opposite direction', 'direction']	['two car']	0.194061013895
+['opposite direction', 'direction']	['same point']	0.653799961648
+['opposite direction', 'direction']	['constant speed']	0.221720025806
+['opposite direction', 'direction']	['52 mile']	0.237223524492
+['opposite direction', 'direction']	['hour']	0.452038163277
+['opposite direction', 'direction']	['travels']	0.48992558838
+['opposite direction', 'direction']	['mile']	0.446476662307
+['opposite direction', 'direction']	['58 mile']	0.237223524492
+['opposite direction', 'direction']	['385 mile']	0.237223524492
+['constant speed', 'direction']	['two car']	0.103222748661
+['constant speed', 'direction']	['same point']	0.439491759832
+['constant speed', 'direction']	['opposite direction']	0.70243142126
+['constant speed', 'direction']	['52 mile']	0.0696933362217
+['constant speed', 'direction']	['hour']	0.182899188934
+['constant speed', 'direction']	['travels']	0.216373231477
+['constant speed', 'direction']	['mile']	0.325845606684
+['constant speed', 'direction']	['58 mile']	0.0696933362217
+['constant speed', 'direction']	['385 mile']	0.0696933362217
+['52 mile', 'direction']	['two car']	0.0827346205535
+['52 mile', 'direction']	['same point']	0.471674872472
+['52 mile', 'direction']	['opposite direction']	0.707594685938
+['52 mile', 'direction']	['constant speed']	0.0830529202888
+['52 mile', 'direction']	['hour']	0.278048264287
+['52 mile', 'direction']	['travels']	0.192648399091
+['52 mile', 'direction']	['mile']	0.687345343996
+['52 mile', 'direction']	['58 mile']	0.538007739106
+['52 mile', 'direction']	['385 mile']	0.538007739106
+['hour', 'direction']	['two car']	0.0165341599722
+['hour', 'direction']	['same point']	0.249414752611
+['hour', 'direction']	['opposite direction']	0.328825920404
+['hour', 'direction']	['constant speed']	0.0193952376737
+['hour', 'direction']	['52 mile']	0.0160064194205
+['hour', 'direction']	['travels']	0.0996826384826
+['hour', 'direction']	['mile']	0.182422153961
+['hour', 'direction']	['58 mile']	0.0160064194205
+['hour', 'direction']	['385 mile']	0.0160064194205
+['travels', 'direction']	['two car']	0.0696933362217
+['travels', 'direction']	['same point']	0.38801656193
+['travels', 'direction']	['opposite direction']	0.699570707648
+['travels', 'direction']	['constant speed']	0.0726704337382
+['travels', 'direction']	['52 mile']	0.0696933362217
+['travels', 'direction']	['hour']	0.00979922007561
+['travels', 'direction']	['mile']	0.0954127874726
+['travels', 'direction']	['58 mile']	0.0696933362217
+['travels', 'direction']	['385 mile']	0.0696933362217
+['mile', 'direction']	['two car']	0.0361569291624
+['mile', 'direction']	['same point']	0.408508607385
+['mile', 'direction']	['opposite direction']	0.345399931471
+['mile', 'direction']	['constant speed']	0.0428595693468
+['mile', 'direction']	['52 mile']	0.452298826701
+['mile', 'direction']	['hour']	0.182422153961
+['mile', 'direction']	['travels']	0.0601706895303
+['mile', 'direction']	['58 mile']	0.452298826701
+['mile', 'direction']	['385 mile']	0.435102054266
+['58 mile', 'direction']	['two car']	0.0827346205535
+['58 mile', 'direction']	['same point']	0.471674872472
+['58 mile', 'direction']	['opposite direction']	0.707594685938
+['58 mile', 'direction']	['constant speed']	0.0830529202888
+['58 mile', 'direction']	['52 mile']	0.538007739106
+['58 mile', 'direction']	['hour']	0.278048264287
+['58 mile', 'direction']	['travels']	0.192648399091
+['58 mile', 'direction']	['mile']	0.687345343996
+['58 mile', 'direction']	['385 mile']	0.538007739106
+['385 mile', 'direction']	['two car']	0.0827346205535
+['385 mile', 'direction']	['same point']	0.471674872472
+['385 mile', 'direction']	['opposite direction']	0.707594685938
+['385 mile', 'direction']	['constant speed']	0.0830529202888
+['385 mile', 'direction']	['52 mile']	0.538007739106
+['385 mile', 'direction']	['hour']	0.278048264287
+['385 mile', 'direction']	['travels']	0.192648399091
+['385 mile', 'direction']	['mile']	0.682230731736
+['385 mile', 'direction']	['58 mile']	0.538007739106
+['two car', 'constant speed']	['same point']	0.0696933362217
+['two car', 'constant speed']	['opposite direction']	0.0663445115919
+['two car', 'constant speed']	['direction']	0.0634148935911
+['two car', 'constant speed']	['52 mile']	0.0737139440912
+['two car', 'constant speed']	['hour']	0.00222717737084
+['two car', 'constant speed']	['travels']	0.0617470987896
+['two car', 'constant speed']	['mile']	0.0106028278734
+['two car', 'constant speed']	['58 mile']	0.0737139440912
+['two car', 'constant speed']	['385 mile']	0.0737139440912
+['same point', 'constant speed']	['two car']	0.105691884463
+['same point', 'constant speed']	['opposite direction']	0.0950188342938
+['same point', 'constant speed']	['direction']	0.407316980274
+['same point', 'constant speed']	['52 mile']	0.0737139440912
+['same point', 'constant speed']	['hour']	0.0135413476116
+['same point', 'constant speed']	['travels']	0.0650959234194
+['same point', 'constant speed']	['mile']	0.174769711484
+['same point', 'constant speed']	['58 mile']	0.0737139440912
+['same point', 'constant speed']	['385 mile']	0.0737139440912
+['opposite direction', 'constant speed']	['two car']	0.11995745473
+['opposite direction', 'constant speed']	['same point']	0.0963990099525
+['opposite direction', 'constant speed']	['direction']	0.723764436383
+['opposite direction', 'constant speed']	['52 mile']	0.0737139440912
+['opposite direction', 'constant speed']	['hour']	0.00222717737084
+['opposite direction', 'constant speed']	['travels']	0.0595420808213
+['opposite direction', 'constant speed']	['mile']	0.011726423379
+['opposite direction', 'constant speed']	['58 mile']	0.0737139440912
+['opposite direction', 'constant speed']	['385 mile']	0.0737139440912
+['direction', 'constant speed']	['two car']	0.103222748661
+['direction', 'constant speed']	['same point']	0.439491759832
+['direction', 'constant speed']	['opposite direction']	0.70243142126
+['direction', 'constant speed']	['52 mile']	0.0696933362217
+['direction', 'constant speed']	['hour']	0.182899188934
+['direction', 'constant speed']	['travels']	0.216373231477
+['direction', 'constant speed']	['mile']	0.325845606684
+['direction', 'constant speed']	['58 mile']	0.0696933362217
+['direction', 'constant speed']	['385 mile']	0.0696933362217
+['52 mile', 'constant speed']	['two car']	0.105691884463
+['52 mile', 'constant speed']	['same point']	0.0696933362217
+['52 mile', 'constant speed']	['opposite direction']	0.0696933362217
+['52 mile', 'constant speed']	['direction']	0.0634148935911
+['52 mile', 'constant speed']	['hour']	0.00222717737084
+['52 mile', 'constant speed']	['travels']	0.0617470987896
+['52 mile', 'constant speed']	['mile']	0.392131842364
+['52 mile', 'constant speed']	['58 mile']	0.544221442934
+['52 mile', 'constant speed']	['385 mile']	0.544221442934
+['hour', 'constant speed']	['two car']	0.0787871379671
+['hour', 'constant speed']	['same point']	0.101474252747
+['hour', 'constant speed']	['opposite direction']	0.0774884366684
+['hour', 'constant speed']	['direction']	0.35447852713
+['hour', 'constant speed']	['52 mile']	0.0780842671024
+['hour', 'constant speed']	['travels']	0.363076905953
+['hour', 'constant speed']	['mile']	0.353289072039
+['hour', 'constant speed']	['58 mile']	0.0780842671024
+['hour', 'constant speed']	['385 mile']	0.0780842671024
+['travels', 'constant speed']	['two car']	0.159872896928
+['travels', 'constant speed']	['same point']	0.131771183904
+['travels', 'constant speed']	['opposite direction']	0.129068327642
+['travels', 'constant speed']	['direction']	0.275469751153
+['travels', 'constant speed']	['52 mile']	0.135791791773
+['travels', 'constant speed']	['hour']	0.254868885903
+['travels', 'constant speed']	['mile']	0.336568771117
+['travels', 'constant speed']	['58 mile']	0.135791791773
+['travels', 'constant speed']	['385 mile']	0.135791791773
+['mile', 'constant speed']	['two car']	0.118523866578
+['mile', 'constant speed']	['same point']	0.207326597974
+['mile', 'constant speed']	['opposite direction']	0.0983020343217
+['mile', 'constant speed']	['direction']	0.531416030262
+['mile', 'constant speed']	['52 mile']	0.391516700063
+['mile', 'constant speed']	['hour']	0.386622405372
+['mile', 'constant speed']	['travels']	0.404430117826
+['mile', 'constant speed']	['58 mile']	0.391516700063
+['mile', 'constant speed']	['385 mile']	0.365401430504
+['58 mile', 'constant speed']	['two car']	0.105691884463
+['58 mile', 'constant speed']	['same point']	0.0696933362217
+['58 mile', 'constant speed']	['opposite direction']	0.0696933362217
+['58 mile', 'constant speed']	['direction']	0.0634148935911
+['58 mile', 'constant speed']	['52 mile']	0.544221442934
+['58 mile', 'constant speed']	['hour']	0.00222717737084
+['58 mile', 'constant speed']	['travels']	0.0617470987896
+['58 mile', 'constant speed']	['mile']	0.392131842364
+['58 mile', 'constant speed']	['385 mile']	0.544221442934
+['385 mile', 'constant speed']	['two car']	0.105691884463
+['385 mile', 'constant speed']	['same point']	0.0696933362217
+['385 mile', 'constant speed']	['opposite direction']	0.0696933362217
+['385 mile', 'constant speed']	['direction']	0.0634148935911
+['385 mile', 'constant speed']	['52 mile']	0.544221442934
+['385 mile', 'constant speed']	['hour']	0.00222717737084
+['385 mile', 'constant speed']	['travels']	0.0617470987896
+['385 mile', 'constant speed']	['mile']	0.361360527512
+['385 mile', 'constant speed']	['58 mile']	0.544221442934
+['two car', '52 mile']	['same point']	0.0827346205535
+['two car', '52 mile']	['opposite direction']	0.0827346205535
+['two car', '52 mile']	['direction']	0.0777864840342
+['two car', '52 mile']	['constant speed']	0.107003435941
+['two car', '52 mile']	['hour']	0.00424649792755
+['two car', '52 mile']	['travels']	0.0774561735493
+['two car', '52 mile']	['mile']	0.339703421902
+['two car', '52 mile']	['58 mile']	0.584269096576
+['two car', '52 mile']	['385 mile']	0.584269096576
+['same point', '52 mile']	['two car']	0.0827346205535
+['same point', '52 mile']	['opposite direction']	0.114574890496
+['same point', '52 mile']	['direction']	0.472720884562
+['same point', '52 mile']	['constant speed']	0.0824069519204
+['same point', '52 mile']	['hour']	0.0280768488958
+['same point', '52 mile']	['travels']	0.0774561735493
+['same point', '52 mile']	['mile']	0.529434715501
+['same point', '52 mile']	['58 mile']	0.584269096576
+['same point', '52 mile']	['385 mile']	0.584269096576
+['opposite direction', '52 mile']	['two car']	0.0827346205535
+['opposite direction', '52 mile']	['same point']	0.114574890496
+['opposite direction', '52 mile']	['direction']	0.612081485761
+['opposite direction', '52 mile']	['constant speed']	0.0824069519204
+['opposite direction', '52 mile']	['hour']	0.00424649792755
+['opposite direction', '52 mile']	['travels']	0.0741073489195
+['opposite direction', '52 mile']	['mile']	0.388108272712
+['opposite direction', '52 mile']	['58 mile']	0.584269096576
+['opposite direction', '52 mile']	['385 mile']	0.584269096576
+['direction', '52 mile']	['two car']	0.0827346205535
+['direction', '52 mile']	['same point']	0.471674872472
+['direction', '52 mile']	['opposite direction']	0.707594685938
+['direction', '52 mile']	['constant speed']	0.0830529202888
+['direction', '52 mile']	['hour']	0.278048264287
+['direction', '52 mile']	['travels']	0.192648399091
+['direction', '52 mile']	['mile']	0.687345343996
+['direction', '52 mile']	['58 mile']	0.538007739106
+['direction', '52 mile']	['385 mile']	0.538007739106
+['constant speed', '52 mile']	['two car']	0.105691884463
+['constant speed', '52 mile']	['same point']	0.0696933362217
+['constant speed', '52 mile']	['opposite direction']	0.0696933362217
+['constant speed', '52 mile']	['direction']	0.0634148935911
+['constant speed', '52 mile']	['hour']	0.00222717737084
+['constant speed', '52 mile']	['travels']	0.0617470987896
+['constant speed', '52 mile']	['mile']	0.392131842364
+['constant speed', '52 mile']	['58 mile']	0.544221442934
+['constant speed', '52 mile']	['385 mile']	0.544221442934
+['hour', '52 mile']	['two car']	0.0165341599722
+['hour', '52 mile']	['same point']	0.0291783585537
+['hour', '52 mile']	['opposite direction']	0.0154105889865
+['hour', '52 mile']	['direction']	0.275166582013
+['hour', '52 mile']	['constant speed']	0.0187492693053
+['hour', '52 mile']	['travels']	0.244214696286
+['hour', '52 mile']	['mile']	0.598565504296
+['hour', '52 mile']	['58 mile']	0.0852471420558
+['hour', '52 mile']	['385 mile']	0.0852471420558
+['travels', '52 mile']	['two car']	0.0737139440912
+['travels', '52 mile']	['same point']	0.0737139440912
+['travels', '52 mile']	['opposite direction']	0.0703393045902
+['travels', '52 mile']	['direction']	0.211523961879
+['travels', '52 mile']	['constant speed']	0.0753417929659
+['travels', '52 mile']	['hour']	0.256059362094
+['travels', '52 mile']	['mile']	0.686151554564
+['travels', '52 mile']	['58 mile']	0.522652815483
+['travels', '52 mile']	['385 mile']	0.522652815483
+['mile', '52 mile']	['two car']	0.0968024870635
+['mile', '52 mile']	['same point']	0.339609653638
+['mile', '52 mile']	['opposite direction']	0.183197852817
+['mile', '52 mile']	['direction']	0.552459748245
+['mile', '52 mile']	['constant speed']	0.157431377697
+['mile', '52 mile']	['hour']	0.578571428571
+['mile', '52 mile']	['travels']	0.406338837076
+['mile', '52 mile']	['58 mile']	0.638178477636
+['mile', '52 mile']	['385 mile']	0.610690210365
+['58 mile', '52 mile']	['two car']	0.139258682248
+['58 mile', '52 mile']	['same point']	0.139258682248
+['58 mile', '52 mile']	['opposite direction']	0.139258682248
+['58 mile', '52 mile']	['direction']	0.360804929274
+['58 mile', '52 mile']	['constant speed']	0.14699641653
+['58 mile', '52 mile']	['hour']	0.156901862603
+['58 mile', '52 mile']	['travels']	0.345269105941
+['58 mile', '52 mile']	['mile']	0.693038862582
+['58 mile', '52 mile']	['385 mile']	0.637144068101
+['385 mile', '52 mile']	['two car']	0.139258682248
+['385 mile', '52 mile']	['same point']	0.139258682248
+['385 mile', '52 mile']	['opposite direction']	0.139258682248
+['385 mile', '52 mile']	['direction']	0.360804929274
+['385 mile', '52 mile']	['constant speed']	0.14699641653
+['385 mile', '52 mile']	['hour']	0.156901862603
+['385 mile', '52 mile']	['travels']	0.345269105941
+['385 mile', '52 mile']	['mile']	0.67956664036
+['385 mile', '52 mile']	['58 mile']	0.637144068101
+['two car', 'hour']	['same point']	0.0448241044795
+['two car', 'hour']	['opposite direction']	0.0154105889865
+['two car', 'hour']	['direction']	0.267097798944
+['two car', 'hour']	['constant speed']	0.0283187431311
+['two car', 'hour']	['52 mile']	0.0160064194205
+['two car', 'hour']	['travels']	0.270140622212
+['two car', 'hour']	['mile']	0.372998066748
+['two car', 'hour']	['58 mile']	0.0160064194205
+['two car', 'hour']	['385 mile']	0.0160064194205
+['same point', 'hour']	['two car']	0.0165341599722
+['same point', 'hour']	['opposite direction']	0.0241946307602
+['same point', 'hour']	['direction']	0.563691077441
+['same point', 'hour']	['constant speed']	0.0187492693053
+['same point', 'hour']	['52 mile']	0.0160064194205
+['same point', 'hour']	['travels']	0.246671961243
+['same point', 'hour']	['mile']	0.679345273463
+['same point', 'hour']	['58 mile']	0.0160064194205
+['same point', 'hour']	['385 mile']	0.0160064194205
+['opposite direction', 'hour']	['two car']	0.015360451052
+['opposite direction', 'hour']	['same point']	0.0565734313289
+['opposite direction', 'hour']	['direction']	0.45686296046
+['opposite direction', 'hour']	['constant speed']	0.0187492693053
+['opposite direction', 'hour']	['52 mile']	0.0160064194205
+['opposite direction', 'hour']	['travels']	0.278894830966
+['opposite direction', 'hour']	['mile']	0.386622405372
+['opposite direction', 'hour']	['58 mile']	0.0160064194205
+['opposite direction', 'hour']	['385 mile']	0.0160064194205
+['direction', 'hour']	['two car']	0.0165341599722
+['direction', 'hour']	['same point']	0.249414752611
+['direction', 'hour']	['opposite direction']	0.328825920404
+['direction', 'hour']	['constant speed']	0.0193952376737
+['direction', 'hour']	['52 mile']	0.0160064194205
+['direction', 'hour']	['travels']	0.0996826384826
+['direction', 'hour']	['mile']	0.182422153961
+['direction', 'hour']	['58 mile']	0.0160064194205
+['direction', 'hour']	['385 mile']	0.0160064194205
+['constant speed', 'hour']	['two car']	0.0787871379671
+['constant speed', 'hour']	['same point']	0.101474252747
+['constant speed', 'hour']	['opposite direction']	0.0774884366684
+['constant speed', 'hour']	['direction']	0.35447852713
+['constant speed', 'hour']	['52 mile']	0.0780842671024
+['constant speed', 'hour']	['travels']	0.363076905953
+['constant speed', 'hour']	['mile']	0.353289072039
+['constant speed', 'hour']	['58 mile']	0.0780842671024
+['constant speed', 'hour']	['385 mile']	0.0780842671024
+['52 mile', 'hour']	['two car']	0.0165341599722
+['52 mile', 'hour']	['same point']	0.0291783585537
+['52 mile', 'hour']	['opposite direction']	0.0154105889865
+['52 mile', 'hour']	['direction']	0.275166582013
+['52 mile', 'hour']	['constant speed']	0.0187492693053
+['52 mile', 'hour']	['travels']	0.244214696286
+['52 mile', 'hour']	['mile']	0.598565504296
+['52 mile', 'hour']	['58 mile']	0.0852471420558
+['52 mile', 'hour']	['385 mile']	0.0852471420558
+['travels', 'hour']	['two car']	0.0786120076541
+['travels', 'hour']	['same point']	0.0858285068213
+['travels', 'hour']	['opposite direction']	0.0864675159274
+['travels', 'hour']	['direction']	0.139444825107
+['travels', 'hour']	['constant speed']	0.0814730853556
+['travels', 'hour']	['52 mile']	0.0780842671024
+['travels', 'hour']	['mile']	0.180103313381
+['travels', 'hour']	['58 mile']	0.0780842671024
+['travels', 'hour']	['385 mile']	0.0780842671024
+['mile', 'hour']	['two car']	0.0713303637771
+['mile', 'hour']	['same point']	0.149285802242
+['mile', 'hour']	['opposite direction']	0.0701566548569
+['mile', 'hour']	['direction']	0.0799161064667
+['mile', 'hour']	['constant speed']	0.0735454731102
+['mile', 'hour']	['52 mile']	0.283241311543
+['mile', 'hour']	['travels']	0.0736221117794
+['mile', 'hour']	['58 mile']	0.283241311543
+['mile', 'hour']	['385 mile']	0.306554253166
+['58 mile', 'hour']	['two car']	0.0165341599722
+['58 mile', 'hour']	['same point']	0.0291783585537
+['58 mile', 'hour']	['opposite direction']	0.0154105889865
+['58 mile', 'hour']	['direction']	0.275166582013
+['58 mile', 'hour']	['constant speed']	0.0187492693053
+['58 mile', 'hour']	['52 mile']	0.0852471420558
+['58 mile', 'hour']	['travels']	0.244214696286
+['58 mile', 'hour']	['mile']	0.598565504296
+['58 mile', 'hour']	['385 mile']	0.0852471420558
+['385 mile', 'hour']	['two car']	0.0165341599722
+['385 mile', 'hour']	['same point']	0.0291783585537
+['385 mile', 'hour']	['opposite direction']	0.0154105889865
+['385 mile', 'hour']	['direction']	0.275166582013
+['385 mile', 'hour']	['constant speed']	0.0187492693053
+['385 mile', 'hour']	['52 mile']	0.0852471420558
+['385 mile', 'hour']	['travels']	0.244214696286
+['385 mile', 'hour']	['mile']	0.53282747888
+['385 mile', 'hour']	['58 mile']	0.0852471420558
+['two car', 'travels']	['same point']	0.0696933362217
+['two car', 'travels']	['opposite direction']	0.0669904799604
+['two car', 'travels']	['direction']	0.182729929366
+['two car', 'travels']	['constant speed']	0.107318934028
+['two car', 'travels']	['52 mile']	0.0737139440912
+['two car', 'travels']	['hour']	0.174577880612
+['two car', 'travels']	['mile']	0.205181581481
+['two car', 'travels']	['58 mile']	0.0737139440912
+['two car', 'travels']	['385 mile']	0.0737139440912
+['same point', 'travels']	['two car']	0.0696933362217
+['same point', 'travels']	['opposite direction']	0.10152877775
+['same point', 'travels']	['direction']	0.608939330502
+['same point', 'travels']	['constant speed']	0.0719929683361
+['same point', 'travels']	['52 mile']	0.0737139440912
+['same point', 'travels']	['hour']	0.368757774792
+['same point', 'travels']	['mile']	0.612651884221
+['same point', 'travels']	['58 mile']	0.0737139440912
+['same point', 'travels']	['385 mile']	0.0737139440912
+['opposite direction', 'travels']	['two car']	0.0696933362217
+['opposite direction', 'travels']	['same point']	0.0939298741501
+['opposite direction', 'travels']	['direction']	0.672987448568
+['opposite direction', 'travels']	['constant speed']	0.0719929683361
+['opposite direction', 'travels']	['52 mile']	0.0737139440912
+['opposite direction', 'travels']	['hour']	0.256059362094
+['opposite direction', 'travels']	['mile']	0.270725029434
+['opposite direction', 'travels']	['58 mile']	0.0737139440912
+['opposite direction', 'travels']	['385 mile']	0.0737139440912
+['direction', 'travels']	['two car']	0.0696933362217
+['direction', 'travels']	['same point']	0.38801656193
+['direction', 'travels']	['opposite direction']	0.699570707648
+['direction', 'travels']	['constant speed']	0.0726704337382
+['direction', 'travels']	['52 mile']	0.0696933362217
+['direction', 'travels']	['hour']	0.00979922007561
+['direction', 'travels']	['mile']	0.0954127874726
+['direction', 'travels']	['58 mile']	0.0696933362217
+['direction', 'travels']	['385 mile']	0.0696933362217
+['constant speed', 'travels']	['two car']	0.159872896928
+['constant speed', 'travels']	['same point']	0.131771183904
+['constant speed', 'travels']	['opposite direction']	0.129068327642
+['constant speed', 'travels']	['direction']	0.275469751153
+['constant speed', 'travels']	['52 mile']	0.135791791773
+['constant speed', 'travels']	['hour']	0.254868885903
+['constant speed', 'travels']	['mile']	0.336568771117
+['constant speed', 'travels']	['58 mile']	0.135791791773
+['constant speed', 'travels']	['385 mile']	0.135791791773
+['52 mile', 'travels']	['two car']	0.0737139440912
+['52 mile', 'travels']	['same point']	0.0737139440912
+['52 mile', 'travels']	['opposite direction']	0.0703393045902
+['52 mile', 'travels']	['direction']	0.211523961879
+['52 mile', 'travels']	['constant speed']	0.0753417929659
+['52 mile', 'travels']	['hour']	0.256059362094
+['52 mile', 'travels']	['mile']	0.686151554564
+['52 mile', 'travels']	['58 mile']	0.522652815483
+['52 mile', 'travels']	['385 mile']	0.522652815483
+['hour', 'travels']	['two car']	0.0786120076541
+['hour', 'travels']	['same point']	0.0858285068213
+['hour', 'travels']	['opposite direction']	0.0864675159274
+['hour', 'travels']	['direction']	0.139444825107
+['hour', 'travels']	['constant speed']	0.0814730853556
+['hour', 'travels']	['52 mile']	0.0780842671024
+['hour', 'travels']	['mile']	0.180103313381
+['hour', 'travels']	['58 mile']	0.0780842671024
+['hour', 'travels']	['385 mile']	0.0780842671024
+['mile', 'travels']	['two car']	0.0982347768443
+['mile', 'travels']	['same point']	0.171693299333
+['mile', 'travels']	['opposite direction']	0.0989480026901
+['mile', 'travels']	['direction']	0.271023093079
+['mile', 'travels']	['constant speed']	0.104937417029
+['mile', 'travels']	['52 mile']	0.391516700063
+['mile', 'travels']	['hour']	0.182422153961
+['mile', 'travels']	['58 mile']	0.391516700063
+['mile', 'travels']	['385 mile']	0.365401430504
+['58 mile', 'travels']	['two car']	0.0737139440912
+['58 mile', 'travels']	['same point']	0.0737139440912
+['58 mile', 'travels']	['opposite direction']	0.0703393045902
+['58 mile', 'travels']	['direction']	0.211523961879
+['58 mile', 'travels']	['constant speed']	0.0753417929659
+['58 mile', 'travels']	['52 mile']	0.522652815483
+['58 mile', 'travels']	['hour']	0.256059362094
+['58 mile', 'travels']	['mile']	0.686151554564
+['58 mile', 'travels']	['385 mile']	0.522652815483
+['385 mile', 'travels']	['two car']	0.0737139440912
+['385 mile', 'travels']	['same point']	0.0737139440912
+['385 mile', 'travels']	['opposite direction']	0.0703393045902
+['385 mile', 'travels']	['direction']	0.211523961879
+['385 mile', 'travels']	['constant speed']	0.0753417929659
+['385 mile', 'travels']	['52 mile']	0.522652815483
+['385 mile', 'travels']	['hour']	0.256059362094
+['385 mile', 'travels']	['mile']	0.681036942304
+['385 mile', 'travels']	['58 mile']	0.522652815483
+['two car', 'mile']	['same point']	0.179955407595
+['two car', 'mile']	['opposite direction']	0.0362241866398
+['two car', 'mile']	['direction']	0.468307142193
+['two car', 'mile']	['constant speed']	0.0649156452947
+['two car', 'mile']	['52 mile']	0.391516700063
+['two car', 'mile']	['hour']	0.372998066748
+['two car', 'mile']	['travels']	0.250588487454
+['two car', 'mile']	['58 mile']	0.391516700063
+['two car', 'mile']	['385 mile']	0.365401430504
+['same point', 'mile']	['two car']	0.0361569291624
+['same point', 'mile']	['opposite direction']	0.0572262385911
+['same point', 'mile']	['direction']	0.813586665122
+['same point', 'mile']	['constant speed']	0.0421463435009
+['same point', 'mile']	['52 mile']	0.391516700063
+['same point', 'mile']	['hour']	0.56568986569
+['same point', 'mile']	['travels']	0.253045752412
+['same point', 'mile']	['58 mile']	0.391516700063
+['same point', 'mile']	['385 mile']	0.365401430504
+['opposite direction', 'mile']	['two car']	0.0361569291624
+['opposite direction', 'mile']	['same point']	0.251306712588
+['opposite direction', 'mile']	['direction']	0.551982702418
+['opposite direction', 'mile']	['constant speed']	0.0422136009784
+['opposite direction', 'mile']	['52 mile']	0.391516700063
+['opposite direction', 'mile']	['hour']	0.487812881563
+['opposite direction', 'mile']	['travels']	0.311261805538
+['opposite direction', 'mile']	['58 mile']	0.391516700063
+['opposite direction', 'mile']	['385 mile']	0.365401430504
+['direction', 'mile']	['two car']	0.0361569291624
+['direction', 'mile']	['same point']	0.408508607385
+['direction', 'mile']	['opposite direction']	0.345399931471
+['direction', 'mile']	['constant speed']	0.0428595693468
+['direction', 'mile']	['52 mile']	0.452298826701
+['direction', 'mile']	['hour']	0.182422153961
+['direction', 'mile']	['travels']	0.0601706895303
+['direction', 'mile']	['58 mile']	0.452298826701
+['direction', 'mile']	['385 mile']	0.435102054266
+['constant speed', 'mile']	['two car']	0.118523866578
+['constant speed', 'mile']	['same point']	0.207326597974
+['constant speed', 'mile']	['opposite direction']	0.0983020343217
+['constant speed', 'mile']	['direction']	0.531416030262
+['constant speed', 'mile']	['52 mile']	0.391516700063
+['constant speed', 'mile']	['hour']	0.386622405372
+['constant speed', 'mile']	['travels']	0.404430117826
+['constant speed', 'mile']	['58 mile']	0.391516700063
+['constant speed', 'mile']	['385 mile']	0.365401430504
+['52 mile', 'mile']	['two car']	0.0968024870635
+['52 mile', 'mile']	['same point']	0.339609653638
+['52 mile', 'mile']	['opposite direction']	0.183197852817
+['52 mile', 'mile']	['direction']	0.552459748245
+['52 mile', 'mile']	['constant speed']	0.157431377697
+['52 mile', 'mile']	['hour']	0.578571428571
+['52 mile', 'mile']	['travels']	0.406338837076
+['52 mile', 'mile']	['58 mile']	0.638178477636
+['52 mile', 'mile']	['385 mile']	0.610690210365
+['hour', 'mile']	['two car']	0.0713303637771
+['hour', 'mile']	['same point']	0.149285802242
+['hour', 'mile']	['opposite direction']	0.0701566548569
+['hour', 'mile']	['direction']	0.0799161064667
+['hour', 'mile']	['constant speed']	0.0735454731102
+['hour', 'mile']	['52 mile']	0.283241311543
+['hour', 'mile']	['travels']	0.0736221117794
+['hour', 'mile']	['58 mile']	0.283241311543
+['hour', 'mile']	['385 mile']	0.306554253166
+['travels', 'mile']	['two car']	0.0982347768443
+['travels', 'mile']	['same point']	0.171693299333
+['travels', 'mile']	['opposite direction']	0.0989480026901
+['travels', 'mile']	['direction']	0.271023093079
+['travels', 'mile']	['constant speed']	0.104937417029
+['travels', 'mile']	['52 mile']	0.391516700063
+['travels', 'mile']	['hour']	0.182422153961
+['travels', 'mile']	['58 mile']	0.391516700063
+['travels', 'mile']	['385 mile']	0.365401430504
+['58 mile', 'mile']	['two car']	0.0968024870635
+['58 mile', 'mile']	['same point']	0.339609653638
+['58 mile', 'mile']	['opposite direction']	0.183197852817
+['58 mile', 'mile']	['direction']	0.552459748245
+['58 mile', 'mile']	['constant speed']	0.157431377697
+['58 mile', 'mile']	['52 mile']	0.638178477636
+['58 mile', 'mile']	['hour']	0.578571428571
+['58 mile', 'mile']	['travels']	0.406338837076
+['58 mile', 'mile']	['385 mile']	0.610690210365
+['385 mile', 'mile']	['two car']	0.0968024870635
+['385 mile', 'mile']	['same point']	0.339609653638
+['385 mile', 'mile']	['opposite direction']	0.183197852817
+['385 mile', 'mile']	['direction']	0.552459748245
+['385 mile', 'mile']	['constant speed']	0.157431377697
+['385 mile', 'mile']	['52 mile']	0.638178477636
+['385 mile', 'mile']	['hour']	0.578571428571
+['385 mile', 'mile']	['travels']	0.406338837076
+['385 mile', 'mile']	['58 mile']	0.638178477636
+['two car', '58 mile']	['same point']	0.0827346205535
+['two car', '58 mile']	['opposite direction']	0.0827346205535
+['two car', '58 mile']	['direction']	0.0777864840342
+['two car', '58 mile']	['constant speed']	0.107003435941
+['two car', '58 mile']	['52 mile']	0.584269096576
+['two car', '58 mile']	['hour']	0.00424649792755
+['two car', '58 mile']	['travels']	0.0774561735493
+['two car', '58 mile']	['mile']	0.339703421902
+['two car', '58 mile']	['385 mile']	0.584269096576
+['same point', '58 mile']	['two car']	0.0827346205535
+['same point', '58 mile']	['opposite direction']	0.114574890496
+['same point', '58 mile']	['direction']	0.472720884562
+['same point', '58 mile']	['constant speed']	0.0824069519204
+['same point', '58 mile']	['52 mile']	0.584269096576
+['same point', '58 mile']	['hour']	0.0280768488958
+['same point', '58 mile']	['travels']	0.0774561735493
+['same point', '58 mile']	['mile']	0.529434715501
+['same point', '58 mile']	['385 mile']	0.584269096576
+['opposite direction', '58 mile']	['two car']	0.0827346205535
+['opposite direction', '58 mile']	['same point']	0.114574890496
+['opposite direction', '58 mile']	['direction']	0.612081485761
+['opposite direction', '58 mile']	['constant speed']	0.0824069519204
+['opposite direction', '58 mile']	['52 mile']	0.584269096576
+['opposite direction', '58 mile']	['hour']	0.00424649792755
+['opposite direction', '58 mile']	['travels']	0.0741073489195
+['opposite direction', '58 mile']	['mile']	0.388108272712
+['opposite direction', '58 mile']	['385 mile']	0.584269096576
+['direction', '58 mile']	['two car']	0.0827346205535
+['direction', '58 mile']	['same point']	0.471674872472
+['direction', '58 mile']	['opposite direction']	0.707594685938
+['direction', '58 mile']	['constant speed']	0.0830529202888
+['direction', '58 mile']	['52 mile']	0.538007739106
+['direction', '58 mile']	['hour']	0.278048264287
+['direction', '58 mile']	['travels']	0.192648399091
+['direction', '58 mile']	['mile']	0.687345343996
+['direction', '58 mile']	['385 mile']	0.538007739106
+['constant speed', '58 mile']	['two car']	0.105691884463
+['constant speed', '58 mile']	['same point']	0.0696933362217
+['constant speed', '58 mile']	['opposite direction']	0.0696933362217
+['constant speed', '58 mile']	['direction']	0.0634148935911
+['constant speed', '58 mile']	['52 mile']	0.544221442934
+['constant speed', '58 mile']	['hour']	0.00222717737084
+['constant speed', '58 mile']	['travels']	0.0617470987896
+['constant speed', '58 mile']	['mile']	0.392131842364
+['constant speed', '58 mile']	['385 mile']	0.544221442934
+['52 mile', '58 mile']	['two car']	0.139258682248
+['52 mile', '58 mile']	['same point']	0.139258682248
+['52 mile', '58 mile']	['opposite direction']	0.139258682248
+['52 mile', '58 mile']	['direction']	0.360804929274
+['52 mile', '58 mile']	['constant speed']	0.14699641653
+['52 mile', '58 mile']	['hour']	0.156901862603
+['52 mile', '58 mile']	['travels']	0.345269105941
+['52 mile', '58 mile']	['mile']	0.693038862582
+['52 mile', '58 mile']	['385 mile']	0.637144068101
+['hour', '58 mile']	['two car']	0.0165341599722
+['hour', '58 mile']	['same point']	0.0291783585537
+['hour', '58 mile']	['opposite direction']	0.0154105889865
+['hour', '58 mile']	['direction']	0.275166582013
+['hour', '58 mile']	['constant speed']	0.0187492693053
+['hour', '58 mile']	['52 mile']	0.0852471420558
+['hour', '58 mile']	['travels']	0.244214696286
+['hour', '58 mile']	['mile']	0.598565504296
+['hour', '58 mile']	['385 mile']	0.0852471420558
+['travels', '58 mile']	['two car']	0.0737139440912
+['travels', '58 mile']	['same point']	0.0737139440912
+['travels', '58 mile']	['opposite direction']	0.0703393045902
+['travels', '58 mile']	['direction']	0.211523961879
+['travels', '58 mile']	['constant speed']	0.0753417929659
+['travels', '58 mile']	['52 mile']	0.522652815483
+['travels', '58 mile']	['hour']	0.256059362094
+['travels', '58 mile']	['mile']	0.686151554564
+['travels', '58 mile']	['385 mile']	0.522652815483
+['mile', '58 mile']	['two car']	0.0968024870635
+['mile', '58 mile']	['same point']	0.339609653638
+['mile', '58 mile']	['opposite direction']	0.183197852817
+['mile', '58 mile']	['direction']	0.552459748245
+['mile', '58 mile']	['constant speed']	0.157431377697
+['mile', '58 mile']	['52 mile']	0.638178477636
+['mile', '58 mile']	['hour']	0.578571428571
+['mile', '58 mile']	['travels']	0.406338837076
+['mile', '58 mile']	['385 mile']	0.610690210365
+['385 mile', '58 mile']	['two car']	0.139258682248
+['385 mile', '58 mile']	['same point']	0.139258682248
+['385 mile', '58 mile']	['opposite direction']	0.139258682248
+['385 mile', '58 mile']	['direction']	0.360804929274
+['385 mile', '58 mile']	['constant speed']	0.14699641653
+['385 mile', '58 mile']	['52 mile']	0.637144068101
+['385 mile', '58 mile']	['hour']	0.156901862603
+['385 mile', '58 mile']	['travels']	0.345269105941
+['385 mile', '58 mile']	['mile']	0.67956664036
+['two car', '385 mile']	['same point']	0.0827346205535
+['two car', '385 mile']	['opposite direction']	0.0827346205535
+['two car', '385 mile']	['direction']	0.0777864840342
+['two car', '385 mile']	['constant speed']	0.107003435941
+['two car', '385 mile']	['52 mile']	0.584269096576
+['two car', '385 mile']	['hour']	0.00424649792755
+['two car', '385 mile']	['travels']	0.0774561735493
+['two car', '385 mile']	['mile']	0.309760230478
+['two car', '385 mile']	['58 mile']	0.584269096576
+['same point', '385 mile']	['two car']	0.0827346205535
+['same point', '385 mile']	['opposite direction']	0.114574890496
+['same point', '385 mile']	['direction']	0.472720884562
+['same point', '385 mile']	['constant speed']	0.0824069519204
+['same point', '385 mile']	['52 mile']	0.584269096576
+['same point', '385 mile']	['hour']	0.0280768488958
+['same point', '385 mile']	['travels']	0.0774561735493
+['same point', '385 mile']	['mile']	0.527370471356
+['same point', '385 mile']	['58 mile']	0.584269096576
+['opposite direction', '385 mile']	['two car']	0.0827346205535
+['opposite direction', '385 mile']	['same point']	0.114574890496
+['opposite direction', '385 mile']	['direction']	0.612081485761
+['opposite direction', '385 mile']	['constant speed']	0.0824069519204
+['opposite direction', '385 mile']	['52 mile']	0.584269096576
+['opposite direction', '385 mile']	['hour']	0.00424649792755
+['opposite direction', '385 mile']	['travels']	0.0741073489195
+['opposite direction', '385 mile']	['mile']	0.384528877052
+['opposite direction', '385 mile']	['58 mile']	0.584269096576
+['direction', '385 mile']	['two car']	0.0827346205535
+['direction', '385 mile']	['same point']	0.471674872472
+['direction', '385 mile']	['opposite direction']	0.707594685938
+['direction', '385 mile']	['constant speed']	0.0830529202888
+['direction', '385 mile']	['52 mile']	0.538007739106
+['direction', '385 mile']	['hour']	0.278048264287
+['direction', '385 mile']	['travels']	0.192648399091
+['direction', '385 mile']	['mile']	0.682230731736
+['direction', '385 mile']	['58 mile']	0.538007739106
+['constant speed', '385 mile']	['two car']	0.105691884463
+['constant speed', '385 mile']	['same point']	0.0696933362217
+['constant speed', '385 mile']	['opposite direction']	0.0696933362217
+['constant speed', '385 mile']	['direction']	0.0634148935911
+['constant speed', '385 mile']	['52 mile']	0.544221442934
+['constant speed', '385 mile']	['hour']	0.00222717737084
+['constant speed', '385 mile']	['travels']	0.0617470987896
+['constant speed', '385 mile']	['mile']	0.361360527512
+['constant speed', '385 mile']	['58 mile']	0.544221442934
+['52 mile', '385 mile']	['two car']	0.139258682248
+['52 mile', '385 mile']	['same point']	0.139258682248
+['52 mile', '385 mile']	['opposite direction']	0.139258682248
+['52 mile', '385 mile']	['direction']	0.360804929274
+['52 mile', '385 mile']	['constant speed']	0.14699641653
+['52 mile', '385 mile']	['hour']	0.156901862603
+['52 mile', '385 mile']	['travels']	0.345269105941
+['52 mile', '385 mile']	['mile']	0.67956664036
+['52 mile', '385 mile']	['58 mile']	0.637144068101
+['hour', '385 mile']	['two car']	0.0165341599722
+['hour', '385 mile']	['same point']	0.0291783585537
+['hour', '385 mile']	['opposite direction']	0.0154105889865
+['hour', '385 mile']	['direction']	0.275166582013
+['hour', '385 mile']	['constant speed']	0.0187492693053
+['hour', '385 mile']	['52 mile']	0.0852471420558
+['hour', '385 mile']	['travels']	0.244214696286
+['hour', '385 mile']	['mile']	0.53282747888
+['hour', '385 mile']	['58 mile']	0.0852471420558
+['travels', '385 mile']	['two car']	0.0737139440912
+['travels', '385 mile']	['same point']	0.0737139440912
+['travels', '385 mile']	['opposite direction']	0.0703393045902
+['travels', '385 mile']	['direction']	0.211523961879
+['travels', '385 mile']	['constant speed']	0.0753417929659
+['travels', '385 mile']	['52 mile']	0.522652815483
+['travels', '385 mile']	['hour']	0.256059362094
+['travels', '385 mile']	['mile']	0.681036942304
+['travels', '385 mile']	['58 mile']	0.522652815483
+['mile', '385 mile']	['two car']	0.0968024870635
+['mile', '385 mile']	['same point']	0.339609653638
+['mile', '385 mile']	['opposite direction']	0.183197852817
+['mile', '385 mile']	['direction']	0.552459748245
+['mile', '385 mile']	['constant speed']	0.157431377697
+['mile', '385 mile']	['52 mile']	0.638178477636
+['mile', '385 mile']	['hour']	0.578571428571
+['mile', '385 mile']	['travels']	0.406338837076
+['mile', '385 mile']	['58 mile']	0.638178477636
+['58 mile', '385 mile']	['two car']	0.139258682248
+['58 mile', '385 mile']	['same point']	0.139258682248
+['58 mile', '385 mile']	['opposite direction']	0.139258682248
+['58 mile', '385 mile']	['direction']	0.360804929274
+['58 mile', '385 mile']	['constant speed']	0.14699641653
+['58 mile', '385 mile']	['52 mile']	0.637144068101
+['58 mile', '385 mile']	['hour']	0.156901862603
+['58 mile', '385 mile']	['travels']	0.345269105941
+['58 mile', '385 mile']	['mile']	0.67956664036

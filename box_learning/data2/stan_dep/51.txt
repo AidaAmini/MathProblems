@@ -1,0 +1,26 @@
+(ROOT
+  (S
+    (NP (NNP Steve))
+    (VP
+      (VBZ has)
+      (NP
+        (NP (CD 36) (NNS coins))
+        (VP
+          (VBG consisting)
+          (PP (IN of) (NP (NNS dimes) (CC and) (NNS nickels))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (DT the) (NN value))
+          (PP (IN of) (NP (DT the) (NNS coins))))
+        (VP (VBZ is) (NP (CD 3.10) (NNS dollars)))))
+    (, ,)
+    (WHNP
+      (WHADJP (WHADVP (ADVP (RB then)) (WRB how)) (JJ many))
+      (NNS dimes))
+    (SQ (VBZ does) (NP (PRP he)) (VP (VB have)))
+    (. ?)))

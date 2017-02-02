@@ -1,0 +1,45 @@
+(ROOT
+  (S
+    (S
+      (NP (DT A) (NN plane))
+      (VP
+        (VBZ travels)
+        (S
+          (ADJP (JJ due))
+          (NP
+            (NP (NNP East))
+            (PP
+              (NP (QP (IN at) (CD 325)) (NNS miles))
+              (IN per)
+              (NP (NN hour)))))))
+    (CC and)
+    (S
+      (NP (DT another) (NN plane))
+      (VP
+        (VBZ travels)
+        (ADVP (JJ due) (NN west))
+        (PP
+          (IN at)
+          (NP (NP (CD 275) (NNS miles)) (PP (IN per) (NP (NN hour)))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (SBAR
+      (IN If)
+      (S
+        (NP (PRP they))
+        (VP
+          (VBP leave)
+          (PP
+            (PP (IN at) (NP (DT the) (JJ same) (NN time)))
+            (, ,)
+            (CC and)
+            (PP (IN from) (NP (DT the) (JJ same) (NN place)))))))
+    (, ,)
+    (SBARQ
+      (WHPP (IN in) (WHNP (WHADJP (WRB how) (JJ many)) (NNS hours)))
+      (SQ
+        (MD will)
+        (NP (PRP they))
+        (VP (VB be) (ADVP (NP (CD 2100) (NNS miles)) (RB apart)))))
+    (. ?)))

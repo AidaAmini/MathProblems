@@ -1,0 +1,25 @@
+rent ARG0 Goran
+rent MOD will
+rent TMP for the weekend
+rent ARG1 a car
+
+choose ARG0 He
+choose MOD can
+choose ARG1 1 of 2 plans
+
+cost ARG1 The first plan
+have ARG0 The first plan
+have ARG1 an initial fee of 65 dollars
+cost ARG2 an additional 0.40 dollars per mile driven.
+
+have ARG0 The second plan
+have ARG1 no initial fee but costs 0.60 dollars
+
+drive ARG0 Goran
+need ARG0 Goran
+need MOD would Goran
+need ARG1 to drive for the 2 plans to cost the same
+drive ARG2 the 2 plans to cost the same
+cost ARG1 to cost the same
+cost ARG2 the same
+

@@ -1,0 +1,14 @@
+1
+[['-', '35', 'people', '-', '-', 'dollar', '3950'], ['heavy equipment operator', 'x1', '-', 'dollar', '140', '-', '-'], ['general laborer', 'x2', '-', 'dollar', '90', '-', '-']]
+-1
+[['dollar', '35', 'people', '-', '-', 'x2', '3950'], ['heavy equipment operator', 'x1', '-', 'dollar', '140', '-', '-'], ['general laborer', 'x2', '-', 'dollar', '3950', '35', '-']]
+-1
+[['90', '35', 'people', 'x2', '-', 'dollar', '3950'], ['heavy equipment operator', 'x1', '-', 'dollar', '140', '-', '-'], ['dollar', 'x2', 'people', '3950', '90', '35', '-']]
+-1
+[['-', '35', 'people', '-', 'general laborer', 'dollar', '3950'], ['heavy equipment operator', 'x1', '-', 'dollar', '140', '-', '-'], ['general laborer', '3950', '-', 'dollar', 'people', '-', '-']]
+-1
+[['-', '35', 'people', '-', '90', 'x2', '3950'], ['heavy equipment operator', 'x1', '-', 'dollar', '140', '-', '-'], ['people', 'x2', '-', 'dollar', '35', '-', '3950']]
+-1
+[['90', '35', 'people', '-', '-', 'dollar', '3950'], ['heavy equipment operator', 'x1', '-', 'dollar', '140', '-', '-'], ['general laborer', '35', '-', 'dollar', '90', '-', 'people']]
+-1
+[['90', '35', 'people', '-', 'x2', 'dollar', '3950'], ['heavy equipment operator', 'x1', '-', 'dollar', '140', '-', '-'], ['3950', 'x2', '-', 'dollar', '90', '-', 'people']]

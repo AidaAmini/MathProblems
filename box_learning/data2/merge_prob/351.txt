@@ -1,0 +1,536 @@
+['cashier', '126 bill', 'up5-dollar bill', 'bill', 'value', '840 dollar', '5-dollar bill', 'have', '10-dollar bill']
+['cashier']	['126 bill']	0.0901100077042
+['cashier']	['up5-dollar bill']	0.0901100077042
+['cashier']	['bill']	0.108745508027
+['cashier']	['value']	0.0901131505465
+['cashier']	['840 dollar']	0.0901100077042
+['cashier']	['5-dollar bill']	0.0897823390711
+['cashier']	['have']	0.0865655370555
+['cashier']	['10-dollar bill']	0.0897823390711
+['126 bill']	['up5-dollar bill']	0.643440930505
+['126 bill']	['value']	0.133930953416
+['126 bill']	['840 dollar']	0.0901100077042
+['126 bill']	['5-dollar bill']	0.644695369786
+['126 bill']	['have']	0.0831172035382
+['126 bill']	['10-dollar bill']	0.644695369786
+['up5-dollar bill']	['value']	0.133930953416
+['up5-dollar bill']	['840 dollar']	0.0901100077042
+['up5-dollar bill']	['have']	0.0831172035382
+['up5-dollar bill']	['10-dollar bill']	0.644695369786
+['bill']	['value']	0.08819948339
+['bill']	['840 dollar']	0.448288182609
+['bill']	['have']	0.0767194630807
+['value']	['840 dollar']	0.0816612840118
+['value']	['5-dollar bill']	0.17132134852
+['value']	['have']	0.0865655370555
+['value']	['10-dollar bill']	0.17132134852
+['840 dollar']	['5-dollar bill']	0.0897823390711
+['840 dollar']	['have']	0.0774561735493
+['840 dollar']	['10-dollar bill']	0.0897823390711
+['5-dollar bill']	['have']	0.0686220067565
+['5-dollar bill']	['10-dollar bill']	0.636793130373
+['have']	['10-dollar bill']	0.0799362650964
+['126 bill', 'cashier']	['up5-dollar bill']	0.584269096576
+['126 bill', 'cashier']	['bill']	0.716526431933
+['126 bill', 'cashier']	['value']	0.413549469264
+['126 bill', 'cashier']	['840 dollar']	0.0901100077042
+['126 bill', 'cashier']	['5-dollar bill']	0.555532434772
+['126 bill', 'cashier']	['have']	0.113411174639
+['126 bill', 'cashier']	['10-dollar bill']	0.555532434772
+['up5-dollar bill', 'cashier']	['126 bill']	0.584269096576
+['up5-dollar bill', 'cashier']	['bill']	0.714550457738
+['up5-dollar bill', 'cashier']	['value']	0.413549469264
+['up5-dollar bill', 'cashier']	['840 dollar']	0.0901100077042
+['up5-dollar bill', 'cashier']	['5-dollar bill']	0.856363675426
+['up5-dollar bill', 'cashier']	['have']	0.113411174639
+['up5-dollar bill', 'cashier']	['10-dollar bill']	0.555532434772
+['bill', 'cashier']	['126 bill']	0.669973747197
+['bill', 'cashier']	['up5-dollar bill']	0.649177216702
+['bill', 'cashier']	['value']	0.11722689503
+['bill', 'cashier']	['840 dollar']	0.425622645686
+['bill', 'cashier']	['5-dollar bill']	0.566955643962
+['bill', 'cashier']	['have']	0.0767194630807
+['bill', 'cashier']	['10-dollar bill']	0.566955643962
+['value', 'cashier']	['126 bill']	0.199270042535
+['value', 'cashier']	['up5-dollar bill']	0.199270042535
+['value', 'cashier']	['bill']	0.108745508027
+['value', 'cashier']	['840 dollar']	0.0833805889219
+['value', 'cashier']	['5-dollar bill']	0.137148555841
+['value', 'cashier']	['have']	0.0865655370555
+['value', 'cashier']	['10-dollar bill']	0.137148555841
+['840 dollar', 'cashier']	['126 bill']	0.0901100077042
+['840 dollar', 'cashier']	['up5-dollar bill']	0.0901100077042
+['840 dollar', 'cashier']	['bill']	0.627687536993
+['840 dollar', 'cashier']	['value']	0.200637452976
+['840 dollar', 'cashier']	['5-dollar bill']	0.0897823390711
+['840 dollar', 'cashier']	['have']	0.11002432276
+['840 dollar', 'cashier']	['10-dollar bill']	0.0897823390711
+['5-dollar bill', 'cashier']	['126 bill']	0.522652815483
+['5-dollar bill', 'cashier']	['up5-dollar bill']	0.871535325481
+['5-dollar bill', 'cashier']	['bill']	0.609930942492
+['5-dollar bill', 'cashier']	['value']	0.412483799677
+['5-dollar bill', 'cashier']	['840 dollar']	0.0737139440912
+['5-dollar bill', 'cashier']	['have']	0.103565100665
+['5-dollar bill', 'cashier']	['10-dollar bill']	0.540909642042
+['have', 'cashier']	['126 bill']	0.0737139440912
+['have', 'cashier']	['up5-dollar bill']	0.0737139440912
+['have', 'cashier']	['bill']	0.136504272706
+['have', 'cashier']	['value']	0.145371651087
+['have', 'cashier']	['840 dollar']	0.0737139440912
+['have', 'cashier']	['5-dollar bill']	0.0799362650964
+['have', 'cashier']	['10-dollar bill']	0.0799362650964
+['10-dollar bill', 'cashier']	['126 bill']	0.522652815483
+['10-dollar bill', 'cashier']	['up5-dollar bill']	0.522652815483
+['10-dollar bill', 'cashier']	['bill']	0.609930942492
+['10-dollar bill', 'cashier']	['value']	0.412483799677
+['10-dollar bill', 'cashier']	['840 dollar']	0.0737139440912
+['10-dollar bill', 'cashier']	['5-dollar bill']	0.540909642042
+['10-dollar bill', 'cashier']	['have']	0.103565100665
+['cashier', '126 bill']	['up5-dollar bill']	0.584269096576
+['cashier', '126 bill']	['bill']	0.716526431933
+['cashier', '126 bill']	['value']	0.413549469264
+['cashier', '126 bill']	['840 dollar']	0.0901100077042
+['cashier', '126 bill']	['5-dollar bill']	0.555532434772
+['cashier', '126 bill']	['have']	0.113411174639
+['cashier', '126 bill']	['10-dollar bill']	0.555532434772
+['up5-dollar bill', '126 bill']	['cashier']	0.325390866884
+['up5-dollar bill', '126 bill']	['bill']	0.749517001914
+['up5-dollar bill', '126 bill']	['value']	0.471870449747
+['up5-dollar bill', '126 bill']	['840 dollar']	0.139258682248
+['up5-dollar bill', '126 bill']	['5-dollar bill']	0.914021167843
+['up5-dollar bill', '126 bill']	['have']	0.322323177041
+['up5-dollar bill', '126 bill']	['10-dollar bill']	0.653770070968
+['bill', '126 bill']	['cashier']	0.513195570088
+['bill', '126 bill']	['up5-dollar bill']	0.722622429839
+['bill', '126 bill']	['value']	0.613875371953
+['bill', '126 bill']	['840 dollar']	0.577368096785
+['bill', '126 bill']	['5-dollar bill']	0.67043800229
+['bill', '126 bill']	['have']	0.32253293213
+['bill', '126 bill']	['10-dollar bill']	0.67043800229
+['value', '126 bill']	['cashier']	0.177800302008
+['value', '126 bill']	['up5-dollar bill']	0.584918183913
+['value', '126 bill']	['bill']	0.716526431933
+['value', '126 bill']	['840 dollar']	0.0833805889219
+['value', '126 bill']	['5-dollar bill']	0.526353764821
+['value', '126 bill']	['have']	0.113411174639
+['value', '126 bill']	['10-dollar bill']	0.526353764821
+['840 dollar', '126 bill']	['cashier']	0.0777864840342
+['840 dollar', '126 bill']	['up5-dollar bill']	0.584269096576
+['840 dollar', '126 bill']	['bill']	0.697063605216
+['840 dollar', '126 bill']	['value']	0.133930953416
+['840 dollar', '126 bill']	['5-dollar bill']	0.577101062223
+['840 dollar', '126 bill']	['have']	0.0774561735493
+['840 dollar', '126 bill']	['10-dollar bill']	0.577101062223
+['5-dollar bill', '126 bill']	['cashier']	0.311787219466
+['5-dollar bill', '126 bill']	['up5-dollar bill']	0.939680822705
+['5-dollar bill', '126 bill']	['bill']	0.760071154082
+['5-dollar bill', '126 bill']	['value']	0.484107032332
+['5-dollar bill', '126 bill']	['840 dollar']	0.127137811052
+['5-dollar bill', '126 bill']	['have']	0.310411720009
+['5-dollar bill', '126 bill']	['10-dollar bill']	0.640616739236
+['have', '126 bill']	['cashier']	0.0993639400298
+['have', '126 bill']	['up5-dollar bill']	0.522652815483
+['have', '126 bill']	['bill']	0.718256826304
+['have', '126 bill']	['value']	0.194822642579
+['have', '126 bill']	['840 dollar']	0.0737139440912
+['have', '126 bill']	['5-dollar bill']	0.540909642042
+['have', '126 bill']	['10-dollar bill']	0.540909642042
+['10-dollar bill', '126 bill']	['cashier']	0.311787219466
+['10-dollar bill', '126 bill']	['up5-dollar bill']	0.619879171367
+['10-dollar bill', '126 bill']	['bill']	0.760071154082
+['10-dollar bill', '126 bill']	['value']	0.484107032332
+['10-dollar bill', '126 bill']	['840 dollar']	0.127137811052
+['10-dollar bill', '126 bill']	['5-dollar bill']	0.640616739236
+['10-dollar bill', '126 bill']	['have']	0.310411720009
+['cashier', 'up5-dollar bill']	['126 bill']	0.584269096576
+['cashier', 'up5-dollar bill']	['bill']	0.714550457738
+['cashier', 'up5-dollar bill']	['value']	0.413549469264
+['cashier', 'up5-dollar bill']	['840 dollar']	0.0901100077042
+['cashier', 'up5-dollar bill']	['5-dollar bill']	0.856363675426
+['cashier', 'up5-dollar bill']	['have']	0.113411174639
+['cashier', 'up5-dollar bill']	['10-dollar bill']	0.555532434772
+['126 bill', 'up5-dollar bill']	['cashier']	0.325390866884
+['126 bill', 'up5-dollar bill']	['bill']	0.749517001914
+['126 bill', 'up5-dollar bill']	['value']	0.471870449747
+['126 bill', 'up5-dollar bill']	['840 dollar']	0.139258682248
+['126 bill', 'up5-dollar bill']	['5-dollar bill']	0.914021167843
+['126 bill', 'up5-dollar bill']	['have']	0.322323177041
+['126 bill', 'up5-dollar bill']	['10-dollar bill']	0.653770070968
+['bill', 'up5-dollar bill']	['cashier']	0.513195570088
+['bill', 'up5-dollar bill']	['126 bill']	0.782259204304
+['bill', 'up5-dollar bill']	['value']	0.613875371953
+['bill', 'up5-dollar bill']	['840 dollar']	0.577368096785
+['bill', 'up5-dollar bill']	['5-dollar bill']	0.652238375202
+['bill', 'up5-dollar bill']	['have']	0.32253293213
+['bill', 'up5-dollar bill']	['10-dollar bill']	0.67043800229
+['value', 'up5-dollar bill']	['cashier']	0.177800302008
+['value', 'up5-dollar bill']	['126 bill']	0.584918183913
+['value', 'up5-dollar bill']	['bill']	0.714550457738
+['value', 'up5-dollar bill']	['840 dollar']	0.0833805889219
+['value', 'up5-dollar bill']	['5-dollar bill']	0.663436075582
+['value', 'up5-dollar bill']	['have']	0.113411174639
+['value', 'up5-dollar bill']	['10-dollar bill']	0.526353764821
+['840 dollar', 'up5-dollar bill']	['cashier']	0.0777864840342
+['840 dollar', 'up5-dollar bill']	['126 bill']	0.584269096576
+['840 dollar', 'up5-dollar bill']	['bill']	0.662295432995
+['840 dollar', 'up5-dollar bill']	['value']	0.133930953416
+['840 dollar', 'up5-dollar bill']	['5-dollar bill']	0.876734045796
+['840 dollar', 'up5-dollar bill']	['have']	0.0774561735493
+['840 dollar', 'up5-dollar bill']	['10-dollar bill']	0.577101062223
+['5-dollar bill', 'up5-dollar bill']	['cashier']	0.311787219466
+['5-dollar bill', 'up5-dollar bill']	['126 bill']	0.619879171367
+['5-dollar bill', 'up5-dollar bill']	['bill']	0.560363916212
+['5-dollar bill', 'up5-dollar bill']	['value']	0.484107032332
+['5-dollar bill', 'up5-dollar bill']	['840 dollar']	0.127137811052
+['5-dollar bill', 'up5-dollar bill']	['have']	0.310411720009
+['5-dollar bill', 'up5-dollar bill']	['10-dollar bill']	0.640616739236
+['have', 'up5-dollar bill']	['cashier']	0.0993639400298
+['have', 'up5-dollar bill']	['126 bill']	0.522652815483
+['have', 'up5-dollar bill']	['bill']	0.609546246472
+['have', 'up5-dollar bill']	['value']	0.194822642579
+['have', 'up5-dollar bill']	['840 dollar']	0.0737139440912
+['have', 'up5-dollar bill']	['5-dollar bill']	0.850957945961
+['have', 'up5-dollar bill']	['10-dollar bill']	0.540909642042
+['10-dollar bill', 'up5-dollar bill']	['cashier']	0.311787219466
+['10-dollar bill', 'up5-dollar bill']	['126 bill']	0.619879171367
+['10-dollar bill', 'up5-dollar bill']	['bill']	0.560363916212
+['10-dollar bill', 'up5-dollar bill']	['value']	0.484107032332
+['10-dollar bill', 'up5-dollar bill']	['840 dollar']	0.127137811052
+['10-dollar bill', 'up5-dollar bill']	['5-dollar bill']	0.866983928392
+['10-dollar bill', 'up5-dollar bill']	['have']	0.310411720009
+['cashier', 'bill']	['126 bill']	0.669973747197
+['cashier', 'bill']	['up5-dollar bill']	0.649177216702
+['cashier', 'bill']	['value']	0.11722689503
+['cashier', 'bill']	['840 dollar']	0.425622645686
+['cashier', 'bill']	['5-dollar bill']	0.566955643962
+['cashier', 'bill']	['have']	0.0767194630807
+['cashier', 'bill']	['10-dollar bill']	0.566955643962
+['126 bill', 'bill']	['cashier']	0.513195570088
+['126 bill', 'bill']	['up5-dollar bill']	0.722622429839
+['126 bill', 'bill']	['value']	0.613875371953
+['126 bill', 'bill']	['840 dollar']	0.577368096785
+['126 bill', 'bill']	['5-dollar bill']	0.67043800229
+['126 bill', 'bill']	['have']	0.32253293213
+['126 bill', 'bill']	['10-dollar bill']	0.67043800229
+['up5-dollar bill', 'bill']	['cashier']	0.513195570088
+['up5-dollar bill', 'bill']	['126 bill']	0.782259204304
+['up5-dollar bill', 'bill']	['value']	0.613875371953
+['up5-dollar bill', 'bill']	['840 dollar']	0.577368096785
+['up5-dollar bill', 'bill']	['5-dollar bill']	0.652238375202
+['up5-dollar bill', 'bill']	['have']	0.32253293213
+['up5-dollar bill', 'bill']	['10-dollar bill']	0.67043800229
+['value', 'bill']	['cashier']	0.159224278685
+['value', 'bill']	['126 bill']	0.80103569412
+['value', 'bill']	['up5-dollar bill']	0.739522119332
+['value', 'bill']	['840 dollar']	0.47378733211
+['value', 'bill']	['5-dollar bill']	0.641139286062
+['value', 'bill']	['have']	0.0767194630807
+['value', 'bill']	['10-dollar bill']	0.641139286062
+['840 dollar', 'bill']	['cashier']	0.161573942014
+['840 dollar', 'bill']	['126 bill']	0.669973747197
+['840 dollar', 'bill']	['up5-dollar bill']	0.659403281276
+['840 dollar', 'bill']	['value']	0.178647747315
+['840 dollar', 'bill']	['5-dollar bill']	0.600226976026
+['840 dollar', 'bill']	['have']	0.102313195437
+['840 dollar', 'bill']	['10-dollar bill']	0.600226976026
+['5-dollar bill', 'bill']	['cashier']	0.571071676283
+['5-dollar bill', 'bill']	['126 bill']	0.789825666472
+['5-dollar bill', 'bill']	['up5-dollar bill']	0.746125543937
+['5-dollar bill', 'bill']	['value']	0.638418144815
+['5-dollar bill', 'bill']	['840 dollar']	0.603603496605
+['5-dollar bill', 'bill']	['have']	0.373311104811
+['5-dollar bill', 'bill']	['10-dollar bill']	0.711832780527
+['have', 'bill']	['cashier']	0.191216764051
+['have', 'bill']	['126 bill']	0.669973747197
+['have', 'bill']	['up5-dollar bill']	0.660396441234
+['have', 'bill']	['value']	0.174566104452
+['have', 'bill']	['840 dollar']	0.451548571612
+['have', 'bill']	['5-dollar bill']	0.608350422199
+['have', 'bill']	['10-dollar bill']	0.608350422199
+['10-dollar bill', 'bill']	['cashier']	0.571071676283
+['10-dollar bill', 'bill']	['126 bill']	0.789825666472
+['10-dollar bill', 'bill']	['up5-dollar bill']	0.733841654371
+['10-dollar bill', 'bill']	['value']	0.638418144815
+['10-dollar bill', 'bill']	['840 dollar']	0.603603496605
+['10-dollar bill', 'bill']	['5-dollar bill']	0.711832780527
+['10-dollar bill', 'bill']	['have']	0.373311104811
+['cashier', 'value']	['126 bill']	0.199270042535
+['cashier', 'value']	['up5-dollar bill']	0.199270042535
+['cashier', 'value']	['bill']	0.108745508027
+['cashier', 'value']	['840 dollar']	0.0833805889219
+['cashier', 'value']	['5-dollar bill']	0.137148555841
+['cashier', 'value']	['have']	0.0865655370555
+['cashier', 'value']	['10-dollar bill']	0.137148555841
+['126 bill', 'value']	['cashier']	0.177800302008
+['126 bill', 'value']	['up5-dollar bill']	0.584918183913
+['126 bill', 'value']	['bill']	0.716526431933
+['126 bill', 'value']	['840 dollar']	0.0833805889219
+['126 bill', 'value']	['5-dollar bill']	0.526353764821
+['126 bill', 'value']	['have']	0.113411174639
+['126 bill', 'value']	['10-dollar bill']	0.526353764821
+['up5-dollar bill', 'value']	['cashier']	0.177800302008
+['up5-dollar bill', 'value']	['126 bill']	0.584918183913
+['up5-dollar bill', 'value']	['bill']	0.714550457738
+['up5-dollar bill', 'value']	['840 dollar']	0.0833805889219
+['up5-dollar bill', 'value']	['5-dollar bill']	0.663436075582
+['up5-dollar bill', 'value']	['have']	0.113411174639
+['up5-dollar bill', 'value']	['10-dollar bill']	0.526353764821
+['bill', 'value']	['cashier']	0.159224278685
+['bill', 'value']	['126 bill']	0.80103569412
+['bill', 'value']	['up5-dollar bill']	0.739522119332
+['bill', 'value']	['840 dollar']	0.47378733211
+['bill', 'value']	['5-dollar bill']	0.641139286062
+['bill', 'value']	['have']	0.0767194630807
+['bill', 'value']	['10-dollar bill']	0.641139286062
+['840 dollar', 'value']	['cashier']	0.169023424553
+['840 dollar', 'value']	['126 bill']	0.199270042535
+['840 dollar', 'value']	['up5-dollar bill']	0.199270042535
+['840 dollar', 'value']	['bill']	0.627687536993
+['840 dollar', 'value']	['5-dollar bill']	0.137148555841
+['840 dollar', 'value']	['have']	0.11002432276
+['840 dollar', 'value']	['10-dollar bill']	0.137148555841
+['5-dollar bill', 'value']	['cashier']	0.182762001964
+['5-dollar bill', 'value']	['126 bill']	0.504681233194
+['5-dollar bill', 'value']	['up5-dollar bill']	0.674904021933
+['5-dollar bill', 'value']	['bill']	0.609930942492
+['5-dollar bill', 'value']	['840 dollar']	0.0703393045902
+['5-dollar bill', 'value']	['have']	0.103565100665
+['5-dollar bill', 'value']	['10-dollar bill']	0.518059216094
+['have', 'value']	['cashier']	0.145371651087
+['have', 'value']	['126 bill']	0.130048808393
+['have', 'value']	['up5-dollar bill']	0.130048808393
+['have', 'value']	['bill']	0.119853613107
+['have', 'value']	['840 dollar']	0.0703393045902
+['have', 'value']	['5-dollar bill']	0.129212029601
+['have', 'value']	['10-dollar bill']	0.129212029601
+['10-dollar bill', 'value']	['cashier']	0.182762001964
+['10-dollar bill', 'value']	['126 bill']	0.504681233194
+['10-dollar bill', 'value']	['up5-dollar bill']	0.504681233194
+['10-dollar bill', 'value']	['bill']	0.609930942492
+['10-dollar bill', 'value']	['840 dollar']	0.0703393045902
+['10-dollar bill', 'value']	['5-dollar bill']	0.518059216094
+['10-dollar bill', 'value']	['have']	0.103565100665
+['cashier', '840 dollar']	['126 bill']	0.0901100077042
+['cashier', '840 dollar']	['up5-dollar bill']	0.0901100077042
+['cashier', '840 dollar']	['bill']	0.627687536993
+['cashier', '840 dollar']	['value']	0.200637452976
+['cashier', '840 dollar']	['5-dollar bill']	0.0897823390711
+['cashier', '840 dollar']	['have']	0.11002432276
+['cashier', '840 dollar']	['10-dollar bill']	0.0897823390711
+['126 bill', '840 dollar']	['cashier']	0.0777864840342
+['126 bill', '840 dollar']	['up5-dollar bill']	0.584269096576
+['126 bill', '840 dollar']	['bill']	0.697063605216
+['126 bill', '840 dollar']	['value']	0.133930953416
+['126 bill', '840 dollar']	['5-dollar bill']	0.577101062223
+['126 bill', '840 dollar']	['have']	0.0774561735493
+['126 bill', '840 dollar']	['10-dollar bill']	0.577101062223
+['up5-dollar bill', '840 dollar']	['cashier']	0.0777864840342
+['up5-dollar bill', '840 dollar']	['126 bill']	0.584269096576
+['up5-dollar bill', '840 dollar']	['bill']	0.662295432995
+['up5-dollar bill', '840 dollar']	['value']	0.133930953416
+['up5-dollar bill', '840 dollar']	['5-dollar bill']	0.876734045796
+['up5-dollar bill', '840 dollar']	['have']	0.0774561735493
+['up5-dollar bill', '840 dollar']	['10-dollar bill']	0.577101062223
+['bill', '840 dollar']	['cashier']	0.161573942014
+['bill', '840 dollar']	['126 bill']	0.669973747197
+['bill', '840 dollar']	['up5-dollar bill']	0.659403281276
+['bill', '840 dollar']	['value']	0.178647747315
+['bill', '840 dollar']	['5-dollar bill']	0.600226976026
+['bill', '840 dollar']	['have']	0.102313195437
+['bill', '840 dollar']	['10-dollar bill']	0.600226976026
+['value', '840 dollar']	['cashier']	0.169023424553
+['value', '840 dollar']	['126 bill']	0.199270042535
+['value', '840 dollar']	['up5-dollar bill']	0.199270042535
+['value', '840 dollar']	['bill']	0.627687536993
+['value', '840 dollar']	['5-dollar bill']	0.137148555841
+['value', '840 dollar']	['have']	0.11002432276
+['value', '840 dollar']	['10-dollar bill']	0.137148555841
+['5-dollar bill', '840 dollar']	['cashier']	0.0667637182209
+['5-dollar bill', '840 dollar']	['126 bill']	0.544221442934
+['5-dollar bill', '840 dollar']	['up5-dollar bill']	0.891905695852
+['5-dollar bill', '840 dollar']	['bill']	0.594921557803
+['5-dollar bill', '840 dollar']	['value']	0.136598783768
+['5-dollar bill', '840 dollar']	['have']	0.0650959234194
+['5-dollar bill', '840 dollar']	['10-dollar bill']	0.562478269493
+['have', '840 dollar']	['cashier']	0.0993318674318
+['have', '840 dollar']	['126 bill']	0.0737139440912
+['have', '840 dollar']	['up5-dollar bill']	0.0737139440912
+['have', '840 dollar']	['bill']	0.506684808956
+['have', '840 dollar']	['value']	0.096660508204
+['have', '840 dollar']	['5-dollar bill']	0.0799362650964
+['have', '840 dollar']	['10-dollar bill']	0.0799362650964
+['10-dollar bill', '840 dollar']	['cashier']	0.0667637182209
+['10-dollar bill', '840 dollar']	['126 bill']	0.544221442934
+['10-dollar bill', '840 dollar']	['up5-dollar bill']	0.544221442934
+['10-dollar bill', '840 dollar']	['bill']	0.594921557803
+['10-dollar bill', '840 dollar']	['value']	0.136598783768
+['10-dollar bill', '840 dollar']	['5-dollar bill']	0.562478269493
+['10-dollar bill', '840 dollar']	['have']	0.0650959234194
+['cashier', '5-dollar bill']	['126 bill']	0.522652815483
+['cashier', '5-dollar bill']	['up5-dollar bill']	0.871535325481
+['cashier', '5-dollar bill']	['bill']	0.609930942492
+['cashier', '5-dollar bill']	['value']	0.412483799677
+['cashier', '5-dollar bill']	['840 dollar']	0.0737139440912
+['cashier', '5-dollar bill']	['have']	0.103565100665
+['cashier', '5-dollar bill']	['10-dollar bill']	0.540909642042
+['126 bill', '5-dollar bill']	['cashier']	0.311787219466
+['126 bill', '5-dollar bill']	['up5-dollar bill']	0.939680822705
+['126 bill', '5-dollar bill']	['bill']	0.760071154082
+['126 bill', '5-dollar bill']	['value']	0.484107032332
+['126 bill', '5-dollar bill']	['840 dollar']	0.127137811052
+['126 bill', '5-dollar bill']	['have']	0.310411720009
+['126 bill', '5-dollar bill']	['10-dollar bill']	0.640616739236
+['up5-dollar bill', '5-dollar bill']	['cashier']	0.311787219466
+['up5-dollar bill', '5-dollar bill']	['126 bill']	0.619879171367
+['up5-dollar bill', '5-dollar bill']	['bill']	0.560363916212
+['up5-dollar bill', '5-dollar bill']	['value']	0.484107032332
+['up5-dollar bill', '5-dollar bill']	['840 dollar']	0.127137811052
+['up5-dollar bill', '5-dollar bill']	['have']	0.310411720009
+['up5-dollar bill', '5-dollar bill']	['10-dollar bill']	0.640616739236
+['bill', '5-dollar bill']	['cashier']	0.571071676283
+['bill', '5-dollar bill']	['126 bill']	0.789825666472
+['bill', '5-dollar bill']	['up5-dollar bill']	0.746125543937
+['bill', '5-dollar bill']	['value']	0.638418144815
+['bill', '5-dollar bill']	['840 dollar']	0.603603496605
+['bill', '5-dollar bill']	['have']	0.373311104811
+['bill', '5-dollar bill']	['10-dollar bill']	0.711832780527
+['value', '5-dollar bill']	['cashier']	0.182762001964
+['value', '5-dollar bill']	['126 bill']	0.504681233194
+['value', '5-dollar bill']	['up5-dollar bill']	0.674904021933
+['value', '5-dollar bill']	['bill']	0.609930942492
+['value', '5-dollar bill']	['840 dollar']	0.0703393045902
+['value', '5-dollar bill']	['have']	0.103565100665
+['value', '5-dollar bill']	['10-dollar bill']	0.518059216094
+['840 dollar', '5-dollar bill']	['cashier']	0.0667637182209
+['840 dollar', '5-dollar bill']	['126 bill']	0.544221442934
+['840 dollar', '5-dollar bill']	['up5-dollar bill']	0.891905695852
+['840 dollar', '5-dollar bill']	['bill']	0.594921557803
+['840 dollar', '5-dollar bill']	['value']	0.136598783768
+['840 dollar', '5-dollar bill']	['have']	0.0650959234194
+['840 dollar', '5-dollar bill']	['10-dollar bill']	0.562478269493
+['have', '5-dollar bill']	['cashier']	0.161441787712
+['have', '5-dollar bill']	['126 bill']	0.559167556146
+['have', '5-dollar bill']	['up5-dollar bill']	0.871535325481
+['have', '5-dollar bill']	['bill']	0.640918795492
+['have', '5-dollar bill']	['value']	0.225546864921
+['have', '5-dollar bill']	['840 dollar']	0.135791791773
+['have', '5-dollar bill']	['10-dollar bill']	0.577424382705
+['10-dollar bill', '5-dollar bill']	['cashier']	0.362565392148
+['10-dollar bill', '5-dollar bill']	['126 bill']	0.633981735469
+['10-dollar bill', '5-dollar bill']	['up5-dollar bill']	0.939680822705
+['10-dollar bill', '5-dollar bill']	['bill']	0.591736465232
+['10-dollar bill', '5-dollar bill']	['value']	0.508649805193
+['10-dollar bill', '5-dollar bill']	['840 dollar']	0.177915983734
+['10-dollar bill', '5-dollar bill']	['have']	0.36118989269
+['cashier', 'have']	['126 bill']	0.0737139440912
+['cashier', 'have']	['up5-dollar bill']	0.0737139440912
+['cashier', 'have']	['bill']	0.136504272706
+['cashier', 'have']	['value']	0.145371651087
+['cashier', 'have']	['840 dollar']	0.0737139440912
+['cashier', 'have']	['5-dollar bill']	0.0799362650964
+['cashier', 'have']	['10-dollar bill']	0.0799362650964
+['126 bill', 'have']	['cashier']	0.0993639400298
+['126 bill', 'have']	['up5-dollar bill']	0.522652815483
+['126 bill', 'have']	['bill']	0.718256826304
+['126 bill', 'have']	['value']	0.194822642579
+['126 bill', 'have']	['840 dollar']	0.0737139440912
+['126 bill', 'have']	['5-dollar bill']	0.540909642042
+['126 bill', 'have']	['10-dollar bill']	0.540909642042
+['up5-dollar bill', 'have']	['cashier']	0.0993639400298
+['up5-dollar bill', 'have']	['126 bill']	0.522652815483
+['up5-dollar bill', 'have']	['bill']	0.609546246472
+['up5-dollar bill', 'have']	['value']	0.194822642579
+['up5-dollar bill', 'have']	['840 dollar']	0.0737139440912
+['up5-dollar bill', 'have']	['5-dollar bill']	0.850957945961
+['up5-dollar bill', 'have']	['10-dollar bill']	0.540909642042
+['bill', 'have']	['cashier']	0.191216764051
+['bill', 'have']	['126 bill']	0.669973747197
+['bill', 'have']	['up5-dollar bill']	0.660396441234
+['bill', 'have']	['value']	0.174566104452
+['bill', 'have']	['840 dollar']	0.451548571612
+['bill', 'have']	['5-dollar bill']	0.608350422199
+['bill', 'have']	['10-dollar bill']	0.608350422199
+['value', 'have']	['cashier']	0.145371651087
+['value', 'have']	['126 bill']	0.130048808393
+['value', 'have']	['up5-dollar bill']	0.130048808393
+['value', 'have']	['bill']	0.119853613107
+['value', 'have']	['840 dollar']	0.0703393045902
+['value', 'have']	['5-dollar bill']	0.129212029601
+['value', 'have']	['10-dollar bill']	0.129212029601
+['840 dollar', 'have']	['cashier']	0.0993318674318
+['840 dollar', 'have']	['126 bill']	0.0737139440912
+['840 dollar', 'have']	['up5-dollar bill']	0.0737139440912
+['840 dollar', 'have']	['bill']	0.506684808956
+['840 dollar', 'have']	['value']	0.096660508204
+['840 dollar', 'have']	['5-dollar bill']	0.0799362650964
+['840 dollar', 'have']	['10-dollar bill']	0.0799362650964
+['5-dollar bill', 'have']	['cashier']	0.161441787712
+['5-dollar bill', 'have']	['126 bill']	0.559167556146
+['5-dollar bill', 'have']	['up5-dollar bill']	0.871535325481
+['5-dollar bill', 'have']	['bill']	0.640918795492
+['5-dollar bill', 'have']	['value']	0.225546864921
+['5-dollar bill', 'have']	['840 dollar']	0.135791791773
+['5-dollar bill', 'have']	['10-dollar bill']	0.577424382705
+['10-dollar bill', 'have']	['cashier']	0.161441787712
+['10-dollar bill', 'have']	['126 bill']	0.559167556146
+['10-dollar bill', 'have']	['up5-dollar bill']	0.559167556146
+['10-dollar bill', 'have']	['bill']	0.640918795492
+['10-dollar bill', 'have']	['value']	0.225546864921
+['10-dollar bill', 'have']	['840 dollar']	0.135791791773
+['10-dollar bill', 'have']	['5-dollar bill']	0.577424382705
+['cashier', '10-dollar bill']	['126 bill']	0.522652815483
+['cashier', '10-dollar bill']	['up5-dollar bill']	0.522652815483
+['cashier', '10-dollar bill']	['bill']	0.609930942492
+['cashier', '10-dollar bill']	['value']	0.412483799677
+['cashier', '10-dollar bill']	['840 dollar']	0.0737139440912
+['cashier', '10-dollar bill']	['5-dollar bill']	0.540909642042
+['cashier', '10-dollar bill']	['have']	0.103565100665
+['126 bill', '10-dollar bill']	['cashier']	0.311787219466
+['126 bill', '10-dollar bill']	['up5-dollar bill']	0.619879171367
+['126 bill', '10-dollar bill']	['bill']	0.760071154082
+['126 bill', '10-dollar bill']	['value']	0.484107032332
+['126 bill', '10-dollar bill']	['840 dollar']	0.127137811052
+['126 bill', '10-dollar bill']	['5-dollar bill']	0.640616739236
+['126 bill', '10-dollar bill']	['have']	0.310411720009
+['up5-dollar bill', '10-dollar bill']	['cashier']	0.311787219466
+['up5-dollar bill', '10-dollar bill']	['126 bill']	0.619879171367
+['up5-dollar bill', '10-dollar bill']	['bill']	0.560363916212
+['up5-dollar bill', '10-dollar bill']	['value']	0.484107032332
+['up5-dollar bill', '10-dollar bill']	['840 dollar']	0.127137811052
+['up5-dollar bill', '10-dollar bill']	['5-dollar bill']	0.866983928392
+['up5-dollar bill', '10-dollar bill']	['have']	0.310411720009
+['bill', '10-dollar bill']	['cashier']	0.571071676283
+['bill', '10-dollar bill']	['126 bill']	0.789825666472
+['bill', '10-dollar bill']	['up5-dollar bill']	0.733841654371
+['bill', '10-dollar bill']	['value']	0.638418144815
+['bill', '10-dollar bill']	['840 dollar']	0.603603496605
+['bill', '10-dollar bill']	['5-dollar bill']	0.711832780527
+['bill', '10-dollar bill']	['have']	0.373311104811
+['value', '10-dollar bill']	['cashier']	0.182762001964
+['value', '10-dollar bill']	['126 bill']	0.504681233194
+['value', '10-dollar bill']	['up5-dollar bill']	0.504681233194
+['value', '10-dollar bill']	['bill']	0.609930942492
+['value', '10-dollar bill']	['840 dollar']	0.0703393045902
+['value', '10-dollar bill']	['5-dollar bill']	0.518059216094
+['value', '10-dollar bill']	['have']	0.103565100665
+['840 dollar', '10-dollar bill']	['cashier']	0.0667637182209
+['840 dollar', '10-dollar bill']	['126 bill']	0.544221442934
+['840 dollar', '10-dollar bill']	['up5-dollar bill']	0.544221442934
+['840 dollar', '10-dollar bill']	['bill']	0.594921557803
+['840 dollar', '10-dollar bill']	['value']	0.136598783768
+['840 dollar', '10-dollar bill']	['5-dollar bill']	0.562478269493
+['840 dollar', '10-dollar bill']	['have']	0.0650959234194
+['5-dollar bill', '10-dollar bill']	['cashier']	0.362565392148
+['5-dollar bill', '10-dollar bill']	['126 bill']	0.633981735469
+['5-dollar bill', '10-dollar bill']	['up5-dollar bill']	0.939680822705
+['5-dollar bill', '10-dollar bill']	['bill']	0.591736465232
+['5-dollar bill', '10-dollar bill']	['value']	0.508649805193
+['5-dollar bill', '10-dollar bill']	['840 dollar']	0.177915983734
+['5-dollar bill', '10-dollar bill']	['have']	0.36118989269
+['have', '10-dollar bill']	['cashier']	0.161441787712
+['have', '10-dollar bill']	['126 bill']	0.559167556146
+['have', '10-dollar bill']	['up5-dollar bill']	0.559167556146
+['have', '10-dollar bill']	['bill']	0.640918795492
+['have', '10-dollar bill']	['value']	0.225546864921
+['have', '10-dollar bill']	['840 dollar']	0.135791791773
+['have', '10-dollar bill']	['5-dollar bill']	0.577424382705

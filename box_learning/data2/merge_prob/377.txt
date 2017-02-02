@@ -1,0 +1,31 @@
+['of boy', 'eighth grade', 'of girl', '68 student']
+['of boy']	['eighth grade']	0.0897823390711
+['of boy']	['of girl']	0.0901100077042
+['of boy']	['68 student']	0.0901100077042
+['eighth grade']	['of girl']	0.0737139440912
+['eighth grade']	['68 student']	0.0737139440912
+['of girl']	['68 student']	0.0901100077042
+['eighth grade', 'of boy']	['of girl']	0.0737139440912
+['eighth grade', 'of boy']	['68 student']	0.0737139440912
+['of girl', 'of boy']	['eighth grade']	0.0897823390711
+['of girl', 'of boy']	['68 student']	0.0901100077042
+['68 student', 'of boy']	['eighth grade']	0.0897823390711
+['68 student', 'of boy']	['of girl']	0.0901100077042
+['of boy', 'eighth grade']	['of girl']	0.0737139440912
+['of boy', 'eighth grade']	['68 student']	0.0737139440912
+['of girl', 'eighth grade']	['of boy']	0.0737139440912
+['of girl', 'eighth grade']	['68 student']	0.0737139440912
+['68 student', 'eighth grade']	['of boy']	0.0737139440912
+['68 student', 'eighth grade']	['of girl']	0.0737139440912
+['of boy', 'of girl']	['eighth grade']	0.0897823390711
+['of boy', 'of girl']	['68 student']	0.0901100077042
+['eighth grade', 'of girl']	['of boy']	0.0737139440912
+['eighth grade', 'of girl']	['68 student']	0.0737139440912
+['68 student', 'of girl']	['of boy']	0.0901100077042
+['68 student', 'of girl']	['eighth grade']	0.0897823390711
+['of boy', '68 student']	['eighth grade']	0.0897823390711
+['of boy', '68 student']	['of girl']	0.0901100077042
+['eighth grade', '68 student']	['of boy']	0.0737139440912
+['eighth grade', '68 student']	['of girl']	0.0737139440912
+['of girl', '68 student']	['of boy']	0.0901100077042
+['of girl', '68 student']	['eighth grade']	0.0897823390711

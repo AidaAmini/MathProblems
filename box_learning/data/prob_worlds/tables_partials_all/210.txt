@@ -1,0 +1,298 @@
+1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['child', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['child', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['adult', '-', '-', '-'], ['child', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['child', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['-', '-', 'dollar', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['child', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['child', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['adult', '-', '-', '-'], ['child', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['child', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['-', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['moviegoer', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+1
+[['-', '-', '-', '-'], ['-', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', '-', 'adult', 'dollar'], ['adult', 'child', 'dollar', 'moviegoer'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', 'child', '-', 'dollar'], ['moviegoer', '-', 'dollar', '-'], ['child', 'moviegoer', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', 'moviegoer']]
+-1
+[['moviegoer', '-', '-', 'child'], ['adult', 'child', 'moviegoer', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'adult'], ['adult', 'moviegoer', 'dollar', 'child'], ['child', '-', 'dollar', '-']]
+-1
+[['ticket', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['-', 'adult', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'adult'], ['adult', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-']]
+-1
+[['-', '-', 'adult', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', 'adult', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult', 'child', 'dollar', '-'], ['child', '-', 'adult', '-']]
+-1
+[['-', 'adult', '-', 'dollar'], ['adult', '-', 'dollar', 'child'], ['child', '-', 'dollar', '-']]
+-1
+[['-', '-', '-', 'movie theater'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', 'dollar', '-', '-'], ['adult', '-', 'child', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', 'adult', '-'], ['adult', '-', 'dollar', '-'], ['child', 'adult', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'adult'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', 'moviegoer']]
+-1
+[['moviegoer', '-', 'adult', '-'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', 'moviegoer']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['child', 'adult', 'moviegoer', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['child', '-', 'dollar', 'movie theater']]
+-1
+[['moviegoer', '-', 'dollar', 'child'], ['-', '-', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', 'moviegoer'], ['child', 'moviegoer', 'dollar', '-']]
+-1
+[['moviegoer', 'child', '-', 'dollar'], ['-', '-', 'dollar', 'child'], ['child', '-', 'dollar', '-']]
+-1
+[['child', '-', '-', 'dollar'], ['-', '-', 'child', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['child', '-', '-', 'dollar'], ['-', '-', 'dollar', 'child'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', 'movie theater'], ['child', '-', 'dollar', '-']]
+-1
+[['child', '-', '-', 'dollar'], ['adult', '-', 'child', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', 'child', '-', '-'], ['child', '-', 'moviegoer', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['moviegoer', '-', '-', '-'], ['child', '-', 'moviegoer', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['child', '-', '-', '-'], ['child', 'adult', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'child'], ['dollar', '-', '-', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['ticket', '-', '-', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['moviegoer', '-', 'dollar', '-'], ['-', '-', 'dollar', 'moviegoer']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', 'moviegoer', 'dollar', '-'], ['moviegoer', '-', 'dollar', '-']]
+-1
+[['adult', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', 'adult', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', 'moviegoer'], ['adult', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', 'moviegoer', 'dollar', '-'], ['-', '-', 'dollar', 'moviegoer']]
+-1
+[['moviegoer', 'ticket', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['adult', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['moviegoer', '-', 'child', 'dollar'], ['adult', '-', 'dollar', 'child'], ['child', '-', '-', '-']]
+-1
+[['adult', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', 'dollar', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['adult', '-', '-', 'dollar']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', 'child', 'dollar', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['movie theater', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+-1
+[['-', 'child', '-', 'dollar'], ['child', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+-1
+[['-', 'child', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['adult', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'child'], ['adult', '-', 'dollar', '-'], ['child', '-', '-', 'dollar']]
+-1
+[['-', '-', 'child', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', 'dollar', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult', 'ticket', 'dollar', '-'], ['child', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', 'child', 'moviegoer', '-'], ['child', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', 'moviegoer', 'dollar', '-'], ['child', '-', '-', 'adult']]
+-1
+[['moviegoer', '-', 'dollar', '-'], ['adult', '-', 'dollar', 'child'], ['child', '-', '-', '-']]
+-1
+[['moviegoer', '-', 'dollar', '-'], ['adult', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+-1
+[['child', '-', '-', '-'], ['moviegoer', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['child', '-', 'adult and child', '-']]
+-1
+[['moviegoer', 'child', '-', 'dollar'], ['-', '-', 'dollar', 'moviegoer'], ['child', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['moviegoer', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', 'moviegoer'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', 'child', 'dollar'], ['-', '-', 'dollar', 'child'], ['child', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['moviegoer', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['child', '-', '-', 'ticket']]
+-1
+[['adult', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['child', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', 'adult', 'dollar'], ['adult', '-', 'dollar', '-'], ['child', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'child', '-'], ['child', 'dollar', '-', '-']]
+-1
+[['moviegoer', '-', 'adult', 'dollar'], ['adult', '-', '-', '-'], ['child', '-', 'moviegoer', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['moviegoer', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', 'movie theater', '-', '-'], ['child', '-', '-', '-']]
+-1
+[['adult', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', 'adult', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['dollar', 'moviegoer', '-', '-']]
+-1
+[['moviegoer', 'adult', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', 'adult']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['moviegoer', '-', 'dollar', '-'], ['-', '-', 'dollar', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['moviegoer', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['moviegoer', '-', '-', 'ticket'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['-', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['adult', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', 'adult', 'dollar'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult', '-', 'dollar', '-'], ['adult', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['-', 'adult', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'moviegoer', '-'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', 'adult']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', 'dollar', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', 'moviegoer'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['moviegoer', '-', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', 'moviegoer', 'dollar', '-'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['dollar', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', 'dollar', '-'], ['-', 'moviegoer', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', 'dollar', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['adult', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['-', 'adult', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['moviegoer', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', 'adult', 'dollar'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['-', '-', '-', 'adult']]
+-1
+[['-', 'adult', '-', 'dollar'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'adult'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['-', '-', '-', 'dollar'], ['adult', '-', '-', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', '-', '-'], ['-', 'adult', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', '-', '-', '-'], ['adult', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'adult'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', 'adult', '-', '-'], ['adult', '-', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', '-'], ['adult', 'moviegoer', '-', '-'], ['-', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['dollar', '-', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', 'dollar', '-', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', '-', 'dollar']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', '-', '-'], ['-', '-', 'moviegoer', '-']]
+-1
+[['moviegoer', '-', '-', 'dollar'], ['-', '-', '-', 'dollar'], ['-', '-', '-', '-']]

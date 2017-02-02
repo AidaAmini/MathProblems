@@ -1,0 +1,14 @@
+1
+[['5 % hydrogen peroxide solution', '300', 'milliliter', '%', '5', '-', '-'], ['7 % hydrogen peroxide solution', 'x1', '-', '%', '7', '-', '-'], ['4 % hydrogen peroxide solution', 'x2', '-', '%', '4', '-', '-']]
+-1
+[['5 % hydrogen peroxide solution', '300', 'milliliter', '4', '5', '-', '-'], ['7 % hydrogen peroxide solution', 'x1', '-', '%', '7', '-', '-'], ['5', 'x2', 'milliliter', '300', '5 % hydrogen peroxide solution', '-', '-']]
+-1
+[['5 % hydrogen peroxide solution', '4', 'milliliter', '%', '5', '-', 'x2'], ['7 % hydrogen peroxide solution', 'x1', '-', '%', '7', '-', '-'], ['300', 'x2', '-', 'milliliter', '4', '5 % hydrogen peroxide solution', '5']]
+-1
+[['4 % hydrogen peroxide solution', '300', '5 % hydrogen peroxide solution', '%', '5', '-', '-'], ['7 % hydrogen peroxide solution', 'x1', '-', '%', '7', '-', '-'], ['4 % hydrogen peroxide solution', 'x2', '5 % hydrogen peroxide solution', '%', '4', '300', '-']]
+-1
+[['4 % hydrogen peroxide solution', 'x2', 'milliliter', '%', '5', '5 % hydrogen peroxide solution', '-'], ['7 % hydrogen peroxide solution', 'x1', '-', '%', '7', '-', '-'], ['4 % hydrogen peroxide solution', 'x2', '-', '5', '5 % hydrogen peroxide solution', '-', '300']]
+-1
+[['x2', '300', '4 % hydrogen peroxide solution', '%', '5', '-', '-'], ['7 % hydrogen peroxide solution', 'x1', '-', '%', '7', '-', '-'], ['4 % hydrogen peroxide solution', 'x2', '-', '%', '4', '5', '-']]
+-1
+[['5 % hydrogen peroxide solution', '300', 'milliliter', '%', '5', '-', '4 % hydrogen peroxide solution'], ['7 % hydrogen peroxide solution', 'x1', '-', '%', '7', '-', '-'], ['4 % hydrogen peroxide solution', 'x2', '-', '300', 'milliliter', '5 % hydrogen peroxide solution', '-']]

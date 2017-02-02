@@ -1,0 +1,16 @@
+1
+[['50 % antifreeze', '4', 'gallon', '% antifreeze', '50', '-', '-'], ['10 % antifreeze', 'x1', 'gallon', '% antifreeze', '10', '-', '-'], ['80 % antifreeze', 'x2', 'gallon', '% antifreeze', '80', '-', '-']]
+-1
+[['50 % antifreeze', '4', 'gallon', '% antifreeze', '50', '80 % antifreeze', '-'], ['10 % antifreeze', 'x1', 'gallon', '% antifreeze', '10', '-', '-'], ['80 % antifreeze', '50', 'gallon', '4', '50 % antifreeze', '-', '-']]
+-1
+[['50 % antifreeze', '4', 'gallon', '80', '50', '-', '-'], ['10 % antifreeze', 'x1', 'gallon', '% antifreeze', '10', '-', '-'], ['80 % antifreeze', 'x2', 'gallon', '50', '80', '-', '4']]
+-1
+[['50 % antifreeze', '4', 'gallon', 'x2', '50', '-', '-'], ['10 % antifreeze', 'x1', 'gallon', '% antifreeze', '10', '-', '-'], ['80 % antifreeze', 'x2', '50', '% antifreeze', '50 % antifreeze', '-', '-']]
+-1
+[['50 % antifreeze', '80', 'gallon', '4', 'x2', '-', '-'], ['10 % antifreeze', 'x1', 'gallon', '% antifreeze', '10', '-', '-'], ['50 % antifreeze', 'x2', 'gallon', '% antifreeze', '80', '-', '4']]
+-1
+[['50 % antifreeze', '% antifreeze', 'gallon', '80 % antifreeze', '50', '-', 'x2'], ['10 % antifreeze', 'x1', 'gallon', '% antifreeze', '10', '-', '-'], ['80 % antifreeze', 'x2', 'gallon', '% antifreeze', '50', '-', '-']]
+-1
+[['50 % antifreeze', '4', 'gallon', '% antifreeze', '50', '80', '-'], ['10 % antifreeze', 'x1', 'gallon', '% antifreeze', '10', '-', '-'], ['50 % antifreeze', '4', 'gallon', '% antifreeze', '80', '50', '-']]
+-1
+[['50 % antifreeze', 'x2', 'gallon', '% antifreeze', '50', '-', '-'], ['10 % antifreeze', 'x1', 'gallon', '% antifreeze', '10', '-', '-'], ['80 % antifreeze', 'x2', '50 % antifreeze', '% antifreeze', '80', '-', '-']]

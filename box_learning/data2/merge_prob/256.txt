@@ -1,0 +1,1038 @@
+['two mechanic', 'first mechanic', '45 dollar', 'hour', 'second', 'dollar', '85 dollar', 'mechanic', '20 hour', '1100 dollar', 'mechanic and second']
+['two mechanic']	['first mechanic']	0.542173475402
+['two mechanic']	['45 dollar']	0.0901100077042
+['two mechanic']	['hour']	0.00542020684774
+['two mechanic']	['second']	0.0143499502517
+['two mechanic']	['dollar']	0.00542020684774
+['two mechanic']	['85 dollar']	0.0901100077042
+['two mechanic']	['20 hour']	0.125971854627
+['two mechanic']	['1100 dollar']	0.0901100077042
+['two mechanic']	['mechanic and second']	0.0908034291173
+['first mechanic']	['45 dollar']	0.0737139440912
+['first mechanic']	['hour']	0.00340088629102
+['first mechanic']	['second']	0.011726423379
+['first mechanic']	['dollar']	0.00340088629102
+['first mechanic']	['85 dollar']	0.0737139440912
+['first mechanic']	['20 hour']	0.0714213956243
+['first mechanic']	['1100 dollar']	0.0737139440912
+['first mechanic']	['mechanic and second']	0.120673671445
+['45 dollar']	['hour']	0.00424649792755
+['45 dollar']	['second']	0.0249057509662
+['45 dollar']	['85 dollar']	0.643440930505
+['45 dollar']	['mechanic']	0.079730351659
+['45 dollar']	['20 hour']	0.0901100077042
+['45 dollar']	['1100 dollar']	0.643440930505
+['45 dollar']	['mechanic and second']	0.0941266761548
+['hour']	['second']	0.0391416589713
+['hour']	['dollar']	0.00804046902515
+['hour']	['85 dollar']	0.00424565569655
+['hour']	['mechanic']	0.0106208414997
+['hour']	['1100 dollar']	0.00424565569655
+['hour']	['mechanic and second']	0.0551568632119
+['second']	['dollar']	0.0061631295492
+['second']	['85 dollar']	0.0361025509549
+['second']	['mechanic']	0.0240886330375
+['second']	['20 hour']	0.0965000682265
+['second']	['1100 dollar']	0.0361025509549
+['dollar']	['mechanic']	0.0106208414997
+['dollar']	['20 hour']	0.00424565569655
+['dollar']	['mechanic and second']	0.016108262277
+['85 dollar']	['mechanic']	0.079730351659
+['85 dollar']	['20 hour']	0.0901100077042
+['85 dollar']	['1100 dollar']	0.643440930505
+['85 dollar']	['mechanic and second']	0.0941266761548
+['mechanic']	['20 hour']	0.0696933362217
+['mechanic']	['1100 dollar']	0.0696933362217
+['20 hour']	['1100 dollar']	0.0901100077042
+['20 hour']	['mechanic and second']	0.0908034291173
+['1100 dollar']	['mechanic and second']	0.0941266761548
+['first mechanic', 'two mechanic']	['45 dollar']	0.127137811052
+['first mechanic', 'two mechanic']	['hour']	0.118289016273
+['first mechanic', 'two mechanic']	['second']	0.225362410309
+['first mechanic', 'two mechanic']	['dollar']	0.118289016273
+['first mechanic', 'two mechanic']	['85 dollar']	0.127137811052
+['first mechanic', 'two mechanic']	['mechanic']	0.83052934199
+['first mechanic', 'two mechanic']	['20 hour']	0.336950901833
+['first mechanic', 'two mechanic']	['1100 dollar']	0.127137811052
+['first mechanic', 'two mechanic']	['mechanic and second']	0.605901393753
+['45 dollar', 'two mechanic']	['first mechanic']	0.51364678879
+['45 dollar', 'two mechanic']	['hour']	0.00424649792755
+['45 dollar', 'two mechanic']	['second']	0.0257604518209
+['45 dollar', 'two mechanic']	['dollar']	0.213526645601
+['45 dollar', 'two mechanic']	['85 dollar']	0.584269096576
+['45 dollar', 'two mechanic']	['mechanic']	0.849214580928
+['45 dollar', 'two mechanic']	['20 hour']	0.126675736021
+['45 dollar', 'two mechanic']	['1100 dollar']	0.584269096576
+['45 dollar', 'two mechanic']	['mechanic and second']	0.0908034291173
+['hour', 'two mechanic']	['first mechanic']	0.143935418664
+['hour', 'two mechanic']	['45 dollar']	0.0160064194205
+['hour', 'two mechanic']	['second']	0.0688440184271
+['hour', 'two mechanic']	['dollar']	0.229123335158
+['hour', 'two mechanic']	['85 dollar']	0.0160064194205
+['hour', 'two mechanic']	['mechanic']	0.436940117601
+['hour', 'two mechanic']	['20 hour']	0.33258002692
+['hour', 'two mechanic']	['1100 dollar']	0.0160064194205
+['hour', 'two mechanic']	['mechanic and second']	0.0452744645686
+['second', 'two mechanic']	['first mechanic']	0.179900479002
+['second', 'two mechanic']	['45 dollar']	0.0618737183104
+['second', 'two mechanic']	['hour']	0.0700177273473
+['second', 'two mechanic']	['dollar']	0.171968453003
+['second', 'two mechanic']	['85 dollar']	0.0618737183104
+['second', 'two mechanic']	['mechanic']	0.747226118256
+['second', 'two mechanic']	['20 hour']	0.116343708628
+['second', 'two mechanic']	['1100 dollar']	0.0618737183104
+['second', 'two mechanic']	['mechanic and second']	0.342899758509
+['dollar', 'two mechanic']	['first mechanic']	0.143935418664
+['dollar', 'two mechanic']	['45 dollar']	0.302398280583
+['dollar', 'two mechanic']	['hour']	0.229123335158
+['dollar', 'two mechanic']	['second']	0.232574513609
+['dollar', 'two mechanic']	['85 dollar']	0.302398280583
+['dollar', 'two mechanic']	['mechanic']	0.436940117601
+['dollar', 'two mechanic']	['20 hour']	0.0308612974269
+['dollar', 'two mechanic']	['1100 dollar']	0.380321401688
+['dollar', 'two mechanic']	['mechanic and second']	0.026987674469
+['85 dollar', 'two mechanic']	['first mechanic']	0.51364678879
+['85 dollar', 'two mechanic']	['45 dollar']	0.584269096576
+['85 dollar', 'two mechanic']	['hour']	0.00424649792755
+['85 dollar', 'two mechanic']	['second']	0.0257604518209
+['85 dollar', 'two mechanic']	['dollar']	0.213526645601
+['85 dollar', 'two mechanic']	['mechanic']	0.849214580928
+['85 dollar', 'two mechanic']	['20 hour']	0.126675736021
+['85 dollar', 'two mechanic']	['1100 dollar']	0.584269096576
+['85 dollar', 'two mechanic']	['mechanic and second']	0.0908034291173
+['mechanic', 'two mechanic']	['first mechanic']	0.880078956553
+['mechanic', 'two mechanic']	['45 dollar']	0.136831688603
+['mechanic', 'two mechanic']	['hour']	0.202306200855
+['mechanic', 'two mechanic']	['second']	0.319141009898
+['mechanic', 'two mechanic']	['dollar']	0.188972867521
+['mechanic', 'two mechanic']	['85 dollar']	0.136831688603
+['mechanic', 'two mechanic']	['20 hour']	0.247627320934
+['mechanic', 'two mechanic']	['1100 dollar']	0.136831688603
+['mechanic', 'two mechanic']	['mechanic and second']	0.647848721001
+['20 hour', 'two mechanic']	['first mechanic']	0.531123510396
+['20 hour', 'two mechanic']	['45 dollar']	0.0901100077042
+['20 hour', 'two mechanic']	['hour']	0.206898916706
+['20 hour', 'two mechanic']	['second']	0.0892112996778
+['20 hour', 'two mechanic']	['dollar']	0.00424649792755
+['20 hour', 'two mechanic']	['85 dollar']	0.0901100077042
+['20 hour', 'two mechanic']	['mechanic']	0.860325692039
+['20 hour', 'two mechanic']	['1100 dollar']	0.0901100077042
+['20 hour', 'two mechanic']	['mechanic and second']	0.0908034291173
+['1100 dollar', 'two mechanic']	['first mechanic']	0.51364678879
+['1100 dollar', 'two mechanic']	['45 dollar']	0.584269096576
+['1100 dollar', 'two mechanic']	['hour']	0.00424649792755
+['1100 dollar', 'two mechanic']	['second']	0.0257604518209
+['1100 dollar', 'two mechanic']	['dollar']	0.265381505022
+['1100 dollar', 'two mechanic']	['85 dollar']	0.584269096576
+['1100 dollar', 'two mechanic']	['mechanic']	0.849214580928
+['1100 dollar', 'two mechanic']	['20 hour']	0.126675736021
+['1100 dollar', 'two mechanic']	['mechanic and second']	0.0908034291173
+['mechanic and second', 'two mechanic']	['first mechanic']	0.780285489285
+['mechanic and second', 'two mechanic']	['45 dollar']	0.15961386663
+['mechanic and second', 'two mechanic']	['hour']	0.055094449772
+['mechanic and second', 'two mechanic']	['second']	0.317441315301
+['mechanic and second', 'two mechanic']	['dollar']	0.00766280318302
+['mechanic and second', 'two mechanic']	['85 dollar']	0.15961386663
+['mechanic and second', 'two mechanic']	['mechanic']	0.770208756413
+['mechanic and second', 'two mechanic']	['20 hour']	0.197610942174
+['mechanic and second', 'two mechanic']	['1100 dollar']	0.15961386663
+['two mechanic', 'first mechanic']	['45 dollar']	0.127137811052
+['two mechanic', 'first mechanic']	['hour']	0.118289016273
+['two mechanic', 'first mechanic']	['second']	0.225362410309
+['two mechanic', 'first mechanic']	['dollar']	0.118289016273
+['two mechanic', 'first mechanic']	['85 dollar']	0.127137811052
+['two mechanic', 'first mechanic']	['mechanic']	0.83052934199
+['two mechanic', 'first mechanic']	['20 hour']	0.336950901833
+['two mechanic', 'first mechanic']	['1100 dollar']	0.127137811052
+['two mechanic', 'first mechanic']	['mechanic and second']	0.605901393753
+['45 dollar', 'first mechanic']	['two mechanic']	0.465538040018
+['45 dollar', 'first mechanic']	['hour']	0.00222717737084
+['45 dollar', 'first mechanic']	['second']	0.0231369249482
+['45 dollar', 'first mechanic']	['dollar']	0.242938410307
+['45 dollar', 'first mechanic']	['85 dollar']	0.544221442934
+['45 dollar', 'first mechanic']	['mechanic']	0.654915119059
+['45 dollar', 'first mechanic']	['20 hour']	0.074092754852
+['45 dollar', 'first mechanic']	['1100 dollar']	0.544221442934
+['45 dollar', 'first mechanic']	['mechanic and second']	0.225990709285
+['hour', 'first mechanic']	['two mechanic']	0.132615563108
+['hour', 'first mechanic']	['45 dollar']	0.0780842671024
+['hour', 'first mechanic']	['second']	0.10217735176
+['hour', 'first mechanic']	['dollar']	0.262456668491
+['hour', 'first mechanic']	['85 dollar']	0.0780842671024
+['hour', 'first mechanic']	['mechanic']	0.487811842373
+['hour', 'first mechanic']	['20 hour']	0.324679537806
+['hour', 'first mechanic']	['1100 dollar']	0.0780842671024
+['hour', 'first mechanic']	['mechanic and second']	0.112536214761
+['second', 'first mechanic']	['two mechanic']	0.160671266721
+['second', 'first mechanic']	['45 dollar']	0.118523866578
+['second', 'first mechanic']	['hour']	0.103351060681
+['second', 'first mechanic']	['dollar']	0.205301786336
+['second', 'first mechanic']	['85 dollar']	0.118523866578
+['second', 'first mechanic']	['mechanic']	0.637503975139
+['second', 'first mechanic']	['20 hour']	0.14706793097
+['second', 'first mechanic']	['1100 dollar']	0.118523866578
+['second', 'first mechanic']	['mechanic and second']	0.452043922047
+['dollar', 'first mechanic']	['two mechanic']	0.132615563108
+['dollar', 'first mechanic']	['45 dollar']	0.302398280583
+['dollar', 'first mechanic']	['hour']	0.262456668491
+['dollar', 'first mechanic']	['second']	0.265907846942
+['dollar', 'first mechanic']	['85 dollar']	0.302398280583
+['dollar', 'first mechanic']	['mechanic']	0.487811842373
+['dollar', 'first mechanic']	['20 hour']	0.0864675159274
+['dollar', 'first mechanic']	['1100 dollar']	0.380321401688
+['dollar', 'first mechanic']	['mechanic and second']	0.0984336506585
+['85 dollar', 'first mechanic']	['two mechanic']	0.465538040018
+['85 dollar', 'first mechanic']	['45 dollar']	0.544221442934
+['85 dollar', 'first mechanic']	['hour']	0.00222717737084
+['85 dollar', 'first mechanic']	['second']	0.0231369249482
+['85 dollar', 'first mechanic']	['dollar']	0.242938410307
+['85 dollar', 'first mechanic']	['mechanic']	0.654915119059
+['85 dollar', 'first mechanic']	['20 hour']	0.074092754852
+['85 dollar', 'first mechanic']	['1100 dollar']	0.544221442934
+['85 dollar', 'first mechanic']	['mechanic and second']	0.225990709285
+['mechanic', 'first mechanic']	['two mechanic']	0.886673190471
+['mechanic', 'first mechanic']	['45 dollar']	0.187609861285
+['mechanic', 'first mechanic']	['hour']	0.268217200015
+['mechanic', 'first mechanic']	['second']	0.385052009058
+['mechanic', 'first mechanic']	['dollar']	0.254883866682
+['mechanic', 'first mechanic']	['85 dollar']	0.187609861285
+['mechanic', 'first mechanic']	['20 hour']	0.260700666745
+['mechanic', 'first mechanic']	['1100 dollar']	0.187609861285
+['mechanic', 'first mechanic']	['mechanic and second']	0.664856113008
+['20 hour', 'first mechanic']	['two mechanic']	0.516278806228
+['20 hour', 'first mechanic']	['45 dollar']	0.0737139440912
+['20 hour', 'first mechanic']	['hour']	0.236310681412
+['20 hour', 'first mechanic']	['second']	0.0762984955907
+['20 hour', 'first mechanic']	['dollar']	0.00222717737084
+['20 hour', 'first mechanic']	['85 dollar']	0.0737139440912
+['20 hour', 'first mechanic']	['mechanic']	0.654915119059
+['20 hour', 'first mechanic']	['1100 dollar']	0.0737139440912
+['20 hour', 'first mechanic']	['mechanic and second']	0.218490709285
+['1100 dollar', 'first mechanic']	['two mechanic']	0.465538040018
+['1100 dollar', 'first mechanic']	['45 dollar']	0.544221442934
+['1100 dollar', 'first mechanic']	['hour']	0.00222717737084
+['1100 dollar', 'first mechanic']	['second']	0.0231369249482
+['1100 dollar', 'first mechanic']	['dollar']	0.261459936394
+['1100 dollar', 'first mechanic']	['85 dollar']	0.544221442934
+['1100 dollar', 'first mechanic']	['mechanic']	0.654915119059
+['1100 dollar', 'first mechanic']	['20 hour']	0.074092754852
+['1100 dollar', 'first mechanic']	['mechanic and second']	0.225990709285
+['mechanic and second', 'first mechanic']	['two mechanic']	0.591728061673
+['mechanic and second', 'first mechanic']	['45 dollar']	0.128877148308
+['mechanic and second', 'first mechanic']	['hour']	0.0542957396675
+['mechanic and second', 'first mechanic']	['second']	0.306174845533
+['mechanic and second', 'first mechanic']	['dollar']	0.0050145518087
+['mechanic and second', 'first mechanic']	['85 dollar']	0.128877148308
+['mechanic and second', 'first mechanic']	['mechanic']	0.727807806399
+['mechanic and second', 'first mechanic']	['20 hour']	0.125907134439
+['mechanic and second', 'first mechanic']	['1100 dollar']	0.128877148308
+['two mechanic', '45 dollar']	['first mechanic']	0.51364678879
+['two mechanic', '45 dollar']	['hour']	0.00424649792755
+['two mechanic', '45 dollar']	['second']	0.0257604518209
+['two mechanic', '45 dollar']	['dollar']	0.213526645601
+['two mechanic', '45 dollar']	['85 dollar']	0.584269096576
+['two mechanic', '45 dollar']	['mechanic']	0.849214580928
+['two mechanic', '45 dollar']	['20 hour']	0.126675736021
+['two mechanic', '45 dollar']	['1100 dollar']	0.584269096576
+['two mechanic', '45 dollar']	['mechanic and second']	0.0908034291173
+['first mechanic', '45 dollar']	['two mechanic']	0.465538040018
+['first mechanic', '45 dollar']	['hour']	0.00222717737084
+['first mechanic', '45 dollar']	['second']	0.0231369249482
+['first mechanic', '45 dollar']	['dollar']	0.242938410307
+['first mechanic', '45 dollar']	['85 dollar']	0.544221442934
+['first mechanic', '45 dollar']	['mechanic']	0.654915119059
+['first mechanic', '45 dollar']	['20 hour']	0.074092754852
+['first mechanic', '45 dollar']	['1100 dollar']	0.544221442934
+['first mechanic', '45 dollar']	['mechanic and second']	0.225990709285
+['hour', '45 dollar']	['two mechanic']	0.0165341599722
+['hour', '45 dollar']	['first mechanic']	0.0199229782255
+['hour', '45 dollar']	['second']	0.156809386393
+['hour', '45 dollar']	['dollar']	0.454381002808
+['hour', '45 dollar']	['85 dollar']	0.0852471420558
+['hour', '45 dollar']	['mechanic']	0.0773678664609
+['hour', '45 dollar']	['20 hour']	0.321774377989
+['hour', '45 dollar']	['1100 dollar']	0.0852471420558
+['hour', '45 dollar']	['mechanic and second']	0.078607797902
+['second', '45 dollar']	['two mechanic']	0.0384978040692
+['second', '45 dollar']	['first mechanic']	0.0449134002434
+['second', '45 dollar']	['hour']	0.0688440184271
+['second', '45 dollar']	['dollar']	0.556244075724
+['second', '45 dollar']	['85 dollar']	0.194706354441
+['second', '45 dollar']	['mechanic']	0.11086262958
+['second', '45 dollar']	['20 hour']	0.0953909804967
+['second', '45 dollar']	['1100 dollar']	0.194706354441
+['second', '45 dollar']	['mechanic and second']	0.35394691967
+['dollar', '45 dollar']	['two mechanic']	0.0798131677782
+['dollar', '45 dollar']	['first mechanic']	0.101920210768
+['dollar', '45 dollar']	['hour']	0.323988655023
+['dollar', '45 dollar']	['second']	0.411650992685
+['dollar', '45 dollar']	['85 dollar']	0.693984630908
+['dollar', '45 dollar']	['mechanic']	0.260434312732
+['dollar', '45 dollar']	['20 hour']	0.125024962568
+['dollar', '45 dollar']	['1100 dollar']	0.732805939382
+['dollar', '45 dollar']	['mechanic and second']	0.206488422783
+['85 dollar', '45 dollar']	['two mechanic']	0.139258682248
+['85 dollar', '45 dollar']	['first mechanic']	0.14699641653
+['85 dollar', '45 dollar']	['hour']	0.156901862603
+['85 dollar', '45 dollar']	['second']	0.246734138582
+['85 dollar', '45 dollar']	['dollar']	0.746546886584
+['85 dollar', '45 dollar']	['mechanic']	0.33665242287
+['85 dollar', '45 dollar']	['20 hour']	0.139258682248
+['85 dollar', '45 dollar']	['1100 dollar']	0.637144068101
+['85 dollar', '45 dollar']	['mechanic and second']	0.297805101442
+['mechanic', '45 dollar']	['two mechanic']	0.82859274408
+['mechanic', '45 dollar']	['first mechanic']	0.672009453191
+['mechanic', '45 dollar']	['hour']	0.0924896213908
+['mechanic', '45 dollar']	['second']	0.109080770735
+['mechanic', '45 dollar']	['dollar']	0.538128133695
+['mechanic', '45 dollar']	['85 dollar']	0.525944474896
+['mechanic', '45 dollar']	['20 hour']	0.0696933362217
+['mechanic', '45 dollar']	['1100 dollar']	0.525944474896
+['mechanic', '45 dollar']	['mechanic and second']	0.39432853221
+['20 hour', '45 dollar']	['two mechanic']	0.126675736021
+['20 hour', '45 dollar']	['first mechanic']	0.0868063705507
+['20 hour', '45 dollar']	['hour']	0.221317293508
+['20 hour', '45 dollar']	['second']	0.0892112996778
+['20 hour', '45 dollar']	['dollar']	0.226146353337
+['20 hour', '45 dollar']	['85 dollar']	0.584269096576
+['20 hour', '45 dollar']	['mechanic']	0.079730351659
+['20 hour', '45 dollar']	['1100 dollar']	0.584269096576
+['20 hour', '45 dollar']	['mechanic and second']	0.0908034291173
+['1100 dollar', '45 dollar']	['two mechanic']	0.139258682248
+['1100 dollar', '45 dollar']	['first mechanic']	0.14699641653
+['1100 dollar', '45 dollar']	['hour']	0.156901862603
+['1100 dollar', '45 dollar']	['second']	0.246734138582
+['1100 dollar', '45 dollar']	['dollar']	0.728074664361
+['1100 dollar', '45 dollar']	['85 dollar']	0.637144068101
+['1100 dollar', '45 dollar']	['mechanic']	0.33665242287
+['1100 dollar', '45 dollar']	['20 hour']	0.139258682248
+['1100 dollar', '45 dollar']	['mechanic and second']	0.297805101442
+['mechanic and second', '45 dollar']	['two mechanic']	0.152238479479
+['mechanic and second', '45 dollar']	['first mechanic']	0.330774674601
+['mechanic and second', '45 dollar']	['hour']	0.0644484122827
+['mechanic and second', '45 dollar']	['second']	0.355699869151
+['mechanic and second', '45 dollar']	['dollar']	0.317268469033
+['mechanic and second', '45 dollar']	['85 dollar']	0.653642048458
+['mechanic and second', '45 dollar']	['mechanic']	0.394739744591
+['mechanic and second', '45 dollar']	['20 hour']	0.152238479479
+['mechanic and second', '45 dollar']	['1100 dollar']	0.653642048458
+['two mechanic', 'hour']	['first mechanic']	0.143935418664
+['two mechanic', 'hour']	['45 dollar']	0.0160064194205
+['two mechanic', 'hour']	['second']	0.0688440184271
+['two mechanic', 'hour']	['dollar']	0.229123335158
+['two mechanic', 'hour']	['85 dollar']	0.0160064194205
+['two mechanic', 'hour']	['mechanic']	0.436940117601
+['two mechanic', 'hour']	['20 hour']	0.33258002692
+['two mechanic', 'hour']	['1100 dollar']	0.0160064194205
+['two mechanic', 'hour']	['mechanic and second']	0.0452744645686
+['first mechanic', 'hour']	['two mechanic']	0.132615563108
+['first mechanic', 'hour']	['45 dollar']	0.0780842671024
+['first mechanic', 'hour']	['second']	0.10217735176
+['first mechanic', 'hour']	['dollar']	0.262456668491
+['first mechanic', 'hour']	['85 dollar']	0.0780842671024
+['first mechanic', 'hour']	['mechanic']	0.487811842373
+['first mechanic', 'hour']	['20 hour']	0.324679537806
+['first mechanic', 'hour']	['1100 dollar']	0.0780842671024
+['first mechanic', 'hour']	['mechanic and second']	0.112536214761
+['45 dollar', 'hour']	['two mechanic']	0.0165341599722
+['45 dollar', 'hour']	['first mechanic']	0.0199229782255
+['45 dollar', 'hour']	['second']	0.156809386393
+['45 dollar', 'hour']	['dollar']	0.454381002808
+['45 dollar', 'hour']	['85 dollar']	0.0852471420558
+['45 dollar', 'hour']	['mechanic']	0.0773678664609
+['45 dollar', 'hour']	['20 hour']	0.321774377989
+['45 dollar', 'hour']	['1100 dollar']	0.0852471420558
+['45 dollar', 'hour']	['mechanic and second']	0.078607797902
+['second', 'hour']	['two mechanic']	0.0713303637771
+['second', 'hour']	['first mechanic']	0.0747191820304
+['second', 'hour']	['45 dollar']	0.0714553561556
+['second', 'hour']	['dollar']	0.0385300273956
+['second', 'hour']	['85 dollar']	0.0714553561556
+['second', 'hour']	['mechanic']	0.0956581908018
+['second', 'hour']	['20 hour']	0.320556331959
+['second', 'hour']	['1100 dollar']	0.0714553561556
+['second', 'hour']	['mechanic and second']	0.292477893738
+['dollar', 'hour']	['two mechanic']	0.0713303637771
+['dollar', 'hour']	['first mechanic']	0.0747191820304
+['dollar', 'hour']	['45 dollar']	0.272919550891
+['dollar', 'hour']	['second']	0.141092384627
+['dollar', 'hour']	['85 dollar']	0.272919550891
+['dollar', 'hour']	['mechanic']	0.0760069062769
+['dollar', 'hour']	['20 hour']	0.268090491062
+['dollar', 'hour']	['1100 dollar']	0.408636417552
+['dollar', 'hour']	['mechanic and second']	0.0877345290389
+['85 dollar', 'hour']	['two mechanic']	0.0165341599722
+['85 dollar', 'hour']	['first mechanic']	0.0199229782255
+['85 dollar', 'hour']	['45 dollar']	0.0852471420558
+['85 dollar', 'hour']	['second']	0.156809386393
+['85 dollar', 'hour']	['dollar']	0.454381002808
+['85 dollar', 'hour']	['mechanic']	0.0773678664609
+['85 dollar', 'hour']	['20 hour']	0.321774377989
+['85 dollar', 'hour']	['1100 dollar']	0.0852471420558
+['85 dollar', 'hour']	['mechanic and second']	0.078607797902
+['mechanic', 'hour']	['two mechanic']	0.336476934685
+['mechanic', 'hour']	['first mechanic']	0.303361588929
+['mechanic', 'hour']	['45 dollar']	0.0780842671024
+['mechanic', 'hour']	['second']	0.123386142969
+['mechanic', 'hour']	['dollar']	0.0968025030525
+['mechanic', 'hour']	['85 dollar']	0.0780842671024
+['mechanic', 'hour']	['20 hour']	0.306959563174
+['mechanic', 'hour']	['1100 dollar']	0.0780842671024
+['mechanic', 'hour']	['mechanic and second']	0.212719289322
+['20 hour', 'hour']	['two mechanic']	0.108213661491
+['20 hour', 'hour']	['first mechanic']	0.125040635451
+['20 hour', 'hour']	['45 dollar']	0.125024962568
+['20 hour', 'hour']	['second']	0.317488547171
+['20 hour', 'hour']	['dollar']	0.323988655023
+['20 hour', 'hour']	['85 dollar']	0.125024962568
+['20 hour', 'hour']	['mechanic']	0.273767646066
+['20 hour', 'hour']	['1100 dollar']	0.125024962568
+['20 hour', 'hour']	['mechanic and second']	0.254302747203
+['1100 dollar', 'hour']	['two mechanic']	0.0165341599722
+['1100 dollar', 'hour']	['first mechanic']	0.0199229782255
+['1100 dollar', 'hour']	['45 dollar']	0.0852471420558
+['1100 dollar', 'hour']	['second']	0.156809386393
+['1100 dollar', 'hour']	['dollar']	0.341673280423
+['1100 dollar', 'hour']	['85 dollar']	0.0852471420558
+['1100 dollar', 'hour']	['mechanic']	0.0773678664609
+['1100 dollar', 'hour']	['20 hour']	0.321774377989
+['1100 dollar', 'hour']	['mechanic and second']	0.078607797902
+['mechanic and second', 'hour']	['two mechanic']	0.0165341599722
+['mechanic and second', 'hour']	['first mechanic']	0.0803793404826
+['mechanic and second', 'hour']	['45 dollar']	0.0160064194205
+['mechanic and second', 'hour']	['second']	0.36922626074
+['mechanic and second', 'hour']	['dollar']	0.403319813086
+['mechanic and second', 'hour']	['85 dollar']	0.0160064194205
+['mechanic and second', 'hour']	['mechanic']	0.201276659643
+['mechanic and second', 'hour']	['20 hour']	0.325125570743
+['mechanic and second', 'hour']	['1100 dollar']	0.0160064194205
+['two mechanic', 'second']	['first mechanic']	0.179900479002
+['two mechanic', 'second']	['45 dollar']	0.0618737183104
+['two mechanic', 'second']	['hour']	0.0700177273473
+['two mechanic', 'second']	['dollar']	0.171968453003
+['two mechanic', 'second']	['85 dollar']	0.0618737183104
+['two mechanic', 'second']	['mechanic']	0.747226118256
+['two mechanic', 'second']	['20 hour']	0.116343708628
+['two mechanic', 'second']	['1100 dollar']	0.0618737183104
+['two mechanic', 'second']	['mechanic and second']	0.342899758509
+['first mechanic', 'second']	['two mechanic']	0.160671266721
+['first mechanic', 'second']	['45 dollar']	0.118523866578
+['first mechanic', 'second']	['hour']	0.103351060681
+['first mechanic', 'second']	['dollar']	0.205301786336
+['first mechanic', 'second']	['85 dollar']	0.118523866578
+['first mechanic', 'second']	['mechanic']	0.637503975139
+['first mechanic', 'second']	['20 hour']	0.14706793097
+['first mechanic', 'second']	['1100 dollar']	0.118523866578
+['first mechanic', 'second']	['mechanic and second']	0.452043922047
+['45 dollar', 'second']	['two mechanic']	0.0384978040692
+['45 dollar', 'second']	['first mechanic']	0.0449134002434
+['45 dollar', 'second']	['hour']	0.0688440184271
+['45 dollar', 'second']	['dollar']	0.556244075724
+['45 dollar', 'second']	['85 dollar']	0.194706354441
+['45 dollar', 'second']	['mechanic']	0.11086262958
+['45 dollar', 'second']	['20 hour']	0.0953909804967
+['45 dollar', 'second']	['1100 dollar']	0.194706354441
+['45 dollar', 'second']	['mechanic and second']	0.35394691967
+['hour', 'second']	['two mechanic']	0.0713303637771
+['hour', 'second']	['first mechanic']	0.0747191820304
+['hour', 'second']	['45 dollar']	0.0714553561556
+['hour', 'second']	['dollar']	0.0385300273956
+['hour', 'second']	['85 dollar']	0.0714553561556
+['hour', 'second']	['mechanic']	0.0956581908018
+['hour', 'second']	['20 hour']	0.320556331959
+['hour', 'second']	['1100 dollar']	0.0714553561556
+['hour', 'second']	['mechanic and second']	0.292477893738
+['dollar', 'second']	['two mechanic']	0.0713303637771
+['dollar', 'second']	['first mechanic']	0.0747191820304
+['dollar', 'second']	['45 dollar']	0.283241311543
+['dollar', 'second']	['hour']	0.172321340856
+['dollar', 'second']	['85 dollar']	0.283241311543
+['dollar', 'second']	['mechanic']	0.0956581908018
+['dollar', 'second']	['20 hour']	0.0765758846726
+['dollar', 'second']	['1100 dollar']	0.397746056993
+['dollar', 'second']	['mechanic and second']	0.315431896127
+['85 dollar', 'second']	['two mechanic']	0.0384978040692
+['85 dollar', 'second']	['first mechanic']	0.0449134002434
+['85 dollar', 'second']	['45 dollar']	0.194706354441
+['85 dollar', 'second']	['hour']	0.0688440184271
+['85 dollar', 'second']	['dollar']	0.556244075724
+['85 dollar', 'second']	['mechanic']	0.11086262958
+['85 dollar', 'second']	['20 hour']	0.0953909804967
+['85 dollar', 'second']	['1100 dollar']	0.194706354441
+['85 dollar', 'second']	['mechanic and second']	0.35394691967
+['mechanic', 'second']	['two mechanic']	0.532441496592
+['mechanic', 'second']	['first mechanic']	0.326861238806
+['mechanic', 'second']	['45 dollar']	0.118523866578
+['mechanic', 'second']	['hour']	0.133535332625
+['mechanic', 'second']	['dollar']	0.0972440041563
+['mechanic', 'second']	['85 dollar']	0.118523866578
+['mechanic', 'second']	['20 hour']	0.146229162952
+['mechanic', 'second']	['1100 dollar']	0.118523866578
+['mechanic', 'second']	['mechanic and second']	0.57929818371
+['20 hour', 'second']	['two mechanic']	0.0618737183104
+['20 hour', 'second']	['first mechanic']	0.0465457621313
+['20 hour', 'second']	['45 dollar']	0.0618737183104
+['20 hour', 'second']	['hour']	0.440244889725
+['20 hour', 'second']	['dollar']	0.232574513609
+['20 hour', 'second']	['85 dollar']	0.0618737183104
+['20 hour', 'second']	['mechanic']	0.11086262958
+['20 hour', 'second']	['1100 dollar']	0.0618737183104
+['20 hour', 'second']	['mechanic and second']	0.342899758509
+['1100 dollar', 'second']	['two mechanic']	0.0384978040692
+['1100 dollar', 'second']	['first mechanic']	0.0449134002434
+['1100 dollar', 'second']	['45 dollar']	0.194706354441
+['1100 dollar', 'second']	['hour']	0.0688440184271
+['1100 dollar', 'second']	['dollar']	0.496289539948
+['1100 dollar', 'second']	['85 dollar']	0.194706354441
+['1100 dollar', 'second']	['mechanic']	0.11086262958
+['1100 dollar', 'second']	['20 hour']	0.0953909804967
+['1100 dollar', 'second']	['mechanic and second']	0.35394691967
+['mechanic and second', 'second']	['two mechanic']	0.0957461490353
+['mechanic and second', 'second']	['first mechanic']	0.236099680878
+['mechanic and second', 'second']	['45 dollar']	0.183873817054
+['mechanic and second', 'second']	['hour']	0.317488547171
+['mechanic and second', 'second']	['dollar']	0.411650992685
+['mechanic and second', 'second']	['85 dollar']	0.183873817054
+['mechanic and second', 'second']	['mechanic']	0.52040407052
+['mechanic and second', 'second']	['20 hour']	0.225714806323
+['mechanic and second', 'second']	['1100 dollar']	0.183873817054
+['two mechanic', 'dollar']	['first mechanic']	0.143935418664
+['two mechanic', 'dollar']	['45 dollar']	0.302398280583
+['two mechanic', 'dollar']	['hour']	0.229123335158
+['two mechanic', 'dollar']	['second']	0.232574513609
+['two mechanic', 'dollar']	['85 dollar']	0.302398280583
+['two mechanic', 'dollar']	['mechanic']	0.436940117601
+['two mechanic', 'dollar']	['20 hour']	0.0308612974269
+['two mechanic', 'dollar']	['1100 dollar']	0.380321401688
+['two mechanic', 'dollar']	['mechanic and second']	0.026987674469
+['first mechanic', 'dollar']	['two mechanic']	0.132615563108
+['first mechanic', 'dollar']	['45 dollar']	0.302398280583
+['first mechanic', 'dollar']	['hour']	0.262456668491
+['first mechanic', 'dollar']	['second']	0.265907846942
+['first mechanic', 'dollar']	['85 dollar']	0.302398280583
+['first mechanic', 'dollar']	['mechanic']	0.487811842373
+['first mechanic', 'dollar']	['20 hour']	0.0864675159274
+['first mechanic', 'dollar']	['1100 dollar']	0.380321401688
+['first mechanic', 'dollar']	['mechanic and second']	0.0984336506585
+['45 dollar', 'dollar']	['two mechanic']	0.0798131677782
+['45 dollar', 'dollar']	['first mechanic']	0.101920210768
+['45 dollar', 'dollar']	['hour']	0.323988655023
+['45 dollar', 'dollar']	['second']	0.411650992685
+['45 dollar', 'dollar']	['85 dollar']	0.693984630908
+['45 dollar', 'dollar']	['mechanic']	0.260434312732
+['45 dollar', 'dollar']	['20 hour']	0.125024962568
+['45 dollar', 'dollar']	['1100 dollar']	0.732805939382
+['45 dollar', 'dollar']	['mechanic and second']	0.206488422783
+['hour', 'dollar']	['two mechanic']	0.0713303637771
+['hour', 'dollar']	['first mechanic']	0.0747191820304
+['hour', 'dollar']	['45 dollar']	0.272919550891
+['hour', 'dollar']	['second']	0.141092384627
+['hour', 'dollar']	['85 dollar']	0.272919550891
+['hour', 'dollar']	['mechanic']	0.0760069062769
+['hour', 'dollar']	['20 hour']	0.268090491062
+['hour', 'dollar']	['1100 dollar']	0.408636417552
+['hour', 'dollar']	['mechanic and second']	0.0877345290389
+['second', 'dollar']	['two mechanic']	0.0713303637771
+['second', 'dollar']	['first mechanic']	0.0747191820304
+['second', 'dollar']	['45 dollar']	0.283241311543
+['second', 'dollar']	['hour']	0.172321340856
+['second', 'dollar']	['85 dollar']	0.283241311543
+['second', 'dollar']	['mechanic']	0.0956581908018
+['second', 'dollar']	['20 hour']	0.0765758846726
+['second', 'dollar']	['1100 dollar']	0.397746056993
+['second', 'dollar']	['mechanic and second']	0.315431896127
+['85 dollar', 'dollar']	['two mechanic']	0.0798131677782
+['85 dollar', 'dollar']	['first mechanic']	0.101920210768
+['85 dollar', 'dollar']	['45 dollar']	0.693984630908
+['85 dollar', 'dollar']	['hour']	0.323988655023
+['85 dollar', 'dollar']	['second']	0.411650992685
+['85 dollar', 'dollar']	['mechanic']	0.260434312732
+['85 dollar', 'dollar']	['20 hour']	0.125024962568
+['85 dollar', 'dollar']	['1100 dollar']	0.732805939382
+['85 dollar', 'dollar']	['mechanic and second']	0.206488422783
+['mechanic', 'dollar']	['two mechanic']	0.336476934685
+['mechanic', 'dollar']	['first mechanic']	0.303361588929
+['mechanic', 'dollar']	['45 dollar']	0.309408862593
+['mechanic', 'dollar']	['hour']	0.0968025030525
+['mechanic', 'dollar']	['second']	0.206175747766
+['mechanic', 'dollar']	['85 dollar']	0.309408862593
+['mechanic', 'dollar']	['20 hour']	0.0780842671024
+['mechanic', 'dollar']	['1100 dollar']	0.391849831526
+['mechanic', 'dollar']	['mechanic and second']	0.224450549451
+['20 hour', 'dollar']	['two mechanic']	0.0221369896995
+['20 hour', 'dollar']	['first mechanic']	0.0187994072397
+['20 hour', 'dollar']	['45 dollar']	0.302398280583
+['20 hour', 'dollar']	['hour']	0.437714336142
+['20 hour', 'dollar']	['second']	0.431850237885
+['20 hour', 'dollar']	['85 dollar']	0.302398280583
+['20 hour', 'dollar']	['mechanic']	0.0773678664609
+['20 hour', 'dollar']	['1100 dollar']	0.380321401688
+['20 hour', 'dollar']	['mechanic and second']	0.026987674469
+['1100 dollar', 'dollar']	['two mechanic']	0.0798131677782
+['1100 dollar', 'dollar']	['first mechanic']	0.101920210768
+['1100 dollar', 'dollar']	['45 dollar']	0.693984630908
+['1100 dollar', 'dollar']	['hour']	0.323988655023
+['1100 dollar', 'dollar']	['second']	0.411650992685
+['1100 dollar', 'dollar']	['85 dollar']	0.693984630908
+['1100 dollar', 'dollar']	['mechanic']	0.260434312732
+['1100 dollar', 'dollar']	['20 hour']	0.125024962568
+['1100 dollar', 'dollar']	['mechanic and second']	0.206488422783
+['mechanic and second', 'dollar']	['two mechanic']	0.0165341599722
+['mechanic and second', 'dollar']	['first mechanic']	0.0803793404826
+['mechanic and second', 'dollar']	['45 dollar']	0.283548058439
+['mechanic and second', 'dollar']	['hour']	0.467747673782
+['mechanic and second', 'dollar']	['second']	0.399880853061
+['mechanic and second', 'dollar']	['85 dollar']	0.283548058439
+['mechanic and second', 'dollar']	['mechanic']	0.196762770754
+['mechanic and second', 'dollar']	['20 hour']	0.0160064194205
+['mechanic and second', 'dollar']	['1100 dollar']	0.356496055166
+['two mechanic', '85 dollar']	['first mechanic']	0.51364678879
+['two mechanic', '85 dollar']	['45 dollar']	0.584269096576
+['two mechanic', '85 dollar']	['hour']	0.00424649792755
+['two mechanic', '85 dollar']	['second']	0.0257604518209
+['two mechanic', '85 dollar']	['dollar']	0.213526645601
+['two mechanic', '85 dollar']	['mechanic']	0.849214580928
+['two mechanic', '85 dollar']	['20 hour']	0.126675736021
+['two mechanic', '85 dollar']	['1100 dollar']	0.584269096576
+['two mechanic', '85 dollar']	['mechanic and second']	0.0908034291173
+['first mechanic', '85 dollar']	['two mechanic']	0.465538040018
+['first mechanic', '85 dollar']	['45 dollar']	0.544221442934
+['first mechanic', '85 dollar']	['hour']	0.00222717737084
+['first mechanic', '85 dollar']	['second']	0.0231369249482
+['first mechanic', '85 dollar']	['dollar']	0.242938410307
+['first mechanic', '85 dollar']	['mechanic']	0.654915119059
+['first mechanic', '85 dollar']	['20 hour']	0.074092754852
+['first mechanic', '85 dollar']	['1100 dollar']	0.544221442934
+['first mechanic', '85 dollar']	['mechanic and second']	0.225990709285
+['45 dollar', '85 dollar']	['two mechanic']	0.139258682248
+['45 dollar', '85 dollar']	['first mechanic']	0.14699641653
+['45 dollar', '85 dollar']	['hour']	0.156901862603
+['45 dollar', '85 dollar']	['second']	0.246734138582
+['45 dollar', '85 dollar']	['dollar']	0.746546886584
+['45 dollar', '85 dollar']	['mechanic']	0.33665242287
+['45 dollar', '85 dollar']	['20 hour']	0.139258682248
+['45 dollar', '85 dollar']	['1100 dollar']	0.637144068101
+['45 dollar', '85 dollar']	['mechanic and second']	0.297805101442
+['hour', '85 dollar']	['two mechanic']	0.0165341599722
+['hour', '85 dollar']	['first mechanic']	0.0199229782255
+['hour', '85 dollar']	['45 dollar']	0.0852471420558
+['hour', '85 dollar']	['second']	0.156809386393
+['hour', '85 dollar']	['dollar']	0.454381002808
+['hour', '85 dollar']	['mechanic']	0.0773678664609
+['hour', '85 dollar']	['20 hour']	0.321774377989
+['hour', '85 dollar']	['1100 dollar']	0.0852471420558
+['hour', '85 dollar']	['mechanic and second']	0.078607797902
+['second', '85 dollar']	['two mechanic']	0.0384978040692
+['second', '85 dollar']	['first mechanic']	0.0449134002434
+['second', '85 dollar']	['45 dollar']	0.194706354441
+['second', '85 dollar']	['hour']	0.0688440184271
+['second', '85 dollar']	['dollar']	0.556244075724
+['second', '85 dollar']	['mechanic']	0.11086262958
+['second', '85 dollar']	['20 hour']	0.0953909804967
+['second', '85 dollar']	['1100 dollar']	0.194706354441
+['second', '85 dollar']	['mechanic and second']	0.35394691967
+['dollar', '85 dollar']	['two mechanic']	0.0798131677782
+['dollar', '85 dollar']	['first mechanic']	0.101920210768
+['dollar', '85 dollar']	['45 dollar']	0.693984630908
+['dollar', '85 dollar']	['hour']	0.323988655023
+['dollar', '85 dollar']	['second']	0.411650992685
+['dollar', '85 dollar']	['mechanic']	0.260434312732
+['dollar', '85 dollar']	['20 hour']	0.125024962568
+['dollar', '85 dollar']	['1100 dollar']	0.732805939382
+['dollar', '85 dollar']	['mechanic and second']	0.206488422783
+['mechanic', '85 dollar']	['two mechanic']	0.82859274408
+['mechanic', '85 dollar']	['first mechanic']	0.672009453191
+['mechanic', '85 dollar']	['45 dollar']	0.525944474896
+['mechanic', '85 dollar']	['hour']	0.0924896213908
+['mechanic', '85 dollar']	['second']	0.109080770735
+['mechanic', '85 dollar']	['dollar']	0.538128133695
+['mechanic', '85 dollar']	['20 hour']	0.0696933362217
+['mechanic', '85 dollar']	['1100 dollar']	0.525944474896
+['mechanic', '85 dollar']	['mechanic and second']	0.39432853221
+['20 hour', '85 dollar']	['two mechanic']	0.126675736021
+['20 hour', '85 dollar']	['first mechanic']	0.0868063705507
+['20 hour', '85 dollar']	['45 dollar']	0.584269096576
+['20 hour', '85 dollar']	['hour']	0.221317293508
+['20 hour', '85 dollar']	['second']	0.0892112996778
+['20 hour', '85 dollar']	['dollar']	0.226146353337
+['20 hour', '85 dollar']	['mechanic']	0.079730351659
+['20 hour', '85 dollar']	['1100 dollar']	0.584269096576
+['20 hour', '85 dollar']	['mechanic and second']	0.0908034291173
+['1100 dollar', '85 dollar']	['two mechanic']	0.139258682248
+['1100 dollar', '85 dollar']	['first mechanic']	0.14699641653
+['1100 dollar', '85 dollar']	['45 dollar']	0.637144068101
+['1100 dollar', '85 dollar']	['hour']	0.156901862603
+['1100 dollar', '85 dollar']	['second']	0.246734138582
+['1100 dollar', '85 dollar']	['dollar']	0.728074664361
+['1100 dollar', '85 dollar']	['mechanic']	0.33665242287
+['1100 dollar', '85 dollar']	['20 hour']	0.139258682248
+['1100 dollar', '85 dollar']	['mechanic and second']	0.297805101442
+['mechanic and second', '85 dollar']	['two mechanic']	0.152238479479
+['mechanic and second', '85 dollar']	['first mechanic']	0.330774674601
+['mechanic and second', '85 dollar']	['45 dollar']	0.653642048458
+['mechanic and second', '85 dollar']	['hour']	0.0644484122827
+['mechanic and second', '85 dollar']	['second']	0.355699869151
+['mechanic and second', '85 dollar']	['dollar']	0.317268469033
+['mechanic and second', '85 dollar']	['mechanic']	0.394739744591
+['mechanic and second', '85 dollar']	['20 hour']	0.152238479479
+['mechanic and second', '85 dollar']	['1100 dollar']	0.653642048458
+['two mechanic', 'mechanic']	['first mechanic']	0.880078956553
+['two mechanic', 'mechanic']	['45 dollar']	0.136831688603
+['two mechanic', 'mechanic']	['hour']	0.202306200855
+['two mechanic', 'mechanic']	['second']	0.319141009898
+['two mechanic', 'mechanic']	['dollar']	0.188972867521
+['two mechanic', 'mechanic']	['85 dollar']	0.136831688603
+['two mechanic', 'mechanic']	['20 hour']	0.247627320934
+['two mechanic', 'mechanic']	['1100 dollar']	0.136831688603
+['two mechanic', 'mechanic']	['mechanic and second']	0.647848721001
+['first mechanic', 'mechanic']	['two mechanic']	0.886673190471
+['first mechanic', 'mechanic']	['45 dollar']	0.187609861285
+['first mechanic', 'mechanic']	['hour']	0.268217200015
+['first mechanic', 'mechanic']	['second']	0.385052009058
+['first mechanic', 'mechanic']	['dollar']	0.254883866682
+['first mechanic', 'mechanic']	['85 dollar']	0.187609861285
+['first mechanic', 'mechanic']	['20 hour']	0.260700666745
+['first mechanic', 'mechanic']	['1100 dollar']	0.187609861285
+['first mechanic', 'mechanic']	['mechanic and second']	0.664856113008
+['45 dollar', 'mechanic']	['two mechanic']	0.82859274408
+['45 dollar', 'mechanic']	['first mechanic']	0.672009453191
+['45 dollar', 'mechanic']	['hour']	0.0924896213908
+['45 dollar', 'mechanic']	['second']	0.109080770735
+['45 dollar', 'mechanic']	['dollar']	0.538128133695
+['45 dollar', 'mechanic']	['85 dollar']	0.525944474896
+['45 dollar', 'mechanic']	['20 hour']	0.0696933362217
+['45 dollar', 'mechanic']	['1100 dollar']	0.525944474896
+['45 dollar', 'mechanic']	['mechanic and second']	0.39432853221
+['hour', 'mechanic']	['two mechanic']	0.336476934685
+['hour', 'mechanic']	['first mechanic']	0.303361588929
+['hour', 'mechanic']	['45 dollar']	0.0780842671024
+['hour', 'mechanic']	['second']	0.123386142969
+['hour', 'mechanic']	['dollar']	0.0968025030525
+['hour', 'mechanic']	['85 dollar']	0.0780842671024
+['hour', 'mechanic']	['20 hour']	0.306959563174
+['hour', 'mechanic']	['1100 dollar']	0.0780842671024
+['hour', 'mechanic']	['mechanic and second']	0.212719289322
+['second', 'mechanic']	['two mechanic']	0.532441496592
+['second', 'mechanic']	['first mechanic']	0.326861238806
+['second', 'mechanic']	['45 dollar']	0.118523866578
+['second', 'mechanic']	['hour']	0.133535332625
+['second', 'mechanic']	['dollar']	0.0972440041563
+['second', 'mechanic']	['85 dollar']	0.118523866578
+['second', 'mechanic']	['20 hour']	0.146229162952
+['second', 'mechanic']	['1100 dollar']	0.118523866578
+['second', 'mechanic']	['mechanic and second']	0.57929818371
+['dollar', 'mechanic']	['two mechanic']	0.336476934685
+['dollar', 'mechanic']	['first mechanic']	0.303361588929
+['dollar', 'mechanic']	['45 dollar']	0.309408862593
+['dollar', 'mechanic']	['hour']	0.0968025030525
+['dollar', 'mechanic']	['second']	0.206175747766
+['dollar', 'mechanic']	['85 dollar']	0.309408862593
+['dollar', 'mechanic']	['20 hour']	0.0780842671024
+['dollar', 'mechanic']	['1100 dollar']	0.391849831526
+['dollar', 'mechanic']	['mechanic and second']	0.224450549451
+['85 dollar', 'mechanic']	['two mechanic']	0.82859274408
+['85 dollar', 'mechanic']	['first mechanic']	0.672009453191
+['85 dollar', 'mechanic']	['45 dollar']	0.525944474896
+['85 dollar', 'mechanic']	['hour']	0.0924896213908
+['85 dollar', 'mechanic']	['second']	0.109080770735
+['85 dollar', 'mechanic']	['dollar']	0.538128133695
+['85 dollar', 'mechanic']	['20 hour']	0.0696933362217
+['85 dollar', 'mechanic']	['1100 dollar']	0.525944474896
+['85 dollar', 'mechanic']	['mechanic and second']	0.39432853221
+['20 hour', 'mechanic']	['two mechanic']	0.91948198451
+['20 hour', 'mechanic']	['first mechanic']	0.840188314578
+['20 hour', 'mechanic']	['45 dollar']	0.0696933362217
+['20 hour', 'mechanic']	['hour']	0.521461467028
+['20 hour', 'mechanic']	['second']	0.194174144253
+['20 hour', 'mechanic']	['dollar']	0.0924896213908
+['20 hour', 'mechanic']	['85 dollar']	0.0696933362217
+['20 hour', 'mechanic']	['1100 dollar']	0.0696933362217
+['20 hour', 'mechanic']	['mechanic and second']	0.39432853221
+['1100 dollar', 'mechanic']	['two mechanic']	0.82859274408
+['1100 dollar', 'mechanic']	['first mechanic']	0.672009453191
+['1100 dollar', 'mechanic']	['45 dollar']	0.525944474896
+['1100 dollar', 'mechanic']	['hour']	0.0924896213908
+['1100 dollar', 'mechanic']	['second']	0.109080770735
+['1100 dollar', 'mechanic']	['dollar']	0.508220546275
+['1100 dollar', 'mechanic']	['85 dollar']	0.525944474896
+['1100 dollar', 'mechanic']	['20 hour']	0.0696933362217
+['1100 dollar', 'mechanic']	['mechanic and second']	0.39432853221
+['mechanic and second', 'mechanic']	['two mechanic']	0.844218361313
+['mechanic and second', 'mechanic']	['first mechanic']	0.618848462149
+['mechanic and second', 'mechanic']	['45 dollar']	0.0696933362217
+['mechanic and second', 'mechanic']	['hour']	0.150498800168
+['mechanic and second', 'mechanic']	['second']	0.528909733491
+['mechanic and second', 'mechanic']	['dollar']	0.129903495785
+['mechanic and second', 'mechanic']	['85 dollar']	0.0696933362217
+['mechanic and second', 'mechanic']	['20 hour']	0.0696933362217
+['mechanic and second', 'mechanic']	['1100 dollar']	0.0696933362217
+['two mechanic', '20 hour']	['first mechanic']	0.531123510396
+['two mechanic', '20 hour']	['45 dollar']	0.0901100077042
+['two mechanic', '20 hour']	['hour']	0.206898916706
+['two mechanic', '20 hour']	['second']	0.0892112996778
+['two mechanic', '20 hour']	['dollar']	0.00424649792755
+['two mechanic', '20 hour']	['85 dollar']	0.0901100077042
+['two mechanic', '20 hour']	['mechanic']	0.860325692039
+['two mechanic', '20 hour']	['1100 dollar']	0.0901100077042
+['two mechanic', '20 hour']	['mechanic and second']	0.0908034291173
+['first mechanic', '20 hour']	['two mechanic']	0.516278806228
+['first mechanic', '20 hour']	['45 dollar']	0.0737139440912
+['first mechanic', '20 hour']	['hour']	0.236310681412
+['first mechanic', '20 hour']	['second']	0.0762984955907
+['first mechanic', '20 hour']	['dollar']	0.00222717737084
+['first mechanic', '20 hour']	['85 dollar']	0.0737139440912
+['first mechanic', '20 hour']	['mechanic']	0.654915119059
+['first mechanic', '20 hour']	['1100 dollar']	0.0737139440912
+['first mechanic', '20 hour']	['mechanic and second']	0.218490709285
+['45 dollar', '20 hour']	['two mechanic']	0.126675736021
+['45 dollar', '20 hour']	['first mechanic']	0.0868063705507
+['45 dollar', '20 hour']	['hour']	0.221317293508
+['45 dollar', '20 hour']	['second']	0.0892112996778
+['45 dollar', '20 hour']	['dollar']	0.226146353337
+['45 dollar', '20 hour']	['85 dollar']	0.584269096576
+['45 dollar', '20 hour']	['mechanic']	0.079730351659
+['45 dollar', '20 hour']	['1100 dollar']	0.584269096576
+['45 dollar', '20 hour']	['mechanic and second']	0.0908034291173
+['hour', '20 hour']	['two mechanic']	0.108213661491
+['hour', '20 hour']	['first mechanic']	0.125040635451
+['hour', '20 hour']	['45 dollar']	0.125024962568
+['hour', '20 hour']	['second']	0.317488547171
+['hour', '20 hour']	['dollar']	0.323988655023
+['hour', '20 hour']	['85 dollar']	0.125024962568
+['hour', '20 hour']	['mechanic']	0.273767646066
+['hour', '20 hour']	['1100 dollar']	0.125024962568
+['hour', '20 hour']	['mechanic and second']	0.254302747203
+['second', '20 hour']	['two mechanic']	0.0618737183104
+['second', '20 hour']	['first mechanic']	0.0465457621313
+['second', '20 hour']	['45 dollar']	0.0618737183104
+['second', '20 hour']	['hour']	0.440244889725
+['second', '20 hour']	['dollar']	0.232574513609
+['second', '20 hour']	['85 dollar']	0.0618737183104
+['second', '20 hour']	['mechanic']	0.11086262958
+['second', '20 hour']	['1100 dollar']	0.0618737183104
+['second', '20 hour']	['mechanic and second']	0.342899758509
+['dollar', '20 hour']	['two mechanic']	0.0221369896995
+['dollar', '20 hour']	['first mechanic']	0.0187994072397
+['dollar', '20 hour']	['45 dollar']	0.302398280583
+['dollar', '20 hour']	['hour']	0.437714336142
+['dollar', '20 hour']	['second']	0.431850237885
+['dollar', '20 hour']	['85 dollar']	0.302398280583
+['dollar', '20 hour']	['mechanic']	0.0773678664609
+['dollar', '20 hour']	['1100 dollar']	0.380321401688
+['dollar', '20 hour']	['mechanic and second']	0.026987674469
+['85 dollar', '20 hour']	['two mechanic']	0.126675736021
+['85 dollar', '20 hour']	['first mechanic']	0.0868063705507
+['85 dollar', '20 hour']	['45 dollar']	0.584269096576
+['85 dollar', '20 hour']	['hour']	0.221317293508
+['85 dollar', '20 hour']	['second']	0.0892112996778
+['85 dollar', '20 hour']	['dollar']	0.226146353337
+['85 dollar', '20 hour']	['mechanic']	0.079730351659
+['85 dollar', '20 hour']	['1100 dollar']	0.584269096576
+['85 dollar', '20 hour']	['mechanic and second']	0.0908034291173
+['mechanic', '20 hour']	['two mechanic']	0.91948198451
+['mechanic', '20 hour']	['first mechanic']	0.840188314578
+['mechanic', '20 hour']	['45 dollar']	0.0696933362217
+['mechanic', '20 hour']	['hour']	0.521461467028
+['mechanic', '20 hour']	['second']	0.194174144253
+['mechanic', '20 hour']	['dollar']	0.0924896213908
+['mechanic', '20 hour']	['85 dollar']	0.0696933362217
+['mechanic', '20 hour']	['1100 dollar']	0.0696933362217
+['mechanic', '20 hour']	['mechanic and second']	0.39432853221
+['1100 dollar', '20 hour']	['two mechanic']	0.126675736021
+['1100 dollar', '20 hour']	['first mechanic']	0.0868063705507
+['1100 dollar', '20 hour']	['45 dollar']	0.584269096576
+['1100 dollar', '20 hour']	['hour']	0.221317293508
+['1100 dollar', '20 hour']	['second']	0.0892112996778
+['1100 dollar', '20 hour']	['dollar']	0.34291890153
+['1100 dollar', '20 hour']	['85 dollar']	0.584269096576
+['1100 dollar', '20 hour']	['mechanic']	0.079730351659
+['1100 dollar', '20 hour']	['mechanic and second']	0.0908034291173
+['mechanic and second', '20 hour']	['two mechanic']	0.197610942174
+['mechanic and second', '20 hour']	['first mechanic']	0.240030720984
+['mechanic and second', '20 hour']	['45 dollar']	0.15961386663
+['mechanic and second', '20 hour']	['hour']	0.346200092965
+['mechanic and second', '20 hour']	['second']	0.344622258878
+['mechanic and second', '20 hour']	['dollar']	0.00766280318302
+['mechanic and second', '20 hour']	['85 dollar']	0.15961386663
+['mechanic and second', '20 hour']	['mechanic']	0.454739744591
+['mechanic and second', '20 hour']	['1100 dollar']	0.15961386663
+['two mechanic', '1100 dollar']	['first mechanic']	0.51364678879
+['two mechanic', '1100 dollar']	['45 dollar']	0.584269096576
+['two mechanic', '1100 dollar']	['hour']	0.00424649792755
+['two mechanic', '1100 dollar']	['second']	0.0257604518209
+['two mechanic', '1100 dollar']	['dollar']	0.265381505022
+['two mechanic', '1100 dollar']	['85 dollar']	0.584269096576
+['two mechanic', '1100 dollar']	['mechanic']	0.849214580928
+['two mechanic', '1100 dollar']	['20 hour']	0.126675736021
+['two mechanic', '1100 dollar']	['mechanic and second']	0.0908034291173
+['first mechanic', '1100 dollar']	['two mechanic']	0.465538040018
+['first mechanic', '1100 dollar']	['45 dollar']	0.544221442934
+['first mechanic', '1100 dollar']	['hour']	0.00222717737084
+['first mechanic', '1100 dollar']	['second']	0.0231369249482
+['first mechanic', '1100 dollar']	['dollar']	0.261459936394
+['first mechanic', '1100 dollar']	['85 dollar']	0.544221442934
+['first mechanic', '1100 dollar']	['mechanic']	0.654915119059
+['first mechanic', '1100 dollar']	['20 hour']	0.074092754852
+['first mechanic', '1100 dollar']	['mechanic and second']	0.225990709285
+['45 dollar', '1100 dollar']	['two mechanic']	0.139258682248
+['45 dollar', '1100 dollar']	['first mechanic']	0.14699641653
+['45 dollar', '1100 dollar']	['hour']	0.156901862603
+['45 dollar', '1100 dollar']	['second']	0.246734138582
+['45 dollar', '1100 dollar']	['dollar']	0.728074664361
+['45 dollar', '1100 dollar']	['85 dollar']	0.637144068101
+['45 dollar', '1100 dollar']	['mechanic']	0.33665242287
+['45 dollar', '1100 dollar']	['20 hour']	0.139258682248
+['45 dollar', '1100 dollar']	['mechanic and second']	0.297805101442
+['hour', '1100 dollar']	['two mechanic']	0.0165341599722
+['hour', '1100 dollar']	['first mechanic']	0.0199229782255
+['hour', '1100 dollar']	['45 dollar']	0.0852471420558
+['hour', '1100 dollar']	['second']	0.156809386393
+['hour', '1100 dollar']	['dollar']	0.341673280423
+['hour', '1100 dollar']	['85 dollar']	0.0852471420558
+['hour', '1100 dollar']	['mechanic']	0.0773678664609
+['hour', '1100 dollar']	['20 hour']	0.321774377989
+['hour', '1100 dollar']	['mechanic and second']	0.078607797902
+['second', '1100 dollar']	['two mechanic']	0.0384978040692
+['second', '1100 dollar']	['first mechanic']	0.0449134002434
+['second', '1100 dollar']	['45 dollar']	0.194706354441
+['second', '1100 dollar']	['hour']	0.0688440184271
+['second', '1100 dollar']	['dollar']	0.496289539948
+['second', '1100 dollar']	['85 dollar']	0.194706354441
+['second', '1100 dollar']	['mechanic']	0.11086262958
+['second', '1100 dollar']	['20 hour']	0.0953909804967
+['second', '1100 dollar']	['mechanic and second']	0.35394691967
+['dollar', '1100 dollar']	['two mechanic']	0.0798131677782
+['dollar', '1100 dollar']	['first mechanic']	0.101920210768
+['dollar', '1100 dollar']	['45 dollar']	0.693984630908
+['dollar', '1100 dollar']	['hour']	0.323988655023
+['dollar', '1100 dollar']	['second']	0.411650992685
+['dollar', '1100 dollar']	['85 dollar']	0.693984630908
+['dollar', '1100 dollar']	['mechanic']	0.260434312732
+['dollar', '1100 dollar']	['20 hour']	0.125024962568
+['dollar', '1100 dollar']	['mechanic and second']	0.206488422783
+['85 dollar', '1100 dollar']	['two mechanic']	0.139258682248
+['85 dollar', '1100 dollar']	['first mechanic']	0.14699641653
+['85 dollar', '1100 dollar']	['45 dollar']	0.637144068101
+['85 dollar', '1100 dollar']	['hour']	0.156901862603
+['85 dollar', '1100 dollar']	['second']	0.246734138582
+['85 dollar', '1100 dollar']	['dollar']	0.728074664361
+['85 dollar', '1100 dollar']	['mechanic']	0.33665242287
+['85 dollar', '1100 dollar']	['20 hour']	0.139258682248
+['85 dollar', '1100 dollar']	['mechanic and second']	0.297805101442
+['mechanic', '1100 dollar']	['two mechanic']	0.82859274408
+['mechanic', '1100 dollar']	['first mechanic']	0.672009453191
+['mechanic', '1100 dollar']	['45 dollar']	0.525944474896
+['mechanic', '1100 dollar']	['hour']	0.0924896213908
+['mechanic', '1100 dollar']	['second']	0.109080770735
+['mechanic', '1100 dollar']	['dollar']	0.508220546275
+['mechanic', '1100 dollar']	['85 dollar']	0.525944474896
+['mechanic', '1100 dollar']	['20 hour']	0.0696933362217
+['mechanic', '1100 dollar']	['mechanic and second']	0.39432853221
+['20 hour', '1100 dollar']	['two mechanic']	0.126675736021
+['20 hour', '1100 dollar']	['first mechanic']	0.0868063705507
+['20 hour', '1100 dollar']	['45 dollar']	0.584269096576
+['20 hour', '1100 dollar']	['hour']	0.221317293508
+['20 hour', '1100 dollar']	['second']	0.0892112996778
+['20 hour', '1100 dollar']	['dollar']	0.34291890153
+['20 hour', '1100 dollar']	['85 dollar']	0.584269096576
+['20 hour', '1100 dollar']	['mechanic']	0.079730351659
+['20 hour', '1100 dollar']	['mechanic and second']	0.0908034291173
+['mechanic and second', '1100 dollar']	['two mechanic']	0.152238479479
+['mechanic and second', '1100 dollar']	['first mechanic']	0.330774674601
+['mechanic and second', '1100 dollar']	['45 dollar']	0.653642048458
+['mechanic and second', '1100 dollar']	['hour']	0.0644484122827
+['mechanic and second', '1100 dollar']	['second']	0.355699869151
+['mechanic and second', '1100 dollar']	['dollar']	0.394946604786
+['mechanic and second', '1100 dollar']	['85 dollar']	0.653642048458
+['mechanic and second', '1100 dollar']	['mechanic']	0.394739744591
+['mechanic and second', '1100 dollar']	['20 hour']	0.152238479479
+['two mechanic', 'mechanic and second']	['first mechanic']	0.780285489285
+['two mechanic', 'mechanic and second']	['45 dollar']	0.15961386663
+['two mechanic', 'mechanic and second']	['hour']	0.055094449772
+['two mechanic', 'mechanic and second']	['second']	0.317441315301
+['two mechanic', 'mechanic and second']	['dollar']	0.00766280318302
+['two mechanic', 'mechanic and second']	['85 dollar']	0.15961386663
+['two mechanic', 'mechanic and second']	['mechanic']	0.770208756413
+['two mechanic', 'mechanic and second']	['20 hour']	0.197610942174
+['two mechanic', 'mechanic and second']	['1100 dollar']	0.15961386663
+['first mechanic', 'mechanic and second']	['two mechanic']	0.591728061673
+['first mechanic', 'mechanic and second']	['45 dollar']	0.128877148308
+['first mechanic', 'mechanic and second']	['hour']	0.0542957396675
+['first mechanic', 'mechanic and second']	['second']	0.306174845533
+['first mechanic', 'mechanic and second']	['dollar']	0.0050145518087
+['first mechanic', 'mechanic and second']	['85 dollar']	0.128877148308
+['first mechanic', 'mechanic and second']	['mechanic']	0.727807806399
+['first mechanic', 'mechanic and second']	['20 hour']	0.125907134439
+['first mechanic', 'mechanic and second']	['1100 dollar']	0.128877148308
+['45 dollar', 'mechanic and second']	['two mechanic']	0.152238479479
+['45 dollar', 'mechanic and second']	['first mechanic']	0.330774674601
+['45 dollar', 'mechanic and second']	['hour']	0.0644484122827
+['45 dollar', 'mechanic and second']	['second']	0.355699869151
+['45 dollar', 'mechanic and second']	['dollar']	0.317268469033
+['45 dollar', 'mechanic and second']	['85 dollar']	0.653642048458
+['45 dollar', 'mechanic and second']	['mechanic']	0.394739744591
+['45 dollar', 'mechanic and second']	['20 hour']	0.152238479479
+['45 dollar', 'mechanic and second']	['1100 dollar']	0.653642048458
+['hour', 'mechanic and second']	['two mechanic']	0.0165341599722
+['hour', 'mechanic and second']	['first mechanic']	0.0803793404826
+['hour', 'mechanic and second']	['45 dollar']	0.0160064194205
+['hour', 'mechanic and second']	['second']	0.36922626074
+['hour', 'mechanic and second']	['dollar']	0.403319813086
+['hour', 'mechanic and second']	['85 dollar']	0.0160064194205
+['hour', 'mechanic and second']	['mechanic']	0.201276659643
+['hour', 'mechanic and second']	['20 hour']	0.325125570743
+['hour', 'mechanic and second']	['1100 dollar']	0.0160064194205
+['second', 'mechanic and second']	['two mechanic']	0.0957461490353
+['second', 'mechanic and second']	['first mechanic']	0.236099680878
+['second', 'mechanic and second']	['45 dollar']	0.183873817054
+['second', 'mechanic and second']	['hour']	0.317488547171
+['second', 'mechanic and second']	['dollar']	0.411650992685
+['second', 'mechanic and second']	['85 dollar']	0.183873817054
+['second', 'mechanic and second']	['mechanic']	0.52040407052
+['second', 'mechanic and second']	['20 hour']	0.225714806323
+['second', 'mechanic and second']	['1100 dollar']	0.183873817054
+['dollar', 'mechanic and second']	['two mechanic']	0.0165341599722
+['dollar', 'mechanic and second']	['first mechanic']	0.0803793404826
+['dollar', 'mechanic and second']	['45 dollar']	0.283548058439
+['dollar', 'mechanic and second']	['hour']	0.467747673782
+['dollar', 'mechanic and second']	['second']	0.399880853061
+['dollar', 'mechanic and second']	['85 dollar']	0.283548058439
+['dollar', 'mechanic and second']	['mechanic']	0.196762770754
+['dollar', 'mechanic and second']	['20 hour']	0.0160064194205
+['dollar', 'mechanic and second']	['1100 dollar']	0.356496055166
+['85 dollar', 'mechanic and second']	['two mechanic']	0.152238479479
+['85 dollar', 'mechanic and second']	['first mechanic']	0.330774674601
+['85 dollar', 'mechanic and second']	['45 dollar']	0.653642048458
+['85 dollar', 'mechanic and second']	['hour']	0.0644484122827
+['85 dollar', 'mechanic and second']	['second']	0.355699869151
+['85 dollar', 'mechanic and second']	['dollar']	0.317268469033
+['85 dollar', 'mechanic and second']	['mechanic']	0.394739744591
+['85 dollar', 'mechanic and second']	['20 hour']	0.152238479479
+['85 dollar', 'mechanic and second']	['1100 dollar']	0.653642048458
+['mechanic', 'mechanic and second']	['two mechanic']	0.844218361313
+['mechanic', 'mechanic and second']	['first mechanic']	0.618848462149
+['mechanic', 'mechanic and second']	['45 dollar']	0.0696933362217
+['mechanic', 'mechanic and second']	['hour']	0.150498800168
+['mechanic', 'mechanic and second']	['second']	0.528909733491
+['mechanic', 'mechanic and second']	['dollar']	0.129903495785
+['mechanic', 'mechanic and second']	['85 dollar']	0.0696933362217
+['mechanic', 'mechanic and second']	['20 hour']	0.0696933362217
+['mechanic', 'mechanic and second']	['1100 dollar']	0.0696933362217
+['20 hour', 'mechanic and second']	['two mechanic']	0.197610942174
+['20 hour', 'mechanic and second']	['first mechanic']	0.240030720984
+['20 hour', 'mechanic and second']	['45 dollar']	0.15961386663
+['20 hour', 'mechanic and second']	['hour']	0.346200092965
+['20 hour', 'mechanic and second']	['second']	0.344622258878
+['20 hour', 'mechanic and second']	['dollar']	0.00766280318302
+['20 hour', 'mechanic and second']	['85 dollar']	0.15961386663
+['20 hour', 'mechanic and second']	['mechanic']	0.454739744591
+['20 hour', 'mechanic and second']	['1100 dollar']	0.15961386663
+['1100 dollar', 'mechanic and second']	['two mechanic']	0.152238479479
+['1100 dollar', 'mechanic and second']	['first mechanic']	0.330774674601
+['1100 dollar', 'mechanic and second']	['45 dollar']	0.653642048458
+['1100 dollar', 'mechanic and second']	['hour']	0.0644484122827
+['1100 dollar', 'mechanic and second']	['second']	0.355699869151
+['1100 dollar', 'mechanic and second']	['dollar']	0.394946604786
+['1100 dollar', 'mechanic and second']	['85 dollar']	0.653642048458
+['1100 dollar', 'mechanic and second']	['mechanic']	0.394739744591
+['1100 dollar', 'mechanic and second']	['20 hour']	0.152238479479

@@ -1,0 +1,29 @@
+['150 coin', 'nickel and dime', '12 more dime', 'dime']
+['150 coin']	['nickel and dime']	0.0941266761548
+['150 coin']	['12 more dime']	0.0941266761548
+['150 coin']	['dime']	0.748829407114
+['nickel and dime']	['12 more dime']	0.520767003518
+['nickel and dime', '150 coin']	['12 more dime']	0.689142469169
+['nickel and dime', '150 coin']	['dime']	0.426605421253
+['12 more dime', '150 coin']	['nickel and dime']	0.713006427809
+['12 more dime', '150 coin']	['dime']	0.426605421253
+['dime', '150 coin']	['nickel and dime']	0.382126812577
+['dime', '150 coin']	['12 more dime']	0.382126812577
+['150 coin', 'nickel and dime']	['12 more dime']	0.689142469169
+['150 coin', 'nickel and dime']	['dime']	0.426605421253
+['12 more dime', 'nickel and dime']	['150 coin']	0.127952343303
+['12 more dime', 'nickel and dime']	['dime']	0.491464704504
+['dime', 'nickel and dime']	['150 coin']	0.441669765796
+['dime', 'nickel and dime']	['12 more dime']	0.490248041295
+['150 coin', '12 more dime']	['nickel and dime']	0.713006427809
+['150 coin', '12 more dime']	['dime']	0.426605421253
+['nickel and dime', '12 more dime']	['150 coin']	0.127952343303
+['nickel and dime', '12 more dime']	['dime']	0.491464704504
+['dime', '12 more dime']	['150 coin']	0.441669765796
+['dime', '12 more dime']	['nickel and dime']	0.490248041295
+['150 coin', 'dime']	['nickel and dime']	0.382126812577
+['150 coin', 'dime']	['12 more dime']	0.382126812577
+['nickel and dime', 'dime']	['150 coin']	0.441669765796
+['nickel and dime', 'dime']	['12 more dime']	0.490248041295
+['12 more dime', 'dime']	['150 coin']	0.441669765796
+['12 more dime', 'dime']	['nickel and dime']	0.490248041295

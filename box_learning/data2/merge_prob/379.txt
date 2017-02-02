@@ -1,0 +1,131 @@
+['candy bar', 'bar', '2 bar', '10 spare bar', '24 candy bar', 'friend']
+['candy bar']	['2 bar']	0.556137096067
+['candy bar']	['10 spare bar']	0.539106353932
+['candy bar']	['friend']	0.0617470987896
+['bar']	['friend']	0.046933224487
+['2 bar']	['10 spare bar']	0.68119517674
+['2 bar']	['24 candy bar']	0.68119517674
+['2 bar']	['friend']	0.0741073489195
+['10 spare bar']	['24 candy bar']	0.811753586716
+['10 spare bar']	['friend']	0.0840176431843
+['24 candy bar']	['friend']	0.0840176431843
+['bar', 'candy bar']	['2 bar']	0.869113674924
+['bar', 'candy bar']	['10 spare bar']	0.81591706556
+['bar', 'candy bar']	['24 candy bar']	0.880290301861
+['bar', 'candy bar']	['friend']	0.308935207528
+['2 bar', 'candy bar']	['bar']	0.817199025228
+['2 bar', 'candy bar']	['10 spare bar']	0.713008539524
+['2 bar', 'candy bar']	['24 candy bar']	0.925919659571
+['2 bar', 'candy bar']	['friend']	0.367128906718
+['10 spare bar', 'candy bar']	['bar']	0.838914354589
+['10 spare bar', 'candy bar']	['2 bar']	0.80294222263
+['10 spare bar', 'candy bar']	['24 candy bar']	0.964017197888
+['10 spare bar', 'candy bar']	['friend']	0.392230068789
+['24 candy bar', 'candy bar']	['bar']	0.838914354589
+['24 candy bar', 'candy bar']	['2 bar']	0.80294222263
+['24 candy bar', 'candy bar']	['10 spare bar']	0.925626530736
+['24 candy bar', 'candy bar']	['friend']	0.392230068789
+['friend', 'candy bar']	['bar']	0.813194773933
+['friend', 'candy bar']	['2 bar']	0.511515545547
+['friend', 'candy bar']	['10 spare bar']	0.572260235035
+['friend', 'candy bar']	['24 candy bar']	0.829510000649
+['candy bar', 'bar']	['2 bar']	0.869113674924
+['candy bar', 'bar']	['10 spare bar']	0.81591706556
+['candy bar', 'bar']	['24 candy bar']	0.880290301861
+['candy bar', 'bar']	['friend']	0.308935207528
+['2 bar', 'bar']	['candy bar']	0.922407441426
+['2 bar', 'bar']	['10 spare bar']	0.816935381481
+['2 bar', 'bar']	['24 candy bar']	0.816935381481
+['2 bar', 'bar']	['friend']	0.251059101333
+['10 spare bar', 'bar']	['candy bar']	0.869869562828
+['10 spare bar', 'bar']	['2 bar']	0.872598473589
+['10 spare bar', 'bar']	['24 candy bar']	0.763339952674
+['10 spare bar', 'bar']	['friend']	0.251059101333
+['24 candy bar', 'bar']	['candy bar']	0.773574795138
+['24 candy bar', 'bar']	['2 bar']	0.872598473589
+['24 candy bar', 'bar']	['10 spare bar']	0.763339952674
+['24 candy bar', 'bar']	['friend']	0.251059101333
+['friend', 'bar']	['candy bar']	0.805874738094
+['friend', 'bar']	['2 bar']	0.652613359709
+['friend', 'bar']	['10 spare bar']	0.758402881714
+['friend', 'bar']	['24 candy bar']	0.758402881714
+['candy bar', '2 bar']	['bar']	0.817199025228
+['candy bar', '2 bar']	['10 spare bar']	0.713008539524
+['candy bar', '2 bar']	['24 candy bar']	0.925919659571
+['candy bar', '2 bar']	['friend']	0.367128906718
+['bar', '2 bar']	['candy bar']	0.922407441426
+['bar', '2 bar']	['10 spare bar']	0.816935381481
+['bar', '2 bar']	['24 candy bar']	0.816935381481
+['bar', '2 bar']	['friend']	0.251059101333
+['10 spare bar', '2 bar']	['candy bar']	0.652967681898
+['10 spare bar', '2 bar']	['bar']	0.840232650754
+['10 spare bar', '2 bar']	['24 candy bar']	0.862107763314
+['10 spare bar', '2 bar']	['friend']	0.402398382932
+['24 candy bar', '2 bar']	['candy bar']	0.96887861521
+['24 candy bar', '2 bar']	['bar']	0.840232650754
+['24 candy bar', '2 bar']	['10 spare bar']	0.862107763314
+['24 candy bar', '2 bar']	['friend']	0.402398382932
+['friend', '2 bar']	['candy bar']	0.4635274149
+['friend', '2 bar']	['bar']	0.702643505265
+['friend', '2 bar']	['10 spare bar']	0.559564755972
+['friend', '2 bar']	['24 candy bar']	0.559564755972
+['candy bar', '10 spare bar']	['bar']	0.838914354589
+['candy bar', '10 spare bar']	['2 bar']	0.80294222263
+['candy bar', '10 spare bar']	['24 candy bar']	0.964017197888
+['candy bar', '10 spare bar']	['friend']	0.392230068789
+['bar', '10 spare bar']	['candy bar']	0.869869562828
+['bar', '10 spare bar']	['2 bar']	0.872598473589
+['bar', '10 spare bar']	['24 candy bar']	0.763339952674
+['bar', '10 spare bar']	['friend']	0.251059101333
+['2 bar', '10 spare bar']	['candy bar']	0.652967681898
+['2 bar', '10 spare bar']	['bar']	0.840232650754
+['2 bar', '10 spare bar']	['24 candy bar']	0.862107763314
+['2 bar', '10 spare bar']	['friend']	0.402398382932
+['24 candy bar', '10 spare bar']	['candy bar']	0.975431271506
+['24 candy bar', '10 spare bar']	['bar']	0.750501318875
+['24 candy bar', '10 spare bar']	['2 bar']	0.840551472459
+['24 candy bar', '10 spare bar']	['friend']	0.343231466775
+['friend', '10 spare bar']	['candy bar']	0.4635274149
+['friend', '10 spare bar']	['bar']	0.728699223023
+['friend', '10 spare bar']	['2 bar']	0.505802615752
+['friend', '10 spare bar']	['24 candy bar']	0.752654074902
+['candy bar', '24 candy bar']	['bar']	0.838914354589
+['candy bar', '24 candy bar']	['2 bar']	0.80294222263
+['candy bar', '24 candy bar']	['10 spare bar']	0.925626530736
+['candy bar', '24 candy bar']	['friend']	0.392230068789
+['bar', '24 candy bar']	['candy bar']	0.773574795138
+['bar', '24 candy bar']	['2 bar']	0.872598473589
+['bar', '24 candy bar']	['10 spare bar']	0.763339952674
+['bar', '24 candy bar']	['friend']	0.251059101333
+['2 bar', '24 candy bar']	['candy bar']	0.96887861521
+['2 bar', '24 candy bar']	['bar']	0.840232650754
+['2 bar', '24 candy bar']	['10 spare bar']	0.862107763314
+['2 bar', '24 candy bar']	['friend']	0.402398382932
+['10 spare bar', '24 candy bar']	['candy bar']	0.975431271506
+['10 spare bar', '24 candy bar']	['bar']	0.750501318875
+['10 spare bar', '24 candy bar']	['2 bar']	0.840551472459
+['10 spare bar', '24 candy bar']	['friend']	0.343231466775
+['friend', '24 candy bar']	['candy bar']	0.853334906607
+['friend', '24 candy bar']	['bar']	0.728699223023
+['friend', '24 candy bar']	['2 bar']	0.505802615752
+['friend', '24 candy bar']	['10 spare bar']	0.752654074902
+['candy bar', 'friend']	['bar']	0.813194773933
+['candy bar', 'friend']	['2 bar']	0.511515545547
+['candy bar', 'friend']	['10 spare bar']	0.572260235035
+['candy bar', 'friend']	['24 candy bar']	0.829510000649
+['bar', 'friend']	['candy bar']	0.805874738094
+['bar', 'friend']	['2 bar']	0.652613359709
+['bar', 'friend']	['10 spare bar']	0.758402881714
+['bar', 'friend']	['24 candy bar']	0.758402881714
+['2 bar', 'friend']	['candy bar']	0.4635274149
+['2 bar', 'friend']	['bar']	0.702643505265
+['2 bar', 'friend']	['10 spare bar']	0.559564755972
+['2 bar', 'friend']	['24 candy bar']	0.559564755972
+['10 spare bar', 'friend']	['candy bar']	0.4635274149
+['10 spare bar', 'friend']	['bar']	0.728699223023
+['10 spare bar', 'friend']	['2 bar']	0.505802615752
+['10 spare bar', 'friend']	['24 candy bar']	0.752654074902
+['24 candy bar', 'friend']	['candy bar']	0.853334906607
+['24 candy bar', 'friend']	['bar']	0.728699223023
+['24 candy bar', 'friend']	['2 bar']	0.505802615752
+['24 candy bar', 'friend']	['10 spare bar']	0.752654074902

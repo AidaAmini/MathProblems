@@ -1,0 +1,16 @@
+1
+[['car', '15', 'car', '-', '-', 'people', '72'], ['4 passenger car', 'x1', 'car', 'people', '4', '-', '-'], ['6 passenger car', 'x2', 'car', 'people', '6', '-', '-']]
+-1
+[['car', 'x2', 'people', '-', '6', '6 passenger car', '72'], ['4 passenger car', 'x1', 'car', 'people', '4', '-', '-'], ['6 passenger car', 'x2', 'car', '72', '6', '-', '-']]
+-1
+[['car', '15', 'car', '-', '6 passenger car', 'people', '72'], ['4 passenger car', 'x1', 'car', 'people', '4', '-', '-'], ['6 passenger car', 'x2', 'car', 'people', '6', '-', '72']]
+-1
+[['car', '6', 'car', '-', '-', '6 passenger car', 'x2'], ['4 passenger car', 'x1', 'car', 'people', '4', '-', '-'], ['6 passenger car', 'x2', 'car', 'people', '6', '-', '-']]
+-1
+[['6 passenger car', 'x2', 'car', '-', '-', 'people', '72'], ['4 passenger car', 'x1', 'car', 'people', '4', '-', '-'], ['6 passenger car', 'x2', 'car', 'people', '72', '-', '-']]
+-1
+[['car', '15', 'car', '-', '-', '6 passenger car', '72'], ['4 passenger car', 'x1', 'car', 'people', '4', '-', '-'], ['6 passenger car', 'x2', 'car', 'people', '72', '-', '-']]
+-1
+[['car', '15', 'car', '-', 'x2', 'people', '6 passenger car'], ['4 passenger car', 'x1', 'car', 'people', '4', '-', '-'], ['6 passenger car', 'x2', 'car', '72', '6', '-', '-']]
+-1
+[['car', '15', '6 passenger car', '-', '-', '6', '72'], ['4 passenger car', 'x1', 'car', 'people', '4', '-', '-'], ['6 passenger car', 'x2', 'car', 'people', '6', '-', '72']]

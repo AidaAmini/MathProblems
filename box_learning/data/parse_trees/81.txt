@@ -1,0 +1,42 @@
+(ROOT
+  (NP
+    (NP (NNS Tickets))
+    (PP
+      (IN for)
+      (NP
+        (NP (DT a) (JJ ballet) (NN performance) (NN cost))
+        (PP
+          (NP (CD 14) (NNS dollars))
+          (IN for)
+          (NP (NP (NNS adults)) (CC and) (NP (CD 12) (NNS dollars))))))
+    (PP (IN for) (NP (NNS students)))
+    (. .)))
+(ROOT
+  (FRAG
+    (SBAR
+      (IN If)
+      (S
+        (NP
+          (NP (JJ total) (NNS receipts))
+          (PP
+            (IN from)
+            (NP
+              (NP (DT the) (NN sale))
+              (PP (IN of) (NP (CD 605) (NNS tickets))))))
+        (VP
+          (VBD were)
+          (NP (CD 8,390.00) (NNS dollars))
+          (, ,)
+          (SBAR
+            (WHADJP (WRB how) (JJ many))
+            (S
+              (NP (JJ adult) (NNS tickets))
+              (VP (VBD were) (VP (VBN sold))))))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP (NP (NN student)) (NP (NNS tickets))))
+    (SQ (VBD were) (VP (VBN sold)))
+    (. ?)))

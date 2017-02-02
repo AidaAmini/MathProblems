@@ -1,0 +1,362 @@
+['10 dollar', 'hour', 'tractor', 'dollar', '12 dollar', 'income', 'week', '416 dollar']
+['10 dollar']	['10 dollar']	0.0193931085789
+['10 dollar']	['10 dollar']	0.0585905397909
+['10 dollar']	['10 dollar']	0.65022495873
+['10 dollar']	['10 dollar']	0.0824169897896
+['10 dollar']	['10 dollar']	0.017490982363
+['10 dollar']	['10 dollar']	0.619435082006
+['hour']	['hour']	0.0139535113039
+['hour']	['hour']	0.0458616686448
+['hour']	['hour']	0.0326699370744
+['hour']	['hour']	0.0193057696433
+['hour']	['hour']	0.0120010545769
+['hour']	['hour']	0.0326699370744
+['tractor']	['tractor']	0.0188266152261
+['tractor']	['tractor']	0.068453870638
+['tractor']	['tractor']	0.0831398930562
+['tractor']	['tractor']	0.0233965181914
+['tractor']	['tractor']	0.068453870638
+['dollar']	['dollar']	0.0920376327794
+['dollar']	['dollar']	0.0106391393658
+['12 dollar']	['12 dollar']	0.0824169897896
+['12 dollar']	['12 dollar']	0.017490982363
+['12 dollar']	['12 dollar']	0.619435082006
+['income']	['income']	0.025742346739
+['income']	['income']	0.0884566206438
+['week']	['week']	0.0276968987592
+['hour', '10 dollar']	['hour', '10 dollar']	0.0205372929947
+['hour', '10 dollar']	['hour', '10 dollar']	0.0527887336629
+['hour', '10 dollar']	['hour', '10 dollar']	0.106068431277
+['hour', '10 dollar']	['hour', '10 dollar']	0.0286687594743
+['hour', '10 dollar']	['hour', '10 dollar']	0.00704763466313
+['hour', '10 dollar']	['hour', '10 dollar']	0.0974208046642
+['tractor', '10 dollar']	['tractor', '10 dollar']	0.015693537617
+['tractor', '10 dollar']	['tractor', '10 dollar']	0.057486901978
+['tractor', '10 dollar']	['tractor', '10 dollar']	0.129769333522
+['tractor', '10 dollar']	['tractor', '10 dollar']	0.123344388243
+['tractor', '10 dollar']	['tractor', '10 dollar']	0.0717412633578
+['tractor', '10 dollar']	['tractor', '10 dollar']	0.108315255981
+['dollar', '10 dollar']	['dollar', '10 dollar']	0.0163246174034
+['dollar', '10 dollar']	['dollar', '10 dollar']	0.0157644550909
+['dollar', '10 dollar']	['dollar', '10 dollar']	0.0649468769314
+['dollar', '10 dollar']	['dollar', '10 dollar']	0.057995890231
+['dollar', '10 dollar']	['dollar', '10 dollar']	0.036742317069
+['dollar', '10 dollar']	['dollar', '10 dollar']	0.050174214207
+['12 dollar', '10 dollar']	['12 dollar', '10 dollar']	0.0480737349111
+['12 dollar', '10 dollar']	['12 dollar', '10 dollar']	0.0835308030293
+['12 dollar', '10 dollar']	['12 dollar', '10 dollar']	0.0177086275967
+['12 dollar', '10 dollar']	['12 dollar', '10 dollar']	0.207135603763
+['12 dollar', '10 dollar']	['12 dollar', '10 dollar']	0.0679872930292
+['12 dollar', '10 dollar']	['12 dollar', '10 dollar']	0.629369170797
+['income', '10 dollar']	['income', '10 dollar']	0.0182028187405
+['income', '10 dollar']	['income', '10 dollar']	0.211210690136
+['income', '10 dollar']	['income', '10 dollar']	0.0514591146175
+['income', '10 dollar']	['income', '10 dollar']	0.218917904033
+['income', '10 dollar']	['income', '10 dollar']	0.043375661798
+['income', '10 dollar']	['income', '10 dollar']	0.206613913844
+['week', '10 dollar']	['week', '10 dollar']	0.00704763466313
+['week', '10 dollar']	['week', '10 dollar']	0.0719158125308
+['week', '10 dollar']	['week', '10 dollar']	0.0636353727642
+['week', '10 dollar']	['week', '10 dollar']	0.075235077019
+['week', '10 dollar']	['week', '10 dollar']	0.058995837707
+['week', '10 dollar']	['week', '10 dollar']	0.0795103424585
+['416 dollar', '10 dollar']	['416 dollar', '10 dollar']	0.0480737349111
+['416 dollar', '10 dollar']	['416 dollar', '10 dollar']	0.0835308030293
+['416 dollar', '10 dollar']	['416 dollar', '10 dollar']	0.0205506685967
+['416 dollar', '10 dollar']	['416 dollar', '10 dollar']	0.639702759795
+['416 dollar', '10 dollar']	['416 dollar', '10 dollar']	0.207135603763
+['416 dollar', '10 dollar']	['416 dollar', '10 dollar']	0.0679872930292
+['10 dollar', 'hour']	['10 dollar', 'hour']	0.0205372929947
+['10 dollar', 'hour']	['10 dollar', 'hour']	0.0527887336629
+['10 dollar', 'hour']	['10 dollar', 'hour']	0.106068431277
+['10 dollar', 'hour']	['10 dollar', 'hour']	0.0286687594743
+['10 dollar', 'hour']	['10 dollar', 'hour']	0.00704763466313
+['10 dollar', 'hour']	['10 dollar', 'hour']	0.0974208046642
+['tractor', 'hour']	['tractor', 'hour']	0.0491777008986
+['tractor', 'hour']	['tractor', 'hour']	0.0998356779274
+['tractor', 'hour']	['tractor', 'hour']	0.0491777008986
+['tractor', 'hour']	['tractor', 'hour']	0.0475538138754
+['tractor', 'hour']	['tractor', 'hour']	0.0641501416634
+['tractor', 'hour']	['tractor', 'hour']	0.0491777008986
+['dollar', 'hour']	['dollar', 'hour']	0.0381387889571
+['dollar', 'hour']	['dollar', 'hour']	0.0233965181914
+['dollar', 'hour']	['dollar', 'hour']	0.0381387889571
+['dollar', 'hour']	['dollar', 'hour']	0.0990994063504
+['dollar', 'hour']	['dollar', 'hour']	0.0461381952442
+['dollar', 'hour']	['dollar', 'hour']	0.0422425497936
+['12 dollar', 'hour']	['12 dollar', 'hour']	0.106068431277
+['12 dollar', 'hour']	['12 dollar', 'hour']	0.0205372929947
+['12 dollar', 'hour']	['12 dollar', 'hour']	0.0527887336629
+['12 dollar', 'hour']	['12 dollar', 'hour']	0.0286687594743
+['12 dollar', 'hour']	['12 dollar', 'hour']	0.00704763466313
+['12 dollar', 'hour']	['12 dollar', 'hour']	0.0974208046642
+['income', 'hour']	['income', 'hour']	0.0491777008986
+['income', 'hour']	['income', 'hour']	0.0315349736259
+['income', 'hour']	['income', 'hour']	0.0191950019782
+['income', 'hour']	['income', 'hour']	0.0491777008986
+['income', 'hour']	['income', 'hour']	0.103015217205
+['income', 'hour']	['income', 'hour']	0.0491777008986
+['week', 'hour']	['week', 'hour']	0.0276968987592
+['week', 'hour']	['week', 'hour']	0.0233965181914
+['week', 'hour']	['week', 'hour']	0.0453424439956
+['week', 'hour']	['week', 'hour']	0.0276968987592
+['week', 'hour']	['week', 'hour']	0.0911232828504
+['week', 'hour']	['week', 'hour']	0.0276968987592
+['416 dollar', 'hour']	['416 dollar', 'hour']	0.0974208046642
+['416 dollar', 'hour']	['416 dollar', 'hour']	0.0205372929947
+['416 dollar', 'hour']	['416 dollar', 'hour']	0.0339857510185
+['416 dollar', 'hour']	['416 dollar', 'hour']	0.0974208046642
+['416 dollar', 'hour']	['416 dollar', 'hour']	0.0286687594743
+['416 dollar', 'hour']	['416 dollar', 'hour']	0.00704763466313
+['10 dollar', 'tractor']	['10 dollar', 'tractor']	0.015693537617
+['10 dollar', 'tractor']	['10 dollar', 'tractor']	0.057486901978
+['10 dollar', 'tractor']	['10 dollar', 'tractor']	0.129769333522
+['10 dollar', 'tractor']	['10 dollar', 'tractor']	0.123344388243
+['10 dollar', 'tractor']	['10 dollar', 'tractor']	0.0717412633578
+['10 dollar', 'tractor']	['10 dollar', 'tractor']	0.108315255981
+['hour', 'tractor']	['hour', 'tractor']	0.0491777008986
+['hour', 'tractor']	['hour', 'tractor']	0.0998356779274
+['hour', 'tractor']	['hour', 'tractor']	0.0491777008986
+['hour', 'tractor']	['hour', 'tractor']	0.0475538138754
+['hour', 'tractor']	['hour', 'tractor']	0.0641501416634
+['hour', 'tractor']	['hour', 'tractor']	0.0491777008986
+['dollar', 'tractor']	['dollar', 'tractor']	0.0470053215642
+['dollar', 'tractor']	['dollar', 'tractor']	0.0998579197294
+['dollar', 'tractor']	['dollar', 'tractor']	0.0470053215642
+['dollar', 'tractor']	['dollar', 'tractor']	0.234800045662
+['dollar', 'tractor']	['dollar', 'tractor']	0.0233965181914
+['dollar', 'tractor']	['dollar', 'tractor']	0.0432054538143
+['12 dollar', 'tractor']	['12 dollar', 'tractor']	0.129769333522
+['12 dollar', 'tractor']	['12 dollar', 'tractor']	0.015693537617
+['12 dollar', 'tractor']	['12 dollar', 'tractor']	0.057486901978
+['12 dollar', 'tractor']	['12 dollar', 'tractor']	0.123344388243
+['12 dollar', 'tractor']	['12 dollar', 'tractor']	0.0717412633578
+['12 dollar', 'tractor']	['12 dollar', 'tractor']	0.108315255981
+['income', 'tractor']	['income', 'tractor']	0.0782856296381
+['income', 'tractor']	['income', 'tractor']	0.0139535113039
+['income', 'tractor']	['income', 'tractor']	0.130391233483
+['income', 'tractor']	['income', 'tractor']	0.0782856296381
+['income', 'tractor']	['income', 'tractor']	0.0233965181914
+['income', 'tractor']	['income', 'tractor']	0.0782856296381
+['week', 'tractor']	['week', 'tractor']	0.0332277349527
+['week', 'tractor']	['week', 'tractor']	0.0609755384888
+['week', 'tractor']	['week', 'tractor']	0.0417264371295
+['week', 'tractor']	['week', 'tractor']	0.0332277349527
+['week', 'tractor']	['week', 'tractor']	0.0691237034754
+['week', 'tractor']	['week', 'tractor']	0.0332277349527
+['416 dollar', 'tractor']	['416 dollar', 'tractor']	0.108315255981
+['416 dollar', 'tractor']	['416 dollar', 'tractor']	0.015693537617
+['416 dollar', 'tractor']	['416 dollar', 'tractor']	0.0386839193336
+['416 dollar', 'tractor']	['416 dollar', 'tractor']	0.108315255981
+['416 dollar', 'tractor']	['416 dollar', 'tractor']	0.123344388243
+['416 dollar', 'tractor']	['416 dollar', 'tractor']	0.0717412633578
+['10 dollar', 'dollar']	['10 dollar', 'dollar']	0.0163246174034
+['10 dollar', 'dollar']	['10 dollar', 'dollar']	0.0157644550909
+['10 dollar', 'dollar']	['10 dollar', 'dollar']	0.0649468769314
+['10 dollar', 'dollar']	['10 dollar', 'dollar']	0.057995890231
+['10 dollar', 'dollar']	['10 dollar', 'dollar']	0.036742317069
+['10 dollar', 'dollar']	['10 dollar', 'dollar']	0.050174214207
+['hour', 'dollar']	['hour', 'dollar']	0.0381387889571
+['hour', 'dollar']	['hour', 'dollar']	0.0233965181914
+['hour', 'dollar']	['hour', 'dollar']	0.0381387889571
+['hour', 'dollar']	['hour', 'dollar']	0.0990994063504
+['hour', 'dollar']	['hour', 'dollar']	0.0461381952442
+['hour', 'dollar']	['hour', 'dollar']	0.0422425497936
+['tractor', 'dollar']	['tractor', 'dollar']	0.0470053215642
+['tractor', 'dollar']	['tractor', 'dollar']	0.0998579197294
+['tractor', 'dollar']	['tractor', 'dollar']	0.0470053215642
+['tractor', 'dollar']	['tractor', 'dollar']	0.234800045662
+['tractor', 'dollar']	['tractor', 'dollar']	0.0233965181914
+['tractor', 'dollar']	['tractor', 'dollar']	0.0432054538143
+['12 dollar', 'dollar']	['12 dollar', 'dollar']	0.0649468769314
+['12 dollar', 'dollar']	['12 dollar', 'dollar']	0.0163246174034
+['12 dollar', 'dollar']	['12 dollar', 'dollar']	0.0157644550909
+['12 dollar', 'dollar']	['12 dollar', 'dollar']	0.057995890231
+['12 dollar', 'dollar']	['12 dollar', 'dollar']	0.036742317069
+['12 dollar', 'dollar']	['12 dollar', 'dollar']	0.050174214207
+['income', 'dollar']	['income', 'dollar']	0.0477825092991
+['income', 'dollar']	['income', 'dollar']	0.0986757773289
+['income', 'dollar']	['income', 'dollar']	0.0571969912938
+['income', 'dollar']	['income', 'dollar']	0.0477825092991
+['income', 'dollar']	['income', 'dollar']	0.00847248349399
+['income', 'dollar']	['income', 'dollar']	0.0439826415492
+['week', 'dollar']	['week', 'dollar']	0.0379279315299
+['week', 'dollar']	['week', 'dollar']	0.100026063357
+['week', 'dollar']	['week', 'dollar']	0.0233965181914
+['week', 'dollar']	['week', 'dollar']	0.0379279315299
+['week', 'dollar']	['week', 'dollar']	0.207092052419
+['week', 'dollar']	['week', 'dollar']	0.0355640306749
+['416 dollar', 'dollar']	['416 dollar', 'dollar']	0.052503693148
+['416 dollar', 'dollar']	['416 dollar', 'dollar']	0.0163246174034
+['416 dollar', 'dollar']	['416 dollar', 'dollar']	0.0157644550909
+['416 dollar', 'dollar']	['416 dollar', 'dollar']	0.052503693148
+['416 dollar', 'dollar']	['416 dollar', 'dollar']	0.057995890231
+['416 dollar', 'dollar']	['416 dollar', 'dollar']	0.036742317069
+['10 dollar', '12 dollar']	['10 dollar', '12 dollar']	0.0480737349111
+['10 dollar', '12 dollar']	['10 dollar', '12 dollar']	0.0835308030293
+['10 dollar', '12 dollar']	['10 dollar', '12 dollar']	0.0177086275967
+['10 dollar', '12 dollar']	['10 dollar', '12 dollar']	0.207135603763
+['10 dollar', '12 dollar']	['10 dollar', '12 dollar']	0.0679872930292
+['10 dollar', '12 dollar']	['10 dollar', '12 dollar']	0.629369170797
+['hour', '12 dollar']	['hour', '12 dollar']	0.106068431277
+['hour', '12 dollar']	['hour', '12 dollar']	0.0205372929947
+['hour', '12 dollar']	['hour', '12 dollar']	0.0527887336629
+['hour', '12 dollar']	['hour', '12 dollar']	0.0286687594743
+['hour', '12 dollar']	['hour', '12 dollar']	0.00704763466313
+['hour', '12 dollar']	['hour', '12 dollar']	0.0974208046642
+['tractor', '12 dollar']	['tractor', '12 dollar']	0.129769333522
+['tractor', '12 dollar']	['tractor', '12 dollar']	0.015693537617
+['tractor', '12 dollar']	['tractor', '12 dollar']	0.057486901978
+['tractor', '12 dollar']	['tractor', '12 dollar']	0.123344388243
+['tractor', '12 dollar']	['tractor', '12 dollar']	0.0717412633578
+['tractor', '12 dollar']	['tractor', '12 dollar']	0.108315255981
+['dollar', '12 dollar']	['dollar', '12 dollar']	0.0649468769314
+['dollar', '12 dollar']	['dollar', '12 dollar']	0.0163246174034
+['dollar', '12 dollar']	['dollar', '12 dollar']	0.0157644550909
+['dollar', '12 dollar']	['dollar', '12 dollar']	0.057995890231
+['dollar', '12 dollar']	['dollar', '12 dollar']	0.036742317069
+['dollar', '12 dollar']	['dollar', '12 dollar']	0.050174214207
+['income', '12 dollar']	['income', '12 dollar']	0.218917904033
+['income', '12 dollar']	['income', '12 dollar']	0.0182028187405
+['income', '12 dollar']	['income', '12 dollar']	0.211210690136
+['income', '12 dollar']	['income', '12 dollar']	0.0514591146175
+['income', '12 dollar']	['income', '12 dollar']	0.043375661798
+['income', '12 dollar']	['income', '12 dollar']	0.206613913844
+['week', '12 dollar']	['week', '12 dollar']	0.075235077019
+['week', '12 dollar']	['week', '12 dollar']	0.00704763466313
+['week', '12 dollar']	['week', '12 dollar']	0.0719158125308
+['week', '12 dollar']	['week', '12 dollar']	0.0636353727642
+['week', '12 dollar']	['week', '12 dollar']	0.058995837707
+['week', '12 dollar']	['week', '12 dollar']	0.0795103424585
+['416 dollar', '12 dollar']	['416 dollar', '12 dollar']	0.639702759795
+['416 dollar', '12 dollar']	['416 dollar', '12 dollar']	0.0480737349111
+['416 dollar', '12 dollar']	['416 dollar', '12 dollar']	0.0835308030293
+['416 dollar', '12 dollar']	['416 dollar', '12 dollar']	0.0205506685967
+['416 dollar', '12 dollar']	['416 dollar', '12 dollar']	0.207135603763
+['416 dollar', '12 dollar']	['416 dollar', '12 dollar']	0.0679872930292
+['10 dollar', 'income']	['10 dollar', 'income']	0.0182028187405
+['10 dollar', 'income']	['10 dollar', 'income']	0.211210690136
+['10 dollar', 'income']	['10 dollar', 'income']	0.0514591146175
+['10 dollar', 'income']	['10 dollar', 'income']	0.218917904033
+['10 dollar', 'income']	['10 dollar', 'income']	0.043375661798
+['10 dollar', 'income']	['10 dollar', 'income']	0.206613913844
+['hour', 'income']	['hour', 'income']	0.0491777008986
+['hour', 'income']	['hour', 'income']	0.0315349736259
+['hour', 'income']	['hour', 'income']	0.0191950019782
+['hour', 'income']	['hour', 'income']	0.0491777008986
+['hour', 'income']	['hour', 'income']	0.103015217205
+['hour', 'income']	['hour', 'income']	0.0491777008986
+['tractor', 'income']	['tractor', 'income']	0.0782856296381
+['tractor', 'income']	['tractor', 'income']	0.0139535113039
+['tractor', 'income']	['tractor', 'income']	0.130391233483
+['tractor', 'income']	['tractor', 'income']	0.0782856296381
+['tractor', 'income']	['tractor', 'income']	0.0233965181914
+['tractor', 'income']	['tractor', 'income']	0.0782856296381
+['dollar', 'income']	['dollar', 'income']	0.0477825092991
+['dollar', 'income']	['dollar', 'income']	0.0986757773289
+['dollar', 'income']	['dollar', 'income']	0.0571969912938
+['dollar', 'income']	['dollar', 'income']	0.0477825092991
+['dollar', 'income']	['dollar', 'income']	0.00847248349399
+['dollar', 'income']	['dollar', 'income']	0.0439826415492
+['12 dollar', 'income']	['12 dollar', 'income']	0.218917904033
+['12 dollar', 'income']	['12 dollar', 'income']	0.0182028187405
+['12 dollar', 'income']	['12 dollar', 'income']	0.211210690136
+['12 dollar', 'income']	['12 dollar', 'income']	0.0514591146175
+['12 dollar', 'income']	['12 dollar', 'income']	0.043375661798
+['12 dollar', 'income']	['12 dollar', 'income']	0.206613913844
+['week', 'income']	['week', 'income']	0.0332277349527
+['week', 'income']	['week', 'income']	0.0771575638833
+['week', 'income']	['week', 'income']	0.0345695028564
+['week', 'income']	['week', 'income']	0.100895760684
+['week', 'income']	['week', 'income']	0.0332277349527
+['week', 'income']	['week', 'income']	0.0332277349527
+['416 dollar', 'income']	['416 dollar', 'income']	0.206613913844
+['416 dollar', 'income']	['416 dollar', 'income']	0.0182028187405
+['416 dollar', 'income']	['416 dollar', 'income']	0.211210690136
+['416 dollar', 'income']	['416 dollar', 'income']	0.00830824481552
+['416 dollar', 'income']	['416 dollar', 'income']	0.206613913844
+['416 dollar', 'income']	['416 dollar', 'income']	0.043375661798
+['10 dollar', 'week']	['10 dollar', 'week']	0.00704763466313
+['10 dollar', 'week']	['10 dollar', 'week']	0.0719158125308
+['10 dollar', 'week']	['10 dollar', 'week']	0.0636353727642
+['10 dollar', 'week']	['10 dollar', 'week']	0.075235077019
+['10 dollar', 'week']	['10 dollar', 'week']	0.058995837707
+['10 dollar', 'week']	['10 dollar', 'week']	0.0795103424585
+['hour', 'week']	['hour', 'week']	0.0276968987592
+['hour', 'week']	['hour', 'week']	0.0233965181914
+['hour', 'week']	['hour', 'week']	0.0453424439956
+['hour', 'week']	['hour', 'week']	0.0276968987592
+['hour', 'week']	['hour', 'week']	0.0911232828504
+['hour', 'week']	['hour', 'week']	0.0276968987592
+['tractor', 'week']	['tractor', 'week']	0.0332277349527
+['tractor', 'week']	['tractor', 'week']	0.0609755384888
+['tractor', 'week']	['tractor', 'week']	0.0417264371295
+['tractor', 'week']	['tractor', 'week']	0.0332277349527
+['tractor', 'week']	['tractor', 'week']	0.0691237034754
+['tractor', 'week']	['tractor', 'week']	0.0332277349527
+['dollar', 'week']	['dollar', 'week']	0.0379279315299
+['dollar', 'week']	['dollar', 'week']	0.100026063357
+['dollar', 'week']	['dollar', 'week']	0.0233965181914
+['dollar', 'week']	['dollar', 'week']	0.0379279315299
+['dollar', 'week']	['dollar', 'week']	0.207092052419
+['dollar', 'week']	['dollar', 'week']	0.0355640306749
+['12 dollar', 'week']	['12 dollar', 'week']	0.075235077019
+['12 dollar', 'week']	['12 dollar', 'week']	0.00704763466313
+['12 dollar', 'week']	['12 dollar', 'week']	0.0719158125308
+['12 dollar', 'week']	['12 dollar', 'week']	0.0636353727642
+['12 dollar', 'week']	['12 dollar', 'week']	0.058995837707
+['12 dollar', 'week']	['12 dollar', 'week']	0.0795103424585
+['income', 'week']	['income', 'week']	0.0332277349527
+['income', 'week']	['income', 'week']	0.0771575638833
+['income', 'week']	['income', 'week']	0.0345695028564
+['income', 'week']	['income', 'week']	0.100895760684
+['income', 'week']	['income', 'week']	0.0332277349527
+['income', 'week']	['income', 'week']	0.0332277349527
+['416 dollar', 'week']	['416 dollar', 'week']	0.0795103424585
+['416 dollar', 'week']	['416 dollar', 'week']	0.00704763466313
+['416 dollar', 'week']	['416 dollar', 'week']	0.0719158125308
+['416 dollar', 'week']	['416 dollar', 'week']	0.0393256766276
+['416 dollar', 'week']	['416 dollar', 'week']	0.0795103424585
+['416 dollar', 'week']	['416 dollar', 'week']	0.058995837707
+['10 dollar', '416 dollar']	['10 dollar', '416 dollar']	0.0480737349111
+['10 dollar', '416 dollar']	['10 dollar', '416 dollar']	0.0835308030293
+['10 dollar', '416 dollar']	['10 dollar', '416 dollar']	0.0205506685967
+['10 dollar', '416 dollar']	['10 dollar', '416 dollar']	0.639702759795
+['10 dollar', '416 dollar']	['10 dollar', '416 dollar']	0.207135603763
+['10 dollar', '416 dollar']	['10 dollar', '416 dollar']	0.0679872930292
+['hour', '416 dollar']	['hour', '416 dollar']	0.0974208046642
+['hour', '416 dollar']	['hour', '416 dollar']	0.0205372929947
+['hour', '416 dollar']	['hour', '416 dollar']	0.0339857510185
+['hour', '416 dollar']	['hour', '416 dollar']	0.0974208046642
+['hour', '416 dollar']	['hour', '416 dollar']	0.0286687594743
+['hour', '416 dollar']	['hour', '416 dollar']	0.00704763466313
+['tractor', '416 dollar']	['tractor', '416 dollar']	0.108315255981
+['tractor', '416 dollar']	['tractor', '416 dollar']	0.015693537617
+['tractor', '416 dollar']	['tractor', '416 dollar']	0.0386839193336
+['tractor', '416 dollar']	['tractor', '416 dollar']	0.108315255981
+['tractor', '416 dollar']	['tractor', '416 dollar']	0.123344388243
+['tractor', '416 dollar']	['tractor', '416 dollar']	0.0717412633578
+['dollar', '416 dollar']	['dollar', '416 dollar']	0.052503693148
+['dollar', '416 dollar']	['dollar', '416 dollar']	0.0163246174034
+['dollar', '416 dollar']	['dollar', '416 dollar']	0.0157644550909
+['dollar', '416 dollar']	['dollar', '416 dollar']	0.052503693148
+['dollar', '416 dollar']	['dollar', '416 dollar']	0.057995890231
+['dollar', '416 dollar']	['dollar', '416 dollar']	0.036742317069
+['12 dollar', '416 dollar']	['12 dollar', '416 dollar']	0.639702759795
+['12 dollar', '416 dollar']	['12 dollar', '416 dollar']	0.0480737349111
+['12 dollar', '416 dollar']	['12 dollar', '416 dollar']	0.0835308030293
+['12 dollar', '416 dollar']	['12 dollar', '416 dollar']	0.0205506685967
+['12 dollar', '416 dollar']	['12 dollar', '416 dollar']	0.207135603763
+['12 dollar', '416 dollar']	['12 dollar', '416 dollar']	0.0679872930292
+['income', '416 dollar']	['income', '416 dollar']	0.206613913844
+['income', '416 dollar']	['income', '416 dollar']	0.0182028187405
+['income', '416 dollar']	['income', '416 dollar']	0.211210690136
+['income', '416 dollar']	['income', '416 dollar']	0.00830824481552
+['income', '416 dollar']	['income', '416 dollar']	0.206613913844
+['income', '416 dollar']	['income', '416 dollar']	0.043375661798
+['week', '416 dollar']	['week', '416 dollar']	0.0795103424585
+['week', '416 dollar']	['week', '416 dollar']	0.00704763466313
+['week', '416 dollar']	['week', '416 dollar']	0.0719158125308
+['week', '416 dollar']	['week', '416 dollar']	0.0393256766276
+['week', '416 dollar']	['week', '416 dollar']	0.0795103424585
+['week', '416 dollar']	['week', '416 dollar']	0.058995837707

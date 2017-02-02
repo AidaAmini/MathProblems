@@ -1,0 +1,108 @@
+(ROOT
+  (S
+    (NP (DT An) (NN embossing) (NN shop))
+    (VP
+      (VBZ etches)
+      (NP (NN metal))
+      (PP (IN with) (NP (NN acid) (NNS solutions))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN owner))
+      (VP
+        (VBZ is)
+        (VP
+          (VBG discussing)
+          (NP (DT a) (JJ certain) (NN job))
+          (PP (IN with) (NP (DT the) (NN job) (NN supervisor))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP
+        (VBP decide)
+        (S
+          (VP
+            (TO to)
+            (VP
+              (VB use)
+              (NP
+                (NP (CD 30) (NNS ounces))
+                (PP
+                  (IN of)
+                  (NP (DT a) (ADJP (CD 40) (NN %)) (NN solution)))))))))
+    (. .)))
+(ROOT
+  (S
+    (S
+      (PP
+        (IN Upon)
+        (S
+          (VP
+            (VBG checking)
+            (NP (DT the) (NN acid) (NN solution) (NNS supplies)))))
+      (, ,)
+      (NP (DT the) (NN supervisor))
+      (VP
+        (VBZ has)
+        (VP
+          (VBN found)
+          (NP
+            (NP
+              (DT some)
+              (ADJP (CD 25) (NN %))
+              (NN acid)
+              (NN solution))
+            (CC and)
+            (NP
+              (DT some)
+              (ADJP (CD 50) (NN %))
+              (NN acid)
+              (NN solution))))))
+    (, ,)
+    (CC but)
+    (S
+      (NP (EX there))
+      (VP
+        (VBZ is)
+        (NP (DT no) (ADJP (CD 40) (NN %)) (NN acid) (NN solution))))
+    (. .)))
+(ROOT
+  (S
+    (NP (DT The) (NN owner))
+    (VP
+      (VBZ explains)
+      (PP (TO to) (NP (DT the) (NN supervisor)))
+      (SBAR
+        (WHADVP (WRB how))
+        (S
+          (NP
+            (DT the)
+            (CD two)
+            (ADJP (VBG existing))
+            (NNS solutions))
+          (VP
+            (MD can)
+            (VP
+              (VB be)
+              (ADJP
+                (VBN mixed)
+                (S
+                  (VP
+                    (TO to)
+                    (VP
+                      (VB obtain)
+                      (NP
+                        (DT a)
+                        (ADJP (CD 40) (NN %))
+                        (NN acid)
+                        (NN solution)))))))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHNP (WRB How) (RB much))
+      (PP (IN of) (NP (DT each) (NN solution))))
+    (SQ (VBZ is) (VP (VBN needed)))
+    (. ?)))

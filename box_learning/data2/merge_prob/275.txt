@@ -1,0 +1,133 @@
+['bank teller', '390 dollar check', '20-dollar bill', 'bill and 50-dollar 50-dollar bill', 'bill', '15 bill']
+['bank teller']	['390 dollar check']	0.0941266761548
+['bank teller']	['20-dollar bill']	0.0897823390711
+['bank teller']	['bill and 50-dollar 50-dollar bill']	0.0912443646678
+['bank teller']	['bill']	0.079730351659
+['bank teller']	['15 bill']	0.0901100077042
+['390 dollar check']	['20-dollar bill']	0.0981211933805
+['390 dollar check']	['bill and 50-dollar 50-dollar bill']	0.104643789417
+['390 dollar check']	['bill']	0.463077113582
+['390 dollar check']	['15 bill']	0.0988755105172
+['20-dollar bill']	['bill and 50-dollar 50-dollar bill']	0.322513943634
+['20-dollar bill']	['15 bill']	0.556137096067
+['bill and 50-dollar 50-dollar bill']	['15 bill']	0.430818039661
+['390 dollar check', 'bank teller']	['20-dollar bill']	0.158859549493
+['390 dollar check', 'bank teller']	['bill and 50-dollar 50-dollar bill']	0.158826356674
+['390 dollar check', 'bank teller']	['bill']	0.612786698997
+['390 dollar check', 'bank teller']	['15 bill']	0.15961386663
+['20-dollar bill', 'bank teller']	['390 dollar check']	0.0828188087803
+['20-dollar bill', 'bank teller']	['bill and 50-dollar 50-dollar bill']	0.444729316308
+['20-dollar bill', 'bank teller']	['bill']	0.56643566412
+['20-dollar bill', 'bank teller']	['15 bill']	0.544221442934
+['bill and 50-dollar 50-dollar bill', 'bank teller']	['390 dollar check']	0.107526100904
+['bill and 50-dollar 50-dollar bill', 'bank teller']	['20-dollar bill']	0.622571119615
+['bill and 50-dollar 50-dollar bill', 'bank teller']	['bill']	0.70417175667
+['bill and 50-dollar 50-dollar bill', 'bank teller']	['15 bill']	0.630956863273
+['bill', 'bank teller']	['390 dollar check']	0.417449587231
+['bill', 'bank teller']	['20-dollar bill']	0.600226976026
+['bill', 'bank teller']	['bill and 50-dollar 50-dollar bill']	0.526220703877
+['bill', 'bank teller']	['15 bill']	0.668684636075
+['15 bill', 'bank teller']	['390 dollar check']	0.0941266761548
+['15 bill', 'bank teller']	['20-dollar bill']	0.577101062223
+['15 bill', 'bank teller']	['bill and 50-dollar 50-dollar bill']	0.432612986675
+['15 bill', 'bank teller']	['bill']	0.596947204296
+['bank teller', '390 dollar check']	['20-dollar bill']	0.158859549493
+['bank teller', '390 dollar check']	['bill and 50-dollar 50-dollar bill']	0.158826356674
+['bank teller', '390 dollar check']	['bill']	0.612786698997
+['bank teller', '390 dollar check']	['15 bill']	0.15961386663
+['20-dollar bill', '390 dollar check']	['bank teller']	0.128877148308
+['20-dollar bill', '390 dollar check']	['bill and 50-dollar 50-dollar bill']	0.537731065248
+['20-dollar bill', '390 dollar check']	['bill']	0.693207093659
+['20-dollar bill', '390 dollar check']	['15 bill']	0.645330407958
+['bill and 50-dollar 50-dollar bill', '390 dollar check']	['bank teller']	0.0988755105172
+['bill and 50-dollar 50-dollar bill', '390 dollar check']	['20-dollar bill']	0.567954588345
+['bill and 50-dollar 50-dollar bill', '390 dollar check']	['bill']	0.64998465501
+['bill and 50-dollar 50-dollar bill', '390 dollar check']	['15 bill']	0.601830528082
+['bill', '390 dollar check']	['bank teller']	0.0696933362217
+['bill', '390 dollar check']	['20-dollar bill']	0.553220629519
+['bill', '390 dollar check']	['bill and 50-dollar 50-dollar bill']	0.485980493533
+['bill', '390 dollar check']	['15 bill']	0.651206717043
+['15 bill', '390 dollar check']	['bank teller']	0.152238479479
+['15 bill', '390 dollar check']	['20-dollar bill']	0.628589638133
+['15 bill', '390 dollar check']	['bill and 50-dollar 50-dollar bill']	0.473184296906
+['15 bill', '390 dollar check']	['bill']	0.781288039195
+['bank teller', '20-dollar bill']	['390 dollar check']	0.0828188087803
+['bank teller', '20-dollar bill']	['bill and 50-dollar 50-dollar bill']	0.444729316308
+['bank teller', '20-dollar bill']	['bill']	0.56643566412
+['bank teller', '20-dollar bill']	['15 bill']	0.544221442934
+['390 dollar check', '20-dollar bill']	['bank teller']	0.128877148308
+['390 dollar check', '20-dollar bill']	['bill and 50-dollar 50-dollar bill']	0.537731065248
+['390 dollar check', '20-dollar bill']	['bill']	0.693207093659
+['390 dollar check', '20-dollar bill']	['15 bill']	0.645330407958
+['bill and 50-dollar 50-dollar bill', '20-dollar bill']	['bank teller']	0.109369378475
+['bill and 50-dollar 50-dollar bill', '20-dollar bill']	['390 dollar check']	0.357228394634
+['bill and 50-dollar 50-dollar bill', '20-dollar bill']	['bill']	0.614267846052
+['bill and 50-dollar 50-dollar bill', '20-dollar bill']	['15 bill']	0.7508926317
+['bill', '20-dollar bill']	['bank teller']	0.195306454053
+['bill', '20-dollar bill']	['390 dollar check']	0.672058300325
+['bill', '20-dollar bill']	['bill and 50-dollar 50-dollar bill']	0.64159832265
+['bill', '20-dollar bill']	['15 bill']	0.79265871615
+['15 bill', '20-dollar bill']	['bank teller']	0.144528281371
+['15 bill', '20-dollar bill']	['390 dollar check']	0.339447680005
+['15 bill', '20-dollar bill']	['bill and 50-dollar 50-dollar bill']	0.424833402852
+['15 bill', '20-dollar bill']	['bill']	0.758540616385
+['bank teller', 'bill and 50-dollar 50-dollar bill']	['390 dollar check']	0.107526100904
+['bank teller', 'bill and 50-dollar 50-dollar bill']	['20-dollar bill']	0.622571119615
+['bank teller', 'bill and 50-dollar 50-dollar bill']	['bill']	0.70417175667
+['bank teller', 'bill and 50-dollar 50-dollar bill']	['15 bill']	0.630956863273
+['390 dollar check', 'bill and 50-dollar 50-dollar bill']	['bank teller']	0.0988755105172
+['390 dollar check', 'bill and 50-dollar 50-dollar bill']	['20-dollar bill']	0.567954588345
+['390 dollar check', 'bill and 50-dollar 50-dollar bill']	['bill']	0.64998465501
+['390 dollar check', 'bill and 50-dollar 50-dollar bill']	['15 bill']	0.601830528082
+['20-dollar bill', 'bill and 50-dollar 50-dollar bill']	['bank teller']	0.109369378475
+['20-dollar bill', 'bill and 50-dollar 50-dollar bill']	['390 dollar check']	0.357228394634
+['20-dollar bill', 'bill and 50-dollar 50-dollar bill']	['bill']	0.614267846052
+['20-dollar bill', 'bill and 50-dollar 50-dollar bill']	['15 bill']	0.7508926317
+['bill', 'bill and 50-dollar 50-dollar bill']	['bank teller']	0.126759848794
+['bill', 'bill and 50-dollar 50-dollar bill']	['390 dollar check']	0.731424162387
+['bill', 'bill and 50-dollar 50-dollar bill']	['20-dollar bill']	0.61455332518
+['bill', 'bill and 50-dollar 50-dollar bill']	['15 bill']	0.761674796225
+['15 bill', 'bill and 50-dollar 50-dollar bill']	['bank teller']	0.142281589132
+['15 bill', 'bill and 50-dollar 50-dollar bill']	['390 dollar check']	0.3242457119
+['15 bill', 'bill and 50-dollar 50-dollar bill']	['20-dollar bill']	0.701228354762
+['15 bill', 'bill and 50-dollar 50-dollar bill']	['bill']	0.794367287536
+['bank teller', 'bill']	['390 dollar check']	0.417449587231
+['bank teller', 'bill']	['20-dollar bill']	0.600226976026
+['bank teller', 'bill']	['bill and 50-dollar 50-dollar bill']	0.526220703877
+['bank teller', 'bill']	['15 bill']	0.668684636075
+['390 dollar check', 'bill']	['bank teller']	0.0696933362217
+['390 dollar check', 'bill']	['20-dollar bill']	0.553220629519
+['390 dollar check', 'bill']	['bill and 50-dollar 50-dollar bill']	0.485980493533
+['390 dollar check', 'bill']	['15 bill']	0.651206717043
+['20-dollar bill', 'bill']	['bank teller']	0.195306454053
+['20-dollar bill', 'bill']	['390 dollar check']	0.672058300325
+['20-dollar bill', 'bill']	['bill and 50-dollar 50-dollar bill']	0.64159832265
+['20-dollar bill', 'bill']	['15 bill']	0.79265871615
+['bill and 50-dollar 50-dollar bill', 'bill']	['bank teller']	0.126759848794
+['bill and 50-dollar 50-dollar bill', 'bill']	['390 dollar check']	0.731424162387
+['bill and 50-dollar 50-dollar bill', 'bill']	['20-dollar bill']	0.61455332518
+['bill and 50-dollar 50-dollar bill', 'bill']	['15 bill']	0.761674796225
+['15 bill', 'bill']	['bank teller']	0.144528281371
+['15 bill', 'bill']	['390 dollar check']	0.660947189214
+['15 bill', 'bill']	['20-dollar bill']	0.67043800229
+['15 bill', 'bill']	['bill and 50-dollar 50-dollar bill']	0.642740423028
+['bank teller', '15 bill']	['390 dollar check']	0.0941266761548
+['bank teller', '15 bill']	['20-dollar bill']	0.577101062223
+['bank teller', '15 bill']	['bill and 50-dollar 50-dollar bill']	0.432612986675
+['bank teller', '15 bill']	['bill']	0.596947204296
+['390 dollar check', '15 bill']	['bank teller']	0.152238479479
+['390 dollar check', '15 bill']	['20-dollar bill']	0.628589638133
+['390 dollar check', '15 bill']	['bill and 50-dollar 50-dollar bill']	0.473184296906
+['390 dollar check', '15 bill']	['bill']	0.781288039195
+['20-dollar bill', '15 bill']	['bank teller']	0.144528281371
+['20-dollar bill', '15 bill']	['390 dollar check']	0.339447680005
+['20-dollar bill', '15 bill']	['bill and 50-dollar 50-dollar bill']	0.424833402852
+['20-dollar bill', '15 bill']	['bill']	0.758540616385
+['bill and 50-dollar 50-dollar bill', '15 bill']	['bank teller']	0.142281589132
+['bill and 50-dollar 50-dollar bill', '15 bill']	['390 dollar check']	0.3242457119
+['bill and 50-dollar 50-dollar bill', '15 bill']	['20-dollar bill']	0.701228354762
+['bill and 50-dollar 50-dollar bill', '15 bill']	['bill']	0.794367287536
+['bill', '15 bill']	['bank teller']	0.144528281371
+['bill', '15 bill']	['390 dollar check']	0.660947189214
+['bill', '15 bill']	['20-dollar bill']	0.67043800229
+['bill', '15 bill']	['bill and 50-dollar 50-dollar bill']	0.642740423028

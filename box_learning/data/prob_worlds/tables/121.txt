@@ -1,0 +1,10 @@
+1
+[['-', '1', 'probability', '-', '-', '-', '-'], ['play', '9*x1', 'probability', '-', '-', '-', '-'], ['do not play', 'x1', 'probability', '-', '-', '-', '-']]
+-1
+[['-', 'x1', 'probability', '-', '-', '-', '-'], ['play', '9*x1', 'probability', '-', '-', '-', '-'], ['do not play', 'x1', 'probability', '-', '-', '-', '-']]
+-1
+[['-', 'x1', 'probability', '-', 'do not play', '-', '-'], ['play', '9*x1', 'probability', '-', '-', '-', '-'], ['do not play', 'x1', 'probability', '-', '-', '-', '-']]
+-1
+[['-', 'do not play', 'probability', '-', '1', '-', '-'], ['play', '9*x1', 'probability', '-', '-', '-', '-'], ['do not play', '1', 'probability', '-', '-', '-', '-']]
+-1
+[['-', 'do not play', 'probability', '-', 'x1', '-', '-'], ['play', '9*x1', 'probability', '-', '-', '-', '-'], ['do not play', 'x1', 'probability', '-', '-', '-', '-']]

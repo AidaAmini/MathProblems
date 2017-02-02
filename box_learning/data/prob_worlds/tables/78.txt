@@ -1,0 +1,16 @@
+1
+[['souvenir', '1000', 'souvenir', '-', '-', 'dollar', '220'], ['20 cent souvenier', 'x1', 'souvenir', 'cent', '20', '-', '-'], ['25 cent souvenier', 'x2', 'souvenir', 'cent', '25', '-', '-']]
+-1
+[['souvenir', '1000', '25 cent souvenier', '-', '-', '25', '220'], ['20 cent souvenier', 'x1', 'souvenir', 'cent', '20', '-', '-'], ['25 cent souvenier', '220', '1000', 'souvenir', '25', 'dollar', '-']]
+-1
+[['cent', '25 cent souvenier', 'souvenir', '1000', '25', 'dollar', '220'], ['20 cent souvenier', 'x1', 'souvenir', 'cent', '20', '-', '-'], ['25 cent souvenier', 'x2', 'souvenir', '1000', '25', '220', '-']]
+-1
+[['souvenir', '1000', '25 cent souvenier', '-', 'x2', 'cent', '220'], ['20 cent souvenier', 'x1', 'souvenir', 'cent', '20', '-', '-'], ['25 cent souvenier', 'x2', '1000', 'cent', '220', '-', 'souvenir']]
+-1
+[['x2', '1000', 'souvenir', '25 cent souvenier', 'cent', 'dollar', '220'], ['20 cent souvenier', 'x1', 'souvenir', 'cent', '20', '-', '-'], ['25 cent souvenier', 'x2', 'souvenir', '1000', 'dollar', '-', '-']]
+-1
+[['25', '1000', 'souvenir', '-', '25 cent souvenier', 'dollar', '220'], ['20 cent souvenier', 'x1', 'souvenir', 'cent', '20', '-', '-'], ['25 cent souvenier', 'x2', 'souvenir', 'cent', '25', '-', '1000']]
+-1
+[['souvenir', 'x2', 'souvenir', '-', '25 cent souvenier', 'dollar', '220'], ['20 cent souvenier', 'x1', 'souvenir', 'cent', '20', '-', '-'], ['25 cent souvenier', 'x2', 'souvenir', 'cent', 'dollar', '-', '-']]
+-1
+[['x2', '25 cent souvenier', 'souvenir', '-', '-', 'dollar', 'cent'], ['20 cent souvenier', 'x1', 'souvenir', 'cent', '20', '-', '-'], ['25 cent souvenier', 'x2', 'souvenir', 'cent', '25', '-', '-']]

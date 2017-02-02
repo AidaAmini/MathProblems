@@ -1,0 +1,14 @@
+1
+[['-', '-', '-', '-', '-', 'mile', '24'], ['travel', '4', 'hour', 'mile', 'x1 + x2', '-', '-'], ['return', '6', 'hour', 'mile', 'x1 - x2', '-', '-']]
+-1
+[['hour', 'x1 - x2', '-', '6', 'mile', 'return', '24'], ['travel', '4', 'hour', 'mile', 'x1 + x2', '-', '-'], ['return', '6', 'hour', 'mile', 'x1 - x2', '-', '-']]
+-1
+[['-', '-', 'hour', '-', 'return', '6', 'x1 - x2'], ['travel', '4', 'hour', 'mile', 'x1 + x2', '-', '-'], ['return', '6', 'hour', 'mile', 'x1 - x2', '-', '-']]
+-1
+[['-', '-', '-', 'mile', 'x1 - x2', '24', 'hour'], ['travel', '4', 'hour', 'mile', 'x1 + x2', '-', '-'], ['return', '6', 'hour', 'mile', 'x1 - x2', '-', '24']]
+-1
+[['-', 'hour', '-', '6', 'return', 'x1 - x2', '24'], ['travel', '4', 'hour', 'mile', 'x1 + x2', '-', '-'], ['return', '6', 'hour', 'mile', 'x1 - x2', '-', '-']]
+-1
+[['-', 'return', '-', '-', '-', 'mile', 'x1 - x2'], ['travel', '4', 'hour', 'mile', 'x1 + x2', '-', '-'], ['return', '6', 'hour', 'mile', 'x1 - x2', '-', '-']]
+-1
+[['6', '-', 'return', '-', '-', 'mile', '24'], ['travel', '4', 'hour', 'mile', 'x1 + x2', '-', '-'], ['return', '6', '24', 'mile', 'x1 - x2', '-', '-']]

@@ -1,0 +1,46 @@
+(ROOT
+  (S
+    (NP
+      (NP (NNP River) (NNP Joes) (POS 's))
+      (NNP Seafood)
+      (NNP Diner))
+    (VP
+      (VBZ charges)
+      (NP
+        (NP
+          (NP (CD 6.00) (NNS dollars))
+          (PP (IN for) (NP (DT a) (NN catfish) (NN dinner))))
+        (CC and)
+        (NP
+          (NP (CD 3.50) (NNS dollars))
+          (PP
+            (IN for)
+            (NP
+              (NP (DT an) (NN order))
+              (PP (IN of) (NP (NN popcorn) (NN shrimp))))))))
+    (. .)))
+(ROOT
+  (S
+    (PP (IN After) (S (VP (VBG filling) (NP (CD 26) (NNS orders)))))
+    (, ,)
+    (NP (NN River) (NNP Joe))
+    (VP
+      (VBD had)
+      (VP (VBN collected) (NP (CD 133.50) (NNS dollars))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP
+      (WHADJP (WRB How) (JJ many))
+      (NP
+        (NP (NNS orders))
+        (PP
+          (IN of)
+          (NP
+            (NN popcorn)
+            (NN shrimp)
+            (CC and)
+            (NN catfish)
+            (NNS dinners)))))
+    (SQ (VBD did) (NP (PRP they)) (VP (VB sell)))
+    (. ?)))

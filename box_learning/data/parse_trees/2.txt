@@ -1,0 +1,50 @@
+(ROOT
+  (S
+    (NP (DT A) (NN store))
+    (VP
+      (VBZ is)
+      (VP
+        (VBG selling)
+        (NP (JJ compact) (NNS discs))
+        (PP
+          (IN for)
+          (NP
+            (NP (CD 10.50) (NNS dollars))
+            (CC and)
+            (NP (CD 8.50) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP
+      (VP (VBP buy) (NP (CD 10) (NNS discs)))
+      (CC and)
+      (VP
+        (VB spend)
+        (NP
+          (NP (DT a) (NN total))
+          (PP (IN of) (NP (CD 93) (NNS dollars))))))
+    (. .)))
+(ROOT
+  (SBARQ
+    (WHNP (WHADJP (WRB How) (JJ many)) (JJ compact) (NNS discs))
+    (SQ
+      (VBD did)
+      (NP (PRP you))
+      (VP
+        (VB buy)
+        (NP (DT that) (NN cost))
+        (NP (CD 10.50) (NNS dollars))))
+    (. ?)))
+(ROOT
+  (SBARQ
+    (WHADJP (WRB How) (JJ many))
+    (SQ
+      (VBD did)
+      (NP (PRP you))
+      (VP
+        (VB buy)
+        (SBAR
+          (IN that)
+          (FRAG (NP-TMP (NP (NN cost)) (NP (CD 8.50) (NNS dollars)))))))
+    (. ?)))

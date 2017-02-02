@@ -1,0 +1,762 @@
+['two plane', 'chicago', 'opposite direction', 'direction', '40 mile', 'hour', 'mile', '2000 mile', '5 hour', 'average speed']
+['two plane']	['chicago']	0.0800606621439
+['two plane']	['opposite direction']	0.0827346205535
+['two plane']	['direction']	0.0744376594044
+['two plane']	['40 mile']	0.125971854627
+['two plane']	['hour']	0.0143499502517
+['two plane']	['mile']	0.0143499502517
+['two plane']	['2000 mile']	0.0901100077042
+['two plane']	['5 hour']	0.387929093691
+['two plane']	['average speed']	0.0827346205535
+['chicago']	['opposite direction']	0.113735274413
+['chicago']	['direction']	0.104660021814
+['chicago']	['40 mile']	0.0827346205535
+['chicago']	['hour']	0.0212464283393
+['chicago']	['mile']	0.0499894600545
+['chicago']	['2000 mile']	0.0827346205535
+['chicago']	['5 hour']	0.0827346205535
+['chicago']	['average speed']	0.0793857959237
+['opposite direction']	['40 mile']	0.0827346205535
+['opposite direction']	['hour']	0.0152046511064
+['opposite direction']	['mile']	0.0143499502517
+['opposite direction']	['2000 mile']	0.0901100077042
+['opposite direction']	['5 hour']	0.0827346205535
+['opposite direction']	['average speed']	0.0816612840118
+['direction']	['40 mile']	0.0793857959237
+['direction']	['hour']	0.0348865190937
+['direction']	['mile']	0.0348865190937
+['direction']	['2000 mile']	0.0793857959237
+['direction']	['5 hour']	0.0854147342737
+['direction']	['average speed']	0.0816612840118
+['40 mile']	['hour']	0.0152046511064
+['40 mile']	['2000 mile']	0.643440930505
+['40 mile']	['5 hour']	0.125971854627
+['40 mile']	['average speed']	0.0827346205535
+['hour']	['mile']	0.267745279664
+['hour']	['2000 mile']	0.0210030001796
+['hour']	['average speed']	0.0134816326582
+['mile']	['5 hour']	0.0210030001796
+['mile']	['average speed']	0.0134143751808
+['2000 mile']	['5 hour']	0.0827768707468
+['2000 mile']	['average speed']	0.0827768707468
+['5 hour']	['average speed']	0.0754014835962
+['chicago', 'two plane']	['opposite direction']	0.112105754693
+['chicago', 'two plane']	['direction']	0.32376942094
+['chicago', 'two plane']	['40 mile']	0.138180177454
+['chicago', 'two plane']	['hour']	0.015105617758
+['chicago', 'two plane']	['mile']	0.108856390882
+['chicago', 'two plane']	['2000 mile']	0.0827346205535
+['chicago', 'two plane']	['5 hour']	0.422016612763
+['chicago', 'two plane']	['average speed']	0.0827346205535
+['opposite direction', 'two plane']	['chicago']	0.11881013493
+['opposite direction', 'two plane']	['direction']	0.619446836723
+['opposite direction', 'two plane']	['40 mile']	0.151505567125
+['opposite direction', 'two plane']	['hour']	0.0241538718203
+['opposite direction', 'two plane']	['mile']	0.0143499502517
+['opposite direction', 'two plane']	['2000 mile']	0.0901100077042
+['opposite direction', 'two plane']	['5 hour']	0.417194081899
+['opposite direction', 'two plane']	['average speed']	0.0800317642921
+['direction', 'two plane']	['chicago']	0.266512184964
+['direction', 'two plane']	['opposite direction']	0.71455110167
+['direction', 'two plane']	['40 mile']	0.142114993124
+['direction', 'two plane']	['hour']	0.349073037322
+['direction', 'two plane']	['mile']	0.359246197495
+['direction', 'two plane']	['2000 mile']	0.0827346205535
+['direction', 'two plane']	['5 hour']	0.431974313041
+['direction', 'two plane']	['average speed']	0.0800317642921
+['40 mile', 'two plane']	['chicago']	0.0800606621439
+['40 mile', 'two plane']	['opposite direction']	0.0827346205535
+['40 mile', 'two plane']	['direction']	0.0744376594044
+['40 mile', 'two plane']	['hour']	0.0241538718203
+['40 mile', 'two plane']	['mile']	0.388108272712
+['40 mile', 'two plane']	['2000 mile']	0.584269096576
+['40 mile', 'two plane']	['5 hour']	0.423364656264
+['40 mile', 'two plane']	['average speed']	0.0827346205535
+['hour', 'two plane']	['chicago']	0.0336002518467
+['hour', 'two plane']	['opposite direction']	0.0406236052701
+['hour', 'two plane']	['direction']	0.461903993858
+['hour', 'two plane']	['40 mile']	0.0728979913451
+['hour', 'two plane']	['mile']	0.525599181654
+['hour', 'two plane']	['2000 mile']	0.0319482784682
+['hour', 'two plane']	['5 hour']	0.606755921943
+['hour', 'two plane']	['average speed']	0.0319482784682
+['mile', 'two plane']	['chicago']	0.0959821534309
+['mile', 'two plane']	['opposite direction']	0.0362241866398
+['mile', 'two plane']	['direction']	0.471573052869
+['mile', 'two plane']	['40 mile']	0.534447259735
+['mile', 'two plane']	['hour']	0.525599181654
+['mile', 'two plane']	['2000 mile']	0.453771221265
+['mile', 'two plane']	['5 hour']	0.310121640573
+['mile', 'two plane']	['average speed']	0.0319482784682
+['2000 mile', 'two plane']	['chicago']	0.0800606621439
+['2000 mile', 'two plane']	['opposite direction']	0.0827346205535
+['2000 mile', 'two plane']	['direction']	0.0744376594044
+['2000 mile', 'two plane']	['40 mile']	0.604308352538
+['2000 mile', 'two plane']	['hour']	0.0532014050756
+['2000 mile', 'two plane']	['mile']	0.466591639922
+['2000 mile', 'two plane']	['5 hour']	0.343558532514
+['2000 mile', 'two plane']	['average speed']	0.0754014835962
+['5 hour', 'two plane']	['chicago']	0.0800606621439
+['5 hour', 'two plane']	['opposite direction']	0.0827346205535
+['5 hour', 'two plane']	['direction']	0.0965714169067
+['5 hour', 'two plane']	['40 mile']	0.23079127262
+['5 hour', 'two plane']	['hour']	0.419681906609
+['5 hour', 'two plane']	['mile']	0.0132014050756
+['5 hour', 'two plane']	['2000 mile']	0.0827768707468
+['5 hour', 'two plane']	['average speed']	0.0754014835962
+['average speed', 'two plane']	['chicago']	0.0777864840342
+['average speed', 'two plane']	['opposite direction']	0.0827346205535
+['average speed', 'two plane']	['direction']	0.0829886173223
+['average speed', 'two plane']	['40 mile']	0.126675736021
+['average speed', 'two plane']	['hour']	0.0132014050756
+['average speed', 'two plane']	['mile']	0.0132014050756
+['average speed', 'two plane']	['2000 mile']	0.0827768707468
+['average speed', 'two plane']	['5 hour']	0.343558532514
+['two plane', 'chicago']	['opposite direction']	0.112105754693
+['two plane', 'chicago']	['direction']	0.32376942094
+['two plane', 'chicago']	['40 mile']	0.138180177454
+['two plane', 'chicago']	['hour']	0.015105617758
+['two plane', 'chicago']	['mile']	0.108856390882
+['two plane', 'chicago']	['2000 mile']	0.0827346205535
+['two plane', 'chicago']	['5 hour']	0.422016612763
+['two plane', 'chicago']	['average speed']	0.0827346205535
+['opposite direction', 'chicago']	['two plane']	0.0827346205535
+['opposite direction', 'chicago']	['direction']	0.7131975278
+['opposite direction', 'chicago']	['40 mile']	0.0827346205535
+['opposite direction', 'chicago']	['hour']	0.0159603186127
+['opposite direction', 'chicago']	['mile']	0.108856390882
+['opposite direction', 'chicago']	['2000 mile']	0.0827346205535
+['opposite direction', 'chicago']	['5 hour']	0.0827346205535
+['opposite direction', 'chicago']	['average speed']	0.0800317642921
+['direction', 'chicago']	['two plane']	0.0800317642921
+['direction', 'chicago']	['opposite direction']	0.722486910176
+['direction', 'chicago']	['40 mile']	0.0827346205535
+['direction', 'chicago']	['hour']	0.260474790664
+['direction', 'chicago']	['mile']	0.231443260503
+['direction', 'chicago']	['2000 mile']	0.0827346205535
+['direction', 'chicago']	['5 hour']	0.083785214554
+['direction', 'chicago']	['average speed']	0.0800317642921
+['40 mile', 'chicago']	['two plane']	0.138180177454
+['40 mile', 'chicago']	['opposite direction']	0.112105754693
+['40 mile', 'chicago']	['direction']	0.32863955081
+['40 mile', 'chicago']	['hour']	0.0159603186127
+['40 mile', 'chicago']	['mile']	0.660720066506
+['40 mile', 'chicago']	['2000 mile']	0.536185985805
+['40 mile', 'chicago']	['5 hour']	0.138180177454
+['40 mile', 'chicago']	['average speed']	0.0827346205535
+['hour', 'chicago']	['two plane']	0.0368701550083
+['hour', 'chicago']	['opposite direction']	0.0601385805065
+['hour', 'chicago']	['direction']	0.183967586917
+['hour', 'chicago']	['40 mile']	0.0368701550083
+['hour', 'chicago']	['mile']	0.313683406109
+['hour', 'chicago']	['2000 mile']	0.0320155359456
+['hour', 'chicago']	['5 hour']	0.429565728125
+['hour', 'chicago']	['average speed']	0.0320155359456
+['mile', 'chicago']	['two plane']	0.0361569291624
+['mile', 'chicago']	['opposite direction']	0.0572262385911
+['mile', 'chicago']	['direction']	0.188333615625
+['mile', 'chicago']	['40 mile']	0.391516700063
+['mile', 'chicago']	['hour']	0.378342040647
+['mile', 'chicago']	['2000 mile']	0.459432039979
+['mile', 'chicago']	['5 hour']	0.0320155359456
+['mile', 'chicago']	['average speed']	0.0320155359456
+['2000 mile', 'chicago']	['two plane']	0.0827346205535
+['2000 mile', 'chicago']	['opposite direction']	0.112105754693
+['2000 mile', 'chicago']	['direction']	0.32863955081
+['2000 mile', 'chicago']	['40 mile']	0.536185985805
+['2000 mile', 'chicago']	['hour']	0.0214784401032
+['2000 mile', 'chicago']	['mile']	0.654433507165
+['2000 mile', 'chicago']	['5 hour']	0.0754014835962
+['2000 mile', 'chicago']	['average speed']	0.0754014835962
+['5 hour', 'chicago']	['two plane']	0.422016612763
+['5 hour', 'chicago']	['opposite direction']	0.112105754693
+['5 hour', 'chicago']	['direction']	0.384258881532
+['5 hour', 'chicago']	['40 mile']	0.138180177454
+['5 hour', 'chicago']	['hour']	0.603560733994
+['5 hour', 'chicago']	['mile']	0.0842349012606
+['5 hour', 'chicago']	['2000 mile']	0.0754014835962
+['5 hour', 'chicago']	['average speed']	0.0754014835962
+['average speed', 'chicago']	['two plane']	0.0827346205535
+['average speed', 'chicago']	['opposite direction']	0.112105754693
+['average speed', 'chicago']	['direction']	0.35357706335
+['average speed', 'chicago']	['40 mile']	0.0827346205535
+['average speed', 'chicago']	['hour']	0.0139570725819
+['average speed', 'chicago']	['mile']	0.0766462762618
+['average speed', 'chicago']	['2000 mile']	0.0754014835962
+['average speed', 'chicago']	['5 hour']	0.0754014835962
+['two plane', 'opposite direction']	['chicago']	0.11881013493
+['two plane', 'opposite direction']	['direction']	0.619446836723
+['two plane', 'opposite direction']	['40 mile']	0.151505567125
+['two plane', 'opposite direction']	['hour']	0.0241538718203
+['two plane', 'opposite direction']	['mile']	0.0143499502517
+['two plane', 'opposite direction']	['2000 mile']	0.0901100077042
+['two plane', 'opposite direction']	['5 hour']	0.417194081899
+['two plane', 'opposite direction']	['average speed']	0.0800317642921
+['chicago', 'opposite direction']	['two plane']	0.0827346205535
+['chicago', 'opposite direction']	['direction']	0.7131975278
+['chicago', 'opposite direction']	['40 mile']	0.0827346205535
+['chicago', 'opposite direction']	['hour']	0.0159603186127
+['chicago', 'opposite direction']	['mile']	0.108856390882
+['chicago', 'opposite direction']	['2000 mile']	0.0827346205535
+['chicago', 'opposite direction']	['5 hour']	0.0827346205535
+['chicago', 'opposite direction']	['average speed']	0.0800317642921
+['direction', 'opposite direction']	['two plane']	0.235828704155
+['direction', 'opposite direction']	['chicago']	0.663637684515
+['direction', 'opposite direction']	['40 mile']	0.241577755594
+['direction', 'opposite direction']	['hour']	0.538858343932
+['direction', 'opposite direction']	['mile']	0.446476662307
+['direction', 'opposite direction']	['2000 mile']	0.237223524492
+['direction', 'opposite direction']	['5 hour']	0.222067982475
+['direction', 'opposite direction']	['average speed']	0.247364848582
+['40 mile', 'opposite direction']	['two plane']	0.151505567125
+['40 mile', 'opposite direction']	['chicago']	0.11881013493
+['40 mile', 'opposite direction']	['direction']	0.612081485761
+['40 mile', 'opposite direction']	['hour']	0.0152046511064
+['40 mile', 'opposite direction']	['mile']	0.388108272712
+['40 mile', 'opposite direction']	['2000 mile']	0.584269096576
+['40 mile', 'opposite direction']	['5 hour']	0.151505567125
+['40 mile', 'opposite direction']	['average speed']	0.0800317642921
+['hour', 'opposite direction']	['two plane']	0.0368701550083
+['hour', 'opposite direction']	['chicago']	0.11354367893
+['hour', 'opposite direction']	['direction']	0.547121591307
+['hour', 'opposite direction']	['40 mile']	0.0368701550083
+['hour', 'opposite direction']	['mile']	0.525599181654
+['hour', 'opposite direction']	['2000 mile']	0.0319482784682
+['hour', 'opposite direction']	['5 hour']	0.429565728125
+['hour', 'opposite direction']	['average speed']	0.0320155359456
+['mile', 'opposite direction']	['two plane']	0.0362241866398
+['mile', 'opposite direction']	['chicago']	0.209258913848
+['mile', 'opposite direction']	['direction']	0.551982702418
+['mile', 'opposite direction']	['40 mile']	0.391516700063
+['mile', 'opposite direction']	['hour']	0.626453882509
+['mile', 'opposite direction']	['2000 mile']	0.453771221265
+['mile', 'opposite direction']	['5 hour']	0.0320155359456
+['mile', 'opposite direction']	['average speed']	0.0320155359456
+['2000 mile', 'opposite direction']	['two plane']	0.0827346205535
+['2000 mile', 'opposite direction']	['chicago']	0.11881013493
+['2000 mile', 'opposite direction']	['direction']	0.612081485761
+['2000 mile', 'opposite direction']	['40 mile']	0.549852778125
+['2000 mile', 'opposite direction']	['hour']	0.0207227725969
+['2000 mile', 'opposite direction']	['mile']	0.466591639922
+['2000 mile', 'opposite direction']	['5 hour']	0.0754014835962
+['2000 mile', 'opposite direction']	['average speed']	0.117804899195
+['5 hour', 'opposite direction']	['two plane']	0.417194081899
+['5 hour', 'opposite direction']	['chicago']	0.11881013493
+['5 hour', 'opposite direction']	['direction']	0.689644934024
+['5 hour', 'opposite direction']	['40 mile']	0.151505567125
+['5 hour', 'opposite direction']	['hour']	0.443491430419
+['5 hour', 'opposite direction']	['mile']	0.0132014050756
+['5 hour', 'opposite direction']	['2000 mile']	0.0827768707468
+['5 hour', 'opposite direction']	['average speed']	0.114456074566
+['average speed', 'opposite direction']	['two plane']	0.0827346205535
+['average speed', 'opposite direction']	['chicago']	0.11881013493
+['average speed', 'opposite direction']	['direction']	0.689644934024
+['average speed', 'opposite direction']	['40 mile']	0.0827346205535
+['average speed', 'opposite direction']	['hour']	0.0198680717422
+['average speed', 'opposite direction']	['mile']	0.0132014050756
+['average speed', 'opposite direction']	['2000 mile']	0.0827768707468
+['average speed', 'opposite direction']	['5 hour']	0.0754014835962
+['two plane', 'direction']	['chicago']	0.266512184964
+['two plane', 'direction']	['opposite direction']	0.71455110167
+['two plane', 'direction']	['40 mile']	0.142114993124
+['two plane', 'direction']	['hour']	0.349073037322
+['two plane', 'direction']	['mile']	0.359246197495
+['two plane', 'direction']	['2000 mile']	0.0827346205535
+['two plane', 'direction']	['5 hour']	0.431974313041
+['two plane', 'direction']	['average speed']	0.0800317642921
+['chicago', 'direction']	['two plane']	0.0800317642921
+['chicago', 'direction']	['opposite direction']	0.722486910176
+['chicago', 'direction']	['40 mile']	0.0827346205535
+['chicago', 'direction']	['hour']	0.260474790664
+['chicago', 'direction']	['mile']	0.231443260503
+['chicago', 'direction']	['2000 mile']	0.0827346205535
+['chicago', 'direction']	['5 hour']	0.083785214554
+['chicago', 'direction']	['average speed']	0.0800317642921
+['opposite direction', 'direction']	['two plane']	0.235828704155
+['opposite direction', 'direction']	['chicago']	0.663637684515
+['opposite direction', 'direction']	['40 mile']	0.241577755594
+['opposite direction', 'direction']	['hour']	0.538858343932
+['opposite direction', 'direction']	['mile']	0.446476662307
+['opposite direction', 'direction']	['2000 mile']	0.237223524492
+['opposite direction', 'direction']	['5 hour']	0.222067982475
+['opposite direction', 'direction']	['average speed']	0.247364848582
+['40 mile', 'direction']	['two plane']	0.142114993124
+['40 mile', 'direction']	['chicago']	0.266512184964
+['40 mile', 'direction']	['opposite direction']	0.71455110167
+['40 mile', 'direction']	['hour']	0.397461212454
+['40 mile', 'direction']	['mile']	0.687345343996
+['40 mile', 'direction']	['2000 mile']	0.538007739106
+['40 mile', 'direction']	['5 hour']	0.143560257577
+['40 mile', 'direction']	['average speed']	0.0800317642921
+['hour', 'direction']	['two plane']	0.0368701550083
+['hour', 'direction']	['chicago']	0.191659353272
+['hour', 'direction']	['opposite direction']	0.348928835886
+['hour', 'direction']	['40 mile']	0.0368701550083
+['hour', 'direction']	['mile']	0.305990391433
+['hour', 'direction']	['2000 mile']	0.0320155359456
+['hour', 'direction']	['5 hour']	0.524407498445
+['hour', 'direction']	['average speed']	0.0320155359456
+['mile', 'direction']	['two plane']	0.0368701550083
+['mile', 'direction']	['chicago']	0.196692976641
+['mile', 'direction']	['opposite direction']	0.345399931471
+['mile', 'direction']	['40 mile']	0.452298826701
+['mile', 'direction']	['hour']	0.305990391433
+['mile', 'direction']	['2000 mile']	0.552375041047
+['mile', 'direction']	['5 hour']	0.0453479947896
+['mile', 'direction']	['average speed']	0.0320155359456
+['2000 mile', 'direction']	['two plane']	0.0833805889219
+['2000 mile', 'direction']	['chicago']	0.266512184964
+['2000 mile', 'direction']	['opposite direction']	0.707594685938
+['2000 mile', 'direction']	['40 mile']	0.538007739106
+['2000 mile', 'direction']	['hour']	0.33609757609
+['2000 mile', 'direction']	['mile']	0.693973817335
+['2000 mile', 'direction']	['5 hour']	0.121558349457
+['2000 mile', 'direction']	['average speed']	0.117804899195
+['5 hour', 'direction']	['two plane']	0.426675167742
+['5 hour', 'direction']	['chicago']	0.266512184964
+['5 hour', 'direction']	['opposite direction']	0.71455110167
+['5 hour', 'direction']	['40 mile']	0.142114993124
+['5 hour', 'direction']	['hour']	0.654719391693
+['5 hour', 'direction']	['mile']	0.369430909424
+['5 hour', 'direction']	['2000 mile']	0.0754014835962
+['5 hour', 'direction']	['average speed']	0.114456074566
+['average speed', 'direction']	['two plane']	0.0833805889219
+['average speed', 'direction']	['chicago']	0.32863955081
+['average speed', 'direction']	['opposite direction']	0.707594685938
+['average speed', 'direction']	['40 mile']	0.0827346205535
+['average speed', 'direction']	['hour']	0.268576208569
+['average speed', 'direction']	['mile']	0.268508951091
+['average speed', 'direction']	['2000 mile']	0.0754014835962
+['average speed', 'direction']	['5 hour']	0.121558349457
+['two plane', '40 mile']	['chicago']	0.0800606621439
+['two plane', '40 mile']	['opposite direction']	0.0827346205535
+['two plane', '40 mile']	['direction']	0.0744376594044
+['two plane', '40 mile']	['hour']	0.0241538718203
+['two plane', '40 mile']	['mile']	0.388108272712
+['two plane', '40 mile']	['2000 mile']	0.584269096576
+['two plane', '40 mile']	['5 hour']	0.423364656264
+['two plane', '40 mile']	['average speed']	0.0827346205535
+['chicago', '40 mile']	['two plane']	0.138180177454
+['chicago', '40 mile']	['opposite direction']	0.112105754693
+['chicago', '40 mile']	['direction']	0.32863955081
+['chicago', '40 mile']	['hour']	0.0159603186127
+['chicago', '40 mile']	['mile']	0.660720066506
+['chicago', '40 mile']	['2000 mile']	0.536185985805
+['chicago', '40 mile']	['5 hour']	0.138180177454
+['chicago', '40 mile']	['average speed']	0.0827346205535
+['opposite direction', '40 mile']	['two plane']	0.151505567125
+['opposite direction', '40 mile']	['chicago']	0.11881013493
+['opposite direction', '40 mile']	['direction']	0.612081485761
+['opposite direction', '40 mile']	['hour']	0.0152046511064
+['opposite direction', '40 mile']	['mile']	0.388108272712
+['opposite direction', '40 mile']	['2000 mile']	0.584269096576
+['opposite direction', '40 mile']	['5 hour']	0.151505567125
+['opposite direction', '40 mile']	['average speed']	0.0800317642921
+['direction', '40 mile']	['two plane']	0.142114993124
+['direction', '40 mile']	['chicago']	0.266512184964
+['direction', '40 mile']	['opposite direction']	0.71455110167
+['direction', '40 mile']	['hour']	0.397461212454
+['direction', '40 mile']	['mile']	0.687345343996
+['direction', '40 mile']	['2000 mile']	0.538007739106
+['direction', '40 mile']	['5 hour']	0.143560257577
+['direction', '40 mile']	['average speed']	0.0800317642921
+['hour', '40 mile']	['two plane']	0.0714527268925
+['hour', '40 mile']	['chicago']	0.0336002518467
+['hour', '40 mile']	['opposite direction']	0.0406236052701
+['hour', '40 mile']	['direction']	0.466774123728
+['hour', '40 mile']	['mile']	0.767656573397
+['hour', '40 mile']	['2000 mile']	0.174398945293
+['hour', '40 mile']	['5 hour']	0.580042163011
+['hour', '40 mile']	['average speed']	0.0319482784682
+['mile', '40 mile']	['two plane']	0.21050983166
+['mile', '40 mile']	['chicago']	0.288399542797
+['mile', '40 mile']	['opposite direction']	0.183265110295
+['mile', '40 mile']	['direction']	0.552459748245
+['mile', '40 mile']	['hour']	0.699573540629
+['mile', '40 mile']	['2000 mile']	0.626327735176
+['mile', '40 mile']	['5 hour']	0.181774894923
+['mile', '40 mile']	['average speed']	0.10460536154
+['2000 mile', '40 mile']	['two plane']	0.264907405557
+['2000 mile', '40 mile']	['chicago']	0.334330087138
+['2000 mile', '40 mile']	['opposite direction']	0.176486909159
+['2000 mile', '40 mile']	['direction']	0.360804929274
+['2000 mile', '40 mile']	['hour']	0.224667462439
+['2000 mile', '40 mile']	['mile']	0.632010433126
+['2000 mile', '40 mile']	['5 hour']	0.206750944666
+['2000 mile', '40 mile']	['average speed']	0.13575299876
+['5 hour', '40 mile']	['two plane']	0.423364656264
+['5 hour', '40 mile']	['chicago']	0.0800606621439
+['5 hour', '40 mile']	['opposite direction']	0.0827346205535
+['5 hour', '40 mile']	['direction']	0.0891388738307
+['5 hour', '40 mile']	['hour']	0.443491430419
+['5 hour', '40 mile']	['mile']	0.41451299412
+['5 hour', '40 mile']	['2000 mile']	0.584269096576
+['5 hour', '40 mile']	['average speed']	0.0754014835962
+['average speed', '40 mile']	['two plane']	0.126675736021
+['average speed', '40 mile']	['chicago']	0.0777864840342
+['average speed', '40 mile']	['opposite direction']	0.0827346205535
+['average speed', '40 mile']	['direction']	0.0744376594044
+['average speed', '40 mile']	['hour']	0.0132014050756
+['average speed', '40 mile']	['mile']	0.388108272712
+['average speed', '40 mile']	['2000 mile']	0.584269096576
+['average speed', '40 mile']	['5 hour']	0.168227004275
+['two plane', 'hour']	['chicago']	0.0336002518467
+['two plane', 'hour']	['opposite direction']	0.0406236052701
+['two plane', 'hour']	['direction']	0.461903993858
+['two plane', 'hour']	['40 mile']	0.0728979913451
+['two plane', 'hour']	['mile']	0.525599181654
+['two plane', 'hour']	['2000 mile']	0.0319482784682
+['two plane', 'hour']	['5 hour']	0.606755921943
+['two plane', 'hour']	['average speed']	0.0319482784682
+['chicago', 'hour']	['two plane']	0.0368701550083
+['chicago', 'hour']	['opposite direction']	0.0601385805065
+['chicago', 'hour']	['direction']	0.183967586917
+['chicago', 'hour']	['40 mile']	0.0368701550083
+['chicago', 'hour']	['mile']	0.313683406109
+['chicago', 'hour']	['2000 mile']	0.0320155359456
+['chicago', 'hour']	['5 hour']	0.429565728125
+['chicago', 'hour']	['average speed']	0.0320155359456
+['opposite direction', 'hour']	['two plane']	0.0368701550083
+['opposite direction', 'hour']	['chicago']	0.11354367893
+['opposite direction', 'hour']	['direction']	0.547121591307
+['opposite direction', 'hour']	['40 mile']	0.0368701550083
+['opposite direction', 'hour']	['mile']	0.525599181654
+['opposite direction', 'hour']	['2000 mile']	0.0319482784682
+['opposite direction', 'hour']	['5 hour']	0.429565728125
+['opposite direction', 'hour']	['average speed']	0.0320155359456
+['direction', 'hour']	['two plane']	0.0368701550083
+['direction', 'hour']	['chicago']	0.191659353272
+['direction', 'hour']	['opposite direction']	0.348928835886
+['direction', 'hour']	['40 mile']	0.0368701550083
+['direction', 'hour']	['mile']	0.305990391433
+['direction', 'hour']	['2000 mile']	0.0320155359456
+['direction', 'hour']	['5 hour']	0.524407498445
+['direction', 'hour']	['average speed']	0.0320155359456
+['40 mile', 'hour']	['two plane']	0.0714527268925
+['40 mile', 'hour']	['chicago']	0.0336002518467
+['40 mile', 'hour']	['opposite direction']	0.0406236052701
+['40 mile', 'hour']	['direction']	0.466774123728
+['40 mile', 'hour']	['mile']	0.767656573397
+['40 mile', 'hour']	['2000 mile']	0.174398945293
+['40 mile', 'hour']	['5 hour']	0.580042163011
+['40 mile', 'hour']	['average speed']	0.0319482784682
+['mile', 'hour']	['two plane']	0.0819859443486
+['mile', 'hour']	['chicago']	0.107317636687
+['mile', 'hour']	['opposite direction']	0.0819859443486
+['mile', 'hour']	['direction']	0.0993680237905
+['mile', 'hour']	['40 mile']	0.476446737755
+['mile', 'hour']	['2000 mile']	0.517002373177
+['mile', 'hour']	['5 hour']	0.497666549042
+['mile', 'hour']	['average speed']	0.0793926318186
+['2000 mile', 'hour']	['two plane']	0.0368028975308
+['2000 mile', 'hour']	['chicago']	0.0336002518467
+['2000 mile', 'hour']	['opposite direction']	0.0405563477927
+['2000 mile', 'hour']	['direction']	0.466774123728
+['2000 mile', 'hour']	['40 mile']	0.160671266721
+['2000 mile', 'hour']	['mile']	0.768810950938
+['2000 mile', 'hour']	['5 hour']	0.429565728125
+['2000 mile', 'hour']	['average speed']	0.0319482784682
+['5 hour', 'hour']	['two plane']	0.556009941538
+['5 hour', 'hour']	['chicago']	0.239984737929
+['5 hour', 'hour']	['opposite direction']	0.163755337176
+['5 hour', 'hour']	['direction']	0.615462898798
+['5 hour', 'hour']	['40 mile']	0.230679323185
+['5 hour', 'hour']	['mile']	0.699573540629
+['5 hour', 'hour']	['2000 mile']	0.128544373117
+['5 hour', 'hour']	['average speed']	0.114509285397
+['average speed', 'hour']	['two plane']	0.0368028975308
+['average speed', 'hour']	['chicago']	0.0336675093242
+['average speed', 'hour']	['opposite direction']	0.0405563477927
+['average speed', 'hour']	['direction']	0.480913637917
+['average speed', 'hour']	['40 mile']	0.0368028975308
+['average speed', 'hour']	['mile']	0.492265848321
+['average speed', 'hour']	['2000 mile']	0.0319482784682
+['average speed', 'hour']	['5 hour']	0.429565728125
+['two plane', 'mile']	['chicago']	0.0959821534309
+['two plane', 'mile']	['opposite direction']	0.0362241866398
+['two plane', 'mile']	['direction']	0.471573052869
+['two plane', 'mile']	['40 mile']	0.534447259735
+['two plane', 'mile']	['hour']	0.525599181654
+['two plane', 'mile']	['2000 mile']	0.453771221265
+['two plane', 'mile']	['5 hour']	0.310121640573
+['two plane', 'mile']	['average speed']	0.0319482784682
+['chicago', 'mile']	['two plane']	0.0361569291624
+['chicago', 'mile']	['opposite direction']	0.0572262385911
+['chicago', 'mile']	['direction']	0.188333615625
+['chicago', 'mile']	['40 mile']	0.391516700063
+['chicago', 'mile']	['hour']	0.378342040647
+['chicago', 'mile']	['2000 mile']	0.459432039979
+['chicago', 'mile']	['5 hour']	0.0320155359456
+['chicago', 'mile']	['average speed']	0.0320155359456
+['opposite direction', 'mile']	['two plane']	0.0362241866398
+['opposite direction', 'mile']	['chicago']	0.209258913848
+['opposite direction', 'mile']	['direction']	0.551982702418
+['opposite direction', 'mile']	['40 mile']	0.391516700063
+['opposite direction', 'mile']	['hour']	0.626453882509
+['opposite direction', 'mile']	['2000 mile']	0.453771221265
+['opposite direction', 'mile']	['5 hour']	0.0320155359456
+['opposite direction', 'mile']	['average speed']	0.0320155359456
+['direction', 'mile']	['two plane']	0.0368701550083
+['direction', 'mile']	['chicago']	0.196692976641
+['direction', 'mile']	['opposite direction']	0.345399931471
+['direction', 'mile']	['40 mile']	0.452298826701
+['direction', 'mile']	['hour']	0.305990391433
+['direction', 'mile']	['2000 mile']	0.552375041047
+['direction', 'mile']	['5 hour']	0.0453479947896
+['direction', 'mile']	['average speed']	0.0320155359456
+['40 mile', 'mile']	['two plane']	0.21050983166
+['40 mile', 'mile']	['chicago']	0.288399542797
+['40 mile', 'mile']	['opposite direction']	0.183265110295
+['40 mile', 'mile']	['direction']	0.552459748245
+['40 mile', 'mile']	['hour']	0.699573540629
+['40 mile', 'mile']	['2000 mile']	0.626327735176
+['40 mile', 'mile']	['5 hour']	0.181774894923
+['40 mile', 'mile']	['average speed']	0.10460536154
+['hour', 'mile']	['two plane']	0.0819859443486
+['hour', 'mile']	['chicago']	0.107317636687
+['hour', 'mile']	['opposite direction']	0.0819859443486
+['hour', 'mile']	['direction']	0.0993680237905
+['hour', 'mile']	['40 mile']	0.476446737755
+['hour', 'mile']	['2000 mile']	0.517002373177
+['hour', 'mile']	['5 hour']	0.497666549042
+['hour', 'mile']	['average speed']	0.0793926318186
+['2000 mile', 'mile']	['two plane']	0.183197852817
+['2000 mile', 'mile']	['chicago']	0.288399542797
+['2000 mile', 'mile']	['opposite direction']	0.183197852817
+['2000 mile', 'mile']	['direction']	0.552459748245
+['2000 mile', 'mile']	['40 mile']	0.638178477636
+['2000 mile', 'mile']	['hour']	0.699573540629
+['2000 mile', 'mile']	['5 hour']	0.128544373117
+['2000 mile', 'mile']	['average speed']	0.10460536154
+['5 hour', 'mile']	['two plane']	0.315033653242
+['5 hour', 'mile']	['chicago']	0.0959821534309
+['5 hour', 'mile']	['opposite direction']	0.0362241866398
+['5 hour', 'mile']	['direction']	0.516898486402
+['5 hour', 'mile']	['40 mile']	0.534447259735
+['5 hour', 'mile']	['hour']	0.758127953868
+['5 hour', 'mile']	['2000 mile']	0.453771221265
+['5 hour', 'mile']	['average speed']	0.0319482784682
+['average speed', 'mile']	['two plane']	0.0361569291624
+['average speed', 'mile']	['chicago']	0.128192268051
+['average speed', 'mile']	['opposite direction']	0.0361569291624
+['average speed', 'mile']	['direction']	0.490582696928
+['average speed', 'mile']	['40 mile']	0.391516700063
+['average speed', 'mile']	['hour']	0.525599181654
+['average speed', 'mile']	['2000 mile']	0.453771221265
+['average speed', 'mile']	['5 hour']	0.0319482784682
+['two plane', '2000 mile']	['chicago']	0.0800606621439
+['two plane', '2000 mile']	['opposite direction']	0.0827346205535
+['two plane', '2000 mile']	['direction']	0.0744376594044
+['two plane', '2000 mile']	['40 mile']	0.604308352538
+['two plane', '2000 mile']	['hour']	0.0532014050756
+['two plane', '2000 mile']	['mile']	0.466591639922
+['two plane', '2000 mile']	['5 hour']	0.343558532514
+['two plane', '2000 mile']	['average speed']	0.0754014835962
+['chicago', '2000 mile']	['two plane']	0.0827346205535
+['chicago', '2000 mile']	['opposite direction']	0.112105754693
+['chicago', '2000 mile']	['direction']	0.32863955081
+['chicago', '2000 mile']	['40 mile']	0.536185985805
+['chicago', '2000 mile']	['hour']	0.0214784401032
+['chicago', '2000 mile']	['mile']	0.654433507165
+['chicago', '2000 mile']	['5 hour']	0.0754014835962
+['chicago', '2000 mile']	['average speed']	0.0754014835962
+['opposite direction', '2000 mile']	['two plane']	0.0827346205535
+['opposite direction', '2000 mile']	['chicago']	0.11881013493
+['opposite direction', '2000 mile']	['direction']	0.612081485761
+['opposite direction', '2000 mile']	['40 mile']	0.549852778125
+['opposite direction', '2000 mile']	['hour']	0.0207227725969
+['opposite direction', '2000 mile']	['mile']	0.466591639922
+['opposite direction', '2000 mile']	['5 hour']	0.0754014835962
+['opposite direction', '2000 mile']	['average speed']	0.117804899195
+['direction', '2000 mile']	['two plane']	0.0833805889219
+['direction', '2000 mile']	['chicago']	0.266512184964
+['direction', '2000 mile']	['opposite direction']	0.707594685938
+['direction', '2000 mile']	['40 mile']	0.538007739106
+['direction', '2000 mile']	['hour']	0.33609757609
+['direction', '2000 mile']	['mile']	0.693973817335
+['direction', '2000 mile']	['5 hour']	0.121558349457
+['direction', '2000 mile']	['average speed']	0.117804899195
+['40 mile', '2000 mile']	['two plane']	0.264907405557
+['40 mile', '2000 mile']	['chicago']	0.334330087138
+['40 mile', '2000 mile']	['opposite direction']	0.176486909159
+['40 mile', '2000 mile']	['direction']	0.360804929274
+['40 mile', '2000 mile']	['hour']	0.224667462439
+['40 mile', '2000 mile']	['mile']	0.632010433126
+['40 mile', '2000 mile']	['5 hour']	0.206750944666
+['40 mile', '2000 mile']	['average speed']	0.13575299876
+['hour', '2000 mile']	['two plane']	0.0368028975308
+['hour', '2000 mile']	['chicago']	0.0336002518467
+['hour', '2000 mile']	['opposite direction']	0.0405563477927
+['hour', '2000 mile']	['direction']	0.466774123728
+['hour', '2000 mile']	['40 mile']	0.160671266721
+['hour', '2000 mile']	['mile']	0.768810950938
+['hour', '2000 mile']	['5 hour']	0.429565728125
+['hour', '2000 mile']	['average speed']	0.0319482784682
+['mile', '2000 mile']	['two plane']	0.183197852817
+['mile', '2000 mile']	['chicago']	0.288399542797
+['mile', '2000 mile']	['opposite direction']	0.183197852817
+['mile', '2000 mile']	['direction']	0.552459748245
+['mile', '2000 mile']	['40 mile']	0.638178477636
+['mile', '2000 mile']	['hour']	0.699573540629
+['mile', '2000 mile']	['5 hour']	0.128544373117
+['mile', '2000 mile']	['average speed']	0.10460536154
+['5 hour', '2000 mile']	['two plane']	0.362256416006
+['5 hour', '2000 mile']	['chicago']	0.0800606621439
+['5 hour', '2000 mile']	['opposite direction']	0.0827346205535
+['5 hour', '2000 mile']	['direction']	0.0891388738307
+['5 hour', '2000 mile']	['40 mile']	0.604308352538
+['5 hour', '2000 mile']	['hour']	0.443491430419
+['5 hour', '2000 mile']	['mile']	0.487693331026
+['5 hour', '2000 mile']	['average speed']	0.0754014835962
+['average speed', '2000 mile']	['two plane']	0.0901100077042
+['average speed', '2000 mile']	['chicago']	0.0777864840342
+['average speed', '2000 mile']	['opposite direction']	0.0901100077042
+['average speed', '2000 mile']	['direction']	0.0744376594044
+['average speed', '2000 mile']	['40 mile']	0.584269096576
+['average speed', '2000 mile']	['hour']	0.0132014050756
+['average speed', '2000 mile']	['mile']	0.466591639922
+['average speed', '2000 mile']	['5 hour']	0.0827768707468
+['two plane', '5 hour']	['chicago']	0.0800606621439
+['two plane', '5 hour']	['opposite direction']	0.0827346205535
+['two plane', '5 hour']	['direction']	0.0965714169067
+['two plane', '5 hour']	['40 mile']	0.23079127262
+['two plane', '5 hour']	['hour']	0.419681906609
+['two plane', '5 hour']	['mile']	0.0132014050756
+['two plane', '5 hour']	['2000 mile']	0.0827768707468
+['two plane', '5 hour']	['average speed']	0.0754014835962
+['chicago', '5 hour']	['two plane']	0.422016612763
+['chicago', '5 hour']	['opposite direction']	0.112105754693
+['chicago', '5 hour']	['direction']	0.384258881532
+['chicago', '5 hour']	['40 mile']	0.138180177454
+['chicago', '5 hour']	['hour']	0.603560733994
+['chicago', '5 hour']	['mile']	0.0842349012606
+['chicago', '5 hour']	['2000 mile']	0.0754014835962
+['chicago', '5 hour']	['average speed']	0.0754014835962
+['opposite direction', '5 hour']	['two plane']	0.417194081899
+['opposite direction', '5 hour']	['chicago']	0.11881013493
+['opposite direction', '5 hour']	['direction']	0.689644934024
+['opposite direction', '5 hour']	['40 mile']	0.151505567125
+['opposite direction', '5 hour']	['hour']	0.443491430419
+['opposite direction', '5 hour']	['mile']	0.0132014050756
+['opposite direction', '5 hour']	['2000 mile']	0.0827768707468
+['opposite direction', '5 hour']	['average speed']	0.114456074566
+['direction', '5 hour']	['two plane']	0.426675167742
+['direction', '5 hour']	['chicago']	0.266512184964
+['direction', '5 hour']	['opposite direction']	0.71455110167
+['direction', '5 hour']	['40 mile']	0.142114993124
+['direction', '5 hour']	['hour']	0.654719391693
+['direction', '5 hour']	['mile']	0.369430909424
+['direction', '5 hour']	['2000 mile']	0.0754014835962
+['direction', '5 hour']	['average speed']	0.114456074566
+['40 mile', '5 hour']	['two plane']	0.423364656264
+['40 mile', '5 hour']	['chicago']	0.0800606621439
+['40 mile', '5 hour']	['opposite direction']	0.0827346205535
+['40 mile', '5 hour']	['direction']	0.0891388738307
+['40 mile', '5 hour']	['hour']	0.443491430419
+['40 mile', '5 hour']	['mile']	0.41451299412
+['40 mile', '5 hour']	['2000 mile']	0.584269096576
+['40 mile', '5 hour']	['average speed']	0.0754014835962
+['hour', '5 hour']	['two plane']	0.556009941538
+['hour', '5 hour']	['chicago']	0.239984737929
+['hour', '5 hour']	['opposite direction']	0.163755337176
+['hour', '5 hour']	['direction']	0.615462898798
+['hour', '5 hour']	['40 mile']	0.230679323185
+['hour', '5 hour']	['mile']	0.699573540629
+['hour', '5 hour']	['2000 mile']	0.128544373117
+['hour', '5 hour']	['average speed']	0.114509285397
+['mile', '5 hour']	['two plane']	0.315033653242
+['mile', '5 hour']	['chicago']	0.0959821534309
+['mile', '5 hour']	['opposite direction']	0.0362241866398
+['mile', '5 hour']	['direction']	0.516898486402
+['mile', '5 hour']	['40 mile']	0.534447259735
+['mile', '5 hour']	['hour']	0.758127953868
+['mile', '5 hour']	['2000 mile']	0.453771221265
+['mile', '5 hour']	['average speed']	0.0319482784682
+['2000 mile', '5 hour']	['two plane']	0.362256416006
+['2000 mile', '5 hour']	['chicago']	0.0800606621439
+['2000 mile', '5 hour']	['opposite direction']	0.0827346205535
+['2000 mile', '5 hour']	['direction']	0.0891388738307
+['2000 mile', '5 hour']	['40 mile']	0.604308352538
+['2000 mile', '5 hour']	['hour']	0.443491430419
+['2000 mile', '5 hour']	['mile']	0.487693331026
+['2000 mile', '5 hour']	['average speed']	0.0754014835962
+['average speed', '5 hour']	['two plane']	0.362256416006
+['average speed', '5 hour']	['chicago']	0.0777864840342
+['average speed', '5 hour']	['opposite direction']	0.0827346205535
+['average speed', '5 hour']	['direction']	0.0896499787083
+['average speed', '5 hour']	['40 mile']	0.126675736021
+['average speed', '5 hour']	['hour']	0.419681906609
+['average speed', '5 hour']	['mile']	0.0132014050756
+['average speed', '5 hour']	['2000 mile']	0.0827768707468
+['two plane', 'average speed']	['chicago']	0.0777864840342
+['two plane', 'average speed']	['opposite direction']	0.0827346205535
+['two plane', 'average speed']	['direction']	0.0829886173223
+['two plane', 'average speed']	['40 mile']	0.126675736021
+['two plane', 'average speed']	['hour']	0.0132014050756
+['two plane', 'average speed']	['mile']	0.0132014050756
+['two plane', 'average speed']	['2000 mile']	0.0827768707468
+['two plane', 'average speed']	['5 hour']	0.343558532514
+['chicago', 'average speed']	['two plane']	0.0827346205535
+['chicago', 'average speed']	['opposite direction']	0.112105754693
+['chicago', 'average speed']	['direction']	0.35357706335
+['chicago', 'average speed']	['40 mile']	0.0827346205535
+['chicago', 'average speed']	['hour']	0.0139570725819
+['chicago', 'average speed']	['mile']	0.0766462762618
+['chicago', 'average speed']	['2000 mile']	0.0754014835962
+['chicago', 'average speed']	['5 hour']	0.0754014835962
+['opposite direction', 'average speed']	['two plane']	0.0827346205535
+['opposite direction', 'average speed']	['chicago']	0.11881013493
+['opposite direction', 'average speed']	['direction']	0.689644934024
+['opposite direction', 'average speed']	['40 mile']	0.0827346205535
+['opposite direction', 'average speed']	['hour']	0.0198680717422
+['opposite direction', 'average speed']	['mile']	0.0132014050756
+['opposite direction', 'average speed']	['2000 mile']	0.0827768707468
+['opposite direction', 'average speed']	['5 hour']	0.0754014835962
+['direction', 'average speed']	['two plane']	0.0833805889219
+['direction', 'average speed']	['chicago']	0.32863955081
+['direction', 'average speed']	['opposite direction']	0.707594685938
+['direction', 'average speed']	['40 mile']	0.0827346205535
+['direction', 'average speed']	['hour']	0.268576208569
+['direction', 'average speed']	['mile']	0.268508951091
+['direction', 'average speed']	['2000 mile']	0.0754014835962
+['direction', 'average speed']	['5 hour']	0.121558349457
+['40 mile', 'average speed']	['two plane']	0.126675736021
+['40 mile', 'average speed']	['chicago']	0.0777864840342
+['40 mile', 'average speed']	['opposite direction']	0.0827346205535
+['40 mile', 'average speed']	['direction']	0.0744376594044
+['40 mile', 'average speed']	['hour']	0.0132014050756
+['40 mile', 'average speed']	['mile']	0.388108272712
+['40 mile', 'average speed']	['2000 mile']	0.584269096576
+['40 mile', 'average speed']	['5 hour']	0.168227004275
+['hour', 'average speed']	['two plane']	0.0368028975308
+['hour', 'average speed']	['chicago']	0.0336675093242
+['hour', 'average speed']	['opposite direction']	0.0405563477927
+['hour', 'average speed']	['direction']	0.480913637917
+['hour', 'average speed']	['40 mile']	0.0368028975308
+['hour', 'average speed']	['mile']	0.492265848321
+['hour', 'average speed']	['2000 mile']	0.0319482784682
+['hour', 'average speed']	['5 hour']	0.429565728125
+['mile', 'average speed']	['two plane']	0.0361569291624
+['mile', 'average speed']	['chicago']	0.128192268051
+['mile', 'average speed']	['opposite direction']	0.0361569291624
+['mile', 'average speed']	['direction']	0.490582696928
+['mile', 'average speed']	['40 mile']	0.391516700063
+['mile', 'average speed']	['hour']	0.525599181654
+['mile', 'average speed']	['2000 mile']	0.453771221265
+['mile', 'average speed']	['5 hour']	0.0319482784682
+['2000 mile', 'average speed']	['two plane']	0.0901100077042
+['2000 mile', 'average speed']	['chicago']	0.0777864840342
+['2000 mile', 'average speed']	['opposite direction']	0.0901100077042
+['2000 mile', 'average speed']	['direction']	0.0744376594044
+['2000 mile', 'average speed']	['40 mile']	0.584269096576
+['2000 mile', 'average speed']	['hour']	0.0132014050756
+['2000 mile', 'average speed']	['mile']	0.466591639922
+['2000 mile', 'average speed']	['5 hour']	0.0827768707468
+['5 hour', 'average speed']	['two plane']	0.362256416006
+['5 hour', 'average speed']	['chicago']	0.0777864840342
+['5 hour', 'average speed']	['opposite direction']	0.0827346205535
+['5 hour', 'average speed']	['direction']	0.0896499787083
+['5 hour', 'average speed']	['40 mile']	0.126675736021
+['5 hour', 'average speed']	['hour']	0.419681906609
+['5 hour', 'average speed']	['mile']	0.0132014050756
+['5 hour', 'average speed']	['2000 mile']	0.0827768707468

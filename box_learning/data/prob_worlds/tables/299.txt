@@ -1,0 +1,10 @@
+1
+[['textbook', '-', '-', 'dollar', '55', '-', '-'], ['textbook', '-', '-', 'dolllar', '44', '-', '-'], ['profit', '-', '-', 'dollar', 'x1', '-', '-']]
+-1
+[['textbook', '-', '-', 'dollar', '55', '-', '-'], ['textbook', '-', '-', 'dolllar', '44', '-', '-'], ['textbook', '-', '-', 'dollar', '55', '-', '-']]
+-1
+[['profit', '-', '-', 'dollar', 'x1', '-', '-'], ['textbook', '-', '-', 'dolllar', '44', '-', '-'], ['profit', '-', '-', 'dollar', 'x1', '-', '-']]
+-1
+[['textbook', '-', 'dollar', 'profit', 'x1', '-', '-'], ['textbook', '-', '-', 'dolllar', '44', '-', '-'], ['profit', '-', '-', 'dollar', 'x1', '-', 'textbook']]
+-1
+[['textbook', '-', '-', 'dollar', '55', 'profit', '-'], ['textbook', '-', '-', 'dolllar', '44', '-', '-'], ['profit', 'dollar', '-', 'textbook', 'x1', '-', '55']]

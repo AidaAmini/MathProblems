@@ -1,0 +1,14 @@
+1
+[['book', '9', 'book', '-', '-', 'dollar', '56'], ['6-dollar book', 'x1', '-', 'dollar', '6', '-', '-'], ['6.50-dollar book', 'x2', '-', 'dollar', '6.5', '-', '-']]
+-1
+[['x2', '9', '6.5', '-', '6.50-dollar book', 'dollar', '56'], ['6-dollar book', 'x1', '-', 'dollar', '6', '-', '-'], ['6.50-dollar book', 'x2', '-', '9', '6.5', '-', '-']]
+-1
+[['book', '9', 'book', '-', '6.50-dollar book', 'dollar', 'x2'], ['6-dollar book', 'x1', '-', 'dollar', '6', '-', '-'], ['6.50-dollar book', 'x2', '-', 'dollar', '6.5', '9', '-']]
+-1
+[['6.5', '9', 'book', '-', '-', 'dollar', '56'], ['6-dollar book', 'x1', '-', 'dollar', '6', '-', '-'], ['book', 'x2', '-', 'dollar', '6.5', '56', '-']]
+-1
+[['book', '6.50-dollar book', 'book', '-', '6.5', 'dollar', '56'], ['6-dollar book', 'x1', '-', 'dollar', '6', '-', '-'], ['6.50-dollar book', 'x2', 'book', 'dollar', '6.5', '-', '56']]
+-1
+[['book', '9', 'book', '6.50-dollar book', '-', 'dollar', 'x2'], ['6-dollar book', 'x1', '-', 'dollar', '6', '-', '-'], ['6.50-dollar book', '9', 'x2', 'book', '6.5', '-', '-']]
+-1
+[['book', '9', 'book', '6.5', '-', 'dollar', '56'], ['6-dollar book', 'x1', '-', 'dollar', '6', '-', '-'], ['book', 'x2', '-', 'dollar', '6.5', '56', '-']]

@@ -1,0 +1,14 @@
+1
+[['two point basket and three point basket', '20', '-', '-', '-', 'point', '43'], ['two point basket', 'x1', '-', 'point', '2', '-', '-'], ['three point basket', 'x2', '-', 'point', '3', '-', '-']]
+-1
+[['two point basket and three point basket', 'three point basket', '-', '-', '-', 'point', 'x2'], ['two point basket', 'x1', '-', 'point', '2', '-', '-'], ['three point basket', 'x2', '-', 'two point basket and three point basket', '3', '-', '-']]
+-1
+[['3', '20', '-', '-', '-', 'point', '43'], ['two point basket', 'x1', '-', 'point', '2', '-', '-'], ['43', '20', '-', 'point', '3', '-', '-']]
+-1
+[['two point basket and three point basket', '20', '3', 'x2', '-', 'three point basket', '43'], ['two point basket', 'x1', '-', 'point', '2', '-', '-'], ['three point basket', 'x2', '-', '43', '3', '20', '-']]
+-1
+[['two point basket and three point basket', '20', 'three point basket', '-', '-', 'point', '3'], ['two point basket', 'x1', '-', 'point', '2', '-', '-'], ['three point basket', 'two point basket and three point basket', '43', 'point', '3', '-', '-']]
+-1
+[['two point basket and three point basket', '20', '-', '-', '3', 'point', '43'], ['two point basket', 'x1', '-', 'point', '2', '-', '-'], ['three point basket', '43', '-', 'point', '3', '20', 'two point basket and three point basket']]
+-1
+[['three point basket', '20', '-', '-', '-', 'point', '43'], ['two point basket', 'x1', '-', 'point', '2', '-', '-'], ['three point basket', '20', '-', '43', '3', '-', '-']]

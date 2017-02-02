@@ -1,0 +1,68 @@
+['mother house', '234 mile away', 'nearest tenth mile', 'mile', 'tenth mile']
+['mother house']	['234 mile away']	0.0828188087803
+['mother house']	['nearest tenth mile']	0.0828188087803
+['mother house']	['mile']	0.0131607977652
+['mother house']	['tenth mile']	0.0737139440912
+['234 mile away']	['nearest tenth mile']	0.107526100904
+['234 mile away']	['mile']	0.0436494497824
+['234 mile away']	['tenth mile']	0.0988755105172
+['234 mile away', 'mother house']	['nearest tenth mile']	0.139124709385
+['234 mile away', 'mother house']	['mile']	0.199721958127
+['234 mile away', 'mother house']	['tenth mile']	0.128877148308
+['nearest tenth mile', 'mother house']	['234 mile away']	0.139124709385
+['nearest tenth mile', 'mother house']	['mile']	0.305934821531
+['nearest tenth mile', 'mother house']	['tenth mile']	0.645330407958
+['mile', 'mother house']	['234 mile away']	0.196714390551
+['mile', 'mother house']	['nearest tenth mile']	0.36096446353
+['mile', 'mother house']	['tenth mile']	0.423574257389
+['tenth mile', 'mother house']	['234 mile away']	0.0828188087803
+['tenth mile', 'mother house']	['nearest tenth mile']	0.580830939755
+['tenth mile', 'mother house']	['mile']	0.290039360078
+['mother house', '234 mile away']	['nearest tenth mile']	0.139124709385
+['mother house', '234 mile away']	['mile']	0.199721958127
+['mother house', '234 mile away']	['tenth mile']	0.128877148308
+['nearest tenth mile', '234 mile away']	['mother house']	0.0981211933805
+['nearest tenth mile', '234 mile away']	['mile']	0.348853138137
+['nearest tenth mile', '234 mile away']	['tenth mile']	0.630956863273
+['mile', '234 mile away']	['mother house']	0.0410900054728
+['mile', '234 mile away']	['nearest tenth mile']	0.297890521968
+['mile', '234 mile away']	['tenth mile']	0.398766565081
+['tenth mile', '234 mile away']	['mother house']	0.151484162343
+['tenth mile', '234 mile away']	['nearest tenth mile']	0.689142469169
+['tenth mile', '234 mile away']	['mile']	0.417843344482
+['mother house', 'nearest tenth mile']	['234 mile away']	0.139124709385
+['mother house', 'nearest tenth mile']	['mile']	0.305934821531
+['mother house', 'nearest tenth mile']	['tenth mile']	0.645330407958
+['234 mile away', 'nearest tenth mile']	['mother house']	0.0981211933805
+['234 mile away', 'nearest tenth mile']	['mile']	0.348853138137
+['234 mile away', 'nearest tenth mile']	['tenth mile']	0.630956863273
+['mile', 'nearest tenth mile']	['mother house']	0.102800264439
+['mile', 'nearest tenth mile']	['234 mile away']	0.454557131881
+['mile', 'nearest tenth mile']	['tenth mile']	0.651444345207
+['tenth mile', 'nearest tenth mile']	['mother house']	0.21223852408
+['tenth mile', 'nearest tenth mile']	['234 mile away']	0.355412406141
+['tenth mile', 'nearest tenth mile']	['mile']	0.702200883081
+['mother house', 'mile']	['234 mile away']	0.196714390551
+['mother house', 'mile']	['nearest tenth mile']	0.36096446353
+['mother house', 'mile']	['tenth mile']	0.423574257389
+['234 mile away', 'mile']	['mother house']	0.0410900054728
+['234 mile away', 'mile']	['nearest tenth mile']	0.297890521968
+['234 mile away', 'mile']	['tenth mile']	0.398766565081
+['nearest tenth mile', 'mile']	['mother house']	0.102800264439
+['nearest tenth mile', 'mile']	['234 mile away']	0.454557131881
+['nearest tenth mile', 'mile']	['tenth mile']	0.651444345207
+['tenth mile', 'mile']	['mother house']	0.103856602467
+['tenth mile', 'mile']	['234 mile away']	0.447280136576
+['tenth mile', 'mile']	['nearest tenth mile']	0.553107047164
+['mother house', 'tenth mile']	['234 mile away']	0.0828188087803
+['mother house', 'tenth mile']	['nearest tenth mile']	0.580830939755
+['mother house', 'tenth mile']	['mile']	0.290039360078
+['234 mile away', 'tenth mile']	['mother house']	0.151484162343
+['234 mile away', 'tenth mile']	['nearest tenth mile']	0.689142469169
+['234 mile away', 'tenth mile']	['mile']	0.417843344482
+['nearest tenth mile', 'tenth mile']	['mother house']	0.21223852408
+['nearest tenth mile', 'tenth mile']	['234 mile away']	0.355412406141
+['nearest tenth mile', 'tenth mile']	['mile']	0.702200883081
+['mile', 'tenth mile']	['mother house']	0.103856602467
+['mile', 'tenth mile']	['234 mile away']	0.447280136576
+['mile', 'tenth mile']	['nearest tenth mile']	0.553107047164
